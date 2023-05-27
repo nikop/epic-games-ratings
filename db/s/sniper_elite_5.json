@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1542,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-05-27T02:05:31.8682235+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T03:07:10.9088465+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1594,9 +1599,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1628,7 +1633,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1716,7 +1721,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1754,9 +1759,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1772,7 +1777,7 @@
       "Name": "Resourceful",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1884,7 +1889,7 @@
       "Name": "Change the Channel",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2050,9 +2055,9 @@
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
       "SetID": "83mdf7p",
       "Name": "Ghost of Falaise",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -2115,13 +2120,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1489,
+      "Progressed": 1493,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1542,
       "Completed": 2
     }
   ],
@@ -2129,8 +2134,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:31.868223+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:07:10.908846+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:00:35.395505+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:31.8682822+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:02:07.3011763+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:07:10.9089434+00:00"
 }

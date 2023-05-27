@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 854,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
@@ -698,9 +698,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 547
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:25.5515269+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:06:53.5204957+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:58:16.3972854+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:25.5515391+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:59:24.1761502+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:06:53.520512+00:00"
 }

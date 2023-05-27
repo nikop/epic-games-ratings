@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-05-27T02:05:30.5095002+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T03:06:59.5580306+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -666,7 +671,7 @@
       "Name": "Worldwalker",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -690,7 +695,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -810,7 +815,7 @@
       "Name": "Legends Never Die",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -850,7 +855,7 @@
       "Name": "In Soil, In Smoke",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "completedStory_ecthis",
@@ -906,7 +911,7 @@
       "Name": "A Hunger, Sated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -914,7 +919,7 @@
       "Name": "Wingknight\u0027s Prowess",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -922,7 +927,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -946,7 +951,7 @@
       "Name": "Turncoat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -1073,15 +1078,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:30.5094997+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:06:59.5580304+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:00:38.6045301+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:30.5095398+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:02:10.8684307+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:06:59.5581132+00:00"
 }

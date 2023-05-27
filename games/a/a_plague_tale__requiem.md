@@ -5,17 +5,17 @@ Rating: 4.73 (Ranked 156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~9,828 |
-| Newcomers | 78.00% | ~8,333 |
+| Under a New Sun | 92.00% | ~9,829 |
+| Newcomers | 78.00% | ~8,334 |
 | A Burden of Blood | 73.00% | ~7,799 |
-| Protector's Duty | 69.00% | ~7,371 |
+| Protector's Duty | 69.00% | ~7,372 |
 | Alchemist | 67.00% | ~7,158 |
 | In our Wake | 66.00% | ~7,051 |
-| Leaving all Behind | 63.00% | ~6,730 |
+| Leaving all Behind | 63.00% | ~6,731 |
 | Felons | 60.00% | ~6,410 |
-| A Sea of Promises | 59.00% | ~6,303 |
+| A Sea of Promises | 59.00% | ~6,304 |
 | Tales and Revelations | 55.00% | ~5,876 |
-| Bloodline | 51.00% | ~5,448 |
+| Bloodline | 50.00% | ~5,342 |
 | The Cradle of Centuries | 47.00% | ~5,021 |
 | The Life We Deserve | 44.00% | ~4,701 |
 | Night guard | 42.00% | ~4,487 |
@@ -26,8 +26,8 @@ Rating: 4.73 (Ranked 156)
 | King Hugo | 23.00% | ~2,457 |
 | Mercy | 23.00% | ~2,457 |
 | Perfect shot | 22.00% | ~2,350 |
-| Effective instruments | 21.00% | ~2,243 |
-| Perfect throw | 21.00% | ~2,243 |
+| Effective instruments | 21.00% | ~2,244 |
+| Perfect throw | 21.00% | ~2,244 |
 | Knights! | 19.00% | ~2,030 |
 | Handful of pockets | 13.00% | ~1,389 |
 | Not a toy anymore | 11.00% | ~1,175 |
@@ -36,12 +36,12 @@ Rating: 4.73 (Ranked 156)
 | Fighter | 7.00% | ~748 |
 | Ornithologist | 5.00% | ~534 |
 | Sneaky | 4.00% | ~427 |
-| Immortal memories | 3.00% | ~320 |
+| Immortal memories | 3.00% | ~321 |
 | Old protector | 2.00% | ~214 |
 | Explorer | 1.00% | ~107 |
 | Malignant | 1.00% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,683 (Ranked 106)  
+Progressed: 10,684 (Ranked 106)  
 Completed: 32 (0.30%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 32 (0.30%) (Ranked 127)
 | 2023-05-24 | 10,576 | 32 |
 | 2023-05-25 | 10,620 | 32 |
 | 2023-05-26 | 10,680 | 32 |
-| 2023-05-27 | 10,683 | 32 |
+| 2023-05-27 | 10,684 | 32 |
 ## Awards
 Max (Great Boss Battles): 401  (Ranked 200)  
 Sum: 577 (Ranked 286)  

@@ -3,9 +3,9 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -412,6 +412,11 @@
       "Time": "2023-05-27T02:05:20.9856513+00:00",
       "NumProgressed": 513,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T03:06:48.188461+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -437,9 +442,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 300
     },
     {
       "ID": "ATTENBOROUGH",
@@ -567,7 +572,7 @@
       "Name": "Editor Adept",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ENDGAME",
@@ -583,7 +588,7 @@
       "Name": "Exorcist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "EXPERIENCED",
@@ -599,7 +604,7 @@
       "Name": "Firestarter",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FIRST_BLOOD",
@@ -607,7 +612,7 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 465
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -629,9 +634,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "GIANT_KILLER",
@@ -655,7 +660,7 @@
       "Name": "Gun for Hire",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 258
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -671,7 +676,7 @@
       "Name": "I am the law!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "INFILTRATOR",
@@ -687,7 +692,7 @@
       "Name": "Lumberjack",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -701,9 +706,9 @@
       "ID": "NEWTONIAN_KNOCKOUT",
       "SetID": "9a4jnji",
       "Name": "Newtonian Knockout",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "PUSHING_DAISY",
@@ -727,15 +732,15 @@
       "Name": "Ranidaphobia",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 321
     },
     {
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 16
     },
     {
       "ID": "RUTHLESS",
@@ -789,9 +794,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 16
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -823,21 +828,21 @@
       "Name": "Wipe Out",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 517,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:20.9856507+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:06:48.1884606+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:57:53.1717857+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:20.9856853+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:59:00.3655483+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:06:48.1886961+00:00"
 }

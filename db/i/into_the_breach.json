@@ -6,9 +6,9 @@
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
     "PcReleaseDate": "2018-02-27T16:00:00+00:00",
@@ -2755,10 +2755,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3875,
       "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-05-27T03:00:43.1568835+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3876,
+      "NumberOfAwardsMax": 405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3875,
+  "NumberOfAwards": 3876,
   "NumberOfAwardsMax": 405,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2772,7 +2778,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 398
+      "Count": 399
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2852,8 +2858,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-05-25T22:59:39.5648249+00:00",
+  "LastChanged": "2023-05-27T03:00:43.1568676+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:02.6485445+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:59:21.6964331+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:01:08.0595764+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:00:43.1568842+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:02:49.2494139+00:00"
 }

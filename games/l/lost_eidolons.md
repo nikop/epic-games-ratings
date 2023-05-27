@@ -6,13 +6,13 @@ Rating: 4.31 (Ranked 755)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The First Step | 67.00% | ~608 |
-| First Blood | 64.00% | ~580 |
-| Ready to Learn | 62.00% | ~562 |
+| First Blood | 64.00% | ~581 |
+| Ready to Learn | 61.00% | ~554 |
 | Monster Hunter | 53.00% | ~481 |
 | Earning Trust | 50.00% | ~454 |
 | Monster Slayer | 28.00% | ~254 |
 | Awakening | 22.00% | ~200 |
-| Huntmaster | 21.00% | ~190 |
+| Huntmaster | 21.00% | ~191 |
 | Complete the sidequest 'Malice and Greed' | 17.00% | ~154 |
 | Digging Deep | 13.00% | ~118 |
 | House Vulisica's Heirloom | 13.00% | ~118 |
@@ -29,8 +29,8 @@ Rating: 4.31 (Ranked 755)
 | Someone to Protect | 0.60% | ~5 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 907 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 204)  
+Progressed: 908 (Ranked 173)  
+Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-24 | 891 | 0 |
 | 2023-05-25 | 900 | 0 |
 | 2023-05-26 | 906 | 0 |
-| 2023-05-27 | 907 | 0 |
+| 2023-05-27 | 908 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 258,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.65,
   "EosHistory": [
@@ -643,9 +643,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "MQ01_2",
@@ -876,8 +876,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:02:39.8019218+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:04:10.6215617+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:56:34.7133088+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:02:39.8019402+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:57:29.5487342+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:04:10.6215854+00:00"
 }

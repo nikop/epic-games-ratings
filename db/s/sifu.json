@@ -4236,9 +4236,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705532,
+  "EOS_Progressed": 705542,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1926,
+  "EOS_NewPlayers": 1916,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7336,6 +7336,11 @@
       "Time": "2023-05-27T02:05:49.6271364+00:00",
       "NumProgressed": 705532,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T03:07:32.0329015+00:00",
+      "NumProgressed": 705542,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7617,9 +7622,9 @@
       "ID": "35_WideStrike",
       "SetID": "adcm20g",
       "Name": "Kung-Fu Tussle",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4939
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7691,7 +7696,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7707,7 +7712,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -7723,7 +7728,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -7746,21 +7751,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14833,
-      "Completed": 10174
+      "Progressed": 14843,
+      "Completed": 10176
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705532,
+      "Progressed": 705542,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:49.6271359+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:07:32.032901+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:58:43.2961286+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:49.6271831+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:59:55.4016184+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:07:32.0329692+00:00"
 }

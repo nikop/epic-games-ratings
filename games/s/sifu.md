@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~593 |
+| Diligence as a goal | 4.00% | ~594 |
 | Project Arena | 3.00% | ~445 |
 | The Hateful Pole Fighter | 1.00% | ~7,055 |
 | Qi Gong: Breath | 1.00% | ~7,055 |
@@ -29,9 +29,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.80% | ~5,644 |
 | Scareless | 0.70% | ~4,939 |
 | Old Child | 0.70% | ~4,939 |
+| Kung-Fu Tussle | 0.70% | ~4,939 |
 | Dance of the Praying Mantis | 0.60% | ~4,233 |
 | Qi Gong: Mind | 0.60% | ~4,233 |
-| Kung-Fu Tussle | 0.60% | ~4,233 |
 | Deadly Venom | 0.60% | ~89 |
 | A Touch of Acumen | 0.60% | ~89 |
 | Muk Yan Master | 0.50% | ~3,528 |
@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.30% | ~2,117 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,117 |
 | Sword Stained With Blood | 0.30% | ~2,117 |
-| Martial Hub | 0.30% | ~44 |
-| Secure, Protect, Leave | 0.30% | ~44 |
+| Martial Hub | 0.30% | ~45 |
+| Secure, Protect, Leave | 0.30% | ~45 |
 | Drunken Fighter | 0.20% | ~1,411 |
 | Martial Artist | 0.20% | ~1,411 |
 | Knowledge Greed | 0.20% | ~1,411 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,532 (Ranked 15)  
+Progressed: 705,542 (Ranked 15)  
 Completed: 12,738 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 12,738 (1.81%) (Ranked 65)
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
-| 2023-05-27 | 705,532 | 12,738 |
+| 2023-05-27 | 705,542 | 12,738 |
 ## Awards
 Max (Great Boss Battles): 6,094  (Ranked 53)  
 Sum: 10,384 (Ranked 77)  

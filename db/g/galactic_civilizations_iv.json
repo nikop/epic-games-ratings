@@ -6,9 +6,9 @@
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -774,7 +774,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5792,
+  "EOS_Progressed": 5793,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -2574,6 +2574,11 @@
       "Time": "2023-05-26T23:03:32.5838552+00:00",
       "NumProgressed": 5792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T03:03:59.4978034+00:00",
+      "NumProgressed": 5793,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2617,7 +2622,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2625,7 +2630,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3649
+      "UsersEstimate": 3650
     },
     {
       "ID": "Control_All_Relics",
@@ -2649,7 +2654,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2665,7 +2670,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "First_Major_Ally",
@@ -2697,7 +2702,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "First_Ship_Designed",
@@ -2721,7 +2726,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2801,7 +2806,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "Play_1000_Hours",
@@ -2905,7 +2910,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3041,7 +3046,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Win_As_Torian",
@@ -3097,7 +3102,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Win_Diplomacy",
@@ -3160,15 +3165,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5792,
+      "Progressed": 5793,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-24T02:57:17.2647785+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:02:38.8044253+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:03:59.497803+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.5418964+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:56:44.1324481+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:02:38.8044896+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:57:41.938738+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:03:59.4979399+00:00"
 }

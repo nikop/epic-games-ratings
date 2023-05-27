@@ -7,23 +7,23 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~4,576 |
-| Worker Specialization | 78.00% | ~4,518 |
-| First Contact | 73.00% | ~4,228 |
+| Worker Specialization | 78.00% | ~4,519 |
+| First Contact | 73.00% | ~4,229 |
 | Win a Battle | 67.00% | ~3,881 |
-| Anomaly Researcher | 63.00% | ~3,649 |
-| Unleash My Power | 62.00% | ~3,591 |
-| Own 30 Planets | 35.00% | ~2,027 |
-| Xenocide | 33.00% | ~1,911 |
-| Commodity Trader | 32.00% | ~1,853 |
-| Design a Civilization | 32.00% | ~1,853 |
+| Anomaly Researcher | 63.00% | ~3,650 |
+| Unleash My Power | 62.00% | ~3,592 |
+| Own 30 Planets | 35.00% | ~2,028 |
+| Xenocide | 33.00% | ~1,912 |
+| Commodity Trader | 32.00% | ~1,854 |
+| Design a Civilization | 32.00% | ~1,854 |
 | Design a Ship | 29.00% | ~1,680 |
 | Commodity Seller | 26.00% | ~1,506 |
 | Prestige Victory! | 14.00% | ~811 |
 | Galactic War | 11.00% | ~637 |
 | Trading Partner | 9.00% | ~521 |
 | Fleet Victory | 8.00% | ~463 |
-| Win as Terrans | 7.00% | ~405 |
-| Win with a Custom Faction | 7.00% | ~405 |
+| Win as Terrans | 7.00% | ~406 |
+| Win with a Custom Faction | 7.00% | ~406 |
 | Gain an Ally | 6.00% | ~348 |
 | War with the Unknown | 5.00% | ~290 |
 | Conquest Victory! | 4.00% | ~232 |
@@ -79,8 +79,8 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,792 (Ranked 121)  
-Completed: 0 (0.00%) (Ranked 204)  
+Progressed: 5,793 (Ranked 121)  
+Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-24 | 5,768 | 0 |
 | 2023-05-25 | 5,781 | 0 |
 | 2023-05-26 | 5,792 | 0 |
+| 2023-05-27 | 5,793 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 336)  
 Sum: 659 (Ranked 269)  

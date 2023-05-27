@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,001 |
-| That's a Grand Army | 8.00% | ~3,556 |
-| That is mine! | 8.00% | ~3,556 |
-| Victorious! | 8.00% | ~3,556 |
-| Brothers in Arms | 6.00% | ~2,667 |
-| That's a Grand Navy | 6.00% | ~2,667 |
-| Seriously?! | 6.00% | ~2,667 |
-| For the Glory | 5.00% | ~2,223 |
-| Cold War | 4.00% | ~1,778 |
-| True Catholic | 4.00% | ~1,778 |
+| Until death do us apart | 9.00% | ~4,003 |
+| That's a Grand Army | 8.00% | ~3,558 |
+| That is mine! | 8.00% | ~3,558 |
+| Victorious! | 8.00% | ~3,558 |
+| Brothers in Arms | 6.00% | ~2,668 |
+| That's a Grand Navy | 6.00% | ~2,668 |
+| Seriously?! | 6.00% | ~2,668 |
+| For the Glory | 5.00% | ~2,224 |
+| Cold War | 4.00% | ~1,779 |
+| True Catholic | 4.00% | ~1,779 |
 | Defender of the Faith | 3.00% | ~1,334 |
 | It's all about the money | 3.00% | ~1,334 |
 | Respected | 3.00% | ~1,334 |
@@ -132,6 +132,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cities of Cibola | 0.10% | ~44 |
 | Colonial Management | 0.10% | ~44 |
 | Consulate of the Sea | 0.10% | ~44 |
+| Core-fu | 0.10% | ~44 |
 | Cotton Kandy | 0.10% | ~44 |
 | Cowardly Tactics | 0.10% | ~44 |
 | Czechs and Balances | 0.10% | ~44 |
@@ -314,7 +315,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
-| Core-fu | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,454 (Ranked 79)  
-Completed: 0 (0.00%) (Ranked 204)  
+Progressed: 44,474 (Ranked 79)  
+Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -398,7 +398,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
-| 2023-05-27 | 44,454 | 0 |
+| 2023-05-27 | 44,474 | 0 |
 ## Awards
 Max (Educational): 5,287  (Ranked 60)  
 Sum: 43,808 (Ranked 27)  

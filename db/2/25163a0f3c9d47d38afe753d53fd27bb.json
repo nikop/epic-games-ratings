@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 331,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 5.14,
   "EosHistory": [
@@ -813,9 +813,9 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_018",
@@ -869,9 +869,9 @@
       "ID": "LEVEL_024",
       "SetID": "212bg48",
       "Name": "Beach or mountain?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_025",
@@ -932,8 +932,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:02:40.0130178+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:04:10.9216927+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:56:19.4451182+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:02:40.0130378+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:57:14.5695454+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:04:10.9217163+00:00"
 }

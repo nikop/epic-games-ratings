@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,7 +225,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1622,
+  "EOS_Progressed": 1623,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -620,6 +620,11 @@
       "Time": "2023-05-27T02:05:58.3075653+00:00",
       "NumProgressed": 1622,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-27T03:07:42.0026734+00:00",
+      "NumProgressed": 1623,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -639,7 +644,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACHV_03",
@@ -663,7 +668,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHV_06",
@@ -703,7 +708,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHV_11",
@@ -807,7 +812,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHV_24",
@@ -895,7 +900,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHV_35",
@@ -935,7 +940,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACHV_40",
@@ -951,7 +956,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACHV_42",
@@ -1086,7 +1091,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1622,
+      "Progressed": 1623,
       "Completed": 10
     }
   ],
@@ -1094,8 +1099,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:58.3075648+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:07:42.0026728+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:00:30.1874895+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:58.307605+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:02:03.1200154+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:07:42.0027262+00:00"
 }

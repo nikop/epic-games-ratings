@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -994,10 +994,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2084,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-05-27T02:59:48.0629696+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2085,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2084,
+  "NumberOfAwards": 2085,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1005,7 +1011,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1074,9 +1080,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22262,
+  "EOS_Progressed": 22263,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3719,6 +3725,11 @@
       "Time": "2023-05-27T02:05:46.9955937+00:00",
       "NumProgressed": 22262,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-27T03:07:28.959174+00:00",
+      "NumProgressed": 22263,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3730,7 +3741,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16251
+      "UsersEstimate": 16252
     },
     {
       "ID": "Animated",
@@ -3746,7 +3757,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8014
+      "UsersEstimate": 8015
     },
     {
       "ID": "Best_Insurance",
@@ -3770,7 +3781,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9127
+      "UsersEstimate": 9128
     },
     {
       "ID": "Collect_Spores",
@@ -3778,7 +3789,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11576
+      "UsersEstimate": 11577
     },
     {
       "ID": "Collector",
@@ -3818,7 +3829,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13802
+      "UsersEstimate": 13803
     },
     {
       "ID": "Dont_Need_These",
@@ -3866,7 +3877,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12244
+      "UsersEstimate": 12245
     },
     {
       "ID": "GB_In_Training",
@@ -3874,7 +3885,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6901
+      "UsersEstimate": 6902
     },
     {
       "ID": "Ghost_Expert",
@@ -3962,7 +3973,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "Rift_Seeker",
@@ -4002,7 +4013,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6233
+      "UsersEstimate": 6234
     },
     {
       "ID": "Skilled",
@@ -4034,7 +4045,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19145
+      "UsersEstimate": 19146
     },
     {
       "ID": "Summoner",
@@ -4090,7 +4101,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9795
+      "UsersEstimate": 9796
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4114,7 +4125,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10908
+      "UsersEstimate": 10909
     },
     {
       "ID": "Welcome_Crew",
@@ -4122,7 +4133,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7346
+      "UsersEstimate": 7347
     },
     {
       "ID": "Whoopsie",
@@ -4137,16 +4148,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22262,
+      "Progressed": 22263,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-05-26T16:59:01.6565858+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:46.9955933+00:00",
+  "LastChanged": "2023-05-27T02:59:48.0629694+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:07:28.9591735+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:58:37.0439842+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:46.9956446+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:59:48.0629705+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:07:28.9592431+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1514,11 +1514,11 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 45194,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 940,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 45195,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 931,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.7056848+00:00",
@@ -5104,6 +5104,11 @@
       "Time": "2023-05-27T02:05:34.8523931+00:00",
       "NumProgressed": 45194,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T03:07:14.4729861+00:00",
+      "NumProgressed": 45195,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 59,
@@ -5243,7 +5248,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -5347,7 +5352,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12202
+      "UsersEstimate": 12203
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -5403,7 +5408,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28472
+      "UsersEstimate": 28473
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -5459,7 +5464,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11298
+      "UsersEstimate": 11299
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -5483,7 +5488,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 34799
+      "UsersEstimate": 34800
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -5491,7 +5496,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -5555,7 +5560,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -5571,7 +5576,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -5586,15 +5591,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 45194,
-      "Completed": 2
+      "Progressed": 45195,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-24T09:58:35.9301955+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:34.8523926+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:07:14.4729857+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:04.3187729+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:57:54.4576273+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:34.8524521+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:59:02.0970418+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:07:14.4730576+00:00"
 }

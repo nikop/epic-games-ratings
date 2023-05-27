@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~171 |
-| A tiny town | 84.00% | ~146 |
-| Buildings, roads, cars, ...and people | 65.00% | ~113 |
+| Welcome! | 98.00% | ~172 |
+| A tiny town | 83.00% | ~145 |
+| Buildings, roads, cars, ...and people | 65.00% | ~114 |
 | Great view from the beach and from the hill | 54.00% | ~94 |
-| Bridges to come and go | 47.00% | ~82 |
+| Bridges to come and go | 46.00% | ~80 |
 | Found an oasis | 38.00% | ~66 |
-| Burger or pizza? | 34.00% | ~59 |
+| Burger or pizza? | 34.00% | ~60 |
 | Passion for sports | 31.00% | ~54 |
 | Who loves trains? | 27.00% | ~47 |
-| Easy and steady climb | 26.00% | ~45 |
+| Easy and steady climb | 26.00% | ~46 |
 | At the heart of the city | 25.00% | ~44 |
-| Calm neighborhood | 24.00% | ~42 |
-| Elevated ring | 24.00% | ~42 |
+| Calm neighborhood | 23.00% | ~40 |
+| Elevated ring | 23.00% | ~40 |
 | Not lonely anymore | 21.00% | ~37 |
 | Monumental tribute | 20.00% | ~35 |
-| The beach is right there | 20.00% | ~35 |
-| Commuting | 20.00% | ~35 |
+| The beach is right there | 19.00% | ~33 |
+| Commuting | 19.00% | ~33 |
 | Le jardin magnifique | 17.00% | ~30 |
-| Aiming for a living and human city | 16.00% | ~28 |
-| City of dreams | 16.00% | ~28 |
-| Happy Christmas night! | 16.00% | ~28 |
-| Night walk along the beach | 16.00% | ~28 |
+| Aiming for a living and human city | 17.00% | ~30 |
+| City of dreams | 15.00% | ~26 |
+| Happy Christmas night! | 15.00% | ~26 |
+| Night walk along the beach | 15.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 245)  
-Completed: 27 (15.52%) (Ranked 9)  
+Progressed: 175 (Ranked 243)  
+Completed: 27 (15.43%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 27 (15.52%) (Ranked 9)
 | 2023-05-24 | 153 | 25 |
 | 2023-05-25 | 164 | 27 |
 | 2023-05-26 | 172 | 27 |
-| 2023-05-27 | 174 | 27 |
+| 2023-05-27 | 175 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,172 |
-| Tutti Eroi! | 53.00% | ~3,113 |
-| You Shall Not Pass | 52.00% | ~3,054 |
+| Tutti Eroi! | 53.00% | ~3,114 |
+| You Shall Not Pass | 52.00% | ~3,055 |
 | Avanti Savoia! | 46.00% | ~2,702 |
 | Conrad von Hotzensocks | 35.00% | ~2,056 |
 | Mamma Mia! | 35.00% | ~2,056 |
@@ -19,8 +19,8 @@ Number of Ratings: 98  (23.09.2022)
 | Decimation | 20.00% | ~1,175 |
 | Donatello | 20.00% | ~1,175 |
 | The Italian Job | 19.00% | ~1,116 |
-| Insubordination | 18.00% | ~1,057 |
-| The Lion of the Isonzo | 18.00% | ~1,057 |
+| Insubordination | 18.00% | ~1,058 |
+| The Lion of the Isonzo | 18.00% | ~1,058 |
 | Ragazzi del '99 | 16.00% | ~940 |
 | Thus With A Kiss | 15.00% | ~881 |
 | Dirty Dozen | 13.00% | ~764 |
@@ -42,17 +42,17 @@ Number of Ratings: 98  (23.09.2022)
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~235 |
 | Ponte of No Return | 3.00% | ~176 |
 | Seeing Red | 3.00% | ~176 |
-| Farewell to Arms | 2.00% | ~117 |
-| Soča Drag | 2.00% | ~117 |
-| Saboteur | 2.00% | ~117 |
+| Farewell to Arms | 2.00% | ~118 |
+| Soča Drag | 2.00% | ~118 |
+| Saboteur | 2.00% | ~118 |
 | Compagnia della Morte | 1.00% | ~59 |
 | Drop and Give Me 20 | 1.00% | ~59 |
 | Rome Wasn't Built In A Day | 1.00% | ~59 |
 | Malpractice | 0.80% | ~47 |
-| "Sacro Egoismo" | 0.40% | ~23 |
+| "Sacro Egoismo" | 0.40% | ~24 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,874 (Ranked 120)  
+Progressed: 5,875 (Ranked 120)  
 Completed: 8 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-24 | 5,828 | 8 |
 | 2023-05-25 | 5,846 | 8 |
 | 2023-05-26 | 5,872 | 8 |
-| 2023-05-27 | 5,874 | 8 |
+| 2023-05-27 | 5,875 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 441)  
 Sum: 240 (Ranked 343)  

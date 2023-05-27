@@ -3,9 +3,9 @@
   "Name": "Painting Werther",
   "ProductSlug": "painting-werther-654780",
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-02-14T14:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:45.9570464+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:02:35.9309088+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:03:55.9357749+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:41.5821074+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:57:20.2579575+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:02:35.9309109+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:58:25.1928605+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:03:55.9357778+00:00"
 }

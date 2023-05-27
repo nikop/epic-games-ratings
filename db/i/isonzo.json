@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -580,7 +580,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5874,
+  "EOS_Progressed": 5875,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
@@ -1555,6 +1555,11 @@
       "Time": "2023-05-27T02:05:32.0124165+00:00",
       "NumProgressed": 5874,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-27T03:07:11.0222633+00:00",
+      "NumProgressed": 5875,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1670,7 +1675,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -1694,7 +1699,7 @@
       "Name": "Insubordination",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -1790,7 +1795,7 @@
       "Name": "\u0022Sacro Egoismo\u0022",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ISONZO_ACH_SEEING_RED",
@@ -1822,7 +1827,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -1830,7 +1835,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -1862,7 +1867,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -1894,7 +1899,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1918,14 +1923,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5874,
+      "Progressed": 5875,
       "Completed": 8
     }
   ],
@@ -1933,8 +1938,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:32.012416+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:07:11.0222628+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:56:42.7545315+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:32.0124477+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:57:39.4053412+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:07:11.0223445+00:00"
 }

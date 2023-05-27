@@ -5,13 +5,13 @@ Rating: 4.39 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 19.00% | ~292 |
-| Confirming Suspicions | 14.00% | ~215 |
+| Meeting Resistance | 19.00% | ~293 |
+| Confirming Suspicions | 14.00% | ~216 |
 | The Kraken Wakes | 10.00% | ~154 |
 | It's Starting to Crack | 8.00% | ~123 |
-| Lord of War | 7.00% | ~108 |
-| Resourceful | 6.00% | ~92 |
-| Change the Channel | 6.00% | ~92 |
+| Lord of War | 6.00% | ~93 |
+| Resourceful | 6.00% | ~93 |
+| Change the Channel | 6.00% | ~93 |
 | Enemy at the Gates | 5.00% | ~77 |
 | Organ Grinder | 5.00% | ~77 |
 | Opposing Force | 4.00% | ~62 |
@@ -19,6 +19,7 @@ Rating: 4.39 (Ranked 688)
 | Explosive Efficiency | 4.00% | ~62 |
 | As Quiet as a Mouse | 4.00% | ~62 |
 | Taking it back | 4.00% | ~62 |
+| Fields of Glory | 3.00% | ~46 |
 | Gunslinger | 3.00% | ~46 |
 | Sharpshooter | 3.00% | ~46 |
 | Die Nussknacker Sweet! | 3.00% | ~46 |
@@ -28,7 +29,6 @@ Rating: 4.39 (Ranked 688)
 | Climbing the Ladder | 2.00% | ~31 |
 | Liberté | 2.00% | ~31 |
 | No Stone Unturned | 2.00% | ~31 |
-| Fields of Glory | 2.00% | ~31 |
 | Skirmisher | 2.00% | ~31 |
 | Set Europe Ablaze | 2.00% | ~31 |
 | Precision Is Key | 2.00% | ~31 |
@@ -40,10 +40,10 @@ Rating: 4.39 (Ranked 688)
 | My Little Friend | 0.80% | ~12 |
 | It'll Buff Right Out | 0.80% | ~12 |
 | Locomotion Commotion | 0.70% | ~11 |
-| Ghost of Falaise | 0.70% | ~10 |
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
 | Siegebreaker | 0.60% | ~9 |
+| Ghost of Falaise | 0.60% | ~9 |
 | Strategist | 0.50% | ~8 |
 | Last Resort | 0.50% | ~7 |
 | Tinkerer | 0.40% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 688)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,538 (Ranked 156)  
+Progressed: 1,542 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
-| 2023-05-27 | 1,538 | 2 |
+| 2023-05-27 | 1,542 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

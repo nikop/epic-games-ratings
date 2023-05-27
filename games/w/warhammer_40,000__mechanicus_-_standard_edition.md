@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,845 |
-| This is only the beginning | 19.00% | ~40,162 |
-| Knowledge is power | 12.00% | ~25,366 |
-| Power Ranger | 9.00% | ~19,024 |
-| Galvanic Rifle | 9.00% | ~19,024 |
-| Taser Goad | 9.00% | ~19,024 |
-| Radium Ready | 9.00% | ~19,024 |
-| Half a cog | 9.00% | ~19,024 |
+| No aid from the Omnissiah | 25.00% | ~52,847 |
+| This is only the beginning | 19.00% | ~40,164 |
+| Knowledge is power | 12.00% | ~25,367 |
+| Power Ranger | 9.00% | ~19,025 |
+| Galvanic Rifle | 9.00% | ~19,025 |
+| Taser Goad | 9.00% | ~19,025 |
+| Radium Ready | 9.00% | ~19,025 |
+| Half a cog | 9.00% | ~19,025 |
 | Watch them crumble | 6.00% | ~12,683 |
-| Competent Cohort | 4.00% | ~8,455 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,455 |
-| One with the Machine | 4.00% | ~8,455 |
-| Legio Cybernetica | 3.00% | ~6,341 |
-| Fleshy Disposal | 3.00% | ~6,341 |
+| Competent Cohort | 4.00% | ~8,456 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,456 |
+| One with the Machine | 4.00% | ~8,456 |
+| Legio Cybernetica | 3.00% | ~6,342 |
+| Fleshy Disposal | 3.00% | ~6,342 |
 | Battle Servitor | 2.00% | ~4,228 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,228 |
 | Impatient destruction | 2.00% | ~4,228 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 642)
 | Perma-live | 0.10% | ~211 |
 | Purge the Heretek | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,380 (Ranked 47)  
-Completed: 3 (0.00%) (Ranked 204)  
+Progressed: 211,389 (Ranked 47)  
+Completed: 3 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 3 (0.00%) (Ranked 204)
 | 2023-05-24 | 211,030 | 2 |
 | 2023-05-25 | 211,171 | 3 |
 | 2023-05-26 | 211,364 | 3 |
-| 2023-05-27 | 211,380 | 3 |
+| 2023-05-27 | 211,389 | 3 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 230)  
 Sum: 2,096 (Ranked 182)  

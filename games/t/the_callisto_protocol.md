@@ -13,10 +13,10 @@ Rating: 4.19 (Ranked 824)
 | Paper Jams | 4.00% | ~550 |
 | Instigator | 4.00% | ~67 |
 | Big Game Hunter | 4.00% | ~67 |
-| Workplace Hazard | 3.00% | ~412 |
-| Float Like A Butterfly | 3.00% | ~412 |
-| Reforged | 3.00% | ~412 |
-| If the SHU Fits... | 3.00% | ~412 |
+| Workplace Hazard | 3.00% | ~413 |
+| Float Like A Butterfly | 3.00% | ~413 |
+| Reforged | 3.00% | ~413 |
+| If the SHU Fits... | 3.00% | ~413 |
 | Bear Trap | 3.00% | ~50 |
 | Get a Grip | 2.00% | ~275 |
 | Terminated | 2.00% | ~275 |
@@ -36,7 +36,7 @@ Rating: 4.19 (Ranked 824)
 | Full Circle | 0.80% | ~110 |
 | Recidivist | 0.70% | ~12 |
 | Lifer | 0.70% | ~12 |
-| I Do Belong Here | 0.60% | ~82 |
+| I Do Belong Here | 0.60% | ~83 |
 | Grim Reaper | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 824)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,750 (Ranked 102)  
+Progressed: 13,752 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 53 (0.39%) (Ranked 113)
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
-| 2023-05-27 | 13,750 | 53 |
+| 2023-05-27 | 13,752 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 268 (Ranked 335)  

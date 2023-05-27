@@ -5,23 +5,23 @@ Rating: 3.87 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,108 |
-| World Map | 80.00% | ~943 |
-| Temple of Eternals | 56.00% | ~660 |
+| Victor | 94.00% | ~1,109 |
+| World Map | 80.00% | ~944 |
+| Temple of Eternals | 56.00% | ~661 |
 | Prestigious | 53.00% | ~625 |
 | Fellowship Power | 40.00% | ~472 |
 | Guild Power | 24.00% | ~283 |
 | Prestigious x10 | 21.00% | ~248 |
 | The game is on | 19.00% | ~224 |
-| Exotic Merchant | 17.00% | ~200 |
+| Exotic Merchant | 17.00% | ~201 |
 | Dragon Clicker | 16.00% | ~189 |
 | Miner Clicker | 16.00% | ~189 |
-| Inspection | 15.00% | ~177 |
 | Full Party | 14.00% | ~165 |
+| Inspection | 14.00% | ~165 |
 | Hero inspection | 13.00% | ~153 |
-| Dragon Master | 12.00% | ~141 |
-| Enlightenment | 12.00% | ~141 |
-| Lieutenant | 12.00% | ~141 |
+| Dragon Master | 12.00% | ~142 |
+| Enlightenment | 12.00% | ~142 |
+| Lieutenant | 12.00% | ~142 |
 | Milestone collector | 11.00% | ~130 |
 | Mysterious Rock | 10.00% | ~118 |
 | Natural Talent | 10.00% | ~118 |
@@ -53,10 +53,10 @@ Rating: 3.87 (Ranked 907)
 | Engineer Mastery | 2.00% | ~24 |
 | Four Leaf Clover | 2.00% | ~24 |
 | Lock And Load | 2.00% | ~24 |
+| Sailor | 2.00% | ~24 |
 | What lies behind the bush | 2.00% | ~24 |
 | Blueprint Upgrades | 1.00% | ~12 |
 | Crystal Mining | 1.00% | ~12 |
-| Sailor | 1.00% | ~12 |
 | The Alchemist | 0.90% | ~11 |
 | Active Member | 0.80% | ~9 |
 | Ebony Jungle Liberator | 0.80% | ~9 |
@@ -81,7 +81,7 @@ Rating: 3.87 (Ranked 907)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,179 (Ranked 161)  
+Progressed: 1,180 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-24 | 1,156 | 1 |
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
-| 2023-05-27 | 1,179 | 1 |
+| 2023-05-27 | 1,180 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -25,6 +25,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Next-Door Play | 3.00% | ~277 |
 | Heart of the Fallen Land | 2.00% | ~185 |
 | The Legacy | 2.00% | ~185 |
+| Heroic Victory | 2.00% | ~185 |
 | Divide and Rule | 2.00% | ~185 |
 | Mythic Reinforcements | 2.00% | ~185 |
 | Core of the Riddle | 2.00% | ~185 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 1.00% | ~92 |
 | Path of the Trickster | 1.00% | ~92 |
 | Path of the Lich | 1.00% | ~92 |
-| Heroic Victory | 1.00% | ~92 |
 | Capitulation Is Now Moot | 1.00% | ~92 |
 | Truly Important Deed | 1.00% | ~92 |
 | Stay Underground | 1.00% | ~80 |
@@ -124,7 +124,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,228 (Ranked 110)  
-Completed: 0 (0.00%) (Ranked 204)  
+Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

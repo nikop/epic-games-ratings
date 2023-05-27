@@ -13,7 +13,7 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 24.00% | ~291 |
 | How Romantic! | 22.00% | ~267 |
 | Daybreak | 22.00% | ~267 |
-| Gotta Ca... Must Collect All of Them | 20.00% | ~242 |
+| Gotta Ca... Must Collect All of Them | 20.00% | ~243 |
 | Completing the Look | 11.00% | ~133 |
 | Who's Counting? | 11.00% | ~133 |
 | War Endured | 11.00% | ~133 |
@@ -28,13 +28,13 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 6.00% | ~73 |
 | Let Me Get My Chisel | 5.00% | ~61 |
 | Plague Doctor | 5.00% | ~61 |
-| Worldwalker | 4.00% | ~48 |
-| Legends Never Die | 4.00% | ~48 |
-| In Soil, In Smoke | 4.00% | ~48 |
-| A Hunger, Sated | 4.00% | ~48 |
-| Wingknight's Prowess | 4.00% | ~48 |
-| All My Birds, Safely Home | 4.00% | ~48 |
-| Turncoat | 4.00% | ~48 |
+| Worldwalker | 4.00% | ~49 |
+| Legends Never Die | 4.00% | ~49 |
+| In Soil, In Smoke | 4.00% | ~49 |
+| A Hunger, Sated | 4.00% | ~49 |
+| Wingknight's Prowess | 4.00% | ~49 |
+| All My Birds, Safely Home | 4.00% | ~49 |
+| Turncoat | 4.00% | ~49 |
 | We Emerge Changed | 3.00% | ~36 |
 | Bears are Scary | 3.00% | ~36 |
 | Grillmaster | 3.00% | ~36 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,212 (Ranked 160)  
+Progressed: 1,213 (Ranked 160)  
 Completed: 3 (0.25%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 3 (0.25%) (Ranked 134)
 | 2023-05-24 | 1,202 | 3 |
 | 2023-05-25 | 1,205 | 3 |
 | 2023-05-26 | 1,211 | 3 |
-| 2023-05-27 | 1,212 | 3 |
+| 2023-05-27 | 1,213 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 464)  

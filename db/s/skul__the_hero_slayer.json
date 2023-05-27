@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -788,9 +788,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7414,
+  "EOS_Progressed": 7415,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1558,6 +1558,11 @@
       "Time": "2023-05-27T02:05:21.8376107+00:00",
       "NumProgressed": 7414,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-27T03:06:49.1803582+00:00",
+      "NumProgressed": 7415,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1617,7 +1622,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1681,7 +1686,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "RookieWelcome",
@@ -1729,7 +1734,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6895
+      "UsersEstimate": 6896
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1737,7 +1742,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3411
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1760,15 +1765,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7414,
+      "Progressed": 7415,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-25T03:59:17.8359369+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:21.8376102+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:06:49.1803577+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:58:38.7326039+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:21.8376273+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:59:49.566676+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:06:49.1803807+00:00"
 }

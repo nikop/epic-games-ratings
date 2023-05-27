@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2023-05-26T22:05:15.3947476+00:00",
       "NumProgressed": 393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T03:07:11.1796954+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -568,7 +573,7 @@
       "Name": "Devoted",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EyeSpy",
@@ -736,7 +741,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Toxic",
@@ -775,7 +780,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 0
     }
   ],
@@ -783,8 +788,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:05:32.1303057+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:07:11.1796949+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:57:19.0026484+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:05:32.1303266+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:58:24.4136086+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:07:11.1797222+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-3",
   "Ranking_Rating": 290,
   "Ranking_Popularity": 220,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 56,
@@ -2086,9 +2086,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 17702,
+  "EOS_Progressed": 17704,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -5651,6 +5651,11 @@
       "Time": "2023-05-27T02:03:34.152222+00:00",
       "NumProgressed": 17702,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-05-27T03:04:51.8484022+00:00",
+      "NumProgressed": 17704,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 60,
@@ -5662,7 +5667,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10444
+      "UsersEstimate": 10445
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -5670,7 +5675,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8320
+      "UsersEstimate": 8321
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -5678,7 +5683,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 10267
+      "UsersEstimate": 10268
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -5702,7 +5707,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -5710,7 +5715,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -5758,7 +5763,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -5774,7 +5779,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -5814,7 +5819,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -5822,7 +5827,7 @@
       "Name": "The last burger",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -5854,7 +5859,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -5870,7 +5875,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 7966
+      "UsersEstimate": 7967
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -5878,7 +5883,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7435
+      "UsersEstimate": 7436
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -5894,7 +5899,7 @@
       "Name": "Rusty Steel",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7435
+      "UsersEstimate": 7436
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -5934,7 +5939,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -5974,7 +5979,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -5998,7 +6003,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -6014,7 +6019,7 @@
       "Name": "The Force disturbed",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -6046,7 +6051,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 8143
+      "UsersEstimate": 8144
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -6062,7 +6067,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12391
+      "UsersEstimate": 12393
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -6086,7 +6091,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -6094,7 +6099,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -6118,7 +6123,7 @@
       "Name": "Lifeguard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -6141,15 +6146,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 17702,
+      "Progressed": 17704,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-26T13:59:37.2668151+00:00",
-  "LastChanged_Achievements": "2023-05-27T02:03:34.1522216+00:00",
+  "LastChanged_Achievements": "2023-05-27T03:04:51.8484017+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.7478417+00:00",
-  "LastUpdate_Ratings": "2023-05-27T01:58:54.4152593+00:00",
-  "LastUpdate_Achievements": "2023-05-27T02:03:34.1522814+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:00:07.3785643+00:00",
+  "LastUpdate_Achievements": "2023-05-27T03:04:51.8484752+00:00"
 }
