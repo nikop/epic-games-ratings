@@ -31,8 +31,8 @@
 | Make America Grate Again | 35.00% | ~22 |
 | Self assessed tax return | 35.00% | ~22 |
 | Karaoke king | 35.00% | ~22 |
+| Pasta Bolognese | 34.00% | ~21 |
 | You are no match for me, Billy! | 32.00% | ~20 |
-| Pasta Bolognese | 32.00% | ~20 |
 | You can't stop me, bro! | 31.00% | ~19 |
 | Haemochromatosis | 31.00% | ~19 |
 | Meatballs, coming up! | 29.00% | ~18 |

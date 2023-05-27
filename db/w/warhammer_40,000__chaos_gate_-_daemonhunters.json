@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2694,
+  "EOS_Progressed": 2697,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1122,6 +1122,11 @@
       "Time": "2023-05-27T18:06:08.7816548+00:00",
       "NumProgressed": 2694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T20:07:22.8380837+00:00",
+      "NumProgressed": 2697,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1149,7 +1154,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "BloodAndIron",
@@ -1221,7 +1226,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1229,7 +1234,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1301,7 +1306,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "Kills_Bleed",
@@ -1309,7 +1314,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1325,7 +1330,7 @@
       "Name": "Executioner",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "Kills_Exterminator",
@@ -1341,7 +1346,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Kills_Interactable",
@@ -1357,7 +1362,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Kills_Streak",
@@ -1381,7 +1386,7 @@
       "Name": "An Ill Omen",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1397,7 +1402,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1405,7 +1410,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1413,7 +1418,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MasterOfTheForge",
@@ -1469,7 +1474,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1501,7 +1506,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1604,21 +1609,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2694,
+      "Progressed": 2697,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2694,
+      "Progressed": 2697,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:29.8772581+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:22.8380833+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:58:12.0799068+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:29.8773262+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:59:21.6818869+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:22.8381657+00:00"
 }

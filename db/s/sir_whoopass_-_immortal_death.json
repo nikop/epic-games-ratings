@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -910,9 +910,9 @@
       "ID": "WHOOPASS_1",
       "SetID": "9gfkh7c",
       "Name": "Pasta Bolognese",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "WORM_1",
@@ -933,8 +933,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:14.7601909+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:02.8259985+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:56:57.9746922+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:14.7602681+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:57:27.7901574+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:02.8260943+00:00"
 }

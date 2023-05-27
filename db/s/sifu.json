@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
@@ -4254,9 +4254,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705780,
+  "EOS_Progressed": 705784,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1772,
+  "EOS_NewPlayers": 1769,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7439,6 +7439,11 @@
       "Time": "2023-05-27T19:05:28.4204812+00:00",
       "NumProgressed": 705780,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T20:07:20.9612984+00:00",
+      "NumProgressed": 705784,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7786,7 +7791,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7818,7 +7823,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -7842,28 +7847,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15081,
+      "Progressed": 15085,
       "Completed": 10178
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705780,
+      "Progressed": 705784,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T18:58:32.3381945+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:28.4204808+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:20.9612979+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:58:32.3381951+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:28.4205398+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:59:48.9450761+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:20.9613886+00:00"
 }

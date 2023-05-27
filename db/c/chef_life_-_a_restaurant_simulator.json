@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -1089,9 +1089,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "Packing20",
@@ -1242,8 +1242,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:00:02.6018708+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:02:11.9596346+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:58:01.1455226+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:00:02.6019102+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:59:04.9509111+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:02:11.9596782+00:00"
 }

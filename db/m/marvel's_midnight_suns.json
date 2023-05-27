@@ -4,11 +4,11 @@
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 506,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -1734,10 +1734,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 2518,
       "NumberOfAwardsMax": 1168
+    },
+    {
+      "Time": "2023-05-27T20:01:31.8720968+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 2520,
+      "NumberOfAwardsMax": 1168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2518,
+  "NumberOfAwards": 2520,
   "NumberOfAwardsMax": 1168,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1805,7 +1811,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 154
+      "Count": 156
     }
   ],
   "EOS_Progressed": 0,
@@ -1820,8 +1826,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-05-27T02:00:20.5729096+00:00",
+  "LastChanged": "2023-05-27T20:01:31.8720966+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:41.898282+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:59:39.2037465+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:04:49.829869+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:01:31.8720973+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:06:26.884325+00:00"
 }

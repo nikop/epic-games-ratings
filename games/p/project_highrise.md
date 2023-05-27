@@ -42,16 +42,16 @@
 | Smooth Operator | 12.00% | ~22 |
 | 28 Days Later | 12.00% | ~22 |
 | Plaza Plan | 10.00% | ~18 |
+| Master of Puppets | 10.00% | ~18 |
 | First 100 Days | 9.00% | ~16 |
-| Master of Puppets | 9.00% | ~16 |
 | Profound Proceeds | 9.00% | ~16 |
 | Refined Palates | 9.00% | ~16 |
 | Revenue Royalty | 9.00% | ~16 |
+| Phoning It In | 9.00% | ~16 |
 | Pipe Up | 9.00% | ~16 |
 | Aestheticly Pleased | 8.00% | ~14 |
 | Meet Me at HQ | 8.00% | ~14 |
 | Maximum Reuse | 8.00% | ~14 |
-| Phoning It In | 8.00% | ~14 |
 | Penthouse in the Sky | 7.00% | ~13 |
 | I'm Busy Ruling | 7.00% | ~13 |
 | Careful Constructor | 7.00% | ~13 |

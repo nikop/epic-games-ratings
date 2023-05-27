@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -864,9 +864,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3144,
+  "EOS_Progressed": 3145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2944,6 +2944,11 @@
       "Time": "2023-05-27T19:05:33.898358+00:00",
       "NumProgressed": 3144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T20:07:28.0052722+00:00",
+      "NumProgressed": 3145,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3011,7 +3016,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3051,7 +3056,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3059,7 +3064,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3115,7 +3120,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3274,15 +3279,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3144,
+      "Progressed": 3145,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-27T10:00:39.1243832+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:33.8983575+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:28.0052718+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:59:30.2886446+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:33.8984007+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:01:18.4781954+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:28.0053179+00:00"
 }

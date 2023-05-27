@@ -9,14 +9,14 @@ Rating: 4.56 (Ranked 452)
 | Infinite Growth... | 8.00% | ~177 |
 | Sputnik 2049 | 8.00% | ~177 |
 | Without Breaking Some Eggs... | 7.00% | ~155 |
+| Ready for a New World | 5.00% | ~110 |
+| Guy de Borderlands | 4.00% | ~88 |
 | Space Society | 4.00% | ~88 |
 | A Thousand Strong | 4.00% | ~88 |
-| Ready for a New World | 4.00% | ~88 |
 | Breaking Protocol | 4.00% | ~88 |
 | Permanent Redesigns | 4.00% | ~88 |
 | Ain't Nobody Got Time for That | 4.00% | ~88 |
 | Hope Seeker | 4.00% | ~88 |
-| Guy de Borderlands | 3.00% | ~66 |
 | A Hunk of Junk | 3.00% | ~66 |
 | Fully Recycled | 3.00% | ~66 |
 | The Ship of Theseus | 3.00% | ~66 |
@@ -30,9 +30,9 @@ Rating: 4.56 (Ranked 452)
 | Sightseeing | 1.00% | ~22 |
 | In Dolos We Trust | 1.00% | ~22 |
 | Convenient Transport | 1.00% | ~22 |
+| BRAWL! | 1.00% | ~22 |
 | All in Good Health | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |
-| BRAWL! | 0.90% | ~20 |
 | What They Hide From Us | 0.80% | ~18 |
 | ...  in a finite world | 0.70% | ~15 |
 | Delivery! | 0.70% | ~15 |

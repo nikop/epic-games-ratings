@@ -2,7 +2,7 @@
   "ID": "d2b282a6b53e409a8f8329d3d3356f21",
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
-  "Ranking_Rating": 539,
+  "Ranking_Rating": 540,
   "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 63,
@@ -1524,7 +1524,7 @@
   ],
   "EOS_Progressed": 78330,
   "EOS_Completed": 2131,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -3792,8 +3792,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:30.332518+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:23.4127687+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:13.3163472+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:59:11.6222966+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:30.3325612+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:00:48.203023+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:23.4128322+00:00"
 }

@@ -23,21 +23,21 @@ Rating: 3.88 (Ranked 909)
 | Enlightenment | 12.00% | ~143 |
 | Lieutenant | 12.00% | ~143 |
 | Milestone collector | 11.00% | ~131 |
+| Natural Talent | 11.00% | ~131 |
+| The Unstoppable | 11.00% | ~131 |
 | Mysterious Rock | 10.00% | ~119 |
-| Natural Talent | 10.00% | ~119 |
 | Superior | 10.00% | ~119 |
-| The Unstoppable | 10.00% | ~119 |
 | Scientist | 8.00% | ~95 |
+| Challenger | 7.00% | ~83 |
 | Daily Quest Completionist | 7.00% | ~83 |
-| Challenger | 6.00% | ~71 |
+| The power of Awakening | 7.00% | ~83 |
 | Frostfire Liberator | 6.00% | ~71 |
 | Hunter | 6.00% | ~71 |
 | Scroll Master | 6.00% | ~71 |
-| The power of Awakening | 6.00% | ~71 |
+| Doing My Part | 5.00% | ~60 |
 | Mastery | 5.00% | ~60 |
 | Moving Up The Ladder | 5.00% | ~60 |
 | The Expeditioner | 5.00% | ~60 |
-| Doing My Part | 4.00% | ~48 |
 | Here We Go Again | 4.00% | ~48 |
 | How Do You Turn This On? | 4.00% | ~48 |
 | Missions Dedication | 4.00% | ~48 |

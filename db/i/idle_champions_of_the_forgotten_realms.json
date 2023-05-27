@@ -3920,10 +3920,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29988,
       "NumberOfAwardsMax": 4908
+    },
+    {
+      "Time": "2023-05-27T19:58:37.9061255+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29989,
+      "NumberOfAwardsMax": 4908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29988,
+  "NumberOfAwards": 29989,
   "NumberOfAwardsMax": 4908,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3955,7 +3961,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3948
+      "Count": 3949
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3970,9 +3976,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88884,
+  "EOS_Progressed": 88894,
   "EOS_Completed": 1887,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7630,6 +7636,11 @@
       "Time": "2023-05-27T19:05:40.4131462+00:00",
       "NumProgressed": 88884,
       "NumCompleted": 1887
+    },
+    {
+      "Time": "2023-05-27T20:07:35.3223175+00:00",
+      "NumProgressed": 88894,
+      "NumCompleted": 1887
     }
   ],
   "TotalAchievements": 493,
@@ -8313,7 +8324,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "objective_completed_1163",
@@ -8415,9 +8426,9 @@
       "ID": "objective_completed_1180",
       "SetID": "415jc5c",
       "Name": "Hands Off!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_completed_1183",
@@ -8513,7 +8524,7 @@
       "Name": "Checkmate",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "objective_completed_1204",
@@ -8527,9 +8538,9 @@
       "ID": "objective_completed_1208",
       "SetID": "415jc5c",
       "Name": "Vecna Out!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 166
     },
     {
       "ID": "objective_completed_1209",
@@ -11584,21 +11595,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55158,
-      "Completed": 2721
+      "Progressed": 55168,
+      "Completed": 2722
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88884,
+      "Progressed": 88894,
       "Completed": 1887
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-27T04:58:43.8315057+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:40.4131459+00:00",
+  "LastChanged": "2023-05-27T19:58:37.9061253+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:35.3223172+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:57:42.5732603+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:40.4155038+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:58:37.9061261+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:35.3255423+00:00"
 }

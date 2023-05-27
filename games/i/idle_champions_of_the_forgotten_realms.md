@@ -16,9 +16,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.40% | ~356 |
 | Coasting to the Finish | 0.40% | ~221 |
 | Quick or Quack | 0.40% | ~221 |
-| Best Thay Ever | 0.30% | ~165 |
+| Best Thay Ever | 0.30% | ~166 |
 | Were-verpowered | 0.30% | ~267 |
-| Checkmate | 0.30% | ~165 |
+| Checkmate | 0.30% | ~166 |
+| Vecna Out! | 0.30% | ~166 |
 | A Persistent Buzzing | 0.30% | ~267 |
 | Seeking Allies | 0.30% | ~267 |
 | Mad Cow Disease | 0.30% | ~267 |
@@ -30,11 +31,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~178 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Keep Your Distance | 0.20% | ~110 |
+| Hands Off! | 0.20% | ~110 |
 | Frail Doesn't Mean Broken | 0.20% | ~110 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~110 |
 | Get Back In The Castle | 0.20% | ~110 |
 | Pin and Skewer | 0.20% | ~110 |
-| Vecna Out! | 0.20% | ~110 |
 | No One Can Hear You Scream | 0.20% | ~110 |
 | Welcome to the Rock | 0.20% | ~110 |
 | Beast Mode | 0.20% | ~178 |
@@ -150,7 +151,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Efforts | 0.10% | ~55 |
 | Heatwave | 0.10% | ~55 |
 | To Avernus in a Handbasket | 0.10% | ~55 |
-| Hands Off! | 0.10% | ~55 |
 | The Dread Domain of Tovag | 0.10% | ~55 |
 | Weak Doesn't Mean Feeble | 0.10% | ~55 |
 | The Castle of a Thousand Vecnas | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,884 (Ranked 61)  
+Progressed: 88,894 (Ranked 61)  
 Completed: 1,887 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,10 +537,10 @@ Completed: 1,887 (2.12%) (Ranked 62)
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
-| 2023-05-27 | 88,884 | 1,887 |
+| 2023-05-27 | 88,894 | 1,887 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
-Sum: 29,988 (Ranked 37)  
+Sum: 29,989 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -548,7 +548,7 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,841 |
 | This game has Quickly Understood Controls | 4,606 |
 | This game is Relaxing | 4,499 |
-| This game is Highly Recommended | 3,948 |
+| This game is Highly Recommended | 3,949 |
 | This game has Amazing Characters | 3,945 |
 | This game has Playful Visuals | 3,241 |
 ## Ratings History
@@ -675,4 +675,4 @@ Diff (max vs sum): 27
 | 2023-05-24 | 4.06 | - | 4,902 | 29,965 |
 | 2023-05-25 | 4.06 | - | 4,905 | 29,974 |
 | 2023-05-26 | 4.06 | - | 4,905 | 29,983 |
-| 2023-05-27 | 4.06 | - | 4,908 | 29,988 |
+| 2023-05-27 | 4.06 | - | 4,908 | 29,989 |

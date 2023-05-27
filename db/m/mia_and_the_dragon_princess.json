@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -263,17 +263,17 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "breathless_end",
@@ -406,8 +406,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:59:53.1685015+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:01:57.9544038+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:50.1252712+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:57:43.2493579+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:59:53.1685326+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:58:38.8840829+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:01:57.9544509+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2326,9 +2326,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 83
     },
     {
       "ID": "conqueror",
@@ -2358,9 +2358,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 60
     },
     {
       "ID": "dragonclicker",
@@ -2638,9 +2638,9 @@
       "ID": "naturaltalent",
       "SetID": "3nl4bcg",
       "Name": "Natural Talent",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 131
     },
     {
       "ID": "pokerface",
@@ -2758,17 +2758,17 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 83
     },
     {
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 131
     },
     {
       "ID": "titanpower",
@@ -2871,8 +2871,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-27T11:58:31.9990637+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:21.3016564+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:11.7508931+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:57:40.3423789+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:21.3017472+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:58:32.5748442+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:11.7509861+00:00"
 }

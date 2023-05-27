@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1262,9 +1262,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62384,
+  "EOS_Progressed": 62392,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4012,6 +4012,11 @@
       "Time": "2023-05-27T19:05:35.3428877+00:00",
       "NumProgressed": 62384,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T20:07:29.5727158+00:00",
+      "NumProgressed": 62392,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4071,7 +4076,7 @@
       "Name": "The Batman Family",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -4205,9 +4210,9 @@
       "ID": "DEFEAT_LOS_1",
       "SetID": "4eo5ebm",
       "Name": "Out of Their League",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 312
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -4255,7 +4260,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "FREEZE_2",
@@ -4343,7 +4348,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "HARLEY_4",
@@ -4423,7 +4428,7 @@
       "Name": "Whispered Words",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "MYSTERY_03",
@@ -4510,13 +4515,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62384,
+      "Progressed": 62392,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32664,
+      "Progressed": 32672,
       "Completed": 2642
     }
   ],
@@ -4524,8 +4529,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T18:59:09.8212779+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:35.342887+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:29.5727155+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:59:09.8212786+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:35.3429896+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:00:46.1147308+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:29.5727942+00:00"
 }

@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.50 (Ranked 539)  
+Rating: 4.50 (Ranked 540)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,14 +9,14 @@ Rating: 4.50 (Ranked 539)
 | Become King | 70.00% | ~1,045 |
 | Defeat 25 Frogs | 60.00% | ~896 |
 | Ranged Weapon | 59.00% | ~881 |
-| Collect Monster Parts | 55.00% | ~821 |
+| Collect Monster Parts | 56.00% | ~836 |
 | Two Handed Weapon | 54.00% | ~806 |
 | Defeat 25 Grubs | 50.00% | ~746 |
 | Rescue Redgi's Brothers | 50.00% | ~746 |
 | Collect Iron Ore | 45.00% | ~672 |
+| Defeat 25 Mozis | 44.00% | ~657 |
 | Kitchen Ready To Cook | 44.00% | ~657 |
 | Collect Gold | 43.00% | ~642 |
-| Defeat 25 Mozis | 43.00% | ~642 |
 | Smithy Ready to Craft | 43.00% | ~642 |
 | Fix the Travellers Wagon | 41.00% | ~612 |
 | Complete Elder Faction | 38.00% | ~567 |

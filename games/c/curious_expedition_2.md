@@ -52,10 +52,10 @@ Number of Ratings: 20  (23.09.2022)
 | Islander Understanding | 4.00% | ~12 |
 | A Paris Sunset | 4.00% | ~12 |
 | The Director Perseveres | 4.00% | ~12 |
+| A Familiar Figure | 4.00% | ~12 |
 | X Marks the Spot | 4.00% | ~12 |
 | The Round Table | 4.00% | ~12 |
 | Frugal | 4.00% | ~12 |
-| A Familiar Figure | 3.00% | ~9 |
 | A Perfect Map | 3.00% | ~9 |
 | Risk/Reward | 3.00% | ~9 |
 | Look Ma, No Equipment! | 3.00% | ~9 |

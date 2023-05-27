@@ -446,9 +446,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13823,
+  "EOS_Progressed": 13831,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1791,6 +1791,11 @@
       "Time": "2023-05-27T19:03:17.8403074+00:00",
       "NumProgressed": 13823,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T20:04:15.809618+00:00",
+      "NumProgressed": 13831,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1818,7 +1823,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1898,7 +1903,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1930,7 +1935,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "KILL_ROBOT",
@@ -1938,7 +1943,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1954,7 +1959,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1986,15 +1991,15 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 830
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2010,7 +2015,7 @@
       "Name": "Without A Paddle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STORY_HANGAR",
@@ -2018,7 +2023,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2034,7 +2039,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2042,15 +2047,15 @@
       "Name": "Crash Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "STORY_TUNNELS",
@@ -2090,7 +2095,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2098,7 +2103,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -2121,13 +2126,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13823,
+      "Progressed": 13831,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1749,
+      "Progressed": 1757,
       "Completed": 29
     }
   ],
@@ -2135,8 +2140,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-27T17:57:48.7844569+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:03:17.840307+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:04:15.8096174+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:57:33.9118046+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:03:17.8403452+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:58:22.5438806+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:04:15.8096595+00:00"
 }

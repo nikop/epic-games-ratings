@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -220,7 +220,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -530,6 +530,11 @@
       "Time": "2023-05-27T19:02:43.6196645+00:00",
       "NumProgressed": 288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T20:03:45.3202538+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -669,7 +674,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -747,9 +752,9 @@
       "ID": "ACH_COLL_CH11",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XI",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -765,7 +770,7 @@
       "Name": "Cowardice",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -773,7 +778,7 @@
       "Name": "The Breaking Point",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -821,7 +826,7 @@
       "Name": "The Difference",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -829,7 +834,7 @@
       "Name": "Vengeance",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -899,9 +904,9 @@
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -949,7 +954,7 @@
       "Name": "Eat Lead!",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -973,7 +978,7 @@
       "Name": "King of Knives",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_NEST1",
@@ -1012,15 +1017,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:02:43.6196641+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:03:45.3202532+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.3542342+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:57:14.4873302+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:02:43.6197179+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:57:53.2242277+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:03:45.3203057+00:00"
 }

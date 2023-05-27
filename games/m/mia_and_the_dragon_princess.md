@@ -10,12 +10,12 @@
 | Snitch | 23.00% | ~10 |
 | Explosive End | 20.00% | ~9 |
 | Puzzle Prodigy | 20.00% | ~9 |
+| Bathroom Brawler | 18.00% | ~8 |
 | Finger-Lickin' Bad | 18.00% | ~8 |
-| Bathroom Brawler | 16.00% | ~7 |
+| Backstory Buff | 16.00% | ~7 |
 | Codebreaker | 16.00% | ~7 |
 | Set Sail | 16.00% | ~7 |
 | A Box of Tricks | 14.00% | ~6 |
-| Backstory Buff | 14.00% | ~6 |
 | Breathless End | 14.00% | ~6 |
 | Flying High | 14.00% | ~6 |
 | Fool's Gold | 5.00% | ~2 |

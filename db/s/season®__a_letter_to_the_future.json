@@ -3,8 +3,8 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 867,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
@@ -787,8 +787,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:08.3145216+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:06:54.0044737+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:58:11.4358882+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:08.3145378+00:00"
+  "LastUpdate_Ratings": "2023-05-27T19:59:20.709306+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:06:54.0044892+00:00"
 }

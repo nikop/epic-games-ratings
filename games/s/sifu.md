@@ -1,13 +1,13 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 62)  
+Rating: 4.82 (Ranked 63)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~603 |
-| Project Arena | 3.00% | ~452 |
+| Project Arena | 3.00% | ~453 |
 | The Old Grandmaster | 1.00% | ~7,058 |
 | The Assault | 1.00% | ~7,058 |
 | The Hateful Pole Fighter | 1.00% | ~7,058 |
@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.70% | ~4,940 |
 | Dance of the Praying Mantis | 0.60% | ~4,235 |
 | Qi Gong: Mind | 0.60% | ~4,235 |
-| Deadly Venom | 0.60% | ~90 |
-| A Touch of Acumen | 0.60% | ~90 |
+| Deadly Venom | 0.60% | ~91 |
+| A Touch of Acumen | 0.60% | ~91 |
 | Muk Yan Master | 0.50% | ~3,529 |
 | I know Kung-Fu | 0.50% | ~3,529 |
 | Tiger on Fire | 0.40% | ~2,823 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,780 (Ranked 15)  
+Progressed: 705,784 (Ranked 15)  
 Completed: 12,738 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 12,738 (1.80%) (Ranked 65)
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
-| 2023-05-27 | 705,780 | 12,738 |
+| 2023-05-27 | 705,784 | 12,738 |
 ## Awards
 Max (Great Boss Battles): 6,102  (Ranked 53)  
 Sum: 10,395 (Ranked 77)  

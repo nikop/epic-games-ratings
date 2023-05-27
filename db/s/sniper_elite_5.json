@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -218,7 +218,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1619,
+  "EOS_Progressed": 1621,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
@@ -1628,6 +1628,11 @@
       "Time": "2023-05-27T19:05:13.4701816+00:00",
       "NumProgressed": 1619,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T20:07:00.9613235+00:00",
+      "NumProgressed": 1621,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1845,9 +1850,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2206,13 +2211,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1570,
+      "Progressed": 1572,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1619,
+      "Progressed": 1621,
       "Completed": 2
     }
   ],
@@ -2220,8 +2225,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-27T19:05:13.4701812+00:00",
+  "LastChanged_Achievements": "2023-05-27T20:07:00.961323+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:59:48.3111726+00:00",
-  "LastUpdate_Achievements": "2023-05-27T19:05:13.4702557+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:01:46.4887125+00:00",
+  "LastUpdate_Achievements": "2023-05-27T20:07:00.9614533+00:00"
 }

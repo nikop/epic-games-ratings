@@ -11,10 +11,10 @@ Rating: 4.17 (Ranked 838)
 | Get ReQ'd | 1.00% | ~624 |
 | Knighthood | 1.00% | ~624 |
 | Loose Ends | 1.00% | ~624 |
-| The Batman Family | 0.90% | ~561 |
-| Quartzer Life Crisis | 0.90% | ~561 |
-| Working Hard or Harley Working? | 0.90% | ~561 |
-| Whispered Words | 0.90% | ~561 |
+| The Batman Family | 0.90% | ~562 |
+| Quartzer Life Crisis | 0.90% | ~562 |
+| Working Hard or Harley Working? | 0.90% | ~562 |
+| Whispered Words | 0.90% | ~562 |
 | Something in the Clay | 0.80% | ~499 |
 | Snow Problem | 0.80% | ~499 |
 | Unstoppable Force | 0.80% | ~499 |
@@ -34,9 +34,9 @@ Rating: 4.17 (Ranked 838)
 | Cooldown | 0.60% | ~374 |
 | Seeking Asylum | 0.60% | ~374 |
 | Gotham Knight | 0.60% | ~374 |
+| Out of Their League | 0.50% | ~312 |
 | Drone You Out | 0.50% | ~312 |
 | Gotham City Confidential | 0.50% | ~312 |
-| Out of Their League | 0.40% | ~250 |
 | Solid Alibi | 0.40% | ~250 |
 | Fusion Expert | 0.30% | ~187 |
 | Expert Crime Fighter | 0.30% | ~187 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,384 (Ranked 70)  
+Progressed: 62,392 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,384 | 91 |
+| 2023-05-27 | 62,392 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,725 (Ranked 137)  
