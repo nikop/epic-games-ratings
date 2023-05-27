@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2671,
+  "EOS_Progressed": 2672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1057,6 +1057,11 @@
       "Time": "2023-05-27T00:07:13.7283599+00:00",
       "NumProgressed": 2671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T02:05:51.0377335+00:00",
+      "NumProgressed": 2672,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1244,7 +1249,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1276,7 +1281,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Kills_Interactable",
@@ -1316,7 +1321,7 @@
       "Name": "An Ill Omen",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1539,21 +1544,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2671,
+      "Progressed": 2672,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2671,
+      "Progressed": 2672,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:07:13.7283593+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:51.0377333+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:59:12.8180612+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:07:13.7284187+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:58:16.9226572+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:51.0377767+00:00"
 }

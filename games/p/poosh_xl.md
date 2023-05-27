@@ -7,7 +7,7 @@
 | Pooshed Past 2500 | 74.00% | ~73 |
 | Destroyed 25 Obstacles | 49.00% | ~48 |
 | Obtained 50 PowerUps | 49.00% | ~48 |
-| Pooshed over 250000 | 48.00% | ~47 |
+| Pooshed over 250000 | 49.00% | ~48 |
 | Pooshed Past 5000 | 23.00% | ~23 |
 | Terrible Start | 19.00% | ~19 |
 | Pooshed Past 7500 | 8.00% | ~8 |

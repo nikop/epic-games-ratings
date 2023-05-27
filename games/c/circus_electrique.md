@@ -6,7 +6,7 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 40.00% | ~164 |
+| Self Defense | 40.00% | ~165 |
 | Circus Electrique Proudly Presents... | 36.00% | ~148 |
 | Grand Opening | 35.00% | ~144 |
 | Path of Learning | 35.00% | ~144 |
@@ -18,8 +18,8 @@ Number of Ratings: 22  (23.09.2022)
 | Dirty Dozen | 16.00% | ~66 |
 | Lion Tamer | 15.00% | ~62 |
 | Amazing! | 14.00% | ~58 |
-| Bar Brawler | 13.00% | ~53 |
-| King of District 1 | 13.00% | ~53 |
+| Bar Brawler | 13.00% | ~54 |
+| King of District 1 | 13.00% | ~54 |
 | One More Thing... | 12.00% | ~49 |
 | Lucky Day | 12.00% | ~49 |
 | Flawless Presentation | 12.00% | ~49 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411 (Ranked 200)  
+Progressed: 412 (Ranked 200)  
 Completed: 1 (0.24%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 1 (0.24%) (Ranked 135)
 | 2023-05-23 | 407 | 1 |
 | 2023-05-24 | 410 | 1 |
 | 2023-05-26 | 411 | 1 |
+| 2023-05-27 | 412 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

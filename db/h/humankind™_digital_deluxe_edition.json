@@ -4,7 +4,7 @@
   "ProductSlug": "humankind",
   "Ranking_Rating": 522,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 321,
@@ -1062,10 +1062,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 891,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-05-27T01:57:39.8226639+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 892,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 891,
+  "NumberOfAwards": 892,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1109,7 +1115,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1153,8 +1159,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2023-05-20T05:58:20.7858846+00:00",
+  "LastChanged": "2023-05-27T01:57:39.8226637+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:55.5410312+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:58:35.6354767+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:03:22.2133663+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:57:39.8226643+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:02:21.2943069+00:00"
 }

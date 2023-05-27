@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:06:38.4231611+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:29.6059772+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.9841997+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:57:23.7597799+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:06:38.4231944+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:56:35.4980943+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:29.606003+00:00"
 }

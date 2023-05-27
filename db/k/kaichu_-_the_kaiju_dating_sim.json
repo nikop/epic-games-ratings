@@ -4,7 +4,7 @@
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.71,
+  "EOS_Completed_Percentage": 10.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.8187686+00:00",
@@ -72,6 +72,11 @@
       "Time": "2023-05-26T06:05:08.885117+00:00",
       "NumProgressed": 28,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T02:05:20.0242051+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -81,7 +86,7 @@
       "ID": "A_HEATED_AFFAIR",
       "SetID": "dhjj31a",
       "Name": "A Heated Affair",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -89,7 +94,7 @@
       "ID": "CYBER_BULLY",
       "SetID": "dhjj31a",
       "Name": "Cyber Bully",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 75,
       "UsersEstimate": 19
     },
@@ -97,7 +102,7 @@
       "ID": "EVERYTHINGS_COMING_UP_GIGACHU",
       "SetID": "dhjj31a",
       "Name": "Everything\u0027s Coming Up Gigachu",
-      "Percentage": 86,
+      "Percentage": 83,
       "XP": 75,
       "UsersEstimate": 24
     },
@@ -105,7 +110,7 @@
       "ID": "FRIENDZONED",
       "SetID": "dhjj31a",
       "Name": "Friendzoned",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -121,7 +126,7 @@
       "ID": "LOVED_AND_LOST",
       "SetID": "dhjj31a",
       "Name": "Loved and Lost",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -129,7 +134,7 @@
       "ID": "LOVE_IS_IN_BLOOM",
       "SetID": "dhjj31a",
       "Name": "Love is in Bloom",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -137,7 +142,7 @@
       "ID": "LOVE_IS_IN_THE_AIR",
       "SetID": "dhjj31a",
       "Name": "Love is in the Air",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -145,7 +150,7 @@
       "ID": "LOVING_COMMUTE",
       "SetID": "dhjj31a",
       "Name": "Loving Commute",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -169,7 +174,7 @@
       "ID": "ROYAL_ROMANCE",
       "SetID": "dhjj31a",
       "Name": "Royal Romance",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -185,7 +190,7 @@
       "ID": "SPEED_DATING",
       "SetID": "dhjj31a",
       "Name": "Speed Dating",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 120,
       "UsersEstimate": 8
     },
@@ -193,7 +198,7 @@
       "ID": "SPREAD_THE_LOVE",
       "SetID": "dhjj31a",
       "Name": "Spread the Love",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 75,
       "UsersEstimate": 7
     }
@@ -202,7 +207,7 @@
     {
       "ID": "dhjj31a",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 3
     }
   ],
@@ -210,8 +215,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:06:27.5243936+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:20.0242046+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.5033221+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:58:01.6932834+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:06:27.5244068+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:57:07.3996642+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:20.024214+00:00"
 }

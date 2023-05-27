@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 943,
+  "EOS_Progressed": 944,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -735,6 +735,11 @@
       "Time": "2023-05-27T00:06:57.5419308+00:00",
       "NumProgressed": 943,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T02:05:45.6603381+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -770,7 +775,7 @@
       "Name": "The Big Bertha",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Boy",
@@ -856,9 +861,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 264
     },
     {
       "ID": "Hard_Serpent",
@@ -898,7 +903,7 @@
       "Name": "Spice It Up",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "KillAllM2",
@@ -938,7 +943,7 @@
       "Name": "Mosquito bite",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Scout",
@@ -985,15 +990,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:06:57.5419301+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:45.6603376+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-05-27T00:00:02.5979469+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:06:57.5419602+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:59:03.632612+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:45.660357+00:00"
 }

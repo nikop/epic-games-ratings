@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~454 |
-| Ranidaphobia | 62.00% | ~312 |
-| Aspiring Editor | 57.00% | ~287 |
-| Gun for Hire | 50.00% | ~252 |
-| I am the law! | 36.00% | ~181 |
-| From Darkness to Light | 24.00% | ~121 |
-| Lumberjack | 18.00% | ~91 |
-| Firestarter | 17.00% | ~86 |
-| Croaked | 13.00% | ~66 |
-| Limp Richard | 13.00% | ~66 |
-| Exorcist | 11.00% | ~55 |
-| Editor Adept | 10.00% | ~50 |
-| Giant Killer | 8.00% | ~40 |
-| The meaning of Kain | 8.00% | ~40 |
-| Hold The Line | 7.00% | ~35 |
-| Sensei | 6.00% | ~30 |
-| Chain Killer | 5.00% | ~25 |
-| Newtonian Knockout | 5.00% | ~25 |
-| Recycler | 4.00% | ~20 |
-| Technophobe | 4.00% | ~20 |
-| There Can Be Only One! | 4.00% | ~20 |
+| First Blood | 90.00% | ~462 |
+| Ranidaphobia | 62.00% | ~318 |
+| Aspiring Editor | 57.00% | ~292 |
+| Gun for Hire | 50.00% | ~256 |
+| I am the law! | 36.00% | ~185 |
+| From Darkness to Light | 23.00% | ~118 |
+| Lumberjack | 18.00% | ~92 |
+| Firestarter | 17.00% | ~87 |
+| Croaked | 14.00% | ~72 |
+| Limp Richard | 13.00% | ~67 |
+| Exorcist | 11.00% | ~56 |
+| Editor Adept | 10.00% | ~51 |
+| Giant Killer | 8.00% | ~41 |
+| The meaning of Kain | 8.00% | ~41 |
+| Hold The Line | 7.00% | ~36 |
+| Sensei | 6.00% | ~31 |
+| Chain Killer | 5.00% | ~26 |
+| Newtonian Knockout | 5.00% | ~26 |
+| Recycler | 4.00% | ~21 |
+| Technophobe | 4.00% | ~21 |
+| There Can Be Only One! | 4.00% | ~21 |
 | Wipe Out | 3.00% | ~15 |
 | Are you not entertained? | 2.00% | ~10 |
 | Chain Reaction | 2.00% | ~10 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 194)  
+Progressed: 513 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
-| 2023-05-27 | 504 | 0 |
+| 2023-05-27 | 513 | 0 |

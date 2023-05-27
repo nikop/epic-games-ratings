@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 64.00% | ~164 |
-| Read Between The Lines | 61.00% | ~157 |
-| High Profile | 57.00% | ~146 |
-| Whispers In The Dark | 55.00% | ~141 |
-| Fond Memories | 48.00% | ~123 |
-| History Check | 46.00% | ~118 |
-| A Method To His Madness | 46.00% | ~118 |
+| To Hell In A Handcart | 64.00% | ~165 |
+| Read Between The Lines | 62.00% | ~160 |
+| High Profile | 57.00% | ~147 |
+| Whispers In The Dark | 55.00% | ~142 |
+| Fond Memories | 48.00% | ~124 |
+| A Method To His Madness | 46.00% | ~119 |
+| History Check | 45.00% | ~116 |
 | The New World | 43.00% | ~111 |
-| Gaze Into The Abyss | 42.00% | ~108 |
-| Lock, Stock, And Barrel | 41.00% | ~105 |
-| Open Sesame | 41.00% | ~105 |
-| Sticky Fingers | 41.00% | ~105 |
+| Lock, Stock, And Barrel | 41.00% | ~106 |
+| Gaze Into The Abyss | 41.00% | ~106 |
+| Open Sesame | 41.00% | ~106 |
+| Sticky Fingers | 41.00% | ~106 |
 | Back In The Saddle | 40.00% | ~103 |
 | Knives Out | 40.00% | ~103 |
-| Land, Ho! | 39.00% | ~100 |
+| Land, Ho! | 39.00% | ~101 |
 | No Man Is An Island | 37.00% | ~95 |
 | At Wits' End | 36.00% | ~93 |
 | Going Once... | 33.00% | ~85 |
@@ -29,12 +29,12 @@
 | Brain Food | 30.00% | ~77 |
 | No Stone Unturned | 28.00% | ~72 |
 | Curiosity Killed The Cat | 19.00% | ~49 |
-| Big Breakthrough | 18.00% | ~46 |
+| Big Breakthrough | 17.00% | ~44 |
 | Read It And Weep | 17.00% | ~44 |
 | Reawakened | 7.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 225)  
-Completed: 12 (4.67%) (Ranked 31)  
+Progressed: 258 (Ranked 225)  
+Completed: 12 (4.65%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 12 (4.67%) (Ranked 31)
 | 2023-05-24 | 225 | 12 |
 | 2023-05-25 | 235 | 12 |
 | 2023-05-26 | 257 | 12 |
+| 2023-05-27 | 258 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

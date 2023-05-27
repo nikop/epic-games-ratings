@@ -5,35 +5,35 @@ Rating: 4.52 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~583 |
-| And so it begins | 72.00% | ~552 |
-| No pressure | 69.00% | ~529 |
+| Good start | 76.00% | ~584 |
+| And so it begins | 72.00% | ~553 |
+| No pressure | 69.00% | ~530 |
 | Memento | 61.00% | ~468 |
 | Let there be light | 58.00% | ~445 |
-| I think you dropped this | 54.00% | ~414 |
+| I think you dropped this | 54.00% | ~415 |
 | Soulmate? | 52.00% | ~399 |
-| Excellent service | 47.00% | ~360 |
-| Roll with it | 45.00% | ~345 |
+| Excellent service | 47.00% | ~361 |
+| Roll with it | 45.00% | ~346 |
 | Humble beginnings | 43.00% | ~330 |
 | Love is in the air | 43.00% | ~330 |
-| Moving up | 41.00% | ~314 |
-| Fine, I'll do it myself | 39.00% | ~299 |
-| No need to call anyone | 38.00% | ~291 |
+| Moving up | 40.00% | ~307 |
+| Fine, I'll do it myself | 39.00% | ~300 |
+| No need to call anyone | 38.00% | ~292 |
 | Big fortune | 31.00% | ~238 |
 | Still more work ahead | 28.00% | ~215 |
 | Hotel sleuthing | 27.00% | ~207 |
-| Aesop's fable | 26.00% | ~199 |
+| Aesop's fable | 26.00% | ~200 |
 | Kaboom | 25.00% | ~192 |
 | Nearly there | 24.00% | ~184 |
-| Broken heart | 22.00% | ~169 |
-| Island boy | 20.00% | ~153 |
+| Broken heart | 21.00% | ~161 |
+| Island boy | 20.00% | ~154 |
 | You're a star | 18.00% | ~138 |
-| Unstoppable | 17.00% | ~130 |
+| Unstoppable | 17.00% | ~131 |
 | Reunited | 16.00% | ~123 |
 | King of hospitality | 11.00% | ~84 |
 | Top spot in town | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 767 (Ranked 180)  
+Progressed: 768 (Ranked 180)  
 Completed: 11 (1.43%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 11 (1.43%) (Ranked 73)
 | 2023-05-24 | 762 | 11 |
 | 2023-05-25 | 764 | 11 |
 | 2023-05-26 | 766 | 11 |
-| 2023-05-27 | 767 | 11 |
+| 2023-05-27 | 768 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

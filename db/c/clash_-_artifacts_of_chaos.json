@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -108,6 +108,11 @@
       "Time": "2023-05-26T22:05:32.2588576+00:00",
       "NumProgressed": 72,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T02:05:51.0365015+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -125,7 +130,7 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -133,7 +138,7 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -141,7 +146,7 @@
       "ID": "Achievement12",
       "SetID": "jf6ho5",
       "Name": "Your Training Is Complete",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 4
     },
@@ -149,7 +154,7 @@
       "ID": "Achievement13",
       "SetID": "jf6ho5",
       "Name": "Armor Collector",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
       "UsersEstimate": 9
     },
@@ -173,7 +178,7 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 20
     },
@@ -181,9 +186,9 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement18",
@@ -229,7 +234,7 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 20
     },
@@ -245,7 +250,7 @@
       "ID": "Achievement5",
       "SetID": "jf6ho5",
       "Name": "Red in Tooth and Claw",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -286,7 +291,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 1
     }
   ],
@@ -294,8 +299,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:07:13.9157614+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:51.0365011+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.9291912+00:00",
-  "LastUpdate_Ratings": "2023-05-27T00:01:26.7415336+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:07:13.915853+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:00:13.0133601+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:51.0365127+00:00"
 }

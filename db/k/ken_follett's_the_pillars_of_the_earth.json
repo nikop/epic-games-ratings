@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -477,7 +477,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12723,
+  "EOS_Progressed": 12724,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
@@ -2697,6 +2697,11 @@
       "Time": "2023-05-26T23:05:23.1829625+00:00",
       "NumProgressed": 12723,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-27T02:05:20.6917298+00:00",
+      "NumProgressed": 12724,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2788,7 +2793,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "tpote_achievement_2",
@@ -2860,7 +2865,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "tpote_achievement_28",
@@ -2908,7 +2913,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "tpote_achievement_33",
@@ -3028,22 +3033,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4580
+      "UsersEstimate": 4581
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12723,
+      "Progressed": 12724,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-24T02:59:22.8736944+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:06:28.2322889+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:20.6917294+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-27T00:01:00.9228312+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:06:28.2323362+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:59:50.2866268+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:20.6917643+00:00"
 }

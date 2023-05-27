@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 331,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 5.14,
   "EosHistory": [
@@ -717,17 +717,17 @@
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_007",
@@ -932,8 +932,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:03:44.2769648+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:02:40.0130178+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:57:09.1912928+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:03:44.2769951+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:56:19.4451182+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:02:40.0130378+00:00"
 }

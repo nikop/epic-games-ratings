@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 7.00% | ~962 |
-| Giving Back | 5.00% | ~687 |
-| Chew 'Em Up | 5.00% | ~687 |
-| The Outer Way | 5.00% | ~687 |
-| Desperate Times | 5.00% | ~687 |
+| Flesh Wound | 7.00% | ~963 |
+| Giving Back | 5.00% | ~688 |
+| Chew 'Em Up | 5.00% | ~688 |
+| The Outer Way | 5.00% | ~688 |
+| Desperate Times | 5.00% | ~688 |
 | Paper Jams | 4.00% | ~550 |
 | Instigator | 4.00% | ~67 |
 | Big Game Hunter | 4.00% | ~67 |
@@ -23,15 +23,15 @@ Rating: 4.19 (Ranked 824)
 | The Commonality | 2.00% | ~275 |
 | Mugshot | 2.00% | ~275 |
 | Without A Paddle | 2.00% | ~275 |
-| Big Spender | 2.00% | ~33 |
+| Big Spender | 2.00% | ~34 |
+| You Need a Gun | 1.00% | ~138 |
 | Parole Denied | 1.00% | ~17 |
-| Two Heads Are Better Than One | 1.00% | ~137 |
-| In the Pipe, Five by Five | 1.00% | ~137 |
-| Crash Site | 1.00% | ~137 |
+| Two Heads Are Better Than One | 1.00% | ~138 |
+| In the Pipe, Five by Five | 1.00% | ~138 |
+| Crash Site | 1.00% | ~138 |
+| Power Up | 1.00% | ~138 |
 | Hoard Mode | 1.00% | ~17 |
-| You Need a Gun | 0.90% | ~124 |
 | In Striking Distance | 0.90% | ~124 |
-| Power Up | 0.90% | ~124 |
 | What Lies Beneath | 0.80% | ~110 |
 | Full Circle | 0.80% | ~110 |
 | Recidivist | 0.70% | ~12 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 824)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,741 (Ranked 102)  
+Progressed: 13,750 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 53 (0.39%) (Ranked 113)
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
-| 2023-05-27 | 13,741 | 53 |
+| 2023-05-27 | 13,750 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 268 (Ranked 335)  

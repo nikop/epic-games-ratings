@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -440,9 +440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13741,
+  "EOS_Progressed": 13750,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1700,6 +1700,11 @@
       "Time": "2023-05-27T00:03:52.7573008+00:00",
       "NumProgressed": 13741,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T02:02:47.2282044+00:00",
+      "NumProgressed": 13750,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1727,15 +1732,15 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1743,7 +1748,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1831,7 +1836,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1839,7 +1844,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "KILL_ROBOT",
@@ -1903,7 +1908,7 @@
       "Name": "The Outer Way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1927,7 +1932,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "STORY_MINETOWN",
@@ -1943,7 +1948,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1951,7 +1956,7 @@
       "Name": "Crash Site",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "STORY_TOWER",
@@ -1965,9 +1970,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "DISMEMBER_100",
@@ -2023,20 +2028,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13741,
+      "Progressed": 13750,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1667,
+      "Progressed": 1676,
       "Completed": 29
     }
   ],
@@ -2044,8 +2049,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-26T23:58:11.1391789+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:03:52.7573003+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:02:47.2282039+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:58:11.1391795+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:03:52.7573457+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:57:16.0075921+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:02:47.2282342+00:00"
 }

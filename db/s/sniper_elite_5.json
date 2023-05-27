@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1533,
+  "EOS_Progressed": 1538,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1532,6 +1532,11 @@
       "Time": "2023-05-27T00:06:41.0092571+00:00",
       "NumProgressed": 1533,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T02:05:31.8682235+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1573,9 +1578,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1599,7 +1604,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1621,9 +1626,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 292
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1743,7 +1748,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1751,7 +1756,7 @@
       "Name": "Lord of War",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1783,7 +1788,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1791,7 +1796,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1911,7 +1916,7 @@
       "Name": "Taking it back",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2110,13 +2115,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1484,
+      "Progressed": 1489,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1533,
+      "Progressed": 1538,
       "Completed": 2
     }
   ],
@@ -2124,8 +2129,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:06:41.0092566+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:31.868223+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T00:01:55.69339+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:06:41.009381+00:00"
+  "LastUpdate_Ratings": "2023-05-27T02:00:35.395505+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:31.8682822+00:00"
 }

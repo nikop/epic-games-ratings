@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -457,9 +457,9 @@
       "ID": "COWBOY_1",
       "SetID": "9gfkh7c",
       "Name": "Yeehaw!!!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DIE_1",
@@ -545,9 +545,9 @@
       "ID": "ENT_1",
       "SetID": "9gfkh7c",
       "Name": "Timber!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FIRE_1",
@@ -585,9 +585,9 @@
       "ID": "GLASSES_1",
       "SetID": "9gfkh7c",
       "Name": "Deal with it",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GLASSES_2",
@@ -689,9 +689,9 @@
       "ID": "JOLLY_1",
       "SetID": "9gfkh7c",
       "Name": "Karaoke king",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "JOLLY_2",
@@ -833,9 +833,9 @@
       "ID": "OTHER_2",
       "SetID": "9gfkh7c",
       "Name": "Free Of Chains",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "OTHER_3",
@@ -905,9 +905,9 @@
       "ID": "WHOOPASS_1",
       "SetID": "9gfkh7c",
       "Name": "Pasta Bolognese",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WORM_1",
@@ -928,8 +928,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:06:42.6134804+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:33.3361184+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:57:16.0612828+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:06:42.6135763+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:56:28.8397915+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:33.3362042+00:00"
 }

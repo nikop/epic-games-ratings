@@ -26,7 +26,6 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 5.00% | ~104 |
 | G'Day Mate! | 5.00% | ~104 |
 | Globetrotter | 5.00% | ~104 |
-| Laid back | 5.00% | ~104 |
 | NAHELL! | 5.00% | ~104 |
 | Purple passion | 5.00% | ~104 |
 | Squad goals | 5.00% | ~104 |
@@ -34,6 +33,7 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~84 |
 | Cops called! | 4.00% | ~84 |
 | DIY Boss | 4.00% | ~84 |
+| Laid back | 4.00% | ~84 |
 | Lines for days | 4.00% | ~84 |
 | Manny Destroys All | 4.00% | ~84 |
 | Prince of Philly | 4.00% | ~84 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,088 (Ranked 146)  
+Progressed: 2,089 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-24 | 2,066 | 0 |
 | 2023-05-25 | 2,077 | 0 |
 | 2023-05-26 | 2,088 | 0 |
+| 2023-05-27 | 2,089 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 301)  

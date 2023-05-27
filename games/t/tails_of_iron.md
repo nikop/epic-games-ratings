@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 538)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 77.00% | ~1,141 |
-| Become King | 70.00% | ~1,037 |
-| Ranged Weapon | 59.00% | ~874 |
-| Defeat 25 Frogs | 59.00% | ~874 |
-| Collect Monster Parts | 55.00% | ~815 |
-| Two Handed Weapon | 54.00% | ~800 |
-| Defeat 25 Grubs | 50.00% | ~741 |
-| Rescue Redgi's Brothers | 50.00% | ~741 |
+| Complete Guard Faction | 77.00% | ~1,142 |
+| Become King | 70.00% | ~1,038 |
+| Ranged Weapon | 59.00% | ~875 |
+| Defeat 25 Frogs | 59.00% | ~875 |
+| Collect Monster Parts | 55.00% | ~816 |
+| Two Handed Weapon | 54.00% | ~801 |
+| Defeat 25 Grubs | 50.00% | ~742 |
+| Rescue Redgi's Brothers | 50.00% | ~742 |
 | Collect Iron Ore | 45.00% | ~667 |
-| Kitchen Ready To Cook | 44.00% | ~652 |
-| Collect Gold | 43.00% | ~637 |
-| Defeat 25 Mozis | 43.00% | ~637 |
-| Smithy Ready to Craft | 43.00% | ~637 |
+| Kitchen Ready To Cook | 44.00% | ~653 |
+| Collect Gold | 43.00% | ~638 |
+| Defeat 25 Mozis | 43.00% | ~638 |
+| Smithy Ready to Craft | 43.00% | ~638 |
 | Fix the Travellers Wagon | 41.00% | ~608 |
-| Complete Elder Faction | 38.00% | ~563 |
+| Complete Elder Faction | 38.00% | ~564 |
 | End of the Mozis | 35.00% | ~519 |
 | Throne Room Fit For A King | 35.00% | ~519 |
 | Meet the Creatures from the Deep | 33.00% | ~489 |
@@ -31,12 +31,12 @@ Rating: 4.50 (Ranked 538)
 | Complete Ranger Faction | 19.00% | ~282 |
 | Defeat Avor Warden of the Northern Wastes | 18.00% | ~267 |
 | Discover the mystery of the Kings Chambers | 17.00% | ~252 |
-| Complete Arena Faction | 14.00% | ~207 |
+| Complete Arena Faction | 14.00% | ~208 |
 | Complete Redgi's Armory | 7.00% | ~104 |
 | King of Kings | 6.00% | ~89 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,482 (Ranked 157)  
+Progressed: 1,483 (Ranked 157)  
 Completed: 6 (0.40%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 6 (0.40%) (Ranked 112)
 | 2023-05-24 | 1,457 | 6 |
 | 2023-05-25 | 1,466 | 6 |
 | 2023-05-26 | 1,482 | 6 |
+| 2023-05-27 | 1,483 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-mars",
   "Ranking_Rating": 387,
   "Ranking_Popularity": 191,
-  "Ranking_PopularitySum": 148,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 321,
@@ -2619,6 +2619,6 @@
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
   "LastChanged": "2023-05-26T06:58:56.7419873+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:25.1237038+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:59:21.6910124+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:02:53.0979455+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:58:25.6150069+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:01:25.0272142+00:00"
 }

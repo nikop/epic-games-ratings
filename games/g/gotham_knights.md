@@ -25,6 +25,7 @@ Rating: 4.17 (Ranked 837)
 | Bad Apples in Every Orchard | 0.70% | ~436 |
 | From Inside Gotham's Walls | 0.70% | ~436 |
 | End of an Era | 0.60% | ~373 |
+| In Your Element | 0.60% | ~373 |
 | Rock and a Hard Place | 0.60% | ~373 |
 | Not On My Watch | 0.60% | ~373 |
 | Shock Til They Drop | 0.60% | ~373 |
@@ -32,7 +33,6 @@ Rating: 4.17 (Ranked 837)
 | Voiceless | 0.60% | ~373 |
 | Seeking Asylum | 0.60% | ~373 |
 | Gotham Knight | 0.60% | ~373 |
-| In Your Element | 0.50% | ~311 |
 | Bulldozed | 0.50% | ~311 |
 | Out of Their League | 0.40% | ~249 |
 | Drone You Out | 0.40% | ~249 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~33 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,227 (Ranked 70)  
+Progressed: 62,247 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,227 | 91 |
+| 2023-05-27 | 62,247 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,719 (Ranked 137)  

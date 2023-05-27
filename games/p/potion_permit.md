@@ -5,25 +5,25 @@ Rating: 3.79 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,270 |
-| The First Step | 88.00% | ~1,140 |
-| Moonbury Traveller | 63.00% | ~816 |
-| Rookie Chemist | 61.00% | ~791 |
-| Great Doctor | 50.00% | ~648 |
-| Dog Whisperer | 47.00% | ~609 |
-| Friendly | 46.00% | ~596 |
-| The Capitalist | 42.00% | ~544 |
-| K.O.! | 41.00% | ~531 |
+| Welcome to Moonbury | 98.00% | ~1,272 |
+| The First Step | 88.00% | ~1,142 |
+| Moonbury Traveller | 62.00% | ~805 |
+| Rookie Chemist | 61.00% | ~792 |
+| Great Doctor | 50.00% | ~649 |
+| Dog Whisperer | 47.00% | ~610 |
+| Friendly | 45.00% | ~584 |
+| The Capitalist | 42.00% | ~545 |
+| K.O.! | 41.00% | ~532 |
 | Intermediate Chemist | 37.00% | ~480 |
 | Decorative Mind | 31.00% | ~402 |
 | Lumber Specialist | 29.00% | ~376 |
-| Catch of the Day | 23.00% | ~298 |
-| Kind-hearted | 22.00% | ~285 |
-| Amateur Chef | 20.00% | ~259 |
-| Fishing Guru | 17.00% | ~220 |
-| Community Helper | 16.00% | ~207 |
-| Spark of Love | 15.00% | ~194 |
-| Stone Specialist | 13.00% | ~168 |
+| Catch of the Day | 23.00% | ~299 |
+| Kind-hearted | 22.00% | ~286 |
+| Amateur Chef | 20.00% | ~260 |
+| Fishing Guru | 17.00% | ~221 |
+| Community Helper | 16.00% | ~208 |
+| Spark of Love | 14.00% | ~182 |
+| Stone Specialist | 13.00% | ~169 |
 | Expert Chemist | 12.00% | ~156 |
 | Sociable | 11.00% | ~143 |
 | Ablutomaniac | 11.00% | ~143 |
@@ -44,7 +44,7 @@ Rating: 3.79 (Ranked 914)
 | Moonbury Navigator | 0.80% | ~10 |
 | Being a donut... | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,296 (Ranked 159)  
+Progressed: 1,298 (Ranked 159)  
 Completed: 5 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 5 (0.39%) (Ranked 113)
 | 2023-05-24 | 1,281 | 5 |
 | 2023-05-25 | 1,287 | 5 |
 | 2023-05-26 | 1,296 | 5 |
+| 2023-05-27 | 1,298 | 5 |
 ## Awards
 Max (Character Customization): 66  (Ranked 368)  
 Sum: 66 (Ranked 422)  

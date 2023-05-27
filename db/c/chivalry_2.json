@@ -4,7 +4,7 @@
   "ProductSlug": "chivalry-2",
   "Ranking_Rating": 359,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 43,
+  "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 321,
@@ -4863,10 +4863,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 26898,
       "NumberOfAwardsMax": 4127
+    },
+    {
+      "Time": "2023-05-27T01:57:17.3344245+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 26905,
+      "NumberOfAwardsMax": 4127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26898,
+  "NumberOfAwards": 26905,
   "NumberOfAwardsMax": 4127,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -4910,7 +4916,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3981
+      "Count": 3988
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4936,8 +4942,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2023-05-26T21:57:40.1005028+00:00",
+  "LastChanged": "2023-05-27T01:57:17.3344243+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.1673035+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:58:12.6134578+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:04:30.8587257+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:57:17.334425+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:03:30.6055641+00:00"
 }

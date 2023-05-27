@@ -2,9 +2,9 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -86,6 +86,11 @@
       "Time": "2023-05-26T19:02:15.5722462+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T02:01:28.2150943+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -97,7 +102,7 @@
       "Name": "Baby Steps",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "COINS",
@@ -119,7 +124,7 @@
       "ID": "COLLECTOR_TRINKETS",
       "SetID": "63n2m0e",
       "Name": "Jeweller",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -159,7 +164,7 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -207,7 +212,7 @@
       "ID": "PERK_UP",
       "SetID": "63n2m0e",
       "Name": "Perk Up",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -231,7 +236,7 @@
       "ID": "SEWERS_BOSS",
       "SetID": "63n2m0e",
       "Name": "Sewage Treatement",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -264,14 +269,14 @@
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:02:56.6426364+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:01:28.2150938+00:00",
   "LastUpdate_AppInfo": "2023-05-23T19:56:59.3974929+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:57:07.4565004+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:02:56.6426549+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:56:18.0034073+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:01:28.215105+00:00"
 }

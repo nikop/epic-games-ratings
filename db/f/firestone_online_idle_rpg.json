@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -92,7 +92,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -2202,6 +2202,11 @@
       "Time": "2023-05-26T23:05:41.4782528+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T02:05:41.4470535+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2277,7 +2282,7 @@
       "Name": "Challenger",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "conqueror",
@@ -2301,7 +2306,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "doingmypart",
@@ -2317,7 +2322,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "dragonmaster",
@@ -2397,7 +2402,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "fourleafclover",
@@ -2549,7 +2554,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "missionsdedication",
@@ -2605,7 +2610,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "prestigiousx10",
@@ -2613,7 +2618,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "relicofthepast",
@@ -2773,7 +2778,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "warmachinesarmy",
@@ -2805,14 +2810,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 1
     }
   ],
@@ -2820,8 +2825,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-27T00:06:52.2702493+00:00",
+  "LastChanged_Achievements": "2023-05-27T02:05:41.447053+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:58:23.2791785+00:00",
-  "LastUpdate_Achievements": "2023-05-27T00:06:52.2703596+00:00"
+  "LastUpdate_Ratings": "2023-05-27T01:57:28.1102216+00:00",
+  "LastUpdate_Achievements": "2023-05-27T02:05:41.4471222+00:00"
 }

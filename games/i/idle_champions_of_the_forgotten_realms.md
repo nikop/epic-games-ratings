@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
 | Exploring Port Nyanzaru | 0.20% | ~178 |
+| A Tale of Two Cities | 0.20% | ~178 |
 | Running of the Saurs | 0.20% | ~178 |
 | The Contagious Curse | 0.20% | ~178 |
 | An Even Worse Time in Avernus | 0.20% | ~110 |
@@ -290,7 +291,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~89 |
 | Dino Nightmare | 0.10% | ~89 |
 | A Familiar Friend | 0.10% | ~55 |
-| A Tale of Two Cities | 0.10% | ~89 |
 | A Tale of Two Fiends | 0.10% | ~89 |
 | A Tale of Two Champions | 0.10% | ~89 |
 | A Tale of Two Years | 0.10% | ~55 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,777 (Ranked 61)  
-Completed: 1,880 (2.12%) (Ranked 62)  
+Progressed: 88,787 (Ranked 61)  
+Completed: 1,881 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -537,7 +537,7 @@ Completed: 1,880 (2.12%) (Ranked 62)
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
-| 2023-05-27 | 88,777 | 1,880 |
+| 2023-05-27 | 88,787 | 1,881 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,983 (Ranked 37)  
