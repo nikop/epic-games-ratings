@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13970,
+  "EOS_Progressed": 13971,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3061,6 +3061,11 @@
       "Time": "2023-05-27T03:03:45.9896687+00:00",
       "NumProgressed": 13970,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-05-27T04:02:21.7934037+00:00",
+      "NumProgressed": 13971,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 16,
@@ -3080,7 +3085,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "Deadline",
@@ -3144,7 +3149,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "Mirrors",
@@ -3199,15 +3204,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13970,
+      "Progressed": 13971,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:03:45.9896682+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:02:21.7934026+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:37.8656226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:59:56.9952831+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:03:45.9897048+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:58:50.0278498+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:02:21.7934339+00:00"
 }

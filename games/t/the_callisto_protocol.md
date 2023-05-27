@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 824)
 | Recidivist | 0.70% | ~12 |
 | Lifer | 0.70% | ~12 |
 | I Do Belong Here | 0.60% | ~83 |
-| Grim Reaper | 0.30% | ~41 |
+| Grim Reaper | 0.40% | ~55 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
 | Glutton for Punishment | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 824)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,752 (Ranked 102)  
+Progressed: 13,755 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 53 (0.39%) (Ranked 113)
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
-| 2023-05-27 | 13,752 | 53 |
+| 2023-05-27 | 13,755 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 268 (Ranked 335)  

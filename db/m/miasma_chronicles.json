@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -417,6 +417,11 @@
       "Time": "2023-05-27T03:06:48.188461+00:00",
       "NumProgressed": 517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T04:05:12.681152+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -444,7 +449,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ATTENBOROUGH",
@@ -508,7 +513,7 @@
       "Name": "Croaked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CRUELTY",
@@ -586,9 +591,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "EXPERIENCED",
@@ -602,17 +607,17 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 462
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -636,7 +641,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "GIANT_KILLER",
@@ -644,7 +649,7 @@
       "Name": "Giant Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GOAL",
@@ -658,9 +663,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -676,7 +681,7 @@
       "Name": "I am the law!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "INFILTRATOR",
@@ -732,7 +737,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "RECYCLER",
@@ -762,9 +767,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "SHADOW_BOXING",
@@ -794,9 +799,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -812,7 +817,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "THE_WATCHERS",
@@ -835,14 +840,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:06:48.1884606+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:05:12.6811515+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:59:00.3655483+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:06:48.1886961+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:58:08.4522973+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:05:12.6811987+00:00"
 }

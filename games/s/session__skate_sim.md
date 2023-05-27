@@ -6,30 +6,30 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 51.00% | ~1,065 |
-| Keeping it classy | 25.00% | ~522 |
-| Welcome to the family | 18.00% | ~376 |
-| The finer things in life | 17.00% | ~355 |
+| You're free now! | 51.00% | ~1,068 |
+| Keeping it classy | 25.00% | ~524 |
+| Welcome to the family | 18.00% | ~377 |
+| The finer things in life | 17.00% | ~356 |
 | Backpacker | 12.00% | ~251 |
 | Go with the Flow | 12.00% | ~251 |
 | Plastic Surgeon | 9.00% | ~188 |
 | The flip trick crown jewel | 9.00% | ~188 |
-| Keep the dream alive | 8.00% | ~167 |
-| The hard way | 8.00% | ~167 |
-| Upfront shredder | 8.00% | ~167 |
-| Good vibes | 7.00% | ~146 |
-| Fashionista | 6.00% | ~125 |
-| Finally he zips it | 6.00% | ~125 |
-| That pinch! | 6.00% | ~125 |
-| Tight lipslides | 6.00% | ~125 |
-| Bottom ply killer | 5.00% | ~104 |
-| Fulfilled the dream | 5.00% | ~104 |
-| G'Day Mate! | 5.00% | ~104 |
-| Globetrotter | 5.00% | ~104 |
-| NAHELL! | 5.00% | ~104 |
-| Purple passion | 5.00% | ~104 |
-| Squad goals | 5.00% | ~104 |
-| Sup widdit big dog! | 5.00% | ~104 |
+| Keep the dream alive | 8.00% | ~168 |
+| The hard way | 8.00% | ~168 |
+| Upfront shredder | 8.00% | ~168 |
+| Good vibes | 7.00% | ~147 |
+| Fashionista | 6.00% | ~126 |
+| Finally he zips it | 6.00% | ~126 |
+| That pinch! | 6.00% | ~126 |
+| Tight lipslides | 6.00% | ~126 |
+| Bottom ply killer | 5.00% | ~105 |
+| Fulfilled the dream | 5.00% | ~105 |
+| G'Day Mate! | 5.00% | ~105 |
+| Globetrotter | 5.00% | ~105 |
+| NAHELL! | 5.00% | ~105 |
+| Purple passion | 5.00% | ~105 |
+| Squad goals | 5.00% | ~105 |
+| Sup widdit big dog! | 5.00% | ~105 |
 | Commence the Hijinx! | 4.00% | ~84 |
 | Cops called! | 4.00% | ~84 |
 | DIY Boss | 4.00% | ~84 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,089 (Ranked 146)  
+Progressed: 2,094 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 2,066 | 0 |
 | 2023-05-25 | 2,077 | 0 |
 | 2023-05-26 | 2,088 | 0 |
-| 2023-05-27 | 2,089 | 0 |
+| 2023-05-27 | 2,094 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 301)  

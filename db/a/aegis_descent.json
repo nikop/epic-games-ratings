@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -283,9 +283,9 @@
       "ID": "Award_HullKing",
       "SetID": "9ojec6n",
       "Name": "Hull King",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "Award_IntelKing",
@@ -427,9 +427,9 @@
       "ID": "Award_Stunning",
       "SetID": "9ojec6n",
       "Name": "Shocking",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "Award_SwissCheese",
@@ -492,8 +492,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:06:59.2392922+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:05:20.8191597+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:58:57.1615385+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:06:59.2393254+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:58:04.9010738+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:05:20.8191964+00:00"
 }

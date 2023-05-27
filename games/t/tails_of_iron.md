@@ -5,15 +5,15 @@ Rating: 4.50 (Ranked 538)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 77.00% | ~1,142 |
-| Become King | 70.00% | ~1,038 |
-| Ranged Weapon | 59.00% | ~875 |
-| Defeat 25 Frogs | 59.00% | ~875 |
+| Complete Guard Faction | 77.00% | ~1,143 |
+| Become King | 70.00% | ~1,039 |
+| Ranged Weapon | 59.00% | ~876 |
+| Defeat 25 Frogs | 59.00% | ~876 |
 | Collect Monster Parts | 55.00% | ~816 |
 | Two Handed Weapon | 54.00% | ~801 |
 | Defeat 25 Grubs | 50.00% | ~742 |
 | Rescue Redgi's Brothers | 50.00% | ~742 |
-| Collect Iron Ore | 45.00% | ~667 |
+| Collect Iron Ore | 45.00% | ~668 |
 | Kitchen Ready To Cook | 44.00% | ~653 |
 | Collect Gold | 43.00% | ~638 |
 | Defeat 25 Mozis | 43.00% | ~638 |
@@ -22,9 +22,9 @@ Rating: 4.50 (Ranked 538)
 | Complete Elder Faction | 38.00% | ~564 |
 | End of the Mozis | 35.00% | ~519 |
 | Throne Room Fit For A King | 35.00% | ~519 |
-| Meet the Creatures from the Deep | 33.00% | ~489 |
-| Return Power To The Depths | 33.00% | ~489 |
-| Defeat Ratnor Rodentson | 27.00% | ~400 |
+| Meet the Creatures from the Deep | 33.00% | ~490 |
+| Return Power To The Depths | 33.00% | ~490 |
+| Defeat Ratnor Rodentson | 27.00% | ~401 |
 | Return the Statues | 24.00% | ~356 |
 | Defeat Rattus Augustail | 24.00% | ~356 |
 | Complete the Chefs Book | 22.00% | ~326 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 538)
 | King of Kings | 6.00% | ~89 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,483 (Ranked 157)  
+Progressed: 1,484 (Ranked 157)  
 Completed: 6 (0.40%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 6 (0.40%) (Ranked 112)
 | 2023-05-24 | 1,457 | 6 |
 | 2023-05-25 | 1,466 | 6 |
 | 2023-05-26 | 1,482 | 6 |
-| 2023-05-27 | 1,483 | 6 |
+| 2023-05-27 | 1,484 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

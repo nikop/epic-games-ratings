@@ -9,9 +9,9 @@
 | EXTRA BOOST | 40.00% | ~1,032 |
 | PRO | 31.00% | ~800 |
 | PROTECTED | 29.00% | ~748 |
-| A TIGER'S FEAR | 28.00% | ~722 |
-| HERE ARE SOME BARE NECESSITIES | 28.00% | ~722 |
-| AGGRESSIVE RACER | 28.00% | ~722 |
+| A TIGER'S FEAR | 28.00% | ~723 |
+| HERE ARE SOME BARE NECESSITIES | 28.00% | ~723 |
+| AGGRESSIVE RACER | 28.00% | ~723 |
 | ACE SPEEDSTER | 21.00% | ~542 |
 | IT'S A LONG WAY TO THE TOP | 16.00% | ~413 |
 | RELEASE THE KRAKEN | 10.00% | ~258 |
@@ -29,7 +29,7 @@
 | FRAMED! | 1.00% | ~26 |
 | PERFECTLY POISED | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,580 (Ranked 140)  
+Progressed: 2,581 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 1 (0.04%) (Ranked 178)
 | 2023-05-24 | 2,555 | 0 |
 | 2023-05-25 | 2,562 | 0 |
 | 2023-05-26 | 2,578 | 1 |
-| 2023-05-27 | 2,580 | 1 |
+| 2023-05-27 | 2,581 | 1 |

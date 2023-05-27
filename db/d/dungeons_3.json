@@ -2086,9 +2086,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 17704,
+  "EOS_Progressed": 17705,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -5656,6 +5656,11 @@
       "Time": "2023-05-27T03:04:51.8484022+00:00",
       "NumProgressed": 17704,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-05-27T04:03:31.2805765+00:00",
+      "NumProgressed": 17705,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 60,
@@ -5667,7 +5672,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10445
+      "UsersEstimate": 10446
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -5683,7 +5688,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -5755,7 +5760,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -5779,7 +5784,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9029
+      "UsersEstimate": 9030
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -5803,7 +5808,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -5891,7 +5896,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -5995,7 +6000,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5311
+      "UsersEstimate": 5312
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -6027,7 +6032,7 @@
       "Name": "Factory farming",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -6043,7 +6048,7 @@
       "Name": "Damned good",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6196
+      "UsersEstimate": 6197
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -6067,7 +6072,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12393
+      "UsersEstimate": 12394
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -6115,7 +6120,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5488
+      "UsersEstimate": 5489
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -6131,7 +6136,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -6146,15 +6151,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 17704,
+      "Progressed": 17705,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-26T13:59:37.2668151+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:04:51.8484017+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:03:31.2805759+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.7478417+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:00:07.3785643+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:04:51.8484752+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:58:56.1707658+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:03:31.2806579+00:00"
 }

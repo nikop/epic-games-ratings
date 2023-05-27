@@ -25,6 +25,7 @@
 | Easy Peasy | 4.00% | ~0 |
 | Bring Home The Bacon | 2.00% | ~1 |
 | 15K | 2.00% | ~1 |
+| I Believe I Can Fly | 2.00% | ~1 |
 | Skin Of Your Teeth | 2.00% | ~1 |
 | Quit Horsin' Around | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
@@ -45,7 +46,6 @@
 | Fresh Pancake | 0.00% | ~0 |
 | 15 Days | 0.00% | ~0 |
 | 30 Days | 0.00% | ~0 |
-| I Believe I Can Fly | 0.00% | ~0 |
 | Drinking Problem | 0.00% | ~0 |
 | Getting Started | 0.00% | ~0 |
 | Honk Honk | 0.00% | ~0 |

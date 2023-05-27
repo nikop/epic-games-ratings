@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~178 |
 | The Dinner Party | 0.20% | ~178 |
 | The Crumbling Temple | 0.20% | ~178 |
+| The Death Curse | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
 | Exploring Port Nyanzaru | 0.20% | ~178 |
 | A Tale of Two Cities | 0.20% | ~178 |
@@ -49,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.20% | ~178 |
 | Waterdeep Detours | 0.20% | ~178 |
 | Underdeep Cartography | 0.20% | ~178 |
+| Overdue Rendezvous | 0.20% | ~178 |
 | The Templar's Camp | 0.20% | ~178 |
 | Rescue in the Jungle | 0.20% | ~178 |
 | Pros and CONs | 0.10% | ~89 |
@@ -239,7 +241,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~89 |
 | Our Time To Shine | 0.10% | ~89 |
 | Review by the Blackstaff | 0.10% | ~55 |
-| The Death Curse | 0.10% | ~89 |
 | Treasure Hunters | 0.10% | ~89 |
 | The Guardian of Orolunga | 0.10% | ~89 |
 | Think Your Way Out Of It | 0.10% | ~89 |
@@ -416,7 +417,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~89 |
 | Easily Distracted | 0.10% | ~89 |
 | Rude Welcome | 0.10% | ~89 |
-| Overdue Rendezvous | 0.10% | ~89 |
 | Moose Tracks | 0.10% | ~55 |
 | An Awakened Axe | 0.10% | ~55 |
 | CONtagious Cold | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,791 (Ranked 61)  
+Progressed: 88,795 (Ranked 61)  
 Completed: 1,881 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 1,881 (2.12%) (Ranked 62)
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
-| 2023-05-27 | 88,791 | 1,881 |
+| 2023-05-27 | 88,795 | 1,881 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,983 (Ranked 37)  

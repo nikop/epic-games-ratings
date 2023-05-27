@@ -10,7 +10,7 @@
 | Brilliant Day | 93.00% | ~143 |
 | Evil Genius | 87.00% | ~134 |
 | Air Defense | 84.00% | ~129 |
-| Tinned Corpse | 82.00% | ~126 |
+| Tinned Corpse | 83.00% | ~128 |
 | Your War is Over | 81.00% | ~125 |
 | The Starry Night | 74.00% | ~114 |
 | Go Home! | 74.00% | ~114 |

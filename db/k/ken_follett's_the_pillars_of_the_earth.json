@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12724,
+  "EOS_Progressed": 12725,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2708,6 +2708,11 @@
       "Time": "2023-05-27T02:05:20.6917298+00:00",
       "NumProgressed": 12724,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-27T04:05:12.4840058+00:00",
+      "NumProgressed": 12725,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2727,7 +2732,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "tpote_achievement_11",
@@ -2775,7 +2780,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "tpote_achievement_17",
@@ -2807,7 +2812,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "tpote_achievement_20",
@@ -2823,7 +2828,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "tpote_achievement_22",
@@ -2863,7 +2868,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "tpote_achievement_27",
@@ -3031,7 +3036,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "tpote_achievement_9",
@@ -3046,15 +3051,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12724,
+      "Progressed": 12725,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T03:01:17.1646358+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:06:47.8785474+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:05:12.4840054+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:01:17.1646364+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:06:47.8785964+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:59:45.0366384+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:05:12.4840534+00:00"
 }

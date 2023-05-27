@@ -1066,9 +1066,9 @@
       "ID": "ACH_BAD_ENDING",
       "SetID": "5nj1ea3",
       "Name": "This is the end",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1308
     },
     {
       "ID": "ACH_BE_PREPARED",
@@ -1507,8 +1507,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:07:43.22366+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:05:46.5995724+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:42.4160618+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:01:51.6061254+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:07:43.2237201+00:00"
+  "LastUpdate_Ratings": "2023-05-27T04:00:10.753382+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:05:46.5996352+00:00"
 }

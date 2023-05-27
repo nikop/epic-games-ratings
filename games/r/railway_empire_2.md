@@ -7,30 +7,30 @@
 | A new Journey | 66.00% | ~150 |
 | Country Bumpkin | 66.00% | ~150 |
 | Departure | 65.00% | ~148 |
-| From X to Y | 63.00% | ~143 |
-| Way of Iron | 63.00% | ~143 |
+| From X to Y | 63.00% | ~144 |
+| Way of Iron | 63.00% | ~144 |
 | Brainstorm | 62.00% | ~141 |
-| Mind the Gap | 59.00% | ~134 |
+| Mind the Gap | 59.00% | ~135 |
 | Mystery Tour | 58.00% | ~132 |
-| We brake for nobody | 57.00% | ~129 |
+| We brake for nobody | 57.00% | ~130 |
 | All around the World | 55.00% | ~125 |
 | Travel Company | 54.00% | ~123 |
 | Apprentice | 51.00% | ~116 |
-| Right through the middle | 47.00% | ~107 |
+| Right through the middle | 48.00% | ~109 |
 | Stoker | 39.00% | ~89 |
-| Poor Devil | 38.00% | ~86 |
+| Poor Devil | 38.00% | ~87 |
 | Facility Manager | 36.00% | ~82 |
-| Producer | 34.00% | ~77 |
-| Access granted | 24.00% | ~54 |
-| Bridge Builder | 23.00% | ~52 |
+| Producer | 35.00% | ~80 |
+| Access granted | 24.00% | ~55 |
+| Bridge Builder | 24.00% | ~55 |
 | Going once, going twice, sold | 14.00% | ~32 |
 | Seven at one stroke | 13.00% | ~30 |
-| Full Steam ahead | 12.00% | ~27 |
+| Full Steam ahead | 13.00% | ~30 |
+| Bull and bear | 10.00% | ~23 |
 | All mine | 8.00% | ~18 |
-| Bull and bear | 8.00% | ~18 |
 | Mole | 7.00% | ~16 |
 | Financial Shark | 7.00% | ~16 |
-| Trailblazer | 4.00% | ~9 |
+| Trailblazer | 5.00% | ~11 |
 | General Manager | 4.00% | ~9 |
 | Country Life | 4.00% | ~9 |
 | Hostile Takeover | 4.00% | ~9 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 231)  
+Progressed: 228 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 12 | 0 |
 | 2023-05-25 | 119 | 0 |
 | 2023-05-26 | 223 | 0 |
-| 2023-05-27 | 227 | 0 |
+| 2023-05-27 | 228 | 0 |

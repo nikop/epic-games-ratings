@@ -33,7 +33,7 @@
 | Read It And Weep | 17.00% | ~44 |
 | Reawakened | 7.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258 (Ranked 225)  
+Progressed: 258 (Ranked 226)  
 Completed: 12 (4.65%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4236,9 +4236,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705542,
+  "EOS_Progressed": 705553,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1916,
+  "EOS_NewPlayers": 1895,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7341,6 +7341,11 @@
       "Time": "2023-05-27T03:07:32.0329015+00:00",
       "NumProgressed": 705542,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T04:05:38.0547861+00:00",
+      "NumProgressed": 705553,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7368,7 +7373,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7552,15 +7557,15 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "27_ShrineBody",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Essence",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5644
+      "UsersEstimate": 6350
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7688,7 +7693,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7704,7 +7709,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7736,7 +7741,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7751,21 +7756,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14843,
+      "Progressed": 14854,
       "Completed": 10176
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705542,
+      "Progressed": 705553,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:07:32.032901+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:05:38.0547856+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:59:55.4016184+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:07:32.0329692+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:58:48.7251627+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:05:38.0548516+00:00"
 }

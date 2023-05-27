@@ -206,9 +206,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "631ndc2",
       "Name": "Perfect Illusion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -350,9 +350,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "631ndc2",
       "Name": "Hundred Percent First",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -607,8 +607,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:07:27.9310916+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:05:34.9451813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-27T02:59:49.9348723+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:07:27.9311461+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:58:44.2441946+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:05:34.9452252+00:00"
 }

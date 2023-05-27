@@ -10,7 +10,7 @@
 | Expert Mason | 17.00% | ~2 |
 | Grand Mason | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 333)  
+Progressed: 12 (Ranked 334)  
 Completed: 1 (8.33%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4317,9 +4317,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51024,
+  "EOS_Progressed": 51025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7817,6 +7817,11 @@
       "Time": "2023-05-27T03:07:40.8783911+00:00",
       "NumProgressed": 51024,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T04:05:44.740683+00:00",
+      "NumProgressed": 51025,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7836,7 +7841,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7143
+      "UsersEstimate": 7144
     },
     {
       "ID": "Bannerlord",
@@ -7996,7 +8001,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7143
+      "UsersEstimate": 7144
     },
     {
       "ID": "I spit on your grave",
@@ -8052,7 +8057,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15307
+      "UsersEstimate": 15308
     },
     {
       "ID": "Lawbringer",
@@ -8060,7 +8065,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17858
+      "UsersEstimate": 17859
     },
     {
       "ID": "Lawmaker",
@@ -8084,7 +8089,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "Minor Clan",
@@ -8188,7 +8193,7 @@
       "Name": "This Is Our Land",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "This is Sparta",
@@ -8235,15 +8240,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51024,
+      "Progressed": 51025,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-26T18:59:25.9105476+00:00",
-  "LastChanged_Achievements": "2023-05-27T03:07:40.8783906+00:00",
+  "LastChanged_Achievements": "2023-05-27T04:05:44.7406824+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:00:57.5500923+00:00",
-  "LastUpdate_Achievements": "2023-05-27T03:07:40.8784594+00:00"
+  "LastUpdate_Ratings": "2023-05-27T03:59:30.4593038+00:00",
+  "LastUpdate_Achievements": "2023-05-27T04:05:44.74077+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 88.00% | ~96 |
-| Wake Up | 80.00% | ~87 |
-| Time Gates | 60.00% | ~65 |
-| Command Centre | 47.00% | ~51 |
+| It's Rewind Time | 89.00% | ~98 |
+| Wake Up | 80.00% | ~88 |
+| Time Gates | 59.00% | ~65 |
+| Command Centre | 46.00% | ~51 |
 | This is a Wall | 44.00% | ~48 |
 | 48 Attempts | 32.00% | ~35 |
 | Extendable Bridges | 31.00% | ~34 |
@@ -21,18 +21,18 @@
 | Archivist | 10.00% | ~11 |
 | Looper | 8.00% | ~9 |
 | Cataclysm | 7.00% | ~8 |
-| So Close | 6.00% | ~7 |
-| Transformers, cubes in disguise | 6.00% | ~7 |
-| Kaboom! | 6.00% | ~7 |
-| All Alone | 6.00% | ~7 |
 | Final Charge | 6.00% | ~7 |
-| Reunited | 6.00% | ~7 |
+| So Close | 5.00% | ~6 |
+| Transformers, cubes in disguise | 5.00% | ~6 |
+| Kaboom! | 5.00% | ~6 |
+| All Alone | 5.00% | ~6 |
+| Reunited | 5.00% | ~6 |
 | Summer Luvin' | 3.00% | ~3 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 262)  
+Progressed: 110 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 100 | 0 |
 | 2023-05-25 | 104 | 0 |
 | 2023-05-26 | 107 | 0 |
-| 2023-05-27 | 109 | 0 |
+| 2023-05-27 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
