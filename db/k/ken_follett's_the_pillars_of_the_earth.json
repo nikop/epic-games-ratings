@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12758,
+  "EOS_Progressed": 12759,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2794,6 +2794,11 @@
       "Time": "2023-05-27T22:05:25.4409284+00:00",
       "NumProgressed": 12758,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-27T23:05:10.6907351+00:00",
+      "NumProgressed": 12759,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2813,7 +2818,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "tpote_achievement_11",
@@ -2893,7 +2898,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "tpote_achievement_20",
@@ -2997,7 +3002,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "tpote_achievement_32",
@@ -3069,7 +3074,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "tpote_achievement_40",
@@ -3132,15 +3137,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12758,
+      "Progressed": 12759,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:25.4409278+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:10.6907346+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:59:43.9508704+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:25.4409666+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:59:30.245276+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:10.6907816+00:00"
 }

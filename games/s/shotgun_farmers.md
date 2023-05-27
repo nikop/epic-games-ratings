@@ -14,10 +14,10 @@
 | First Blood | 12.00% | ~7 |
 | Amateur Survivor | 10.00% | ~1 |
 | I Believe I Can Fly | 8.00% | ~5 |
+| No Asperascope | 8.00% | ~5 |
 | Triple Kill | 8.00% | ~5 |
 | Oh My Gourd | 8.00% | ~1 |
 | Grave Digger | 8.00% | ~1 |
-| No Asperascope | 7.00% | ~4 |
 | Perfect | 7.00% | ~1 |
 | Professional Survivor | 7.00% | ~1 |
 | Expert Survivor | 7.00% | ~1 |

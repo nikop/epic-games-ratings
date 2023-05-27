@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-tomb-raider",
   "Ranking_Rating": 214,
   "Ranking_Popularity": 32,
-  "Ranking_PopularitySum": 64,
+  "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 324,
@@ -3200,6 +3200,6 @@
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
   "LastChanged": "2023-05-27T11:58:40.3078853+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:53.1270833+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:12.1450424+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:03:29.0121096+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:57:57.6932878+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:03:13.7842281+00:00"
 }

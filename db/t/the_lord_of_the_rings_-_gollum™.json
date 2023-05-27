@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -305,6 +305,11 @@
       "Time": "2023-05-27T22:05:23.2341065+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T23:05:08.4118261+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -330,17 +335,17 @@
       "ID": "CatchAFish",
       "SetID": "70l3651",
       "Name": "And now we wish...",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 171
     },
     {
       "ID": "Chapter10",
@@ -356,15 +361,15 @@
       "Name": "The Maggot",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "Chapter4",
@@ -418,9 +423,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "Collectibles2",
@@ -468,7 +473,7 @@
       "Name": "Like Flying...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "GollumChoices",
@@ -482,9 +487,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "Memories",
@@ -492,7 +497,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Murderer",
@@ -594,23 +599,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:23.2341061+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:08.4118257+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:57:53.7776735+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:23.2341295+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:57:38.5667183+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:08.4118542+00:00"
 }

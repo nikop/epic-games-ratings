@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2798,
+  "EOS_Progressed": 2801,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2023-05-27T20:07:25.1617338+00:00",
       "NumProgressed": 2798,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-27T23:05:38.4822052+00:00",
+      "NumProgressed": 2801,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1468,7 +1473,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2521
     },
     {
       "ID": "campaign10",
@@ -1514,9 +1519,9 @@
       "ID": "campaign15",
       "SetID": "2h56gn1",
       "Name": "Almost Like Winning",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 56
     },
     {
       "ID": "campaign16",
@@ -1556,7 +1561,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2241
     },
     {
       "ID": "campaign20",
@@ -1572,7 +1577,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1821
     },
     {
       "ID": "campaign4",
@@ -1580,15 +1585,15 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 476
     },
     {
       "ID": "campaign6",
@@ -1604,7 +1609,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "campaign8",
@@ -1628,7 +1633,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "scenario2",
@@ -1683,7 +1688,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2798,
+      "Progressed": 2801,
       "Completed": 9
     }
   ],
@@ -1691,8 +1696,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:52.4343271+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:38.4822048+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:59:56.8620573+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:52.4343541+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:59:42.7908276+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:38.4822379+00:00"
 }

@@ -15,9 +15,9 @@
 | Finger-Lickin' Bad | 18.00% | ~8 |
 | Set Sail | 18.00% | ~8 |
 | Backstory Buff | 16.00% | ~7 |
+| Flying High | 16.00% | ~7 |
 | A Box of Tricks | 13.00% | ~6 |
 | Breathless End | 13.00% | ~6 |
-| Flying High | 13.00% | ~6 |
 | Fool's Gold | 4.00% | ~2 |
 | Freedum Fighter | 4.00% | ~2 |
 | Escape Artist | 2.00% | ~1 |

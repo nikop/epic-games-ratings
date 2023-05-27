@@ -6,7 +6,7 @@
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
@@ -35,11 +35,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.8924559+00:00",
@@ -175,6 +175,11 @@
       "Time": "2023-05-27T22:05:40.3415937+00:00",
       "NumProgressed": 377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T23:05:25.828186+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -258,7 +263,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "finished-quest-cube",
@@ -266,7 +271,7 @@
       "Name": "Impossible Cube",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "finished-quest-flight",
@@ -282,7 +287,7 @@
       "Name": "Campaigning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "finished-quest-nurgle",
@@ -290,7 +295,7 @@
       "Name": "Feed a God",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "finished-quest-pit",
@@ -330,7 +335,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "finished-quest-sword",
@@ -354,7 +359,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "last-hero",
@@ -400,17 +405,17 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 272
     },
     {
       "ID": "win-first-level",
       "SetID": "799afm0",
       "Name": "Good start!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 314
     },
     {
       "ID": "win-koth-fights1",
@@ -440,9 +445,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 147
     },
     {
       "ID": "win-with-3-cultists",
@@ -450,7 +455,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "win-with-mrakus",
@@ -465,7 +470,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 1
     }
   ],
@@ -473,8 +478,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:40.3415934+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:25.8281853+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:39.2462672+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:40.3416134+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:58:25.8027768+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:25.8282122+00:00"
 }

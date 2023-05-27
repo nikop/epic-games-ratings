@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 193,
+  "Ranking_Rating": 194,
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 423,
@@ -391,6 +391,6 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:38.1771267+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:56.2146645+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:04:37.6871466+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:58:42.9263671+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:04:22.4963156+00:00"
 }

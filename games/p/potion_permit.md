@@ -37,10 +37,10 @@ Rating: 3.79 (Ranked 916)
 | Plantation Exterminator | 4.00% | ~52 |
 | Grape Supplier | 4.00% | ~52 |
 | Sous Chef | 3.00% | ~39 |
+| Community Advisor | 2.00% | ~26 |
 | Rock Exterminator | 2.00% | ~26 |
 | Tree Exterminator | 2.00% | ~26 |
 | Being forgetful... | 1.00% | ~13 |
-| Community Advisor | 1.00% | ~13 |
 | Moonbury Navigator | 0.80% | ~10 |
 | Being a donut... | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)

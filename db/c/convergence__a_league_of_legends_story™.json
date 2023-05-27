@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -444,6 +444,11 @@
       "Time": "2023-05-27T22:04:48.4531706+00:00",
       "NumProgressed": 437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T23:04:33.2625139+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -567,15 +572,15 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 320
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -637,17 +642,17 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 180
     },
     {
       "ID": "MapCompletion1",
@@ -661,9 +666,9 @@
       "ID": "NoCritterSump",
       "SetID": "a9e499d",
       "Name": "Wildlife Protection",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NoDeathRun",
@@ -709,17 +714,17 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 215
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 175
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -733,9 +738,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "RewindDamage1",
@@ -743,15 +748,15 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 223
     },
     {
       "ID": "ScrambotCompletion1",
@@ -765,9 +770,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "SkillCompletion1",
@@ -805,9 +810,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "TemporalPulseKills1",
@@ -837,9 +842,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 184
     },
     {
       "ID": "WatcherFought",
@@ -878,14 +883,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:04:48.4531702+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:04:33.2625135+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:59:17.6216198+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:04:48.453208+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:59:04.7195974+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:04:33.2625604+00:00"
 }

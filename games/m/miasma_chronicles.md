@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~565 |
-| Ranidaphobia | 66.00% | ~414 |
-| Aspiring Editor | 61.00% | ~383 |
-| Gun for Hire | 55.00% | ~345 |
-| I am the law! | 41.00% | ~257 |
-| From Darkness to Light | 23.00% | ~144 |
-| Lumberjack | 23.00% | ~144 |
-| Firestarter | 21.00% | ~132 |
-| Limp Richard | 19.00% | ~119 |
-| Croaked | 17.00% | ~107 |
-| Editor Adept | 14.00% | ~88 |
-| Exorcist | 14.00% | ~88 |
-| Giant Killer | 11.00% | ~69 |
-| The meaning of Kain | 10.00% | ~63 |
+| First Blood | 90.00% | ~572 |
+| Ranidaphobia | 66.00% | ~419 |
+| Aspiring Editor | 61.00% | ~387 |
+| Gun for Hire | 55.00% | ~349 |
+| I am the law! | 41.00% | ~260 |
+| From Darkness to Light | 23.00% | ~146 |
+| Lumberjack | 23.00% | ~146 |
+| Firestarter | 21.00% | ~133 |
+| Limp Richard | 19.00% | ~121 |
+| Croaked | 18.00% | ~114 |
+| Exorcist | 15.00% | ~95 |
+| Editor Adept | 14.00% | ~89 |
+| Giant Killer | 11.00% | ~70 |
+| The meaning of Kain | 10.00% | ~64 |
 | Hold The Line | 9.00% | ~57 |
-| Sensei | 8.00% | ~50 |
+| Sensei | 9.00% | ~57 |
 | Newtonian Knockout | 7.00% | ~44 |
 | Chain Killer | 6.00% | ~38 |
 | Recycler | 6.00% | ~38 |
 | Technophobe | 6.00% | ~38 |
-| There Can Be Only One! | 5.00% | ~31 |
+| There Can Be Only One! | 6.00% | ~38 |
 | Are you not entertained? | 4.00% | ~25 |
-| Ganglord | 4.00% | ~25 |
-| Jarhead | 4.00% | ~25 |
-| Wipe Out | 4.00% | ~25 |
 | Chain Reaction | 3.00% | ~19 |
+| Ganglord | 3.00% | ~19 |
+| Jarhead | 3.00% | ~19 |
 | Infiltrator | 3.00% | ~19 |
 | Pushing Daisy | 3.00% | ~19 |
 | Ruthless | 3.00% | ~19 |
+| Wipe Out | 3.00% | ~19 |
 | Commando | 2.00% | ~13 |
 | Curveball | 2.00% | ~13 |
 | Experienced | 2.00% | ~13 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628 (Ranked 188)  
+Progressed: 635 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
-| 2023-05-27 | 628 | 0 |
+| 2023-05-27 | 635 | 0 |

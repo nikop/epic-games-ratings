@@ -358,9 +358,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "completeact2",
@@ -398,9 +398,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "scoreminrankrb2",
@@ -414,9 +414,9 @@
       "ID": "scoreminrankrf1",
       "SetID": "40n95i5",
       "Name": "86\u0027s Nightmare",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "scoreminrankrf2",
@@ -438,9 +438,9 @@
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrp2",
@@ -487,8 +487,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:00:37.9007011+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:00:25.4072019+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:44.1896084+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:00:37.9007131+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:58:31.6114549+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:00:25.4072163+00:00"
 }

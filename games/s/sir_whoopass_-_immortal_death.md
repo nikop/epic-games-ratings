@@ -26,28 +26,28 @@
 | Honk honk! | 44.00% | ~27 |
 | My pants squeak when I walk | 44.00% | ~27 |
 | Thats disgusting! | 40.00% | ~25 |
+| Cockadoodledoo! | 40.00% | ~25 |
 | Surprise!! | 39.00% | ~24 |
-| Cockadoodledoo! | 39.00% | ~24 |
 | Make America Grate Again | 35.00% | ~22 |
 | Self assessed tax return | 35.00% | ~22 |
 | Karaoke king | 35.00% | ~22 |
 | Pasta Bolognese | 34.00% | ~21 |
 | You are no match for me, Billy! | 32.00% | ~20 |
+| You can't stop me, bro! | 32.00% | ~20 |
 | Haemochromatosis | 32.00% | ~20 |
 | Catch the bus with me! | 31.00% | ~19 |
-| You can't stop me, bro! | 31.00% | ~19 |
 | Meatballs, coming up! | 29.00% | ~18 |
 | I'm going to get a concussion | 27.00% | ~17 |
 | Another one bites the iron | 26.00% | ~16 |
 | A Megapint...? | 21.00% | ~13 |
-| Hovering around | 19.00% | ~12 |
-| Ripe Meat Off The Bone! | 18.00% | ~11 |
+| Hovering around | 21.00% | ~13 |
+| Ripe Meat Off The Bone! | 19.00% | ~12 |
+| Kleptomaniac | 18.00% | ~11 |
 | Your daily dose of Vitamin C. | 16.00% | ~10 |
-| Kleptomaniac | 16.00% | ~10 |
 | You're not so Big anymore, Boi! | 15.00% | ~9 |
+| Slimy... yet satisfying | 15.00% | ~9 |
 | Just wing it! | 13.00% | ~8 |
 | I cant stand still! | 13.00% | ~8 |
-| Slimy... yet satisfying | 13.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |
 | Deal with it | 11.00% | ~7 |
 | Ancient Ruins of Dirty Feet | 10.00% | ~6 |

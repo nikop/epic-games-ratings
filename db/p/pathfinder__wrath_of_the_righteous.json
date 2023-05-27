@@ -2552,9 +2552,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9261,
+  "EOS_Progressed": 9264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4707,6 +4707,11 @@
       "Time": "2023-05-27T22:05:57.935195+00:00",
       "NumProgressed": 9261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T23:05:44.0124291+00:00",
+      "NumProgressed": 9264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4718,7 +4723,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "02_BurningCity",
@@ -4750,7 +4755,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -4774,7 +4779,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "09_PathOfDemon",
@@ -5110,7 +5115,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -5645,21 +5650,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8043,
+      "Progressed": 8046,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9261,
+      "Progressed": 9264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-27T17:58:16.8755544+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:57.9351945+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:44.0124286+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:20.6331618+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:57.9353348+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:58:06.395748+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:44.0126087+00:00"
 }

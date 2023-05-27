@@ -4,7 +4,7 @@
   "ProductSlug": "thecycle",
   "Ranking_Rating": 862,
   "Ranking_Popularity": 96,
-  "Ranking_PopularitySum": 61,
+  "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 324,
@@ -4796,10 +4796,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 15315,
       "NumberOfAwardsMax": 2319
+    },
+    {
+      "Time": "2023-05-27T22:58:04.6251095+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13102,
+      "NumberOfAwardsMax": 2319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15315,
+  "NumberOfAwards": 13102,
   "NumberOfAwardsMax": 2319,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4857,8 +4863,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-05-27T19:58:54.5459549+00:00",
+  "LastChanged": "2023-05-27T22:58:04.6251093+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.2114063+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:19.093981+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:03:41.4236894+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:58:04.6251101+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:03:26.282608+00:00"
 }

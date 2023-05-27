@@ -6,12 +6,12 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,901 |
+| Lawbringer | 35.00% | ~17,902 |
 | Landlord | 30.00% | ~15,344 |
 | Lawmaker | 21.00% | ~10,741 |
-| Bannerlord | 20.00% | ~10,229 |
-| Horde breaker | 20.00% | ~10,229 |
-| Trained | 20.00% | ~10,229 |
+| Bannerlord | 20.00% | ~10,230 |
+| Horde breaker | 20.00% | ~10,230 |
+| Trained | 20.00% | ~10,230 |
 | The king is pleased | 16.00% | ~8,184 |
 | King Solomon | 15.00% | ~7,672 |
 | Apple of my eye | 14.00% | ~7,161 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,147 (Ranked 75)  
+Progressed: 51,148 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,11 +95,11 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-24 | 50,836 | 0 |
 | 2023-05-25 | 50,908 | 0 |
 | 2023-05-26 | 51,010 | 0 |
-| 2023-05-27 | 51,147 | 0 |
+| 2023-05-27 | 51,148 | 0 |
 ## Awards
 Max (Character Customization): 6,582  (Ranked 49)  
-Sum: 13,170 (Ranked 68)  
-Diff (max vs sum): -19  
+Sum: 13,171 (Ranked 67)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,582 |
@@ -110,7 +110,7 @@ Diff (max vs sum): -19
 | This game has Amazing Storytelling | 735 |
 | This game has Quickly Understood Controls | 727 |
 | This game has Amazing Characters | 721 |
-| This game is Relaxing | 720 |
+| This game is Relaxing | 721 |
 | This game has a Creative Community | 524 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -249,4 +249,4 @@ Diff (max vs sum): -19
 | 2023-05-24 | 4.74 | - | 6,570 | 13,138 |
 | 2023-05-25 | 4.74 | - | 6,575 | 13,147 |
 | 2023-05-26 | 4.74 | - | 6,582 | 13,162 |
-| 2023-05-27 | 4.74 | - | 6,582 | 13,170 |
+| 2023-05-27 | 4.74 | - | 6,582 | 13,171 |

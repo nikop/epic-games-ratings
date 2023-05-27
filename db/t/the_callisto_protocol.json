@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -446,9 +446,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13837,
+  "EOS_Progressed": 13841,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1806,6 +1806,11 @@
       "Time": "2023-05-27T22:03:47.3796191+00:00",
       "NumProgressed": 13837,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T23:03:32.2154696+00:00",
+      "NumProgressed": 13841,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1879,9 +1884,9 @@
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -1935,9 +1940,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 277
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1985,7 +1990,7 @@
       "Name": "Reforged",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1993,7 +1998,7 @@
       "Name": "Paper Jams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2136,13 +2141,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13837,
+      "Progressed": 13841,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1763,
+      "Progressed": 1767,
       "Completed": 29
     }
   ],
@@ -2150,8 +2155,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-27T17:57:48.7844569+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:03:47.3796186+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:03:32.2154687+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:57:58.9436101+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:03:47.3796515+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:57:44.0097107+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:03:32.21551+00:00"
 }

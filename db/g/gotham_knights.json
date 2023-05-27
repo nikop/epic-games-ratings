@@ -1268,9 +1268,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62415,
+  "EOS_Progressed": 62420,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4033,6 +4033,11 @@
       "Time": "2023-05-27T22:05:56.1523839+00:00",
       "NumProgressed": 62415,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T23:05:42.3035373+00:00",
+      "NumProgressed": 62420,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4124,7 +4129,7 @@
       "Name": "End of an Era",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "APPLY_STATUS",
@@ -4132,7 +4137,7 @@
       "Name": "In Your Element",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "CHALLENGES_1",
@@ -4204,7 +4209,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -4220,7 +4225,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -4252,7 +4257,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -4290,9 +4295,9 @@
       "ID": "FREEZE_3",
       "SetID": "4eo5ebm",
       "Name": "Cooldown",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 437
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -4450,9 +4455,9 @@
       "ID": "MYSTERY_03",
       "SetID": "4eo5ebm",
       "Name": "Lock and Key",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 562
     },
     {
       "ID": "MYSTERY_04",
@@ -4482,9 +4487,9 @@
       "ID": "MYSTERY_07",
       "SetID": "4eo5ebm",
       "Name": "Seeking Asylum",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 437
     },
     {
       "ID": "MYSTERY_08",
@@ -4492,7 +4497,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "SECRET_CACHE",
@@ -4531,13 +4536,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62415,
+      "Progressed": 62420,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32695,
+      "Progressed": 32700,
       "Completed": 2642
     }
   ],
@@ -4545,8 +4550,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T20:59:29.0881115+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:56.1523834+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:42.303537+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:59:33.0213899+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:56.1524426+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:59:19.8352388+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:42.3036136+00:00"
 }

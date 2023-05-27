@@ -10,8 +10,8 @@ Rating: 4.19 (Ranked 825)
 | Giving Back | 5.00% | ~692 |
 | Chew 'Em Up | 5.00% | ~692 |
 | Desperate Times | 5.00% | ~692 |
-| Reforged | 4.00% | ~553 |
-| Paper Jams | 4.00% | ~553 |
+| Reforged | 4.00% | ~554 |
+| Paper Jams | 4.00% | ~554 |
 | Instigator | 4.00% | ~71 |
 | Big Game Hunter | 4.00% | ~71 |
 | Get a Grip | 3.00% | ~415 |
@@ -19,6 +19,7 @@ Rating: 4.19 (Ranked 825)
 | Float Like A Butterfly | 3.00% | ~415 |
 | If the SHU Fits... | 3.00% | ~415 |
 | Bear Trap | 3.00% | ~53 |
+| Two Heads Are Better Than One | 2.00% | ~277 |
 | Terminated | 2.00% | ~277 |
 | The Commonality | 2.00% | ~277 |
 | Mugshot | 2.00% | ~277 |
@@ -29,12 +30,11 @@ Rating: 4.19 (Ranked 825)
 | You Need a Gun | 1.00% | ~138 |
 | Parole Denied | 1.00% | ~18 |
 | In Striking Distance | 1.00% | ~138 |
-| Two Heads Are Better Than One | 1.00% | ~138 |
 | What Lies Beneath | 1.00% | ~138 |
 | Full Circle | 1.00% | ~138 |
 | Power Up | 1.00% | ~138 |
 | Hoard Mode | 1.00% | ~18 |
-| I Do Belong Here | 0.70% | ~97 |
+| I Do Belong Here | 0.80% | ~111 |
 | Recidivist | 0.70% | ~12 |
 | Lifer | 0.70% | ~12 |
 | Grim Reaper | 0.40% | ~55 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,837 (Ranked 102)  
+Progressed: 13,841 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
-| 2023-05-27 | 13,837 | 53 |
+| 2023-05-27 | 13,841 | 53 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 269 (Ranked 335)  

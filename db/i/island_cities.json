@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -890,17 +890,17 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_009",
@@ -1027,8 +1027,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:26.7010278+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:11.9202384+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:06.7764395+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:26.7010445+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:57:52.1493513+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:11.9202601+00:00"
 }

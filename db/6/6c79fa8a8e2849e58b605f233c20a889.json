@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 998,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -621,6 +621,11 @@
       "Time": "2023-05-27T22:00:30.6949775+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T23:00:18.1335784+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -648,7 +653,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CLUMSY",
@@ -656,7 +661,7 @@
       "Name": "Whoops",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CONQUEROR",
@@ -680,7 +685,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -736,7 +741,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "GUARD_MAKER",
@@ -760,7 +765,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -807,14 +812,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:00:30.6949769+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:00:18.133578+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:57:18.8996633+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:00:30.6949963+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:57:04.4611139+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:00:18.1336016+00:00"
 }

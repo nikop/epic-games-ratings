@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -98,7 +98,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -2258,6 +2258,11 @@
       "Time": "2023-05-27T21:05:40.4384135+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T23:05:27.7805294+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2445,7 +2450,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "fellowshippower",
@@ -2453,7 +2458,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "fourleafclover",
@@ -2469,7 +2474,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "fullparty",
@@ -2533,7 +2538,7 @@
       "Name": "Hunter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "inspection",
@@ -2661,7 +2666,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "prestigiousx10",
@@ -2701,7 +2706,7 @@
       "Name": "Scroll Master",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "silverwoodliberator",
@@ -2725,7 +2730,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "thealchemist",
@@ -2861,14 +2866,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 1
     }
   ],
@@ -2876,8 +2881,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-27T11:58:31.9990637+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:42.2739833+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:27.7805287+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:05.785202+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:42.2740555+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:57:51.2133537+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:27.7806221+00:00"
 }

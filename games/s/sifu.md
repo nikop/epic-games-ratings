@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~604 |
+| Diligence as a goal | 4.00% | ~605 |
 | Project Arena | 3.00% | ~453 |
 | The Old Grandmaster | 1.00% | ~7,058 |
 | The Assault | 1.00% | ~7,058 |
@@ -22,11 +22,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.90% | ~6,352 |
 | Path of the Prospect | 0.90% | ~6,352 |
 | Rumble in the Hangar | 0.90% | ~6,352 |
-| Furious Fists | 0.80% | ~5,646 |
-| Kill Nil | 0.80% | ~5,646 |
-| Stuntmaster | 0.80% | ~5,646 |
-| Street Fighting | 0.80% | ~5,646 |
-| Take damage to save time | 0.80% | ~5,646 |
+| Furious Fists | 0.80% | ~5,647 |
+| Kill Nil | 0.80% | ~5,647 |
+| Stuntmaster | 0.80% | ~5,647 |
+| Street Fighting | 0.80% | ~5,647 |
+| Take damage to save time | 0.80% | ~5,647 |
 | Scareless | 0.70% | ~4,941 |
 | Old Child | 0.70% | ~4,941 |
 | Kung-Fu Tussle | 0.70% | ~4,941 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,801 (Ranked 15)  
+Progressed: 705,813 (Ranked 15)  
 Completed: 12,738 (1.80%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 12,738 (1.80%) (Ranked 64)
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
-| 2023-05-27 | 705,801 | 12,738 |
+| 2023-05-27 | 705,813 | 12,738 |
 ## Awards
 Max (Great Boss Battles): 6,102  (Ranked 53)  
 Sum: 10,399 (Ranked 77)  

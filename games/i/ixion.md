@@ -9,7 +9,7 @@ Rating: 4.56 (Ranked 452)
 | Infinite Growth... | 8.00% | ~177 |
 | Sputnik 2049 | 8.00% | ~177 |
 | Without Breaking Some Eggs... | 7.00% | ~155 |
-| Ready for a New World | 5.00% | ~110 |
+| Ready for a New World | 5.00% | ~111 |
 | Guy de Borderlands | 4.00% | ~88 |
 | Space Society | 4.00% | ~88 |
 | A Thousand Strong | 4.00% | ~88 |
@@ -30,9 +30,9 @@ Rating: 4.56 (Ranked 452)
 | Sightseeing | 1.00% | ~22 |
 | In Dolos We Trust | 1.00% | ~22 |
 | Convenient Transport | 1.00% | ~22 |
-| BRAWL! | 1.00% | ~22 |
 | All in Good Health | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |
+| BRAWL! | 0.90% | ~20 |
 | What They Hide From Us | 0.80% | ~18 |
 | ...  in a finite world | 0.80% | ~18 |
 | Delivery! | 0.70% | ~15 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,210 (Ranked 144)  
+Progressed: 2,211 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
 | 2023-05-26 | 2,182 | 0 |
-| 2023-05-27 | 2,210 | 0 |
+| 2023-05-27 | 2,211 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

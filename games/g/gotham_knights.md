@@ -16,24 +16,24 @@ Rating: 4.17 (Ranked 838)
 | Something in the Clay | 0.90% | ~562 |
 | Quartzer Life Crisis | 0.90% | ~562 |
 | Working Hard or Harley Working? | 0.90% | ~562 |
+| Lock and Key | 0.90% | ~562 |
 | Snow Problem | 0.80% | ~499 |
 | Unstoppable Force | 0.80% | ~499 |
-| Lock and Key | 0.80% | ~499 |
 | Bad Apples in Every Orchard | 0.80% | ~499 |
 | Protector of Gotham | 0.70% | ~437 |
 | The Show Mud Go On | 0.70% | ~437 |
 | Rock and a Hard Place | 0.70% | ~437 |
+| Cooldown | 0.70% | ~437 |
 | Universal Health Scare | 0.70% | ~437 |
 | From Inside Gotham's Walls | 0.70% | ~437 |
 | Voiceless | 0.70% | ~437 |
-| End of an Era | 0.60% | ~374 |
-| In Your Element | 0.60% | ~374 |
-| Not On My Watch | 0.60% | ~374 |
-| Bulldozed | 0.60% | ~374 |
-| Shock Til They Drop | 0.60% | ~374 |
-| Cooldown | 0.60% | ~374 |
-| Seeking Asylum | 0.60% | ~374 |
-| Gotham Knight | 0.60% | ~374 |
+| Seeking Asylum | 0.70% | ~437 |
+| End of an Era | 0.60% | ~375 |
+| In Your Element | 0.60% | ~375 |
+| Not On My Watch | 0.60% | ~375 |
+| Bulldozed | 0.60% | ~375 |
+| Shock Til They Drop | 0.60% | ~375 |
+| Gotham Knight | 0.60% | ~375 |
 | Out of Their League | 0.50% | ~312 |
 | Drone You Out | 0.50% | ~312 |
 | Gotham City Confidential | 0.50% | ~312 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,415 (Ranked 70)  
+Progressed: 62,420 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,415 | 91 |
+| 2023-05-27 | 62,420 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,726 (Ranked 137)  

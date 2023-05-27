@@ -1,7 +1,7 @@
 # Trials Rising Standard Edition
 [Store](https://store.epicgames.com/en-US/p/trials-rising)  
 [View Rawdata](../../db/t/trials_rising_standard_edition.json)  
-Rating: 4.70 (Ranked 193)  
+Rating: 4.70 (Ranked 194)  
 Number of Ratings: 81  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

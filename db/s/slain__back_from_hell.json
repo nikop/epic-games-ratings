@@ -5,7 +5,7 @@
   "Ranking_Rating": 773,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 388,
-  "Ranking_EOS_Progress": 91,
+  "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 87,
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 22725,
+  "EOS_Progressed": 22732,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3941,6 +3941,11 @@
       "Time": "2023-05-27T22:05:40.8893808+00:00",
       "NumProgressed": 22725,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-27T23:05:26.2806667+00:00",
+      "NumProgressed": 22732,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3952,7 +3957,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3960,7 +3965,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3992,7 +3997,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -4024,7 +4029,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -4064,7 +4069,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -4183,7 +4188,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 22725,
+      "Progressed": 22732,
       "Completed": 18
     }
   ],
@@ -4191,8 +4196,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:40.8893804+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:26.2806663+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.1629977+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:59:44.6023117+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:40.889413+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:59:30.9886212+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:26.2807105+00:00"
 }

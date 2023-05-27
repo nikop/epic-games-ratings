@@ -4260,9 +4260,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705801,
+  "EOS_Progressed": 705813,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1775,
+  "EOS_NewPlayers": 1777,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7460,6 +7460,11 @@
       "Time": "2023-05-27T22:05:49.2469767+00:00",
       "NumProgressed": 705801,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T23:05:35.5504582+00:00",
+      "NumProgressed": 705813,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7511,7 +7516,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "07_Wude_H1",
@@ -7575,7 +7580,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "15_Detective_H1",
@@ -7623,7 +7628,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -7639,7 +7644,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7783,7 +7788,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -7815,7 +7820,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7870,21 +7875,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15102,
-      "Completed": 10178
+      "Progressed": 15114,
+      "Completed": 10181
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705801,
+      "Progressed": 705813,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T21:58:54.951643+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:49.2469762+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:35.5504578+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:58:54.9516436+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:49.247025+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:58:41.762753+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:35.5505219+00:00"
 }

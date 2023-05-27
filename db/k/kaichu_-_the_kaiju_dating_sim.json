@@ -2,9 +2,9 @@
   "ID": "5cadfb94efd74932b97805c2a78f4150",
   "Name": "Kaichu - The Kaiju Dating Sim",
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.34,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.8187686+00:00",
@@ -77,6 +77,11 @@
       "Time": "2023-05-27T02:05:20.0242051+00:00",
       "NumProgressed": 29,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T23:05:09.6891749+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -86,7 +91,7 @@
       "ID": "A_HEATED_AFFAIR",
       "SetID": "dhjj31a",
       "Name": "A Heated Affair",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -94,7 +99,7 @@
       "ID": "CYBER_BULLY",
       "SetID": "dhjj31a",
       "Name": "Cyber Bully",
-      "Percentage": 66,
+      "Percentage": 63,
       "XP": 75,
       "UsersEstimate": 19
     },
@@ -104,13 +109,13 @@
       "Name": "Everything\u0027s Coming Up Gigachu",
       "Percentage": 83,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FRIENDZONED",
       "SetID": "dhjj31a",
       "Name": "Friendzoned",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -118,7 +123,7 @@
       "ID": "LONG_DISTANCE_RELATIONSHIP",
       "SetID": "dhjj31a",
       "Name": "Long Distance Relationship",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -134,7 +139,7 @@
       "ID": "LOVE_IS_IN_BLOOM",
       "SetID": "dhjj31a",
       "Name": "Love is in Bloom",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -142,7 +147,7 @@
       "ID": "LOVE_IS_IN_THE_AIR",
       "SetID": "dhjj31a",
       "Name": "Love is in the Air",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -150,7 +155,7 @@
       "ID": "LOVING_COMMUTE",
       "SetID": "dhjj31a",
       "Name": "Loving Commute",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -158,7 +163,7 @@
       "ID": "OUT_OF_YOUR_SHELL",
       "SetID": "dhjj31a",
       "Name": "Out of Your Shell",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -166,7 +171,7 @@
       "ID": "POLYAMOROUSASAURUS",
       "SetID": "dhjj31a",
       "Name": "Polyamorousasaurus",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -174,7 +179,7 @@
       "ID": "ROYAL_ROMANCE",
       "SetID": "dhjj31a",
       "Name": "Royal Romance",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -182,7 +187,7 @@
       "ID": "SHORT_DISTANCE_RELATIONSHIP",
       "SetID": "dhjj31a",
       "Name": "Short Distance Relationship",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -190,7 +195,7 @@
       "ID": "SPEED_DATING",
       "SetID": "dhjj31a",
       "Name": "Speed Dating",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 120,
       "UsersEstimate": 8
     },
@@ -198,7 +203,7 @@
       "ID": "SPREAD_THE_LOVE",
       "SetID": "dhjj31a",
       "Name": "Spread the Love",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 75,
       "UsersEstimate": 7
     }
@@ -207,7 +212,7 @@
     {
       "ID": "dhjj31a",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 3
     }
   ],
@@ -215,8 +220,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:24.4596653+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:09.6891744+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.5033221+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:57:52.836065+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:24.4596756+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:57:37.8155487+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:09.6891854+00:00"
 }

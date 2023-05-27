@@ -4,10 +4,10 @@
   "ProductSlug": "mount-and-blade-2",
   "Ranking_Rating": 141,
   "Ranking_Popularity": 49,
-  "Ranking_PopularitySum": 68,
+  "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4267,10 +4267,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13170,
       "NumberOfAwardsMax": 6582
+    },
+    {
+      "Time": "2023-05-27T22:59:17.6471665+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13171,
+      "NumberOfAwardsMax": 6582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13170,
+  "NumberOfAwards": 13171,
   "NumberOfAwardsMax": 6582,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4332,7 +4338,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 720
+      "Count": 721
     },
     {
       "Text": "This game has a Creative Community",
@@ -4347,9 +4353,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51147,
+  "EOS_Progressed": 51148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7942,6 +7948,11 @@
       "Time": "2023-05-27T22:05:55.8780592+00:00",
       "NumProgressed": 51147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T23:05:42.0350184+00:00",
+      "NumProgressed": 51148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7969,7 +7980,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10229
+      "UsersEstimate": 10230
     },
     {
       "ID": "Best served cold",
@@ -8113,7 +8124,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10229
+      "UsersEstimate": 10230
     },
     {
       "ID": "I can do it",
@@ -8185,7 +8196,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "Lawmaker",
@@ -8329,7 +8340,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10229
+      "UsersEstimate": 10230
     },
     {
       "ID": "Undercover",
@@ -8360,15 +8371,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51147,
+      "Progressed": 51148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-27T21:59:30.9448691+00:00",
-  "LastChanged_Achievements": "2023-05-27T22:05:55.8780588+00:00",
+  "LastChanged": "2023-05-27T22:59:17.6471663+00:00",
+  "LastChanged_Achievements": "2023-05-27T23:05:42.035018+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-05-27T21:59:30.94487+00:00",
-  "LastUpdate_Achievements": "2023-05-27T22:05:55.8781135+00:00"
+  "LastUpdate_Ratings": "2023-05-27T22:59:17.647167+00:00",
+  "LastUpdate_Achievements": "2023-05-27T23:05:42.0350756+00:00"
 }
