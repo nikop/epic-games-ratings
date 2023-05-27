@@ -18,7 +18,7 @@
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 143,509 | 6 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 409 | 198 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,430 | 20 |
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 132 | 294 |
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 132 | 295 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 254 | 240 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,012 | 74 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,507 | 35 |
@@ -79,7 +79,7 @@
 | 73 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 492 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,282 | 51 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 283 |
-| 78 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 577 | 170 |
+| 78 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 582 | 170 |
 | 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,367 | 95 |
 | 78 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 368 | 208 |
 | 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 193 | 262 |
@@ -101,7 +101,7 @@
 | 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,080 | 37 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,284 | 97 |
 | 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,028 | 135 |
-| 99 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 132 | 294 |
+| 99 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 133 | 294 |
 | 99 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 36 | 421 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 910 | 142 |
 | 99 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.78 | 0 | 492 |
@@ -185,14 +185,14 @@
 | 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,342 | 50 |
 | 179 | [Fez](games/f/fez.md) | 4.71 | 23 | 471 |
 | 179 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
-| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,195 | 44 |
+| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,200 | 44 |
 | 179 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 492 |
 | 179 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 492 |
 | 179 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 492 |
 | 179 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 492 |
 | 179 | [shapez](games/s/shapez.md) | 4.71 | 175 | 271 |
 | 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 113 | 313 |
-| 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,527 | 68 |
+| 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,528 | 68 |
 | 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 492 |
 | 193 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 351 | 212 |
 | 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,266 | 70 |
@@ -388,7 +388,7 @@
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 492 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,057 | 21 |
 | 388 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,001 | 28 |
-| 388 | [Control](games/c/control.md) | 4.60 | 8,301 | 38 |
+| 388 | [Control](games/c/control.md) | 4.60 | 8,304 | 38 |
 | 388 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 355 |
 | 388 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 35,326 | 12 |
 | 388 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,314 | 26 |
@@ -531,13 +531,13 @@
 | 525 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 320 |
 | 525 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 183 | 267 |
 | 525 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 492 |
-| 525 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 421,535 | 2 |
+| 525 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 422,260 | 2 |
 | 525 | [Sable](games/s/sable.md) | 4.51 | 0 | 492 |
 | 525 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 492 |
 | 525 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 153 | 285 |
 | 525 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.51 | 0 | 492 |
 | 525 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 30 | 446 |
-| 525 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 132 | 294 |
+| 525 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 132 | 295 |
 | 525 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 492 |
 | 540 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.50 | 20 | 486 |
 | 540 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 254 |
@@ -761,7 +761,7 @@
 | 756 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 940 | 141 |
 | 760 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 492 |
 | 760 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 492 |
-| 760 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,354,305 | 1 |
+| 760 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,358,082 | 1 |
 | 760 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 492 |
 | 760 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 492 |
 | 760 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 492 |

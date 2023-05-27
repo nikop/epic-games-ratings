@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,354,305 | 4.30 | 760 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 421,535 | 4.51 | 525 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,358,082 | 4.30 | 760 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 422,260 | 4.51 | 525 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,802 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,057 | 4.19 | 825 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 174,668 | 4.68 | 236 |
@@ -37,13 +37,13 @@
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,507 | 4.88 | 19 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,141 | 4.61 | 360 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,080 | 4.78 | 99 |
-| 38 | [Control](games/c/control.md) | 8,301 | 4.60 | 388 |
+| 38 | [Control](games/c/control.md) | 8,304 | 4.60 | 388 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 8,237 | 4.76 | 117 |
 | 40 | [Supraland](games/s/supraland.md) | 7,615 | 4.61 | 360 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,576 | 4.85 | 38 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,353 | 4.57 | 439 |
 | 43 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,244 | 4.58 | 419 |
-| 44 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,195 | 4.71 | 179 |
+| 44 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,200 | 4.71 | 179 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,116 | 4.89 | 13 |
 | 46 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,977 | 4.68 | 236 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,966 | 4.47 | 586 |
@@ -67,7 +67,7 @@
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,740 | 4.56 | 452 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,590 | 3.98 | 895 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,560 | 4.65 | 290 |
-| 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,527 | 4.70 | 193 |
+| 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,528 | 4.70 | 193 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,309 | 4.70 | 193 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,266 | 4.70 | 193 |
 | 71 | [Chivalry 2](games/c/chivalry_2.md) | 4,132 | 4.61 | 360 |
@@ -169,7 +169,7 @@
 | 167 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 605 | 4.74 | 141 |
 | 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 596 | 4.74 | 141 |
 | 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 587 | 4.62 | 343 |
-| 170 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 577 | 4.80 | 78 |
+| 170 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 582 | 4.80 | 78 |
 | 171 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 571 | 4.61 | 360 |
 | 172 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 236 |
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 558 | 4.74 | 141 |
@@ -293,9 +293,9 @@
 | 289 | [Night in the Woods](games/n/night_in_the_woods.md) | 139 | 4.72 | 165 |
 | 292 | [Fort Triumph](games/f/fort_triumph.md) | 137 | 4.08 | 872 |
 | 293 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 134 | 4.29 | 767 |
-| 294 | [Atomicrops](games/a/atomicrops.md) | 132 | 4.88 | 19 |
-| 294 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 132 | 4.78 | 99 |
-| 294 | [while True: learn()](games/w/while_true__learn().md) | 132 | 4.51 | 525 |
+| 294 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 133 | 4.78 | 99 |
+| 295 | [Atomicrops](games/a/atomicrops.md) | 132 | 4.88 | 19 |
+| 295 | [while True: learn()](games/w/while_true__learn().md) | 132 | 4.51 | 525 |
 | 297 | [Star Stable Online](games/s/star_stable_online.md) | 129 | 4.42 | 652 |
 | 298 | [Alien: Isolation](games/a/alien__isolation.md) | 128 | 4.61 | 360 |
 | 298 | [Brawlhalla](games/b/brawlhalla.md) | 128 | 4.59 | 406 |
