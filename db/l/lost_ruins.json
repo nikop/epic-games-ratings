@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -277,9 +277,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "BugHunter",
@@ -301,9 +301,9 @@
       "ID": "Explorer",
       "SetID": "82505mn",
       "Name": "Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "GhostBuster",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:06:26.9690777+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:06:35.7934639+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.4676985+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:59:59.737121+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:06:26.9691097+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:00:12.5163326+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:06:35.7934902+00:00"
 }

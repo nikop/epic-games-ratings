@@ -26,9 +26,9 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter II | 24.00% | ~69 |
 | The Difference | 22.00% | ~63 |
 | Vengeance | 21.00% | ~60 |
+| It's Just an Accident | 20.00% | ~57 |
 | Food Massacre | 20.00% | ~57 |
 | Broken Hopes | 19.00% | ~54 |
-| It's Just an Accident | 19.00% | ~54 |
 | Bullseye! | 19.00% | ~54 |
 | Collectibles of Chapter III | 15.00% | ~43 |
 | Sorrow | 15.00% | ~43 |

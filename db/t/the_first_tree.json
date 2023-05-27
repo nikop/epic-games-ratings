@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -232,10 +232,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31284,
+  "EOS_Progressed": 31290,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 343,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 348,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -3327,6 +3327,11 @@
       "Time": "2023-05-27T10:06:19.7808225+00:00",
       "NumProgressed": 31284,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-05-27T11:06:27.1307652+00:00",
+      "NumProgressed": 31290,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 14,
@@ -3354,7 +3359,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8134
+      "UsersEstimate": 8135
     },
     {
       "ID": "allItems",
@@ -3410,7 +3415,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "firstBunny",
@@ -3418,7 +3423,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7821
+      "UsersEstimate": 7822
     },
     {
       "ID": "firstItem",
@@ -3426,7 +3431,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 24402
+      "UsersEstimate": 24406
     },
     {
       "ID": "roots",
@@ -3434,7 +3439,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5318
+      "UsersEstimate": 5319
     },
     {
       "ID": "secretItem",
@@ -3449,15 +3454,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 31284,
+      "Progressed": 31290,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-05-23T23:00:58.9617247+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:06:19.7808219+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:06:27.1307642+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.1462882+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:00:46.0872573+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:06:19.7808529+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:01:09.8534841+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:06:27.1307861+00:00"
 }

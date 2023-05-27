@@ -5,36 +5,36 @@ Rating: 4.49 (Ranked 560)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,154 |
+| Stylish | 86.00% | ~19,155 |
 | Advancement | 73.00% | ~16,259 |
-| Meticulously Efficient | 64.00% | ~14,254 |
+| Meticulously Efficient | 64.00% | ~14,255 |
 | Discovery | 62.00% | ~13,809 |
-| Swift Rift Removers | 56.00% | ~12,472 |
+| Swift Rift Removers | 56.00% | ~12,473 |
 | Fully Upgraded | 55.00% | ~12,250 |
-| Cultured | 53.00% | ~11,804 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,581 |
-| Vaporous Expansion | 49.00% | ~10,913 |
-| Teamwork | 45.00% | ~10,022 |
+| Cultured | 53.00% | ~11,805 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,582 |
+| Vaporous Expansion | 49.00% | ~10,914 |
+| Teamwork | 45.00% | ~10,023 |
 | There you are! | 44.00% | ~9,800 |
 | Clutch Capture | 41.00% | ~9,132 |
 | Back Off | 36.00% | ~8,018 |
-| Daily Dose | 35.00% | ~7,795 |
+| Daily Dose | 35.00% | ~7,796 |
 | Welcome to the Crew | 33.00% | ~7,350 |
 | Solo Capture | 32.00% | ~7,127 |
-| Ghostbuster In Training | 31.00% | ~6,904 |
+| Ghostbuster In Training | 31.00% | ~6,905 |
 | Icing on the Cake | 30.00% | ~6,682 |
 | Side Hustle | 28.00% | ~6,236 |
-| We have the best insurance | 27.00% | ~6,013 |
-| Legions | 27.00% | ~6,013 |
-| Right back at ya | 27.00% | ~6,013 |
-| Stunner | 27.00% | ~6,013 |
-| Summoner | 27.00% | ~6,013 |
+| We have the best insurance | 27.00% | ~6,014 |
+| Legions | 27.00% | ~6,014 |
+| Right back at ya | 27.00% | ~6,014 |
+| Stunner | 27.00% | ~6,014 |
+| Summoner | 27.00% | ~6,014 |
 | Pesky Jerks | 26.00% | ~5,791 |
 | Animated | 25.00% | ~5,568 |
 | Skilled | 25.00% | ~5,568 |
-| Collector | 24.00% | ~5,345 |
-| Ectoplasmic Entity | 24.00% | ~5,345 |
-| Rift Destroyer | 20.00% | ~4,454 |
+| Collector | 24.00% | ~5,346 |
+| Ectoplasmic Entity | 24.00% | ~5,346 |
+| Rift Destroyer | 20.00% | ~4,455 |
 | Tobin's Prodigy | 19.00% | ~4,232 |
 | Reckless | 18.00% | ~4,009 |
 | Terrifying | 17.00% | ~3,786 |
@@ -44,8 +44,8 @@ Rating: 4.49 (Ranked 560)
 | Liability | 10.00% | ~2,227 |
 | Rivalry | 10.00% | ~2,227 |
 | Whoopsie | 10.00% | ~2,227 |
-| Fragile Panes | 9.00% | ~2,004 |
-| Surprise! | 9.00% | ~2,004 |
+| Fragile Panes | 9.00% | ~2,005 |
+| Surprise! | 9.00% | ~2,005 |
 | Master Collector | 7.00% | ~1,559 |
 | Rift Seeker | 7.00% | ~1,559 |
 | Therapeutic | 7.00% | ~1,559 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 560)
 | I don't need these | 1.00% | ~223 |
 | Mycophile | 1.00% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,272 (Ranked 92)  
+Progressed: 22,273 (Ranked 92)  
 Completed: 40 (0.18%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 40 (0.18%) (Ranked 143)
 | 2023-05-24 | 22,181 | 40 |
 | 2023-05-25 | 22,223 | 40 |
 | 2023-05-26 | 22,259 | 40 |
-| 2023-05-27 | 22,272 | 40 |
+| 2023-05-27 | 22,273 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,085 (Ranked 183)  

@@ -7,7 +7,7 @@
 | Inquisitor | 38.00% | ~123 |
 | Goblin Tales | 31.00% | ~100 |
 | Bug Hunter | 25.00% | ~81 |
-| Boss Killer | 23.00% | ~75 |
+| Boss Killer | 24.00% | ~78 |
 | The Fallen | 21.00% | ~68 |
 | Trap Master | 21.00% | ~68 |
 | Artifact Collector | 20.00% | ~65 |
@@ -23,8 +23,8 @@
 | Money Swag | 9.00% | ~29 |
 | Shield Crusher | 7.00% | ~23 |
 | Treasure Hunter | 7.00% | ~23 |
+| Explorer | 6.00% | ~19 |
 | Oops | 6.00% | ~19 |
-| Explorer | 5.00% | ~16 |
 | Pyromancer | 5.00% | ~16 |
 | Trio | 5.00% | ~16 |
 | Spell Master | 4.00% | ~13 |

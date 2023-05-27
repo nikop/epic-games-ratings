@@ -7,12 +7,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~598 |
-| Project Arena | 3.00% | ~448 |
-| The Hateful Pole Fighter | 1.00% | ~7,056 |
-| State of constant learning | 1.00% | ~7,056 |
-| Qi Gong: Breath | 1.00% | ~7,056 |
-| Bloody Sport | 1.00% | ~149 |
-| The best strikes are the ones we avoid | 1.00% | ~149 |
+| Project Arena | 3.00% | ~449 |
+| The Hateful Pole Fighter | 1.00% | ~7,057 |
+| State of constant learning | 1.00% | ~7,057 |
+| Qi Gong: Breath | 1.00% | ~7,057 |
+| Bloody Sport | 1.00% | ~150 |
+| The best strikes are the ones we avoid | 1.00% | ~150 |
 | The Old Grandmaster | 0.90% | ~6,351 |
 | The Assault | 0.90% | ~6,351 |
 | A Lady's Blood in the Snow | 0.90% | ~6,351 |
@@ -27,9 +27,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.80% | ~5,645 |
 | Street Fighting | 0.80% | ~5,645 |
 | Take damage to save time | 0.80% | ~5,645 |
-| Scareless | 0.70% | ~4,939 |
-| Old Child | 0.70% | ~4,939 |
-| Kung-Fu Tussle | 0.70% | ~4,939 |
+| Scareless | 0.70% | ~4,940 |
+| Old Child | 0.70% | ~4,940 |
+| Kung-Fu Tussle | 0.70% | ~4,940 |
 | Dance of the Praying Mantis | 0.60% | ~4,234 |
 | Qi Gong: Mind | 0.60% | ~4,234 |
 | Deadly Venom | 0.60% | ~90 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,638 (Ranked 15)  
+Progressed: 705,656 (Ranked 15)  
 Completed: 12,738 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 12,738 (1.81%) (Ranked 65)
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
-| 2023-05-27 | 705,638 | 12,738 |
+| 2023-05-27 | 705,656 | 12,738 |
 ## Awards
 Max (Great Boss Battles): 6,094  (Ranked 53)  
 Sum: 10,384 (Ranked 77)  

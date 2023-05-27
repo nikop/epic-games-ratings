@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,7 +208,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22725,
+  "EOS_Progressed": 22726,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -938,6 +938,11 @@
       "Time": "2023-05-27T03:04:53.517582+00:00",
       "NumProgressed": 22725,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-27T11:04:22.9714152+00:00",
+      "NumProgressed": 22726,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -957,7 +962,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -965,7 +970,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17498
+      "UsersEstimate": 17499
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -989,7 +994,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "ACH_GET_GUS",
@@ -1005,7 +1010,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -1013,7 +1018,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17271
+      "UsersEstimate": 17272
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1053,7 +1058,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18862
+      "UsersEstimate": 18863
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1069,7 +1074,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1085,7 +1090,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -1093,7 +1098,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -1133,7 +1138,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16589
+      "UsersEstimate": 16590
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1141,7 +1146,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -1204,22 +1209,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22725,
+      "Progressed": 22726,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 18,
-      "Completed": 18
+      "Progressed": 19,
+      "Completed": 19
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:03:54.5011357+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:04:22.9714145+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:45.9981946+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:57:56.5370771+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:03:54.5011694+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:58:09.15541+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:04:22.9714372+00:00"
 }

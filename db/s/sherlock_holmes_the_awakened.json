@@ -3,9 +3,9 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.62,
+  "EOS_Completed_Percentage": 4.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -644,6 +644,11 @@
       "Time": "2023-05-27T07:03:26.5094214+00:00",
       "NumProgressed": 260,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-05-27T11:03:34.3662082+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 28,
@@ -663,7 +668,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MQ02_1",
@@ -671,7 +676,7 @@
       "Name": "High Profile",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MQ02_2",
@@ -687,7 +692,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MQ02_4",
@@ -695,7 +700,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "MQ03_1",
@@ -711,7 +716,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MQ03_3",
@@ -727,7 +732,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MQ03_5",
@@ -773,9 +778,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "MQ05_3",
@@ -815,7 +820,7 @@
       "Name": "Land, Ho!",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "MQ06_4",
@@ -823,15 +828,15 @@
       "Name": "No Man Is An Island",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "MQ07_2",
@@ -855,7 +860,7 @@
       "Name": "Up In Flames",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "MQ08_3",
@@ -878,7 +883,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 12
     }
   ],
@@ -886,8 +891,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:03:24.4316005+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:03:34.3662075+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:57:01.3271003+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:03:24.4316249+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:57:11.9968397+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:03:34.3662298+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 607,
   "Ranking_Popularity": 155,
-  "Ranking_PopularitySum": 116,
+  "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -4337,6 +4337,6 @@
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
   "LastChanged": "2023-05-27T06:59:40.1046905+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:58.9578608+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:59:52.761687+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:04:40.1853348+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:00:04.2767197+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:05:10.6147336+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -244,7 +244,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5457,
+  "EOS_Progressed": 5459,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -2084,6 +2084,11 @@
       "Time": "2023-05-27T10:03:18.8766621+00:00",
       "NumProgressed": 5457,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-27T11:03:26.9952672+00:00",
+      "NumProgressed": 5459,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -2095,7 +2100,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4531
     },
     {
       "ID": "ACH02",
@@ -2103,7 +2108,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH03",
@@ -2167,7 +2172,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACH11",
@@ -2239,7 +2244,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH20",
@@ -2326,7 +2331,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5457,
+      "Progressed": 5459,
       "Completed": 26
     }
   ],
@@ -2334,8 +2339,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-22T16:57:51.9969585+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:03:18.8766616+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:03:26.9952665+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:57:49.0588923+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:03:18.8766954+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:58:03.4138848+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:03:26.9952972+00:00"
 }

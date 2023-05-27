@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -232,6 +232,11 @@
     {
       "Time": "2023-05-26T19:05:35.6753955+00:00",
       "NumProgressed": 985,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T11:06:25.0773171+00:00",
+      "NumProgressed": 986,
       "NumCompleted": 0
     }
   ],
@@ -396,7 +401,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -540,7 +545,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ONELIVERY",
@@ -564,7 +569,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ONEPLATINUM",
@@ -659,7 +664,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 986,
       "Completed": 0
     }
   ],
@@ -667,8 +672,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:06:17.882461+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:06:25.0773157+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.3827086+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:58:02.5245364+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:06:17.882503+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:58:17.691059+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:06:25.0773523+00:00"
 }

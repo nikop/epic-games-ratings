@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6969,
+  "EOS_Progressed": 6972,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2531,6 +2531,11 @@
       "Time": "2023-05-27T10:02:23.0732528+00:00",
       "NumProgressed": 6969,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-27T11:02:32.7988711+00:00",
+      "NumProgressed": 6972,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2630,7 +2635,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH13",
@@ -2646,7 +2651,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "ACH15",
@@ -2702,7 +2707,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "ACH22",
@@ -2718,7 +2723,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "ACH24",
@@ -2726,7 +2731,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH25",
@@ -2734,7 +2739,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH26",
@@ -2758,7 +2763,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH29",
@@ -2813,7 +2818,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6969,
+      "Progressed": 6972,
       "Completed": 23
     }
   ],
@@ -2821,8 +2826,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-26T13:02:50.0676532+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:02:23.0732525+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:02:32.7988704+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:58:17.2575242+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:02:23.0732954+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:58:33.5836195+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:02:32.7988986+00:00"
 }

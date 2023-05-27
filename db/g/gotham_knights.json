@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62312,
+  "EOS_Progressed": 62316,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3961,6 +3961,11 @@
       "Time": "2023-05-27T10:06:32.9371961+00:00",
       "NumProgressed": 62312,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T11:06:42.8775867+00:00",
+      "NumProgressed": 62316,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4076,7 +4081,7 @@
       "Name": "Something in the Clay",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "CLAYFACE_2",
@@ -4204,7 +4209,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "FREEZE_2",
@@ -4212,7 +4217,7 @@
       "Name": "Snow Problem",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "FREEZE_3",
@@ -4340,7 +4345,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -4380,7 +4385,7 @@
       "Name": "Lock and Key",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "MYSTERY_04",
@@ -4388,7 +4393,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "MYSTERY_05",
@@ -4459,13 +4464,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62312,
+      "Progressed": 62316,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32592,
+      "Progressed": 32596,
       "Completed": 2642
     }
   ],
@@ -4473,8 +4478,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:06:32.9371957+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:06:42.877586+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:00:12.5582289+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:06:32.9372709+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:00:26.8488739+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:06:42.8776441+00:00"
 }

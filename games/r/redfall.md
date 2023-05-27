@@ -6,23 +6,23 @@ Rating: 3.42 (Ranked 928)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 77.00% | ~1,254 |
-| Home Is Where the Heart Is | 61.00% | ~993 |
+| Home Is Where the Heart Is | 61.00% | ~994 |
 | Ne Plus Ultra | 60.00% | ~977 |
 | Wounded Whispers | 60.00% | ~977 |
 | Blood Will Have Blood | 49.00% | ~798 |
 | ICU | 45.00% | ~733 |
-| Catch and Release | 44.00% | ~716 |
+| Catch and Release | 44.00% | ~717 |
 | Peek-a-boo | 43.00% | ~700 |
 | Sucks To Be You | 43.00% | ~700 |
-| Welcome to the Neighborhood | 37.00% | ~602 |
+| Welcome to the Neighborhood | 37.00% | ~603 |
 | Fly Fisher | 35.00% | ~570 |
 | Throw The First Stone | 34.00% | ~554 |
 | Enter of Your Own Free Will | 32.00% | ~521 |
 | Heart Attack | 31.00% | ~505 |
 | Skin of Their Teeth | 31.00% | ~505 |
-| Grounded | 23.00% | ~374 |
+| Grounded | 23.00% | ~375 |
 | Bad Wiring | 21.00% | ~342 |
-| I Spit On Your Grave | 19.00% | ~309 |
+| I Spit On Your Grave | 19.00% | ~310 |
 | Neighborhood Revitalization | 15.00% | ~244 |
 | Radio Silence | 15.00% | ~244 |
 | Helping Hand | 12.00% | ~195 |
@@ -31,13 +31,13 @@ Rating: 3.42 (Ranked 928)
 | Starve the Beast | 8.00% | ~130 |
 | From the Shadows | 5.00% | ~81 |
 | Bell-ringer | 4.00% | ~65 |
-| Right This Way | 4.00% | ~65 |
 | Nice Try | 4.00% | ~65 |
 | Enemy of My Enemy | 4.00% | ~65 |
 | Revelations | 3.00% | ~49 |
 | Sic Transit Umbra | 3.00% | ~49 |
 | Silence Is Golden | 3.00% | ~49 |
 | Check, Please! | 3.00% | ~49 |
+| Right This Way | 3.00% | ~49 |
 | Blacklight Down | 3.00% | ~49 |
 | Contingency Plans | 2.00% | ~33 |
 | Scream Team | 2.00% | ~33 |
@@ -72,7 +72,7 @@ Rating: 3.42 (Ranked 928)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,628 (Ranked 152)  
+Progressed: 1,629 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 1,615 | 0 |
 | 2023-05-25 | 1,623 | 0 |
 | 2023-05-26 | 1,627 | 0 |
-| 2023-05-27 | 1,628 | 0 |
+| 2023-05-27 | 1,629 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

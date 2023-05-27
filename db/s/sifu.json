@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4236,9 +4236,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705638,
+  "EOS_Progressed": 705656,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1829,
+  "EOS_NewPlayers": 1822,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7376,6 +7376,11 @@
       "Time": "2023-05-27T10:06:25.915782+00:00",
       "NumProgressed": 705638,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T11:06:34.705131+00:00",
+      "NumProgressed": 705656,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7403,7 +7408,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7056
+      "UsersEstimate": 7057
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7475,7 +7480,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "13_LowAge",
@@ -7571,7 +7576,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7056
+      "UsersEstimate": 7057
     },
     {
       "ID": "25_ShrineMind",
@@ -7587,7 +7592,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7056
+      "UsersEstimate": 7057
     },
     {
       "ID": "27_ShrineBody",
@@ -7635,7 +7640,7 @@
       "Name": "Old Child",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "33_BladeOneShot",
@@ -7659,7 +7664,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7723,7 +7728,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7739,7 +7744,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7771,7 +7776,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7786,21 +7791,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14939,
+      "Progressed": 14957,
       "Completed": 10177
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705638,
+      "Progressed": 705656,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T10:06:25.9157816+00:00",
+  "LastChanged_Achievements": "2023-05-27T11:06:34.7051302+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:59:09.2086654+00:00",
-  "LastUpdate_Achievements": "2023-05-27T10:06:25.9158437+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:59:26.1351072+00:00",
+  "LastUpdate_Achievements": "2023-05-27T11:06:34.705178+00:00"
 }

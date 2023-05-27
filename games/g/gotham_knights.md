@@ -14,12 +14,12 @@ Rating: 4.17 (Ranked 838)
 | The Batman Family | 0.90% | ~561 |
 | Working Hard or Harley Working? | 0.90% | ~561 |
 | Whispered Words | 0.90% | ~561 |
-| Something in the Clay | 0.80% | ~498 |
-| Quartzer Life Crisis | 0.80% | ~498 |
-| Snow Problem | 0.80% | ~498 |
-| Unstoppable Force | 0.80% | ~498 |
-| Lock and Key | 0.80% | ~498 |
-| Bad Apples in Every Orchard | 0.80% | ~498 |
+| Something in the Clay | 0.80% | ~499 |
+| Quartzer Life Crisis | 0.80% | ~499 |
+| Snow Problem | 0.80% | ~499 |
+| Unstoppable Force | 0.80% | ~499 |
+| Lock and Key | 0.80% | ~499 |
+| Bad Apples in Every Orchard | 0.80% | ~499 |
 | Protector of Gotham | 0.70% | ~436 |
 | The Show Mud Go On | 0.70% | ~436 |
 | Rock and a Hard Place | 0.70% | ~436 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,312 (Ranked 70)  
+Progressed: 62,316 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,312 | 91 |
+| 2023-05-27 | 62,316 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,719 (Ranked 137)  

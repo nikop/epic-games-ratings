@@ -18,11 +18,12 @@
 | The Depths Of Darkness | 50.00% | ~8 |
 | One With The Blades | 50.00% | ~8 |
 | Heart of Oblivion | 50.00% | ~8 |
+| Anahita's Greatest Mistake | 50.00% | ~8 |
+| Heart's Desire | 50.00% | ~8 |
+| Nature's Savior | 50.00% | ~8 |
+| Hammer It Home | 50.00% | ~8 |
 | Shoo! Shoo! | 50.00% | ~8 |
-| Anahita's Greatest Mistake | 44.00% | ~7 |
-| Heart's Desire | 44.00% | ~7 |
-| Nature's Savior | 44.00% | ~7 |
-| Hammer It Home | 44.00% | ~7 |
+| The Ultimate Sacrifice | 44.00% | ~7 |
 | For Whom the Bell Tolls | 44.00% | ~7 |
 | Here I Am | 44.00% | ~7 |
 | Stand By Nature | 44.00% | ~7 |
@@ -30,7 +31,6 @@
 | I Pick You | 38.00% | ~6 |
 | Accomplished Smithy | 38.00% | ~6 |
 | The Blight's Blight | 38.00% | ~6 |
-| The Ultimate Sacrifice | 38.00% | ~6 |
 | Break The Cycle | 38.00% | ~6 |
 | The Milk Canal | 38.00% | ~6 |
 | Fledgling Smithy | 38.00% | ~6 |

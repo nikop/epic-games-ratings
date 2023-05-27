@@ -16,19 +16,19 @@ Rating: 4.50 (Ranked 539)
 | Fat of the Earth | 33.00% | ~124 |
 | Last Man Standing | 31.00% | ~116 |
 | Catch Jonathan_tostar | 27.00% | ~101 |
+| Assemble a Meganewbie | 25.00% | ~94 |
 | He's Seen It All | 25.00% | ~94 |
 | Great Hero | 25.00% | ~94 |
+| Rookie | 25.00% | ~94 |
 | Campaigning | 24.00% | ~90 |
-| Assemble a Meganewbie | 24.00% | ~90 |
-| Rookie | 24.00% | ~90 |
 | Frugal | 21.00% | ~79 |
 | Feed a God | 20.00% | ~75 |
 | To the Moon and Back | 20.00% | ~75 |
 | Great Flight | 17.00% | ~64 |
 | Holy Vengeance | 15.00% | ~56 |
+| Honorary Cultist | 11.00% | ~41 |
 | Strength and Sorcery | 10.00% | ~38 |
 | Brain and Brawn | 10.00% | ~38 |
-| Honorary Cultist | 10.00% | ~38 |
 | Omae Wa Mou Shindeiru | 7.00% | ~26 |
 | Experimentalist | 5.00% | ~19 |
 | Wide Selection | 5.00% | ~19 |
