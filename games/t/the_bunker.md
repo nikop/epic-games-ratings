@@ -20,9 +20,9 @@
 | Churchill | 52.00% | ~50 |
 | Leave | 48.00% | ~46 |
 | Engineer | 48.00% | ~46 |
+| Commissioner | 47.00% | ~45 |
 | Doctor | 47.00% | ~45 |
 | Soldier | 47.00% | ~45 |
-| Commissioner | 46.00% | ~44 |
 | Press Play | 39.00% | ~37 |
 | Bookworm | 24.00% | ~23 |
 | General | 24.00% | ~23 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -224,17 +224,17 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "CONCRETE_PAINTING",
       "SetID": "2iigf77",
       "Name": "Concrete painting",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "CURIOUS",
@@ -248,9 +248,9 @@
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -360,9 +360,9 @@
       "ID": "NOW_YOU_KNOW",
       "SetID": "2iigf77",
       "Name": "Now you know",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 246
     },
     {
       "ID": "PERFECT_HEARING",
@@ -465,8 +465,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:34.1718145+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:36.4138229+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:22.6992889+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:58:35.5636073+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:34.171838+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:58:40.0905039+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:36.4138422+00:00"
 }

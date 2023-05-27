@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.45 (Ranked 607)  
+Rating: 4.45 (Ranked 606)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,14 +10,14 @@ Rating: 4.45 (Ranked 607)
 | Enter the Speed Gauntlet | 24.00% | ~237 |
 | I just can't choose | 24.00% | ~237 |
 | A Cheese Grater to the Face | 19.00% | ~188 |
+| It's like an haircut | 18.00% | ~178 |
 | Put it on a shelf | 18.00% | ~178 |
-| It's like an haircut | 17.00% | ~168 |
 | Suit up | 16.00% | ~158 |
 | Walked like an Egyptian | 15.00% | ~148 |
 | Ride in the rising sun | 15.00% | ~148 |
-| Martian explorer | 12.00% | ~118 |
-| Rookie No-No More | 12.00% | ~118 |
-| Running at the speed of sound | 12.00% | ~118 |
+| Martian explorer | 12.00% | ~119 |
+| Rookie No-No More | 12.00% | ~119 |
+| Running at the speed of sound | 12.00% | ~119 |
 | To the core | 9.00% | ~89 |
 | Blurred photofinish | 9.00% | ~89 |
 | EZ game EZ life | 7.00% | ~69 |
@@ -27,13 +27,13 @@ Rating: 4.45 (Ranked 607)
 | Even Faster! | 6.00% | ~59 |
 | Longshot | 6.00% | ~59 |
 | B-asic! | 5.00% | ~49 |
-| Under the neon lights | 4.00% | ~39 |
-| All Power to Engines! | 4.00% | ~39 |
-| Almost broke the game | 4.00% | ~39 |
-| It's like a party! | 4.00% | ~39 |
-| Better luck next time | 4.00% | ~39 |
-| Dev, this! | 4.00% | ~39 |
-| He who laughs last... | 4.00% | ~39 |
+| Under the neon lights | 4.00% | ~40 |
+| All Power to Engines! | 4.00% | ~40 |
+| Almost broke the game | 4.00% | ~40 |
+| It's like a party! | 4.00% | ~40 |
+| Better luck next time | 4.00% | ~40 |
+| Dev, this! | 4.00% | ~40 |
+| He who laughs last... | 4.00% | ~40 |
 | Try them all | 3.00% | ~30 |
 | A-mazing! | 3.00% | ~30 |
 | To infinity and gravity! | 3.00% | ~30 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 607)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 987 (Ranked 169)  
+Progressed: 988 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-24 | 981 | 0 |
 | 2023-05-25 | 984 | 0 |
 | 2023-05-26 | 985 | 0 |
-| 2023-05-27 | 987 | 0 |
+| 2023-05-27 | 988 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

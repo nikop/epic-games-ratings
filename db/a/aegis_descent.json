@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -122,6 +122,11 @@
       "Time": "2023-05-27T03:06:59.2392927+00:00",
       "NumProgressed": 365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T22:00:37.717904+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -133,7 +138,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Award_BigSpender",
@@ -173,7 +178,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -219,9 +224,9 @@
       "ID": "Award_ExtraAmmo",
       "SetID": "9ojec6n",
       "Name": "Extra Ammo",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "Award_FinalAscension",
@@ -267,9 +272,9 @@
       "ID": "Award_HazardousDuty",
       "SetID": "9ojec6n",
       "Name": "Hazardous Duty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "Award_HeavyMetal",
@@ -309,7 +314,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -341,7 +346,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Award_PerkKing",
@@ -357,7 +362,7 @@
       "Name": "Perky",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Award_PowerUp",
@@ -371,9 +376,9 @@
       "ID": "Award_Salvage",
       "SetID": "9ojec6n",
       "Name": "Salvage",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "Award_Scavenger",
@@ -397,7 +402,7 @@
       "Name": "Sixty Seconds",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -475,16 +480,16 @@
       "ID": "Award_WhatAShot",
       "SetID": "9ojec6n",
       "Name": "What-A-Shot",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 1
     }
   ],
@@ -492,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:00:32.8164041+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:00:37.7179035+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:58:13.8428238+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:00:32.8164415+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:58:18.7748068+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:00:37.7179329+00:00"
 }

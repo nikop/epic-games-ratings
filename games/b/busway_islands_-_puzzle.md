@@ -41,7 +41,7 @@
 | Island 35 | 20.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 306)  
-Completed: 7 (20.00%) (Ranked 6)  
+Completed: 7 (20.00%) (Ranked 7)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6112,
+  "EOS_Progressed": 6113,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2373,6 +2373,11 @@
       "Time": "2023-05-27T20:06:48.5645702+00:00",
       "NumProgressed": 6112,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-27T22:05:25.0697762+00:00",
+      "NumProgressed": 6113,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2464,7 +2469,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "HISTORIAN",
@@ -2496,7 +2501,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "LIVE_WIRE",
@@ -2504,7 +2509,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "SHREDDER",
@@ -2536,7 +2541,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "THING",
@@ -2551,7 +2556,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6112,
+      "Progressed": 6113,
       "Completed": 22
     }
   ],
@@ -2559,8 +2564,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:22.8336617+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:25.0697754+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:57:57.3842132+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:22.8336903+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:58:03.4378926+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:25.0697985+00:00"
 }

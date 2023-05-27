@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 876,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
@@ -2168,9 +2168,9 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 263
     },
     {
       "ID": "46",
@@ -2265,8 +2265,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:25.2415561+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:27.4509391+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:57:30.6510203+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:25.241609+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:57:37.6583415+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:27.4509856+00:00"
 }

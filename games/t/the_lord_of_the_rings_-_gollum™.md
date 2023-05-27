@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 57.00% | ~170 |
-| Collectibles Part 1 | 46.00% | ~137 |
-| Welcome to Mordor! | 46.00% | ~137 |
-| Wait! Wait! Not yet! | 29.00% | ~86 |
-| Memories | 27.00% | ~80 |
-| Like Flying... | 25.00% | ~74 |
+| The Wraith | 57.00% | ~172 |
+| Welcome to Mordor! | 46.00% | ~138 |
+| Collectibles Part 1 | 45.00% | ~135 |
+| Wait! Wait! Not yet! | 29.00% | ~87 |
+| Memories | 27.00% | ~81 |
+| Like Flying... | 25.00% | ~75 |
 | The Maggot | 17.00% | ~51 |
-| The Breeder | 12.00% | ~36 |
-| The Veteran | 9.00% | ~27 |
+| The Breeder | 13.00% | ~39 |
+| The Veteran | 10.00% | ~30 |
 | The Traitor | 5.00% | ~15 |
 | The Spider | 4.00% | ~12 |
 | He's so Annoying | 2.00% | ~6 |
 | Good as Fish | 2.00% | ~6 |
 | Murderer | 2.00% | ~6 |
 | Trigger-Happy | 2.00% | ~6 |
+| Her Eyes | 1.00% | ~3 |
 | So Tasty! | 1.00% | ~3 |
-| Her Eyes | 0.70% | ~2 |
+| Break a Leg! | 0.70% | ~2 |
 | Gollum/Sméagol | 0.70% | ~2 |
 | Sweet Darkness | 0.70% | ~2 |
-| Break a Leg! | 0.30% | ~1 |
 | And now we wish... | 0.30% | ~1 |
 | The Friend | 0.30% | ~1 |
 | We wants it! We needs it | 0.30% | ~1 |
@@ -41,7 +41,7 @@
 | Scout | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 217)  
+Progressed: 301 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-24 | 5 | 0 |
 | 2023-05-25 | 133 | 0 |
 | 2023-05-26 | 247 | 0 |
-| 2023-05-27 | 298 | 0 |
+| 2023-05-27 | 301 | 0 |

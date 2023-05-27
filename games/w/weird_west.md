@@ -1,13 +1,13 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 607)  
+Rating: 4.45 (Ranked 606)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 87.00% | ~1,356 |
-| Self-Improvement | 71.00% | ~1,107 |
+| Self-Improvement | 72.00% | ~1,122 |
 | Perky | 66.00% | ~1,029 |
 | Let’s Ride | 60.00% | ~935 |
 | Welcome to the Weird West | 58.00% | ~904 |

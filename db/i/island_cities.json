@@ -2,9 +2,9 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 16.22,
+  "EOS_Completed_Percentage": 16.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -828,6 +828,11 @@
       "Time": "2023-05-27T19:05:05.9062439+00:00",
       "NumProgressed": 185,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-27T22:05:26.7010286+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -839,7 +844,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "LEVEL_002",
@@ -847,7 +852,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_003",
@@ -855,7 +860,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_004",
@@ -885,9 +890,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_008",
@@ -919,7 +924,7 @@
       "Name": "At the heart of the city",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_012",
@@ -975,7 +980,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_019",
@@ -1014,7 +1019,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 30
     }
   ],
@@ -1022,8 +1027,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:24.4291323+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:26.7010278+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:58:00.8469159+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:24.4291533+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:58:06.7764395+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:26.7010445+00:00"
 }

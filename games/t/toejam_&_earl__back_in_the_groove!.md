@@ -7,7 +7,7 @@ Rating: 4.32 (Ranked 748)
 | ---- | ---------- | ----- |
 | Food Taster | 8.00% | ~4,381 |
 | Fall Fest | 7.00% | ~3,833 |
-| Thrill Seeker | 6.00% | ~3,285 |
+| Thrill Seeker | 6.00% | ~3,286 |
 | Flying Present Catcher | 5.00% | ~2,738 |
 | HFZ Goober | 5.00% | ~2,738 |
 | Sunflower Master | 4.00% | ~2,190 |
@@ -29,10 +29,10 @@ Rating: 4.32 (Ranked 748)
 | Piece O' Cake | 0.50% | ~274 |
 | Boom Box Baby | 0.40% | ~219 |
 | I Can't Believe I've Done This | 0.40% | ~219 |
+| Flying Present Ultimate Master | 0.40% | ~219 |
 | Harsh Love | 0.40% | ~219 |
 | Made It Through | 0.40% | ~219 |
 | Map Explorer | 0.30% | ~164 |
-| Flying Present Ultimate Master | 0.30% | ~164 |
 | Ridiculously Generous | 0.30% | ~164 |
 | Nine Funkotronians | 0.30% | ~164 |
 | I'm A Total Saint | 0.30% | ~164 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 748)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,757 (Ranked 74)  
+Progressed: 54,759 (Ranked 74)  
 Completed: 4 (0.01%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 4 (0.01%) (Ranked 195)
 | 2023-05-24 | 54,668 | 4 |
 | 2023-05-25 | 54,693 | 4 |
 | 2023-05-26 | 54,718 | 4 |
-| 2023-05-27 | 54,757 | 4 |
+| 2023-05-27 | 54,759 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

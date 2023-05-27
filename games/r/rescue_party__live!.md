@@ -12,7 +12,7 @@
 | Dawn of Victory | 14.00% | ~23 |
 | Team assemble | 13.00% | ~21 |
 | Resource manager | 12.00% | ~20 |
-| Gloable operation | 5.00% | ~8 |
+| Gloable operation | 6.00% | ~10 |
 | Love and peace | 5.00% | ~8 |
 | My turn | 5.00% | ~8 |
 | Give me a hand | 4.00% | ~7 |

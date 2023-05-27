@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10042,
+  "EOS_Progressed": 10043,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -581,6 +581,11 @@
       "Time": "2023-05-27T20:06:51.2022308+00:00",
       "NumProgressed": 10042,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-27T22:05:26.9518653+00:00",
+      "NumProgressed": 10043,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -616,7 +621,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -640,7 +645,7 @@
       "Name": "car wash",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -648,7 +653,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -696,7 +701,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -712,7 +717,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -752,7 +757,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7732
+      "UsersEstimate": 7733
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -816,7 +821,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9640
+      "UsersEstimate": 9641
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -928,22 +933,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7230
+      "UsersEstimate": 7231
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10042,
+      "Progressed": 10043,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:24.7678041+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:26.9518648+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.9775265+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:57:29.2267464+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:24.7678398+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:57:36.2219524+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:26.9518947+00:00"
 }

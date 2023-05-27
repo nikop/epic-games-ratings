@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 419,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,7 +522,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2702,
+  "EOS_Progressed": 2703,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -1132,6 +1132,11 @@
       "Time": "2023-05-27T21:05:49.0631024+00:00",
       "NumProgressed": 2702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T22:05:50.7340971+00:00",
+      "NumProgressed": 2703,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1375,7 +1380,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "Kills_Vakir",
@@ -1614,21 +1619,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2702,
+      "Progressed": 2703,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2702,
+      "Progressed": 2703,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:49.0631019+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:50.7340966+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:58:31.9129764+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:49.0631602+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:58:36.4903802+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:50.7341438+00:00"
 }

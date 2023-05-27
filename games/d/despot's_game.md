@@ -5,14 +5,14 @@ Rating: 4.50 (Ranked 540)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 82.00% | ~308 |
-| Vanquisher of Robots | 73.00% | ~274 |
-| Party | 45.00% | ~169 |
-| Knowledge is Power | 44.00% | ~165 |
-| Impossible Cube | 43.00% | ~162 |
-| No Mercy | 41.00% | ~154 |
-| The Return of a Rat | 40.00% | ~150 |
-| Through the Darkness | 40.00% | ~150 |
+| Good start! | 82.00% | ~309 |
+| Vanquisher of Robots | 73.00% | ~275 |
+| Party | 45.00% | ~170 |
+| Knowledge is Power | 44.00% | ~166 |
+| Impossible Cube | 42.00% | ~158 |
+| No Mercy | 41.00% | ~155 |
+| The Return of a Rat | 40.00% | ~151 |
+| Through the Darkness | 40.00% | ~151 |
 | Fat of the Earth | 33.00% | ~124 |
 | Last Man Standing | 31.00% | ~117 |
 | Catch Jonathan_tostar | 27.00% | ~102 |
@@ -25,7 +25,7 @@ Rating: 4.50 (Ranked 540)
 | Feed a God | 20.00% | ~75 |
 | To the Moon and Back | 20.00% | ~75 |
 | Great Flight | 17.00% | ~64 |
-| Holy Vengeance | 15.00% | ~56 |
+| Holy Vengeance | 15.00% | ~57 |
 | Honorary Cultist | 11.00% | ~41 |
 | Strength and Sorcery | 10.00% | ~38 |
 | Brain and Brawn | 10.00% | ~38 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 540)
 | Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376 (Ranked 205)  
+Progressed: 377 (Ranked 204)  
 Completed: 1 (0.27%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 1 (0.27%) (Ranked 131)
 | 2023-05-24 | 370 | 1 |
 | 2023-05-25 | 373 | 1 |
 | 2023-05-26 | 375 | 1 |
-| 2023-05-27 | 376 | 1 |
+| 2023-05-27 | 377 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

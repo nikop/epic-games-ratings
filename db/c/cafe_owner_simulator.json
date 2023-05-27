@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 442,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -803,6 +803,11 @@
       "Time": "2023-05-27T20:07:00.3040458+00:00",
       "NumProgressed": 439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T22:05:33.6979964+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -814,7 +819,7 @@
       "Name": "ADVANCED",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -822,7 +827,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 433
     },
     {
       "ID": "CHIEF",
@@ -830,7 +835,7 @@
       "Name": "CHIEF",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CLEANER",
@@ -838,7 +843,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 411
     },
     {
       "ID": "DEBTOR",
@@ -852,9 +857,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 230
     },
     {
       "ID": "FIRST_100K",
@@ -878,7 +883,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 327
     },
     {
       "ID": "INTRODUCTION",
@@ -925,7 +930,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 442,
       "Completed": 0
     }
   ],
@@ -933,8 +938,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:31.5380065+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:33.6979956+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:59:12.3411617+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:31.5380227+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:59:16.3351884+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:33.6980096+00:00"
 }

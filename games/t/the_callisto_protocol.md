@@ -12,8 +12,8 @@ Rating: 4.19 (Ranked 825)
 | Desperate Times | 5.00% | ~692 |
 | Reforged | 4.00% | ~553 |
 | Paper Jams | 4.00% | ~553 |
-| Instigator | 4.00% | ~70 |
-| Big Game Hunter | 4.00% | ~70 |
+| Instigator | 4.00% | ~71 |
+| Big Game Hunter | 4.00% | ~71 |
 | Get a Grip | 3.00% | ~415 |
 | Workplace Hazard | 3.00% | ~415 |
 | Float Like A Butterfly | 3.00% | ~415 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,835 (Ranked 102)  
+Progressed: 13,837 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
-| 2023-05-27 | 13,835 | 53 |
+| 2023-05-27 | 13,837 | 53 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 269 (Ranked 335)  

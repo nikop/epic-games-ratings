@@ -8,7 +8,7 @@
 | Wake Up | 81.00% | ~92 |
 | Time Gates | 61.00% | ~70 |
 | Command Centre | 48.00% | ~55 |
-| This is a Wall | 42.00% | ~48 |
+| This is a Wall | 43.00% | ~49 |
 | Extendable Bridges | 32.00% | ~36 |
 | 48 Attempts | 31.00% | ~35 |
 | Chain Reaction | 29.00% | ~33 |
@@ -27,7 +27,7 @@
 | Kaboom! | 5.00% | ~6 |
 | All Alone | 5.00% | ~6 |
 | Reunited | 5.00% | ~6 |
-| Summer Luvin' | 3.00% | ~3 |
+| Summer Luvin' | 4.00% | ~5 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |

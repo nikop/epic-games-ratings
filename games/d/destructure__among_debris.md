@@ -15,7 +15,7 @@
 | Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
 | Back From The Dead | 4.00% | ~4 |
-| Ball Protector | 3.00% | ~3 |
+| Ball Protector | 4.00% | ~4 |
 | Legendary Destructor | 3.00% | ~3 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |

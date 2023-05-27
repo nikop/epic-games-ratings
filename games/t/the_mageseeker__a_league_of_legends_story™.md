@@ -31,7 +31,7 @@ Rating: 4.78 (Ranked 99)
 | Capelworth | 19.00% | ~414 |
 | Glyndemere | 18.00% | ~392 |
 | Iffighain Headquarters | 18.00% | ~392 |
-| Full equipped | 17.00% | ~370 |
+| Full equipped | 18.00% | ~392 |
 | Whispers in the Woods II | 15.00% | ~327 |
 | Quickmoore Headquarters | 15.00% | ~327 |
 | Whispers in the Woods III | 14.00% | ~305 |

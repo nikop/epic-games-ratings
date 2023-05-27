@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 5.62,
+  "EOS_Completed_Percentage": 5.6,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -716,6 +716,11 @@
       "Time": "2023-05-27T21:03:27.9906854+00:00",
       "NumProgressed": 338,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-27T22:03:40.9929593+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 30,
@@ -727,7 +732,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "LEVEL_002",
@@ -735,7 +740,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "LEVEL_003",
@@ -743,7 +748,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LEVEL_004",
@@ -751,7 +756,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "LEVEL_005",
@@ -775,7 +780,7 @@
       "Name": "Animals in the farm",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_008",
@@ -791,7 +796,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEVEL_010",
@@ -823,7 +828,7 @@
       "Name": "Higher ground",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_014",
@@ -831,7 +836,7 @@
       "Name": "Cross-country",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_015",
@@ -925,9 +930,9 @@
       "ID": "LEVEL_026",
       "SetID": "212bg48",
       "Name": "Hiking, camping, picnics... you choose",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "LEVEL_027",
@@ -966,14 +971,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:03:27.9906849+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:03:40.9929588+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:57:10.6569714+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:03:27.9907133+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:57:18.7714098+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:03:40.9929852+00:00"
 }

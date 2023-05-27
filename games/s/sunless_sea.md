@@ -1,15 +1,15 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 419)  
+Rating: 4.59 (Ranked 406)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,820 |
+| Sink Beneath the Waves | 36.00% | ~10,821 |
 | Sweet Sorrow | 18.00% | ~5,410 |
-| Rules the Waves | 17.00% | ~5,109 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,508 |
+| Rules the Waves | 17.00% | ~5,110 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,509 |
 | Rival | 14.00% | ~4,208 |
 | Correspondent | 12.00% | ~3,607 |
 | Lose Your Mind | 12.00% | ~3,607 |
@@ -18,7 +18,7 @@ Number of Ratings: 401  (23.09.2022)
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,306 |
 | The Fall of the House | 11.00% | ~3,306 |
 | Shipmate | 11.00% | ~3,306 |
-| One Year at Zee | 8.00% | ~2,404 |
+| One Year at Zee | 8.00% | ~2,405 |
 | Pupil | 7.00% | ~2,104 |
 | Salvager | 7.00% | ~2,104 |
 | Open Your Ears | 7.00% | ~2,104 |
@@ -44,10 +44,10 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~301 |
 | Under the zee | 1.00% | ~301 |
 | A current under zee | 1.00% | ~301 |
-| A zee-change | 0.90% | ~270 |
-| Never Stop Sinking... | 0.90% | ~270 |
-| Leviathan | 0.90% | ~270 |
-| Depth charge | 0.90% | ~270 |
+| A zee-change | 0.90% | ~271 |
+| Never Stop Sinking... | 0.90% | ~271 |
+| Leviathan | 0.90% | ~271 |
+| Depth charge | 0.90% | ~271 |
 | What lies beneath | 0.80% | ~240 |
 | Stone's Curse | 0.70% | ~210 |
 | Five Years at Zee | 0.50% | ~150 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~30 |
 | Ten Years at Zee | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,055 (Ranked 87)  
+Progressed: 30,058 (Ranked 87)  
 Completed: 3 (0.01%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 3 (0.01%) (Ranked 195)
 | 2023-05-24 | 29,842 | 3 |
 | 2023-05-25 | 29,918 | 3 |
 | 2023-05-26 | 29,987 | 3 |
-| 2023-05-27 | 30,055 | 3 |
+| 2023-05-27 | 30,058 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 278 (Ranked 329)  
@@ -196,3 +196,4 @@ Diff (max vs sum): -75
 | 2023-05-14 | 4.58 | - | 207 | 276 |
 | 2023-05-16 | 4.58 | - | 208 | 277 |
 | 2023-05-25 | 4.58 | - | 209 | 278 |
+| 2023-05-27 | 4.59 | - | 209 | 278 |

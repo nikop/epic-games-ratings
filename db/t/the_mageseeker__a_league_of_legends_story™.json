@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -2312,9 +2312,9 @@
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
       "SetID": "3pe2bac",
       "Name": "Full equipped",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 392
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2353,8 +2353,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:33.5193103+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:35.7979764+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:57:39.3834391+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:33.5193571+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:57:46.7326353+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:35.7980211+00:00"
 }

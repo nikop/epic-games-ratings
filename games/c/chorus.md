@@ -11,16 +11,16 @@ Number of Ratings: 58  (23.09.2022)
 | Voices from the Past | 79.00% | ~705 |
 | Demigod | 77.00% | ~688 |
 | The Great Destroyer | 76.00% | ~679 |
-| Shields Down | 73.00% | ~652 |
+| Shields Down | 74.00% | ~661 |
 | Safe Home | 69.00% | ~616 |
 | Helping Hand | 68.00% | ~607 |
 | Paragon | 64.00% | ~572 |
-| Old Days Born Anew | 62.00% | ~554 |
+| Old Days Born Anew | 63.00% | ~563 |
 | Full Arsenal | 58.00% | ~518 |
 | Controlled Demolition | 56.00% | ~500 |
 | Payback | 54.00% | ~482 |
+| Huntress | 54.00% | ~482 |
 | Born to Drift | 53.00% | ~473 |
-| Huntress | 53.00% | ~473 |
 | Relentless | 49.00% | ~438 |
 | The Path Forward | 46.00% | ~411 |
 | Disruption | 45.00% | ~402 |

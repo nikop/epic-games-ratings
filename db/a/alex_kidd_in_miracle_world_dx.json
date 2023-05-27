@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.28,
+  "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -80,6 +80,11 @@
     {
       "Time": "2023-05-26T20:08:23.2690642+00:00",
       "NumProgressed": 235,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T22:05:24.2016959+00:00",
+      "NumProgressed": 236,
       "NumCompleted": 3
     }
   ],
@@ -186,9 +191,9 @@
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -219,7 +224,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 3
     }
   ],
@@ -227,8 +232,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:21.9699543+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:24.2016953+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:54.366124+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:58:06.6390171+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:21.9699675+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:58:12.5167291+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:24.2017065+00:00"
 }

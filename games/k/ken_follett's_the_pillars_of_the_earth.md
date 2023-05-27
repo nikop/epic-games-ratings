@@ -1,30 +1,30 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 506)  
+Rating: 4.52 (Ranked 507)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,358 |
-| Man of politics | 36.00% | ~4,592 |
+| Man of politics | 36.00% | ~4,593 |
 | Yet another secret | 35.00% | ~4,465 |
-| Friends of sorts | 34.00% | ~4,337 |
-| Let there be darkness | 33.00% | ~4,209 |
-| End of Book One | 31.00% | ~3,954 |
-| Wannabe knight | 25.00% | ~3,189 |
-| Garden of Eden | 25.00% | ~3,189 |
-| Full house | 24.00% | ~3,061 |
-| Help an old friend | 22.00% | ~2,806 |
-| Two of us | 20.00% | ~2,551 |
+| Friends of sorts | 34.00% | ~4,338 |
+| Let there be darkness | 33.00% | ~4,210 |
+| End of Book One | 31.00% | ~3,955 |
+| Wannabe knight | 25.00% | ~3,190 |
+| Garden of Eden | 25.00% | ~3,190 |
+| Full house | 24.00% | ~3,062 |
+| Help an old friend | 22.00% | ~2,807 |
+| Two of us | 20.00% | ~2,552 |
 | Negotiation skills | 19.00% | ~2,424 |
 | Workers' union | 19.00% | ~2,424 |
 | End of Book Two | 18.00% | ~2,296 |
 | Everything's in order | 17.00% | ~2,169 |
-| Jack was here! | 15.00% | ~1,913 |
+| Jack was here! | 15.00% | ~1,914 |
 | Twist of Fate | 14.00% | ~1,786 |
 | Exterminator | 14.00% | ~1,786 |
-| Whodunnit | 13.00% | ~1,658 |
+| Whodunnit | 13.00% | ~1,659 |
 | Good midwife | 11.00% | ~1,403 |
 | Friar Tuck | 11.00% | ~1,403 |
 | First profit | 11.00% | ~1,403 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,148 |
 | The truth revealed | 9.00% | ~1,148 |
 | The End. | 9.00% | ~1,148 |
-| A cry for help | 8.00% | ~1,020 |
+| A cry for help | 8.00% | ~1,021 |
 | Silentium est aureum | 7.00% | ~893 |
 | Rebel without a cause | 6.00% | ~765 |
 | Staring contest champion | 5.00% | ~638 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~383 |
 | Boy of mystery | 2.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,756 (Ranked 104)  
+Progressed: 12,758 (Ranked 104)  
 Completed: 94 (0.74%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 94 (0.74%) (Ranked 98)
 | 2023-05-24 | 12,667 | 94 |
 | 2023-05-25 | 12,697 | 94 |
 | 2023-05-26 | 12,723 | 94 |
-| 2023-05-27 | 12,756 | 94 |
+| 2023-05-27 | 12,758 | 94 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  

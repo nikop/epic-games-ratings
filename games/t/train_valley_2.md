@@ -7,7 +7,7 @@ Number of Ratings: 87  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dealmaker | 7.00% | ~50 |
-| Full garage | 6.00% | ~43 |
+| Full garage | 7.00% | ~50 |
 | To the eyeballs! | 6.00% | ~43 |
 | Individual delivery | 5.00% | ~36 |
 | Juggler | 5.00% | ~36 |

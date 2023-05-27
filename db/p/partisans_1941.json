@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 948,
+  "EOS_Progressed": 949,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -760,6 +760,11 @@
       "Time": "2023-05-27T18:06:02.517303+00:00",
       "NumProgressed": 948,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T22:05:45.3270393+00:00",
+      "NumProgressed": 949,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -883,7 +888,7 @@
       "Name": "Grenadier",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Hard_Serpent",
@@ -987,7 +992,7 @@
       "Name": "War Never Changes",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "We_were_not_here",
@@ -1010,15 +1015,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 948,
+      "Progressed": 949,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-27T21:05:43.4785894+00:00",
+  "LastChanged_Achievements": "2023-05-27T22:05:45.3270386+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:59:03.409333+00:00",
-  "LastUpdate_Achievements": "2023-05-27T21:05:43.478633+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:59:08.165543+00:00",
+  "LastUpdate_Achievements": "2023-05-27T22:05:45.3270583+00:00"
 }
