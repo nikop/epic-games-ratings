@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 260,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.62,
   "EosHistory": [
@@ -693,9 +693,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "MQ03_1",
@@ -725,17 +725,17 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "MQ04_1",
@@ -886,8 +886,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:03:26.5094209+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:03:13.6637564+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:57:15.0095339+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:03:26.5094386+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:57:09.4303685+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:03:13.6637801+00:00"
 }

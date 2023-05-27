@@ -14,13 +14,13 @@ Rating: 4.29 (Ranked 767)
 | Listening to the crowd | 4.00% | ~32 |
 | Accepting the Prophecy | 4.00% | ~32 |
 | Ascended | 3.00% | ~24 |
+| The Penitent Ones | 3.00% | ~24 |
 | Greedy | 3.00% | ~24 |
 | Hidden Secrets | 3.00% | ~24 |
 | The Stranded King | 3.00% | ~24 |
 | Prophecy Fulfilled | 3.00% | ~24 |
 | Just Chilling | 2.00% | ~16 |
 | Incredible Strength | 2.00% | ~16 |
-| The Penitent Ones | 2.00% | ~16 |
 | The First King | 1.00% | ~8 |
 | The great fire | 1.00% | ~8 |
 | The Greedy Ones | 1.00% | ~8 |

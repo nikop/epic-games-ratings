@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 179,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 15.64,
   "EosHistory": [
@@ -828,25 +828,25 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_006",
@@ -997,8 +997,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:05:34.538712+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:05:33.1882257+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:58:02.2620702+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:05:34.5387291+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:57:59.3161459+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:05:33.1882462+00:00"
 }

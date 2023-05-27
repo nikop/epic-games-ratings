@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2678,
+  "EOS_Progressed": 2679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1077,6 +1077,11 @@
       "Time": "2023-05-27T06:06:35.2863916+00:00",
       "NumProgressed": 2678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T08:06:28.150516+00:00",
+      "NumProgressed": 2679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1264,7 +1269,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1296,7 +1301,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Kills_Interactable",
@@ -1304,7 +1309,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Kills_Knockback",
@@ -1320,7 +1325,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Kills_Vakir",
@@ -1336,7 +1341,7 @@
       "Name": "An Ill Omen",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1448,7 +1453,7 @@
       "Name": "Just a Scratch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "NexusCompleted",
@@ -1559,21 +1564,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2678,
+      "Progressed": 2679,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2678,
+      "Progressed": 2679,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:06:20.1350874+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:06:28.1505155+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:58:42.0555826+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:06:20.1351323+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:58:45.7884093+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:06:28.1505737+00:00"
 }

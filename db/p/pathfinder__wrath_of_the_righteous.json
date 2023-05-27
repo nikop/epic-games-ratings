@@ -2466,10 +2466,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6652,
       "NumberOfAwardsMax": 1640
+    },
+    {
+      "Time": "2023-05-27T07:58:21.1103804+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6653,
+      "NumberOfAwardsMax": 1640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6652,
+  "NumberOfAwards": 6653,
   "NumberOfAwardsMax": 1640,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2507,7 +2513,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 606
+      "Count": 607
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2540,9 +2546,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9229,
+  "EOS_Progressed": 9231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4630,6 +4636,11 @@
       "Time": "2023-05-27T06:06:44.0673+00:00",
       "NumProgressed": 9229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T08:06:35.7224032+00:00",
+      "NumProgressed": 9231,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4665,7 +4676,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -5568,21 +5579,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8011,
+      "Progressed": 8013,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9229,
+      "Progressed": 9231,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-26T21:58:06.2938639+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:06:28.0493249+00:00",
+  "LastChanged": "2023-05-27T07:58:21.1103803+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:06:35.7224027+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:58:21.9849065+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:06:28.0494585+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:58:21.1103808+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:06:35.7225836+00:00"
 }

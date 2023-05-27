@@ -5,16 +5,16 @@ Rating: 4.68 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,919 |
-| 50 HEADSHOTS | 10.00% | ~40,835 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,668 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,668 |
-| 200 HEADSHOTS | 7.00% | ~28,585 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,501 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,418 |
-| FINISHED CHAPTER 4 | 4.00% | ~16,334 |
-| FINISH CHAPTER 5 | 4.00% | ~16,334 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,334 |
+| 100 KILLS | 11.00% | ~44,921 |
+| 50 HEADSHOTS | 10.00% | ~40,837 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,670 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,670 |
+| 200 HEADSHOTS | 7.00% | ~28,586 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,502 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,419 |
+| FINISHED CHAPTER 4 | 4.00% | ~16,335 |
+| FINISH CHAPTER 5 | 4.00% | ~16,335 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,335 |
 | 1000 KILLS | 3.00% | ~12,251 |
 | FINISH CHAPTER 6 | 3.00% | ~12,251 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,167 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 236)
 | THE GAMBLER | 0.10% | ~408 |
 | WARRIOR IN A GARDEN | 0.10% | ~408 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408,351 (Ranked 34)  
+Progressed: 408,371 (Ranked 34)  
 Completed: 31 (0.01%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,14 +95,14 @@ Completed: 31 (0.01%) (Ranked 195)
 | 2023-05-24 | 407,431 | 31 |
 | 2023-05-25 | 407,754 | 31 |
 | 2023-05-26 | 408,218 | 31 |
-| 2023-05-27 | 408,351 | 31 |
+| 2023-05-27 | 408,371 | 31 |
 ## Awards
-Max (Great Boss Battles): 172  (Ranked 274)  
-Sum: 172 (Ranked 366)  
-Diff (max vs sum): -92  
+Max (Great Boss Battles): 173  (Ranked 273)  
+Sum: 173 (Ranked 366)  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 172 |
+| This game has Great Boss Battles | 173 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -140,3 +140,4 @@ Diff (max vs sum): -92
 | 2023-05-22 | 4.68 | 170 | 170 |
 | 2023-05-24 | 4.68 | 171 | 171 |
 | 2023-05-25 | 4.68 | 172 | 172 |
+| 2023-05-27 | 4.68 | 173 | 173 |

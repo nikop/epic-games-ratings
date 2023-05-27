@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -728,6 +728,11 @@
       "Time": "2023-05-26T15:07:39.6584598+00:00",
       "NumProgressed": 180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T08:06:33.7691621+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -801,9 +806,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "achCity",
@@ -937,9 +942,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "achLizun",
@@ -1011,7 +1016,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achPriest",
@@ -1089,9 +1094,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "achVip",
@@ -1138,7 +1143,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 0
     }
   ],
@@ -1146,8 +1151,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:06:25.7581741+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:06:33.7691615+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.5505459+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:00:36.9793266+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:06:25.7582102+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:00:53.2847745+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:06:33.7692629+00:00"
 }

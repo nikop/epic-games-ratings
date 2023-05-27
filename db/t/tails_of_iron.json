@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1484,
+  "EOS_Progressed": 1485,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -770,6 +770,11 @@
       "Time": "2023-05-27T04:00:57.0100686+00:00",
       "NumProgressed": 1484,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-27T08:02:10.8136447+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -781,7 +786,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "Collect20Gold",
@@ -789,7 +794,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "Collect20Iron",
@@ -805,7 +810,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "CollectAllStatues",
@@ -845,7 +850,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "CompleteElderFaction",
@@ -893,7 +898,7 @@
       "Name": "End of the Mozis",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -917,7 +922,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "GetRangedWeapon",
@@ -933,7 +938,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "Kill25Bugs",
@@ -957,7 +962,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "MeetTheMoles",
@@ -987,9 +992,9 @@
       "ID": "RepairSmith",
       "SetID": "9lj35g4",
       "Name": "Smithy Ready to Craft",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 624
     },
     {
       "ID": "RepairThroneRoom",
@@ -997,7 +1002,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "RescueBrothers",
@@ -1020,22 +1025,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1484,
+      "Progressed": 1485,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 125,
-      "Completed": 125
+      "Progressed": 126,
+      "Completed": 126
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:02:12.7829605+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:02:10.8136442+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:58:25.3430153+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:02:12.782981+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:58:25.9185768+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:02:10.8136712+00:00"
 }

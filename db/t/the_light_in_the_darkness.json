@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1438,
+  "EOS_Progressed": 1439,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1763,6 +1763,11 @@
       "Time": "2023-05-27T06:06:19.9323011+00:00",
       "NumProgressed": 1438,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-05-27T08:06:15.0157595+00:00",
+      "NumProgressed": 1439,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 12,
@@ -1836,9 +1841,9 @@
       "ID": "Little Helper",
       "SetID": "b40dflc",
       "Name": "Little Helper",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 460
+      "UsersEstimate": 446
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1869,7 +1874,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1438,
+      "Progressed": 1439,
       "Completed": 112
     }
   ],
@@ -1877,8 +1882,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:05:46.9062079+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:06:15.0157589+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:59:46.9443546+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:05:46.9062238+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:00:03.7278535+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:06:15.0157799+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -235,6 +235,11 @@
       "Time": "2023-05-27T07:05:30.7784249+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T08:05:29.5842545+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -270,7 +275,7 @@
       "Name": "The Wraith",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Chapter10",
@@ -284,9 +289,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "Chapter3",
@@ -350,7 +355,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Collectibles2",
@@ -414,7 +419,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Memories",
@@ -422,7 +427,7 @@
       "Name": "Memories",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Murderer",
@@ -508,7 +513,7 @@
       "ID": "Tasty",
       "SetID": "70l3651",
       "Name": "So Tasty!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -516,9 +521,9 @@
       "ID": "TriggerHappy",
       "SetID": "70l3651",
       "Name": "Trigger-Happy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "WelcomeToMordor",
@@ -526,21 +531,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:05:30.7784244+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:05:29.5842538+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:57:44.7138781+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:05:30.7784531+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:57:42.7633829+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:05:29.5842839+00:00"
 }

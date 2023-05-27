@@ -4,7 +4,7 @@
   "ProductSlug": "alien-isolation",
   "Ranking_Rating": 360,
   "Ranking_Popularity": 298,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
@@ -1913,10 +1913,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 931,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-27T07:57:57.1679311+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 932,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 931,
+  "NumberOfAwards": 932,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -1972,7 +1978,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 66
+      "Count": 67
     }
   ],
   "EOS_Progressed": 0,
@@ -1986,8 +1992,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2023-05-11T20:58:00.7557257+00:00",
+  "LastChanged": "2023-05-27T07:57:57.167931+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:45.5949284+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:58:00.0854892+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:03:52.0577836+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:57:57.1679317+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:03:39.7756753+00:00"
 }

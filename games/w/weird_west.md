@@ -6,53 +6,53 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,347 |
-| Self-Improvement | 72.00% | ~1,115 |
-| Perky | 66.00% | ~1,022 |
-| Let’s Ride | 60.00% | ~929 |
-| Welcome to the Weird West | 58.00% | ~898 |
-| Dead or Alive | 56.00% | ~867 |
-| Full House | 37.00% | ~573 |
-| Off the Trail | 34.00% | ~526 |
-| Justice Served | 28.00% | ~433 |
+| Unforgiven | 87.00% | ~1,348 |
+| Self-Improvement | 72.00% | ~1,116 |
+| Perky | 66.00% | ~1,023 |
+| Let’s Ride | 60.00% | ~930 |
+| Welcome to the Weird West | 58.00% | ~899 |
+| Dead or Alive | 56.00% | ~868 |
+| Full House | 37.00% | ~574 |
+| Off the Trail | 34.00% | ~527 |
+| Justice Served | 28.00% | ~434 |
 | Chain Reaction | 27.00% | ~418 |
-| Rain of Death | 25.00% | ~387 |
-| Scholar | 25.00% | ~387 |
-| Through Their Eyes | 25.00% | ~387 |
+| Rain of Death | 25.00% | ~388 |
+| Scholar | 25.00% | ~388 |
+| Through Their Eyes | 25.00% | ~388 |
 | Dishonored | 24.00% | ~372 |
-| The Great Escape | 22.00% | ~341 |
+| The Great Escape | 23.00% | ~356 |
 | That’s All, Folks | 18.00% | ~279 |
 | Fallen Star | 16.00% | ~248 |
 | Here Comes Santa Claus | 16.00% | ~248 |
 | Winds of War | 16.00% | ~248 |
 | For Balance | 15.00% | ~232 |
-| Dog Days | 13.00% | ~201 |
-| Workers' Rights | 13.00% | ~201 |
+| Dog Days | 13.00% | ~202 |
+| Workers' Rights | 13.00% | ~202 |
 | Elusive Prey | 12.00% | ~186 |
 | Out on the Ebb Tide | 12.00% | ~186 |
 | Power Behind the Pulpit | 12.00% | ~186 |
 | Something Wicked This Way Comes… | 12.00% | ~186 |
 | There is Hope | 12.00% | ~186 |
 | Turning the Tables | 12.00% | ~186 |
-| Loyalty to the Pack | 9.00% | ~139 |
-| Eternity Can Wait | 9.00% | ~139 |
-| Mystery Machine | 9.00% | ~139 |
-| The Philosopher’s Stone | 9.00% | ~139 |
+| Loyalty to the Pack | 9.00% | ~140 |
+| Eternity Can Wait | 9.00% | ~140 |
+| Mystery Machine | 9.00% | ~140 |
+| The Philosopher’s Stone | 9.00% | ~140 |
 | Gold Digger | 8.00% | ~124 |
-| Do Not Pass Go… | 7.00% | ~108 |
-| Getting the Gang Back Together | 7.00% | ~108 |
-| Monster Hunter | 7.00% | ~108 |
-| Knuckle Sandwich | 7.00% | ~108 |
+| Do Not Pass Go… | 7.00% | ~109 |
+| Getting the Gang Back Together | 7.00% | ~109 |
+| Monster Hunter | 7.00% | ~109 |
+| Knuckle Sandwich | 7.00% | ~109 |
 | Who You Gonna Call? | 6.00% | ~93 |
-| Healing Old Wounds | 5.00% | ~77 |
-| This Is Sparta | 5.00% | ~77 |
-| What’s in the Box? | 5.00% | ~77 |
+| Healing Old Wounds | 5.00% | ~78 |
+| This Is Sparta | 5.00% | ~78 |
+| What’s in the Box? | 5.00% | ~78 |
 | Ghost Town | 3.00% | ~46 |
 | Lord Inut Sends His Regards | 3.00% | ~46 |
 | Moondrunk | 3.00% | ~46 |
-| I Kicked a Bird and I Liked it | 1.00% | ~15 |
-| Hog Wild | 1.00% | ~15 |
-| 'Ma Barker | 1.00% | ~15 |
+| I Kicked a Bird and I Liked it | 1.00% | ~16 |
+| Hog Wild | 1.00% | ~16 |
+| 'Ma Barker | 1.00% | ~16 |
 | Explorer | 0.50% | ~8 |
 | End the world | 0.50% | ~8 |
 | Moon Hunter | 0.40% | ~6 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,548 (Ranked 156)  
+Progressed: 1,550 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-24 | 1,539 | 2 |
 | 2023-05-25 | 1,544 | 2 |
 | 2023-05-26 | 1,547 | 2 |
-| 2023-05-27 | 1,548 | 2 |
+| 2023-05-27 | 1,550 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 471)  

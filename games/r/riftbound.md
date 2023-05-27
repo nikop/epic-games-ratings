@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Adventure Time | 92.00% | ~23 |
 | Master Of The Arts | 72.00% | ~18 |
-| Close Call | 28.00% | ~7 |
+| Close Call | 32.00% | ~8 |
 | Evolution Revolution | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
 | Getting Good At This | 4.00% | ~1 |

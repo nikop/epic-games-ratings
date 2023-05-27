@@ -5,13 +5,13 @@ Rating: 4.39 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 19.00% | ~296 |
-| Confirming Suspicions | 14.00% | ~218 |
+| Meeting Resistance | 19.00% | ~297 |
+| Confirming Suspicions | 14.00% | ~219 |
 | The Kraken Wakes | 10.00% | ~156 |
-| It's Starting to Crack | 8.00% | ~124 |
+| It's Starting to Crack | 8.00% | ~125 |
 | Lord of War | 7.00% | ~109 |
-| Resourceful | 6.00% | ~93 |
-| Change the Channel | 6.00% | ~93 |
+| Resourceful | 6.00% | ~94 |
+| Change the Channel | 6.00% | ~94 |
 | Enemy at the Gates | 5.00% | ~78 |
 | Organ Grinder | 5.00% | ~78 |
 | Opposing Force | 4.00% | ~62 |
@@ -19,7 +19,6 @@ Rating: 4.39 (Ranked 689)
 | Explosive Efficiency | 4.00% | ~62 |
 | As Quiet as a Mouse | 4.00% | ~62 |
 | Taking it back | 4.00% | ~62 |
-| Fields of Glory | 3.00% | ~47 |
 | Gunslinger | 3.00% | ~47 |
 | Sharpshooter | 3.00% | ~47 |
 | Die Nussknacker Sweet! | 3.00% | ~47 |
@@ -30,6 +29,7 @@ Rating: 4.39 (Ranked 689)
 | Climbing the Ladder | 2.00% | ~31 |
 | Liberté | 2.00% | ~31 |
 | No Stone Unturned | 2.00% | ~31 |
+| Fields of Glory | 2.00% | ~31 |
 | Skirmisher | 2.00% | ~31 |
 | Set Europe Ablaze | 2.00% | ~31 |
 | Precision Is Key | 2.00% | ~31 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 689)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,556 (Ranked 155)  
+Progressed: 1,562 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
-| 2023-05-27 | 1,556 | 2 |
+| 2023-05-27 | 1,562 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

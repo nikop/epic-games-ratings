@@ -6,11 +6,11 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shooting Shark | 51.00% | ~7,128 |
-| Make Rock Not War | 43.00% | ~6,010 |
-| Sole Survivor | 37.00% | ~5,171 |
-| Fireworks | 33.00% | ~4,612 |
-| Burning For You | 29.00% | ~4,053 |
+| Shooting Shark | 51.00% | ~7,129 |
+| Make Rock Not War | 43.00% | ~6,011 |
+| Sole Survivor | 37.00% | ~5,172 |
+| Fireworks | 33.00% | ~4,613 |
+| Burning For You | 29.00% | ~4,054 |
 | Beat 'em Up | 28.00% | ~3,914 |
 | I Am The Storm | 18.00% | ~2,516 |
 | Still Burnin' | 18.00% | ~2,516 |
@@ -23,7 +23,7 @@ Number of Ratings: 76  (23.09.2022)
 | Shadow Warrior | 2.00% | ~280 |
 | Mirrors | 1.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,977 (Ranked 101)  
+Progressed: 13,978 (Ranked 101)  
 Completed: 85 (0.61%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 85 (0.61%) (Ranked 105)
 | 2023-05-24 | 13,884 | 83 |
 | 2023-05-25 | 13,915 | 83 |
 | 2023-05-26 | 13,963 | 85 |
-| 2023-05-27 | 13,977 | 85 |
+| 2023-05-27 | 13,978 | 85 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

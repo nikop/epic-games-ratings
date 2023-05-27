@@ -5,52 +5,52 @@ Rating: 4.52 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~2,820 |
-| Realm Estate | 76.00% | ~2,713 |
-| Secret Technique | 75.00% | ~2,678 |
-| Walls Cannot Stop Us | 74.00% | ~2,642 |
-| From Friends to Family | 69.00% | ~2,463 |
-| Magical Synergy | 65.00% | ~2,320 |
-| Bone Peddler | 61.00% | ~2,178 |
-| Stronger Together | 55.00% | ~1,964 |
-| Full Ascension | 54.00% | ~1,928 |
-| There Can Only Be One! | 47.00% | ~1,678 |
-| Seat of Power | 46.00% | ~1,642 |
-| Intimidation Tactics | 44.00% | ~1,571 |
-| My Final Form | 43.00% | ~1,535 |
-| Valley of Wonders | 41.00% | ~1,464 |
-| In a Liege of Your Own | 36.00% | ~1,285 |
-| Return of the Wizard King | 30.00% | ~1,071 |
-| Digging for Treasure | 30.00% | ~1,071 |
-| Against the Odds | 30.00% | ~1,071 |
-| Enchanted Archipelago | 26.00% | ~928 |
-| Impenetrable Fortress | 25.00% | ~892 |
-| The Magic That Empowers Me! | 19.00% | ~678 |
-| Preparation Is Everything | 19.00% | ~678 |
-| Arch Mage | 18.00% | ~643 |
-| God Emperor | 17.00% | ~607 |
-| Eternal Lord | 16.00% | ~571 |
-| Crimson Caldera | 16.00% | ~571 |
-| Fiery Friend | 14.00% | ~500 |
-| Lord of Chaos | 13.00% | ~464 |
-| The Creator | 13.00% | ~464 |
-| The Goddess of Nature | 12.00% | ~428 |
-| Pruning for Progress | 9.00% | ~321 |
+| A Wonderful Discovery | 79.00% | ~2,827 |
+| Realm Estate | 76.00% | ~2,719 |
+| Secret Technique | 75.00% | ~2,684 |
+| Walls Cannot Stop Us | 74.00% | ~2,648 |
+| From Friends to Family | 69.00% | ~2,469 |
+| Magical Synergy | 65.00% | ~2,326 |
+| Bone Peddler | 61.00% | ~2,183 |
+| Stronger Together | 55.00% | ~1,968 |
+| Full Ascension | 53.00% | ~1,896 |
+| There Can Only Be One! | 47.00% | ~1,682 |
+| Seat of Power | 46.00% | ~1,646 |
+| Intimidation Tactics | 44.00% | ~1,574 |
+| My Final Form | 43.00% | ~1,539 |
+| Valley of Wonders | 41.00% | ~1,467 |
+| In a Liege of Your Own | 36.00% | ~1,288 |
+| Return of the Wizard King | 30.00% | ~1,073 |
+| Digging for Treasure | 30.00% | ~1,073 |
+| Against the Odds | 30.00% | ~1,073 |
+| Enchanted Archipelago | 26.00% | ~930 |
+| Impenetrable Fortress | 25.00% | ~894 |
+| The Magic That Empowers Me! | 19.00% | ~680 |
+| Preparation Is Everything | 19.00% | ~680 |
+| Arch Mage | 18.00% | ~644 |
+| God Emperor | 17.00% | ~608 |
+| Eternal Lord | 16.00% | ~572 |
+| Crimson Caldera | 16.00% | ~572 |
+| Fiery Friend | 14.00% | ~501 |
+| Lord of Chaos | 13.00% | ~465 |
+| The Creator | 13.00% | ~465 |
+| The Goddess of Nature | 12.00% | ~429 |
+| Pruning for Progress | 9.00% | ~322 |
 | The Eternal Court | 7.00% | ~250 |
 | Jack of All Tomes | 7.00% | ~250 |
-| I've Got Everything I Need Right Here | 6.00% | ~214 |
-| Betrayal Most Foul | 5.00% | ~178 |
+| I've Got Everything I Need Right Here | 6.00% | ~215 |
+| Betrayal Most Foul | 5.00% | ~179 |
 | Grexolis | 3.00% | ~107 |
 | One for All, All for One | 3.00% | ~107 |
-| Snap Out of It! | 2.00% | ~71 |
-| I Want to Break Free | 2.00% | ~71 |
+| Snap Out of It! | 2.00% | ~72 |
+| I Want to Break Free | 2.00% | ~72 |
 | Manufactured War | 1.00% | ~36 |
 | I'll Fight You All | 0.90% | ~32 |
 | The Grey Wizard | 0.30% | ~11 |
 | Returning Circle | 0.30% | ~11 |
 | Master of Evilness | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,570 (Ranked 131)  
+Progressed: 3,578 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 3,354 | 0 |
 | 2023-05-25 | 3,417 | 0 |
 | 2023-05-26 | 3,539 | 0 |
-| 2023-05-27 | 3,570 | 0 |
+| 2023-05-27 | 3,578 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

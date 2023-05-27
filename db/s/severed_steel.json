@@ -3,7 +3,7 @@
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
   "Ranking_Rating": 236,
-  "Ranking_Popularity": 274,
+  "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 195,
@@ -204,23 +204,29 @@
       "Rating": 4.68,
       "NumberOfAwards": 172,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2023-05-27T08:00:00.2119554+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 173,
+      "NumberOfAwardsMax": 173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 172,
-  "NumberOfAwardsMax": 172,
+  "NumberOfAwards": 173,
+  "NumberOfAwardsMax": 173,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 172
+      "Count": 173
     }
   ],
-  "EOS_Progressed": 408351,
+  "EOS_Progressed": 408371,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 2636,
+  "EOS_NewPlayers": 2637,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3913,6 +3919,11 @@
       "Time": "2023-05-27T07:03:38.539417+00:00",
       "NumProgressed": 408351,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-27T08:03:25.9449632+00:00",
+      "NumProgressed": 408371,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 52,
@@ -3932,7 +3943,7 @@
       "Name": "100 KILLS",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 44919
+      "UsersEstimate": 44921
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -3940,7 +3951,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28585
+      "UsersEstimate": 28586
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -3948,7 +3959,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40835
+      "UsersEstimate": 40837
     },
     {
       "ID": "BIGUPS",
@@ -3988,7 +3999,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 32668
+      "UsersEstimate": 32670
     },
     {
       "ID": "CHAPTER2",
@@ -3996,7 +4007,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24501
+      "UsersEstimate": 24502
     },
     {
       "ID": "CHAPTER3",
@@ -4004,7 +4015,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20418
+      "UsersEstimate": 20419
     },
     {
       "ID": "CHAPTER4",
@@ -4012,7 +4023,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "CHAPTER5",
@@ -4020,7 +4031,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "CHAPTER6",
@@ -4052,7 +4063,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -4300,7 +4311,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 32668
+      "UsersEstimate": 32670
     },
     {
       "ID": "SOUL",
@@ -4339,16 +4350,16 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 408351,
+      "Progressed": 408371,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2023-05-25T13:07:37.5726436+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:03:38.5394166+00:00",
+  "LastChanged": "2023-05-27T08:00:00.2119552+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:03:25.9449627+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:01.4301628+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:59:43.9920223+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:03:38.5394672+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:00:00.2119558+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:03:25.945034+00:00"
 }

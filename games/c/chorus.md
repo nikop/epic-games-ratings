@@ -12,8 +12,8 @@ Number of Ratings: 58  (23.09.2022)
 | Demigod | 77.00% | ~685 |
 | The Great Destroyer | 76.00% | ~676 |
 | Shields Down | 73.00% | ~649 |
+| Safe Home | 69.00% | ~613 |
 | Helping Hand | 68.00% | ~605 |
-| Safe Home | 68.00% | ~605 |
 | Paragon | 64.00% | ~569 |
 | Old Days Born Anew | 63.00% | ~560 |
 | Full Arsenal | 58.00% | ~516 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 889 (Ranked 174)  
-Completed: 11 (1.24%) (Ranked 79)  
+Completed: 11 (1.24%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -10,9 +10,9 @@
 | It's a trap! | 13.00% | ~1 |
 | Like a ninja! | 13.00% | ~1 |
 | Lights out | 13.00% | ~1 |
+| The end... or is it? | 13.00% | ~1 |
 | Knock knock | 0.00% | ~0 |
 | Payback | 0.00% | ~0 |
-| The end... or is it? | 0.00% | ~0 |
 | Wrong turn | 0.00% | ~0 |
 | Happy ever after | 0.00% | ~0 |
 | Never fade away | 0.00% | ~0 |

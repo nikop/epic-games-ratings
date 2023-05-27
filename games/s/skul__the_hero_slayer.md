@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,897 |
-| What should I buy? | 83.00% | ~6,155 |
-| Focus! | 62.00% | ~4,598 |
-| Rescued Elder Ent | 62.00% | ~4,598 |
-| The End of the Gold Mane Knights | 46.00% | ~3,411 |
-| Rules of Etiquette | 39.00% | ~2,892 |
-| False Goddess, Disappear | 38.00% | ~2,818 |
-| Quick Movements | 33.00% | ~2,447 |
-| Inventory Management | 33.00% | ~2,447 |
+| The Legend Begins | 93.00% | ~6,899 |
+| What should I buy? | 83.00% | ~6,157 |
+| Focus! | 62.00% | ~4,599 |
+| Rescued Elder Ent | 62.00% | ~4,599 |
+| The End of the Gold Mane Knights | 46.00% | ~3,412 |
+| Rules of Etiquette | 39.00% | ~2,893 |
+| False Goddess, Disappear | 38.00% | ~2,819 |
+| Quick Movements | 33.00% | ~2,448 |
+| Inventory Management | 33.00% | ~2,448 |
 | The Fall of the Leonia Order | 29.00% | ~2,151 |
-| The Hero Killer | 27.00% | ~2,002 |
-| Go Home... | 26.00% | ~1,928 |
+| The Hero Killer | 27.00% | ~2,003 |
+| Go Home... | 26.00% | ~1,929 |
 | The Final Battle of the First Hero | 25.00% | ~1,854 |
 | Brain at Full Throttle | 22.00% | ~1,632 |
-| Rookies Welcome | 20.00% | ~1,483 |
-| Deadly Power | 15.00% | ~1,112 |
-| Castle Restoration Plans | 14.00% | ~1,038 |
+| Rookies Welcome | 20.00% | ~1,484 |
+| Deadly Power | 15.00% | ~1,113 |
+| Castle Restoration Plans | 14.00% | ~1,039 |
 | The Dwarven Chandelier | 12.00% | ~890 |
-| Master of Speed | 9.00% | ~667 |
+| Master of Speed | 9.00% | ~668 |
 | The Levitator | 6.00% | ~445 |
-| The God of Battle | 3.00% | ~222 |
+| The God of Battle | 3.00% | ~223 |
 | Too Much of a Talker | 2.00% | ~148 |
 | The Skeleton King | 1.00% | ~74 |
 | Cold-Blooded | 0.80% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,416 (Ranked 112)  
+Progressed: 7,418 (Ranked 112)  
 Completed: 11 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 11 (0.15%) (Ranked 149)
 | 2023-05-24 | 7,371 | 11 |
 | 2023-05-25 | 7,396 | 11 |
 | 2023-05-26 | 7,412 | 11 |
-| 2023-05-27 | 7,416 | 11 |
+| 2023-05-27 | 7,418 | 11 |
 ## Awards
 Max (Diverse Characters): 113  (Ranked 313)  
 Sum: 754 (Ranked 254)  

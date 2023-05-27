@@ -23,6 +23,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~150 |
 | Trade Baron | 1.00% | ~150 |
 | Sparkdew Crystals | 0.90% | ~135 |
+| Dangerous Lands | 0.90% | ~135 |
 | Flooded Mines | 0.90% | ~135 |
 | Royal Outpost | 0.90% | ~135 |
 | Corrosive Torrent | 0.90% | ~135 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.90% | ~135 |
 | Refinery | 0.80% | ~120 |
 | Against All Odds | 0.80% | ~120 |
-| Dangerous Lands | 0.80% | ~120 |
 | Haunted Forest | 0.80% | ~120 |
 | Levitating Monument | 0.80% | ~120 |
 | Monastery of the Holy Flame | 0.80% | ~120 |

@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12728,
+  "EOS_Progressed": 12732,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2729,6 +2729,11 @@
       "Time": "2023-05-27T06:05:54.5588607+00:00",
       "NumProgressed": 12728,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-27T08:05:32.1735106+00:00",
+      "NumProgressed": 12732,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2740,7 +2745,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "tpote_achievement_10",
@@ -2756,7 +2761,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "tpote_achievement_12",
@@ -2764,7 +2769,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "tpote_achievement_13",
@@ -2772,7 +2777,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "tpote_achievement_14",
@@ -2780,7 +2785,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "tpote_achievement_15",
@@ -2812,7 +2817,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "tpote_achievement_19",
@@ -2820,7 +2825,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "tpote_achievement_2",
@@ -2828,7 +2833,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "tpote_achievement_20",
@@ -2844,7 +2849,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3946
+      "UsersEstimate": 3947
     },
     {
       "ID": "tpote_achievement_22",
@@ -2868,7 +2873,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "tpote_achievement_25",
@@ -2892,7 +2897,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "tpote_achievement_28",
@@ -2916,7 +2921,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4202
     },
     {
       "ID": "tpote_achievement_30",
@@ -2932,7 +2937,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "tpote_achievement_32",
@@ -2940,7 +2945,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "tpote_achievement_33",
@@ -2956,7 +2961,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "tpote_achievement_35",
@@ -2980,7 +2985,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "tpote_achievement_38",
@@ -3004,7 +3009,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "tpote_achievement_40",
@@ -3028,7 +3033,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "tpote_achievement_6",
@@ -3036,7 +3041,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "tpote_achievement_7",
@@ -3052,7 +3057,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "tpote_achievement_9",
@@ -3060,22 +3065,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4584
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12728,
+      "Progressed": 12732,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-27T07:05:33.4463926+00:00",
+  "LastChanged_Achievements": "2023-05-27T08:05:32.1735101+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:00:13.5782227+00:00",
-  "LastUpdate_Achievements": "2023-05-27T07:05:33.4464296+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:00:33.4228614+00:00",
+  "LastUpdate_Achievements": "2023-05-27T08:05:32.1735601+00:00"
 }
