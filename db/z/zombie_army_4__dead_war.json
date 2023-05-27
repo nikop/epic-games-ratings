@@ -2,7 +2,7 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 81,
@@ -1527,9 +1527,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42441,
+  "EOS_Progressed": 42442,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2632,6 +2632,11 @@
       "Time": "2023-05-27T05:07:29.2446739+00:00",
       "NumProgressed": 42441,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-27T06:06:43.8550173+00:00",
+      "NumProgressed": 42442,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2643,7 +2648,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25889
+      "UsersEstimate": 25890
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2699,7 +2704,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11883
+      "UsersEstimate": 11884
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -2771,7 +2776,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -2795,7 +2800,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -2803,7 +2808,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -2819,7 +2824,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -2835,7 +2840,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26313
+      "UsersEstimate": 26314
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2883,7 +2888,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7639
+      "UsersEstimate": 7640
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -2899,7 +2904,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14854
+      "UsersEstimate": 14855
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -2923,7 +2928,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -2931,7 +2936,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15703
+      "UsersEstimate": 15704
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -2947,7 +2952,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21220
+      "UsersEstimate": 21221
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2971,7 +2976,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28860
+      "UsersEstimate": 28861
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2987,7 +2992,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12732
+      "UsersEstimate": 12733
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -3003,7 +3008,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23767
+      "UsersEstimate": 23768
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -3155,7 +3160,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7639
+      "UsersEstimate": 7640
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -3170,15 +3175,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42441,
+      "Progressed": 42442,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-26T18:00:13.3022152+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:29.2446734+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:43.8550168+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:01:16.2096012+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:29.2447429+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:00:39.4308271+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:43.8550845+00:00"
 }

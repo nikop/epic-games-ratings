@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 832)  
+Rating: 4.18 (Ranked 833)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,12 +32,12 @@ Number of Ratings: 429  (23.09.2022)
 | Win an Immense Game | 3.00% | ~174 |
 | Artifact Mastery | 2.00% | ~116 |
 | Win as Altarians | 2.00% | ~116 |
+| Win as the Mimot | 2.00% | ~116 |
 | Win as the Yor | 2.00% | ~116 |
 | Influence Victory! | 2.00% | ~116 |
 | Win as Arceans | 1.00% | ~58 |
 | Win as the Baratak | 1.00% | ~58 |
 | Win as Festron | 1.00% | ~58 |
-| Win as the Mimot | 1.00% | ~58 |
 | Win as the Navigators | 0.90% | ~52 |
 | Win as Torians | 0.90% | ~52 |
 | Win as Xeloxi | 0.80% | ~46 |

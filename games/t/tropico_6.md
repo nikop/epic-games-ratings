@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,399 |
-| Un-Lonely Island | 49.00% | ~1,527 |
-| The Beginning of a Servantship | 46.00% | ~1,433 |
-| Trade Is My Trait | 38.00% | ~1,184 |
-| Number 18 | 25.00% | ~779 |
-| We Don't Have Time For That | 20.00% | ~623 |
+| Just One...More...Term... | 77.00% | ~2,401 |
+| Un-Lonely Island | 49.00% | ~1,528 |
+| The Beginning of a Servantship | 46.00% | ~1,434 |
+| Trade Is My Trait | 38.00% | ~1,185 |
+| Number 18 | 25.00% | ~780 |
+| We Don't Have Time For That | 20.00% | ~624 |
 | The Governator | 19.00% | ~592 |
 | Caribbean Comrade | 17.00% | ~530 |
 | The Legend of Langostino | 17.00% | ~530 |
@@ -21,9 +21,9 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 11.00% | ~343 |
 | Of Seals And Men | 10.00% | ~312 |
 | Shackadelic | 10.00% | ~312 |
-| Double Trouble | 9.00% | ~280 |
-| Firestarter | 9.00% | ~280 |
-| Make Tropico Great Again! | 9.00% | ~280 |
+| Double Trouble | 9.00% | ~281 |
+| Firestarter | 9.00% | ~281 |
+| Make Tropico Great Again! | 9.00% | ~281 |
 | French Connection | 8.00% | ~249 |
 | Don't Panic! | 7.00% | ~218 |
 | I Owe You Nothing | 7.00% | ~218 |
@@ -33,11 +33,11 @@ Number of Ratings: 398  (23.09.2022)
 | Fairy Tale Come True | 6.00% | ~187 |
 | Viva Tropico! | 5.00% | ~156 |
 | Apocalypso | 4.00% | ~125 |
-| Been there, Done That | 3.00% | ~93 |
-| Narcissist | 3.00% | ~93 |
-| Promising Endeavors | 3.00% | ~93 |
-| Terraformer | 3.00% | ~93 |
-| The Time For Wonders | 3.00% | ~93 |
+| Been there, Done That | 3.00% | ~94 |
+| Narcissist | 3.00% | ~94 |
+| Promising Endeavors | 3.00% | ~94 |
+| Terraformer | 3.00% | ~94 |
+| The Time For Wonders | 3.00% | ~94 |
 | Chain Gang | 2.00% | ~62 |
 | From Knight to Little Duck | 2.00% | ~62 |
 | One Does Not Simply Stage A Coup | 2.00% | ~62 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~31 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,116 (Ranked 134)  
+Progressed: 3,118 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.03%) (Ranked 184)
 | 2023-05-24 | 3,070 | 1 |
 | 2023-05-25 | 3,092 | 1 |
 | 2023-05-26 | 3,108 | 1 |
-| 2023-05-27 | 3,116 | 1 |
+| 2023-05-27 | 3,118 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 319)  
 Sum: 750 (Ranked 255)  

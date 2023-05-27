@@ -1,35 +1,35 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.98 (Ranked 893)  
+Rating: 3.98 (Ranked 894)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~125,271 |
-| Titan's First Steps | 96.00% | ~123,979 |
-| Basic in Bulk | 91.00% | ~117,522 |
-| Tinkle of Coins | 87.00% | ~112,356 |
-| Disintermediation | 76.00% | ~98,150 |
-| Capitalism Ho! | 75.00% | ~96,859 |
+| Sponsored by Argon | 97.00% | ~125,272 |
+| Titan's First Steps | 96.00% | ~123,980 |
+| Basic in Bulk | 91.00% | ~117,523 |
+| Tinkle of Coins | 87.00% | ~112,357 |
+| Disintermediation | 76.00% | ~98,151 |
+| Capitalism Ho! | 75.00% | ~96,860 |
 | It's Free Real Estate | 70.00% | ~90,402 |
 | Budding Merchant | 66.00% | ~85,236 |
-| Another Satisfied Customer | 61.00% | ~78,778 |
-| One Easy Payment | 60.00% | ~77,487 |
-| Own the Means of Production | 60.00% | ~77,487 |
-| Some Assembly Required | 58.00% | ~74,904 |
+| Another Satisfied Customer | 61.00% | ~78,779 |
+| One Easy Payment | 60.00% | ~77,488 |
+| Own the Means of Production | 60.00% | ~77,488 |
+| Some Assembly Required | 58.00% | ~74,905 |
 | Pretty Penny | 57.00% | ~73,613 |
-| One-Armed Bandit | 50.00% | ~64,572 |
+| One-Armed Bandit | 50.00% | ~64,573 |
 | Through Repetition, Perfection | 46.00% | ~59,407 |
-| The Daily Grind | 45.00% | ~58,115 |
+| The Daily Grind | 45.00% | ~58,116 |
 | Bounty Hunters | 44.00% | ~56,824 |
-| Where it Hurts | 43.00% | ~55,532 |
-| Dungeon Imports | 43.00% | ~55,532 |
-| Flooding the Market | 41.00% | ~52,949 |
+| Where it Hurts | 43.00% | ~55,533 |
+| Dungeon Imports | 43.00% | ~55,533 |
+| Flooding the Market | 41.00% | ~52,950 |
 | Demand for Supplies | 39.00% | ~50,367 |
 | Gild-Gotten Goods | 37.00% | ~47,784 |
 | Did we pack lunch? | 35.00% | ~45,201 |
-| Arcane Industries | 34.00% | ~43,909 |
+| Arcane Industries | 34.00% | ~43,910 |
 | Accomplished Merchant | 31.00% | ~40,035 |
 | Ascended | 28.00% | ~36,161 |
 | Gem Expert | 28.00% | ~36,161 |
@@ -40,11 +40,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 26.00% | ~33,578 |
 | Research & Development | 25.00% | ~32,286 |
 | Flawless Fusion | 24.00% | ~30,995 |
-| Power of Love | 23.00% | ~29,703 |
-| Natural 20 | 23.00% | ~29,703 |
-| Fated Encounters | 21.00% | ~27,120 |
-| Royal Ransom | 21.00% | ~27,120 |
-| Magical Harmony | 21.00% | ~27,120 |
+| Power of Love | 23.00% | ~29,704 |
+| Natural 20 | 23.00% | ~29,704 |
+| Fated Encounters | 21.00% | ~27,121 |
+| Royal Ransom | 21.00% | ~27,121 |
+| Magical Harmony | 21.00% | ~27,121 |
 | Tax not Included | 20.00% | ~25,829 |
 | Trash to Treasure | 18.00% | ~23,246 |
 | For the Hoard! | 17.00% | ~21,955 |
@@ -60,9 +60,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 14.00% | ~18,080 |
 | Laden with Loot | 14.00% | ~18,080 |
 | Fat Cat Tag Team | 13.00% | ~16,789 |
-| Hidden Potential | 12.00% | ~15,497 |
-| Mammonite | 12.00% | ~15,497 |
-| Attrition Mission | 12.00% | ~15,497 |
+| Hidden Potential | 12.00% | ~15,498 |
+| Mammonite | 12.00% | ~15,498 |
+| Attrition Mission | 12.00% | ~15,498 |
 | Above the Norm | 11.00% | ~14,206 |
 | Omae wa Mou Shindeiru | 11.00% | ~14,206 |
 | Cranked up to 11 | 11.00% | ~14,206 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~517 |
 | Capitalist Camaraderie | 0.20% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,145 (Ranked 55)  
+Progressed: 129,146 (Ranked 55)  
 Completed: 85 (0.07%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 85 (0.07%) (Ranked 170)
 | 2023-05-24 | 128,968 | 83 |
 | 2023-05-25 | 129,052 | 85 |
 | 2023-05-26 | 129,122 | 85 |
-| 2023-05-27 | 129,145 | 85 |
+| 2023-05-27 | 129,146 | 85 |
 ## Awards
 Max (Great for Beginners): 4,590  (Ranked 66)  
 Sum: 26,632 (Ranked 44)  

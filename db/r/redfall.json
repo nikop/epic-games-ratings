@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 927,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1627,
+  "EOS_Progressed": 1628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1576,6 +1576,11 @@
       "Time": "2023-05-26T23:05:39.7401279+00:00",
       "NumProgressed": 1627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T06:06:23.5279143+00:00",
+      "NumProgressed": 1628,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1603,7 +1608,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "Achievement_004",
@@ -1635,7 +1640,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "Achievement_009",
@@ -1643,7 +1648,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Achievement_010",
@@ -1723,7 +1728,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Achievement_020",
@@ -1779,7 +1784,7 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "Achievement_027",
@@ -1803,7 +1808,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Achievement_030",
@@ -1811,7 +1816,7 @@
       "Name": "ICU",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "Achievement_031",
@@ -1835,7 +1840,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Achievement_034",
@@ -1891,7 +1896,7 @@
       "Name": "Heart Attack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Achievement_041",
@@ -1923,7 +1928,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Achievement_046",
@@ -2114,7 +2119,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1627,
+      "Progressed": 1628,
       "Completed": 0
     }
   ],
@@ -2122,8 +2127,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-26T21:57:37.7644211+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:06.5612353+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:23.5279137+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:37.8719634+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:58:23.5600949+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:06.5613153+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:58:05.4193106+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:23.5279935+00:00"
 }

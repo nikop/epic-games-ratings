@@ -6,11 +6,11 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Real Expedition | 2.00% | ~300 |
 | The Marshlands | 2.00% | ~300 |
 | Taking Action | 2.00% | ~300 |
 | No Deaths | 2.00% | ~300 |
 | Homesick | 1.00% | ~150 |
-| First Real Expedition | 1.00% | ~150 |
 | Overcoming Difficulty | 1.00% | ~150 |
 | Bandit Camp | 1.00% | ~150 |
 | Barren Lands | 1.00% | ~150 |

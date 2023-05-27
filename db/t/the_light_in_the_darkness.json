@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1437,
+  "EOS_Progressed": 1438,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 6,
@@ -1758,6 +1758,11 @@
       "Time": "2023-05-27T03:07:16.1511473+00:00",
       "NumProgressed": 1437,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-05-27T06:06:19.9323011+00:00",
+      "NumProgressed": 1438,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 12,
@@ -1785,7 +1790,7 @@
       "Name": "Building the Fox",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1801,7 +1806,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Jakob",
@@ -1817,7 +1822,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Le Juif et la France",
@@ -1825,7 +1830,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Little Helper",
@@ -1864,7 +1869,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1437,
+      "Progressed": 1438,
       "Completed": 112
     }
   ],
@@ -1872,8 +1877,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:02.6140646+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:19.9323003+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:00:53.2063543+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:02.614087+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:00:21.5733431+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:19.9323252+00:00"
 }

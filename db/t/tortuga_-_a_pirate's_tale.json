@@ -2,13 +2,13 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15399,
+  "EOS_Progressed": 15400,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -1202,6 +1202,11 @@
       "Time": "2023-05-27T04:05:40.7277071+00:00",
       "NumProgressed": 15399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T06:06:36.9382269+00:00",
+      "NumProgressed": 15400,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1213,7 +1218,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14629
+      "UsersEstimate": 14630
     },
     {
       "ID": "ACH001",
@@ -1221,7 +1226,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13397
+      "UsersEstimate": 13398
     },
     {
       "ID": "ACH0010",
@@ -1309,7 +1314,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11087
+      "UsersEstimate": 11088
     },
     {
       "ID": "ACH0020",
@@ -1365,7 +1370,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8469
+      "UsersEstimate": 8470
     },
     {
       "ID": "ACH004",
@@ -1373,7 +1378,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13551
+      "UsersEstimate": 13552
     },
     {
       "ID": "ACH005",
@@ -1420,7 +1425,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15399,
+      "Progressed": 15400,
       "Completed": 0
     }
   ],
@@ -1428,8 +1433,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:21.5992899+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:36.9382266+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.042634+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:01:53.0843969+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:21.5993165+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:01:13.9142248+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:36.938252+00:00"
 }

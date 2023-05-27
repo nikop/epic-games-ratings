@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -666,7 +666,7 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -738,7 +738,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -746,7 +746,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -754,7 +754,7 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -762,7 +762,7 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -770,7 +770,7 @@
       "ID": "ach_waves_40",
       "SetID": "bf10c8p",
       "Name": "Expert Survivor",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -778,7 +778,7 @@
       "ID": "ach_waves_50",
       "SetID": "bf10c8p",
       "Name": "Master Survivor",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -802,7 +802,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -889,8 +889,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:05:19.8158982+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:04:43.1310162+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:59:02.9661894+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:05:19.815974+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:58:39.8254545+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:04:43.1310851+00:00"
 }

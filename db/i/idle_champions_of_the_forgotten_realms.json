@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
@@ -3970,9 +3970,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88803,
+  "EOS_Progressed": 88810,
   "EOS_Completed": 1881,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7559,6 +7559,11 @@
     {
       "Time": "2023-05-27T05:07:33.1903752+00:00",
       "NumProgressed": 88803,
+      "NumCompleted": 1881
+    },
+    {
+      "Time": "2023-05-27T06:06:47.390827+00:00",
+      "NumProgressed": 88810,
       "NumCompleted": 1881
     }
   ],
@@ -11499,7 +11504,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "objective_completed_1361",
@@ -11514,21 +11519,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55077,
-      "Completed": 2714
+      "Progressed": 55084,
+      "Completed": 2715
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88803,
+      "Progressed": 88810,
       "Completed": 1881
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-27T04:58:43.8315057+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:33.1903747+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:47.3908266+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:58:43.8315064+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:33.1930962+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:58:21.2142331+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:47.3933313+00:00"
 }

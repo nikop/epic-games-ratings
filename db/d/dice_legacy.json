@@ -2,13 +2,13 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -548,9 +548,9 @@
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -861,8 +861,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:06:52.1958903+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:10.9240175+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.4958326+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:58:15.7131633+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:06:52.1959284+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:57:56.7579955+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:10.9240573+00:00"
 }

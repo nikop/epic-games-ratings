@@ -1,7 +1,7 @@
 # My Lovely Wife
 [Store](https://store.epicgames.com/en-US/p/my-lovely-wife-bef07f)  
 [View Rawdata](../../db/m/my_lovely_wife.json)  
-Rating: 4.36 (Ranked 714)  
+Rating: 4.36 (Ranked 715)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,9 +13,9 @@ Number of Ratings: 25  (23.09.2022)
 | Devout | 89.00% | ~498 |
 | The Love Martyr | 87.00% | ~486 |
 | Frugal | 85.00% | ~475 |
-| Dilligent | 82.00% | ~458 |
+| Dilligent | 83.00% | ~464 |
 | I... I did it? | 80.00% | ~447 |
-| Adored | 75.00% | ~419 |
+| Adored | 76.00% | ~425 |
 | The Hobbyist | 65.00% | ~363 |
 | A Forked Tongue | 54.00% | ~302 |
 | Between Two Fires | 51.00% | ~285 |

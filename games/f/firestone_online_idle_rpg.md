@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.87 (Ranked 907)  
+Rating: 3.87 (Ranked 908)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,12 +39,12 @@ Rating: 3.87 (Ranked 907)
 | The Expeditioner | 5.00% | ~59 |
 | Doing My Part | 4.00% | ~47 |
 | Here We Go Again | 4.00% | ~47 |
+| How Do You Turn This On? | 4.00% | ~47 |
 | Missions Dedication | 4.00% | ~47 |
 | Relic Of The Past | 4.00% | ~47 |
 | Trader | 4.00% | ~47 |
 | Ancient Knowledge | 3.00% | ~35 |
 | Background Story | 3.00% | ~35 |
-| How Do You Turn This On? | 3.00% | ~35 |
 | Master Enchanter | 3.00% | ~35 |
 | The father of Dragons | 3.00% | ~35 |
 | Weekly Quest Completionist | 3.00% | ~35 |

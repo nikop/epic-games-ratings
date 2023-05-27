@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2677,
+  "EOS_Progressed": 2678,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1072,6 +1072,11 @@
       "Time": "2023-05-27T05:07:19.7584307+00:00",
       "NumProgressed": 2677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T06:06:35.2863916+00:00",
+      "NumProgressed": 2678,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1171,7 +1176,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1347,7 +1352,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1554,21 +1559,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2677,
+      "Progressed": 2678,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2677,
+      "Progressed": 2678,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:19.7584302+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:35.286391+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:59:34.9208931+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:19.7584886+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:59:05.7328384+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:35.2864504+00:00"
 }

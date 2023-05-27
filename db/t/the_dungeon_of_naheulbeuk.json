@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 193,
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 118,
   "RatingHistory": [
     {
@@ -358,6 +358,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 61,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-05-27T05:59:35.6849191+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
@@ -383,8 +389,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
-  "LastChanged": "2023-05-09T02:01:47.0883928+00:00",
+  "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:38.1771267+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:00:08.1894958+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:05:35.3955231+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:59:35.6849195+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:04:56.3649264+00:00"
 }

@@ -1,25 +1,25 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.42 (Ranked 926)  
+Rating: 3.42 (Ranked 927)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,253 |
-| Home Is Where the Heart Is | 61.00% | ~992 |
-| Ne Plus Ultra | 60.00% | ~976 |
-| Wounded Whispers | 60.00% | ~976 |
-| Blood Will Have Blood | 49.00% | ~797 |
-| ICU | 45.00% | ~732 |
+| I Like My Stakes Rare! | 77.00% | ~1,254 |
+| Home Is Where the Heart Is | 61.00% | ~993 |
+| Ne Plus Ultra | 60.00% | ~977 |
+| Wounded Whispers | 60.00% | ~977 |
+| Blood Will Have Blood | 49.00% | ~798 |
+| ICU | 45.00% | ~733 |
 | Catch and Release | 44.00% | ~716 |
 | Peek-a-boo | 43.00% | ~700 |
 | Sucks To Be You | 43.00% | ~700 |
 | Welcome to the Neighborhood | 37.00% | ~602 |
-| Fly Fisher | 35.00% | ~569 |
-| Throw The First Stone | 34.00% | ~553 |
+| Fly Fisher | 35.00% | ~570 |
+| Throw The First Stone | 34.00% | ~554 |
 | Enter of Your Own Free Will | 32.00% | ~521 |
-| Heart Attack | 31.00% | ~504 |
-| Skin of Their Teeth | 31.00% | ~504 |
+| Heart Attack | 31.00% | ~505 |
+| Skin of Their Teeth | 31.00% | ~505 |
 | Grounded | 23.00% | ~374 |
 | Bad Wiring | 21.00% | ~342 |
 | I Spit On Your Grave | 19.00% | ~309 |
@@ -72,7 +72,7 @@ Rating: 3.42 (Ranked 926)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,627 (Ranked 152)  
+Progressed: 1,628 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 1,615 | 0 |
 | 2023-05-25 | 1,623 | 0 |
 | 2023-05-26 | 1,627 | 0 |
+| 2023-05-27 | 1,628 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

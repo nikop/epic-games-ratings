@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 766)  
+Rating: 4.29 (Ranked 767)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,10 +28,10 @@ Rating: 4.29 (Ranked 766)
 | The Council | 0.90% | ~7 |
 | The Mad | 0.70% | ~6 |
 | Like the dream | 0.50% | ~4 |
+| Charismatic Leader | 0.40% | ~3 |
 | The Great Winter | 0.20% | ~2 |
 | Red Tape | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
-| Charismatic Leader | 0.20% | ~2 |
 | Metropolis | 0.20% | ~2 |
 | Knowledge is Power | 0.20% | ~2 |
 | Six Faces | 0.10% | ~1 |

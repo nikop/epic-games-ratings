@@ -1,17 +1,17 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 493)  
+Rating: 4.53 (Ranked 494)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,809 |
-| Worth it | 63.00% | ~28,480 |
+| Setting an example | 77.00% | ~34,810 |
+| Worth it | 63.00% | ~28,481 |
 | Eagle Eye | 55.00% | ~24,864 |
 | Corpseman I | 40.00% | ~18,083 |
 | Blast fishing | 38.00% | ~17,179 |
-| Not alone | 32.00% | ~14,466 |
+| Not alone | 32.00% | ~14,467 |
 | Headhunter I | 27.00% | ~12,206 |
 | Manual Labour I | 25.00% | ~11,302 |
 | Developers, Developers, Developers | 24.00% | ~10,850 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~4,069 |
 | For King and Country | 9.00% | ~4,069 |
 | Battle hardened | 8.00% | ~3,617 |
-| Semper Fidelis! | 7.00% | ~3,164 |
-| Honneur et Patrie | 7.00% | ~3,164 |
+| Semper Fidelis! | 7.00% | ~3,165 |
+| Honneur et Patrie | 7.00% | ~3,165 |
 | In Treue Fest | 5.00% | ~2,260 |
 | Voor De Koning | 5.00% | ~2,260 |
 | Extreme Headhunter | 5.00% | ~2,260 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~45 |
 | Blood Brother | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,207 (Ranked 78)  
+Progressed: 45,208 (Ranked 78)  
 Completed: 3 (0.01%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 3 (0.01%) (Ranked 195)
 | 2023-05-24 | 44,924 | 2 |
 | 2023-05-25 | 45,045 | 2 |
 | 2023-05-26 | 45,175 | 2 |
-| 2023-05-27 | 45,207 | 3 |
+| 2023-05-27 | 45,208 | 3 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 333)  
 Sum: 737 (Ranked 257)  

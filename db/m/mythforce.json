@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 538,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -540,6 +540,6 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "LastChanged": "2023-05-10T22:58:45.6119671+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.2405868+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:59:10.1241559+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:03:25.300755+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:58:45.6717306+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:02:34.465647+00:00"
 }

@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.47 (Ranked 584)  
+Rating: 4.47 (Ranked 585)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -33,8 +33,8 @@ Number of Ratings: 58  (23.09.2022)
 | The Crimson Void | 35.00% | ~311 |
 | The Nameless Dread | 34.00% | ~302 |
 | Time to Spear | 31.00% | ~276 |
+| Mastery of Weapons | 30.00% | ~267 |
 | Disciple | 30.00% | ~267 |
-| Mastery of Weapons | 29.00% | ~258 |
 | Two Birds | 26.00% | ~231 |
 | Ghosts | 25.00% | ~222 |
 | Uneasy Alliance | 24.00% | ~213 |

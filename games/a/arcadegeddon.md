@@ -1,31 +1,31 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 559)  
+Rating: 4.49 (Ranked 560)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,141 |
-| Photogenic | 88.00% | ~5,938 |
-| Surge Gauntlet Jockey | 85.00% | ~5,736 |
-| Plug It In | 84.00% | ~5,668 |
-| Adventure Time | 80.00% | ~5,398 |
-| Playing With Power | 77.00% | ~5,196 |
+| Let's Get This Party Started | 91.00% | ~6,142 |
+| Photogenic | 88.00% | ~5,939 |
+| Surge Gauntlet Jockey | 85.00% | ~5,737 |
+| Plug It In | 84.00% | ~5,669 |
+| Adventure Time | 80.00% | ~5,399 |
+| Playing With Power | 77.00% | ~5,197 |
 | Coup d'Etat | 58.00% | ~3,914 |
 | You're Fired | 58.00% | ~3,914 |
-| Get Furious | 55.00% | ~3,711 |
-| Gunplay And Cosplay | 55.00% | ~3,711 |
+| Get Furious | 55.00% | ~3,712 |
+| Gunplay And Cosplay | 55.00% | ~3,712 |
 | Hacks In Stacks | 54.00% | ~3,644 |
-| Meching Enemies | 48.00% | ~3,239 |
-| Ticket Toddler | 46.00% | ~3,104 |
+| Meching Enemies | 48.00% | ~3,240 |
+| Ticket Toddler | 46.00% | ~3,105 |
 | Booty Bashing | 45.00% | ~3,037 |
-| Here Comes a New Challenger | 38.00% | ~2,564 |
+| Here Comes a New Challenger | 38.00% | ~2,565 |
 | Field Medic | 37.00% | ~2,497 |
 | Rapid Response | 33.00% | ~2,227 |
-| Guardian Angel | 32.00% | ~2,159 |
+| Guardian Angel | 32.00% | ~2,160 |
 | The Full Monty | 31.00% | ~2,092 |
-| Surge Ahead | 30.00% | ~2,024 |
+| Surge Ahead | 30.00% | ~2,025 |
 | Poppin Noggins | 25.00% | ~1,687 |
 | Clips and Crits | 22.00% | ~1,485 |
 | Grey Goo | 20.00% | ~1,350 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~34 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,748 (Ranked 115)  
+Progressed: 6,749 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 6,676 | 0 |
 | 2023-05-25 | 6,701 | 0 |
 | 2023-05-26 | 6,741 | 0 |
-| 2023-05-27 | 6,748 | 0 |
+| 2023-05-27 | 6,749 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 485 (Ranked 292)  

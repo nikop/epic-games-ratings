@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "Award_PerkKing",
       "SetID": "9ojec6n",
       "Name": "Perk King",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "Award_Perky",
@@ -492,8 +492,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:06:55.8030603+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:14.1110343+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:59:01.3287947+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:06:55.803096+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:58:38.2628732+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:14.1110719+00:00"
 }

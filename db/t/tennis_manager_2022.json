@@ -2,10 +2,13 @@
   "ID": "48d616a0c0464128b353eb7835f4739f",
   "Name": "Tennis Manager 2022",
   "ProductSlug": "tennis-manager-2022-6ea792",
+  "Ranking_Rating": 290,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-17T12:00:00+00:00",
     "PcReleaseDate": "2022-05-17T12:00:00+00:00",
@@ -15,10 +18,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:20.4189904+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-27T05:59:23.8557205+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -39,8 +49,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:33.7615552+00:00",
   "FirstSeenRating": "2023-03-31T05:57:20.4189901+00:00",
-  "LastChanged": "2023-03-31T05:57:20.4189902+00:00",
+  "LastChanged": "2023-05-27T05:59:23.8557202+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:30.574464+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:59:55.922154+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:04:56.4313556+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:59:23.8557209+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:04:32.2016486+00:00"
 }

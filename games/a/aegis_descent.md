@@ -18,10 +18,10 @@
 | Splash Damage | 18.00% | ~66 |
 | Hazardous Duty | 17.00% | ~62 |
 | Perky | 15.00% | ~55 |
+| Perk King | 11.00% | ~40 |
 | Salvage | 11.00% | ~40 |
 | Shocking | 11.00% | ~40 |
 | Perfect Timing | 10.00% | ~36 |
-| Perk King | 10.00% | ~36 |
 | Sixty Seconds | 10.00% | ~36 |
 | Killer Elite | 6.00% | ~22 |
 | Bumper Car | 5.00% | ~18 |

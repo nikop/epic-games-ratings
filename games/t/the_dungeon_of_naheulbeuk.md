@@ -1,7 +1,7 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.70 (Ranked 193)  
 Number of Ratings: 118  (23.09.2022)  
 ## Awards
 Max (Character Customization): 61  (Ranked 377)  
@@ -82,3 +82,4 @@ Diff (max vs sum): -52
 | 2023-05-01 | 4.69 | - | 59 | 59 |
 | 2023-05-07 | 4.69 | - | 60 | 60 |
 | 2023-05-09 | 4.69 | - | 61 | 61 |
+| 2023-05-27 | 4.70 | - | 61 | 61 |

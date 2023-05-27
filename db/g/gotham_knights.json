@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62276,
+  "EOS_Progressed": 62282,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3936,6 +3936,11 @@
       "Time": "2023-05-27T05:07:27.3652721+00:00",
       "NumProgressed": 62276,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T06:06:42.2096204+00:00",
+      "NumProgressed": 62282,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3995,7 +4000,7 @@
       "Name": "The Batman Family",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -4121,9 +4126,9 @@
       "ID": "DEFEAT_FREAKS_1",
       "SetID": "4eo5ebm",
       "Name": "Bulldozed",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 374
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -4265,9 +4270,9 @@
       "ID": "HARLEY_3",
       "SetID": "4eo5ebm",
       "Name": "Working Hard or Harley Working?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 561
     },
     {
       "ID": "HARLEY_4",
@@ -4347,7 +4352,7 @@
       "Name": "Whispered Words",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "MYSTERY_03",
@@ -4434,13 +4439,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62276,
+      "Progressed": 62282,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32556,
+      "Progressed": 32562,
       "Completed": 2642
     }
   ],
@@ -4448,8 +4453,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:27.3652716+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:42.2096199+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:01:09.1664924+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:27.3653501+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:00:33.1262355+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:42.2097035+00:00"
 }

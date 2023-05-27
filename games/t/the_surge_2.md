@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 791)  
+Rating: 4.24 (Ranked 792)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.24 (Ranked 791)
 | Dead Again | 18.00% | ~292 |
 | Clean Cut | 18.00% | ~292 |
 | Full Arsenal | 16.00% | ~260 |
-| Can't Trust Banks | 15.00% | ~243 |
+| Can't Trust Banks | 16.00% | ~260 |
 | Mommy Dearest | 13.00% | ~211 |
 | Bad Dog | 13.00% | ~211 |
 | Where It All Began | 13.00% | ~211 |

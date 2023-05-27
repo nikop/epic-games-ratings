@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 837)  
+Rating: 4.17 (Ranked 838)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,12 +11,12 @@ Rating: 4.17 (Ranked 837)
 | Get ReQ'd | 1.00% | ~623 |
 | Knighthood | 1.00% | ~623 |
 | Loose Ends | 1.00% | ~623 |
-| The Batman Family | 0.90% | ~560 |
-| Whispered Words | 0.90% | ~560 |
+| The Batman Family | 0.90% | ~561 |
+| Working Hard or Harley Working? | 0.90% | ~561 |
+| Whispered Words | 0.90% | ~561 |
 | Something in the Clay | 0.80% | ~498 |
 | Quartzer Life Crisis | 0.80% | ~498 |
 | Snow Problem | 0.80% | ~498 |
-| Working Hard or Harley Working? | 0.80% | ~498 |
 | Unstoppable Force | 0.80% | ~498 |
 | Lock and Key | 0.80% | ~498 |
 | Bad Apples in Every Orchard | 0.80% | ~498 |
@@ -28,12 +28,12 @@ Rating: 4.17 (Ranked 837)
 | In Your Element | 0.60% | ~374 |
 | Rock and a Hard Place | 0.60% | ~374 |
 | Not On My Watch | 0.60% | ~374 |
+| Bulldozed | 0.60% | ~374 |
 | Shock Til They Drop | 0.60% | ~374 |
 | Cooldown | 0.60% | ~374 |
 | Voiceless | 0.60% | ~374 |
 | Seeking Asylum | 0.60% | ~374 |
 | Gotham Knight | 0.60% | ~374 |
-| Bulldozed | 0.50% | ~311 |
 | Drone You Out | 0.50% | ~311 |
 | Gotham City Confidential | 0.50% | ~311 |
 | Out of Their League | 0.40% | ~249 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~33 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,276 (Ranked 70)  
+Progressed: 62,282 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,276 | 91 |
+| 2023-05-27 | 62,282 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,719 (Ranked 137)  

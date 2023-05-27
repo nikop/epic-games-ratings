@@ -2,13 +2,13 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 911,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-05-26T18:06:32.2337959+00:00",
       "NumProgressed": 428,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-27T06:06:38.3414508+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -249,7 +254,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Doors_Closing",
@@ -401,7 +406,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Paparazzi",
@@ -456,7 +461,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 5
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:07:23.2193982+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:06:38.3414505+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.4179478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:02:20.2390705+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:07:23.2194207+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:01:38.6605189+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:06:38.3414685+00:00"
 }

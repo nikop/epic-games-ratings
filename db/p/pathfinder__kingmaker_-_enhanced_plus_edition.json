@@ -2,13 +2,13 @@
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
     "PcReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -3327,18 +3327,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 8236,
       "NumberOfAwardsMax": 3090
+    },
+    {
+      "Time": "2023-05-27T06:00:12.891843+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 8242,
+      "NumberOfAwardsMax": 3096
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8236,
-  "NumberOfAwardsMax": 3090,
+  "NumberOfAwards": 8242,
+  "NumberOfAwardsMax": 3096,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3090
+      "Count": 3096
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3424,8 +3430,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2023-05-27T01:59:15.5704421+00:00",
+  "LastChanged": "2023-05-27T06:00:12.8918429+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.5877814+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:00:43.109371+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:05:41.6221564+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:00:12.8918435+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:05:01.7054927+00:00"
 }

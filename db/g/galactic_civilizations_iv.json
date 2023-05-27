@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 832,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -3020,9 +3020,9 @@
       "ID": "Win_As_Mimot",
       "SetID": "4h07amh",
       "Name": "Win as the Mimot",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 116
     },
     {
       "ID": "Win_As_Navigators",
@@ -3172,8 +3172,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-24T02:57:17.2647785+00:00",
-  "LastChanged_Achievements": "2023-05-27T05:03:59.4931856+00:00",
+  "LastChanged_Achievements": "2023-05-27T06:03:33.4681565+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.5418964+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:57:46.9548833+00:00",
-  "LastUpdate_Achievements": "2023-05-27T05:03:59.4932666+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:57:34.7806159+00:00",
+  "LastUpdate_Achievements": "2023-05-27T06:03:33.4682408+00:00"
 }

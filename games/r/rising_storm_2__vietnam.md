@@ -1,7 +1,7 @@
 # Rising Storm 2: Vietnam
 [Store](https://store.epicgames.com/en-US/p/rising-storm-2-vietnam)  
 [View Rawdata](../../db/r/rising_storm_2__vietnam.json)  
-Rating: 4.50 (Ranked 538)  
+Rating: 4.50 (Ranked 539)  
 Number of Ratings: 2,871  (23.09.2022)  
 ## Awards
 Max (Challenging Combat): 668  (Ranked 159)  
