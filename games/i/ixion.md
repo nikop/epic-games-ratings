@@ -28,9 +28,9 @@ Rating: 4.56 (Ranked 452)
 | Man's Best Friend | 1.00% | ~22 |
 | Oats | 1.00% | ~22 |
 | Sightseeing | 1.00% | ~22 |
+| In Dolos We Trust | 1.00% | ~22 |
 | Convenient Transport | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |
-| In Dolos We Trust | 0.90% | ~20 |
 | BRAWL! | 0.90% | ~20 |
 | All in Good Health | 0.80% | ~18 |
 | What They Hide From Us | 0.70% | ~15 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,188 (Ranked 144)  
+Progressed: 2,190 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
 | 2023-05-26 | 2,182 | 0 |
-| 2023-05-27 | 2,188 | 0 |
+| 2023-05-27 | 2,190 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@ Rating: 4.39 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 19.00% | ~295 |
-| Confirming Suspicions | 14.00% | ~217 |
-| The Kraken Wakes | 10.00% | ~155 |
+| Meeting Resistance | 19.00% | ~296 |
+| Confirming Suspicions | 14.00% | ~218 |
+| The Kraken Wakes | 10.00% | ~156 |
 | It's Starting to Crack | 8.00% | ~124 |
 | Lord of War | 7.00% | ~109 |
 | Resourceful | 6.00% | ~93 |
@@ -44,8 +44,8 @@ Rating: 4.39 (Ranked 689)
 | Operation Foxley | 0.60% | ~9 |
 | Siegebreaker | 0.60% | ~9 |
 | Ghost of Falaise | 0.60% | ~9 |
-| Strategist | 0.50% | ~8 |
 | Last Resort | 0.50% | ~8 |
+| Strategist | 0.40% | ~6 |
 | Tinkerer | 0.40% | ~6 |
 | From Paris with Love | 0.30% | ~5 |
 | Don't hold your breath | 0.30% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 689)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,552 (Ranked 155)  
+Progressed: 1,556 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
-| 2023-05-27 | 1,552 | 2 |
+| 2023-05-27 | 1,556 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

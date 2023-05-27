@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -324,9 +324,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2383,
+  "EOS_Progressed": 2384,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.9,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-05-26T18:06:26.4749015+00:00",
       "NumProgressed": 2383,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-27T07:06:17.6221456+00:00",
+      "NumProgressed": 2384,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 14,
@@ -960,7 +965,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1064,14 +1069,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 74,
       "XP": 35,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2383,
+      "Progressed": 2384,
       "Completed": 93
     }
   ],
@@ -1079,8 +1084,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-05-27T06:06:32.6390266+00:00",
+  "LastChanged_Achievements": "2023-05-27T07:06:17.6221451+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:40.3998585+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:01:20.0494648+00:00",
-  "LastUpdate_Achievements": "2023-05-27T06:06:32.6390438+00:00"
+  "LastUpdate_Ratings": "2023-05-27T07:00:40.8064664+00:00",
+  "LastUpdate_Achievements": "2023-05-27T07:06:17.6221578+00:00"
 }

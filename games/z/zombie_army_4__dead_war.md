@@ -7,19 +7,19 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 68.00% | ~28,861 |
-| Say goodbye, creep! | 65.00% | ~27,587 |
-| Blood splattered | 65.00% | ~27,587 |
-| Choo choo! | 62.00% | ~26,314 |
+| Say goodbye, creep! | 65.00% | ~27,588 |
+| Blood splattered | 65.00% | ~27,588 |
+| Choo choo! | 62.00% | ~26,315 |
 | Groovy | 61.00% | ~25,890 |
 | Cleanup on aisle 4! | 56.00% | ~23,768 |
-| Gold | 50.00% | ~21,221 |
-| The boat can leave now...tell the crew | 48.00% | ~20,372 |
-| Give me something to shoot! | 46.00% | ~19,523 |
-| Stand back boy! | 46.00% | ~19,523 |
-| Weird science | 44.00% | ~18,674 |
-| Chain reaction | 44.00% | ~18,674 |
-| Look mummy! A shark! | 41.00% | ~17,401 |
-| What did you say, Blain? | 41.00% | ~17,401 |
+| Gold | 50.00% | ~21,222 |
+| The boat can leave now...tell the crew | 48.00% | ~20,373 |
+| Give me something to shoot! | 46.00% | ~19,524 |
+| Stand back boy! | 46.00% | ~19,524 |
+| Weird science | 44.00% | ~18,675 |
+| Chain reaction | 44.00% | ~18,675 |
+| Look mummy! A shark! | 41.00% | ~17,402 |
+| What did you say, Blain? | 41.00% | ~17,402 |
 | In the dark dark woods... | 38.00% | ~16,128 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,128 |
 | Double tap | 37.00% | ~15,704 |
@@ -27,14 +27,14 @@ Number of Ratings: 743  (23.09.2022)
 | Zombie killin' machine | 36.00% | ~15,279 |
 | Every bullet counts | 36.00% | ~15,279 |
 | All of this has happened before… | 35.00% | ~14,855 |
-| You've got red on you | 34.00% | ~14,430 |
+| You've got red on you | 34.00% | ~14,431 |
 | All roads lead to Rome | 33.00% | ~14,006 |
 | You're all going to die down here | 31.00% | ~13,157 |
 | He did Nazi that coming | 31.00% | ~13,157 |
 | Kill of the week | 31.00% | ~13,157 |
 | I never liked them anyway | 30.00% | ~12,733 |
 | Is it over? | 28.00% | ~11,884 |
-| Got your back | 27.00% | ~11,459 |
+| Got your back | 27.00% | ~11,460 |
 | Gore soaked | 24.00% | ~10,186 |
 | Shock therapy | 22.00% | ~9,337 |
 | Leave the limbs you've lost | 22.00% | ~9,337 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,442 (Ranked 81)  
+Progressed: 42,443 (Ranked 81)  
 Completed: 25 (0.06%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 25 (0.06%) (Ranked 172)
 | 2023-05-24 | 42,404 | 25 |
 | 2023-05-25 | 42,418 | 25 |
 | 2023-05-26 | 42,433 | 25 |
-| 2023-05-27 | 42,442 | 25 |
+| 2023-05-27 | 42,443 | 25 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 147)  
 Sum: 2,376 (Ranked 168)  

@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,853 |
-| This is only the beginning | 19.00% | ~40,168 |
+| No aid from the Omnissiah | 25.00% | ~52,855 |
+| This is only the beginning | 19.00% | ~40,170 |
 | Knowledge is power | 12.00% | ~25,370 |
-| Power Ranger | 9.00% | ~19,027 |
-| Galvanic Rifle | 9.00% | ~19,027 |
-| Taser Goad | 9.00% | ~19,027 |
-| Radium Ready | 9.00% | ~19,027 |
-| Half a cog | 9.00% | ~19,027 |
+| Power Ranger | 9.00% | ~19,028 |
+| Galvanic Rifle | 9.00% | ~19,028 |
+| Taser Goad | 9.00% | ~19,028 |
+| Radium Ready | 9.00% | ~19,028 |
+| Half a cog | 9.00% | ~19,028 |
 | Watch them crumble | 6.00% | ~12,685 |
 | Competent Cohort | 4.00% | ~8,457 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,457 |
 | One with the Machine | 4.00% | ~8,457 |
-| Legio Cybernetica | 3.00% | ~6,342 |
-| Fleshy Disposal | 3.00% | ~6,342 |
+| Legio Cybernetica | 3.00% | ~6,343 |
+| Fleshy Disposal | 3.00% | ~6,343 |
 | Battle Servitor | 2.00% | ~4,228 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,228 |
 | Impatient destruction | 2.00% | ~4,228 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 643)
 | Perma-live | 0.10% | ~211 |
 | Purge the Heretek | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,413 (Ranked 48)  
+Progressed: 211,419 (Ranked 48)  
 Completed: 3 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 3 (0.00%) (Ranked 205)
 | 2023-05-24 | 211,030 | 2 |
 | 2023-05-25 | 211,171 | 3 |
 | 2023-05-26 | 211,364 | 3 |
-| 2023-05-27 | 211,413 | 3 |
+| 2023-05-27 | 211,419 | 3 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 230)  
-Sum: 2,097 (Ranked 182)  
+Sum: 2,098 (Ranked 182)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): 48
 | This game has Diverse Characters | 252 |
 | This game has Amazing Storytelling | 241 |
 | This game is Relaxing | 234 |
-| This game has Unique Visuals | 204 |
+| This game has Unique Visuals | 205 |
 | This game has a Creative Community | 96 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -125,4 +125,4 @@ Diff (max vs sum): 48
 | 2023-05-11 | 4.43 | 277 | 2,093 |
 | 2023-05-15 | 4.43 | 277 | 2,094 |
 | 2023-05-20 | 4.43 | 277 | 2,096 |
-| 2023-05-27 | 4.43 | 277 | 2,097 |
+| 2023-05-27 | 4.43 | 277 | 2,098 |

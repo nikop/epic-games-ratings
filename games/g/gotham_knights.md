@@ -22,11 +22,11 @@ Rating: 4.17 (Ranked 838)
 | Bad Apples in Every Orchard | 0.80% | ~498 |
 | Protector of Gotham | 0.70% | ~436 |
 | The Show Mud Go On | 0.70% | ~436 |
+| Rock and a Hard Place | 0.70% | ~436 |
 | Universal Health Scare | 0.70% | ~436 |
 | From Inside Gotham's Walls | 0.70% | ~436 |
 | End of an Era | 0.60% | ~374 |
 | In Your Element | 0.60% | ~374 |
-| Rock and a Hard Place | 0.60% | ~374 |
 | Not On My Watch | 0.60% | ~374 |
 | Bulldozed | 0.60% | ~374 |
 | Shock Til They Drop | 0.60% | ~374 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | Confronting Your Demon | 0.10% | ~33 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,282 (Ranked 70)  
+Progressed: 62,289 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,282 | 91 |
+| 2023-05-27 | 62,289 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,719 (Ranked 137)  

@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 607,
   "Ranking_Popularity": 155,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 321,
@@ -4256,10 +4256,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 5550,
       "NumberOfAwardsMax": 711
+    },
+    {
+      "Time": "2023-05-27T06:59:40.1046906+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5554,
+      "NumberOfAwardsMax": 711
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5550,
+  "NumberOfAwards": 5554,
   "NumberOfAwardsMax": 711,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -4309,7 +4315,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 693
+      "Count": 697
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4329,8 +4335,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-05-27T03:59:17.6973293+00:00",
+  "LastChanged": "2023-05-27T06:59:40.1046905+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:58.9578608+00:00",
-  "LastUpdate_Ratings": "2023-05-27T06:00:15.7120022+00:00",
-  "LastUpdate_Achievements": "2023-05-27T06:05:04.8834253+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:59:40.1046911+00:00",
+  "LastUpdate_Achievements": "2023-05-27T07:04:42.608639+00:00"
 }

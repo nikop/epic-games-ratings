@@ -26,8 +26,8 @@ Rating: 3.87 (Ranked 908)
 | Mysterious Rock | 10.00% | ~118 |
 | Natural Talent | 10.00% | ~118 |
 | The Unstoppable | 10.00% | ~118 |
+| Scientist | 9.00% | ~106 |
 | Superior | 9.00% | ~106 |
-| Scientist | 8.00% | ~95 |
 | Challenger | 7.00% | ~83 |
 | Daily Quest Completionist | 7.00% | ~83 |
 | Hunter | 6.00% | ~71 |

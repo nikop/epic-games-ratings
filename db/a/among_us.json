@@ -4762,10 +4762,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 22165,
       "NumberOfAwardsMax": 2430
+    },
+    {
+      "Time": "2023-05-27T06:58:32.8752996+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 22166,
+      "NumberOfAwardsMax": 2430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22165,
+  "NumberOfAwards": 22166,
   "NumberOfAwardsMax": 2430,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4833,7 +4839,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 1690
+      "Count": 1691
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4853,8 +4859,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2023-05-27T01:58:03.8477975+00:00",
+  "LastChanged": "2023-05-27T06:58:32.8752995+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.061964+00:00",
-  "LastUpdate_Ratings": "2023-05-27T05:58:54.4159512+00:00",
-  "LastUpdate_Achievements": "2023-05-27T06:04:46.2480709+00:00"
+  "LastUpdate_Ratings": "2023-05-27T06:58:32.8753001+00:00",
+  "LastUpdate_Achievements": "2023-05-27T07:04:27.3476337+00:00"
 }

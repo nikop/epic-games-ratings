@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Level Up! | 91.00% | ~70 |
 | Bullseye! | 86.00% | ~66 |
-| Villfir Forest | 79.00% | ~61 |
+| Villfir Forest | 81.00% | ~62 |
 | Graduation! | 79.00% | ~61 |
 | Right in the kisser! | 66.00% | ~51 |
-| The Shaman | 55.00% | ~42 |
+| The Shaman | 56.00% | ~43 |
 | Duscot Steamcity | 55.00% | ~42 |
 | The Penguin | 51.00% | ~39 |
 | The Magician | 48.00% | ~37 |
