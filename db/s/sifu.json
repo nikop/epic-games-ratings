@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4156,10 +4156,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10384,
       "NumberOfAwardsMax": 6094
+    },
+    {
+      "Time": "2023-05-27T14:59:24.8259765+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10386,
+      "NumberOfAwardsMax": 6094
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10384,
+  "NumberOfAwards": 10386,
   "NumberOfAwardsMax": 6094,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4185,7 +4191,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 493
+      "Count": 495
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4236,9 +4242,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705710,
+  "EOS_Progressed": 705729,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1789,
+  "EOS_NewPlayers": 1785,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7396,6 +7402,11 @@
       "Time": "2023-05-27T14:05:37.6253236+00:00",
       "NumProgressed": 705710,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T15:06:41.4094805+00:00",
+      "NumProgressed": 705729,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7407,7 +7418,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7415,7 +7426,7 @@
       "Name": "The Assault",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7431,7 +7442,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7439,7 +7450,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7615,7 +7626,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7671,7 +7682,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "35_WideStrike",
@@ -7687,7 +7698,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7695,7 +7706,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7743,7 +7754,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7751,7 +7762,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7806,21 +7817,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15011,
+      "Progressed": 15030,
       "Completed": 10177
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705710,
+      "Progressed": 705729,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:37.6253232+00:00",
+  "LastChanged": "2023-05-27T14:59:24.8259762+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:41.4094801+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:58:40.7640847+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:37.6253854+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:59:24.8259776+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:41.4095258+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,747 |
-| Wallbanger | 5.00% | ~18,747 |
-| Exploitative | 4.00% | ~14,998 |
-| High Speed Low Drag | 4.00% | ~14,998 |
-| Wet Feet | 4.00% | ~14,998 |
-| Checkpoint Victory | 3.00% | ~11,248 |
-| Lucky | 3.00% | ~11,248 |
-| Stylin' | 3.00% | ~11,248 |
-| Turf War | 3.00% | ~11,248 |
-| Banged | 2.00% | ~7,499 |
-| First Blood | 2.00% | ~7,499 |
-| Flaccid Paralysis | 2.00% | ~7,499 |
-| Push Victory | 2.00% | ~7,499 |
-| Self-destructive | 2.00% | ~7,499 |
-| Blindfire | 1.00% | ~3,749 |
-| Efficient | 1.00% | ~3,749 |
-| Ruthless | 1.00% | ~3,749 |
-| Semper Paratus | 1.00% | ~3,749 |
+| Point Shooting | 5.00% | ~18,749 |
+| Wallbanger | 5.00% | ~18,749 |
+| Exploitative | 4.00% | ~14,999 |
+| High Speed Low Drag | 4.00% | ~14,999 |
+| Wet Feet | 4.00% | ~14,999 |
+| Checkpoint Victory | 3.00% | ~11,249 |
+| Lucky | 3.00% | ~11,249 |
+| Stylin' | 3.00% | ~11,249 |
+| Turf War | 3.00% | ~11,249 |
+| Banged | 2.00% | ~7,500 |
+| First Blood | 2.00% | ~7,500 |
+| Flaccid Paralysis | 2.00% | ~7,500 |
+| Push Victory | 2.00% | ~7,500 |
+| Self-destructive | 2.00% | ~7,500 |
+| Blindfire | 1.00% | ~3,750 |
+| Efficient | 1.00% | ~3,750 |
+| Ruthless | 1.00% | ~3,750 |
+| Semper Paratus | 1.00% | ~3,750 |
 | Carrying | 0.90% | ~3,375 |
 | Mount & Gun | 0.90% | ~3,375 |
 | Personal | 0.90% | ~3,375 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~375 |
 | Road Hazard | 0.10% | ~375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374,948 (Ranked 35)  
+Progressed: 374,978 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 2 (0.00%) (Ranked 205)
 | 2023-05-24 | 373,506 | 2 |
 | 2023-05-25 | 373,987 | 2 |
 | 2023-05-26 | 374,545 | 2 |
-| 2023-05-27 | 374,948 | 2 |
+| 2023-05-27 | 374,978 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 352  (Ranked 211)  
 Sum: 2,677 (Ranked 162)  

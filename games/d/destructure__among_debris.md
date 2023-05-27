@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduation | 79.00% | ~84 |
-| You Have Been Deaded | 70.00% | ~74 |
+| You Have Been Deaded | 71.00% | ~75 |
 | Rookie | 69.00% | ~73 |
-| Apprentice Destructor | 23.00% | ~24 |
+| Apprentice Destructor | 25.00% | ~26 |
 | I Prefer Jazz Fusion | 10.00% | ~11 |
-| Avaricerite | 7.00% | ~7 |
+| Avaricerite | 8.00% | ~8 |
 | Master Destructor | 7.00% | ~7 |
 | You Are Actually Supposed To Use Those | 7.00% | ~7 |
 | Ball Galore | 5.00% | ~5 |

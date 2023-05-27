@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6451,
+  "EOS_Progressed": 6452,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1238,6 +1238,11 @@
       "Time": "2023-05-27T11:06:15.2768938+00:00",
       "NumProgressed": 6451,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-27T15:06:21.0330071+00:00",
+      "NumProgressed": 6452,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1257,7 +1262,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1281,7 +1286,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3420
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1345,7 +1350,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1417,7 +1422,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1449,7 +1454,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1464,15 +1469,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6451,
+      "Progressed": 6452,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:21.5116377+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:21.0330066+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.6752069+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:57:19.1390982+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:21.5116648+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:57:29.5606955+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:21.0330264+00:00"
 }

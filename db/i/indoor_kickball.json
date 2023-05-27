@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -139,17 +139,17 @@
       "ID": "16",
       "SetID": "39djiaj",
       "Name": "Kick It",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "17",
       "SetID": "39djiaj",
       "Name": "True Story!",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "18",
@@ -259,9 +259,9 @@
       "ID": "3",
       "SetID": "39djiaj",
       "Name": "Kickball Kup",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "30",
@@ -307,9 +307,9 @@
       "ID": "35",
       "SetID": "39djiaj",
       "Name": "Butter Fingers",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "37",
@@ -409,8 +409,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:20.3510547+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:19.5877392+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:58:48.2739729+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:20.3510865+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:59:37.3564018+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:19.5877635+00:00"
 }

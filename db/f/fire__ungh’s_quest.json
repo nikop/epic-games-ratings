@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 174,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 5.17,
   "EosHistory": [
@@ -274,17 +274,17 @@
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "Level_completed_003_001",
       "SetID": "6od1ndi",
       "Name": "Onk Boga III",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "Level_completed_004_009",
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:29.4179928+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:30.892623+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:17.5939939+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:59:24.7590082+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:29.4180128+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:00:29.296951+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:30.8926358+00:00"
 }

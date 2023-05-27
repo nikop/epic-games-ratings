@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -497,17 +497,17 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "back_from_the_dead",
@@ -569,9 +569,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "easy_victory",
@@ -754,8 +754,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:00:20.9869303+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:01:51.2691939+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:59:30.4417541+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:00:20.9869563+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:00:36.2190985+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:01:51.2692122+00:00"
 }

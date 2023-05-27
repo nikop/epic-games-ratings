@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 52.00% | ~1,346 |
+| IT MAKES BOOM! | 41.00% | ~1,061 |
 | EXTRA BOOST | 40.00% | ~1,035 |
-| IT MAKES BOOM! | 40.00% | ~1,035 |
 | PRO | 31.00% | ~802 |
 | PROTECTED | 29.00% | ~751 |
 | A TIGER'S FEAR | 28.00% | ~725 |
@@ -26,7 +26,7 @@
 | BE OUR GUEST | 5.00% | ~129 |
 | ACE TRICKSTER | 4.00% | ~104 |
 | EXPERIENCED CREW | 2.00% | ~52 |
-| FRAMED! | 1.00% | ~26 |
+| FRAMED! | 2.00% | ~52 |
 | PERFECTLY POISED | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,588 (Ranked 140)  

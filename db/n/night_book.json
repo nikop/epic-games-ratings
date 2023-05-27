@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -237,8 +237,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:13.7115908+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:11.045135+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:14.0312537+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:57:15.256152+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:13.711602+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:57:24.5546+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:11.045143+00:00"
 }

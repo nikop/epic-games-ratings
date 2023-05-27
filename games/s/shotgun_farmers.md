@@ -25,6 +25,7 @@
 | Master Survivor | 5.00% | ~0 |
 | Summers Here | 5.00% | ~0 |
 | 15K | 3.00% | ~2 |
+| Skin Of Your Teeth | 3.00% | ~2 |
 | 10K | 3.00% | ~2 |
 | Cornivore | 3.00% | ~2 |
 | Pyromaniac | 3.00% | ~0 |
@@ -32,7 +33,6 @@
 | Easy Peasy | 3.00% | ~0 |
 | Bring Home The Bacon | 2.00% | ~1 |
 | Getting Started | 2.00% | ~1 |
-| Skin Of Your Teeth | 2.00% | ~1 |
 | Quit Horsin' Around | 2.00% | ~1 |
 | Early Bird | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |

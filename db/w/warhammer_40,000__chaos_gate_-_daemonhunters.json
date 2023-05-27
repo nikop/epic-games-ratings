@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2686,
+  "EOS_Progressed": 2687,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1107,6 +1107,11 @@
       "Time": "2023-05-27T14:05:38.8397505+00:00",
       "NumProgressed": 2686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T15:06:42.8515485+00:00",
+      "NumProgressed": 2687,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1206,7 +1211,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1310,7 +1315,7 @@
       "Name": "Executioner",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "Kills_Exterminator",
@@ -1366,7 +1371,7 @@
       "Name": "An Ill Omen",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1382,7 +1387,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1589,21 +1594,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2686,
+      "Progressed": 2687,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2686,
+      "Progressed": 2687,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:38.8397498+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:42.8515482+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:58:21.5820039+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:38.8398066+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:58:59.7796707+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:42.8515932+00:00"
 }

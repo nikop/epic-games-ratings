@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Country Bumpkin | 70.00% | ~183 |
 | Departure | 69.00% | ~180 |
 | A new Journey | 69.00% | ~180 |
-| Country Bumpkin | 69.00% | ~180 |
+| From X to Y | 66.00% | ~172 |
 | Brainstorm | 66.00% | ~172 |
-| From X to Y | 65.00% | ~170 |
-| Way of Iron | 65.00% | ~170 |
-| Mystery Tour | 61.00% | ~159 |
-| Mind the Gap | 60.00% | ~157 |
-| We brake for nobody | 59.00% | ~154 |
-| All around the World | 57.00% | ~149 |
-| Travel Company | 57.00% | ~149 |
+| Way of Iron | 66.00% | ~172 |
+| Mystery Tour | 62.00% | ~162 |
+| We brake for nobody | 61.00% | ~159 |
+| Mind the Gap | 61.00% | ~159 |
+| All around the World | 59.00% | ~154 |
+| Travel Company | 58.00% | ~151 |
 | Right through the middle | 53.00% | ~138 |
 | Apprentice | 50.00% | ~130 |
-| Poor Devil | 41.00% | ~107 |
+| Poor Devil | 42.00% | ~110 |
+| Facility Manager | 40.00% | ~104 |
 | Stoker | 39.00% | ~102 |
-| Facility Manager | 39.00% | ~102 |
 | Producer | 38.00% | ~99 |
-| Bridge Builder | 28.00% | ~73 |
-| Access granted | 26.00% | ~68 |
+| Bridge Builder | 30.00% | ~78 |
+| Access granted | 27.00% | ~70 |
 | Full Steam ahead | 18.00% | ~47 |
-| Going once, going twice, sold | 17.00% | ~44 |
+| Going once, going twice, sold | 18.00% | ~47 |
 | Seven at one stroke | 16.00% | ~42 |
-| Bull and bear | 13.00% | ~34 |
+| Bull and bear | 15.00% | ~39 |
 | All mine | 12.00% | ~31 |
 | Financial Shark | 11.00% | ~29 |
 | Trailblazer | 10.00% | ~26 |
 | Mole | 10.00% | ~26 |
+| General Manager | 8.00% | ~21 |
 | Country Life | 8.00% | ~21 |
-| General Manager | 7.00% | ~18 |
 | Hostile Takeover | 7.00% | ~18 |
 | Traffic Junction | 5.00% | ~13 |
 | Traffic Jam | 3.00% | ~8 |
@@ -40,9 +40,9 @@
 | Assimilated | 3.00% | ~8 |
 | Locusts | 3.00% | ~8 |
 | Socializer | 3.00% | ~8 |
+| Resistance is futile | 2.00% | ~5 |
 | Bold and beautiful | 2.00% | ~5 |
 | Breaking Ground | 2.00% | ~5 |
-| Resistance is futile | 1.00% | ~3 |
 | Go West | 0.40% | ~1 |
 | A new Hope | 0.40% | ~1 |
 | Unstoppable | 0.40% | ~1 |

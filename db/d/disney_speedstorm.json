@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2588,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1944,17 +1944,17 @@
       "ID": "14",
       "SetID": "9p3jgda",
       "Name": "IT MAKES BOOM!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1061
     },
     {
       "ID": "15",
       "SetID": "9p3jgda",
       "Name": "FRAMED!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "16",
@@ -2102,8 +2102,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:02:38.2766613+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:03:20.3232713+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:58:38.2642028+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:02:38.2766918+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:59:21.5455192+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:03:20.323297+00:00"
 }

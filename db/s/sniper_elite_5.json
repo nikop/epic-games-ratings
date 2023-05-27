@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1599,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1603,6 +1603,11 @@
       "Time": "2023-05-27T14:05:21.9615921+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T15:06:21.6260493+00:00",
+      "NumProgressed": 1599,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1654,7 +1659,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1692,9 +1697,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 320
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1716,9 +1721,9 @@
       "ID": "REWARD_22_MASTER_OF_RIFLES",
       "SetID": "bm6el81",
       "Name": "Master of Rifles",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -1782,7 +1787,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1822,7 +1827,7 @@
       "Name": "Lord of War",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1838,7 +1843,7 @@
       "Name": "Resourceful",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1862,7 +1867,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1926,7 +1931,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1950,15 +1955,15 @@
       "Name": "Change the Channel",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -1988,9 +1993,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2181,13 +2186,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1542,
+      "Progressed": 1550,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1599,
       "Completed": 2
     }
   ],
@@ -2195,8 +2200,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:21.9615912+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:21.6260486+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:59:59.1362483+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:21.9616706+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:01:19.6331726+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:21.6261038+00:00"
 }

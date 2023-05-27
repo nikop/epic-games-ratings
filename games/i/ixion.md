@@ -14,10 +14,10 @@ Rating: 4.56 (Ranked 452)
 | Ready for a New World | 4.00% | ~88 |
 | Breaking Protocol | 4.00% | ~88 |
 | Permanent Redesigns | 4.00% | ~88 |
-| Ain't Nobody Got Time for That | 4.00% | ~88 |
 | Guy de Borderlands | 3.00% | ~66 |
 | A Hunk of Junk | 3.00% | ~66 |
 | Fully Recycled | 3.00% | ~66 |
+| Ain't Nobody Got Time for That | 3.00% | ~66 |
 | The Ship of Theseus | 3.00% | ~66 |
 | Hope Seeker | 3.00% | ~66 |
 | Exceeding Capacity | 2.00% | ~44 |
@@ -33,7 +33,7 @@ Rating: 4.56 (Ranked 452)
 | From the Past | 1.00% | ~22 |
 | BRAWL! | 0.90% | ~20 |
 | All in Good Health | 0.90% | ~20 |
-| What They Hide From Us | 0.70% | ~15 |
+| What They Hide From Us | 0.80% | ~18 |
 | ...  in a finite world | 0.70% | ~15 |
 | Delivery! | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,197 (Ranked 144)  
+Progressed: 2,201 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
 | 2023-05-26 | 2,182 | 0 |
-| 2023-05-27 | 2,197 | 0 |
+| 2023-05-27 | 2,201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

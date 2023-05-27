@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -708,17 +708,17 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "MQ03_2",
@@ -748,9 +748,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ04_1",
@@ -764,17 +764,17 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ05_1",
@@ -901,8 +901,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:03:26.459494+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:03:44.8618475+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:57:10.2335559+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:03:26.4595184+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:57:16.7074513+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:03:44.8618653+00:00"
 }

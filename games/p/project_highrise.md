@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~101 |
-| Starting Skyward | 50.00% | ~89 |
+| Starting Skyward | 51.00% | ~91 |
 | Grime is Not Good | 44.00% | ~78 |
 | Campaign Launch | 39.00% | ~69 |
 | Floor Galore | 37.00% | ~66 |
@@ -13,8 +13,8 @@
 | It's Technical | 35.00% | ~62 |
 | Need a Consult | 33.00% | ~59 |
 | Upgrade Unlock | 33.00% | ~59 |
+| Proper Walls | 30.00% | ~53 |
 | Delegate Maintenance | 30.00% | ~53 |
-| Proper Walls | 29.00% | ~52 |
 | Destination Destiny | 26.00% | ~46 |
 | Happy Tenants | 23.00% | ~41 |
 | Potent Potables | 22.00% | ~39 |
@@ -29,8 +29,8 @@
 | Artfully Done | 19.00% | ~34 |
 | Don't Feel a Loan | 19.00% | ~34 |
 | Tasty Profits | 19.00% | ~34 |
+| We Don't Need No Education | 19.00% | ~34 |
 | Rehab Expert | 18.00% | ~32 |
-| We Don't Need No Education | 18.00% | ~32 |
 | Established Fame | 17.00% | ~30 |
 | Cashflow Chief | 17.00% | ~30 |
 | Under One Roof | 16.00% | ~28 |

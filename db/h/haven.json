@@ -168,11 +168,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1167,
+  "EOS_Progressed": 1168,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -503,6 +503,11 @@
       "Time": "2023-05-27T13:08:15.5654963+00:00",
       "NumProgressed": 1167,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-27T15:06:37.3588755+00:00",
+      "NumProgressed": 1168,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -514,7 +519,7 @@
       "Name": "Lovebirds",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "10",
@@ -530,7 +535,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "12",
@@ -538,7 +543,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "13",
@@ -650,7 +655,7 @@
       "Name": "Heartstrings",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "27",
@@ -706,7 +711,7 @@
       "Name": "Head in the clouds",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "5",
@@ -722,7 +727,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "7",
@@ -738,7 +743,7 @@
       "Name": "Over my dead body",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "9",
@@ -753,15 +758,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1167,
+      "Progressed": 1168,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:34.4168894+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:37.3588752+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:02.2498458+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:59:07.7067485+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:34.4169124+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:00:05.3306972+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:37.3588945+00:00"
 }

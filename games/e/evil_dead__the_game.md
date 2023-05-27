@@ -1,15 +1,15 @@
 # Evil Dead: The Game
 [Store](https://store.epicgames.com/en-US/p/evil-dead-the-game)  
 [View Rawdata](../../db/e/evil_dead__the_game.json)  
-Rating: 4.36 (Ranked 715)  
+Rating: 4.36 (Ranked 714)  
 Number of Ratings: 9,131  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 12,433  (Ranked 27)  
-Sum: 29,230 (Ranked 38)  
+Max (Great Boss Battles): 12,441  (Ranked 27)  
+Sum: 29,238 (Ranked 38)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 12,433 |
+| This game has Great Boss Battles | 12,441 |
 | This game has Diverse Characters | 2,048 |
 | This game is Extremely Fun | 1,962 |
 | This game has Competitive Players | 1,946 |
@@ -163,4 +163,4 @@ Diff (max vs sum): -11
 | 2023-05-24 | 4.36 | - | 12,425 | 29,193 |
 | 2023-05-25 | 4.36 | - | 12,425 | 29,206 |
 | 2023-05-26 | 4.36 | - | 12,433 | 29,222 |
-| 2023-05-27 | 4.36 | - | 12,433 | 29,230 |
+| 2023-05-27 | 4.36 | - | 12,441 | 29,238 |

@@ -15,9 +15,9 @@ Rating: 3.88 (Ranked 909)
 | The game is on | 19.00% | ~226 |
 | Exotic Merchant | 17.00% | ~202 |
 | Dragon Clicker | 16.00% | ~190 |
+| Inspection | 15.00% | ~178 |
 | Miner Clicker | 15.00% | ~178 |
 | Full Party | 14.00% | ~166 |
-| Inspection | 14.00% | ~166 |
 | Hero inspection | 13.00% | ~154 |
 | Dragon Master | 12.00% | ~142 |
 | Enlightenment | 12.00% | ~142 |
@@ -42,11 +42,11 @@ Rating: 3.88 (Ranked 909)
 | How Do You Turn This On? | 4.00% | ~47 |
 | Missions Dedication | 4.00% | ~47 |
 | Relic Of The Past | 4.00% | ~47 |
+| The father of Dragons | 4.00% | ~47 |
 | Trader | 4.00% | ~47 |
 | Ancient Knowledge | 3.00% | ~36 |
 | Background Story | 3.00% | ~36 |
 | Master Enchanter | 3.00% | ~36 |
-| The father of Dragons | 3.00% | ~36 |
 | Weekly Quest Completionist | 3.00% | ~36 |
 | Blueprint Upgrades | 2.00% | ~24 |
 | Dragon Slayer | 2.00% | ~24 |

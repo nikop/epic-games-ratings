@@ -2524,9 +2524,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 178
     },
     {
       "ID": "jewelenchanting",
@@ -2732,9 +2732,9 @@
       "ID": "thefatherofdragons",
       "SetID": "3nl4bcg",
       "Name": "The father of Dragons",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 47
     },
     {
       "ID": "thegameison",
@@ -2861,8 +2861,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-27T11:58:31.9990637+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:05:30.223424+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:06:32.1302959+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:57:49.036911+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:05:30.2235179+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:58:14.6857695+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:06:32.1303646+00:00"
 }

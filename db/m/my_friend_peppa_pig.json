@@ -3,8 +3,8 @@
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_Completed_Percentage": 5.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -63,6 +63,11 @@
       "Time": "2023-05-24T04:03:21.580518+00:00",
       "NumProgressed": 70,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-27T15:04:23.3781612+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -72,7 +77,7 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 80,
       "UsersEstimate": 33
     },
@@ -80,7 +85,7 @@
       "ID": "10",
       "SetID": "5jd5jfm",
       "Name": "Collecting Sticks For the Campfire.",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 32
     },
@@ -104,7 +109,7 @@
       "ID": "3",
       "SetID": "5jd5jfm",
       "Name": "Whose tracks are these?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 80,
       "UsersEstimate": 33
     },
@@ -112,7 +117,7 @@
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 32
     },
@@ -144,7 +149,7 @@
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 80,
       "UsersEstimate": 41
     },
@@ -161,7 +166,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 4
     }
   ],
@@ -169,8 +174,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:03:54.2725945+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:04:23.3781605+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.1758713+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:58:59.4265795+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:03:54.2726054+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:59:52.942008+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:04:23.3781692+00:00"
 }

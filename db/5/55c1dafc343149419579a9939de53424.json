@@ -4,7 +4,7 @@
   "ProductSlug": "crocs-world-construction-kit-2-378153",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-19T05:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 16,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
@@ -187,8 +187,8 @@
   ],
   "FirstSeen": "2023-05-21T03:57:06.5022404+00:00",
   "FirstSeenAchievements": "2023-05-12T15:00:39.345223+00:00",
-  "LastChanged_Achievements": "2023-05-27T14:02:12.6269156+00:00",
+  "LastChanged_Achievements": "2023-05-27T15:02:15.4481283+00:00",
   "LastUpdate_AppInfo": "2023-05-26T14:57:17.9396821+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:57:02.0269692+00:00",
-  "LastUpdate_Achievements": "2023-05-27T14:02:12.6269331+00:00"
+  "LastUpdate_Ratings": "2023-05-27T14:57:05.5704044+00:00",
+  "LastUpdate_Achievements": "2023-05-27T15:02:15.4481359+00:00"
 }

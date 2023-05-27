@@ -17,7 +17,7 @@
 | Boss Down | 20.00% | ~73 |
 | Splash Damage | 18.00% | ~66 |
 | Hazardous Duty | 17.00% | ~62 |
-| Perky | 15.00% | ~55 |
+| Perky | 16.00% | ~58 |
 | Perk King | 11.00% | ~40 |
 | Salvage | 11.00% | ~40 |
 | Shocking | 11.00% | ~40 |

@@ -4,22 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 76.00% | ~13 |
-| Killing Spree | 53.00% | ~9 |
-| 5Gb HDD | 41.00% | ~7 |
-| Merchant Prince I | 29.00% | ~5 |
-| Dominating | 24.00% | ~4 |
-| The Vette | 18.00% | ~3 |
-| Fighting Fit I | 18.00% | ~3 |
-| Rambo I | 6.00% | ~1 |
-| Food Poisoning | 6.00% | ~1 |
-| Mega Kill | 6.00% | ~1 |
-| 10Gb HDD | 6.00% | ~1 |
-| Almost There I | 6.00% | ~1 |
+| First Blood | 79.00% | ~15 |
+| Killing Spree | 53.00% | ~10 |
+| 5Gb HDD | 42.00% | ~8 |
+| Merchant Prince I | 32.00% | ~6 |
+| Dominating | 26.00% | ~5 |
+| The Vette | 21.00% | ~4 |
+| Fighting Fit I | 21.00% | ~4 |
+| Rambo I | 11.00% | ~2 |
+| Mega Kill | 11.00% | ~2 |
+| 10Gb HDD | 11.00% | ~2 |
+| Almost There I | 11.00% | ~2 |
+| Bronze Prince of Ball-air | 5.00% | ~1 |
+| Omicron Alpha | 5.00% | ~1 |
+| Defrosted | 5.00% | ~1 |
+| Food Poisoning | 5.00% | ~1 |
+| Pacifist | 5.00% | ~1 |
+| Stoic | 5.00% | ~1 |
+| Collateral Damage I | 5.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
-| Bronze Prince of Ball-air | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
 | Bronze Foundation | 0.00% | ~0 |
 | Bronze Alchemist | 0.00% | ~0 |
@@ -57,14 +62,12 @@
 | Wrath of the Stars | 0.00% | ~0 |
 | Omicron Major | 0.00% | ~0 |
 | Omicron Theta | 0.00% | ~0 |
-| Omicron Alpha | 0.00% | ~0 |
 | Omicron Gamma | 0.00% | ~0 |
 | Omicron Beta | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | No Peace | 0.00% | ~0 |
 | Bird of Prey | 0.00% | ~0 |
 | Unbalanced | 0.00% | ~0 |
-| Defrosted | 0.00% | ~0 |
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |
@@ -83,7 +86,6 @@
 | Completionist | 0.00% | ~0 |
 | The Healer | 0.00% | ~0 |
 | Space Surfer | 0.00% | ~0 |
-| Pacifist | 0.00% | ~0 |
 | Godlike | 0.00% | ~0 |
 | Wicked Sick | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
@@ -96,7 +98,6 @@
 | Usurper III | 0.00% | ~0 |
 | Flower Power | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
-| Stoic | 0.00% | ~0 |
 | 25Gb HDD | 0.00% | ~0 |
 | 50Gb HDD | 0.00% | ~0 |
 | 80Gb HDD | 0.00% | ~0 |
@@ -126,7 +127,6 @@
 | Hal | 0.00% | ~0 |
 | Collateral Damage IV | 0.00% | ~0 |
 | Collateral Damage II | 0.00% | ~0 |
-| Collateral Damage I | 0.00% | ~0 |
 | Collateral Damage III | 0.00% | ~0 |
 | Merchant Prince III | 0.00% | ~0 |
 | Merchant Prince II | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Fighting Fit II | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 328)  
+Progressed: 19 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,3 +151,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 15 | 0 |
 | 2023-05-25 | 16 | 0 |
 | 2023-05-26 | 17 | 0 |
+| 2023-05-27 | 19 | 0 |
