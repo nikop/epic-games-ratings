@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4850,
+  "EOS_Progressed": 4851,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2023-05-26T21:06:36.5110746+00:00",
       "NumProgressed": 4850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T00:07:13.6331657+00:00",
+      "NumProgressed": 4851,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1084,7 +1089,7 @@
       "Name": "Level: A Happy Taskforce",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_campaign_progress11",
@@ -1132,7 +1137,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1140,7 +1145,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ach_campaign_progress7",
@@ -1164,7 +1169,7 @@
       "Name": "Level: The Machinery",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_campaign_special1",
@@ -1172,7 +1177,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ach_campaign_special10",
@@ -1284,7 +1289,7 @@
       "Name": "Extra Life: Knowledge Cap",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_campaign_special7",
@@ -1300,7 +1305,7 @@
       "Name": "Merry-Go-Around: Debt-Be-Gone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_campaign_special9",
@@ -1428,7 +1433,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_frp_many_products5",
@@ -1452,7 +1457,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -1468,7 +1473,7 @@
       "Name": "Data Churn Type IV",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_frp_veryhigh_networth",
@@ -1540,7 +1545,7 @@
       "Name": "Keen Eye",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_prof_goals",
@@ -1612,7 +1617,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_trait_overload",
@@ -1627,15 +1632,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4850,
+      "Progressed": 4851,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:05:50.4638467+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:07:13.6331649+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.5581107+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:58:52.7293473+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:05:50.4639332+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:59:36.7789551+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:07:13.6332671+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 952,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 947,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-05-26T23:03:15.6625424+00:00",
       "NumProgressed": 949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T00:03:18.8588229+00:00",
+      "NumProgressed": 952,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -543,9 +548,9 @@
       "ID": "AI_DRAW",
       "SetID": "8lhbnh7",
       "Name": "Puppetmaster",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 76
     },
     {
       "ID": "BOT_DESTROYER",
@@ -553,7 +558,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CLUMSY",
@@ -577,7 +582,7 @@
       "Name": "Express Yourself",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FACE_FACE",
@@ -585,7 +590,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -615,9 +620,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 362
     },
     {
       "ID": "GLOVE_SLAP",
@@ -633,7 +638,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "GRASSHOPPER",
@@ -641,7 +646,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 562
     },
     {
       "ID": "GUARD_MAKER",
@@ -665,7 +670,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -712,14 +717,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 952,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:03:15.6625419+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:03:18.8588224+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:57:01.5410977+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:03:15.6625598+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:57:09.1959498+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:03:18.858843+00:00"
 }

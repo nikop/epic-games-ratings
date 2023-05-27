@@ -6,17 +6,17 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,376 |
-| Returning Home: Quick Learner | 25.00% | ~1,212 |
+| Level: Returning Home | 49.00% | ~2,377 |
+| Returning Home: Quick Learner | 25.00% | ~1,213 |
 | Level: Charlie's Circuits | 22.00% | ~1,067 |
-| Level: Rising Markets | 9.00% | ~436 |
+| Level: Rising Markets | 9.00% | ~437 |
 | Peddler | 8.00% | ~388 |
 | Level: Extra Life | 7.00% | ~340 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~340 |
 | Data Churn Type I | 7.00% | ~340 |
 | Millionaire | 6.00% | ~291 |
-| Data Churn Type II | 5.00% | ~242 |
-| Speedy | 5.00% | ~242 |
+| Data Churn Type II | 5.00% | ~243 |
+| Speedy | 5.00% | ~243 |
 | Extra Life: Wish Granted | 4.00% | ~194 |
 | High Five! | 4.00% | ~194 |
 | Modular Progress | 4.00% | ~194 |
@@ -35,13 +35,13 @@ Number of Ratings: 75  (23.09.2022)
 | Module Maniac | 2.00% | ~97 |
 | Overproducer | 2.00% | ~97 |
 | Natural Talent | 2.00% | ~97 |
-| Level: A Happy Taskforce | 1.00% | ~48 |
-| Level: The Machinery | 1.00% | ~48 |
-| Extra Life: Knowledge Cap | 1.00% | ~48 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~48 |
-| Entrepreneur | 1.00% | ~48 |
-| Data Churn Type IV | 1.00% | ~48 |
-| Keen Eye | 1.00% | ~48 |
+| Level: A Happy Taskforce | 1.00% | ~49 |
+| Level: The Machinery | 1.00% | ~49 |
+| Extra Life: Knowledge Cap | 1.00% | ~49 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~49 |
+| Entrepreneur | 1.00% | ~49 |
+| Data Churn Type IV | 1.00% | ~49 |
+| Keen Eye | 1.00% | ~49 |
 | Level: Topple The Top | 0.90% | ~44 |
 | Tycoon | 0.90% | ~44 |
 | Bet On Bots: Safety First | 0.80% | ~39 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,850 (Ranked 126)  
+Progressed: 4,851 (Ranked 126)  
 Completed: 1 (0.02%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 1 (0.02%) (Ranked 189)
 | 2023-05-24 | 4,828 | 1 |
 | 2023-05-25 | 4,835 | 1 |
 | 2023-05-26 | 4,850 | 1 |
+| 2023-05-27 | 4,851 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

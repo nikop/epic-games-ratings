@@ -5,15 +5,15 @@ Rating: 4.39 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 18.00% | ~275 |
-| Confirming Suspicions | 14.00% | ~214 |
+| Meeting Resistance | 18.00% | ~276 |
+| Confirming Suspicions | 14.00% | ~215 |
 | The Kraken Wakes | 10.00% | ~153 |
-| It's Starting to Crack | 8.00% | ~122 |
+| It's Starting to Crack | 8.00% | ~123 |
 | Lord of War | 7.00% | ~107 |
 | Resourceful | 6.00% | ~92 |
 | Change the Channel | 6.00% | ~92 |
-| Enemy at the Gates | 5.00% | ~76 |
-| Organ Grinder | 5.00% | ~76 |
+| Enemy at the Gates | 5.00% | ~77 |
+| Organ Grinder | 5.00% | ~77 |
 | Just a Flesh Wound | 4.00% | ~61 |
 | Explosive Efficiency | 4.00% | ~61 |
 | As Quiet as a Mouse | 4.00% | ~61 |
@@ -54,11 +54,11 @@ Rating: 4.39 (Ranked 688)
 | Covert Elimination | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
+| Eagle Eyed | 0.20% | ~3 |
 | Up close and personal | 0.20% | ~3 |
 | Road Rage | 0.20% | ~3 |
 | Out of Scope | 0.10% | ~2 |
 | Burn after reading | 0.10% | ~2 |
-| Eagle Eyed | 0.10% | ~2 |
 | Sight Beyond Sights | 0.10% | ~2 |
 | Can't Outrun A Bullet | 0.10% | ~2 |
 | Führerious Repetition | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 688)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,528 (Ranked 156)  
+Progressed: 1,533 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
+| 2023-05-27 | 1,533 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -27,7 +27,7 @@
 | Run, Forest! Run! | 25.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 368)  
-Completed: 1 (25.00%) (Ranked 4)  
+Completed: 1 (25.00%) (Ranked 3)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

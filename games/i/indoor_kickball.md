@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Win | 50.00% | ~3 |
-| Character Unlocked | 33.00% | ~2 |
-| Hat Unlocked | 33.00% | ~2 |
-| Accessory Unlocked | 33.00% | ~2 |
-| Kickball Unlocked | 33.00% | ~2 |
-| Homer | 33.00% | ~2 |
-| Have a good trip! | 33.00% | ~2 |
-| Settle Down | 17.00% | ~1 |
-| Grand Slam! | 17.00% | ~1 |
-| Kick It | 17.00% | ~1 |
-| Bedroom Secret Spot | 17.00% | ~1 |
-| Butter Fingers | 17.00% | ~1 |
-| Stay Hydrated | 17.00% | ~1 |
-| True Story! | 0.00% | ~0 |
+| First Win | 63.00% | ~5 |
+| Character Unlocked | 50.00% | ~4 |
+| Hat Unlocked | 50.00% | ~4 |
+| Accessory Unlocked | 50.00% | ~4 |
+| Kickball Unlocked | 50.00% | ~4 |
+| Homer | 50.00% | ~4 |
+| Have a good trip! | 38.00% | ~3 |
+| Stay Hydrated | 38.00% | ~3 |
+| Settle Down | 25.00% | ~2 |
+| Grand Slam! | 25.00% | ~2 |
+| True Story! | 25.00% | ~2 |
+| Butter Fingers | 25.00% | ~2 |
+| Kick It | 13.00% | ~1 |
+| Bedroom Secret Spot | 13.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Basement Secret Spot | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | At least everyone still had fun | 0.00% | ~0 |
 | Just how we drew it up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 354)  
+Progressed: 8 (Ranked 349)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,3 +53,4 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-17 | 1 | 0 |
 | 2023-05-22 | 2 | 0 |
 | 2023-05-26 | 6 | 0 |
+| 2023-05-27 | 8 | 0 |

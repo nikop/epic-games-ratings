@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-05-26T16:04:36.4018785+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T00:04:29.4692077+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -148,7 +153,7 @@
       "Name": "Choking Hazard",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "dodgy_geezer",
@@ -162,17 +167,17 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ending_on_a_high_note",
@@ -276,7 +281,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "phonic_boom",
@@ -347,7 +352,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:03:58.4762504+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:04:29.4692069+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:45.6277849+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:59:06.1509906+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:03:58.4762733+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:59:55.589299+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:04:29.4692303+00:00"
 }

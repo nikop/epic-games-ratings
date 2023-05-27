@@ -8,11 +8,11 @@
 | Goblin Tales | 31.00% | ~100 |
 | Boss Killer | 24.00% | ~77 |
 | Bug Hunter | 24.00% | ~77 |
-| The Fallen | 21.00% | ~67 |
-| Trap Master | 21.00% | ~67 |
+| Trap Master | 21.00% | ~68 |
 | Artifact Collector | 20.00% | ~64 |
-| Reincarnation | 17.00% | ~55 |
-| Ghost Buster | 16.00% | ~51 |
+| The Fallen | 20.00% | ~64 |
+| Ghost Buster | 16.00% | ~52 |
+| Reincarnation | 16.00% | ~52 |
 | Iconoclasm | 14.00% | ~45 |
 | Librarian | 13.00% | ~42 |
 | The End | 13.00% | ~42 |
@@ -21,7 +21,7 @@
 | Orcs Must Die! | 12.00% | ~39 |
 | Troubleshooter | 12.00% | ~39 |
 | Money Swag | 9.00% | ~29 |
-| Shield Crusher | 7.00% | ~22 |
+| Shield Crusher | 7.00% | ~23 |
 | Oops | 6.00% | ~19 |
 | Treasure Hunter | 6.00% | ~19 |
 | Explorer | 5.00% | ~16 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321 (Ranked 214)  
+Progressed: 322 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-24 | 314 | 0 |
 | 2023-05-25 | 317 | 0 |
 | 2023-05-26 | 321 | 0 |
+| 2023-05-27 | 322 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

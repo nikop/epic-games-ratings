@@ -384,10 +384,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-05-26T23:58:11.1391791+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 268,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 267,
+  "NumberOfAwards": 268,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -413,7 +419,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -434,9 +440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13735,
+  "EOS_Progressed": 13741,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 894,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1689,6 +1695,11 @@
       "Time": "2023-05-26T23:03:39.7041511+00:00",
       "NumProgressed": 13735,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T00:03:52.7573008+00:00",
+      "NumProgressed": 13741,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1732,7 +1743,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1876,7 +1887,7 @@
       "Name": "Paper Jams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1930,9 +1941,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 687
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1972,7 +1983,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1980,7 +1991,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2019,22 +2030,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13735,
+      "Progressed": 13741,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1661,
+      "Progressed": 1667,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-26T22:57:48.5090467+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:03:39.7041507+00:00",
+  "LastChanged": "2023-05-26T23:58:11.1391789+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:03:52.7573003+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:57:48.5090475+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:03:39.7041908+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:58:11.1391795+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:03:52.7573457+00:00"
 }

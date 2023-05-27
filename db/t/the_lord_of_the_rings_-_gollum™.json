@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -200,6 +200,11 @@
       "Time": "2023-05-26T23:05:20.3410496+00:00",
       "NumProgressed": 247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T00:06:24.4393021+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -235,7 +240,7 @@
       "Name": "The Wraith",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Chapter10",
@@ -289,9 +294,9 @@
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter8",
@@ -313,9 +318,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "Collectibles2",
@@ -363,7 +368,7 @@
       "Name": "Like Flying...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GollumChoices",
@@ -377,9 +382,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "Memories",
@@ -489,23 +494,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 249,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:05:20.3410493+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:06:24.4393016+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:57:41.9550523+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:05:20.3410754+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:58:03.7570545+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:06:24.4394142+00:00"
 }

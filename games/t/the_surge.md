@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,020 |
-| I'll Be Back | 84.00% | ~3,593 |
-| Sorry, I Dropped This | 77.00% | ~3,293 |
+| On My Own Two Feet | 94.00% | ~4,021 |
+| I'll Be Back | 84.00% | ~3,594 |
+| Sorry, I Dropped This | 77.00% | ~3,294 |
 | First Day on the Job | 76.00% | ~3,251 |
-| Butcher's Bill | 55.00% | ~2,352 |
-| P.A.X | 37.00% | ~1,582 |
+| Butcher's Bill | 55.00% | ~2,353 |
+| P.A.X | 37.00% | ~1,583 |
 | Hey Listen | 36.00% | ~1,540 |
 | OPERATOR | 35.00% | ~1,497 |
-| It's Blue Light | 33.00% | ~1,411 |
+| It's Blue Light | 33.00% | ~1,412 |
 | Most Wanted | 26.00% | ~1,112 |
 | Infidel | 23.00% | ~984 |
 | GOLIATH | 21.00% | ~898 |
-| Firebug | 20.00% | ~855 |
+| Firebug | 20.00% | ~856 |
 | I Choose You | 17.00% | ~727 |
 | Nothing to Lose | 17.00% | ~727 |
 | Big Sister | 15.00% | ~642 |
@@ -27,9 +27,9 @@ Number of Ratings: 62  (23.09.2022)
 | The Black Cerberus | 12.00% | ~513 |
 | Watchman | 12.00% | ~513 |
 | Core Power | 12.00% | ~513 |
-| CREO Killed the Video Star | 11.00% | ~470 |
-| Who's in Charge Here? | 11.00% | ~470 |
-| Shall Not Pass | 11.00% | ~470 |
+| CREO Killed the Video Star | 11.00% | ~471 |
+| Who's in Charge Here? | 11.00% | ~471 |
+| Shall Not Pass | 11.00% | ~471 |
 | Right Tool for the Job | 10.00% | ~428 |
 | Raging Drones | 9.00% | ~385 |
 | Overconfident | 9.00% | ~385 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,277 (Ranked 127)  
+Progressed: 4,278 (Ranked 127)  
 Completed: 13 (0.30%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 13 (0.30%) (Ranked 127)
 | 2023-05-24 | 4,263 | 13 |
 | 2023-05-25 | 4,269 | 13 |
 | 2023-05-26 | 4,277 | 13 |
+| 2023-05-27 | 4,278 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 466)  

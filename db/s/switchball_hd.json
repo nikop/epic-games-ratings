@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2023-05-26T20:03:26.5233091+00:00",
       "NumProgressed": 78,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T00:02:15.789753+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -363,15 +368,15 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -428,14 +433,14 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:00:36.0685954+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:02:15.7897523+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.7005248+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:57:13.3105257+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:00:36.0686128+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:57:23.3763822+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:02:15.7897717+00:00"
 }

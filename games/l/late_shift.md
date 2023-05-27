@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Cause and Effect | 96.00% | ~349 |
 | Fair Share | 71.00% | ~258 |
-| Even Tempered | 55.00% | ~200 |
-| Star-Crossed Lovers | 45.00% | ~164 |
+| Even Tempered | 56.00% | ~204 |
+| Star-Crossed Lovers | 46.00% | ~167 |
+| Shill Bidder | 44.00% | ~160 |
 | The Delivery | 43.00% | ~157 |
-| Shill Bidder | 43.00% | ~157 |
 | The Frenzy | 34.00% | ~124 |
 | Office Clerk | 32.00% | ~116 |
 | Good Karma | 31.00% | ~113 |
@@ -20,9 +20,9 @@
 | Sabotage | 11.00% | ~40 |
 | Choices Matter | 8.00% | ~29 |
 | The Fool | 5.00% | ~18 |
-| The Lion's Den | 3.00% | ~11 |
+| The Lion's Den | 4.00% | ~15 |
+| The Coward | 3.00% | ~11 |
 | Proficient Storyteller | 3.00% | ~11 |
-| The Coward | 2.00% | ~7 |
 | Expert Storyteller | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 364 (Ranked 207)  

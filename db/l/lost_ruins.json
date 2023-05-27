@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -221,6 +221,11 @@
       "Time": "2023-05-26T18:06:29.4607318+00:00",
       "NumProgressed": 321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T00:07:14.4764109+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -296,7 +301,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Gladiator",
@@ -430,9 +435,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 52
     },
     {
       "ID": "Roughneck",
@@ -456,7 +461,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SlingOfDavid",
@@ -494,9 +499,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 64
     },
     {
       "ID": "TheTrio",
@@ -512,7 +517,7 @@
       "Name": "Trap Master",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TreasureHunter",
@@ -551,7 +556,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 0
     }
   ],
@@ -559,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:05:51.2709004+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:07:14.4764103+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.4676985+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:59:26.7175592+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:05:51.2709345+00:00"
+  "LastUpdate_Ratings": "2023-05-27T00:00:30.939453+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:07:14.4764462+00:00"
 }

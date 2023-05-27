@@ -4,50 +4,50 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A new Journey | 64.00% | ~143 |
-| Country Bumpkin | 64.00% | ~143 |
-| Departure | 63.00% | ~140 |
-| From X to Y | 61.00% | ~136 |
+| A new Journey | 65.00% | ~145 |
+| Country Bumpkin | 65.00% | ~145 |
+| Departure | 64.00% | ~143 |
+| From X to Y | 62.00% | ~138 |
+| Way of Iron | 62.00% | ~138 |
 | Brainstorm | 61.00% | ~136 |
-| Way of Iron | 61.00% | ~136 |
-| Mind the Gap | 57.00% | ~127 |
-| Mystery Tour | 57.00% | ~127 |
-| We brake for nobody | 56.00% | ~125 |
-| All around the World | 54.00% | ~120 |
-| Travel Company | 52.00% | ~116 |
+| Mind the Gap | 58.00% | ~129 |
+| Mystery Tour | 58.00% | ~129 |
+| We brake for nobody | 57.00% | ~127 |
+| All around the World | 55.00% | ~123 |
+| Travel Company | 54.00% | ~120 |
 | Apprentice | 51.00% | ~114 |
-| Right through the middle | 45.00% | ~100 |
-| Stoker | 37.00% | ~83 |
+| Right through the middle | 47.00% | ~105 |
+| Stoker | 38.00% | ~85 |
 | Poor Devil | 37.00% | ~83 |
-| Facility Manager | 33.00% | ~74 |
-| Producer | 31.00% | ~69 |
+| Facility Manager | 35.00% | ~78 |
+| Producer | 32.00% | ~71 |
 | Access granted | 22.00% | ~49 |
-| Bridge Builder | 21.00% | ~47 |
+| Bridge Builder | 22.00% | ~49 |
 | Seven at one stroke | 12.00% | ~27 |
-| Full Steam ahead | 10.00% | ~22 |
-| Going once, going twice, sold | 10.00% | ~22 |
-| Mole | 6.00% | ~13 |
-| Bull and bear | 6.00% | ~13 |
+| Going once, going twice, sold | 12.00% | ~27 |
+| Full Steam ahead | 11.00% | ~25 |
+| Bull and bear | 8.00% | ~18 |
+| Mole | 7.00% | ~16 |
+| All mine | 6.00% | ~13 |
+| Financial Shark | 6.00% | ~13 |
 | Trailblazer | 4.00% | ~9 |
 | Country Life | 4.00% | ~9 |
-| All mine | 4.00% | ~9 |
 | Traffic Junction | 4.00% | ~9 |
-| Financial Shark | 4.00% | ~9 |
 | Socializer | 4.00% | ~9 |
 | General Manager | 3.00% | ~7 |
 | Hostile Takeover | 3.00% | ~7 |
 | Traffic Jam | 2.00% | ~4 |
 | Assimilated | 2.00% | ~4 |
+| Locusts | 2.00% | ~4 |
 | Bold and beautiful | 2.00% | ~4 |
 | Breaking Ground | 2.00% | ~4 |
-| Locusts | 1.00% | ~2 |
-| Resistance is futile | 0.90% | ~2 |
+| Resistance is futile | 1.00% | ~2 |
+| Max Power | 1.00% | ~2 |
 | Go West | 0.40% | ~1 |
 | A new Hope | 0.40% | ~1 |
 | Unstoppable | 0.40% | ~1 |
 | Track to the Future | 0.40% | ~1 |
 | Conductor | 0.40% | ~1 |
-| Max Power | 0.40% | ~1 |
 | Networker | 0.40% | ~1 |
 | Engineer | 0.00% | ~0 |
 | European Union | 0.00% | ~0 |

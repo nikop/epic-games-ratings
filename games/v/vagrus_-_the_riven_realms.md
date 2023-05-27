@@ -9,9 +9,9 @@
 | The Package | 21.00% | ~15 |
 | Randomized | 11.00% | ~8 |
 | Conquered | 8.00% | ~6 |
+| Scribe | 3.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Conciliator | 1.00% | ~1 |
-| Scribe | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | The More the Merrier | 1.00% | ~1 |

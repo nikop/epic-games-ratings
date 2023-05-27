@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14542,
+  "EOS_Progressed": 14544,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2960,6 +2960,11 @@
       "Time": "2023-05-26T23:05:46.1863522+00:00",
       "NumProgressed": 14542,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-27T00:06:58.6153607+00:00",
+      "NumProgressed": 14544,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -2971,7 +2976,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11488
+      "UsersEstimate": 11490
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -3003,7 +3008,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -3027,7 +3032,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7707
+      "UsersEstimate": 7708
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -3043,7 +3048,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -3082,15 +3087,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14542,
+      "Progressed": 14544,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:05:46.1863518+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:06:58.6153597+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:44.1953463+00:00",
-  "LastUpdate_Ratings": "2023-05-26T23:00:15.7122386+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:05:46.1863805+00:00"
+  "LastUpdate_Ratings": "2023-05-27T00:01:42.6550917+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:06:58.6153953+00:00"
 }

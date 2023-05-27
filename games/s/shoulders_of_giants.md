@@ -14,7 +14,7 @@ Rating: 4.35 (Ranked 722)
 | Do you feel like a tough guy? | 44.00% | ~909 |
 | The Interdimensional Power of Friendship | 44.00% | ~909 |
 | Turn Up The HEAT | 40.00% | ~827 |
-| Stop Hitting Yourself! | 34.00% | ~703 |
+| Stop Hitting Yourself! | 35.00% | ~723 |
 | Nothing to Wear | 31.00% | ~641 |
 | The First Law of Thermodynamics | 27.00% | ~558 |
 | Do you trust me? | 15.00% | ~310 |

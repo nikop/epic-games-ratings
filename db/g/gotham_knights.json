@@ -1182,10 +1182,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3718,
       "NumberOfAwardsMax": 2239
+    },
+    {
+      "Time": "2023-05-27T00:00:45.110895+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3719,
+      "NumberOfAwardsMax": 2239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3718,
+  "NumberOfAwards": 3719,
   "NumberOfAwardsMax": 2239,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1241,7 +1247,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 182
+      "Count": 183
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1250,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62222,
+  "EOS_Progressed": 62227,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3905,6 +3911,11 @@
       "Time": "2023-05-26T23:05:56.9856581+00:00",
       "NumProgressed": 62222,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T00:07:21.7184727+00:00",
+      "NumProgressed": 62227,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4260,7 +4271,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4403,22 +4414,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62222,
+      "Progressed": 62227,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32502,
+      "Progressed": 32507,
       "Completed": 2642
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-26T18:00:06.9487835+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:05:56.9856577+00:00",
+  "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:07:21.7184721+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:59:37.2798708+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:05:56.98573+00:00"
+  "LastUpdate_Ratings": "2023-05-27T00:00:45.1108954+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:07:21.7185531+00:00"
 }

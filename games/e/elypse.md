@@ -13,8 +13,8 @@
 | Splash! | 55.00% | ~26 |
 | Masochistic | 51.00% | ~24 |
 | Soft skin | 45.00% | ~21 |
+| Squid game | 34.00% | ~16 |
 | Sensitive soul | 34.00% | ~16 |
-| Squid game | 32.00% | ~15 |
 | Rock Solid | 30.00% | ~14 |
 | Hard Rock | 30.00% | ~14 |
 | The beast within | 28.00% | ~13 |
@@ -23,10 +23,10 @@
 | Homeless | 26.00% | ~12 |
 | Big badaboom! | 26.00% | ~12 |
 | Nokron tower | 21.00% | ~10 |
+| Magnitude 5 | 21.00% | ~10 |
 | Full power | 19.00% | ~9 |
 | "Ah sh*t... Here we go again!" | 19.00% | ~9 |
 | Compulsive hoarder | 19.00% | ~9 |
-| Magnitude 5 | 19.00% | ~9 |
 | Bookworm | 19.00% | ~9 |
 | Payback | 19.00% | ~9 |
 | MayDay! MayDay! | 15.00% | ~7 |

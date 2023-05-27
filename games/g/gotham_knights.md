@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 2.00% | ~1,244 |
+| First Step Into the Knight | 2.00% | ~1,245 |
 | To the Victor Go the Spoils | 1.00% | ~622 |
 | Har, Har, Har, Very Funny | 1.00% | ~622 |
 | Get ReQ'd | 1.00% | ~622 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~33 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,222 (Ranked 70)  
+Progressed: 62,227 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,9 +104,10 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
+| 2023-05-27 | 62,227 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
-Sum: 3,718 (Ranked 137)  
+Sum: 3,719 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -115,7 +116,7 @@ Diff (max vs sum): -39
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 190 |
 | This game has Amazing Characters | 186 |
-| This game has Diverse Characters | 182 |
+| This game has Diverse Characters | 183 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 179 |
 | This game is Great for Beginners | 175 |
@@ -218,3 +219,4 @@ Diff (max vs sum): -39
 | 2023-05-24 | 4.17 | 2,234 | 3,709 |
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
 | 2023-05-26 | 4.17 | 2,239 | 3,718 |
+| 2023-05-27 | 4.17 | 2,239 | 3,719 |

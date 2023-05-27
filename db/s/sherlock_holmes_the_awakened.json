@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 257,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.67,
   "EosHistory": [
@@ -678,9 +678,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "MQ03_1",
@@ -702,17 +702,17 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "MQ03_5",
@@ -871,8 +871,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-26T23:03:33.4886735+00:00",
+  "LastChanged_Achievements": "2023-05-27T00:03:44.0046276+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:57:12.9285237+00:00",
-  "LastUpdate_Achievements": "2023-05-26T23:03:33.4886966+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:57:22.8210882+00:00",
+  "LastUpdate_Achievements": "2023-05-27T00:03:44.0046544+00:00"
 }
