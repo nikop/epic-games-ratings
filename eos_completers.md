@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 100.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.89% |
 | 3 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 25.00% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
@@ -30,11 +30,11 @@
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.12% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
-| 31 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.63% |
-| 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
+| 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
+| 31 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.27% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.17% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -60,7 +60,7 @@
 | 58 | [JARS](games/j/jars.md) | 2.33% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.29% |
 | 60 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.17% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 1.99% |
 | 64 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.85% |
@@ -80,7 +80,7 @@
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.25% |
 | 79 | [Chorus](games/c/chorus.md) | 1.24% |
 | 80 | [Trifox](games/t/trifox.md) | 1.22% |
-| 81 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.19% |
+| 81 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.18% |
 | 82 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.12% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.10% |
@@ -94,9 +94,9 @@
 | 92 | [Adios](games/a/adios.md) | 0.83% |
 | 93 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
 | 94 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.80% |
-| 94 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.80% |
 | 94 | [Them and Us](games/t/them_and_us.md) | 0.80% |
-| 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
+| 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
+| 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.79% |
 | 98 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |
 | 100 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |

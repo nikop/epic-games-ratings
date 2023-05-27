@@ -91,7 +91,7 @@
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,931 | 4.77 | 106 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,659 | 4.67 | 256 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,499 | 4.61 | 360 |
-| 92 | [RAGE 2](games/r/rage_2.md) | 2,451 | 4.28 | 773 |
+| 92 | [RAGE 2](games/r/rage_2.md) | 2,452 | 4.28 | 773 |
 | 93 | [Among Us](games/a/among_us.md) | 2,430 | 4.58 | 419 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,369 | 4.50 | 539 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,367 | 4.80 | 78 |
@@ -111,7 +111,7 @@
 | 109 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,747 | 4.57 | 439 |
 | 110 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,740 | 4.63 | 328 |
 | 111 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,640 | 4.76 | 117 |
-| 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,581 | 4.51 | 524 |
+| 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,583 | 4.51 | 524 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,537 | 4.69 | 214 |
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,473 | 4.58 | 419 |
 | 115 | [Celeste](games/c/celeste.md) | 1,456 | 4.92 | 3 |
@@ -135,7 +135,7 @@
 | 132 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,043 | 4.43 | 643 |
 | 134 | [Saints Row](games/s/saints_row.md) | 1,030 | 3.78 | 919 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,028 | 4.78 | 99 |
-| 136 | [EVE Online](games/e/eve_online.md) | 1,020 | 4.25 | 786 |
+| 136 | [EVE Online](games/e/eve_online.md) | 1,023 | 4.25 | 786 |
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,008 | 4.23 | 803 |
 | 138 | [Ooblets](games/o/ooblets.md) | 1,007 | 4.87 | 25 |
 | 139 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 993 | 4.40 | 677 |
@@ -190,8 +190,8 @@
 | 188 | [Ghostrunner](games/g/ghostrunner.md) | 460 | 4.72 | 165 |
 | 189 | [Unreal Tournament](games/u/unreal_tournament.md) | 458 | 4.66 | 272 |
 | 190 | [Riders Republic](games/r/riders_republic.md) | 455 | 4.75 | 131 |
-| 191 | [Surviving Mars](games/s/surviving_mars.md) | 446 | 4.60 | 388 |
-| 192 | [Football Manager 2023](games/f/football_manager_2023.md) | 445 | 4.76 | 117 |
+| 191 | [Football Manager 2023](games/f/football_manager_2023.md) | 448 | 4.76 | 117 |
+| 192 | [Surviving Mars](games/s/surviving_mars.md) | 446 | 4.60 | 388 |
 | 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 442 | 4.66 | 272 |
 | 194 | [Prison Architect](games/p/prison_architect.md) | 425 | 4.61 | 360 |
 | 195 | [Second Extinction™](games/s/second_extinction™.md) | 419 | 4.04 | 882 |

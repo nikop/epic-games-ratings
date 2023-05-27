@@ -121,7 +121,7 @@
 | 117 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 344 |
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 850 | 145 |
 | 117 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 408 |
-| 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 445 | 192 |
+| 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 448 | 191 |
 | 117 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 491 |
 | 117 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 106 | 315 |
 | 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,640 | 111 |
@@ -398,7 +398,7 @@
 | 388 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 421 |
 | 388 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 375 |
 | 388 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 0 | 491 |
-| 388 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 446 | 191 |
+| 388 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 446 | 192 |
 | 388 | [The Medium](games/t/the_medium.md) | 4.60 | 0 | 491 |
 | 388 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 486 |
 | 388 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 491 |
@@ -523,7 +523,7 @@
 | 505 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.52 | 0 | 491 |
 | 505 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.52 | 63 | 373 |
 | 505 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 491 |
-| 524 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,581 | 112 |
+| 524 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,583 | 112 |
 | 524 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 93 | 333 |
 | 524 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,093 | 72 |
 | 524 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 480 |
@@ -774,7 +774,7 @@
 | 767 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 134 | 293 |
 | 773 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 491 |
 | 773 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 43 | 407 |
-| 773 | [RAGE 2](games/r/rage_2.md) | 4.28 | 2,451 | 92 |
+| 773 | [RAGE 2](games/r/rage_2.md) | 4.28 | 2,452 | 92 |
 | 773 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 301 |
 | 773 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.28 | 0 | 491 |
 | 778 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.27 | 0 | 491 |
@@ -787,7 +787,7 @@
 | 783 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 225 |
 | 786 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 24 | 465 |
 | 786 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 473 |
-| 786 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,020 | 136 |
+| 786 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,023 | 136 |
 | 786 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 491 |
 | 786 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 491 |
 | 786 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 491 |
