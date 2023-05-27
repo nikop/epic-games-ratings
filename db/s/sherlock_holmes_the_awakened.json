@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 265,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.53,
   "EosHistory": [
@@ -705,9 +705,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "MQ02_4",
@@ -777,9 +777,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "MQ05_1",
@@ -906,8 +906,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:03:18.5605708+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:03:20.1882208+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:57:02.8606798+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:03:18.5605931+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:57:09.8519527+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:03:20.1882578+00:00"
 }

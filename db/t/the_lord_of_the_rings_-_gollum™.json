@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "Chapter10",
@@ -342,9 +342,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Chapter4",
@@ -446,9 +446,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "GollumChoices",
@@ -462,9 +462,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "Memories",
@@ -574,9 +574,9 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:05:02.0224982+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:05:36.208175+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:57:29.1730902+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:05:02.0225231+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:57:41.5910053+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:05:36.2082047+00:00"
 }

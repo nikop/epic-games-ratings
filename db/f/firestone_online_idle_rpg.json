@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -98,7 +98,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -2243,6 +2243,11 @@
       "Time": "2023-05-27T13:08:11.4102268+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T18:05:58.9690683+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2254,7 +2259,7 @@
       "Name": "Active Member",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ancientknowledge",
@@ -2350,7 +2355,7 @@
       "Name": "Doing My Part",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "dragonclicker",
@@ -2366,7 +2371,7 @@
       "Name": "Dragon Master",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "dragonslayer",
@@ -2382,7 +2387,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "enchantingskill",
@@ -2422,7 +2427,7 @@
       "Name": "Enlightenment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "exoticmerchant",
@@ -2438,7 +2443,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "fourleafclover",
@@ -2494,7 +2499,7 @@
       "Name": "Here We Go Again",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "heroinspection",
@@ -2502,7 +2507,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "howdoyouturnthison",
@@ -2510,7 +2515,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "hunter",
@@ -2550,7 +2555,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "lockandload",
@@ -2588,9 +2593,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 178
     },
     {
       "ID": "missionsdedication",
@@ -2598,7 +2603,7 @@
       "Name": "Missions Dedication",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "movinguptheladder",
@@ -2644,9 +2649,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 618
     },
     {
       "ID": "prestigiousx10",
@@ -2654,7 +2659,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "relicofthepast",
@@ -2662,7 +2667,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "sailor",
@@ -2676,9 +2681,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 95
     },
     {
       "ID": "scrollmaster",
@@ -2710,7 +2715,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "thealchemist",
@@ -2734,7 +2739,7 @@
       "Name": "The father of Dragons",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "thegameison",
@@ -2774,7 +2779,7 @@
       "Name": "Trader",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -2814,7 +2819,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1118
     },
     {
       "ID": "warmachinesarmy",
@@ -2846,14 +2851,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1189,
       "Completed": 1
     }
   ],
@@ -2861,8 +2866,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-27T11:58:31.9990637+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:05:21.6969888+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:05:58.9690676+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:57:41.3735291+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:05:21.6970692+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:57:57.2046856+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:05:58.9692637+00:00"
 }

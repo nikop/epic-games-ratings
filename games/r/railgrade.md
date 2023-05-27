@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 483)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,317 |
-| Before the Downfall | 93.00% | ~17,383 |
-| Money like Water | 91.00% | ~17,009 |
-| Minimalist | 90.00% | ~16,822 |
+| Trevithick's Legacy | 98.00% | ~18,318 |
+| Before the Downfall | 93.00% | ~17,384 |
+| Money like Water | 91.00% | ~17,010 |
+| Minimalist | 90.00% | ~16,823 |
 | Builder | 82.00% | ~15,327 |
 | Eraser | 70.00% | ~13,084 |
-| Pocket of Trains | 65.00% | ~12,149 |
+| Pocket of Trains | 65.00% | ~12,150 |
 | Inspector | 59.00% | ~11,028 |
-| Going the Distance | 54.00% | ~10,093 |
-| Oil Baron | 42.00% | ~7,850 |
-| Loads-a-Money | 42.00% | ~7,850 |
-| Helper of the People | 39.00% | ~7,289 |
+| Going the Distance | 54.00% | ~10,094 |
+| Oil Baron | 42.00% | ~7,851 |
+| Loads-a-Money | 42.00% | ~7,851 |
+| Helper of the People | 39.00% | ~7,290 |
 | Simplification | 33.00% | ~6,168 |
 | Box of Trains | 33.00% | ~6,168 |
 | Let There be Light | 32.00% | ~5,981 |
-| Hot Water | 30.00% | ~5,607 |
-| Indecisive | 29.00% | ~5,420 |
+| Hot Water | 30.00% | ~5,608 |
+| Indecisive | 29.00% | ~5,421 |
 | The scenic route | 27.00% | ~5,047 |
 | Industrialist | 25.00% | ~4,673 |
 | Perfectionist | 23.00% | ~4,299 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 483)
 | Overdeer | 0.50% | ~93 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,691 (Ranked 96)  
+Progressed: 18,692 (Ranked 96)  
 Completed: 29 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,10 +80,10 @@ Completed: 29 (0.16%) (Ranked 145)
 | 2023-05-24 | 18,629 | 29 |
 | 2023-05-25 | 18,647 | 29 |
 | 2023-05-26 | 18,670 | 29 |
-| 2023-05-27 | 18,691 | 29 |
+| 2023-05-27 | 18,692 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
-Sum: 647 (Ranked 273)  
+Sum: 648 (Ranked 273)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -95,7 +95,7 @@ Diff (max vs sum): 69
 | This game has Amazing Storytelling | 78 |
 | This game has Unique Visuals | 57 |
 | This game has Amazing Characters | 44 |
-| This game has a Creative Community | 40 |
+| This game has a Creative Community | 41 |
 | This game has Challenging Combat | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -142,3 +142,4 @@ Diff (max vs sum): 69
 | 2023-05-14 | 4.54 | 87 | 645 |
 | 2023-05-18 | 4.54 | 87 | 646 |
 | 2023-05-26 | 4.54 | 87 | 647 |
+| 2023-05-27 | 4.54 | 87 | 648 |

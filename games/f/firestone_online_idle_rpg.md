@@ -5,29 +5,29 @@ Rating: 3.88 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,116 |
-| World Map | 80.00% | ~950 |
-| Temple of Eternals | 56.00% | ~665 |
-| Prestigious | 53.00% | ~629 |
-| Fellowship Power | 40.00% | ~475 |
+| Victor | 94.00% | ~1,118 |
+| World Map | 80.00% | ~951 |
+| Temple of Eternals | 56.00% | ~666 |
+| Prestigious | 52.00% | ~618 |
+| Fellowship Power | 40.00% | ~476 |
 | Guild Power | 24.00% | ~285 |
-| Prestigious x10 | 21.00% | ~249 |
+| Prestigious x10 | 21.00% | ~250 |
 | The game is on | 19.00% | ~226 |
 | Exotic Merchant | 17.00% | ~202 |
 | Dragon Clicker | 16.00% | ~190 |
-| Miner Clicker | 16.00% | ~190 |
 | Inspection | 15.00% | ~178 |
+| Miner Clicker | 15.00% | ~178 |
 | Full Party | 14.00% | ~166 |
-| Hero inspection | 13.00% | ~154 |
-| Dragon Master | 12.00% | ~142 |
-| Enlightenment | 12.00% | ~142 |
-| Lieutenant | 12.00% | ~142 |
+| Hero inspection | 13.00% | ~155 |
+| Dragon Master | 12.00% | ~143 |
+| Enlightenment | 12.00% | ~143 |
+| Lieutenant | 12.00% | ~143 |
 | Milestone collector | 11.00% | ~131 |
 | Mysterious Rock | 10.00% | ~119 |
 | Natural Talent | 10.00% | ~119 |
 | Superior | 10.00% | ~119 |
 | The Unstoppable | 10.00% | ~119 |
-| Scientist | 9.00% | ~107 |
+| Scientist | 8.00% | ~95 |
 | Daily Quest Completionist | 7.00% | ~83 |
 | Challenger | 6.00% | ~71 |
 | Frostfire Liberator | 6.00% | ~71 |
@@ -37,13 +37,13 @@ Rating: 3.88 (Ranked 909)
 | Mastery | 5.00% | ~59 |
 | Moving Up The Ladder | 5.00% | ~59 |
 | The Expeditioner | 5.00% | ~59 |
-| Doing My Part | 4.00% | ~47 |
-| Here We Go Again | 4.00% | ~47 |
-| How Do You Turn This On? | 4.00% | ~47 |
-| Missions Dedication | 4.00% | ~47 |
-| Relic Of The Past | 4.00% | ~47 |
-| The father of Dragons | 4.00% | ~47 |
-| Trader | 4.00% | ~47 |
+| Doing My Part | 4.00% | ~48 |
+| Here We Go Again | 4.00% | ~48 |
+| How Do You Turn This On? | 4.00% | ~48 |
+| Missions Dedication | 4.00% | ~48 |
+| Relic Of The Past | 4.00% | ~48 |
+| The father of Dragons | 4.00% | ~48 |
+| Trader | 4.00% | ~48 |
 | Ancient Knowledge | 3.00% | ~36 |
 | Background Story | 3.00% | ~36 |
 | Master Enchanter | 3.00% | ~36 |
@@ -58,8 +58,8 @@ Rating: 3.88 (Ranked 909)
 | What lies behind the bush | 2.00% | ~24 |
 | Crystal Mining | 1.00% | ~12 |
 | The Alchemist | 0.90% | ~11 |
-| Active Member | 0.80% | ~9 |
-| Ebony Jungle Liberator | 0.80% | ~9 |
+| Active Member | 0.80% | ~10 |
+| Ebony Jungle Liberator | 0.80% | ~10 |
 | Training makes a Pro player | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.88 (Ranked 909)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,187 (Ranked 161)  
+Progressed: 1,189 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-24 | 1,156 | 1 |
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
-| 2023-05-27 | 1,187 | 1 |
+| 2023-05-27 | 1,189 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

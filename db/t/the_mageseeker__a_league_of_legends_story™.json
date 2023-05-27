@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2176,
+  "EOS_Progressed": 2177,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1901,6 +1901,11 @@
       "Time": "2023-05-27T17:05:15.1948063+00:00",
       "NumProgressed": 2176,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T18:05:51.4764185+00:00",
+      "NumProgressed": 2177,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1936,7 +1941,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1976,7 +1981,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2040,7 +2045,7 @@
       "Name": "Little light",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -2088,15 +2093,15 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1980
+      "UsersEstimate": 2003
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2128,7 +2133,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2176,7 +2181,7 @@
       "Name": "Capelworth",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2248,7 +2253,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2272,7 +2277,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -2320,7 +2325,7 @@
       "Name": "Ancient power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -2335,7 +2340,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2176,
+      "Progressed": 2177,
       "Completed": 1
     }
   ],
@@ -2343,8 +2348,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:05:15.1948059+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:05:51.476418+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:57:22.5854866+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:05:15.1948637+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:57:32.9617246+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:05:51.4764907+00:00"
 }

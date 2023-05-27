@@ -9,8 +9,8 @@
 | Time Gates | 61.00% | ~70 |
 | Command Centre | 47.00% | ~54 |
 | This is a Wall | 42.00% | ~48 |
+| Extendable Bridges | 31.00% | ~35 |
 | 48 Attempts | 31.00% | ~35 |
-| Extendable Bridges | 30.00% | ~34 |
 | Chain Reaction | 29.00% | ~33 |
 | Man's Best Friend | 27.00% | ~31 |
 | Handyman | 20.00% | ~23 |

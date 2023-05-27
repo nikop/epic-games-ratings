@@ -5,18 +5,18 @@ Rating: 4.78 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,067 |
-| No more cages! | 91.00% | ~1,980 |
+| For Demacia | 95.00% | ~2,068 |
+| No more cages! | 92.00% | ~2,003 |
 | Everfrost | 77.00% | ~1,676 |
-| Dark Forest | 76.00% | ~1,654 |
-| Pentakill | 75.00% | ~1,632 |
+| Dark Forest | 76.00% | ~1,655 |
+| Pentakill | 75.00% | ~1,633 |
 | The use of petricite | 72.00% | ~1,567 |
 | You can pet the dog | 60.00% | ~1,306 |
 | Big Helmet Bro | 34.00% | ~740 |
 | Clarion Cove | 34.00% | ~740 |
 | Past trauma | 33.00% | ~718 |
 | Thornbarrow | 33.00% | ~718 |
-| Ternmoat Headquarters | 32.00% | ~696 |
+| Ternmoat Headquarters | 32.00% | ~697 |
 | Elemental master | 31.00% | ~675 |
 | Cypress Glen Headquarters | 31.00% | ~675 |
 | Old friend | 27.00% | ~588 |
@@ -24,16 +24,16 @@ Rating: 4.78 (Ranked 99)
 | Devineur | 26.00% | ~566 |
 | Whispers in the Woods I | 25.00% | ~544 |
 | Hijack | 25.00% | ~544 |
-| Ancient power | 23.00% | ~500 |
+| Ancient power | 23.00% | ~501 |
 | I chose my shackles | 22.00% | ~479 |
 | Sacred Woods | 21.00% | ~457 |
-| Little light | 19.00% | ~413 |
-| Capelworth | 19.00% | ~413 |
+| Little light | 19.00% | ~414 |
+| Capelworth | 19.00% | ~414 |
 | Glyndemere | 18.00% | ~392 |
 | Iffighain Headquarters | 18.00% | ~392 |
 | Full equipped | 17.00% | ~370 |
-| Whispers in the Woods II | 15.00% | ~326 |
-| Quickmoore Headquarters | 15.00% | ~326 |
+| Whispers in the Woods II | 15.00% | ~327 |
+| Quickmoore Headquarters | 15.00% | ~327 |
 | Whispers in the Woods III | 14.00% | ~305 |
 | No more holding back | 14.00% | ~305 |
 | Terbisia | 14.00% | ~305 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 99)
 | Silverwing nest | 2.00% | ~44 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,176 (Ranked 145)  
+Progressed: 2,177 (Ranked 145)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-24 | 2,132 | 1 |
 | 2023-05-25 | 2,150 | 1 |
 | 2023-05-26 | 2,167 | 1 |
-| 2023-05-27 | 2,176 | 1 |
+| 2023-05-27 | 2,177 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

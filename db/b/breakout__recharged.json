@@ -2,10 +2,10 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -105,17 +105,17 @@
       "ID": "ACH_ANOTHER_BRICK_1",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ANOTHER_BRICK_2",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 2)",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_ANOTHER_BRICK_3",
@@ -137,9 +137,9 @@
       "ID": "ACH_BIDING_MY_TIME",
       "SetID": "5kae3ip",
       "Name": "Biding My Time",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_BURNING_BRIDGES",
@@ -153,9 +153,9 @@
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_COMFORTABLY_NUMB",
@@ -234,8 +234,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:05:01.2675637+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:05:35.0129379+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.2941182+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:57:12.1444032+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:05:01.2675745+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:57:21.3887439+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:05:35.012958+00:00"
 }

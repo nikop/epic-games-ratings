@@ -23,9 +23,9 @@ Rating: 4.32 (Ranked 748)
 | Level Diver | 0.80% | ~438 |
 | Gimme My Presents Back! | 0.70% | ~383 |
 | Cleaning Out Santa's Sack | 0.70% | ~383 |
-| Beaten By A Little Girl | 0.60% | ~328 |
-| Teamwork Rules | 0.60% | ~328 |
-| Totally Bummed Again | 0.60% | ~328 |
+| Beaten By A Little Girl | 0.60% | ~329 |
+| Teamwork Rules | 0.60% | ~329 |
+| Totally Bummed Again | 0.60% | ~329 |
 | Piece O' Cake | 0.50% | ~274 |
 | Boom Box Baby | 0.40% | ~219 |
 | I Can't Believe I've Done This | 0.40% | ~219 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 748)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,750 (Ranked 74)  
+Progressed: 54,751 (Ranked 74)  
 Completed: 4 (0.01%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 4 (0.01%) (Ranked 195)
 | 2023-05-24 | 54,668 | 4 |
 | 2023-05-25 | 54,693 | 4 |
 | 2023-05-26 | 54,718 | 4 |
-| 2023-05-27 | 54,750 | 4 |
+| 2023-05-27 | 54,751 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

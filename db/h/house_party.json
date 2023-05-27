@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 5180,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1605,9 +1605,9 @@
       "ID": "LifeFoundAWay",
       "SetID": "5f3a6d9",
       "Name": "Life Found a Way",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "MoneyShot",
@@ -1891,8 +1891,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:02:18.9107842+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:01:21.8890036+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:57:08.7878956+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:02:18.9108554+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:57:17.0847276+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:01:21.8890903+00:00"
 }

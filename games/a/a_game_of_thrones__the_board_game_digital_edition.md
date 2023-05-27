@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~5,436 |
-| Battering Crew | 20.00% | ~2,718 |
-| The Kingsroad | 19.00% | ~2,582 |
-| Well Stocked | 14.00% | ~1,902 |
-| Royal Fleet | 14.00% | ~1,902 |
-| The Kraken’s Grasp | 10.00% | ~1,359 |
-| Alliance | 9.00% | ~1,223 |
-| Daggers in the Dark | 8.00% | ~1,087 |
-| Oathkeeper | 8.00% | ~1,087 |
-| Influential | 8.00% | ~1,087 |
-| A Long Journey | 8.00% | ~1,087 |
-| Ours is the Fury | 7.00% | ~951 |
-| We Do Not Sow | 7.00% | ~951 |
-| Winter is Coming | 7.00% | ~951 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~815 |
-| Hear me Roar! | 6.00% | ~815 |
-| Defender of the Wall | 6.00% | ~815 |
-| Growing Strong | 5.00% | ~679 |
+| Conqueror | 40.00% | ~5,439 |
+| Battering Crew | 20.00% | ~2,720 |
+| The Kingsroad | 19.00% | ~2,584 |
+| Well Stocked | 14.00% | ~1,904 |
+| Royal Fleet | 14.00% | ~1,904 |
+| The Kraken’s Grasp | 10.00% | ~1,360 |
+| Alliance | 9.00% | ~1,224 |
+| Daggers in the Dark | 8.00% | ~1,088 |
+| Oathkeeper | 8.00% | ~1,088 |
+| Influential | 8.00% | ~1,088 |
+| A Long Journey | 8.00% | ~1,088 |
+| Ours is the Fury | 7.00% | ~952 |
+| We Do Not Sow | 7.00% | ~952 |
+| Winter is Coming | 7.00% | ~952 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~816 |
+| Hear me Roar! | 6.00% | ~816 |
+| Defender of the Wall | 6.00% | ~816 |
+| Growing Strong | 5.00% | ~680 |
 | What is Dead may Never Die | 3.00% | ~408 |
 | The Swift | 3.00% | ~408 |
 | King in the North | 2.00% | ~272 |
 | War of the Five Kings | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,589 (Ranked 103)  
+Progressed: 13,598 (Ranked 103)  
 Completed: 30 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 30 (0.22%) (Ranked 136)
 | 2023-05-24 | 13,259 | 29 |
 | 2023-05-25 | 13,377 | 29 |
 | 2023-05-26 | 13,487 | 30 |
-| 2023-05-27 | 13,589 | 30 |
+| 2023-05-27 | 13,598 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 302)  
 Sum: 779 (Ranked 252)  

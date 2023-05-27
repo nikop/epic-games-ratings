@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62367,
+  "EOS_Progressed": 62377,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3996,6 +3996,11 @@
       "Time": "2023-05-27T17:05:35.9426115+00:00",
       "NumProgressed": 62367,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T18:06:15.1205991+00:00",
+      "NumProgressed": 62377,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4191,7 +4196,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -4351,7 +4356,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4471,7 +4476,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -4494,13 +4499,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62367,
+      "Progressed": 62377,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32647,
+      "Progressed": 32657,
       "Completed": 2642
     }
   ],
@@ -4508,8 +4513,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:05:35.942611+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:06:15.1205983+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:59:12.2595466+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:05:35.9426789+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:59:48.4635316+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:06:15.1207273+00:00"
 }

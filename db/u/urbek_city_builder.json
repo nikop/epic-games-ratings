@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -485,9 +485,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "CULTURE_2",
@@ -557,9 +557,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "FAITH_2",
@@ -693,17 +693,17 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "MURICA_1",
@@ -725,9 +725,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -861,9 +861,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "SPORTS_2",
@@ -982,8 +982,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:05:28.3021687+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:06:06.5577877+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:58:24.6994324+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:05:28.3022488+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:58:50.4439173+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:06:06.5579119+00:00"
 }

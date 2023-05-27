@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -119,6 +119,11 @@
       "Time": "2023-05-26T23:01:00.8834235+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T18:02:18.9485924+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -138,7 +143,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CampaignStars2",
@@ -162,7 +167,7 @@
       "Name": "Campaign Titanium",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Competitor1",
@@ -194,7 +199,7 @@
       "Name": "Environmentalist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Forester",
@@ -250,7 +255,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "PlanetLorian",
@@ -288,9 +293,9 @@
       "ID": "PlanetTuto",
       "SetID": "c2k469b",
       "Name": "Tuto",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 223
     },
     {
       "ID": "PlanetUdionTorix",
@@ -314,14 +319,14 @@
       "Name": "World Creator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 0
     }
   ],
@@ -329,8 +334,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:02:32.9492787+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:02:18.9485917+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:48.7726988+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:58:46.8531704+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:02:32.9492932+00:00"
+  "LastUpdate_Ratings": "2023-05-27T17:59:16.8834371+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:02:18.9486196+00:00"
 }

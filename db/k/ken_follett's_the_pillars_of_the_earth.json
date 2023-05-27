@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12745,
+  "EOS_Progressed": 12746,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2769,6 +2769,11 @@
       "Time": "2023-05-27T17:05:04.6963065+00:00",
       "NumProgressed": 12745,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-27T18:05:39.2193719+00:00",
+      "NumProgressed": 12746,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2820,7 +2825,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "tpote_achievement_15",
@@ -2948,7 +2953,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "tpote_achievement_3",
@@ -2964,7 +2969,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "tpote_achievement_31",
@@ -3100,22 +3105,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12745,
+      "Progressed": 12746,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-27T17:05:04.6963059+00:00",
+  "LastChanged_Achievements": "2023-05-27T18:05:39.219371+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:59:22.5198469+00:00",
-  "LastUpdate_Achievements": "2023-05-27T17:05:04.6963538+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:00:01.4351891+00:00",
+  "LastUpdate_Achievements": "2023-05-27T18:05:39.2194179+00:00"
 }

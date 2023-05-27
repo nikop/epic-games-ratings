@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 56.00% | ~164 |
+| The Wraith | 57.00% | ~167 |
 | Collectibles Part 1 | 45.00% | ~132 |
-| Welcome to Mordor! | 44.00% | ~129 |
-| Wait! Wait! Not yet! | 27.00% | ~79 |
+| Welcome to Mordor! | 45.00% | ~132 |
+| Wait! Wait! Not yet! | 28.00% | ~82 |
 | Memories | 27.00% | ~79 |
-| Like Flying... | 23.00% | ~67 |
+| Like Flying... | 24.00% | ~70 |
 | The Maggot | 16.00% | ~47 |
-| The Breeder | 11.00% | ~32 |
+| The Breeder | 12.00% | ~35 |
 | The Veteran | 8.00% | ~23 |
 | The Traitor | 4.00% | ~12 |
 | The Spider | 3.00% | ~9 |
