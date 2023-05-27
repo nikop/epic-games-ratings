@@ -8,14 +8,14 @@
 | Target Practice | 39.00% | ~29 |
 | Over the Moon | 32.00% | ~24 |
 | The Bigger They Are | 30.00% | ~22 |
-| Enemies of Fate | 28.00% | ~21 |
+| Enemies of Fate | 30.00% | ~22 |
 | Amokuali Tower | 27.00% | ~20 |
-| Armored | 26.00% | ~19 |
+| Armored | 27.00% | ~20 |
 | Your Training Continues | 24.00% | ~18 |
 | Freedom | 23.00% | ~17 |
 | Winner | 20.00% | ~15 |
+| The Pride of Moozhaw | 19.00% | ~14 |
 | Omnia Vincit Amor | 19.00% | ~14 |
-| The Pride of Moozhaw | 18.00% | ~13 |
 | Stilt House | 14.00% | ~10 |
 | Armor Collector | 12.00% | ~9 |
 | Corwid Hill | 11.00% | ~8 |
@@ -26,7 +26,7 @@
 | Broken Reflection | 3.00% | ~2 |
 | Vivid Dreams | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 282)  
+Progressed: 74 (Ranked 283)  
 Completed: 1 (1.35%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |

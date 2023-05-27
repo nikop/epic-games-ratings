@@ -5,15 +5,15 @@ Rating: 4.41 (Ranked 664)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 20.00% | ~324 |
+| Meeting Resistance | 20.00% | ~325 |
 | Confirming Suspicions | 15.00% | ~243 |
-| The Kraken Wakes | 11.00% | ~178 |
+| The Kraken Wakes | 11.00% | ~179 |
 | Lord of War | 8.00% | ~130 |
 | It's Starting to Crack | 8.00% | ~130 |
-| Resourceful | 7.00% | ~113 |
+| Resourceful | 7.00% | ~114 |
 | Enemy at the Gates | 6.00% | ~97 |
+| Organ Grinder | 6.00% | ~97 |
 | Change the Channel | 6.00% | ~97 |
-| Organ Grinder | 5.00% | ~81 |
 | Explosive Efficiency | 5.00% | ~81 |
 | As Quiet as a Mouse | 5.00% | ~81 |
 | Taking it back | 5.00% | ~81 |
@@ -34,9 +34,9 @@ Rating: 4.41 (Ranked 664)
 | Skirmisher | 2.00% | ~32 |
 | Set Europe Ablaze | 2.00% | ~32 |
 | Precision Is Key | 2.00% | ~32 |
+| Rigged to Blow | 2.00% | ~32 |
 | Brains of the Operation | 2.00% | ~32 |
 | The Long Game | 1.00% | ~16 |
-| Rigged to Blow | 1.00% | ~16 |
 | It'll Buff Right Out | 1.00% | ~16 |
 | My Little Friend | 0.70% | ~11 |
 | Locomotion Commotion | 0.70% | ~11 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 664)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,621 (Ranked 154)  
+Progressed: 1,623 (Ranked 154)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
-| 2023-05-27 | 1,621 | 2 |
+| 2023-05-27 | 1,623 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

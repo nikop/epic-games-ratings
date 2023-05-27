@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -1586,9 +1586,9 @@
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 504
     },
     {
       "ID": "campaign6",
@@ -1691,8 +1691,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:07:25.1617334+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:50.6909895+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:01:21.8665501+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:07:25.1617714+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:59:52.3502167+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:50.6910231+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -217,17 +217,17 @@
       "ID": "thats_my_boy",
       "SetID": "84ad177",
       "Name": "That\u0027s my boy!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "tried_to_warn_you",
@@ -241,9 +241,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -266,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:07:15.7899842+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:43.6013927+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.1546983+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:01:00.9381986+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:07:15.789998+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:59:38.6082255+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:43.6014066+00:00"
 }

@@ -24,7 +24,7 @@ Number of Ratings: 180  (23.09.2022)
 | First electric train arrived | 48.00% | ~553 |
 | Settled down | 48.00% | ~553 |
 | First ship arrived | 46.00% | ~530 |
-| Now what? | 45.00% | ~518 |
+| Now what? | 46.00% | ~530 |
 | High speed | 43.00% | ~495 |
 | Transport shark | 40.00% | ~461 |
 | First aircraft arrived | 40.00% | ~461 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,152 (Ranked 163)  
-Completed: 0 (0.00%) (Ranked 205)  
+Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

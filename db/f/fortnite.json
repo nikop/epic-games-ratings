@@ -6,9 +6,9 @@
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
     "PcReleaseDate": "2017-07-21T09:00:50+00:00",
@@ -4871,60 +4871,66 @@
       "Rating": 4.3,
       "NumberOfAwards": 9773792,
       "NumberOfAwardsMax": 1354305
+    },
+    {
+      "Time": "2023-05-27T20:57:30.4008906+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 9796692,
+      "NumberOfAwardsMax": 1358082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9773792,
-  "NumberOfAwardsMax": 1354305,
+  "NumberOfAwards": 9796692,
+  "NumberOfAwardsMax": 1358082,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1354305
+      "Count": 1358082
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1284322
+      "Count": 1286624
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1301173
+      "Count": 1304814
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1261536
+      "Count": 1265116
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1206674
+      "Count": 1208556
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1177927
+      "Count": 1180984
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1191274
+      "Count": 1194291
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 996581
+      "Count": 998225
     }
   ],
   "EOS_Progressed": 0,
@@ -4938,8 +4944,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-05-27T07:57:20.491058+00:00",
+  "LastChanged": "2023-05-27T20:57:30.4008904+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.5283339+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:57:49.2611832+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:04:30.314458+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:57:30.4008917+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:03:44.4777453+00:00"
 }

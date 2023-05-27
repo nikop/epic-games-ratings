@@ -3,9 +3,9 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -502,6 +502,11 @@
       "Time": "2023-05-27T20:06:49.2126491+00:00",
       "NumProgressed": 619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T21:05:23.3191891+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -527,9 +532,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 386
     },
     {
       "ID": "ATTENBOROUGH",
@@ -593,15 +598,15 @@
       "Name": "Croaked",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CRUELTY",
       "SetID": "9a4jnji",
       "Name": "Cruelty",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CURVEBALL",
@@ -625,7 +630,7 @@
       "Name": "Limp Richard",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -657,7 +662,7 @@
       "Name": "Editor Adept",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ENDGAME",
@@ -689,7 +694,7 @@
       "Name": "Firestarter",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "FIRST_BLOOD",
@@ -697,7 +702,7 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 560
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -721,7 +726,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "GIANT_KILLER",
@@ -745,7 +750,7 @@
       "Name": "Gun for Hire",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 336
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -759,9 +764,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "INFILTRATOR",
@@ -775,9 +780,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 143
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -815,9 +820,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 411
     },
     {
       "ID": "RECYCLER",
@@ -847,9 +852,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "SHADOW_BOXING",
@@ -895,9 +900,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 62
     },
     {
       "ID": "THE_WATCHERS",
@@ -920,14 +925,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 622,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:06:49.2126486+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:23.3191887+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:58:57.1658297+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:06:49.2127171+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:58:16.214719+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:23.3192358+00:00"
 }

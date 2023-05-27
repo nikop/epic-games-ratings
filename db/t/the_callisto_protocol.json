@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -446,9 +446,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13831,
+  "EOS_Progressed": 13835,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1796,6 +1796,11 @@
       "Time": "2023-05-27T20:04:15.809618+00:00",
       "NumProgressed": 13831,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T21:03:34.3402863+00:00",
+      "NumProgressed": 13835,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1839,7 +1844,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2126,13 +2131,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13831,
+      "Progressed": 13835,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1757,
+      "Progressed": 1761,
       "Completed": 29
     }
   ],
@@ -2140,8 +2145,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-27T17:57:48.7844569+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:04:15.8096174+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:03:34.3402859+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:58:22.5438806+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:04:15.8096595+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:57:52.3443129+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:03:34.3403263+00:00"
 }

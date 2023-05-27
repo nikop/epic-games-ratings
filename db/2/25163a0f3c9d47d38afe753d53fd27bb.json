@@ -3,7 +3,7 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 338,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 5.65,
+  "EOS_Completed_Percentage": 5.62,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -711,6 +711,11 @@
       "Time": "2023-05-27T19:03:11.5186992+00:00",
       "NumProgressed": 336,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-27T21:03:27.9906854+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 30,
@@ -722,7 +727,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 328
     },
     {
       "ID": "LEVEL_002",
@@ -730,7 +735,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "LEVEL_003",
@@ -738,7 +743,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "LEVEL_004",
@@ -746,7 +751,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "LEVEL_005",
@@ -754,7 +759,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_006",
@@ -762,7 +767,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_007",
@@ -816,9 +821,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_014",
@@ -834,7 +839,7 @@
       "Name": "Flatland",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_016",
@@ -842,7 +847,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_017",
@@ -858,7 +863,7 @@
       "Name": "Isle rock city",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_019",
@@ -961,14 +966,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 338,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:03:56.5460506+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:03:27.9906849+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:57:19.928625+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:03:56.5461391+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:57:10.6569714+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:03:27.9907133+00:00"
 }

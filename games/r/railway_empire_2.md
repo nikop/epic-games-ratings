@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 71.00% | ~198 |
-| Departure | 69.00% | ~193 |
-| A new Journey | 69.00% | ~193 |
-| From X to Y | 67.00% | ~187 |
-| Brainstorm | 67.00% | ~187 |
-| Way of Iron | 67.00% | ~187 |
-| Mystery Tour | 63.00% | ~176 |
-| We brake for nobody | 62.00% | ~173 |
-| All around the World | 62.00% | ~173 |
-| Mind the Gap | 62.00% | ~173 |
-| Travel Company | 60.00% | ~167 |
-| Right through the middle | 54.00% | ~151 |
-| Apprentice | 51.00% | ~142 |
-| Poor Devil | 47.00% | ~131 |
-| Facility Manager | 41.00% | ~114 |
-| Stoker | 40.00% | ~112 |
-| Producer | 39.00% | ~109 |
-| Bridge Builder | 33.00% | ~92 |
-| Access granted | 30.00% | ~84 |
+| Country Bumpkin | 70.00% | ~197 |
+| Departure | 68.00% | ~192 |
+| A new Journey | 68.00% | ~192 |
+| From X to Y | 67.00% | ~189 |
+| Brainstorm | 67.00% | ~189 |
+| Way of Iron | 66.00% | ~186 |
+| Mystery Tour | 63.00% | ~178 |
+| We brake for nobody | 62.00% | ~175 |
+| All around the World | 62.00% | ~175 |
+| Mind the Gap | 62.00% | ~175 |
+| Travel Company | 60.00% | ~169 |
+| Right through the middle | 54.00% | ~152 |
+| Apprentice | 51.00% | ~144 |
+| Poor Devil | 48.00% | ~135 |
+| Facility Manager | 42.00% | ~118 |
+| Stoker | 40.00% | ~113 |
+| Producer | 39.00% | ~110 |
+| Bridge Builder | 34.00% | ~96 |
+| Access granted | 30.00% | ~85 |
 | Going once, going twice, sold | 21.00% | ~59 |
 | Full Steam ahead | 20.00% | ~56 |
-| Seven at one stroke | 18.00% | ~50 |
-| Bull and bear | 18.00% | ~50 |
+| Seven at one stroke | 18.00% | ~51 |
+| Bull and bear | 18.00% | ~51 |
 | All mine | 14.00% | ~39 |
 | Financial Shark | 14.00% | ~39 |
-| Trailblazer | 11.00% | ~31 |
+| Trailblazer | 12.00% | ~34 |
+| Hostile Takeover | 11.00% | ~31 |
 | Mole | 11.00% | ~31 |
 | General Manager | 10.00% | ~28 |
-| Hostile Takeover | 10.00% | ~28 |
 | Country Life | 9.00% | ~25 |
+| Traffic Jam | 6.00% | ~17 |
 | Traffic Junction | 6.00% | ~17 |
-| Traffic Jam | 5.00% | ~14 |
 | Max Power | 3.00% | ~8 |
 | Assimilated | 3.00% | ~8 |
 | Locusts | 3.00% | ~8 |
@@ -60,8 +60,8 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279 (Ranked 225)  
-Completed: 0 (0.00%) (Ranked 205)  
+Progressed: 282 (Ranked 222)  
+Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 12 | 0 |
 | 2023-05-25 | 119 | 0 |
 | 2023-05-26 | 223 | 0 |
-| 2023-05-27 | 279 | 0 |
+| 2023-05-27 | 282 | 0 |

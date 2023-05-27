@@ -24,12 +24,12 @@
 | Your Prestige is Rising | 21.00% | ~38 |
 | Retail Revenue | 21.00% | ~38 |
 | Leveled Up Shops | 21.00% | ~38 |
+| Emporium Empire | 20.00% | ~36 |
 | Get Electrified | 20.00% | ~36 |
 | Artfully Done | 19.00% | ~34 |
 | Don't Feel a Loan | 19.00% | ~34 |
-| Emporium Empire | 19.00% | ~34 |
+| Tasty Profits | 19.00% | ~34 |
 | Rehab Expert | 18.00% | ~32 |
-| Tasty Profits | 18.00% | ~32 |
 | We Don't Need No Education | 18.00% | ~32 |
 | Established Fame | 17.00% | ~31 |
 | Cashflow Chief | 17.00% | ~31 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 180 (Ranked 244)  
-Completed: 0 (0.00%) (Ranked 205)  
+Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

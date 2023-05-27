@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -901,9 +901,9 @@
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_010",
@@ -1022,8 +1022,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:06:50.7011063+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:24.4291323+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:58:35.3680009+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:06:50.7011293+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:58:00.8469159+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:24.4291533+00:00"
 }

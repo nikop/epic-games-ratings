@@ -6,9 +6,9 @@
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -5645,10 +5645,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 37529,
       "NumberOfAwardsMax": 15430
+    },
+    {
+      "Time": "2023-05-27T20:59:06.5228404+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 37539,
+      "NumberOfAwardsMax": 15430
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 37529,
+  "NumberOfAwards": 37539,
   "NumberOfAwardsMax": 15430,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5686,7 +5692,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2283
+      "Count": 2289
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5704,7 +5710,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2159
+      "Count": 2163
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5736,8 +5742,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-05-27T15:59:35.7452299+00:00",
+  "LastChanged": "2023-05-27T20:59:06.52284+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:51.1629092+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:00:13.5710391+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:02:30.1223464+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:59:06.5228409+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:02:11.382558+00:00"
 }

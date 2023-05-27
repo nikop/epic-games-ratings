@@ -3,9 +3,9 @@
   "Name": "Indoor Kickball",
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -120,17 +120,17 @@
       "ID": "13",
       "SetID": "39djiaj",
       "Name": "Kickball Unlocked",
-      "Percentage": 67,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "14",
       "SetID": "39djiaj",
       "Name": "Settle Down",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "15",
@@ -152,17 +152,17 @@
       "ID": "17",
       "SetID": "39djiaj",
       "Name": "True Story!",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "18",
       "SetID": "39djiaj",
       "Name": "Bedroom Secret Spot",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "19",
@@ -176,9 +176,9 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 67,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "20",
@@ -304,9 +304,9 @@
       "ID": "34",
       "SetID": "39djiaj",
       "Name": "Have Mercy",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "35",
@@ -368,9 +368,9 @@
       "ID": "5",
       "SetID": "39djiaj",
       "Name": "Angry Dad",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
@@ -392,9 +392,9 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "9",
@@ -414,8 +414,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:06:58.6374542+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:30.24967+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:00:00.7208519+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:06:58.6374886+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:58:58.5918013+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:30.2497009+00:00"
 }

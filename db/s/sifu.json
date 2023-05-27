@@ -4254,9 +4254,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705784,
+  "EOS_Progressed": 705794,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1769,
+  "EOS_NewPlayers": 1774,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7444,6 +7444,11 @@
       "Time": "2023-05-27T20:07:20.9612984+00:00",
       "NumProgressed": 705784,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T21:05:47.5412954+00:00",
+      "NumProgressed": 705794,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7543,7 +7548,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     },
     {
       "ID": "13_LowAge",
@@ -7703,7 +7708,7 @@
       "Name": "Old Child",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     },
     {
       "ID": "33_BladeOneShot",
@@ -7727,7 +7732,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7799,7 +7804,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7854,21 +7859,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15085,
+      "Progressed": 15095,
       "Completed": 10178
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705784,
+      "Progressed": 705794,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T18:58:32.3381945+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:07:20.9612979+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:47.541295+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:59:48.9450761+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:07:20.9613886+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:58:50.9873257+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:47.5413575+00:00"
 }

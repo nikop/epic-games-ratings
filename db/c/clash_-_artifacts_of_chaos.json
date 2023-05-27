@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -135,9 +135,9 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement11",
@@ -239,9 +239,9 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement4",
@@ -279,9 +279,9 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement9",
@@ -304,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:07:21.4790023+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:47.9584166+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.9291912+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:01:22.172387+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:07:21.4790213+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:59:52.5985756+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:47.9584325+00:00"
 }

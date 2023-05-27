@@ -8,19 +8,19 @@ Number of Ratings: 38  (23.09.2022)
 | ---- | ---------- | ----- |
 | Scrap Gatherer | 58.00% | ~124 |
 | My New Home | 58.00% | ~124 |
-| Mushroom Picker | 56.00% | ~119 |
-| Scrapper | 49.00% | ~104 |
-| Cook | 40.00% | ~85 |
+| Mushroom Picker | 56.00% | ~120 |
+| Scrapper | 49.00% | ~105 |
+| Cook | 41.00% | ~88 |
 | Teleport | 39.00% | ~83 |
-| Scrap Master | 38.00% | ~81 |
-| Smelter | 34.00% | ~72 |
-| Digger | 33.00% | ~70 |
+| Scrap Master | 37.00% | ~79 |
+| Smelter | 35.00% | ~75 |
+| Digger | 33.00% | ~71 |
 | Electro-Scrap Gatherer | 32.00% | ~68 |
-| Robot Destroyer | 30.00% | ~64 |
-| Survivor | 30.00% | ~64 |
+| Robot Destroyer | 29.00% | ~62 |
+| Survivor | 29.00% | ~62 |
 | Herbalist | 27.00% | ~58 |
-| Lumberjack | 24.00% | ~51 |
-| Prepper | 24.00% | ~51 |
+| Lumberjack | 25.00% | ~54 |
+| Prepper | 25.00% | ~54 |
 | Electro-Scrap Master | 23.00% | ~49 |
 | Robot Hunter | 20.00% | ~43 |
 | Advanced Survivalist | 17.00% | ~36 |
@@ -38,8 +38,8 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 205)  
+Progressed: 214 (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 196 | 0 |
 | 2023-05-25 | 202 | 0 |
 | 2023-05-26 | 208 | 0 |
-| 2023-05-27 | 213 | 0 |
+| 2023-05-27 | 214 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

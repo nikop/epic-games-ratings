@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~557 |
-| Ranidaphobia | 65.00% | ~402 |
-| Aspiring Editor | 61.00% | ~378 |
-| Gun for Hire | 54.00% | ~334 |
-| I am the law! | 40.00% | ~248 |
-| From Darkness to Light | 23.00% | ~142 |
-| Lumberjack | 22.00% | ~136 |
-| Firestarter | 21.00% | ~130 |
-| Limp Richard | 18.00% | ~111 |
-| Croaked | 17.00% | ~105 |
+| First Blood | 90.00% | ~560 |
+| Ranidaphobia | 66.00% | ~411 |
+| Aspiring Editor | 62.00% | ~386 |
+| Gun for Hire | 54.00% | ~336 |
+| I am the law! | 41.00% | ~255 |
+| From Darkness to Light | 23.00% | ~143 |
+| Lumberjack | 23.00% | ~143 |
+| Firestarter | 21.00% | ~131 |
+| Limp Richard | 18.00% | ~112 |
+| Croaked | 17.00% | ~106 |
 | Exorcist | 14.00% | ~87 |
-| Editor Adept | 13.00% | ~80 |
+| Editor Adept | 13.00% | ~81 |
 | Giant Killer | 11.00% | ~68 |
+| The meaning of Kain | 10.00% | ~62 |
 | Hold The Line | 9.00% | ~56 |
-| The meaning of Kain | 9.00% | ~56 |
-| Sensei | 8.00% | ~50 |
+| Sensei | 9.00% | ~56 |
 | Chain Killer | 6.00% | ~37 |
 | Newtonian Knockout | 6.00% | ~37 |
 | Recycler | 6.00% | ~37 |
@@ -43,7 +43,7 @@
 | Dr Jones | 0.80% | ~5 |
 | Bot Whisperer | 0.60% | ~4 |
 | Chaos Theory | 0.50% | ~3 |
-| Cruelty | 0.30% | ~2 |
+| Cruelty | 0.50% | ~3 |
 | Five Finger Deathcount | 0.30% | ~2 |
 | Fratricide | 0.30% | ~2 |
 | Dressed To Kill | 0.20% | ~1 |
@@ -56,8 +56,8 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 619 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 205)  
+Progressed: 622 (Ranked 188)  
+Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
-| 2023-05-27 | 619 | 0 |
+| 2023-05-27 | 622 | 0 |

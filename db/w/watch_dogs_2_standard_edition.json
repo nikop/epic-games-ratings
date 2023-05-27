@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 388,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -3448,10 +3448,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2519,
       "NumberOfAwardsMax": 331
+    },
+    {
+      "Time": "2023-05-27T20:58:53.5181714+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2523,
+      "NumberOfAwardsMax": 331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2519,
+  "NumberOfAwards": 2523,
   "NumberOfAwardsMax": 331,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3459,7 +3465,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 305
+      "Count": 309
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3527,8 +3533,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-05-27T13:01:28.7517803+00:00",
+  "LastChanged": "2023-05-27T20:58:53.5181713+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:38.9576378+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:59:52.5683177+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:04:15.2951948+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:58:53.5181718+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:03:33.9885868+00:00"
 }

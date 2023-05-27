@@ -11,11 +11,11 @@ Rating: 4.17 (Ranked 838)
 | Get ReQ'd | 1.00% | ~624 |
 | Knighthood | 1.00% | ~624 |
 | Loose Ends | 1.00% | ~624 |
+| Whispered Words | 1.00% | ~624 |
 | The Batman Family | 0.90% | ~562 |
+| Something in the Clay | 0.90% | ~562 |
 | Quartzer Life Crisis | 0.90% | ~562 |
 | Working Hard or Harley Working? | 0.90% | ~562 |
-| Whispered Words | 0.90% | ~562 |
-| Something in the Clay | 0.80% | ~499 |
 | Snow Problem | 0.80% | ~499 |
 | Unstoppable Force | 0.80% | ~499 |
 | Lock and Key | 0.80% | ~499 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,392 (Ranked 70)  
+Progressed: 62,403 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,17 +104,17 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,392 | 91 |
+| 2023-05-27 | 62,403 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
-Sum: 3,725 (Ranked 137)  
+Sum: 3,726 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,244 |
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
-| This game has Quickly Understood Controls | 190 |
+| This game has Quickly Understood Controls | 191 |
 | This game has Amazing Characters | 186 |
 | This game has Diverse Characters | 183 |
 | This game is Highly Recommended | 181 |
@@ -219,4 +219,4 @@ Diff (max vs sum): -39
 | 2023-05-24 | 4.17 | 2,234 | 3,709 |
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
 | 2023-05-26 | 4.17 | 2,239 | 3,718 |
-| 2023-05-27 | 4.17 | 2,244 | 3,725 |
+| 2023-05-27 | 4.17 | 2,244 | 3,726 |

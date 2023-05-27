@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 32.00% | ~3 |
+| Aspairagus | 35.00% | ~4 |
 | Survivor | 22.00% | ~2 |
 | No Diggity | 22.00% | ~2 |
+| Quick-Draw Pod | 20.00% | ~2 |
 | Seeds of War | 18.00% | ~11 |
-| Quick-Draw Pod | 18.00% | ~2 |
 | Early Survivor | 18.00% | ~2 |
-| Bouncemato | 13.00% | ~1 |
+| Bouncemato | 15.00% | ~2 |
 | First Blood | 10.00% | ~6 |
 | Amateur Survivor | 10.00% | ~1 |
 | I Believe I Can Fly | 8.00% | ~5 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 205)  
+Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

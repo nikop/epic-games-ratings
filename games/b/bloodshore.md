@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Super Seducer | 51.00% | ~78 |
 | Congratulations, you are a sadist | 50.00% | ~76 |
-| Um, ok... | 46.00% | ~70 |
+| Um, ok... | 47.00% | ~71 |
 | Superstar-crossed lovers | 39.00% | ~59 |
 | A leader, you are not | 35.00% | ~53 |
 | Comedy Killer | 34.00% | ~52 |
-| This won't end well... | 33.00% | ~50 |
+| This won't end well... | 34.00% | ~52 |
 | Bromance | 30.00% | ~46 |
 | Good job, nerd | 30.00% | ~46 |
 | Mission Complete | 30.00% | ~46 |
@@ -18,9 +18,9 @@
 | Maybe you should give it another go | 10.00% | ~15 |
 | I used to think I was indecisive... | 7.00% | ~11 |
 | Mikey Lizard | 6.00% | ~9 |
+| That's my boy! | 4.00% | ~6 |
 | We tried to warn you! | 4.00% | ~6 |
 | Deathlooper | 3.00% | ~5 |
-| That's my boy! | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 255)  
 Completed: 3 (1.97%) (Ranked 63)  

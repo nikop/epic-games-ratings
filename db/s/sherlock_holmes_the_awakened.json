@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -678,9 +678,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "MQ01_2",
@@ -734,9 +734,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ03_3",
@@ -782,9 +782,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "MQ05_1",
@@ -838,9 +838,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "MQ06_4",
@@ -911,8 +911,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:03:56.4767457+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:03:27.9509737+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:57:34.1179576+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:03:56.4767706+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:57:19.2505109+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:03:27.9509961+00:00"
 }

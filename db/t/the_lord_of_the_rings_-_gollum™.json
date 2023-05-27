@@ -2,10 +2,10 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -295,6 +295,11 @@
       "Time": "2023-05-27T20:06:45.8411149+00:00",
       "NumProgressed": 295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T21:05:20.9203332+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -304,9 +309,9 @@
       "ID": "Annoying",
       "SetID": "70l3651",
       "Name": "He\u0027s so Annoying",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "BreakLegs",
@@ -330,15 +335,15 @@
       "Name": "The Wraith",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Chapter2",
@@ -346,7 +351,7 @@
       "Name": "The Maggot",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Chapter3",
@@ -354,7 +359,7 @@
       "Name": "The Breeder",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Chapter4",
@@ -368,17 +373,17 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "Chapter7",
@@ -410,7 +415,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Collectibles2",
@@ -464,17 +469,17 @@
       "ID": "GollumChoices",
       "SetID": "70l3651",
       "Name": "We wants it! We needs it",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "Memories",
@@ -568,9 +573,9 @@
       "ID": "Tasty",
       "SetID": "70l3651",
       "Name": "So Tasty!",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TriggerHappy",
@@ -586,21 +591,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 298,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:06:45.8411144+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:20.9203327+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:58:14.5517073+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:06:45.8411465+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:57:45.9542715+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:20.9203613+00:00"
 }

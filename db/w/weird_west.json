@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1558,
+  "EOS_Progressed": 1559,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -690,6 +690,11 @@
       "Time": "2023-05-27T19:05:12.4485477+00:00",
       "NumProgressed": 1558,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T21:05:30.9462396+00:00",
+      "NumProgressed": 1559,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -709,7 +714,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -781,7 +786,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -845,7 +850,7 @@
       "Name": "Justice Served",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -949,7 +954,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -997,7 +1002,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1013,7 +1018,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1077,7 +1082,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1101,7 +1106,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -1124,15 +1129,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1558,
+      "Progressed": 1559,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:06:59.7220501+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:30.9462391+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:09.3843779+00:00",
-  "LastUpdate_Ratings": "2023-05-27T19:59:07.1589828+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:06:59.7220955+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:58:22.3486468+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:30.9462883+00:00"
 }

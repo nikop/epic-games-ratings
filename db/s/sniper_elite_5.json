@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1623,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1633,6 +1633,11 @@
       "Time": "2023-05-27T20:07:00.9613235+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T21:05:32.0546906+00:00",
+      "NumProgressed": 1623,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1706,9 +1711,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1724,7 +1729,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1826,9 +1831,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -1868,7 +1873,7 @@
       "Name": "Resourceful",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1892,7 +1897,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2211,13 +2216,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1572,
+      "Progressed": 1574,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1623,
       "Completed": 2
     }
   ],
@@ -2225,8 +2230,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:07:00.961323+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:05:32.0546902+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:01:46.4887125+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:07:00.9614533+00:00"
+  "LastUpdate_Ratings": "2023-05-27T21:00:10.8184699+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:05:32.0547663+00:00"
 }

@@ -34,7 +34,7 @@ Rating: 4.56 (Ranked 452)
 | All in Good Health | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |
 | What They Hide From Us | 0.80% | ~18 |
-| ...  in a finite world | 0.70% | ~15 |
+| ...  in a finite world | 0.80% | ~18 |
 | Delivery! | 0.70% | ~15 |
 | What the Ruins Teach Us | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
@@ -64,7 +64,7 @@ Rating: 4.56 (Ranked 452)
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,209 (Ranked 144)  
-Completed: 0 (0.00%) (Ranked 205)  
+Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

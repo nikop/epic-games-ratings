@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -649,9 +649,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 30050,
+  "EOS_Progressed": 30055,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4174,6 +4174,11 @@
       "Time": "2023-05-27T20:02:33.0694265+00:00",
       "NumProgressed": 30050,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T21:02:13.4779221+00:00",
+      "NumProgressed": 30055,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -4201,7 +4206,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "ach_antiquarian10",
@@ -4217,7 +4222,7 @@
       "Name": "A buoyant escape",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_constant",
@@ -4305,7 +4310,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10818
+      "UsersEstimate": 10820
     },
     {
       "ID": "ach_die10",
@@ -4321,7 +4326,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ach_dive",
@@ -4329,7 +4334,7 @@
       "Name": "Frightful, sheer, no-man-fathomed",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_dreadnaught",
@@ -4377,7 +4382,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "ach_legacypupil",
@@ -4393,7 +4398,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4207
+      "UsersEstimate": 4208
     },
     {
       "ID": "ach_legacysalvager",
@@ -4425,7 +4430,7 @@
       "Name": "The Bell Tolls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portbones",
@@ -4433,7 +4438,7 @@
       "Name": "His bones in whispers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portdeep",
@@ -4441,7 +4446,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portdragon",
@@ -4449,7 +4454,7 @@
       "Name": "The dragon in the zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portfish",
@@ -4457,7 +4462,7 @@
       "Name": "Thanks for all the fish",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portknife",
@@ -4465,7 +4470,7 @@
       "Name": "Knife, Cup and Bone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portleviathan",
@@ -4481,7 +4486,7 @@
       "Name": "Those are pearls that were his eyes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portregret",
@@ -4489,7 +4494,7 @@
       "Name": "No regrets",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portrose",
@@ -4497,7 +4502,7 @@
       "Name": "Rosewater sailor",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_portunder",
@@ -4505,7 +4510,7 @@
       "Name": "Under the zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_scion",
@@ -4513,7 +4518,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ach_stranger",
@@ -4537,7 +4542,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5409
+      "UsersEstimate": 5410
     },
     {
       "ID": "ach_terror100",
@@ -4545,7 +4550,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "ach_terror90",
@@ -4561,7 +4566,7 @@
       "Name": "A current under zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_underdepth",
@@ -4585,7 +4590,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "ach_year1",
@@ -4616,15 +4621,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 30050,
+      "Progressed": 30055,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-25T20:59:15.1081331+00:00",
-  "LastChanged_Achievements": "2023-05-27T20:02:33.0694258+00:00",
+  "LastChanged_Achievements": "2023-05-27T21:02:13.4779216+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:05.2746817+00:00",
-  "LastUpdate_Ratings": "2023-05-27T20:00:34.9133373+00:00",
-  "LastUpdate_Achievements": "2023-05-27T20:02:33.0695278+00:00"
+  "LastUpdate_Ratings": "2023-05-27T20:59:21.6755478+00:00",
+  "LastUpdate_Achievements": "2023-05-27T21:02:13.477992+00:00"
 }
