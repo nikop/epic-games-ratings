@@ -33,9 +33,9 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,412 | 4.87 | 25 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,232 | 4.69 | 214 |
 | 33 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 10,721 | 4.24 | 792 |
-| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,374 | 4.45 | 607 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,381 | 4.45 | 607 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,483 | 4.88 | 19 |
-| 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,134 | 4.61 | 360 |
+| 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,141 | 4.61 | 360 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,068 | 4.78 | 99 |
 | 38 | [Control](games/c/control.md) | 8,301 | 4.60 | 388 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 8,203 | 4.76 | 117 |
@@ -74,7 +74,7 @@
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,093 | 4.51 | 524 |
 | 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,031 | 4.77 | 106 |
 | 74 | [God of War](games/g/god_of_war.md) | 4,011 | 4.88 | 19 |
-| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,929 | 4.56 | 452 |
+| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,937 | 4.56 | 452 |
 | 76 | [Dead Island 2](games/d/dead_island_2.md) | 3,921 | 4.54 | 483 |
 | 77 | [SMITE](games/s/smite.md) | 3,810 | 4.45 | 607 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,765 | 4.69 | 214 |
@@ -99,7 +99,7 @@
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,284 | 4.78 | 99 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,239 | 4.17 | 838 |
 | 99 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,219 | 4.67 | 256 |
-| 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,165 | 4.41 | 664 |
+| 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,167 | 4.41 | 664 |
 | 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,134 | 4.37 | 708 |
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,121 | 4.63 | 328 |
 | 103 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,040 | 3.98 | 894 |

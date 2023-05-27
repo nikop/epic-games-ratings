@@ -27,8 +27,8 @@
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
-| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.11% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.41% |
+| 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 31 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
@@ -38,7 +38,7 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.57% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.51% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.49% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.31% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
@@ -57,8 +57,8 @@
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.50% |
 | 55 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 57 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.38% |
-| 58 | [JARS](games/j/jars.md) | 2.33% |
-| 59 | [Iron Danger](games/i/iron_danger.md) | 2.29% |
+| 58 | [Iron Danger](games/i/iron_danger.md) | 2.29% |
+| 59 | [JARS](games/j/jars.md) | 2.27% |
 | 60 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.17% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
@@ -74,7 +74,7 @@
 | 72 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 73 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.43% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
-| 75 | [Ten Dates](games/t/ten_dates.md) | 1.41% |
+| 75 | [Ten Dates](games/t/ten_dates.md) | 1.40% |
 | 76 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.37% |
 | 77 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.28% |
 | 78 | [Chorus](games/c/chorus.md) | 1.24% |

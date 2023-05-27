@@ -376,7 +376,7 @@
 | 360 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,499 | 91 |
 | 360 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 618 | 163 |
 | 360 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 425 | 194 |
-| 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,134 | 36 |
+| 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,141 | 36 |
 | 360 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,061 | 131 |
 | 360 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 491 |
 | 360 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 269 | 234 |
@@ -468,7 +468,7 @@
 | 452 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,776 | 108 |
 | 452 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.56 | 0 | 491 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 50 | 387 |
-| 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,929 | 75 |
+| 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,937 | 75 |
 | 470 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 491 |
 | 470 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 491 |
 | 470 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,200 | 123 |
@@ -615,7 +615,7 @@
 | 607 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 711 | 155 |
 | 607 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 491 |
 | 607 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 491 |
-| 607 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,374 | 34 |
+| 607 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,381 | 34 |
 | 607 | [Mars Horizon](games/m/mars_horizon.md) | 4.45 | 0 | 491 |
 | 607 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 449 |
 | 607 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 491 |
@@ -673,7 +673,7 @@
 | 664 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 491 |
 | 664 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 32 | 436 |
 | 664 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 355 |
-| 664 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,165 | 100 |
+| 664 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,167 | 100 |
 | 664 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.41 | 0 | 491 |
 | 664 | [Warpips](games/w/warpips.md) | 4.41 | 22 | 473 |
 | 677 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 491 |
