@@ -1080,9 +1080,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22278,
+  "EOS_Progressed": 22279,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3765,6 +3765,11 @@
       "Time": "2023-05-27T13:08:16.0861441+00:00",
       "NumProgressed": 22278,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-27T14:05:34.9756811+00:00",
+      "NumProgressed": 22279,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3776,7 +3781,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16263
+      "UsersEstimate": 16264
     },
     {
       "ID": "Animated",
@@ -3840,7 +3845,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11807
+      "UsersEstimate": 11808
     },
     {
       "ID": "Daily_Dose",
@@ -3848,7 +3853,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7797
+      "UsersEstimate": 7798
     },
     {
       "ID": "Diabolical",
@@ -3856,7 +3861,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "Discovery",
@@ -3864,7 +3869,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13812
+      "UsersEstimate": 13813
     },
     {
       "ID": "Dont_Need_These",
@@ -3888,7 +3893,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14258
+      "UsersEstimate": 14259
     },
     {
       "ID": "Escape_Artist",
@@ -3896,7 +3901,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "Fragile_Panes",
@@ -3936,7 +3941,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "Legions",
@@ -3976,7 +3981,7 @@
       "Name": "Master Collector",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "Mycophile",
@@ -3992,7 +3997,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5792
+      "UsersEstimate": 5793
     },
     {
       "ID": "Reckless",
@@ -4016,7 +4021,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "Right_Back",
@@ -4040,7 +4045,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "Side_Hustle",
@@ -4080,7 +4085,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19159
+      "UsersEstimate": 19160
     },
     {
       "ID": "Summoner",
@@ -4112,7 +4117,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 10025
+      "UsersEstimate": 10026
     },
     {
       "ID": "Terrifying",
@@ -4128,7 +4133,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "There_You_Are",
@@ -4136,7 +4141,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9802
+      "UsersEstimate": 9803
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4160,7 +4165,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10916
+      "UsersEstimate": 10917
     },
     {
       "ID": "Welcome_Crew",
@@ -4183,7 +4188,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22278,
+      "Progressed": 22279,
       "Completed": 40
     }
   ],
@@ -4191,8 +4196,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-27T02:59:48.0629694+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:08:16.0861433+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:34.9756806+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:01:21.808777+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:08:16.0861903+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:58:36.0518716+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:34.9757431+00:00"
 }

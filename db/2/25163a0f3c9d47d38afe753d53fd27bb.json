@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 335,
-  "EOS_Completed": 18,
-  "EOS_NewPlayers": 159,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 5.37,
+  "EOS_Completed": 19,
+  "EOS_NewPlayers": 158,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 5.67,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -701,6 +701,11 @@
       "Time": "2023-05-27T13:05:58.7537836+00:00",
       "NumProgressed": 335,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-27T14:03:26.7038289+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 30,
@@ -942,9 +947,9 @@
       "ID": "LEVEL_030",
       "SetID": "212bg48",
       "Name": "Celebration with Cake and Balloons",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
@@ -952,13 +957,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 335,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:05:58.7537831+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:03:26.7038279+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-27T12:59:47.6864174+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:05:58.753805+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:57:01.4140541+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:03:26.7038568+00:00"
 }

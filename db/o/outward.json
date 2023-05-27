@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2609,
+  "EOS_Progressed": 2610,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2023-05-27T13:02:50.9067834+00:00",
       "NumProgressed": 2609,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T14:00:09.0238967+00:00",
+      "NumProgressed": 2610,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1625,7 +1630,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "AceDetective_9",
@@ -1649,7 +1654,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "BloodAndJustice_50",
@@ -1889,7 +1894,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -1960,15 +1965,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2609,
+      "Progressed": 2610,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:02:50.9067831+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:00:09.0238963+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:00:21.4169403+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:02:50.9068159+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:57:34.8457986+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:00:09.0239382+00:00"
 }

@@ -864,7 +864,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3131,
+  "EOS_Progressed": 3132,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
@@ -2919,6 +2919,11 @@
       "Time": "2023-05-27T12:06:54.0568205+00:00",
       "NumProgressed": 3131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T14:05:43.1153364+00:00",
+      "NumProgressed": 3132,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2954,7 +2959,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -3026,7 +3031,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3090,7 +3095,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3186,7 +3191,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3210,7 +3215,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -3234,7 +3239,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -3249,15 +3254,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3131,
+      "Progressed": 3132,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-27T10:00:39.1243832+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:08:24.2378438+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:43.115336+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:02:24.6703509+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:08:24.2378763+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:59:40.9930798+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:43.1153813+00:00"
 }

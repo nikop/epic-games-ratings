@@ -4236,11 +4236,11 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705693,
+  "EOS_Progressed": 705710,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1803,
+  "EOS_NewPlayers": 1789,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 1.81,
+  "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:08.9707792+00:00",
@@ -7391,6 +7391,11 @@
       "Time": "2023-05-27T13:08:18.7731963+00:00",
       "NumProgressed": 705693,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T14:05:37.6253236+00:00",
+      "NumProgressed": 705710,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7450,7 +7455,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "08_Wude_H2",
@@ -7576,9 +7581,9 @@
       "ID": "23_AnySkill_Trophy",
       "SetID": "adcm20g",
       "Name": "Life is your teacher",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6351
+      "UsersEstimate": 7057
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7634,7 +7639,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "31_ComboHigh",
@@ -7801,21 +7806,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14994,
+      "Progressed": 15011,
       "Completed": 10177
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705693,
+      "Progressed": 705710,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:08:18.7731956+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:37.6253232+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:01:26.4735975+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:08:18.7732466+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:58:40.7640847+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:37.6253854+00:00"
 }

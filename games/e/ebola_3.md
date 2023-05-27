@@ -11,9 +11,9 @@
 | Mutation ✔ | 25.00% | ~45 |
 | Doberman ✔ | 14.00% | ~25 |
 | Chess ✔ | 10.00% | ~18 |
+| Master of Unlocking ✔ | 9.00% | ~16 |
 | Weapon ✔ | 9.00% | ~16 |
 | Survival ✔ | 8.00% | ~14 |
-| Master of Unlocking ✔ | 8.00% | ~14 |
 | Cheats ✔ | 7.00% | ~13 |
 | Hospital ✔ | 7.00% | ~13 |
 | King of survival ✔ | 7.00% | ~13 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 242)  
+Progressed: 181 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |

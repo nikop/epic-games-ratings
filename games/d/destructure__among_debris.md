@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 79.00% | ~83 |
+| Graduation | 79.00% | ~84 |
 | You Have Been Deaded | 70.00% | ~74 |
-| Rookie | 69.00% | ~72 |
+| Rookie | 69.00% | ~73 |
 | Apprentice Destructor | 23.00% | ~24 |
-| I Prefer Jazz Fusion | 10.00% | ~10 |
+| I Prefer Jazz Fusion | 10.00% | ~11 |
 | Avaricerite | 7.00% | ~7 |
 | Master Destructor | 7.00% | ~7 |
 | You Are Actually Supposed To Use Those | 7.00% | ~7 |
@@ -23,21 +23,21 @@
 | Single Person On Earth | 2.00% | ~2 |
 | Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
-| Ball Collector | 1.00% | ~1 |
-| Bullet Hell | 1.00% | ~1 |
-| Ice Breaker | 1.00% | ~1 |
-| Machine Man | 1.00% | ~1 |
-| Medium Rare | 1.00% | ~1 |
-| Mushroom Man | 1.00% | ~1 |
-| Nomad | 1.00% | ~1 |
-| Scrap Collector | 1.00% | ~1 |
-| Total Walrus | 1.00% | ~1 |
-| True Victory | 1.00% | ~1 |
-| Victory That Is Even More True | 1.00% | ~1 |
-| What Even Are You? | 1.00% | ~1 |
+| Ball Collector | 0.90% | ~1 |
+| Bullet Hell | 0.90% | ~1 |
+| Ice Breaker | 0.90% | ~1 |
+| Machine Man | 0.90% | ~1 |
+| Medium Rare | 0.90% | ~1 |
+| Mushroom Man | 0.90% | ~1 |
+| Nomad | 0.90% | ~1 |
+| Scrap Collector | 0.90% | ~1 |
+| Total Walrus | 0.90% | ~1 |
+| True Victory | 0.90% | ~1 |
+| Victory That Is Even More True | 0.90% | ~1 |
+| What Even Are You? | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 263)  
-Completed: 1 (0.95%) (Ranked 87)  
+Progressed: 106 (Ranked 263)  
+Completed: 1 (0.94%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 1 (0.95%) (Ranked 87)
 | 2023-05-24 | 98 | 1 |
 | 2023-05-25 | 103 | 1 |
 | 2023-05-26 | 104 | 1 |
-| 2023-05-27 | 105 | 1 |
+| 2023-05-27 | 106 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

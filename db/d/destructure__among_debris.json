@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -483,6 +483,11 @@
       "Time": "2023-05-27T06:01:49.3015575+00:00",
       "NumProgressed": 105,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T14:00:20.9869311+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -516,7 +521,7 @@
       "ID": "ball_collector",
       "SetID": "jig50d",
       "Name": "Ball Collector",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -540,7 +545,7 @@
       "ID": "bullet_hell",
       "SetID": "jig50d",
       "Name": "Bullet Hell",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -582,7 +587,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -590,13 +595,13 @@
       "Name": "I Prefer Jazz Fusion",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ice_breaker",
       "SetID": "jig50d",
       "Name": "Ice Breaker",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -612,7 +617,7 @@
       "ID": "machine_man",
       "SetID": "jig50d",
       "Name": "Machine Man",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -628,7 +633,7 @@
       "ID": "medium_rare",
       "SetID": "jig50d",
       "Name": "Medium Rare",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -644,7 +649,7 @@
       "ID": "mushroom_man",
       "SetID": "jig50d",
       "Name": "Mushroom Man",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -652,7 +657,7 @@
       "ID": "nomad",
       "SetID": "jig50d",
       "Name": "Nomad",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -662,13 +667,13 @@
       "Name": "Rookie",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "scrap_collector",
       "SetID": "jig50d",
       "Name": "Scrap Collector",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -692,7 +697,7 @@
       "ID": "total_walrus",
       "SetID": "jig50d",
       "Name": "Total Walrus",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -700,7 +705,7 @@
       "ID": "true_victory",
       "SetID": "jig50d",
       "Name": "True Victory",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -708,7 +713,7 @@
       "ID": "truest_victory",
       "SetID": "jig50d",
       "Name": "Victory That Is Even More True",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -732,7 +737,7 @@
       "ID": "what_are_you",
       "SetID": "jig50d",
       "Name": "What Even Are You?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -741,7 +746,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 1
     }
   ],
@@ -749,8 +754,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:03:02.4206828+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:00:20.9869303+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:02:13.9077779+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:03:02.4207042+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:59:30.4417541+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:00:20.9869563+00:00"
 }

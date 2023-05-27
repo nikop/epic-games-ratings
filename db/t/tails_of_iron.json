@@ -914,9 +914,9 @@
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 402
+      "UsersEstimate": 417
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1049,8 +1049,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:05:27.7426565+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:02:25.2368209+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:00:54.1111988+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:05:27.7426767+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:58:06.5217138+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:02:25.2368474+00:00"
 }

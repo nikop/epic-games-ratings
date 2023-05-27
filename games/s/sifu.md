@@ -9,6 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 4.00% | ~600 |
 | Project Arena | 3.00% | ~450 |
 | The Hateful Pole Fighter | 1.00% | ~7,057 |
+| Life is your teacher | 1.00% | ~7,057 |
 | State of constant learning | 1.00% | ~7,057 |
 | Qi Gong: Breath | 1.00% | ~7,057 |
 | Bloody Sport | 1.00% | ~150 |
@@ -17,7 +18,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.90% | ~6,351 |
 | A Lady's Blood in the Snow | 0.90% | ~6,351 |
 | Lady Wing Chun | 0.90% | ~6,351 |
-| Life is your teacher | 0.90% | ~6,351 |
 | Qi Gong: Essence | 0.90% | ~6,351 |
 | Lightning Hands | 0.90% | ~6,351 |
 | Path of the Prospect | 0.90% | ~6,351 |
@@ -34,8 +34,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.60% | ~4,234 |
 | Deadly Venom | 0.60% | ~90 |
 | A Touch of Acumen | 0.60% | ~90 |
-| Muk Yan Master | 0.50% | ~3,528 |
-| I know Kung-Fu | 0.50% | ~3,528 |
+| Muk Yan Master | 0.50% | ~3,529 |
+| I know Kung-Fu | 0.50% | ~3,529 |
 | Tiger on Fire | 0.40% | ~2,823 |
 | Source of Flying Daggers | 0.40% | ~2,823 |
 | Iron Money | 0.40% | ~2,823 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,693 (Ranked 15)  
-Completed: 12,738 (1.81%) (Ranked 65)  
+Progressed: 705,710 (Ranked 15)  
+Completed: 12,738 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 12,738 (1.81%) (Ranked 65)
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
-| 2023-05-27 | 705,693 | 12,738 |
+| 2023-05-27 | 705,710 | 12,738 |
 ## Awards
 Max (Great Boss Battles): 6,094  (Ranked 53)  
 Sum: 10,384 (Ranked 77)  

@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 106)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 7.00% | ~19,116 |
-| Grappling with a Graphorn | 6.00% | ~16,385 |
-| The One Who Mastered Memories | 6.00% | ~16,385 |
-| The Hallowed Hero | 6.00% | ~16,385 |
-| The Hero of Hogwarts | 6.00% | ~16,385 |
-| The Defender of Dragons | 6.00% | ~16,385 |
-| A Keen Sense of Spell | 6.00% | ~16,385 |
-| Coasting Along | 6.00% | ~16,385 |
-| First Class Student | 6.00% | ~16,385 |
-| Troll with the Punches | 6.00% | ~16,385 |
-| That's a Keeper | 6.00% | ~16,385 |
-| The Avenging Gazelle | 5.00% | ~13,654 |
-| Beast Friends | 5.00% | ~13,654 |
-| A Sallow Grave | 5.00% | ~13,654 |
-| Flight the Good Flight | 5.00% | ~13,654 |
-| Challenge Accepted | 5.00% | ~13,654 |
-| Loom for Improvement | 5.00% | ~13,654 |
-| A Talent for Spending | 5.00% | ~13,654 |
-| Followed the Butterflies | 5.00% | ~13,654 |
-| The Spell Master | 5.00% | ~13,654 |
-| Rising From the Ashes | 5.00% | ~13,654 |
+| The Sort Who Makes an Entrance | 7.00% | ~19,117 |
+| Grappling with a Graphorn | 6.00% | ~16,386 |
+| The One Who Mastered Memories | 6.00% | ~16,386 |
+| The Hallowed Hero | 6.00% | ~16,386 |
+| The Hero of Hogwarts | 6.00% | ~16,386 |
+| The Defender of Dragons | 6.00% | ~16,386 |
+| A Keen Sense of Spell | 6.00% | ~16,386 |
+| Coasting Along | 6.00% | ~16,386 |
+| First Class Student | 6.00% | ~16,386 |
+| Troll with the Punches | 6.00% | ~16,386 |
+| That's a Keeper | 6.00% | ~16,386 |
+| The Avenging Gazelle | 5.00% | ~13,655 |
+| Beast Friends | 5.00% | ~13,655 |
+| A Sallow Grave | 5.00% | ~13,655 |
+| Flight the Good Flight | 5.00% | ~13,655 |
+| Challenge Accepted | 5.00% | ~13,655 |
+| Loom for Improvement | 5.00% | ~13,655 |
+| A Talent for Spending | 5.00% | ~13,655 |
+| Followed the Butterflies | 5.00% | ~13,655 |
+| The Spell Master | 5.00% | ~13,655 |
+| Rising From the Ashes | 5.00% | ~13,655 |
 | The Seeker of Knowledge | 4.00% | ~10,924 |
 | The Root of the Problem | 3.00% | ~8,193 |
 | Third Time's a Charm | 3.00% | ~8,193 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 106)
 | Demiguise Dread | 0.80% | ~2,185 |
 | A Forte for Achievement | 0.80% | ~2,185 |
 | Merlin's Beard! | 0.60% | ~1,639 |
-| Spilled Milk | 0.50% | ~1,365 |
+| Spilled Milk | 0.50% | ~1,366 |
 | The Nature of the Beast | 0.40% | ~1,092 |
 | Collector's Edition | 0.20% | ~546 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273,089 (Ranked 38)  
+Progressed: 273,106 (Ranked 38)  
 Completed: 375 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,21 +88,21 @@ Completed: 375 (0.14%) (Ranked 151)
 | 2023-05-24 | 271,975 | 372 |
 | 2023-05-25 | 272,380 | 374 |
 | 2023-05-26 | 272,827 | 374 |
-| 2023-05-27 | 273,089 | 375 |
+| 2023-05-27 | 273,106 | 375 |
 ## Awards
 Max (Character Customization): 19,190  (Ranked 18)  
-Sum: 35,376 (Ranked 33)  
+Sum: 35,401 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 19,190 |
-| This game has Great Boss Battles | 9,045 |
+| This game has Great Boss Battles | 9,068 |
 | This game is Extremely Fun | 786 |
 | This game is Great for Beginners | 785 |
 | This game is Relaxing | 784 |
 | This game has Amazing Storytelling | 763 |
 | This game has Diverse Characters | 759 |
-| This game has Amazing Characters | 745 |
+| This game has Amazing Characters | 747 |
 | This game is Highly Recommended | 723 |
 | This game has Quickly Understood Controls | 677 |
 | This game has Beautiful Visuals | 632 |
@@ -174,4 +174,4 @@ Diff (max vs sum): -15
 | 2023-05-24 | 4.77 | 19,098 | 35,198 |
 | 2023-05-25 | 4.77 | 19,145 | 35,287 |
 | 2023-05-26 | 4.77 | 19,190 | 35,361 |
-| 2023-05-27 | 4.77 | 19,190 | 35,376 |
+| 2023-05-27 | 4.77 | 19,190 | 35,401 |

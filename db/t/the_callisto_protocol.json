@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -440,9 +440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13791,
+  "EOS_Progressed": 13792,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 835,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1755,6 +1755,11 @@
       "Time": "2023-05-27T13:06:14.7764839+00:00",
       "NumProgressed": 13791,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T14:03:32.9600116+00:00",
+      "NumProgressed": 13792,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1932,9 +1937,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 552
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2085,13 +2090,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13791,
+      "Progressed": 13792,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1717,
+      "Progressed": 1718,
       "Completed": 29
     }
   ],
@@ -2099,8 +2104,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-26T23:58:11.1391789+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:06:14.7764834+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:03:32.9600108+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:00:29.3621081+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:06:14.7765298+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:57:42.0907736+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:03:32.9600518+00:00"
 }

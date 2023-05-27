@@ -21,7 +21,7 @@ Number of Ratings: 209  (23.09.2022)
 | Force Beam | 92.00% | ~1,875 |
 | Magnet | 90.00% | ~1,834 |
 | Industrial Area | 89.00% | ~1,814 |
-| Magnet Repel | 87.00% | ~1,773 |
+| Magnet Repel | 88.00% | ~1,793 |
 | You feel middle classy | 86.00% | ~1,753 |
 | Boomeraxe | 86.00% | ~1,753 |
 | Iron Pickaxe | 86.00% | ~1,753 |
@@ -43,7 +43,7 @@ Number of Ratings: 209  (23.09.2022)
 | Trickle Down Economy | 75.00% | ~1,528 |
 | Win | 75.00% | ~1,528 |
 | Greenhouse | 71.00% | ~1,447 |
-| Played with fire | 69.00% | ~1,406 |
+| Played with fire | 70.00% | ~1,427 |
 | You feel very sorry | 69.00% | ~1,406 |
 | No Match for you | 65.00% | ~1,325 |
 | Bouncy | 61.00% | ~1,243 |

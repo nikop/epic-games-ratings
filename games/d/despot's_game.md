@@ -9,7 +9,7 @@ Rating: 4.50 (Ranked 539)
 | Vanquisher of Robots | 73.00% | ~274 |
 | Party | 45.00% | ~169 |
 | Knowledge is Power | 44.00% | ~165 |
-| Impossible Cube | 42.00% | ~158 |
+| Impossible Cube | 43.00% | ~162 |
 | No Mercy | 41.00% | ~154 |
 | The Return of a Rat | 40.00% | ~150 |
 | Through the Darkness | 40.00% | ~150 |
@@ -21,7 +21,7 @@ Rating: 4.50 (Ranked 539)
 | Rookie | 25.00% | ~94 |
 | Campaigning | 24.00% | ~90 |
 | He's Seen It All | 24.00% | ~90 |
-| Frugal | 20.00% | ~75 |
+| Frugal | 21.00% | ~79 |
 | Feed a God | 20.00% | ~75 |
 | To the Moon and Back | 20.00% | ~75 |
 | Great Flight | 17.00% | ~64 |

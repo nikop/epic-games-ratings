@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1553,
+  "EOS_Progressed": 1554,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-05-27T13:08:02.6071946+00:00",
       "NumProgressed": 1553,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T14:05:21.197287+00:00",
+      "NumProgressed": 1554,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -686,7 +691,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -750,7 +755,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -806,7 +811,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -934,7 +939,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -980,9 +985,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1103
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1062,7 +1067,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1094,7 +1099,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -1109,15 +1114,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1553,
+      "Progressed": 1554,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:08:02.6071941+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:21.1972866+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:09.3843779+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:00:58.3754183+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:08:02.6072314+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:58:11.1244987+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:21.1973345+00:00"
 }

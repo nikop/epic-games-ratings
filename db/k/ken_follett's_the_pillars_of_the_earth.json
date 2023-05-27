@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12739,
+  "EOS_Progressed": 12741,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2754,6 +2754,11 @@
       "Time": "2023-05-27T13:07:54.8356258+00:00",
       "NumProgressed": 12739,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-27T14:05:13.250336+00:00",
+      "NumProgressed": 12741,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2765,7 +2770,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "tpote_achievement_10",
@@ -2805,7 +2810,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "tpote_achievement_15",
@@ -2821,7 +2826,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "tpote_achievement_17",
@@ -2837,7 +2842,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "tpote_achievement_19",
@@ -2845,7 +2850,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "tpote_achievement_2",
@@ -2869,7 +2874,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3949
+      "UsersEstimate": 3950
     },
     {
       "ID": "tpote_achievement_22",
@@ -2893,7 +2898,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "tpote_achievement_25",
@@ -2909,7 +2914,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "tpote_achievement_27",
@@ -2917,7 +2922,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "tpote_achievement_28",
@@ -2941,7 +2946,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "tpote_achievement_30",
@@ -3029,7 +3034,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5350
+      "UsersEstimate": 5351
     },
     {
       "ID": "tpote_achievement_40",
@@ -3085,22 +3090,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12739,
+      "Progressed": 12741,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:07:54.835625+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:13.2503356+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:02:14.3981754+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:07:54.8356614+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:59:30.9361538+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:13.2503808+00:00"
 }

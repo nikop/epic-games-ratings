@@ -188,9 +188,9 @@
       "ID": "ACH_ASSIGN_RUIN_2",
       "SetID": "ajki3eh",
       "Name": "Loyal",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_1",
@@ -348,9 +348,9 @@
       "ID": "ACH_UNLOCK_CHAPTER_3",
       "SetID": "ajki3eh",
       "Name": "A Forked Tongue",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_UNLOCK_LUNA_ENDING",
@@ -420,8 +420,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:07:56.1743642+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:14.4928038+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.1888334+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:00:41.4534532+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:07:56.1743838+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:57:53.8045804+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:14.4928257+00:00"
 }

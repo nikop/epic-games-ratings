@@ -2,7 +2,7 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 86,
@@ -1070,9 +1070,9 @@
       "ID": "achSeif",
       "SetID": "72gjli4",
       "Name": "Master of Unlocking \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "achShahmat",
@@ -1151,8 +1151,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:08:25.4080593+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:44.8220723+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.5505459+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:02:29.8435653+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:08:25.4080952+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:59:45.7523472+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:44.8221217+00:00"
 }

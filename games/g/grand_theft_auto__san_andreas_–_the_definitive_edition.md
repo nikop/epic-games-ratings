@@ -5,21 +5,21 @@ Rating: 4.62 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,846 |
-| Pay 'n' Spray | 48.00% | ~4,107 |
-| All Dressed Up for San Fierro | 22.00% | ~1,883 |
-| The American Dream | 17.00% | ~1,455 |
-| School's Out | 15.00% | ~1,284 |
-| Smooth Moves | 15.00% | ~1,284 |
-| Today Was a Good Day | 13.00% | ~1,112 |
-| What happens in Las Venturas... | 12.00% | ~1,027 |
-| Horror of the Santa Maria | 9.00% | ~770 |
-| Liberty City State of Mind | 7.00% | ~599 |
-| With Extra Dip | 6.00% | ~513 |
-| The End of the Line | 6.00% | ~513 |
-| Original Gangster | 6.00% | ~513 |
+| Getting Started | 80.00% | ~6,852 |
+| Pay 'n' Spray | 48.00% | ~4,111 |
+| All Dressed Up for San Fierro | 22.00% | ~1,884 |
+| The American Dream | 17.00% | ~1,456 |
+| School's Out | 15.00% | ~1,285 |
+| Smooth Moves | 15.00% | ~1,285 |
+| Today Was a Good Day | 13.00% | ~1,113 |
+| What happens in Las Venturas... | 12.00% | ~1,028 |
+| Horror of the Santa Maria | 9.00% | ~771 |
+| Liberty City State of Mind | 7.00% | ~600 |
+| With Extra Dip | 6.00% | ~514 |
+| The End of the Line | 6.00% | ~514 |
+| Original Gangster | 6.00% | ~514 |
 | Saviour | 5.00% | ~428 |
-| Rescue a Kitten Too? | 4.00% | ~342 |
+| Rescue a Kitten Too? | 4.00% | ~343 |
 | They Can’t Stop All of Us | 3.00% | ~257 |
 | What are the Odds | 3.00% | ~257 |
 | I’ll Have Two Number 9s | 2.00% | ~171 |
@@ -34,14 +34,14 @@ Rating: 4.62 (Ranked 343)
 | Assassin | 1.00% | ~86 |
 | Ain’t Nothing But a G Thing | 1.00% | ~86 |
 | Chick Magnet | 0.90% | ~77 |
-| Lucky Spinner | 0.80% | ~68 |
+| Lucky Spinner | 0.80% | ~69 |
 | Hoopin' it Up | 0.70% | ~60 |
 | Not a Player | 0.60% | ~51 |
 | Remastered | 0.50% | ~43 |
 | ...Here we go again | 0.30% | ~26 |
 | I Ain't No Buster | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,557 (Ranked 111)  
+Progressed: 8,565 (Ranked 111)  
 Completed: 17 (0.20%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 17 (0.20%) (Ranked 141)
 | 2023-05-24 | 8,309 | 17 |
 | 2023-05-25 | 8,387 | 17 |
 | 2023-05-26 | 8,490 | 17 |
-| 2023-05-27 | 8,557 | 17 |
+| 2023-05-27 | 8,565 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

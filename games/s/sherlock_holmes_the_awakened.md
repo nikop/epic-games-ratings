@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 65.00% | ~170 |
-| Read Between The Lines | 64.00% | ~168 |
-| High Profile | 58.00% | ~152 |
-| Whispers In The Dark | 55.00% | ~144 |
+| To Hell In A Handcart | 65.00% | ~171 |
+| Read Between The Lines | 63.00% | ~166 |
+| High Profile | 58.00% | ~153 |
+| Whispers In The Dark | 55.00% | ~145 |
 | Fond Memories | 48.00% | ~126 |
-| A Method To His Madness | 47.00% | ~123 |
 | History Check | 46.00% | ~121 |
+| A Method To His Madness | 46.00% | ~121 |
 | The New World | 43.00% | ~113 |
 | Lock, Stock, And Barrel | 42.00% | ~110 |
 | Gaze Into The Abyss | 42.00% | ~110 |
-| Open Sesame | 41.00% | ~107 |
+| Open Sesame | 41.00% | ~108 |
+| Sticky Fingers | 41.00% | ~108 |
 | Back In The Saddle | 40.00% | ~105 |
-| Sticky Fingers | 40.00% | ~105 |
 | Knives Out | 40.00% | ~105 |
-| Land, Ho! | 39.00% | ~102 |
+| Land, Ho! | 39.00% | ~103 |
 | No Man Is An Island | 37.00% | ~97 |
-| At Wits' End | 35.00% | ~92 |
-| Going Once... | 33.00% | ~86 |
-| Fhtagn! | 33.00% | ~86 |
+| At Wits' End | 36.00% | ~95 |
+| Going Once... | 34.00% | ~89 |
+| Fhtagn! | 33.00% | ~87 |
 | Bookworm | 32.00% | ~84 |
 | Up In Flames | 32.00% | ~84 |
 | Let Me Be Frank | 30.00% | ~79 |
@@ -33,8 +33,8 @@
 | Read It And Weep | 16.00% | ~42 |
 | Reawakened | 7.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 226)  
-Completed: 12 (4.58%) (Ranked 32)  
+Progressed: 263 (Ranked 226)  
+Completed: 12 (4.56%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,7 +67,7 @@ Completed: 12 (4.58%) (Ranked 32)
 | 2023-05-24 | 225 | 12 |
 | 2023-05-25 | 235 | 12 |
 | 2023-05-26 | 257 | 12 |
-| 2023-05-27 | 262 | 12 |
+| 2023-05-27 | 263 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

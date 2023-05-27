@@ -6,20 +6,20 @@ Rating: 4.24 (Ranked 792)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,302 |
-| Don't I Know You...? | 77.00% | ~1,253 |
+| Don't I Know You...? | 77.00% | ~1,254 |
 | Jailbreak | 65.00% | ~1,058 |
-| Suited and Booted | 38.00% | ~618 |
+| Suited and Booted | 38.00% | ~619 |
 | HEADSHOT! | 37.00% | ~602 |
-| Sleeping With The Fishes | 35.00% | ~569 |
+| Sleeping With The Fishes | 35.00% | ~570 |
 | Overheated | 30.00% | ~488 |
 | High Performance | 30.00% | ~488 |
 | Powered Up | 28.00% | ~456 |
-| Studied The Blade | 24.00% | ~390 |
+| Studied The Blade | 24.00% | ~391 |
 | Home Invasion | 22.00% | ~358 |
 | Luminary | 22.00% | ~358 |
 | It's a Trap | 22.00% | ~358 |
 | True Survivor | 21.00% | ~342 |
-| Shocking | 20.00% | ~325 |
+| Shocking | 20.00% | ~326 |
 | Court Martial | 19.00% | ~309 |
 | Offensive Defense | 19.00% | ~309 |
 | Unforeseeable Consequences | 19.00% | ~309 |
@@ -36,7 +36,7 @@ Rating: 4.24 (Ranked 792)
 | Sorry, Didn't See You There | 12.00% | ~195 |
 | Corrupted Beauty | 11.00% | ~179 |
 | Triplets | 10.00% | ~163 |
-| Stimulating The Local Economy | 9.00% | ~146 |
+| Stimulating The Local Economy | 9.00% | ~147 |
 | A Little Banged Up | 8.00% | ~130 |
 | Denying Prophecy | 8.00% | ~130 |
 | Defense in Depth | 8.00% | ~130 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 792)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,627 (Ranked 153)  
+Progressed: 1,628 (Ranked 153)  
 Completed: 10 (0.61%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 10 (0.61%) (Ranked 104)
 | 2023-05-24 | 1,611 | 10 |
 | 2023-05-25 | 1,616 | 10 |
 | 2023-05-26 | 1,621 | 10 |
-| 2023-05-27 | 1,627 | 10 |
+| 2023-05-27 | 1,628 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

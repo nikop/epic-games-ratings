@@ -183,7 +183,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -493,6 +493,11 @@
       "Time": "2023-05-27T13:07:58.9854507+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T14:05:17.4126358+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -560,7 +565,7 @@
       "Name": "Death of the Author",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ESCALATION_OF_CONFLICT",
@@ -750,16 +755,16 @@
       "ID": "WELCOME_TO_TRUDOGRAD",
       "SetID": "62d2oh4",
       "Name": "Fresh Prince of Trudograd",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 920
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1057,
       "Completed": 0
     }
   ],
@@ -767,8 +772,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:07:58.9854503+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:17.4126354+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.6742976+00:00",
-  "LastUpdate_Ratings": "2023-05-27T12:59:58.6720252+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:07:58.9854691+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:57:13.0707462+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:17.4126603+00:00"
 }

@@ -17,15 +17,15 @@ Number of Ratings: 25  (23.09.2022)
 | I... I did it? | 80.00% | ~447 |
 | Adored | 76.00% | ~425 |
 | The Hobbyist | 65.00% | ~363 |
-| A Forked Tongue | 54.00% | ~302 |
+| A Forked Tongue | 55.00% | ~307 |
 | Between Two Fires | 51.00% | ~285 |
 | The Admirer | 51.00% | ~285 |
 | Precious | 44.00% | ~246 |
 | Devoted | 41.00% | ~229 |
 | The Farmer | 39.00% | ~218 |
 | Ever After | 35.00% | ~196 |
+| Loyal | 28.00% | ~157 |
 | Mandatory Sacrifice | 28.00% | ~157 |
-| Loyal | 27.00% | ~151 |
 | The Collector | 24.00% | ~134 |
 | All Doors Open | 20.00% | ~112 |
 | Faithful | 10.00% | ~56 |

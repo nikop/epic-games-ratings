@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33271,
+  "EOS_Progressed": 33272,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3402,6 +3402,11 @@
       "Time": "2023-05-27T13:02:55.9526353+00:00",
       "NumProgressed": 33271,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-05-27T14:00:14.1795768+00:00",
+      "NumProgressed": 33272,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 44,
@@ -3413,7 +3418,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18964
+      "UsersEstimate": 18965
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3421,7 +3426,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -3573,7 +3578,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -3597,7 +3602,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -3605,7 +3610,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12310
+      "UsersEstimate": 12311
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3685,7 +3690,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22624
+      "UsersEstimate": 22625
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3749,22 +3754,22 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30609
+      "UsersEstimate": 30610
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "db84117",
       "Name": "Revenant",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 16968
+      "UsersEstimate": 17301
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33271,
+      "Progressed": 33272,
       "Completed": 159
     }
   ],
@@ -3772,8 +3777,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:02:55.9526347+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:00:14.1795762+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.3708529+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:00:55.062663+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:02:55.9526842+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:58:07.5683606+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:00:14.1796391+00:00"
 }

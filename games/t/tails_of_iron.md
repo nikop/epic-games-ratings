@@ -24,7 +24,7 @@ Rating: 4.50 (Ranked 539)
 | Throne Room Fit For A King | 35.00% | ~521 |
 | Meet the Creatures from the Deep | 33.00% | ~491 |
 | Return Power To The Depths | 33.00% | ~491 |
-| Defeat Ratnor Rodentson | 27.00% | ~402 |
+| Defeat Ratnor Rodentson | 28.00% | ~417 |
 | Return the Statues | 24.00% | ~357 |
 | Defeat Rattus Augustail | 24.00% | ~357 |
 | Complete the Chefs Book | 22.00% | ~328 |

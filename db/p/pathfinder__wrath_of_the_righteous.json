@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2546,9 +2546,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9240,
+  "EOS_Progressed": 9243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4661,6 +4661,11 @@
       "Time": "2023-05-27T13:08:27.385532+00:00",
       "NumProgressed": 9240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T14:05:46.8064689+00:00",
+      "NumProgressed": 9243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4670,9 +4675,9 @@
       "ID": "01_DevouredByDarkness",
       "SetID": "989of5o",
       "Name": "Devoured by Darkness",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1386
     },
     {
       "ID": "02_BurningCity",
@@ -5599,21 +5604,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8022,
+      "Progressed": 8025,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9240,
+      "Progressed": 9243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-27T07:58:21.1103803+00:00",
-  "LastChanged_Achievements": "2023-05-27T13:08:27.3855315+00:00",
+  "LastChanged_Achievements": "2023-05-27T14:05:46.8064683+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-27T13:00:51.6281705+00:00",
-  "LastUpdate_Achievements": "2023-05-27T13:08:27.3856726+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:58:04.1597791+00:00",
+  "LastUpdate_Achievements": "2023-05-27T14:05:46.8066412+00:00"
 }
