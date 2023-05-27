@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3970,9 +3970,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88824,
+  "EOS_Progressed": 88833,
   "EOS_Completed": 1883,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7580,6 +7580,11 @@
       "Time": "2023-05-27T09:07:23.8850882+00:00",
       "NumProgressed": 88824,
       "NumCompleted": 1883
+    },
+    {
+      "Time": "2023-05-27T10:06:37.7539506+00:00",
+      "NumProgressed": 88833,
+      "NumCompleted": 1883
     }
   ],
   "TotalAchievements": 493,
@@ -8149,9 +8154,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_1142",
@@ -8389,9 +8394,9 @@
       "ID": "objective_completed_1185",
       "SetID": "415jc5c",
       "Name": "Frail Doesn\u0027t Mean Broken",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_completed_1188",
@@ -8925,9 +8930,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_208",
@@ -10749,9 +10754,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_72",
@@ -11534,21 +11539,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55098,
-      "Completed": 2716
+      "Progressed": 55107,
+      "Completed": 2719
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88824,
+      "Progressed": 88833,
       "Completed": 1883
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-27T04:58:43.8315057+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:07:23.8850877+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:37.75395+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:58:26.1925736+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:07:23.8872694+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:57:59.5804236+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:37.7563078+00:00"
 }

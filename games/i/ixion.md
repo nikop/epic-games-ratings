@@ -38,11 +38,11 @@ Rating: 4.56 (Ranked 452)
 | Delivery! | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | Pedal to the Metal | 0.60% | ~13 |
+| What the Ruins Teach Us | 0.60% | ~13 |
 | Sustainable Energy | 0.50% | ~11 |
 | Praise the Hull! | 0.50% | ~11 |
 | You Had One Job... | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
-| What the Ruins Teach Us | 0.50% | ~11 |
 | Mutual Loyalty | 0.40% | ~9 |
 | Help of the Forgotten Member | 0.40% | ~9 |
 | Catastrophe Avoided | 0.30% | ~7 |

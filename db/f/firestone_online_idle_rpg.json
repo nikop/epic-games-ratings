@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 908,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
@@ -92,7 +92,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -2222,6 +2222,11 @@
       "Time": "2023-05-27T09:07:00.862056+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T10:06:18.3269291+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2241,7 +2246,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "angelpower",
@@ -2265,7 +2270,7 @@
       "Name": "Background Story",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "beastwarmachines",
@@ -2417,7 +2422,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "fourleafclover",
@@ -2505,7 +2510,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "jewelenchanting",
@@ -2545,7 +2550,7 @@
       "Name": "Master Enchanter",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "mastery",
@@ -2569,7 +2574,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "missionsdedication",
@@ -2625,7 +2630,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "prestigiousx10",
@@ -2633,7 +2638,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "relicofthepast",
@@ -2657,7 +2662,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "scrollmaster",
@@ -2689,7 +2694,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "thealchemist",
@@ -2713,7 +2718,7 @@
       "Name": "The father of Dragons",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "thegameison",
@@ -2793,7 +2798,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "warmachinesarmy",
@@ -2809,7 +2814,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "whatliesbehindthebush",
@@ -2825,14 +2830,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 1
     }
   ],
@@ -2840,8 +2845,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:07:00.8620554+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:18.3269288+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:58:22.3918228+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:07:00.8621266+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:57:57.0205215+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:18.3270162+00:00"
 }

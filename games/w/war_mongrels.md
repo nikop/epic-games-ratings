@@ -38,8 +38,8 @@ Number of Ratings: 34  (23.09.2022)
 | Helping Hand | 12.00% | ~34 |
 | Collectibles of Chapter V | 8.00% | ~23 |
 | Such is War! | 8.00% | ~23 |
+| Tiptoe Around | 8.00% | ~23 |
 | Collectibles of Chapter VII | 7.00% | ~20 |
-| Tiptoe Around | 7.00% | ~20 |
 | Collectibles of Chapter XII | 6.00% | ~17 |
 | Piece of Cake | 6.00% | ~17 |
 | Collectibles of Chapter VIII | 5.00% | ~14 |

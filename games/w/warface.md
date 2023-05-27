@@ -1,7 +1,7 @@
 # Warface
 [Store](https://store.epicgames.com/en-US/p/warface)  
 [View Rawdata](../../db/w/warface.json)  
-Rating: 3.91 (Ranked 906)  
+Rating: 3.91 (Ranked 907)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
 Max (Relaxing): 391  (Ranked 204)  

@@ -4,7 +4,7 @@
   "ProductSlug": "terracotta-72cc62",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-14T17:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.0707384+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:57:53.3278702+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:03:40.6592218+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:57:35.953155+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:03:18.259081+00:00"
 }

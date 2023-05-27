@@ -56,9 +56,9 @@ Number of Ratings: 836  (23.09.2022)
 | Doomsday is canceled | 2.00% | ~116 |
 | Biggest Catastrofan | 2.00% | ~116 |
 | The Friendliest | 1.00% | ~58 |
+| Legendary Adventurer | 1.00% | ~58 |
 | A Closer Look | 1.00% | ~58 |
 | True Survivor | 1.00% | ~58 |
-| Legendary Adventurer | 0.90% | ~52 |
 | Feng Shui | 0.90% | ~52 |
 | Slimy yet Satisfying | 0.80% | ~46 |
 | Fun and Games | 0.20% | ~12 |

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -231,6 +231,11 @@
       "Time": "2023-05-27T06:06:35.5927651+00:00",
       "NumProgressed": 323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T10:06:26.9690782+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -272,9 +277,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 75
     },
     {
       "ID": "BugHunter",
@@ -561,7 +566,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 0
     }
   ],
@@ -569,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:07:11.3550745+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:26.9690777+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.4676985+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:00:41.5267421+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:07:11.3551046+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:59:59.737121+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:26.9691097+00:00"
 }

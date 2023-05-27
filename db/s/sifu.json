@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4236,9 +4236,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705625,
+  "EOS_Progressed": 705638,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1840,
+  "EOS_NewPlayers": 1829,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7371,6 +7371,11 @@
       "Time": "2023-05-27T09:07:10.0345932+00:00",
       "NumProgressed": 705625,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T10:06:25.915782+00:00",
+      "NumProgressed": 705638,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7438,7 +7443,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "09_Wude_H3",
@@ -7446,7 +7451,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "10_Wude_H4",
@@ -7454,7 +7459,7 @@
       "Name": "Iron Money",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "11_Wude_H5",
@@ -7462,7 +7467,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "12_MidAge",
@@ -7494,7 +7499,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "16_Detective_H2",
@@ -7726,7 +7731,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7781,21 +7786,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14926,
+      "Progressed": 14939,
       "Completed": 10177
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705625,
+      "Progressed": 705638,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:07:10.0345927+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:25.9157816+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:59:51.6381796+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:07:10.0346459+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:59:09.2086654+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:25.9158437+00:00"
 }

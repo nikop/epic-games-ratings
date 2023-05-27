@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62302,
+  "EOS_Progressed": 62312,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3956,6 +3956,11 @@
       "Time": "2023-05-27T09:07:18.3983828+00:00",
       "NumProgressed": 62302,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T10:06:32.9371961+00:00",
+      "NumProgressed": 62312,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4445,22 +4450,22 @@
       "ID": "TIME_TRIALS_1",
       "SetID": "4eo5ebm",
       "Name": "Bat Out of Hell",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62302,
+      "Progressed": 62312,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32582,
+      "Progressed": 32592,
       "Completed": 2642
     }
   ],
@@ -4468,8 +4473,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:07:18.3983824+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:32.9371957+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:00:58.9011494+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:07:18.3984399+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:00:12.5582289+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:32.9372709+00:00"
 }

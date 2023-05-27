@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 908,
+  "EOS_Progressed": 909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-05-27T03:07:25.7116147+00:00",
       "NumProgressed": 908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T10:06:20.6068982+00:00",
+      "NumProgressed": 909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -469,7 +474,7 @@
       "Name": "Way of the King",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "02",
@@ -501,7 +506,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "06",
@@ -509,7 +514,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "07",
@@ -517,7 +522,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "08",
@@ -525,7 +530,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "09",
@@ -597,7 +602,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "18",
@@ -645,14 +650,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 908,
+      "Progressed": 909,
       "Completed": 0
     }
   ],
@@ -660,8 +665,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:07:03.6635012+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:20.6068978+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:00:55.9051006+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:07:03.663514+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:00:09.9126578+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:20.6069162+00:00"
 }

@@ -18,11 +18,11 @@ Rating: 4.19 (Ranked 825)
 | Reforged | 3.00% | ~413 |
 | If the SHU Fits... | 3.00% | ~413 |
 | Bear Trap | 3.00% | ~51 |
-| Get a Grip | 2.00% | ~275 |
-| Terminated | 2.00% | ~275 |
-| The Commonality | 2.00% | ~275 |
-| Mugshot | 2.00% | ~275 |
-| Without A Paddle | 2.00% | ~275 |
+| Get a Grip | 2.00% | ~276 |
+| Terminated | 2.00% | ~276 |
+| The Commonality | 2.00% | ~276 |
+| Mugshot | 2.00% | ~276 |
+| Without A Paddle | 2.00% | ~276 |
 | Big Spender | 2.00% | ~34 |
 | You Need a Gun | 1.00% | ~138 |
 | Parole Denied | 1.00% | ~17 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,771 (Ranked 102)  
+Progressed: 13,777 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
-| 2023-05-27 | 13,771 | 53 |
+| 2023-05-27 | 13,777 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 268 (Ranked 335)  

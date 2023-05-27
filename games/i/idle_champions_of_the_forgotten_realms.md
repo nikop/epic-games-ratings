@@ -25,9 +25,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~266 |
 | Maddening | 0.20% | ~178 |
 | Tall Tales | 0.20% | ~110 |
+| Supply Run | 0.20% | ~178 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
 | Keep Your Distance | 0.20% | ~110 |
+| Frail Doesn't Mean Broken | 0.20% | ~110 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~110 |
 | Pin and Skewer | 0.20% | ~110 |
 | Vecna Out! | 0.20% | ~110 |
@@ -39,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~178 |
 | Building Trust | 0.20% | ~178 |
 | Unearthed Evil | 0.20% | ~178 |
+| No Time To Rest | 0.20% | ~178 |
 | The Dinner Party | 0.20% | ~178 |
 | The Crumbling Temple | 0.20% | ~178 |
 | The Death Curse | 0.20% | ~178 |
@@ -49,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~178 |
 | An Even Worse Time in Avernus | 0.20% | ~110 |
 | Escort to Waterdeep | 0.20% | ~178 |
+| Constant Banditry | 0.20% | ~178 |
 | Waterdeep Detours | 0.20% | ~178 |
 | Underdeep Cartography | 0.20% | ~178 |
 | Overdue Rendezvous | 0.20% | ~178 |
@@ -120,7 +124,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.10% | ~55 |
 | The Loots of Loomlurch | 0.10% | ~55 |
 | The Lutes of Loomlurch | 0.10% | ~55 |
-| Supply Run | 0.10% | ~89 |
 | Best Laid Plans | 0.10% | ~55 |
 | Pincushion Party | 0.10% | ~55 |
 | G. O. A. T. | 0.10% | ~55 |
@@ -147,7 +150,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.10% | ~55 |
 | The Dread Domain of Tovag | 0.10% | ~55 |
 | Weak Doesn't Mean Feeble | 0.10% | ~55 |
-| Frail Doesn't Mean Broken | 0.10% | ~55 |
 | The Castle of a Thousand Vecnas | 0.10% | ~55 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~55 |
 | The Sanctum of the Sword | 0.10% | ~55 |
@@ -200,7 +202,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~89 |
 | Azaka's Procession - Part 2 | 0.10% | ~89 |
 | Acererak's Puzzle | 0.10% | ~55 |
-| No Time To Rest | 0.10% | ~89 |
 | The Mists of Ravenloft | 0.10% | ~89 |
 | The Hunt for Owl-y | 0.10% | ~89 |
 | Invisible Shadows | 0.10% | ~89 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~55 |
 | Only Human | 0.10% | ~55 |
 | Close Escort | 0.10% | ~89 |
-| Constant Banditry | 0.10% | ~89 |
 | The Long Haul | 0.10% | ~89 |
 | Lost in the Deep | 0.10% | ~89 |
 | Easily Distracted | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,824 (Ranked 61)  
+Progressed: 88,833 (Ranked 61)  
 Completed: 1,883 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 1,883 (2.12%) (Ranked 62)
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
-| 2023-05-27 | 88,824 | 1,883 |
+| 2023-05-27 | 88,833 | 1,883 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
 Sum: 29,988 (Ranked 37)  

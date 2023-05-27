@@ -22,8 +22,8 @@
 | The beach is right there | 19.00% | ~34 |
 | Commuting | 19.00% | ~34 |
 | Le jardin magnifique | 17.00% | ~30 |
-| Aiming for a living and human city | 16.00% | ~29 |
-| City of dreams | 16.00% | ~29 |
+| Aiming for a living and human city | 17.00% | ~30 |
+| City of dreams | 17.00% | ~30 |
 | Happy Christmas night! | 16.00% | ~29 |
 | Night walk along the beach | 16.00% | ~29 |
 ## Popularity (Based on EOS Achievements)

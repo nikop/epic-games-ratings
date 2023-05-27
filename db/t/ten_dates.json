@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -168,6 +168,11 @@
       "Time": "2023-05-27T09:06:37.1986082+00:00",
       "NumProgressed": 214,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T10:05:39.7027483+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -187,7 +192,7 @@
       "Name": "Picky, Picky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "misha_date2_all",
@@ -219,7 +224,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ryan_date2_all",
@@ -267,7 +272,7 @@
       "Name": "The debonair",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "success_hazel",
@@ -330,7 +335,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 3
     }
   ],
@@ -338,8 +343,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:06:37.1986078+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:05:39.702748+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.8430665+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:57:26.0154524+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:06:37.1986188+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:57:14.7029377+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:05:39.7027607+00:00"
 }

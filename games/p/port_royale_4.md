@@ -1,31 +1,31 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.02 (Ranked 887)  
+Rating: 4.02 (Ranked 888)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~459 |
-| My little farm | 66.00% | ~379 |
+| Cabin boy | 80.00% | ~460 |
+| My little farm | 65.00% | ~374 |
 | Every beginning is difficult | 62.00% | ~356 |
 | 3, 2, 1, mine | 55.00% | ~316 |
 | Gofer | 55.00% | ~316 |
 | Seafarer | 54.00% | ~310 |
-| O Captain! My Captain! | 53.00% | ~304 |
-| Greed for gold | 42.00% | ~241 |
-| Intangible | 41.00% | ~235 |
+| O Captain! My Captain! | 53.00% | ~305 |
+| Greed for gold | 42.00% | ~242 |
+| Intangible | 41.00% | ~236 |
 | I'm out of here for a while | 40.00% | ~230 |
 | In a mint condition | 36.00% | ~207 |
 | Licence to Kill | 35.00% | ~201 |
-| Pirates! | 34.00% | ~195 |
+| Pirates! | 34.00% | ~196 |
 | Collectionitis | 28.00% | ~161 |
 | Christening | 27.00% | ~155 |
 | Megalomania | 27.00% | ~155 |
 | Groundskeeper | 25.00% | ~144 |
 | Wholesale | 21.00% | ~121 |
 | Walk the plank | 20.00% | ~115 |
-| My precious! | 18.00% | ~103 |
+| My precious! | 18.00% | ~104 |
 | Pearly gates | 17.00% | ~98 |
 | Conquistador | 13.00% | ~75 |
 | Panic buying | 11.00% | ~63 |
@@ -43,12 +43,12 @@ Number of Ratings: 53  (23.09.2022)
 | Overpopulation | 4.00% | ~23 |
 | Premier Maître | 3.00% | ~17 |
 | Strategist | 3.00% | ~17 |
-| Supreme conqueror | 2.00% | ~11 |
-| The customer is always right | 2.00% | ~11 |
-| Master & Commander | 2.00% | ~11 |
-| All aboard! | 2.00% | ~11 |
-| Gold fever | 2.00% | ~11 |
-| Fill it up, please! | 2.00% | ~11 |
+| Supreme conqueror | 2.00% | ~12 |
+| The customer is always right | 2.00% | ~12 |
+| Master & Commander | 2.00% | ~12 |
+| All aboard! | 2.00% | ~12 |
+| Gold fever | 2.00% | ~12 |
+| Fill it up, please! | 2.00% | ~12 |
 | Administrator | 1.00% | ~6 |
 | Raiders of the Lost Ark | 1.00% | ~6 |
 | Traffic chaos | 1.00% | ~6 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 191)  
+Progressed: 575 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 567 | 0 |
 | 2023-05-25 | 569 | 0 |
 | 2023-05-26 | 573 | 0 |
-| 2023-05-27 | 574 | 0 |
+| 2023-05-27 | 575 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

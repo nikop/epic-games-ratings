@@ -2,12 +2,12 @@
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
   "ProductSlug": "the-settlers",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-17T09:00:00+00:00",
@@ -662,6 +662,6 @@
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
   "LastChanged": "2023-05-27T05:57:45.5585536+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.9687709+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:57:38.895567+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:02:57.478003+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:57:27.2090281+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:02:14.9465938+00:00"
 }

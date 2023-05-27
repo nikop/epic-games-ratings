@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 89.00% | ~488 |
-| Ranidaphobia | 62.00% | ~340 |
-| Aspiring Editor | 58.00% | ~318 |
-| Gun for Hire | 51.00% | ~279 |
-| I am the law! | 37.00% | ~203 |
-| From Darkness to Light | 23.00% | ~126 |
-| Lumberjack | 19.00% | ~104 |
-| Firestarter | 18.00% | ~99 |
+| First Blood | 90.00% | ~496 |
+| Ranidaphobia | 62.00% | ~342 |
+| Aspiring Editor | 58.00% | ~320 |
+| Gun for Hire | 52.00% | ~287 |
+| I am the law! | 38.00% | ~209 |
+| From Darkness to Light | 23.00% | ~127 |
+| Lumberjack | 19.00% | ~105 |
+| Firestarter | 17.00% | ~94 |
+| Limp Richard | 15.00% | ~83 |
 | Croaked | 14.00% | ~77 |
-| Limp Richard | 14.00% | ~77 |
 | Exorcist | 12.00% | ~66 |
-| Editor Adept | 11.00% | ~60 |
-| Giant Killer | 9.00% | ~49 |
-| The meaning of Kain | 8.00% | ~44 |
-| Hold The Line | 7.00% | ~38 |
-| Sensei | 7.00% | ~38 |
+| Editor Adept | 11.00% | ~61 |
+| Giant Killer | 9.00% | ~50 |
+| The meaning of Kain | 9.00% | ~50 |
+| Hold The Line | 8.00% | ~44 |
+| Sensei | 7.00% | ~39 |
 | Newtonian Knockout | 6.00% | ~33 |
-| Chain Killer | 5.00% | ~27 |
-| Technophobe | 5.00% | ~27 |
+| Chain Killer | 5.00% | ~28 |
+| Technophobe | 5.00% | ~28 |
 | Recycler | 4.00% | ~22 |
 | There Can Be Only One! | 4.00% | ~22 |
-| Wipe Out | 3.00% | ~16 |
+| Pushing Daisy | 3.00% | ~17 |
+| Wipe Out | 3.00% | ~17 |
 | Are you not entertained? | 2.00% | ~11 |
 | Chain Reaction | 2.00% | ~11 |
 | Curveball | 2.00% | ~11 |
 | Ganglord | 2.00% | ~11 |
 | Jarhead | 2.00% | ~11 |
+| Experienced | 2.00% | ~11 |
 | Infiltrator | 2.00% | ~11 |
-| Pushing Daisy | 2.00% | ~11 |
 | Ruthless | 2.00% | ~11 |
-| Commando | 1.00% | ~5 |
-| Endgame | 1.00% | ~5 |
-| Experienced | 1.00% | ~5 |
-| Savior | 1.00% | ~5 |
-| The Watchers | 1.00% | ~5 |
+| Commando | 1.00% | ~6 |
+| Endgame | 1.00% | ~6 |
+| Savior | 1.00% | ~6 |
+| The Watchers | 1.00% | ~6 |
 | Dr Jones | 0.70% | ~4 |
 | Bot Whisperer | 0.50% | ~3 |
 | Chaos Theory | 0.40% | ~2 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548 (Ranked 194)  
+Progressed: 551 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
-| 2023-05-27 | 548 | 0 |
+| 2023-05-27 | 551 | 0 |

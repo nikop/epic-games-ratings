@@ -46,6 +46,7 @@ Rating: 4.17 (Ranked 838)
 | Renewable Enemy Source | 0.20% | ~65 |
 | Dressed to Impress | 0.20% | ~125 |
 | A Momentum Occasion | 0.20% | ~125 |
+| Bat Out of Hell | 0.20% | ~125 |
 | Element of Surprise | 0.10% | ~33 |
 | It's Nice to Be Wanted | 0.10% | ~33 |
 | Crime Is a Terrible Thing to Waste | 0.10% | ~33 |
@@ -65,9 +66,8 @@ Rating: 4.17 (Ranked 838)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
-| Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,302 (Ranked 70)  
+Progressed: 62,312 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,302 | 91 |
+| 2023-05-27 | 62,312 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,719 (Ranked 137)  

@@ -744,9 +744,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "Toxic",
@@ -793,8 +793,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:06:50.8747172+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:10.3028335+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:58:11.9993338+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:06:50.874737+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:57:47.6161716+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:10.3028607+00:00"
 }

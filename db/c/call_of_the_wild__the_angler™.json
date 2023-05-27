@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3791,
+  "EOS_Progressed": 3792,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1928,6 +1928,11 @@
       "Time": "2023-05-27T07:01:18.5924573+00:00",
       "NumProgressed": 3791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T10:01:37.7313993+00:00",
+      "NumProgressed": 3792,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1955,7 +1960,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1971,7 +1976,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -1979,7 +1984,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2011,7 +2016,7 @@
       "Name": "License to Gill",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -2099,7 +2104,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -2139,7 +2144,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -2218,13 +2223,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3791,
+      "Progressed": 3792,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3163,
+      "Progressed": 3164,
       "Completed": 112
     }
   ],
@@ -2232,8 +2237,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:02:48.5094029+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:01:37.7313988+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:01:04.8765828+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:02:48.5094312+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:00:16.3678452+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:01:37.731436+00:00"
 }

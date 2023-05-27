@@ -6,26 +6,26 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,147 |
-| Photogenic | 88.00% | ~5,944 |
-| Surge Gauntlet Jockey | 85.00% | ~5,742 |
-| Plug It In | 84.00% | ~5,674 |
-| Adventure Time | 80.00% | ~5,404 |
-| Playing With Power | 77.00% | ~5,201 |
+| Let's Get This Party Started | 91.00% | ~6,148 |
+| Photogenic | 88.00% | ~5,945 |
+| Surge Gauntlet Jockey | 85.00% | ~5,743 |
+| Plug It In | 84.00% | ~5,675 |
+| Adventure Time | 80.00% | ~5,405 |
+| Playing With Power | 77.00% | ~5,202 |
 | Coup d'Etat | 58.00% | ~3,918 |
 | You're Fired | 58.00% | ~3,918 |
-| Get Furious | 55.00% | ~3,715 |
-| Gunplay And Cosplay | 55.00% | ~3,715 |
+| Get Furious | 55.00% | ~3,716 |
+| Gunplay And Cosplay | 55.00% | ~3,716 |
 | Hacks In Stacks | 54.00% | ~3,648 |
-| Meching Enemies | 48.00% | ~3,242 |
-| Ticket Toddler | 46.00% | ~3,107 |
+| Meching Enemies | 48.00% | ~3,243 |
+| Ticket Toddler | 46.00% | ~3,108 |
 | Booty Bashing | 45.00% | ~3,040 |
-| Field Medic | 37.00% | ~2,499 |
-| Here Comes a New Challenger | 37.00% | ~2,499 |
+| Here Comes a New Challenger | 38.00% | ~2,567 |
+| Field Medic | 37.00% | ~2,500 |
 | Rapid Response | 33.00% | ~2,229 |
 | Guardian Angel | 32.00% | ~2,162 |
 | The Full Monty | 31.00% | ~2,094 |
-| Surge Ahead | 30.00% | ~2,026 |
+| Surge Ahead | 30.00% | ~2,027 |
 | Poppin Noggins | 25.00% | ~1,689 |
 | Clips and Crits | 22.00% | ~1,486 |
 | Grey Goo | 20.00% | ~1,351 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~34 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,755 (Ranked 115)  
+Progressed: 6,756 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 6,676 | 0 |
 | 2023-05-25 | 6,701 | 0 |
 | 2023-05-26 | 6,741 | 0 |
-| 2023-05-27 | 6,755 | 0 |
+| 2023-05-27 | 6,756 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 485 (Ranked 292)  

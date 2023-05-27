@@ -3,7 +3,7 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 272,
-  "Ranking_Popularity": 319,
+  "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 184,
@@ -784,11 +784,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 750,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-05-27T10:00:39.1243833+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 752,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 750,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 752,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -855,7 +861,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 104
+      "Count": 106
     }
   ],
   "EOS_Progressed": 3126,
@@ -3239,9 +3245,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-05-25T20:59:45.4825321+00:00",
-  "LastChanged_Achievements": "2023-05-27T09:07:16.8514239+00:00",
+  "LastChanged": "2023-05-27T10:00:39.1243832+00:00",
+  "LastChanged_Achievements": "2023-05-27T10:06:31.4984252+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-27T09:01:35.2335269+00:00",
-  "LastUpdate_Achievements": "2023-05-27T09:07:16.8514578+00:00"
+  "LastUpdate_Ratings": "2023-05-27T10:00:39.124384+00:00",
+  "LastUpdate_Achievements": "2023-05-27T10:06:31.498468+00:00"
 }
