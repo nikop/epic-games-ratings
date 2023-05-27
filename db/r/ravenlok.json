@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 876,
-  "EOS_Completed": 59,
+  "EOS_Completed": 60,
   "EOS_NewPlayers": 146,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 6.74,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1842,6 +1842,11 @@
       "Time": "2023-05-27T18:05:41.60878+00:00",
       "NumProgressed": 876,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-05-27T19:05:06.7626026+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -1875,9 +1880,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 298
     },
     {
       "ID": "13",
@@ -2035,9 +2040,9 @@
       "ID": "30",
       "SetID": "d0g98p",
       "Name": "Gooey Delight!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 342
     },
     {
       "ID": "31",
@@ -2155,9 +2160,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 307
     },
     {
       "ID": "45",
@@ -2253,15 +2258,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 876,
-      "Completed": 59
+      "Completed": 60
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:05:41.6087793+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:06.7626022+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:57:21.7402766+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:05:41.6088327+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:57:12.3343197+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:06.7626599+00:00"
 }

@@ -1,29 +1,29 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 505)  
+Rating: 4.52 (Ranked 506)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,353 |
+| Tattletale | 42.00% | ~5,354 |
 | Man of politics | 36.00% | ~4,589 |
-| Yet another secret | 35.00% | ~4,461 |
+| Yet another secret | 35.00% | ~4,462 |
 | Friends of sorts | 34.00% | ~4,334 |
-| Let there be darkness | 33.00% | ~4,206 |
-| End of Book One | 31.00% | ~3,951 |
-| Wannabe knight | 25.00% | ~3,186 |
-| Garden of Eden | 25.00% | ~3,186 |
-| Full house | 25.00% | ~3,186 |
-| Help an old friend | 22.00% | ~2,804 |
-| Two of us | 20.00% | ~2,549 |
+| Let there be darkness | 33.00% | ~4,207 |
+| End of Book One | 31.00% | ~3,952 |
+| Wannabe knight | 25.00% | ~3,187 |
+| Garden of Eden | 25.00% | ~3,187 |
+| Full house | 25.00% | ~3,187 |
+| Help an old friend | 22.00% | ~2,805 |
+| Two of us | 20.00% | ~2,550 |
 | Negotiation skills | 19.00% | ~2,422 |
 | Workers' union | 19.00% | ~2,422 |
-| End of Book Two | 18.00% | ~2,294 |
+| End of Book Two | 18.00% | ~2,295 |
 | Everything's in order | 17.00% | ~2,167 |
 | Jack was here! | 15.00% | ~1,912 |
-| Twist of Fate | 14.00% | ~1,784 |
-| Exterminator | 14.00% | ~1,784 |
+| Twist of Fate | 14.00% | ~1,785 |
+| Exterminator | 14.00% | ~1,785 |
 | Whodunnit | 13.00% | ~1,657 |
 | Good midwife | 11.00% | ~1,402 |
 | Friar Tuck | 11.00% | ~1,402 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~382 |
 | Boy of mystery | 2.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,746 (Ranked 104)  
+Progressed: 12,748 (Ranked 104)  
 Completed: 94 (0.74%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 94 (0.74%) (Ranked 98)
 | 2023-05-24 | 12,667 | 94 |
 | 2023-05-25 | 12,697 | 94 |
 | 2023-05-26 | 12,723 | 94 |
-| 2023-05-27 | 12,746 | 94 |
+| 2023-05-27 | 12,748 | 94 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  

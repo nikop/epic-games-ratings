@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2592,
+  "EOS_Progressed": 2594,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1905,6 +1905,11 @@
       "Time": "2023-05-27T18:02:28.9881876+00:00",
       "NumProgressed": 2592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T19:02:34.9400251+00:00",
+      "NumProgressed": 2594,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1924,7 +1929,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "11",
@@ -1940,7 +1945,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "13",
@@ -1956,7 +1961,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "15",
@@ -1994,9 +1999,9 @@
       "ID": "19",
       "SetID": "9p3jgda",
       "Name": "DEFEAT OUR CHAMPION",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 85,
-      "UsersEstimate": 259
+      "UsersEstimate": 285
     },
     {
       "ID": "2",
@@ -2004,7 +2009,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "20",
@@ -2020,7 +2025,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "22",
@@ -2028,7 +2033,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "23",
@@ -2068,7 +2073,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "6",
@@ -2107,13 +2112,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2592,
+      "Progressed": 2594,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:02:28.988187+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:02:34.9400247+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:58:57.8744194+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:02:28.9882128+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:58:29.1481281+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:02:34.9400525+00:00"
 }

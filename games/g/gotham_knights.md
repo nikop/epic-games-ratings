@@ -25,13 +25,13 @@ Rating: 4.17 (Ranked 838)
 | Rock and a Hard Place | 0.70% | ~437 |
 | Universal Health Scare | 0.70% | ~437 |
 | From Inside Gotham's Walls | 0.70% | ~437 |
+| Voiceless | 0.70% | ~437 |
 | End of an Era | 0.60% | ~374 |
 | In Your Element | 0.60% | ~374 |
 | Not On My Watch | 0.60% | ~374 |
 | Bulldozed | 0.60% | ~374 |
 | Shock Til They Drop | 0.60% | ~374 |
 | Cooldown | 0.60% | ~374 |
-| Voiceless | 0.60% | ~374 |
 | Seeking Asylum | 0.60% | ~374 |
 | Gotham Knight | 0.60% | ~374 |
 | Drone You Out | 0.50% | ~312 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,377 (Ranked 70)  
+Progressed: 62,384 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,21 +104,21 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,377 | 91 |
+| 2023-05-27 | 62,384 | 91 |
 ## Awards
-Max (Great Boss Battles): 2,239  (Ranked 98)  
-Sum: 3,719 (Ranked 137)  
+Max (Great Boss Battles): 2,244  (Ranked 98)  
+Sum: 3,725 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,239 |
+| This game has Great Boss Battles | 2,244 |
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 190 |
 | This game has Amazing Characters | 186 |
 | This game has Diverse Characters | 183 |
 | This game is Highly Recommended | 181 |
-| This game has Amazing Storytelling | 179 |
+| This game has Amazing Storytelling | 180 |
 | This game is Great for Beginners | 175 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -219,4 +219,4 @@ Diff (max vs sum): -39
 | 2023-05-24 | 4.17 | 2,234 | 3,709 |
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
 | 2023-05-26 | 4.17 | 2,239 | 3,718 |
-| 2023-05-27 | 4.17 | 2,239 | 3,719 |
+| 2023-05-27 | 4.17 | 2,244 | 3,725 |

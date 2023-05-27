@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6105,
+  "EOS_Progressed": 6110,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
@@ -2363,6 +2363,11 @@
       "Time": "2023-05-27T17:05:04.3527634+00:00",
       "NumProgressed": 6105,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-27T19:05:04.4703582+00:00",
+      "NumProgressed": 6110,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2374,7 +2379,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ARRR",
@@ -2390,7 +2395,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -2398,7 +2403,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2414,7 +2419,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ENERGY_SAVER",
@@ -2422,7 +2427,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2462,7 +2467,7 @@
       "Name": "Historian",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ICONOCLAST",
@@ -2470,7 +2475,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "IN_A_PINCH",
@@ -2478,7 +2483,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "LIBERATOR",
@@ -2502,7 +2507,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "SNIP_SNIP",
@@ -2518,7 +2523,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -2541,7 +2546,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6105,
+      "Progressed": 6110,
       "Completed": 22
     }
   ],
@@ -2549,8 +2554,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:05:38.8544062+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:04.4703578+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:57:54.160986+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:05:38.8544447+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:57:37.9906728+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:04.4703843+00:00"
 }

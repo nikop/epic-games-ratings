@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -98,7 +98,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1189,
+  "EOS_Progressed": 1190,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -2248,6 +2248,11 @@
       "Time": "2023-05-27T18:05:58.9690683+00:00",
       "NumProgressed": 1189,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T19:05:21.3016568+00:00",
+      "NumProgressed": 1190,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2467,7 +2472,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "gearenchanting",
@@ -2491,7 +2496,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "herewegoagain",
@@ -2579,7 +2584,7 @@
       "Name": "Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "milestonecollector",
@@ -2611,7 +2616,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "mysteriousrock",
@@ -2649,9 +2654,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 631
     },
     {
       "ID": "prestigiousx10",
@@ -2731,7 +2736,7 @@
       "Name": "The Expeditioner",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "thefatherofdragons",
@@ -2819,7 +2824,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "warmachinesarmy",
@@ -2851,14 +2856,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1189,
+      "Progressed": 1190,
       "Completed": 1
     }
   ],
@@ -2866,8 +2871,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-27T11:58:31.9990637+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:05:58.9690676+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:21.3016564+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:57:57.2046856+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:05:58.9692637+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:57:40.3423789+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:21.3017472+00:00"
 }

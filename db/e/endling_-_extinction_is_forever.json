@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -510,9 +510,9 @@
       "ID": "TROP025",
       "SetID": "9n0dl35",
       "Name": "Chicken Dinner",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "TROP026",
@@ -543,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:00:58.8538968+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:00:06.0642272+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.6373889+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:58:55.1660637+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:00:58.8539244+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:58:26.7092867+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:00:06.064254+00:00"
 }

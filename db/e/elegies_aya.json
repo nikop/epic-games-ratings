@@ -4,8 +4,8 @@
   "ProductSlug": "elegies-aya-17c3f1",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-12T15:00:00+00:00",
     "PcReleaseDate": "2023-04-28T15:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -155,9 +155,9 @@
       "ID": "ACH_E2",
       "SetID": "1em00ld",
       "Name": "Happy ever after",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 125,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_E3",
@@ -186,8 +186,8 @@
   ],
   "FirstSeen": "2023-05-23T07:59:25.1287927+00:00",
   "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:05:43.2988564+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:07.9946247+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.8216886+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:58:58.1772834+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:05:43.2988685+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:58:29.5551214+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:07.9946346+00:00"
 }

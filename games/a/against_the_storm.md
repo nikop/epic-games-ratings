@@ -7,18 +7,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Real Expedition | 2.00% | ~301 |
+| Overcoming Difficulty | 2.00% | ~301 |
+| Fertile Meadows | 2.00% | ~301 |
 | Coral Forest | 2.00% | ~301 |
 | The Marshlands | 2.00% | ~301 |
 | The Scarlet Orchard | 2.00% | ~301 |
 | Taking Action | 2.00% | ~301 |
 | No Deaths | 2.00% | ~301 |
 | Homesick | 1.00% | ~150 |
-| Overcoming Difficulty | 1.00% | ~150 |
 | Bandit Camp | 1.00% | ~150 |
 | Barren Lands | 1.00% | ~150 |
 | Ancient Battleground | 1.00% | ~150 |
 | Sparkdew Crystals | 1.00% | ~150 |
-| Fertile Meadows | 1.00% | ~150 |
 | Lost Colonies | 1.00% | ~150 |
 | Cursed Lands | 1.00% | ~150 |
 | A Real Challenge | 1.00% | ~150 |
@@ -36,11 +36,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 0.80% | ~120 |
 | Statue of the Forefathers | 0.70% | ~105 |
 | Forsaken Gods Temple | 0.70% | ~105 |
+| Into the Forest | 0.70% | ~105 |
 | Serving Ale | 0.60% | ~90 |
 | Ruined Armory | 0.60% | ~90 |
 | Forbidden Lands | 0.60% | ~90 |
 | Defying the Crown | 0.60% | ~90 |
-| Into the Forest | 0.60% | ~90 |
 | Efficient Explorer | 0.40% | ~60 |
 | Fishmen Ritual Site | 0.40% | ~60 |
 | Prestigious Expedition | 0.40% | ~60 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,035 (Ranked 99)  
+Progressed: 15,037 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 33 (0.22%) (Ranked 136)
 | 2023-05-24 | 14,986 | 33 |
 | 2023-05-25 | 14,995 | 33 |
 | 2023-05-26 | 15,011 | 33 |
-| 2023-05-27 | 15,035 | 33 |
+| 2023-05-27 | 15,037 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,031 (Ranked 152)  

@@ -6,10 +6,10 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,143 |
-| Thorough | 9.00% | ~15,429 |
-| A thief's beginning | 7.00% | ~12,000 |
-| Tanuki Time | 7.00% | ~12,000 |
+| Genin | 10.00% | ~17,144 |
+| Thorough | 9.00% | ~15,430 |
+| A thief's beginning | 7.00% | ~12,001 |
+| Tanuki Time | 7.00% | ~12,001 |
 | Disguised | 6.00% | ~10,286 |
 | Jonin | 6.00% | ~10,286 |
 | Rescue Takuma | 6.00% | ~10,286 |
@@ -20,11 +20,11 @@ Number of Ratings: 495  (23.09.2022)
 | Mugen Unchained | 5.00% | ~8,572 |
 | Stoned Ox | 5.00% | ~8,572 |
 | Yabu | 5.00% | ~8,572 |
-| Flying Rocks | 4.00% | ~6,857 |
-| Okkoto | 4.00% | ~6,857 |
-| Prisoners | 4.00% | ~6,857 |
-| Too Early | 4.00% | ~6,857 |
-| Warzone | 4.00% | ~6,857 |
+| Flying Rocks | 4.00% | ~6,858 |
+| Okkoto | 4.00% | ~6,858 |
+| Prisoners | 4.00% | ~6,858 |
+| Too Early | 4.00% | ~6,858 |
+| Warzone | 4.00% | ~6,858 |
 | Gear up | 3.00% | ~5,143 |
 | Happy little accidents | 3.00% | ~5,143 |
 | Noboru | 3.00% | ~5,143 |
@@ -38,7 +38,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,714 |
 | Old Man | 1.00% | ~1,714 |
 | The End | 1.00% | ~1,714 |
-| Undeserved Honor | 0.80% | ~1,371 |
+| Undeserved Honor | 0.80% | ~1,372 |
 | When Cut Across the Neck | 0.70% | ~1,200 |
 | High Five the Moon | 0.60% | ~1,029 |
 | The Cave | 0.60% | ~1,029 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~171 |
 | Release the Kraken | 0.10% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,431 (Ranked 53)  
+Progressed: 171,441 (Ranked 53)  
 Completed: 47 (0.03%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 47 (0.03%) (Ranked 184)
 | 2023-05-24 | 170,440 | 45 |
 | 2023-05-25 | 170,744 | 47 |
 | 2023-05-26 | 171,089 | 47 |
-| 2023-05-27 | 171,431 | 47 |
+| 2023-05-27 | 171,441 | 47 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 176)  
 Sum: 4,672 (Ranked 126)  

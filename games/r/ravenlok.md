@@ -19,9 +19,9 @@
 | An Actor! | 43.00% | ~377 |
 | Curtain Call | 42.00% | ~368 |
 | Piece of Cake | 39.00% | ~342 |
+| Gooey Delight! | 39.00% | ~342 |
 | Glimmer of Hope | 39.00% | ~342 |
 | Well Rested | 39.00% | ~342 |
-| Gooey Delight! | 38.00% | ~333 |
 | Teacups for Toppy | 38.00% | ~333 |
 | Nightmare Fuel | 37.00% | ~324 |
 | Take Heart | 37.00% | ~324 |
@@ -30,9 +30,9 @@
 | Ancient Wisdom | 35.00% | ~307 |
 | Frog Facts! | 35.00% | ~307 |
 | All That Glistens | 35.00% | ~307 |
+| It's Pointy! | 35.00% | ~307 |
+| Spellbound | 34.00% | ~298 |
 | All Skilled Up! | 34.00% | ~298 |
-| It's Pointy! | 34.00% | ~298 |
-| Spellbound | 33.00% | ~289 |
 | Extinct Again! | 33.00% | ~289 |
 | Bird of Prey | 32.00% | ~280 |
 | Stardust | 32.00% | ~280 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 876 (Ranked 175)  
-Completed: 59 (6.74%) (Ranked 24)  
+Completed: 60 (6.85%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,7 +90,7 @@ Completed: 59 (6.74%) (Ranked 24)
 | 2023-05-24 | 846 | 57 |
 | 2023-05-25 | 858 | 58 |
 | 2023-05-26 | 868 | 58 |
-| 2023-05-27 | 876 | 59 |
+| 2023-05-27 | 876 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

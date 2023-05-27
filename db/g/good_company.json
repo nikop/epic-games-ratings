@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4858,
+  "EOS_Progressed": 4859,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-05-27T15:06:42.0020182+00:00",
       "NumProgressed": 4858,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T19:05:28.9509218+00:00",
+      "NumProgressed": 4859,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1167,7 +1172,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1207,7 +1212,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "ach_campaign_special10",
@@ -1407,7 +1412,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ach_frp_many_modules",
@@ -1662,15 +1667,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4858,
+      "Progressed": 4859,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:06:07.7574219+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:28.9509214+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.5581107+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:58:58.1455328+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:06:07.757576+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:58:29.4219845+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:28.9510128+00:00"
 }

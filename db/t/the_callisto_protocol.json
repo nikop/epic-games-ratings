@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -446,9 +446,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13816,
+  "EOS_Progressed": 13823,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1786,6 +1786,11 @@
       "Time": "2023-05-27T18:03:28.2569972+00:00",
       "NumProgressed": 13816,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T19:03:17.8403074+00:00",
+      "NumProgressed": 13823,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1829,7 +1834,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1901,7 +1906,7 @@
       "Name": "Get a Grip",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1941,7 +1946,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1957,7 +1962,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1997,7 +2002,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "STORY_HABITAT",
@@ -2019,9 +2024,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -2116,13 +2121,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13816,
+      "Progressed": 13823,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1742,
+      "Progressed": 1749,
       "Completed": 29
     }
   ],
@@ -2130,8 +2135,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-27T17:57:48.7844569+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:03:28.2569966+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:03:17.840307+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:57:48.7844575+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:03:28.2570402+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:57:33.9118046+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:03:17.8403452+00:00"
 }

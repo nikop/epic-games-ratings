@@ -27,7 +27,7 @@
 | Master Tactician | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 123 (Ranked 260)  
-Completed: 4 (3.25%) (Ranked 42)  
+Completed: 4 (3.25%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,28 +6,28 @@
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~103 |
 | Starting Skyward | 51.00% | ~92 |
-| Grime is Not Good | 44.00% | ~79 |
+| Grime is Not Good | 45.00% | ~81 |
 | Campaign Launch | 39.00% | ~70 |
+| Dinner Dash | 38.00% | ~68 |
 | Floor Galore | 37.00% | ~67 |
-| Dinner Dash | 37.00% | ~67 |
 | It's Technical | 35.00% | ~63 |
 | Need a Consult | 33.00% | ~59 |
 | Upgrade Unlock | 33.00% | ~59 |
+| Proper Walls | 31.00% | ~56 |
 | Delegate Maintenance | 31.00% | ~56 |
-| Proper Walls | 29.00% | ~52 |
-| Destination Destiny | 26.00% | ~47 |
+| Destination Destiny | 27.00% | ~49 |
 | Happy Tenants | 23.00% | ~41 |
+| Smooth Service | 23.00% | ~41 |
 | Potent Potables | 22.00% | ~40 |
-| Smooth Service | 22.00% | ~40 |
 | Lux Living | 21.00% | ~38 |
+| People Mover | 21.00% | ~38 |
 | Your Prestige is Rising | 21.00% | ~38 |
 | Retail Revenue | 21.00% | ~38 |
-| People Mover | 20.00% | ~36 |
-| Leveled Up Shops | 20.00% | ~36 |
+| Leveled Up Shops | 21.00% | ~38 |
+| Get Electrified | 20.00% | ~36 |
 | Artfully Done | 19.00% | ~34 |
 | Don't Feel a Loan | 19.00% | ~34 |
 | Emporium Empire | 19.00% | ~34 |
-| Get Electrified | 19.00% | ~34 |
 | Rehab Expert | 18.00% | ~32 |
 | Tasty Profits | 18.00% | ~32 |
 | We Don't Need No Education | 18.00% | ~32 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1188,18 +1188,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3719,
       "NumberOfAwardsMax": 2239
+    },
+    {
+      "Time": "2023-05-27T18:59:09.8212782+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3725,
+      "NumberOfAwardsMax": 2244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3719,
-  "NumberOfAwardsMax": 2239,
+  "NumberOfAwards": 3725,
+  "NumberOfAwardsMax": 2244,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2239
+      "Count": 2244
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1223,7 +1229,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 179
+      "Count": 180
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1256,9 +1262,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62377,
+  "EOS_Progressed": 62384,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4001,6 +4007,11 @@
       "Time": "2023-05-27T18:06:15.1205991+00:00",
       "NumProgressed": 62377,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T19:05:35.3428877+00:00",
+      "NumProgressed": 62384,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4442,9 +4453,9 @@
       "ID": "MYSTERY_06",
       "SetID": "4eo5ebm",
       "Name": "Voiceless",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 437
     },
     {
       "ID": "MYSTERY_07",
@@ -4499,22 +4510,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62377,
+      "Progressed": 62384,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32657,
+      "Progressed": 32664,
       "Completed": 2642
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:06:15.1205983+00:00",
+  "LastChanged": "2023-05-27T18:59:09.8212779+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:35.342887+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:59:48.4635316+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:06:15.1207273+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:59:09.8212786+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:35.3429896+00:00"
 }

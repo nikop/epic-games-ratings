@@ -2,13 +2,13 @@
   "ID": "2e412cfcbd954e7180930e9784a47e18",
   "Name": "Fallout: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout",
-  "Ranking_Rating": 329,
+  "Ranking_Rating": 330,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
     "PcReleaseDate": "1997-09-30T17:00:00+00:00",
@@ -300,6 +300,6 @@
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
   "LastChanged": "2023-05-19T06:01:00.6243333+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:47.716229+00:00",
-  "LastUpdate_Ratings": "2023-05-27T18:00:34.2743083+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:05:21.9035765+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:59:44.9050564+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:04:51.000508+00:00"
 }

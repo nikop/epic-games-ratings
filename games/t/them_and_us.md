@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Alone with Them | 67.00% | ~84 |
 | Forced to Kill | 67.00% | ~84 |
-| A Night To Remember | 34.00% | ~42 |
+| A Night To Remember | 33.00% | ~42 |
 | Safe...For now? | 27.00% | ~34 |
 | Open Sesame | 23.00% | ~29 |
 | Them and Us | 14.00% | ~18 |
@@ -14,9 +14,9 @@
 | What have I done!? | 14.00% | ~18 |
 | The Cultists | 12.00% | ~15 |
 | This Coffin Has Your Name On It! | 11.00% | ~14 |
-| Alone In The Dark | 10.00% | ~12 |
-| Parasite Exterminated | 10.00% | ~12 |
-| The Forgotten Tower | 10.00% | ~12 |
+| Alone In The Dark | 10.00% | ~13 |
+| Parasite Exterminated | 10.00% | ~13 |
+| The Forgotten Tower | 10.00% | ~13 |
 | Lover of classics | 8.00% | ~10 |
 | Rest In Peace | 8.00% | ~10 |
 | The Curse Is Real | 7.00% | ~9 |
@@ -28,11 +28,11 @@
 | The bus stop | 4.00% | ~5 |
 | Run and Gun | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
-| Armed To The Teeth | 2.00% | ~2 |
-| Back In Time | 2.00% | ~2 |
-| Retro Player | 2.00% | ~2 |
-| Survival Hero | 2.00% | ~2 |
-| The 5th Element | 2.00% | ~2 |
+| Armed To The Teeth | 2.00% | ~3 |
+| Back In Time | 2.00% | ~3 |
+| Retro Player | 2.00% | ~3 |
+| Survival Hero | 2.00% | ~3 |
+| The 5th Element | 2.00% | ~3 |
 | Before The Eclipse | 0.80% | ~1 |
 | Box Of Ploutus | 0.80% | ~1 |
 | Chosen One | 0.80% | ~1 |
@@ -45,8 +45,8 @@
 | Pet The Dog | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 258)  
-Completed: 1 (0.80%) (Ranked 94)  
+Progressed: 126 (Ranked 258)  
+Completed: 1 (0.79%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 1 (0.80%) (Ranked 94)
 | 2023-05-24 | 121 | 1 |
 | 2023-05-25 | 122 | 1 |
 | 2023-05-26 | 124 | 1 |
-| 2023-05-27 | 125 | 1 |
+| 2023-05-27 | 126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

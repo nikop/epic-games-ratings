@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1168,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -508,6 +508,11 @@
       "Time": "2023-05-27T15:06:37.3588755+00:00",
       "NumProgressed": 1168,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-27T19:05:25.2672137+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -583,7 +588,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "18",
@@ -605,9 +610,9 @@
       "ID": "2",
       "SetID": "n50no0",
       "Name": "Flower Powered",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 140
     },
     {
       "ID": "20",
@@ -679,7 +684,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "30",
@@ -687,7 +692,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "31",
@@ -758,15 +763,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1168,
+      "Progressed": 1169,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:06:03.5561953+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:25.2672133+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:02.2498458+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:59:35.4724959+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:06:03.5562242+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:58:59.7476234+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:25.2672358+00:00"
 }

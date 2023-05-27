@@ -2,13 +2,13 @@
   "ID": "c4a39e8e304c4356afcddd79820b223d",
   "Name": "DEMON\u0027S TILT",
   "ProductSlug": "demons-tilt",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 506,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
     "PcReleaseDate": "2019-12-13T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 276,
   "RatingHistory": [
     {
@@ -458,6 +458,12 @@
     {
       "Time": "2023-01-31T02:11:38.8933972+00:00",
       "Rating": 4.51
+    },
+    {
+      "Time": "2023-05-27T18:57:37.7738731+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -491,9 +497,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.6473258+00:00",
-  "LastChanged": "2023-01-31T02:11:38.893397+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:02:12.6224639+00:00",
+  "LastChanged": "2023-05-27T18:57:37.7738728+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:02:22.1572365+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.9592776+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:57:53.8537136+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:02:12.6224877+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:57:37.7738734+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:02:22.1572396+00:00"
 }

@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 70.00% | ~192 |
-| Departure | 68.00% | ~187 |
-| A new Journey | 68.00% | ~187 |
-| From X to Y | 66.00% | ~182 |
-| Brainstorm | 66.00% | ~182 |
-| Way of Iron | 66.00% | ~182 |
-| Mystery Tour | 61.00% | ~168 |
-| We brake for nobody | 60.00% | ~165 |
-| Mind the Gap | 60.00% | ~165 |
-| All around the World | 59.00% | ~162 |
-| Travel Company | 58.00% | ~160 |
-| Right through the middle | 53.00% | ~146 |
+| Country Bumpkin | 71.00% | ~195 |
+| Departure | 70.00% | ~192 |
+| A new Journey | 70.00% | ~192 |
+| From X to Y | 67.00% | ~184 |
+| Brainstorm | 67.00% | ~184 |
+| Way of Iron | 67.00% | ~184 |
+| Mystery Tour | 63.00% | ~173 |
+| Mind the Gap | 62.00% | ~170 |
+| We brake for nobody | 61.00% | ~168 |
+| All around the World | 60.00% | ~165 |
+| Travel Company | 59.00% | ~162 |
+| Right through the middle | 54.00% | ~148 |
 | Apprentice | 50.00% | ~138 |
-| Poor Devil | 44.00% | ~121 |
-| Facility Manager | 40.00% | ~110 |
-| Stoker | 39.00% | ~107 |
+| Poor Devil | 46.00% | ~126 |
+| Facility Manager | 41.00% | ~113 |
+| Stoker | 40.00% | ~110 |
 | Producer | 38.00% | ~104 |
-| Bridge Builder | 31.00% | ~85 |
-| Access granted | 28.00% | ~77 |
-| Going once, going twice, sold | 19.00% | ~52 |
-| Full Steam ahead | 17.00% | ~47 |
+| Bridge Builder | 32.00% | ~88 |
+| Access granted | 29.00% | ~80 |
+| Full Steam ahead | 20.00% | ~55 |
+| Going once, going twice, sold | 20.00% | ~55 |
+| Seven at one stroke | 18.00% | ~50 |
 | Bull and bear | 17.00% | ~47 |
-| Seven at one stroke | 16.00% | ~44 |
-| All mine | 12.00% | ~33 |
+| All mine | 13.00% | ~36 |
 | Financial Shark | 12.00% | ~33 |
 | Trailblazer | 11.00% | ~30 |
-| Mole | 10.00% | ~28 |
+| Mole | 11.00% | ~30 |
 | General Manager | 9.00% | ~25 |
+| Hostile Takeover | 9.00% | ~25 |
 | Country Life | 8.00% | ~22 |
-| Hostile Takeover | 8.00% | ~22 |
 | Traffic Junction | 5.00% | ~14 |
 | Traffic Jam | 4.00% | ~11 |
 | Max Power | 3.00% | ~8 |
@@ -49,12 +49,12 @@
 | Unstoppable | 0.40% | ~1 |
 | Track to the Future | 0.40% | ~1 |
 | Conductor | 0.40% | ~1 |
+| Let off some steam | 0.40% | ~1 |
 | Networker | 0.40% | ~1 |
 | Engineer | 0.00% | ~0 |
 | European Union | 0.00% | ~0 |
 | Three Cheers for Progress | 0.00% | ~0 |
 | United States | 0.00% | ~0 |
-| Let off some steam | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
 | Accurate | 0.00% | ~0 |
 | Call of Duty | 0.00% | ~0 |

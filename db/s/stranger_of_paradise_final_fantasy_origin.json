@@ -1522,9 +1522,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 78329,
+  "EOS_Progressed": 78330,
   "EOS_Completed": 2131,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -3402,6 +3402,11 @@
       "Time": "2023-05-27T18:06:09.3335573+00:00",
       "NumProgressed": 78329,
       "NumCompleted": 2131
+    },
+    {
+      "Time": "2023-05-27T19:05:30.3325187+00:00",
+      "NumProgressed": 78330,
+      "NumCompleted": 2131
     }
   ],
   "TotalAchievements": 46,
@@ -3421,7 +3426,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 64230
+      "UsersEstimate": 64231
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -3429,7 +3434,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 57180
+      "UsersEstimate": 57181
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -3445,7 +3450,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 49347
+      "UsersEstimate": 49348
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -3469,7 +3474,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 38381
+      "UsersEstimate": 38382
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -3485,7 +3490,7 @@
       "Name": "Phantom Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36031
+      "UsersEstimate": 36032
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -3509,7 +3514,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 30548
+      "UsersEstimate": 30549
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -3525,7 +3530,7 @@
       "Name": "Duty\u0027s Course",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 28198
+      "UsersEstimate": 28199
     },
     {
       "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
@@ -3541,7 +3546,7 @@
       "Name": "Terminus of Fate",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 25065
+      "UsersEstimate": 25066
     },
     {
       "ID": "017_TROPHY_CLEAR_CHAOS_DIFFICULTY",
@@ -3565,7 +3570,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 51697
+      "UsersEstimate": 51698
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -3581,7 +3586,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 75979
+      "UsersEstimate": 75980
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -3589,7 +3594,7 @@
       "Name": "Imbued Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36031
+      "UsersEstimate": 36032
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -3597,7 +3602,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 67363
+      "UsersEstimate": 67364
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -3629,7 +3634,7 @@
       "Name": "Artifact Collector",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 17232
+      "UsersEstimate": 17233
     },
     {
       "ID": "028_TROPHY_USE_JOB_CREST",
@@ -3661,7 +3666,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 48564
+      "UsersEstimate": 48565
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -3709,7 +3714,7 @@
       "Name": "Path of the Paladin",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 28198
+      "UsersEstimate": 28199
     },
     {
       "ID": "038_TROPHY_UNLOCKED_NINJA",
@@ -3733,7 +3738,7 @@
       "Name": "Path of the Liberator",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 27415
+      "UsersEstimate": 27416
     },
     {
       "ID": "041_TROPHY_UNLOCKED_BREAKER",
@@ -3773,22 +3778,22 @@
       "Name": "His Name Is Garland",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 25065
+      "UsersEstimate": 25066
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 78329,
+      "Progressed": 78330,
       "Completed": 2131
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:06:09.3335565+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:30.332518+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:13.3163472+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:59:50.4274216+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:06:09.3336394+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:59:11.6222966+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:30.3325612+00:00"
 }

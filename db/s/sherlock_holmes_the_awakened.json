@@ -721,9 +721,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "MQ03_2",
@@ -801,9 +801,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "MQ05_4",
@@ -906,8 +906,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:03:20.1882208+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:03:11.4035922+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:57:09.8519527+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:03:20.1882578+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:57:01.7372394+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:03:11.4036131+00:00"
 }

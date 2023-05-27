@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1482,9 +1482,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19044,
+  "EOS_Progressed": 19045,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2952,6 +2952,11 @@
       "Time": "2023-05-27T18:05:54.2097081+00:00",
       "NumProgressed": 19044,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-27T19:05:17.2295881+00:00",
+      "NumProgressed": 19045,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3011,7 +3016,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "GameOver",
@@ -3099,7 +3104,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "SeniorEstateAgent",
@@ -3146,15 +3151,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19044,
+      "Progressed": 19045,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-27T17:59:28.0177628+00:00",
-  "LastChanged_Achievements": "2023-05-27T18:05:54.2097074+00:00",
+  "LastChanged_Achievements": "2023-05-27T19:05:17.2295877+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-27T17:59:28.0177634+00:00",
-  "LastUpdate_Achievements": "2023-05-27T18:05:54.2097351+00:00"
+  "LastUpdate_Ratings": "2023-05-27T18:58:54.0347141+00:00",
+  "LastUpdate_Achievements": "2023-05-27T19:05:17.229612+00:00"
 }
