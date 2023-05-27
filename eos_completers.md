@@ -7,7 +7,7 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
-| 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
+| 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [Island Cities](games/i/island_cities.md) | 16.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
@@ -21,9 +21,9 @@
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
 | 23 | [Scorn](games/s/scorn.md) | 6.96% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.75% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.67% |
@@ -39,11 +39,11 @@
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.47% |
-| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.31% |
+| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.30% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.28% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
-| 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
-| 43 | [ZZT!](games/z/zzt!.md) | 3.17% |
+| 43 | [ZZT!](games/z/zzt!.md) | 3.20% |
+| 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.16% |
 | 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
@@ -81,13 +81,13 @@
 | 79 | [Chorus](games/c/chorus.md) | 1.23% |
 | 80 | [Trifox](games/t/trifox.md) | 1.22% |
 | 81 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.18% |
-| 82 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.17% |
+| 82 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.16% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.11% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.09% |
 | 85 | [Five Dates](games/f/five_dates.md) | 1.06% |
 | 86 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.02% |
-| 87 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.94% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
+| 88 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.93% |
 | 89 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
