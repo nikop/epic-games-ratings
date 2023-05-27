@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2585,
+  "EOS_Progressed": 2586,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1885,6 +1885,11 @@
       "Time": "2023-05-27T12:03:36.0112135+00:00",
       "NumProgressed": 2585,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T13:05:40.4207431+00:00",
+      "NumProgressed": 2586,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1952,7 +1957,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "17",
@@ -1976,7 +1981,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "2",
@@ -2048,7 +2053,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "6",
@@ -2056,7 +2061,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "7",
@@ -2087,13 +2092,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2585,
+      "Progressed": 2586,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:03:36.0112127+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:05:40.4207425+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:59:31.2369305+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:03:36.0112406+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:01:24.0861992+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:05:40.4207655+00:00"
 }

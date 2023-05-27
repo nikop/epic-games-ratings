@@ -6,7 +6,7 @@ Rating: 4.78 (Ranked 99)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~2,064 |
-| No more cages! | 91.00% | ~1,977 |
+| No more cages! | 92.00% | ~1,999 |
 | Everfrost | 77.00% | ~1,673 |
 | Dark Forest | 76.00% | ~1,651 |
 | Pentakill | 75.00% | ~1,630 |
@@ -34,9 +34,9 @@ Rating: 4.78 (Ranked 99)
 | Full equipped | 17.00% | ~369 |
 | Whispers in the Woods II | 15.00% | ~326 |
 | Quickmoore Headquarters | 15.00% | ~326 |
+| Whispers in the Woods III | 14.00% | ~304 |
 | No more holding back | 14.00% | ~304 |
 | Terbisia | 14.00% | ~304 |
-| Whispers in the Woods III | 13.00% | ~282 |
 | My heart and sword always for Demacia | 13.00% | ~282 |
 | Friendly fire | 13.00% | ~282 |
 | True power | 13.00% | ~282 |
@@ -60,7 +60,7 @@ Rating: 4.78 (Ranked 99)
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,173 (Ranked 145)  
-Completed: 1 (0.05%) (Ranked 175)  
+Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

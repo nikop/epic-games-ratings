@@ -7,10 +7,10 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Scrap Gatherer | 58.00% | ~122 |
-| My New Home | 57.00% | ~120 |
+| My New Home | 58.00% | ~122 |
 | Mushroom Picker | 56.00% | ~118 |
 | Scrapper | 49.00% | ~103 |
-| Cook | 40.00% | ~84 |
+| Cook | 41.00% | ~87 |
 | Teleport | 39.00% | ~82 |
 | Scrap Master | 37.00% | ~78 |
 | Smelter | 35.00% | ~74 |
@@ -20,7 +20,7 @@ Number of Ratings: 38  (23.09.2022)
 | Robot Destroyer | 29.00% | ~61 |
 | Herbalist | 27.00% | ~57 |
 | Lumberjack | 25.00% | ~53 |
-| Prepper | 24.00% | ~51 |
+| Prepper | 25.00% | ~53 |
 | Electro-Scrap Master | 23.00% | ~49 |
 | Robot Hunter | 20.00% | ~42 |
 | Advanced Survivalist | 18.00% | ~38 |

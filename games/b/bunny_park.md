@@ -23,7 +23,7 @@
 | Quack quack | 6.00% | ~17 |
 | Tropical Summer | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 221)  
+Progressed: 282 (Ranked 222)  
 Completed: 8 (2.84%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -24,7 +24,7 @@
 | Children | 21.00% | ~32 |
 | Huge Snail | 17.00% | ~26 |
 | Flower of hope | 15.00% | ~23 |
-| Back Home | 11.00% | ~17 |
+| Back Home | 12.00% | ~18 |
 | Friend | 11.00% | ~17 |
 | Forest Howl | 10.00% | ~15 |
 | Old kettle | 9.00% | ~14 |

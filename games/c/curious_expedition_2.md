@@ -13,12 +13,12 @@ Number of Ratings: 20  (23.09.2022)
 | From Whence we Came | 39.00% | ~116 |
 | Lost & Found & Lost Again | 37.00% | ~110 |
 | Fire and Flood | 35.00% | ~104 |
-| Spooky! | 33.00% | ~98 |
+| Spooky! | 34.00% | ~101 |
 | Shennong Herbalist | 31.00% | ~92 |
 | Treasure Hunt | 30.00% | ~89 |
 | Good Mama | 29.00% | ~86 |
 | O Captain My Captain | 27.00% | ~80 |
-| Plunderer | 25.00% | ~74 |
+| Plunderer | 26.00% | ~77 |
 | Taxonomist | 24.00% | ~72 |
 | Nahua Seeker | 22.00% | ~66 |
 | Uncertain Loyalties | 22.00% | ~66 |

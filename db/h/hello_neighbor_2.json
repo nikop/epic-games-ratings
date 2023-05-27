@@ -326,7 +326,7 @@
   "Tags": [],
   "EOS_Progressed": 2385,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.9,
   "EosHistory": [
@@ -1024,9 +1024,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 549
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -1089,8 +1089,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:06:45.7661455+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:08:17.1103094+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:40.3998585+00:00",
-  "LastUpdate_Ratings": "2023-05-27T12:01:02.3630732+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:06:45.7661636+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:02:33.2682202+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:08:17.1103233+00:00"
 }

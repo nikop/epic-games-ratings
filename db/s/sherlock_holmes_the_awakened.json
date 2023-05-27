@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 262,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.58,
   "EosHistory": [
@@ -679,9 +679,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "MQ02_2",
@@ -743,9 +743,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "MQ04_1",
@@ -767,9 +767,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ05_1",
@@ -896,8 +896,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:03:58.1865668+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:05:58.4965768+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:57:42.8556921+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:03:58.1865934+00:00"
+  "LastUpdate_Ratings": "2023-05-27T12:59:56.1912083+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:05:58.4965955+00:00"
 }

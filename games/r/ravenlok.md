@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~836 |
-| Waff! | 94.00% | ~819 |
-| Into the Barn | 86.00% | ~749 |
+| Once Upon a Time | 96.00% | ~837 |
+| Waff! | 94.00% | ~820 |
+| Into the Barn | 86.00% | ~750 |
 | A Prophecy | 84.00% | ~732 |
-| Sword, Shield, Fight! | 75.00% | ~653 |
-| A Grand Visit | 70.00% | ~610 |
-| Vibing | 61.00% | ~531 |
-| Fun Guy | 61.00% | ~531 |
+| Sword, Shield, Fight! | 75.00% | ~654 |
+| A Grand Visit | 71.00% | ~619 |
+| Vibing | 61.00% | ~532 |
+| Fun Guy | 61.00% | ~532 |
 | Tragic Brave | 52.00% | ~453 |
 | Awakened Spirits | 49.00% | ~427 |
-| Little Shop | 48.00% | ~418 |
-| An Actor! | 44.00% | ~383 |
+| Little Shop | 48.00% | ~419 |
 | Surprise! | 43.00% | ~375 |
+| An Actor! | 43.00% | ~375 |
 | Curtain Call | 42.00% | ~366 |
 | Piece of Cake | 39.00% | ~340 |
 | Gooey Delight! | 39.00% | ~340 |
 | Glimmer of Hope | 39.00% | ~340 |
 | Well Rested | 39.00% | ~340 |
 | Teacups for Toppy | 38.00% | ~331 |
-| Nightmare Fuel | 37.00% | ~322 |
-| Take Heart | 37.00% | ~322 |
-| The Guardian | 37.00% | ~322 |
+| Nightmare Fuel | 37.00% | ~323 |
+| Take Heart | 37.00% | ~323 |
+| The Guardian | 37.00% | ~323 |
 | Stronger! | 36.00% | ~314 |
 | Ancient Wisdom | 35.00% | ~305 |
 | Frog Facts! | 35.00% | ~305 |
 | All That Glistens | 35.00% | ~305 |
 | It's Pointy! | 35.00% | ~305 |
-| Spellbound | 34.00% | ~296 |
 | All Skilled Up! | 34.00% | ~296 |
+| Spellbound | 33.00% | ~288 |
 | Extinct Again! | 32.00% | ~279 |
 | Bird of Prey | 32.00% | ~279 |
 | Stardust | 32.00% | ~279 |
 | Heartbreaker | 32.00% | ~279 |
 | Kidnapped! | 32.00% | ~279 |
 | Trick Question! | 31.00% | ~270 |
-| Pull the Plug | 30.00% | ~261 |
-| All Heart | 30.00% | ~261 |
+| Pull the Plug | 30.00% | ~262 |
+| All Heart | 30.00% | ~262 |
 | Soul Slayer | 29.00% | ~253 |
 | The Downfall | 29.00% | ~253 |
 | Extraordinary! | 29.00% | ~253 |
@@ -55,7 +55,7 @@
 | Dance Master | 8.00% | ~70 |
 | Bombs Away! | 8.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871 (Ranked 175)  
+Progressed: 872 (Ranked 175)  
 Completed: 59 (6.77%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 59 (6.77%) (Ranked 24)
 | 2023-05-24 | 846 | 57 |
 | 2023-05-25 | 858 | 58 |
 | 2023-05-26 | 868 | 58 |
-| 2023-05-27 | 871 | 59 |
+| 2023-05-27 | 872 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

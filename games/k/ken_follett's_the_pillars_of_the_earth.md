@@ -8,19 +8,19 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,350 |
 | Man of politics | 36.00% | ~4,586 |
-| Yet another secret | 35.00% | ~4,458 |
+| Yet another secret | 35.00% | ~4,459 |
 | Friends of sorts | 34.00% | ~4,331 |
 | Let there be darkness | 33.00% | ~4,204 |
 | End of Book One | 31.00% | ~3,949 |
-| Wannabe knight | 25.00% | ~3,184 |
-| Garden of Eden | 25.00% | ~3,184 |
-| Full house | 25.00% | ~3,184 |
-| Help an old friend | 22.00% | ~2,802 |
+| Wannabe knight | 25.00% | ~3,185 |
+| Garden of Eden | 25.00% | ~3,185 |
+| Full house | 25.00% | ~3,185 |
+| Help an old friend | 22.00% | ~2,803 |
 | Two of us | 20.00% | ~2,548 |
 | Negotiation skills | 19.00% | ~2,420 |
 | Workers' union | 19.00% | ~2,420 |
 | End of Book Two | 18.00% | ~2,293 |
-| Everything's in order | 17.00% | ~2,165 |
+| Everything's in order | 17.00% | ~2,166 |
 | Jack was here! | 15.00% | ~1,911 |
 | Twist of Fate | 14.00% | ~1,783 |
 | Exterminator | 14.00% | ~1,783 |
@@ -30,11 +30,11 @@ Number of Ratings: 368  (23.09.2022)
 | First profit | 11.00% | ~1,401 |
 | Skilled merchant | 10.00% | ~1,274 |
 | Team player | 10.00% | ~1,274 |
-| Nothing but make-believe | 9.00% | ~1,146 |
-| Brother Marcus | 9.00% | ~1,146 |
-| The oath | 9.00% | ~1,146 |
-| The truth revealed | 9.00% | ~1,146 |
-| The End. | 9.00% | ~1,146 |
+| Nothing but make-believe | 9.00% | ~1,147 |
+| Brother Marcus | 9.00% | ~1,147 |
+| The oath | 9.00% | ~1,147 |
+| The truth revealed | 9.00% | ~1,147 |
+| The End. | 9.00% | ~1,147 |
 | A cry for help | 8.00% | ~1,019 |
 | Silentium est aureum | 7.00% | ~892 |
 | Rebel without a cause | 6.00% | ~764 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~382 |
 | Boy of mystery | 2.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,738 (Ranked 104)  
+Progressed: 12,739 (Ranked 104)  
 Completed: 94 (0.74%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 94 (0.74%) (Ranked 98)
 | 2023-05-24 | 12,667 | 94 |
 | 2023-05-25 | 12,697 | 94 |
 | 2023-05-26 | 12,723 | 94 |
-| 2023-05-27 | 12,738 | 94 |
+| 2023-05-27 | 12,739 | 94 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  

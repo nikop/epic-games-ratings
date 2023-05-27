@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 871,
+  "EOS_Progressed": 872,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
@@ -1827,6 +1827,11 @@
       "Time": "2023-05-27T12:06:21.6935024+00:00",
       "NumProgressed": 871,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-05-27T13:07:56.9600931+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 50,
@@ -1838,7 +1843,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "10",
@@ -1854,15 +1859,15 @@
       "Name": "Nightmare Fuel",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 288
     },
     {
       "ID": "13",
@@ -1886,7 +1891,7 @@
       "Name": "Pull the Plug",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "16",
@@ -1916,9 +1921,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 619
     },
     {
       "ID": "2",
@@ -1926,7 +1931,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "20",
@@ -1942,7 +1947,7 @@
       "Name": "Take Heart",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "22",
@@ -1958,7 +1963,7 @@
       "Name": "All Heart",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "24",
@@ -1998,7 +2003,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "29",
@@ -2014,7 +2019,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "30",
@@ -2030,7 +2035,7 @@
       "Name": "Little Shop",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "32",
@@ -2038,7 +2043,7 @@
       "Name": "The Guardian",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "33",
@@ -2132,9 +2137,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 375
     },
     {
       "ID": "44",
@@ -2174,7 +2179,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "49",
@@ -2214,7 +2219,7 @@
       "Name": "Fun Guy",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "8",
@@ -2237,7 +2242,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 871,
+      "Progressed": 872,
       "Completed": 59
     }
   ],
@@ -2245,8 +2250,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:06:21.6935018+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:07:56.9600925+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:57:55.7002571+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:06:21.6935589+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:00:06.8872859+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:07:56.9601362+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 980,
+  "EOS_Progressed": 985,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 962,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -581,6 +581,11 @@
       "Time": "2023-05-27T12:03:38.5680485+00:00",
       "NumProgressed": 980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T13:05:42.4402511+00:00",
+      "NumProgressed": 985,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -600,7 +605,7 @@
       "Name": "Puppetmaster",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "BOT_DESTROYER",
@@ -608,15 +613,15 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CLUMSY",
       "SetID": "8lhbnh7",
       "Name": "Whoops",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 89
     },
     {
       "ID": "CONQUEROR",
@@ -624,7 +629,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -640,7 +645,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -672,7 +677,7 @@
       "Name": "Novice",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "GLOVE_SLAP",
@@ -696,7 +701,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 578
+      "UsersEstimate": 581
     },
     {
       "ID": "GUARD_MAKER",
@@ -720,7 +725,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -767,14 +772,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 980,
+      "Progressed": 985,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:03:38.5680482+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:05:42.4402507+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:57:31.8401497+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:03:38.5680639+00:00"
+  "LastUpdate_Ratings": "2023-05-27T12:59:47.8059774+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:05:42.4402645+00:00"
 }

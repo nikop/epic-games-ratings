@@ -6,21 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,026 |
-| That's a Grand Army | 8.00% | ~3,578 |
-| That is mine! | 8.00% | ~3,578 |
-| Victorious! | 8.00% | ~3,578 |
-| Brothers in Arms | 6.00% | ~2,684 |
-| That's a Grand Navy | 6.00% | ~2,684 |
-| Seriously?! | 6.00% | ~2,684 |
-| For the Glory | 5.00% | ~2,236 |
-| Cold War | 4.00% | ~1,789 |
-| True Catholic | 4.00% | ~1,789 |
-| Defender of the Faith | 3.00% | ~1,342 |
-| It's all about the money | 3.00% | ~1,342 |
-| Respected | 3.00% | ~1,342 |
-| Truly Divine Ruler | 3.00% | ~1,342 |
-| Agressive Expander | 2.00% | ~895 |
+| Until death do us apart | 9.00% | ~4,029 |
+| That's a Grand Army | 8.00% | ~3,582 |
+| That is mine! | 8.00% | ~3,582 |
+| Victorious! | 8.00% | ~3,582 |
+| Brothers in Arms | 6.00% | ~2,686 |
+| That's a Grand Navy | 6.00% | ~2,686 |
+| Seriously?! | 6.00% | ~2,686 |
+| For the Glory | 5.00% | ~2,238 |
+| Cold War | 4.00% | ~1,791 |
+| True Catholic | 4.00% | ~1,791 |
+| Defender of the Faith | 3.00% | ~1,343 |
+| It's all about the money | 3.00% | ~1,343 |
+| Respected | 3.00% | ~1,343 |
+| Truly Divine Ruler | 3.00% | ~1,343 |
 | Blockader | 2.00% | ~895 |
 | Combined Arms | 2.00% | ~895 |
 | Double the Love | 2.00% | ~895 |
@@ -30,13 +29,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~895 |
 | The Princess is in this Castle | 2.00% | ~895 |
 | Total Control | 2.00% | ~895 |
-| All That's Thine Shall Be Mine | 1.00% | ~447 |
-| Azur semé de lis or | 1.00% | ~447 |
-| Bright Spark | 1.00% | ~447 |
-| City of Cities | 1.00% | ~447 |
-| Factionalism | 1.00% | ~447 |
-| A Golden Empire | 1.00% | ~447 |
-| My armies are invincible! | 1.00% | ~447 |
+| Agressive Expander | 1.00% | ~448 |
+| All That's Thine Shall Be Mine | 1.00% | ~448 |
+| Azur semé de lis or | 1.00% | ~448 |
+| Bright Spark | 1.00% | ~448 |
+| City of Cities | 1.00% | ~448 |
+| Factionalism | 1.00% | ~448 |
+| A Golden Empire | 1.00% | ~448 |
+| My armies are invincible! | 1.00% | ~448 |
 | The Five Colonies | 0.90% | ~403 |
 | This navy can take it all | 0.90% | ~403 |
 | The Emperors new clothes | 0.80% | ~358 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~358 |
 | Down Under | 0.70% | ~313 |
 | Trustworthy | 0.70% | ~313 |
-| Electable! | 0.60% | ~268 |
-| Time Bandit | 0.60% | ~268 |
+| Electable! | 0.60% | ~269 |
+| Time Bandit | 0.60% | ~269 |
 | All belongs to Mother Russia | 0.50% | ~224 |
 | At every continent | 0.50% | ~224 |
 | Early-Modern Warfare | 0.50% | ~224 |
@@ -80,16 +80,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.30% | ~134 |
 | Vasa or Wettin? | 0.30% | ~134 |
 | Wonderful | 0.30% | ~134 |
-| A Decent Reserve | 0.20% | ~89 |
-| A Protected Market | 0.20% | ~89 |
-| AAA Credit | 0.20% | ~89 |
-| Fine Financials | 0.20% | ~89 |
-| A Fine Goosestep | 0.20% | ~89 |
-| Imperio español | 0.20% | ~89 |
-| Industrial Powerhouse | 0.20% | ~89 |
-| Magellan’s Voyage | 0.20% | ~89 |
-| We bled for this | 0.20% | ~89 |
-| World Discoverer | 0.20% | ~89 |
+| A Decent Reserve | 0.20% | ~90 |
+| A Protected Market | 0.20% | ~90 |
+| AAA Credit | 0.20% | ~90 |
+| Fine Financials | 0.20% | ~90 |
+| A Fine Goosestep | 0.20% | ~90 |
+| Imperio español | 0.20% | ~90 |
+| Industrial Powerhouse | 0.20% | ~90 |
+| Magellan’s Voyage | 0.20% | ~90 |
+| We bled for this | 0.20% | ~90 |
+| World Discoverer | 0.20% | ~90 |
 | The 52 Garhs | 0.10% | ~45 |
 | I don't like sand | 0.10% | ~45 |
 | A Blessed Nation | 0.10% | ~45 |
@@ -255,6 +255,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Spanish Fly | 0.10% | ~45 |
 | Spice Girls | 0.10% | ~45 |
 | The Spice Must Flow | 0.10% | ~45 |
+| Stern des Südens | 0.10% | ~45 |
 | Stiff Upper Lippe | 0.10% | ~45 |
 | Strait Talk | 0.10% | ~45 |
 | Subsidize my Love | 0.10% | ~45 |
@@ -346,7 +347,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Shemot is Not | 0.00% | ~0 |
 | Sons of Carthage | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
-| Stern des Südens | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,730 (Ranked 79)  
+Progressed: 44,770 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
-| 2023-05-27 | 44,730 | 0 |
+| 2023-05-27 | 44,770 | 0 |
 ## Awards
 Max (Educational): 5,293  (Ranked 60)  
 Sum: 43,828 (Ranked 27)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -212,7 +212,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33270,
+  "EOS_Progressed": 33271,
   "EOS_Completed": 159,
   "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 3,
@@ -3397,6 +3397,11 @@
       "Time": "2023-05-27T12:01:30.2056724+00:00",
       "NumProgressed": 33270,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-05-27T13:02:55.9526353+00:00",
+      "NumProgressed": 33271,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 44,
@@ -3528,7 +3533,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26949
+      "UsersEstimate": 26950
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3574,9 +3579,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "db84117",
       "Name": "The Hidden Village",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2662
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -3584,7 +3589,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -3632,7 +3637,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18631
+      "UsersEstimate": 18632
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -3640,7 +3645,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10646
+      "UsersEstimate": 10647
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -3648,7 +3653,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 20960
+      "UsersEstimate": 20961
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3672,7 +3677,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19962
+      "UsersEstimate": 19963
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -3744,7 +3749,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30608
+      "UsersEstimate": 30609
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3759,7 +3764,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33270,
+      "Progressed": 33271,
       "Completed": 159
     }
   ],
@@ -3767,8 +3772,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:01:30.2056721+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:02:55.9526347+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.3708529+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:58:56.0512252+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:01:30.2057266+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:00:55.062663+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:02:55.9526842+00:00"
 }

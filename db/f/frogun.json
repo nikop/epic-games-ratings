@@ -4,7 +4,7 @@
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194,
+  "EOS_Progressed": 195,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.55,
+  "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -46,6 +46,11 @@
     {
       "Time": "2023-05-26T20:06:49.6508969+00:00",
       "NumProgressed": 194,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T13:06:30.6660982+00:00",
+      "NumProgressed": 195,
       "NumCompleted": 3
     }
   ],
@@ -74,7 +79,7 @@
       "Name": "Treasure hunter",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Achievement_Hexy",
@@ -88,9 +93,9 @@
       "ID": "Achievement_Kicky",
       "SetID": "cn6a29l",
       "Name": "Calory burner",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement_NoDeaths",
@@ -98,7 +103,7 @@
       "Name": "Survivalist",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Achievement_Notes",
@@ -106,15 +111,15 @@
       "Name": "Historian",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Achievement_Prickly",
       "SetID": "cn6a29l",
       "Name": "Prickly situation handler",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "Achievement_Race1",
@@ -144,9 +149,9 @@
       "ID": "Achievement_Skull",
       "SetID": "cn6a29l",
       "Name": "Challenge seeker",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 152
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -154,7 +159,7 @@
       "Name": "Speedrunner",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Achievement_Wrintry",
@@ -305,7 +310,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 194,
+      "Progressed": 195,
       "Completed": 3
     }
   ],
@@ -313,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:04:35.3236565+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:06:30.6660978+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:13.2391387+00:00",
-  "LastUpdate_Ratings": "2023-05-27T12:00:24.8835672+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:04:35.323679+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:02:05.3500887+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:06:30.6661152+00:00"
 }

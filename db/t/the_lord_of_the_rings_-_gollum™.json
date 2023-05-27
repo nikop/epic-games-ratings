@@ -2,7 +2,7 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 86,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -260,6 +260,11 @@
       "Time": "2023-05-27T12:06:16.1667895+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T13:07:52.2531076+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -293,9 +298,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 158
     },
     {
       "ID": "Chapter10",
@@ -309,17 +314,17 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "Chapter4",
@@ -365,17 +370,17 @@
       "ID": "Chapter9",
       "SetID": "70l3651",
       "Name": "Gollum/Sm\u00E9agol",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 122
     },
     {
       "ID": "Collectibles2",
@@ -397,9 +402,9 @@
       "ID": "Darkness",
       "SetID": "70l3651",
       "Name": "Sweet Darkness",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ElfFriend",
@@ -423,7 +428,7 @@
       "Name": "Like Flying...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GollumChoices",
@@ -437,9 +442,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "Memories",
@@ -447,7 +452,7 @@
       "Name": "Memories",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Murderer",
@@ -551,21 +556,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 283,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:06:16.166789+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:07:52.2531072+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:58:16.4294259+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:06:16.1668172+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:00:22.8594149+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:07:52.25313+00:00"
 }

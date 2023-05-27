@@ -346,9 +346,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6976,
+  "EOS_Progressed": 6979,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2541,6 +2541,11 @@
       "Time": "2023-05-27T12:03:21.3144581+00:00",
       "NumProgressed": 6976,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-27T13:05:28.6170444+00:00",
+      "NumProgressed": 6979,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2656,7 +2661,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "ACH15",
@@ -2680,7 +2685,7 @@
       "Name": "Gun for Hire",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH18",
@@ -2712,7 +2717,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3000
+      "UsersEstimate": 3001
     },
     {
       "ID": "ACH22",
@@ -2728,7 +2733,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "ACH24",
@@ -2784,7 +2789,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH31",
@@ -2823,7 +2828,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6976,
+      "Progressed": 6979,
       "Completed": 23
     }
   ],
@@ -2831,8 +2836,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-26T13:02:50.0676532+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:03:21.3144576+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:05:28.6170438+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:58:50.4513953+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:03:21.3144951+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:00:50.575358+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:05:28.6170726+00:00"
 }

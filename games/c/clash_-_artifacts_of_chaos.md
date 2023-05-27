@@ -13,7 +13,7 @@
 | Armored | 26.00% | ~19 |
 | Freedom | 23.00% | ~17 |
 | Your Training Continues | 23.00% | ~17 |
-| Winner | 19.00% | ~14 |
+| Winner | 21.00% | ~15 |
 | The Pride of Moozhaw | 18.00% | ~13 |
 | Omnia Vincit Amor | 18.00% | ~13 |
 | Stilt House | 14.00% | ~10 |

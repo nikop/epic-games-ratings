@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6094,
+  "EOS_Progressed": 6096,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2343,6 +2343,11 @@
       "Time": "2023-05-27T12:06:18.9763664+00:00",
       "NumProgressed": 6094,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-27T13:07:54.5458193+00:00",
+      "NumProgressed": 6096,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2354,7 +2359,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ARRR",
@@ -2378,7 +2383,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2426,7 +2431,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -2506,7 +2511,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "THING",
@@ -2521,7 +2526,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6094,
+      "Progressed": 6096,
       "Completed": 22
     }
   ],
@@ -2529,8 +2534,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:06:18.9763655+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:07:54.5458189+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:58:28.2848512+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:06:18.9763983+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:00:33.9777448+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:07:54.5458386+00:00"
 }

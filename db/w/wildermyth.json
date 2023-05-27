@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1214,
+  "EOS_Progressed": 1215,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -625,6 +625,11 @@
       "Time": "2023-05-27T11:06:14.721841+00:00",
       "NumProgressed": 1214,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-27T13:08:02.5129742+00:00",
+      "NumProgressed": 1215,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -668,7 +673,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -708,7 +713,7 @@
       "Name": "Passing Shadow",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -770,9 +775,9 @@
       "ID": "achievement_kill1000Thrixl",
       "SetID": "95dc8p",
       "Name": "No More Nightmares",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -794,9 +799,9 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -812,7 +817,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_mythwalker",
@@ -828,7 +833,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -850,9 +855,9 @@
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
       "SetID": "95dc8p",
       "Name": "Pyrrhic Victory",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 109
     },
     {
       "ID": "completedStory_cvawn",
@@ -930,9 +935,9 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 61
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1083,15 +1088,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1214,
+      "Progressed": 1215,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:06:28.4291585+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:08:02.5129737+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-27T12:01:20.3735959+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:06:28.429219+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:02:46.6826887+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:08:02.5130151+00:00"
 }

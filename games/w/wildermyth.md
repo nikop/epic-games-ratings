@@ -6,11 +6,11 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 32.00% | ~388 |
+| The Cost of Heroism | 32.00% | ~389 |
 | Me and My Familiar | 30.00% | ~364 |
-| This Too Shall Pass | 25.00% | ~304 |
-| Passing Shadow | 24.00% | ~291 |
-| Cutthroat Competitors | 24.00% | ~291 |
+| This Too Shall Pass | 26.00% | ~316 |
+| Passing Shadow | 24.00% | ~292 |
+| Cutthroat Competitors | 24.00% | ~292 |
 | How Romantic! | 22.00% | ~267 |
 | Daybreak | 22.00% | ~267 |
 | Gotta Ca... Must Collect All of Them | 20.00% | ~243 |
@@ -18,8 +18,8 @@ Number of Ratings: 45  (23.09.2022)
 | Who's Counting? | 11.00% | ~134 |
 | War Endured | 11.00% | ~134 |
 | Core Failure | 11.00% | ~134 |
-| A Mythic Menagerie | 10.00% | ~121 |
-| Pyrrhic Victory | 8.00% | ~97 |
+| A Mythic Menagerie | 10.00% | ~122 |
+| Pyrrhic Victory | 9.00% | ~109 |
 | Thematic Divergence | 7.00% | ~85 |
 | Chain Reaction | 7.00% | ~85 |
 | Echoes Die | 7.00% | ~85 |
@@ -29,13 +29,14 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 5.00% | ~61 |
 | Plague Doctor | 5.00% | ~61 |
 | Wingknight's Prowess | 5.00% | ~61 |
+| All My Birds, Safely Home | 5.00% | ~61 |
 | Worldwalker | 4.00% | ~49 |
 | Legends Never Die | 4.00% | ~49 |
 | In Soil, In Smoke | 4.00% | ~49 |
 | A Hunger, Sated | 4.00% | ~49 |
-| All My Birds, Safely Home | 4.00% | ~49 |
 | Turncoat | 4.00% | ~49 |
 | We Emerge Changed | 3.00% | ~36 |
+| No More Nightmares | 3.00% | ~36 |
 | Bears are Scary | 3.00% | ~36 |
 | Grillmaster | 3.00% | ~36 |
 | Into Mulch | 3.00% | ~36 |
@@ -45,7 +46,6 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 2.00% | ~24 |
 | Drauvenslayers | 2.00% | ~24 |
 | Bonebreakers | 2.00% | ~24 |
-| No More Nightmares | 2.00% | ~24 |
 | War-Ender | 2.00% | ~24 |
 | Fight Like a Bird | 2.00% | ~24 |
 | Some Say I'm Too Flashy | 2.00% | ~24 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,214 (Ranked 160)  
+Progressed: 1,215 (Ranked 160)  
 Completed: 3 (0.25%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 3 (0.25%) (Ranked 134)
 | 2023-05-24 | 1,202 | 3 |
 | 2023-05-25 | 1,205 | 3 |
 | 2023-05-26 | 1,211 | 3 |
-| 2023-05-27 | 1,214 | 3 |
+| 2023-05-27 | 1,215 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 464)  

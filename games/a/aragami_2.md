@@ -6,21 +6,21 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,608 |
-| First Steps | 81.00% | ~26,949 |
+| Awakening | 92.00% | ~30,609 |
+| First Steps | 81.00% | ~26,950 |
 | Control the Shadows | 68.00% | ~22,624 |
-| Tools of the Trade | 63.00% | ~20,960 |
-| Apprentice | 60.00% | ~19,962 |
+| Tools of the Trade | 63.00% | ~20,961 |
+| Apprentice | 60.00% | ~19,963 |
 | Secret Seeker | 57.00% | ~18,964 |
-| Forge of Assassins | 56.00% | ~18,631 |
+| Forge of Assassins | 56.00% | ~18,632 |
 | Revenant | 51.00% | ~16,968 |
 | I don’t Care! | 45.00% | ~14,972 |
 | Bird of Prey | 37.00% | ~12,310 |
-| Engraved with Power | 32.00% | ~10,646 |
+| Engraved with Power | 32.00% | ~10,647 |
 | Lady | 30.00% | ~9,981 |
 | Fashionable Assassin | 27.00% | ~8,983 |
 | Apex Predator | 24.00% | ~7,985 |
-| Soul Reaver | 22.00% | ~7,319 |
+| Soul Reaver | 22.00% | ~7,320 |
 | Embers | 21.00% | ~6,987 |
 | Wall Lizard | 20.00% | ~6,654 |
 | Clinging to Life | 18.00% | ~5,989 |
@@ -34,9 +34,9 @@ Number of Ratings: 88  (23.09.2022)
 | Master Ninja | 10.00% | ~3,327 |
 | Hatching | 9.00% | ~2,994 |
 | Bonds | 9.00% | ~2,994 |
-| The Hidden Village | 9.00% | ~2,994 |
 | Denouement | 8.00% | ~2,662 |
 | Get Over Here | 8.00% | ~2,662 |
+| The Hidden Village | 8.00% | ~2,662 |
 | A Pleasant Stay | 8.00% | ~2,662 |
 | Pilgrimage | 7.00% | ~2,329 |
 | The Lookout | 5.00% | ~1,664 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~333 |
 | Anger Management | 1.00% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,270 (Ranked 84)  
+Progressed: 33,271 (Ranked 84)  
 Completed: 159 (0.48%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 159 (0.48%) (Ranked 107)
 | 2023-05-24 | 33,084 | 157 |
 | 2023-05-25 | 33,141 | 159 |
 | 2023-05-26 | 33,225 | 159 |
-| 2023-05-27 | 33,270 | 159 |
+| 2023-05-27 | 33,271 | 159 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

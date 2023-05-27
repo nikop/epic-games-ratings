@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -198,6 +198,11 @@
       "Time": "2023-05-26T15:07:08.561328+00:00",
       "NumProgressed": 612,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T13:02:50.8957104+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -233,7 +238,7 @@
       "Name": "All Seats Taken",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -273,7 +278,7 @@
       "Name": "Crafty",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Achievement_DontPanic",
@@ -281,15 +286,15 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 343
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -305,7 +310,7 @@
       "Name": "Extreme Makeover",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement_FeelsLikeHome",
@@ -353,7 +358,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -377,7 +382,7 @@
       "Name": "Hands Full",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Achievement_HelloWorld",
@@ -385,7 +390,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "Achievement_Improvinator",
@@ -393,7 +398,7 @@
       "Name": "The Improvinator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement_IntergalacticBreakup",
@@ -417,7 +422,7 @@
       "Name": "The Last Supper",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement_Maegangement",
@@ -497,7 +502,7 @@
       "Name": "Space Colonization",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -505,7 +510,7 @@
       "Name": "Space Engineer",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -529,7 +534,7 @@
       "Name": "Stay Cool",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -560,7 +565,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 1
     }
   ],
@@ -568,8 +573,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:01:24.0957891+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:02:50.8957095+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.5136089+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:59:27.3162311+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:01:24.0958308+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:01:20.9156601+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:02:50.8957432+00:00"
 }

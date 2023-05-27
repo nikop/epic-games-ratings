@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 375,
+  "EOS_Progressed": 376,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -165,6 +165,11 @@
       "Time": "2023-05-26T16:07:15.132761+00:00",
       "NumProgressed": 375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T13:08:09.6031628+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -206,9 +211,9 @@
       "ID": "collect-discounted-items1",
       "SetID": "799afm0",
       "Name": "Frugal",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "collect-discounted-items2",
@@ -222,17 +227,17 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 154
     },
     {
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 169
     },
     {
       "ID": "different-items2",
@@ -294,9 +299,9 @@
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "finished-quest-reaper",
@@ -304,7 +309,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "finished-quest-sci",
@@ -342,9 +347,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "last-hero",
@@ -352,7 +357,7 @@
       "Name": "Last Man Standing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "save-zombie",
@@ -368,7 +373,7 @@
       "Name": "Wide Selection",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "unlock-mutations",
@@ -455,7 +460,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 375,
+      "Progressed": 376,
       "Completed": 1
     }
   ],
@@ -463,8 +468,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-27T12:06:36.8706588+00:00",
+  "LastChanged_Achievements": "2023-05-27T13:08:09.6031623+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:59:14.8896946+00:00",
-  "LastUpdate_Achievements": "2023-05-27T12:06:36.8706843+00:00"
+  "LastUpdate_Ratings": "2023-05-27T13:01:10.6355351+00:00",
+  "LastUpdate_Achievements": "2023-05-27T13:08:09.6031834+00:00"
 }
