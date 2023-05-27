@@ -51,6 +51,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Harder They Fall...Dood | 0.10% | ~5 |
 | Hijinks Averted | 0.10% | ~5 |
 | Host Hijinks | 0.10% | ~5 |
+| Hungry Hungry Hot Tubs | 0.10% | ~2 |
 | Ice Bath | 0.10% | ~5 |
 | It Smells Like Roses | 0.10% | ~2 |
 | Money Shot | 0.10% | ~5 |
@@ -71,12 +72,11 @@ Number of Ratings: 177  (23.09.2022)
 | Snapped | 0.10% | ~5 |
 | Congrats, A Celebrity Hates You | 0.00% | ~0 |
 | D-Club Certified | 0.00% | ~0 |
-| Hungry Hungry Hot Tubs | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,176 (Ranked 124)  
+Progressed: 5,179 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.04%) (Ranked 178)
 | 2023-05-24 | 5,124 | 2 |
 | 2023-05-25 | 5,135 | 2 |
 | 2023-05-26 | 5,162 | 2 |
-| 2023-05-27 | 5,176 | 2 |
+| 2023-05-27 | 5,179 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -212,6 +212,11 @@
       "Time": "2023-05-27T09:06:38.6465789+00:00",
       "NumProgressed": 365,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-27T16:06:11.3371168+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -223,7 +228,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "CHOICES_MATTER",
@@ -295,7 +300,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -309,9 +314,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 260
     },
     {
       "ID": "GOOD_KARMA",
@@ -365,9 +370,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 157
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -382,7 +387,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 4
     }
   ],
@@ -390,8 +395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:09.3777001+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:11.3371163+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:57:55.0377887+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:09.3777124+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:58:00.4897405+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:11.3371335+00:00"
 }

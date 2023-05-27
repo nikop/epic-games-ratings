@@ -2,7 +2,7 @@
   "ID": "675f47ac5d5847f59badceea5b0950cf",
   "Name": "Tacoma",
   "ProductSlug": "tacoma",
-  "Ranking_Rating": 678,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 423,
@@ -278,6 +278,6 @@
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
   "LastChanged": "2023-05-04T22:00:47.0088171+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:17.5034734+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:00:28.9366961+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:01:34.8523556+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:00:09.0684808+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:01:03.3756224+00:00"
 }

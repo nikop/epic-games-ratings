@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -153,6 +153,11 @@
       "Time": "2023-05-21T23:06:03.6124595+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T16:06:21.035293+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -178,7 +183,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -210,7 +215,7 @@
       "ID": "MC_complete",
       "SetID": "3b8n56h",
       "Name": "The Steed",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -226,7 +231,7 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -234,7 +239,7 @@
       "ID": "MasterOracleQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Best Pupil",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -242,7 +247,7 @@
       "ID": "MasterOracleQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Oracle Mastery",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -250,7 +255,7 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -258,7 +263,7 @@
       "ID": "MasterRaiderQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "FOR JUSTICE!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -266,7 +271,7 @@
       "ID": "MasterRaiderQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Raider Mastery",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -274,7 +279,7 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -282,7 +287,7 @@
       "ID": "MasterTravelerQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Journey\u2019s End",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -298,7 +303,7 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -306,7 +311,7 @@
       "ID": "MasterWardenQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Masterpiece",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -314,7 +319,7 @@
       "ID": "MasterWardenQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Warden Mastery",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -322,7 +327,7 @@
       "ID": "StrangerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "A Strange Proposition",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -330,7 +335,7 @@
       "ID": "StrangerQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Towards the Future",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -346,7 +351,7 @@
       "ID": "all_curios",
       "SetID": "3b8n56h",
       "Name": "Trinket Enthusiast",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -354,7 +359,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -370,7 +375,7 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -378,7 +383,7 @@
       "ID": "cards_discovered_complete",
       "SetID": "3b8n56h",
       "Name": "Card Completionist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -386,7 +391,7 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -394,7 +399,7 @@
       "ID": "demiurge_defeated",
       "SetID": "3b8n56h",
       "Name": "The Usurper",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -402,7 +407,7 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -410,7 +415,7 @@
       "ID": "git_gud?",
       "SetID": "3b8n56h",
       "Name": "First time?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -418,7 +423,7 @@
       "ID": "harmony_rune",
       "SetID": "3b8n56h",
       "Name": "Harmony",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -426,7 +431,7 @@
       "ID": "madking_free",
       "SetID": "3b8n56h",
       "Name": "The False Prophet",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -434,7 +439,7 @@
       "ID": "ok_ending",
       "SetID": "3b8n56h",
       "Name": "Sealed Once Again",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -442,7 +447,7 @@
       "ID": "perfect_ending",
       "SetID": "3b8n56h",
       "Name": "A New Tomorrow",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -450,7 +455,7 @@
       "ID": "portaltraveler_mirrors",
       "SetID": "3b8n56h",
       "Name": "ACHOO!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -483,7 +488,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
@@ -491,8 +496,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:20.1669021+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:21.0352916+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.9841997+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:57:19.6406733+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:20.1669257+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:57:32.9265751+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:21.0353251+00:00"
 }

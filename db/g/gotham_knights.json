@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62348,
+  "EOS_Progressed": 62359,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3986,6 +3986,11 @@
       "Time": "2023-05-27T15:06:49.7442535+00:00",
       "NumProgressed": 62348,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T16:06:47.4301943+00:00",
+      "NumProgressed": 62359,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4093,7 +4098,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CLAYFACE_1",
@@ -4109,7 +4114,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CLAYFACE_3",
@@ -4117,7 +4122,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -4221,7 +4226,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "FREEZE_1_5",
@@ -4301,7 +4306,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "HARLEY_2",
@@ -4309,7 +4314,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "HARLEY_3",
@@ -4325,7 +4330,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -4373,7 +4378,7 @@
       "Name": "Knighthood",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4389,7 +4394,7 @@
       "Name": "Loose Ends",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "MYSTERY_02",
@@ -4421,7 +4426,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "MYSTERY_06",
@@ -4484,13 +4489,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62348,
+      "Progressed": 62359,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32628,
+      "Progressed": 32639,
       "Completed": 2642
     }
   ],
@@ -4498,8 +4503,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:49.7442531+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:47.4301936+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:00:19.7417501+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:49.7443152+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:00:02.7692603+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:47.4302683+00:00"
 }

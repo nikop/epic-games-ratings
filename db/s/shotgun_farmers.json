@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -283,6 +283,11 @@
       "Time": "2023-05-27T14:04:13.6922474+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T16:05:03.5071248+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -348,9 +353,9 @@
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -364,9 +369,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -580,9 +585,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -678,7 +683,7 @@
       "Name": "Quick-Draw Pod",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -748,7 +753,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -756,15 +761,15 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -796,9 +801,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -812,7 +817,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -868,7 +873,7 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -885,13 +890,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 2
     }
   ],
@@ -899,8 +904,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:04:50.0067628+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:05:03.5071241+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:58:35.3871169+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:04:50.0068207+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:58:34.1067272+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:05:03.5072044+00:00"
 }

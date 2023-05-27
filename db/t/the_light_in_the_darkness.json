@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1441,
+  "EOS_Progressed": 1442,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 7,
@@ -1783,6 +1783,11 @@
       "Time": "2023-05-27T13:08:06.4585979+00:00",
       "NumProgressed": 1441,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-05-27T16:06:25.6439052+00:00",
+      "NumProgressed": 1442,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 12,
@@ -1818,7 +1823,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Jacques a Dit",
@@ -1856,9 +1861,9 @@
       "ID": "Little Helper",
       "SetID": "b40dflc",
       "Name": "Little Helper",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 461
+      "UsersEstimate": 447
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1889,7 +1894,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1441,
+      "Progressed": 1442,
       "Completed": 113
     }
   ],
@@ -1897,8 +1902,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:25.7127307+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:25.6439047+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:00:07.2764004+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:25.7127476+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:59:51.7368852+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:25.6439261+00:00"
 }

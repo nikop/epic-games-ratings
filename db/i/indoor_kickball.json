@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "15",
       "SetID": "39djiaj",
       "Name": "Grand Slam!",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "16",
@@ -299,9 +299,9 @@
       "ID": "34",
       "SetID": "39djiaj",
       "Name": "Have Mercy",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "35",
@@ -409,8 +409,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:19.5877392+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:20.3855985+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:59:37.3564018+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:19.5877635+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:59:27.1906057+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:20.3856297+00:00"
 }

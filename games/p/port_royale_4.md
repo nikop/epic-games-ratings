@@ -7,7 +7,7 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~462 |
-| My little farm | 65.00% | ~376 |
+| My little farm | 66.00% | ~381 |
 | Every beginning is difficult | 62.00% | ~358 |
 | 3, 2, 1, mine | 55.00% | ~318 |
 | Gofer | 55.00% | ~318 |
@@ -20,8 +20,8 @@ Number of Ratings: 53  (23.09.2022)
 | Licence to Kill | 35.00% | ~202 |
 | Pirates! | 34.00% | ~197 |
 | Collectionitis | 28.00% | ~162 |
+| Megalomania | 28.00% | ~162 |
 | Christening | 27.00% | ~156 |
-| Megalomania | 27.00% | ~156 |
 | Groundskeeper | 25.00% | ~144 |
 | Wholesale | 21.00% | ~121 |
 | Walk the plank | 20.00% | ~116 |
@@ -52,8 +52,8 @@ Number of Ratings: 53  (23.09.2022)
 | Administrator | 1.00% | ~6 |
 | Raiders of the Lost Ark | 1.00% | ~6 |
 | Traffic chaos | 1.00% | ~6 |
+| Parlay? | 1.00% | ~6 |
 | Capitalist | 0.90% | ~5 |
-| Parlay? | 0.90% | ~5 |
 | Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)

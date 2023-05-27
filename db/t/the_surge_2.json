@@ -5,7 +5,7 @@
   "Ranking_Rating": 792,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 86,
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1629,
+  "EOS_Progressed": 1631,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -650,6 +650,11 @@
       "Time": "2023-05-27T15:06:50.0374016+00:00",
       "NumProgressed": 1629,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-27T16:06:47.7270961+00:00",
+      "NumProgressed": 1631,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -669,7 +674,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "ACHV_03",
@@ -677,7 +682,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHV_04",
@@ -701,7 +706,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHV_07",
@@ -765,7 +770,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_15",
@@ -797,7 +802,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHV_19",
@@ -813,7 +818,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHV_21",
@@ -861,7 +866,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1305
     },
     {
       "ID": "ACHV_27",
@@ -877,7 +882,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHV_29",
@@ -893,7 +898,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHV_31",
@@ -909,7 +914,7 @@
       "Name": "Remote Surgery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_33",
@@ -933,7 +938,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACHV_36",
@@ -941,7 +946,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACHV_37",
@@ -949,7 +954,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHV_38",
@@ -965,7 +970,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACHV_40",
@@ -981,7 +986,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACHV_42",
@@ -989,7 +994,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHV_43",
@@ -1005,7 +1010,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_45",
@@ -1013,7 +1018,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHV_46",
@@ -1053,7 +1058,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_51",
@@ -1069,7 +1074,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_53",
@@ -1116,7 +1121,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1629,
+      "Progressed": 1631,
       "Completed": 10
     }
   ],
@@ -1124,8 +1129,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:50.0374009+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:47.7270952+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:01:15.6930314+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:50.0374573+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:00:47.2617163+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:47.727151+00:00"
 }

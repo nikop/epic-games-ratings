@@ -2,9 +2,9 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_EOS_Progress": 226,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 263,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.56,
   "EosHistory": [
@@ -668,9 +668,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "MQ01_2",
@@ -724,33 +724,33 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "MQ04_1",
@@ -764,9 +764,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "MQ04_3",
@@ -780,9 +780,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "MQ05_2",
@@ -804,9 +804,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "MQ06_1",
@@ -820,9 +820,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "MQ06_3",
@@ -901,8 +901,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:03:44.8618475+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:04:08.3276428+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:57:16.7074513+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:03:44.8618653+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:57:31.2104113+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:04:08.3276661+00:00"
 }

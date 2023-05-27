@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 665,
+  "Ranking_Rating": 664,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -218,11 +218,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1605,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -1608,6 +1608,11 @@
       "Time": "2023-05-27T15:06:21.6260493+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T16:06:22.3735993+00:00",
+      "NumProgressed": 1605,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1665,9 +1670,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1699,7 +1704,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1713,9 +1718,9 @@
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
       "SetID": "bm6el81",
       "Name": "Master of Secondaries",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -1787,7 +1792,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1809,9 +1814,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1867,7 +1872,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1937,9 +1942,9 @@
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
       "SetID": "bm6el81",
       "Name": "It\u0027ll Buff Right Out",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -1961,9 +1966,9 @@
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -1977,9 +1982,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -2017,9 +2022,9 @@
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -2049,9 +2054,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -2065,9 +2070,9 @@
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -2186,13 +2191,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1550,
+      "Progressed": 1556,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1605,
       "Completed": 2
     }
   ],
@@ -2200,8 +2205,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:21.6260486+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:22.3735986+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:01:19.6331726+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:21.6261038+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:00:50.2345743+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:22.3736783+00:00"
 }

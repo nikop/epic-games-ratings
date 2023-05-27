@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.29,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -105,6 +105,11 @@
     {
       "Time": "2023-05-26T19:05:43.359962+00:00",
       "NumProgressed": 175,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-27T16:06:39.0820968+00:00",
+      "NumProgressed": 176,
       "NumCompleted": 4
     }
   ],
@@ -189,7 +194,7 @@
       "Name": "Keyu Exterminator",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -229,15 +234,15 @@
       "Name": "Tastes Like Chicken",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SHARD_1",
       "SetID": "ao59f0i",
       "Name": "First Shard",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_SHARD_2",
@@ -261,7 +266,7 @@
       "Name": "Fourth Shard",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SHARD_5",
@@ -269,7 +274,7 @@
       "Name": "Fifth Shard",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_TROLL",
@@ -300,7 +305,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 4
     }
   ],
@@ -308,8 +313,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:40.634983+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:39.0820963+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:26.9999323+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:00:42.9558859+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:40.6349954+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:00:20.1728277+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:39.0821161+00:00"
 }

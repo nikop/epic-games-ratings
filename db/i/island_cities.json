@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 70,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 16.48,
+  "EOS_NewPlayers": 71,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 16.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -818,6 +818,11 @@
       "Time": "2023-05-27T14:05:14.2486571+00:00",
       "NumProgressed": 182,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-27T16:06:13.4752484+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -829,7 +834,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "LEVEL_002",
@@ -837,7 +842,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_003",
@@ -845,23 +850,23 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_006",
@@ -893,7 +898,7 @@
       "Name": "Who loves trains?",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_010",
@@ -915,17 +920,17 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_014",
@@ -933,7 +938,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "LEVEL_015",
@@ -963,9 +968,9 @@
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_019",
@@ -1004,7 +1009,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 30
     }
   ],
@@ -1012,8 +1017,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:11.7892301+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:13.4752478+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:58:16.3698529+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:11.789245+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:58:17.7752581+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:13.4752692+00:00"
 }

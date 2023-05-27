@@ -4242,9 +4242,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705729,
+  "EOS_Progressed": 705749,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1785,
+  "EOS_NewPlayers": 1781,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7407,6 +7407,11 @@
       "Time": "2023-05-27T15:06:41.4094805+00:00",
       "NumProgressed": 705729,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T16:06:39.8269361+00:00",
+      "NumProgressed": 705749,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7424,9 +7429,9 @@
       "ID": "02_Vengeance_H1",
       "SetID": "adcm20g",
       "Name": "The Assault",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 7057
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7440,9 +7445,9 @@
       "ID": "04_Vengeance_H3",
       "SetID": "adcm20g",
       "Name": "A Lady\u0027s Blood in the Snow",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 7057
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7754,7 +7759,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7762,7 +7767,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7817,21 +7822,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15030,
-      "Completed": 10177
+      "Progressed": 15050,
+      "Completed": 10178
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705729,
+      "Progressed": 705749,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T14:59:24.8259762+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:41.4094801+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:39.8269352+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:59:24.8259776+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:41.4095258+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:59:17.9171957+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:39.8269884+00:00"
 }

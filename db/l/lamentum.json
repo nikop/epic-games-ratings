@@ -2,12 +2,12 @@
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
-  "Ranking_Rating": 707,
+  "Ranking_Rating": 706,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -65,7 +65,7 @@
   "Tags": [],
   "EOS_Progressed": 282,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
@@ -328,8 +328,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:04:13.5899559+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:04:32.7996909+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:35.252453+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:57:57.4495676+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:04:13.5899665+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:58:02.3782168+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:04:32.7997051+00:00"
 }

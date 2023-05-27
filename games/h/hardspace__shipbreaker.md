@@ -6,27 +6,27 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~471 |
-| It’s Heating up! | 68.00% | ~445 |
-| Let’s patch things up | 65.00% | ~425 |
-| I can fix it! | 61.00% | ~399 |
-| Post No Bills | 54.00% | ~353 |
-| Truly Shocking! | 46.00% | ~301 |
-| Critical Thinker | 34.00% | ~222 |
-| Always Finding Your Mark | 28.00% | ~183 |
-| The Weight of the World | 28.00% | ~183 |
+| Breathe In… Breathe Out… | 72.00% | ~472 |
+| It’s Heating up! | 68.00% | ~446 |
+| Let’s patch things up | 64.00% | ~420 |
+| I can fix it! | 61.00% | ~400 |
+| Post No Bills | 54.00% | ~354 |
+| Truly Shocking! | 46.00% | ~302 |
+| Critical Thinker | 34.00% | ~223 |
+| Always Finding Your Mark | 28.00% | ~184 |
 | No Niños | 27.00% | ~177 |
-| Act I Complete | 26.00% | ~170 |
-| A drop in the Ocean | 26.00% | ~170 |
-| I ain’t afraid of no Ghost | 23.00% | ~150 |
-| Act II Complete | 19.00% | ~124 |
+| The Weight of the World | 27.00% | ~177 |
+| A drop in the Ocean | 26.00% | ~171 |
+| Act I Complete | 25.00% | ~164 |
+| I ain’t afraid of no Ghost | 23.00% | ~151 |
+| Act II Complete | 19.00% | ~125 |
 | Bing Bang BOOM | 18.00% | ~118 |
-| A successful procedure! | 17.00% | ~111 |
+| A successful procedure! | 17.00% | ~112 |
 | Breaking the Ice | 15.00% | ~98 |
 | Solidarity Forever | 11.00% | ~72 |
 | A Tucked Tale | 9.00% | ~59 |
 | The best thing money can buy | 8.00% | ~52 |
-| Act III Complete | 6.00% | ~39 |
+| Act III Complete | 5.00% | ~33 |
 | Fire and Brimstone | 5.00% | ~33 |
 | See you Space Cowboy | 5.00% | ~33 |
 | Ghost in the Ship | 2.00% | ~13 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654 (Ranked 187)  
+Progressed: 656 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-23 | 640 | 0 |
 | 2023-05-24 | 644 | 0 |
 | 2023-05-26 | 649 | 0 |
-| 2023-05-27 | 654 | 0 |
+| 2023-05-27 | 656 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

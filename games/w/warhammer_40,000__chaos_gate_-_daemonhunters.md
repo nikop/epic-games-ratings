@@ -6,16 +6,16 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 33.00% | ~887 |
-| Look Over There! | 28.00% | ~752 |
-| Watch Where You Step... | 28.00% | ~752 |
-| Not So Fast... | 27.00% | ~725 |
+| Executioner | 33.00% | ~888 |
+| Look Over There! | 28.00% | ~753 |
+| Watch Where You Step... | 28.00% | ~753 |
+| Not So Fast... | 27.00% | ~726 |
 | An Ill Omen | 26.00% | ~699 |
-| Purging Spree | 21.00% | ~564 |
+| Purging Spree | 21.00% | ~565 |
 | Blood for the Blood God! | 16.00% | ~430 |
 | Friendly Fire | 16.00% | ~430 |
-| Surgical Excision | 15.00% | ~403 |
-| Bloodless | 14.00% | ~376 |
+| Surgical Excision | 15.00% | ~404 |
+| Bloodless | 14.00% | ~377 |
 | Honoured Battle-Brother | 11.00% | ~296 |
 | The Emperor Protects | 11.00% | ~296 |
 | Nemesis Master | 10.00% | ~269 |
@@ -25,9 +25,9 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 7.00% | ~188 |
 | Just a Scratch | 7.00% | ~188 |
 | Hold Your Ground | 6.00% | ~161 |
-| Daemonkeeper | 4.00% | ~107 |
-| A Gift Spurned | 4.00% | ~107 |
-| Long Distance Call | 4.00% | ~107 |
+| Daemonkeeper | 4.00% | ~108 |
+| A Gift Spurned | 4.00% | ~108 |
+| Long Distance Call | 4.00% | ~108 |
 | Corruption Cleanser | 3.00% | ~81 |
 | Mind Like a Fortress | 3.00% | ~81 |
 | Harvest No More | 3.00% | ~81 |
@@ -49,8 +49,8 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.60% | ~16 |
 | The Flesh is Weak | 0.50% | ~13 |
 | Warp Flickers | 0.50% | ~13 |
+| Strategic Command | 0.40% | ~11 |
 | Firing Squad | 0.30% | ~8 |
-| Strategic Command | 0.30% | ~8 |
 | Blood and Iron | 0.20% | ~5 |
 | Crisis Management | 0.20% | ~5 |
 | Grand Master | 0.20% | ~5 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,687 (Ranked 138)  
+Progressed: 2,690 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 2,624 | 0 |
 | 2023-05-25 | 2,632 | 0 |
 | 2023-05-26 | 2,669 | 0 |
-| 2023-05-27 | 2,687 | 0 |
+| 2023-05-27 | 2,690 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 298)  

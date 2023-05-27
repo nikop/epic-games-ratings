@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Deal with Shock | 57.00% | ~20 |
-| Skinner | 49.00% | ~17 |
+| Deal with Shock | 60.00% | ~21 |
+| Skinner | 51.00% | ~18 |
 | Deal with Anger | 29.00% | ~10 |
 | Robolimb Ripper | 14.00% | ~5 |
 | Deal with Depression | 14.00% | ~5 |

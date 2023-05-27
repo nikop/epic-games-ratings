@@ -1,13 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 665)  
+Rating: 4.41 (Ranked 664)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 20.00% | ~320 |
-| Confirming Suspicions | 15.00% | ~240 |
-| The Kraken Wakes | 11.00% | ~176 |
+| Meeting Resistance | 20.00% | ~321 |
+| Confirming Suspicions | 15.00% | ~241 |
+| The Kraken Wakes | 11.00% | ~177 |
 | It's Starting to Crack | 8.00% | ~128 |
 | Lord of War | 7.00% | ~112 |
 | Resourceful | 7.00% | ~112 |
@@ -19,7 +19,6 @@ Rating: 4.41 (Ranked 665)
 | Opposing Force | 4.00% | ~64 |
 | Just a Flesh Wound | 4.00% | ~64 |
 | As Quiet as a Mouse | 4.00% | ~64 |
-| Fields of Glory | 3.00% | ~48 |
 | Gunslinger | 3.00% | ~48 |
 | Sharpshooter | 3.00% | ~48 |
 | Die Nussknacker Sweet! | 3.00% | ~48 |
@@ -30,6 +29,7 @@ Rating: 4.41 (Ranked 665)
 | Climbing the Ladder | 2.00% | ~32 |
 | Liberté | 2.00% | ~32 |
 | No Stone Unturned | 2.00% | ~32 |
+| Fields of Glory | 2.00% | ~32 |
 | Skirmisher | 2.00% | ~32 |
 | Set Europe Ablaze | 2.00% | ~32 |
 | Precision Is Key | 2.00% | ~32 |
@@ -37,8 +37,8 @@ Rating: 4.41 (Ranked 665)
 | Brains of the Operation | 2.00% | ~32 |
 | The Long Game | 1.00% | ~16 |
 | Rigged to Blow | 1.00% | ~16 |
-| It'll Buff Right Out | 0.90% | ~14 |
-| My Little Friend | 0.80% | ~13 |
+| It'll Buff Right Out | 1.00% | ~16 |
+| My Little Friend | 0.70% | ~11 |
 | Locomotion Commotion | 0.70% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
@@ -47,16 +47,17 @@ Rating: 4.41 (Ranked 665)
 | Last Resort | 0.50% | ~8 |
 | Strategist | 0.40% | ~6 |
 | Tinkerer | 0.40% | ~6 |
+| Don't hold your breath | 0.40% | ~6 |
 | From Paris with Love | 0.30% | ~5 |
-| Up close and personal | 0.30% | ~5 |
-| Don't hold your breath | 0.30% | ~5 |
-| Shoot for the Moon | 0.30% | ~5 |
-| Reich To The Point | 0.30% | ~5 |
-| Covert Elimination | 0.30% | ~5 |
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
 | Eagle Eyed | 0.20% | ~3 |
+| Up close and personal | 0.20% | ~3 |
 | Road Rage | 0.20% | ~3 |
+| Shoot for the Moon | 0.20% | ~3 |
+| Reich To The Point | 0.20% | ~3 |
+| Covert Elimination | 0.20% | ~3 |
+| Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
 | Out of Scope | 0.10% | ~2 |
 | Burn after reading | 0.10% | ~2 |
@@ -69,7 +70,6 @@ Rating: 4.41 (Ranked 665)
 | Fight Another Day | 0.10% | ~2 |
 | Best of the Best | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
-| Master of Secondaries | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 665)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,599 (Ranked 154)  
-Completed: 2 (0.13%) (Ranked 154)  
+Progressed: 1,605 (Ranked 154)  
+Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
-| 2023-05-27 | 1,599 | 2 |
+| 2023-05-27 | 1,605 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2687,
+  "EOS_Progressed": 2690,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1112,6 +1112,11 @@
       "Time": "2023-05-27T15:06:42.8515485+00:00",
       "NumProgressed": 2687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T16:06:41.2127305+00:00",
+      "NumProgressed": 2690,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1139,7 +1144,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "BloodAndIron",
@@ -1219,7 +1224,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1275,7 +1280,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1291,7 +1296,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "Kills_Bleed",
@@ -1315,7 +1320,7 @@
       "Name": "Executioner",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "Kills_Exterminator",
@@ -1347,7 +1352,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Kills_Streak",
@@ -1355,7 +1360,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Kills_Vakir",
@@ -1459,7 +1464,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1547,7 +1552,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1563,7 +1568,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "SkilledKnight",
@@ -1577,9 +1582,9 @@
       "ID": "StrategicCommand",
       "SetID": "2im8phi",
       "Name": "Strategic Command",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "UnlockedAllStratagems",
@@ -1594,21 +1599,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2687,
+      "Progressed": 2690,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2687,
+      "Progressed": 2690,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:42.8515482+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:41.2127302+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:58:59.7796707+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:42.8515932+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:58:54.6690425+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:41.2127847+00:00"
 }

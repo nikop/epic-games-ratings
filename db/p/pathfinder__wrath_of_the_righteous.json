@@ -2546,9 +2546,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9245,
+  "EOS_Progressed": 9250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4671,6 +4671,11 @@
       "Time": "2023-05-27T15:06:51.9277465+00:00",
       "NumProgressed": 9245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T16:06:49.4887825+00:00",
+      "NumProgressed": 9250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4680,9 +4685,9 @@
       "ID": "01_DevouredByDarkness",
       "SetID": "989of5o",
       "Name": "Devoured by Darkness",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1295
     },
     {
       "ID": "02_BurningCity",
@@ -4690,7 +4695,7 @@
       "Name": "Burning City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4754,7 +4759,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "11_PathOfAeon",
@@ -4794,7 +4799,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "16_PathOfLegend",
@@ -4802,7 +4807,7 @@
       "Name": "Path of the Legend",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "17_Transformation",
@@ -4810,7 +4815,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "18_MythicChoices",
@@ -4882,7 +4887,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "28_GreatUpstart",
@@ -4890,7 +4895,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "29_StrategicVictory",
@@ -4898,7 +4903,7 @@
       "Name": "Strategic Victory",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -5026,7 +5031,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "46_AllPathsOpen",
@@ -5034,7 +5039,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -5050,7 +5055,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "49_Flame",
@@ -5106,7 +5111,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "56_GetToad",
@@ -5609,21 +5614,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8027,
+      "Progressed": 8032,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9245,
+      "Progressed": 9250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-27T07:58:21.1103803+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:51.9277457+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:49.488782+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:58:36.3290038+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:51.9278805+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:58:34.8025786+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:49.488937+00:00"
 }

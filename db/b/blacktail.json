@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 398,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -529,6 +529,11 @@
       "Time": "2023-05-27T13:08:03.0034743+00:00",
       "NumProgressed": 397,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T16:06:21.8602956+00:00",
+      "NumProgressed": 398,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -564,7 +569,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "DevilDetail",
@@ -756,7 +761,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Toxic",
@@ -795,7 +800,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 398,
       "Completed": 0
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:06:21.0645512+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:06:21.8602951+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:58:06.7692976+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:06:21.0645705+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:58:10.0076841+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:06:21.8603232+00:00"
 }

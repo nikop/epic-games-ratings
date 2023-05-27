@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -329,6 +329,11 @@
       "Time": "2023-05-27T13:02:53.0049499+00:00",
       "NumProgressed": 195,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T16:01:06.3137108+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -340,7 +345,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "completeact2",
@@ -354,9 +359,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "findalltapes",
@@ -396,7 +401,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "scoreminrankrf2",
@@ -412,7 +417,7 @@
       "Name": "Souvenirs",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "scoreminrankrp1",
@@ -459,7 +464,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 2
     }
   ],
@@ -467,8 +472,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-27T15:01:38.1667124+00:00",
+  "LastChanged_Achievements": "2023-05-27T16:01:06.3137105+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-27T14:59:10.5763132+00:00",
-  "LastUpdate_Achievements": "2023-05-27T15:01:38.1667259+00:00"
+  "LastUpdate_Ratings": "2023-05-27T15:59:03.8182498+00:00",
+  "LastUpdate_Achievements": "2023-05-27T16:01:06.3137246+00:00"
 }
