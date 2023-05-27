@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3914,11 +3914,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 29983,
       "NumberOfAwardsMax": 4905
+    },
+    {
+      "Time": "2023-05-27T04:58:43.8315059+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29988,
+      "NumberOfAwardsMax": 4908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29983,
-  "NumberOfAwardsMax": 4905,
+  "NumberOfAwards": 29988,
+  "NumberOfAwardsMax": 4908,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3931,7 +3937,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4905
+      "Count": 4908
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3943,7 +3949,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4497
+      "Count": 4499
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3964,10 +3970,10 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88795,
+  "EOS_Progressed": 88803,
   "EOS_Completed": 1881,
-  "EOS_NewPlayers": 766,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 767,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
     {
@@ -7549,6 +7555,11 @@
       "Time": "2023-05-27T04:05:50.1416929+00:00",
       "NumProgressed": 88795,
       "NumCompleted": 1881
+    },
+    {
+      "Time": "2023-05-27T05:07:33.1903752+00:00",
+      "NumProgressed": 88803,
+      "NumCompleted": 1881
     }
   ],
   "TotalAchievements": 493,
@@ -8310,9 +8321,9 @@
       "ID": "objective_completed_1175",
       "SetID": "415jc5c",
       "Name": "Keep Your Distance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_completed_1178",
@@ -11472,7 +11483,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "objective_completed_1356",
@@ -11503,21 +11514,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55069,
+      "Progressed": 55077,
       "Completed": 2714
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88795,
+      "Progressed": 88803,
       "Completed": 1881
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-26T17:58:02.2053094+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:50.1416922+00:00",
+  "LastChanged": "2023-05-27T04:58:43.8315057+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:07:33.1903747+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:57:52.90495+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:50.1440431+00:00"
+  "LastUpdate_Ratings": "2023-05-27T04:58:43.8315064+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:07:33.1930962+00:00"
 }

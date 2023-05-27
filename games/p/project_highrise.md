@@ -8,7 +8,7 @@
 | Starting Skyward | 51.00% | ~90 |
 | Grime is Not Good | 44.00% | ~77 |
 | Campaign Launch | 39.00% | ~69 |
-| Floor Galore | 37.00% | ~65 |
+| Floor Galore | 38.00% | ~67 |
 | Dinner Dash | 37.00% | ~65 |
 | It's Technical | 35.00% | ~62 |
 | Need a Consult | 33.00% | ~58 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 243)  
+Progressed: 176 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |

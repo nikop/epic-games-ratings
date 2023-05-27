@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,301 |
-| Before the Downfall | 93.00% | ~17,367 |
-| Money like Water | 91.00% | ~16,993 |
-| Minimalist | 90.00% | ~16,807 |
-| Builder | 82.00% | ~15,313 |
+| Trevithick's Legacy | 98.00% | ~18,302 |
+| Before the Downfall | 93.00% | ~17,368 |
+| Money like Water | 91.00% | ~16,994 |
+| Minimalist | 90.00% | ~16,808 |
+| Builder | 83.00% | ~15,500 |
 | Eraser | 70.00% | ~13,072 |
-| Pocket of Trains | 65.00% | ~12,138 |
+| Pocket of Trains | 65.00% | ~12,139 |
 | Inspector | 59.00% | ~11,018 |
 | Going the Distance | 54.00% | ~10,084 |
-| Oil Baron | 42.00% | ~7,843 |
-| Loads-a-Money | 42.00% | ~7,843 |
+| Oil Baron | 42.00% | ~7,844 |
+| Loads-a-Money | 42.00% | ~7,844 |
 | Helper of the People | 39.00% | ~7,283 |
-| Simplification | 33.00% | ~6,162 |
-| Box of Trains | 33.00% | ~6,162 |
+| Simplification | 33.00% | ~6,163 |
+| Box of Trains | 33.00% | ~6,163 |
 | Let There be Light | 32.00% | ~5,976 |
 | Hot Water | 30.00% | ~5,602 |
-| Indecisive | 29.00% | ~5,415 |
+| Indecisive | 29.00% | ~5,416 |
 | The scenic route | 27.00% | ~5,042 |
-| Industrialist | 25.00% | ~4,668 |
+| Industrialist | 25.00% | ~4,669 |
 | Perfectionist | 23.00% | ~4,295 |
 | Trains over Pipes | 23.00% | ~4,295 |
 | 8K is Enough for Everyone | 22.00% | ~4,108 |
@@ -35,7 +35,7 @@ Rating: 4.54 (Ranked 482)
 | Metropolis | 7.00% | ~1,307 |
 | High Flier | 3.00% | ~560 |
 | To infinity, and beyond! | 3.00% | ~560 |
-| Space industrialization | 2.00% | ~373 |
+| Space industrialization | 2.00% | ~374 |
 | Deertastic | 1.00% | ~187 |
 | High tech | 1.00% | ~187 |
 | Cleanup crew | 1.00% | ~187 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 482)
 | Overdeer | 0.50% | ~93 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,674 (Ranked 96)  
+Progressed: 18,675 (Ranked 96)  
 Completed: 29 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 29 (0.16%) (Ranked 145)
 | 2023-05-24 | 18,629 | 29 |
 | 2023-05-25 | 18,647 | 29 |
 | 2023-05-26 | 18,670 | 29 |
-| 2023-05-27 | 18,674 | 29 |
+| 2023-05-27 | 18,675 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
 Sum: 647 (Ranked 273)  

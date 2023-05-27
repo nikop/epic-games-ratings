@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 39,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -392,6 +392,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 64,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-05-27T05:01:53.7054451+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -418,9 +424,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 249707,
+  "EOS_Progressed": 249708,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3948,6 +3954,11 @@
       "Time": "2023-05-27T04:05:44.3896661+00:00",
       "NumProgressed": 249707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T05:07:26.0778894+00:00",
+      "NumProgressed": 249708,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3959,7 +3970,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17479
+      "UsersEstimate": 17480
     },
     {
       "ID": "Act2",
@@ -4406,16 +4417,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249707,
+      "Progressed": 249708,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-05-25T16:01:06.6165118+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:44.3896655+00:00",
+  "LastChanged": "2023-05-27T05:01:53.7054449+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:07:26.0778889+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.4496251+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:00:02.0981553+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:44.3897388+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:01:53.7054457+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:07:26.0779828+00:00"
 }

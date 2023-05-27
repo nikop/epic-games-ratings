@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,859 |
-| Landlord | 30.00% | ~15,308 |
-| Lawmaker | 21.00% | ~10,715 |
-| Bannerlord | 20.00% | ~10,205 |
-| Horde breaker | 20.00% | ~10,205 |
-| Trained | 20.00% | ~10,205 |
-| The king is pleased | 16.00% | ~8,164 |
+| Lawbringer | 35.00% | ~17,860 |
+| Landlord | 30.00% | ~15,309 |
+| Lawmaker | 21.00% | ~10,716 |
+| Bannerlord | 20.00% | ~10,206 |
+| Horde breaker | 20.00% | ~10,206 |
+| Trained | 20.00% | ~10,206 |
+| The king is pleased | 16.00% | ~8,165 |
 | King Solomon | 15.00% | ~7,654 |
 | Apple of my eye | 14.00% | ~7,144 |
 | I can do it | 14.00% | ~7,144 |
 | God of the Arena | 12.00% | ~6,123 |
-| Against all odds | 10.00% | ~5,102 |
-| Swordbearer | 9.00% | ~4,592 |
+| Against all odds | 10.00% | ~5,103 |
+| Swordbearer | 9.00% | ~4,593 |
 | Duelist | 8.00% | ~4,082 |
 | Dynasty | 8.00% | ~4,082 |
 | I spit on your grave | 8.00% | ~4,082 |
@@ -32,9 +32,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | My way | 4.00% | ~2,041 |
 | Veni vidi vici | 4.00% | ~2,041 |
 | Freedom! | 3.00% | ~1,531 |
-| Entrepreneur | 2.00% | ~1,020 |
-| Long live the Empire! | 2.00% | ~1,020 |
-| Real Estate | 2.00% | ~1,020 |
+| Entrepreneur | 2.00% | ~1,021 |
+| Long live the Empire! | 2.00% | ~1,021 |
+| Real Estate | 2.00% | ~1,021 |
 | Supreme Emperor | 1.00% | ~510 |
 | Undercover | 0.80% | ~408 |
 | Crackshot | 0.70% | ~357 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,025 (Ranked 75)  
+Progressed: 51,029 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 50,836 | 0 |
 | 2023-05-25 | 50,908 | 0 |
 | 2023-05-26 | 51,010 | 0 |
-| 2023-05-27 | 51,025 | 0 |
+| 2023-05-27 | 51,029 | 0 |
 ## Awards
 Max (Character Customization): 6,582  (Ranked 49)  
 Sum: 13,162 (Ranked 68)  

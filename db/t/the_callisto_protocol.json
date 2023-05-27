@@ -440,9 +440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13755,
+  "EOS_Progressed": 13760,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 880,
+  "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1715,6 +1715,11 @@
       "Time": "2023-05-27T04:02:38.565581+00:00",
       "NumProgressed": 13755,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T05:04:09.2241818+00:00",
+      "NumProgressed": 13760,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2014,7 +2019,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2045,13 +2050,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13755,
+      "Progressed": 13760,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1681,
+      "Progressed": 1686,
       "Completed": 29
     }
   ],
@@ -2059,8 +2064,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-26T23:58:11.1391789+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:02:38.5655806+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:04:09.2241813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:57:40.2502181+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:02:38.5656224+00:00"
+  "LastUpdate_Ratings": "2023-05-27T04:58:26.9719297+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:04:09.2242594+00:00"
 }

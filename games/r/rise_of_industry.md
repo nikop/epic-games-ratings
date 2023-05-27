@@ -1,25 +1,25 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 802)  
+Rating: 4.22 (Ranked 805)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~317,845 |
-| Well educated | 37.00% | ~250,218 |
-| City Planner | 19.00% | ~128,491 |
-| Deforester | 16.00% | ~108,203 |
-| Big Hauling | 15.00% | ~101,440 |
-| Exporter | 13.00% | ~87,915 |
-| I would drive 500 tiles... | 12.00% | ~81,152 |
-| Apprentice Manufacturer | 12.00% | ~81,152 |
-| Landscaper | 11.00% | ~74,389 |
-| Railwayman | 7.00% | ~47,339 |
-| Penniless | 6.00% | ~40,576 |
-| Massive Gains | 6.00% | ~40,576 |
-| Engineer | 2.00% | ~13,525 |
-| Salesman | 2.00% | ~13,525 |
-| High Flyer | 2.00% | ~13,525 |
+| Entrepreneur | 47.00% | ~317,852 |
+| Well educated | 37.00% | ~250,224 |
+| City Planner | 19.00% | ~128,493 |
+| Deforester | 16.00% | ~108,205 |
+| Big Hauling | 15.00% | ~101,442 |
+| Exporter | 13.00% | ~87,917 |
+| I would drive 500 tiles... | 12.00% | ~81,154 |
+| Apprentice Manufacturer | 12.00% | ~81,154 |
+| Landscaper | 11.00% | ~74,391 |
+| Railwayman | 7.00% | ~47,340 |
+| Penniless | 6.00% | ~40,577 |
+| Massive Gains | 6.00% | ~40,577 |
+| Engineer | 2.00% | ~13,526 |
+| Salesman | 2.00% | ~13,526 |
+| High Flyer | 2.00% | ~13,526 |
 | Captain | 0.70% | ~4,734 |
 | Billionaire | 0.60% | ~4,058 |
 | Vroom Vroom | 0.40% | ~2,705 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 802)
 | Master Builder | 0.10% | ~676 |
 | Hard working | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,266 (Ranked 17)  
+Progressed: 676,281 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 1 (0.00%) (Ranked 205)
 | 2023-05-24 | 674,648 | 1 |
 | 2023-05-25 | 675,254 | 1 |
 | 2023-05-26 | 676,136 | 1 |
-| 2023-05-27 | 676,266 | 1 |
+| 2023-05-27 | 676,281 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -103,3 +103,4 @@ Completed: 1 (0.00%) (Ranked 205)
 | 2023-05-13 | 4.23 | 0 | 0 |
 | 2023-05-14 | 4.22 | 0 | 0 |
 | 2023-05-15 | 4.23 | 0 | 0 |
+| 2023-05-27 | 4.22 | 0 | 0 |

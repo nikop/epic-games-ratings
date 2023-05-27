@@ -14,6 +14,7 @@
 | Conciliator | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
+| Tactician | 1.00% | ~1 |
 | The More the Merrier | 1.00% | ~1 |
 | Breached | 1.00% | ~1 |
 | Fight Another Day | 1.00% | ~1 |
@@ -30,7 +31,6 @@
 | Carpenter | 0.00% | ~0 |
 | Watcher | 0.00% | ~0 |
 | Executor | 0.00% | ~0 |
-| Tactician | 0.00% | ~0 |
 | Strategist | 0.00% | ~0 |
 | General | 0.00% | ~0 |
 | Potential Unlocked | 0.00% | ~0 |

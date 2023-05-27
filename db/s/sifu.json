@@ -4236,9 +4236,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705553,
+  "EOS_Progressed": 705567,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1895,
+  "EOS_NewPlayers": 1878,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7346,6 +7346,11 @@
       "Time": "2023-05-27T04:05:38.0547861+00:00",
       "NumProgressed": 705553,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T05:07:18.1234554+00:00",
+      "NumProgressed": 705567,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7397,7 +7402,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5644
+      "UsersEstimate": 5645
     },
     {
       "ID": "07_Wude_H1",
@@ -7461,7 +7466,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5644
+      "UsersEstimate": 5645
     },
     {
       "ID": "15_Detective_H1",
@@ -7509,7 +7514,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5644
+      "UsersEstimate": 5645
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -7525,7 +7530,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5644
+      "UsersEstimate": 5645
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7539,9 +7544,9 @@
       "ID": "24_PermaSkill_Trophy",
       "SetID": "adcm20g",
       "Name": "State of constant learning",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6350
+      "UsersEstimate": 7056
     },
     {
       "ID": "25_ShrineMind",
@@ -7669,7 +7674,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5644
+      "UsersEstimate": 5645
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -7701,7 +7706,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7756,21 +7761,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14854,
-      "Completed": 10176
+      "Progressed": 14868,
+      "Completed": 10177
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705553,
+      "Progressed": 705567,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:38.0547856+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:07:18.1234547+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:58:48.7251627+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:38.0548516+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:00:05.6244986+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:07:18.1235183+00:00"
 }

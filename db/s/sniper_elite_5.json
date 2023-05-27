@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1544,
+  "EOS_Progressed": 1547,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1547,6 +1547,11 @@
       "Time": "2023-05-27T04:05:22.0489931+00:00",
       "NumProgressed": 1544,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T05:06:57.4852608+00:00",
+      "NumProgressed": 1547,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1588,9 +1593,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1638,7 +1643,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1726,7 +1731,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1806,7 +1811,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1964,9 +1969,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2125,13 +2130,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1495,
+      "Progressed": 1498,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1544,
+      "Progressed": 1547,
       "Completed": 2
     }
   ],
@@ -2139,8 +2144,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:22.0489928+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:06:57.4852601+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T04:00:20.226034+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:22.0490684+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:02:17.5690961+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:06:57.4853363+00:00"
 }

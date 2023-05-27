@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Wraith | 58.00% | ~151 |
 | Welcome to Mordor! | 45.00% | ~117 |
-| Collectibles Part 1 | 44.00% | ~114 |
+| Collectibles Part 1 | 44.00% | ~115 |
 | Wait! Wait! Not yet! | 26.00% | ~68 |
 | Memories | 26.00% | ~68 |
 | Like Flying... | 22.00% | ~57 |
@@ -16,9 +16,9 @@
 | The Traitor | 3.00% | ~8 |
 | The Spider | 3.00% | ~8 |
 | Murderer | 2.00% | ~5 |
+| He's so Annoying | 1.00% | ~3 |
 | Good as Fish | 1.00% | ~3 |
 | Trigger-Happy | 1.00% | ~3 |
-| He's so Annoying | 0.80% | ~2 |
 | So Tasty! | 0.80% | ~2 |
 | Break a Leg! | 0.40% | ~1 |
 | And now we wish... | 0.40% | ~1 |
@@ -41,7 +41,7 @@
 | Scout | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260 (Ranked 225)  
+Progressed: 261 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 5 | 0 |
 | 2023-05-25 | 133 | 0 |
 | 2023-05-26 | 247 | 0 |
-| 2023-05-27 | 260 | 0 |
+| 2023-05-27 | 261 | 0 |

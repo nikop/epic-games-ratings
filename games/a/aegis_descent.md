@@ -13,8 +13,8 @@
 | Batteries Included | 39.00% | ~142 |
 | Death from Above | 37.00% | ~135 |
 | Hull King | 27.00% | ~99 |
+| Extra Ammo | 21.00% | ~77 |
 | Boss Down | 20.00% | ~73 |
-| Extra Ammo | 20.00% | ~73 |
 | Splash Damage | 18.00% | ~66 |
 | Hazardous Duty | 17.00% | ~62 |
 | Perky | 15.00% | ~55 |

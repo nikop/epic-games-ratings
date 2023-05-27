@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.90% | ~799 |
-| The Court of Storms | 0.70% | ~385 |
+| The Court of Storms | 0.70% | ~386 |
 | The Cursed Farmer | 0.60% | ~533 |
 | Beware the Jabberwock | 0.60% | ~330 |
 | Beast Intentions | 0.50% | ~444 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~110 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
+| Keep Your Distance | 0.20% | ~110 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~110 |
 | Pin and Skewer | 0.20% | ~110 |
 | Vecna Out! | 0.20% | ~110 |
@@ -141,7 +142,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | More Than Well Equipped | 0.10% | ~55 |
 | Return to the Tomb | 0.10% | ~55 |
 | Arcane Efforts | 0.10% | ~55 |
-| Keep Your Distance | 0.10% | ~55 |
 | Heatwave | 0.10% | ~55 |
 | To Avernus in a Handbasket | 0.10% | ~55 |
 | Hands Off! | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,795 (Ranked 61)  
+Progressed: 88,803 (Ranked 61)  
 Completed: 1,881 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,17 +537,17 @@ Completed: 1,881 (2.12%) (Ranked 62)
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
-| 2023-05-27 | 88,795 | 1,881 |
+| 2023-05-27 | 88,803 | 1,881 |
 ## Awards
-Max (Diverse Characters): 4,905  (Ranked 64)  
-Sum: 29,983 (Ranked 37)  
+Max (Diverse Characters): 4,908  (Ranked 64)  
+Sum: 29,988 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,905 |
+| This game has Diverse Characters | 4,908 |
 | This game is Great for Beginners | 4,841 |
 | This game has Quickly Understood Controls | 4,606 |
-| This game is Relaxing | 4,497 |
+| This game is Relaxing | 4,499 |
 | This game is Highly Recommended | 3,948 |
 | This game has Amazing Characters | 3,945 |
 | This game has Playful Visuals | 3,241 |
@@ -675,3 +675,4 @@ Diff (max vs sum): 27
 | 2023-05-24 | 4.06 | - | 4,902 | 29,965 |
 | 2023-05-25 | 4.06 | - | 4,905 | 29,974 |
 | 2023-05-26 | 4.06 | - | 4,905 | 29,983 |
+| 2023-05-27 | 4.06 | - | 4,908 | 29,988 |

@@ -6,36 +6,36 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~176 |
-| Cowardice | 55.00% | ~156 |
+| Explorer | 62.00% | ~177 |
+| Cowardice | 55.00% | ~157 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~142 |
-| Eat Lead! | 48.00% | ~136 |
+| Eat Lead! | 48.00% | ~137 |
 | Prospector | 44.00% | ~125 |
 | Here Comes the Boom | 44.00% | ~125 |
-| Treasure Hunter | 42.00% | ~119 |
-| The Breaking Point | 39.00% | ~111 |
+| Treasure Hunter | 42.00% | ~120 |
+| The Breaking Point | 40.00% | ~114 |
 | Sniper Wolf | 37.00% | ~105 |
-| Missing in Action | 36.00% | ~102 |
-| The Motivation | 35.00% | ~99 |
+| Missing in Action | 36.00% | ~103 |
+| The Motivation | 35.00% | ~100 |
 | Heroism | 32.00% | ~91 |
+| King of Knives | 32.00% | ~91 |
 | Collectibles of Chapter I | 31.00% | ~88 |
-| King of Knives | 31.00% | ~88 |
 | Consequences | 28.00% | ~80 |
 | Opportunities | 27.00% | ~77 |
 | The Horror | 26.00% | ~74 |
 | Collectibles of Chapter II | 24.00% | ~68 |
-| The Difference | 22.00% | ~62 |
+| The Difference | 22.00% | ~63 |
 | Vengeance | 21.00% | ~60 |
+| Food Massacre | 20.00% | ~57 |
+| Broken Hopes | 19.00% | ~54 |
 | It's Just an Accident | 19.00% | ~54 |
-| Food Massacre | 19.00% | ~54 |
 | Bullseye! | 19.00% | ~54 |
-| Broken Hopes | 18.00% | ~51 |
 | Collectibles of Chapter III | 15.00% | ~43 |
 | Sorrow | 15.00% | ~43 |
+| Collectibles of Chapter IV | 14.00% | ~40 |
 | Atonement | 14.00% | ~40 |
-| Collectibles of Chapter IV | 13.00% | ~37 |
 | Without a Second Thought | 13.00% | ~37 |
-| Helping Hand | 11.00% | ~31 |
+| Helping Hand | 12.00% | ~34 |
 | Collectibles of Chapter V | 8.00% | ~23 |
 | Such is War! | 8.00% | ~23 |
 | Collectibles of Chapter VII | 7.00% | ~20 |
@@ -50,8 +50,8 @@ Number of Ratings: 34  (23.09.2022)
 | The Good Samaritan | 3.00% | ~9 |
 | It Will Rain | 3.00% | ~9 |
 | Not Spill a Drop | 3.00% | ~9 |
+| Daddy Would Be Proud | 2.00% | ~6 |
 | Hold a Door | 1.00% | ~3 |
-| Daddy Would Be Proud | 1.00% | ~3 |
 | Warm Up | 0.40% | ~1 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 219)  
+Progressed: 285 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-23 | 274 | 0 |
 | 2023-05-25 | 280 | 0 |
 | 2023-05-26 | 284 | 0 |
+| 2023-05-27 | 285 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

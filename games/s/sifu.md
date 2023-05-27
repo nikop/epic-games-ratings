@@ -6,9 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~594 |
+| Diligence as a goal | 4.00% | ~595 |
 | Project Arena | 3.00% | ~446 |
 | The Hateful Pole Fighter | 1.00% | ~7,056 |
+| State of constant learning | 1.00% | ~7,056 |
 | Qi Gong: Breath | 1.00% | ~7,056 |
 | Bloody Sport | 1.00% | ~149 |
 | The best strikes are the ones we avoid | 1.00% | ~149 |
@@ -17,16 +18,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Lady's Blood in the Snow | 0.90% | ~6,350 |
 | Lady Wing Chun | 0.90% | ~6,350 |
 | Life is your teacher | 0.90% | ~6,350 |
-| State of constant learning | 0.90% | ~6,350 |
 | Qi Gong: Essence | 0.90% | ~6,350 |
 | Lightning Hands | 0.90% | ~6,350 |
 | Path of the Prospect | 0.90% | ~6,350 |
 | Rumble in the Hangar | 0.90% | ~6,350 |
-| Furious Fists | 0.80% | ~5,644 |
-| Kill Nil | 0.80% | ~5,644 |
-| Stuntmaster | 0.80% | ~5,644 |
-| Street Fighting | 0.80% | ~5,644 |
-| Take damage to save time | 0.80% | ~5,644 |
+| Furious Fists | 0.80% | ~5,645 |
+| Kill Nil | 0.80% | ~5,645 |
+| Stuntmaster | 0.80% | ~5,645 |
+| Street Fighting | 0.80% | ~5,645 |
+| Take damage to save time | 0.80% | ~5,645 |
 | Scareless | 0.70% | ~4,939 |
 | Old Child | 0.70% | ~4,939 |
 | Kung-Fu Tussle | 0.70% | ~4,939 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,553 (Ranked 15)  
+Progressed: 705,567 (Ranked 15)  
 Completed: 12,738 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 12,738 (1.81%) (Ranked 65)
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
-| 2023-05-27 | 705,553 | 12,738 |
+| 2023-05-27 | 705,567 | 12,738 |
 ## Awards
 Max (Great Boss Battles): 6,094  (Ranked 53)  
 Sum: 10,384 (Ranked 77)  

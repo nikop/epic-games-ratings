@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62271,
+  "EOS_Progressed": 62276,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1026,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3931,6 +3931,11 @@
       "Time": "2023-05-27T04:05:45.3776277+00:00",
       "NumProgressed": 62271,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T05:07:27.3652721+00:00",
+      "NumProgressed": 62276,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4286,7 +4291,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4396,9 +4401,9 @@
       "ID": "SECRET_CACHE",
       "SetID": "4eo5ebm",
       "Name": "Gotham City Confidential",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 311
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -4429,13 +4434,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62271,
+      "Progressed": 62276,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32551,
+      "Progressed": 32556,
       "Completed": 2642
     }
   ],
@@ -4443,8 +4448,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:45.3776273+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:07:27.3652716+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:59:33.4475262+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:45.3777023+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:01:09.1664924+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:07:27.3653501+00:00"
 }

@@ -17,7 +17,7 @@ Rating: 4.19 (Ranked 824)
 | Float Like A Butterfly | 3.00% | ~413 |
 | Reforged | 3.00% | ~413 |
 | If the SHU Fits... | 3.00% | ~413 |
-| Bear Trap | 3.00% | ~50 |
+| Bear Trap | 3.00% | ~51 |
 | Get a Grip | 2.00% | ~275 |
 | Terminated | 2.00% | ~275 |
 | The Commonality | 2.00% | ~275 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 824)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,755 (Ranked 102)  
+Progressed: 13,760 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 53 (0.39%) (Ranked 113)
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
-| 2023-05-27 | 13,755 | 53 |
+| 2023-05-27 | 13,760 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 268 (Ranked 335)  

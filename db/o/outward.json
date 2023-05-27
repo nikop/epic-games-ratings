@@ -484,7 +484,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2598,
+  "EOS_Progressed": 2599,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -1584,6 +1584,11 @@
       "Time": "2023-05-27T04:05:21.7964399+00:00",
       "NumProgressed": 2598,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T05:06:57.155078+00:00",
+      "NumProgressed": 2599,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1635,7 +1640,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "CrowdPleaser",
@@ -1659,7 +1664,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -1697,9 +1702,9 @@
       "ID": "HomeSweetHome_25",
       "SetID": "c4hee28",
       "Name": "Home Sweet Home",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 572
     },
     {
       "ID": "HouseofCards_19",
@@ -1785,9 +1790,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1663
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1819,7 +1824,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -1930,15 +1935,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2598,
+      "Progressed": 2599,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:21.7964395+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:06:57.1550775+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:57:32.6914993+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:21.7964775+00:00"
+  "LastUpdate_Ratings": "2023-05-27T04:58:15.1122252+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:06:57.155119+00:00"
 }

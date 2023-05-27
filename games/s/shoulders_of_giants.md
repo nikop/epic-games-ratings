@@ -15,7 +15,7 @@ Rating: 4.35 (Ranked 722)
 | The Interdimensional Power of Friendship | 44.00% | ~910 |
 | Turn Up The HEAT | 40.00% | ~828 |
 | Stop Hitting Yourself! | 35.00% | ~724 |
-| Nothing to Wear | 30.00% | ~621 |
+| Nothing to Wear | 31.00% | ~641 |
 | The First Law of Thermodynamics | 27.00% | ~559 |
 | Do you trust me? | 15.00% | ~310 |
 | The Second Law of Thermodynamics | 14.00% | ~290 |

@@ -19,7 +19,7 @@ Rating: 3.79 (Ranked 914)
 | The Collector | 8.00% | ~75 |
 | Get your hands dirty | 7.00% | ~66 |
 | All Wheel Trouble | 5.00% | ~47 |
-| ITS crash site | 3.00% | ~28 |
+| ITS crash site | 4.00% | ~37 |
 | Space Forest | 3.00% | ~28 |
 | “Aliens” | 2.00% | ~19 |
 | DeDust | 2.00% | ~19 |

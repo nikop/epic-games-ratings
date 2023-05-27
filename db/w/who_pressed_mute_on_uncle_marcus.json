@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 164,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.93,
   "EosHistory": [
@@ -136,9 +136,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "bless_the_rain",
@@ -281,8 +281,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:34.2486915+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:07:13.2357029+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.1098258+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:59:53.3651442+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:34.2487063+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:01:39.7691011+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:07:13.235717+00:00"
 }

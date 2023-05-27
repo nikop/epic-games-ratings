@@ -595,9 +595,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 554
+      "UsersEstimate": 563
     },
     {
       "ID": "18",
@@ -660,8 +660,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:05:33.292058+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:07:11.7737044+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:59:30.3963811+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:05:33.2920778+00:00"
+  "LastUpdate_Ratings": "2023-05-27T05:01:05.7506391+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:07:11.773721+00:00"
 }

@@ -346,9 +346,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6941,
+  "EOS_Progressed": 6945,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2501,6 +2501,11 @@
       "Time": "2023-05-27T04:00:58.3246954+00:00",
       "NumProgressed": 6941,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-27T05:03:13.928152+00:00",
+      "NumProgressed": 6945,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2584,7 +2589,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH11",
@@ -2616,7 +2621,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2709
     },
     {
       "ID": "ACH15",
@@ -2664,7 +2669,7 @@
       "Name": "Daredevil",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH21",
@@ -2672,7 +2677,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "ACH22",
@@ -2680,7 +2685,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ACH23",
@@ -2688,7 +2693,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH24",
@@ -2712,7 +2717,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH27",
@@ -2783,7 +2788,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6941,
+      "Progressed": 6945,
       "Completed": 23
     }
   ],
@@ -2791,8 +2796,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-26T13:02:50.0676532+00:00",
-  "LastChanged_Achievements": "2023-05-27T04:00:58.324695+00:00",
+  "LastChanged_Achievements": "2023-05-27T05:03:13.9281514+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-27T03:58:04.7750668+00:00",
-  "LastUpdate_Achievements": "2023-05-27T04:00:58.3247515+00:00"
+  "LastUpdate_Ratings": "2023-05-27T04:59:01.1342077+00:00",
+  "LastUpdate_Achievements": "2023-05-27T05:03:13.9281938+00:00"
 }
