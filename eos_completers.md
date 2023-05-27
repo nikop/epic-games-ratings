@@ -11,8 +11,8 @@
 | 9 | [Island Cities](games/i/island_cities.md) | 16.13% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.34% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 14 | [Smelter](games/s/smelter.md) | 9.09% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 15 | [Remains](games/r/remains.md) | 8.57% |
@@ -21,7 +21,7 @@
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.54% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
 | 23 | [Scorn](games/s/scorn.md) | 6.95% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.85% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -43,8 +43,8 @@
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 42 | [ZZT!](games/z/zzt!.md) | 3.20% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
-| 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.17% |
-| 45 | [The Bunker](games/t/the_bunker.md) | 3.12% |
+| 44 | [The Bunker](games/t/the_bunker.md) | 3.12% |
+| 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.08% |
 | 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.92% |
@@ -59,9 +59,9 @@
 | 57 | [JARS](games/j/jars.md) | 2.27% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.26% |
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
-| 61 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.13% |
-| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
+| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
+| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
+| 62 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.11% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 1.97% |
 | 64 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 64 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -131,8 +131,8 @@
 | 129 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 130 | [Dead Island 2](games/d/dead_island_2.md) | 0.28% |
 | 131 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
-| 131 | [Despot's Game](games/d/despot's_game.md) | 0.27% |
 | 131 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 133 | [Despot's Game](games/d/despot's_game.md) | 0.26% |
 | 134 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 135 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
 | 136 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
