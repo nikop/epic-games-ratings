@@ -3,8 +3,8 @@
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
   "Ranking_Rating": 7,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 322,
@@ -522,6 +522,6 @@
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
   "LastChanged": "2023-03-31T05:57:29.0121754+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.8627847+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:58:18.2351272+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:03:35.659543+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:39.207272+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:03:59.4694404+00:00"
 }

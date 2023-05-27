@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,021 |
-| That's a Grand Army | 8.00% | ~3,574 |
-| That is mine! | 8.00% | ~3,574 |
-| Victorious! | 8.00% | ~3,574 |
-| Brothers in Arms | 6.00% | ~2,681 |
-| That's a Grand Navy | 6.00% | ~2,681 |
-| Seriously?! | 6.00% | ~2,681 |
-| For the Glory | 5.00% | ~2,234 |
-| Cold War | 4.00% | ~1,787 |
-| True Catholic | 4.00% | ~1,787 |
-| Defender of the Faith | 3.00% | ~1,340 |
-| It's all about the money | 3.00% | ~1,340 |
-| Respected | 3.00% | ~1,340 |
-| Truly Divine Ruler | 3.00% | ~1,340 |
-| Blockader | 2.00% | ~894 |
-| Combined Arms | 2.00% | ~894 |
-| Double the Love | 2.00% | ~894 |
-| Gentle Persuasion | 2.00% | ~894 |
-| It's all about luck | 2.00% | ~894 |
-| Queen of Conquest | 2.00% | ~894 |
-| Royal Authority | 2.00% | ~894 |
-| The Princess is in this Castle | 2.00% | ~894 |
-| Total Control | 2.00% | ~894 |
-| Agressive Expander | 1.00% | ~447 |
+| Until death do us apart | 9.00% | ~4,026 |
+| That's a Grand Army | 8.00% | ~3,578 |
+| That is mine! | 8.00% | ~3,578 |
+| Victorious! | 8.00% | ~3,578 |
+| Brothers in Arms | 6.00% | ~2,684 |
+| That's a Grand Navy | 6.00% | ~2,684 |
+| Seriously?! | 6.00% | ~2,684 |
+| For the Glory | 5.00% | ~2,236 |
+| Cold War | 4.00% | ~1,789 |
+| True Catholic | 4.00% | ~1,789 |
+| Defender of the Faith | 3.00% | ~1,342 |
+| It's all about the money | 3.00% | ~1,342 |
+| Respected | 3.00% | ~1,342 |
+| Truly Divine Ruler | 3.00% | ~1,342 |
+| Agressive Expander | 2.00% | ~895 |
+| Blockader | 2.00% | ~895 |
+| Combined Arms | 2.00% | ~895 |
+| Double the Love | 2.00% | ~895 |
+| Gentle Persuasion | 2.00% | ~895 |
+| It's all about luck | 2.00% | ~895 |
+| Queen of Conquest | 2.00% | ~895 |
+| Royal Authority | 2.00% | ~895 |
+| The Princess is in this Castle | 2.00% | ~895 |
+| Total Control | 2.00% | ~895 |
 | All That's Thine Shall Be Mine | 1.00% | ~447 |
 | Azur semé de lis or | 1.00% | ~447 |
 | Bright Spark | 1.00% | ~447 |
@@ -37,22 +37,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~447 |
 | A Golden Empire | 1.00% | ~447 |
 | My armies are invincible! | 1.00% | ~447 |
-| The Five Colonies | 0.90% | ~402 |
-| This navy can take it all | 0.90% | ~402 |
-| The Emperors new clothes | 0.80% | ~357 |
-| Isn't this the way to India? | 0.80% | ~357 |
-| Market Control | 0.80% | ~357 |
+| The Five Colonies | 0.90% | ~403 |
+| This navy can take it all | 0.90% | ~403 |
+| The Emperors new clothes | 0.80% | ~358 |
+| Isn't this the way to India? | 0.80% | ~358 |
+| Market Control | 0.80% | ~358 |
 | Down Under | 0.70% | ~313 |
 | Trustworthy | 0.70% | ~313 |
 | Electable! | 0.60% | ~268 |
 | Time Bandit | 0.60% | ~268 |
-| All belongs to Mother Russia | 0.50% | ~223 |
-| At every continent | 0.50% | ~223 |
-| Early-Modern Warfare | 0.50% | ~223 |
-| One Family to Rule them All | 0.50% | ~223 |
-| Populists in Government | 0.50% | ~223 |
-| The pen is mightier than the sword | 0.50% | ~223 |
-| This is My Faith | 0.50% | ~223 |
+| All belongs to Mother Russia | 0.50% | ~224 |
+| At every continent | 0.50% | ~224 |
+| Early-Modern Warfare | 0.50% | ~224 |
+| One Family to Rule them All | 0.50% | ~224 |
+| Populists in Government | 0.50% | ~224 |
+| The pen is mightier than the sword | 0.50% | ~224 |
+| This is My Faith | 0.50% | ~224 |
 | Absolutely | 0.40% | ~179 |
 | Dude, Where's my Boat? | 0.40% | ~179 |
 | Grand Coalition | 0.40% | ~179 |
@@ -293,6 +293,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is Persia! | 0.10% | ~45 |
 | This Revolution Was Crushed | 0.10% | ~45 |
 | Trade Hegemon | 0.10% | ~45 |
+| Triple the Rome | 0.10% | ~45 |
 | Turning the Tide | 0.10% | ~45 |
 | Turtles all the way down | 0.10% | ~45 |
 | Ultimate Military | 0.10% | ~45 |
@@ -351,7 +352,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Pheasant Strut | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Turn the Table | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,680 (Ranked 79)  
+Progressed: 44,730 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,14 +398,14 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
-| 2023-05-27 | 44,680 | 0 |
+| 2023-05-27 | 44,730 | 0 |
 ## Awards
-Max (Educational): 5,287  (Ranked 60)  
-Sum: 43,822 (Ranked 27)  
+Max (Educational): 5,293  (Ranked 60)  
+Sum: 43,828 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,287 |
+| This game is Educational | 5,293 |
 | This game is Highly Recommended | 5,077 |
 | This game has Challenging Combat | 5,053 |
 | This game is Extremely Fun | 5,036 |
@@ -548,4 +548,4 @@ Diff (max vs sum): 33
 | 2023-05-24 | 4.68 | - | 5,277 | 43,722 |
 | 2023-05-25 | 4.68 | - | 5,281 | 43,757 |
 | 2023-05-26 | 4.68 | - | 5,287 | 43,808 |
-| 2023-05-27 | 4.68 | - | 5,287 | 43,822 |
+| 2023-05-27 | 4.68 | - | 5,293 | 43,828 |

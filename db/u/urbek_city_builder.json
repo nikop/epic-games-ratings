@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -322,6 +322,11 @@
       "Time": "2023-05-27T10:06:25.2370758+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T12:06:46.8387573+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -547,9 +552,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "FAITH_2",
@@ -613,7 +618,7 @@
       "Name": "I am very happy!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FELIZ_3",
@@ -659,9 +664,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -691,9 +696,9 @@
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "MURICA_1",
@@ -765,7 +770,7 @@
       "Name": "Small town",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "POPULATION_2",
@@ -851,9 +856,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "SPORTS_2",
@@ -861,7 +866,7 @@
       "Name": "Sport is the best thing",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SPORTS_3",
@@ -941,7 +946,7 @@
       "Name": "Bucolic city",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "WELFARE_1",
@@ -964,7 +969,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
@@ -972,8 +977,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:33.7224166+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:46.838757+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:59:14.255661+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:33.7224841+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:59:23.6578171+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:46.8388668+00:00"
 }

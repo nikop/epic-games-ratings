@@ -3,10 +3,10 @@
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
   "Ranking_Rating": 760,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
@@ -298,7 +298,7 @@
   "Tags": [],
   "EOS_Progressed": 13982,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3236,8 +3236,8 @@
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:03:21.2751781+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:03:46.4222527+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:37.8656226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:59:28.9419841+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:03:21.2752002+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:59:36.4531983+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:03:46.4222816+00:00"
 }

@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.87 (Ranked 909)  
+Rating: 3.88 (Ranked 909)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -48,6 +48,7 @@ Rating: 3.87 (Ranked 909)
 | Master Enchanter | 3.00% | ~36 |
 | The father of Dragons | 3.00% | ~36 |
 | Weekly Quest Completionist | 3.00% | ~36 |
+| Blueprint Upgrades | 2.00% | ~24 |
 | Dragon Slayer | 2.00% | ~24 |
 | Enchanting skill | 2.00% | ~24 |
 | Engineer Mastery | 2.00% | ~24 |
@@ -55,7 +56,6 @@ Rating: 3.87 (Ranked 909)
 | Lock And Load | 2.00% | ~24 |
 | Sailor | 2.00% | ~24 |
 | What lies behind the bush | 2.00% | ~24 |
-| Blueprint Upgrades | 1.00% | ~12 |
 | Crystal Mining | 1.00% | ~12 |
 | The Alchemist | 0.90% | ~11 |
 | Active Member | 0.80% | ~9 |
@@ -131,3 +131,4 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-18 | 3.75 | 0 | 0 |
 | 2023-05-22 | 3.79 | 0 | 0 |
 | 2023-05-23 | 3.87 | 0 | 0 |
+| 2023-05-27 | 3.88 | 0 | 0 |

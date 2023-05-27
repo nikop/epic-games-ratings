@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -134,9 +134,9 @@
       "ID": "16",
       "SetID": "39djiaj",
       "Name": "Kick It",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "17",
@@ -214,9 +214,9 @@
       "ID": "25",
       "SetID": "39djiaj",
       "Name": "Kitchen Secret Spot",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "26",
@@ -270,9 +270,9 @@
       "ID": "31",
       "SetID": "39djiaj",
       "Name": "Save some water for the fishies",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "32",
@@ -374,9 +374,9 @@
       "ID": "7",
       "SetID": "39djiaj",
       "Name": "At least everyone still had fun",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "8",
@@ -404,8 +404,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:13.8685473+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:27.6248733+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:59:39.4149693+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:13.8685728+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:59:45.5097954+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:27.6249257+00:00"
 }

@@ -3,6 +3,13 @@
 [View Rawdata](../../db/r/rayman_origins.json)  
 Rating: 4.82 (Ranked 62)  
 Number of Ratings: 34  (23.09.2022)  
+## Awards
+Max (Great Boss Battles): 20  (Ranked 486)  
+Sum: 20 (Ranked 487)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -46,3 +53,4 @@ Number of Ratings: 34  (23.09.2022)
 | 2023-04-21 | 4.80 | - | 0 | 0 |
 | 2023-05-18 | 4.81 | - | 0 | 0 |
 | 2023-05-25 | 4.82 | - | 0 | 0 |
+| 2023-05-27 | 4.82 | - | 20 | 20 |

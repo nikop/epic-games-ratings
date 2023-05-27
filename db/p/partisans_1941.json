@@ -3,11 +3,11 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 360,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -745,6 +745,11 @@
       "Time": "2023-05-27T10:06:21.8263394+00:00",
       "NumProgressed": 945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T12:06:42.676071+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -834,9 +839,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 274
     },
     {
       "ID": "Everyone_is_here",
@@ -988,22 +993,22 @@
       "Name": "Your Answer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:29.5763397+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:42.6760705+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:59:45.9746984+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:29.5763588+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:59:51.5289148+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:42.676095+00:00"
 }

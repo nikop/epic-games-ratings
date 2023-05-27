@@ -3,8 +3,8 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 99,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 131,
@@ -2124,9 +2124,9 @@
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 717
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2333,8 +2333,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:17.9183655+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:31.4382249+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:57:40.4628739+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:17.9184108+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:08.4054383+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:31.4383271+00:00"
 }

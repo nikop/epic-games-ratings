@@ -34,6 +34,7 @@
 | Getting Started | 2.00% | ~1 |
 | Skin Of Your Teeth | 2.00% | ~1 |
 | Quit Horsin' Around | 2.00% | ~1 |
+| Early Bird | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
 | Eggtraordinary | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
@@ -55,7 +56,6 @@
 | Hardcore Parkour | 0.00% | ~0 |
 | I Have The High Ground | 0.00% | ~0 |
 | Cow Topper | 0.00% | ~0 |
-| Early Bird | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
 | Pro Double Cobbler | 0.00% | ~0 |
 | Pro Gromato | 0.00% | ~0 |

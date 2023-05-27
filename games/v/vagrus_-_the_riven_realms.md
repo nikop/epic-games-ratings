@@ -10,6 +10,7 @@
 | Randomized | 11.00% | ~8 |
 | Conquered | 8.00% | ~6 |
 | Scribe | 3.00% | ~2 |
+| Fight Another Day | 3.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Conciliator | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
@@ -17,7 +18,6 @@
 | Tactician | 1.00% | ~1 |
 | The More the Merrier | 1.00% | ~1 |
 | Breached | 1.00% | ~1 |
-| Fight Another Day | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |

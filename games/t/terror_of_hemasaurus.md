@@ -12,11 +12,11 @@
 | Aerosolized | 40.00% | ~19 |
 | Reign of Terror | 33.00% | ~16 |
 | Monstrosity Atrocity | 33.00% | ~16 |
-| Crushing All Cars | 23.00% | ~11 |
+| Crushing All Cars | 25.00% | ~12 |
+| Brain Chopper | 19.00% | ~9 |
 | Horror Show | 19.00% | ~9 |
-| Brain Chopper | 17.00% | ~8 |
+| Night Bird | 15.00% | ~7 |
 | Demolition Ambition | 13.00% | ~6 |
-| Night Bird | 13.00% | ~6 |
 | Midair Affair | 6.00% | ~3 |
 | Hindenburgerer | 6.00% | ~3 |
 | Plight of the Valkyrie | 6.00% | ~3 |

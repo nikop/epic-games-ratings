@@ -2,9 +2,9 @@
   "ID": "40d23c079971446b87a1ea27232317f2",
   "Name": "Battle Ram",
   "ProductSlug": "battle-ram-d001fd",
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-05-21T09:05:47.8687996+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T12:06:16.8070857+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -58,9 +63,9 @@
       "ID": "ach_1",
       "SetID": "392n4e7",
       "Name": "START",
-      "Percentage": 83,
+      "Percentage": 78,
       "XP": 45,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_10",
@@ -146,7 +151,7 @@
       "ID": "ach_2",
       "SetID": "392n4e7",
       "Name": "Ram Corporal",
-      "Percentage": 83,
+      "Percentage": 56,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -178,7 +183,7 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -186,7 +191,7 @@
       "ID": "ach_4",
       "SetID": "392n4e7",
       "Name": "Ram Staff Sergeant",
-      "Percentage": 17,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "ach_6",
       "SetID": "392n4e7",
       "Name": "Senior Sergeant Baran",
-      "Percentage": 17,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -210,7 +215,7 @@
       "ID": "ach_7",
       "SetID": "392n4e7",
       "Name": "Sergeant Major Baran",
-      "Percentage": 17,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -235,13 +240,13 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:02.4607564+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:16.8070851+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.4558776+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:58:13.8598416+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:02.4607685+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:35.2342368+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:16.8071033+00:00"
 }

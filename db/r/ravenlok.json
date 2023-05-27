@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 871,
-  "EOS_Completed": 58,
+  "EOS_Completed": 59,
   "EOS_NewPlayers": 153,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 6.66,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1822,6 +1822,11 @@
       "Time": "2023-05-27T11:06:07.754257+00:00",
       "NumProgressed": 871,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-05-27T12:06:21.6935024+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 50,
@@ -1855,9 +1860,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 296
     },
     {
       "ID": "13",
@@ -2233,15 +2238,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 871,
-      "Completed": 58
+      "Completed": 59
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:07.7542563+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:21.6935018+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:57:25.7991579+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:07.7542984+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:57:55.7002571+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:21.6935589+00:00"
 }

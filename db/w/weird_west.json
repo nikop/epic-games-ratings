@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1551,
+  "EOS_Progressed": 1552,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -665,6 +665,11 @@
       "Time": "2023-05-27T11:06:14.8446375+00:00",
       "NumProgressed": 1551,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T12:06:28.589661+00:00",
+      "NumProgressed": 1552,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -820,7 +825,7 @@
       "Name": "Justice Served",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -908,7 +913,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -946,9 +951,9 @@
       "ID": "ACH_RAIN_OF_DEATH",
       "SetID": "8j30i9k",
       "Name": "Rain of Death",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_REVENANT",
@@ -1002,9 +1007,9 @@
       "ID": "ACH_THE_GREAT_ESCAPE",
       "SetID": "8j30i9k",
       "Name": "The Great Escape",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1052,7 +1057,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1099,15 +1104,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1551,
+      "Progressed": 1552,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:14.8446366+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:28.5896604+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:09.3843779+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:58:45.7813871+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:14.8446771+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:59:00.1731133+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:28.5897127+00:00"
 }

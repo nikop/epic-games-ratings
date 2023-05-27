@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 316)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,15 +23,15 @@ Rating: 4.64 (Ranked 316)
 | Girl Power | 44.00% | ~1,800 |
 | What goes around... | 40.00% | ~1,636 |
 | Be Prepared | 35.00% | ~1,432 |
-| Unbreakable | 33.00% | ~1,350 |
+| Unbreakable | 34.00% | ~1,391 |
 | Atomic drill | 32.00% | ~1,309 |
 | This is the end | 32.00% | ~1,309 |
 | Gotta get 'em all | 29.00% | ~1,186 |
 | Disco Roach | 26.00% | ~1,063 |
 | Dawkins Residence | 19.00% | ~777 |
 | Rescue time! | 16.00% | ~654 |
+| New species | 16.00% | ~654 |
 | New order | 15.00% | ~614 |
-| New species | 15.00% | ~614 |
 | A New Hope | 14.00% | ~573 |
 | Enigma | 14.00% | ~573 |
 | Challenger | 11.00% | ~450 |

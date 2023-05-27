@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~500 |
-| Ranidaphobia | 63.00% | ~350 |
-| Aspiring Editor | 59.00% | ~328 |
-| Gun for Hire | 52.00% | ~289 |
-| I am the law! | 39.00% | ~217 |
-| From Darkness to Light | 23.00% | ~128 |
-| Lumberjack | 19.00% | ~106 |
-| Firestarter | 18.00% | ~100 |
-| Limp Richard | 15.00% | ~83 |
-| Croaked | 14.00% | ~78 |
+| First Blood | 90.00% | ~505 |
+| Ranidaphobia | 64.00% | ~359 |
+| Aspiring Editor | 59.00% | ~331 |
+| Gun for Hire | 52.00% | ~292 |
+| I am the law! | 39.00% | ~219 |
+| From Darkness to Light | 23.00% | ~129 |
+| Lumberjack | 19.00% | ~107 |
+| Firestarter | 18.00% | ~101 |
+| Limp Richard | 15.00% | ~84 |
+| Croaked | 14.00% | ~79 |
+| Editor Adept | 12.00% | ~67 |
 | Exorcist | 12.00% | ~67 |
-| Editor Adept | 11.00% | ~61 |
-| Giant Killer | 9.00% | ~50 |
+| Giant Killer | 10.00% | ~56 |
 | The meaning of Kain | 9.00% | ~50 |
-| Hold The Line | 8.00% | ~44 |
+| Hold The Line | 8.00% | ~45 |
 | Sensei | 7.00% | ~39 |
-| Newtonian Knockout | 6.00% | ~33 |
+| Newtonian Knockout | 6.00% | ~34 |
 | Chain Killer | 5.00% | ~28 |
 | Technophobe | 5.00% | ~28 |
 | Recycler | 4.00% | ~22 |
@@ -29,17 +29,17 @@
 | Wipe Out | 3.00% | ~17 |
 | Are you not entertained? | 2.00% | ~11 |
 | Chain Reaction | 2.00% | ~11 |
+| Commando | 2.00% | ~11 |
 | Curveball | 2.00% | ~11 |
 | Ganglord | 2.00% | ~11 |
 | Jarhead | 2.00% | ~11 |
 | Experienced | 2.00% | ~11 |
 | Infiltrator | 2.00% | ~11 |
 | Ruthless | 2.00% | ~11 |
-| Commando | 1.00% | ~6 |
 | Endgame | 1.00% | ~6 |
 | Savior | 1.00% | ~6 |
 | The Watchers | 1.00% | ~6 |
-| Dr Jones | 0.70% | ~4 |
+| Dr Jones | 0.90% | ~5 |
 | Bot Whisperer | 0.50% | ~3 |
 | Side Order | 0.50% | ~3 |
 | Chaos Theory | 0.40% | ~2 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 556 (Ranked 194)  
+Progressed: 561 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
-| 2023-05-27 | 556 | 0 |
+| 2023-05-27 | 561 | 0 |

@@ -32,6 +32,7 @@ Number of Ratings: 87  (23.09.2022)
 | Critical care | 2.00% | ~14 |
 | Industrial Age | 2.00% | ~14 |
 | Jewelry accuracy | 2.00% | ~14 |
+| Living it large | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Overseer | 2.00% | ~14 |
 | Relocation | 2.00% | ~14 |
@@ -44,7 +45,6 @@ Number of Ratings: 87  (23.09.2022)
 | Environmental activist | 1.00% | ~7 |
 | Globalisation Age | 1.00% | ~7 |
 | Large construction | 1.00% | ~7 |
-| Living it large | 1.00% | ~7 |
 | Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |

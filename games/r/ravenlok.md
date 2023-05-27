@@ -31,8 +31,8 @@
 | Frog Facts! | 35.00% | ~305 |
 | All That Glistens | 35.00% | ~305 |
 | It's Pointy! | 35.00% | ~305 |
+| Spellbound | 34.00% | ~296 |
 | All Skilled Up! | 34.00% | ~296 |
-| Spellbound | 33.00% | ~287 |
 | Extinct Again! | 32.00% | ~279 |
 | Bird of Prey | 32.00% | ~279 |
 | Stardust | 32.00% | ~279 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 871 (Ranked 175)  
-Completed: 58 (6.66%) (Ranked 24)  
+Completed: 59 (6.77%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,7 +90,7 @@ Completed: 58 (6.66%) (Ranked 24)
 | 2023-05-24 | 846 | 57 |
 | 2023-05-25 | 858 | 58 |
 | 2023-05-26 | 868 | 58 |
-| 2023-05-27 | 871 | 58 |
+| 2023-05-27 | 871 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

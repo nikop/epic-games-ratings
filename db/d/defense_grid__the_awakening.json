@@ -1573,9 +1573,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 477702,
+  "EOS_Progressed": 477704,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5078,6 +5078,11 @@
       "Time": "2023-05-27T11:06:26.2283503+00:00",
       "NumProgressed": 477702,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-27T12:06:39.5792364+00:00",
+      "NumProgressed": 477704,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -5105,7 +5110,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 219743
+      "UsersEstimate": 219744
     },
     {
       "ID": "BASEDEFENDER",
@@ -5137,7 +5142,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 214966
+      "UsersEstimate": 214967
     },
     {
       "ID": "BURNBABYBURN",
@@ -5145,7 +5150,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 281844
+      "UsersEstimate": 281845
     },
     {
       "ID": "CHAS",
@@ -5185,7 +5190,7 @@
       "Name": "Close Call",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 234074
+      "UsersEstimate": 234075
     },
     {
       "ID": "COMBATTURMOIL",
@@ -5201,7 +5206,7 @@
       "Name": "Confident",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 191081
+      "UsersEstimate": 191082
     },
     {
       "ID": "CORECONTAINER",
@@ -5217,7 +5222,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76432
+      "UsersEstimate": 76433
     },
     {
       "ID": "DIVERSITY",
@@ -5233,7 +5238,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 320060
+      "UsersEstimate": 320062
     },
     {
       "ID": "EXTERMINATOR",
@@ -5257,7 +5262,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 353499
+      "UsersEstimate": 353501
     },
     {
       "ID": "FILTHYRICH",
@@ -5265,7 +5270,7 @@
       "Name": "Filthy Rich",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 90763
+      "UsersEstimate": 90764
     },
     {
       "ID": "FIREBUG",
@@ -5281,7 +5286,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 386939
+      "UsersEstimate": 386940
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -5289,7 +5294,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200635
+      "UsersEstimate": 200636
     },
     {
       "ID": "FLURRY",
@@ -5361,7 +5366,7 @@
       "Name": "Happy Returns",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 367831
+      "UsersEstimate": 367832
     },
     {
       "ID": "HEADTRAUMA",
@@ -5377,7 +5382,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 372608
+      "UsersEstimate": 372609
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -5385,7 +5390,7 @@
       "Name": "High Voltage",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114648
+      "UsersEstimate": 114649
     },
     {
       "ID": "INDECISIVE",
@@ -5401,7 +5406,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 305729
+      "UsersEstimate": 305731
     },
     {
       "ID": "KABOOM",
@@ -5425,7 +5430,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 339168
+      "UsersEstimate": 339170
     },
     {
       "ID": "LIQUIDATOR",
@@ -5537,7 +5542,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 234074
+      "UsersEstimate": 234075
     },
     {
       "ID": "PEWPEW",
@@ -5545,7 +5550,7 @@
       "Name": "Pew Pew",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238851
+      "UsersEstimate": 238852
     },
     {
       "ID": "PLANETARYSERVICE",
@@ -5569,7 +5574,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81209
+      "UsersEstimate": 81210
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -5577,7 +5582,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81209
+      "UsersEstimate": 81210
     },
     {
       "ID": "REGIONALDELUGE",
@@ -5601,7 +5606,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76432
+      "UsersEstimate": 76433
     },
     {
       "ID": "RETRYAGAIN",
@@ -5617,7 +5622,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 253182
+      "UsersEstimate": 253183
     },
     {
       "ID": "SAVANTGENIUS",
@@ -5673,7 +5678,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 310506
+      "UsersEstimate": 310508
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -5705,7 +5710,7 @@
       "Name": "The Not-So-Friendly Skies",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 85986
+      "UsersEstimate": 85987
     },
     {
       "ID": "THISISSPARTAN",
@@ -5753,7 +5758,7 @@
       "Name": "What IS that?",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238851
+      "UsersEstimate": 238852
     },
     {
       "ID": "XENOCIDE",
@@ -5769,7 +5774,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 262736
+      "UsersEstimate": 262737
     },
     {
       "ID": "YOUMONSTER",
@@ -5784,15 +5789,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 477702,
+      "Progressed": 477704,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-05-27T06:58:22.8722153+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:26.2283497+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:39.5792361+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.4973465+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:58:36.2100158+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:26.2284415+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:52.3828964+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:39.5794061+00:00"
 }

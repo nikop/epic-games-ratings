@@ -3,12 +3,12 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 524,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222989,
+  "EOS_Progressed": 222994,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3838,6 +3838,11 @@
       "Time": "2023-05-27T11:06:03.3988502+00:00",
       "NumProgressed": 222989,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-27T12:06:17.7020896+00:00",
+      "NumProgressed": 222994,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -3865,7 +3870,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62437
+      "UsersEstimate": 62438
     },
     {
       "ID": "CENTAUR",
@@ -3873,7 +3878,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17839
+      "UsersEstimate": 17840
     },
     {
       "ID": "CHALLENGER",
@@ -3889,7 +3894,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15609
+      "UsersEstimate": 15610
     },
     {
       "ID": "DRAGOON",
@@ -3913,7 +3918,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 17839
+      "UsersEstimate": 17840
     },
     {
       "ID": "FLAWLESS",
@@ -3937,7 +3942,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44598
+      "UsersEstimate": 44599
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -3985,7 +3990,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71356
+      "UsersEstimate": 71358
     },
     {
       "ID": "NOBUNAGA",
@@ -4017,7 +4022,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15609
+      "UsersEstimate": 15610
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -4041,7 +4046,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11149
+      "UsersEstimate": 11150
     },
     {
       "ID": "RESPWND",
@@ -4073,7 +4078,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49058
+      "UsersEstimate": 49059
     },
     {
       "ID": "TACTICIAN",
@@ -4097,7 +4102,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49058
+      "UsersEstimate": 49059
     },
     {
       "ID": "TUNINGMANIAC",
@@ -4113,22 +4118,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91425
+      "UsersEstimate": 91428
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 222989,
+      "Progressed": 222994,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:03.3988495+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:17.702089+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:58:30.5838541+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:03.398885+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:48.6945301+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:17.7021409+00:00"
 }

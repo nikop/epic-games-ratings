@@ -993,7 +993,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5789,
+  "EOS_Progressed": 5790,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
@@ -3988,6 +3988,11 @@
       "Time": "2023-05-27T11:06:39.6022489+00:00",
       "NumProgressed": 5789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T12:06:52.6436655+00:00",
+      "NumProgressed": 5790,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3999,7 +4004,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "10",
@@ -4031,7 +4036,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "14",
@@ -4039,7 +4044,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "15",
@@ -4055,7 +4060,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "17",
@@ -4069,9 +4074,9 @@
       "ID": "18",
       "SetID": "8idi9ml",
       "Name": "Legendary Adventurer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 52
     },
     {
       "ID": "19",
@@ -4079,7 +4084,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "2",
@@ -4111,7 +4116,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "23",
@@ -4119,7 +4124,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "24",
@@ -4151,7 +4156,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "28",
@@ -4247,7 +4252,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "39",
@@ -4319,7 +4324,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "47",
@@ -4327,7 +4332,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "48",
@@ -4359,7 +4364,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "51",
@@ -4383,7 +4388,7 @@
       "Name": "Amped Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "54",
@@ -4391,7 +4396,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "55",
@@ -4470,15 +4475,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5789,
+      "Progressed": 5790,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-26T17:00:06.6689356+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:39.6022484+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:52.643665+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:00:47.4900447+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:39.6023058+00:00"
+  "LastUpdate_Ratings": "2023-05-27T12:00:38.4441979+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:52.6437625+00:00"
 }

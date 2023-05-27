@@ -7,8 +7,8 @@
 | So it goes | 6.00% | ~10 |
 | Clean Conscience | 6.00% | ~10 |
 | Small-time Finder | 4.00% | ~7 |
+| Business as usual | 4.00% | ~7 |
 | Off to a Good Start | 3.00% | ~5 |
-| Business as usual | 3.00% | ~5 |
 | A New Broom Sweeps Clean | 3.00% | ~5 |
 | Pride and Joy | 2.00% | ~3 |
 | Eyes Yet To Open | 2.00% | ~3 |

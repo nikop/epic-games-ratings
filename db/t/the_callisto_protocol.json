@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -440,9 +440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13782,
+  "EOS_Progressed": 13786,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1745,6 +1745,11 @@
       "Time": "2023-05-27T11:03:42.7174623+00:00",
       "NumProgressed": 13782,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T12:04:16.0963061+00:00",
+      "NumProgressed": 13786,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1820,7 +1825,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -1900,7 +1905,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1916,7 +1921,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1924,7 +1929,7 @@
       "Name": "Reforged",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1956,7 +1961,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "STORY_HABITAT",
@@ -1978,9 +1983,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 124
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -2002,9 +2007,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 124
     },
     {
       "ID": "STORY_TUNNELS",
@@ -2075,13 +2080,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13782,
+      "Progressed": 13786,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1708,
+      "Progressed": 1712,
       "Completed": 29
     }
   ],
@@ -2089,8 +2094,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-26T23:58:11.1391789+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:03:42.7174614+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:04:16.0963056+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:57:59.9510328+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:03:42.7174919+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:23.3454298+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:04:16.0963564+00:00"
 }

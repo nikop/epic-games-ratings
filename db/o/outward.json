@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2604,
+  "EOS_Progressed": 2606,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1604,6 +1604,11 @@
       "Time": "2023-05-27T11:01:40.4637939+00:00",
       "NumProgressed": 2604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T12:01:24.2344107+00:00",
+      "NumProgressed": 2606,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1655,7 +1660,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "CrowdPleaser",
@@ -1679,7 +1684,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -1799,15 +1804,15 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1668
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1823,7 +1828,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -1831,7 +1836,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Tapped_22",
@@ -1839,7 +1844,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -1871,7 +1876,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -1887,7 +1892,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "TheStuffOfLegends",
@@ -1935,7 +1940,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1950,15 +1955,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2604,
+      "Progressed": 2606,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:01:40.4637932+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:01:24.2344104+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:57:48.9675345+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:01:40.4638306+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:14.4993285+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:01:24.2344442+00:00"
 }

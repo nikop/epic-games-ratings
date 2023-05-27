@@ -24,8 +24,8 @@ Rating: 3.79 (Ranked 916)
 | “Aliens” | 2.00% | ~19 |
 | DeDust | 2.00% | ~19 |
 | To infinity and beyond! | 0.70% | ~7 |
+| Hard Landing | 0.60% | ~6 |
 | Driver's License | 0.50% | ~5 |
-| Hard Landing | 0.50% | ~5 |
 | Caveman | 0.50% | ~5 |
 | Plumber | 0.40% | ~4 |
 | Thunderstruck | 0.40% | ~4 |

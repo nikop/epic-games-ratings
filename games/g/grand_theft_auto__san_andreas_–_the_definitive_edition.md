@@ -7,7 +7,7 @@ Rating: 4.62 (Ranked 343)
 | ---- | ---------- | ----- |
 | Getting Started | 80.00% | ~6,842 |
 | Pay 'n' Spray | 48.00% | ~4,105 |
-| All Dressed Up for San Fierro | 22.00% | ~1,881 |
+| All Dressed Up for San Fierro | 22.00% | ~1,882 |
 | The American Dream | 17.00% | ~1,454 |
 | School's Out | 15.00% | ~1,283 |
 | Smooth Moves | 15.00% | ~1,283 |
@@ -41,7 +41,7 @@ Rating: 4.62 (Ranked 343)
 | ...Here we go again | 0.30% | ~26 |
 | I Ain't No Buster | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,552 (Ranked 111)  
+Progressed: 8,553 (Ranked 111)  
 Completed: 17 (0.20%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 17 (0.20%) (Ranked 141)
 | 2023-05-24 | 8,309 | 17 |
 | 2023-05-25 | 8,387 | 17 |
 | 2023-05-26 | 8,490 | 17 |
-| 2023-05-27 | 8,552 | 17 |
+| 2023-05-27 | 8,553 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

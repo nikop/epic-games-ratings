@@ -2,10 +2,10 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 5.41,
+  "EOS_Completed_Percentage": 5.39,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -691,6 +691,11 @@
       "Time": "2023-05-27T09:03:48.6910033+00:00",
       "NumProgressed": 333,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-27T12:03:58.4219906+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 30,
@@ -702,7 +707,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "LEVEL_002",
@@ -710,7 +715,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LEVEL_003",
@@ -718,7 +723,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "LEVEL_004",
@@ -726,7 +731,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "LEVEL_005",
@@ -941,14 +946,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:03:34.4024726+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:03:58.4219901+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:56:57.1597861+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:03:34.402497+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:57:31.6936005+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:03:58.4220164+00:00"
 }

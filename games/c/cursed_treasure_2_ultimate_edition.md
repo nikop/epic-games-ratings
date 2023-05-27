@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Don't Touch My Gems! | 97.00% | ~150 |
 | On the Crest of a Wave | 95.00% | ~147 |
-| Foreman of Darkness | 94.00% | ~146 |
-| Brilliant Day | 92.00% | ~143 |
+| Foreman of Darkness | 95.00% | ~147 |
+| Brilliant Day | 93.00% | ~144 |
 | Evil Genius | 86.00% | ~133 |
-| Air Defense | 84.00% | ~130 |
+| Air Defense | 85.00% | ~132 |
 | Tinned Corpse | 83.00% | ~129 |
 | Your War is Over | 80.00% | ~124 |
 | The Starry Night | 74.00% | ~115 |

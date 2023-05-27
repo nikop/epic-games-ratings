@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -137,9 +137,9 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "MasterCrafter",
@@ -242,8 +242,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:14.095777+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:27.8500348+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.5473278+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:59:25.1823282+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:14.095789+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:59:34.0262793+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:27.8500471+00:00"
 }

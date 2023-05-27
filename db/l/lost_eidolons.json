@@ -3,11 +3,11 @@
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
   "Ranking_Rating": 756,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -504,9 +504,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 618
     },
     {
       "ID": "06",
@@ -665,8 +665,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:28.1748951+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:41.3402869+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:00:23.7844064+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:28.174909+00:00"
+  "LastUpdate_Ratings": "2023-05-27T12:00:20.873762+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:41.3403078+00:00"
 }

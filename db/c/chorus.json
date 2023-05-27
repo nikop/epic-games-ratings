@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 889,
+  "EOS_Progressed": 890,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -568,6 +568,11 @@
       "Time": "2023-05-27T04:05:43.6478032+00:00",
       "NumProgressed": 889,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-27T12:06:53.7011541+00:00",
+      "NumProgressed": 890,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -595,7 +600,7 @@
       "Name": "Voices from the Past",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "Finish5SideMissions",
@@ -611,7 +616,7 @@
       "Name": "Paragon",
       "Percentage": 64,
       "XP": 70,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "GatlingVsArmor",
@@ -627,7 +632,7 @@
       "Name": "Showoff",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "KillWhileDrifting",
@@ -635,7 +640,7 @@
       "Name": "Born to Drift",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "KillWithALargeShip",
@@ -675,7 +680,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -699,7 +704,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -707,7 +712,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -739,7 +744,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -755,15 +760,15 @@
       "Name": "Cult Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 605
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -779,7 +784,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -795,7 +800,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "MissionScavengingJob",
@@ -873,9 +878,9 @@
       "ID": "RiteOfTheHunt",
       "SetID": "a6c395p",
       "Name": "Huntress",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 472
     },
     {
       "ID": "RiteOfTheStar",
@@ -907,7 +912,7 @@
       "Name": "Space Traveler",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "WinARace",
@@ -922,15 +927,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 889,
+      "Progressed": 890,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:40.7166962+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:53.7011535+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:00:51.4523198+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:40.7167234+00:00"
+  "LastUpdate_Ratings": "2023-05-27T12:00:41.928562+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:53.7011876+00:00"
 }

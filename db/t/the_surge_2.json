@@ -3,8 +3,8 @@
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
   "Ranking_Rating": 792,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 154,
@@ -225,11 +225,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1626,
+  "EOS_Progressed": 1627,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -635,6 +635,11 @@
       "Time": "2023-05-27T11:06:42.922537+00:00",
       "NumProgressed": 1626,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-27T12:06:55.8447952+00:00",
+      "NumProgressed": 1627,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -654,7 +659,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACHV_03",
@@ -702,7 +707,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHV_09",
@@ -710,7 +715,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHV_10",
@@ -782,7 +787,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACHV_19",
@@ -846,7 +851,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACHV_27",
@@ -878,7 +883,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHV_31",
@@ -886,7 +891,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHV_32",
@@ -942,7 +947,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHV_39",
@@ -950,7 +955,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACHV_40",
@@ -982,7 +987,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHV_44",
@@ -1101,7 +1106,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1626,
+      "Progressed": 1627,
       "Completed": 10
     }
   ],
@@ -1109,8 +1114,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:42.9225365+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:55.8447949+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:01:28.8431411+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:42.9225789+00:00"
+  "LastUpdate_Ratings": "2023-05-27T12:01:13.7933226+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:55.8448477+00:00"
 }

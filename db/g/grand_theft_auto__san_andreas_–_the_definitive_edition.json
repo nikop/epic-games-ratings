@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 343,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 71,
@@ -314,9 +314,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8552,
+  "EOS_Progressed": 8553,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2604,6 +2604,11 @@
       "Time": "2023-05-27T11:06:40.1221049+00:00",
       "NumProgressed": 8552,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-27T12:06:53.0645433+00:00",
+      "NumProgressed": 8553,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2791,7 +2796,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "ACH24",
@@ -2894,7 +2899,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8552,
+      "Progressed": 8553,
       "Completed": 17
     }
   ],
@@ -2902,8 +2907,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-25T17:59:44.6774994+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:06:40.1221042+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:06:53.0645427+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.6877714+00:00",
-  "LastUpdate_Ratings": "2023-05-27T11:01:14.2586051+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:06:40.1221371+00:00"
+  "LastUpdate_Ratings": "2023-05-27T12:00:58.6212346+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:06:53.0646138+00:00"
 }

@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.40% | ~355 |
 | Coasting to the Finish | 0.40% | ~220 |
 | Quick or Quack | 0.40% | ~220 |
+| Best Thay Ever | 0.30% | ~165 |
 | Were-verpowered | 0.30% | ~267 |
 | Checkmate | 0.30% | ~165 |
 | A Persistent Buzzing | 0.30% | ~267 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~110 |
 | Supply Run | 0.20% | ~178 |
 | Owlbear Necessities | 0.20% | ~110 |
-| Best Thay Ever | 0.20% | ~110 |
 | Keep Your Distance | 0.20% | ~110 |
 | Frail Doesn't Mean Broken | 0.20% | ~110 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~110 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,841 (Ranked 61)  
+Progressed: 88,844 (Ranked 61)  
 Completed: 1,883 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 1,883 (2.12%) (Ranked 62)
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
-| 2023-05-27 | 88,841 | 1,883 |
+| 2023-05-27 | 88,844 | 1,883 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
 Sum: 29,988 (Ranked 37)  

@@ -3,8 +3,8 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 928,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 163,
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1629,
+  "EOS_Progressed": 1630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1586,6 +1586,11 @@
       "Time": "2023-05-27T11:01:46.1616747+00:00",
       "NumProgressed": 1629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T12:01:29.4352003+00:00",
+      "NumProgressed": 1630,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1621,7 +1626,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "Achievement_006",
@@ -1645,7 +1650,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "Achievement_009",
@@ -1653,7 +1658,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "Achievement_010",
@@ -1733,7 +1738,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "Achievement_020",
@@ -1797,7 +1802,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "Achievement_028",
@@ -1821,7 +1826,7 @@
       "Name": "ICU",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "Achievement_031",
@@ -1829,7 +1834,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "Achievement_032",
@@ -1845,7 +1850,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "Achievement_034",
@@ -1861,7 +1866,7 @@
       "Name": "From the Shadows",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Achievement_036",
@@ -2061,7 +2066,7 @@
       "Name": "Helping Hand",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Achievement_064",
@@ -2124,7 +2129,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1629,
+      "Progressed": 1630,
       "Completed": 0
     }
   ],
@@ -2132,8 +2137,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-26T21:57:37.7644211+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:01:46.161674+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:01:29.4351998+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:37.8719634+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:57:55.8538272+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:01:46.1617429+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:58:20.4677792+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:01:29.4353553+00:00"
 }

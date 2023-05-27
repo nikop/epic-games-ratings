@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "BADGE_BRILLIANT_DAY",
       "SetID": "ak6pfjk",
       "Name": "Brilliant Day",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
@@ -386,9 +386,9 @@
       "ID": "BADGE_FLYING_ENEMY_KILL",
       "SetID": "ak6pfjk",
       "Name": "Air Defense",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "BADGE_FORESTS_CUT",
@@ -514,9 +514,9 @@
       "ID": "BADGE_TOWER_UPGRADE",
       "SetID": "ak6pfjk",
       "Name": "Foreman of Darkness",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "BADGE_TOWER_UPGRADE_2",
@@ -539,8 +539,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-27T11:02:28.6631258+00:00",
+  "LastChanged_Achievements": "2023-05-27T12:03:17.6709461+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-27T10:58:55.6020627+00:00",
-  "LastUpdate_Achievements": "2023-05-27T11:02:28.663161+00:00"
+  "LastUpdate_Ratings": "2023-05-27T11:59:09.452583+00:00",
+  "LastUpdate_Achievements": "2023-05-27T12:03:17.6710042+00:00"
 }
