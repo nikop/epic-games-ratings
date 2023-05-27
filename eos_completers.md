@@ -8,7 +8,7 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.59% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.82% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.64% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.34% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
@@ -59,7 +59,7 @@
 | 57 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.38% |
 | 58 | [JARS](games/j/jars.md) | 2.33% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.29% |
-| 60 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.22% |
+| 60 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.17% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 1.99% |
@@ -86,7 +86,7 @@
 | 84 | [Late Shift](games/l/late_shift.md) | 1.10% |
 | 85 | [Five Dates](games/f/five_dates.md) | 1.06% |
 | 86 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.04% |
-| 87 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.96% |
+| 87 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.95% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
 | 89 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
@@ -109,7 +109,7 @@
 | 107 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 107 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
-| 110 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 112 | [Tails of Iron](games/t/tails_of_iron.md) | 0.40% |
 | 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
