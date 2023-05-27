@@ -3,11 +3,11 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 902,
-  "Ranking_Popularity": 227,
-  "Ranking_PopularitySum": 214,
+  "Ranking_Popularity": 226,
+  "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1648,12 +1648,18 @@
       "Rating": 3.93,
       "NumberOfAwards": 1391,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-05-27T16:59:21.7337543+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1397,
+      "NumberOfAwardsMax": 294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1391,
-  "NumberOfAwardsMax": 288,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 1397,
+  "NumberOfAwardsMax": 294,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1695,7 +1701,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 288
+      "Count": 294
     },
     {
       "Text": "This game has a Silly Community",
@@ -1704,9 +1710,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 63573,
+  "EOS_Progressed": 63585,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 2216,
+  "EOS_NewPlayers": 2198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5389,6 +5395,11 @@
       "Time": "2023-05-27T16:06:41.44039+00:00",
       "NumProgressed": 63573,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-27T17:05:30.625812+00:00",
+      "NumProgressed": 63585,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 37,
@@ -5400,7 +5411,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 31786
+      "UsersEstimate": 31792
     },
     {
       "ID": "ACH_0011",
@@ -5408,7 +5419,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18436
+      "UsersEstimate": 18440
     },
     {
       "ID": "ACH_0012",
@@ -5416,7 +5427,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13350
+      "UsersEstimate": 13353
     },
     {
       "ID": "ACH_0013",
@@ -5424,7 +5435,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8264
+      "UsersEstimate": 8266
     },
     {
       "ID": "ACH_0014",
@@ -5432,7 +5443,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "ACH_0015",
@@ -5456,7 +5467,7 @@
       "Name": "Rockay Raider",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACH_0022",
@@ -5480,7 +5491,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5086
+      "UsersEstimate": 5087
     },
     {
       "ID": "ACH_0050",
@@ -5488,7 +5499,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "ACH_0060",
@@ -5496,7 +5507,7 @@
       "Name": "Freebooter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "ACH_0061",
@@ -5504,7 +5515,7 @@
       "Name": "Privateer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH_0100",
@@ -5512,7 +5523,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5086
+      "UsersEstimate": 5087
     },
     {
       "ID": "ACH_0101",
@@ -5536,7 +5547,7 @@
       "Name": "Moneybags",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACH_0200",
@@ -5544,7 +5555,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 40687
+      "UsersEstimate": 40694
     },
     {
       "ID": "ACH_0210",
@@ -5552,7 +5563,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 46408
+      "UsersEstimate": 46417
     },
     {
       "ID": "ACH_0211",
@@ -5560,7 +5571,7 @@
       "Name": "Groundhog Days",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH_0220",
@@ -5568,7 +5579,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 29879
+      "UsersEstimate": 29885
     },
     {
       "ID": "ACH_0300",
@@ -5584,7 +5595,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH_0330",
@@ -5592,7 +5603,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5086
+      "UsersEstimate": 5087
     },
     {
       "ID": "ACH_0340",
@@ -5616,7 +5627,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21615
+      "UsersEstimate": 21619
     },
     {
       "ID": "ACH_0420",
@@ -5624,7 +5635,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 20979
+      "UsersEstimate": 20983
     },
     {
       "ID": "ACH_0430",
@@ -5632,7 +5643,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 22251
+      "UsersEstimate": 22255
     },
     {
       "ID": "ACH_0431",
@@ -5640,7 +5651,7 @@
       "Name": "Classy Joint",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "ACH_0440",
@@ -5648,7 +5659,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12079
+      "UsersEstimate": 12081
     },
     {
       "ID": "ACH_0450",
@@ -5656,7 +5667,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12079
+      "UsersEstimate": 12081
     },
     {
       "ID": "ACH_0451",
@@ -5664,7 +5675,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10172
+      "UsersEstimate": 10174
     },
     {
       "ID": "ACH_0452",
@@ -5672,7 +5683,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10172
+      "UsersEstimate": 10174
     },
     {
       "ID": "ACH_0460",
@@ -5680,7 +5691,7 @@
       "Name": "Impossible Dreamer",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACH_0600",
@@ -5688,23 +5699,23 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 6993
+      "UsersEstimate": 6994
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 63573,
+      "Progressed": 63585,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-27T13:02:13.6277466+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:41.4403896+00:00",
+  "LastChanged": "2023-05-27T16:59:21.733754+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:30.625811+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.0197021+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:00:14.5957363+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:41.4404368+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:59:21.7337546+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:30.6258627+00:00"
 }

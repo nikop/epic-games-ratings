@@ -6,13 +6,13 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~833 |
-| Wanderer | 35.00% | ~294 |
+| Atom Agent | 99.00% | ~835 |
+| Wanderer | 35.00% | ~295 |
 | One HIT wonder | 33.00% | ~278 |
 | One shot, one kill | 29.00% | ~244 |
-| Traveler | 25.00% | ~210 |
+| Traveler | 25.00% | ~211 |
 | Head Burst | 19.00% | ~160 |
-| Explorer | 18.00% | ~151 |
+| Explorer | 18.00% | ~152 |
 | Grave Robber | 17.00% | ~143 |
 | Double agent | 14.00% | ~118 |
 | Paranoia | 14.00% | ~118 |
@@ -22,7 +22,7 @@ Number of Ratings: 54  (23.09.2022)
 | Superhuman | 8.00% | ~67 |
 | Bustin' nuts | 7.00% | ~59 |
 | Not-so-private Eye | 7.00% | ~59 |
-| The Vitinsky Rifle | 6.00% | ~50 |
+| The Vitinsky Rifle | 6.00% | ~51 |
 | Secret room | 5.00% | ~42 |
 | Indy | 4.00% | ~34 |
 | Protection racket | 4.00% | ~34 |
@@ -31,7 +31,7 @@ Number of Ratings: 54  (23.09.2022)
 | Wishmaster | 2.00% | ~17 |
 | Neanderthal | 1.00% | ~8 |
 | It was worth a shot | 1.00% | ~8 |
-| Cosmic Horror | 1.00% | ~8 |
+| Cosmic Horror | 0.90% | ~8 |
 | Ghostbuster | 0.80% | ~7 |
 | Expert | 0.60% | ~5 |
 | Tourist Korallov | 0.60% | ~5 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 841 (Ranked 178)  
+Progressed: 843 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 813 | 0 |
 | 2023-05-25 | 822 | 0 |
 | 2023-05-26 | 831 | 0 |
-| 2023-05-27 | 841 | 0 |
+| 2023-05-27 | 843 | 0 |
 ## Awards
 Max (Character Customization): 47  (Ranked 394)  
 Sum: 47 (Ranked 436)  

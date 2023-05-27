@@ -23,7 +23,7 @@ Number of Ratings: 25  (23.09.2022)
 | Precious | 44.00% | ~246 |
 | Devoted | 41.00% | ~229 |
 | The Farmer | 39.00% | ~218 |
-| Ever After | 35.00% | ~196 |
+| Ever After | 36.00% | ~201 |
 | Loyal | 28.00% | ~157 |
 | Mandatory Sacrifice | 28.00% | ~157 |
 | The Collector | 24.00% | ~134 |

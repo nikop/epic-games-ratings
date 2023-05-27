@@ -9,7 +9,7 @@
 | Into the Barn | 86.00% | ~752 |
 | A Prophecy | 84.00% | ~734 |
 | Sword, Shield, Fight! | 75.00% | ~656 |
-| A Grand Visit | 70.00% | ~612 |
+| A Grand Visit | 71.00% | ~621 |
 | Vibing | 61.00% | ~533 |
 | Fun Guy | 61.00% | ~533 |
 | Tragic Brave | 52.00% | ~454 |
@@ -25,15 +25,15 @@
 | Teacups for Toppy | 38.00% | ~332 |
 | Nightmare Fuel | 37.00% | ~323 |
 | Take Heart | 37.00% | ~323 |
-| The Guardian | 36.00% | ~315 |
+| The Guardian | 37.00% | ~323 |
 | Stronger! | 36.00% | ~315 |
 | Ancient Wisdom | 35.00% | ~306 |
 | Frog Facts! | 35.00% | ~306 |
 | All That Glistens | 35.00% | ~306 |
 | It's Pointy! | 35.00% | ~306 |
+| Spellbound | 34.00% | ~297 |
 | All Skilled Up! | 34.00% | ~297 |
-| Spellbound | 33.00% | ~288 |
-| Extinct Again! | 32.00% | ~280 |
+| Extinct Again! | 33.00% | ~288 |
 | Bird of Prey | 32.00% | ~280 |
 | Stardust | 32.00% | ~280 |
 | Heartbreaker | 32.00% | ~280 |
@@ -42,9 +42,9 @@
 | Pull the Plug | 30.00% | ~262 |
 | Soul Slayer | 30.00% | ~262 |
 | All Heart | 30.00% | ~262 |
+| Extraordinary! | 30.00% | ~262 |
 | Final Showdown | 30.00% | ~262 |
 | The Downfall | 29.00% | ~253 |
-| Extraordinary! | 29.00% | ~253 |
 | Spot of Tea? | 29.00% | ~253 |
 | Going Home | 29.00% | ~253 |
 | Mirror, Mirror | 27.00% | ~236 |

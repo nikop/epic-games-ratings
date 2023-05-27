@@ -12,7 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.60% | ~331 |
 | Beast Intentions | 0.50% | ~444 |
 | The Mad Wizard | 0.50% | ~444 |
-| The Ring of Regeneration | 0.40% | ~355 |
+| The Ring of Regeneration | 0.40% | ~356 |
+| Are Ya Chicken? | 0.40% | ~356 |
 | Coasting to the Finish | 0.40% | ~221 |
 | Quick or Quack | 0.40% | ~221 |
 | Best Thay Ever | 0.30% | ~165 |
@@ -20,12 +21,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.30% | ~165 |
 | A Persistent Buzzing | 0.30% | ~267 |
 | Seeking Allies | 0.30% | ~267 |
-| Are Ya Chicken? | 0.30% | ~267 |
 | Mad Cow Disease | 0.30% | ~267 |
 | Friendly Imps | 0.30% | ~267 |
 | Pure Energy | 0.30% | ~267 |
 | Maddening | 0.20% | ~178 |
 | Tall Tales | 0.20% | ~110 |
+| The Silken Swamp | 0.20% | ~178 |
 | Supply Run | 0.20% | ~178 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Keep Your Distance | 0.20% | ~110 |
@@ -40,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.20% | ~178 |
 | Low Initiative | 0.20% | ~178 |
 | A Mysterious Summons | 0.20% | ~178 |
+| Street War | 0.20% | ~178 |
 | Building Trust | 0.20% | ~178 |
 | Unearthed Evil | 0.20% | ~178 |
 | No Time To Rest | 0.20% | ~178 |
@@ -94,7 +96,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.10% | ~55 |
 | Second Third Out | 0.10% | ~55 |
 | Third Third Out | 0.10% | ~55 |
-| The Silken Swamp | 0.10% | ~89 |
 | Slack-jawed Lorna | 0.10% | ~55 |
 | I'm Sure I Saw It Move! | 0.10% | ~55 |
 | End of the Line | 0.10% | ~55 |
@@ -187,7 +188,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~89 |
 | Double Vision | 0.10% | ~89 |
 | Underground Railroad | 0.10% | ~89 |
-| Street War | 0.10% | ~89 |
 | Force Grey Unleashed | 0.10% | ~89 |
 | Vajra's Guards | 0.10% | ~89 |
 | March of the Undead | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,870 (Ranked 61)  
+Progressed: 88,875 (Ranked 61)  
 Completed: 1,884 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 1,884 (2.12%) (Ranked 62)
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
-| 2023-05-27 | 88,870 | 1,884 |
+| 2023-05-27 | 88,875 | 1,884 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
 Sum: 29,988 (Ranked 37)  

@@ -5,23 +5,23 @@ Rating: 4.62 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,863 |
-| Pay 'n' Spray | 48.00% | ~4,118 |
-| All Dressed Up for San Fierro | 22.00% | ~1,887 |
-| The American Dream | 17.00% | ~1,458 |
-| School's Out | 15.00% | ~1,287 |
-| Smooth Moves | 15.00% | ~1,287 |
-| Today Was a Good Day | 13.00% | ~1,115 |
-| What happens in Las Venturas... | 12.00% | ~1,029 |
-| Horror of the Santa Maria | 9.00% | ~772 |
+| Getting Started | 80.00% | ~6,867 |
+| Pay 'n' Spray | 48.00% | ~4,120 |
+| All Dressed Up for San Fierro | 22.00% | ~1,888 |
+| The American Dream | 17.00% | ~1,459 |
+| School's Out | 15.00% | ~1,288 |
+| Smooth Moves | 15.00% | ~1,288 |
+| Today Was a Good Day | 13.00% | ~1,116 |
+| What happens in Las Venturas... | 12.00% | ~1,030 |
+| Horror of the Santa Maria | 9.00% | ~773 |
 | Liberty City State of Mind | 7.00% | ~601 |
 | With Extra Dip | 6.00% | ~515 |
 | The End of the Line | 6.00% | ~515 |
 | Original Gangster | 6.00% | ~515 |
 | Saviour | 5.00% | ~429 |
 | Rescue a Kitten Too? | 4.00% | ~343 |
-| They Can’t Stop All of Us | 3.00% | ~257 |
-| What are the Odds | 3.00% | ~257 |
+| They Can’t Stop All of Us | 3.00% | ~258 |
+| What are the Odds | 3.00% | ~258 |
 | I’ll Have Two Number 9s | 2.00% | ~172 |
 | Bike or Biker | 2.00% | ~172 |
 | What the City Needs | 2.00% | ~172 |
@@ -36,12 +36,12 @@ Rating: 4.62 (Ranked 343)
 | Chick Magnet | 0.90% | ~77 |
 | Lucky Spinner | 0.80% | ~69 |
 | Hoopin' it Up | 0.70% | ~60 |
-| Not a Player | 0.60% | ~51 |
+| Not a Player | 0.60% | ~52 |
 | Remastered | 0.50% | ~43 |
 | ...Here we go again | 0.30% | ~26 |
 | I Ain't No Buster | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,579 (Ranked 111)  
+Progressed: 8,584 (Ranked 111)  
 Completed: 17 (0.20%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 17 (0.20%) (Ranked 141)
 | 2023-05-24 | 8,309 | 17 |
 | 2023-05-25 | 8,387 | 17 |
 | 2023-05-26 | 8,490 | 17 |
-| 2023-05-27 | 8,579 | 17 |
+| 2023-05-27 | 8,584 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

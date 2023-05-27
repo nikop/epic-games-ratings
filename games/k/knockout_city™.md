@@ -1,7 +1,7 @@
 # Knockout City™
 [Store](https://store.epicgames.com/en-US/p/knockout-city)  
 [View Rawdata](../../db/k/knockout_city™.json)  
-Rating: 4.47 (Ranked 585)  
+Rating: 4.49 (Ranked 560)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -69,3 +69,4 @@ Rating: 4.47 (Ranked 585)
 | 2023-05-18 | 4.45 | 0 | 0 |
 | 2023-05-20 | 4.46 | 0 | 0 |
 | 2023-05-24 | 4.47 | 0 | 0 |
+| 2023-05-27 | 4.49 | 0 | 0 |

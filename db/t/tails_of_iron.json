@@ -187,7 +187,7 @@
   "Tags": [],
   "EOS_Progressed": 1492,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -972,9 +972,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 895
     },
     {
       "ID": "Kill25Mozi",
@@ -1059,8 +1059,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:03:32.969853+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:02:28.4184034+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:38.3730465+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:03:32.9698787+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:58:00.4400709+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:02:28.4184328+00:00"
 }

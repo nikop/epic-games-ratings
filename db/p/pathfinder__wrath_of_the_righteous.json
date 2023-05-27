@@ -2546,9 +2546,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9250,
+  "EOS_Progressed": 9253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4676,6 +4676,11 @@
       "Time": "2023-05-27T16:06:49.4887825+00:00",
       "NumProgressed": 9250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T17:05:37.7381617+00:00",
+      "NumProgressed": 9253,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4685,9 +4690,9 @@
       "ID": "01_DevouredByDarkness",
       "SetID": "989of5o",
       "Name": "Devoured by Darkness",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1388
     },
     {
       "ID": "02_BurningCity",
@@ -4711,7 +4716,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -4751,7 +4756,7 @@
       "Name": "Path of the Demon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "10_PathOfAzata",
@@ -4767,7 +4772,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "12_PathOfTrickster",
@@ -4775,7 +4780,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "13_PathOfLich",
@@ -4783,7 +4788,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "14_PathOfSwarm",
@@ -4879,7 +4884,7 @@
       "Name": "Masterful Dispel",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "27_VictorySeige",
@@ -4943,7 +4948,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -5007,7 +5012,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "43_DreadfulDragon",
@@ -5023,7 +5028,7 @@
       "Name": "Ashes to Ashes",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "45_VoiceFromDreams",
@@ -5087,7 +5092,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -5614,21 +5619,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8032,
+      "Progressed": 8035,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9250,
+      "Progressed": 9253,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-27T07:58:21.1103803+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:49.488782+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:37.7381612+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:34.8025786+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:49.488937+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:57:57.1814918+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:37.7383321+00:00"
 }

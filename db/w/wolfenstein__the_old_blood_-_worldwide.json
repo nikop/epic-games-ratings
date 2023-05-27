@@ -3,11 +3,11 @@
   "Name": "Wolfenstein: The Old Blood",
   "ProductSlug": "wolfenstein-the-old-blood",
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 409,
+  "Ranking_Popularity": 344,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -395,18 +395,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-05-27T16:58:00.7570454+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 84,
+  "NumberOfAwards": 85,
+  "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 84
+      "Count": 85
     }
   ],
   "EOS_Progressed": 0,
@@ -420,8 +426,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
-  "LastChanged": "2023-04-08T01:48:07.2535284+00:00",
+  "LastChanged": "2023-05-27T16:58:00.7570452+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.5664307+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:38.9562657+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:03:41.2165568+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:58:00.7570457+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:02:35.3691104+00:00"
 }

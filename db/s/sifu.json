@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4162,18 +4162,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10386,
       "NumberOfAwardsMax": 6094
+    },
+    {
+      "Time": "2023-05-27T16:58:33.8300916+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10394,
+      "NumberOfAwardsMax": 6102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10386,
-  "NumberOfAwardsMax": 6094,
+  "NumberOfAwards": 10394,
+  "NumberOfAwardsMax": 6102,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6094
+      "Count": 6102
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4242,9 +4248,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705749,
+  "EOS_Progressed": 705766,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1781,
+  "EOS_NewPlayers": 1777,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7412,6 +7418,11 @@
       "Time": "2023-05-27T16:06:39.8269361+00:00",
       "NumProgressed": 705749,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T17:05:28.7473521+00:00",
+      "NumProgressed": 705766,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7421,9 +7432,9 @@
       "ID": "01_Prologue",
       "SetID": "adcm20g",
       "Name": "The Old Grandmaster",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6352
+      "UsersEstimate": 7058
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7431,7 +7442,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7439,7 +7450,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7447,7 +7458,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7543,7 +7554,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "17_Detective_H3",
@@ -7551,7 +7562,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "18_Detective_H4",
@@ -7559,7 +7570,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "19_Detective_H5",
@@ -7567,7 +7578,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -7583,7 +7594,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4234
+      "UsersEstimate": 4235
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -7599,7 +7610,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7607,7 +7618,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "25_ShrineMind",
@@ -7615,7 +7626,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4234
+      "UsersEstimate": 4235
     },
     {
       "ID": "26_ShrineSpirit",
@@ -7623,7 +7634,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "27_ShrineBody",
@@ -7647,7 +7658,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "30_ComboMid",
@@ -7719,7 +7730,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -7727,7 +7738,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -7751,7 +7762,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -7767,7 +7778,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7775,7 +7786,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7807,7 +7818,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7822,21 +7833,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15050,
+      "Progressed": 15067,
       "Completed": 10178
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705749,
+      "Progressed": 705766,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-27T14:59:24.8259762+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:39.8269352+00:00",
+  "LastChanged": "2023-05-27T16:58:33.8300914+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:28.7473516+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:59:17.9171957+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:39.8269884+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:58:33.8300921+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:28.7474175+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,554 |
-| Disposing of the Evidence | 36.00% | ~1,975 |
-| Without a Scratch | 32.00% | ~1,756 |
-| Wreckless Driving | 27.00% | ~1,481 |
-| A Marked Man | 24.00% | ~1,317 |
+| First Day on the Job | 83.00% | ~4,558 |
+| Disposing of the Evidence | 36.00% | ~1,977 |
+| Without a Scratch | 32.00% | ~1,757 |
+| Wreckless Driving | 27.00% | ~1,483 |
+| A Marked Man | 24.00% | ~1,318 |
 | Street Sweeper | 17.00% | ~933 |
-| Liberty City Minute | 16.00% | ~878 |
-| Offshore Delivery | 12.00% | ~658 |
+| Liberty City Minute | 16.00% | ~879 |
+| Offshore Delivery | 12.00% | ~659 |
 | Dirty Money | 11.00% | ~604 |
 | By a Mile | 9.00% | ~494 |
 | Right-hand Man | 9.00% | ~494 |
@@ -22,20 +22,20 @@ Rating: 4.15 (Ranked 848)
 | Mob Boss | 2.00% | ~110 |
 | Splish Splash | 2.00% | ~110 |
 | Escape Artist | 1.00% | ~55 |
+| Got This Figured Out | 1.00% | ~55 |
 | Come Out to Play-y-y-y | 1.00% | ~55 |
 | Where To? | 1.00% | ~55 |
 | Playing Doctor | 1.00% | ~55 |
 | Liberty City Secrets | 1.00% | ~55 |
-| Got This Figured Out | 0.90% | ~49 |
+| Planned Ahead | 0.90% | ~49 |
 | Man Toyz | 0.90% | ~49 |
-| Planned Ahead | 0.80% | ~44 |
 | Wheels Up | 0.80% | ~44 |
 | Going Rogue | 0.80% | ~44 |
 | Furious First Responder | 0.70% | ~38 |
 | Is That All You've Got? | 0.70% | ~38 |
 | King of Liberty City | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,487 (Ranked 123)  
+Progressed: 5,491 (Ranked 123)  
 Completed: 26 (0.47%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 26 (0.47%) (Ranked 109)
 | 2023-05-24 | 5,304 | 26 |
 | 2023-05-25 | 5,358 | 26 |
 | 2023-05-26 | 5,420 | 26 |
-| 2023-05-27 | 5,487 | 26 |
+| 2023-05-27 | 5,491 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

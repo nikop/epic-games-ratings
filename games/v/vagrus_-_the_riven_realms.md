@@ -9,8 +9,8 @@
 | The Package | 20.00% | ~15 |
 | Randomized | 11.00% | ~8 |
 | Conquered | 8.00% | ~6 |
+| Scribe | 4.00% | ~3 |
 | Conciliator | 3.00% | ~2 |
-| Scribe | 3.00% | ~2 |
 | Fight Another Day | 3.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |

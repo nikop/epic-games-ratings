@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -440,9 +440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13805,
+  "EOS_Progressed": 13808,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1770,6 +1770,11 @@
       "Time": "2023-05-27T16:04:15.9572763+00:00",
       "NumProgressed": 13805,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T17:03:25.2405323+00:00",
+      "NumProgressed": 13808,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1813,7 +1818,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1883,17 +1888,17 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 414
     },
     {
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "KILL_2HEAD",
@@ -1995,9 +2000,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 276
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2019,9 +2024,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 276
     },
     {
       "ID": "STORY_TOWER",
@@ -2100,13 +2105,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13805,
+      "Progressed": 13808,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1731,
+      "Progressed": 1734,
       "Completed": 29
     }
   ],
@@ -2114,8 +2119,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-26T23:58:11.1391789+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:04:15.9572759+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:03:25.2405318+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:08.5820107+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:04:15.957317+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:57:34.4616784+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:03:25.2405727+00:00"
 }

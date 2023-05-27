@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1605,
+  "EOS_Progressed": 1611,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1613,6 +1613,11 @@
       "Time": "2023-05-27T16:06:22.3735993+00:00",
       "NumProgressed": 1605,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-27T17:05:13.5287869+00:00",
+      "NumProgressed": 1611,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1630,9 +1635,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1664,7 +1669,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1688,7 +1693,7 @@
       "Name": "Organ Grinder",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1704,7 +1709,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1792,7 +1797,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1824,7 +1829,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1832,7 +1837,7 @@
       "Name": "Lord of War",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1848,23 +1853,23 @@
       "Name": "Resourceful",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1936,7 +1941,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1960,7 +1965,7 @@
       "Name": "Change the Channel",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1992,7 +1997,7 @@
       "Name": "Taking it back",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2191,13 +2196,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1556,
+      "Progressed": 1562,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1605,
+      "Progressed": 1611,
       "Completed": 2
     }
   ],
@@ -2205,8 +2210,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:22.3735986+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:13.5287864+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T16:00:50.2345743+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:22.3736783+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:59:52.5171493+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:13.5288559+00:00"
 }

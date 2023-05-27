@@ -14,7 +14,7 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 22.00% | ~267 |
 | Daybreak | 22.00% | ~267 |
 | Gotta Ca... Must Collect All of Them | 20.00% | ~243 |
-| Completing the Look | 11.00% | ~134 |
+| Completing the Look | 12.00% | ~146 |
 | Who's Counting? | 11.00% | ~134 |
 | War Endured | 11.00% | ~134 |
 | Core Failure | 11.00% | ~134 |

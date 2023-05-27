@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.48,
+  "EOS_Completed_Percentage": 3.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -112,6 +112,11 @@
       "Time": "2023-05-27T15:06:44.5618197+00:00",
       "NumProgressed": 460,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-27T17:05:31.7830421+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -123,7 +128,7 @@
       "Name": "Beat It",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "blast_from_the_past",
@@ -131,7 +136,7 @@
       "Name": "Blast From The Past",
       "Percentage": 87,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "deadly_secret",
@@ -179,7 +184,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ending_6",
@@ -235,7 +240,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "not_a_people_person",
@@ -259,7 +264,7 @@
       "Name": "Storage Hunter",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -275,14 +280,14 @@
       "Name": "Tough Decision",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 16
     }
   ],
@@ -290,8 +295,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:42.7510825+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:31.7830415+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.7129622+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:57:29.016214+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:42.7510955+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:57:01.5293841+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:31.7830559+00:00"
 }

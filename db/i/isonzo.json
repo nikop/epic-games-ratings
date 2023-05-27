@@ -580,9 +580,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5895,
+  "EOS_Progressed": 5897,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1615,6 +1615,11 @@
       "Time": "2023-05-27T16:01:04.2632535+00:00",
       "NumProgressed": 5895,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-27T17:00:06.4917593+00:00",
+      "NumProgressed": 5897,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1642,7 +1647,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1674,7 +1679,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1682,7 +1687,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -1698,7 +1703,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -1706,7 +1711,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -1738,7 +1743,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1770,7 +1775,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -1778,7 +1783,7 @@
       "Name": "Machiavelli",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -1794,7 +1799,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1818,7 +1823,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1834,7 +1839,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -1866,7 +1871,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -1898,7 +1903,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -1938,7 +1943,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -1954,7 +1959,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1962,7 +1967,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -1978,14 +1983,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5895,
+      "Progressed": 5897,
       "Completed": 8
     }
   ],
@@ -1993,8 +1998,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:01:04.2632526+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:00:06.4917585+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:57:38.8908029+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:01:04.2633074+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:57:08.9126133+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:00:06.4918056+00:00"
 }

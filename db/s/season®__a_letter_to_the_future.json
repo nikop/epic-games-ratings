@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 867,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
@@ -658,9 +658,9 @@
       "ID": "ACH_DEEPLISTENER",
       "SetID": "7pam6gn",
       "Name": "Deep Listener",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 225
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -738,9 +738,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 555
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -787,8 +787,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:16.620389+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:08.4755308+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:53.8860127+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:16.6204039+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:58:14.0293978+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:08.4755456+00:00"
 }

@@ -15,8 +15,8 @@ Rating: 3.88 (Ranked 909)
 | The game is on | 19.00% | ~226 |
 | Exotic Merchant | 17.00% | ~202 |
 | Dragon Clicker | 16.00% | ~190 |
+| Miner Clicker | 16.00% | ~190 |
 | Inspection | 15.00% | ~178 |
-| Miner Clicker | 15.00% | ~178 |
 | Full Party | 14.00% | ~166 |
 | Hero inspection | 13.00% | ~154 |
 | Dragon Master | 12.00% | ~142 |
@@ -30,10 +30,10 @@ Rating: 3.88 (Ranked 909)
 | Scientist | 9.00% | ~107 |
 | Daily Quest Completionist | 7.00% | ~83 |
 | Challenger | 6.00% | ~71 |
+| Frostfire Liberator | 6.00% | ~71 |
 | Hunter | 6.00% | ~71 |
 | Scroll Master | 6.00% | ~71 |
 | The power of Awakening | 6.00% | ~71 |
-| Frostfire Liberator | 5.00% | ~59 |
 | Mastery | 5.00% | ~59 |
 | Moving Up The Ladder | 5.00% | ~59 |
 | The Expeditioner | 5.00% | ~59 |

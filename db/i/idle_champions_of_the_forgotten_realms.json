@@ -3970,9 +3970,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88870,
+  "EOS_Progressed": 88875,
   "EOS_Completed": 1884,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 779,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7615,6 +7615,11 @@
       "Time": "2023-05-27T16:06:53.1058256+00:00",
       "NumProgressed": 88870,
       "NumCompleted": 1884
+    },
+    {
+      "Time": "2023-05-27T17:05:40.4725445+00:00",
+      "NumProgressed": 88875,
+      "NumCompleted": 1884
     }
   ],
   "TotalAchievements": 493,
@@ -7928,9 +7933,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_1090",
@@ -8824,9 +8829,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_166",
@@ -9306,7 +9311,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "objective_completed_35",
@@ -9488,9 +9493,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 356
     },
     {
       "ID": "objective_completed_40",
@@ -11569,21 +11574,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55144,
+      "Progressed": 55149,
       "Completed": 2721
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88870,
+      "Progressed": 88875,
       "Completed": 1884
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-27T04:58:43.8315057+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:53.1058251+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:40.472544+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:19.4933759+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:53.1085074+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:57:43.6058036+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:40.4749119+00:00"
 }

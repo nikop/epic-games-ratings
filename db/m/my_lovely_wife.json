@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -364,9 +364,9 @@
       "ID": "ACH_UNLOCK_SUCC_ENDING_1",
       "SetID": "ajki3eh",
       "Name": "Ever After",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_2",
@@ -420,8 +420,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:13.6886854+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:06.0294602+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.1888334+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:22.4352093+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:13.6887108+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:57:45.8984757+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:06.0294812+00:00"
 }

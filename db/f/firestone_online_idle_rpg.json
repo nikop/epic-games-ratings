@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2452,9 +2452,9 @@
       "ID": "frostfireliberator",
       "SetID": "3nl4bcg",
       "Name": "Frostfire Liberator",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 71
     },
     {
       "ID": "fullparty",
@@ -2588,9 +2588,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 190
     },
     {
       "ID": "missionsdedication",
@@ -2861,8 +2861,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-27T11:58:31.9990637+00:00",
-  "LastChanged_Achievements": "2023-05-27T16:06:31.4881235+00:00",
+  "LastChanged_Achievements": "2023-05-27T17:05:21.6969888+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T15:58:16.5665792+00:00",
-  "LastUpdate_Achievements": "2023-05-27T16:06:31.4882119+00:00"
+  "LastUpdate_Ratings": "2023-05-27T16:57:41.3735291+00:00",
+  "LastUpdate_Achievements": "2023-05-27T17:05:21.6970692+00:00"
 }

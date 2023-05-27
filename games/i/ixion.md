@@ -14,12 +14,12 @@ Rating: 4.56 (Ranked 452)
 | Ready for a New World | 4.00% | ~88 |
 | Breaking Protocol | 4.00% | ~88 |
 | Permanent Redesigns | 4.00% | ~88 |
+| Hope Seeker | 4.00% | ~88 |
 | Guy de Borderlands | 3.00% | ~66 |
 | A Hunk of Junk | 3.00% | ~66 |
 | Fully Recycled | 3.00% | ~66 |
 | Ain't Nobody Got Time for That | 3.00% | ~66 |
 | The Ship of Theseus | 3.00% | ~66 |
-| Hope Seeker | 3.00% | ~66 |
 | Exceeding Capacity | 2.00% | ~44 |
 | Power Outage | 2.00% | ~44 |
 | Access Granted | 2.00% | ~44 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,203 (Ranked 144)  
+Progressed: 2,205 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
 | 2023-05-26 | 2,182 | 0 |
-| 2023-05-27 | 2,203 | 0 |
+| 2023-05-27 | 2,205 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

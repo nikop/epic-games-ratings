@@ -26,10 +26,10 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 7.00% | ~39 |
 | Inevitable | 7.00% | ~39 |
 | Predator | 7.00% | ~39 |
-| Assimilation | 6.00% | ~33 |
-| Artisan | 6.00% | ~33 |
-| Watcher | 6.00% | ~33 |
-| Dream | 6.00% | ~8 |
+| Assimilation | 6.00% | ~34 |
+| Artisan | 6.00% | ~34 |
+| Watcher | 6.00% | ~34 |
+| Dream | 6.00% | ~9 |
 | Hunt Down | 5.00% | ~28 |
 | Hush | 5.00% | ~28 |
 | All-Seeing | 5.00% | ~28 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558 (Ranked 194)  
+Progressed: 559 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-23 | 556 | 0 |
 | 2023-05-25 | 557 | 0 |
 | 2023-05-26 | 558 | 0 |
+| 2023-05-27 | 559 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
