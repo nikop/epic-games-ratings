@@ -21,7 +21,7 @@
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 23 | [Scorn](games/s/scorn.md) | 6.97% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -56,7 +56,7 @@
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.50% |
 | 55 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 57 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.38% |
+| 57 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.33% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.29% |
 | 59 | [JARS](games/j/jars.md) | 2.27% |
 | 60 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.17% |
@@ -85,7 +85,7 @@
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.12% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.10% |
 | 85 | [Five Dates](games/f/five_dates.md) | 1.06% |
-| 86 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.04% |
+| 86 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.03% |
 | 87 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.95% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
 | 89 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
@@ -120,10 +120,10 @@
 | 117 | [Tchia](games/t/tchia.md) | 0.36% |
 | 119 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 119 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
+| 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 121 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 122 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
-| 122 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 122 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 123 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 125 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 125 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 127 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
