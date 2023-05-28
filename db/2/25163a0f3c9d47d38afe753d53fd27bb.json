@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -822,17 +822,17 @@
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_012",
@@ -997,8 +997,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:03:22.3625577+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:03:50.9484575+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:10.3617879+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:03:22.3625831+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:57:11.0518496+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:03:50.9484796+00:00"
 }

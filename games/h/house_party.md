@@ -18,17 +18,17 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 0.30% | ~16 |
 | IRL Let's Player | 0.30% | ~16 |
 | Inspector | 0.30% | ~16 |
-| Newcomer: Vickie | 0.30% | ~16 |
-| Stephanie | 0.30% | ~16 |
 | The Magic Number | 0.30% | ~16 |
 | Amy | 0.20% | ~10 |
 | Amy: Scavenger Hunt | 0.20% | ~10 |
 | Benedict Brahrnold | 0.20% | ~10 |
 | I'll Be Back | 0.20% | ~10 |
 | Love Conquers All | 0.20% | ~10 |
+| Newcomer: Vickie | 0.20% | ~10 |
 | Rachael | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
 | Social Butterfly | 0.20% | ~10 |
+| Stephanie | 0.20% | ~10 |
 | The Muse: Madison | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
 | Vickie | 0.20% | ~10 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,200 (Ranked 124)  
+Progressed: 5,202 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.04%) (Ranked 178)
 | 2023-05-25 | 5,135 | 2 |
 | 2023-05-26 | 5,162 | 2 |
 | 2023-05-27 | 5,186 | 2 |
-| 2023-05-28 | 5,200 | 2 |
+| 2023-05-28 | 5,202 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

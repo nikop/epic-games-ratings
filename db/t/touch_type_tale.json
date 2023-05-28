@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2804,
+  "EOS_Progressed": 2805,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1429,6 +1429,11 @@
       "Time": "2023-05-28T11:05:43.6467489+00:00",
       "NumProgressed": 2804,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-28T12:06:35.8078825+00:00",
+      "NumProgressed": 2805,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1528,7 +1533,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "campaign15",
@@ -1576,7 +1581,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "campaign20",
@@ -1606,9 +1611,9 @@
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 505
     },
     {
       "ID": "campaign6",
@@ -1632,7 +1637,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "campaign9",
@@ -1703,7 +1708,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2804,
+      "Progressed": 2805,
       "Completed": 9
     }
   ],
@@ -1711,8 +1716,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:43.6467486+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:35.8078819+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:59:57.0544306+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:43.6467786+00:00"
+  "LastUpdate_Ratings": "2023-05-28T12:00:39.5971794+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:35.8079088+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spells and Swords | 1.00% | ~219 |
-| Captain and Crew | 0.80% | ~175 |
+| Captain and Crew | 0.90% | ~197 |
 | Harvest and Home | 0.60% | ~131 |
 | Poise and Poisons | 0.50% | ~109 |
 | Suns and Soldiers | 0.40% | ~87 |

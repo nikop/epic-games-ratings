@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 825,
-  "Ranking_Popularity": 395,
+  "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
@@ -458,9 +458,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13881,
+  "EOS_Progressed": 13884,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1878,6 +1878,11 @@
       "Time": "2023-05-28T11:03:29.1151859+00:00",
       "NumProgressed": 13881,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-28T12:03:59.0536885+00:00",
+      "NumProgressed": 13884,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1921,7 +1926,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1993,7 +1998,7 @@
       "Name": "Get a Grip",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2049,7 +2054,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2089,7 +2094,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "STORY_HABITAT",
@@ -2208,13 +2213,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13881,
+      "Progressed": 13884,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1807,
+      "Progressed": 1810,
       "Completed": 29
     }
   ],
@@ -2222,8 +2227,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T09:57:54.7331604+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:03:29.1151853+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:03:59.0536875+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:51.2812317+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:03:29.1152183+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:03.9220594+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:03:59.0537212+00:00"
 }

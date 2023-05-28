@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -345,6 +345,11 @@
       "Time": "2023-05-28T11:05:14.0300929+00:00",
       "NumProgressed": 317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T12:06:03.0345625+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -362,9 +367,9 @@
       "ID": "BreakLegs",
       "SetID": "70l3651",
       "Name": "Break a Leg!",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CatchAFish",
@@ -378,9 +383,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 185
     },
     {
       "ID": "Chapter10",
@@ -426,9 +431,9 @@
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "Chapter7",
@@ -458,9 +463,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "Collectibles2",
@@ -508,7 +513,7 @@
       "Name": "Like Flying...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "GollumChoices",
@@ -524,7 +529,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Memories",
@@ -578,9 +583,9 @@
       "ID": "SIlly",
       "SetID": "70l3651",
       "Name": "So Silly!",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Scout",
@@ -634,23 +639,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 319,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:14.0300922+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:03.0345619+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:45.3278371+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:14.0301214+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:57:57.0536904+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:03.0345857+00:00"
 }

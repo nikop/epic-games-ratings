@@ -16,26 +16,26 @@
 | Up and down | 75.00% | ~47 |
 | Rolling, Rolling, Rolling | 71.00% | ~45 |
 | Fire-fighter! | 62.00% | ~39 |
-| Make Love not War-Craft a Mistlefoe | 59.00% | ~37 |
-| Oh, you're up to no gouda! | 57.00% | ~36 |
-| Meat grinder | 56.00% | ~35 |
+| Make Love not War-Craft a Mistlefoe | 60.00% | ~38 |
+| Oh, you're up to no gouda! | 59.00% | ~37 |
+| Meat grinder | 57.00% | ~36 |
+| Butcher | 49.00% | ~31 |
 | You're not going to blow me up! | 49.00% | ~31 |
-| Butcher | 48.00% | ~30 |
-| Mushroom soup of the day | 44.00% | ~28 |
-| Spare Ribs | 44.00% | ~28 |
-| Honk honk! | 43.00% | ~27 |
+| Mushroom soup of the day | 46.00% | ~29 |
+| Spare Ribs | 46.00% | ~29 |
+| Honk honk! | 44.00% | ~28 |
 | My pants squeak when I walk | 43.00% | ~27 |
+| Thats disgusting! | 41.00% | ~26 |
+| Cockadoodledoo! | 41.00% | ~26 |
 | Surprise!! | 40.00% | ~25 |
-| Thats disgusting! | 40.00% | ~25 |
-| Cockadoodledoo! | 40.00% | ~25 |
+| Self assessed tax return | 37.00% | ~23 |
+| Karaoke king | 37.00% | ~23 |
 | Make America Grate Again | 35.00% | ~22 |
-| Self assessed tax return | 35.00% | ~22 |
-| Karaoke king | 35.00% | ~22 |
 | Pasta Bolognese | 33.00% | ~21 |
 | You are no match for me, Billy! | 32.00% | ~20 |
+| Catch the bus with me! | 32.00% | ~20 |
 | You can't stop me, bro! | 32.00% | ~20 |
 | Haemochromatosis | 32.00% | ~20 |
-| Catch the bus with me! | 30.00% | ~19 |
 | Meatballs, coming up! | 29.00% | ~18 |
 | I'm going to get a concussion | 27.00% | ~17 |
 | Another one bites the iron | 25.00% | ~16 |
@@ -51,12 +51,13 @@
 | Deal with it | 13.00% | ~8 |
 | Yeehaw!!! | 11.00% | ~7 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |
+| Master Butcher | 11.00% | ~7 |
 | Ancient Ruins of Dirty Feet | 10.00% | ~6 |
-| Master Butcher | 10.00% | ~6 |
 | Spoiler alert! | 8.00% | ~5 |
 | You're looking mozzare-hella good! | 6.00% | ~4 |
-| Scrambled Eggs | 5.00% | ~3 |
+| Scrambled Eggs | 6.00% | ~4 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
+| I want to throw up! | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
 | Timber! | 3.00% | ~2 |
 | Grumpy Immortal | 3.00% | ~2 |
@@ -66,7 +67,6 @@
 | Ancient Ruins of Inadequate Opportunities | 2.00% | ~1 |
 | Ancient Ruins of Stuffed Pantrys | 2.00% | ~1 |
 | Ancient Ruins of Stubbed Toes | 2.00% | ~1 |
-| I want to throw up! | 2.00% | ~1 |
 | My name is Whoopass, SIR Whoopass! | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
 | European karaoke king | 2.00% | ~1 |

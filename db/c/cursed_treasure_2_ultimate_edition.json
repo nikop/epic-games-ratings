@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -426,9 +426,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -522,9 +522,9 @@
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
@@ -539,8 +539,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:02:17.6163075+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:03:22.4785358+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:32.3226241+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:02:17.616351+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:53.4824829+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:03:22.4785747+00:00"
 }

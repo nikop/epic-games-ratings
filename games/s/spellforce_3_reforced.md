@@ -1,7 +1,7 @@
 # SpellForce 3 Reforced
 [Store](https://store.epicgames.com/en-US/p/spellforce-3)  
 [View Rawdata](../../db/s/spellforce_3_reforced.json)  
-Rating: 4.48 (Ranked 575)  
+Rating: 4.49 (Ranked 560)  
 Number of Ratings: 71  (23.09.2022)  
 ## Awards
 | Award | Count |
@@ -52,3 +52,4 @@ Number of Ratings: 71  (23.09.2022)
 | 2023-03-31 | 4.48 | - | 0 | 0 |
 | 2023-04-24 | 4.49 | - | 0 | 0 |
 | 2023-05-24 | 4.48 | - | 0 | 0 |
+| 2023-05-28 | 4.49 | - | 0 | 0 |

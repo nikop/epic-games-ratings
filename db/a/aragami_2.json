@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33348,
+  "EOS_Progressed": 33349,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3497,6 +3497,11 @@
       "Time": "2023-05-28T11:00:54.9107246+00:00",
       "NumProgressed": 33348,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-05-28T12:02:28.7454858+00:00",
+      "NumProgressed": 33349,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 44,
@@ -3508,7 +3513,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19008
+      "UsersEstimate": 19009
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3516,7 +3521,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 10004
+      "UsersEstimate": 10005
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -3628,7 +3633,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 27012
+      "UsersEstimate": 27013
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3740,7 +3745,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10672
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -3748,7 +3753,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 21009
+      "UsersEstimate": 21010
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3844,7 +3849,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30680
+      "UsersEstimate": 30681
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3859,7 +3864,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33348,
+      "Progressed": 33349,
       "Completed": 159
     }
   ],
@@ -3867,8 +3872,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:00:54.9107238+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:02:28.745485+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.3708529+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:20.360592+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:00:54.9107794+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:39.2118011+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:02:28.7455297+00:00"
 }

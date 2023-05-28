@@ -19,20 +19,20 @@ Rating: 4.17 (Ranked 839)
 | Working Hard or Harley Working? | 0.90% | ~563 |
 | Unstoppable Force | 0.90% | ~563 |
 | Lock and Key | 0.90% | ~563 |
+| Protector of Gotham | 0.80% | ~500 |
 | The Show Mud Go On | 0.80% | ~500 |
 | Bad Apples in Every Orchard | 0.80% | ~500 |
-| Protector of Gotham | 0.70% | ~438 |
+| From Inside Gotham's Walls | 0.80% | ~500 |
 | Rock and a Hard Place | 0.70% | ~438 |
+| Not On My Watch | 0.70% | ~438 |
 | Shock Til They Drop | 0.70% | ~438 |
 | Cooldown | 0.70% | ~438 |
 | Universal Health Scare | 0.70% | ~438 |
-| From Inside Gotham's Walls | 0.70% | ~438 |
 | Voiceless | 0.70% | ~438 |
 | Seeking Asylum | 0.70% | ~438 |
 | Gotham Knight | 0.70% | ~438 |
 | End of an Era | 0.60% | ~375 |
 | In Your Element | 0.60% | ~375 |
-| Not On My Watch | 0.60% | ~375 |
 | Bulldozed | 0.60% | ~375 |
 | Out of Their League | 0.50% | ~313 |
 | Drone You Out | 0.50% | ~313 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,504 (Ranked 70)  
+Progressed: 62,512 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,504 | 91 |
+| 2023-05-28 | 62,512 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,727 (Ranked 137)  

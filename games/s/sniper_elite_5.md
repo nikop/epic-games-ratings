@@ -1,29 +1,29 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 664)  
+Rating: 4.41 (Ranked 663)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 20.00% | ~338 |
-| Confirming Suspicions | 16.00% | ~270 |
+| Meeting Resistance | 20.00% | ~339 |
+| Confirming Suspicions | 15.00% | ~254 |
 | The Kraken Wakes | 12.00% | ~203 |
 | It's Starting to Crack | 9.00% | ~152 |
 | Lord of War | 8.00% | ~135 |
-| Resourceful | 7.00% | ~118 |
-| Change the Channel | 7.00% | ~118 |
-| Enemy at the Gates | 6.00% | ~101 |
-| Organ Grinder | 6.00% | ~101 |
-| Just a Flesh Wound | 5.00% | ~84 |
-| Explosive Efficiency | 5.00% | ~84 |
-| As Quiet as a Mouse | 5.00% | ~84 |
-| Taking it back | 5.00% | ~84 |
+| Resourceful | 7.00% | ~119 |
+| Change the Channel | 7.00% | ~119 |
+| Enemy at the Gates | 6.00% | ~102 |
+| Organ Grinder | 6.00% | ~102 |
+| Just a Flesh Wound | 5.00% | ~85 |
+| Explosive Efficiency | 5.00% | ~85 |
+| As Quiet as a Mouse | 5.00% | ~85 |
+| Taking it back | 5.00% | ~85 |
 | Opposing Force | 4.00% | ~68 |
 | Gunslinger | 4.00% | ~68 |
+| Sharpshooter | 4.00% | ~68 |
 | Target America | 4.00% | ~68 |
 | Liberté | 3.00% | ~51 |
 | Fields of Glory | 3.00% | ~51 |
-| Sharpshooter | 3.00% | ~51 |
 | Die Nussknacker Sweet! | 3.00% | ~51 |
 | Der Geist | 3.00% | ~51 |
 | Close Quarters | 3.00% | ~51 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 664)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,688 (Ranked 152)  
+Progressed: 1,693 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,688 | 2 |
+| 2023-05-28 | 1,693 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

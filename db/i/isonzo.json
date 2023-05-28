@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5909,
+  "EOS_Progressed": 5910,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1670,6 +1670,11 @@
       "Time": "2023-05-28T11:00:26.6676393+00:00",
       "NumProgressed": 5909,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-28T12:01:15.0844311+00:00",
+      "NumProgressed": 5910,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1681,7 +1686,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -1697,7 +1702,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1713,7 +1718,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -1849,7 +1854,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1889,7 +1894,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -1975,9 +1980,9 @@
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
       "SetID": "akchbl3",
       "Name": "The Lion of the Isonzo",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1064
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2040,7 +2045,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5909,
+      "Progressed": 5910,
       "Completed": 8
     }
   ],
@@ -2048,8 +2053,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:00:26.6676387+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:01:15.0844306+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:25.6825864+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:00:26.6676851+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:57:32.232217+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:01:15.0844689+00:00"
 }

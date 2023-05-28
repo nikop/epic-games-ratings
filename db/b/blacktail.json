@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -544,6 +544,11 @@
       "Time": "2023-05-28T11:05:24.2136128+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T12:06:14.5509086+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -569,7 +574,7 @@
       "ID": "ChaoticNeutral",
       "SetID": "2aagp3d",
       "Name": "Mushrooming enthusiast",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -601,25 +606,25 @@
       "ID": "Extremist",
       "SetID": "2aagp3d",
       "Name": "Devoted",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "EyeSpy",
       "SetID": "2aagp3d",
       "Name": "Sneak peek",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "Favourite",
       "SetID": "2aagp3d",
       "Name": "Favorite",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "FisherKing",
@@ -633,9 +638,9 @@
       "ID": "Goal",
       "SetID": "2aagp3d",
       "Name": "Goal!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "GoldRush",
@@ -649,17 +654,17 @@
       "ID": "GossipGirl",
       "SetID": "2aagp3d",
       "Name": "The word around is...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "HeadOnHerShoulders",
       "SetID": "2aagp3d",
       "Name": "Gnowlledgeable",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "HexMaster",
@@ -689,9 +694,9 @@
       "ID": "LostAndFound",
       "SetID": "2aagp3d",
       "Name": "Both sides",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "MuhsroomTruth",
@@ -729,9 +734,9 @@
       "ID": "SlavicSquatter",
       "SetID": "2aagp3d",
       "Name": "Slavic squatter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "Specialist",
@@ -745,9 +750,9 @@
       "ID": "SpringCleaning",
       "SetID": "2aagp3d",
       "Name": "Uprooting",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "TheGuardian",
@@ -810,7 +815,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
@@ -818,8 +823,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:24.2136122+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:14.5509081+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:52.6294683+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:24.2136376+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:05.4751091+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:14.5509291+00:00"
 }

@@ -45,7 +45,7 @@
 | Interference | 0.00% | ~0 |
 | Just how we drew it up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 330)  
+Progressed: 17 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -15,14 +15,14 @@
 | Amateur Survivor | 13.00% | ~2 |
 | I Believe I Can Fly | 11.00% | ~7 |
 | No Asperascope | 11.00% | ~7 |
-| Triple Kill | 10.00% | ~6 |
+| Triple Kill | 11.00% | ~7 |
 | Oh My Gourd | 10.00% | ~1 |
 | Professional Survivor | 10.00% | ~1 |
+| Cornivore | 8.00% | ~5 |
 | Expert Survivor | 8.00% | ~1 |
 | Grave Digger | 8.00% | ~1 |
 | 15K | 6.00% | ~4 |
 | 10K | 6.00% | ~4 |
-| Cornivore | 6.00% | ~4 |
 | Perfect | 6.00% | ~1 |
 | Quadsparagus | 6.00% | ~1 |
 | Skin Of Your Teeth | 5.00% | ~3 |

@@ -20,13 +20,13 @@ Rating: 4.56 (Ranked 450)
 | A Hunk of Junk | 3.00% | ~67 |
 | Fully Recycled | 3.00% | ~67 |
 | The Ship of Theseus | 3.00% | ~67 |
-| Sightseeing | 2.00% | ~44 |
-| Exceeding Capacity | 2.00% | ~44 |
-| Power Outage | 2.00% | ~44 |
-| Access Granted | 2.00% | ~44 |
-| Necessary Enhancement | 2.00% | ~44 |
-| Convenient Transport | 2.00% | ~44 |
-| Please Make it Stop! | 2.00% | ~44 |
+| Sightseeing | 2.00% | ~45 |
+| Exceeding Capacity | 2.00% | ~45 |
+| Power Outage | 2.00% | ~45 |
+| Access Granted | 2.00% | ~45 |
+| Necessary Enhancement | 2.00% | ~45 |
+| Convenient Transport | 2.00% | ~45 |
+| Please Make it Stop! | 2.00% | ~45 |
 | Man's Best Friend | 1.00% | ~22 |
 | Oats | 1.00% | ~22 |
 | In Dolos We Trust | 1.00% | ~22 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 450)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,221 (Ranked 144)  
+Progressed: 2,227 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 2,154 | 0 |
 | 2023-05-26 | 2,182 | 0 |
 | 2023-05-27 | 2,211 | 0 |
-| 2023-05-28 | 2,221 | 0 |
+| 2023-05-28 | 2,227 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

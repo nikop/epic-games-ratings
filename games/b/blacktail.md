@@ -8,37 +8,37 @@ Rating: 4.67 (Ranked 257)
 | Tooth fairy | 25.00% | ~100 |
 | Dental maturity | 19.00% | ~76 |
 | Devil's in the details | 13.00% | ~52 |
-| Uprooting | 12.00% | ~48 |
+| Uprooting | 11.00% | ~44 |
 | Forbidden techniques | 11.00% | ~44 |
-| Slavic squatter | 10.00% | ~40 |
-| Devoted | 8.00% | ~32 |
+| Slavic squatter | 9.00% | ~36 |
+| Devoted | 7.00% | ~28 |
 | Gold rush | 6.00% | ~24 |
 | Spirit animal | 6.00% | ~24 |
 | Liar Liar | 5.00% | ~20 |
-| Sneak peek | 4.00% | ~16 |
-| Favorite | 4.00% | ~16 |
 | Fishing fanatic | 4.00% | ~16 |
-| The word around is... | 4.00% | ~16 |
 | A friend in need... | 4.00% | ~16 |
 | The cycle acknowledged | 4.00% | ~16 |
 | Baba Yaga | 4.00% | ~16 |
 | Extensive retelling | 3.00% | ~12 |
-| Goal! | 3.00% | ~12 |
-| Both sides | 3.00% | ~12 |
+| Sneak peek | 3.00% | ~12 |
+| Favorite | 3.00% | ~12 |
+| The word around is... | 3.00% | ~12 |
 | Queen | 3.00% | ~12 |
 | Specialist | 3.00% | ~12 |
 | Witch's cookbook | 3.00% | ~12 |
-| Gnowlledgeable | 2.00% | ~8 |
+| Goal! | 2.00% | ~8 |
+| Both sides | 2.00% | ~8 |
 | Always worth a try | 2.00% | ~8 |
 | Toxic | 2.00% | ~8 |
 | Bad apple | 1.00% | ~4 |
 | Loremaster | 1.00% | ~4 |
+| Gnowlledgeable | 1.00% | ~4 |
 | Awards unwarded | 1.00% | ~4 |
 | Entangled | 1.00% | ~4 |
-| Mushrooming enthusiast | 0.30% | ~1 |
+| Mushrooming enthusiast | 0.20% | ~1 |
 | Apex predator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 202)  
+Progressed: 401 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 389 | 0 |
 | 2023-05-26 | 393 | 0 |
 | 2023-05-27 | 399 | 0 |
-| 2023-05-28 | 400 | 0 |
+| 2023-05-28 | 401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -22,10 +22,10 @@ Number of Ratings: 22  (23.09.2022)
 | One More Thing... | 13.00% | ~54 |
 | Lucky Day | 13.00% | ~54 |
 | Bar Brawler | 13.00% | ~54 |
+| Flawless Presentation | 13.00% | ~54 |
 | King of District 2 | 12.00% | ~49 |
-| Flawless Presentation | 12.00% | ~49 |
 | Time Travel! | 10.00% | ~41 |
-| Marketing Manager | 9.00% | ~37 |
+| Marketing Manager | 10.00% | ~41 |
 | Circus Versus Circus | 8.00% | ~33 |
 | King of District 3 | 8.00% | ~33 |
 | Club Member | 7.00% | ~29 |

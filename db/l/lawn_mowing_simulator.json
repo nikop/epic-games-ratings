@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2029,9 +2029,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 619646,
+  "EOS_Progressed": 619672,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 3363,
+  "EOS_NewPlayers": 3369,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5849,6 +5849,11 @@
       "Time": "2023-05-28T11:05:25.1974926+00:00",
       "NumProgressed": 619646,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-28T12:06:15.4912421+00:00",
+      "NumProgressed": 619672,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 54,
@@ -5860,7 +5865,7 @@
       "Name": "The dream begins",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 508110
+      "UsersEstimate": 508131
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -5868,7 +5873,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6196
+      "UsersEstimate": 6197
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -5940,7 +5945,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18589
+      "UsersEstimate": 18590
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -5948,7 +5953,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 229269
+      "UsersEstimate": 229279
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -5972,7 +5977,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18589
+      "UsersEstimate": 18590
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -6100,7 +6105,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 198287
+      "UsersEstimate": 198295
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -6132,7 +6137,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 37179
+      "UsersEstimate": 37180
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -6164,7 +6169,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 92947
+      "UsersEstimate": 92951
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -6180,7 +6185,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24786
+      "UsersEstimate": 24787
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -6196,7 +6201,7 @@
       "Name": "The top of the mountain",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6196
+      "UsersEstimate": 6197
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -6220,7 +6225,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 43375
+      "UsersEstimate": 43377
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -6236,7 +6241,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18589
+      "UsersEstimate": 18590
     },
     {
       "ID": "RP_ESTEEMED",
@@ -6260,7 +6265,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 111536
+      "UsersEstimate": 111541
     },
     {
       "ID": "RP_TRUSTED",
@@ -6276,7 +6281,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 55768
+      "UsersEstimate": 55770
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -6284,22 +6289,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24786
+      "UsersEstimate": 24787
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 619646,
+      "Progressed": 619672,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-05-28T09:58:03.3734326+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:25.1974922+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:15.4912415+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.6909555+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:58.4397735+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:25.1975515+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:12.360839+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:15.491297+00:00"
 }

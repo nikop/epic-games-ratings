@@ -14,18 +14,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 2.00% | ~301 |
 | Taking Action | 2.00% | ~301 |
 | No Deaths | 2.00% | ~301 |
-| Homesick | 1.00% | ~150 |
-| Bandit Camp | 1.00% | ~150 |
-| Barren Lands | 1.00% | ~150 |
-| Ancient Battleground | 1.00% | ~150 |
-| Sparkdew Crystals | 1.00% | ~150 |
-| Royal Outpost | 1.00% | ~150 |
-| Lost Colonies | 1.00% | ~150 |
-| Cursed Lands | 1.00% | ~150 |
-| A Real Challenge | 1.00% | ~150 |
-| Like a Machine | 1.00% | ~150 |
-| Trade Baron | 1.00% | ~150 |
+| Homesick | 1.00% | ~151 |
+| Bandit Camp | 1.00% | ~151 |
+| Barren Lands | 1.00% | ~151 |
+| Ancient Battleground | 1.00% | ~151 |
+| Sparkdew Crystals | 1.00% | ~151 |
+| Royal Outpost | 1.00% | ~151 |
+| Lost Colonies | 1.00% | ~151 |
+| Cursed Lands | 1.00% | ~151 |
+| A Real Challenge | 1.00% | ~151 |
+| Like a Machine | 1.00% | ~151 |
+| Trade Baron | 1.00% | ~151 |
 | Dangerous Lands | 0.90% | ~135 |
+| Levitating Monument | 0.90% | ~135 |
 | Flooded Mines | 0.90% | ~135 |
 | Monastery of the Holy Flame | 0.90% | ~135 |
 | Corrosive Torrent | 0.90% | ~135 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 0.80% | ~120 |
 | Against All Odds | 0.80% | ~120 |
 | Haunted Forest | 0.80% | ~120 |
-| Levitating Monument | 0.80% | ~120 |
 | Statue of the Forefathers | 0.80% | ~120 |
 | Serving Ale | 0.70% | ~105 |
 | Forsaken Gods Temple | 0.70% | ~105 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,050 (Ranked 99)  
+Progressed: 15,051 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 33 (0.22%) (Ranked 136)
 | 2023-05-25 | 14,995 | 33 |
 | 2023-05-26 | 15,011 | 33 |
 | 2023-05-27 | 15,040 | 33 |
-| 2023-05-28 | 15,050 | 33 |
+| 2023-05-28 | 15,051 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,031 (Ranked 152)  

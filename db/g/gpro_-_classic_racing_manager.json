@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -236,6 +236,11 @@
       "Time": "2023-05-27T17:03:56.2988546+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T12:04:46.6242196+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -309,7 +314,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
       "UsersEstimate": 77
     },
@@ -485,9 +490,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -749,7 +754,7 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -1542,14 +1547,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:04:10.3204378+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:04:46.624219+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:05.1482704+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:14.6525014+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:04:10.3207646+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:57:17.4575071+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:04:46.6244874+00:00"
 }

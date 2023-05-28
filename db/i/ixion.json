@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2221,
+  "EOS_Progressed": 2227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1533,6 +1533,11 @@
       "Time": "2023-05-28T11:05:24.7690006+00:00",
       "NumProgressed": 2221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T12:06:14.9717303+00:00",
+      "NumProgressed": 2227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1672,7 +1677,7 @@
       "Name": "Sightseeing",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BASE_27",
@@ -1712,7 +1717,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BASE_31",
@@ -1720,7 +1725,7 @@
       "Name": "Power Outage",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BASE_32",
@@ -1760,7 +1765,7 @@
       "Name": "Access Granted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BASE_37",
@@ -1768,7 +1773,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BASE_38",
@@ -1872,7 +1877,7 @@
       "Name": "Convenient Transport",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BASE_52",
@@ -1896,7 +1901,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BASE_57",
@@ -1999,13 +2004,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 402,
+      "Progressed": 408,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2221,
+      "Progressed": 2227,
       "Completed": 0
     }
   ],
@@ -2013,8 +2018,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-26T15:59:06.5118285+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:24.7690001+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:14.9717297+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.5657521+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:22.6303664+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:24.7690547+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:42.5105348+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:14.9717808+00:00"
 }

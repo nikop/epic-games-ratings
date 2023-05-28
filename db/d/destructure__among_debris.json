@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -493,6 +493,11 @@
       "Time": "2023-05-27T18:01:10.5545967+00:00",
       "NumProgressed": 107,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T12:03:11.7981505+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -574,7 +579,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 77
     },
@@ -590,9 +595,9 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -672,7 +677,7 @@
       "Name": "Rookie",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "scrap_collector",
@@ -734,9 +739,9 @@
       "ID": "weapons",
       "SetID": "jig50d",
       "Name": "You Are Actually Supposed To Use Those",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "what_are_you",
@@ -751,7 +756,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 1
     }
   ],
@@ -759,8 +764,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:00:57.8046269+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:03:11.7981499+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:59:44.2128948+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:00:57.8046499+00:00"
+  "LastUpdate_Ratings": "2023-05-28T12:00:21.8010109+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:03:11.7981704+00:00"
 }

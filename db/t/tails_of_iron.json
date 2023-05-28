@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1499,
+  "EOS_Progressed": 1500,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -831,6 +831,11 @@
       "Time": "2023-05-28T11:02:17.83221+00:00",
       "NumProgressed": 1499,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-28T12:03:22.7267491+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -842,7 +847,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "Collect20Gold",
@@ -866,7 +871,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "CollectAllStatues",
@@ -922,7 +927,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "CompleteHunterFaction",
@@ -986,7 +991,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "GetTHWeapon",
@@ -994,7 +999,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "Kill25Bugs",
@@ -1010,7 +1015,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "Kill25Mozi",
@@ -1081,22 +1086,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1499,
+      "Progressed": 1500,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 140,
-      "Completed": 140
+      "Progressed": 141,
+      "Completed": 141
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:02:17.8322095+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:03:22.7267486+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:19.2163782+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:02:17.832232+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:37.9773337+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:03:22.7267707+00:00"
 }

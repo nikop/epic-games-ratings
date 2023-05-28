@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -435,9 +435,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -660,8 +660,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:17.7131795+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:07.1478944+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:11.1073335+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:25.2950911+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:17.7132028+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:45.7968448+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:07.1479138+00:00"
 }

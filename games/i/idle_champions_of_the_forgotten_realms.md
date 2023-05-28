@@ -10,14 +10,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.80% | ~442 |
 | The Cursed Farmer | 0.70% | ~623 |
 | The Mad Wizard | 0.60% | ~534 |
-| Beware the Jabberwock | 0.60% | ~331 |
+| Beware the Jabberwock | 0.60% | ~332 |
 | Beast Intentions | 0.50% | ~445 |
 | Coasting to the Finish | 0.50% | ~276 |
+| Were-verpowered | 0.40% | ~356 |
 | The Ring of Regeneration | 0.40% | ~356 |
 | Are Ya Chicken? | 0.40% | ~356 |
 | Quick or Quack | 0.40% | ~221 |
 | Best Thay Ever | 0.30% | ~166 |
-| Were-verpowered | 0.30% | ~267 |
 | Checkmate | 0.30% | ~166 |
 | Vecna Out! | 0.30% | ~166 |
 | A Persistent Buzzing | 0.30% | ~267 |
@@ -27,18 +27,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~267 |
 | Pure Energy | 0.30% | ~267 |
 | Maddening | 0.20% | ~178 |
-| Tall Tales | 0.20% | ~110 |
+| Tall Tales | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~178 |
 | Supply Run | 0.20% | ~178 |
-| Owlbear Necessities | 0.20% | ~110 |
-| Keep Your Distance | 0.20% | ~110 |
-| Hands Off! | 0.20% | ~110 |
-| Frail Doesn't Mean Broken | 0.20% | ~110 |
-| Unreasonable Doesn't Mean Stupid | 0.20% | ~110 |
-| Get Back In The Castle | 0.20% | ~110 |
-| Pin and Skewer | 0.20% | ~110 |
-| No One Can Hear You Scream | 0.20% | ~110 |
-| Welcome to the Rock | 0.20% | ~110 |
+| Owlbear Necessities | 0.20% | ~111 |
+| Keep Your Distance | 0.20% | ~111 |
+| Hands Off! | 0.20% | ~111 |
+| Frail Doesn't Mean Broken | 0.20% | ~111 |
+| Unreasonable Doesn't Mean Stupid | 0.20% | ~111 |
+| Get Back In The Castle | 0.20% | ~111 |
+| Pin and Skewer | 0.20% | ~111 |
+| No One Can Hear You Scream | 0.20% | ~111 |
+| Welcome to the Rock | 0.20% | ~111 |
 | Beast Mode | 0.20% | ~178 |
 | Low Initiative | 0.20% | ~178 |
 | A Mysterious Summons | 0.20% | ~178 |
@@ -52,12 +52,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~178 |
 | The Death Curse | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
+| Premature Betrayal | 0.20% | ~178 |
 | Exploring Port Nyanzaru | 0.20% | ~178 |
 | A Tale of Two Cities | 0.20% | ~178 |
 | Running of the Saurs | 0.20% | ~178 |
 | The Contagious Curse | 0.20% | ~178 |
-| Bad Odds in Avernus | 0.20% | ~110 |
-| An Even Worse Time in Avernus | 0.20% | ~110 |
+| Hearts Aflame | 0.20% | ~111 |
+| Bad Odds in Avernus | 0.20% | ~111 |
+| An Even Worse Time in Avernus | 0.20% | ~111 |
 | Escort to Waterdeep | 0.20% | ~178 |
 | Constant Banditry | 0.20% | ~178 |
 | Waterdeep Detours | 0.20% | ~178 |
@@ -270,7 +272,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~55 |
 | Excavating History | 0.10% | ~89 |
 | Screams of the Dead | 0.10% | ~89 |
-| Premature Betrayal | 0.10% | ~89 |
 | Frantic Excavation | 0.10% | ~89 |
 | Birds of a Feather | 0.10% | ~55 |
 | Towering Expectations | 0.10% | ~89 |
@@ -371,7 +372,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.10% | ~55 |
 | A Difficult Descent | 0.10% | ~55 |
 | The Devil Arrives | 0.10% | ~55 |
-| Hearts Aflame | 0.10% | ~55 |
 | Dreamscape | 0.10% | ~55 |
 | Dream Gauntlet | 0.10% | ~55 |
 | Zombie Dreams | 0.10% | ~55 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,972 (Ranked 61)  
-Completed: 1,890 (2.12%) (Ranked 61)  
+Progressed: 88,980 (Ranked 61)  
+Completed: 1,891 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -538,14 +538,14 @@ Completed: 1,890 (2.12%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 88,972 | 1,890 |
+| 2023-05-28 | 88,980 | 1,891 |
 ## Awards
-Max (Diverse Characters): 4,908  (Ranked 64)  
-Sum: 29,991 (Ranked 37)  
+Max (Diverse Characters): 4,910  (Ranked 64)  
+Sum: 29,993 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,908 |
+| This game has Diverse Characters | 4,910 |
 | This game is Great for Beginners | 4,843 |
 | This game has Quickly Understood Controls | 4,606 |
 | This game is Relaxing | 4,499 |
@@ -677,4 +677,4 @@ Diff (max vs sum): 27
 | 2023-05-25 | 4.06 | - | 4,905 | 29,974 |
 | 2023-05-26 | 4.06 | - | 4,905 | 29,983 |
 | 2023-05-27 | 4.06 | - | 4,908 | 29,989 |
-| 2023-05-28 | 4.06 | - | 4,908 | 29,991 |
+| 2023-05-28 | 4.06 | - | 4,910 | 29,993 |

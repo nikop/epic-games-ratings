@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -247,6 +247,11 @@
     {
       "Time": "2023-05-27T22:05:41.5515241+00:00",
       "NumProgressed": 988,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T12:06:23.7759789+00:00",
+      "NumProgressed": 989,
       "NumCompleted": 0
     }
   ],
@@ -577,9 +582,9 @@
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 168
     },
     {
       "ID": "ONEPLATINUM",
@@ -674,7 +679,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 0
     }
   ],
@@ -682,8 +687,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:33.0176667+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:23.7759784+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.3827086+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:05.3467884+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:33.017713+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:20.2693432+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:23.7760157+00:00"
 }

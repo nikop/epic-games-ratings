@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~613 |
-| Ranidaphobia | 67.00% | ~456 |
-| Aspiring Editor | 62.00% | ~422 |
-| Gun for Hire | 56.00% | ~381 |
-| I am the law! | 43.00% | ~293 |
-| Lumberjack | 25.00% | ~170 |
-| From Darkness to Light | 23.00% | ~157 |
-| Firestarter | 22.00% | ~150 |
-| Limp Richard | 20.00% | ~136 |
+| First Blood | 90.00% | ~617 |
+| Ranidaphobia | 67.00% | ~460 |
+| Aspiring Editor | 63.00% | ~432 |
+| Gun for Hire | 56.00% | ~384 |
+| I am the law! | 43.00% | ~295 |
+| Lumberjack | 25.00% | ~172 |
+| From Darkness to Light | 23.00% | ~158 |
+| Firestarter | 22.00% | ~151 |
+| Limp Richard | 20.00% | ~137 |
 | Croaked | 18.00% | ~123 |
-| Editor Adept | 16.00% | ~109 |
-| Exorcist | 16.00% | ~109 |
+| Exorcist | 16.00% | ~110 |
+| Editor Adept | 15.00% | ~103 |
 | Giant Killer | 12.00% | ~82 |
 | The meaning of Kain | 12.00% | ~82 |
-| Sensei | 10.00% | ~68 |
-| Hold The Line | 9.00% | ~61 |
-| Chain Killer | 8.00% | ~54 |
-| Newtonian Knockout | 8.00% | ~54 |
-| Technophobe | 8.00% | ~54 |
-| Recycler | 7.00% | ~48 |
+| Sensei | 10.00% | ~69 |
+| Hold The Line | 9.00% | ~62 |
+| Chain Killer | 8.00% | ~55 |
+| Newtonian Knockout | 8.00% | ~55 |
+| Recycler | 8.00% | ~55 |
+| Technophobe | 8.00% | ~55 |
 | There Can Be Only One! | 6.00% | ~41 |
 | Are you not entertained? | 5.00% | ~34 |
 | Ganglord | 4.00% | ~27 |
@@ -32,13 +32,13 @@
 | Pushing Daisy | 4.00% | ~27 |
 | Ruthless | 4.00% | ~27 |
 | Wipe Out | 4.00% | ~27 |
-| Chain Reaction | 3.00% | ~20 |
-| Experienced | 3.00% | ~20 |
+| Chain Reaction | 3.00% | ~21 |
+| Experienced | 3.00% | ~21 |
+| The Watchers | 3.00% | ~21 |
 | Commando | 2.00% | ~14 |
 | Curveball | 2.00% | ~14 |
 | Endgame | 2.00% | ~14 |
 | Savior | 2.00% | ~14 |
-| The Watchers | 2.00% | ~14 |
 | Chaos Theory | 1.00% | ~7 |
 | Dr Jones | 1.00% | ~7 |
 | Side Order | 1.00% | ~7 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681 (Ranked 184)  
+Progressed: 686 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
-| 2023-05-28 | 681 | 0 |
+| 2023-05-28 | 686 | 0 |

@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 883,
+  "EOS_Progressed": 884,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 6.8,
+  "EOS_Completed_Percentage": 6.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1872,6 +1872,11 @@
       "Time": "2023-05-28T08:06:43.5298861+00:00",
       "NumProgressed": 883,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-05-28T12:06:07.822409+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -1883,7 +1888,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "10",
@@ -1891,7 +1896,7 @@
       "Name": "Piece of Cake",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "11",
@@ -1907,15 +1912,15 @@
       "Name": "Spellbound",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 283
     },
     {
       "ID": "14",
@@ -1961,9 +1966,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 619
     },
     {
       "ID": "2",
@@ -1971,7 +1976,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "20",
@@ -2041,9 +2046,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 654
     },
     {
       "ID": "29",
@@ -2067,7 +2072,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "31",
@@ -2099,7 +2104,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "35",
@@ -2137,9 +2142,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 292
     },
     {
       "ID": "4",
@@ -2147,7 +2152,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "40",
@@ -2155,7 +2160,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "41",
@@ -2211,7 +2216,7 @@
       "Name": "Crowned",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "48",
@@ -2219,7 +2224,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "49",
@@ -2233,9 +2238,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 345
     },
     {
       "ID": "50",
@@ -2265,9 +2270,9 @@
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 460
     },
     {
       "ID": "9",
@@ -2282,7 +2287,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 883,
+      "Progressed": 884,
       "Completed": 60
     }
   ],
@@ -2290,8 +2295,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:18.3452893+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:07.8224084+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:57:29.9528006+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:18.3453572+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:57:37.0382584+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:07.8224532+00:00"
 }

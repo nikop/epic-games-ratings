@@ -8,8 +8,8 @@ Number of Ratings: 87  (23.09.2022)
 | ---- | ---------- | ----- |
 | Dealmaker | 7.00% | ~50 |
 | Full garage | 7.00% | ~50 |
+| Individual delivery | 6.00% | ~43 |
 | To the eyeballs! | 6.00% | ~43 |
-| Individual delivery | 5.00% | ~36 |
 | Juggler | 5.00% | ~36 |
 | Common cause | 4.00% | ~29 |
 | Forgot something | 4.00% | ~29 |
@@ -73,11 +73,11 @@ Number of Ratings: 87  (23.09.2022)
 | Astrophysicist | 0.30% | ~2 |
 | It's no coincidence | 0.30% | ~2 |
 | The Hare | 0.30% | ~2 |
+| The Hare with an espresso | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |
 | Voyager | 0.30% | ~2 |
 | Highlander | 0.10% | ~1 |
-| The Hare with an espresso | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |

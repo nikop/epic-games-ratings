@@ -3932,11 +3932,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 29991,
       "NumberOfAwardsMax": 4908
+    },
+    {
+      "Time": "2023-05-28T11:58:15.8171801+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29993,
+      "NumberOfAwardsMax": 4910
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29991,
-  "NumberOfAwardsMax": 4908,
+  "NumberOfAwards": 29993,
+  "NumberOfAwardsMax": 4910,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3949,7 +3955,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4908
+      "Count": 4910
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3982,11 +3988,11 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88972,
-  "EOS_Completed": 1890,
-  "EOS_NewPlayers": 795,
-  "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 2.12,
+  "EOS_Progressed": 88980,
+  "EOS_Completed": 1891,
+  "EOS_NewPlayers": 798,
+  "EOS_NewCompleters": 34,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -7717,6 +7723,11 @@
       "Time": "2023-05-28T11:05:52.6517624+00:00",
       "NumProgressed": 88972,
       "NumCompleted": 1890
+    },
+    {
+      "Time": "2023-05-28T12:06:44.9872102+00:00",
+      "NumProgressed": 88980,
+      "NumCompleted": 1891
     }
   ],
   "TotalAchievements": 493,
@@ -7800,7 +7811,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1051",
@@ -8368,7 +8379,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1158",
@@ -8480,7 +8491,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1178",
@@ -8504,7 +8515,7 @@
       "Name": "Hands Off!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1183",
@@ -8528,7 +8539,7 @@
       "Name": "Frail Doesn\u0027t Mean Broken",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1188",
@@ -8552,7 +8563,7 @@
       "Name": "Unreasonable Doesn\u0027t Mean Stupid",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1193",
@@ -8576,7 +8587,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1199",
@@ -8590,9 +8601,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 356
     },
     {
       "ID": "objective_completed_1203",
@@ -8608,7 +8619,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1208",
@@ -8800,7 +8811,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1346",
@@ -8816,7 +8827,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1351",
@@ -9670,9 +9681,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_410",
@@ -10518,9 +10529,9 @@
       "ID": "objective_completed_633",
       "SetID": "415jc5c",
       "Name": "Hearts Aflame",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_635",
@@ -10584,7 +10595,7 @@
       "Name": "Bad Odds in Avernus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_645",
@@ -10616,7 +10627,7 @@
       "Name": "An Even Worse Time in Avernus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_655",
@@ -11656,7 +11667,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "objective_completed_1361",
@@ -11671,21 +11682,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55246,
+      "Progressed": 55254,
       "Completed": 2727
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88972,
-      "Completed": 1890
+      "Progressed": 88980,
+      "Completed": 1891
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-28T05:58:09.3157433+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:52.6517619+00:00",
+  "LastChanged": "2023-05-28T11:58:15.81718+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:44.9872096+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:02.0932504+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:52.6540606+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:15.8171809+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:44.9894115+00:00"
 }

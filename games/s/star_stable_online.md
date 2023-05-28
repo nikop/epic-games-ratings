@@ -1,7 +1,7 @@
 # Star Stable Online
 [Store](https://store.epicgames.com/en-US/p/star-stable)  
 [View Rawdata](../../db/s/star_stable_online.json)  
-Rating: 4.42 (Ranked 652)  
+Rating: 4.41 (Ranked 663)  
 Number of Ratings: 317  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 129  (Ranked 297)  
@@ -167,3 +167,4 @@ Diff (max vs sum): 63
 | 2023-05-25 | 4.42 | - | 129 | 940 |
 | 2023-05-26 | 4.42 | - | 129 | 941 |
 | 2023-05-27 | 4.42 | - | 129 | 942 |
+| 2023-05-28 | 4.41 | - | 129 | 942 |

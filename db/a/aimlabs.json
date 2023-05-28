@@ -2,13 +2,13 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -120,6 +120,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
   "LastChanged": "2023-05-26T22:59:50.8021243+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.5426447+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:59:45.6139686+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:04:48.5879259+00:00"
+  "LastUpdate_Ratings": "2023-05-28T12:00:23.6494897+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:05:32.636619+00:00"
 }

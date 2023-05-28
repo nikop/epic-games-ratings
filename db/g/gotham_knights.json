@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62504,
+  "EOS_Progressed": 62512,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4099,6 +4099,11 @@
       "Time": "2023-05-28T11:05:47.4121336+00:00",
       "NumProgressed": 62504,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T12:06:39.8612509+00:00",
+      "NumProgressed": 62512,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4204,9 +4209,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 500
     },
     {
       "ID": "CLAYFACE_1",
@@ -4268,9 +4273,9 @@
       "ID": "CRIME_FIGHTER_2",
       "SetID": "4eo5ebm",
       "Name": "Not On My Watch",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 375
+      "UsersEstimate": 438
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -4532,9 +4537,9 @@
       "ID": "MYSTERY_05",
       "SetID": "4eo5ebm",
       "Name": "From Inside Gotham\u0027s Walls",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 500
     },
     {
       "ID": "MYSTERY_06",
@@ -4597,13 +4602,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62504,
+      "Progressed": 62512,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32784,
+      "Progressed": 32792,
       "Completed": 2643
     }
   ],
@@ -4611,8 +4616,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T11:05:47.4121332+00:00",
+  "LastChanged_Achievements": "2023-05-28T12:06:39.8612503+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:59:32.5005044+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:05:47.412208+00:00"
+  "LastUpdate_Ratings": "2023-05-28T12:00:07.4375089+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:06:39.8613165+00:00"
 }

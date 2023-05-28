@@ -1,7 +1,7 @@
 # This Is The Police 2
 [Store](https://store.epicgames.com/en-US/p/this-is-the-police-2)  
 [View Rawdata](../../db/t/this_is_the_police_2.json)  
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 292)  
 Number of Ratings: 29  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

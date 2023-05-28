@@ -2,20 +2,20 @@
   "ID": "44471bc726304926b6f7da78722c7029",
   "Name": "SpellForce 3 Reforced",
   "ProductSlug": "spellforce-3",
-  "Ranking_Rating": 575,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-12-06T18:00:00+00:00",
     "PcReleaseDate": "2017-12-07T18:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 71,
   "RatingHistory": [
     {
@@ -220,6 +220,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-28T11:58:36.6041408+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -244,8 +250,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:19.8156047+00:00",
-  "LastChanged": "2023-05-24T17:57:56.9175666+00:00",
+  "LastChanged": "2023-05-28T11:58:36.6041407+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:04.0536948+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:58:18.2167185+00:00",
-  "LastUpdate_Achievements": "2023-05-28T11:03:34.9194199+00:00"
+  "LastUpdate_Ratings": "2023-05-28T11:58:36.6041412+00:00",
+  "LastUpdate_Achievements": "2023-05-28T12:04:16.0960195+00:00"
 }
