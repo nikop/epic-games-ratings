@@ -27,12 +27,12 @@
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.73% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.71% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.11% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.48% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.45% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.14% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
@@ -81,7 +81,7 @@
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.23% |
 | 80 | [Chorus](games/c/chorus.md) | 1.22% |
 | 81 | [Trifox](games/t/trifox.md) | 1.20% |
-| 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.18% |
+| 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.17% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.15% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.08% |
@@ -95,9 +95,9 @@
 | 93 | [Adios](games/a/adios.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
-| 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.79% |
-| 97 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.78% |
-| 97 | [Them and Us](games/t/them_and_us.md) | 0.78% |
+| 96 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.78% |
+| 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
+| 96 | [Them and Us](games/t/them_and_us.md) | 0.78% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |
