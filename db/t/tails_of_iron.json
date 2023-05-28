@@ -3,8 +3,8 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 525,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 141,
@@ -193,7 +193,7 @@
   "Tags": [],
   "EOS_Progressed": 1500,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -893,9 +893,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "CompleteArenaFaction",
@@ -1037,9 +1037,9 @@
       "ID": "MysteryKingsChamber",
       "SetID": "9lj35g4",
       "Name": "Discover the mystery of the Kings Chambers",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 270
     },
     {
       "ID": "RepairChef",
@@ -1100,8 +1100,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:05:30.0439222+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:03:29.6532337+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:57.1428336+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:05:30.0439442+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:11.8030267+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:03:29.6532614+00:00"
 }

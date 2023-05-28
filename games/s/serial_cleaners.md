@@ -12,12 +12,12 @@
 | A New Broom Sweeps Clean | 3.00% | ~5 |
 | Pride and Joy | 2.00% | ~3 |
 | Eyes Yet To Open | 2.00% | ~3 |
+| Hackathon | 2.00% | ~3 |
+| Total Recall | 1.00% | ~2 |
+| Something Rotten | 1.00% | ~2 |
 | Mr. Hygeni | 1.00% | ~2 |
 | The Wing and the Thigh | 1.00% | ~2 |
-| Hackathon | 1.00% | ~2 |
 | All the Stories | 0.60% | ~1 |
-| Total Recall | 0.60% | ~1 |
-| Something Rotten | 0.60% | ~1 |
 | Witness Protection | 0.60% | ~1 |
 | The Crush And Smash The Dino Four | 0.60% | ~0 |
 | … Women Inherit The Earth | 0.60% | ~0 |

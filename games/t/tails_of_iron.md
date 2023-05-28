@@ -30,10 +30,10 @@ Rating: 4.51 (Ranked 525)
 | Complete the Chefs Book | 22.00% | ~330 |
 | Complete Ranger Faction | 20.00% | ~300 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~285 |
-| Discover the mystery of the Kings Chambers | 17.00% | ~255 |
+| Discover the mystery of the Kings Chambers | 18.00% | ~270 |
 | Complete Arena Faction | 14.00% | ~210 |
 | Complete Redgi's Armory | 7.00% | ~105 |
-| King of Kings | 6.00% | ~90 |
+| King of Kings | 7.00% | ~105 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,500 (Ranked 157)  

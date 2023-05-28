@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -68,6 +68,11 @@
       "Time": "2023-05-27T08:05:38.1621893+00:00",
       "NumProgressed": 161,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T14:06:59.8121592+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -79,7 +84,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "02",
@@ -87,7 +92,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "03",
@@ -117,9 +122,9 @@
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "07",
@@ -127,7 +132,7 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "08",
@@ -135,7 +140,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "09",
@@ -167,7 +172,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "13",
@@ -198,7 +203,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 2
     }
   ],
@@ -206,8 +211,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:14.6489209+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:06:59.8121584+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.3434495+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:10.2309206+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:14.6489279+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:58:03.8240341+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:06:59.8121722+00:00"
 }

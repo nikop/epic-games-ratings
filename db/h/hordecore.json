@@ -3,8 +3,8 @@
   "Name": "HordeCore",
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
@@ -81,6 +81,11 @@
       "Time": "2023-05-25T16:07:01.4372818+00:00",
       "NumProgressed": 334,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-28T14:07:24.5587685+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -90,9 +95,9 @@
       "ID": "1",
       "SetID": "1530e6b",
       "Name": "Just Went Shopping",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 325
     },
     {
       "ID": "10",
@@ -106,9 +111,9 @@
       "ID": "11",
       "SetID": "1530e6b",
       "Name": "Getting the Hang Of This",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 157
     },
     {
       "ID": "12",
@@ -116,7 +121,7 @@
       "Name": "Untapped Potential",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "13",
@@ -124,7 +129,7 @@
       "Name": "Limitless",
       "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "14",
@@ -140,7 +145,7 @@
       "Name": "Size Doesn\u2019t Matter",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "16",
@@ -156,7 +161,7 @@
       "Name": "Hammer Time",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "18",
@@ -180,7 +185,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "20",
@@ -188,7 +193,7 @@
       "Name": "Is Anyone Out There?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "21",
@@ -196,7 +201,7 @@
       "Name": "My Savior!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "22",
@@ -218,9 +223,9 @@
       "ID": "24",
       "SetID": "1530e6b",
       "Name": "Over Nine Thousaaand",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 188
     },
     {
       "ID": "25",
@@ -258,9 +263,9 @@
       "ID": "3",
       "SetID": "1530e6b",
       "Name": "Sneaky Sneak",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 258
     },
     {
       "ID": "4",
@@ -268,7 +273,7 @@
       "Name": "Master of Cards",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "5",
@@ -284,7 +289,7 @@
       "Name": "FOR THE GAUNTLET!",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "7",
@@ -298,9 +303,9 @@
       "ID": "8",
       "SetID": "1530e6b",
       "Name": "Master Chef",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 218
     },
     {
       "ID": "9",
@@ -315,7 +320,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 10
     }
   ],
@@ -323,8 +328,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:33.2978968+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:24.5587677+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:19.713599+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:02:30.548842+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:33.297912+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:01:16.8863516+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:24.5587898+00:00"
 }

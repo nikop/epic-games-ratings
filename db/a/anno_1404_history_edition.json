@@ -3,11 +3,11 @@
   "Name": "Anno 1404 History Edition",
   "ProductSlug": "anno-1404",
   "Ranking_Rating": 117,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -279,6 +279,6 @@
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
   "LastChanged": "2023-05-24T07:57:55.8960792+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.0543378+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:21.0273654+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:06:22.2776151+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:58:19.9052537+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:04:24.4865535+00:00"
 }

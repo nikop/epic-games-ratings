@@ -6,8 +6,8 @@
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 895,
+  "EOS_Progressed": 896,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -598,6 +598,11 @@
       "Time": "2023-05-28T09:06:38.0542736+00:00",
       "NumProgressed": 895,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-28T14:07:31.3856006+00:00",
+      "NumProgressed": 896,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -609,7 +614,7 @@
       "Name": "Demigod",
       "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DieInPermadeath",
@@ -625,7 +630,7 @@
       "Name": "Voices from the Past",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Finish5SideMissions",
@@ -649,7 +654,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Kill3InOneDrift",
@@ -665,7 +670,7 @@
       "Name": "Born to Drift",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "KillWithALargeShip",
@@ -673,7 +678,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "MasteryOfCombat",
@@ -697,7 +702,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MissionActivateDish",
@@ -705,7 +710,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -737,7 +742,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -745,7 +750,7 @@
       "Name": "Time to Spear",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -753,7 +758,7 @@
       "Name": "Full Arsenal",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "MissionEosReturn",
@@ -769,7 +774,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -777,7 +782,7 @@
       "Name": "Disciple",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MissionHelios",
@@ -825,7 +830,7 @@
       "Name": "Shields Down",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "MissionScavengingJob",
@@ -833,7 +838,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "MissionShipyard",
@@ -905,7 +910,7 @@
       "Name": "Huntress",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "RiteOfTheStar",
@@ -937,7 +942,7 @@
       "Name": "Space Traveler",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "WinARace",
@@ -952,15 +957,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 895,
+      "Progressed": 896,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:38.5376224+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:31.3855997+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:02:37.2471716+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:38.5376627+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:01:26.2623745+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:31.3856356+00:00"
 }

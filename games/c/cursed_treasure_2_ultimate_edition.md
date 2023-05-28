@@ -26,11 +26,11 @@
 | Top of the World | 67.00% | ~104 |
 | The Apotheosis of War | 66.00% | ~102 |
 | Stasis Alcatraz | 65.00% | ~101 |
-| Tastes Like Chicken | 61.00% | ~95 |
+| Tastes Like Chicken | 62.00% | ~96 |
+| Combo Breaker | 61.00% | ~95 |
 | Thunderstorm | 61.00% | ~95 |
-| Combo Breaker | 60.00% | ~93 |
+| Clean Forests | 59.00% | ~91 |
 | Brilliant: Holy Mountain | 59.00% | ~91 |
-| Clean Forests | 58.00% | ~90 |
 | Starry: Meadowshire | 55.00% | ~85 |
 | Lieutenant of the Evil | 54.00% | ~84 |
 | Avada Kedavra | 52.00% | ~81 |

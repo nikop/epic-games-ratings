@@ -7,15 +7,15 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 40.00% | ~165 |
-| Circus Electrique Proudly Presents... | 36.00% | ~148 |
-| Grand Opening | 35.00% | ~144 |
-| Path of Learning | 35.00% | ~144 |
-| Built in a Day | 29.00% | ~119 |
+| Grand Opening | 36.00% | ~149 |
+| Circus Electrique Proudly Presents... | 36.00% | ~149 |
+| Path of Learning | 35.00% | ~145 |
+| Built in a Day | 29.00% | ~120 |
 | More Brain Than Brawn | 25.00% | ~103 |
-| Perfect Illusion | 20.00% | ~82 |
-| Hundred Percent First | 20.00% | ~82 |
-| Dirty Dozen | 17.00% | ~70 |
+| Perfect Illusion | 20.00% | ~83 |
+| Hundred Percent First | 20.00% | ~83 |
 | Fan Service | 16.00% | ~66 |
+| Dirty Dozen | 16.00% | ~66 |
 | Lion Tamer | 15.00% | ~62 |
 | King of District 1 | 14.00% | ~58 |
 | Amazing! | 14.00% | ~58 |
@@ -23,7 +23,7 @@ Number of Ratings: 22  (23.09.2022)
 | Lucky Day | 13.00% | ~54 |
 | Bar Brawler | 13.00% | ~54 |
 | Flawless Presentation | 13.00% | ~54 |
-| King of District 2 | 12.00% | ~49 |
+| King of District 2 | 12.00% | ~50 |
 | Time Travel! | 10.00% | ~41 |
 | Marketing Manager | 10.00% | ~41 |
 | Circus Versus Circus | 8.00% | ~33 |
@@ -35,7 +35,7 @@ Number of Ratings: 22  (23.09.2022)
 | Around the Clock | 5.00% | ~21 |
 | Club Champion | 5.00% | ~21 |
 | Mobile Infantry | 5.00% | ~21 |
-| King of District 5 | 4.00% | ~16 |
+| King of District 5 | 4.00% | ~17 |
 | Hundred Percent Third | 3.00% | ~12 |
 | Hundred Percent Fourth | 3.00% | ~12 |
 | Circus Maximus | 3.00% | ~12 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 201)  
+Progressed: 413 (Ranked 201)  
 Completed: 1 (0.24%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 1 (0.24%) (Ranked 135)
 | 2023-05-24 | 410 | 1 |
 | 2023-05-26 | 411 | 1 |
 | 2023-05-27 | 412 | 1 |
+| 2023-05-28 | 413 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

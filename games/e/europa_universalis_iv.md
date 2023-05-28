@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,100 |
-| That's a Grand Army | 8.00% | ~3,644 |
-| That is mine! | 8.00% | ~3,644 |
-| Victorious! | 8.00% | ~3,644 |
-| Brothers in Arms | 6.00% | ~2,733 |
-| That's a Grand Navy | 6.00% | ~2,733 |
-| Seriously?! | 6.00% | ~2,733 |
-| For the Glory | 5.00% | ~2,278 |
-| Cold War | 4.00% | ~1,822 |
-| True Catholic | 4.00% | ~1,822 |
-| Defender of the Faith | 3.00% | ~1,367 |
-| It's all about the money | 3.00% | ~1,367 |
-| Respected | 3.00% | ~1,367 |
-| Truly Divine Ruler | 3.00% | ~1,367 |
-| Agressive Expander | 2.00% | ~911 |
-| Blockader | 2.00% | ~911 |
-| Combined Arms | 2.00% | ~911 |
-| Double the Love | 2.00% | ~911 |
-| Gentle Persuasion | 2.00% | ~911 |
-| It's all about luck | 2.00% | ~911 |
-| Queen of Conquest | 2.00% | ~911 |
-| Royal Authority | 2.00% | ~911 |
-| The Princess is in this Castle | 2.00% | ~911 |
-| Total Control | 2.00% | ~911 |
+| Until death do us apart | 9.00% | ~4,103 |
+| That's a Grand Army | 8.00% | ~3,647 |
+| That is mine! | 8.00% | ~3,647 |
+| Victorious! | 8.00% | ~3,647 |
+| Brothers in Arms | 6.00% | ~2,735 |
+| That's a Grand Navy | 6.00% | ~2,735 |
+| Seriously?! | 6.00% | ~2,735 |
+| For the Glory | 5.00% | ~2,279 |
+| Cold War | 4.00% | ~1,824 |
+| True Catholic | 4.00% | ~1,824 |
+| Defender of the Faith | 3.00% | ~1,368 |
+| It's all about the money | 3.00% | ~1,368 |
+| Respected | 3.00% | ~1,368 |
+| Truly Divine Ruler | 3.00% | ~1,368 |
+| Agressive Expander | 2.00% | ~912 |
+| Blockader | 2.00% | ~912 |
+| Combined Arms | 2.00% | ~912 |
+| Double the Love | 2.00% | ~912 |
+| Gentle Persuasion | 2.00% | ~912 |
+| It's all about luck | 2.00% | ~912 |
+| Queen of Conquest | 2.00% | ~912 |
+| Royal Authority | 2.00% | ~912 |
+| The Princess is in this Castle | 2.00% | ~912 |
+| Total Control | 2.00% | ~912 |
 | All That's Thine Shall Be Mine | 1.00% | ~456 |
 | Azur semé de lis or | 1.00% | ~456 |
 | Bright Spark | 1.00% | ~456 |
@@ -39,13 +39,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 1.00% | ~456 |
 | The Five Colonies | 0.90% | ~410 |
 | This navy can take it all | 0.90% | ~410 |
-| The Emperors new clothes | 0.80% | ~364 |
-| Isn't this the way to India? | 0.80% | ~364 |
-| Market Control | 0.80% | ~364 |
+| The Emperors new clothes | 0.80% | ~365 |
+| Isn't this the way to India? | 0.80% | ~365 |
+| Market Control | 0.80% | ~365 |
 | Down Under | 0.70% | ~319 |
 | Trustworthy | 0.70% | ~319 |
-| Electable! | 0.60% | ~273 |
-| Time Bandit | 0.60% | ~273 |
+| Electable! | 0.60% | ~274 |
+| Time Bandit | 0.60% | ~274 |
 | All belongs to Mother Russia | 0.50% | ~228 |
 | At every continent | 0.50% | ~228 |
 | Early-Modern Warfare | 0.50% | ~228 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,551 (Ranked 78)  
+Progressed: 45,588 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,21 +399,21 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
-| 2023-05-28 | 45,551 | 0 |
+| 2023-05-28 | 45,588 | 0 |
 ## Awards
-Max (Educational): 5,293  (Ranked 60)  
-Sum: 43,864 (Ranked 27)  
+Max (Educational): 5,302  (Ranked 60)  
+Sum: 43,879 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,293 |
+| This game is Educational | 5,302 |
 | This game is Highly Recommended | 5,082 |
 | This game has Challenging Combat | 5,057 |
 | This game is Extremely Fun | 5,039 |
 | This game has Diverse Characters | 4,998 |
 | This game is Relaxing | 4,932 |
 | This game has Competitive Players | 4,775 |
-| This game has Amazing Storytelling | 4,515 |
+| This game has Amazing Storytelling | 4,521 |
 | This game has Amazing Characters | 4,173 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -550,4 +550,4 @@ Diff (max vs sum): 33
 | 2023-05-25 | 4.68 | - | 5,281 | 43,757 |
 | 2023-05-26 | 4.68 | - | 5,287 | 43,808 |
 | 2023-05-27 | 4.68 | - | 5,293 | 43,840 |
-| 2023-05-28 | 4.68 | - | 5,293 | 43,864 |
+| 2023-05-28 | 4.68 | - | 5,302 | 43,879 |

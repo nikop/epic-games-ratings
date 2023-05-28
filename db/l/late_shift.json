@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 370,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -222,6 +222,11 @@
       "Time": "2023-05-27T18:05:38.2022383+00:00",
       "NumProgressed": 367,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-28T14:06:51.964235+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -231,7 +236,7 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 25,
       "UsersEstimate": 352
     },
@@ -241,7 +246,7 @@
       "Name": "Choices Matter",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ENDING_1",
@@ -265,7 +270,7 @@
       "Name": "The Ploy",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ENDING_4",
@@ -279,9 +284,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 155
     },
     {
       "ID": "ENDING_6",
@@ -289,7 +294,7 @@
       "Name": "The Bribe",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ENDING_7",
@@ -297,15 +302,15 @@
       "Name": "The Frenzy",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 204
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -321,7 +326,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 263
     },
     {
       "ID": "GOOD_KARMA",
@@ -329,7 +334,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "INTERROGATION",
@@ -337,7 +342,7 @@
       "Name": "Interrogation",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "OFFICE_CLERK",
@@ -345,7 +350,7 @@
       "Name": "Office Clerk",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -359,9 +364,9 @@
       "ID": "PROTECTOR",
       "SetID": "8eejhlh",
       "Name": "Protector",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 100
     },
     {
       "ID": "SABOTAGE",
@@ -369,7 +374,7 @@
       "Name": "Sabotage",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SHILL_BIDDER",
@@ -377,22 +382,22 @@
       "Name": "Shill Bidder",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 370,
       "Completed": 4
     }
   ],
@@ -400,8 +405,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:07:58.6780316+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:06:51.9642341+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:20.6564935+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:07:58.6780427+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:58:19.5305043+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:06:51.9642496+00:00"
 }

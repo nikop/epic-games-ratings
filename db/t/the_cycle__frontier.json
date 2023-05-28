@@ -2,12 +2,12 @@
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
   "ProductSlug": "thecycle",
-  "Ranking_Rating": 862,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -4820,10 +4820,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 13119,
       "NumberOfAwardsMax": 2319
+    },
+    {
+      "Time": "2023-05-28T13:59:03.8676484+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13124,
+      "NumberOfAwardsMax": 2319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13119,
+  "NumberOfAwards": 13124,
   "NumberOfAwardsMax": 2319,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4837,7 +4843,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2246
+      "Count": 2251
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4881,8 +4887,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-05-28T13:00:51.9808946+00:00",
+  "LastChanged": "2023-05-28T13:59:03.8676481+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.2114063+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:51.9808951+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:06:14.956943+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:03.867649+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:04:14.1184931+00:00"
 }

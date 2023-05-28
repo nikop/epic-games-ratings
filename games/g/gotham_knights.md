@@ -5,16 +5,16 @@ Rating: 4.17 (Ranked 839)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 2.00% | ~1,250 |
+| First Step Into the Knight | 2.00% | ~1,251 |
 | The Batman Family | 1.00% | ~625 |
 | To the Victor Go the Spoils | 1.00% | ~625 |
-| Quartzer Life Crisis | 1.00% | ~625 |
 | Har, Har, Har, Very Funny | 1.00% | ~625 |
 | Get ReQ'd | 1.00% | ~625 |
 | Knighthood | 1.00% | ~625 |
 | Loose Ends | 1.00% | ~625 |
 | Whispered Words | 1.00% | ~625 |
 | Something in the Clay | 0.90% | ~563 |
+| Quartzer Life Crisis | 0.90% | ~563 |
 | Snow Problem | 0.90% | ~563 |
 | Working Hard or Harley Working? | 0.90% | ~563 |
 | Unstoppable Force | 0.90% | ~563 |
@@ -37,11 +37,11 @@ Rating: 4.17 (Ranked 839)
 | Out of Their League | 0.50% | ~313 |
 | Drone You Out | 0.50% | ~313 |
 | Gotham City Confidential | 0.50% | ~313 |
+| Family Meeting | 0.40% | ~250 |
 | Solid Alibi | 0.40% | ~250 |
 | Dressed to Impress | 0.30% | ~188 |
 | Fusion Expert | 0.30% | ~188 |
 | Expert Crime Fighter | 0.30% | ~188 |
-| Family Meeting | 0.30% | ~188 |
 | A Worthy Successor | 0.30% | ~188 |
 | Hammer and Icicle | 0.20% | ~66 |
 | Renewable Enemy Source | 0.20% | ~66 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,520 (Ranked 70)  
+Progressed: 62,528 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,520 | 91 |
+| 2023-05-28 | 62,528 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,727 (Ranked 137)  

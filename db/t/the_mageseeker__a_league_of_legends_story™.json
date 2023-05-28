@@ -3,11 +3,11 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 99,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2188,
+  "EOS_Progressed": 2189,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -1946,6 +1946,11 @@
       "Time": "2023-05-28T12:06:17.8227091+00:00",
       "NumProgressed": 2188,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T14:07:07.7789294+00:00",
+      "NumProgressed": 2189,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2005,7 +2010,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2021,7 +2026,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2029,7 +2034,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -2037,7 +2042,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2053,7 +2058,7 @@
       "Name": "Friendly fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -2069,7 +2074,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -2101,7 +2106,7 @@
       "Name": "True power",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -2133,7 +2138,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2141,7 +2146,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2149,7 +2154,7 @@
       "Name": "Meltridge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -2173,7 +2178,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2205,7 +2210,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2237,7 +2242,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -2301,7 +2306,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2323,9 +2328,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 285
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -2333,7 +2338,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2380,7 +2385,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2188,
+      "Progressed": 2189,
       "Completed": 1
     }
   ],
@@ -2388,8 +2393,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:20.5836141+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:07.7789288+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:13.6626765+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:20.5836582+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:58:07.9665766+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:07.7789879+00:00"
 }

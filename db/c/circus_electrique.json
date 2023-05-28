@@ -3,11 +3,11 @@
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
   "Ranking_Rating": 844,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -189,6 +189,11 @@
       "Time": "2023-05-27T02:05:46.2296282+00:00",
       "NumProgressed": 412,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T14:07:20.5586703+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -198,9 +203,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -208,7 +213,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -248,7 +253,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -256,7 +261,7 @@
       "Name": "Built in a Day",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -264,7 +269,7 @@
       "Name": "Path of Learning",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -326,9 +331,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -352,7 +357,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -440,7 +445,7 @@
       "Name": "King of District 2",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -464,7 +469,7 @@
       "Name": "King of District 5",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -599,7 +604,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 1
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:30.3089697+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:20.5586698+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:01:31.8461487+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:30.3090057+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:58.8561717+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:20.5587134+00:00"
 }

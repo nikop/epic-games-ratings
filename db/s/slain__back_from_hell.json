@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 22831,
+  "EOS_Progressed": 22838,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4011,6 +4011,11 @@
       "Time": "2023-05-28T13:08:24.6823461+00:00",
       "NumProgressed": 22831,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-28T14:07:13.1784623+00:00",
+      "NumProgressed": 22838,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -4022,7 +4027,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -4030,7 +4035,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4566
+      "UsersEstimate": 4568
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -4054,7 +4059,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -4166,7 +4171,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -4214,7 +4219,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -4222,7 +4227,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -4253,7 +4258,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 22831,
+      "Progressed": 22838,
       "Completed": 18
     }
   ],
@@ -4261,8 +4266,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:24.6823457+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:13.1784617+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.1629977+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:02:34.7729827+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:24.6823797+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:01:22.7860822+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:13.1785119+00:00"
 }

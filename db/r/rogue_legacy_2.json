@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1119,9 +1119,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21875,
+  "EOS_Progressed": 21876,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3044,6 +3044,11 @@
       "Time": "2023-05-28T13:08:26.8537499+00:00",
       "NumProgressed": 21875,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-28T14:07:15.913705+00:00",
+      "NumProgressed": 21876,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -3109,9 +3114,9 @@
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "BossBridgeDefeated",
@@ -3366,21 +3371,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21875,
+      "Progressed": 21876,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-26T21:58:57.7017015+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:26.8537495+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:15.9137042+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.3423496+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:01:45.7395028+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:26.8537824+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:00:17.6756425+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:15.9137459+00:00"
 }

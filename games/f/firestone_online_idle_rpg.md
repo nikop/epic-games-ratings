@@ -5,10 +5,10 @@ Rating: 3.91 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,127 |
-| World Map | 80.00% | ~959 |
-| Temple of Eternals | 56.00% | ~671 |
-| Prestigious | 53.00% | ~635 |
+| Victor | 94.00% | ~1,129 |
+| World Map | 80.00% | ~961 |
+| Temple of Eternals | 57.00% | ~685 |
+| Prestigious | 53.00% | ~637 |
 | Fellowship Power | 40.00% | ~480 |
 | Guild Power | 24.00% | ~288 |
 | Prestigious x10 | 21.00% | ~252 |
@@ -27,9 +27,9 @@ Rating: 3.91 (Ranked 907)
 | The Unstoppable | 11.00% | ~132 |
 | Mysterious Rock | 10.00% | ~120 |
 | Superior | 10.00% | ~120 |
-| Daily Quest Completionist | 8.00% | ~96 |
 | Scientist | 8.00% | ~96 |
 | Challenger | 7.00% | ~84 |
+| Daily Quest Completionist | 7.00% | ~84 |
 | The power of Awakening | 7.00% | ~84 |
 | Frostfire Liberator | 6.00% | ~72 |
 | Hunter | 6.00% | ~72 |
@@ -68,11 +68,11 @@ Rating: 3.91 (Ranked 907)
 | Cauldron Liberator | 0.40% | ~5 |
 | Gear Enchanting | 0.40% | ~5 |
 | Mythic Power | 0.40% | ~5 |
-| Guardian Master | 0.30% | ~4 |
 | Pokerface | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |
+| Guardian Master | 0.20% | ~2 |
 | Titan Power | 0.20% | ~2 |
 | Ultimate War Machines | 0.20% | ~2 |
 | Angel Power | 0.10% | ~1 |
@@ -81,7 +81,7 @@ Rating: 3.91 (Ranked 907)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,199 (Ranked 161)  
+Progressed: 1,201 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
 | 2023-05-27 | 1,192 | 1 |
-| 2023-05-28 | 1,199 | 1 |
+| 2023-05-28 | 1,201 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

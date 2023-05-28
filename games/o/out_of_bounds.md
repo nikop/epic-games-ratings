@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Noisy saturation | 44.00% | ~12 |
 | Compiling (15)... | 41.00% | ~11 |
+| Almost there! | 41.00% | ~11 |
 | EnergyBackup >= 15 | 37.00% | ~10 |
 | Package ready! | 37.00% | ~10 |
 | Errors found you | 37.00% | ~10 |
-| Almost there! | 37.00% | ~10 |
 | No AI, only humans | 33.00% | ~9 |
 | Gamedev level 15 | 33.00% | ~9 |
 | SoundsFun = 15; | 33.00% | ~9 |
@@ -31,10 +31,10 @@
 | Guru-dev | 15.00% | ~4 |
 | Going under... | 15.00% | ~4 |
 | What am I doing?! | 15.00% | ~4 |
+| Gamedev level 45 | 15.00% | ~4 |
 | EnergyBackup >= 30 | 15.00% | ~4 |
 | EnergyBackup >= 45 | 15.00% | ~4 |
-| Gamedev level 45 | 11.00% | ~3 |
-| Damn, I'm GOOD! | 7.00% | ~2 |
+| Damn, I'm GOOD! | 11.00% | ~3 |
 | Just in time! | 7.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27 (Ranked 316)  

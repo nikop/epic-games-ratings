@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62520,
+  "EOS_Progressed": 62528,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1009,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4109,6 +4109,11 @@
       "Time": "2023-05-28T13:08:40.0975763+00:00",
       "NumProgressed": 62520,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T14:07:33.3234452+00:00",
+      "NumProgressed": 62528,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4318,9 +4323,9 @@
       "ID": "DEFEAT_OC_1",
       "SetID": "4eo5ebm",
       "Name": "Family Meeting",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 250
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -4350,9 +4355,9 @@
       "ID": "FREEZE_1_5",
       "SetID": "4eo5ebm",
       "Name": "Quartzer Life Crisis",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 563
     },
     {
       "ID": "FREEZE_2",
@@ -4464,7 +4469,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4607,13 +4612,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62520,
+      "Progressed": 62528,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32800,
+      "Progressed": 32808,
       "Completed": 2643
     }
   ],
@@ -4621,8 +4626,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:40.0975758+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:33.3234445+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:02:22.9829787+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:40.097645+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:01:03.5510534+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:33.3235151+00:00"
 }

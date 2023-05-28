@@ -6,39 +6,39 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,683,138 |
-| Easy to forget | 46.00% | ~1,613,007 |
-| Back in the black | 38.00% | ~1,332,484 |
-| That's what I'm talking about | 28.00% | ~981,830 |
-| The Best of Both Worlds | 24.00% | ~841,569 |
-| Get your wings | 20.00% | ~701,307 |
-| Double trouble | 15.00% | ~525,981 |
-| Smashing it | 10.00% | ~350,654 |
-| But can it run Crysis? | 9.00% | ~315,588 |
-| My favourite feature... | 9.00% | ~315,588 |
-| From humble beginnings... | 7.00% | ~245,458 |
-| Customer satisfaction | 7.00% | ~245,458 |
-| Keeping things neat | 4.00% | ~140,261 |
-| Seems you're pretty good at this | 4.00% | ~140,261 |
-| Triple threat | 3.00% | ~105,196 |
-| You rock at this! | 3.00% | ~105,196 |
-| Your music sucks | 3.00% | ~105,196 |
-| Bending over backwards | 3.00% | ~105,196 |
-| I'm broke, Uncle! | 2.00% | ~70,131 |
-| Maybe you should try something else? | 2.00% | ~70,131 |
-| Taking care of business | 2.00% | ~70,131 |
-| Perfection | 2.00% | ~70,131 |
-| Calling in Sick | 2.00% | ~70,131 |
-| Overvolted | 1.00% | ~35,065 |
-| If you fail the first time... | 1.00% | ~35,065 |
-| Amazonian | 1.00% | ~35,065 |
-| Things are under control | 1.00% | ~35,065 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,065 |
-| Building isn't cheap! | 1.00% | ~35,065 |
-| Majority Shareholder | 1.00% | ~35,065 |
-| Owner | 1.00% | ~35,065 |
+| You need to plug it in... | 48.00% | ~1,683,161 |
+| Easy to forget | 46.00% | ~1,613,030 |
+| Back in the black | 38.00% | ~1,332,503 |
+| That's what I'm talking about | 28.00% | ~981,844 |
+| The Best of Both Worlds | 24.00% | ~841,581 |
+| Get your wings | 20.00% | ~701,317 |
+| Double trouble | 15.00% | ~525,988 |
+| Smashing it | 10.00% | ~350,659 |
+| But can it run Crysis? | 9.00% | ~315,593 |
+| My favourite feature... | 9.00% | ~315,593 |
+| From humble beginnings... | 7.00% | ~245,461 |
+| Customer satisfaction | 7.00% | ~245,461 |
+| Keeping things neat | 4.00% | ~140,263 |
+| Seems you're pretty good at this | 4.00% | ~140,263 |
+| Triple threat | 3.00% | ~105,198 |
+| You rock at this! | 3.00% | ~105,198 |
+| Your music sucks | 3.00% | ~105,198 |
+| Bending over backwards | 3.00% | ~105,198 |
+| I'm broke, Uncle! | 2.00% | ~70,132 |
+| Maybe you should try something else? | 2.00% | ~70,132 |
+| Taking care of business | 2.00% | ~70,132 |
+| Perfection | 2.00% | ~70,132 |
+| Calling in Sick | 2.00% | ~70,132 |
+| Overvolted | 1.00% | ~35,066 |
+| If you fail the first time... | 1.00% | ~35,066 |
+| Amazonian | 1.00% | ~35,066 |
+| Things are under control | 1.00% | ~35,066 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,066 |
+| Building isn't cheap! | 1.00% | ~35,066 |
+| Majority Shareholder | 1.00% | ~35,066 |
+| Owner | 1.00% | ~35,066 |
 | Show off | 0.90% | ~31,559 |
-| Work ethic 101 | 0.60% | ~21,039 |
+| Work ethic 101 | 0.60% | ~21,040 |
 | Building momentum | 0.50% | ~17,533 |
 | Lead by example | 0.50% | ~17,533 |
 | Treat yourself - RAM | 0.50% | ~17,533 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,507 |
 | Treat yourself - GPU | 0.10% | ~3,507 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,506,537 (Ranked 4)  
+Progressed: 3,506,586 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,10 +97,10 @@ Completed: 23 (0.00%) (Ranked 206)
 | 2023-05-25 | 3,504,488 | 23 |
 | 2023-05-26 | 3,505,275 | 23 |
 | 2023-05-27 | 3,506,149 | 23 |
-| 2023-05-28 | 3,506,537 | 23 |
+| 2023-05-28 | 3,506,586 | 23 |
 ## Awards
 Max (Great for Beginners): 1,043  (Ranked 133)  
-Sum: 7,779 (Ranked 94)  
+Sum: 7,780 (Ranked 94)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -112,7 +112,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 868 |
 | This game has Amazing Storytelling | 793 |
 | This game has Obsessive Gameplay | 664 |
-| This game has Amazing Characters | 636 |
+| This game has Amazing Characters | 637 |
 | This game has a Creative Community | 624 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -228,3 +228,4 @@ Diff (max vs sum): 39
 | 2023-05-25 | 4.66 | - | 1,043 | 7,774 |
 | 2023-05-26 | 4.66 | - | 1,043 | 7,775 |
 | 2023-05-27 | 4.66 | - | 1,043 | 7,779 |
+| 2023-05-28 | 4.66 | - | 1,043 | 7,780 |

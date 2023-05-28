@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 63.00% | ~177 |
 | Read Between The Lines | 62.00% | ~174 |
-| High Profile | 55.00% | ~155 |
+| High Profile | 56.00% | ~157 |
 | Whispers In The Dark | 53.00% | ~149 |
 | Fond Memories | 47.00% | ~132 |
 | History Check | 46.00% | ~129 |
@@ -22,19 +22,19 @@
 | No Man Is An Island | 38.00% | ~107 |
 | At Wits' End | 36.00% | ~101 |
 | Going Once... | 35.00% | ~98 |
+| Bookworm | 34.00% | ~96 |
 | Fhtagn! | 34.00% | ~96 |
-| Bookworm | 33.00% | ~93 |
+| Up In Flames | 33.00% | ~93 |
 | Let Me Be Frank | 32.00% | ~90 |
-| Up In Flames | 32.00% | ~90 |
 | Brain Food | 30.00% | ~84 |
 | No Stone Unturned | 28.00% | ~79 |
 | Curiosity Killed The Cat | 19.00% | ~53 |
 | Read It And Weep | 18.00% | ~51 |
 | Big Breakthrough | 17.00% | ~48 |
-| Reawakened | 6.00% | ~17 |
+| Reawakened | 7.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 281 (Ranked 225)  
-Completed: 12 (4.27%) (Ranked 32)  
+Completed: 13 (4.63%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 12 (4.27%) (Ranked 32)
 | 2023-05-25 | 235 | 12 |
 | 2023-05-26 | 257 | 12 |
 | 2023-05-27 | 271 | 12 |
-| 2023-05-28 | 281 | 12 |
+| 2023-05-28 | 281 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

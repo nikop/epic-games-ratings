@@ -3,8 +3,8 @@
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
   "Ranking_Rating": 921,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 103,
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 981,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1026,6 +1026,11 @@
       "Time": "2023-05-28T12:03:35.4310707+00:00",
       "NumProgressed": 979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T14:03:45.3598996+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1107,9 +1112,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1117,7 +1122,7 @@
       "Name": "Zero Waste",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -1211,9 +1216,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 324
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1261,7 +1266,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -1293,7 +1298,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1309,7 +1314,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -1397,7 +1402,7 @@
       "Name": "Bob The Builder",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -1420,7 +1425,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 981,
       "Completed": 0
     }
   ],
@@ -1428,8 +1433,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-27T23:57:19.9437724+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:05:40.9294183+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:03:45.359899+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:01.6700239+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:05:40.9294599+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:57:51.4458137+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:03:45.359958+00:00"
 }

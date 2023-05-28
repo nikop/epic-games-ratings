@@ -11,8 +11,8 @@
 | I Prefer Jazz Fusion | 10.00% | ~11 |
 | Avaricerite | 8.00% | ~9 |
 | Master Destructor | 8.00% | ~9 |
+| Ball Galore | 6.00% | ~6 |
 | You Are Actually Supposed To Use Those | 6.00% | ~6 |
-| Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
 | Back From The Dead | 4.00% | ~4 |
 | Ball Protector | 4.00% | ~4 |
@@ -20,6 +20,7 @@
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
+| Nomad | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
 | Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
@@ -29,7 +30,6 @@
 | Machine Man | 0.90% | ~1 |
 | Medium Rare | 0.90% | ~1 |
 | Mushroom Man | 0.90% | ~1 |
-| Nomad | 0.90% | ~1 |
 | Scrap Collector | 0.90% | ~1 |
 | Total Walrus | 0.90% | ~1 |
 | True Victory | 0.90% | ~1 |

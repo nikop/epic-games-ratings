@@ -4,7 +4,7 @@
   "ProductSlug": "lovecrafts-untold-stories",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-07-20T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.5323225+00:00",
   "LastChanged": "2023-03-31T05:57:55.5323226+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.63276+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:54.7386925+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:06:27.4824433+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:07.2421511+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:04:32.0862204+00:00"
 }

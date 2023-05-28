@@ -28,24 +28,24 @@
 | Thats disgusting! | 41.00% | ~26 |
 | Cockadoodledoo! | 41.00% | ~26 |
 | Surprise!! | 40.00% | ~25 |
+| Make America Grate Again | 37.00% | ~23 |
 | Self assessed tax return | 37.00% | ~23 |
 | Karaoke king | 37.00% | ~23 |
-| Make America Grate Again | 35.00% | ~22 |
 | You are no match for me, Billy! | 33.00% | ~21 |
 | Pasta Bolognese | 33.00% | ~21 |
 | Catch the bus with me! | 32.00% | ~20 |
 | You can't stop me, bro! | 32.00% | ~20 |
 | Haemochromatosis | 32.00% | ~20 |
 | Meatballs, coming up! | 29.00% | ~18 |
-| I'm going to get a concussion | 27.00% | ~17 |
+| I'm going to get a concussion | 29.00% | ~18 |
 | Another one bites the iron | 27.00% | ~17 |
-| A Megapint...? | 21.00% | ~13 |
+| A Megapint...? | 22.00% | ~14 |
 | Ripe Meat Off The Bone! | 21.00% | ~13 |
 | Hovering around | 21.00% | ~13 |
 | Your daily dose of Vitamin C. | 17.00% | ~11 |
 | Kleptomaniac | 17.00% | ~11 |
 | You're not so Big anymore, Boi! | 16.00% | ~10 |
-| Just wing it! | 14.00% | ~9 |
+| Just wing it! | 16.00% | ~10 |
 | I cant stand still! | 14.00% | ~9 |
 | Slimy... yet satisfying | 14.00% | ~9 |
 | Deal with it | 13.00% | ~8 |
@@ -62,19 +62,19 @@
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
 | Timber! | 3.00% | ~2 |
 | Grumpy Immortal | 3.00% | ~2 |
+| European karaoke king | 3.00% | ~2 |
 | Free Of Chains | 3.00% | ~2 |
 | Ancient Ruins of Misplaced Belongings | 2.00% | ~1 |
+| Ancient Ruins of Vitamin D Addition | 2.00% | ~1 |
 | Ancient Ruins of Imperfectly Designed Walls | 2.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~1 |
 | Ancient Ruins of Inadequate Opportunities | 2.00% | ~1 |
 | Ancient Ruins of Stubbed Toes | 2.00% | ~1 |
 | My name is Whoopass, SIR Whoopass! | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
-| European karaoke king | 2.00% | ~1 |
 | Out of bounds | 2.00% | ~1 |
 | Fifty Shades of Gruyere | 0.00% | ~0 |
 | Ancient Ruins of Empty Echoes | 0.00% | ~0 |
-| Ancient Ruins of Vitamin D Addition | 0.00% | ~0 |
 | Ancient Ruins of Poor Intrusion Prevention | 0.00% | ~0 |
 | Ancient Ruins of Peekaboo | 0.00% | ~0 |
 | Ancient Ruins of Leaky Roof | 0.00% | ~0 |

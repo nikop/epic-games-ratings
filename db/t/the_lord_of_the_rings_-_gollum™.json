@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -355,6 +355,11 @@
       "Time": "2023-05-28T13:07:57.323646+00:00",
       "NumProgressed": 320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T14:06:50.223218+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -364,9 +369,9 @@
       "ID": "Annoying",
       "SetID": "70l3651",
       "Name": "He\u0027s so Annoying",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "BreakLegs",
@@ -388,17 +393,17 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter2",
@@ -412,9 +417,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 39
     },
     {
       "ID": "Chapter4",
@@ -444,9 +449,9 @@
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "Chapter8",
@@ -460,9 +465,9 @@
       "ID": "Chapter9",
       "SetID": "70l3651",
       "Name": "Gollum/Sm\u00E9agol",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "Collectibles1",
@@ -470,7 +475,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Collectibles2",
@@ -516,9 +521,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "GollumChoices",
@@ -542,7 +547,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Murderer",
@@ -636,31 +641,31 @@
       "ID": "TriggerHappy",
       "SetID": "70l3651",
       "Name": "Trigger-Happy",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:07:57.3236457+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:06:50.2232173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:21.6806915+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:07:57.3236665+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:58:20.6592606+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:06:50.2232546+00:00"
 }

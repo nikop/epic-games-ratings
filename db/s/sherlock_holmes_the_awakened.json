@@ -3,9 +3,9 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_Completed": 31,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 281,
-  "EOS_Completed": 12,
+  "EOS_Completed": 13,
   "EOS_NewPlayers": 86,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.27,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -714,6 +714,11 @@
       "Time": "2023-05-28T13:06:14.806684+00:00",
       "NumProgressed": 281,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-05-28T14:04:13.8813824+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -739,9 +744,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "MQ02_2",
@@ -875,9 +880,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "MQ06_3",
@@ -923,9 +928,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "MQ08_3",
@@ -939,9 +944,9 @@
       "ID": "PLTN",
       "SetID": "bbing49",
       "Name": "Reawakened",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
@@ -949,15 +954,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 281,
-      "Completed": 12
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:06:14.8066836+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:04:13.8813816+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-28T12:59:52.863694+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:06:14.8067022+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:57:38.1341504+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:04:13.8814076+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-05-27T05:06:55.501563+00:00",
       "NumProgressed": 417,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-28T14:03:10.0000344+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -352,7 +357,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "TROP006",
@@ -376,7 +381,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "TROP009",
@@ -384,7 +389,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TROP010",
@@ -424,7 +429,7 @@
       "Name": "Never Run Around",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TROP015",
@@ -480,7 +485,7 @@
       "Name": "Tasty",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TROP022",
@@ -520,7 +525,7 @@
       "Name": "Lullaby",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "TROP027",
@@ -535,7 +540,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 3
     }
   ],
@@ -543,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:05:15.887129+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:03:10.0000334+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.6373889+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:01:30.531211+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:05:15.8871452+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:57.5422675+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:03:10.0000574+00:00"
 }

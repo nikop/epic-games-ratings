@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 596,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10613,
+  "EOS_Progressed": 10619,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
@@ -4024,6 +4024,11 @@
       "Time": "2023-05-28T13:08:30.0561309+00:00",
       "NumProgressed": 10613,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-05-28T14:07:20.4212629+00:00",
+      "NumProgressed": 10619,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 20,
@@ -4035,7 +4040,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -4051,7 +4056,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -4059,7 +4064,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -4075,7 +4080,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -4083,7 +4088,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -4099,7 +4104,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "FOUND_ERIN",
@@ -4131,7 +4136,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -4155,7 +4160,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8070
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -4163,7 +4168,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "NORTH_FINISHED",
@@ -4171,7 +4176,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -4187,22 +4192,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2018
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10613,
+      "Progressed": 10619,
       "Completed": 228
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:30.0561307+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:20.4212623+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:02:44.6539659+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:30.0561574+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:01:38.2217311+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:20.4213049+00:00"
 }

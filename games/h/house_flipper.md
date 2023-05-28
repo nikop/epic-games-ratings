@@ -6,16 +6,16 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~17,927 |
-| Strongman | 31.00% | ~5,912 |
-| Just Enough | 19.00% | ~3,623 |
-| Alpha Male | 19.00% | ~3,623 |
+| First money | 94.00% | ~17,929 |
+| Strongman | 31.00% | ~5,913 |
+| Just Enough | 19.00% | ~3,624 |
+| Alpha Male | 19.00% | ~3,624 |
 | Pro-creative | 18.00% | ~3,433 |
 | Worth Every Penny | 15.00% | ~2,861 |
 | Family man | 12.00% | ~2,289 |
 | Junior Estate Agent | 12.00% | ~2,289 |
 | Mystery | 10.00% | ~1,907 |
-| Artistic soul | 9.00% | ~1,716 |
+| Artistic soul | 9.00% | ~1,717 |
 | Estate Agent | 5.00% | ~954 |
 | Millionaire | 5.00% | ~954 |
 | Perfectionist | 5.00% | ~954 |
@@ -25,12 +25,12 @@ Number of Ratings: 1,023  (23.09.2022)
 | Wall Street Shark | 0.80% | ~153 |
 | Knock, knock | 0.80% | ~153 |
 | Negotiator | 0.80% | ~153 |
-| Car Mechanic | 0.70% | ~133 |
+| Car Mechanic | 0.70% | ~134 |
 | Do it ASAP | 0.60% | ~114 |
 | Nerd | 0.50% | ~95 |
 | Senior Estate Agent | 0.50% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,071 (Ranked 94)  
+Progressed: 19,073 (Ranked 94)  
 Completed: 19 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,17 +68,17 @@ Completed: 19 (0.10%) (Ranked 159)
 | 2023-05-25 | 18,986 | 19 |
 | 2023-05-26 | 19,013 | 19 |
 | 2023-05-27 | 19,054 | 19 |
-| 2023-05-28 | 19,071 | 19 |
+| 2023-05-28 | 19,073 | 19 |
 ## Awards
 Max (Great for Beginners): 292  (Ranked 227)  
-Sum: 2,135 (Ranked 178)  
+Sum: 2,137 (Ranked 178)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 292 |
 | This game is Educational | 233 |
 | This game is Extremely Fun | 219 |
-| This game is Relaxing | 217 |
+| This game is Relaxing | 219 |
 | This game has Quickly Understood Controls | 215 |
 | This game is Highly Recommended | 209 |
 | This game has Amazing Storytelling | 204 |
@@ -190,3 +190,4 @@ Diff (max vs sum): 49
 | 2023-05-25 | 4.69 | - | 289 | 2,129 |
 | 2023-05-26 | 4.69 | - | 289 | 2,131 |
 | 2023-05-27 | 4.69 | - | 292 | 2,135 |
+| 2023-05-28 | 4.69 | - | 292 | 2,137 |

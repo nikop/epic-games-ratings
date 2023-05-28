@@ -3,11 +3,11 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 606,
-  "Ranking_Popularity": 466,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Popularity": 465,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1560,
+  "EOS_Progressed": 1561,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-05-27T23:05:18.401301+00:00",
       "NumProgressed": 1560,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T14:07:03.0607982+00:00",
+      "NumProgressed": 1561,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -735,7 +740,7 @@
       "Name": "Dishonored",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -791,7 +796,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -853,9 +858,9 @@
       "ID": "ACH_JUSTICE_SERVED",
       "SetID": "8j30i9k",
       "Name": "Justice Served",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -863,7 +868,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -877,9 +882,9 @@
       "ID": "ACH_LORD_INUT_SENDS_HIS_REGARDS",
       "SetID": "8j30i9k",
       "Name": "Lord Inut Sends His Regards",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -983,7 +988,7 @@
       "Name": "Rain of Death",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_REVENANT",
@@ -1005,9 +1010,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1087,7 +1092,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1134,15 +1139,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1560,
+      "Progressed": 1561,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:17.0514806+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:03.0607975+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:09.3843779+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:01:01.5112935+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:17.051518+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:17.3167419+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:03.0608462+00:00"
 }

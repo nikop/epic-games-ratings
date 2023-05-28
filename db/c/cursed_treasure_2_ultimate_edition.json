@@ -130,9 +130,9 @@
       "ID": "BADGE_BOSS_3_KILL",
       "SetID": "ak6pfjk",
       "Name": "Clean Forests",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "BADGE_BOSS_4_KILL",
@@ -450,9 +450,9 @@
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
       "SetID": "ak6pfjk",
       "Name": "Combo Breaker",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "BADGE_PLAYER_RANK",
@@ -474,9 +474,9 @@
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -539,8 +539,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:05:29.9056854+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:03:29.3635082+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:01:12.1747892+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:05:29.9057231+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:31.1100777+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:03:29.3635525+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 388,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -3460,10 +3460,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2525,
       "NumberOfAwardsMax": 331
+    },
+    {
+      "Time": "2023-05-28T14:00:10.6441605+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2530,
+      "NumberOfAwardsMax": 331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2525,
+  "NumberOfAwards": 2530,
   "NumberOfAwardsMax": 331,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3477,7 +3483,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 320
+      "Count": 322
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3501,7 +3507,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 317
+      "Count": 320
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3539,8 +3545,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-05-28T13:01:38.8780011+00:00",
+  "LastChanged": "2023-05-28T14:00:10.6441603+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:38.9576378+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:01:38.8780015+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:06:20.7649403+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:00:10.6441622+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:04:22.2594616+00:00"
 }

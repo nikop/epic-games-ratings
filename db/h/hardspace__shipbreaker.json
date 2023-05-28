@@ -3,11 +3,11 @@
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
   "Ranking_Rating": 275,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -555,6 +555,11 @@
       "Time": "2023-05-28T10:01:03.0488536+00:00",
       "NumProgressed": 661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T14:02:34.9279902+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -566,7 +571,7 @@
       "Name": "Act I Complete",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -606,7 +611,7 @@
       "Name": "A successful procedure!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -614,7 +619,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -630,7 +635,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -646,7 +651,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -702,7 +707,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -718,15 +723,15 @@
       "Name": "I can fix it!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -734,7 +739,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -766,7 +771,7 @@
       "Name": "The Weight of the World",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -774,14 +779,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 0
     }
   ],
@@ -789,8 +794,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:03:20.3374293+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:02:34.9279892+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.5926021+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:07.8115737+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:03:20.3374495+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:57:59.3689004+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:02:34.9280149+00:00"
 }

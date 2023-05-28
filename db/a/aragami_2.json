@@ -3,8 +3,8 @@
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
   "Ranking_Rating": 438,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 89,
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33351,
+  "EOS_Progressed": 33354,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3507,6 +3507,11 @@
       "Time": "2023-05-28T13:05:18.0588725+00:00",
       "NumProgressed": 33351,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-05-28T14:03:13.0218442+00:00",
+      "NumProgressed": 33354,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 44,
@@ -3518,7 +3523,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19010
+      "UsersEstimate": 19012
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3526,7 +3531,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 10005
+      "UsersEstimate": 10006
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -3550,7 +3555,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -3590,7 +3595,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -3638,7 +3643,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 27014
+      "UsersEstimate": 27017
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3678,7 +3683,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5337
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -3694,7 +3699,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 7337
+      "UsersEstimate": 7338
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -3702,7 +3707,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5337
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -3710,7 +3715,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12340
+      "UsersEstimate": 12341
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3718,7 +3723,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 6003
+      "UsersEstimate": 6004
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -3726,7 +3731,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 6670
+      "UsersEstimate": 6671
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3734,7 +3739,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 8004
+      "UsersEstimate": 8005
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -3742,7 +3747,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18678
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -3750,7 +3755,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10672
+      "UsersEstimate": 10673
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -3758,7 +3763,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 21011
+      "UsersEstimate": 21013
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3766,7 +3771,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9005
+      "UsersEstimate": 9006
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -3782,7 +3787,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20011
+      "UsersEstimate": 20012
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -3790,7 +3795,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22679
+      "UsersEstimate": 22681
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3806,7 +3811,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -3822,7 +3827,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 15008
+      "UsersEstimate": 15009
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -3854,7 +3859,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30683
+      "UsersEstimate": 30686
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3862,14 +3867,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 17343
+      "UsersEstimate": 17344
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33351,
+      "Progressed": 33354,
       "Completed": 159
     }
   ],
@@ -3877,8 +3882,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:05:18.0588721+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:03:13.0218435+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.3708529+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:58.0409314+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:05:18.0589173+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:12.9555196+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:03:13.021906+00:00"
 }

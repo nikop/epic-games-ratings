@@ -3,8 +3,8 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 663,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 79,
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1698,
+  "EOS_Progressed": 1707,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1713,6 +1713,11 @@
       "Time": "2023-05-28T13:08:19.1522398+00:00",
       "NumProgressed": 1698,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T14:07:05.9149681+00:00",
+      "NumProgressed": 1707,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1804,7 +1809,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1882,9 +1887,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1892,7 +1897,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1914,9 +1919,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1932,7 +1937,7 @@
       "Name": "Lord of War",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1972,7 +1977,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2036,7 +2041,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2090,9 +2095,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2291,13 +2296,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1649,
+      "Progressed": 1658,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1698,
+      "Progressed": 1707,
       "Completed": 2
     }
   ],
@@ -2305,8 +2310,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:19.1522394+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:05.9149675+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:03:04.901735+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:19.1522991+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:02:10.9504345+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:05.9150488+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tennis-manager-2021",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-05-25T13:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.141822+00:00",
   "LastChanged": "2023-03-31T05:58:06.1418221+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.8675446+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:08.3217149+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:06:41.4233886+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:58:00.1915321+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:04:52.1100082+00:00"
 }

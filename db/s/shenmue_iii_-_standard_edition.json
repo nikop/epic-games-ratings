@@ -3,11 +3,11 @@
   "Name": "Shenmue III - Standard Edition",
   "ProductSlug": "shenmue-3",
   "Ranking_Rating": 825,
-  "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 466,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-11-19T15:00:00+00:00",
@@ -420,9 +420,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -444,6 +443,6 @@
   "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
   "LastChanged": "2023-04-18T16:57:17.7241603+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:19.1181104+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:04.2573057+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:03:39.1405729+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:57:54.3956796+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:03:01.6973629+00:00"
 }

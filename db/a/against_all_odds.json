@@ -3,11 +3,11 @@
   "Name": "Against All Odds",
   "ProductSlug": "against-all-odds-409105",
   "Ranking_Rating": 742,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -136,6 +136,6 @@
   "FirstSeenRating": "2023-05-04T16:58:21.4625207+00:00",
   "LastChanged": "2023-05-26T17:58:24.7117949+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.1468271+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:57.2656649+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:06:51.2458578+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:59:10.7474037+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:05:16.0810076+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
   "Ranking_Rating": 506,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 127,
@@ -186,9 +186,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18850,
+  "EOS_Progressed": 18855,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2671,6 +2671,11 @@
       "Time": "2023-05-28T13:07:55.5741412+00:00",
       "NumProgressed": 18850,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-28T14:06:47.9048123+00:00",
+      "NumProgressed": 18855,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -2706,7 +2711,7 @@
       "Name": "Forming bonds",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "MeetElder",
@@ -2738,7 +2743,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "PickupChitin",
@@ -2770,7 +2775,7 @@
       "Name": "Smooth as silk",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "PickupStone",
@@ -2785,7 +2790,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18850,
+      "Progressed": 18855,
       "Completed": 18
     }
   ],
@@ -2793,8 +2798,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-05-27T19:57:51.9812479+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:07:55.5741408+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:06:47.9048117+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:20.3613207+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:00:05.3598778+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:07:55.5741613+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:57:56.0276315+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:06:47.9048408+00:00"
 }

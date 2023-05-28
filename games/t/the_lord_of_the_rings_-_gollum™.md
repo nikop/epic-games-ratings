@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 58.00% | ~186 |
-| Collectibles Part 1 | 47.00% | ~150 |
-| Welcome to Mordor! | 46.00% | ~147 |
+| The Wraith | 59.00% | ~190 |
+| Collectibles Part 1 | 47.00% | ~151 |
+| Welcome to Mordor! | 47.00% | ~151 |
 | Wait! Wait! Not yet! | 29.00% | ~93 |
-| Memories | 27.00% | ~86 |
-| Like Flying... | 25.00% | ~80 |
+| Memories | 27.00% | ~87 |
+| Like Flying... | 26.00% | ~84 |
 | The Maggot | 18.00% | ~58 |
-| The Breeder | 13.00% | ~42 |
+| The Breeder | 12.00% | ~39 |
 | The Veteran | 10.00% | ~32 |
 | The Traitor | 6.00% | ~19 |
 | The Spider | 5.00% | ~16 |
-| He's so Annoying | 3.00% | ~10 |
-| Good as Fish | 3.00% | ~10 |
-| Trigger-Happy | 3.00% | ~10 |
+| He's so Annoying | 2.00% | ~6 |
+| Good as Fish | 2.00% | ~6 |
 | Her Eyes | 2.00% | ~6 |
+| Gollum/Sméagol | 2.00% | ~6 |
 | Murderer | 2.00% | ~6 |
-| Gollum/Sméagol | 1.00% | ~3 |
+| Trigger-Happy | 2.00% | ~6 |
 | Master of the Old Game | 1.00% | ~3 |
 | Break a Leg! | 0.90% | ~3 |
 | So Silly! | 0.90% | ~3 |
 | So Tasty! | 0.90% | ~3 |
 | And now we wish... | 0.60% | ~2 |
+| The Friend | 0.60% | ~2 |
 | Sweet Darkness | 0.60% | ~2 |
-| The Friend | 0.30% | ~1 |
 | Elf-Friend | 0.30% | ~1 |
 | We wants it! We needs it | 0.30% | ~1 |
 | Nervous Hands | 0.30% | ~1 |
@@ -41,7 +41,7 @@
 | Scout | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 215)  
+Progressed: 322 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,4 +52,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 133 | 0 |
 | 2023-05-26 | 247 | 0 |
 | 2023-05-27 | 305 | 0 |
-| 2023-05-28 | 320 | 0 |
+| 2023-05-28 | 322 | 0 |

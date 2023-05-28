@@ -3,7 +3,7 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
@@ -1608,9 +1608,9 @@
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1349
     },
     {
       "ID": "campaign5",
@@ -1721,8 +1721,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:36.4095414+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:28.5306569+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:02:47.2190145+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:36.4095656+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:01:43.0272794+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:28.5306931+00:00"
 }

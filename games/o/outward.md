@@ -6,17 +6,17 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,942 |
-| Ready for Winter | 63.00% | ~1,653 |
-| Ready for Summer | 51.00% | ~1,338 |
-| Cordon Bleu | 43.00% | ~1,128 |
-| Tapped! | 35.00% | ~918 |
-| Eureka | 31.00% | ~813 |
+| Venture Outward | 74.00% | ~1,943 |
+| Ready for Winter | 64.00% | ~1,681 |
+| Ready for Summer | 51.00% | ~1,339 |
+| Cordon Bleu | 43.00% | ~1,129 |
+| Tapped! | 35.00% | ~919 |
+| Eureka | 31.00% | ~814 |
 | Scourge Slayer | 25.00% | ~656 |
 | Science, Troglodyte! | 23.00% | ~604 |
-| Exceptional Skill | 22.00% | ~577 |
+| Exceptional Skill | 22.00% | ~578 |
 | Home Sweet Home | 21.00% | ~551 |
-| Encyclopedic! | 20.00% | ~525 |
+| Encyclopedic! | 19.00% | ~499 |
 | A Fortress Toppled! | 16.00% | ~420 |
 | Apex Predator | 15.00% | ~394 |
 | The Power of Family | 15.00% | ~394 |
@@ -29,18 +29,18 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~184 |
 | Let ‘em eat magma! | 7.00% | ~184 |
 | The power of ambition | 7.00% | ~184 |
-| Blood and justice | 6.00% | ~157 |
-| Hold my Mead and Watch This | 6.00% | ~157 |
-| The stuff of legends. | 6.00% | ~157 |
+| Blood and justice | 6.00% | ~158 |
+| Hold my Mead and Watch This | 6.00% | ~158 |
+| The stuff of legends. | 6.00% | ~158 |
 | Ancestor's Pride | 4.00% | ~105 |
 | For All Aurai | 4.00% | ~105 |
 | Memory of a legend | 4.00% | ~105 |
 | Light of Levant | 3.00% | ~79 |
 | This was a mistake... | 3.00% | ~79 |
-| Crowd Pleaser. | 2.00% | ~52 |
-| Perfect Defense | 2.00% | ~52 |
-| Power! To! The People! | 2.00% | ~52 |
-| Your actions define you | 2.00% | ~52 |
+| Crowd Pleaser. | 2.00% | ~53 |
+| Perfect Defense | 2.00% | ~53 |
+| Power! To! The People! | 2.00% | ~53 |
+| Your actions define you | 2.00% | ~53 |
 | The blood is life | 1.00% | ~26 |
 | They'll Tell Stories About This | 1.00% | ~26 |
 | Vanquisher of nightmares | 1.00% | ~26 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,624 (Ranked 139)  
+Progressed: 2,626 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.04%) (Ranked 178)
 | 2023-05-25 | 2,576 | 1 |
 | 2023-05-26 | 2,594 | 1 |
 | 2023-05-27 | 2,618 | 1 |
-| 2023-05-28 | 2,624 | 1 |
+| 2023-05-28 | 2,626 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 344)  

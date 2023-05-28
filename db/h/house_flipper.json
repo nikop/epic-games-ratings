@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1408,10 +1408,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2135,
       "NumberOfAwardsMax": 292
+    },
+    {
+      "Time": "2023-05-28T14:00:39.8005992+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2137,
+      "NumberOfAwardsMax": 292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2135,
+  "NumberOfAwards": 2137,
   "NumberOfAwardsMax": 292,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1443,7 +1449,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 217
+      "Count": 219
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1482,9 +1488,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19071,
+  "EOS_Progressed": 19073,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3032,6 +3038,11 @@
       "Time": "2023-05-28T13:08:22.1287845+00:00",
       "NumProgressed": 19071,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-28T14:07:09.8098242+00:00",
+      "NumProgressed": 19073,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3051,7 +3062,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ChangChoi",
@@ -3091,7 +3102,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17927
+      "UsersEstimate": 17929
     },
     {
       "ID": "GameOver",
@@ -3155,7 +3166,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3623
+      "UsersEstimate": 3624
     },
     {
       "ID": "Negotiator",
@@ -3179,7 +3190,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3623
+      "UsersEstimate": 3624
     },
     {
       "ID": "SeniorEstateAgent",
@@ -3203,7 +3214,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5913
     },
     {
       "ID": "VeronicaLiptson",
@@ -3211,7 +3222,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "YouDoItWrong",
@@ -3226,15 +3237,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19071,
+      "Progressed": 19073,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-27T17:59:28.0177628+00:00",
-  "LastChanged_Achievements": "2023-05-28T13:08:22.1287842+00:00",
+  "LastChanged": "2023-05-28T14:00:39.800599+00:00",
+  "LastChanged_Achievements": "2023-05-28T14:07:09.8098235+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:02:04.0041749+00:00",
-  "LastUpdate_Achievements": "2023-05-28T13:08:22.1288052+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:00:39.8005998+00:00",
+  "LastUpdate_Achievements": "2023-05-28T14:07:09.8098486+00:00"
 }

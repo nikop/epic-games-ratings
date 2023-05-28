@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~105 |
-| Starting Skyward | 52.00% | ~94 |
-| Grime is Not Good | 46.00% | ~83 |
-| Campaign Launch | 40.00% | ~72 |
-| Dinner Dash | 39.00% | ~71 |
+| In the Black | 58.00% | ~106 |
+| Starting Skyward | 52.00% | ~95 |
+| Grime is Not Good | 46.00% | ~84 |
+| Campaign Launch | 40.00% | ~73 |
 | Floor Galore | 38.00% | ~69 |
-| It's Technical | 36.00% | ~65 |
+| Dinner Dash | 38.00% | ~69 |
+| It's Technical | 36.00% | ~66 |
 | Need a Consult | 34.00% | ~62 |
 | Upgrade Unlock | 34.00% | ~62 |
 | Delegate Maintenance | 32.00% | ~58 |
 | Proper Walls | 31.00% | ~56 |
 | Destination Destiny | 27.00% | ~49 |
-| Happy Tenants | 24.00% | ~43 |
+| Happy Tenants | 24.00% | ~44 |
 | Potent Potables | 23.00% | ~42 |
 | Smooth Service | 23.00% | ~42 |
-| Lux Living | 22.00% | ~40 |
-| Your Prestige is Rising | 22.00% | ~40 |
 | Retail Revenue | 22.00% | ~40 |
+| Lux Living | 21.00% | ~38 |
 | People Mover | 21.00% | ~38 |
+| Your Prestige is Rising | 21.00% | ~38 |
 | Leveled Up Shops | 21.00% | ~38 |
 | Emporium Empire | 20.00% | ~36 |
 | Get Electrified | 20.00% | ~36 |
-| Artfully Done | 19.00% | ~34 |
-| Rehab Expert | 19.00% | ~34 |
-| Don't Feel a Loan | 19.00% | ~34 |
-| Tasty Profits | 19.00% | ~34 |
+| Artfully Done | 19.00% | ~35 |
+| Rehab Expert | 19.00% | ~35 |
+| Don't Feel a Loan | 19.00% | ~35 |
+| Tasty Profits | 19.00% | ~35 |
 | We Don't Need No Education | 18.00% | ~33 |
-| Under One Roof | 17.00% | ~31 |
-| Established Fame | 17.00% | ~31 |
 | Cashflow Chief | 17.00% | ~31 |
+| Under One Roof | 16.00% | ~29 |
+| Established Fame | 16.00% | ~29 |
 | Boutique Benefits | 16.00% | ~29 |
 | Terrifically Trashed | 15.00% | ~27 |
 | Thrilled Tenants | 15.00% | ~27 |
@@ -49,9 +49,9 @@
 | Revenue Royalty | 9.00% | ~16 |
 | Phoning It In | 9.00% | ~16 |
 | Pipe Up | 9.00% | ~16 |
-| Aestheticly Pleased | 8.00% | ~14 |
-| Meet Me at HQ | 8.00% | ~14 |
-| Maximum Reuse | 8.00% | ~14 |
+| Aestheticly Pleased | 8.00% | ~15 |
+| Meet Me at HQ | 8.00% | ~15 |
+| Maximum Reuse | 8.00% | ~15 |
 | Penthouse in the Sky | 7.00% | ~13 |
 | I'm Busy Ruling | 7.00% | ~13 |
 | Careful Constructor | 7.00% | ~13 |
@@ -68,6 +68,7 @@
 | Sandbagger | 4.00% | ~7 |
 | Curated Class | 3.00% | ~5 |
 | Decorator's Touch | 3.00% | ~5 |
+| Apartment Awareness | 3.00% | ~5 |
 | Loft Life | 3.00% | ~5 |
 | Glut of Gastronomy | 3.00% | ~5 |
 | Royal Flush | 3.00% | ~5 |
@@ -76,7 +77,6 @@
 | Four of a Kind | 3.00% | ~5 |
 | In the Money | 3.00% | ~5 |
 | It is Payday | 3.00% | ~5 |
-| Apartment Awareness | 2.00% | ~4 |
 | Full House | 2.00% | ~4 |
 | Double Down | 2.00% | ~4 |
 | Lofty Landlord | 2.00% | ~4 |
@@ -86,14 +86,14 @@
 | Poker Face | 1.00% | ~2 |
 | Such Great Heights | 1.00% | ~2 |
 | Scenario Master | 1.00% | ~2 |
-| Infrastructure Info | 0.60% | ~1 |
+| Infrastructure Info | 0.50% | ~1 |
 | Statue Stature | 0.00% | ~0 |
 | Commercial Campaigns | 0.00% | ~0 |
 | Office Ovation | 0.00% | ~0 |
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 244)  
+Progressed: 182 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 171 | 0 |
 | 2023-05-26 | 173 | 0 |
 | 2023-05-27 | 180 | 0 |
-| 2023-05-28 | 181 | 0 |
+| 2023-05-28 | 182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
