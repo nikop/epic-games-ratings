@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12794,
+  "EOS_Progressed": 12795,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2879,6 +2879,11 @@
       "Time": "2023-05-28T16:05:14.3573052+00:00",
       "NumProgressed": 12794,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-28T17:06:17.4669978+00:00",
+      "NumProgressed": 12795,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 41,
@@ -3058,7 +3063,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "tpote_achievement_3",
@@ -3074,7 +3079,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "tpote_achievement_31",
@@ -3098,7 +3103,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "tpote_achievement_34",
@@ -3122,7 +3127,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "tpote_achievement_37",
@@ -3146,7 +3151,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "tpote_achievement_4",
@@ -3154,7 +3159,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5373
+      "UsersEstimate": 5374
     },
     {
       "ID": "tpote_achievement_40",
@@ -3162,7 +3167,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "tpote_achievement_41",
@@ -3170,7 +3175,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "tpote_achievement_5",
@@ -3178,7 +3183,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "tpote_achievement_6",
@@ -3217,15 +3222,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12794,
+      "Progressed": 12795,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:14.357305+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:17.4669973+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:59:52.887194+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:14.3573478+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:00:42.0908941+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:17.4670347+00:00"
 }

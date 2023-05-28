@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 103.00% | ~91 |
-| Every little bit counts | 97.00% | ~85 |
-| Break no Sweat | 95.00% | ~84 |
-| Growth | 86.00% | ~76 |
-| Targeting the Enemy | 68.00% | ~60 |
-| Unavoidable | 64.00% | ~56 |
+| Black Cat's Warning | 103.00% | ~92 |
+| Break no Sweat | 96.00% | ~85 |
+| Every little bit counts | 96.00% | ~85 |
+| Growth | 85.00% | ~76 |
+| Targeting the Enemy | 67.00% | ~60 |
+| Unavoidable | 63.00% | ~56 |
 | Revenge | 61.00% | ~54 |
 | Reunion | 42.00% | ~37 |
 | Fluke | 35.00% | ~31 |
 | Victor's Prejudice | 34.00% | ~30 |
 | Elimination | 33.00% | ~29 |
-| Memento | 31.00% | ~27 |
-| Excellent Driving Skills | 30.00% | ~26 |
+| Memento | 30.00% | ~27 |
+| Excellent Driving Skills | 29.00% | ~26 |
 | Once Bitten, Twice Shy | 28.00% | ~25 |
 | Defeat the AI | 26.00% | ~23 |
 | Unsalvageable | 26.00% | ~23 |
 | Fleet-footed | 26.00% | ~23 |
 | Invincible | 25.00% | ~22 |
 | Neutralize | 24.00% | ~21 |
-| Best in Dragon City | 23.00% | ~20 |
-| Walking into a Trap | 23.00% | ~20 |
+| Best in Dragon City | 22.00% | ~20 |
+| Walking into a Trap | 22.00% | ~20 |
 | Disdain | 20.00% | ~18 |
 | Final Battle | 19.00% | ~17 |
 | Outsider's Profit | 19.00% | ~17 |
@@ -38,10 +38,10 @@
 | Achieving Excellence | 8.00% | ~7 |
 | Fashionista | 8.00% | ~7 |
 | Intel Expert | 6.00% | ~5 |
-| Unexpected Crisis | 5.00% | ~4 |
-| Limbo | 5.00% | ~4 |
-| Ninja Killer | 5.00% | ~4 |
-| Greetings | 5.00% | ~4 |
+| Unexpected Crisis | 4.00% | ~4 |
+| Limbo | 4.00% | ~4 |
+| Ninja Killer | 4.00% | ~4 |
+| Greetings | 4.00% | ~4 |
 | Time's Up | 3.00% | ~3 |
 | Prowess | 3.00% | ~3 |
 | Interception | 2.00% | ~2 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 270)  
+Progressed: 89 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-16 | 87 | 0 |
 | 2023-05-18 | 87 | 0 |
 | 2023-05-20 | 88 | 0 |
+| 2023-05-28 | 89 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

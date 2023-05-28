@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 37.00% | ~5 |
-| Survivor | 24.00% | ~3 |
+| Aspairagus | 38.00% | ~5 |
+| Survivor | 25.00% | ~3 |
+| No Diggity | 24.00% | ~3 |
 | Seeds of War | 22.00% | ~14 |
-| No Diggity | 22.00% | ~3 |
-| Early Survivor | 21.00% | ~3 |
+| Early Survivor | 22.00% | ~3 |
 | Quick-Draw Pod | 19.00% | ~2 |
 | First Blood | 17.00% | ~11 |
-| Bouncemato | 16.00% | ~2 |
-| Amateur Survivor | 13.00% | ~2 |
+| Bouncemato | 17.00% | ~2 |
+| Amateur Survivor | 14.00% | ~2 |
 | I Believe I Can Fly | 11.00% | ~7 |
 | No Asperascope | 11.00% | ~7 |
 | Triple Kill | 11.00% | ~7 |

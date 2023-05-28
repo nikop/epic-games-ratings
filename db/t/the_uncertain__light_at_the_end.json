@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 433,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -234,6 +234,11 @@
       "Time": "2023-05-28T16:05:41.4946684+00:00",
       "NumProgressed": 432,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-28T17:06:50.8862499+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -365,7 +370,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Leisurely_Strol",
@@ -379,9 +384,9 @@
       "ID": "MISSING_DATA",
       "SetID": "ek310c",
       "Name": "Does Not Compute",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "Misanthrope",
@@ -469,14 +474,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 433,
       "Completed": 5
     }
   ],
@@ -484,8 +489,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:41.4946679+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:50.8862495+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.4179478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:00:31.5860635+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:41.4946888+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:01:24.513001+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:50.8862659+00:00"
 }

@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10632,
-  "EOS_Completed": 228,
-  "EOS_NewPlayers": 671,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 2.14,
+  "EOS_Progressed": 10635,
+  "EOS_Completed": 229,
+  "EOS_NewPlayers": 667,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -4039,6 +4039,11 @@
       "Time": "2023-05-28T16:05:35.3658478+00:00",
       "NumProgressed": 10632,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-05-28T17:06:43.1648799+00:00",
+      "NumProgressed": 10635,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 20,
@@ -4090,7 +4095,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -4146,7 +4151,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -4162,7 +4167,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "INTRO_FINISHED",
@@ -4170,7 +4175,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 8080
+      "UsersEstimate": 8083
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -4178,7 +4183,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "NORTH_FINISHED",
@@ -4186,7 +4191,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -4202,22 +4207,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10632,
-      "Completed": 228
+      "Progressed": 10635,
+      "Completed": 229
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:35.3658473+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:43.1648795+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:00:05.661272+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:35.3658833+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:00:55.4536218+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:43.1649084+00:00"
 }

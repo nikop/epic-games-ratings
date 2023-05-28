@@ -13,7 +13,7 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 60.00% | ~1,632 |
 | Novice Researcher | 56.00% | ~1,523 |
 | Putting Food on the Table | 55.00% | ~1,496 |
-| Onward | 50.00% | ~1,360 |
+| Onward | 51.00% | ~1,387 |
 | Studious Researcher | 48.00% | ~1,306 |
 | The First Week | 47.00% | ~1,278 |
 | Feast or Famine | 46.00% | ~1,251 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2726,
+  "EOS_Progressed": 2728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1192,6 +1192,11 @@
       "Time": "2023-05-28T16:05:40.8067294+00:00",
       "NumProgressed": 2726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T17:06:49.7099893+00:00",
+      "NumProgressed": 2728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1219,7 +1224,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "BloodAndIron",
@@ -1371,7 +1376,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "Kills_Bleed",
@@ -1427,7 +1432,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "Kills_Streak",
@@ -1435,7 +1440,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Kills_Vakir",
@@ -1674,21 +1679,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2726,
+      "Progressed": 2728,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2726,
+      "Progressed": 2728,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:40.8067289+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:49.7099888+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:58:32.2618862+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:40.8067857+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:59:04.0187674+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:49.710035+00:00"
 }

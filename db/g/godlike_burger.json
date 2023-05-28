@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -278,6 +278,11 @@
       "Time": "2023-05-28T15:01:18.5435251+00:00",
       "NumProgressed": 300,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T17:02:22.1718269+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -313,7 +318,7 @@
       "Name": "CRIMINAL",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "GB_DEBTOR",
@@ -335,9 +340,9 @@
       "ID": "GB_FIRST_BLOOD",
       "SetID": "8ga3kd9",
       "Name": "FIRST BLOOD",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 237
+      "UsersEstimate": 235
     },
     {
       "ID": "GB_GOURMET",
@@ -407,9 +412,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "GB_KEVIN",
@@ -417,7 +422,7 @@
       "Name": "KEVIN!",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -441,7 +446,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -512,7 +517,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 1
     }
   ],
@@ -520,8 +525,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:01:14.4701643+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:02:22.1718265+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.8472656+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:58:13.4142087+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:01:14.4701843+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:58:38.0034474+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:02:22.1718434+00:00"
 }

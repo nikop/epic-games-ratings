@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,530 |
-| Flanked! | 80.00% | ~2,249 |
-| Economics 101 | 65.00% | ~1,827 |
-| Get Rich Quick | 47.00% | ~1,321 |
-| Do the Splits | 41.00% | ~1,153 |
-| Maestro | 28.00% | ~787 |
-| Full Employment | 19.00% | ~534 |
-| Clay Fighter | 18.00% | ~506 |
+| You and what Army? | 90.00% | ~2,533 |
+| Flanked! | 79.00% | ~2,223 |
+| Economics 101 | 65.00% | ~1,829 |
+| Get Rich Quick | 47.00% | ~1,323 |
+| Do the Splits | 41.00% | ~1,154 |
+| Maestro | 28.00% | ~788 |
+| Full Employment | 19.00% | ~535 |
+| Clay Fighter | 18.00% | ~507 |
 | Nowhere left to Hide | 15.00% | ~422 |
 | All Ovens Blazing | 14.00% | ~394 |
 | Boulder Clash | 14.00% | ~394 |
-| Held Back by the Roots | 12.00% | ~337 |
-| Well Supplied | 11.00% | ~309 |
+| Held Back by the Roots | 12.00% | ~338 |
+| Well Supplied | 11.00% | ~310 |
 | Damage Control | 8.00% | ~225 |
 | Master of the Brawl | 8.00% | ~225 |
 | Sniped | 7.00% | ~197 |
@@ -27,10 +27,10 @@
 | An Ally in Need | 5.00% | ~141 |
 | For the Queen | 5.00% | ~141 |
 | Not a Drop Wasted | 5.00% | ~141 |
-| Reinforcements | 4.00% | ~112 |
-| Sweet Revenge | 4.00% | ~112 |
-| We Have the Technology | 4.00% | ~112 |
-| Figure of Breach | 4.00% | ~112 |
+| Reinforcements | 4.00% | ~113 |
+| Sweet Revenge | 4.00% | ~113 |
+| We Have the Technology | 4.00% | ~113 |
+| Figure of Breach | 4.00% | ~113 |
 | Work It | 3.00% | ~84 |
 | The Handyman Can! | 3.00% | ~84 |
 | A Brief Moment of Respite | 3.00% | ~84 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~28 |
 | All Geared Up | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,811 (Ranked 136)  
+Progressed: 2,814 (Ranked 136)  
 Completed: 9 (0.32%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 9 (0.32%) (Ranked 123)
 | 2023-05-25 | 2,767 | 9 |
 | 2023-05-26 | 2,786 | 9 |
 | 2023-05-27 | 2,801 | 9 |
-| 2023-05-28 | 2,811 | 9 |
+| 2023-05-28 | 2,814 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

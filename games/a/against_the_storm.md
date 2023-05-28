@@ -25,15 +25,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~151 |
 | Like a Machine | 1.00% | ~151 |
 | Trade Baron | 1.00% | ~151 |
+| Refinery | 0.90% | ~135 |
 | Dangerous Lands | 0.90% | ~135 |
+| Haunted Forest | 0.90% | ~135 |
 | Levitating Monument | 0.90% | ~135 |
 | Flooded Mines | 0.90% | ~135 |
 | Monastery of the Holy Flame | 0.90% | ~135 |
 | Corrosive Torrent | 0.90% | ~135 |
 | Watchtower | 0.90% | ~135 |
-| Refinery | 0.80% | ~120 |
 | Against All Odds | 0.80% | ~120 |
-| Haunted Forest | 0.80% | ~120 |
 | Statue of the Forefathers | 0.80% | ~120 |
 | Serving Ale | 0.70% | ~105 |
 | Forsaken Gods Temple | 0.70% | ~105 |

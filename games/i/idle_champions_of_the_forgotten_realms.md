@@ -17,6 +17,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.40% | ~356 |
 | Are Ya Chicken? | 0.40% | ~356 |
 | Quick or Quack | 0.40% | ~221 |
+| Owlbear Necessities | 0.30% | ~166 |
 | Best Thay Ever | 0.30% | ~166 |
 | Checkmate | 0.30% | ~166 |
 | Vecna Out! | 0.30% | ~166 |
@@ -30,7 +31,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~178 |
 | Supply Run | 0.20% | ~178 |
-| Owlbear Necessities | 0.20% | ~111 |
 | Keep Your Distance | 0.20% | ~111 |
 | Hands Off! | 0.20% | ~111 |
 | Frail Doesn't Mean Broken | 0.20% | ~111 |
@@ -47,8 +47,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~178 |
 | Unearthed Evil | 0.20% | ~178 |
 | No Time To Rest | 0.20% | ~178 |
+| Invisible Shadows | 0.20% | ~178 |
 | The Dinner Party | 0.20% | ~178 |
 | The Botched Kidnapping | 0.20% | ~178 |
+| Trollskull Manor | 0.20% | ~178 |
 | The Crumbling Temple | 0.20% | ~178 |
 | The Death Curse | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
@@ -208,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~55 |
 | The Mists of Ravenloft | 0.10% | ~89 |
 | The Hunt for Owl-y | 0.10% | ~89 |
-| Invisible Shadows | 0.10% | ~89 |
 | Werewolves in the Mist | 0.10% | ~89 |
 | We're not in Faerûn Anymore | 0.10% | ~89 |
 | Family Entanglements | 0.10% | ~89 |
@@ -237,7 +238,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~89 |
 | Seeds of Corruption | 0.10% | ~89 |
 | The Strahd Squad | 0.10% | ~55 |
-| Trollskull Manor | 0.10% | ~89 |
 | The Gargoyle's Apprentice | 0.10% | ~89 |
 | House of Darkness | 0.10% | ~89 |
 | Home Not So Alone | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,003 (Ranked 61)  
+Progressed: 89,008 (Ranked 61)  
 Completed: 1,892 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 1,892 (2.13%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 89,003 | 1,892 |
+| 2023-05-28 | 89,008 | 1,892 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,993 (Ranked 37)  

@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 88,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 240,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -944,6 +944,11 @@
       "Time": "2023-05-28T14:03:08.4701888+00:00",
       "NumProgressed": 238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T17:02:21.5942685+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1003,7 +1008,7 @@
       "Name": "French Flair",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -1121,17 +1126,17 @@
       "ID": "Money10000",
       "SetID": "d1bm05f",
       "Name": "Rolling in Dough",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 161
     },
     {
       "ID": "Packing20",
@@ -1155,7 +1160,7 @@
       "Name": "Home Cook",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "RecipeDifferent30",
@@ -1211,7 +1216,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TrattoriaSet",
@@ -1219,7 +1224,7 @@
       "Name": "Italian Style",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "UnlockAssiette",
@@ -1274,7 +1279,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 240,
       "Completed": 0
     }
   ],
@@ -1282,8 +1287,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:01:14.0750355+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:02:21.5942681+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:58:19.9573245+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:01:14.0750701+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:58:49.1190954+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:02:21.5942968+00:00"
 }

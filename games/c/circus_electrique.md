@@ -14,8 +14,8 @@ Number of Ratings: 22  (23.09.2022)
 | More Brain Than Brawn | 25.00% | ~103 |
 | Perfect Illusion | 20.00% | ~83 |
 | Hundred Percent First | 20.00% | ~83 |
+| Dirty Dozen | 17.00% | ~70 |
 | Fan Service | 16.00% | ~66 |
-| Dirty Dozen | 16.00% | ~66 |
 | Lion Tamer | 15.00% | ~62 |
 | King of District 1 | 14.00% | ~58 |
 | Amazing! | 14.00% | ~58 |

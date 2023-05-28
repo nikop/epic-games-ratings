@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~851 |
-| Waff! | 94.00% | ~833 |
-| Into the Barn | 86.00% | ~762 |
-| A Prophecy | 84.00% | ~744 |
+| Once Upon a Time | 96.00% | ~852 |
+| Waff! | 94.00% | ~834 |
+| Into the Barn | 86.00% | ~763 |
+| A Prophecy | 84.00% | ~745 |
 | Sword, Shield, Fight! | 74.00% | ~656 |
-| A Grand Visit | 71.00% | ~629 |
-| Fun Guy | 61.00% | ~540 |
-| Vibing | 60.00% | ~532 |
+| A Grand Visit | 71.00% | ~630 |
+| Vibing | 61.00% | ~541 |
+| Fun Guy | 61.00% | ~541 |
 | Tragic Brave | 52.00% | ~461 |
-| Awakened Spirits | 49.00% | ~434 |
-| Little Shop | 48.00% | ~425 |
+| Awakened Spirits | 49.00% | ~435 |
+| Little Shop | 48.00% | ~426 |
 | An Actor! | 44.00% | ~390 |
 | Surprise! | 43.00% | ~381 |
-| Curtain Call | 42.00% | ~372 |
-| Well Rested | 40.00% | ~354 |
+| Curtain Call | 42.00% | ~373 |
+| Well Rested | 40.00% | ~355 |
 | Piece of Cake | 39.00% | ~346 |
 | Gooey Delight! | 39.00% | ~346 |
 | Glimmer of Hope | 39.00% | ~346 |
@@ -31,9 +31,9 @@
 | Frog Facts! | 35.00% | ~310 |
 | All That Glistens | 35.00% | ~310 |
 | It's Pointy! | 35.00% | ~310 |
-| All Skilled Up! | 34.00% | ~301 |
-| Spellbound | 33.00% | ~292 |
-| Extinct Again! | 33.00% | ~292 |
+| All Skilled Up! | 34.00% | ~302 |
+| Spellbound | 33.00% | ~293 |
+| Extinct Again! | 32.00% | ~284 |
 | Bird of Prey | 32.00% | ~284 |
 | Stardust | 32.00% | ~284 |
 | Heartbreaker | 32.00% | ~284 |
@@ -55,8 +55,8 @@
 | Dance Master | 8.00% | ~71 |
 | Bombs Away! | 8.00% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886 (Ranked 176)  
-Completed: 60 (6.77%) (Ranked 24)  
+Progressed: 887 (Ranked 176)  
+Completed: 60 (6.76%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 60 (6.77%) (Ranked 24)
 | 2023-05-25 | 858 | 58 |
 | 2023-05-26 | 868 | 58 |
 | 2023-05-27 | 876 | 60 |
-| 2023-05-28 | 886 | 60 |
+| 2023-05-28 | 887 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

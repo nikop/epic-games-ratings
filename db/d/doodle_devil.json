@@ -2,9 +2,9 @@
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
   "ProductSlug": "doodle-devil-8e65af",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-07-01T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 21.33,
+  "EOS_Completed_Percentage": 21.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:19.0754835+00:00",
@@ -62,6 +62,11 @@
       "Time": "2023-05-27T22:05:47.9542498+00:00",
       "NumProgressed": 75,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-28T17:06:44.9774043+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 9,
@@ -71,7 +76,7 @@
       "ID": "701312",
       "SetID": "3n3mm3c",
       "Name": "Master of Sins",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 44
     },
@@ -79,7 +84,7 @@
       "ID": "701322",
       "SetID": "3n3mm3c",
       "Name": "Master of Warfare",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 150,
       "UsersEstimate": 26
     },
@@ -97,13 +102,13 @@
       "Name": "Paradise lost",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "701392",
       "SetID": "3n3mm3c",
       "Name": "Dark Kingdom Come",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 57
     },
@@ -111,7 +116,7 @@
       "ID": "701402",
       "SetID": "3n3mm3c",
       "Name": "Cardinal Sins",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 35
     },
@@ -135,7 +140,7 @@
       "ID": "701442",
       "SetID": "3n3mm3c",
       "Name": "Warm and Fuzzy",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 150,
       "UsersEstimate": 35
     }
@@ -144,7 +149,7 @@
     {
       "ID": "3n3mm3c",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 16
     }
   ],
@@ -152,8 +157,8 @@
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:37.0381726+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:44.977404+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:42.9898661+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:00:20.8562343+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:37.0381811+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:01:11.6996908+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:44.9774081+00:00"
 }

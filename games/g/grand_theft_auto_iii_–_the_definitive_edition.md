@@ -5,22 +5,22 @@ Rating: 4.18 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,624 |
-| Disposing of the Evidence | 36.00% | ~2,006 |
-| Without a Scratch | 32.00% | ~1,783 |
-| Wreckless Driving | 27.00% | ~1,504 |
-| A Marked Man | 24.00% | ~1,337 |
-| Street Sweeper | 17.00% | ~947 |
-| Liberty City Minute | 16.00% | ~891 |
+| First Day on the Job | 83.00% | ~4,627 |
+| Disposing of the Evidence | 36.00% | ~2,007 |
+| Without a Scratch | 32.00% | ~1,784 |
+| Wreckless Driving | 27.00% | ~1,505 |
+| A Marked Man | 24.00% | ~1,338 |
+| Street Sweeper | 17.00% | ~948 |
+| Liberty City Minute | 16.00% | ~892 |
 | Offshore Delivery | 12.00% | ~669 |
 | Dirty Money | 11.00% | ~613 |
-| By a Mile | 9.00% | ~501 |
-| Right-hand Man | 9.00% | ~501 |
+| By a Mile | 9.00% | ~502 |
+| Right-hand Man | 9.00% | ~502 |
 | Not So Fast | 8.00% | ~446 |
 | A Gift from the King | 6.00% | ~334 |
 | Full Artillery | 3.00% | ~167 |
-| Mob Boss | 2.00% | ~111 |
-| Splish Splash | 2.00% | ~111 |
+| Mob Boss | 2.00% | ~112 |
+| Splish Splash | 2.00% | ~112 |
 | Escape Artist | 1.00% | ~56 |
 | Got This Figured Out | 1.00% | ~56 |
 | Come Out to Play-y-y-y | 1.00% | ~56 |
@@ -29,13 +29,13 @@ Rating: 4.18 (Ranked 833)
 | Liberty City Secrets | 1.00% | ~56 |
 | Planned Ahead | 0.90% | ~50 |
 | Man Toyz | 0.90% | ~50 |
+| Going Rogue | 0.90% | ~50 |
 | Wheels Up | 0.80% | ~45 |
-| Going Rogue | 0.80% | ~45 |
 | Furious First Responder | 0.70% | ~39 |
 | Is That All You've Got? | 0.70% | ~39 |
 | King of Liberty City | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,571 (Ranked 123)  
+Progressed: 5,575 (Ranked 123)  
 Completed: 26 (0.47%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 26 (0.47%) (Ranked 109)
 | 2023-05-25 | 5,358 | 26 |
 | 2023-05-26 | 5,420 | 26 |
 | 2023-05-27 | 5,514 | 26 |
-| 2023-05-28 | 5,571 | 26 |
+| 2023-05-28 | 5,575 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

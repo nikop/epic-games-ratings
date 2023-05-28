@@ -5,16 +5,16 @@ Rating: 4.41 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 21.00% | ~361 |
-| Confirming Suspicions | 16.00% | ~275 |
-| The Kraken Wakes | 12.00% | ~206 |
-| It's Starting to Crack | 9.00% | ~155 |
+| Meeting Resistance | 21.00% | ~363 |
+| Confirming Suspicions | 16.00% | ~276 |
+| The Kraken Wakes | 12.00% | ~207 |
+| It's Starting to Crack | 9.00% | ~156 |
 | Lord of War | 8.00% | ~138 |
-| Resourceful | 7.00% | ~120 |
-| Change the Channel | 7.00% | ~120 |
-| Enemy at the Gates | 6.00% | ~103 |
-| Organ Grinder | 6.00% | ~103 |
-| Taking it back | 6.00% | ~103 |
+| Change the Channel | 8.00% | ~138 |
+| Resourceful | 7.00% | ~121 |
+| Enemy at the Gates | 6.00% | ~104 |
+| Organ Grinder | 6.00% | ~104 |
+| Taking it back | 6.00% | ~104 |
 | Just a Flesh Wound | 5.00% | ~86 |
 | Explosive Efficiency | 5.00% | ~86 |
 | As Quiet as a Mouse | 5.00% | ~86 |
@@ -30,20 +30,20 @@ Rating: 4.41 (Ranked 663)
 | Close Quarters | 3.00% | ~52 |
 | Snake in the Grass | 3.00% | ~52 |
 | The Kraken Sleeps | 3.00% | ~52 |
-| Climbing the Ladder | 2.00% | ~34 |
-| No Stone Unturned | 2.00% | ~34 |
-| Skirmisher | 2.00% | ~34 |
-| Set Europe Ablaze | 2.00% | ~34 |
-| Rigged to Blow | 2.00% | ~34 |
-| Brains of the Operation | 2.00% | ~34 |
+| Climbing the Ladder | 2.00% | ~35 |
+| No Stone Unturned | 2.00% | ~35 |
+| Skirmisher | 2.00% | ~35 |
+| Set Europe Ablaze | 2.00% | ~35 |
+| Rigged to Blow | 2.00% | ~35 |
+| Brains of the Operation | 2.00% | ~35 |
 | The Long Game | 1.00% | ~17 |
 | It'll Buff Right Out | 1.00% | ~17 |
-| My Little Friend | 0.90% | ~15 |
+| My Little Friend | 0.90% | ~16 |
+| Operation Foxley | 0.70% | ~12 |
 | Locomotion Commotion | 0.60% | ~10 |
-| Operation Foxley | 0.60% | ~10 |
+| Herr Today, Gone Tomorrow | 0.60% | ~10 |
 | Ghost of Falaise | 0.60% | ~10 |
 | Tinkerer | 0.50% | ~9 |
-| Herr Today, Gone Tomorrow | 0.50% | ~8 |
 | Last Resort | 0.50% | ~8 |
 | Siegebreaker | 0.50% | ~8 |
 | Strategist | 0.40% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 663)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,719 (Ranked 152)  
+Progressed: 1,728 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,719 | 2 |
+| 2023-05-28 | 1,728 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

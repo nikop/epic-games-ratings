@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.84,
+  "EOS_Completed_Percentage": 2.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -157,6 +157,11 @@
     {
       "Time": "2023-05-27T15:04:13.5899566+00:00",
       "NumProgressed": 282,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-28T17:04:16.8109419+00:00",
+      "NumProgressed": 283,
       "NumCompleted": 8
     }
   ],
@@ -249,15 +254,15 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_11",
       "SetID": "7881h0d",
       "Name": "A forgotten language",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 195
     },
     {
       "ID": "achievement_12",
@@ -305,7 +310,7 @@
       "Name": "Little Mary",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_18",
@@ -320,7 +325,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 8
     }
   ],
@@ -328,8 +333,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:03:31.589998+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:04:16.8109415+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:35.252453+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:57:38.7421582+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:03:31.5900101+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:57:51.5917778+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:04:16.8109536+00:00"
 }

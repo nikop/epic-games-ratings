@@ -5,15 +5,15 @@ Rating: 3.91 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,130 |
+| Victor | 94.00% | ~1,131 |
 | World Map | 80.00% | ~962 |
-| Temple of Eternals | 56.00% | ~673 |
-| Prestigious | 53.00% | ~637 |
+| Temple of Eternals | 56.00% | ~674 |
+| Prestigious | 53.00% | ~638 |
 | Fellowship Power | 40.00% | ~481 |
-| Guild Power | 24.00% | ~288 |
-| Prestigious x10 | 21.00% | ~252 |
-| The game is on | 19.00% | ~228 |
-| Exotic Merchant | 17.00% | ~204 |
+| Guild Power | 24.00% | ~289 |
+| Prestigious x10 | 21.00% | ~253 |
+| The game is on | 19.00% | ~229 |
+| Exotic Merchant | 17.00% | ~205 |
 | Dragon Clicker | 16.00% | ~192 |
 | Inspection | 15.00% | ~180 |
 | Miner Clicker | 15.00% | ~180 |
@@ -46,13 +46,13 @@ Rating: 3.91 (Ranked 907)
 | Trader | 4.00% | ~48 |
 | Ancient Knowledge | 3.00% | ~36 |
 | Background Story | 3.00% | ~36 |
+| Four Leaf Clover | 3.00% | ~36 |
 | Master Enchanter | 3.00% | ~36 |
 | Weekly Quest Completionist | 3.00% | ~36 |
 | Blueprint Upgrades | 2.00% | ~24 |
 | Dragon Slayer | 2.00% | ~24 |
 | Enchanting skill | 2.00% | ~24 |
 | Engineer Mastery | 2.00% | ~24 |
-| Four Leaf Clover | 2.00% | ~24 |
 | Lock And Load | 2.00% | ~24 |
 | Sailor | 2.00% | ~24 |
 | What lies behind the bush | 2.00% | ~24 |
@@ -81,7 +81,7 @@ Rating: 3.91 (Ranked 907)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,202 (Ranked 161)  
+Progressed: 1,203 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
 | 2023-05-27 | 1,192 | 1 |
-| 2023-05-28 | 1,202 | 1 |
+| 2023-05-28 | 1,203 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

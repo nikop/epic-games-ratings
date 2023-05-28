@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -365,6 +365,11 @@
       "Time": "2023-05-28T15:05:29.0177833+00:00",
       "NumProgressed": 323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T17:06:14.8177893+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -398,9 +403,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 188
     },
     {
       "ID": "Chapter10",
@@ -416,7 +421,7 @@
       "Name": "The Maggot",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Chapter3",
@@ -430,9 +435,9 @@
       "ID": "Chapter4",
       "SetID": "70l3651",
       "Name": "The Veteran",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "Chapter5",
@@ -440,7 +445,7 @@
       "Name": "The Traitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Chapter6",
@@ -480,7 +485,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Collectibles2",
@@ -526,9 +531,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 84
     },
     {
       "ID": "GollumChoices",
@@ -552,7 +557,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Murderer",
@@ -582,9 +587,9 @@
       "ID": "OldGame",
       "SetID": "70l3651",
       "Name": "Master of the Old Game",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "RiverHobbit",
@@ -654,23 +659,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 325,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:12.3680129+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:14.817789+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:57:37.5027048+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:12.3680406+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:57:49.7312747+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:14.8178119+00:00"
 }

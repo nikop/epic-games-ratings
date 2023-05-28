@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2023-05-26T08:04:05.909418+00:00",
       "NumProgressed": 614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T17:01:37.5352121+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -236,7 +241,7 @@
       "Name": "Arm Wrestlin\u0027",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Big_Spender",
@@ -244,7 +249,7 @@
       "Name": "Big Spender",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Clarity_of_Mind",
@@ -260,7 +265,7 @@
       "Name": "Club Star",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Combine",
@@ -298,9 +303,9 @@
       "ID": "I\u0027m walking here!",
       "SetID": "gl7plp",
       "Name": "I\u0027m walking here!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 37
     },
     {
       "ID": "I_just_love_stuff",
@@ -330,9 +335,9 @@
       "ID": "Keep_em_coming",
       "SetID": "gl7plp",
       "Name": "Keep \u0027em coming!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 240
     },
     {
       "ID": "Lady_Luck",
@@ -388,7 +393,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 462
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -436,7 +441,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "The_truth_is_out_there",
@@ -484,7 +489,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 368
+      "UsersEstimate": 370
     },
     {
       "ID": "posters",
@@ -507,7 +512,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
@@ -515,8 +520,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:00:40.9045498+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:01:37.5352117+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.4161188+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:57:28.8972787+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:00:40.9045808+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:57:39.5428927+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:01:37.5352388+00:00"
 }

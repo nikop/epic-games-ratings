@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4444,9 +4444,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 135
     },
     {
       "ID": "Win5Years",
@@ -4556,9 +4556,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 135
     },
     {
       "ID": "WinNearLevitating",
@@ -4780,8 +4780,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-28T15:00:05.6433519+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:44.2189835+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:54.0664749+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:59:54.7856922+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:44.219036+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:00:43.9574094+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:54.0665173+00:00"
 }

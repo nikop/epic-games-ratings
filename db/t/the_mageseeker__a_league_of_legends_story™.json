@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2191,
+  "EOS_Progressed": 2192,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -1956,6 +1956,11 @@
       "Time": "2023-05-28T16:05:25.631855+00:00",
       "NumProgressed": 2191,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T17:06:31.5550901+00:00",
+      "NumProgressed": 2192,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2015,7 +2020,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2031,7 +2036,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2047,7 +2052,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2143,7 +2148,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2151,7 +2156,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2183,15 +2188,15 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 723
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2223,7 +2228,7 @@
       "Name": "Glyndemere",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -2311,7 +2316,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2319,7 +2324,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -2359,7 +2364,7 @@
       "Name": "Full equipped",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2390,7 +2395,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2191,
+      "Progressed": 2192,
       "Completed": 1
     }
   ],
@@ -2398,8 +2403,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-28T16:05:25.6318546+00:00",
+  "LastChanged_Achievements": "2023-05-28T17:06:31.5550895+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:57:28.3860802+00:00",
-  "LastUpdate_Achievements": "2023-05-28T16:05:25.6319091+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:57:38.7995603+00:00",
+  "LastUpdate_Achievements": "2023-05-28T17:06:31.5551359+00:00"
 }
