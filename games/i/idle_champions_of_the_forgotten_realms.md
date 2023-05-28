@@ -9,9 +9,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~890 |
 | The Cursed Farmer | 0.70% | ~623 |
 | The Court of Storms | 0.70% | ~387 |
+| The Mad Wizard | 0.60% | ~534 |
 | Beware the Jabberwock | 0.60% | ~331 |
 | Beast Intentions | 0.50% | ~445 |
-| The Mad Wizard | 0.50% | ~445 |
 | Coasting to the Finish | 0.50% | ~276 |
 | The Ring of Regeneration | 0.40% | ~356 |
 | Are Ya Chicken? | 0.40% | ~356 |
@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.30% | ~166 |
 | Vecna Out! | 0.30% | ~166 |
 | A Persistent Buzzing | 0.30% | ~267 |
+| Terror in the Dark | 0.30% | ~267 |
 | Seeking Allies | 0.30% | ~267 |
 | Mad Cow Disease | 0.30% | ~267 |
 | Friendly Imps | 0.30% | ~267 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~110 |
 | Welcome to the Rock | 0.20% | ~110 |
 | Beast Mode | 0.20% | ~178 |
-| Terror in the Dark | 0.20% | ~178 |
 | Low Initiative | 0.20% | ~178 |
 | A Mysterious Summons | 0.20% | ~178 |
 | Street War | 0.20% | ~178 |
@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~178 |
 | No Time To Rest | 0.20% | ~178 |
 | The Dinner Party | 0.20% | ~178 |
+| The Botched Kidnapping | 0.20% | ~178 |
 | The Crumbling Temple | 0.20% | ~178 |
 | The Death Curse | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
@@ -215,7 +216,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~89 |
 | Modron Assistance | 0.10% | ~89 |
 | Thine Bounty is Mine! | 0.10% | ~55 |
-| The Botched Kidnapping | 0.10% | ~89 |
 | Haaave You Met Asmodeus? | 0.10% | ~89 |
 | Domesticated Owlbears | 0.10% | ~89 |
 | This Quest Stinks! | 0.10% | ~55 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,953 (Ranked 61)  
-Completed: 1,889 (2.12%) (Ranked 61)  
+Progressed: 88,958 (Ranked 61)  
+Completed: 1,890 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -538,7 +538,7 @@ Completed: 1,889 (2.12%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 88,953 | 1,889 |
+| 2023-05-28 | 88,958 | 1,890 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
 Sum: 29,991 (Ranked 37)  

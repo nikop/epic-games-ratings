@@ -4,11 +4,11 @@
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 484,
   "Ranking_Popularity": 131,
-  "Ranking_PopularitySum": 89,
+  "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4333,11 +4333,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 8422,
       "NumberOfAwardsMax": 1084
+    },
+    {
+      "Time": "2023-05-28T07:57:47.7703244+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8431,
+      "NumberOfAwardsMax": 1089
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8422,
-  "NumberOfAwardsMax": 1084,
+  "NumberOfAwards": 8431,
+  "NumberOfAwardsMax": 1089,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4350,7 +4356,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1084
+      "Count": 1089
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4392,7 +4398,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 973
+      "Count": 977
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -4412,8 +4418,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-05-27T21:57:40.7442411+00:00",
+  "LastChanged": "2023-05-28T07:57:47.7703242+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.887694+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:57:24.1731541+00:00",
-  "LastUpdate_Achievements": "2023-05-28T07:03:34.3856544+00:00"
+  "LastUpdate_Ratings": "2023-05-28T07:57:47.7703251+00:00",
+  "LastUpdate_Achievements": "2023-05-28T08:04:02.7672122+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,186 |
-| My First Runbow | 51.00% | ~124,311 |
-| It's The Fall | 26.00% | ~63,374 |
-| The Stunner | 21.00% | ~51,187 |
-| Be Aggressive | 20.00% | ~48,749 |
-| Curator | 20.00% | ~48,749 |
-| Crowning Around | 18.00% | ~43,874 |
-| Can You Dig It? | 17.00% | ~41,437 |
+| In The Zone | 53.00% | ~129,188 |
+| My First Runbow | 51.00% | ~124,312 |
+| It's The Fall | 26.00% | ~63,375 |
+| The Stunner | 21.00% | ~51,188 |
+| Be Aggressive | 20.00% | ~48,750 |
+| Curator | 20.00% | ~48,750 |
+| Crowning Around | 18.00% | ~43,875 |
+| Can You Dig It? | 17.00% | ~41,438 |
 | You Juan-A-Go? | 16.00% | ~39,000 |
 | Chan-tastic | 15.00% | ~36,562 |
 | Muddy Waters | 14.00% | ~34,125 |
-| Toasty! | 13.00% | ~31,687 |
+| Toasty! | 13.00% | ~31,688 |
 | Lazy Laser | 8.00% | ~19,500 |
 | Into The Drift | 7.00% | ~17,062 |
 | Ready? Fight! | 7.00% | ~17,062 |
@@ -26,8 +26,8 @@ Rating: 4.46 (Ranked 596)
 | Shoo, Cat! | 3.00% | ~7,312 |
 | And You're Okay | 2.00% | ~4,875 |
 | Blotbuster | 2.00% | ~4,875 |
-| Just A Bit | 1.00% | ~2,437 |
-| Thunderstruck | 1.00% | ~2,437 |
+| Just A Bit | 1.00% | ~2,438 |
+| Thunderstruck | 1.00% | ~2,438 |
 | Tubular, Dude | 0.90% | ~2,194 |
 | What A Trip | 0.90% | ~2,194 |
 | Please The King | 0.80% | ~1,950 |
@@ -35,11 +35,11 @@ Rating: 4.46 (Ranked 596)
 | Clear-Cut | 0.50% | ~1,219 |
 | Breaking Out | 0.40% | ~975 |
 | Disposable | 0.30% | ~731 |
-| A Winner Is You | 0.20% | ~487 |
-| Final Nightmare | 0.20% | ~487 |
-| I'm Here All Night | 0.20% | ~487 |
-| Ride The Wave | 0.20% | ~487 |
-| Tree Medalist | 0.20% | ~487 |
+| A Winner Is You | 0.20% | ~488 |
+| Final Nightmare | 0.20% | ~488 |
+| I'm Here All Night | 0.20% | ~488 |
+| Ride The Wave | 0.20% | ~488 |
+| Tree Medalist | 0.20% | ~488 |
 | Can't Be Kept Down | 0.10% | ~244 |
 | Completionist | 0.10% | ~244 |
 | Did Your Time | 0.10% | ~244 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 596)
 | Talent Scout | 0.10% | ~244 |
 | True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,747 (Ranked 41)  
+Progressed: 243,750 (Ranked 41)  
 Completed: 2 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 2 (0.00%) (Ranked 206)
 | 2023-05-25 | 243,559 | 2 |
 | 2023-05-26 | 243,628 | 2 |
 | 2023-05-27 | 243,719 | 2 |
-| 2023-05-28 | 243,747 | 2 |
+| 2023-05-28 | 243,750 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

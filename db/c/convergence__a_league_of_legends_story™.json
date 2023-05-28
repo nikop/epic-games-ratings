@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -474,6 +474,11 @@
       "Time": "2023-05-28T07:04:34.8403703+00:00",
       "NumProgressed": 443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T08:05:39.186521+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -525,7 +530,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ClockworkProgress1",
@@ -533,7 +538,7 @@
       "Name": "Like Clockwork",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ClovemaryGift",
@@ -541,7 +546,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CosmeticCompletion1",
@@ -549,7 +554,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CosmeticProgress1",
@@ -573,7 +578,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -603,9 +608,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 324
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -619,9 +624,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "GadgetCompletion1",
@@ -635,9 +640,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "GrindingTime1",
@@ -653,7 +658,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "InxChromaInTheatre",
@@ -715,9 +720,9 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -733,7 +738,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ParryRepeated1",
@@ -741,7 +746,7 @@
       "Name": "No, Thanks!",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "PhaseDiveCounter",
@@ -773,7 +778,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "RewindParry",
@@ -781,15 +786,15 @@
       "Name": "Honest Mistake",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "ScrambotProgress1",
@@ -827,9 +832,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "SyronGift",
@@ -859,17 +864,17 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 191
     },
     {
       "ID": "WatcherFought",
@@ -891,9 +896,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 235
     },
     {
       "ID": "Zarkon2Defeated",
@@ -908,14 +913,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-28T07:04:34.8403697+00:00",
+  "LastChanged_Achievements": "2023-05-28T08:05:39.1865205+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:59:06.5990166+00:00",
-  "LastUpdate_Achievements": "2023-05-28T07:04:34.8404148+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:00:22.9787759+00:00",
+  "LastUpdate_Achievements": "2023-05-28T08:05:39.1865635+00:00"
 }

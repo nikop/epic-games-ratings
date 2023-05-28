@@ -3982,9 +3982,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88953,
-  "EOS_Completed": 1889,
-  "EOS_NewPlayers": 794,
+  "EOS_Progressed": 88958,
+  "EOS_Completed": 1890,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7697,6 +7697,11 @@
       "Time": "2023-05-28T07:05:45.7869984+00:00",
       "NumProgressed": 88953,
       "NumCompleted": 1889
+    },
+    {
+      "Time": "2023-05-28T08:07:26.6863238+00:00",
+      "NumProgressed": 88958,
+      "NumCompleted": 1890
     }
   ],
   "TotalAchievements": 493,
@@ -8826,9 +8831,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "objective_completed_150",
@@ -9154,9 +9159,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_236",
@@ -10850,9 +10855,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 534
     },
     {
       "ID": "objective_completed_70",
@@ -11651,21 +11656,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55227,
-      "Completed": 2725
+      "Progressed": 55232,
+      "Completed": 2726
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88953,
-      "Completed": 1889
+      "Progressed": 88958,
+      "Completed": 1890
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-28T05:58:09.3157433+00:00",
-  "LastChanged_Achievements": "2023-05-28T07:05:45.7869978+00:00",
+  "LastChanged_Achievements": "2023-05-28T08:07:26.6863233+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:57:52.4891939+00:00",
-  "LastUpdate_Achievements": "2023-05-28T07:05:45.7894004+00:00"
+  "LastUpdate_Ratings": "2023-05-28T07:58:31.5141037+00:00",
+  "LastUpdate_Achievements": "2023-05-28T08:07:26.6887161+00:00"
 }

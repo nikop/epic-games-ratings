@@ -5,24 +5,24 @@ Rating: 4.22 (Ranked 806)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~318,353 |
-| Well educated | 37.00% | ~250,618 |
-| City Planner | 19.00% | ~128,696 |
-| Deforester | 16.00% | ~108,376 |
-| Big Hauling | 15.00% | ~101,602 |
-| Exporter | 13.00% | ~88,055 |
-| I would drive 500 tiles... | 12.00% | ~81,282 |
-| Apprentice Manufacturer | 12.00% | ~81,282 |
-| Landscaper | 11.00% | ~74,508 |
-| Railwayman | 7.00% | ~47,414 |
-| Penniless | 6.00% | ~40,641 |
-| Massive Gains | 6.00% | ~40,641 |
-| Engineer | 2.00% | ~13,547 |
-| Salesman | 2.00% | ~13,547 |
-| High Flyer | 2.00% | ~13,547 |
-| Captain | 0.70% | ~4,741 |
+| Entrepreneur | 47.00% | ~318,368 |
+| Well educated | 37.00% | ~250,630 |
+| City Planner | 19.00% | ~128,702 |
+| Deforester | 16.00% | ~108,381 |
+| Big Hauling | 15.00% | ~101,607 |
+| Exporter | 13.00% | ~88,059 |
+| I would drive 500 tiles... | 12.00% | ~81,285 |
+| Apprentice Manufacturer | 12.00% | ~81,285 |
+| Landscaper | 11.00% | ~74,512 |
+| Railwayman | 7.00% | ~47,417 |
+| Penniless | 6.00% | ~40,643 |
+| Massive Gains | 6.00% | ~40,643 |
+| Engineer | 2.00% | ~13,548 |
+| Salesman | 2.00% | ~13,548 |
+| High Flyer | 2.00% | ~13,548 |
+| Captain | 0.70% | ~4,742 |
 | Billionaire | 0.60% | ~4,064 |
-| Vroom Vroom | 0.40% | ~2,709 |
+| Vroom Vroom | 0.40% | ~2,710 |
 | Excavator | 0.30% | ~2,032 |
 | Loan Ranger | 0.30% | ~2,032 |
 | [2130] Nature Lover | 0.10% | ~677 |
@@ -33,7 +33,7 @@ Rating: 4.22 (Ranked 806)
 | Master Builder | 0.10% | ~677 |
 | Hard working | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,347 (Ranked 17)  
+Progressed: 677,379 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 1 (0.00%) (Ranked 206)
 | 2023-05-25 | 675,254 | 1 |
 | 2023-05-26 | 676,136 | 1 |
 | 2023-05-27 | 677,096 | 1 |
-| 2023-05-28 | 677,347 | 1 |
+| 2023-05-28 | 677,379 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

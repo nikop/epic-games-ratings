@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2244,10 +2244,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1506,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2023-05-28T07:57:33.7468514+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1507,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1506,
+  "NumberOfAwards": 1507,
   "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2309,7 +2315,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 178
+      "Count": 179
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2318,9 +2324,9 @@
       "Count": 142
     }
   ],
-  "EOS_Progressed": 595426,
+  "EOS_Progressed": 595445,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3227,
+  "EOS_NewPlayers": 3229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6098,6 +6104,11 @@
       "Time": "2023-05-28T07:00:19.668601+00:00",
       "NumProgressed": 595426,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-28T08:02:22.5918349+00:00",
+      "NumProgressed": 595445,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -6109,7 +6120,7 @@
       "Name": "Stroller",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 71451
+      "UsersEstimate": 71453
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -6117,7 +6128,7 @@
       "Name": "Hiker",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 53588
+      "UsersEstimate": 53590
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -6149,7 +6160,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 83360
+      "UsersEstimate": 83362
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -6157,7 +6168,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 59543
+      "UsersEstimate": 59544
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -6229,7 +6240,7 @@
       "Name": "Toy Train",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 59543
+      "UsersEstimate": 59544
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -6357,7 +6368,7 @@
       "Name": "Incurious",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 83360
+      "UsersEstimate": 83362
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -6365,7 +6376,7 @@
       "Name": "Mojave Courier",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23817
+      "UsersEstimate": 23818
     },
     {
       "ID": "_03_02_NANUK",
@@ -6429,7 +6440,7 @@
       "Name": "Climate Change",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 71451
+      "UsersEstimate": 71453
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -6524,15 +6535,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 595426,
+      "Progressed": 595445,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
-  "LastChanged": "2023-05-27T01:56:38.9580136+00:00",
-  "LastChanged_Achievements": "2023-05-28T07:00:19.6686002+00:00",
+  "LastChanged": "2023-05-28T07:57:33.7468512+00:00",
+  "LastChanged_Achievements": "2023-05-28T08:02:22.5918343+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:12.4859454+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:57:13.948372+00:00",
-  "LastUpdate_Achievements": "2023-05-28T07:00:19.66872+00:00"
+  "LastUpdate_Ratings": "2023-05-28T07:57:33.7468518+00:00",
+  "LastUpdate_Achievements": "2023-05-28T08:02:22.5919096+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,877 |
-| Say goodbye, creep! | 65.00% | ~27,603 |
-| Blood splattered | 65.00% | ~27,603 |
-| Choo choo! | 62.00% | ~26,329 |
-| Groovy | 61.00% | ~25,904 |
-| Cleanup on aisle 4! | 56.00% | ~23,781 |
-| Gold | 50.00% | ~21,233 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,878 |
+| Say goodbye, creep! | 65.00% | ~27,604 |
+| Blood splattered | 65.00% | ~27,604 |
+| Choo choo! | 62.00% | ~26,330 |
+| Groovy | 61.00% | ~25,905 |
+| Cleanup on aisle 4! | 56.00% | ~23,782 |
+| Gold | 50.00% | ~21,234 |
 | The boat can leave now...tell the crew | 48.00% | ~20,384 |
-| Give me something to shoot! | 46.00% | ~19,534 |
-| Stand back boy! | 46.00% | ~19,534 |
+| Give me something to shoot! | 46.00% | ~19,535 |
+| Stand back boy! | 46.00% | ~19,535 |
 | Weird science | 44.00% | ~18,685 |
 | Chain reaction | 44.00% | ~18,685 |
 | Look mummy! A shark! | 41.00% | ~17,411 |
@@ -27,13 +27,13 @@ Number of Ratings: 743  (23.09.2022)
 | Zombie killin' machine | 36.00% | ~15,288 |
 | Every bullet counts | 36.00% | ~15,288 |
 | All of this has happened before… | 35.00% | ~14,863 |
-| You've got red on you | 34.00% | ~14,438 |
+| You've got red on you | 34.00% | ~14,439 |
 | All roads lead to Rome | 33.00% | ~14,014 |
-| You're all going to die down here | 31.00% | ~13,164 |
-| He did Nazi that coming | 31.00% | ~13,164 |
-| Kill of the week | 31.00% | ~13,164 |
+| You're all going to die down here | 31.00% | ~13,165 |
+| He did Nazi that coming | 31.00% | ~13,165 |
+| Kill of the week | 31.00% | ~13,165 |
 | I never liked them anyway | 30.00% | ~12,740 |
-| Is it over? | 28.00% | ~11,890 |
+| Is it over? | 28.00% | ~11,891 |
 | Got your back | 27.00% | ~11,466 |
 | Gore soaked | 24.00% | ~10,192 |
 | Shock therapy | 22.00% | ~9,343 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~425 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,466 (Ranked 81)  
+Progressed: 42,467 (Ranked 81)  
 Completed: 25 (0.06%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 25 (0.06%) (Ranked 172)
 | 2023-05-25 | 42,418 | 25 |
 | 2023-05-26 | 42,433 | 25 |
 | 2023-05-27 | 42,457 | 25 |
-| 2023-05-28 | 42,466 | 25 |
+| 2023-05-28 | 42,467 | 25 |
 ## Awards
 Max (Great Boss Battles): 776  (Ranked 147)  
 Sum: 2,377 (Ranked 168)  

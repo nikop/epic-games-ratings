@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -104,7 +104,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1195,
+  "EOS_Progressed": 1196,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -2279,6 +2279,11 @@
       "Time": "2023-05-28T02:18:46.8882583+00:00",
       "NumProgressed": 1195,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T08:07:03.6636177+00:00",
+      "NumProgressed": 1196,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2402,7 +2407,7 @@
       "Name": "Dragon Master",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "dragonslayer",
@@ -2416,9 +2421,9 @@
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "enchantingskill",
@@ -2458,7 +2463,7 @@
       "Name": "Enlightenment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "exoticmerchant",
@@ -2586,7 +2591,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "lockandload",
@@ -2618,7 +2623,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "minerclicker",
@@ -2666,7 +2671,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "pokerface",
@@ -2682,7 +2687,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "prestigiousx10",
@@ -2746,7 +2751,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "thealchemist",
@@ -2794,7 +2799,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "titanpower",
@@ -2850,7 +2855,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "warmachinesarmy",
@@ -2882,14 +2887,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1195,
+      "Progressed": 1196,
       "Completed": 1
     }
   ],
@@ -2897,8 +2902,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-28T07:05:27.4168555+00:00",
+  "LastChanged_Achievements": "2023-05-28T08:07:03.6636173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:57:50.376335+00:00",
-  "LastUpdate_Achievements": "2023-05-28T07:05:27.4169437+00:00"
+  "LastUpdate_Ratings": "2023-05-28T07:58:27.2201948+00:00",
+  "LastUpdate_Achievements": "2023-05-28T08:07:03.663709+00:00"
 }

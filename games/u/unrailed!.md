@@ -6,14 +6,14 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,360 |
-| Incurious | 14.00% | ~83,360 |
-| Stroller | 12.00% | ~71,451 |
-| Climate Change | 12.00% | ~71,451 |
-| Advanced Hiker | 10.00% | ~59,543 |
-| Toy Train | 10.00% | ~59,543 |
-| Hiker | 9.00% | ~53,588 |
-| Mojave Courier | 4.00% | ~23,817 |
+| Advanced Stroller | 14.00% | ~83,362 |
+| Incurious | 14.00% | ~83,362 |
+| Stroller | 12.00% | ~71,453 |
+| Climate Change | 12.00% | ~71,453 |
+| Advanced Hiker | 10.00% | ~59,544 |
+| Toy Train | 10.00% | ~59,544 |
+| Hiker | 9.00% | ~53,590 |
+| Mojave Courier | 4.00% | ~23,818 |
 | Advanced Voyager | 3.00% | ~17,863 |
 | Expert Stroller | 3.00% | ~17,863 |
 | Voyager | 2.00% | ~11,909 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~595 |
 | 20 Miles under the Sea | 0.10% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595,426 (Ranked 20)  
+Progressed: 595,445 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,10 +97,10 @@ Completed: 7 (0.00%) (Ranked 206)
 | 2023-05-25 | 594,025 | 7 |
 | 2023-05-26 | 594,575 | 7 |
 | 2023-05-27 | 595,255 | 7 |
-| 2023-05-28 | 595,426 | 7 |
+| 2023-05-28 | 595,445 | 7 |
 ## Awards
 Max (Diverse Characters): 185  (Ranked 265)  
-Sum: 1,506 (Ranked 208)  
+Sum: 1,507 (Ranked 208)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -108,7 +108,7 @@ Diff (max vs sum): 57
 | This game has Quickly Understood Controls | 183 |
 | This game is Great for Beginners | 182 |
 | This game is Extremely Fun | 180 |
-| This game is Relaxing | 178 |
+| This game is Relaxing | 179 |
 | This game has Amazing Characters | 157 |
 | This game is Highly Recommended | 152 |
 | This game has Playful Visuals | 147 |
@@ -195,3 +195,4 @@ Diff (max vs sum): 57
 | 2023-05-19 | 4.64 | - | 184 | 1,503 |
 | 2023-05-20 | 4.64 | - | 185 | 1,505 |
 | 2023-05-27 | 4.64 | - | 185 | 1,506 |
+| 2023-05-28 | 4.64 | - | 185 | 1,507 |

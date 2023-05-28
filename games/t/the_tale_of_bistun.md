@@ -10,10 +10,10 @@
 | Unearth A Qanat | 69.00% | ~11 |
 | It Feels Better Than It Sounds | 69.00% | ~11 |
 | Carving A Memory | 63.00% | ~10 |
+| A Friend In Need | 56.00% | ~9 |
 | Skilled Hands | 56.00% | ~9 |
 | Master Smithy | 56.00% | ~9 |
 | A Stranger's Diary | 56.00% | ~9 |
-| A Friend In Need | 50.00% | ~8 |
 | Close Encounter | 50.00% | ~8 |
 | The Depths Of Darkness | 50.00% | ~8 |
 | One With The Blades | 50.00% | ~8 |
@@ -25,9 +25,9 @@
 | For Whom the Bell Tolls | 50.00% | ~8 |
 | Here I Am | 50.00% | ~8 |
 | Shoo! Shoo! | 50.00% | ~8 |
+| Stand By Nature | 50.00% | ~8 |
 | The Ultimate Sacrifice | 44.00% | ~7 |
 | Break The Cycle | 44.00% | ~7 |
-| Stand By Nature | 44.00% | ~7 |
 | Prison Break | 38.00% | ~6 |
 | I Pick You | 38.00% | ~6 |
 | Accomplished Smithy | 38.00% | ~6 |

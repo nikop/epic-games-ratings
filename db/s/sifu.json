@@ -4260,9 +4260,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705891,
+  "EOS_Progressed": 705908,
   "EOS_Completed": 12739,
-  "EOS_NewPlayers": 1731,
+  "EOS_NewPlayers": 1732,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7500,6 +7500,11 @@
       "Time": "2023-05-28T07:05:34.4805146+00:00",
       "NumProgressed": 705891,
       "NumCompleted": 12739
+    },
+    {
+      "Time": "2023-05-28T08:07:12.8826737+00:00",
+      "NumProgressed": 705908,
+      "NumCompleted": 12739
     }
   ],
   "TotalAchievements": 50,
@@ -7559,7 +7564,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "08_Wude_H2",
@@ -7743,7 +7748,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "31_ComboHigh",
@@ -7773,9 +7778,9 @@
       "ID": "34_TimedTakedown",
       "SetID": "adcm20g",
       "Name": "Lightning Hands",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6353
+      "UsersEstimate": 7059
     },
     {
       "ID": "35_WideStrike",
@@ -7910,21 +7915,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15192,
-      "Completed": 10184
+      "Progressed": 15209,
+      "Completed": 10185
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705891,
+      "Progressed": 705908,
       "Completed": 12739
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T21:58:54.951643+00:00",
-  "LastChanged_Achievements": "2023-05-28T07:05:34.4805139+00:00",
+  "LastChanged_Achievements": "2023-05-28T08:07:12.8826733+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:58:44.2819199+00:00",
-  "LastUpdate_Achievements": "2023-05-28T07:05:34.4805767+00:00"
+  "LastUpdate_Ratings": "2023-05-28T07:59:48.0007808+00:00",
+  "LastUpdate_Achievements": "2023-05-28T08:07:12.8827304+00:00"
 }

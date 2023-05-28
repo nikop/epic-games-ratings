@@ -4,8 +4,8 @@
   "ProductSlug": "miasma-chronicles",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -552,6 +552,11 @@
       "Time": "2023-05-28T07:05:11.2970924+00:00",
       "NumProgressed": 660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T08:06:41.2933929+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -577,9 +582,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 417
     },
     {
       "ID": "ATTENBOROUGH",
@@ -625,9 +630,9 @@
       "ID": "CHAOS_THEORY",
       "SetID": "9a4jnji",
       "Name": "Chaos Theory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COMMANDO",
@@ -675,7 +680,7 @@
       "Name": "Limp Richard",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -705,9 +710,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "ENDGAME",
@@ -721,9 +726,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 106
     },
     {
       "ID": "EXPERIENCED",
@@ -737,17 +742,17 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 602
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -795,7 +800,7 @@
       "Name": "Gun for Hire",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -809,9 +814,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 285
     },
     {
       "ID": "INFILTRATOR",
@@ -827,7 +832,7 @@
       "Name": "Lumberjack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -841,9 +846,9 @@
       "ID": "NEWTONIAN_KNOCKOUT",
       "SetID": "9a4jnji",
       "Name": "Newtonian Knockout",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 53
     },
     {
       "ID": "PUSHING_DAISY",
@@ -867,7 +872,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 444
     },
     {
       "ID": "RECYCLER",
@@ -945,9 +950,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 79
     },
     {
       "ID": "THE_WATCHERS",
@@ -970,14 +975,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 662,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-28T07:05:11.2970918+00:00",
+  "LastChanged_Achievements": "2023-05-28T08:06:41.2933924+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:58:07.0653415+00:00",
-  "LastUpdate_Achievements": "2023-05-28T07:05:11.2971385+00:00"
+  "LastUpdate_Ratings": "2023-05-28T07:58:52.6381321+00:00",
+  "LastUpdate_Achievements": "2023-05-28T08:06:41.2934391+00:00"
 }

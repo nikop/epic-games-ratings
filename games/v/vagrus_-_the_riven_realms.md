@@ -8,7 +8,7 @@
 | Press-ganged | 38.00% | ~29 |
 | The Package | 19.00% | ~15 |
 | Randomized | 10.00% | ~8 |
-| Conquered | 8.00% | ~6 |
+| Conquered | 9.00% | ~7 |
 | Scribe | 4.00% | ~3 |
 | Conciliator | 3.00% | ~2 |
 | Tactician | 3.00% | ~2 |

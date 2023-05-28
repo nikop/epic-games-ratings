@@ -37,15 +37,15 @@ Number of Ratings: 48  (23.09.2022)
 | Fishing Master | 25.00% | ~166 |
 | Armor Master | 24.00% | ~160 |
 | The Pride of the Town | 23.00% | ~153 |
+| This Treasure I've Found | 21.00% | ~140 |
 | New Nevaeh's Number One Customer | 21.00% | ~140 |
-| This Treasure I've Found | 20.00% | ~133 |
 | Arms Master | 18.00% | ~120 |
 | Rune Scholar | 16.00% | ~106 |
 | No Treasure Left Behind | 13.00% | ~86 |
 | Sommelier | 12.00% | ~80 |
+| Champion of the Great Forest | 12.00% | ~80 |
 | One-Hundred Resident Record | 11.00% | ~73 |
 | A Local Hero | 11.00% | ~73 |
-| Champion of the Great Forest | 11.00% | ~73 |
 | Gourmand | 10.00% | ~66 |
 | Champion of the Quarry | 10.00% | ~66 |
 | Champion of the Lava Ruins | 10.00% | ~66 |

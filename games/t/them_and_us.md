@@ -18,8 +18,8 @@
 | Parasite Exterminated | 11.00% | ~14 |
 | The Forgotten Tower | 10.00% | ~13 |
 | Rest In Peace | 9.00% | ~11 |
+| The Curse Is Real | 9.00% | ~11 |
 | Lover of classics | 8.00% | ~10 |
-| The Curse Is Real | 8.00% | ~10 |
 | Trapped | 7.00% | ~9 |
 | Modern Player | 6.00% | ~8 |
 | Researcher | 6.00% | ~8 |

@@ -5,10 +5,10 @@ Rating: 3.91 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,123 |
-| World Map | 80.00% | ~956 |
-| Temple of Eternals | 56.00% | ~669 |
-| Prestigious | 53.00% | ~633 |
+| Victor | 94.00% | ~1,124 |
+| World Map | 80.00% | ~957 |
+| Temple of Eternals | 56.00% | ~670 |
+| Prestigious | 53.00% | ~634 |
 | Fellowship Power | 40.00% | ~478 |
 | Guild Power | 24.00% | ~287 |
 | Prestigious x10 | 21.00% | ~251 |
@@ -19,12 +19,12 @@ Rating: 3.91 (Ranked 907)
 | Full Party | 14.00% | ~167 |
 | Inspection | 14.00% | ~167 |
 | Hero inspection | 13.00% | ~155 |
-| Dragon Master | 12.00% | ~143 |
-| Enlightenment | 12.00% | ~143 |
-| Lieutenant | 12.00% | ~143 |
-| Milestone collector | 11.00% | ~131 |
-| Natural Talent | 11.00% | ~131 |
-| The Unstoppable | 11.00% | ~131 |
+| Dragon Master | 12.00% | ~144 |
+| Enlightenment | 12.00% | ~144 |
+| Lieutenant | 12.00% | ~144 |
+| Milestone collector | 11.00% | ~132 |
+| Natural Talent | 11.00% | ~132 |
+| The Unstoppable | 11.00% | ~132 |
 | Mysterious Rock | 10.00% | ~120 |
 | Superior | 10.00% | ~120 |
 | Daily Quest Completionist | 8.00% | ~96 |
@@ -59,7 +59,7 @@ Rating: 3.91 (Ranked 907)
 | Active Member | 1.00% | ~12 |
 | Crystal Mining | 1.00% | ~12 |
 | The Alchemist | 1.00% | ~12 |
-| Ebony Jungle Liberator | 0.80% | ~10 |
+| Ebony Jungle Liberator | 0.90% | ~11 |
 | Training makes a Pro player | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.91 (Ranked 907)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,195 (Ranked 161)  
+Progressed: 1,196 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
 | 2023-05-27 | 1,192 | 1 |
-| 2023-05-28 | 1,195 | 1 |
+| 2023-05-28 | 1,196 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
