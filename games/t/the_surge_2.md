@@ -5,15 +5,15 @@ Rating: 4.24 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,313 |
+| Rigged And Ready | 80.00% | ~1,314 |
 | Don't I Know You...? | 77.00% | ~1,264 |
 | Jailbreak | 65.00% | ~1,067 |
 | Suited and Booted | 38.00% | ~624 |
-| HEADSHOT! | 37.00% | ~607 |
-| Sleeping With The Fishes | 34.00% | ~558 |
-| Overheated | 30.00% | ~492 |
-| High Performance | 30.00% | ~492 |
-| Powered Up | 28.00% | ~459 |
+| HEADSHOT! | 37.00% | ~608 |
+| Sleeping With The Fishes | 35.00% | ~575 |
+| Overheated | 30.00% | ~493 |
+| High Performance | 30.00% | ~493 |
+| Powered Up | 28.00% | ~460 |
 | Studied The Blade | 24.00% | ~394 |
 | Home Invasion | 22.00% | ~361 |
 | Luminary | 22.00% | ~361 |
@@ -23,7 +23,7 @@ Rating: 4.24 (Ranked 792)
 | Court Martial | 19.00% | ~312 |
 | Offensive Defense | 19.00% | ~312 |
 | Unforeseeable Consequences | 19.00% | ~312 |
-| Clean Cut | 18.00% | ~295 |
+| Clean Cut | 18.00% | ~296 |
 | Dead Again | 17.00% | ~279 |
 | Full Arsenal | 16.00% | ~263 |
 | Can't Trust Banks | 15.00% | ~246 |
@@ -42,8 +42,8 @@ Rating: 4.24 (Ranked 792)
 | Defense in Depth | 8.00% | ~131 |
 | Reverse Engineering | 7.00% | ~115 |
 | Following In Their Footsteps | 7.00% | ~115 |
-| Turbo Booster | 6.00% | ~98 |
-| Squid Pro Quo | 6.00% | ~98 |
+| Turbo Booster | 6.00% | ~99 |
+| Squid Pro Quo | 6.00% | ~99 |
 | Reborn | 5.00% | ~82 |
 | Remote Surgery | 5.00% | ~82 |
 | Counter-Sniper | 5.00% | ~82 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 792)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,641 (Ranked 153)  
+Progressed: 1,642 (Ranked 153)  
 Completed: 10 (0.61%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 10 (0.61%) (Ranked 104)
 | 2023-05-25 | 1,616 | 10 |
 | 2023-05-26 | 1,621 | 10 |
 | 2023-05-27 | 1,635 | 10 |
-| 2023-05-28 | 1,641 | 10 |
+| 2023-05-28 | 1,642 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

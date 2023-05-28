@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12766,
+  "EOS_Progressed": 12767,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2819,6 +2819,11 @@
       "Time": "2023-05-28T04:06:18.872467+00:00",
       "NumProgressed": 12766,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-28T05:05:15.7579311+00:00",
+      "NumProgressed": 12767,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 41,
@@ -2870,7 +2875,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "tpote_achievement_15",
@@ -2934,7 +2939,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "tpote_achievement_22",
@@ -3157,15 +3162,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12766,
+      "Progressed": 12767,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:18.8724666+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:15.7579306+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:00:45.1674637+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:18.8725169+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:59:36.445332+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:15.7579683+00:00"
 }

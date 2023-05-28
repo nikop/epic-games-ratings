@@ -5,22 +5,21 @@ Rating: 4.41 (Ranked 664)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 20.00% | ~331 |
-| Confirming Suspicions | 15.00% | ~248 |
-| The Kraken Wakes | 11.00% | ~182 |
-| Lord of War | 8.00% | ~132 |
-| It's Starting to Crack | 8.00% | ~132 |
+| Meeting Resistance | 20.00% | ~332 |
+| Confirming Suspicions | 15.00% | ~249 |
+| The Kraken Wakes | 12.00% | ~199 |
+| Lord of War | 8.00% | ~133 |
+| It's Starting to Crack | 8.00% | ~133 |
 | Resourceful | 7.00% | ~116 |
 | Change the Channel | 7.00% | ~116 |
-| Enemy at the Gates | 6.00% | ~99 |
-| Organ Grinder | 6.00% | ~99 |
+| Enemy at the Gates | 6.00% | ~100 |
+| Organ Grinder | 6.00% | ~100 |
 | Just a Flesh Wound | 5.00% | ~83 |
 | Explosive Efficiency | 5.00% | ~83 |
 | As Quiet as a Mouse | 5.00% | ~83 |
 | Taking it back | 5.00% | ~83 |
 | Opposing Force | 4.00% | ~66 |
 | Gunslinger | 4.00% | ~66 |
-| Target America | 4.00% | ~66 |
 | Liberté | 3.00% | ~50 |
 | Fields of Glory | 3.00% | ~50 |
 | Sharpshooter | 3.00% | ~50 |
@@ -28,6 +27,7 @@ Rating: 4.41 (Ranked 664)
 | Der Geist | 3.00% | ~50 |
 | Close Quarters | 3.00% | ~50 |
 | Snake in the Grass | 3.00% | ~50 |
+| Target America | 3.00% | ~50 |
 | The Kraken Sleeps | 3.00% | ~50 |
 | Climbing the Ladder | 2.00% | ~33 |
 | No Stone Unturned | 2.00% | ~33 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 664)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,654 (Ranked 152)  
+Progressed: 1,660 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,654 | 2 |
+| 2023-05-28 | 1,660 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

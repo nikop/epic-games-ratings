@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -349,6 +349,11 @@
       "Time": "2023-05-27T22:00:37.9007016+00:00",
       "NumProgressed": 199,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T05:00:38.353098+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -360,7 +365,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "completeact2",
@@ -479,7 +484,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 2
     }
   ],
@@ -487,8 +492,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:02:14.0820216+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:00:38.3530977+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:59:16.747848+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:02:14.0820362+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:58:33.2786801+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:00:38.3531086+00:00"
 }

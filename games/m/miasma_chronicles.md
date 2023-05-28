@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~592 |
-| Ranidaphobia | 67.00% | ~436 |
+| First Blood | 91.00% | ~593 |
+| Ranidaphobia | 67.00% | ~437 |
 | Aspiring Editor | 62.00% | ~404 |
-| Gun for Hire | 55.00% | ~358 |
-| I am the law! | 42.00% | ~273 |
+| Gun for Hire | 56.00% | ~365 |
+| I am the law! | 42.00% | ~274 |
 | Lumberjack | 24.00% | ~156 |
 | From Darkness to Light | 23.00% | ~150 |
 | Firestarter | 21.00% | ~137 |
@@ -16,7 +16,7 @@
 | Croaked | 18.00% | ~117 |
 | Exorcist | 15.00% | ~98 |
 | Editor Adept | 14.00% | ~91 |
-| Giant Killer | 11.00% | ~72 |
+| Giant Killer | 12.00% | ~78 |
 | The meaning of Kain | 11.00% | ~72 |
 | Hold The Line | 9.00% | ~59 |
 | Sensei | 9.00% | ~59 |
@@ -29,9 +29,9 @@
 | Ganglord | 4.00% | ~26 |
 | Jarhead | 4.00% | ~26 |
 | Infiltrator | 4.00% | ~26 |
+| Pushing Daisy | 4.00% | ~26 |
 | Wipe Out | 4.00% | ~26 |
 | Chain Reaction | 3.00% | ~20 |
-| Pushing Daisy | 3.00% | ~20 |
 | Ruthless | 3.00% | ~20 |
 | Commando | 2.00% | ~13 |
 | Curveball | 2.00% | ~13 |
@@ -41,7 +41,7 @@
 | The Watchers | 2.00% | ~13 |
 | Dr Jones | 1.00% | ~7 |
 | Side Order | 1.00% | ~7 |
-| Chaos Theory | 0.80% | ~5 |
+| Chaos Theory | 0.90% | ~6 |
 | Cruelty | 0.80% | ~5 |
 | Bot Whisperer | 0.60% | ~4 |
 | Five Finger Deathcount | 0.30% | ~2 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 188)  
+Progressed: 652 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
-| 2023-05-28 | 651 | 0 |
+| 2023-05-28 | 652 | 0 |

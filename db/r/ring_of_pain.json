@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 74,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -2125,9 +2125,9 @@
       "Count": 726
     }
   ],
-  "EOS_Progressed": 229526,
+  "EOS_Progressed": 229527,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5660,6 +5660,11 @@
       "Time": "2023-05-28T04:07:03.1595847+00:00",
       "NumProgressed": 229526,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2023-05-28T05:05:49.4747196+00:00",
+      "NumProgressed": 229527,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 122,
@@ -5703,7 +5708,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 220345
+      "UsersEstimate": 220346
     },
     {
       "ID": "CURSE1HP",
@@ -5711,7 +5716,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 89515
+      "UsersEstimate": 89516
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -5783,7 +5788,7 @@
       "Name": "A Rough Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29838
+      "UsersEstimate": 29839
     },
     {
       "ID": "DEPTH6",
@@ -5791,7 +5796,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 167554
+      "UsersEstimate": 167555
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -5823,7 +5828,7 @@
       "Name": "R.I.P",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 82629
+      "UsersEstimate": 82630
     },
     {
       "ID": "DIEBOSS",
@@ -5855,7 +5860,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 133125
+      "UsersEstimate": 133126
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -5863,7 +5868,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73448
+      "UsersEstimate": 73449
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -6103,7 +6108,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 91810
+      "UsersEstimate": 91811
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -6159,7 +6164,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 123944
+      "UsersEstimate": 123945
     },
     {
       "ID": "KILLNICEDOG",
@@ -6303,7 +6308,7 @@
       "Name": "Deflection",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 100991
+      "UsersEstimate": 100992
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -6319,7 +6324,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 149192
+      "UsersEstimate": 149193
     },
     {
       "ID": "PETRIFY50",
@@ -6351,7 +6356,7 @@
       "Name": "Toxic",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73448
+      "UsersEstimate": 73449
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -6415,7 +6420,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 204278
+      "UsersEstimate": 204279
     },
     {
       "ID": "SPECIALROOMS10",
@@ -6423,7 +6428,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 142306
+      "UsersEstimate": 142307
     },
     {
       "ID": "SPEEDRUN10",
@@ -6439,7 +6444,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 98696
+      "UsersEstimate": 98697
     },
     {
       "ID": "STEALTH100",
@@ -6646,7 +6651,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 229526,
+      "Progressed": 229527,
       "Completed": 230
     }
   ],
@@ -6654,8 +6659,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-05-27T09:00:35.2589592+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:07:03.1595844+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:49.4747193+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:00.0477942+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:00:10.1965157+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:07:03.1597865+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:59:10.8806782+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:49.474877+00:00"
 }

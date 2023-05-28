@@ -41,7 +41,7 @@
 | Scout | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 217)  
+Progressed: 311 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,4 +52,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 133 | 0 |
 | 2023-05-26 | 247 | 0 |
 | 2023-05-27 | 305 | 0 |
-| 2023-05-28 | 310 | 0 |
+| 2023-05-28 | 311 | 0 |

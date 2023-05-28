@@ -18,7 +18,7 @@ Rating: 4.19 (Ranked 825)
 | Workplace Hazard | 3.00% | ~416 |
 | Float Like A Butterfly | 3.00% | ~416 |
 | If the SHU Fits... | 3.00% | ~416 |
-| Bear Trap | 3.00% | ~53 |
+| Bear Trap | 3.00% | ~54 |
 | Two Heads Are Better Than One | 2.00% | ~277 |
 | Terminated | 2.00% | ~277 |
 | The Commonality | 2.00% | ~277 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,857 (Ranked 102)  
+Progressed: 13,858 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
 | 2023-05-27 | 13,841 | 53 |
-| 2023-05-28 | 13,857 | 53 |
+| 2023-05-28 | 13,858 | 53 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 270 (Ranked 334)  

@@ -17,13 +17,13 @@
 | Travel Company | 62.00% | ~181 |
 | Right through the middle | 55.00% | ~161 |
 | Apprentice | 51.00% | ~149 |
-| Poor Devil | 48.00% | ~140 |
+| Poor Devil | 49.00% | ~143 |
 | Facility Manager | 43.00% | ~126 |
 | Stoker | 41.00% | ~120 |
-| Producer | 40.00% | ~117 |
+| Producer | 41.00% | ~120 |
 | Bridge Builder | 36.00% | ~105 |
 | Access granted | 31.00% | ~91 |
-| Going once, going twice, sold | 22.00% | ~64 |
+| Going once, going twice, sold | 23.00% | ~67 |
 | Full Steam ahead | 21.00% | ~61 |
 | Bull and bear | 20.00% | ~58 |
 | Seven at one stroke | 18.00% | ~53 |

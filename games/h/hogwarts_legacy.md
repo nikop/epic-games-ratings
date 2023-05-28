@@ -5,28 +5,28 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 7.00% | ~19,140 |
+| The Sort Who Makes an Entrance | 7.00% | ~19,141 |
 | Grappling with a Graphorn | 6.00% | ~16,406 |
 | The One Who Mastered Memories | 6.00% | ~16,406 |
 | The Hallowed Hero | 6.00% | ~16,406 |
 | The Hero of Hogwarts | 6.00% | ~16,406 |
 | The Defender of Dragons | 6.00% | ~16,406 |
 | A Keen Sense of Spell | 6.00% | ~16,406 |
+| Loom for Improvement | 6.00% | ~16,406 |
 | Coasting Along | 6.00% | ~16,406 |
 | First Class Student | 6.00% | ~16,406 |
 | Troll with the Punches | 6.00% | ~16,406 |
 | That's a Keeper | 6.00% | ~16,406 |
-| The Avenging Gazelle | 5.00% | ~13,671 |
-| Beast Friends | 5.00% | ~13,671 |
-| A Sallow Grave | 5.00% | ~13,671 |
-| Flight the Good Flight | 5.00% | ~13,671 |
-| Challenge Accepted | 5.00% | ~13,671 |
-| Loom for Improvement | 5.00% | ~13,671 |
-| A Talent for Spending | 5.00% | ~13,671 |
-| Followed the Butterflies | 5.00% | ~13,671 |
-| The Spell Master | 5.00% | ~13,671 |
-| Rising From the Ashes | 5.00% | ~13,671 |
-| The Seeker of Knowledge | 4.00% | ~10,937 |
+| The Avenging Gazelle | 5.00% | ~13,672 |
+| Beast Friends | 5.00% | ~13,672 |
+| A Sallow Grave | 5.00% | ~13,672 |
+| Flight the Good Flight | 5.00% | ~13,672 |
+| Challenge Accepted | 5.00% | ~13,672 |
+| A Talent for Spending | 5.00% | ~13,672 |
+| Followed the Butterflies | 5.00% | ~13,672 |
+| The Spell Master | 5.00% | ~13,672 |
+| Rising From the Ashes | 5.00% | ~13,672 |
+| The Seeker of Knowledge | 4.00% | ~10,938 |
 | The Root of the Problem | 3.00% | ~8,203 |
 | Third Time's a Charm | 3.00% | ~8,203 |
 | Room with a View | 3.00% | ~8,203 |
@@ -44,14 +44,14 @@ Rating: 4.77 (Ranked 105)
 | Rise to the Challenges | 1.00% | ~2,734 |
 | Finishing Touches | 1.00% | ~2,734 |
 | A Forte for Achievement | 0.90% | ~2,461 |
-| Savvy Spender | 0.80% | ~2,187 |
-| Demiguise Dread | 0.80% | ~2,187 |
+| Savvy Spender | 0.80% | ~2,188 |
+| Demiguise Dread | 0.80% | ~2,188 |
 | Merlin's Beard! | 0.60% | ~1,641 |
 | Spilled Milk | 0.50% | ~1,367 |
 | The Nature of the Beast | 0.40% | ~1,094 |
 | Collector's Edition | 0.20% | ~547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273,426 (Ranked 39)  
+Progressed: 273,440 (Ranked 39)  
 Completed: 376 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 376 (0.14%) (Ranked 151)
 | 2023-05-25 | 272,380 | 374 |
 | 2023-05-26 | 272,827 | 374 |
 | 2023-05-27 | 273,323 | 376 |
-| 2023-05-28 | 273,426 | 376 |
+| 2023-05-28 | 273,440 | 376 |
 ## Awards
 Max (Character Customization): 19,220  (Ranked 18)  
 Sum: 35,444 (Ranked 33)  

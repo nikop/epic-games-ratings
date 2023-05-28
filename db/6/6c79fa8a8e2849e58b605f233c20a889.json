@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1021,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1003,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-05-28T04:02:03.8271438+00:00",
       "NumProgressed": 1021,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T05:00:30.9720208+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -684,7 +689,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -732,7 +737,7 @@
       "Name": "Novice",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 380
     },
     {
       "ID": "GLOVE_SLAP",
@@ -740,7 +745,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -756,7 +761,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 602
+      "UsersEstimate": 605
     },
     {
       "ID": "GUARD_MAKER",
@@ -788,7 +793,7 @@
       "Name": "Knight Commander",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -827,14 +832,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1021,
+      "Progressed": 1026,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:02:03.8271435+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:00:30.9720204+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:57:08.0349339+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:02:03.8271646+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:57:02.7320997+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:00:30.9720348+00:00"
 }

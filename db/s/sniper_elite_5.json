@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1654,
+  "EOS_Progressed": 1660,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1668,6 +1668,11 @@
       "Time": "2023-05-28T04:06:31.4756097+00:00",
       "NumProgressed": 1654,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T05:05:25.2677292+00:00",
+      "NumProgressed": 1660,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1719,7 +1724,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1743,7 +1748,7 @@
       "Name": "Organ Grinder",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1759,7 +1764,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1847,7 +1852,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1887,7 +1892,7 @@
       "Name": "Lord of War",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1925,9 +1930,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1991,7 +1996,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2069,9 +2074,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 50
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2246,13 +2251,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1605,
+      "Progressed": 1611,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1654,
+      "Progressed": 1660,
       "Completed": 2
     }
   ],
@@ -2260,8 +2265,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:31.4756092+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:25.2677287+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:01:28.3600061+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:31.4756937+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:00:06.1517485+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:25.2677934+00:00"
 }

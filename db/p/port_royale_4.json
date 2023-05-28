@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2023-05-27T15:06:27.4879998+00:00",
       "NumProgressed": 578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T05:05:29.3330534+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -640,7 +645,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH001",
@@ -648,7 +653,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH002",
@@ -696,7 +701,7 @@
       "Name": "My little farm",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH008",
@@ -704,7 +709,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH009",
@@ -720,7 +725,7 @@
       "Name": "Conglomerate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH011",
@@ -760,7 +765,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH016",
@@ -856,7 +861,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH028",
@@ -872,7 +877,7 @@
       "Name": "Licence to Kill",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH030",
@@ -928,7 +933,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH037",
@@ -944,7 +949,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH039",
@@ -1022,9 +1027,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH049",
@@ -1032,22 +1037,22 @@
       "Name": "Wholesale",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:36.7769482+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:29.333053+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.2461574+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:58:51.4860028+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:36.7769928+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:58:15.1053225+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:29.3330851+00:00"
 }

@@ -15,10 +15,10 @@ Rating: 4.17 (Ranked 839)
 | Whispered Words | 1.00% | ~625 |
 | Something in the Clay | 0.90% | ~562 |
 | Quartzer Life Crisis | 0.90% | ~562 |
+| Snow Problem | 0.90% | ~562 |
 | Working Hard or Harley Working? | 0.90% | ~562 |
 | Lock and Key | 0.90% | ~562 |
 | The Show Mud Go On | 0.80% | ~500 |
-| Snow Problem | 0.80% | ~500 |
 | Unstoppable Force | 0.80% | ~500 |
 | Bad Apples in Every Orchard | 0.80% | ~500 |
 | Protector of Gotham | 0.70% | ~437 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,454 (Ranked 70)  
+Progressed: 62,459 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,10 +105,10 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,454 | 91 |
+| 2023-05-28 | 62,459 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
-Sum: 3,726 (Ranked 137)  
+Sum: 3,727 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -116,7 +116,7 @@ Diff (max vs sum): -39
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 191 |
-| This game has Amazing Characters | 186 |
+| This game has Amazing Characters | 187 |
 | This game has Diverse Characters | 183 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 180 |
@@ -221,3 +221,4 @@ Diff (max vs sum): -39
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
 | 2023-05-26 | 4.17 | 2,239 | 3,718 |
 | 2023-05-27 | 4.17 | 2,244 | 3,726 |
+| 2023-05-28 | 4.17 | 2,244 | 3,727 |

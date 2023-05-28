@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -655,9 +655,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 30074,
+  "EOS_Progressed": 30075,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4215,6 +4215,11 @@
       "Time": "2023-05-28T04:02:25.3107948+00:00",
       "NumProgressed": 30074,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-28T05:02:15.8879837+00:00",
+      "NumProgressed": 30075,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -4386,7 +4391,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ach_hunterskeep",
@@ -4402,7 +4407,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ach_ladylilac",
@@ -4578,7 +4583,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ach_terror100",
@@ -4657,15 +4662,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 30074,
+      "Progressed": 30075,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-27T21:59:24.6396174+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:02:25.3107941+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:02:15.887983+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:05.2746817+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:00:18.0337474+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:02:25.3108661+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:59:16.6344726+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:02:15.8880792+00:00"
 }

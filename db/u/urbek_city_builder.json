@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 190,
+  "EOS_Progressed": 191,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -336,6 +336,11 @@
     {
       "Time": "2023-05-28T00:05:22.1170248+00:00",
       "NumProgressed": 190,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T05:05:39.4396672+00:00",
+      "NumProgressed": 191,
       "NumCompleted": 0
     }
   ],
@@ -676,7 +681,7 @@
       "Name": "I like parks",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -708,7 +713,7 @@
       "Name": "Clean energy",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MURICA_1",
@@ -780,7 +785,7 @@
       "Name": "Small town",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "POPULATION_2",
@@ -964,7 +969,7 @@
       "Name": "Soviet town",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "WELFARE_2",
@@ -979,7 +984,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 190,
+      "Progressed": 191,
       "Completed": 0
     }
   ],
@@ -987,8 +992,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:50.375669+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:39.4396667+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:59:19.3556427+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:50.3757489+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:58:35.3051697+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:39.4397429+00:00"
 }

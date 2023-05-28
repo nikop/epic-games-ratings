@@ -14,8 +14,8 @@
 | What have I done!? | 14.00% | ~18 |
 | This Coffin Has Your Name On It! | 13.00% | ~17 |
 | The Cultists | 12.00% | ~15 |
+| Alone In The Dark | 11.00% | ~14 |
 | Parasite Exterminated | 11.00% | ~14 |
-| Alone In The Dark | 10.00% | ~13 |
 | The Forgotten Tower | 9.00% | ~11 |
 | Lover of classics | 8.00% | ~10 |
 | Rest In Peace | 8.00% | ~10 |
@@ -31,6 +31,7 @@
 | Armed To The Teeth | 2.00% | ~3 |
 | Back In Time | 2.00% | ~3 |
 | Retro Player | 2.00% | ~3 |
+| Spiritual essence well spent | 2.00% | ~3 |
 | Survival Hero | 2.00% | ~3 |
 | The 5th Element | 2.00% | ~3 |
 | Before The Eclipse | 0.80% | ~1 |
@@ -38,7 +39,6 @@
 | Chosen One | 0.80% | ~1 |
 | Die Another Day | 0.80% | ~1 |
 | Dressed to Kill | 0.80% | ~1 |
-| Spiritual essence well spent | 0.80% | ~1 |
 | Life Of The Thousand Gods | 0.80% | ~1 |
 | Nightmare Over | 0.80% | ~1 |
 | No Time To Relax | 0.80% | ~1 |

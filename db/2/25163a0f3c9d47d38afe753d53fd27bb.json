@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 5.87,
+  "EOS_Completed_Percentage": 5.85,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -731,6 +731,11 @@
       "Time": "2023-05-28T02:15:42.8381081+00:00",
       "NumProgressed": 341,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-28T05:03:21.5704706+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 30,
@@ -742,15 +747,15 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "LEVEL_002",
       "SetID": "212bg48",
       "Name": "Promising crop",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 274
     },
     {
       "ID": "LEVEL_003",
@@ -758,7 +763,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "LEVEL_004",
@@ -766,7 +771,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "LEVEL_005",
@@ -814,15 +819,15 @@
       "Name": "Rocks around the island",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_012",
@@ -830,7 +835,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_013",
@@ -942,7 +947,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_027",
@@ -950,7 +955,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_028",
@@ -958,7 +963,7 @@
       "Name": "What is the country?",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_029",
@@ -966,7 +971,7 @@
       "Name": "Bridges connect us",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_030",
@@ -974,21 +979,21 @@
       "Name": "Celebration with Cake and Balloons",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:03:47.6511113+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:03:21.5704701+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:57:07.8401731+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:03:47.6511406+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:57:02.5987746+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:03:21.5704924+00:00"
 }

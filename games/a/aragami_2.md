@@ -6,24 +6,24 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,668 |
-| First Steps | 81.00% | ~27,001 |
-| Control the Shadows | 68.00% | ~22,668 |
-| Tools of the Trade | 63.00% | ~21,001 |
-| Apprentice | 60.00% | ~20,001 |
-| Secret Seeker | 57.00% | ~19,001 |
-| Forge of Assassins | 56.00% | ~18,668 |
-| Revenant | 52.00% | ~17,334 |
-| I don’t Care! | 45.00% | ~15,001 |
-| Bird of Prey | 37.00% | ~12,334 |
-| Engraved with Power | 32.00% | ~10,667 |
-| Lady | 30.00% | ~10,000 |
-| Fashionable Assassin | 27.00% | ~9,000 |
-| Apex Predator | 24.00% | ~8,000 |
+| Awakening | 92.00% | ~30,671 |
+| First Steps | 81.00% | ~27,004 |
+| Control the Shadows | 68.00% | ~22,670 |
+| Tools of the Trade | 63.00% | ~21,003 |
+| Apprentice | 60.00% | ~20,003 |
+| Secret Seeker | 57.00% | ~19,003 |
+| Forge of Assassins | 56.00% | ~18,669 |
+| Revenant | 52.00% | ~17,336 |
+| I don’t Care! | 45.00% | ~15,002 |
+| Bird of Prey | 37.00% | ~12,335 |
+| Engraved with Power | 32.00% | ~10,668 |
+| Lady | 30.00% | ~10,001 |
+| Fashionable Assassin | 27.00% | ~9,001 |
+| Apex Predator | 24.00% | ~8,001 |
 | Soul Reaver | 22.00% | ~7,334 |
-| Embers | 21.00% | ~7,000 |
-| Wall Lizard | 20.00% | ~6,667 |
-| Clinging to Life | 18.00% | ~6,000 |
+| Embers | 21.00% | ~7,001 |
+| Wall Lizard | 20.00% | ~6,668 |
+| Clinging to Life | 18.00% | ~6,001 |
 | Burning | 17.00% | ~5,667 |
 | Look Behind You | 16.00% | ~5,334 |
 | Sleeping on the Job | 16.00% | ~5,334 |
@@ -38,12 +38,12 @@ Number of Ratings: 88  (23.09.2022)
 | Get Over Here | 8.00% | ~2,667 |
 | The Hidden Village | 8.00% | ~2,667 |
 | A Pleasant Stay | 8.00% | ~2,667 |
-| Pilgrimage | 7.00% | ~2,333 |
+| Pilgrimage | 7.00% | ~2,334 |
 | The Lookout | 5.00% | ~1,667 |
 | The Spirit of Vengeance | 5.00% | ~1,667 |
-| Left Behind | 4.00% | ~1,333 |
-| Secrets of the Earth | 4.00% | ~1,333 |
-| Hollow | 4.00% | ~1,333 |
+| Hollow | 5.00% | ~1,667 |
+| Left Behind | 4.00% | ~1,334 |
+| Secrets of the Earth | 4.00% | ~1,334 |
 | The Lion’s Den | 3.00% | ~1,000 |
 | Heart of Fire | 3.00% | ~1,000 |
 | Forest Spirits | 3.00% | ~1,000 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~333 |
 | Anger Management | 1.00% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,335 (Ranked 84)  
+Progressed: 33,338 (Ranked 84)  
 Completed: 159 (0.48%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 159 (0.48%) (Ranked 107)
 | 2023-05-25 | 33,141 | 159 |
 | 2023-05-26 | 33,225 | 159 |
 | 2023-05-27 | 33,309 | 159 |
-| 2023-05-28 | 33,335 | 159 |
+| 2023-05-28 | 33,338 | 159 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

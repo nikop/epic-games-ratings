@@ -1,19 +1,19 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 237)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,076 |
-| That's a Grand Army | 8.00% | ~3,623 |
-| That is mine! | 8.00% | ~3,623 |
-| Victorious! | 8.00% | ~3,623 |
-| Brothers in Arms | 6.00% | ~2,717 |
-| That's a Grand Navy | 6.00% | ~2,717 |
-| Seriously?! | 6.00% | ~2,717 |
-| For the Glory | 5.00% | ~2,264 |
+| Until death do us apart | 9.00% | ~4,077 |
+| That's a Grand Army | 8.00% | ~3,624 |
+| That is mine! | 8.00% | ~3,624 |
+| Victorious! | 8.00% | ~3,624 |
+| Brothers in Arms | 6.00% | ~2,718 |
+| That's a Grand Navy | 6.00% | ~2,718 |
+| Seriously?! | 6.00% | ~2,718 |
+| For the Glory | 5.00% | ~2,265 |
 | Cold War | 4.00% | ~1,812 |
 | True Catholic | 4.00% | ~1,812 |
 | Defender of the Faith | 3.00% | ~1,359 |
@@ -46,14 +46,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.70% | ~317 |
 | Electable! | 0.60% | ~272 |
 | Time Bandit | 0.60% | ~272 |
-| All belongs to Mother Russia | 0.50% | ~226 |
-| At every continent | 0.50% | ~226 |
-| Early-Modern Warfare | 0.50% | ~226 |
-| One Family to Rule them All | 0.50% | ~226 |
-| Populists in Government | 0.50% | ~226 |
-| The pen is mightier than the sword | 0.50% | ~226 |
-| This is My Faith | 0.50% | ~226 |
-| Trophy Hunter | 0.50% | ~226 |
+| All belongs to Mother Russia | 0.50% | ~227 |
+| At every continent | 0.50% | ~227 |
+| Early-Modern Warfare | 0.50% | ~227 |
+| One Family to Rule them All | 0.50% | ~227 |
+| Populists in Government | 0.50% | ~227 |
+| The pen is mightier than the sword | 0.50% | ~227 |
+| This is My Faith | 0.50% | ~227 |
+| Trophy Hunter | 0.50% | ~227 |
 | Absolutely | 0.40% | ~181 |
 | Dude, Where's my Boat? | 0.40% | ~181 |
 | Grand Coalition | 0.40% | ~181 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,289 (Ranked 79)  
+Progressed: 45,304 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
-| 2023-05-28 | 45,289 | 0 |
+| 2023-05-28 | 45,304 | 0 |
 ## Awards
 Max (Educational): 5,293  (Ranked 60)  
 Sum: 43,848 (Ranked 27)  

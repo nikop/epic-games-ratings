@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~889 |
 | The Cursed Farmer | 0.70% | ~623 |
-| The Court of Storms | 0.70% | ~386 |
+| The Court of Storms | 0.70% | ~387 |
 | Beware the Jabberwock | 0.60% | ~331 |
 | Beast Intentions | 0.50% | ~445 |
 | The Mad Wizard | 0.50% | ~445 |
@@ -55,6 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~178 |
 | Running of the Saurs | 0.20% | ~178 |
 | The Contagious Curse | 0.20% | ~178 |
+| Bad Odds in Avernus | 0.20% | ~110 |
 | An Even Worse Time in Avernus | 0.20% | ~110 |
 | Escort to Waterdeep | 0.20% | ~178 |
 | Constant Banditry | 0.20% | ~178 |
@@ -378,7 +379,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.10% | ~55 |
 | The Path of Redcaps | 0.10% | ~55 |
 | The Path of Trials | 0.10% | ~55 |
-| Bad Odds in Avernus | 0.10% | ~55 |
 | The Lost Hollyphant | 0.10% | ~55 |
 | Zapper Overload | 0.10% | ~55 |
 | Best Friend Search Squad! | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,935 (Ranked 61)  
+Progressed: 88,943 (Ranked 61)  
 Completed: 1,889 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 1,889 (2.12%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 88,935 | 1,889 |
+| 2023-05-28 | 88,943 | 1,889 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
 Sum: 29,989 (Ranked 37)  

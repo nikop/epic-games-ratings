@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2288,9 +2288,9 @@
       "ID": "activemember",
       "SetID": "3nl4bcg",
       "Name": "Active Member",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ancientknowledge",
@@ -2752,9 +2752,9 @@
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "theexpeditioner",
@@ -2897,8 +2897,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:42.2004477+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:32.9827306+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:58:18.7889986+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:42.2005395+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:57:51.5963317+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:32.9827974+00:00"
 }

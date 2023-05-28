@@ -56,9 +56,9 @@ Rating: 3.91 (Ranked 907)
 | Lock And Load | 2.00% | ~24 |
 | Sailor | 2.00% | ~24 |
 | What lies behind the bush | 2.00% | ~24 |
+| Active Member | 1.00% | ~12 |
 | Crystal Mining | 1.00% | ~12 |
-| Active Member | 0.90% | ~11 |
-| The Alchemist | 0.90% | ~11 |
+| The Alchemist | 1.00% | ~12 |
 | Ebony Jungle Liberator | 0.80% | ~10 |
 | Training makes a Pro player | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 878,
-  "EOS_Completed": 66,
-  "EOS_NewPlayers": 113,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 7.52,
+  "EOS_Progressed": 879,
+  "EOS_Completed": 67,
+  "EOS_NewPlayers": 114,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 7.62,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -2254,6 +2254,11 @@
       "Time": "2023-05-28T03:05:00.5738769+00:00",
       "NumProgressed": 878,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-05-28T05:05:12.143305+00:00",
+      "NumProgressed": 879,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 5,
@@ -2265,7 +2270,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "2",
@@ -2279,9 +2284,9 @@
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 79
+      "UsersEstimate": 88
     },
     {
       "ID": "4",
@@ -2304,16 +2309,16 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 878,
-      "Completed": 66
+      "Progressed": 879,
+      "Completed": 67
     }
   ],
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:13.9478473+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:12.1433046+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.3724069+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:57:18.3221869+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:13.9478671+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:57:09.5342359+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:12.1433205+00:00"
 }

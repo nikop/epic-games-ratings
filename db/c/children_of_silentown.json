@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "Trumpet",
@@ -309,8 +309,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:51.5146691+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:40.2394379+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.9659056+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:00:55.902592+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:51.5146888+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:59:43.4593604+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:40.2394568+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "A30",
@@ -607,9 +607,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "A35",
@@ -639,9 +639,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "A39",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:06:43.6119965+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:05:34.1546103+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:58:24.075442+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:06:43.6120491+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:57:55.4510174+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:05:34.1546486+00:00"
 }

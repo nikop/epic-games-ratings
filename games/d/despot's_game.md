@@ -5,27 +5,27 @@ Rating: 4.50 (Ranked 541)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 83.00% | ~315 |
-| Vanquisher of Robots | 73.00% | ~277 |
+| Good start! | 82.00% | ~312 |
+| Vanquisher of Robots | 72.00% | ~274 |
 | Party | 45.00% | ~171 |
 | Knowledge is Power | 44.00% | ~167 |
-| Impossible Cube | 42.00% | ~159 |
-| No Mercy | 41.00% | ~155 |
-| The Return of a Rat | 40.00% | ~152 |
+| Impossible Cube | 42.00% | ~160 |
+| No Mercy | 41.00% | ~156 |
+| The Return of a Rat | 39.00% | ~148 |
 | Through the Darkness | 39.00% | ~148 |
-| Fat of the Earth | 32.00% | ~121 |
-| Last Man Standing | 31.00% | ~117 |
-| Catch Jonathan_tostar | 27.00% | ~102 |
-| Assemble a Meganewbie | 25.00% | ~95 |
+| Fat of the Earth | 32.00% | ~122 |
+| Last Man Standing | 31.00% | ~118 |
+| Catch Jonathan_tostar | 27.00% | ~103 |
 | Great Hero | 25.00% | ~95 |
-| Rookie | 25.00% | ~95 |
 | Campaigning | 24.00% | ~91 |
+| Assemble a Meganewbie | 24.00% | ~91 |
 | He's Seen It All | 24.00% | ~91 |
+| Rookie | 24.00% | ~91 |
 | Frugal | 21.00% | ~80 |
 | Feed a God | 20.00% | ~76 |
-| To the Moon and Back | 20.00% | ~76 |
-| Great Flight | 17.00% | ~64 |
-| Holy Vengeance | 15.00% | ~57 |
+| To the Moon and Back | 19.00% | ~72 |
+| Great Flight | 17.00% | ~65 |
+| Holy Vengeance | 14.00% | ~53 |
 | Honorary Cultist | 11.00% | ~42 |
 | Strength and Sorcery | 10.00% | ~38 |
 | Brain and Brawn | 10.00% | ~38 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 541)
 | Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379 (Ranked 204)  
+Progressed: 380 (Ranked 203)  
 Completed: 1 (0.26%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 1 (0.26%) (Ranked 133)
 | 2023-05-25 | 373 | 1 |
 | 2023-05-26 | 375 | 1 |
 | 2023-05-27 | 378 | 1 |
-| 2023-05-28 | 379 | 1 |
+| 2023-05-28 | 380 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

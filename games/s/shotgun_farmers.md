@@ -7,11 +7,11 @@
 | Aspairagus | 34.00% | ~4 |
 | Survivor | 23.00% | ~3 |
 | No Diggity | 23.00% | ~3 |
+| Seeds of War | 20.00% | ~12 |
 | Quick-Draw Pod | 20.00% | ~2 |
 | Early Survivor | 20.00% | ~2 |
-| Seeds of War | 18.00% | ~11 |
 | Bouncemato | 16.00% | ~2 |
-| First Blood | 13.00% | ~8 |
+| First Blood | 15.00% | ~9 |
 | Amateur Survivor | 11.00% | ~1 |
 | I Believe I Can Fly | 8.00% | ~5 |
 | No Asperascope | 8.00% | ~5 |
@@ -23,11 +23,11 @@
 | Expert Survivor | 7.00% | ~1 |
 | Quadsparagus | 7.00% | ~1 |
 | 15K | 5.00% | ~3 |
+| Skin Of Your Teeth | 5.00% | ~3 |
 | 10K | 5.00% | ~3 |
 | Cornivore | 5.00% | ~3 |
 | Master Survivor | 5.00% | ~1 |
 | Summers Here | 5.00% | ~1 |
-| Skin Of Your Teeth | 3.00% | ~2 |
 | Pyromaniac | 3.00% | ~0 |
 | This Is My Boomstick | 3.00% | ~0 |
 | Easy Peasy | 3.00% | ~0 |

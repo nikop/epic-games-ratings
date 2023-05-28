@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -355,17 +355,17 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -451,9 +451,9 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -914,8 +914,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:04:55.4529202+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:04:17.8237368+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:58:39.7783277+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:04:55.4529906+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:58:07.3813996+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:04:17.823797+00:00"
 }

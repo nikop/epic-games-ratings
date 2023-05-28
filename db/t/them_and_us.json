@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -515,9 +515,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -595,9 +595,9 @@
       "ID": "ETUA_FearWellSpent",
       "SetID": "65jc0ap",
       "Name": "Spiritual essence well spent",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_ForcedtoKill",
@@ -836,8 +836,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-28T04:02:26.4381985+00:00",
+  "LastChanged_Achievements": "2023-05-28T05:02:16.7146418+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:06.6921846+00:00",
-  "LastUpdate_Ratings": "2023-05-28T03:57:17.5403156+00:00",
-  "LastUpdate_Achievements": "2023-05-28T04:02:26.4382337+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:57:09.017267+00:00",
+  "LastUpdate_Achievements": "2023-05-28T05:02:16.7146679+00:00"
 }
