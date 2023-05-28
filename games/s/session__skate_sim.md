@@ -1,15 +1,15 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 52.00% | ~1,096 |
-| Keeping it classy | 25.00% | ~527 |
-| Welcome to the family | 18.00% | ~379 |
-| The finer things in life | 16.00% | ~337 |
+| You're free now! | 52.00% | ~1,097 |
+| Keeping it classy | 25.00% | ~528 |
+| Welcome to the family | 18.00% | ~380 |
+| The finer things in life | 16.00% | ~338 |
 | Backpacker | 12.00% | ~253 |
 | Go with the Flow | 12.00% | ~253 |
 | Plastic Surgeon | 9.00% | ~190 |
@@ -18,18 +18,18 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 8.00% | ~169 |
 | Upfront shredder | 8.00% | ~169 |
 | Good vibes | 7.00% | ~148 |
-| Fashionista | 6.00% | ~126 |
-| Finally he zips it | 6.00% | ~126 |
-| That pinch! | 6.00% | ~126 |
-| Tight lipslides | 6.00% | ~126 |
-| Bottom ply killer | 5.00% | ~105 |
-| Fulfilled the dream | 5.00% | ~105 |
-| G'Day Mate! | 5.00% | ~105 |
-| Globetrotter | 5.00% | ~105 |
-| NAHELL! | 5.00% | ~105 |
-| Purple passion | 5.00% | ~105 |
-| Squad goals | 5.00% | ~105 |
-| Sup widdit big dog! | 5.00% | ~105 |
+| Fashionista | 6.00% | ~127 |
+| Finally he zips it | 6.00% | ~127 |
+| That pinch! | 6.00% | ~127 |
+| Bottom ply killer | 5.00% | ~106 |
+| Fulfilled the dream | 5.00% | ~106 |
+| G'Day Mate! | 5.00% | ~106 |
+| Globetrotter | 5.00% | ~106 |
+| NAHELL! | 5.00% | ~106 |
+| Purple passion | 5.00% | ~106 |
+| Squad goals | 5.00% | ~106 |
+| Sup widdit big dog! | 5.00% | ~106 |
+| Tight lipslides | 5.00% | ~106 |
 | Commence the Hijinx! | 4.00% | ~84 |
 | Cops called! | 4.00% | ~84 |
 | DIY Boss | 4.00% | ~84 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,108 (Ranked 146)  
+Progressed: 2,110 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 2,077 | 0 |
 | 2023-05-26 | 2,088 | 0 |
 | 2023-05-27 | 2,105 | 0 |
-| 2023-05-28 | 2,108 | 0 |
+| 2023-05-28 | 2,110 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 301)  

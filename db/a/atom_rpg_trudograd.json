@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -559,9 +559,9 @@
       "ID": "BRONZOVKA",
       "SetID": "62d2oh4",
       "Name": "Bronzovka",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "B_E",
@@ -792,8 +792,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-28T03:05:08.5857685+00:00",
+  "LastChanged_Achievements": "2023-05-28T04:06:24.731101+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.6742976+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:57:19.5299144+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:05:08.5857938+00:00"
+  "LastUpdate_Ratings": "2023-05-28T03:57:25.3049508+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:06:24.7311333+00:00"
 }

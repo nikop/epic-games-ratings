@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22735,
+  "EOS_Progressed": 22737,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -978,6 +978,11 @@
       "Time": "2023-05-28T03:03:50.7596986+00:00",
       "NumProgressed": 22735,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-28T04:04:29.7723804+00:00",
+      "NumProgressed": 22737,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1005,7 +1010,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17506
+      "UsersEstimate": 17507
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1013,7 +1018,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9776
+      "UsersEstimate": 9777
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -1029,7 +1034,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "ACH_GET_GUS",
@@ -1053,7 +1058,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17279
+      "UsersEstimate": 17280
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1069,7 +1074,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1077,7 +1082,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1093,7 +1098,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18870
+      "UsersEstimate": 18872
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1109,7 +1114,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12959
+      "UsersEstimate": 12960
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1117,7 +1122,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13414
+      "UsersEstimate": 13415
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1133,7 +1138,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -1173,7 +1178,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16597
+      "UsersEstimate": 16598
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1189,7 +1194,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -1244,22 +1249,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22735,
+      "Progressed": 22737,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 28,
-      "Completed": 28
+      "Progressed": 30,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-28T03:03:50.7596983+00:00",
+  "LastChanged_Achievements": "2023-05-28T04:04:29.7723799+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:45.9981946+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:57:52.1024511+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:03:50.7597278+00:00"
+  "LastUpdate_Ratings": "2023-05-28T03:58:17.8198287+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:04:29.7724092+00:00"
 }

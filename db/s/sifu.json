@@ -4260,9 +4260,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705842,
+  "EOS_Progressed": 705854,
   "EOS_Completed": 12739,
-  "EOS_NewPlayers": 1764,
+  "EOS_NewPlayers": 1757,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7480,6 +7480,11 @@
       "Time": "2023-05-28T03:05:28.0819469+00:00",
       "NumProgressed": 705842,
       "NumCompleted": 12739
+    },
+    {
+      "Time": "2023-05-28T04:06:51.2257162+00:00",
+      "NumProgressed": 705854,
+      "NumCompleted": 12739
     }
   ],
   "TotalAchievements": 50,
@@ -7491,7 +7496,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7499,7 +7504,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7507,7 +7512,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7515,7 +7520,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7667,7 +7672,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7675,7 +7680,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "25_ShrineMind",
@@ -7691,7 +7696,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "27_ShrineBody",
@@ -7827,7 +7832,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7843,7 +7848,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7875,7 +7880,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7890,21 +7895,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15143,
+      "Progressed": 15155,
       "Completed": 10182
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705842,
+      "Progressed": 705854,
       "Completed": 12739
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T21:58:54.951643+00:00",
-  "LastChanged_Achievements": "2023-05-28T03:05:28.0819465+00:00",
+  "LastChanged_Achievements": "2023-05-28T04:06:51.2257157+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:58:40.5218377+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:05:28.0820065+00:00"
+  "LastUpdate_Ratings": "2023-05-28T03:59:32.3559542+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:06:51.2257835+00:00"
 }

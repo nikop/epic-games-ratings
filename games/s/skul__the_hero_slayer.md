@@ -6,22 +6,22 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,922 |
-| What should I buy? | 83.00% | ~6,178 |
-| Focus! | 62.00% | ~4,615 |
-| Rescued Elder Ent | 62.00% | ~4,615 |
-| The End of the Gold Mane Knights | 46.00% | ~3,424 |
-| Rules of Etiquette | 39.00% | ~2,903 |
-| False Goddess, Disappear | 38.00% | ~2,828 |
-| Quick Movements | 33.00% | ~2,456 |
-| Inventory Management | 33.00% | ~2,456 |
-| The Fall of the Leonia Order | 29.00% | ~2,158 |
+| The Legend Begins | 93.00% | ~6,924 |
+| What should I buy? | 83.00% | ~6,179 |
+| Focus! | 62.00% | ~4,616 |
+| Rescued Elder Ent | 62.00% | ~4,616 |
+| The End of the Gold Mane Knights | 46.00% | ~3,425 |
+| Rules of Etiquette | 39.00% | ~2,904 |
+| False Goddess, Disappear | 38.00% | ~2,829 |
+| Quick Movements | 33.00% | ~2,457 |
+| Inventory Management | 33.00% | ~2,457 |
+| The Fall of the Leonia Order | 29.00% | ~2,159 |
 | The Hero Killer | 27.00% | ~2,010 |
-| Go Home... | 26.00% | ~1,935 |
+| Go Home... | 26.00% | ~1,936 |
 | The Final Battle of the First Hero | 25.00% | ~1,861 |
-| Brain at Full Throttle | 22.00% | ~1,637 |
+| Brain at Full Throttle | 22.00% | ~1,638 |
 | Rookies Welcome | 20.00% | ~1,489 |
-| Deadly Power | 15.00% | ~1,116 |
+| Deadly Power | 15.00% | ~1,117 |
 | Castle Restoration Plans | 14.00% | ~1,042 |
 | The Dwarven Chandelier | 12.00% | ~893 |
 | Master of Speed | 9.00% | ~670 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~74 |
 | Cold-Blooded | 0.80% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,443 (Ranked 112)  
+Progressed: 7,445 (Ranked 112)  
 Completed: 11 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 11 (0.15%) (Ranked 149)
 | 2023-05-25 | 7,396 | 11 |
 | 2023-05-26 | 7,412 | 11 |
 | 2023-05-27 | 7,440 | 11 |
-| 2023-05-28 | 7,443 | 11 |
+| 2023-05-28 | 7,445 | 11 |
 ## Awards
 Max (Diverse Characters): 113  (Ranked 313)  
 Sum: 754 (Ranked 254)  

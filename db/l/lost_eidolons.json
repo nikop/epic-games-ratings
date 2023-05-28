@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 913,
+  "EOS_Progressed": 914,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -478,6 +478,11 @@
       "Time": "2023-05-28T02:18:49.2118011+00:00",
       "NumProgressed": 913,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T04:06:44.3318499+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -529,7 +534,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "07",
@@ -617,7 +622,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "18",
@@ -625,7 +630,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "19",
@@ -672,7 +677,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 913,
+      "Progressed": 914,
       "Completed": 0
     }
   ],
@@ -680,8 +685,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-28T03:05:22.6353169+00:00",
+  "LastChanged_Achievements": "2023-05-28T04:06:44.3318495+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:59:14.0020697+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:05:22.6353334+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:00:25.3315692+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:06:44.3318677+00:00"
 }

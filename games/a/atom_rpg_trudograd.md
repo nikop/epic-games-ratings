@@ -26,11 +26,11 @@ Rating: 4.50 (Ranked 541)
 | Rising Star | 0.60% | ~6 |
 | Baby Eater | 0.50% | ~5 |
 | Admiral | 0.30% | ~3 |
+| Bronzovka | 0.30% | ~3 |
 | Commando | 0.30% | ~3 |
 | Incompetence | 0.30% | ~3 |
 | Sick Freak | 0.30% | ~3 |
 | Goodbye ATOM | 0.20% | ~2 |
-| Bronzovka | 0.20% | ~2 |
 | Escalation of Conflict | 0.20% | ~2 |
 | Holy Mountain | 0.20% | ~2 |
 | Goose Sacrifice | 0.20% | ~2 |

@@ -12,22 +12,22 @@
 | The Brass Boss | 52.00% | ~229 |
 | No, Thanks! | 49.00% | ~216 |
 | The Prince in Heels | 47.00% | ~207 |
+| Right On Time | 46.00% | ~202 |
 | Time Flies | 46.00% | ~202 |
-| Right On Time | 45.00% | ~198 |
 | The Harder They Fall | 45.00% | ~198 |
-| Fast Learner | 43.00% | ~189 |
+| Fast Learner | 44.00% | ~194 |
 | Immaculate Aim | 43.00% | ~189 |
-| Make Up For Lost Time | 41.00% | ~180 |
+| Make Up For Lost Time | 42.00% | ~185 |
 | Breaking Down Barriers | 40.00% | ~176 |
+| The Steel Shadow | 32.00% | ~141 |
 | Golem Chaser | 31.00% | ~136 |
-| The Steel Shadow | 30.00% | ~132 |
 | Like Clockwork | 30.00% | ~132 |
 | Family Memories | 27.00% | ~119 |
-| The Wicked Twins | 26.00% | ~114 |
-| Good Neighbor | 26.00% | ~114 |
+| The Wicked Twins | 27.00% | ~119 |
+| Good Neighbor | 27.00% | ~119 |
 | The Betrayer | 25.00% | ~110 |
 | Street Style | 23.00% | ~101 |
-| Check Your Pulse | 22.00% | ~97 |
+| Check Your Pulse | 23.00% | ~101 |
 | The Loose Cannon | 20.00% | ~88 |
 | Syron for Hope | 18.00% | ~79 |
 | Ask Questions Later | 18.00% | ~79 |

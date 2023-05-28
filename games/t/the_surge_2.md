@@ -5,27 +5,27 @@ Rating: 4.24 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,310 |
-| Don't I Know You...? | 77.00% | ~1,261 |
-| Jailbreak | 65.00% | ~1,065 |
-| Suited and Booted | 38.00% | ~622 |
-| HEADSHOT! | 37.00% | ~606 |
-| Sleeping With The Fishes | 35.00% | ~573 |
-| Overheated | 30.00% | ~491 |
-| High Performance | 30.00% | ~491 |
+| Rigged And Ready | 80.00% | ~1,313 |
+| Don't I Know You...? | 77.00% | ~1,264 |
+| Jailbreak | 65.00% | ~1,067 |
+| Suited and Booted | 38.00% | ~624 |
+| HEADSHOT! | 37.00% | ~607 |
+| Sleeping With The Fishes | 34.00% | ~558 |
+| Overheated | 30.00% | ~492 |
+| High Performance | 30.00% | ~492 |
 | Powered Up | 28.00% | ~459 |
-| Studied The Blade | 24.00% | ~393 |
-| Home Invasion | 22.00% | ~360 |
-| Luminary | 22.00% | ~360 |
-| It's a Trap | 22.00% | ~360 |
-| True Survivor | 21.00% | ~344 |
+| Studied The Blade | 24.00% | ~394 |
+| Home Invasion | 22.00% | ~361 |
+| Luminary | 22.00% | ~361 |
+| It's a Trap | 22.00% | ~361 |
+| True Survivor | 20.00% | ~328 |
 | Shocking | 20.00% | ~328 |
-| Court Martial | 19.00% | ~311 |
-| Offensive Defense | 19.00% | ~311 |
-| Unforeseeable Consequences | 19.00% | ~311 |
-| Dead Again | 18.00% | ~295 |
+| Court Martial | 19.00% | ~312 |
+| Offensive Defense | 19.00% | ~312 |
+| Unforeseeable Consequences | 19.00% | ~312 |
 | Clean Cut | 18.00% | ~295 |
-| Full Arsenal | 16.00% | ~262 |
+| Dead Again | 17.00% | ~279 |
+| Full Arsenal | 16.00% | ~263 |
 | Can't Trust Banks | 15.00% | ~246 |
 | Mommy Dearest | 13.00% | ~213 |
 | Bad Dog | 13.00% | ~213 |
@@ -34,9 +34,9 @@ Rating: 4.24 (Ranked 792)
 | Marked For Success | 12.00% | ~197 |
 | Where It All Began | 12.00% | ~197 |
 | Sorry, Didn't See You There | 12.00% | ~197 |
-| Corrupted Beauty | 11.00% | ~180 |
+| Corrupted Beauty | 11.00% | ~181 |
 | Triplets | 10.00% | ~164 |
-| Stimulating The Local Economy | 9.00% | ~147 |
+| Stimulating The Local Economy | 9.00% | ~148 |
 | A Little Banged Up | 8.00% | ~131 |
 | Denying Prophecy | 8.00% | ~131 |
 | Defense in Depth | 8.00% | ~131 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 792)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,638 (Ranked 153)  
+Progressed: 1,641 (Ranked 153)  
 Completed: 10 (0.61%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 10 (0.61%) (Ranked 104)
 | 2023-05-25 | 1,616 | 10 |
 | 2023-05-26 | 1,621 | 10 |
 | 2023-05-27 | 1,635 | 10 |
-| 2023-05-28 | 1,638 | 10 |
+| 2023-05-28 | 1,641 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

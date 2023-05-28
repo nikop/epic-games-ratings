@@ -19,17 +19,17 @@
 | Knives Out | 42.00% | ~114 |
 | Back In The Saddle | 41.00% | ~112 |
 | Land, Ho! | 40.00% | ~109 |
-| No Man Is An Island | 38.00% | ~103 |
+| No Man Is An Island | 39.00% | ~106 |
+| At Wits' End | 36.00% | ~98 |
 | Going Once... | 35.00% | ~95 |
-| At Wits' End | 35.00% | ~95 |
 | Bookworm | 33.00% | ~90 |
 | Fhtagn! | 33.00% | ~90 |
 | Let Me Be Frank | 32.00% | ~87 |
 | Up In Flames | 32.00% | ~87 |
 | Brain Food | 31.00% | ~84 |
-| No Stone Unturned | 27.00% | ~73 |
+| No Stone Unturned | 28.00% | ~76 |
 | Curiosity Killed The Cat | 19.00% | ~52 |
-| Big Breakthrough | 17.00% | ~46 |
+| Big Breakthrough | 18.00% | ~49 |
 | Read It And Weep | 17.00% | ~46 |
 | Reawakened | 7.00% | ~19 |
 ## Popularity (Based on EOS Achievements)

@@ -832,9 +832,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 165
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-28T03:05:12.3234718+00:00",
+  "LastChanged_Achievements": "2023-05-28T04:06:29.7277415+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:59:00.2723785+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:05:12.3234942+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:00:04.8771884+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:06:29.7277582+00:00"
 }

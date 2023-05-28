@@ -6,48 +6,48 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 18.00% | ~6,648 |
-| To The Nines | 16.00% | ~5,909 |
-| Optimized | 13.00% | ~4,801 |
-| Performance Review | 13.00% | ~4,801 |
-| Wet Work | 12.00% | ~4,432 |
-| Making a Name | 12.00% | ~4,432 |
-| The Side Job | 11.00% | ~4,063 |
-| Tune Up | 11.00% | ~4,063 |
-| Landlord | 10.00% | ~3,693 |
-| Wrecking Ball | 9.00% | ~3,324 |
-| Food for Thought | 9.00% | ~3,324 |
-| Finders Keepers | 8.00% | ~2,955 |
-| A Young Empire | 8.00% | ~2,955 |
-| Work Ethic | 7.00% | ~2,585 |
-| Quality Time | 5.00% | ~1,847 |
-| Power Players | 5.00% | ~1,847 |
-| Took It to The Limit | 5.00% | ~1,847 |
-| Picking Fights | 5.00% | ~1,847 |
-| Showdown | 4.00% | ~1,477 |
-| Kitted Out | 4.00% | ~1,477 |
-| Et tu? | 4.00% | ~1,477 |
-| Hijacked | 3.00% | ~1,108 |
-| The Spins | 3.00% | ~1,108 |
-| Masters of Santo Ileso | 3.00% | ~1,108 |
-| The Mechanic | 3.00% | ~1,108 |
-| Producer Credit | 3.00% | ~257 |
+| First F#@!ing Day | 19.00% | ~7,024 |
+| To The Nines | 16.00% | ~5,915 |
+| Optimized | 13.00% | ~4,806 |
+| Performance Review | 13.00% | ~4,806 |
+| Wet Work | 12.00% | ~4,436 |
+| Making a Name | 12.00% | ~4,436 |
+| The Side Job | 11.00% | ~4,067 |
+| Tune Up | 11.00% | ~4,067 |
+| Landlord | 10.00% | ~3,697 |
+| Wrecking Ball | 9.00% | ~3,327 |
+| Food for Thought | 9.00% | ~3,327 |
+| Finders Keepers | 8.00% | ~2,958 |
+| A Young Empire | 8.00% | ~2,958 |
+| Work Ethic | 7.00% | ~2,588 |
+| Quality Time | 5.00% | ~1,848 |
+| Power Players | 5.00% | ~1,848 |
+| Took It to The Limit | 5.00% | ~1,848 |
+| Picking Fights | 5.00% | ~1,848 |
+| Showdown | 4.00% | ~1,479 |
+| Kitted Out | 4.00% | ~1,479 |
+| Et tu? | 4.00% | ~1,479 |
+| Hijacked | 3.00% | ~1,109 |
+| The Spins | 3.00% | ~1,109 |
+| Masters of Santo Ileso | 3.00% | ~1,109 |
+| The Mechanic | 3.00% | ~1,109 |
+| Producer Credit | 3.00% | ~258 |
 | We could go home, or… | 2.00% | ~739 |
 | Challenge Accepted | 2.00% | ~739 |
 | A Golden Age | 2.00% | ~739 |
 | Free Refills | 2.00% | ~739 |
 | Closet Space | 2.00% | ~739 |
 | Smooth Moves | 2.00% | ~739 |
-| Face Off | 2.00% | ~171 |
-| Hazardous Heist | 2.00% | ~171 |
-| The Professional | 1.00% | ~369 |
-| Chaos Tamer | 1.00% | ~369 |
-| Untouchable | 1.00% | ~369 |
-| Neighborly | 1.00% | ~369 |
-| Prankster | 1.00% | ~369 |
-| Tourist | 1.00% | ~369 |
-| Shopping Spree | 0.80% | ~295 |
-| Always Be Hustling | 0.80% | ~295 |
+| Face Off | 2.00% | ~172 |
+| Hazardous Heist | 2.00% | ~172 |
+| The Professional | 1.00% | ~370 |
+| Chaos Tamer | 1.00% | ~370 |
+| Untouchable | 1.00% | ~370 |
+| Neighborly | 1.00% | ~370 |
+| Prankster | 1.00% | ~370 |
+| Tourist | 1.00% | ~370 |
+| Shopping Spree | 0.80% | ~296 |
+| Always Be Hustling | 0.80% | ~296 |
 | Bonus Round | 0.60% | ~222 |
 | Community Outreach | 0.60% | ~222 |
 | It's a Bird! | 0.40% | ~148 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~37 |
 | Fiesta Time | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,934 (Ranked 83)  
+Progressed: 36,969 (Ranked 83)  
 Completed: 20 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 20 (0.05%) (Ranked 174)
 | 2023-05-25 | 35,259 | 20 |
 | 2023-05-26 | 35,982 | 20 |
 | 2023-05-27 | 36,798 | 20 |
-| 2023-05-28 | 36,934 | 20 |
+| 2023-05-28 | 36,969 | 20 |
 ## Awards
 Max (Extremely Fun): 1,030  (Ranked 134)  
-Sum: 8,370 (Ranked 90)  
+Sum: 8,373 (Ranked 90)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -109,8 +109,8 @@ Diff (max vs sum): 44
 | This game has Quickly Understood Controls | 1,002 |
 | This game is Highly Recommended | 975 |
 | This game has Diverse Characters | 960 |
-| This game has Amazing Characters | 959 |
-| This game is Great for Beginners | 957 |
+| This game has Amazing Characters | 960 |
+| This game is Great for Beginners | 959 |
 | This game is Relaxing | 956 |
 | This game has Amazing Storytelling | 950 |
 | This game has Playful Visuals | 777 |
@@ -199,3 +199,4 @@ Diff (max vs sum): 44
 | 2023-05-25 | 3.78 | - | 1,029 | 8,359 |
 | 2023-05-26 | 3.78 | - | 1,029 | 8,367 |
 | 2023-05-27 | 3.78 | - | 1,030 | 8,370 |
+| 2023-05-28 | 3.78 | - | 1,030 | 8,373 |

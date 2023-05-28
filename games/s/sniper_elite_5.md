@@ -5,19 +5,19 @@ Rating: 4.41 (Ranked 664)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 20.00% | ~330 |
+| Meeting Resistance | 20.00% | ~331 |
 | Confirming Suspicions | 15.00% | ~248 |
-| The Kraken Wakes | 12.00% | ~198 |
+| The Kraken Wakes | 11.00% | ~182 |
 | Lord of War | 8.00% | ~132 |
 | It's Starting to Crack | 8.00% | ~132 |
 | Resourceful | 7.00% | ~116 |
 | Change the Channel | 7.00% | ~116 |
 | Enemy at the Gates | 6.00% | ~99 |
 | Organ Grinder | 6.00% | ~99 |
-| Just a Flesh Wound | 5.00% | ~82 |
-| Explosive Efficiency | 5.00% | ~82 |
-| As Quiet as a Mouse | 5.00% | ~82 |
-| Taking it back | 5.00% | ~82 |
+| Just a Flesh Wound | 5.00% | ~83 |
+| Explosive Efficiency | 5.00% | ~83 |
+| As Quiet as a Mouse | 5.00% | ~83 |
+| Taking it back | 5.00% | ~83 |
 | Opposing Force | 4.00% | ~66 |
 | Gunslinger | 4.00% | ~66 |
 | Target America | 4.00% | ~66 |
@@ -36,8 +36,8 @@ Rating: 4.41 (Ranked 664)
 | Precision Is Key | 2.00% | ~33 |
 | Rigged to Blow | 2.00% | ~33 |
 | Brains of the Operation | 2.00% | ~33 |
-| The Long Game | 1.00% | ~16 |
-| It'll Buff Right Out | 1.00% | ~16 |
+| The Long Game | 1.00% | ~17 |
+| It'll Buff Right Out | 1.00% | ~17 |
 | My Little Friend | 0.80% | ~13 |
 | Locomotion Commotion | 0.70% | ~12 |
 | Ghost of Falaise | 0.60% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 664)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,650 (Ranked 152)  
+Progressed: 1,654 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,650 | 2 |
+| 2023-05-28 | 1,654 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

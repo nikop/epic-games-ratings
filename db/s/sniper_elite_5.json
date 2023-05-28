@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1650,
+  "EOS_Progressed": 1654,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1663,6 +1663,11 @@
       "Time": "2023-05-28T03:05:13.4662946+00:00",
       "NumProgressed": 1650,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T04:06:31.4756097+00:00",
+      "NumProgressed": 1654,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1730,7 +1735,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1754,7 +1759,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1818,7 +1823,7 @@
       "Name": "The Long Game",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1874,7 +1879,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1914,15 +1919,15 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 182
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1994,7 +1999,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -2042,7 +2047,7 @@
       "Name": "Taking it back",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2241,13 +2246,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1601,
+      "Progressed": 1605,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1650,
+      "Progressed": 1654,
       "Completed": 2
     }
   ],
@@ -2255,8 +2260,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T03:05:13.4662939+00:00",
+  "LastChanged_Achievements": "2023-05-28T04:06:31.4756092+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:59:56.1526562+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:05:13.4663645+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:01:28.3600061+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:06:31.4756937+00:00"
 }

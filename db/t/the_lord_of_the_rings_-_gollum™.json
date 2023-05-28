@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -320,6 +320,11 @@
       "Time": "2023-05-28T02:18:21.0798085+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T04:06:15.682799+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -355,7 +360,7 @@
       "Name": "The Wraith",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Chapter10",
@@ -377,9 +382,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "Chapter4",
@@ -395,7 +400,7 @@
       "Name": "The Traitor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Chapter6",
@@ -435,7 +440,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Collectibles2",
@@ -483,7 +488,7 @@
       "Name": "Like Flying...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "GollumChoices",
@@ -507,7 +512,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Murderer",
@@ -611,21 +616,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T03:05:01.8821493+00:00",
+  "LastChanged_Achievements": "2023-05-28T04:06:15.6827985+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:57:40.4934026+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:05:01.8821766+00:00"
+  "LastUpdate_Ratings": "2023-05-28T03:57:59.0858103+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:06:15.6828267+00:00"
 }

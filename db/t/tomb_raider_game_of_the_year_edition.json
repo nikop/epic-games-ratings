@@ -2,12 +2,12 @@
   "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "ProductSlug": "tomb-raider",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
@@ -2236,6 +2236,6 @@
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
   "LastChanged": "2023-05-27T22:59:15.3977152+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.86749+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:59:11.6328551+00:00",
-  "LastUpdate_Achievements": "2023-05-28T03:04:28.5926895+00:00"
+  "LastUpdate_Ratings": "2023-05-28T04:00:22.2411007+00:00",
+  "LastUpdate_Achievements": "2023-05-28T04:05:26.1493438+00:00"
 }
