@@ -15,11 +15,11 @@ Rating: 4.17 (Ranked 839)
 | Knighthood | 1.00% | ~626 |
 | Loose Ends | 1.00% | ~626 |
 | Whispered Words | 1.00% | ~626 |
-| Something in the Clay | 0.90% | ~563 |
-| Snow Problem | 0.90% | ~563 |
-| Unstoppable Force | 0.90% | ~563 |
-| Lock and Key | 0.90% | ~563 |
-| Bad Apples in Every Orchard | 0.90% | ~563 |
+| Something in the Clay | 0.90% | ~564 |
+| Snow Problem | 0.90% | ~564 |
+| Unstoppable Force | 0.90% | ~564 |
+| Lock and Key | 0.90% | ~564 |
+| Bad Apples in Every Orchard | 0.90% | ~564 |
 | Protector of Gotham | 0.80% | ~501 |
 | The Show Mud Go On | 0.80% | ~501 |
 | From Inside Gotham's Walls | 0.80% | ~501 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,603 (Ranked 70)  
+Progressed: 62,616 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,11 +105,11 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,603 | 91 |
+| 2023-05-28 | 62,616 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
-Sum: 3,737 (Ranked 137)  
-Diff (max vs sum): -39  
+Sum: 3,737 (Ranked 138)  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,254 |

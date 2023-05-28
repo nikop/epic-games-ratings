@@ -2,20 +2,20 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 651,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -212,13 +212,19 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-28T23:00:50.2938777+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1757,
+  "EOS_Progressed": 1760,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
@@ -1758,6 +1764,11 @@
       "Time": "2023-05-28T22:06:08.0514205+00:00",
       "NumProgressed": 1757,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T23:06:03.0133625+00:00",
+      "NumProgressed": 1760,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1809,7 +1820,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1833,7 +1844,7 @@
       "Name": "Organ Grinder",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1849,7 +1860,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1937,7 +1948,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2137,7 +2148,7 @@
       "Name": "Taking it back",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2175,9 +2186,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2336,22 +2347,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1708,
+      "Progressed": 1711,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1757,
+      "Progressed": 1760,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:06:08.0514197+00:00",
+  "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:06:03.0133619+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:00:37.0726394+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:06:08.0514977+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:00:50.2938783+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:06:03.0134451+00:00"
 }

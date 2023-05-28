@@ -4,11 +4,11 @@
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 237,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -2784,6 +2784,6 @@
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
   "LastChanged": "2023-05-28T20:00:49.5214341+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.9638105+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:59:53.3616271+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:05:18.137947+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:00:06.4510464+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:05:13.1772214+00:00"
 }

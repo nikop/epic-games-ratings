@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -762,9 +762,9 @@
       "ID": "COMPLETE_ANY_HISTORIC BATTLE",
       "SetID": "6kcl14p",
       "Name": "From the Pages of History",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -843,8 +843,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:01:01.8367792+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:01:17.5026769+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.8279033+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:58:29.9015783+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:01:01.8367989+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:58:41.5488392+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:01:17.5027886+00:00"
 }

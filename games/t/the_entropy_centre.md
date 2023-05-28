@@ -8,15 +8,15 @@
 | Wake Up | 81.00% | ~98 |
 | Time Gates | 61.00% | ~74 |
 | Command Centre | 48.00% | ~58 |
-| This is a Wall | 40.00% | ~48 |
-| Extendable Bridges | 32.00% | ~39 |
+| This is a Wall | 41.00% | ~50 |
+| Extendable Bridges | 33.00% | ~40 |
 | 48 Attempts | 31.00% | ~38 |
 | Chain Reaction | 31.00% | ~38 |
 | Man's Best Friend | 29.00% | ~35 |
 | Handyman | 21.00% | ~25 |
 | No Time To Relax | 14.00% | ~17 |
+| Bad Robots | 12.00% | ~15 |
 | Running Boots | 12.00% | ~15 |
-| Bad Robots | 11.00% | ~13 |
 | Fashionista | 11.00% | ~13 |
 | Archivist | 9.00% | ~11 |
 | Cataclysm | 7.00% | ~8 |

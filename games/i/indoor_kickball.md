@@ -12,8 +12,8 @@
 | Have a good trip! | 62.00% | ~13 |
 | First Win | 57.00% | ~12 |
 | Settle Down | 48.00% | ~10 |
-| Stay Hydrated | 43.00% | ~9 |
-| Butter Fingers | 38.00% | ~8 |
+| Stay Hydrated | 48.00% | ~10 |
+| Butter Fingers | 43.00% | ~9 |
 | True Story! | 33.00% | ~7 |
 | Bedroom Secret Spot | 29.00% | ~6 |
 | Grand Slam! | 24.00% | ~5 |

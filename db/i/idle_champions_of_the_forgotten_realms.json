@@ -3988,9 +3988,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89048,
+  "EOS_Progressed": 89056,
   "EOS_Completed": 1892,
-  "EOS_NewPlayers": 802,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7778,6 +7778,11 @@
       "Time": "2023-05-28T22:06:36.8321867+00:00",
       "NumProgressed": 89048,
       "NumCompleted": 1892
+    },
+    {
+      "Time": "2023-05-28T23:06:31.0468916+00:00",
+      "NumProgressed": 89056,
+      "NumCompleted": 1892
     }
   ],
   "TotalAchievements": 493,
@@ -7789,7 +7794,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "objective_completed_10",
@@ -9971,9 +9976,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_546",
@@ -11732,21 +11737,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55322,
+      "Progressed": 55330,
       "Completed": 2732
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89048,
+      "Progressed": 89056,
       "Completed": 1892
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-28T11:58:15.81718+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:06:36.8321859+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:06:31.0468909+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:58:03.2749407+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:06:36.8358895+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:58:13.4728328+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:06:31.049864+00:00"
 }

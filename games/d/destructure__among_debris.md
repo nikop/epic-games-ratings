@@ -17,6 +17,7 @@
 | Back From The Dead | 4.00% | ~4 |
 | Ball Protector | 4.00% | ~4 |
 | Legendary Destructor | 3.00% | ~3 |
+| Ball Collector | 2.00% | ~2 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
 | Medium Rare | 2.00% | ~2 |
@@ -25,7 +26,6 @@
 | Single Person On Earth | 2.00% | ~2 |
 | Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
-| Ball Collector | 0.90% | ~1 |
 | Bullet Hell | 0.90% | ~1 |
 | Ice Breaker | 0.90% | ~1 |
 | Machine Man | 0.90% | ~1 |

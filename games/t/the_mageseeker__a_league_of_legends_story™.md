@@ -5,13 +5,13 @@ Rating: 4.78 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,089 |
-| No more cages! | 92.00% | ~2,023 |
-| Everfrost | 77.00% | ~1,693 |
-| Dark Forest | 76.00% | ~1,671 |
-| Pentakill | 75.00% | ~1,649 |
-| The use of petricite | 72.00% | ~1,583 |
-| You can pet the dog | 60.00% | ~1,319 |
+| For Demacia | 95.00% | ~2,091 |
+| No more cages! | 92.00% | ~2,025 |
+| Everfrost | 77.00% | ~1,695 |
+| Dark Forest | 76.00% | ~1,673 |
+| Pentakill | 75.00% | ~1,651 |
+| The use of petricite | 72.00% | ~1,585 |
+| You can pet the dog | 60.00% | ~1,321 |
 | Big Helmet Bro | 35.00% | ~770 |
 | Clarion Cove | 34.00% | ~748 |
 | Past trauma | 33.00% | ~726 |
@@ -42,7 +42,7 @@ Rating: 4.78 (Ranked 99)
 | True power | 13.00% | ~286 |
 | Meltridge | 13.00% | ~286 |
 | The Central Headquarters | 13.00% | ~286 |
-| Cloven Dell Headquarters | 13.00% | ~286 |
+| Cloven Dell Headquarters | 12.00% | ~264 |
 | Whispers in the Woods IV | 11.00% | ~242 |
 | Embrace the darkness | 10.00% | ~220 |
 | I smell fear | 10.00% | ~220 |
@@ -50,16 +50,16 @@ Rating: 4.78 (Ranked 99)
 | The Great City of Demacia | 9.00% | ~198 |
 | Back to sleep, then... | 9.00% | ~198 |
 | Call it 'redistribution of magic | 9.00% | ~198 |
-| Do you trust me? | 8.00% | ~176 |
 | Chains master | 8.00% | ~176 |
 | Truth is a dark mirror | 8.00% | ~176 |
 | You can pet the... horse | 8.00% | ~176 |
+| Do you trust me? | 7.00% | ~154 |
 | The great mage rebellion starts now | 7.00% | ~154 |
 | Spellcrafting | 7.00% | ~154 |
 | Silverwing nest | 2.00% | ~44 |
 | The Unshackled | 0.50% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,199 (Ranked 145)  
+Progressed: 2,201 (Ranked 145)  
 Completed: 1 (0.05%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.05%) (Ranked 176)
 | 2023-05-25 | 2,150 | 1 |
 | 2023-05-26 | 2,167 | 1 |
 | 2023-05-27 | 2,178 | 1 |
-| 2023-05-28 | 2,199 | 1 |
+| 2023-05-28 | 2,201 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

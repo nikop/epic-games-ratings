@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -436,9 +436,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 249892,
+  "EOS_Progressed": 249894,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4166,6 +4166,11 @@
       "Time": "2023-05-28T22:06:30.1724483+00:00",
       "NumProgressed": 249892,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T23:06:24.4779965+00:00",
+      "NumProgressed": 249894,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -4177,7 +4182,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17492
+      "UsersEstimate": 17493
     },
     {
       "ID": "Act2",
@@ -4465,7 +4470,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54976
+      "UsersEstimate": 54977
     },
     {
       "ID": "KillOthers2",
@@ -4624,7 +4629,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249892,
+      "Progressed": 249894,
       "Completed": 1
     }
   ],
@@ -4632,8 +4637,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-28T17:59:44.0584692+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:06:30.1724477+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:06:24.4779956+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.4496251+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:00:20.0966369+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:06:30.1725336+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:00:33.2434491+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:06:24.4780759+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,948 |
-| Landlord | 30.00% | ~15,384 |
-| Lawmaker | 21.00% | ~10,769 |
-| Bannerlord | 20.00% | ~10,256 |
-| Horde breaker | 20.00% | ~10,256 |
-| Trained | 20.00% | ~10,256 |
-| The king is pleased | 16.00% | ~8,205 |
-| King Solomon | 15.00% | ~7,692 |
-| Apple of my eye | 14.00% | ~7,179 |
-| I can do it | 14.00% | ~7,179 |
+| Lawbringer | 35.00% | ~17,950 |
+| Landlord | 30.00% | ~15,386 |
+| Lawmaker | 21.00% | ~10,770 |
+| Bannerlord | 20.00% | ~10,257 |
+| Horde breaker | 20.00% | ~10,257 |
+| Trained | 20.00% | ~10,257 |
+| The king is pleased | 16.00% | ~8,206 |
+| King Solomon | 15.00% | ~7,693 |
+| Apple of my eye | 14.00% | ~7,180 |
+| I can do it | 14.00% | ~7,180 |
 | God of the Arena | 12.00% | ~6,154 |
 | Against all odds | 10.00% | ~5,128 |
-| Swordbearer | 9.00% | ~4,615 |
-| Duelist | 8.00% | ~4,102 |
-| Dynasty | 8.00% | ~4,102 |
-| I spit on your grave | 8.00% | ~4,102 |
-| What have the Romans ever done for us? | 8.00% | ~4,102 |
+| Swordbearer | 9.00% | ~4,616 |
+| Duelist | 8.00% | ~4,103 |
+| Dynasty | 8.00% | ~4,103 |
+| I spit on your grave | 8.00% | ~4,103 |
+| What have the Romans ever done for us? | 8.00% | ~4,103 |
 | Butterlord | 7.00% | ~3,590 |
 | Mastery | 6.00% | ~3,077 |
 | This Is Our Land | 6.00% | ~3,077 |
@@ -31,7 +31,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crush your enemies | 4.00% | ~2,051 |
 | My way | 4.00% | ~2,051 |
 | Veni vidi vici | 4.00% | ~2,051 |
-| Freedom! | 3.00% | ~1,538 |
+| Freedom! | 3.00% | ~1,539 |
 | Entrepreneur | 2.00% | ~1,026 |
 | Long live the Empire! | 2.00% | ~1,026 |
 | Real Estate | 2.00% | ~1,026 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,281 (Ranked 75)  
+Progressed: 51,285 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-25 | 50,908 | 0 |
 | 2023-05-26 | 51,010 | 0 |
 | 2023-05-27 | 51,148 | 0 |
-| 2023-05-28 | 51,281 | 0 |
+| 2023-05-28 | 51,285 | 0 |
 ## Awards
 Max (Character Customization): 6,589  (Ranked 49)  
 Sum: 13,182 (Ranked 67)  

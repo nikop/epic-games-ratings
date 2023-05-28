@@ -28,8 +28,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.80% | ~5,649 |
 | Old Child | 0.80% | ~5,649 |
 | Take damage to save time | 0.80% | ~5,649 |
-| Scareless | 0.70% | ~4,942 |
-| Kung-Fu Tussle | 0.70% | ~4,942 |
+| Scareless | 0.70% | ~4,943 |
+| Kung-Fu Tussle | 0.70% | ~4,943 |
 | Dance of the Praying Mantis | 0.60% | ~4,236 |
 | Qi Gong: Mind | 0.60% | ~4,236 |
 | I know Kung-Fu | 0.60% | ~4,236 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,065 (Ranked 15)  
+Progressed: 706,072 (Ranked 15)  
 Completed: 12,742 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 12,742 (1.80%) (Ranked 65)
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
-| 2023-05-28 | 706,065 | 12,742 |
+| 2023-05-28 | 706,072 | 12,742 |
 ## Awards
 Max (Great Boss Battles): 6,108  (Ranked 53)  
 Sum: 10,405 (Ranked 77)  

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 77.00% | ~254 |
-| A new Journey | 76.00% | ~251 |
+| Country Bumpkin | 77.00% | ~255 |
+| A new Journey | 76.00% | ~252 |
 | Departure | 75.00% | ~248 |
-| From X to Y | 74.00% | ~244 |
-| Brainstorm | 74.00% | ~244 |
-| Way of Iron | 74.00% | ~244 |
-| Mystery Tour | 71.00% | ~234 |
-| We brake for nobody | 70.00% | ~231 |
+| Way of Iron | 74.00% | ~245 |
+| From X to Y | 73.00% | ~242 |
+| Brainstorm | 73.00% | ~242 |
+| Mystery Tour | 71.00% | ~235 |
+| We brake for nobody | 70.00% | ~232 |
 | All around the World | 69.00% | ~228 |
-| Mind the Gap | 68.00% | ~224 |
-| Travel Company | 68.00% | ~224 |
-| Right through the middle | 60.00% | ~198 |
-| Poor Devil | 55.00% | ~182 |
+| Travel Company | 69.00% | ~228 |
+| Mind the Gap | 68.00% | ~225 |
+| Right through the middle | 60.00% | ~199 |
+| Poor Devil | 54.00% | ~179 |
 | Apprentice | 53.00% | ~175 |
-| Facility Manager | 51.00% | ~168 |
-| Producer | 45.00% | ~148 |
-| Stoker | 43.00% | ~142 |
-| Bridge Builder | 41.00% | ~135 |
-| Access granted | 38.00% | ~125 |
-| Full Steam ahead | 27.00% | ~89 |
-| Going once, going twice, sold | 27.00% | ~89 |
+| Facility Manager | 51.00% | ~169 |
+| Producer | 46.00% | ~152 |
+| Stoker | 44.00% | ~146 |
+| Bridge Builder | 41.00% | ~136 |
+| Access granted | 38.00% | ~126 |
+| Full Steam ahead | 28.00% | ~93 |
+| Going once, going twice, sold | 28.00% | ~93 |
 | Seven at one stroke | 22.00% | ~73 |
-| Bull and bear | 21.00% | ~69 |
+| Bull and bear | 21.00% | ~70 |
 | Mole | 19.00% | ~63 |
-| Trailblazer | 17.00% | ~56 |
-| Financial Shark | 17.00% | ~56 |
-| All mine | 16.00% | ~53 |
+| Trailblazer | 18.00% | ~60 |
+| Financial Shark | 18.00% | ~60 |
+| All mine | 17.00% | ~56 |
 | Hostile Takeover | 15.00% | ~50 |
 | General Manager | 14.00% | ~46 |
 | Country Life | 12.00% | ~40 |
@@ -38,14 +38,14 @@
 | Traffic Jam | 9.00% | ~30 |
 | Assimilated | 7.00% | ~23 |
 | Locusts | 7.00% | ~23 |
-| Resistance is futile | 5.00% | ~16 |
-| Max Power | 5.00% | ~16 |
-| Breaking Ground | 5.00% | ~16 |
+| Resistance is futile | 5.00% | ~17 |
+| Max Power | 5.00% | ~17 |
+| Breaking Ground | 5.00% | ~17 |
 | Bold and beautiful | 4.00% | ~13 |
 | Tycoon | 2.00% | ~7 |
 | Settler | 2.00% | ~7 |
 | Socializer | 2.00% | ~7 |
-| Go West | 0.90% | ~3 |
+| Go West | 1.00% | ~3 |
 | Conductor | 0.90% | ~3 |
 | Accurate | 0.60% | ~2 |
 | A new Hope | 0.30% | ~1 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 214)  
+Progressed: 331 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,4 +74,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-25 | 119 | 0 |
 | 2023-05-26 | 223 | 0 |
 | 2023-05-27 | 285 | 0 |
-| 2023-05-28 | 330 | 0 |
+| 2023-05-28 | 331 | 0 |

@@ -2,13 +2,13 @@
   "ID": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "Name": "Startup Panic",
   "ProductSlug": "startup-panic",
-  "Ranking_Rating": 696,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-03T13:00:00+00:00",
     "PcReleaseDate": "2020-12-03T13:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 28,
   "RatingHistory": [
     {
@@ -128,6 +128,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-28T22:58:35.8405554+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -146,8 +152,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:21.1548714+00:00",
   "FirstSeenRating": "2022-07-31T11:01:04.2055558+00:00",
-  "LastChanged": "2023-03-31T05:57:40.6669984+00:00",
+  "LastChanged": "2023-05-28T22:58:35.8405553+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:07.0500459+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:58:24.4891335+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:03:41.7935491+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:58:35.8405558+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:03:46.5662636+00:00"
 }

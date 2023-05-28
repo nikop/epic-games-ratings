@@ -954,9 +954,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_011",
@@ -1067,8 +1067,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:05:57.8241945+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:05:52.7867658+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:58:02.2375066+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:05:57.824218+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:58:12.3096519+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:05:52.7867957+00:00"
 }

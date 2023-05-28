@@ -1533,9 +1533,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42488,
+  "EOS_Progressed": 42489,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2768,6 +2768,11 @@
       "Time": "2023-05-28T22:06:33.3884595+00:00",
       "NumProgressed": 42488,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-28T23:06:27.535154+00:00",
+      "NumProgressed": 42489,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2883,7 +2888,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16145
+      "UsersEstimate": 16146
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -2899,7 +2904,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13171
+      "UsersEstimate": 13172
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -3003,7 +3008,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13171
+      "UsersEstimate": 13172
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -3027,7 +3032,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20394
+      "UsersEstimate": 20395
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -3043,7 +3048,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13171
+      "UsersEstimate": 13172
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -3051,7 +3056,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9347
+      "UsersEstimate": 9348
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -3091,7 +3096,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16145
+      "UsersEstimate": 16146
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -3107,7 +3112,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28892
+      "UsersEstimate": 28893
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -3123,7 +3128,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12746
+      "UsersEstimate": 12747
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -3131,7 +3136,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19544
+      "UsersEstimate": 19545
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -3139,7 +3144,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23793
+      "UsersEstimate": 23794
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -3147,7 +3152,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19544
+      "UsersEstimate": 19545
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -3179,7 +3184,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27617
+      "UsersEstimate": 27618
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3235,7 +3240,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27617
+      "UsersEstimate": 27618
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3275,7 +3280,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9347
+      "UsersEstimate": 9348
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -3306,15 +3311,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42488,
+      "Progressed": 42489,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-27T18:59:14.2196655+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:06:33.3884589+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:06:27.5351535+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:59:52.8983457+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:06:33.3885305+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:00:05.9270554+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:06:27.5352265+00:00"
 }

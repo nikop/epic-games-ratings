@@ -1,20 +1,20 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 662)  
+Rating: 4.42 (Ranked 651)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 21.00% | ~369 |
-| Confirming Suspicions | 16.00% | ~281 |
+| Meeting Resistance | 21.00% | ~370 |
+| Confirming Suspicions | 16.00% | ~282 |
 | The Kraken Wakes | 12.00% | ~211 |
 | Lord of War | 9.00% | ~158 |
 | It's Starting to Crack | 9.00% | ~158 |
 | Resourceful | 8.00% | ~141 |
 | Change the Channel | 8.00% | ~141 |
-| Enemy at the Gates | 6.00% | ~105 |
-| Organ Grinder | 6.00% | ~105 |
-| Taking it back | 6.00% | ~105 |
+| Enemy at the Gates | 6.00% | ~106 |
+| Organ Grinder | 6.00% | ~106 |
+| Taking it back | 6.00% | ~106 |
 | Just a Flesh Wound | 5.00% | ~88 |
 | Explosive Efficiency | 5.00% | ~88 |
 | As Quiet as a Mouse | 5.00% | ~88 |
@@ -23,6 +23,7 @@ Rating: 4.41 (Ranked 662)
 | Sharpshooter | 4.00% | ~70 |
 | Die Nussknacker Sweet! | 4.00% | ~70 |
 | Target America | 4.00% | ~70 |
+| The Kraken Sleeps | 4.00% | ~70 |
 | Liberté | 3.00% | ~53 |
 | Fields of Glory | 3.00% | ~53 |
 | Skirmisher | 3.00% | ~53 |
@@ -30,7 +31,6 @@ Rating: 4.41 (Ranked 662)
 | Der Geist | 3.00% | ~53 |
 | Close Quarters | 3.00% | ~53 |
 | Snake in the Grass | 3.00% | ~53 |
-| The Kraken Sleeps | 3.00% | ~53 |
 | Climbing the Ladder | 2.00% | ~35 |
 | No Stone Unturned | 2.00% | ~35 |
 | Set Europe Ablaze | 2.00% | ~35 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 662)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,757 (Ranked 152)  
+Progressed: 1,760 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,757 | 2 |
+| 2023-05-28 | 1,760 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -150,3 +150,4 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-25 | 4.38 | 0 | 0 |
 | 2023-05-26 | 4.39 | 0 | 0 |
 | 2023-05-27 | 4.41 | 0 | 0 |
+| 2023-05-28 | 4.42 | 0 | 0 |

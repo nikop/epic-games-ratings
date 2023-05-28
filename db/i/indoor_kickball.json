@@ -4,8 +4,8 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -339,9 +339,9 @@
       "ID": "35",
       "SetID": "39djiaj",
       "Name": "Butter Fingers",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "37",
@@ -419,9 +419,9 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "9",
@@ -442,8 +442,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:06:05.025493+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:05:59.9977437+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:59:11.3221793+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:06:05.0255236+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:59:23.2250054+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:05:59.9977769+00:00"
 }

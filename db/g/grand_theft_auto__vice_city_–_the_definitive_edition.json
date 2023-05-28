@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 292,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 113,
@@ -346,9 +346,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 7137,
+  "EOS_Progressed": 7140,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2706,6 +2706,11 @@
       "Time": "2023-05-28T22:03:18.2009449+00:00",
       "NumProgressed": 7137,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-28T23:03:22.7529554+00:00",
+      "NumProgressed": 7140,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 34,
@@ -2733,7 +2738,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH04",
@@ -2741,7 +2746,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH05",
@@ -2821,7 +2826,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH15",
@@ -2877,7 +2882,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "ACH22",
@@ -2885,7 +2890,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH23",
@@ -2901,7 +2906,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH25",
@@ -2909,7 +2914,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH26",
@@ -2925,7 +2930,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH28",
@@ -2988,7 +2993,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7137,
+      "Progressed": 7140,
       "Completed": 24
     }
   ],
@@ -2996,8 +3001,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-26T13:02:50.0676532+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:03:18.2009437+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:03:22.7529547+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:58:17.8255635+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:03:18.2009969+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:58:29.0468364+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:03:22.7530004+00:00"
 }

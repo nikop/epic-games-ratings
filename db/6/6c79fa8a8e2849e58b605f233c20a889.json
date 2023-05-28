@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1066,
+  "EOS_Progressed": 1068,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1048,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -731,6 +731,11 @@
       "Time": "2023-05-28T22:02:28.8510117+00:00",
       "NumProgressed": 1066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T23:03:03.7679998+00:00",
+      "NumProgressed": 1068,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -822,7 +827,7 @@
       "Name": "Novice",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "GLOVE_SLAP",
@@ -846,7 +851,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "GUARD_MAKER",
@@ -900,9 +905,9 @@
       "ID": "SMARTER_THAN_A_BEAR",
       "SetID": "8lhbnh7",
       "Name": "Smarter than a Bear",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WIZARD_MASTERY",
@@ -917,14 +922,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1066,
+      "Progressed": 1068,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:02:28.8510111+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:03:03.7679986+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:57:02.570817+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:02:28.8510338+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:57:12.4105355+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:03:03.7680205+00:00"
 }

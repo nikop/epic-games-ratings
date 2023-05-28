@@ -4,8 +4,8 @@
   "ProductSlug": "miasma-chronicles",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -622,6 +622,11 @@
       "Time": "2023-05-28T22:00:55.1742377+00:00",
       "NumProgressed": 743,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T23:01:10.7384047+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -639,9 +644,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -649,7 +654,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ATTENBOROUGH",
@@ -703,17 +708,17 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 172
     },
     {
       "ID": "CRUELTY",
@@ -745,7 +750,7 @@
       "Name": "Limp Richard",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -791,9 +796,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     },
     {
       "ID": "EXPERIENCED",
@@ -807,9 +812,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 179
     },
     {
       "ID": "FIRST_BLOOD",
@@ -817,7 +822,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 679
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -865,7 +870,7 @@
       "Name": "Gun for Hire",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 440
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -873,7 +878,7 @@
       "Name": "Hold The Line",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "IM_THE_LAW",
@@ -881,7 +886,7 @@
       "Name": "I am the law!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 351
     },
     {
       "ID": "INFILTRATOR",
@@ -935,9 +940,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 507
     },
     {
       "ID": "RECYCLER",
@@ -983,9 +988,9 @@
       "ID": "SIDE_ORDER",
       "SetID": "9a4jnji",
       "Name": "Side Order",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -1009,7 +1014,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1040,14 +1045,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 746,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-28T22:00:55.1742371+00:00",
+  "LastChanged_Achievements": "2023-05-28T23:01:10.7384038+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:58:19.9470359+00:00",
-  "LastUpdate_Achievements": "2023-05-28T22:00:55.1742988+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:58:31.078304+00:00",
+  "LastUpdate_Achievements": "2023-05-28T23:01:10.7384701+00:00"
 }
