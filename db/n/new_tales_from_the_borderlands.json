@@ -2,7 +2,7 @@
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 133,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.08,
+  "Rating": 4.09,
   "RatingHistory": [
     {
       "Time": "2022-10-25T21:05:10.6531952+00:00",
@@ -154,6 +154,12 @@
     {
       "Time": "2023-05-11T21:59:43.2932558+00:00",
       "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-28T21:59:31.5873028+00:00",
+      "Rating": 4.09,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -647,9 +653,9 @@
   "FirstSeen": "2022-10-21T09:01:49.541257+00:00",
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
-  "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:06:17.5026049+00:00",
+  "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:06:14.5174705+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:59.8325789+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:00:03.6223139+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:06:17.5026248+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:59:31.5873031+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:06:14.5174905+00:00"
 }

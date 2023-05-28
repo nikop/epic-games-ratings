@@ -5,7 +5,7 @@ Rating: 3.80 (Ranked 916)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~407 |
+| I don't feel so good | 41.00% | ~408 |
 | Electrician | 33.00% | ~328 |
 | Fear my botany powers, Mars | 30.00% | ~298 |
 | Zero Waste | 27.00% | ~268 |
@@ -17,7 +17,7 @@ Rating: 3.80 (Ranked 916)
 | Occupy Mars! | 17.00% | ~169 |
 | Detective | 15.00% | ~149 |
 | The Collector | 10.00% | ~99 |
-| Get your hands dirty | 8.00% | ~79 |
+| Get your hands dirty | 8.00% | ~80 |
 | All Wheel Trouble | 5.00% | ~50 |
 | ITS crash site | 4.00% | ~40 |
 | Space Forest | 4.00% | ~40 |
@@ -54,7 +54,7 @@ Rating: 3.80 (Ranked 916)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 993 (Ranked 169)  
+Progressed: 994 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-25 | 903 | 0 |
 | 2023-05-26 | 936 | 0 |
 | 2023-05-27 | 964 | 0 |
-| 2023-05-28 | 993 | 0 |
+| 2023-05-28 | 994 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

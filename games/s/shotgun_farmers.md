@@ -34,6 +34,7 @@
 | Pyromaniac | 3.00% | ~0 |
 | This Is My Boomstick | 3.00% | ~0 |
 | Easy Peasy | 3.00% | ~0 |
+| Chick Magnet | 2.00% | ~1 |
 | Getting Started | 2.00% | ~1 |
 | Early Bird | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
@@ -46,7 +47,6 @@
 | Heal Me Peas | 2.00% | ~0 |
 | Heart Breaker | 2.00% | ~0 |
 | Tomassacred | 2.00% | ~0 |
-| Chick Magnet | 0.00% | ~0 |
 | Fresh Pancake | 0.00% | ~0 |
 | 15 Days | 0.00% | ~0 |
 | 30 Days | 0.00% | ~0 |

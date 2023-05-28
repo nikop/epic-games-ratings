@@ -21,6 +21,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Looks Familiar | 0.20% | ~44 |
 | For Justice | 0.20% | ~44 |
 | For Glory | 0.20% | ~44 |
+| Good Boy! | 0.20% | ~44 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |
 | Erebus Purified | 0.10% | ~22 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Good Practice | 0.10% | ~22 |
 | Maybe Wax Doesn't Melt | 0.10% | ~22 |
 | A Glimpse of the Future | 0.10% | ~22 |
-| Good Boy! | 0.10% | ~22 |
 | Just the Beginning | 0.10% | ~22 |
 | Wasted Betrayal | 0.10% | ~22 |
 | Had to Do It | 0.10% | ~22 |

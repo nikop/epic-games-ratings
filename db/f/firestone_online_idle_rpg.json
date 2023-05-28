@@ -2416,9 +2416,9 @@
       "ID": "dailyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Daily Quest Completionist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 96
     },
     {
       "ID": "doingmypart",
@@ -2937,8 +2937,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:06:18.8908109+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:06:16.0478224+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:58:18.8177541+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:06:18.8908981+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:58:00.4501879+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:06:16.0479175+00:00"
 }

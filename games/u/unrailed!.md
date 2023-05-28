@@ -6,16 +6,16 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,424 |
-| Incurious | 14.00% | ~83,424 |
-| Stroller | 12.00% | ~71,506 |
-| Climate Change | 12.00% | ~71,506 |
-| Advanced Hiker | 10.00% | ~59,588 |
-| Toy Train | 10.00% | ~59,588 |
-| Hiker | 9.00% | ~53,629 |
-| Mojave Courier | 4.00% | ~23,835 |
-| Advanced Voyager | 3.00% | ~17,876 |
-| Expert Stroller | 3.00% | ~17,876 |
+| Advanced Stroller | 14.00% | ~83,427 |
+| Incurious | 14.00% | ~83,427 |
+| Stroller | 12.00% | ~71,509 |
+| Climate Change | 12.00% | ~71,509 |
+| Advanced Hiker | 10.00% | ~59,591 |
+| Toy Train | 10.00% | ~59,591 |
+| Hiker | 9.00% | ~53,632 |
+| Mojave Courier | 4.00% | ~23,836 |
+| Advanced Voyager | 3.00% | ~17,877 |
+| Expert Stroller | 3.00% | ~17,877 |
 | Voyager | 2.00% | ~11,918 |
 | Expert Hiker | 2.00% | ~11,918 |
 | Orient Express | 2.00% | ~11,918 |
@@ -24,9 +24,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Saved by Nausicaä | 2.00% | ~11,918 |
 | Lost | 1.00% | ~5,959 |
 | Rocketman | 0.60% | ~3,575 |
-| Expert Voyager | 0.50% | ~2,979 |
-| Nanuk | 0.50% | ~2,979 |
-| Shopaholic | 0.50% | ~2,979 |
+| Expert Voyager | 0.50% | ~2,980 |
+| Nanuk | 0.50% | ~2,980 |
+| Shopaholic | 0.50% | ~2,980 |
 | Terminal Station | 0.40% | ~2,384 |
 | Wayfarer | 0.30% | ~1,788 |
 | Advanced Wayfarer | 0.30% | ~1,788 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~596 |
 | 20 Miles under the Sea | 0.10% | ~596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595,883 (Ranked 20)  
+Progressed: 595,909 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 7 (0.00%) (Ranked 207)
 | 2023-05-25 | 594,025 | 7 |
 | 2023-05-26 | 594,575 | 7 |
 | 2023-05-27 | 595,255 | 7 |
-| 2023-05-28 | 595,883 | 7 |
+| 2023-05-28 | 595,909 | 7 |
 ## Awards
 Max (Diverse Characters): 186  (Ranked 266)  
 Sum: 1,508 (Ranked 208)  

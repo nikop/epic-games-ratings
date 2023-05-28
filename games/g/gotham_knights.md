@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,594 (Ranked 70)  
+Progressed: 62,603 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,14 +105,14 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,594 | 91 |
+| 2023-05-28 | 62,603 | 91 |
 ## Awards
-Max (Great Boss Battles): 2,244  (Ranked 98)  
-Sum: 3,727 (Ranked 137)  
+Max (Great Boss Battles): 2,254  (Ranked 98)  
+Sum: 3,737 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,244 |
+| This game has Great Boss Battles | 2,254 |
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 191 |
@@ -221,4 +221,4 @@ Diff (max vs sum): -39
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
 | 2023-05-26 | 4.17 | 2,239 | 3,718 |
 | 2023-05-27 | 4.17 | 2,244 | 3,726 |
-| 2023-05-28 | 4.17 | 2,244 | 3,727 |
+| 2023-05-28 | 4.17 | 2,254 | 3,737 |

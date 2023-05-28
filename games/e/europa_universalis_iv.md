@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,130 |
-| That's a Grand Army | 8.00% | ~3,671 |
-| That is mine! | 8.00% | ~3,671 |
-| Victorious! | 8.00% | ~3,671 |
-| Brothers in Arms | 6.00% | ~2,753 |
-| That's a Grand Navy | 6.00% | ~2,753 |
-| Seriously?! | 6.00% | ~2,753 |
-| For the Glory | 5.00% | ~2,294 |
-| Cold War | 4.00% | ~1,836 |
-| True Catholic | 4.00% | ~1,836 |
-| Defender of the Faith | 3.00% | ~1,377 |
-| It's all about the money | 3.00% | ~1,377 |
-| Respected | 3.00% | ~1,377 |
-| Truly Divine Ruler | 3.00% | ~1,377 |
+| Until death do us apart | 9.00% | ~4,133 |
+| That's a Grand Army | 8.00% | ~3,674 |
+| That is mine! | 8.00% | ~3,674 |
+| Victorious! | 8.00% | ~3,674 |
+| Brothers in Arms | 6.00% | ~2,755 |
+| That's a Grand Navy | 6.00% | ~2,755 |
+| Seriously?! | 6.00% | ~2,755 |
+| For the Glory | 5.00% | ~2,296 |
+| Cold War | 4.00% | ~1,837 |
+| True Catholic | 4.00% | ~1,837 |
+| Defender of the Faith | 3.00% | ~1,378 |
+| It's all about the money | 3.00% | ~1,378 |
+| Respected | 3.00% | ~1,378 |
+| Truly Divine Ruler | 3.00% | ~1,378 |
 | Agressive Expander | 2.00% | ~918 |
 | Blockader | 2.00% | ~918 |
 | Combined Arms | 2.00% | ~918 |
@@ -44,17 +44,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~367 |
 | Down Under | 0.70% | ~321 |
 | Trustworthy | 0.70% | ~321 |
-| Electable! | 0.60% | ~275 |
-| Time Bandit | 0.60% | ~275 |
-| All belongs to Mother Russia | 0.50% | ~229 |
-| At every continent | 0.50% | ~229 |
-| Early-Modern Warfare | 0.50% | ~229 |
-| One Family to Rule them All | 0.50% | ~229 |
-| Populists in Government | 0.50% | ~229 |
-| The pen is mightier than the sword | 0.50% | ~229 |
-| This is My Faith | 0.50% | ~229 |
-| Trophy Hunter | 0.50% | ~229 |
-| Voting Streak | 0.50% | ~229 |
+| Electable! | 0.60% | ~276 |
+| Time Bandit | 0.60% | ~276 |
+| All belongs to Mother Russia | 0.50% | ~230 |
+| At every continent | 0.50% | ~230 |
+| Early-Modern Warfare | 0.50% | ~230 |
+| One Family to Rule them All | 0.50% | ~230 |
+| Populists in Government | 0.50% | ~230 |
+| The pen is mightier than the sword | 0.50% | ~230 |
+| This is My Faith | 0.50% | ~230 |
+| Trophy Hunter | 0.50% | ~230 |
+| Voting Streak | 0.50% | ~230 |
 | Absolutely | 0.40% | ~184 |
 | Dude, Where's my Boat? | 0.40% | ~184 |
 | Grand Coalition | 0.40% | ~184 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,890 (Ranked 78)  
+Progressed: 45,921 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
-| 2023-05-28 | 45,890 | 0 |
+| 2023-05-28 | 45,921 | 0 |
 ## Awards
 Max (Educational): 5,302  (Ranked 60)  
 Sum: 43,881 (Ranked 27)  

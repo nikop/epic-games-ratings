@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1751,
+  "EOS_Progressed": 1757,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1753,6 +1753,11 @@
       "Time": "2023-05-28T21:06:10.8347861+00:00",
       "NumProgressed": 1751,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T22:06:08.0514205+00:00",
+      "NumProgressed": 1757,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1844,7 +1849,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1932,7 +1937,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1954,9 +1959,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1988,7 +1993,7 @@
       "Name": "Resourceful",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2012,7 +2017,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2098,9 +2103,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2331,13 +2336,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1702,
+      "Progressed": 1708,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1751,
+      "Progressed": 1757,
       "Completed": 2
     }
   ],
@@ -2345,8 +2350,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:06:10.8347857+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:06:08.0514197+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:01:15.1246817+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:06:10.8348578+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:00:37.0726394+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:06:08.0514977+00:00"
 }

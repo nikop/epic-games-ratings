@@ -3,8 +3,8 @@
   "Name": "I Saw Black Clouds",
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_Completed": 96,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.79,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -118,6 +118,11 @@
       "Time": "2023-05-27T21:05:42.9818849+00:00",
       "NumProgressed": 254,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T22:06:19.1305621+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -137,7 +142,7 @@
       "Name": "Believer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "clear",
@@ -159,9 +164,9 @@
       "ID": "end",
       "SetID": "8b5dfcp",
       "Name": "End",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "escape",
@@ -225,7 +230,7 @@
       "Name": "Tough",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "unfinished",
@@ -239,16 +244,16 @@
       "ID": "wrong",
       "SetID": "8b5dfcp",
       "Name": "Wrong",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 2
     }
   ],
@@ -256,8 +261,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:06:21.9071393+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:06:19.1305615+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.2908503+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:00:35.9225098+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:06:21.9071517+00:00"
+  "LastUpdate_Ratings": "2023-05-28T22:00:01.1905456+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:06:19.1305793+00:00"
 }

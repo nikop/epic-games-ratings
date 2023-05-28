@@ -4,7 +4,7 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "killWithHammer",
@@ -217,8 +217,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:03:34.8403667+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:03:39.7445034+00:00",
   "LastUpdate_AppInfo": "2023-05-28T10:57:05.0649445+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:57:20.0726791+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:03:34.8403798+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:57:06.5162253+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:03:39.7445158+00:00"
 }

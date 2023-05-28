@@ -9,19 +9,19 @@
 | Into the Barn | 86.00% | ~766 |
 | A Prophecy | 84.00% | ~748 |
 | Sword, Shield, Fight! | 74.00% | ~659 |
-| A Grand Visit | 70.00% | ~624 |
+| A Grand Visit | 71.00% | ~633 |
+| Vibing | 61.00% | ~544 |
 | Fun Guy | 61.00% | ~544 |
-| Vibing | 60.00% | ~535 |
 | Tragic Brave | 52.00% | ~463 |
 | Awakened Spirits | 49.00% | ~437 |
 | Little Shop | 48.00% | ~428 |
 | An Actor! | 44.00% | ~392 |
 | Surprise! | 43.00% | ~383 |
 | Curtain Call | 42.00% | ~374 |
+| Well Rested | 40.00% | ~356 |
 | Piece of Cake | 39.00% | ~347 |
 | Gooey Delight! | 39.00% | ~347 |
 | Glimmer of Hope | 39.00% | ~347 |
-| Well Rested | 39.00% | ~347 |
 | Teacups for Toppy | 38.00% | ~339 |
 | Nightmare Fuel | 37.00% | ~330 |
 | Take Heart | 37.00% | ~330 |
@@ -34,8 +34,8 @@
 | Spellbound | 34.00% | ~303 |
 | All Skilled Up! | 34.00% | ~303 |
 | Extinct Again! | 33.00% | ~294 |
-| Bird of Prey | 32.00% | ~285 |
-| Stardust | 32.00% | ~285 |
+| Bird of Prey | 33.00% | ~294 |
+| Stardust | 33.00% | ~294 |
 | Heartbreaker | 32.00% | ~285 |
 | Kidnapped! | 32.00% | ~285 |
 | Trick Question! | 31.00% | ~276 |

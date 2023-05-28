@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~614 |
+| Diligence as a goal | 4.00% | ~615 |
 | Project Arena | 3.00% | ~461 |
 | The Old Grandmaster | 1.00% | ~7,061 |
 | The Assault | 1.00% | ~7,061 |
@@ -24,10 +24,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.90% | ~6,355 |
 | Path of the Prospect | 0.90% | ~6,355 |
 | Rumble in the Hangar | 0.90% | ~6,355 |
-| Furious Fists | 0.80% | ~5,648 |
-| Stuntmaster | 0.80% | ~5,648 |
-| Old Child | 0.80% | ~5,648 |
-| Take damage to save time | 0.80% | ~5,648 |
+| Furious Fists | 0.80% | ~5,649 |
+| Stuntmaster | 0.80% | ~5,649 |
+| Old Child | 0.80% | ~5,649 |
+| Take damage to save time | 0.80% | ~5,649 |
 | Scareless | 0.70% | ~4,942 |
 | Kung-Fu Tussle | 0.70% | ~4,942 |
 | Dance of the Praying Mantis | 0.60% | ~4,236 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,058 (Ranked 15)  
+Progressed: 706,065 (Ranked 15)  
 Completed: 12,742 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 12,742 (1.80%) (Ranked 65)
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
-| 2023-05-28 | 706,058 | 12,742 |
+| 2023-05-28 | 706,065 | 12,742 |
 ## Awards
 Max (Great Boss Battles): 6,108  (Ranked 53)  
 Sum: 10,405 (Ranked 77)  

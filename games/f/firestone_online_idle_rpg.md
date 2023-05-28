@@ -28,8 +28,8 @@ Rating: 3.91 (Ranked 907)
 | Mysterious Rock | 10.00% | ~121 |
 | Superior | 10.00% | ~121 |
 | Scientist | 9.00% | ~109 |
+| Daily Quest Completionist | 8.00% | ~96 |
 | Challenger | 7.00% | ~84 |
-| Daily Quest Completionist | 7.00% | ~84 |
 | The power of Awakening | 7.00% | ~84 |
 | Frostfire Liberator | 6.00% | ~72 |
 | Hunter | 6.00% | ~72 |

@@ -21,7 +21,7 @@ Number of Ratings: 209  (23.09.2022)
 | Force Beam | 92.00% | ~1,881 |
 | Magnet | 90.00% | ~1,840 |
 | Industrial Area | 89.00% | ~1,820 |
-| Magnet Repel | 87.00% | ~1,779 |
+| Magnet Repel | 88.00% | ~1,800 |
 | You feel middle classy | 86.00% | ~1,759 |
 | Boomeraxe | 86.00% | ~1,759 |
 | Iron Pickaxe | 86.00% | ~1,759 |

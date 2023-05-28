@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 34.00% | ~929 |
-| Look Over There! | 28.00% | ~765 |
-| Watch Where You Step... | 28.00% | ~765 |
+| Executioner | 34.00% | ~930 |
+| Look Over There! | 28.00% | ~766 |
+| Watch Where You Step... | 28.00% | ~766 |
 | Not So Fast... | 27.00% | ~738 |
 | An Ill Omen | 26.00% | ~711 |
 | Purging Spree | 21.00% | ~574 |
@@ -50,8 +50,8 @@ Number of Ratings: 371  (23.09.2022)
 | The Flesh is Weak | 0.50% | ~14 |
 | Warp Flickers | 0.50% | ~14 |
 | Strategic Command | 0.40% | ~11 |
+| Blood and Iron | 0.30% | ~8 |
 | Firing Squad | 0.30% | ~8 |
-| Blood and Iron | 0.20% | ~5 |
 | Crisis Management | 0.20% | ~5 |
 | Grand Master | 0.20% | ~5 |
 | Brothers in Arms | 0.20% | ~5 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,733 (Ranked 137)  
+Progressed: 2,734 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-25 | 2,632 | 0 |
 | 2023-05-26 | 2,669 | 0 |
 | 2023-05-27 | 2,704 | 0 |
-| 2023-05-28 | 2,733 | 0 |
+| 2023-05-28 | 2,734 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 298)  

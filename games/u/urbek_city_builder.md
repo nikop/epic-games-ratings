@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 60.00% | ~115 |
-| I like parks | 47.00% | ~90 |
-| It is nice to share with friends in the city | 27.00% | ~52 |
-| Sport is good for you | 26.00% | ~50 |
-| The spiritual world... | 25.00% | ~48 |
-| The woodcutter | 23.00% | ~44 |
-| I like books | 19.00% | ~36 |
+| Small town | 59.00% | ~115 |
+| I like parks | 47.00% | ~92 |
+| It is nice to share with friends in the city | 26.00% | ~51 |
+| The spiritual world... | 25.00% | ~49 |
+| Sport is good for you | 25.00% | ~49 |
+| The woodcutter | 23.00% | ~45 |
+| I like books | 19.00% | ~37 |
 | I like my life | 18.00% | ~35 |
-| Clean energy | 17.00% | ~33 |
-| Soviet town | 17.00% | ~33 |
-| Bucolic city | 13.00% | ~25 |
-| I love parks | 10.00% | ~19 |
-| I love books! | 9.00% | ~17 |
-| King of fish | 9.00% | ~17 |
-| What would we do if we can't go out with friends? | 9.00% | ~17 |
+| Clean energy | 16.00% | ~31 |
+| Soviet town | 16.00% | ~31 |
+| Bucolic city | 12.00% | ~23 |
+| I love parks | 10.00% | ~20 |
+| I love books! | 9.00% | ~18 |
+| King of fish | 9.00% | ~18 |
+| What would we do if we can't go out with friends? | 9.00% | ~18 |
 | Food producer | 6.00% | ~12 |
 | Metropolurbek | 6.00% | ~12 |
 | I am very happy! | 4.00% | ~8 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 241)  
+Progressed: 195 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-25 | 182 | 0 |
 | 2023-05-26 | 186 | 0 |
 | 2023-05-27 | 189 | 0 |
-| 2023-05-28 | 192 | 0 |
+| 2023-05-28 | 195 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

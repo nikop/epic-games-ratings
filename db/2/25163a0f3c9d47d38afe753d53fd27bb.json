@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.73,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -761,6 +761,11 @@
       "Time": "2023-05-28T20:03:38.6202981+00:00",
       "NumProgressed": 349,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-28T22:03:43.6525906+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 30,
@@ -772,7 +777,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "LEVEL_002",
@@ -780,7 +785,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "LEVEL_003",
@@ -796,7 +801,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "LEVEL_005",
@@ -810,9 +815,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_007",
@@ -834,9 +839,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_010",
@@ -852,7 +857,7 @@
       "Name": "This island of mine",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_012",
@@ -866,9 +871,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_014",
@@ -876,7 +881,7 @@
       "Name": "Cross-country",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LEVEL_015",
@@ -900,7 +905,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_018",
@@ -908,15 +913,15 @@
       "Name": "Isle rock city",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_020",
@@ -940,7 +945,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_023",
@@ -948,7 +953,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_024",
@@ -956,7 +961,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_025",
@@ -964,7 +969,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_026",
@@ -972,7 +977,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_027",
@@ -980,7 +985,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_028",
@@ -1011,14 +1016,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:03:38.6470312+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:03:43.65259+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:57:13.4344716+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:03:38.6470577+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:57:02.4189035+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:03:43.6526232+00:00"
 }

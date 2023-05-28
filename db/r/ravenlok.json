@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 891,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
@@ -1956,9 +1956,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 294
     },
     {
       "ID": "15",
@@ -1996,9 +1996,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 633
     },
     {
       "ID": "2",
@@ -2012,9 +2012,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 294
     },
     {
       "ID": "21",
@@ -2092,9 +2092,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 544
     },
     {
       "ID": "30",
@@ -2268,9 +2268,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 356
     },
     {
       "ID": "50",
@@ -2325,8 +2325,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:06:01.8632225+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:05:58.6155597+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:57:40.9762293+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:06:01.8632775+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:57:25.4576007+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:05:58.6156173+00:00"
 }

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 741,
+  "EOS_Progressed": 743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -617,6 +617,11 @@
       "Time": "2023-05-28T21:01:31.5787858+00:00",
       "NumProgressed": 741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T22:00:55.1742377+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -644,7 +649,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 476
     },
     {
       "ID": "ATTENBOROUGH",
@@ -738,9 +743,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 171
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -772,7 +777,7 @@
       "Name": "Editor Adept",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ENDGAME",
@@ -788,7 +793,7 @@
       "Name": "Exorcist",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "EXPERIENCED",
@@ -804,7 +809,7 @@
       "Name": "Firestarter",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "FIRST_BLOOD",
@@ -812,7 +817,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 676
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -836,15 +841,15 @@
       "Name": "From Darkness to Light",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 119
     },
     {
       "ID": "GOAL",
@@ -860,7 +865,7 @@
       "Name": "Gun for Hire",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -876,7 +881,7 @@
       "Name": "I am the law!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "INFILTRATOR",
@@ -892,7 +897,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -914,9 +919,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 37
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -930,9 +935,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 513
     },
     {
       "ID": "RECYCLER",
@@ -1002,9 +1007,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1035,14 +1040,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 741,
+      "Progressed": 743,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:01:31.5787851+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:00:55.1742371+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:58:42.6260994+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:01:31.5788342+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:58:19.9470359+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:00:55.1742988+00:00"
 }

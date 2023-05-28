@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -385,6 +385,11 @@
       "Time": "2023-05-28T21:05:57.1029415+00:00",
       "NumProgressed": 329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T22:05:54.1393279+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -420,13 +425,13 @@
       "Name": "The Wraith",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -434,9 +439,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "Chapter3",
@@ -458,9 +463,9 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "Chapter6",
@@ -578,9 +583,9 @@
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "NoDamage",
@@ -683,14 +688,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:05:57.102941+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:05:54.1393273+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:58:00.6912555+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:05:57.1029696+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:57:44.0883115+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:05:54.1393574+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~890 |
-| The Court of Storms | 0.80% | ~442 |
+| The Court of Storms | 0.80% | ~443 |
 | The Cursed Farmer | 0.70% | ~623 |
 | The Mad Wizard | 0.60% | ~534 |
 | Beware the Jabberwock | 0.60% | ~332 |
@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.20% | ~178 |
 | The Botched Kidnapping | 0.20% | ~178 |
 | Trollskull Manor | 0.20% | ~178 |
+| Attack on the Manor | 0.20% | ~178 |
 | The Death Curse | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
 | Premature Betrayal | 0.20% | ~178 |
@@ -242,7 +243,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.10% | ~89 |
 | House of Darkness | 0.10% | ~89 |
 | Home Not So Alone | 0.10% | ~55 |
-| Attack on the Manor | 0.10% | ~89 |
 | The Trepidatious Trio | 0.10% | ~89 |
 | Our Time To Shine | 0.10% | ~89 |
 | Review by the Blackstaff | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,038 (Ranked 61)  
+Progressed: 89,048 (Ranked 61)  
 Completed: 1,892 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 1,892 (2.12%) (Ranked 62)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 89,038 | 1,892 |
+| 2023-05-28 | 89,048 | 1,892 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,993 (Ranked 37)  

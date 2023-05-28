@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -508,6 +508,11 @@
       "Time": "2023-05-28T20:06:59.25554+00:00",
       "NumProgressed": 919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T22:06:17.993949+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -557,9 +562,9 @@
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 589
     },
     {
       "ID": "07",
@@ -567,7 +572,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "08",
@@ -575,7 +580,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "09",
@@ -671,7 +676,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "21",
@@ -687,7 +692,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "23",
@@ -702,7 +707,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 0
     }
   ],
@@ -710,8 +715,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-28T21:06:20.7298718+00:00",
+  "LastChanged_Achievements": "2023-05-28T22:06:17.9939485+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-28T21:00:18.2413597+00:00",
-  "LastUpdate_Achievements": "2023-05-28T21:06:20.7298892+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:59:44.3032623+00:00",
+  "LastUpdate_Achievements": "2023-05-28T22:06:17.9939654+00:00"
 }
