@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Goodbye | 90.00% | ~86 |
-| The Routine | 79.00% | ~76 |
-| Mother | 76.00% | ~73 |
-| Failure | 74.00% | ~71 |
+| The Routine | 80.00% | ~77 |
+| Mother | 77.00% | ~74 |
+| Failure | 75.00% | ~72 |
 | Replace Fuse | 67.00% | ~64 |
 | Alarm | 65.00% | ~62 |
 | Air Filtration | 64.00% | ~61 |
@@ -19,9 +19,9 @@
 | Sam | 53.00% | ~51 |
 | Churchill | 52.00% | ~50 |
 | Leave | 48.00% | ~46 |
+| Commissioner | 48.00% | ~46 |
+| Doctor | 48.00% | ~46 |
 | Engineer | 48.00% | ~46 |
-| Commissioner | 47.00% | ~45 |
-| Doctor | 47.00% | ~45 |
 | Soldier | 47.00% | ~45 |
 | Press Play | 39.00% | ~37 |
 | Bookworm | 24.00% | ~23 |

@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2233,
+  "EOS_Progressed": 2234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1563,6 +1563,11 @@
       "Time": "2023-05-28T17:06:28.0537415+00:00",
       "NumProgressed": 2233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T18:05:15.9235979+00:00",
+      "NumProgressed": 2234,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1684,9 +1689,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_BASE_25",
@@ -1812,9 +1817,9 @@
       "ID": "ACH_BASE_4",
       "SetID": "92iocjf",
       "Name": "Gregor Spinoza",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BASE_40",
@@ -2029,13 +2034,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2233,
+      "Progressed": 2234,
       "Completed": 0
     }
   ],
@@ -2043,8 +2048,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-26T15:59:06.5118285+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:28.0537411+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:15.9235974+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.5657521+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:58:50.022519+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:28.0537941+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:58:05.9320454+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:15.9236606+00:00"
 }

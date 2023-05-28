@@ -9,9 +9,9 @@
 | These Blades Are Made For Swinging | 75.00% | ~12 |
 | Unearth A Qanat | 69.00% | ~11 |
 | It Feels Better Than It Sounds | 69.00% | ~11 |
+| Skilled Hands | 63.00% | ~10 |
 | Carving A Memory | 63.00% | ~10 |
 | A Friend In Need | 56.00% | ~9 |
-| Skilled Hands | 56.00% | ~9 |
 | Master Smithy | 56.00% | ~9 |
 | A Stranger's Diary | 56.00% | ~9 |
 | Close Encounter | 50.00% | ~8 |
@@ -26,15 +26,15 @@
 | Here I Am | 50.00% | ~8 |
 | Shoo! Shoo! | 50.00% | ~8 |
 | Stand By Nature | 50.00% | ~8 |
+| Prison Break | 44.00% | ~7 |
+| I Pick You | 44.00% | ~7 |
+| Accomplished Smithy | 44.00% | ~7 |
+| The Blight's Blight | 44.00% | ~7 |
 | The Ultimate Sacrifice | 44.00% | ~7 |
 | Break The Cycle | 44.00% | ~7 |
 | The Milk Canal | 44.00% | ~7 |
-| Prison Break | 38.00% | ~6 |
-| I Pick You | 38.00% | ~6 |
-| Accomplished Smithy | 38.00% | ~6 |
-| The Blight's Blight | 38.00% | ~6 |
-| Fledgling Smithy | 38.00% | ~6 |
-| At One With Nature | 38.00% | ~6 |
+| Fledgling Smithy | 44.00% | ~7 |
+| At One With Nature | 44.00% | ~7 |
 | Continue The Cycle | 31.00% | ~5 |
 | Talent And Dedication | 25.00% | ~4 |
 | Read, Read, Read | 19.00% | ~3 |

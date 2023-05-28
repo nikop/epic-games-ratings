@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 92.00% | ~426 |
-| Rail Rat | 75.00% | ~347 |
-| The Mysterious Stranger | 73.00% | ~338 |
+| Time Heals All Wounds | 93.00% | ~431 |
+| Rail Rat | 76.00% | ~352 |
+| The Mysterious Stranger | 74.00% | ~343 |
 | Immaculate Aim | 62.00% | ~287 |
-| The Brass Boss | 53.00% | ~245 |
+| The Brass Boss | 54.00% | ~250 |
 | Honest Mistake | 52.00% | ~241 |
 | No, Thanks! | 50.00% | ~232 |
 | The Prince in Heels | 49.00% | ~227 |
-| Time Flies | 47.00% | ~218 |
+| Time Flies | 48.00% | ~222 |
+| Right On Time | 46.00% | ~213 |
 | The Harder They Fall | 46.00% | ~213 |
-| Right On Time | 45.00% | ~208 |
 | Fast Learner | 45.00% | ~208 |
 | Immaculate Aim | 44.00% | ~204 |
-| Make Up For Lost Time | 42.00% | ~194 |
+| Make Up For Lost Time | 43.00% | ~199 |
 | Breaking Down Barriers | 41.00% | ~190 |
-| The Steel Shadow | 33.00% | ~153 |
+| The Steel Shadow | 34.00% | ~157 |
 | Like Clockwork | 32.00% | ~148 |
 | Golem Chaser | 32.00% | ~148 |
 | The Wicked Twins | 29.00% | ~134 |
@@ -41,8 +41,8 @@
 | Cultivair Explorer | 13.00% | ~60 |
 | Theater Explorer | 13.00% | ~60 |
 | Rungs Was Right | 11.00% | ~51 |
+| Corin Goes Home | 10.00% | ~46 |
 | Entresol Explorer | 10.00% | ~46 |
-| Corin Goes Home | 9.00% | ~42 |
 | Sartorialist | 9.00% | ~42 |
 | Clovemary for Remembering | 8.00% | ~37 |
 | Hexlock for Protection | 8.00% | ~37 |

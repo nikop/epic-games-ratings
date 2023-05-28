@@ -1,19 +1,19 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.44 (Ranked 631)  
+Rating: 4.44 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,458 |
-| Predator I | 22.00% | ~54,970 |
-| Fixer I | 10.00% | ~24,986 |
-| A week in Century City | 10.00% | ~24,986 |
-| The Wait | 7.00% | ~17,490 |
+| Survivor | 31.00% | ~77,460 |
+| Predator I | 22.00% | ~54,971 |
+| Fixer I | 10.00% | ~24,987 |
+| A week in Century City | 10.00% | ~24,987 |
+| The Wait | 7.00% | ~17,491 |
 | Green thumb I | 6.00% | ~14,992 |
-| Well-oiled machine | 5.00% | ~12,493 |
-| Saver I | 5.00% | ~12,493 |
-| Cleaning Company | 5.00% | ~12,493 |
+| Well-oiled machine | 5.00% | ~12,494 |
+| Saver I | 5.00% | ~12,494 |
+| Cleaning Company | 5.00% | ~12,494 |
 | The Ascent | 4.00% | ~9,995 |
 | Pacifist | 4.00% | ~9,995 |
 | Vandalism | 4.00% | ~9,995 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 631)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,863 (Ranked 40)  
+Progressed: 249,870 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,15 +100,15 @@ Completed: 1 (0.00%) (Ranked 206)
 | 2023-05-25 | 249,607 | 1 |
 | 2023-05-26 | 249,693 | 1 |
 | 2023-05-27 | 249,786 | 1 |
-| 2023-05-28 | 249,863 | 1 |
+| 2023-05-28 | 249,870 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 463)  
-Sum: 66 (Ranked 422)  
+Sum: 67 (Ranked 422)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 25 |
-| This game has Unique Visuals | 21 |
+| This game has Unique Visuals | 22 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -179,3 +179,4 @@ Diff (max vs sum): 41
 | 2023-05-24 | 4.45 | 23 | 43 |
 | 2023-05-25 | 4.45 | 23 | 64 |
 | 2023-05-27 | 4.44 | 25 | 66 |
+| 2023-05-28 | 4.44 | 25 | 67 |

@@ -6,9 +6,9 @@ Rating: 4.56 (Ranked 451)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 10.00% | ~223 |
+| Sputnik 2049 | 9.00% | ~201 |
 | Without Breaking Some Eggs... | 8.00% | ~179 |
 | Infinite Growth... | 8.00% | ~179 |
-| Sputnik 2049 | 8.00% | ~179 |
 | A Thousand Strong | 5.00% | ~112 |
 | Ready for a New World | 5.00% | ~112 |
 | Guy de Borderlands | 4.00% | ~89 |
@@ -48,10 +48,10 @@ Rating: 4.56 (Ranked 451)
 | Tiqqun Unchained | 0.40% | ~9 |
 | Help of the Forgotten Member | 0.40% | ~9 |
 | Tiqqun Contender | 0.30% | ~7 |
+| Gregor Spinoza | 0.30% | ~7 |
 | Scientifically Accurate | 0.30% | ~7 |
 | Better Him Than Me | 0.20% | ~4 |
 | Remember the Dead | 0.20% | ~4 |
-| Gregor Spinoza | 0.20% | ~4 |
 | Work Harder | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,233 (Ranked 144)  
+Progressed: 2,234 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 2,154 | 0 |
 | 2023-05-26 | 2,182 | 0 |
 | 2023-05-27 | 2,211 | 0 |
-| 2023-05-28 | 2,233 | 0 |
+| 2023-05-28 | 2,234 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

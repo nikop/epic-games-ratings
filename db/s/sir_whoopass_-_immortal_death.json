@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,9 +301,9 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BILLY_GOAT_1",
@@ -685,9 +685,9 @@
       "ID": "ITEM_1",
       "SetID": "9gfkh7c",
       "Name": "Ripe Meat Off The Bone!",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ITEM_2",
@@ -749,9 +749,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVELUP_1",
@@ -805,9 +805,9 @@
       "ID": "MOUNT_1",
       "SetID": "9gfkh7c",
       "Name": "Hovering around",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ORC_HIPSTER_1",
@@ -869,9 +869,9 @@
       "ID": "OUTHOUSE_1",
       "SetID": "9gfkh7c",
       "Name": "Thats disgusting!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "OUT_OF_BOUNDS",
@@ -909,9 +909,9 @@
       "ID": "WEAPON_1",
       "SetID": "9gfkh7c",
       "Name": "Cockadoodledoo!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "WEAPON_2",
@@ -948,8 +948,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:31.2257698+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:18.4960047+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:57:02.8501399+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:31.2258404+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:56:57.4418399+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:18.4960913+00:00"
 }

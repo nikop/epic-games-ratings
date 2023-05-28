@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 118,
@@ -150,7 +150,7 @@
   "Tags": [],
   "EOS_Progressed": 6382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3329,9 +3329,9 @@
       "ID": "0020",
       "SetID": "2n2feee",
       "Name": "Dr. No Kill",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 115,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1532
     },
     {
       "ID": "0021",
@@ -3474,8 +3474,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:45.4624329+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:30.2477169+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:00:18.6994252+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:45.4624676+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:59:12.9917889+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:30.2477621+00:00"
 }

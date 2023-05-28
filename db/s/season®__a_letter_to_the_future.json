@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 872,
+  "EOS_Progressed": 873,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.9,
+  "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -666,6 +666,11 @@
       "Time": "2023-05-28T17:06:21.8126587+00:00",
       "NumProgressed": 872,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-05-28T18:05:10.8931584+00:00",
+      "NumProgressed": 873,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 16,
@@ -685,7 +690,7 @@
       "Name": "Deep Listener",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -733,7 +738,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -741,7 +746,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -749,7 +754,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -779,9 +784,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 331
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_THEEND",
@@ -804,7 +809,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 872,
+      "Progressed": 873,
       "Completed": 34
     }
   ],
@@ -812,8 +817,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:21.8126582+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:10.893158+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:59:03.0860275+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:21.8126705+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:58:16.0293534+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:10.8931755+00:00"
 }

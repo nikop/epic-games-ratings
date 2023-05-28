@@ -20,14 +20,14 @@ Number of Ratings: 170  (23.09.2022)
 | Condor condo | 10.00% | ~1,064 |
 | Memorial | 9.00% | ~957 |
 | An uninvited guest | 8.00% | ~851 |
-| Written in stone | 7.00% | ~744 |
-| Talk to all the spirit animals | 7.00% | ~744 |
+| Written in stone | 7.00% | ~745 |
+| Talk to all the spirit animals | 7.00% | ~745 |
 | Ripples on the surface | 6.00% | ~638 |
 | Tails of Stone | 6.00% | ~638 |
 | Baa from the past | 6.00% | ~638 |
 | Hide and Seek | 5.00% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,635 (Ranked 107)  
+Progressed: 10,636 (Ranked 107)  
 Completed: 229 (2.15%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 229 (2.15%) (Ranked 60)
 | 2023-05-25 | 10,318 | 220 |
 | 2023-05-26 | 10,416 | 223 |
 | 2023-05-27 | 10,541 | 225 |
-| 2023-05-28 | 10,635 | 229 |
+| 2023-05-28 | 10,636 | 229 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,13 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Deal with Shock | 63.00% | ~24 |
-| Skinner | 50.00% | ~19 |
+| Skinner | 53.00% | ~20 |
 | Deal with Anger | 32.00% | ~12 |
 | Robolimb Ripper | 16.00% | ~6 |
-| Deal with Depression | 13.00% | ~5 |
+| Deal with Depression | 16.00% | ~6 |
 | Total Shock | 11.00% | ~4 |
 | No Shock Race | 8.00% | ~3 |
 | Max Health | 5.00% | ~2 |
+| Total Anger | 5.00% | ~2 |
 | No Anger Race | 5.00% | ~2 |
 | No Depression Race | 5.00% | ~2 |
 | Deal with Acceptance | 5.00% | ~2 |
@@ -21,7 +22,6 @@
 | Golden Tunnel Collector | 3.00% | ~1 |
 | Platinum Tunnel Collector | 3.00% | ~1 |
 | Monster Energy | 3.00% | ~1 |
-| Total Anger | 3.00% | ~1 |
 | Boss Rusher | 3.00% | ~1 |
 | Flawless Boss Rusher | 3.00% | ~1 |
 | The Fastest Boss Rusher | 3.00% | ~1 |

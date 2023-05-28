@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1142,9 +1142,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425528,
+  "EOS_Progressed": 425529,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3792,6 +3792,11 @@
       "Time": "2023-05-28T17:02:02.0586151+00:00",
       "NumProgressed": 425528,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-05-28T18:02:11.5160701+00:00",
+      "NumProgressed": 425529,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 41,
@@ -3859,7 +3864,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127658
+      "UsersEstimate": 127659
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -3923,7 +3928,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 110637
+      "UsersEstimate": 110638
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -3971,7 +3976,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404252
+      "UsersEstimate": 404253
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -3987,7 +3992,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306380
+      "UsersEstimate": 306381
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -3995,7 +4000,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157445
+      "UsersEstimate": 157446
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -4003,7 +4008,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293614
+      "UsersEstimate": 293615
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -4019,7 +4024,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340422
+      "UsersEstimate": 340423
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -4043,7 +4048,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68084
+      "UsersEstimate": 68085
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -4067,7 +4072,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110637
+      "UsersEstimate": 110638
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -4083,7 +4088,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 234040
+      "UsersEstimate": 234041
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -4099,7 +4104,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 140424
+      "UsersEstimate": 140425
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -4107,7 +4112,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110637
+      "UsersEstimate": 110638
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -4130,15 +4135,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425528,
+      "Progressed": 425529,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-26T16:58:26.1029428+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:02:02.0586146+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:02:11.5160696+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.5194624+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:58:37.1306607+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:02:02.0586523+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:57:58.5278534+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:02:11.5161195+00:00"
 }

@@ -293,9 +293,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "gagif7",
       "Name": "D\u00E9j\u00E0-Vu",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:01:36.9006838+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:00:12.9779153+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.0293662+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:57:36.2096674+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:01:36.900714+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:57:21.0110266+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:00:12.9779497+00:00"
 }

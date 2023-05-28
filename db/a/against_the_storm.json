@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2318,10 +2318,10 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15055,
+  "EOS_Progressed": 15057,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 121,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -4363,6 +4363,11 @@
       "Time": "2023-05-28T16:05:44.2189841+00:00",
       "NumProgressed": 15055,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-28T18:05:37.232514+00:00",
+      "NumProgressed": 15057,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4446,7 +4451,7 @@
       "Name": "Refinery",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Win5Years",
@@ -4526,7 +4531,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearFertile",
@@ -4558,7 +4563,7 @@
       "Name": "Haunted Forest",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearLevitating",
@@ -4566,7 +4571,7 @@
       "Name": "Levitating Monument",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearMines",
@@ -4574,7 +4579,7 @@
       "Name": "Flooded Mines",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearMonastery",
@@ -4582,7 +4587,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearOutpost",
@@ -4622,7 +4627,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearWatchtower",
@@ -4630,7 +4635,7 @@
       "Name": "Watchtower",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinOnCoral",
@@ -4773,15 +4778,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15055,
+      "Progressed": 15057,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-28T15:00:05.6433519+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:54.0664749+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:37.2325134+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:00:43.9574094+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:54.0665173+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:59:29.9164802+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:37.2326432+00:00"
 }

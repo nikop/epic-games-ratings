@@ -12,9 +12,9 @@
 | The light at the end of the tunnel | 59.00% | ~29 |
 | Splash! | 57.00% | ~28 |
 | Masochistic | 51.00% | ~25 |
-| Soft skin | 45.00% | ~22 |
+| Soft skin | 47.00% | ~23 |
+| Squid game | 35.00% | ~17 |
 | Sensitive soul | 35.00% | ~17 |
-| Squid game | 33.00% | ~16 |
 | Rock Solid | 29.00% | ~14 |
 | Hard Rock | 29.00% | ~14 |
 | The beast within | 27.00% | ~13 |

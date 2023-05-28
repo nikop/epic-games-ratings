@@ -536,9 +536,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 157
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -560,17 +560,17 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "ClockworkProgress1",
@@ -648,9 +648,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 343
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -688,9 +688,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 352
     },
     {
       "ID": "HexlockGift",
@@ -720,9 +720,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "MapCompletion1",
@@ -768,9 +768,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 222
     },
     {
       "ID": "ParryBoss",
@@ -816,9 +816,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "RewindParry",
@@ -936,9 +936,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 250
     },
     {
       "ID": "Zarkon2Defeated",
@@ -959,8 +959,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:05:28.6282756+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:04:30.1210482+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:00:03.768715+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:05:28.6283161+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:59:01.5103083+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:04:30.121095+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -464,9 +464,9 @@
       "ID": "Award_ThirtyBirds",
       "SetID": "9ojec6n",
       "Name": "Thirty Birds...",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Award_TimeRun",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:02:23.0686618+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:02:27.4335154+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:58:36.0680518+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:02:23.0686904+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:57:57.7465692+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:02:27.4335581+00:00"
 }

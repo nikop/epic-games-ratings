@@ -6,7 +6,7 @@ Rating: 4.78 (Ranked 99)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~2,082 |
-| No more cages! | 91.00% | ~1,995 |
+| No more cages! | 92.00% | ~2,017 |
 | Everfrost | 77.00% | ~1,688 |
 | Dark Forest | 76.00% | ~1,666 |
 | Pentakill | 75.00% | ~1,644 |
@@ -60,7 +60,7 @@ Rating: 4.78 (Ranked 99)
 | The Unshackled | 0.50% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,192 (Ranked 145)  
-Completed: 1 (0.05%) (Ranked 174)  
+Completed: 1 (0.05%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

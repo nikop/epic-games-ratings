@@ -5,12 +5,12 @@ Rating: 4.19 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 8.00% | ~1,112 |
-| Chew 'Em Up | 6.00% | ~834 |
-| The Outer Way | 6.00% | ~834 |
-| Desperate Times | 6.00% | ~834 |
-| Giving Back | 5.00% | ~695 |
-| Paper Jams | 5.00% | ~695 |
+| Flesh Wound | 8.00% | ~1,113 |
+| Chew 'Em Up | 6.00% | ~835 |
+| The Outer Way | 6.00% | ~835 |
+| Desperate Times | 6.00% | ~835 |
+| Giving Back | 5.00% | ~696 |
+| Paper Jams | 5.00% | ~696 |
 | Workplace Hazard | 4.00% | ~556 |
 | Reforged | 4.00% | ~556 |
 | If the SHU Fits... | 4.00% | ~556 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,906 (Ranked 102)  
+Progressed: 13,910 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
 | 2023-05-27 | 13,841 | 53 |
-| 2023-05-28 | 13,906 | 53 |
+| 2023-05-28 | 13,910 | 53 |
 ## Awards
 Max (Amazing Storytelling): 47  (Ranked 396)  
 Sum: 272 (Ranked 333)  

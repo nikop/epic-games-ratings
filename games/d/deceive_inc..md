@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 293)  
+Rating: 4.65 (Ranked 294)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,12 +20,12 @@ Rating: 4.65 (Ranked 293)
 | Private Collection | 25.00% | ~1,596 |
 | Hostile Takeover | 25.00% | ~1,596 |
 | Assistant Accountant | 24.00% | ~1,532 |
+| Dr. No Kill | 24.00% | ~1,532 |
 | The Living Portrait | 24.00% | ~1,532 |
 | My Motto, My Creed | 24.00% | ~1,532 |
 | Killer Looks | 24.00% | ~1,532 |
 | Keycards Royale | 23.00% | ~1,468 |
 | In It to Win It | 23.00% | ~1,468 |
-| Dr. No Kill | 23.00% | ~1,468 |
 | Security Supervisor | 10.00% | ~638 |
 | License to Thrill | 8.00% | ~511 |
 | Social of Solace | 8.00% | ~511 |

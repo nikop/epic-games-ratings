@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1728,
+  "EOS_Progressed": 1736,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1733,6 +1733,11 @@
       "Time": "2023-05-28T17:06:29.5793484+00:00",
       "NumProgressed": 1728,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T18:05:17.1438681+00:00",
+      "NumProgressed": 1736,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1800,7 +1805,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1824,7 +1829,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 365
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1912,7 +1917,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 278
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1926,9 +1931,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -1944,7 +1949,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1952,7 +1957,7 @@
       "Name": "Lord of War",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1968,7 +1973,7 @@
       "Name": "Resourceful",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1984,7 +1989,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1992,7 +1997,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2078,9 +2083,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2311,13 +2316,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1679,
+      "Progressed": 1687,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1728,
+      "Progressed": 1736,
       "Completed": 2
     }
   ],
@@ -2325,8 +2330,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:29.5793479+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:17.1438674+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:01:22.5400281+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:29.5794237+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:00:00.4885254+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:17.1439459+00:00"
 }

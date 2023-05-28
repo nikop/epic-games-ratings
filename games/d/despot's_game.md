@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 541)
 | Rookie | 24.00% | ~91 |
 | Frugal | 20.00% | ~76 |
 | Feed a God | 20.00% | ~76 |
-| To the Moon and Back | 19.00% | ~72 |
+| To the Moon and Back | 20.00% | ~76 |
 | Great Flight | 17.00% | ~65 |
 | Holy Vengeance | 14.00% | ~53 |
 | Strength and Sorcery | 10.00% | ~38 |
@@ -32,7 +32,7 @@ Rating: 4.50 (Ranked 541)
 | Omae Wa Mou Shindeiru | 7.00% | ~27 |
 | Experimentalist | 6.00% | ~23 |
 | Wide Selection | 6.00% | ~23 |
-| Soldier | 5.00% | ~19 |
+| Soldier | 6.00% | ~23 |
 | Android Power | 5.00% | ~19 |
 | Shopaholic | 3.00% | ~11 |
 | Zombie Lover | 3.00% | ~11 |

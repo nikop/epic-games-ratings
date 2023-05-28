@@ -1,23 +1,23 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 663)  
+Rating: 4.41 (Ranked 662)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 21.00% | ~363 |
-| Confirming Suspicions | 16.00% | ~276 |
-| The Kraken Wakes | 12.00% | ~207 |
+| Meeting Resistance | 21.00% | ~365 |
+| Confirming Suspicions | 16.00% | ~278 |
+| The Kraken Wakes | 12.00% | ~208 |
 | It's Starting to Crack | 9.00% | ~156 |
-| Lord of War | 8.00% | ~138 |
-| Change the Channel | 8.00% | ~138 |
-| Resourceful | 7.00% | ~121 |
+| Lord of War | 8.00% | ~139 |
+| Resourceful | 7.00% | ~122 |
+| Change the Channel | 7.00% | ~122 |
 | Enemy at the Gates | 6.00% | ~104 |
 | Organ Grinder | 6.00% | ~104 |
 | Taking it back | 6.00% | ~104 |
-| Just a Flesh Wound | 5.00% | ~86 |
-| Explosive Efficiency | 5.00% | ~86 |
-| As Quiet as a Mouse | 5.00% | ~86 |
+| Just a Flesh Wound | 5.00% | ~87 |
+| Explosive Efficiency | 5.00% | ~87 |
+| As Quiet as a Mouse | 5.00% | ~87 |
 | Opposing Force | 4.00% | ~69 |
 | Gunslinger | 4.00% | ~69 |
 | Sharpshooter | 4.00% | ~69 |
@@ -34,9 +34,9 @@ Rating: 4.41 (Ranked 663)
 | No Stone Unturned | 2.00% | ~35 |
 | Skirmisher | 2.00% | ~35 |
 | Set Europe Ablaze | 2.00% | ~35 |
-| Rigged to Blow | 2.00% | ~35 |
 | Brains of the Operation | 2.00% | ~35 |
 | The Long Game | 1.00% | ~17 |
+| Rigged to Blow | 1.00% | ~17 |
 | It'll Buff Right Out | 1.00% | ~17 |
 | My Little Friend | 0.90% | ~16 |
 | Operation Foxley | 0.70% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 663)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,728 (Ranked 152)  
+Progressed: 1,736 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,728 | 2 |
+| 2023-05-28 | 1,736 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

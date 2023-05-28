@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~655 |
-| Ranidaphobia | 67.00% | ~482 |
-| Aspiring Editor | 63.00% | ~454 |
-| Gun for Hire | 58.00% | ~418 |
-| I am the law! | 45.00% | ~324 |
-| Lumberjack | 26.00% | ~187 |
-| From Darkness to Light | 24.00% | ~173 |
-| Limp Richard | 22.00% | ~158 |
-| Firestarter | 22.00% | ~158 |
-| Croaked | 21.00% | ~151 |
+| First Blood | 91.00% | ~659 |
+| Ranidaphobia | 67.00% | ~485 |
+| Aspiring Editor | 63.00% | ~456 |
+| Gun for Hire | 58.00% | ~420 |
+| I am the law! | 45.00% | ~326 |
+| Lumberjack | 27.00% | ~195 |
+| From Darkness to Light | 25.00% | ~181 |
+| Firestarter | 23.00% | ~167 |
+| Limp Richard | 22.00% | ~159 |
+| Croaked | 21.00% | ~152 |
 | Exorcist | 18.00% | ~130 |
-| Editor Adept | 17.00% | ~122 |
+| Editor Adept | 17.00% | ~123 |
 | Giant Killer | 14.00% | ~101 |
 | Sensei | 13.00% | ~94 |
 | The meaning of Kain | 13.00% | ~94 |
@@ -24,7 +24,7 @@
 | Newtonian Knockout | 9.00% | ~65 |
 | Recycler | 8.00% | ~58 |
 | Technophobe | 8.00% | ~58 |
-| There Can Be Only One! | 7.00% | ~50 |
+| There Can Be Only One! | 7.00% | ~51 |
 | Are you not entertained? | 5.00% | ~36 |
 | Ganglord | 5.00% | ~36 |
 | Jarhead | 5.00% | ~36 |
@@ -39,10 +39,10 @@
 | Commando | 2.00% | ~14 |
 | Endgame | 2.00% | ~14 |
 | Savior | 2.00% | ~14 |
+| Side Order | 2.00% | ~14 |
 | Chaos Theory | 1.00% | ~7 |
 | Cruelty | 1.00% | ~7 |
 | Dr Jones | 1.00% | ~7 |
-| Side Order | 1.00% | ~7 |
 | Bot Whisperer | 0.80% | ~6 |
 | Dressed To Kill | 0.30% | ~2 |
 | Five Finger Deathcount | 0.30% | ~2 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720 (Ranked 182)  
+Progressed: 724 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
-| 2023-05-28 | 720 | 0 |
+| 2023-05-28 | 724 | 0 |

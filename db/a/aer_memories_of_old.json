@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10635,
+  "EOS_Progressed": 10636,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
@@ -4044,6 +4044,11 @@
       "Time": "2023-05-28T17:06:43.1648799+00:00",
       "NumProgressed": 10635,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2023-05-28T18:05:28.2546519+00:00",
+      "NumProgressed": 10636,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 20,
@@ -4159,7 +4164,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "GAME_FINISHED",
@@ -4199,7 +4204,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "WEST_FINISHED",
@@ -4214,15 +4219,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10635,
+      "Progressed": 10636,
       "Completed": 229
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:43.1648795+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:28.2546516+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:00:55.4536218+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:43.1649084+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:59:38.8827965+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:28.2546825+00:00"
 }

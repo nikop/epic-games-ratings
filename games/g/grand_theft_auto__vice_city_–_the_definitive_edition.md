@@ -1,24 +1,24 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.65 (Ranked 293)  
+Rating: 4.65 (Ranked 294)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,053 |
-| Greasy Palms | 39.00% | ~2,769 |
-| South American Connection | 23.00% | ~1,633 |
-| Life of the Party | 17.00% | ~1,207 |
-| Tommy Two-Wheels | 13.00% | ~923 |
-| Big Heat from Little Havana | 12.00% | ~852 |
-| Chauffeur | 12.00% | ~852 |
-| Salutations My Little Friend | 10.00% | ~710 |
-| Iron-y | 9.00% | ~639 |
-| Gun for Hire | 7.00% | ~497 |
-| Mischief Managed | 7.00% | ~497 |
-| Vice City Mogul | 6.00% | ~426 |
-| Catch Me if You Can | 5.00% | ~355 |
-| Bloodstained Hands | 5.00% | ~355 |
+| Legal Counsel | 43.00% | ~3,057 |
+| Greasy Palms | 39.00% | ~2,773 |
+| South American Connection | 23.00% | ~1,635 |
+| Life of the Party | 17.00% | ~1,209 |
+| Tommy Two-Wheels | 13.00% | ~924 |
+| Big Heat from Little Havana | 12.00% | ~853 |
+| Chauffeur | 12.00% | ~853 |
+| Salutations My Little Friend | 10.00% | ~711 |
+| Iron-y | 9.00% | ~640 |
+| Gun for Hire | 7.00% | ~498 |
+| Mischief Managed | 7.00% | ~498 |
+| Vice City Mogul | 6.00% | ~427 |
+| Catch Me if You Can | 5.00% | ~356 |
+| Bloodstained Hands | 5.00% | ~356 |
 | Not my First Time | 4.00% | ~284 |
 | Grand Theft Auto | 4.00% | ~284 |
 | High Quality H2O | 3.00% | ~213 |
@@ -40,7 +40,7 @@ Rating: 4.65 (Ranked 293)
 | Done it All | 0.60% | ~43 |
 | Kingpin | 0.30% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,100 (Ranked 113)  
+Progressed: 7,110 (Ranked 113)  
 Completed: 24 (0.34%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 24 (0.34%) (Ranked 119)
 | 2023-05-25 | 6,836 | 23 |
 | 2023-05-26 | 6,919 | 23 |
 | 2023-05-27 | 7,028 | 24 |
-| 2023-05-28 | 7,100 | 24 |
+| 2023-05-28 | 7,110 | 24 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 411)  
 Sum: 40 (Ranked 445)  

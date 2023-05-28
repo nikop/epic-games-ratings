@@ -3,8 +3,8 @@
   "Name": "The Escapists 2",
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 420,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 305,
+  "Ranking_Popularity": 384,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 323,
@@ -953,11 +953,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 400,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-28T17:58:02.7289866+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 401,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 400,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 401,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -970,7 +976,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1038,8 +1044,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-05-28T16:58:43.4813699+00:00",
+  "LastChanged": "2023-05-28T17:58:02.7289864+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:04.8713249+00:00",
-  "LastUpdate_Ratings": "2023-05-28T16:58:43.4813708+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:02:02.7665604+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:58:02.728987+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:02:12.0882169+00:00"
 }

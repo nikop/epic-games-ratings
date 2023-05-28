@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 80.00% | ~87 |
+| Graduation | 81.00% | ~88 |
 | You Have Been Deaded | 72.00% | ~78 |
 | Rookie | 69.00% | ~75 |
 | Apprentice Destructor | 26.00% | ~28 |
@@ -12,8 +12,8 @@
 | Avaricerite | 8.00% | ~9 |
 | Master Destructor | 8.00% | ~9 |
 | Ball Galore | 6.00% | ~7 |
+| Easy Victory | 6.00% | ~7 |
 | You Are Actually Supposed To Use Those | 6.00% | ~7 |
-| Easy Victory | 5.00% | ~5 |
 | Back From The Dead | 4.00% | ~4 |
 | Ball Protector | 4.00% | ~4 |
 | Legendary Destructor | 3.00% | ~3 |

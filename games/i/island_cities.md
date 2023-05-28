@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome! | 98.00% | ~193 |
-| A tiny town | 85.00% | ~167 |
+| A tiny town | 86.00% | ~169 |
 | Buildings, roads, cars, ...and people | 65.00% | ~128 |
 | Great view from the beach and from the hill | 56.00% | ~110 |
 | Bridges to come and go | 50.00% | ~98 |
-| Found an oasis | 40.00% | ~79 |
+| Found an oasis | 41.00% | ~81 |
 | Burger or pizza? | 34.00% | ~67 |
 | Passion for sports | 30.00% | ~59 |
 | Who loves trains? | 25.00% | ~49 |

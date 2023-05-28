@@ -592,17 +592,17 @@
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -769,8 +769,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:02:27.7997696+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:02:31.0081938+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:00:40.8719798+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:02:27.7997898+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:59:27.7587893+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:02:31.008224+00:00"
 }

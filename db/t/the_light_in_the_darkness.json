@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
@@ -1858,6 +1858,11 @@
       "Time": "2023-05-28T16:05:25.9537202+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-05-28T18:05:18.9877047+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 12,
@@ -1869,7 +1874,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Bernard",
@@ -1901,7 +1906,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Jakob",
@@ -1909,7 +1914,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Jude",
@@ -1964,7 +1969,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 114
     }
   ],
@@ -1972,8 +1977,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-28T17:06:31.9683495+00:00",
+  "LastChanged_Achievements": "2023-05-28T18:05:18.9877042+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:00:12.5428973+00:00",
-  "LastUpdate_Achievements": "2023-05-28T17:06:31.968368+00:00"
+  "LastUpdate_Ratings": "2023-05-28T17:59:08.5538689+00:00",
+  "LastUpdate_Achievements": "2023-05-28T18:05:18.98773+00:00"
 }
