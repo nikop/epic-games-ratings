@@ -41,9 +41,9 @@ Rating: 4.56 (Ranked 451)
 | Pedal to the Metal | 0.70% | ~16 |
 | Sustainable Energy | 0.60% | ~13 |
 | You Had One Job... | 0.60% | ~13 |
+| Mutual Loyalty | 0.50% | ~11 |
 | Praise the Hull! | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
-| Mutual Loyalty | 0.40% | ~9 |
 | Catastrophe Avoided | 0.40% | ~9 |
 | Tiqqun Unchained | 0.40% | ~9 |
 | Help of the Forgotten Member | 0.40% | ~9 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,241 (Ranked 144)  
+Progressed: 2,243 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 2,154 | 0 |
 | 2023-05-26 | 2,182 | 0 |
 | 2023-05-27 | 2,211 | 0 |
-| 2023-05-28 | 2,241 | 0 |
+| 2023-05-28 | 2,243 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

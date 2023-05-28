@@ -4,7 +4,7 @@
   "ProductSlug": "humanitz-ce3b70",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.7746139+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:58:33.7251163+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:02:11.8903987+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:58:49.7735671+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:02:38.9063656+00:00"
 }

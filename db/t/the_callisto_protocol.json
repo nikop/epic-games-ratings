@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13911,
+  "EOS_Progressed": 13915,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1924,6 +1924,11 @@
       "Time": "2023-05-28T19:03:49.4610605+00:00",
       "NumProgressed": 13911,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-28T20:03:48.4591447+00:00",
+      "NumProgressed": 13915,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2069,9 +2074,9 @@
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 417
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2079,7 +2084,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2103,7 +2108,7 @@
       "Name": "Reforged",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2135,7 +2140,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "STORY_HABITAT",
@@ -2207,7 +2212,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2215,7 +2220,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2254,13 +2259,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13911,
+      "Progressed": 13915,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1837,
+      "Progressed": 1841,
       "Completed": 29
     }
   ],
@@ -2268,8 +2273,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:03:49.46106+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:03:48.4591443+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:57:52.7136882+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:03:49.4610909+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:58:05.0386632+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:03:48.4591795+00:00"
 }

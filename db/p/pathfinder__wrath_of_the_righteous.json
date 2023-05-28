@@ -2570,9 +2570,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9300,
+  "EOS_Progressed": 9302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4815,6 +4815,11 @@
       "Time": "2023-05-28T19:06:37.5781984+00:00",
       "NumProgressed": 9300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T20:07:16.6826415+00:00",
+      "NumProgressed": 9302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4912,9 +4917,9 @@
       "ID": "12_PathOfTrickster",
       "SetID": "989of5o",
       "Name": "Path of the Trickster",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 186
     },
     {
       "ID": "13_PathOfLich",
@@ -5138,7 +5143,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "42_JustPathetic",
@@ -5154,7 +5159,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "44_AshesToAshes",
@@ -5234,7 +5239,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "54_DeathByColumn",
@@ -5753,21 +5758,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8082,
+      "Progressed": 8084,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9300,
+      "Progressed": 9302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-28T15:58:15.136114+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:37.5781979+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:07:16.6826409+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:58:26.6786371+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:37.5783356+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:58:42.4796646+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:07:16.6827963+00:00"
 }

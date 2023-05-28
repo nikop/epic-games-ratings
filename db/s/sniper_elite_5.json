@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1740,
+  "EOS_Progressed": 1744,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1743,6 +1743,11 @@
       "Time": "2023-05-28T19:06:09.6741789+00:00",
       "NumProgressed": 1740,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T20:06:48.092822+00:00",
+      "NumProgressed": 1744,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1794,7 +1799,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1818,7 +1823,7 @@
       "Name": "Organ Grinder",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1834,7 +1839,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1880,9 +1885,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1922,7 +1927,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1976,9 +1981,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2088,9 +2093,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2122,7 +2127,7 @@
       "Name": "Taking it back",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2321,13 +2326,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1691,
+      "Progressed": 1695,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1740,
+      "Progressed": 1744,
       "Completed": 2
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:09.6741784+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:06:48.0928215+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:01:13.0792173+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:09.6742391+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:01:44.9201256+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:06:48.0928864+00:00"
 }

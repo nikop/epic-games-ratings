@@ -17,16 +17,16 @@
 | The Spider | 5.00% | ~16 |
 | He's so Annoying | 3.00% | ~10 |
 | Good as Fish | 3.00% | ~10 |
+| Her Eyes | 3.00% | ~10 |
 | Trigger-Happy | 3.00% | ~10 |
-| Her Eyes | 2.00% | ~7 |
 | Gollum/Sméagol | 2.00% | ~7 |
 | Murderer | 2.00% | ~7 |
 | Master of the Old Game | 2.00% | ~7 |
+| So Silly! | 1.00% | ~3 |
 | Break a Leg! | 0.90% | ~3 |
-| So Silly! | 0.90% | ~3 |
+| The Friend | 0.90% | ~3 |
 | So Tasty! | 0.90% | ~3 |
 | And now we wish... | 0.60% | ~2 |
-| The Friend | 0.60% | ~2 |
 | Sweet Darkness | 0.60% | ~2 |
 | Nervous Hands | 0.60% | ~2 |
 | Made a Song | 0.60% | ~2 |

@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 903,
   "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 213,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 40,
@@ -1728,9 +1728,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 63822,
+  "EOS_Progressed": 63825,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 1953,
+  "EOS_NewPlayers": 1939,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5543,6 +5543,11 @@
       "Time": "2023-05-28T19:06:29.3197486+00:00",
       "NumProgressed": 63822,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-28T20:07:08.1832406+00:00",
+      "NumProgressed": 63825,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 37,
@@ -5554,7 +5559,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 31911
+      "UsersEstimate": 31912
     },
     {
       "ID": "ACH_0011",
@@ -5562,7 +5567,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18508
+      "UsersEstimate": 18509
     },
     {
       "ID": "ACH_0012",
@@ -5698,7 +5703,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 40846
+      "UsersEstimate": 40848
     },
     {
       "ID": "ACH_0210",
@@ -5706,7 +5711,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 46590
+      "UsersEstimate": 46592
     },
     {
       "ID": "ACH_0211",
@@ -5722,7 +5727,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 29996
+      "UsersEstimate": 29998
     },
     {
       "ID": "ACH_0300",
@@ -5770,7 +5775,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21699
+      "UsersEstimate": 21700
     },
     {
       "ID": "ACH_0420",
@@ -5778,7 +5783,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21061
+      "UsersEstimate": 21062
     },
     {
       "ID": "ACH_0430",
@@ -5786,7 +5791,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 22338
+      "UsersEstimate": 22339
     },
     {
       "ID": "ACH_0431",
@@ -5802,7 +5807,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12126
+      "UsersEstimate": 12127
     },
     {
       "ID": "ACH_0450",
@@ -5810,7 +5815,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12126
+      "UsersEstimate": 12127
     },
     {
       "ID": "ACH_0451",
@@ -5842,14 +5847,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7020
+      "UsersEstimate": 7021
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 63822,
+      "Progressed": 63825,
       "Completed": 31
     }
   ],
@@ -5857,8 +5862,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-28T17:59:27.1003552+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:29.3197482+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:07:08.1832401+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.0197021+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:00:28.9426068+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:29.3197869+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:00:57.1245142+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:07:08.1832903+00:00"
 }

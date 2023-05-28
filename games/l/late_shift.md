@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cause and Effect | 96.00% | ~356 |
-| Fair Share | 71.00% | ~263 |
+| Fair Share | 72.00% | ~267 |
 | Even Tempered | 56.00% | ~208 |
 | Star-Crossed Lovers | 46.00% | ~171 |
 | Shill Bidder | 44.00% | ~163 |
@@ -17,7 +17,7 @@
 | The Bribe | 26.00% | ~96 |
 | The Ploy | 15.00% | ~56 |
 | Interrogation | 14.00% | ~52 |
-| Sabotage | 11.00% | ~41 |
+| Sabotage | 12.00% | ~45 |
 | Choices Matter | 8.00% | ~30 |
 | The Fool | 5.00% | ~19 |
 | The Lion's Den | 4.00% | ~15 |

@@ -794,9 +794,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7467,
+  "EOS_Progressed": 7468,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1694,6 +1694,11 @@
       "Time": "2023-05-28T18:05:08.7280913+00:00",
       "NumProgressed": 7467,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-28T20:06:36.7228844+00:00",
+      "NumProgressed": 7468,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1737,7 +1742,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "DwarfChandelier",
@@ -1753,7 +1758,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1785,7 +1790,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "HeroSlayer",
@@ -1801,7 +1806,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "LeoniasFall_2",
@@ -1817,7 +1822,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "RookieWelcome",
@@ -1825,7 +1830,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "SavedElderEnt",
@@ -1865,7 +1870,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6944
+      "UsersEstimate": 6945
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1896,15 +1901,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7467,
+      "Progressed": 7468,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-27T06:58:59.767657+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:05:59.0628264+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:06:36.7228839+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:59:13.4203546+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:05:59.0628436+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:59:36.0633889+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:06:36.7229031+00:00"
 }

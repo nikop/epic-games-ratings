@@ -10,13 +10,13 @@
 | Unearth A Qanat | 69.00% | ~11 |
 | It Feels Better Than It Sounds | 69.00% | ~11 |
 | Skilled Hands | 63.00% | ~10 |
+| Master Smithy | 63.00% | ~10 |
 | Carving A Memory | 63.00% | ~10 |
 | A Friend In Need | 56.00% | ~9 |
-| Master Smithy | 56.00% | ~9 |
+| Close Encounter | 56.00% | ~9 |
+| The Depths Of Darkness | 56.00% | ~9 |
+| One With The Blades | 56.00% | ~9 |
 | A Stranger's Diary | 56.00% | ~9 |
-| Close Encounter | 50.00% | ~8 |
-| The Depths Of Darkness | 50.00% | ~8 |
-| One With The Blades | 50.00% | ~8 |
 | Heart of Oblivion | 50.00% | ~8 |
 | Anahita's Greatest Mistake | 50.00% | ~8 |
 | Heart's Desire | 50.00% | ~8 |

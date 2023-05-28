@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1062,6 +1062,11 @@
       "Time": "2023-05-28T19:03:23.7346583+00:00",
       "NumProgressed": 992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T20:03:22.2413316+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1249,7 +1254,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1265,7 +1270,7 @@
       "Name": "Gardener",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1321,7 +1326,7 @@
       "Name": "Miner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1456,7 +1461,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 0
     }
   ],
@@ -1464,8 +1469,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-28T17:57:09.9383158+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:03:23.7346574+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:03:22.241331+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:57:20.6062792+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:03:23.7346944+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:57:28.4324296+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:03:22.2413704+00:00"
 }

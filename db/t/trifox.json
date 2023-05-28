@@ -2,9 +2,9 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 83,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -51,6 +51,11 @@
     {
       "Time": "2023-05-21T19:06:52.8740834+00:00",
       "NumProgressed": 82,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T20:06:58.3463514+00:00",
+      "NumProgressed": 83,
       "NumCompleted": 1
     }
   ],
@@ -85,7 +90,7 @@
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -133,7 +138,7 @@
       "ID": "ACH_ENEMYKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Should have left me alone",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -141,7 +146,7 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -151,7 +156,7 @@
       "Name": "What is this?",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -197,7 +202,7 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Drink up",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -245,7 +250,7 @@
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -253,7 +258,7 @@
       "ID": "ACH_LEVELCOMPLETION_02_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-2",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -293,7 +298,7 @@
       "ID": "ACH_LEVELCOMPLETION_03_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-3",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -317,7 +322,7 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERMAGE",
       "SetID": "cfld5bl",
       "Name": "Engineer-mage hybrid",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -333,7 +338,7 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_WARRIORMAGE",
       "SetID": "cfld5bl",
       "Name": "Mage-warrior hybrid",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -341,7 +346,7 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 44
     },
@@ -381,7 +386,7 @@
       "ID": "ACH_PARTYPOPPER",
       "SetID": "cfld5bl",
       "Name": "Party popper",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -430,7 +435,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 83,
       "Completed": 1
     }
   ],
@@ -438,8 +443,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:19.7498253+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:06:58.3463509+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.6602218+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:59:23.2382476+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:19.74986+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:59:46.4046661+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:06:58.3463886+00:00"
 }

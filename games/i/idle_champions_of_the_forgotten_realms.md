@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.60% | ~534 |
 | Beware the Jabberwock | 0.60% | ~332 |
 | Beast Intentions | 0.50% | ~445 |
-| Coasting to the Finish | 0.50% | ~276 |
+| Coasting to the Finish | 0.50% | ~277 |
 | Were-verpowered | 0.40% | ~356 |
 | The Ring of Regeneration | 0.40% | ~356 |
 | Are Ya Chicken? | 0.40% | ~356 |
@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~111 |
 | Frail Doesn't Mean Broken | 0.20% | ~111 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~111 |
+| The Sanctum of the Sword | 0.20% | ~111 |
 | Get Back In The Castle | 0.20% | ~111 |
 | Pin and Skewer | 0.20% | ~111 |
 | No One Can Hear You Scream | 0.20% | ~111 |
@@ -161,7 +162,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Weak Doesn't Mean Feeble | 0.10% | ~55 |
 | The Castle of a Thousand Vecnas | 0.10% | ~55 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~55 |
-| The Sanctum of the Sword | 0.10% | ~55 |
 | Kas the Bloody Handed | 0.10% | ~55 |
 | Kas the Destroyer | 0.10% | ~55 |
 | Bully for Vecna | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,022 (Ranked 61)  
+Progressed: 89,030 (Ranked 61)  
 Completed: 1,892 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 1,892 (2.13%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 89,022 | 1,892 |
+| 2023-05-28 | 89,030 | 1,892 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,993 (Ranked 37)  

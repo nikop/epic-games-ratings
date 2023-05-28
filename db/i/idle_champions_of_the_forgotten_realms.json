@@ -3988,9 +3988,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89022,
+  "EOS_Progressed": 89030,
   "EOS_Completed": 1892,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -7763,6 +7763,11 @@
       "Time": "2023-05-28T19:06:41.424788+00:00",
       "NumProgressed": 89022,
       "NumCompleted": 1892
+    },
+    {
+      "Time": "2023-05-28T20:07:20.08683+00:00",
+      "NumProgressed": 89030,
+      "NumCompleted": 1892
     }
   ],
   "TotalAchievements": 493,
@@ -8604,9 +8609,9 @@
       "ID": "objective_completed_1193",
       "SetID": "415jc5c",
       "Name": "The Sanctum of the Sword",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1194",
@@ -11694,7 +11699,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "objective_completed_1360",
@@ -11717,21 +11722,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55296,
+      "Progressed": 55304,
       "Completed": 2732
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89022,
+      "Progressed": 89030,
       "Completed": 1892
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-28T11:58:15.81718+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:41.4247876+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:07:20.0868295+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:58:06.7819049+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:41.4270308+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:58:21.8157345+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:07:20.0892018+00:00"
 }

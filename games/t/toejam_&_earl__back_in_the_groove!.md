@@ -36,9 +36,9 @@ Rating: 4.32 (Ranked 748)
 | Ridiculously Generous | 0.30% | ~164 |
 | Nine Funkotronians | 0.30% | ~164 |
 | I'm A Total Saint | 0.30% | ~164 |
+| Struck By Love | 0.30% | ~164 |
 | The Worst Possible Luck | 0.30% | ~164 |
 | Broken Present Risk Taker | 0.20% | ~110 |
-| Struck By Love | 0.20% | ~110 |
 | Truly Evil | 0.20% | ~110 |
 | Achievement Achiever | 0.10% | ~55 |
 | Boom Box Wipeout | 0.10% | ~55 |

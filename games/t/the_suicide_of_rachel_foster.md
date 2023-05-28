@@ -15,7 +15,7 @@ Number of Ratings: 71  (23.09.2022)
 | Someone was here | 40.00% | ~432 |
 | Alone | 39.00% | ~421 |
 | Pack Rat | 39.00% | ~421 |
-| All together, again | 33.00% | ~356 |
+| All together, again | 34.00% | ~367 |
 | Spicy | 6.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,080 (Ranked 164)  

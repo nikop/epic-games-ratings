@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62568,
+  "EOS_Progressed": 62579,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4139,6 +4139,11 @@
       "Time": "2023-05-28T19:06:35.4276869+00:00",
       "NumProgressed": 62568,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T20:07:14.3096195+00:00",
+      "NumProgressed": 62579,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4454,7 +4459,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "HARLEY_2",
@@ -4494,7 +4499,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4637,13 +4642,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62568,
+      "Progressed": 62579,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32848,
+      "Progressed": 32859,
       "Completed": 2643
     }
   ],
@@ -4651,8 +4656,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:35.4276865+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:07:14.3096189+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:00:13.4697777+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:35.4277465+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:00:42.0940486+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:07:14.3096936+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4266,9 +4266,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 706044,
+  "EOS_Progressed": 706052,
   "EOS_Completed": 12741,
-  "EOS_NewPlayers": 1658,
+  "EOS_NewPlayers": 1661,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7566,6 +7566,11 @@
       "Time": "2023-05-28T19:06:28.0491638+00:00",
       "NumProgressed": 706044,
       "NumCompleted": 12741
+    },
+    {
+      "Time": "2023-05-28T20:07:06.8540476+00:00",
+      "NumProgressed": 706052,
+      "NumCompleted": 12741
     }
   ],
   "TotalAchievements": 50,
@@ -7577,7 +7582,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7585,7 +7590,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7593,7 +7598,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7601,7 +7606,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7753,7 +7758,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7761,7 +7766,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "25_ShrineMind",
@@ -7777,7 +7782,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "27_ShrineBody",
@@ -7831,9 +7836,9 @@
       "ID": "33_BladeOneShot",
       "SetID": "adcm20g",
       "Name": "Sword Stained With Blood",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2824
     },
     {
       "ID": "34_TimedTakedown",
@@ -7841,7 +7846,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "35_WideStrike",
@@ -7913,7 +7918,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7929,7 +7934,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7961,7 +7966,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7976,21 +7981,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15345,
+      "Progressed": 15353,
       "Completed": 10185
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706044,
+      "Progressed": 706052,
       "Completed": 12741
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-28T18:59:18.5798542+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:28.0491633+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:07:06.8540472+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:59:18.5798548+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:28.0492119+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:59:42.0674508+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:07:06.8541003+00:00"
 }

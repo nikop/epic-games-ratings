@@ -72,7 +72,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 603,
+  "EOS_Progressed": 604,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -227,6 +227,11 @@
       "Time": "2023-05-28T13:08:25.3546884+00:00",
       "NumProgressed": 603,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T20:06:55.8120676+00:00",
+      "NumProgressed": 604,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -286,7 +291,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "AhoyTrophy",
@@ -382,7 +387,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Ext4Trophy",
@@ -486,7 +491,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "KKBossTrophy",
@@ -518,7 +523,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MaxPriceTrophy",
@@ -638,7 +643,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -669,7 +674,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 603,
+      "Progressed": 604,
       "Completed": 0
     }
   ],
@@ -677,8 +682,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:17.261095+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:06:55.8120672+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:57.6905227+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:58:18.5741454+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:17.2611341+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:58:32.6251609+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:06:55.8121112+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.78 (Ranked 99)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~2,083 |
-| No more cages! | 91.00% | ~1,996 |
+| No more cages! | 92.00% | ~2,018 |
 | Everfrost | 77.00% | ~1,689 |
 | Dark Forest | 76.00% | ~1,667 |
 | Pentakill | 75.00% | ~1,645 |

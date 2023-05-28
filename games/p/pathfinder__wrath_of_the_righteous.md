@@ -25,6 +25,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 3.00% | ~279 |
 | Next-Door Play | 3.00% | ~279 |
 | Heart of the Fallen Land | 2.00% | ~186 |
+| Path of the Trickster | 2.00% | ~186 |
 | Heroic Victory | 2.00% | ~186 |
 | Divide and Rule | 2.00% | ~186 |
 | Mythic Reinforcements | 2.00% | ~186 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 2.00% | ~162 |
 | Path of the Demon | 1.00% | ~93 |
 | Path of the Aeon | 1.00% | ~93 |
-| Path of the Trickster | 1.00% | ~93 |
 | Path of the Lich | 1.00% | ~93 |
 | Capitulation Is Now Moot | 1.00% | ~93 |
 | Truly Important Deed | 1.00% | ~93 |
@@ -52,9 +52,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.60% | ~56 |
 | Path of the Legend | 0.60% | ~56 |
 | Strategic Victory | 0.60% | ~56 |
-| Playful Mood | 0.50% | ~46 |
-| Dreadful Dragon | 0.50% | ~46 |
-| Truly Profane Gift | 0.50% | ~46 |
+| Playful Mood | 0.50% | ~47 |
+| Dreadful Dragon | 0.50% | ~47 |
+| Truly Profane Gift | 0.50% | ~47 |
 | Masterful Charge | 0.40% | ~37 |
 | Prelate's Nemesis | 0.30% | ~28 |
 | Masterful Dispel | 0.20% | ~19 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,300 (Ranked 110)  
+Progressed: 9,302 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 9,187 | 0 |
 | 2023-05-26 | 9,226 | 0 |
 | 2023-05-27 | 9,264 | 0 |
-| 2023-05-28 | 9,300 | 0 |
+| 2023-05-28 | 9,302 | 0 |
 ## Awards
 Max (Character Customization): 1,642  (Ranked 111)  
 Sum: 6,662 (Ranked 110)  

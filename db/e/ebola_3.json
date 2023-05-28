@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -771,9 +771,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achBett",
@@ -1156,8 +1156,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:35.1249859+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:07:14.0691525+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.5505459+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:00:52.3287212+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:35.1250254+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:01:21.4107544+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:07:14.0692106+00:00"
 }

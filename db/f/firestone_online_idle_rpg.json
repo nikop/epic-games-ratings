@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1205,
+  "EOS_Progressed": 1206,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2314,6 +2314,11 @@
       "Time": "2023-05-28T19:06:18.454225+00:00",
       "NumProgressed": 1205,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T20:06:57.0279623+00:00",
+      "NumProgressed": 1206,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2347,9 +2352,9 @@
       "ID": "arenachallenger",
       "SetID": "3nl4bcg",
       "Name": "Arena Challenger",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "backgroundstory",
@@ -2659,9 +2664,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 193
     },
     {
       "ID": "missionsdedication",
@@ -2685,7 +2690,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "mythicpower",
@@ -2749,7 +2754,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "scrollmaster",
@@ -2773,7 +2778,7 @@
       "Name": "Superior",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "templeofeternals",
@@ -2885,7 +2890,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "warmachinesarmy",
@@ -2917,14 +2922,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1205,
+      "Progressed": 1206,
       "Completed": 1
     }
   ],
@@ -2932,8 +2937,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:18.4542245+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:06:57.0279619+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:58:03.740734+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:18.4542936+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:58:17.3551693+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:06:57.0280548+00:00"
 }

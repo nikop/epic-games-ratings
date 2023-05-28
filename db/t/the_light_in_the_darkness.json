@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 21,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1467,
+  "EOS_Progressed": 1468,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 7.77,
   "EosHistory": [
@@ -1868,6 +1868,11 @@
       "Time": "2023-05-28T19:06:11.9300838+00:00",
       "NumProgressed": 1467,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-05-28T20:06:50.345576+00:00",
+      "NumProgressed": 1468,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 12,
@@ -1895,15 +1900,15 @@
       "Name": "Building the Fox",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Green Ticket Roundup",
       "SetID": "b40dflc",
       "Name": "Green Ticket Roundup",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 249
+      "UsersEstimate": 264
     },
     {
       "ID": "Jacques a Dit",
@@ -1943,7 +1948,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1974,7 +1979,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1467,
+      "Progressed": 1468,
       "Completed": 114
     }
   ],
@@ -1982,8 +1987,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:11.9300834+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:06:50.3455755+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:59:59.220087+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:11.9301014+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:00:28.2168886+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:06:50.3456171+00:00"
 }

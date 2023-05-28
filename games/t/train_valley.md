@@ -19,8 +19,8 @@ Number of Ratings: 28  (23.09.2022)
 | It's no coincidence. | 32.00% | ~92 |
 | Let's roll! | 28.00% | ~80 |
 | Philatelist | 27.00% | ~77 |
+| Non Stop! | 27.00% | ~77 |
 | Ouroboros | 26.00% | ~74 |
-| Non Stop! | 26.00% | ~74 |
 | Madness! | 26.00% | ~74 |
 | Foreman | 23.00% | ~66 |
 | Missed it! | 23.00% | ~66 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.70% | ~2 |
 | Salesman | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 222)  
+Progressed: 286 (Ranked 223)  
 Completed: 2 (0.70%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |

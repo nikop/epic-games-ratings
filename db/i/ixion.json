@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2241,
+  "EOS_Progressed": 2243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1573,6 +1573,11 @@
       "Time": "2023-05-28T19:06:08.0982378+00:00",
       "NumProgressed": 2241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T20:06:46.2494675+00:00",
+      "NumProgressed": 2243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1598,9 +1603,9 @@
       "ID": "ACH_BASE_11",
       "SetID": "92iocjf",
       "Name": "Mutual Loyalty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_BASE_12",
@@ -2039,13 +2044,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 422,
+      "Progressed": 424,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2241,
+      "Progressed": 2243,
       "Completed": 0
     }
   ],
@@ -2053,8 +2058,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-26T15:59:06.5118285+00:00",
-  "LastChanged_Achievements": "2023-05-28T19:06:08.0982373+00:00",
+  "LastChanged_Achievements": "2023-05-28T20:06:46.2494667+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.5657521+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:58:36.2623058+00:00",
-  "LastUpdate_Achievements": "2023-05-28T19:06:08.0982868+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:58:53.8497826+00:00",
+  "LastUpdate_Achievements": "2023-05-28T20:06:46.2495246+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.17 (Ranked 839)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Har, Har, Har, Very Funny | 2.00% | ~1,251 |
-| First Step Into the Knight | 2.00% | ~1,251 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,252 |
+| First Step Into the Knight | 2.00% | ~1,252 |
 | The Batman Family | 1.00% | ~626 |
 | To the Victor Go the Spoils | 1.00% | ~626 |
 | Quartzer Life Crisis | 1.00% | ~626 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,568 (Ranked 70)  
+Progressed: 62,579 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,568 | 91 |
+| 2023-05-28 | 62,579 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,727 (Ranked 137)  

@@ -5,21 +5,21 @@ Rating: 4.63 (Ranked 330)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,990 |
-| Pay 'n' Spray | 48.00% | ~4,194 |
-| All Dressed Up for San Fierro | 22.00% | ~1,922 |
-| The American Dream | 17.00% | ~1,485 |
-| School's Out | 15.00% | ~1,311 |
-| Smooth Moves | 15.00% | ~1,311 |
-| Today Was a Good Day | 13.00% | ~1,136 |
-| What happens in Las Venturas... | 12.00% | ~1,048 |
-| Horror of the Santa Maria | 9.00% | ~786 |
+| Getting Started | 80.00% | ~6,996 |
+| Pay 'n' Spray | 48.00% | ~4,198 |
+| All Dressed Up for San Fierro | 22.00% | ~1,924 |
+| The American Dream | 17.00% | ~1,487 |
+| School's Out | 15.00% | ~1,312 |
+| Smooth Moves | 15.00% | ~1,312 |
+| Today Was a Good Day | 13.00% | ~1,137 |
+| What happens in Las Venturas... | 12.00% | ~1,049 |
+| Horror of the Santa Maria | 9.00% | ~787 |
 | Liberty City State of Mind | 7.00% | ~612 |
-| With Extra Dip | 6.00% | ~524 |
-| The End of the Line | 6.00% | ~524 |
-| Original Gangster | 6.00% | ~524 |
+| With Extra Dip | 6.00% | ~525 |
+| The End of the Line | 6.00% | ~525 |
+| Original Gangster | 6.00% | ~525 |
 | Saviour | 5.00% | ~437 |
-| Rescue a Kitten Too? | 4.00% | ~349 |
+| Rescue a Kitten Too? | 4.00% | ~350 |
 | They Can’t Stop All of Us | 3.00% | ~262 |
 | What are the Odds | 3.00% | ~262 |
 | I’ll Have Two Number 9s | 2.00% | ~175 |
@@ -41,7 +41,7 @@ Rating: 4.63 (Ranked 330)
 | ...Here we go again | 0.30% | ~26 |
 | I Ain't No Buster | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,737 (Ranked 111)  
+Progressed: 8,745 (Ranked 111)  
 Completed: 17 (0.19%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 17 (0.19%) (Ranked 142)
 | 2023-05-25 | 8,387 | 17 |
 | 2023-05-26 | 8,490 | 17 |
 | 2023-05-27 | 8,629 | 17 |
-| 2023-05-28 | 8,737 | 17 |
+| 2023-05-28 | 8,745 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
