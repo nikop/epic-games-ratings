@@ -408,7 +408,7 @@
 | 406 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 405 |
 | 406 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 0 | 492 |
 | 406 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 57,187 | 10 |
-| 406 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 609 | 165 |
+| 406 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 610 | 165 |
 | 406 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 129 | 297 |
 | 406 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 492 |
 | 406 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 492 |
