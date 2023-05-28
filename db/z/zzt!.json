@@ -3,7 +3,7 @@
   "Name": "ZZT!",
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2570,
+  "EOS_Progressed": 2571,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -1746,6 +1746,11 @@
       "Time": "2023-05-28T20:06:37.443465+00:00",
       "NumProgressed": 2570,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-05-28T21:06:01.8897511+00:00",
+      "NumProgressed": 2571,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 5,
@@ -1757,7 +1762,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "2",
@@ -1765,7 +1770,7 @@
       "Name": "Traveler",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "3",
@@ -1796,7 +1801,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2570,
+      "Progressed": 2571,
       "Completed": 82
     }
   ],
@@ -1804,8 +1809,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:37.4434645+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:01.8897505+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3846519+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:58:43.4215349+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:37.443481+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:58:43.2313635+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:01.8897664+00:00"
 }

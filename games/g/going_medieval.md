@@ -31,15 +31,15 @@ Number of Ratings: 706  (23.09.2022)
 | Oh Deer! | 16.00% | ~435 |
 | All Year Round | 16.00% | ~435 |
 | Disassembled | 13.00% | ~354 |
+| Nothing Wasted | 11.00% | ~299 |
 | Deerly Departed | 11.00% | ~299 |
 | Don't Cry Wolf | 11.00% | ~299 |
-| Nothing Wasted | 10.00% | ~272 |
 | Where Wolf? | 7.00% | ~190 |
 | Food Chain | 2.00% | ~54 |
 | Wabbit Season | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,720 (Ranked 138)  
-Completed: 6 (0.22%) (Ranked 136)  
+Completed: 6 (0.22%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

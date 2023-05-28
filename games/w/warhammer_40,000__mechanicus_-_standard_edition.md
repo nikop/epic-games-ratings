@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,944 |
-| This is only the beginning | 19.00% | ~40,237 |
-| Knowledge is power | 12.00% | ~25,413 |
+| No aid from the Omnissiah | 25.00% | ~52,945 |
+| This is only the beginning | 19.00% | ~40,238 |
+| Knowledge is power | 12.00% | ~25,414 |
 | Power Ranger | 9.00% | ~19,060 |
 | Galvanic Rifle | 9.00% | ~19,060 |
 | Taser Goad | 9.00% | ~19,060 |
 | Radium Ready | 9.00% | ~19,060 |
 | Half a cog | 9.00% | ~19,060 |
-| Watch them crumble | 6.00% | ~12,706 |
+| Watch them crumble | 6.00% | ~12,707 |
 | Competent Cohort | 4.00% | ~8,471 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,471 |
 | One with the Machine | 4.00% | ~8,471 |
 | Legio Cybernetica | 3.00% | ~6,353 |
 | Fleshy Disposal | 3.00% | ~6,353 |
-| Battle Servitor | 2.00% | ~4,235 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,235 |
-| Impatient destruction | 2.00% | ~4,235 |
-| Vivisected Vizier | 2.00% | ~4,235 |
-| Architect Abortion | 2.00% | ~4,235 |
+| Battle Servitor | 2.00% | ~4,236 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,236 |
+| Impatient destruction | 2.00% | ~4,236 |
+| Vivisected Vizier | 2.00% | ~4,236 |
+| Architect Abortion | 2.00% | ~4,236 |
 | Cohortus Maximus | 0.70% | ~1,482 |
 | Mother of Xenarites | 0.40% | ~847 |
 | False God | 0.30% | ~635 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 643)
 | Perma-live | 0.10% | ~212 |
 | Purge the Heretek | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,774 (Ranked 48)  
-Completed: 3 (0.00%) (Ranked 206)  
+Progressed: 211,780 (Ranked 48)  
+Completed: 3 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 3 (0.00%) (Ranked 206)
 | 2023-05-25 | 211,171 | 3 |
 | 2023-05-26 | 211,364 | 3 |
 | 2023-05-27 | 211,581 | 3 |
-| 2023-05-28 | 211,774 | 3 |
+| 2023-05-28 | 211,780 | 3 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 230)  
 Sum: 2,099 (Ranked 182)  

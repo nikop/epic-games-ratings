@@ -18,12 +18,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 1.00% | ~7,061 |
 | Bloody Sport | 1.00% | ~154 |
 | The best strikes are the ones we avoid | 1.00% | ~154 |
-| Lady Wing Chun | 0.90% | ~6,354 |
-| Kill Nil | 0.90% | ~6,354 |
-| Street Fighting | 0.90% | ~6,354 |
-| Qi Gong: Essence | 0.90% | ~6,354 |
-| Path of the Prospect | 0.90% | ~6,354 |
-| Rumble in the Hangar | 0.90% | ~6,354 |
+| Lady Wing Chun | 0.90% | ~6,355 |
+| Kill Nil | 0.90% | ~6,355 |
+| Street Fighting | 0.90% | ~6,355 |
+| Qi Gong: Essence | 0.90% | ~6,355 |
+| Path of the Prospect | 0.90% | ~6,355 |
+| Rumble in the Hangar | 0.90% | ~6,355 |
 | Furious Fists | 0.80% | ~5,648 |
 | Stuntmaster | 0.80% | ~5,648 |
 | Old Child | 0.80% | ~5,648 |
@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.40% | ~2,824 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,824 |
 | Detective Story | 0.40% | ~2,824 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,824 |
 | Sword Stained With Blood | 0.40% | ~2,824 |
 | Prodigal Child | 0.30% | ~2,118 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,118 |
 | Martial Hub | 0.30% | ~46 |
 | Secure, Protect, Leave | 0.30% | ~46 |
 | Drunken Fighter | 0.20% | ~1,412 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,052 (Ranked 15)  
-Completed: 12,741 (1.80%) (Ranked 64)  
+Progressed: 706,058 (Ranked 15)  
+Completed: 12,742 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 12,741 (1.80%) (Ranked 64)
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
-| 2023-05-28 | 706,052 | 12,741 |
+| 2023-05-28 | 706,058 | 12,742 |
 ## Awards
 Max (Great Boss Battles): 6,108  (Ranked 53)  
 Sum: 10,405 (Ranked 77)  

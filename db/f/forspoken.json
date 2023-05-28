@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38298,
+  "EOS_Progressed": 38301,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2747,6 +2747,11 @@
       "Time": "2023-05-28T20:07:01.4950548+00:00",
       "NumProgressed": 38298,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T21:06:23.1009437+00:00",
+      "NumProgressed": 38301,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2894,7 +2899,7 @@
       "Name": "Awakening",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "CRAFT_ALL",
@@ -2966,7 +2971,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "LOCATION_TEN",
@@ -3181,22 +3186,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38298,
+      "Progressed": 38301,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3135,
-      "Completed": 3135
+      "Progressed": 3138,
+      "Completed": 3138
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:07:01.495054+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:23.1009431+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4981852+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:58:59.0159595+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:07:01.4951068+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:58:53.7021798+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:23.1010057+00:00"
 }

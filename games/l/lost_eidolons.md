@@ -6,7 +6,7 @@ Rating: 4.31 (Ranked 756)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The First Step | 67.00% | ~616 |
-| First Blood | 64.00% | ~588 |
+| First Blood | 65.00% | ~597 |
 | Ready to Learn | 62.00% | ~570 |
 | Monster Hunter | 53.00% | ~487 |
 | Earning Trust | 50.00% | ~460 |
@@ -30,7 +30,7 @@ Rating: 4.31 (Ranked 756)
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 919 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 206)  
+Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

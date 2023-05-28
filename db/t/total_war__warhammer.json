@@ -4,11 +4,11 @@
   "ProductSlug": "total-war-warhammer",
   "Ranking_Rating": 420,
   "Ranking_Popularity": 52,
-  "Ranking_PopularitySum": 64,
+  "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
     "PcReleaseDate": "2016-05-24T11:08:48+00:00",
@@ -4207,6 +4207,6 @@
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
   "LastChanged": "2023-05-28T15:58:51.3798706+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:35.6456736+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:59:41.1196896+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:04:10.7353085+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:59:25.8194091+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:04:25.3017118+00:00"
 }

@@ -58,7 +58,7 @@ Number of Ratings: 48  (23.09.2022)
 | Rising Champion | 7.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 665 (Ranked 188)  
-Completed: 57 (8.57%) (Ranked 16)  
+Completed: 57 (8.57%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

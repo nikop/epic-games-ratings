@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 814,
+  "EOS_Progressed": 816,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -523,6 +523,11 @@
       "Time": "2023-05-28T19:06:04.0153627+00:00",
       "NumProgressed": 814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T21:06:05.6348389+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -756,9 +761,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "6ohhfoc",
       "Name": "We made it",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 245
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -893,7 +898,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 814,
+      "Progressed": 816,
       "Completed": 0
     }
   ],
@@ -901,8 +906,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:42.0933204+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:05.6348385+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.4958326+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:57:50.7670558+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:42.0933536+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:57:58.5300301+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:05.6348744+00:00"
 }

@@ -13,8 +13,8 @@
 | Keep Exploding | 11.00% | ~1 |
 | I Know Kung Fu | 11.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 347)  
-Completed: 0 (0.00%) (Ranked 206)  
+Progressed: 9 (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

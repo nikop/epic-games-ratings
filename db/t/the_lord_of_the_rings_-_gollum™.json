@@ -3,9 +3,9 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -380,6 +380,11 @@
       "Time": "2023-05-28T19:05:54.9276691+00:00",
       "NumProgressed": 328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T21:05:57.1029415+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -429,9 +434,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 63
     },
     {
       "ID": "Chapter3",
@@ -495,7 +500,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Collectibles2",
@@ -559,7 +564,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Memories",
@@ -671,21 +676,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:32.1859035+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:05:57.102941+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:57:53.7497482+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:32.1859316+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:58:00.6912555+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:05:57.1029696+00:00"
 }

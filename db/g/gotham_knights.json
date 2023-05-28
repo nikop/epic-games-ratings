@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62579,
+  "EOS_Progressed": 62594,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4144,6 +4144,11 @@
       "Time": "2023-05-28T20:07:14.3096195+00:00",
       "NumProgressed": 62579,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T21:06:34.5731337+00:00",
+      "NumProgressed": 62594,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4235,7 +4240,7 @@
       "Name": "End of an Era",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "APPLY_STATUS",
@@ -4243,7 +4248,7 @@
       "Name": "In Your Element",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "CHALLENGES_1",
@@ -4297,9 +4302,9 @@
       "ID": "CRAFTING_MOD_CHIPS",
       "SetID": "4eo5ebm",
       "Name": "Fusion Expert",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 250
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -4331,7 +4336,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -4642,13 +4647,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62579,
+      "Progressed": 62594,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32859,
+      "Progressed": 32874,
       "Completed": 2643
     }
   ],
@@ -4656,8 +4661,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:07:14.3096189+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:34.573133+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:00:42.0940486+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:07:14.3096936+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:21.1445666+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:34.5732072+00:00"
 }

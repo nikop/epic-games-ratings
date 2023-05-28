@@ -6,32 +6,32 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~849,897 |
-| I Need a Bigger Garage | 62.00% | ~592,063 |
-| Pump my Ride | 46.00% | ~439,272 |
-| Ghostbuster | 31.00% | ~296,031 |
-| Call Roadside Assistance | 17.00% | ~162,340 |
-| That Was Close | 17.00% | ~162,340 |
-| Quickie | 10.00% | ~95,494 |
-| California Dreamer | 7.00% | ~66,846 |
-| Can't Touch This | 4.00% | ~38,198 |
-| Carménère Taster | 3.00% | ~28,648 |
-| Comeback | 3.00% | ~28,648 |
-| Marathonist | 3.00% | ~28,648 |
-| Living Legend | 3.00% | ~28,648 |
-| Driver from Ipanema | 2.00% | ~19,099 |
-| Pathfinder | 2.00% | ~19,099 |
-| Go-Kart Champion | 2.00% | ~19,099 |
-| Completionist | 2.00% | ~19,099 |
-| Supersonic | 2.00% | ~19,099 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,099 |
-| God of Roads | 1.00% | ~9,549 |
-| The Iceman | 1.00% | ~9,549 |
-| Oil Tycoon | 1.00% | ~9,549 |
-| Round the Globe | 1.00% | ~9,549 |
-| Golden Passport | 1.00% | ~9,549 |
-| Bollywood Star | 0.90% | ~8,594 |
-| Brave and Bold | 0.90% | ~8,594 |
+| The First of Many | 89.00% | ~849,981 |
+| I Need a Bigger Garage | 62.00% | ~592,122 |
+| Pump my Ride | 46.00% | ~439,316 |
+| Ghostbuster | 31.00% | ~296,061 |
+| Call Roadside Assistance | 17.00% | ~162,356 |
+| That Was Close | 17.00% | ~162,356 |
+| Quickie | 10.00% | ~95,504 |
+| California Dreamer | 7.00% | ~66,852 |
+| Can't Touch This | 4.00% | ~38,201 |
+| Carménère Taster | 3.00% | ~28,651 |
+| Comeback | 3.00% | ~28,651 |
+| Marathonist | 3.00% | ~28,651 |
+| Living Legend | 3.00% | ~28,651 |
+| Driver from Ipanema | 2.00% | ~19,101 |
+| Pathfinder | 2.00% | ~19,101 |
+| Go-Kart Champion | 2.00% | ~19,101 |
+| Completionist | 2.00% | ~19,101 |
+| Supersonic | 2.00% | ~19,101 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,101 |
+| God of Roads | 1.00% | ~9,550 |
+| The Iceman | 1.00% | ~9,550 |
+| Oil Tycoon | 1.00% | ~9,550 |
+| Round the Globe | 1.00% | ~9,550 |
+| Golden Passport | 1.00% | ~9,550 |
+| Bollywood Star | 0.90% | ~8,595 |
+| Brave and Bold | 0.90% | ~8,595 |
 | Crocodile Hunter | 0.80% | ~7,640 |
 | Old Master | 0.80% | ~7,640 |
 | Volcano Surfer | 0.70% | ~6,685 |
@@ -44,8 +44,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~955 |
 | Look Mom, No Hands! | 0.10% | ~955 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 954,940 (Ranked 10)  
-Completed: 272 (0.03%) (Ranked 184)  
+Progressed: 955,035 (Ranked 10)  
+Completed: 273 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,10 +82,10 @@ Completed: 272 (0.03%) (Ranked 184)
 | 2023-05-25 | 948,628 | 268 |
 | 2023-05-26 | 950,665 | 270 |
 | 2023-05-27 | 953,097 | 272 |
-| 2023-05-28 | 954,940 | 272 |
+| 2023-05-28 | 955,035 | 273 |
 ## Awards
 Max (Great for Beginners): 140  (Ranked 289)  
-Sum: 1,123 (Ranked 226)  
+Sum: 1,124 (Ranked 226)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -98,7 +98,7 @@ Diff (max vs sum): 63
 | This game has Playful Visuals | 101 |
 | This game is Extremely Fun | 94 |
 | This game has Amazing Characters | 86 |
-| This game has Amazing Storytelling | 82 |
+| This game has Amazing Storytelling | 83 |
 | This game has Diverse Characters | 75 |
 | This game has a Competitive Community | 67 |
 ## Ratings History
@@ -229,4 +229,4 @@ Diff (max vs sum): 63
 | 2023-05-25 | 4.56 | - | 139 | 1,115 |
 | 2023-05-26 | 4.56 | - | 139 | 1,120 |
 | 2023-05-27 | 4.56 | - | 139 | 1,121 |
-| 2023-05-28 | 4.56 | - | 140 | 1,123 |
+| 2023-05-28 | 4.56 | - | 140 | 1,124 |

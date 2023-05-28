@@ -3,7 +3,7 @@
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 9,
+  "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 199,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 15.15,
+  "EOS_Completed_Percentage": 15.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -868,6 +868,11 @@
       "Time": "2023-05-28T19:05:58.8415601+00:00",
       "NumProgressed": 198,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-28T21:06:00.9329397+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -879,7 +884,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "LEVEL_002",
@@ -887,7 +892,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "LEVEL_003",
@@ -911,7 +916,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_006",
@@ -919,7 +924,7 @@
       "Name": "Found an oasis",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_007",
@@ -927,7 +932,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_008",
@@ -935,7 +940,7 @@
       "Name": "Passion for sports",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LEVEL_009",
@@ -1054,7 +1059,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 199,
       "Completed": 30
     }
   ],
@@ -1062,8 +1067,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:36.4724593+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:00.9329391+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:58:20.1417513+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:36.472481+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:58:22.0408766+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:00.9329578+00:00"
 }

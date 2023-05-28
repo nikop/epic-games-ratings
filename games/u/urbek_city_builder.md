@@ -14,7 +14,7 @@
 | I like my life | 18.00% | ~35 |
 | Clean energy | 17.00% | ~33 |
 | Soviet town | 17.00% | ~33 |
-| Bucolic city | 12.00% | ~23 |
+| Bucolic city | 13.00% | ~25 |
 | I love parks | 10.00% | ~19 |
 | I love books! | 9.00% | ~17 |
 | King of fish | 9.00% | ~17 |
@@ -85,7 +85,7 @@
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 192 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 206)  
+Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

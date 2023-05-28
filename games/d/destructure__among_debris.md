@@ -8,7 +8,7 @@
 | You Have Been Deaded | 72.00% | ~78 |
 | Rookie | 69.00% | ~75 |
 | Apprentice Destructor | 26.00% | ~28 |
-| I Prefer Jazz Fusion | 10.00% | ~11 |
+| I Prefer Jazz Fusion | 11.00% | ~12 |
 | Avaricerite | 8.00% | ~9 |
 | Master Destructor | 8.00% | ~9 |
 | Ball Galore | 6.00% | ~7 |
@@ -19,6 +19,7 @@
 | Legendary Destructor | 3.00% | ~3 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
+| Medium Rare | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Nomad | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
@@ -28,7 +29,6 @@
 | Bullet Hell | 0.90% | ~1 |
 | Ice Breaker | 0.90% | ~1 |
 | Machine Man | 0.90% | ~1 |
-| Medium Rare | 0.90% | ~1 |
 | Mushroom Man | 0.90% | ~1 |
 | Scrap Collector | 0.90% | ~1 |
 | Total Walrus | 0.90% | ~1 |
@@ -37,7 +37,7 @@
 | What Even Are You? | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 109 (Ranked 263)  
-Completed: 1 (0.92%) (Ranked 88)  
+Completed: 1 (0.92%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

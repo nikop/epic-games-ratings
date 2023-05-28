@@ -7,17 +7,17 @@ Number of Ratings: 36  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 72.00% | ~480 |
-| It’s Heating up! | 68.00% | ~453 |
-| Let’s patch things up | 64.00% | ~426 |
-| I can fix it! | 61.00% | ~406 |
+| It’s Heating up! | 68.00% | ~454 |
+| Let’s patch things up | 64.00% | ~427 |
+| I can fix it! | 61.00% | ~407 |
 | Post No Bills | 54.00% | ~360 |
-| Truly Shocking! | 46.00% | ~306 |
+| Truly Shocking! | 46.00% | ~307 |
 | Critical Thinker | 33.00% | ~220 |
-| Always Finding Your Mark | 28.00% | ~186 |
+| Always Finding Your Mark | 28.00% | ~187 |
 | No Niños | 27.00% | ~180 |
 | The Weight of the World | 27.00% | ~180 |
 | Act I Complete | 26.00% | ~173 |
-| A drop in the Ocean | 25.00% | ~166 |
+| A drop in the Ocean | 25.00% | ~167 |
 | I ain’t afraid of no Ghost | 23.00% | ~153 |
 | Act II Complete | 19.00% | ~127 |
 | A successful procedure! | 17.00% | ~113 |
@@ -30,12 +30,12 @@ Number of Ratings: 36  (23.09.2022)
 | Fire and Brimstone | 5.00% | ~33 |
 | See you Space Cowboy | 5.00% | ~33 |
 | Ghost in the Ship | 2.00% | ~13 |
-| Disagree and Commit | 0.20% | ~1 |
+| Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 187)  
-Completed: 0 (0.00%) (Ranked 206)  
+Progressed: 667 (Ranked 186)  
+Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-24 | 644 | 0 |
 | 2023-05-26 | 649 | 0 |
 | 2023-05-27 | 656 | 0 |
-| 2023-05-28 | 666 | 0 |
+| 2023-05-28 | 667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

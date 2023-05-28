@@ -3,9 +3,9 @@
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1044,
+  "EOS_NewPlayers": 1045,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -721,6 +721,11 @@
       "Time": "2023-05-28T20:02:45.8089795+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T21:02:14.833822+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -788,7 +793,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -907,14 +912,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:02:45.808979+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:02:14.8338213+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:57:01.1019176+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:02:45.8089946+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:57:13.7429786+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:02:14.8338419+00:00"
 }

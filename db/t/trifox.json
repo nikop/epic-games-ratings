@@ -3,9 +3,9 @@
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -346,9 +346,9 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -443,8 +443,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:58.3463509+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:19.9737964+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.6602218+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:59:46.4046661+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:58.3463886+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:59:32.4211944+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:19.9738343+00:00"
 }

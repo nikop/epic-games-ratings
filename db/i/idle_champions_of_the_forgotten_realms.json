@@ -2,11 +2,11 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -3988,11 +3988,11 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89030,
+  "EOS_Progressed": 89038,
   "EOS_Completed": 1892,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -7768,6 +7768,11 @@
       "Time": "2023-05-28T20:07:20.08683+00:00",
       "NumProgressed": 89030,
       "NumCompleted": 1892
+    },
+    {
+      "Time": "2023-05-28T21:06:40.2565118+00:00",
+      "NumProgressed": 89038,
+      "NumCompleted": 1892
     }
   ],
   "TotalAchievements": 493,
@@ -9569,9 +9574,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 356
     },
     {
       "ID": "objective_completed_390",
@@ -9993,9 +9998,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_550",
@@ -11722,21 +11727,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55304,
+      "Progressed": 55312,
       "Completed": 2732
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89030,
+      "Progressed": 89038,
       "Completed": 1892
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-28T11:58:15.81718+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:07:20.0868295+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:40.2565114+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:58:21.8157345+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:07:20.0892018+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:58:23.6020343+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:40.259227+00:00"
 }

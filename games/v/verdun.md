@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~35,031 |
-| Worth it | 63.00% | ~28,662 |
-| Eagle Eye | 55.00% | ~25,022 |
-| Corpseman I | 40.00% | ~18,198 |
-| Blast fishing | 37.00% | ~16,833 |
-| Not alone | 32.00% | ~14,558 |
-| Headhunter I | 27.00% | ~12,284 |
-| Manual Labour I | 25.00% | ~11,374 |
-| Developers, Developers, Developers | 24.00% | ~10,919 |
-| Basic Training | 24.00% | ~10,919 |
-| Furchtlos und Treu | 13.00% | ~5,914 |
-| Gott Mit Uns | 12.00% | ~5,459 |
+| Setting an example | 77.00% | ~35,035 |
+| Worth it | 63.00% | ~28,665 |
+| Eagle Eye | 55.00% | ~25,025 |
+| Corpseman I | 40.00% | ~18,200 |
+| Blast fishing | 37.00% | ~16,835 |
+| Not alone | 32.00% | ~14,560 |
+| Headhunter I | 27.00% | ~12,285 |
+| Manual Labour I | 25.00% | ~11,375 |
+| Developers, Developers, Developers | 24.00% | ~10,920 |
+| Basic Training | 24.00% | ~10,920 |
+| Furchtlos und Treu | 13.00% | ~5,915 |
+| Gott Mit Uns | 12.00% | ~5,460 |
 | This We'll Defend! | 9.00% | ~4,095 |
 | Anker wirf! | 9.00% | ~4,095 |
 | Providentiea Memor | 9.00% | ~4,095 |
@@ -55,19 +55,19 @@ Number of Ratings: 1,999  (23.09.2022)
 | Manual Labour III | 0.40% | ~182 |
 | Buddy | 0.30% | ~136 |
 | War is better with friends II | 0.20% | ~91 |
-| Gold Collector | 0.10% | ~45 |
-| Gold Hoarder | 0.10% | ~45 |
-| Silver Collector | 0.10% | ~45 |
-| Silver Hoarder | 0.10% | ~45 |
-| War is better with friends III | 0.10% | ~45 |
-| War is better with friends IV | 0.10% | ~45 |
-| Aimbot | 0.10% | ~45 |
-| Headhunter III | 0.10% | ~45 |
-| Comrade | 0.10% | ~45 |
-| Blood Brother | 0.10% | ~45 |
+| Gold Collector | 0.10% | ~46 |
+| Gold Hoarder | 0.10% | ~46 |
+| Silver Collector | 0.10% | ~46 |
+| Silver Hoarder | 0.10% | ~46 |
+| War is better with friends III | 0.10% | ~46 |
+| War is better with friends IV | 0.10% | ~46 |
+| Aimbot | 0.10% | ~46 |
+| Headhunter III | 0.10% | ~46 |
+| Comrade | 0.10% | ~46 |
+| Blood Brother | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,495 (Ranked 79)  
-Completed: 3 (0.01%) (Ranked 195)  
+Progressed: 45,500 (Ranked 79)  
+Completed: 3 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 3 (0.01%) (Ranked 195)
 | 2023-05-25 | 45,045 | 2 |
 | 2023-05-26 | 45,175 | 2 |
 | 2023-05-27 | 45,349 | 3 |
-| 2023-05-28 | 45,495 | 3 |
+| 2023-05-28 | 45,500 | 3 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 333)  
 Sum: 738 (Ranked 256)  

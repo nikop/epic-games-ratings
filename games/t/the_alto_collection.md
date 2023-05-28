@@ -6,30 +6,30 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,338 |
-| Rookie | 25.00% | ~5,868 |
-| Nomad | 19.00% | ~4,460 |
-| Picking Up Speed | 17.00% | ~3,990 |
-| Welcome Maya | 16.00% | ~3,756 |
-| Sightseer | 12.00% | ~2,817 |
-| Scout | 10.00% | ~2,347 |
-| Amateur | 9.00% | ~2,113 |
-| Wanderer | 9.00% | ~2,113 |
-| Enter Paz | 8.00% | ~1,878 |
-| Unlock Maya | 7.00% | ~1,643 |
-| Aviator | 6.00% | ~1,408 |
-| One With The Board | 6.00% | ~1,408 |
-| Voyager | 6.00% | ~1,408 |
+| Finding Your Footing | 27.00% | ~6,341 |
+| Rookie | 25.00% | ~5,871 |
+| Nomad | 19.00% | ~4,462 |
+| Picking Up Speed | 17.00% | ~3,992 |
+| Welcome Maya | 16.00% | ~3,757 |
+| Sightseer | 12.00% | ~2,818 |
+| Scout | 10.00% | ~2,348 |
+| Amateur | 9.00% | ~2,114 |
+| Wanderer | 9.00% | ~2,114 |
+| Enter Paz | 8.00% | ~1,879 |
+| Unlock Maya | 7.00% | ~1,644 |
+| Aviator | 6.00% | ~1,409 |
+| One With The Board | 6.00% | ~1,409 |
+| Voyager | 6.00% | ~1,409 |
 | My Little Friend | 5.00% | ~1,174 |
 | Sandboarder | 4.00% | ~939 |
 | Izel Has Arrived | 4.00% | ~939 |
-| Junkie | 3.00% | ~704 |
-| Traveler | 3.00% | ~704 |
-| Journeyer | 3.00% | ~704 |
-| Unlock Paz | 3.00% | ~704 |
-| Here Comes Felipe | 3.00% | ~704 |
-| Pro | 2.00% | ~469 |
-| Human Flight | 2.00% | ~469 |
+| Junkie | 3.00% | ~705 |
+| Traveler | 3.00% | ~705 |
+| Journeyer | 3.00% | ~705 |
+| Unlock Paz | 3.00% | ~705 |
+| Here Comes Felipe | 3.00% | ~705 |
+| Pro | 2.00% | ~470 |
+| Human Flight | 2.00% | ~470 |
 | Explorer | 1.00% | ~235 |
 | Hoist the Mainsail | 1.00% | ~235 |
 | Unlock Izel | 1.00% | ~235 |
@@ -46,8 +46,8 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~23 |
 | Windswept | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,473 (Ranked 89)  
-Completed: 3 (0.01%) (Ranked 195)  
+Progressed: 23,484 (Ranked 89)  
+Completed: 3 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 3 (0.01%) (Ranked 195)
 | 2023-05-25 | 22,881 | 3 |
 | 2023-05-26 | 23,090 | 3 |
 | 2023-05-27 | 23,300 | 3 |
-| 2023-05-28 | 23,473 | 3 |
+| 2023-05-28 | 23,484 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 316)  

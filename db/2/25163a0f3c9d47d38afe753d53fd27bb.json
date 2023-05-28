@@ -3,8 +3,8 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -810,17 +810,17 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_008",
@@ -834,9 +834,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_010",
@@ -874,9 +874,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_015",
@@ -1017,8 +1017,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:03:38.6202977+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:03:38.6470312+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:57:00.7165801+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:03:38.6203238+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:57:13.4344716+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:03:38.6470577+00:00"
 }

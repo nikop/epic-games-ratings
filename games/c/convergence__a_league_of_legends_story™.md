@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 93.00% | ~435 |
 | Rail Rat | 76.00% | ~356 |
-| The Mysterious Stranger | 73.00% | ~342 |
+| The Mysterious Stranger | 74.00% | ~346 |
 | Immaculate Aim | 62.00% | ~290 |
 | The Brass Boss | 54.00% | ~253 |
 | Honest Mistake | 53.00% | ~248 |
@@ -16,34 +16,34 @@
 | The Harder They Fall | 47.00% | ~220 |
 | Right On Time | 46.00% | ~215 |
 | Fast Learner | 46.00% | ~215 |
-| Immaculate Aim | 44.00% | ~206 |
-| Make Up For Lost Time | 43.00% | ~201 |
-| Breaking Down Barriers | 41.00% | ~192 |
+| Immaculate Aim | 45.00% | ~211 |
+| Make Up For Lost Time | 44.00% | ~206 |
+| Breaking Down Barriers | 42.00% | ~197 |
 | The Steel Shadow | 34.00% | ~159 |
-| Like Clockwork | 32.00% | ~150 |
-| Golem Chaser | 32.00% | ~150 |
+| Like Clockwork | 33.00% | ~154 |
+| Golem Chaser | 33.00% | ~154 |
 | The Wicked Twins | 29.00% | ~136 |
 | Family Memories | 28.00% | ~131 |
 | The Betrayer | 28.00% | ~131 |
 | Good Neighbor | 27.00% | ~126 |
 | Check Your Pulse | 26.00% | ~122 |
-| Street Style | 24.00% | ~112 |
+| Street Style | 25.00% | ~117 |
 | The Loose Cannon | 24.00% | ~112 |
+| The Man Who Shattered Time | 19.00% | ~89 |
 | Whiz Kid | 19.00% | ~89 |
 | Sump Explorer | 19.00% | ~89 |
 | Syron for Hope | 19.00% | ~89 |
 | Ask Questions Later | 19.00% | ~89 |
 | The Family Fortune | 19.00% | ~89 |
-| The Man Who Shattered Time | 18.00% | ~84 |
 | Chaincrawler Explorer | 17.00% | ~80 |
 | Factorywood Explorer | 17.00% | ~80 |
 | Fairgrounds Explorer | 16.00% | ~75 |
-| Theater Explorer | 13.00% | ~61 |
+| Theater Explorer | 14.00% | ~66 |
 | Cultivair Explorer | 12.00% | ~56 |
+| Entresol Explorer | 11.00% | ~51 |
 | Rungs Was Right | 11.00% | ~51 |
 | Corin Goes Home | 10.00% | ~47 |
-| Entresol Explorer | 10.00% | ~47 |
-| Sartorialist | 9.00% | ~42 |
+| Sartorialist | 10.00% | ~47 |
 | Hexlock for Protection | 9.00% | ~42 |
 | Clovemary for Remembering | 8.00% | ~37 |
 | Golem Hunter | 7.00% | ~33 |
@@ -59,7 +59,7 @@
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 468 (Ranked 195)  
-Completed: 0 (0.00%) (Ranked 206)  
+Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

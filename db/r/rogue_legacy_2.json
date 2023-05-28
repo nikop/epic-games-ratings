@@ -6,9 +6,9 @@
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1119,9 +1119,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21886,
+  "EOS_Progressed": 21890,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3074,6 +3074,11 @@
       "Time": "2023-05-28T19:06:18.7270575+00:00",
       "NumProgressed": 21886,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-28T21:06:19.1259692+00:00",
+      "NumProgressed": 21890,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -3179,9 +3184,9 @@
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 88
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -3396,21 +3401,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21886,
+      "Progressed": 21890,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 816,
+      "Progressed": 820,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-26T21:58:57.7017015+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:57.3175479+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:19.1259684+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.3423496+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:59:53.8378884+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:57.3176084+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:59:39.5881849+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:19.1260109+00:00"
 }

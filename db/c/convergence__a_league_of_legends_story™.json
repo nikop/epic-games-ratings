@@ -3,9 +3,9 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -586,9 +586,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "ClovemaryGift",
@@ -602,17 +602,17 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "CultivairChests1",
@@ -626,9 +626,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -658,9 +658,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 346
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -674,9 +674,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "GadgetCompletion1",
@@ -730,9 +730,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "MapCompletion1",
@@ -802,9 +802,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 197
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -850,9 +850,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "SkillCompletion1",
@@ -906,9 +906,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -922,9 +922,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 211
     },
     {
       "ID": "WatcherFought",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:05:32.971591+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:05:17.2436196+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:00:18.3466924+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:05:32.9716331+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:00.10972+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:05:17.2436684+00:00"
 }

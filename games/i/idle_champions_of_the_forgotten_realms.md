@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 879)  
+Rating: 4.06 (Ranked 878)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.50% | ~277 |
 | Were-verpowered | 0.40% | ~356 |
 | The Ring of Regeneration | 0.40% | ~356 |
+| Seeking Allies | 0.40% | ~356 |
 | Are Ya Chicken? | 0.40% | ~356 |
 | Quick or Quack | 0.40% | ~221 |
 | Owlbear Necessities | 0.30% | ~166 |
@@ -25,7 +26,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.30% | ~267 |
 | Unearthed Evil | 0.30% | ~267 |
 | The Crumbling Temple | 0.30% | ~267 |
-| Seeking Allies | 0.30% | ~267 |
 | Mad Cow Disease | 0.30% | ~267 |
 | Friendly Imps | 0.30% | ~267 |
 | Pure Energy | 0.30% | ~267 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.20% | ~178 |
 | Exploring Port Nyanzaru | 0.20% | ~178 |
 | A Tale of Two Cities | 0.20% | ~178 |
+| Flying Monkey Skulls of Doom | 0.20% | ~178 |
 | Running of the Saurs | 0.20% | ~178 |
 | The Contagious Curse | 0.20% | ~178 |
 | Hearts Aflame | 0.20% | ~111 |
@@ -302,7 +303,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~89 |
 | A Hero's Entourage | 0.10% | ~89 |
 | Sneak Attack | 0.10% | ~55 |
-| Flying Monkey Skulls of Doom | 0.10% | ~89 |
 | Lair of the Xanathar | 0.10% | ~89 |
 | Dreams of Beholders | 0.10% | ~89 |
 | Feigned Weakness | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,030 (Ranked 61)  
-Completed: 1,892 (2.13%) (Ranked 61)  
+Progressed: 89,038 (Ranked 61)  
+Completed: 1,892 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -538,7 +538,7 @@ Completed: 1,892 (2.13%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 89,030 | 1,892 |
+| 2023-05-28 | 89,038 | 1,892 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,993 (Ranked 37)  

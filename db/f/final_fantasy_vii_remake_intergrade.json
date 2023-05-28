@@ -6,9 +6,9 @@
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-12-16T14:30:00+00:00",
     "PcReleaseDate": "2021-12-16T14:30:00+00:00",
@@ -3038,10 +3038,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 12023,
       "NumberOfAwardsMax": 5479
+    },
+    {
+      "Time": "2023-05-28T21:00:46.4681606+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 12025,
+      "NumberOfAwardsMax": 5479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12023,
+  "NumberOfAwards": 12025,
   "NumberOfAwardsMax": 5479,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3055,7 +3061,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3687
+      "Count": 3688
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3115,7 +3121,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game has a Creative Community",
@@ -3135,8 +3141,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2023-05-28T17:59:35.8913326+00:00",
+  "LastChanged": "2023-05-28T21:00:46.4681605+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.8113105+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:01:09.4477835+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:05:47.8477016+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:46.4681611+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:05:29.5782736+00:00"
 }

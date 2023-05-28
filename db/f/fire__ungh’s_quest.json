@@ -3,9 +3,9 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -188,9 +188,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "15_Coins",
@@ -308,9 +308,9 @@
       "ID": "Level_completed_005_003",
       "SetID": "6od1ndi",
       "Name": "Onk Boga V",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "Level_completed_006_004",
@@ -397,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:55.232414+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:17.0576751+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:17.5939939+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:00:51.0678421+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:55.2324334+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:27.9362229+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:17.0576954+00:00"
 }

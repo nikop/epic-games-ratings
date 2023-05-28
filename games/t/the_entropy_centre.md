@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Rewind Time | 89.00% | ~107 |
-| Wake Up | 80.00% | ~96 |
-| Time Gates | 61.00% | ~73 |
+| Wake Up | 81.00% | ~97 |
+| Time Gates | 62.00% | ~74 |
 | Command Centre | 48.00% | ~58 |
 | This is a Wall | 41.00% | ~49 |
 | Extendable Bridges | 33.00% | ~40 |
@@ -33,7 +33,7 @@
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 120 (Ranked 262)  
-Completed: 0 (0.00%) (Ranked 206)  
+Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

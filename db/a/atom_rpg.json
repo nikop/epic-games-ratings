@@ -6,9 +6,9 @@
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 861,
+  "EOS_Progressed": 862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2023-05-28T20:07:05.8290876+00:00",
       "NumProgressed": 861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T21:06:27.0363534+00:00",
+      "NumProgressed": 862,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -957,7 +962,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "EXPERT_1",
@@ -989,7 +994,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "HEAD_BURST_1",
@@ -1029,7 +1034,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1125,7 +1130,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "SECRET_ROOM",
@@ -1155,9 +1160,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 207
     },
     {
       "ID": "VVE",
@@ -1188,15 +1193,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 861,
+      "Progressed": 862,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:07:05.8290871+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:27.0363528+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:01:11.3125572+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:07:05.8291164+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:48.7208675+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:27.0363825+00:00"
 }

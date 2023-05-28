@@ -3,12 +3,12 @@
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 29,
+  "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5356,18 +5356,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 27939,
       "NumberOfAwardsMax": 12001
+    },
+    {
+      "Time": "2023-05-28T20:57:45.0292981+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27956,
+      "NumberOfAwardsMax": 12016
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27939,
-  "NumberOfAwardsMax": 12001,
+  "NumberOfAwards": 27956,
+  "NumberOfAwardsMax": 12016,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 12001
+      "Count": 12016
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5415,7 +5421,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 974
+      "Count": 976
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5447,8 +5453,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-05-28T19:57:36.0149568+00:00",
+  "LastChanged": "2023-05-28T20:57:45.0292979+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.1010467+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:57:36.0149574+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:02:57.479991+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:57:45.0292986+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:02:24.5908359+00:00"
 }

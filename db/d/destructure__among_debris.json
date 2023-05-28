@@ -3,9 +3,9 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -608,9 +608,9 @@
       "ID": "i_prefer_fusion_jazz",
       "SetID": "jig50d",
       "Name": "I Prefer Jazz Fusion",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ice_breaker",
@@ -648,9 +648,9 @@
       "ID": "medium_rare",
       "SetID": "jig50d",
       "Name": "Medium Rare",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "monster_of_fashion",
@@ -769,8 +769,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:02:57.2122008+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:02:24.3376334+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:00:57.8968932+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:02:57.2122251+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:34.7283422+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:02:24.3376582+00:00"
 }

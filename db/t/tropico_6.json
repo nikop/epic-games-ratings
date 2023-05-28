@@ -6,9 +6,9 @@
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,7 +870,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3191,
+  "EOS_Progressed": 3192,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
@@ -3060,6 +3060,11 @@
       "Time": "2023-05-28T20:07:12.748243+00:00",
       "NumProgressed": 3191,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T21:06:33.2427791+00:00",
+      "NumProgressed": 3192,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3127,7 +3132,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3135,7 +3140,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -3159,7 +3164,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -3175,7 +3180,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3229,9 +3234,9 @@
       "ID": "ACH_JUSTONEMORETERM",
       "SetID": "1p8ab95",
       "Name": "Just One...More...Term...",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2458
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3359,7 +3364,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -3367,7 +3372,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -3390,15 +3395,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3191,
+      "Progressed": 3192,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:07:12.7482425+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:33.2427786+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:01:13.7605913+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:07:12.7482805+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:50.8684218+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:33.2428207+00:00"
 }

@@ -15,8 +15,8 @@
 | Danka, Lagga, Wonwon | 41.00% | ~72 |
 | Onk Boga IV | 41.00% | ~72 |
 | BumBum | 40.00% | ~70 |
-| Blunga 10 | 38.00% | ~67 |
-| Onk Boga V | 36.00% | ~63 |
+| Blunga 10 | 39.00% | ~69 |
+| Onk Boga V | 37.00% | ~65 |
 | Onk Boga VI | 34.00% | ~60 |
 | IQ62 | 34.00% | ~60 |
 | 1978 | 32.00% | ~56 |
@@ -33,7 +33,7 @@
 | Blunga 30 | 5.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 176 (Ranked 246)  
-Completed: 9 (5.11%) (Ranked 29)  
+Completed: 9 (5.11%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

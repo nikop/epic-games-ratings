@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8745,
+  "EOS_Progressed": 8750,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2770,6 +2770,11 @@
       "Time": "2023-05-28T20:07:11.2375521+00:00",
       "NumProgressed": 8745,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-28T21:06:31.7371178+00:00",
+      "NumProgressed": 8750,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2781,7 +2786,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6996
+      "UsersEstimate": 7000
     },
     {
       "ID": "ACH02",
@@ -2813,7 +2818,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH06",
@@ -2829,7 +2834,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "ACH08",
@@ -2837,7 +2842,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4198
+      "UsersEstimate": 4200
     },
     {
       "ID": "ACH09",
@@ -2853,7 +2858,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH11",
@@ -2861,7 +2866,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH12",
@@ -2869,7 +2874,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH13",
@@ -2885,7 +2890,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH15",
@@ -2917,7 +2922,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH19",
@@ -2949,7 +2954,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACH23",
@@ -2957,7 +2962,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "ACH24",
@@ -2989,7 +2994,7 @@
       "Name": "Assassin",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH28",
@@ -3005,7 +3010,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACH30",
@@ -3029,7 +3034,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH33",
@@ -3053,14 +3058,14 @@
       "Name": "I Ain\u0027t No Buster",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8745,
+      "Progressed": 8750,
       "Completed": 17
     }
   ],
@@ -3068,8 +3073,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-28T10:59:59.918463+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:07:11.2375514+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:31.7371173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.6877714+00:00",
-  "LastUpdate_Ratings": "2023-05-28T20:01:22.4190862+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:07:11.2376078+00:00"
+  "LastUpdate_Ratings": "2023-05-28T21:00:57.8454769+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:31.7371584+00:00"
 }

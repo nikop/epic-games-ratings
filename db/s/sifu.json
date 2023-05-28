@@ -6,9 +6,9 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4266,10 +4266,10 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 706052,
-  "EOS_Completed": 12741,
-  "EOS_NewPlayers": 1661,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 706058,
+  "EOS_Completed": 12742,
+  "EOS_NewPlayers": 1658,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -7571,6 +7571,11 @@
       "Time": "2023-05-28T20:07:06.8540476+00:00",
       "NumProgressed": 706052,
       "NumCompleted": 12741
+    },
+    {
+      "Time": "2023-05-28T21:06:27.8346394+00:00",
+      "NumProgressed": 706058,
+      "NumCompleted": 12742
     }
   ],
   "TotalAchievements": 50,
@@ -7614,7 +7619,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7686,7 +7691,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "15_Detective_H1",
@@ -7750,7 +7755,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7790,15 +7795,15 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "28_Takedown_Trophy",
       "SetID": "adcm20g",
       "Name": "The 36th Chamber of Kung-Fu",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2824
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -7862,7 +7867,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7870,7 +7875,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7981,21 +7986,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15353,
-      "Completed": 10185
+      "Progressed": 15359,
+      "Completed": 10187
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706052,
-      "Completed": 12741
+      "Progressed": 706058,
+      "Completed": 12742
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-28T18:59:18.5798542+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:07:06.8540472+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:27.8346386+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:59:42.0674508+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:07:06.8541003+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:59:27.0544635+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:27.834692+00:00"
 }

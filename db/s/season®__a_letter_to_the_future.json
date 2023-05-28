@@ -3,7 +3,7 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -733,9 +733,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 245
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -789,9 +789,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 323
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_THEEND",
@@ -822,8 +822,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-28T20:06:39.4414574+00:00",
+  "LastChanged_Achievements": "2023-05-28T21:06:03.7451386+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-28T19:59:10.7100568+00:00",
-  "LastUpdate_Achievements": "2023-05-28T20:06:39.4414725+00:00"
+  "LastUpdate_Ratings": "2023-05-28T20:59:02.2690477+00:00",
+  "LastUpdate_Achievements": "2023-05-28T21:06:03.7451542+00:00"
 }
