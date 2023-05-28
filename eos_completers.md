@@ -8,7 +8,7 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 21.33% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.71% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.62% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
@@ -19,9 +19,9 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
 | 23 | [Scorn](games/s/scorn.md) | 6.95% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -56,16 +56,16 @@
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 55 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 56 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.47% |
-| 57 | [JARS](games/j/jars.md) | 2.27% |
-| 58 | [Iron Danger](games/i/iron_danger.md) | 2.26% |
-| 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
+| 57 | [Iron Danger](games/i/iron_danger.md) | 2.26% |
+| 58 | [JARS](games/j/jars.md) | 2.22% |
+| 58 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 62 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.11% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 1.97% |
 | 64 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 64 | [Sifu](games/s/sifu.md) | 1.80% |
-| 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.79% |
+| 66 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.75% |
 | 67 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.67% |
 | 68 | [A Musical Story](games/a/a_musical_story.md) | 1.61% |
 | 68 | [Night Book](games/n/night_book.md) | 1.61% |
@@ -76,7 +76,7 @@
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
 | 76 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.33% |
-| 77 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.27% |
+| 77 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.24% |
 | 79 | [Chorus](games/c/chorus.md) | 1.23% |
 | 80 | [Trifox](games/t/trifox.md) | 1.22% |
@@ -421,4 +421,4 @@
 | 206 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 206 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 206 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,690 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,691 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
