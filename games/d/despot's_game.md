@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 540)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start! | 83.00% | ~314 |
-| Vanquisher of Robots | 72.00% | ~272 |
+| Vanquisher of Robots | 73.00% | ~276 |
 | Party | 45.00% | ~170 |
 | Knowledge is Power | 44.00% | ~166 |
 | Impossible Cube | 42.00% | ~159 |

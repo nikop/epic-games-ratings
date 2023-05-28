@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3669,
+  "EOS_Progressed": 3670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2177,6 +2177,11 @@
       "Time": "2023-05-27T23:03:51.0698578+00:00",
       "NumProgressed": 3669,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T00:03:42.3510278+00:00",
+      "NumProgressed": 3670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2188,7 +2193,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "10",
@@ -2204,7 +2209,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "12",
@@ -2260,7 +2265,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "19",
@@ -2300,7 +2305,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "23",
@@ -2324,7 +2329,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "26",
@@ -2332,7 +2337,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "27",
@@ -2356,7 +2361,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "3",
@@ -2380,7 +2385,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "32",
@@ -2442,9 +2447,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 954
     },
     {
       "ID": "4",
@@ -2524,7 +2529,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "9",
@@ -2539,13 +2544,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3669,
-      "Completed": 3669
+      "Progressed": 3670,
+      "Completed": 3670
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3669,
+      "Progressed": 3670,
       "Completed": 0
     }
   ],
@@ -2553,8 +2558,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-27T18:58:55.371868+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:03:51.0698573+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:03:42.3510273+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:59:04.7791206+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:03:51.0699175+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:59:01.1756804+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:03:42.3510747+00:00"
 }

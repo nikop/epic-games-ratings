@@ -5,16 +5,16 @@ Rating: 4.57 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~582 |
-| Fetch Quest Complete | 91.00% | ~546 |
-| I can't wait! | 83.00% | ~498 |
-| Swish | 56.00% | ~336 |
+| Pushing a pull door | 97.00% | ~583 |
+| Fetch Quest Complete | 91.00% | ~547 |
+| I can't wait! | 83.00% | ~499 |
+| Swish | 56.00% | ~337 |
 | Clean up on Aisle 9 | 40.00% | ~240 |
 | Machine Maxed | 31.00% | ~186 |
 | Bug Fixer | 25.00% | ~150 |
-| Existential dread | 25.00% | ~150 |
 | Gerald of Riviera | 25.00% | ~150 |
-| Goal | 23.00% | ~138 |
+| Existential dread | 24.00% | ~144 |
+| Goal | 22.00% | ~132 |
 | I ran the numbers | 15.00% | ~90 |
 | Taking the plunge | 12.00% | ~72 |
 | Hidden Packages | 11.00% | ~66 |
@@ -22,28 +22,28 @@ Rating: 4.57 (Ranked 438)
 | New Kid on the Block | 7.00% | ~42 |
 | Ahoy Hoy | 6.00% | ~36 |
 | Jimmy Goldman Would be Proud | 6.00% | ~36 |
-| You Spin Me Round | 6.00% | ~36 |
 | Bombscare | 5.00% | ~30 |
 | Rhythm is a dancer | 5.00% | ~30 |
-| Your Bloody Valentine | 5.00% | ~30 |
-| Nose to the Grindstone | 5.00% | ~30 |
-| Crowning achievement | 4.00% | ~24 |
+| You Spin Me Round | 5.00% | ~30 |
+| Your Bloody Valentine | 4.00% | ~24 |
 | GoldGuy Jr | 4.00% | ~24 |
-| Waking nightmare | 4.00% | ~24 |
+| Nose to the Grindstone | 4.00% | ~24 |
 | We come in peace | 3.00% | ~18 |
+| Crowning achievement | 3.00% | ~18 |
 | Modern Gorefare | 3.00% | ~18 |
 | Hammer time | 3.00% | ~18 |
+| Waking nightmare | 3.00% | ~18 |
 | 1CC | 2.00% | ~12 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~12 |
 | To do. Done! | 2.00% | ~12 |
 | GTA: Crime City | 2.00% | ~12 |
-| Slacker | 2.00% | ~12 |
 | 1337 HAXXOR | 1.00% | ~6 |
 | Fresh Prince of Grindstone | 1.00% | ~6 |
 | Drop the ball | 1.00% | ~6 |
 | Fat Princess | 1.00% | ~6 |
 | Hexadecimal | 1.00% | ~6 |
 | IMANOK CODE | 1.00% | ~6 |
+| Slacker | 1.00% | ~6 |
 | Intergalactic, planetary, planetary... | 1.00% | ~6 |
 | True Capitalist | 0.80% | ~5 |
 | Once upon a slime | 0.80% | ~5 |
@@ -60,7 +60,7 @@ Rating: 4.57 (Ranked 438)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 191)  
+Progressed: 601 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 596 | 0 |
 | 2023-05-26 | 599 | 0 |
 | 2023-05-27 | 600 | 0 |
+| 2023-05-28 | 601 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

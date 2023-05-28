@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -332,6 +332,11 @@
       "Time": "2023-05-27T15:06:40.64471+00:00",
       "NumProgressed": 189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T00:05:22.1170248+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -485,9 +490,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "CULTURE_2",
@@ -559,7 +564,7 @@
       "Name": "The spiritual world...",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FAITH_2",
@@ -695,7 +700,7 @@
       "Name": "The woodcutter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MILLS",
@@ -727,7 +732,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -863,7 +868,7 @@
       "Name": "Sport is good for you",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SPORTS_2",
@@ -974,7 +979,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 0
     }
   ],
@@ -982,8 +987,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:35.0020004+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:22.1170245+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:58:33.3871007+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:35.0020857+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:58:29.9229197+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:22.1171159+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -914,6 +914,11 @@
       "Time": "2023-05-27T23:00:21.4286648+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T00:00:16.4439521+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1101,7 +1106,7 @@
       "Name": "The Big Day",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Packing20",
@@ -1109,7 +1114,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PerfectGrade25",
@@ -1125,7 +1130,7 @@
       "Name": "Home Cook",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "RecipeDifferent30",
@@ -1181,7 +1186,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TrattoriaSet",
@@ -1244,7 +1249,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
@@ -1252,8 +1257,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:00:21.4286644+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:00:16.4439517+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:58:11.4953516+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:00:21.4287449+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:58:08.2790297+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:00:16.4439869+00:00"
 }

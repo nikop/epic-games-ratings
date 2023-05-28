@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -98,9 +98,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2263,6 +2263,11 @@
       "Time": "2023-05-27T23:05:27.7805294+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T00:05:15.8376715+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2338,7 +2343,7 @@
       "Name": "Challenger",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "conqueror",
@@ -2362,7 +2367,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "doingmypart",
@@ -2674,7 +2679,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "relicofthepast",
@@ -2762,7 +2767,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "thepowerofawakening",
@@ -2770,7 +2775,7 @@
       "Name": "The power of Awakening",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "theunstoppable",
@@ -2834,7 +2839,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "warmachinesarmy",
@@ -2873,7 +2878,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 1
     }
   ],
@@ -2881,8 +2886,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-27T11:58:31.9990637+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:27.7805287+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:15.837671+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:57:51.2133537+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:27.7806221+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:57:47.8975323+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:15.8377631+00:00"
 }

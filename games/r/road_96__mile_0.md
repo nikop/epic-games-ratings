@@ -12,9 +12,9 @@
 | Welcome to the Garage | 20.00% | ~40 |
 | Truthseeker | 17.00% | ~34 |
 | 86's Nightmare | 12.00% | ~24 |
+| Friendzone | 11.00% | ~22 |
 | Freedom | 10.00% | ~20 |
 | Partners in Crime | 10.00% | ~20 |
-| Friendzone | 10.00% | ~20 |
 | Attack on Tyran | 9.00% | ~18 |
 | The Eye of the Storm | 8.00% | ~16 |
 | Song Harvester | 2.00% | ~4 |

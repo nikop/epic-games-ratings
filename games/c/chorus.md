@@ -11,7 +11,7 @@ Number of Ratings: 58  (23.09.2022)
 | Voices from the Past | 79.00% | ~706 |
 | Demigod | 77.00% | ~688 |
 | The Great Destroyer | 76.00% | ~679 |
-| Shields Down | 73.00% | ~653 |
+| Shields Down | 74.00% | ~662 |
 | Safe Home | 69.00% | ~617 |
 | Helping Hand | 68.00% | ~608 |
 | Paragon | 64.00% | ~572 |

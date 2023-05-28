@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.79 (Ranked 916)  
+Rating: 3.77 (Ranked 921)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,8 +24,8 @@ Rating: 3.79 (Ranked 916)
 | “Aliens” | 2.00% | ~19 |
 | DeDust | 2.00% | ~19 |
 | To infinity and beyond! | 0.70% | ~7 |
+| Driver's License | 0.60% | ~6 |
 | Hard Landing | 0.60% | ~6 |
-| Driver's License | 0.50% | ~5 |
 | Caveman | 0.50% | ~5 |
 | Plumber | 0.40% | ~4 |
 | Thunderstruck | 0.40% | ~4 |
@@ -86,3 +86,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-23 | 3.77 | 0 | 0 |
 | 2023-05-24 | 3.78 | 0 | 0 |
 | 2023-05-26 | 3.79 | 0 | 0 |
+| 2023-05-27 | 3.77 | 0 | 0 |

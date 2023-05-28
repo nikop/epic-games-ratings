@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6114,
+  "EOS_Progressed": 6115,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
@@ -2383,6 +2383,11 @@
       "Time": "2023-05-27T23:05:10.2851948+00:00",
       "NumProgressed": 6114,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-28T00:04:58.6876694+00:00",
+      "NumProgressed": 6115,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2418,7 +2423,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2561,7 +2566,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6114,
+      "Progressed": 6115,
       "Completed": 22
     }
   ],
@@ -2569,8 +2574,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:10.2851943+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:04:58.6876691+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:57:48.7003804+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:10.2852249+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:57:45.5533936+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:04:58.6876946+00:00"
 }

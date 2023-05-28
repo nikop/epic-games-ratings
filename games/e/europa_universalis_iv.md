@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,067 |
-| That's a Grand Army | 8.00% | ~3,615 |
-| That is mine! | 8.00% | ~3,615 |
-| Victorious! | 8.00% | ~3,615 |
-| Brothers in Arms | 6.00% | ~2,711 |
-| That's a Grand Navy | 6.00% | ~2,711 |
-| Seriously?! | 6.00% | ~2,711 |
-| For the Glory | 5.00% | ~2,260 |
+| Until death do us apart | 9.00% | ~4,069 |
+| That's a Grand Army | 8.00% | ~3,617 |
+| That is mine! | 8.00% | ~3,617 |
+| Victorious! | 8.00% | ~3,617 |
+| Brothers in Arms | 6.00% | ~2,713 |
+| That's a Grand Navy | 6.00% | ~2,713 |
+| Seriously?! | 6.00% | ~2,713 |
+| For the Glory | 5.00% | ~2,261 |
 | Cold War | 4.00% | ~1,808 |
 | True Catholic | 4.00% | ~1,808 |
 | Defender of the Faith | 3.00% | ~1,356 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,190 (Ranked 79)  
+Progressed: 45,211 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,16 +399,17 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
+| 2023-05-28 | 45,211 | 0 |
 ## Awards
 Max (Educational): 5,293  (Ranked 60)  
-Sum: 43,837 (Ranked 27)  
+Sum: 43,840 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,293 |
 | This game is Highly Recommended | 5,077 |
 | This game has Challenging Combat | 5,053 |
-| This game is Extremely Fun | 5,036 |
+| This game is Extremely Fun | 5,039 |
 | This game has Diverse Characters | 4,990 |
 | This game is Relaxing | 4,932 |
 | This game has Competitive Players | 4,768 |
@@ -548,4 +549,4 @@ Diff (max vs sum): 33
 | 2023-05-24 | 4.68 | - | 5,277 | 43,722 |
 | 2023-05-25 | 4.68 | - | 5,281 | 43,757 |
 | 2023-05-26 | 4.68 | - | 5,287 | 43,808 |
-| 2023-05-27 | 4.68 | - | 5,293 | 43,837 |
+| 2023-05-27 | 4.68 | - | 5,293 | 43,840 |

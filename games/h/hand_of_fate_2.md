@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,973 |
-| Apprentice | 58.00% | ~381,006 |
-| Close Shave | 25.00% | ~164,227 |
-| Mercenary | 23.00% | ~151,089 |
-| Ninja | 23.00% | ~151,089 |
-| Northern Scourge | 17.00% | ~111,674 |
-| Thief Bane | 14.00% | ~91,967 |
+| The Fool | 72.00% | ~472,976 |
+| Apprentice | 58.00% | ~381,008 |
+| Close Shave | 25.00% | ~164,228 |
+| Mercenary | 23.00% | ~151,090 |
+| Ninja | 23.00% | ~151,090 |
+| Northern Scourge | 17.00% | ~111,675 |
+| Thief Bane | 14.00% | ~91,968 |
 | Master of Arms | 12.00% | ~78,829 |
 | Gambler | 10.00% | ~65,691 |
 | Dice Master | 10.00% | ~65,691 |
@@ -21,13 +21,13 @@ Number of Ratings: 780  (23.09.2022)
 | Cure for Corruption | 8.00% | ~52,553 |
 | Focused | 8.00% | ~52,553 |
 | Flurry of Fury | 8.00% | ~52,553 |
-| Long Shot | 7.00% | ~45,983 |
-| Devil Dice | 7.00% | ~45,983 |
-| Adventurer | 6.00% | ~39,414 |
-| Empire's Bane | 6.00% | ~39,414 |
-| Broken Heart | 6.00% | ~39,414 |
-| Jack of all Trades | 5.00% | ~32,845 |
-| Smithy | 5.00% | ~32,845 |
+| Long Shot | 7.00% | ~45,984 |
+| Devil Dice | 7.00% | ~45,984 |
+| Adventurer | 6.00% | ~39,415 |
+| Empire's Bane | 6.00% | ~39,415 |
+| Broken Heart | 6.00% | ~39,415 |
+| Jack of all Trades | 5.00% | ~32,846 |
+| Smithy | 5.00% | ~32,846 |
 | Leap of Faith | 3.00% | ~19,707 |
 | Combat Ready | 3.00% | ~19,707 |
 | Stuffed Potato | 3.00% | ~19,707 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~657 |
 | Blood Pact | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,907 (Ranked 18)  
+Progressed: 656,911 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 165 (0.03%) (Ranked 184)
 | 2023-05-25 | 656,773 | 165 |
 | 2023-05-26 | 656,827 | 165 |
 | 2023-05-27 | 656,907 | 165 |
+| 2023-05-28 | 656,911 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 361)  

@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1635,
+  "EOS_Progressed": 1642,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1648,6 +1648,11 @@
       "Time": "2023-05-27T23:05:19.8100277+00:00",
       "NumProgressed": 1635,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T00:05:08.201752+00:00",
+      "NumProgressed": 1642,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1691,7 +1696,7 @@
       "Name": "Opposing Force",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1699,7 +1704,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1723,7 +1728,7 @@
       "Name": "Organ Grinder",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1739,7 +1744,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1827,7 +1832,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1883,7 +1888,7 @@
       "Name": "Resourceful",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1907,7 +1912,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1995,7 +2000,7 @@
       "Name": "Change the Channel",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2121,17 +2126,17 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -2153,9 +2158,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2226,13 +2231,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1586,
+      "Progressed": 1593,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1635,
+      "Progressed": 1642,
       "Completed": 2
     }
   ],
@@ -2240,8 +2245,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:19.8100273+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:08.2017517+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:59:59.1985112+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:19.8101011+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:59:53.6654045+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:08.201827+00:00"
 }

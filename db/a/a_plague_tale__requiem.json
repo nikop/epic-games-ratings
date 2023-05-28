@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -272,9 +272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10743,
+  "EOS_Progressed": 10744,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1922,6 +1922,11 @@
       "Time": "2023-05-27T23:05:31.4548758+00:00",
       "NumProgressed": 10743,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-28T00:05:18.5532765+00:00",
+      "NumProgressed": 10744,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -1949,7 +1954,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 7735
+      "UsersEstimate": 7736
     },
     {
       "ID": "ACH_04",
@@ -1965,7 +1970,7 @@
       "Name": "In our Wake",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 7090
+      "UsersEstimate": 7091
     },
     {
       "ID": "ACH_06",
@@ -1973,7 +1978,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 6768
+      "UsersEstimate": 6769
     },
     {
       "ID": "ACH_07",
@@ -1989,7 +1994,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "ACH_09",
@@ -2045,7 +2050,7 @@
       "Name": "Dying Sun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "ACH_16",
@@ -2181,7 +2186,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "ACH_33",
@@ -2212,7 +2217,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10743,
+      "Progressed": 10744,
       "Completed": 32
     }
   ],
@@ -2220,8 +2225,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:31.4548753+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:18.5532758+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.0368466+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:59:00.3131638+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:31.4549114+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:58:57.2954415+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:18.5533098+00:00"
 }

@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Everything's Coming Up Gigachu | 83.00% | ~25 |
-| Cyber Bully | 63.00% | ~19 |
+| Cyber Bully | 67.00% | ~20 |
 | Loving Commute | 60.00% | ~18 |
+| Love is in Bloom | 40.00% | ~12 |
 | Royal Romance | 40.00% | ~12 |
-| Love is in Bloom | 37.00% | ~11 |
 | Friendzoned | 33.00% | ~10 |
 | Speed Dating | 27.00% | ~8 |
 | A Heated Affair | 23.00% | ~7 |

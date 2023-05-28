@@ -35,9 +35,9 @@ Rating: 4.56 (Ranked 452)
 | BRAWL! | 0.90% | ~20 |
 | What They Hide From Us | 0.80% | ~18 |
 | ...  in a finite world | 0.80% | ~18 |
+| Pulsar Disciple | 0.80% | ~18 |
 | Delivery! | 0.70% | ~15 |
 | What the Ruins Teach Us | 0.70% | ~15 |
-| Pulsar Disciple | 0.70% | ~15 |
 | Pedal to the Metal | 0.60% | ~13 |
 | Sustainable Energy | 0.50% | ~11 |
 | Praise the Hull! | 0.50% | ~11 |

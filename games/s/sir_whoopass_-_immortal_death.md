@@ -43,18 +43,18 @@
 | Hovering around | 21.00% | ~13 |
 | Ripe Meat Off The Bone! | 19.00% | ~12 |
 | Kleptomaniac | 18.00% | ~11 |
+| You're not so Big anymore, Boi! | 16.00% | ~10 |
 | Your daily dose of Vitamin C. | 16.00% | ~10 |
-| You're not so Big anymore, Boi! | 15.00% | ~9 |
+| I cant stand still! | 15.00% | ~9 |
 | Slimy... yet satisfying | 15.00% | ~9 |
 | Just wing it! | 13.00% | ~8 |
-| I cant stand still! | 13.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |
 | Deal with it | 11.00% | ~7 |
 | Ancient Ruins of Dirty Feet | 10.00% | ~6 |
 | Yeehaw!!! | 10.00% | ~6 |
 | Master Butcher | 10.00% | ~6 |
 | Spoiler alert! | 8.00% | ~5 |
-| You're looking mozzare-hella good! | 5.00% | ~3 |
+| You're looking mozzare-hella good! | 6.00% | ~4 |
 | Scrambled Eggs | 5.00% | ~3 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |

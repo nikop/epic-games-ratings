@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_first_harvest",
@@ -646,9 +646,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_all_koth_points",
@@ -678,7 +678,7 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -758,7 +758,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -766,7 +766,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -774,7 +774,7 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -782,7 +782,7 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -822,7 +822,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -909,8 +909,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:04:12.2937195+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:04:02.7531139+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:58:05.5036157+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:04:12.2937951+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:58:01.8022879+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:04:02.7531969+00:00"
 }

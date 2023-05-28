@@ -5,29 +5,29 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 35.00% | ~4 |
-| Survivor | 22.00% | ~2 |
-| No Diggity | 22.00% | ~2 |
+| Survivor | 23.00% | ~2 |
+| No Diggity | 23.00% | ~2 |
 | Quick-Draw Pod | 20.00% | ~2 |
+| Early Survivor | 20.00% | ~2 |
 | Seeds of War | 18.00% | ~11 |
-| Early Survivor | 18.00% | ~2 |
-| Bouncemato | 15.00% | ~2 |
-| First Blood | 12.00% | ~7 |
-| Amateur Survivor | 10.00% | ~1 |
+| Bouncemato | 17.00% | ~2 |
+| First Blood | 13.00% | ~8 |
+| Amateur Survivor | 12.00% | ~1 |
 | I Believe I Can Fly | 8.00% | ~5 |
 | No Asperascope | 8.00% | ~5 |
 | Triple Kill | 8.00% | ~5 |
 | Oh My Gourd | 8.00% | ~1 |
+| Professional Survivor | 8.00% | ~1 |
 | Grave Digger | 8.00% | ~1 |
 | Perfect | 7.00% | ~1 |
-| Professional Survivor | 7.00% | ~1 |
 | Expert Survivor | 7.00% | ~1 |
 | Quadsparagus | 7.00% | ~1 |
 | 15K | 5.00% | ~3 |
 | 10K | 5.00% | ~3 |
+| Cornivore | 5.00% | ~3 |
 | Master Survivor | 5.00% | ~0 |
 | Summers Here | 5.00% | ~0 |
 | Skin Of Your Teeth | 3.00% | ~2 |
-| Cornivore | 3.00% | ~2 |
 | Pyromaniac | 3.00% | ~0 |
 | This Is My Boomstick | 3.00% | ~0 |
 | Easy Peasy | 3.00% | ~0 |

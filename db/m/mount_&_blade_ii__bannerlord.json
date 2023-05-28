@@ -4273,10 +4273,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13171,
       "NumberOfAwardsMax": 6582
+    },
+    {
+      "Time": "2023-05-27T23:59:13.6419815+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13172,
+      "NumberOfAwardsMax": 6582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13171,
+  "NumberOfAwards": 13172,
   "NumberOfAwardsMax": 6582,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4326,7 +4332,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 727
+      "Count": 728
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4353,9 +4359,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51148,
+  "EOS_Progressed": 51153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7953,6 +7959,11 @@
       "Time": "2023-05-27T23:05:42.0350184+00:00",
       "NumProgressed": 51148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T00:05:29.027052+00:00",
+      "NumProgressed": 51153,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7980,7 +7991,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10230
+      "UsersEstimate": 10231
     },
     {
       "ID": "Best served cold",
@@ -8004,7 +8015,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3580
+      "UsersEstimate": 3581
     },
     {
       "ID": "Catch",
@@ -8084,7 +8095,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "God of the Arena",
@@ -8124,7 +8135,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10230
+      "UsersEstimate": 10231
     },
     {
       "ID": "I can do it",
@@ -8156,7 +8167,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7672
+      "UsersEstimate": 7673
     },
     {
       "ID": "Kingslayer",
@@ -8172,7 +8183,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "Lance-a-lot",
@@ -8188,7 +8199,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15344
+      "UsersEstimate": 15346
     },
     {
       "ID": "Lawbringer",
@@ -8196,7 +8207,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17902
+      "UsersEstimate": 17904
     },
     {
       "ID": "Lawmaker",
@@ -8204,7 +8215,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10741
+      "UsersEstimate": 10742
     },
     {
       "ID": "Long live the Empire",
@@ -8300,7 +8311,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Swordbearer",
@@ -8308,7 +8319,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "The king is pleased",
@@ -8340,7 +8351,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10230
+      "UsersEstimate": 10231
     },
     {
       "ID": "Undercover",
@@ -8371,15 +8382,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51148,
+      "Progressed": 51153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-27T22:59:17.6471663+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:42.035018+00:00",
+  "LastChanged": "2023-05-27T23:59:13.6419812+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:29.0270517+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:59:17.647167+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:42.0350756+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:59:13.6419819+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:29.0271165+00:00"
 }

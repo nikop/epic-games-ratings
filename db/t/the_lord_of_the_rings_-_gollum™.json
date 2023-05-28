@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -310,6 +310,11 @@
       "Time": "2023-05-27T23:05:08.4118261+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T00:04:56.5185292+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -327,7 +332,7 @@
       "ID": "BreakLegs",
       "SetID": "70l3651",
       "Name": "Break a Leg!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -335,7 +340,7 @@
       "ID": "CatchAFish",
       "SetID": "70l3651",
       "Name": "And now we wish...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -345,7 +350,7 @@
       "Name": "The Wraith",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Chapter10",
@@ -377,7 +382,7 @@
       "Name": "The Veteran",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Chapter5",
@@ -415,7 +420,7 @@
       "ID": "Chapter9",
       "SetID": "70l3651",
       "Name": "Gollum/Sm\u00E9agol",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -425,7 +430,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "Collectibles2",
@@ -447,7 +452,7 @@
       "ID": "Darkness",
       "SetID": "70l3651",
       "Name": "Sweet Darkness",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -473,7 +478,7 @@
       "Name": "Like Flying...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "GollumChoices",
@@ -489,7 +494,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Memories",
@@ -497,7 +502,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Murderer",
@@ -601,21 +606,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:08.4118257+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:04:56.5185289+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:57:38.5667183+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:08.4118542+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:57:36.3199761+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:04:56.5185562+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 1.00% | ~52 |
 | Smooth Operator: Madison | 1.00% | ~52 |
-| Relentless | 0.80% | ~41 |
+| Relentless | 0.80% | ~42 |
 | Katherine | 0.70% | ~36 |
 | Life Found a Way | 0.70% | ~16 |
 | If at First You Don't Succeed... | 0.70% | ~36 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,186 (Ranked 124)  
+Progressed: 5,189 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 2 (0.04%) (Ranked 178)
 | 2023-05-25 | 5,135 | 2 |
 | 2023-05-26 | 5,162 | 2 |
 | 2023-05-27 | 5,186 | 2 |
+| 2023-05-28 | 5,189 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

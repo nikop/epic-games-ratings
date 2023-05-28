@@ -2554,7 +2554,7 @@
   ],
   "EOS_Progressed": 9264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4905,9 +4905,9 @@
       "ID": "24_Legacy",
       "SetID": "989of5o",
       "Name": "The Legacy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 278
     },
     {
       "ID": "25_MasterfulDispell",
@@ -5663,8 +5663,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-27T17:58:16.8755544+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:44.0124286+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:30.9223314+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:58:06.395748+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:44.0126087+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:58:02.444781+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:30.9225075+00:00"
 }

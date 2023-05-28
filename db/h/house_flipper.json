@@ -1482,9 +1482,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19054,
+  "EOS_Progressed": 19055,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2977,6 +2977,11 @@
       "Time": "2023-05-27T23:05:23.6119507+00:00",
       "NumProgressed": 19054,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-28T00:05:11.767534+00:00",
+      "NumProgressed": 19055,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2988,7 +2993,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "CarMechanic",
@@ -3036,7 +3041,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17911
+      "UsersEstimate": 17912
     },
     {
       "ID": "GameOver",
@@ -3068,7 +3073,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "JuniorEstateAgent",
@@ -3076,7 +3081,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "KnockKnock",
@@ -3171,15 +3176,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19054,
+      "Progressed": 19055,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-27T17:59:28.0177628+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:23.6119503+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:11.7675335+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:59:03.5874552+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:23.6119756+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:59:00.0849126+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:11.7675562+00:00"
 }

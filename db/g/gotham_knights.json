@@ -1268,7 +1268,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62420,
+  "EOS_Progressed": 62427,
   "EOS_Completed": 91,
   "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 0,
@@ -4038,6 +4038,11 @@
       "Time": "2023-05-27T23:05:42.3035373+00:00",
       "NumProgressed": 62420,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T00:05:29.2840838+00:00",
+      "NumProgressed": 62427,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4159,9 +4164,9 @@
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 499
     },
     {
       "ID": "CLAYFACE_3",
@@ -4393,7 +4398,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4536,13 +4541,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62420,
+      "Progressed": 62427,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32700,
+      "Progressed": 32707,
       "Completed": 2642
     }
   ],
@@ -4550,8 +4555,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T20:59:29.0881115+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:42.303537+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:29.2840835+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:59:19.8352388+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:42.3036136+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:59:15.7269186+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:29.2841573+00:00"
 }

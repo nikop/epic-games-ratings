@@ -278,9 +278,9 @@
       "ID": "BIGBOI_1",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not so Big anymore, Boi!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BILLY_BOB_1",
@@ -326,9 +326,9 @@
       "ID": "CHEESE_4",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re looking mozzare-hella good!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CHEESE_5",
@@ -726,9 +726,9 @@
       "ID": "JUMP_3",
       "SetID": "9gfkh7c",
       "Name": "I cant stand still!",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KNIGHT_1",
@@ -933,8 +933,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:21.1799053+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:05:09.2632351+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:57:09.2009081+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:21.1801274+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:57:08.3679488+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:05:09.2633253+00:00"
 }

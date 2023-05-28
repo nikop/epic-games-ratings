@@ -99,9 +99,9 @@
       "ID": "CYBER_BULLY",
       "SetID": "dhjj31a",
       "Name": "Cyber Bully",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EVERYTHINGS_COMING_UP_GIGACHU",
@@ -139,9 +139,9 @@
       "ID": "LOVE_IS_IN_BLOOM",
       "SetID": "dhjj31a",
       "Name": "Love is in Bloom",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LOVE_IS_IN_THE_AIR",
@@ -220,8 +220,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-05-27T23:05:09.6891744+00:00",
+  "LastChanged_Achievements": "2023-05-28T00:04:58.0895774+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.5033221+00:00",
-  "LastUpdate_Ratings": "2023-05-27T22:57:37.8155487+00:00",
-  "LastUpdate_Achievements": "2023-05-27T23:05:09.6891854+00:00"
+  "LastUpdate_Ratings": "2023-05-27T23:57:35.7276922+00:00",
+  "LastUpdate_Achievements": "2023-05-28T00:04:58.0895866+00:00"
 }
