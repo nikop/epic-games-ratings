@@ -546,9 +546,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_loan",
@@ -899,8 +899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:07:22.1195737+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:06:40.8157989+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:58:33.5707657+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:07:22.1196631+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:58:20.1669042+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:06:40.8159078+00:00"
 }

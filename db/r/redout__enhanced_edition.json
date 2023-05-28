@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223094,
+  "EOS_Progressed": 223096,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3933,6 +3933,11 @@
       "Time": "2023-05-28T07:05:09.4550273+00:00",
       "NumProgressed": 223094,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-28T09:05:53.4958697+00:00",
+      "NumProgressed": 223096,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -3960,7 +3965,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62466
+      "UsersEstimate": 62467
     },
     {
       "ID": "CENTAUR",
@@ -3976,7 +3981,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24540
+      "UsersEstimate": 24541
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -4080,7 +4085,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71390
+      "UsersEstimate": 71391
     },
     {
       "ID": "NOBUNAGA",
@@ -4104,7 +4109,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20078
+      "UsersEstimate": 20079
     },
     {
       "ID": "PHOTOFINISH",
@@ -4215,15 +4220,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223094,
+      "Progressed": 223096,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:06:38.7945766+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:05:53.4958694+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:58:46.7589181+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:06:38.7946168+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:58:33.742157+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:05:53.4959196+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2712,
+  "EOS_Progressed": 2714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1157,6 +1157,11 @@
       "Time": "2023-05-28T08:07:14.9073084+00:00",
       "NumProgressed": 2712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T09:06:34.5039694+00:00",
+      "NumProgressed": 2714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1184,7 +1189,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "BloodAndIron",
@@ -1256,7 +1261,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1320,7 +1325,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1336,7 +1341,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "Kills_Bleed",
@@ -1360,7 +1365,7 @@
       "Name": "Executioner",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "Kills_Exterminator",
@@ -1392,7 +1397,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "Kills_Streak",
@@ -1416,7 +1421,7 @@
       "Name": "An Ill Omen",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1432,7 +1437,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1592,7 +1597,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1608,7 +1613,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "SkilledKnight",
@@ -1639,21 +1644,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2712,
+      "Progressed": 2714,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2712,
+      "Progressed": 2714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:07:14.907308+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:06:34.503969+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:59:18.0868062+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:07:14.9073633+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:59:04.7515304+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:06:34.504033+00:00"
 }

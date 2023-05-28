@@ -9,7 +9,7 @@ Rating: 4.54 (Ranked 484)
 | Before the Downfall | 93.00% | ~17,395 |
 | Money like Water | 91.00% | ~17,021 |
 | Minimalist | 90.00% | ~16,834 |
-| Builder | 82.00% | ~15,337 |
+| Builder | 83.00% | ~15,524 |
 | Eraser | 70.00% | ~13,093 |
 | Pocket of Trains | 65.00% | ~12,158 |
 | Inspector | 59.00% | ~11,035 |

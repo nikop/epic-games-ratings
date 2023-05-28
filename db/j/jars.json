@@ -2,9 +2,9 @@
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
-  "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.27,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-05-27T09:02:52.8579849+00:00",
       "NumProgressed": 44,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T09:02:25.3186052+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -80,7 +85,7 @@
       "ID": "ACH_100_ITEMS_USED",
       "SetID": "3jfhgga",
       "Name": "Sticky fingers",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -88,7 +93,7 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -96,7 +101,7 @@
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
       "SetID": "3jfhgga",
       "Name": "At least there is something to read",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -104,7 +109,7 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -128,7 +133,7 @@
       "ID": "ACH_CHAPTER_3_DONE",
       "SetID": "3jfhgga",
       "Name": "Mirrors",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -136,7 +141,7 @@
       "ID": "ACH_CHAPTER_4_DONE",
       "SetID": "3jfhgga",
       "Name": "Coat",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -144,7 +149,7 @@
       "ID": "ACH_CHAPTER_5_DONE",
       "SetID": "3jfhgga",
       "Name": "Sarcophagus",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -152,7 +157,7 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 25,
       "UsersEstimate": 34
     },
@@ -160,7 +165,7 @@
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 25,
       "UsersEstimate": 33
     },
@@ -168,7 +173,7 @@
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -176,7 +181,7 @@
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -192,7 +197,7 @@
       "ID": "ACH_HERO_MASTER_1",
       "SetID": "3jfhgga",
       "Name": "I need a hero",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -208,7 +213,7 @@
       "ID": "ACH_SHOP_ALL_MINIONS",
       "SetID": "3jfhgga",
       "Name": "I love you all",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -216,7 +221,7 @@
       "ID": "ACH_SHOP_ALL_PERKS",
       "SetID": "3jfhgga",
       "Name": "Skills to pay the bills",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -224,7 +229,7 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -232,7 +237,7 @@
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 25,
       "UsersEstimate": 37
     }
@@ -241,7 +246,7 @@
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 1
     }
   ],
@@ -249,8 +254,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:03:11.5426199+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:02:25.3186045+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.0235396+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:58:31.1630093+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:03:11.5426382+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:58:18.2366898+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:02:25.3186204+00:00"
 }

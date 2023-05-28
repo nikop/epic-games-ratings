@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1196,
+  "EOS_Progressed": 1197,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2284,6 +2284,11 @@
       "Time": "2023-05-28T08:07:03.6636177+00:00",
       "NumProgressed": 1196,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T09:06:24.567561+00:00",
+      "NumProgressed": 1197,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2399,7 +2404,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "dragonmaster",
@@ -2479,7 +2484,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "fourleafclover",
@@ -2503,7 +2508,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "gearenchanting",
@@ -2543,7 +2548,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "howdoyouturnthison",
@@ -2567,7 +2572,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "jewelenchanting",
@@ -2631,7 +2636,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "missionsdedication",
@@ -2829,9 +2834,9 @@
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "treeoflife",
@@ -2855,7 +2860,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "warmachinesarmy",
@@ -2887,14 +2892,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1196,
+      "Progressed": 1197,
       "Completed": 1
     }
   ],
@@ -2902,8 +2907,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:07:03.6636173+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:06:24.5675606+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:58:27.2201948+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:07:03.663709+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:58:15.8852111+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:06:24.567653+00:00"
 }

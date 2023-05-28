@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -131,6 +131,11 @@
       "Time": "2023-05-26T15:03:26.4503113+00:00",
       "NumProgressed": 313,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T09:03:28.6833598+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -142,7 +147,7 @@
       "Name": "Brace for impact!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -174,7 +179,7 @@
       "Name": "The Collector",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -196,9 +201,9 @@
       "ID": "COLLECT_500_COIN",
       "SetID": "20koof9",
       "Name": "High Roller",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -212,9 +217,9 @@
       "ID": "COP_3_ROBBERS",
       "SetID": "20koof9",
       "Name": "Special Forces",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -228,9 +233,9 @@
       "ID": "DRIFT_500M",
       "SetID": "20koof9",
       "Name": "Drift King!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "FIND_40_M2H",
@@ -252,9 +257,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -316,9 +321,9 @@
       "ID": "HIT_10_PLAYERS",
       "SetID": "20koof9",
       "Name": "Anger Issues",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -340,9 +345,9 @@
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -356,17 +361,17 @@
       "ID": "HIT_FLYING_UFO",
       "SetID": "20koof9",
       "Name": "Space Crash",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "HONK_100_TIMES",
       "SetID": "20koof9",
       "Name": "Toot Toot!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -398,7 +403,7 @@
       "Name": "The Wild West",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -420,9 +425,9 @@
       "ID": "LOADED_LVL_TANK",
       "SetID": "20koof9",
       "Name": "Feeling Hot Hot Hot!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -462,15 +467,15 @@
       "Name": "Bag of Tricks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
       "SetID": "20koof9",
       "Name": "Out of this League",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -486,7 +491,7 @@
       "Name": "Ferry Good!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "USE_ROCKET",
@@ -502,7 +507,7 @@
       "Name": "I see the light!",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -526,15 +531,15 @@
       "Name": "Event Pro",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "WIN_BALL",
       "SetID": "20koof9",
       "Name": "Beach Party!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "WIN_KING_HILL",
@@ -542,7 +547,7 @@
       "Name": "Assert Dominance",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -550,7 +555,7 @@
       "Name": "Speed of light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WIN_ROBBER",
@@ -566,7 +571,7 @@
       "Name": "You\u0027re it",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -581,7 +586,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 2
     }
   ],
@@ -589,8 +594,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:03:39.068059+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:03:28.6833593+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.3349929+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:59:27.4749231+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:03:39.0681108+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:59:11.1752654+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:03:28.6834121+00:00"
 }

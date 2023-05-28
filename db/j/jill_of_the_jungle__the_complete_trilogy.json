@@ -2,9 +2,9 @@
   "ID": "0e14884122774ea28f1d33f751d241e6",
   "Name": "Jill of the Jungle: The Complete Trilogy",
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
-  "Ranking_EOS_Progress": 176,
+  "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 887,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.6,
+  "EOS_Completed_Percentage": 7.55,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -2264,6 +2264,11 @@
       "Time": "2023-05-28T06:05:31.6707543+00:00",
       "NumProgressed": 881,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-05-28T09:05:50.4751692+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 5,
@@ -2275,7 +2280,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 881
+      "UsersEstimate": 887
     },
     {
       "ID": "2",
@@ -2289,9 +2294,9 @@
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "4",
@@ -2299,7 +2304,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "5",
@@ -2307,14 +2312,14 @@
       "Name": "Jill the Champion",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 887,
       "Completed": 67
     }
   ],
@@ -2322,8 +2327,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:06:35.9426038+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:05:50.4751684+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.3724069+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:57:24.7016171+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:06:35.9426236+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:57:21.8694965+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:05:50.4751908+00:00"
 }

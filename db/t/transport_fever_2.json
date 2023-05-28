@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -1710,9 +1710,9 @@
       "ID": "achNoFreeSeats",
       "SetID": "dgl390n",
       "Name": "No free seats",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 127
     },
     {
       "ID": "achPaint",
@@ -1830,8 +1830,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-27T05:01:00.5052773+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:07:21.6128145+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:06:40.4386738+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:06.7718927+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:00:37.185397+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:07:21.6128734+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:00:16.028865+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:06:40.4387367+00:00"
 }

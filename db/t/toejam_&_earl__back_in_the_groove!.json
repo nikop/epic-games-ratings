@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54770,
+  "EOS_Progressed": 54775,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2592,6 +2592,11 @@
       "Time": "2023-05-28T08:07:19.1969351+00:00",
       "NumProgressed": 54770,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-28T09:06:38.050936+00:00",
+      "NumProgressed": 54775,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -2611,7 +2616,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "BoomBox",
@@ -2675,7 +2680,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "FlyingPresentMaster",
@@ -2747,7 +2752,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "HarshLove",
@@ -2763,7 +2768,7 @@
       "Name": "Hi Fiver",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "IsThisPossible",
@@ -2859,7 +2864,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "RhythmStar",
@@ -2899,7 +2904,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "StruckLove",
@@ -2947,7 +2952,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "TotalBummer",
@@ -2994,7 +2999,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54770,
+      "Progressed": 54775,
       "Completed": 4
     }
   ],
@@ -3002,8 +3007,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:07:19.1969348+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:06:38.0509356+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.8065434+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:01:56.7952725+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:07:19.1970103+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:01:21.6114478+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:06:38.0509923+00:00"
 }

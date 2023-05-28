@@ -446,9 +446,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "ach-noEquipment",
@@ -607,8 +607,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:07:22.4353242+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:06:41.0881138+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:01:57.4144496+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:07:22.4353749+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:01:21.9323152+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:06:41.0881624+00:00"
 }

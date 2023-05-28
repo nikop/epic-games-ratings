@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 233,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -919,6 +919,11 @@
       "Time": "2023-05-28T00:00:16.4439521+00:00",
       "NumProgressed": 232,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T09:02:10.1486499+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -986,7 +991,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Clothes10",
@@ -1106,7 +1111,7 @@
       "Name": "The Big Day",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Packing20",
@@ -1184,9 +1189,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "TrattoriaSet",
@@ -1249,7 +1254,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 233,
       "Completed": 0
     }
   ],
@@ -1257,8 +1262,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:02:43.5965839+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:02:10.1486495+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:58:59.7045216+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:02:43.5966367+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:58:45.4477023+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:02:10.148687+00:00"
 }

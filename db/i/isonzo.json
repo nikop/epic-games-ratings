@@ -582,7 +582,7 @@
   ],
   "EOS_Progressed": 5907,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1965,9 +1965,9 @@
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
       "SetID": "akchbl3",
       "Name": "The Lion of the Isonzo",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1063
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2038,8 +2038,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:02:08.3369443+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:01:30.1419308+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:57:37.4507613+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:02:08.3369859+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:57:33.7735694+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:01:30.1420046+00:00"
 }

@@ -449,9 +449,9 @@
       "ID": "L6_FINISH",
       "SetID": "6finf64",
       "Name": "Road-Trip",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "L6_PERFECT",
@@ -481,9 +481,9 @@
       "ID": "L7_FINISH",
       "SetID": "6finf64",
       "Name": "A Musical Pause",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "L7_PERFECT",
@@ -546,8 +546,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:03:41.1394501+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:03:30.3914639+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:57.0613243+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:58:41.6878067+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:03:41.1394968+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:58:29.1724877+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:03:30.3915183+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
   "Ranking_Rating": 99,
-  "Ranking_Popularity": 135,
+  "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
@@ -488,18 +488,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 1370,
       "NumberOfAwardsMax": 1028
+    },
+    {
+      "Time": "2023-05-28T08:59:31.2854438+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1375,
+      "NumberOfAwardsMax": 1033
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1370,
-  "NumberOfAwardsMax": 1028,
+  "NumberOfAwards": 1375,
+  "NumberOfAwardsMax": 1033,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1028
+      "Count": 1033
     },
     {
       "Text": "This game has Diverse Characters",
@@ -580,8 +586,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-05-27T09:59:15.0139118+00:00",
+  "LastChanged": "2023-05-28T08:59:31.2854436+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:38.4026846+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:59:52.4861326+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:05:21.9786213+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:59:31.2854445+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:04:56.7935575+00:00"
 }

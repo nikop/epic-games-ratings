@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 35.00% | ~4 |
-| Survivor | 23.00% | ~3 |
+| Survivor | 24.00% | ~3 |
 | No Diggity | 23.00% | ~3 |
 | Seeds of War | 21.00% | ~13 |
+| Early Survivor | 21.00% | ~3 |
 | Quick-Draw Pod | 19.00% | ~2 |
-| Early Survivor | 19.00% | ~2 |
 | First Blood | 16.00% | ~10 |
 | Bouncemato | 16.00% | ~2 |
-| Amateur Survivor | 11.00% | ~1 |
+| Amateur Survivor | 13.00% | ~2 |
 | I Believe I Can Fly | 10.00% | ~6 |
 | No Asperascope | 10.00% | ~6 |
 | Triple Kill | 10.00% | ~6 |
+| Professional Survivor | 10.00% | ~1 |
 | Oh My Gourd | 8.00% | ~1 |
-| Professional Survivor | 8.00% | ~1 |
 | Grave Digger | 8.00% | ~1 |
 | Cornivore | 6.00% | ~4 |
 | Perfect | 6.00% | ~1 |

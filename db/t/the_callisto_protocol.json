@@ -452,9 +452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13868,
+  "EOS_Progressed": 13872,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1857,6 +1857,11 @@
       "Time": "2023-05-28T08:04:03.2482017+00:00",
       "NumProgressed": 13868,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-28T09:03:48.9893969+00:00",
+      "NumProgressed": 13872,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1884,7 +1889,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1900,7 +1905,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2042,9 +2047,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 694
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2098,9 +2103,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 832
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2187,13 +2192,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13868,
+      "Progressed": 13872,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1794,
+      "Progressed": 1798,
       "Completed": 29
     }
   ],
@@ -2201,8 +2206,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T02:10:09.3293551+00:00",
-  "LastChanged_Achievements": "2023-05-28T08:04:03.2482012+00:00",
+  "LastChanged_Achievements": "2023-05-28T09:03:48.989396+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T07:58:15.9224327+00:00",
-  "LastUpdate_Achievements": "2023-05-28T08:04:03.2482545+00:00"
+  "LastUpdate_Ratings": "2023-05-28T08:58:06.3975019+00:00",
+  "LastUpdate_Achievements": "2023-05-28T09:03:48.9894413+00:00"
 }

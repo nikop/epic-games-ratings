@@ -5,20 +5,20 @@ Rating: 3.91 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,124 |
-| World Map | 80.00% | ~957 |
+| Victor | 94.00% | ~1,125 |
+| World Map | 80.00% | ~958 |
 | Temple of Eternals | 56.00% | ~670 |
 | Prestigious | 53.00% | ~634 |
-| Fellowship Power | 40.00% | ~478 |
+| Fellowship Power | 40.00% | ~479 |
 | Guild Power | 24.00% | ~287 |
 | Prestigious x10 | 21.00% | ~251 |
 | The game is on | 19.00% | ~227 |
 | Exotic Merchant | 17.00% | ~203 |
-| Dragon Clicker | 16.00% | ~191 |
-| Miner Clicker | 15.00% | ~179 |
-| Full Party | 14.00% | ~167 |
-| Inspection | 14.00% | ~167 |
-| Hero inspection | 13.00% | ~155 |
+| Dragon Clicker | 16.00% | ~192 |
+| Miner Clicker | 15.00% | ~180 |
+| Full Party | 14.00% | ~168 |
+| Inspection | 14.00% | ~168 |
+| Hero inspection | 13.00% | ~156 |
 | Dragon Master | 12.00% | ~144 |
 | Enlightenment | 12.00% | ~144 |
 | Lieutenant | 12.00% | ~144 |
@@ -61,8 +61,8 @@ Rating: 3.91 (Ranked 907)
 | The Alchemist | 1.00% | ~12 |
 | Ebony Jungle Liberator | 0.90% | ~11 |
 | Training makes a Pro player | 0.70% | ~8 |
+| Transmute | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |
-| Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
 | Arena Challenger | 0.40% | ~5 |
 | Cauldron Liberator | 0.40% | ~5 |
@@ -81,7 +81,7 @@ Rating: 3.91 (Ranked 907)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,196 (Ranked 161)  
+Progressed: 1,197 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
 | 2023-05-27 | 1,192 | 1 |
-| 2023-05-28 | 1,196 | 1 |
+| 2023-05-28 | 1,197 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

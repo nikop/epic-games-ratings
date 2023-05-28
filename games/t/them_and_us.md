@@ -21,10 +21,10 @@
 | The Curse Is Real | 9.00% | ~11 |
 | Lover of classics | 8.00% | ~10 |
 | Trapped | 7.00% | ~9 |
+| What A Mansion | 7.00% | ~9 |
 | Modern Player | 6.00% | ~8 |
 | Researcher | 6.00% | ~8 |
 | I Am The Gate Keeper! | 6.00% | ~8 |
-| What A Mansion | 6.00% | ~8 |
 | The bus stop | 4.00% | ~5 |
 | Run and Gun | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
