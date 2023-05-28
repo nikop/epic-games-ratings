@@ -6,65 +6,65 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,352 |
-| Now You're Talking | 62.00% | ~320,941 |
-| Steel Yourself | 62.00% | ~320,941 |
-| Window Dressing | 50.00% | ~258,823 |
-| Trigger Happy | 46.00% | ~238,117 |
-| Riverborn | 45.00% | ~232,941 |
-| Starry Eyed | 34.00% | ~176,000 |
-| Poking Around | 34.00% | ~176,000 |
-| Talk of the Town | 24.00% | ~124,235 |
-| AAARR! | 23.00% | ~119,059 |
-| Hello Darkness | 23.00% | ~119,059 |
-| Wind At Our Backs | 22.00% | ~113,882 |
-| To the Beat | 20.00% | ~103,529 |
-| Sunny Shores | 17.00% | ~88,000 |
-| To Victory! | 15.00% | ~77,647 |
-| Sunday Best | 15.00% | ~77,647 |
-| Two of a Kind | 14.00% | ~72,470 |
-| Keep On Trucking | 13.00% | ~67,294 |
-| Going on an Adventure | 11.00% | ~56,941 |
-| Make Peace, Not War | 11.00% | ~56,941 |
-| Walking The Line | 10.00% | ~51,765 |
-| Not So Cute Anymore | 10.00% | ~51,765 |
-| Road Less Travelled | 9.00% | ~46,588 |
-| Lost and Found | 9.00% | ~46,588 |
-| Partner in Crime | 7.00% | ~36,235 |
-| Hard to Hear | 7.00% | ~36,235 |
-| Under the Radar | 7.00% | ~36,235 |
+| First Step | 70.00% | ~362,361 |
+| Now You're Talking | 62.00% | ~320,948 |
+| Steel Yourself | 62.00% | ~320,948 |
+| Window Dressing | 50.00% | ~258,829 |
+| Trigger Happy | 46.00% | ~238,123 |
+| Riverborn | 45.00% | ~232,946 |
+| Starry Eyed | 34.00% | ~176,004 |
+| Poking Around | 34.00% | ~176,004 |
+| Talk of the Town | 24.00% | ~124,238 |
+| AAARR! | 23.00% | ~119,061 |
+| Hello Darkness | 23.00% | ~119,061 |
+| Wind At Our Backs | 22.00% | ~113,885 |
+| To the Beat | 20.00% | ~103,532 |
+| Sunny Shores | 17.00% | ~88,002 |
+| To Victory! | 15.00% | ~77,649 |
+| Sunday Best | 15.00% | ~77,649 |
+| Two of a Kind | 14.00% | ~72,472 |
+| Keep On Trucking | 13.00% | ~67,296 |
+| Going on an Adventure | 11.00% | ~56,942 |
+| Make Peace, Not War | 11.00% | ~56,942 |
+| Walking The Line | 10.00% | ~51,766 |
+| Not So Cute Anymore | 10.00% | ~51,766 |
+| Road Less Travelled | 9.00% | ~46,589 |
+| Lost and Found | 9.00% | ~46,589 |
+| Partner in Crime | 7.00% | ~36,236 |
+| Hard to Hear | 7.00% | ~36,236 |
+| Under the Radar | 7.00% | ~36,236 |
 | Moving On Up | 6.00% | ~31,059 |
 | Owl Knows Best | 6.00% | ~31,059 |
 | Mind the Moose | 6.00% | ~31,059 |
 | Dressed to Kill | 6.00% | ~31,059 |
 | Beast Mode | 6.00% | ~31,059 |
-| Oh, Romeo! | 5.00% | ~25,882 |
-| Noble Intentions | 5.00% | ~25,882 |
-| Rising Star | 5.00% | ~25,882 |
-| Slime Slayer | 5.00% | ~25,882 |
+| Oh, Romeo! | 5.00% | ~25,883 |
+| Noble Intentions | 5.00% | ~25,883 |
+| Rising Star | 5.00% | ~25,883 |
+| Slime Slayer | 5.00% | ~25,883 |
 | Privacy, Please! | 4.00% | ~20,706 |
 | Silky Smooth | 4.00% | ~20,706 |
 | Hash It Over | 4.00% | ~20,706 |
 | Biting Tongue | 4.00% | ~20,706 |
 | What a Catch! | 4.00% | ~20,706 |
 | Hit the Spot | 4.00% | ~20,706 |
-| Talk the Talk | 3.00% | ~15,529 |
-| Skin in the Game | 3.00% | ~15,529 |
-| Caving In | 3.00% | ~15,529 |
-| Page Turner | 3.00% | ~15,529 |
-| Spinal Adjustment | 3.00% | ~15,529 |
-| The Knowledge | 3.00% | ~15,529 |
+| Talk the Talk | 3.00% | ~15,530 |
+| Skin in the Game | 3.00% | ~15,530 |
+| Caving In | 3.00% | ~15,530 |
+| Page Turner | 3.00% | ~15,530 |
+| Spinal Adjustment | 3.00% | ~15,530 |
+| The Knowledge | 3.00% | ~15,530 |
 | Seek the Rainbow | 2.00% | ~10,353 |
 | Words of Truth | 2.00% | ~10,353 |
 | Star Power | 2.00% | ~10,353 |
 | Justice Served | 2.00% | ~10,353 |
-| Don't Care | 1.00% | ~5,176 |
-| Don’t Get Crabby | 1.00% | ~5,176 |
+| Don't Care | 1.00% | ~5,177 |
+| Don’t Get Crabby | 1.00% | ~5,177 |
 | Written in the Stars | 0.90% | ~4,659 |
 | Boss of All Bosses | 0.30% | ~1,553 |
 | Point Taken | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517,646 (Ranked 25)  
+Progressed: 517,658 (Ranked 25)  
 Completed: 413 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 413 (0.08%) (Ranked 166)
 | 2023-05-25 | 517,396 | 411 |
 | 2023-05-26 | 517,513 | 411 |
 | 2023-05-27 | 517,643 | 412 |
-| 2023-05-28 | 517,646 | 413 |
+| 2023-05-28 | 517,658 | 413 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

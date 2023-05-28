@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -970,9 +970,9 @@
       "ID": "WELFARE_2",
       "SetID": "44dlcg0",
       "Name": "Welfare state",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -987,8 +987,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:22.1170245+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:55.4345554+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:29.9229197+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:22.1171159+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:11:22.2749809+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:55.4346498+00:00"
 }

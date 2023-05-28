@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2178,
+  "EOS_Progressed": 2180,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -1911,6 +1911,11 @@
       "Time": "2023-05-27T21:05:33.5193111+00:00",
       "NumProgressed": 2178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T02:18:38.2373836+00:00",
+      "NumProgressed": 2180,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1930,7 +1935,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1944,9 +1949,9 @@
       "ID": "STB_COLISSEUM_SECOND",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods II",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 349
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1962,7 +1967,7 @@
       "Name": "Hijack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1970,7 +1975,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1986,7 +1991,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2071
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2002,7 +2007,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1679
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2034,7 +2039,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -2058,7 +2063,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2098,7 +2103,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2106,7 +2111,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2006
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2130,7 +2135,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -2138,7 +2143,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1657
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2162,7 +2167,7 @@
       "Name": "Devineur",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2170,7 +2175,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2226,7 +2231,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2258,7 +2263,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2266,7 +2271,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2288,9 +2293,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 283
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -2298,7 +2303,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1570
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2306,7 +2311,7 @@
       "Name": "Spellcrafting",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -2338,14 +2343,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2178,
+      "Progressed": 2180,
       "Completed": 1
     }
   ],
@@ -2353,8 +2358,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:09.4593654+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:38.2373831+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:29.6291761+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:09.4594215+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:09:50.2947101+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:38.2374738+00:00"
 }

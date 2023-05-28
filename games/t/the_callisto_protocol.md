@@ -5,19 +5,19 @@ Rating: 4.19 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 8.00% | ~1,107 |
+| Flesh Wound | 8.00% | ~1,108 |
+| Chew 'Em Up | 6.00% | ~831 |
 | The Outer Way | 6.00% | ~831 |
-| Giving Back | 5.00% | ~692 |
-| Chew 'Em Up | 5.00% | ~692 |
-| Desperate Times | 5.00% | ~692 |
+| Giving Back | 5.00% | ~693 |
+| Desperate Times | 5.00% | ~693 |
 | Reforged | 4.00% | ~554 |
 | Paper Jams | 4.00% | ~554 |
 | Instigator | 4.00% | ~71 |
 | Big Game Hunter | 4.00% | ~71 |
-| Get a Grip | 3.00% | ~415 |
-| Workplace Hazard | 3.00% | ~415 |
-| Float Like A Butterfly | 3.00% | ~415 |
-| If the SHU Fits... | 3.00% | ~415 |
+| Get a Grip | 3.00% | ~416 |
+| Workplace Hazard | 3.00% | ~416 |
+| Float Like A Butterfly | 3.00% | ~416 |
+| If the SHU Fits... | 3.00% | ~416 |
 | Bear Trap | 3.00% | ~53 |
 | Two Heads Are Better Than One | 2.00% | ~277 |
 | Terminated | 2.00% | ~277 |
@@ -26,13 +26,13 @@ Rating: 4.19 (Ranked 825)
 | Without A Paddle | 2.00% | ~277 |
 | In the Pipe, Five by Five | 2.00% | ~277 |
 | Crash Site | 2.00% | ~277 |
-| Big Spender | 2.00% | ~35 |
-| You Need a Gun | 1.00% | ~138 |
+| Big Spender | 2.00% | ~36 |
+| You Need a Gun | 1.00% | ~139 |
 | Parole Denied | 1.00% | ~18 |
-| In Striking Distance | 1.00% | ~138 |
-| What Lies Beneath | 1.00% | ~138 |
-| Full Circle | 1.00% | ~138 |
-| Power Up | 1.00% | ~138 |
+| In Striking Distance | 1.00% | ~139 |
+| What Lies Beneath | 1.00% | ~139 |
+| Full Circle | 1.00% | ~139 |
+| Power Up | 1.00% | ~139 |
 | Hoard Mode | 1.00% | ~18 |
 | I Do Belong Here | 0.80% | ~111 |
 | Recidivist | 0.70% | ~12 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,842 (Ranked 102)  
+Progressed: 13,852 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,11 +83,11 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
 | 2023-05-27 | 13,841 | 53 |
-| 2023-05-28 | 13,842 | 53 |
+| 2023-05-28 | 13,852 | 53 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
-Sum: 269 (Ranked 335)  
-Diff (max vs sum): 63  
+Sum: 270 (Ranked 334)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |
@@ -95,7 +95,7 @@ Diff (max vs sum): 63
 | This game has Amazing Characters | 45 |
 | This game is Extremely Fun | 42 |
 | This game has Quickly Understood Controls | 40 |
-| This game has Challenging Combat | 30 |
+| This game has Challenging Combat | 31 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -150,3 +150,4 @@ Diff (max vs sum): 63
 | 2023-05-23 | 4.18 | 46 | 267 |
 | 2023-05-26 | 4.19 | 46 | 268 |
 | 2023-05-27 | 4.19 | 46 | 269 |
+| 2023-05-28 | 4.19 | 46 | 270 |

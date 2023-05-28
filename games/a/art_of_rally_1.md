@@ -6,30 +6,30 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,642 |
-| keep it tidy | 77.00% | ~7,734 |
-| podium | 72.00% | ~7,232 |
-| medium attack | 59.00% | ~5,926 |
-| brail | 56.00% | ~5,625 |
+| light attack | 96.00% | ~9,644 |
+| keep it tidy | 77.00% | ~7,735 |
+| podium | 72.00% | ~7,233 |
+| medium attack | 59.00% | ~5,927 |
+| brail | 56.00% | ~5,626 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,018 |
-| grocery-getter | 39.00% | ~3,917 |
-| rwd only | 26.00% | ~2,611 |
-| food tour: pasta | 26.00% | ~2,611 |
-| to finish first, first you must finish | 21.00% | ~2,109 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,109 |
+| grocery-getter | 39.00% | ~3,918 |
+| rwd only | 26.00% | ~2,612 |
+| food tour: pasta | 26.00% | ~2,612 |
+| to finish first, first you must finish | 21.00% | ~2,110 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,110 |
 | autopilot | 20.00% | ~2,009 |
 | turbo | 20.00% | ~2,009 |
-| food tour: pretzel | 19.00% | ~1,908 |
+| food tour: pretzel | 19.00% | ~1,909 |
 | bicycle race | 15.00% | ~1,507 |
 | monster | 14.00% | ~1,406 |
 | car wash | 13.00% | ~1,306 |
 | perkele | 13.00% | ~1,306 |
-| night ride | 12.00% | ~1,205 |
-| the artist | 12.00% | ~1,205 |
-| snorkel | 12.00% | ~1,205 |
+| night ride | 12.00% | ~1,206 |
+| the artist | 12.00% | ~1,206 |
+| snorkel | 12.00% | ~1,206 |
 | where is the stage? | 11.00% | ~1,105 |
 | maximum attack | 11.00% | ~1,105 |
-| espresso | 10.00% | ~1,004 |
+| espresso | 10.00% | ~1,005 |
 | parallel universe | 9.00% | ~904 |
 | samir | 8.00% | ~804 |
 | eurobeat | 7.00% | ~703 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,044 (Ranked 108)  
+Progressed: 10,046 (Ranked 108)  
 Completed: 9 (0.09%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 9 (0.09%) (Ranked 165)
 | 2023-05-25 | 10,033 | 9 |
 | 2023-05-26 | 10,037 | 9 |
 | 2023-05-27 | 10,043 | 9 |
-| 2023-05-28 | 10,044 | 9 |
+| 2023-05-28 | 10,046 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

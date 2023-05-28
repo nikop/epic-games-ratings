@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -467,17 +467,17 @@
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Blacksmith",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Management",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -595,9 +595,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -627,9 +627,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -660,8 +660,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:00.8044554+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:26.4441583+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:11.1073335+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:11.2141808+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:00.8044785+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:10:54.880726+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:26.444182+00:00"
 }

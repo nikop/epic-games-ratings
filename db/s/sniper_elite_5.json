@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1642,
+  "EOS_Progressed": 1645,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1653,6 +1653,11 @@
       "Time": "2023-05-28T00:05:08.201752+00:00",
       "NumProgressed": 1642,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T02:18:36.5690112+00:00",
+      "NumProgressed": 1645,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1744,7 +1749,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1782,9 +1787,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 66
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1832,7 +1837,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1856,7 +1861,7 @@
       "Name": "My Little Friend",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1872,7 +1877,7 @@
       "Name": "Lord of War",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1976,7 +1981,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1992,7 +1997,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -2054,9 +2059,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 66
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2078,9 +2083,9 @@
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -2118,9 +2123,9 @@
       "ID": "REWARD_DLC01_05_ALPHA",
       "SetID": "83mdf7p",
       "Name": "Alpha",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -2231,13 +2236,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1593,
+      "Progressed": 1596,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1642,
+      "Progressed": 1645,
       "Completed": 2
     }
   ],
@@ -2245,8 +2250,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:08.2017517+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:36.5690108+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:59:53.6654045+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:08.201827+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:13:33.8303278+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:36.5690983+00:00"
 }

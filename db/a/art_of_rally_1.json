@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10044,
+  "EOS_Progressed": 10046,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -591,6 +591,11 @@
       "Time": "2023-05-28T00:05:00.6729896+00:00",
       "NumProgressed": 10044,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-28T02:18:26.3069536+00:00",
+      "NumProgressed": 10046,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -610,7 +615,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -690,7 +695,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -706,7 +711,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -714,7 +719,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -762,7 +767,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7734
+      "UsersEstimate": 7735
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -810,7 +815,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5625
+      "UsersEstimate": 5626
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -826,7 +831,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9642
+      "UsersEstimate": 9644
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -842,7 +847,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5926
+      "UsersEstimate": 5927
     },
     {
       "ID": "ACH_NIGHT",
@@ -850,7 +855,7 @@
       "Name": "night ride",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -858,7 +863,7 @@
       "Name": "the artist",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH_RAIN",
@@ -866,7 +871,7 @@
       "Name": "snorkel",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH_ROLL",
@@ -874,7 +879,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -914,7 +919,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -922,7 +927,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACH_WEEKLY",
@@ -938,22 +943,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7232
+      "UsersEstimate": 7233
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10044,
+      "Progressed": 10046,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:00.6729891+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:26.3069532+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.9775265+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:20.0354425+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:00.6730237+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:09:35.3404882+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:26.3069862+00:00"
 }

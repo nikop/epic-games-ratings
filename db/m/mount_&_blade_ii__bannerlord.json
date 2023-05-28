@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4279,10 +4279,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13172,
       "NumberOfAwardsMax": 6582
+    },
+    {
+      "Time": "2023-05-28T02:12:28.4390379+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13174,
+      "NumberOfAwardsMax": 6582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13172,
+  "NumberOfAwards": 13174,
   "NumberOfAwardsMax": 6582,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4314,7 +4320,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 827
+      "Count": 829
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4359,9 +4365,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51153,
+  "EOS_Progressed": 51155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7964,6 +7970,11 @@
       "Time": "2023-05-28T00:05:29.027052+00:00",
       "NumProgressed": 51153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T02:19:04.3629025+00:00",
+      "NumProgressed": 51155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7975,7 +7986,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "Apple of my eye",
@@ -7983,7 +7994,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7161
+      "UsersEstimate": 7162
     },
     {
       "ID": "Bannerlord",
@@ -8103,7 +8114,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6138
+      "UsersEstimate": 6139
     },
     {
       "ID": "Great Granny",
@@ -8143,7 +8154,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7161
+      "UsersEstimate": 7162
     },
     {
       "ID": "I spit on your grave",
@@ -8215,7 +8226,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10742
+      "UsersEstimate": 10743
     },
     {
       "ID": "Long live the Empire",
@@ -8327,7 +8338,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "This Is Our Land",
@@ -8382,15 +8393,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51153,
+      "Progressed": 51155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-27T23:59:13.6419812+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:29.0270517+00:00",
+  "LastChanged": "2023-05-28T02:12:28.4390378+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:19:04.3629017+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:59:13.6419819+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:29.0271165+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:12:28.4390385+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:19:04.3629677+00:00"
 }

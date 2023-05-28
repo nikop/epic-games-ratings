@@ -4,8 +4,8 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "CLG_UNLOCK_10009",
       "SetID": "89cjc9l",
       "Name": "The Steampunk",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CLG_UNLOCK_10010",
@@ -412,9 +412,9 @@
       "ID": "PRG_BOSS_OOZE",
       "SetID": "89cjc9l",
       "Name": "The Ooze",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -692,9 +692,9 @@
       "ID": "PRG_NORMAL_10004",
       "SetID": "89cjc9l",
       "Name": "Iron",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PRG_NORMAL_10005",
@@ -708,9 +708,9 @@
       "ID": "PRG_NORMAL_10006",
       "SetID": "89cjc9l",
       "Name": "Tested",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PRG_NORMAL_10007",
@@ -773,8 +773,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:27.1613106+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:19:02.1999592+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:20.770751+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:22.9991265+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:27.1613861+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:09:39.8558763+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:19:02.2000387+00:00"
 }

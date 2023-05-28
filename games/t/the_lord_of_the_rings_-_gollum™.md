@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 56.00% | ~172 |
+| The Wraith | 57.00% | ~176 |
 | Collectibles Part 1 | 46.00% | ~142 |
-| Welcome to Mordor! | 45.00% | ~139 |
-| Wait! Wait! Not yet! | 28.00% | ~86 |
+| Welcome to Mordor! | 46.00% | ~142 |
+| Wait! Wait! Not yet! | 29.00% | ~90 |
 | Memories | 27.00% | ~83 |
 | Like Flying... | 25.00% | ~77 |
-| The Maggot | 17.00% | ~52 |
+| The Maggot | 17.00% | ~53 |
 | The Breeder | 12.00% | ~37 |
 | The Veteran | 10.00% | ~31 |
 | The Traitor | 5.00% | ~15 |
@@ -25,11 +25,11 @@
 | And now we wish... | 0.60% | ~2 |
 | Gollum/Sméagol | 0.60% | ~2 |
 | Sweet Darkness | 0.60% | ~2 |
+| So Silly! | 0.60% | ~2 |
 | The Friend | 0.30% | ~1 |
 | We wants it! We needs it | 0.30% | ~1 |
 | Nervous Hands | 0.30% | ~1 |
 | Master of the Old Game | 0.30% | ~1 |
-| So Silly! | 0.30% | ~1 |
 | Made a Song | 0.30% | ~1 |
 | Ss ss ss... | 0.30% | ~1 |
 | Collectibles Part 2 | 0.00% | ~0 |
@@ -41,7 +41,7 @@
 | Scout | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 217)  
+Progressed: 309 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,4 +52,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 133 | 0 |
 | 2023-05-26 | 247 | 0 |
 | 2023-05-27 | 305 | 0 |
-| 2023-05-28 | 308 | 0 |
+| 2023-05-28 | 309 | 0 |

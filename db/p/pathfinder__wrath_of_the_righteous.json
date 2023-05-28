@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2552,9 +2552,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9264,
+  "EOS_Progressed": 9269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4712,6 +4712,11 @@
       "Time": "2023-05-27T23:05:44.0124291+00:00",
       "NumProgressed": 9264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T02:19:06.7008384+00:00",
+      "NumProgressed": 9269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4731,7 +4736,7 @@
       "Name": "Burning City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4739,7 +4744,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "04_FithCrusade",
@@ -4859,7 +4864,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "19_EqualToAroden",
@@ -4923,7 +4928,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "28_GreatUpstart",
@@ -4971,7 +4976,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5091,7 +5096,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "49_Flame",
@@ -5595,7 +5600,7 @@
       "Name": "Stay Underground",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -5611,7 +5616,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -5650,21 +5655,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8046,
+      "Progressed": 8051,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9264,
+      "Progressed": 9269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-27T17:58:16.8755544+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:30.9223314+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:19:06.7008379+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:02.444781+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:30.9225075+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:10:43.3817012+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:19:06.7010737+00:00"
 }

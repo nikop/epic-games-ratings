@@ -1,35 +1,35 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.88 (Ranked 909)  
+Rating: 3.91 (Ranked 907)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,121 |
-| World Map | 80.00% | ~954 |
-| Temple of Eternals | 56.00% | ~668 |
-| Prestigious | 53.00% | ~632 |
-| Fellowship Power | 40.00% | ~477 |
-| Guild Power | 24.00% | ~286 |
+| Victor | 94.00% | ~1,123 |
+| World Map | 80.00% | ~956 |
+| Temple of Eternals | 56.00% | ~669 |
+| Prestigious | 53.00% | ~633 |
+| Fellowship Power | 40.00% | ~478 |
+| Guild Power | 24.00% | ~287 |
 | Prestigious x10 | 21.00% | ~251 |
 | The game is on | 19.00% | ~227 |
 | Exotic Merchant | 17.00% | ~203 |
 | Dragon Clicker | 16.00% | ~191 |
-| Inspection | 15.00% | ~179 |
 | Miner Clicker | 15.00% | ~179 |
 | Full Party | 14.00% | ~167 |
+| Inspection | 14.00% | ~167 |
 | Hero inspection | 13.00% | ~155 |
 | Dragon Master | 12.00% | ~143 |
 | Enlightenment | 12.00% | ~143 |
 | Lieutenant | 12.00% | ~143 |
 | Milestone collector | 11.00% | ~131 |
 | The Unstoppable | 11.00% | ~131 |
-| Mysterious Rock | 10.00% | ~119 |
-| Natural Talent | 10.00% | ~119 |
-| Superior | 10.00% | ~119 |
-| Scientist | 8.00% | ~95 |
+| Mysterious Rock | 10.00% | ~120 |
+| Natural Talent | 10.00% | ~120 |
+| Superior | 10.00% | ~120 |
+| Daily Quest Completionist | 8.00% | ~96 |
+| Scientist | 8.00% | ~96 |
 | Challenger | 7.00% | ~84 |
-| Daily Quest Completionist | 7.00% | ~84 |
 | The power of Awakening | 7.00% | ~84 |
 | Frostfire Liberator | 6.00% | ~72 |
 | Hunter | 6.00% | ~72 |
@@ -37,11 +37,11 @@ Rating: 3.88 (Ranked 909)
 | Doing My Part | 5.00% | ~60 |
 | Mastery | 5.00% | ~60 |
 | Moving Up The Ladder | 5.00% | ~60 |
+| Relic Of The Past | 5.00% | ~60 |
 | The Expeditioner | 5.00% | ~60 |
 | Here We Go Again | 4.00% | ~48 |
 | How Do You Turn This On? | 4.00% | ~48 |
 | Missions Dedication | 4.00% | ~48 |
-| Relic Of The Past | 4.00% | ~48 |
 | The father of Dragons | 4.00% | ~48 |
 | Trader | 4.00% | ~48 |
 | Ancient Knowledge | 3.00% | ~36 |
@@ -57,8 +57,8 @@ Rating: 3.88 (Ranked 909)
 | Sailor | 2.00% | ~24 |
 | What lies behind the bush | 2.00% | ~24 |
 | Crystal Mining | 1.00% | ~12 |
+| Active Member | 0.90% | ~11 |
 | The Alchemist | 0.90% | ~11 |
-| Active Member | 0.80% | ~10 |
 | Ebony Jungle Liberator | 0.80% | ~10 |
 | Training makes a Pro player | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.88 (Ranked 909)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,193 (Ranked 161)  
+Progressed: 1,195 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
 | 2023-05-27 | 1,192 | 1 |
-| 2023-05-28 | 1,193 | 1 |
+| 2023-05-28 | 1,195 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -133,3 +133,4 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-22 | 3.79 | 0 | 0 |
 | 2023-05-23 | 3.87 | 0 | 0 |
 | 2023-05-27 | 3.88 | 0 | 0 |
+| 2023-05-28 | 3.91 | 0 | 0 |

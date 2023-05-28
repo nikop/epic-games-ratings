@@ -2,13 +2,13 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -180,6 +180,11 @@
       "Time": "2023-05-27T23:05:25.828186+00:00",
       "NumProgressed": 378,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T02:18:44.2099332+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -207,7 +212,7 @@
       "Name": "Omae Wa Mou Shindeiru",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "collect-combos",
@@ -223,7 +228,7 @@
       "Name": "Frugal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "collect-discounted-items2",
@@ -247,7 +252,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "different-items2",
@@ -261,9 +266,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 121
     },
     {
       "ID": "finished-quest-cube",
@@ -303,7 +308,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "finished-quest-rat",
@@ -311,7 +316,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "finished-quest-reaper",
@@ -327,7 +332,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "finished-quest-secret",
@@ -399,7 +404,7 @@
       "Name": "Great Hero",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "win-first-biom",
@@ -407,7 +412,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "win-first-level",
@@ -415,7 +420,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "win-koth-fights1",
@@ -423,7 +428,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "win-koth-fights2",
@@ -447,7 +452,7 @@
       "Name": "Through the Darkness",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "win-with-3-cultists",
@@ -470,7 +475,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 1
     }
   ],
@@ -478,8 +483,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:13.9468836+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:44.2099327+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:23.158862+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:13.9469095+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:11:11.8000762+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:44.2099614+00:00"
 }

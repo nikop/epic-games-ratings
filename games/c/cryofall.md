@@ -1,7 +1,7 @@
 # CryoFall
 [Store](https://store.epicgames.com/en-US/p/cryofall-331358)  
 [View Rawdata](../../db/c/cryofall.json)  
-Rating: 4.50 (Ranked 540)  
+Rating: 4.50 (Ranked 541)  
 Number of Ratings: 46  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

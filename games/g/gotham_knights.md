@@ -1,28 +1,29 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 838)  
+Rating: 4.17 (Ranked 839)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 2.00% | ~1,249 |
+| The Batman Family | 1.00% | ~624 |
 | To the Victor Go the Spoils | 1.00% | ~624 |
 | Har, Har, Har, Very Funny | 1.00% | ~624 |
 | Get ReQ'd | 1.00% | ~624 |
 | Knighthood | 1.00% | ~624 |
 | Loose Ends | 1.00% | ~624 |
 | Whispered Words | 1.00% | ~624 |
-| The Batman Family | 0.90% | ~562 |
 | Something in the Clay | 0.90% | ~562 |
 | Quartzer Life Crisis | 0.90% | ~562 |
 | Working Hard or Harley Working? | 0.90% | ~562 |
 | Lock and Key | 0.90% | ~562 |
-| The Show Mud Go On | 0.80% | ~499 |
-| Snow Problem | 0.80% | ~499 |
-| Unstoppable Force | 0.80% | ~499 |
-| Bad Apples in Every Orchard | 0.80% | ~499 |
+| The Show Mud Go On | 0.80% | ~500 |
+| Snow Problem | 0.80% | ~500 |
+| Unstoppable Force | 0.80% | ~500 |
+| Bad Apples in Every Orchard | 0.80% | ~500 |
 | Protector of Gotham | 0.70% | ~437 |
 | Rock and a Hard Place | 0.70% | ~437 |
+| Shock Til They Drop | 0.70% | ~437 |
 | Cooldown | 0.70% | ~437 |
 | Universal Health Scare | 0.70% | ~437 |
 | From Inside Gotham's Walls | 0.70% | ~437 |
@@ -32,7 +33,6 @@ Rating: 4.17 (Ranked 838)
 | In Your Element | 0.60% | ~375 |
 | Not On My Watch | 0.60% | ~375 |
 | Bulldozed | 0.60% | ~375 |
-| Shock Til They Drop | 0.60% | ~375 |
 | Gotham Knight | 0.60% | ~375 |
 | Out of Their League | 0.50% | ~312 |
 | Drone You Out | 0.50% | ~312 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,427 (Ranked 70)  
+Progressed: 62,444 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,427 | 91 |
+| 2023-05-28 | 62,444 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,726 (Ranked 137)  

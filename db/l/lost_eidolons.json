@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 912,
+  "EOS_Progressed": 913,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -473,6 +473,11 @@
       "Time": "2023-05-27T22:05:43.9632807+00:00",
       "NumProgressed": 912,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T02:18:49.2118011+00:00",
+      "NumProgressed": 913,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -516,7 +521,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "06",
@@ -532,7 +537,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "08",
@@ -540,7 +545,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "09",
@@ -588,7 +593,7 @@
       "Name": "Til We Meet Again",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "15",
@@ -612,7 +617,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "18",
@@ -667,7 +672,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 912,
+      "Progressed": 913,
       "Completed": 0
     }
   ],
@@ -675,8 +680,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:17.570312+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:49.2118006+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:59:13.2629231+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:17.5703276+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:12:28.0598764+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:49.2118195+00:00"
 }

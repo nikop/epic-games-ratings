@@ -2,13 +2,13 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 844,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -438,9 +438,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "631ndc2",
       "Name": "King of District 2",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -607,8 +607,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:19.573476+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:51.9000624+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:35.7289258+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:19.5735212+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:11:28.8739222+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:51.9001079+00:00"
 }

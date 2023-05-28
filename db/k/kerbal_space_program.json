@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -1990,10 +1990,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 3447,
       "NumberOfAwardsMax": 582
+    },
+    {
+      "Time": "2023-05-28T02:09:26.8000561+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 3453,
+      "NumberOfAwardsMax": 582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3447,
+  "NumberOfAwards": 3453,
   "NumberOfAwardsMax": 582,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -2037,7 +2043,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 457
+      "Count": 463
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2058,8 +2064,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-05-27T20:57:23.5679674+00:00",
+  "LastChanged": "2023-05-28T02:09:26.8000559+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.1224963+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:14.7912739+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:00:12.1876409+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:09:26.8000568+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:14:04.4604377+00:00"
 }

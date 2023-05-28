@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -241,6 +241,11 @@
       "Time": "2023-05-27T19:05:29.2180458+00:00",
       "NumProgressed": 325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T02:18:57.1877365+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -292,7 +297,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Cryomancer",
@@ -348,7 +353,7 @@
       "Name": "Holy Knight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Horder",
@@ -356,7 +361,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Iconoclasm",
@@ -396,7 +401,7 @@
       "Name": "Marksman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MeatLover",
@@ -404,7 +409,7 @@
       "Name": "Meat Lover",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MoneySwag",
@@ -484,7 +489,7 @@
       "Name": "Sling of David",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SpellMaster",
@@ -500,7 +505,7 @@
       "Name": "Sword Master",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TheEnd",
@@ -564,14 +569,14 @@
       "Name": "Witch",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 0
     }
   ],
@@ -579,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:23.4730105+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:57.1877359+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.4676985+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:59:06.3214207+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:23.4730431+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:12:17.5528467+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:57.1877684+00:00"
 }

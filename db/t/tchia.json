@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6115,
+  "EOS_Progressed": 6117,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2388,6 +2388,11 @@
       "Time": "2023-05-28T00:04:58.6876694+00:00",
       "NumProgressed": 6115,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-28T02:18:23.5981017+00:00",
+      "NumProgressed": 6117,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2399,7 +2404,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ARRR",
@@ -2447,7 +2452,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2455,7 +2460,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "FASHION_VICTIM",
@@ -2566,7 +2571,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6115,
+      "Progressed": 6117,
       "Completed": 22
     }
   ],
@@ -2574,8 +2579,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:04:58.6876691+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:23.5981014+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:45.5533936+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:04:58.6876946+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:10:15.980688+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:23.5981273+00:00"
 }

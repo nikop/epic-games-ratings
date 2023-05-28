@@ -20,8 +20,8 @@ Number of Ratings: 36  (23.09.2022)
 | Act I Complete | 25.00% | ~164 |
 | I ain’t afraid of no Ghost | 23.00% | ~151 |
 | Act II Complete | 19.00% | ~125 |
+| A successful procedure! | 18.00% | ~118 |
 | Bing Bang BOOM | 18.00% | ~118 |
-| A successful procedure! | 17.00% | ~112 |
 | Breaking the Ice | 15.00% | ~99 |
 | Solidarity Forever | 11.00% | ~72 |
 | A Tucked Tale | 9.00% | ~59 |

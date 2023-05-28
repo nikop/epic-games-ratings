@@ -5,11 +5,11 @@ Rating: 4.41 (Ranked 664)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 20.00% | ~328 |
-| Confirming Suspicions | 15.00% | ~246 |
+| Meeting Resistance | 20.00% | ~329 |
+| Confirming Suspicions | 15.00% | ~247 |
 | The Kraken Wakes | 11.00% | ~181 |
-| Lord of War | 8.00% | ~131 |
-| It's Starting to Crack | 8.00% | ~131 |
+| Lord of War | 8.00% | ~132 |
+| It's Starting to Crack | 8.00% | ~132 |
 | Resourceful | 7.00% | ~115 |
 | Change the Channel | 7.00% | ~115 |
 | Enemy at the Gates | 6.00% | ~99 |
@@ -19,15 +19,15 @@ Rating: 4.41 (Ranked 664)
 | As Quiet as a Mouse | 5.00% | ~82 |
 | Taking it back | 5.00% | ~82 |
 | Opposing Force | 4.00% | ~66 |
+| Gunslinger | 4.00% | ~66 |
+| Target America | 4.00% | ~66 |
 | Liberté | 3.00% | ~49 |
 | Fields of Glory | 3.00% | ~49 |
-| Gunslinger | 3.00% | ~49 |
 | Sharpshooter | 3.00% | ~49 |
 | Die Nussknacker Sweet! | 3.00% | ~49 |
 | Der Geist | 3.00% | ~49 |
 | Close Quarters | 3.00% | ~49 |
 | Snake in the Grass | 3.00% | ~49 |
-| Target America | 3.00% | ~49 |
 | The Kraken Sleeps | 3.00% | ~49 |
 | Climbing the Ladder | 2.00% | ~33 |
 | No Stone Unturned | 2.00% | ~33 |
@@ -38,8 +38,8 @@ Rating: 4.41 (Ranked 664)
 | Brains of the Operation | 2.00% | ~33 |
 | The Long Game | 1.00% | ~16 |
 | It'll Buff Right Out | 1.00% | ~16 |
-| My Little Friend | 0.70% | ~11 |
-| Locomotion Commotion | 0.70% | ~11 |
+| My Little Friend | 0.70% | ~12 |
+| Locomotion Commotion | 0.70% | ~12 |
 | Ghost of Falaise | 0.60% | ~10 |
 | Herr Today, Gone Tomorrow | 0.50% | ~8 |
 | Operation Foxley | 0.50% | ~8 |
@@ -55,6 +55,7 @@ Rating: 4.41 (Ranked 664)
 | Eagle Eyed | 0.20% | ~3 |
 | Up close and personal | 0.20% | ~3 |
 | Shoot for the Moon | 0.20% | ~3 |
+| Can't Outrun A Bullet | 0.20% | ~3 |
 | Reich To The Point | 0.20% | ~3 |
 | Covert Elimination | 0.20% | ~3 |
 | Master of Secondaries | 0.10% | ~2 |
@@ -62,22 +63,21 @@ Rating: 4.41 (Ranked 664)
 | Out of Scope | 0.10% | ~2 |
 | Burn after reading | 0.10% | ~2 |
 | Sight Beyond Sights | 0.10% | ~2 |
-| Can't Outrun A Bullet | 0.10% | ~2 |
 | Führerious Repetition | 0.10% | ~2 |
 | From Führer Away | 0.10% | ~2 |
+| Alpha | 0.10% | ~2 |
 | Operation Overlord | 0.10% | ~2 |
 | If You Go Down To The Woods Today | 0.10% | ~2 |
 | Fight Another Day | 0.10% | ~2 |
 | Best of the Best | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,642 (Ranked 152)  
+Progressed: 1,645 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,642 | 2 |
+| 2023-05-28 | 1,645 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -19,23 +19,23 @@
 | Sergeant of the Evil | 72.00% | ~112 |
 | Drunken Master | 71.00% | ~110 |
 | V.I.P. Cemetery | 69.00% | ~107 |
+| Takeover | 68.00% | ~105 |
 | Woodcutter | 68.00% | ~105 |
 | Sharpshooter | 68.00% | ~105 |
-| Takeover | 67.00% | ~104 |
 | Architect of Darkness | 67.00% | ~104 |
 | Top of the World | 66.00% | ~102 |
 | The Apotheosis of War | 65.00% | ~101 |
 | Stasis Alcatraz | 65.00% | ~101 |
 | Tastes Like Chicken | 61.00% | ~95 |
+| Thunderstorm | 61.00% | ~95 |
 | Combo Breaker | 60.00% | ~93 |
-| Thunderstorm | 60.00% | ~93 |
 | Brilliant: Holy Mountain | 59.00% | ~91 |
-| Clean Forests | 57.00% | ~88 |
+| Clean Forests | 58.00% | ~90 |
 | Starry: Meadowshire | 55.00% | ~85 |
 | Lieutenant of the Evil | 54.00% | ~84 |
 | Avada Kedavra | 52.00% | ~81 |
+| Brilliant: Tanglewood | 51.00% | ~79 |
 | Starry: Holy Mountain | 51.00% | ~79 |
-| Brilliant: Tanglewood | 50.00% | ~78 |
 | It's a Trap | 49.00% | ~76 |
 | Brilliant: Arcania | 48.00% | ~74 |
 | Deposition | 46.00% | ~71 |

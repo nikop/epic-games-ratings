@@ -1,27 +1,27 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 540)  
+Rating: 4.50 (Ranked 541)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 83.00% | ~314 |
-| Vanquisher of Robots | 73.00% | ~276 |
-| Party | 45.00% | ~170 |
-| Knowledge is Power | 44.00% | ~166 |
+| Good start! | 83.00% | ~315 |
+| Vanquisher of Robots | 73.00% | ~277 |
+| Party | 45.00% | ~171 |
+| Knowledge is Power | 44.00% | ~167 |
 | Impossible Cube | 42.00% | ~159 |
 | No Mercy | 41.00% | ~155 |
-| The Return of a Rat | 40.00% | ~151 |
-| Through the Darkness | 39.00% | ~147 |
-| Fat of the Earth | 33.00% | ~125 |
+| The Return of a Rat | 40.00% | ~152 |
+| Through the Darkness | 39.00% | ~148 |
+| Fat of the Earth | 32.00% | ~121 |
 | Last Man Standing | 31.00% | ~117 |
 | Catch Jonathan_tostar | 27.00% | ~102 |
-| Assemble a Meganewbie | 25.00% | ~94 |
-| Great Hero | 25.00% | ~94 |
-| Rookie | 25.00% | ~94 |
+| Assemble a Meganewbie | 25.00% | ~95 |
+| Great Hero | 25.00% | ~95 |
+| Rookie | 25.00% | ~95 |
 | Campaigning | 24.00% | ~91 |
 | He's Seen It All | 24.00% | ~91 |
-| Frugal | 21.00% | ~79 |
+| Frugal | 21.00% | ~80 |
 | Feed a God | 20.00% | ~76 |
 | To the Moon and Back | 20.00% | ~76 |
 | Great Flight | 17.00% | ~64 |
@@ -29,7 +29,7 @@ Rating: 4.50 (Ranked 540)
 | Honorary Cultist | 11.00% | ~42 |
 | Strength and Sorcery | 10.00% | ~38 |
 | Brain and Brawn | 10.00% | ~38 |
-| Omae Wa Mou Shindeiru | 7.00% | ~26 |
+| Omae Wa Mou Shindeiru | 7.00% | ~27 |
 | Wide Selection | 6.00% | ~23 |
 | Experimentalist | 5.00% | ~19 |
 | Soldier | 5.00% | ~19 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 540)
 | Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378 (Ranked 204)  
+Progressed: 379 (Ranked 204)  
 Completed: 1 (0.26%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 1 (0.26%) (Ranked 133)
 | 2023-05-25 | 373 | 1 |
 | 2023-05-26 | 375 | 1 |
 | 2023-05-27 | 378 | 1 |
+| 2023-05-28 | 379 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

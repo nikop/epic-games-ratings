@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 525,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2022-09-24T13:07:58.3730391+00:00",
@@ -179,13 +179,19 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-28T02:10:46.8582535+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1494,
+  "EOS_Progressed": 1495,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -805,6 +811,11 @@
       "Time": "2023-05-27T22:03:11.5121234+00:00",
       "NumProgressed": 1494,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-28T02:14:43.8571787+00:00",
+      "NumProgressed": 1495,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -824,7 +835,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "Collect20Iron",
@@ -832,7 +843,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "Collect50MonsterParts",
@@ -896,7 +907,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "CompleteHunterFaction",
@@ -936,7 +947,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -960,7 +971,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "GetTHWeapon",
@@ -976,7 +987,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "Kill25Frogs",
@@ -984,7 +995,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "Kill25Mozi",
@@ -992,7 +1003,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "MeetTheMoles",
@@ -1016,7 +1027,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "RepairSmith",
@@ -1024,7 +1035,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "RepairThroneRoom",
@@ -1040,7 +1051,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1055,22 +1066,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1494,
+      "Progressed": 1495,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 135,
-      "Completed": 135
+      "Progressed": 136,
+      "Completed": 136
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
-  "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:02:20.3270307+00:00",
+  "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:14:43.8571782+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:05.3006438+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:02:20.3270536+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:10:46.858254+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:14:43.8572216+00:00"
 }

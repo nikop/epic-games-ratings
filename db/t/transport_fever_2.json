@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1315,6 +1315,11 @@
       "Time": "2023-05-28T00:05:29.8029909+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T02:19:05.34479+00:00",
+      "NumProgressed": 1155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -1324,9 +1329,9 @@
       "ID": "achAccumulate100M",
       "SetID": "dgl390n",
       "Name": "Transport shark",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 474
     },
     {
       "ID": "achAccumulate100MHard",
@@ -1342,7 +1347,7 @@
       "Name": "Transport master",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "achAccumulate1B",
@@ -1382,7 +1387,7 @@
       "Name": "Climate change",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -1486,7 +1491,7 @@
       "Name": "Cadet",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "achCreateLine",
@@ -1534,7 +1539,7 @@
       "Name": "First bus arrived",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "achFirstCargoTransported",
@@ -1542,7 +1547,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -1550,7 +1555,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -1566,7 +1571,7 @@
       "Name": "First industry upgraded",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -1582,7 +1587,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "achFirstShipArrived",
@@ -1668,9 +1673,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 404
     },
     {
       "ID": "achMetropolis",
@@ -1702,7 +1707,7 @@
       "Name": "No free seats",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achPaint",
@@ -1718,7 +1723,7 @@
       "Name": "Penny pincher",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achPresentReached",
@@ -1750,7 +1755,7 @@
       "Name": "Cargo hub",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "achTopSpeed120",
@@ -1758,7 +1763,7 @@
       "Name": "High speed",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "achTopSpeed300",
@@ -1798,7 +1803,7 @@
       "Name": "Truck Fever",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achTunnelLength",
@@ -1813,15 +1818,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-27T05:01:00.5052773+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:29.8029904+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:19:05.3447893+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:06.7718927+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:59:10.341194+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:29.8030536+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:12:23.3385699+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:19:05.3448533+00:00"
 }

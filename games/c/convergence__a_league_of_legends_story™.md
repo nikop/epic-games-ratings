@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 92.00% | ~404 |
-| Rail Rat | 75.00% | ~329 |
+| Rail Rat | 76.00% | ~334 |
 | The Mysterious Stranger | 73.00% | ~320 |
-| Immaculate Aim | 59.00% | ~259 |
-| Honest Mistake | 51.00% | ~224 |
-| The Brass Boss | 51.00% | ~224 |
+| Immaculate Aim | 60.00% | ~263 |
+| Honest Mistake | 52.00% | ~228 |
+| The Brass Boss | 52.00% | ~228 |
 | No, Thanks! | 49.00% | ~215 |
 | The Prince in Heels | 47.00% | ~206 |
-| Right On Time | 45.00% | ~198 |
-| Time Flies | 45.00% | ~198 |
-| The Harder They Fall | 45.00% | ~198 |
+| Right On Time | 46.00% | ~202 |
+| Time Flies | 46.00% | ~202 |
+| The Harder They Fall | 46.00% | ~202 |
 | Fast Learner | 44.00% | ~193 |
 | Immaculate Aim | 43.00% | ~189 |
 | Make Up For Lost Time | 41.00% | ~180 |
@@ -22,34 +22,34 @@
 | Golem Chaser | 31.00% | ~136 |
 | The Steel Shadow | 30.00% | ~132 |
 | Like Clockwork | 30.00% | ~132 |
-| Family Memories | 26.00% | ~114 |
+| Family Memories | 27.00% | ~119 |
 | The Wicked Twins | 26.00% | ~114 |
 | Good Neighbor | 26.00% | ~114 |
 | The Betrayer | 25.00% | ~110 |
-| Street Style | 22.00% | ~97 |
+| Street Style | 23.00% | ~101 |
 | Check Your Pulse | 22.00% | ~97 |
-| The Loose Cannon | 19.00% | ~83 |
+| The Loose Cannon | 20.00% | ~88 |
 | Syron for Hope | 18.00% | ~79 |
 | Ask Questions Later | 18.00% | ~79 |
+| Sump Explorer | 17.00% | ~75 |
 | Whiz Kid | 16.00% | ~70 |
-| Sump Explorer | 16.00% | ~70 |
 | Chaincrawler Explorer | 15.00% | ~66 |
 | Factorywood Explorer | 15.00% | ~66 |
 | The Man Who Shattered Time | 15.00% | ~66 |
 | The Family Fortune | 15.00% | ~66 |
-| Fairgrounds Explorer | 12.00% | ~53 |
+| Fairgrounds Explorer | 13.00% | ~57 |
 | Cultivair Explorer | 11.00% | ~48 |
+| Theater Explorer | 11.00% | ~48 |
 | Rungs Was Right | 10.00% | ~44 |
-| Theater Explorer | 10.00% | ~44 |
 | Corin Goes Home | 8.00% | ~35 |
 | Sartorialist | 8.00% | ~35 |
 | Entresol Explorer | 8.00% | ~35 |
 | Hexlock for Protection | 8.00% | ~35 |
 | Clovemary for Remembering | 7.00% | ~31 |
 | Golem Hunter | 5.00% | ~22 |
+| Thinking Two Steps Ahead | 3.00% | ~13 |
 | Wunderkind | 3.00% | ~13 |
 | Fitting In | 3.00% | ~13 |
-| Thinking Two Steps Ahead | 2.00% | ~9 |
 | No Time to Waste | 0.90% | ~4 |
 | Wildlife Protection | 0.50% | ~2 |
 | A Lesson in Precision | 0.50% | ~2 |

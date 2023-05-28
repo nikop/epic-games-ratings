@@ -41,6 +41,7 @@
 | Oh, I am sad | 1.00% | ~2 |
 | Farming Frenzy | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
+| Welfare state | 1.00% | ~2 |
 | Anarchist paradise | 0.50% | ~1 |
 | I can't see the sky | 0.50% | ~1 |
 | I can't breathe | 0.50% | ~1 |
@@ -54,7 +55,6 @@
 | Restorer | 0.50% | ~1 |
 | Full temperate | 0.50% | ~1 |
 | Temperate master | 0.50% | ~1 |
-| Welfare state | 0.50% | ~1 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |

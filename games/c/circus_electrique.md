@@ -1,7 +1,7 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 843)  
+Rating: 4.16 (Ranked 844)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,16 +14,16 @@ Number of Ratings: 22  (23.09.2022)
 | More Brain Than Brawn | 25.00% | ~103 |
 | Perfect Illusion | 20.00% | ~82 |
 | Hundred Percent First | 20.00% | ~82 |
+| Dirty Dozen | 17.00% | ~70 |
 | Fan Service | 16.00% | ~66 |
-| Dirty Dozen | 16.00% | ~66 |
 | Lion Tamer | 15.00% | ~62 |
 | King of District 1 | 14.00% | ~58 |
 | Amazing! | 14.00% | ~58 |
 | Bar Brawler | 13.00% | ~54 |
 | One More Thing... | 12.00% | ~49 |
 | Lucky Day | 12.00% | ~49 |
+| King of District 2 | 12.00% | ~49 |
 | Flawless Presentation | 12.00% | ~49 |
-| King of District 2 | 11.00% | ~45 |
 | Time Travel! | 10.00% | ~41 |
 | Marketing Manager | 9.00% | ~37 |
 | Circus Versus Circus | 8.00% | ~33 |

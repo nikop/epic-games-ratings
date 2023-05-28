@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "9",
       "SetID": "acl54ke",
       "Name": "Solved tenth case",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -370,8 +370,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:00:05.2191797+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:13:54.0651743+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:22.3252566+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:23.6440658+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:00:05.2191935+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:11:12.5767646+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:13:54.0651932+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1a7cbda7efe7435dabda1af662aeb1ba",
   "Name": "Zoeti",
   "ProductSlug": "zoeti-3ccef9",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
       "Time": "2023-05-27T00:04:23.589421+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T02:16:21.4767034+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -73,9 +78,9 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BOSS_KILL10",
@@ -97,7 +102,7 @@
       "ID": "BOSS_KILL12",
       "SetID": "1icc7kd",
       "Name": "Crystal Hunter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "BOSS_KILL2",
       "SetID": "1icc7kd",
       "Name": "Overcoming Weakness",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -121,7 +126,7 @@
       "ID": "BOSS_KILL4",
       "SetID": "1icc7kd",
       "Name": "Fence-Sitter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "BOSS_KILL7",
       "SetID": "1icc7kd",
       "Name": "Green Thumb",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -153,7 +158,7 @@
       "ID": "BOSS_KILL8",
       "SetID": "1icc7kd",
       "Name": "Equivalent Exchange",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "CLEAR2",
       "SetID": "1icc7kd",
       "Name": "Danger",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -306,14 +311,14 @@
     {
       "ID": "1icc7kd",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:03:36.9081916+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:16:21.4767029+00:00",
   "LastUpdate_AppInfo": "2023-05-23T16:57:23.7965748+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:03.0596309+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:03:36.9082128+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:09:08.7316102+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:16:21.4767259+00:00"
 }

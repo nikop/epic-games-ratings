@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH014",
@@ -1046,8 +1046,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:12.1765175+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:41.7760659+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.2461574+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:10.4717173+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:12.1765617+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:10:54.1828851+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:41.776112+00:00"
 }

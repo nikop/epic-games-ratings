@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -366,9 +366,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "completeact3",
@@ -406,9 +406,9 @@
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "scoreminrankrf1",
@@ -454,9 +454,9 @@
       "ID": "scoreminrankrp3",
       "SetID": "40n95i5",
       "Name": "The Eye of the Storm",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "scoreminrankrv1",
@@ -487,8 +487,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:00:20.1804738+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:14:16.064611+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:28.1791044+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:00:20.1804877+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:11:19.5520037+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:14:16.0646264+00:00"
 }

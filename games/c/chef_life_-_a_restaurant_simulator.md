@@ -15,8 +15,8 @@
 | Sous-Chef | 7.00% | ~16 |
 | Haute Cuisine | 7.00% | ~16 |
 | Well-Stocked Kitchen | 5.00% | ~12 |
+| Culinary Arts | 4.00% | ~9 |
 | Perfectionist | 4.00% | ~9 |
-| Culinary Arts | 3.00% | ~7 |
 | Rolling in Dough | 3.00% | ~7 |
 | Leaning Tower of Pizza | 3.00% | ~7 |
 | Chef, Yes Chef! | 0.90% | ~2 |

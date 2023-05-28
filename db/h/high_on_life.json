@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22732,
+  "EOS_Progressed": 22733,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -968,6 +968,11 @@
       "Time": "2023-05-27T23:03:54.5551847+00:00",
       "NumProgressed": 22732,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-28T02:16:34.6143708+00:00",
+      "NumProgressed": 22733,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1019,7 +1024,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6592
+      "UsersEstimate": 6593
     },
     {
       "ID": "ACH_GET_GUS",
@@ -1043,7 +1048,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17276
+      "UsersEstimate": 17277
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1051,7 +1056,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -1099,7 +1104,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12957
+      "UsersEstimate": 12958
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1155,7 +1160,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -1163,7 +1168,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16594
+      "UsersEstimate": 16595
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1203,7 +1208,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -1234,22 +1239,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22732,
+      "Progressed": 22733,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 25,
-      "Completed": 25
+      "Progressed": 26,
+      "Completed": 26
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:03:45.6903375+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:16:34.6143703+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:45.9981946+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:47.266316+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:03:45.6903658+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:10:18.8933861+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:16:34.6144033+00:00"
 }

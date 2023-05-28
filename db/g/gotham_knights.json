@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1268,9 +1268,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62427,
+  "EOS_Progressed": 62444,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4043,6 +4043,11 @@
       "Time": "2023-05-28T00:05:29.2840838+00:00",
       "NumProgressed": 62427,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T02:19:04.6922063+00:00",
+      "NumProgressed": 62444,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4100,9 +4105,9 @@
       "ID": "ALL_HEROES_PLAYED",
       "SetID": "4eo5ebm",
       "Name": "The Batman Family",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 624
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -4166,7 +4171,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "CLAYFACE_3",
@@ -4260,9 +4265,9 @@
       "ID": "DEFEAT_OC_2",
       "SetID": "4eo5ebm",
       "Name": "Shock Til They Drop",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 437
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -4294,7 +4299,7 @@
       "Name": "Snow Problem",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "FREEZE_3",
@@ -4422,7 +4427,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -4470,7 +4475,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "MYSTERY_05",
@@ -4541,13 +4546,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62427,
+      "Progressed": 62444,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32707,
+      "Progressed": 32724,
       "Completed": 2642
     }
   ],
@@ -4555,8 +4560,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T20:59:29.0881115+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:29.2840835+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:19:04.6922057+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:59:15.7269186+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:29.2841573+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:12:32.9381874+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:19:04.6923585+00:00"
 }

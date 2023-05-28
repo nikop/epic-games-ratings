@@ -4,8 +4,8 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -177,9 +177,9 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 55,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "RUNE_BAT",
@@ -225,9 +225,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -249,9 +249,9 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 55,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -265,9 +265,9 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "RUNE_OVERSTAMINA",
@@ -281,9 +281,9 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 55,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -306,8 +306,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:02.5583964+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:28.9575149+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.8015132+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:57:26.9771792+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:02.5584086+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:09:46.3380557+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:28.9575278+00:00"
 }

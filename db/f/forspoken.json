@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 848,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38279,
+  "EOS_Progressed": 38281,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
@@ -2687,6 +2687,11 @@
       "Time": "2023-05-28T00:05:18.5286307+00:00",
       "NumProgressed": 38279,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T02:18:50.4693075+00:00",
+      "NumProgressed": 38281,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3121,22 +3126,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38279,
+      "Progressed": 38281,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3116,
-      "Completed": 3116
+      "Progressed": 3118,
+      "Completed": 3118
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:18.5286303+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:50.469307+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4981852+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:58:12.8487917+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:18.528691+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:10:56.6220975+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:50.4693675+00:00"
 }

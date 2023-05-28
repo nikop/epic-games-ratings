@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -845,6 +845,11 @@
       "Time": "2023-05-27T23:05:35.2033586+00:00",
       "NumProgressed": 849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T02:18:55.6945812+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -856,7 +861,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -912,7 +917,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "EXPERT_1",
@@ -952,7 +957,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "INDY_1",
@@ -1143,15 +1148,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-28T00:05:22.3070621+00:00",
+  "LastChanged_Achievements": "2023-05-28T02:18:55.6945804+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-27T23:59:35.0940033+00:00",
-  "LastUpdate_Achievements": "2023-05-28T00:05:22.3070907+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:13:02.2338844+00:00",
+  "LastUpdate_Achievements": "2023-05-28T02:18:55.6946092+00:00"
 }
