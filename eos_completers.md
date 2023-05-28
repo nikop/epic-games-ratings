@@ -21,7 +21,7 @@
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 23 | [Scorn](games/s/scorn.md) | 6.95% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
