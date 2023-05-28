@@ -1,17 +1,17 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,358,082 | 4.30 | 760 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,358,633 | 4.30 | 760 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 422,260 | 4.51 | 525 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,802 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,057 | 4.19 | 825 |
-| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 174,668 | 4.68 | 236 |
+| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 175,175 | 4.68 | 236 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 143,509 | 4.89 | 13 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 139,484 | 4.53 | 494 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 110,003 | 4.69 | 214 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 65,404 | 4.62 | 343 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,136 | 4.59 | 406 |
 | 11 | [VALORANT](games/v/valorant.md) | 54,137 | 4.54 | 484 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 35,326 | 4.60 | 388 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 35,592 | 4.60 | 388 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,282 | 4.50 | 540 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 31,960 | 4.74 | 141 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,495 | 4.65 | 290 |
@@ -50,7 +50,7 @@
 | 48 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 652 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,582 | 4.74 | 141 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,342 | 4.71 | 179 |
-| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,282 | 4.80 | 78 |
+| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,285 | 4.80 | 78 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,115 | 4.58 | 420 |
 | 53 | [Sifu](games/s/sifu.md) | 6,102 | 4.82 | 63 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,930 | 4.64 | 317 |
@@ -93,7 +93,7 @@
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,499 | 4.61 | 360 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,452 | 4.28 | 773 |
 | 93 | [Among Us](games/a/among_us.md) | 2,430 | 4.58 | 420 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,369 | 4.50 | 540 |
+| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,372 | 4.50 | 540 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,367 | 4.80 | 78 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,319 | 4.10 | 862 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,286 | 4.78 | 99 |
@@ -133,7 +133,7 @@
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,084 | 4.54 | 484 |
 | 132 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,061 | 4.61 | 360 |
 | 133 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,043 | 4.66 | 272 |
-| 134 | [Saints Row](games/s/saints_row.md) | 1,030 | 3.78 | 920 |
+| 134 | [Saints Row](games/s/saints_row.md) | 1,030 | 3.78 | 919 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,028 | 4.78 | 99 |
 | 136 | [EVE Online](games/e/eve_online.md) | 1,023 | 4.25 | 786 |
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,008 | 4.23 | 803 |
@@ -174,9 +174,9 @@
 | 172 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 236 |
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 558 | 4.74 | 141 |
 | 174 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 556 | 4.72 | 165 |
-| 175 | [Filament](games/f/filament.md) | 552 | 4.32 | 748 |
-| 176 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 551 | 4.66 | 272 |
-| 177 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 549 | 4.39 | 689 |
+| 175 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 553 | 4.39 | 689 |
+| 176 | [Filament](games/f/filament.md) | 552 | 4.32 | 748 |
+| 177 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 551 | 4.66 | 272 |
 | 178 | [Vampyr](games/v/vampyr.md) | 548 | 4.32 | 748 |
 | 179 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 538 | 4.62 | 343 |
 | 179 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 538 | 4.42 | 652 |
@@ -309,7 +309,7 @@
 | 307 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 117 | 4.79 | 90 |
 | 307 | [Sonic Origins](games/s/sonic_origins.md) | 117 | 4.58 | 420 |
 | 307 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 117 | 4.86 | 30 |
-| 310 | [BIOMUTANT](games/b/biomutant.md) | 115 | 4.33 | 742 |
+| 310 | [BIOMUTANT](games/b/biomutant.md) | 116 | 4.33 | 742 |
 | 311 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 317 |
 | 311 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 606 |
 | 313 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 113 | 4.71 | 179 |
@@ -381,7 +381,7 @@
 | 378 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 60 | 4.63 | 330 |
 | 380 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 632 |
 | 381 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.60 | 388 |
-| 382 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 56 | 3.77 | 922 |
+| 382 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 56 | 3.77 | 921 |
 | 383 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 862 |
 | 384 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.83 | 56 |
 | 384 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 51 | 4.34 | 730 |
