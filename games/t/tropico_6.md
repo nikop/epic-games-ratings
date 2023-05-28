@@ -1,24 +1,24 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 259)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,453 |
-| Un-Lonely Island | 49.00% | ~1,561 |
-| The Beginning of a Servantship | 46.00% | ~1,466 |
-| Trade Is My Trait | 38.00% | ~1,211 |
-| Number 18 | 25.00% | ~796 |
-| We Don't Have Time For That | 20.00% | ~637 |
-| The Governator | 19.00% | ~605 |
+| Just One...More...Term... | 76.00% | ~2,424 |
+| Un-Lonely Island | 49.00% | ~1,563 |
+| The Beginning of a Servantship | 46.00% | ~1,467 |
+| Trade Is My Trait | 38.00% | ~1,212 |
+| Number 18 | 25.00% | ~798 |
+| We Don't Have Time For That | 20.00% | ~638 |
+| The Governator | 18.00% | ~574 |
 | Caribbean Comrade | 17.00% | ~542 |
 | The Legend of Langostino | 17.00% | ~542 |
 | The Dreamer of Dreams | 16.00% | ~510 |
-| Go Sovereigns! | 12.00% | ~382 |
-| For Science! | 12.00% | ~382 |
-| Happy Ending? | 11.00% | ~350 |
+| Go Sovereigns! | 12.00% | ~383 |
+| For Science! | 12.00% | ~383 |
+| Happy Ending? | 11.00% | ~351 |
 | Of Seals And Men | 10.00% | ~319 |
 | Shackadelic | 10.00% | ~319 |
 | Double Trouble | 9.00% | ~287 |
@@ -31,8 +31,8 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~191 |
 | Watch The World Burn | 6.00% | ~191 |
 | Fairy Tale Come True | 6.00% | ~191 |
-| Viva Tropico! | 5.00% | ~159 |
-| Apocalypso | 4.00% | ~127 |
+| Viva Tropico! | 5.00% | ~160 |
+| Apocalypso | 4.00% | ~128 |
 | Been there, Done That | 3.00% | ~96 |
 | Narcissist | 3.00% | ~96 |
 | Promising Endeavors | 3.00% | ~96 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~32 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,186 (Ranked 134)  
+Progressed: 3,190 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.03%) (Ranked 184)
 | 2023-05-25 | 3,092 | 1 |
 | 2023-05-26 | 3,108 | 1 |
 | 2023-05-27 | 3,148 | 1 |
-| 2023-05-28 | 3,186 | 1 |
+| 2023-05-28 | 3,190 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 315)  
 Sum: 752 (Ranked 255)  

@@ -6,46 +6,46 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,117 |
-| That's a Grand Army | 8.00% | ~3,660 |
-| That is mine! | 8.00% | ~3,660 |
-| Victorious! | 8.00% | ~3,660 |
-| Brothers in Arms | 6.00% | ~2,745 |
-| That's a Grand Navy | 6.00% | ~2,745 |
-| Seriously?! | 6.00% | ~2,745 |
-| For the Glory | 5.00% | ~2,287 |
-| Cold War | 4.00% | ~1,830 |
-| True Catholic | 4.00% | ~1,830 |
-| Defender of the Faith | 3.00% | ~1,372 |
-| It's all about the money | 3.00% | ~1,372 |
-| Respected | 3.00% | ~1,372 |
-| Truly Divine Ruler | 3.00% | ~1,372 |
-| Agressive Expander | 2.00% | ~915 |
-| Blockader | 2.00% | ~915 |
-| Combined Arms | 2.00% | ~915 |
-| Double the Love | 2.00% | ~915 |
-| Gentle Persuasion | 2.00% | ~915 |
-| It's all about luck | 2.00% | ~915 |
-| Queen of Conquest | 2.00% | ~915 |
-| Royal Authority | 2.00% | ~915 |
-| The Princess is in this Castle | 2.00% | ~915 |
-| Total Control | 2.00% | ~915 |
-| All That's Thine Shall Be Mine | 1.00% | ~457 |
-| Azur semé de lis or | 1.00% | ~457 |
-| Bright Spark | 1.00% | ~457 |
-| City of Cities | 1.00% | ~457 |
-| Factionalism | 1.00% | ~457 |
-| A Golden Empire | 1.00% | ~457 |
-| My armies are invincible! | 1.00% | ~457 |
+| Until death do us apart | 9.00% | ~4,122 |
+| That's a Grand Army | 8.00% | ~3,664 |
+| That is mine! | 8.00% | ~3,664 |
+| Victorious! | 8.00% | ~3,664 |
+| Brothers in Arms | 6.00% | ~2,748 |
+| That's a Grand Navy | 6.00% | ~2,748 |
+| Seriously?! | 6.00% | ~2,748 |
+| For the Glory | 5.00% | ~2,290 |
+| Cold War | 4.00% | ~1,832 |
+| True Catholic | 4.00% | ~1,832 |
+| Defender of the Faith | 3.00% | ~1,374 |
+| It's all about the money | 3.00% | ~1,374 |
+| Respected | 3.00% | ~1,374 |
+| Truly Divine Ruler | 3.00% | ~1,374 |
+| Agressive Expander | 2.00% | ~916 |
+| Blockader | 2.00% | ~916 |
+| Combined Arms | 2.00% | ~916 |
+| Double the Love | 2.00% | ~916 |
+| Gentle Persuasion | 2.00% | ~916 |
+| It's all about luck | 2.00% | ~916 |
+| Queen of Conquest | 2.00% | ~916 |
+| Royal Authority | 2.00% | ~916 |
+| The Princess is in this Castle | 2.00% | ~916 |
+| Total Control | 2.00% | ~916 |
+| All That's Thine Shall Be Mine | 1.00% | ~458 |
+| Azur semé de lis or | 1.00% | ~458 |
+| Bright Spark | 1.00% | ~458 |
+| City of Cities | 1.00% | ~458 |
+| Factionalism | 1.00% | ~458 |
+| A Golden Empire | 1.00% | ~458 |
+| My armies are invincible! | 1.00% | ~458 |
 | The Five Colonies | 0.90% | ~412 |
 | This navy can take it all | 0.90% | ~412 |
 | The Emperors new clothes | 0.80% | ~366 |
 | Isn't this the way to India? | 0.80% | ~366 |
 | Market Control | 0.80% | ~366 |
-| Down Under | 0.70% | ~320 |
-| Trustworthy | 0.70% | ~320 |
-| Electable! | 0.60% | ~274 |
-| Time Bandit | 0.60% | ~274 |
+| Down Under | 0.70% | ~321 |
+| Trustworthy | 0.70% | ~321 |
+| Electable! | 0.60% | ~275 |
+| Time Bandit | 0.60% | ~275 |
 | All belongs to Mother Russia | 0.50% | ~229 |
 | At every continent | 0.50% | ~229 |
 | Early-Modern Warfare | 0.50% | ~229 |
@@ -80,16 +80,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.30% | ~137 |
 | Vasa or Wettin? | 0.30% | ~137 |
 | Wonderful | 0.30% | ~137 |
-| A Decent Reserve | 0.20% | ~91 |
-| A Protected Market | 0.20% | ~91 |
-| AAA Credit | 0.20% | ~91 |
-| Fine Financials | 0.20% | ~91 |
-| A Fine Goosestep | 0.20% | ~91 |
-| Imperio español | 0.20% | ~91 |
-| Industrial Powerhouse | 0.20% | ~91 |
-| Magellan’s Voyage | 0.20% | ~91 |
-| We bled for this | 0.20% | ~91 |
-| World Discoverer | 0.20% | ~91 |
+| A Decent Reserve | 0.20% | ~92 |
+| A Protected Market | 0.20% | ~92 |
+| AAA Credit | 0.20% | ~92 |
+| Fine Financials | 0.20% | ~92 |
+| A Fine Goosestep | 0.20% | ~92 |
+| Imperio español | 0.20% | ~92 |
+| Industrial Powerhouse | 0.20% | ~92 |
+| Magellan’s Voyage | 0.20% | ~92 |
+| We bled for this | 0.20% | ~92 |
+| World Discoverer | 0.20% | ~92 |
 | The 52 Garhs | 0.10% | ~46 |
 | I don't like sand | 0.10% | ~46 |
 | A Blessed Nation | 0.10% | ~46 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,747 (Ranked 78)  
+Progressed: 45,800 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
-| 2023-05-28 | 45,747 | 0 |
+| 2023-05-28 | 45,800 | 0 |
 ## Awards
 Max (Educational): 5,302  (Ranked 60)  
 Sum: 43,879 (Ranked 27)  

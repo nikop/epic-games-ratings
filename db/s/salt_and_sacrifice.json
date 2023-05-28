@@ -1362,7 +1362,7 @@
   ],
   "EOS_Progressed": 64301,
   "EOS_Completed": 1159,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -3928,9 +3928,9 @@
       "ID": "luminimancer",
       "SetID": "2jelldm",
       "Name": "The Luminimancer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16075
+      "UsersEstimate": 16718
     },
     {
       "ID": "mechanomancer",
@@ -4096,8 +4096,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-05-28T10:58:11.7575672+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:03:23.9367205+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:03:42.3579633+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:58.3089816+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:57:55.0794178+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:03:23.9367804+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:58:20.8336745+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:03:42.3580098+00:00"
 }

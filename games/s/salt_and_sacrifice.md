@@ -45,8 +45,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | Chaos Hunger | 27.00% | ~17,361 |
 | The Kinetomancer | 27.00% | ~17,361 |
 | The Sanguimancer | 27.00% | ~17,361 |
+| The Luminimancer | 26.00% | ~16,718 |
 | The Bibliomancer | 25.00% | ~16,075 |
-| The Luminimancer | 25.00% | ~16,075 |
 | The Skylord | 25.00% | ~16,075 |
 | The Firelord | 24.00% | ~15,432 |
 | Want Not | 21.00% | ~13,503 |

@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 84.00% | ~108 |
-| Caretaker | 81.00% | ~104 |
+| Too Cool For School | 85.00% | ~109 |
+| Caretaker | 83.00% | ~106 |
 | Feng Shui | 70.00% | ~90 |
-| Who's A Good Boy | 67.00% | ~86 |
-| Power Up | 66.00% | ~84 |
-| Thick Skin | 64.00% | ~82 |
-| Math Wizard | 60.00% | ~77 |
+| Who's A Good Boy | 68.00% | ~87 |
+| Power Up | 67.00% | ~86 |
+| Thick Skin | 65.00% | ~83 |
+| Math Wizard | 62.00% | ~79 |
+| Destroy Erase Improve | 61.00% | ~78 |
 | Power Overload | 60.00% | ~77 |
-| Destroy Erase Improve | 59.00% | ~76 |
-| Quite A Snack | 55.00% | ~70 |
-| Overwhelming Power | 51.00% | ~65 |
-| Impenetrable Skin | 48.00% | ~61 |
+| Quite A Snack | 56.00% | ~72 |
+| Overwhelming Power | 52.00% | ~67 |
+| Impenetrable Skin | 49.00% | ~63 |
 | Chomp Chomp! | 39.00% | ~50 |
-| Glorious Battle | 37.00% | ~47 |
+| Glorious Battle | 38.00% | ~49 |
+| Supreme Power | 37.00% | ~47 |
 | Diaper Time! | 37.00% | ~47 |
-| Supreme Power | 36.00% | ~46 |
-| Target Practice | 35.00% | ~45 |
-| The Duelist | 34.00% | ~44 |
+| Target Practice | 36.00% | ~46 |
+| The Duelist | 35.00% | ~45 |
+| Mutant And Proud | 34.00% | ~44 |
 | Meat Larder | 34.00% | ~44 |
-| Mutant And Proud | 33.00% | ~42 |
-| The Emperor's New Clothes | 27.00% | ~35 |
+| The Emperor's New Clothes | 28.00% | ~36 |
+| Happy Little Home | 28.00% | ~36 |
 | Godlike Power | 27.00% | ~35 |
-| Happy Little Home | 27.00% | ~35 |
 | Final Evolution | 27.00% | ~35 |
+| You Shall Not Pass | 25.00% | ~32 |
+| Fight Me! | 25.00% | ~32 |
 | Supremacy | 25.00% | ~32 |
-| You Shall Not Pass | 24.00% | ~31 |
-| Fight Me! | 24.00% | ~31 |
-| Mommy's Very Angry | 23.00% | ~29 |
-| Animal Lover | 23.00% | ~29 |
-| Undying Skin | 23.00% | ~29 |
+| Mommy's Very Angry | 24.00% | ~31 |
+| Animal Lover | 24.00% | ~31 |
+| Undying Skin | 24.00% | ~31 |
 | Immortal Skin | 20.00% | ~26 |
 | Loyal Companion | 20.00% | ~26 |
 | Back To The Future | 19.00% | ~24 |
-| Fire Beacon | 18.00% | ~23 |
+| Fire Beacon | 19.00% | ~24 |
 | Lunch Before The Lunch | 17.00% | ~22 |
 | Building Blocks | 16.00% | ~20 |
 | From Here To Eternity | 14.00% | ~18 |
+| Octopostructure | 13.00% | ~17 |
 | Boss Hunter | 13.00% | ~17 |
-| Octopostructure | 12.00% | ~15 |
 | Hawkman | 9.00% | ~12 |
 | Annihilate | 8.00% | ~10 |
 | Fashion Victim | 6.00% | ~8 |

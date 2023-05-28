@@ -15,9 +15,9 @@
 | Lock, Stock, And Barrel | 42.00% | ~120 |
 | Gaze Into The Abyss | 42.00% | ~120 |
 | Open Sesame | 42.00% | ~120 |
-| Sticky Fingers | 41.00% | ~117 |
+| Sticky Fingers | 42.00% | ~120 |
+| Back In The Saddle | 41.00% | ~117 |
 | Knives Out | 41.00% | ~117 |
-| Back In The Saddle | 40.00% | ~114 |
 | Land, Ho! | 40.00% | ~114 |
 | No Man Is An Island | 38.00% | ~109 |
 | At Wits' End | 37.00% | ~106 |
@@ -25,7 +25,7 @@
 | Bookworm | 34.00% | ~97 |
 | Fhtagn! | 34.00% | ~97 |
 | Up In Flames | 33.00% | ~94 |
-| Let Me Be Frank | 31.00% | ~89 |
+| Let Me Be Frank | 32.00% | ~92 |
 | Brain Food | 30.00% | ~86 |
 | No Stone Unturned | 28.00% | ~80 |
 | Curiosity Killed The Cat | 19.00% | ~54 |

@@ -2,10 +2,10 @@
   "ID": "4925c1cd4af148e39600e73590375c16",
   "Name": "Busway Islands - Puzzle",
   "ProductSlug": "busway-islands-puzzle-91287d",
-  "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Completed": 3,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-04-29T13:00:00+00:00",
     "PcReleaseDate": "2023-04-29T13:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 35,
-  "EOS_Completed": 7,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 20,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 25.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:09.4647401+00:00",
@@ -228,6 +228,11 @@
       "Time": "2023-05-27T16:06:16.8444022+00:00",
       "NumProgressed": 35,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-28T19:06:02.0334823+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 35,
@@ -437,33 +442,33 @@
       "ID": "level_32",
       "SetID": "dlpjnee",
       "Name": "Island 32",
-      "Percentage": 20,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "level_33",
       "SetID": "dlpjnee",
       "Name": "Island 33",
-      "Percentage": 20,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "level_34",
       "SetID": "dlpjnee",
       "Name": "Island 34",
-      "Percentage": 20,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "level_35",
       "SetID": "dlpjnee",
       "Name": "Island 35",
-      "Percentage": 20,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "level_4",
@@ -519,15 +524,15 @@
       "ID": "dlpjnee",
       "IsBase": true,
       "Progressed": 35,
-      "Completed": 7
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-04-30T05:57:09.5836606+00:00",
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:05:11.1580874+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:06:02.0334819+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.818593+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:57:22.2390109+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:05:11.1581142+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:57:36.3051165+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:06:02.0335037+00:00"
 }

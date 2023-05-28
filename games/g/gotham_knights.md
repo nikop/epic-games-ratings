@@ -19,10 +19,10 @@ Rating: 4.17 (Ranked 839)
 | Snow Problem | 0.90% | ~563 |
 | Unstoppable Force | 0.90% | ~563 |
 | Lock and Key | 0.90% | ~563 |
-| Protector of Gotham | 0.80% | ~500 |
-| The Show Mud Go On | 0.80% | ~500 |
-| Bad Apples in Every Orchard | 0.80% | ~500 |
-| From Inside Gotham's Walls | 0.80% | ~500 |
+| Bad Apples in Every Orchard | 0.90% | ~563 |
+| Protector of Gotham | 0.80% | ~501 |
+| The Show Mud Go On | 0.80% | ~501 |
+| From Inside Gotham's Walls | 0.80% | ~501 |
 | Rock and a Hard Place | 0.70% | ~438 |
 | Not On My Watch | 0.70% | ~438 |
 | Shock Til They Drop | 0.70% | ~438 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,559 (Ranked 70)  
+Progressed: 62,568 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,559 | 91 |
+| 2023-05-28 | 62,568 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,727 (Ranked 137)  

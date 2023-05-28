@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3988,10 +3988,10 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89014,
+  "EOS_Progressed": 89022,
   "EOS_Completed": 1892,
-  "EOS_NewPlayers": 792,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 795,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -7758,6 +7758,11 @@
       "Time": "2023-05-28T18:05:43.3687611+00:00",
       "NumProgressed": 89014,
       "NumCompleted": 1892
+    },
+    {
+      "Time": "2023-05-28T19:06:41.424788+00:00",
+      "NumProgressed": 89022,
+      "NumCompleted": 1892
     }
   ],
   "TotalAchievements": 493,
@@ -9095,9 +9100,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "objective_completed_20",
@@ -9455,9 +9460,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "objective_completed_36",
@@ -11712,21 +11717,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55288,
-      "Completed": 2731
+      "Progressed": 55296,
+      "Completed": 2732
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89014,
+      "Progressed": 89022,
       "Completed": 1892
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-28T11:58:15.81718+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:05:43.3687607+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:06:41.4247876+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:57:46.0920948+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:05:43.3710936+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:58:06.7819049+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:06:41.4270308+00:00"
 }

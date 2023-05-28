@@ -35,16 +35,16 @@
 | Pasta Bolognese | 35.00% | ~23 |
 | You can't stop me, bro! | 34.00% | ~22 |
 | Haemochromatosis | 34.00% | ~22 |
-| Catch the bus with me! | 31.00% | ~20 |
-| Meatballs, coming up! | 29.00% | ~19 |
-| I'm going to get a concussion | 28.00% | ~18 |
-| Another one bites the iron | 26.00% | ~17 |
+| Catch the bus with me! | 32.00% | ~21 |
+| Meatballs, coming up! | 31.00% | ~20 |
+| I'm going to get a concussion | 29.00% | ~19 |
+| Another one bites the iron | 28.00% | ~18 |
 | A Megapint...? | 23.00% | ~15 |
 | Ripe Meat Off The Bone! | 23.00% | ~15 |
 | Hovering around | 23.00% | ~15 |
-| Your daily dose of Vitamin C. | 18.00% | ~12 |
-| Kleptomaniac | 18.00% | ~12 |
-| You're not so Big anymore, Boi! | 17.00% | ~11 |
+| Your daily dose of Vitamin C. | 20.00% | ~13 |
+| Kleptomaniac | 20.00% | ~13 |
+| You're not so Big anymore, Boi! | 18.00% | ~12 |
 | Just wing it! | 17.00% | ~11 |
 | I cant stand still! | 15.00% | ~10 |
 | Deal with it | 14.00% | ~9 |
@@ -54,7 +54,7 @@
 | Yeehaw!!! | 11.00% | ~7 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |
 | Spoiler alert! | 9.00% | ~6 |
-| You're looking mozzare-hella good! | 6.00% | ~4 |
+| You're looking mozzare-hella good! | 8.00% | ~5 |
 | Scrambled Eggs | 6.00% | ~4 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |

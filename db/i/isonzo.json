@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -580,7 +580,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5922,
+  "EOS_Progressed": 5923,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -1695,6 +1695,11 @@
       "Time": "2023-05-28T16:00:50.7361493+00:00",
       "NumProgressed": 5922,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-28T19:01:44.3856021+00:00",
+      "NumProgressed": 5923,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1722,7 +1727,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1762,7 +1767,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -1770,7 +1775,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -1778,7 +1783,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -1794,7 +1799,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -1978,7 +1983,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -2058,14 +2063,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5922,
+      "Progressed": 5923,
       "Completed": 8
     }
   ],
@@ -2073,8 +2078,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:00:23.1805853+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:01:44.3856015+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:57:08.049627+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:00:23.1806313+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:57:18.2759389+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:01:44.3856353+00:00"
 }

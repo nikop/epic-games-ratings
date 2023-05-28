@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -932,9 +932,9 @@
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 587
     },
     {
       "ID": "CompleteGuardFaction",
@@ -948,9 +948,9 @@
       "ID": "CompleteHunterFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Ranger Faction",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 301
     },
     {
       "ID": "CompleteStoryDM",
@@ -1115,8 +1115,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:02:39.6612508+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:03:10.6026521+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:58:02.8468433+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:02:39.6612755+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:58:31.5144965+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:03:10.6026733+00:00"
 }

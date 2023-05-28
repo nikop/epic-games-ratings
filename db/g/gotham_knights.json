@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62559,
+  "EOS_Progressed": 62568,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1009,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4134,6 +4134,11 @@
       "Time": "2023-05-28T18:05:38.3413518+00:00",
       "NumProgressed": 62559,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T19:06:35.4276869+00:00",
+      "NumProgressed": 62568,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4241,7 +4246,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "CLAYFACE_1",
@@ -4257,7 +4262,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "CLAYFACE_3",
@@ -4559,9 +4564,9 @@
       "ID": "MYSTERY_04",
       "SetID": "4eo5ebm",
       "Name": "Bad Apples in Every Orchard",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 563
     },
     {
       "ID": "MYSTERY_05",
@@ -4569,7 +4574,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MYSTERY_06",
@@ -4632,13 +4637,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62559,
+      "Progressed": 62568,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32839,
+      "Progressed": 32848,
       "Completed": 2643
     }
   ],
@@ -4646,8 +4651,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:05:38.3413514+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:06:35.4276865+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:59:17.742914+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:05:38.3414341+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:00:13.4697777+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:06:35.4277465+00:00"
 }

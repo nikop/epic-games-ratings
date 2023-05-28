@@ -35,13 +35,13 @@
 | Island 29 | 29.00% | ~10 |
 | Island 30 | 29.00% | ~10 |
 | Island 31 | 29.00% | ~10 |
-| Island 32 | 20.00% | ~7 |
-| Island 33 | 20.00% | ~7 |
-| Island 34 | 20.00% | ~7 |
-| Island 35 | 20.00% | ~7 |
+| Island 32 | 26.00% | ~9 |
+| Island 33 | 26.00% | ~9 |
+| Island 34 | 26.00% | ~9 |
+| Island 35 | 26.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 307)  
-Completed: 7 (20.00%) (Ranked 7)  
+Progressed: 35 (Ranked 308)  
+Completed: 9 (25.71%) (Ranked 3)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 7 (20.00%) (Ranked 7)
 | 2023-05-19 | 33 | 7 |
 | 2023-05-25 | 34 | 7 |
 | 2023-05-27 | 35 | 7 |
+| 2023-05-28 | 35 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

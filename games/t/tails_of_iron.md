@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.51 (Ranked 524)  
+Rating: 4.51 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.51 (Ranked 524)
 | Collect Gold | 43.00% | ~647 |
 | Smithy Ready to Craft | 43.00% | ~647 |
 | Fix the Travellers Wagon | 41.00% | ~617 |
-| Complete Elder Faction | 38.00% | ~572 |
+| Complete Elder Faction | 39.00% | ~587 |
 | Throne Room Fit For A King | 36.00% | ~541 |
 | End of the Mozis | 35.00% | ~526 |
 | Return Power To The Depths | 34.00% | ~511 |
@@ -28,7 +28,7 @@ Rating: 4.51 (Ranked 524)
 | Return the Statues | 24.00% | ~361 |
 | Defeat Rattus Augustail | 24.00% | ~361 |
 | Complete the Chefs Book | 22.00% | ~331 |
-| Complete Ranger Faction | 19.00% | ~286 |
+| Complete Ranger Faction | 20.00% | ~301 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~286 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~271 |
 | Complete Arena Faction | 14.00% | ~211 |

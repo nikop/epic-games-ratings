@@ -23,6 +23,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 0.30% | ~166 |
 | A Persistent Buzzing | 0.30% | ~267 |
 | Terror in the Dark | 0.30% | ~267 |
+| Unearthed Evil | 0.30% | ~267 |
+| The Crumbling Temple | 0.30% | ~267 |
 | Seeking Allies | 0.30% | ~267 |
 | Mad Cow Disease | 0.30% | ~267 |
 | Friendly Imps | 0.30% | ~267 |
@@ -45,13 +47,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~178 |
 | Building Trust | 0.20% | ~178 |
 | March of the Undead | 0.20% | ~178 |
-| Unearthed Evil | 0.20% | ~178 |
 | No Time To Rest | 0.20% | ~178 |
 | Invisible Shadows | 0.20% | ~178 |
 | The Dinner Party | 0.20% | ~178 |
 | The Botched Kidnapping | 0.20% | ~178 |
 | Trollskull Manor | 0.20% | ~178 |
-| The Crumbling Temple | 0.20% | ~178 |
 | The Death Curse | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
 | Premature Betrayal | 0.20% | ~178 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,014 (Ranked 61)  
+Progressed: 89,022 (Ranked 61)  
 Completed: 1,892 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 1,892 (2.13%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 89,014 | 1,892 |
+| 2023-05-28 | 89,022 | 1,892 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,993 (Ranked 37)  

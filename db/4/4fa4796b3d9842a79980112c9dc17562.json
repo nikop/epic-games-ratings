@@ -4,8 +4,8 @@
   "ProductSlug": "nick-quest-a3cdb8",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-07-15T19:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-24T15:01:37.8506848+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:02:13.7508472+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:01:56.771645+00:00",
   "LastUpdate_AppInfo": "2023-05-24T14:57:08.3909009+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:56:49.5110472+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:02:13.7508501+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:56:52.3686364+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:01:56.7716478+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~193 |
-| A tiny town | 86.00% | ~169 |
-| Buildings, roads, cars, ...and people | 65.00% | ~128 |
-| Great view from the beach and from the hill | 56.00% | ~110 |
-| Bridges to come and go | 50.00% | ~98 |
-| Found an oasis | 41.00% | ~81 |
+| Welcome! | 98.00% | ~194 |
+| A tiny town | 85.00% | ~168 |
+| Buildings, roads, cars, ...and people | 66.00% | ~131 |
+| Great view from the beach and from the hill | 56.00% | ~111 |
+| Bridges to come and go | 50.00% | ~99 |
+| Found an oasis | 40.00% | ~79 |
 | Burger or pizza? | 34.00% | ~67 |
 | Passion for sports | 30.00% | ~59 |
-| Who loves trains? | 25.00% | ~49 |
-| Easy and steady climb | 24.00% | ~47 |
-| At the heart of the city | 22.00% | ~43 |
-| Calm neighborhood | 21.00% | ~41 |
-| Elevated ring | 21.00% | ~41 |
-| Not lonely anymore | 19.00% | ~37 |
-| Monumental tribute | 18.00% | ~35 |
-| The beach is right there | 17.00% | ~33 |
-| Commuting | 17.00% | ~33 |
+| Who loves trains? | 25.00% | ~50 |
+| Easy and steady climb | 24.00% | ~48 |
+| At the heart of the city | 22.00% | ~44 |
+| Calm neighborhood | 21.00% | ~42 |
+| Elevated ring | 21.00% | ~42 |
+| Not lonely anymore | 19.00% | ~38 |
+| Monumental tribute | 18.00% | ~36 |
+| The beach is right there | 17.00% | ~34 |
+| Commuting | 17.00% | ~34 |
 | Le jardin magnifique | 16.00% | ~32 |
 | Aiming for a living and human city | 15.00% | ~30 |
 | City of dreams | 15.00% | ~30 |
 | Happy Christmas night! | 15.00% | ~30 |
 | Night walk along the beach | 15.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 238)  
-Completed: 30 (15.23%) (Ranked 9)  
+Progressed: 198 (Ranked 238)  
+Completed: 30 (15.15%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,7 +63,7 @@ Completed: 30 (15.23%) (Ranked 9)
 | 2023-05-25 | 164 | 27 |
 | 2023-05-26 | 172 | 27 |
 | 2023-05-27 | 186 | 30 |
-| 2023-05-28 | 197 | 30 |
+| 2023-05-28 | 198 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6130,
+  "EOS_Progressed": 6133,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2453,6 +2453,11 @@
       "Time": "2023-05-28T18:05:07.1747336+00:00",
       "NumProgressed": 6130,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-28T19:05:57.1974562+00:00",
+      "NumProgressed": 6133,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2536,7 +2541,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -2560,7 +2565,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "IN_A_PINCH",
@@ -2568,7 +2573,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "LIBERATOR",
@@ -2592,7 +2597,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "SNIP_SNIP",
@@ -2631,7 +2636,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6130,
+      "Progressed": 6133,
       "Completed": 23
     }
   ],
@@ -2639,8 +2644,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:05:07.1747328+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:05:57.1974556+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:57:40.8634354+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:05:07.1747614+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:57:59.2723785+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:05:57.1974791+00:00"
 }

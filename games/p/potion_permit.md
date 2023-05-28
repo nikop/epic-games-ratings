@@ -5,23 +5,23 @@ Rating: 3.79 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,283 |
-| The First Step | 88.00% | ~1,152 |
-| Moonbury Traveller | 62.00% | ~812 |
-| Rookie Chemist | 61.00% | ~798 |
-| Great Doctor | 49.00% | ~641 |
-| Dog Whisperer | 47.00% | ~615 |
-| Friendly | 45.00% | ~589 |
+| Welcome to Moonbury | 98.00% | ~1,284 |
+| The First Step | 88.00% | ~1,153 |
+| Moonbury Traveller | 63.00% | ~825 |
+| Rookie Chemist | 61.00% | ~799 |
+| Great Doctor | 49.00% | ~642 |
+| Dog Whisperer | 47.00% | ~616 |
+| Friendly | 45.00% | ~590 |
 | The Capitalist | 42.00% | ~550 |
 | K.O.! | 41.00% | ~537 |
-| Intermediate Chemist | 37.00% | ~484 |
+| Intermediate Chemist | 37.00% | ~485 |
 | Decorative Mind | 31.00% | ~406 |
 | Lumber Specialist | 29.00% | ~380 |
 | Catch of the Day | 23.00% | ~301 |
 | Kind-hearted | 22.00% | ~288 |
 | Amateur Chef | 20.00% | ~262 |
 | Fishing Guru | 17.00% | ~223 |
-| Community Helper | 16.00% | ~209 |
+| Community Helper | 16.00% | ~210 |
 | Spark of Love | 14.00% | ~183 |
 | Stone Specialist | 13.00% | ~170 |
 | Expert Chemist | 12.00% | ~157 |
@@ -33,7 +33,7 @@ Rating: 3.79 (Ranked 917)
 | Acrobatic Adventurer | 8.00% | ~105 |
 | Animal Exterminator | 7.00% | ~92 |
 | Adolescent Love | 6.00% | ~79 |
-| Mail Carrier | 5.00% | ~65 |
+| Mail Carrier | 5.00% | ~66 |
 | Plantation Exterminator | 4.00% | ~52 |
 | Grape Supplier | 4.00% | ~52 |
 | Sous Chef | 3.00% | ~39 |
@@ -44,7 +44,7 @@ Rating: 3.79 (Ranked 917)
 | Moonbury Navigator | 0.80% | ~10 |
 | Being a donut... | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,309 (Ranked 159)  
+Progressed: 1,310 (Ranked 159)  
 Completed: 5 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 5 (0.38%) (Ranked 114)
 | 2023-05-25 | 1,287 | 5 |
 | 2023-05-26 | 1,296 | 5 |
 | 2023-05-27 | 1,304 | 5 |
-| 2023-05-28 | 1,309 | 5 |
+| 2023-05-28 | 1,310 | 5 |
 ## Awards
 Max (Character Customization): 66  (Ranked 368)  
 Sum: 66 (Ranked 423)  

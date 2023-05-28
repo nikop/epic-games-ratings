@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -376,9 +376,9 @@
       "ID": "TROP007",
       "SetID": "9n0dl35",
       "Name": "Family Reunion",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "TROP008",
@@ -432,9 +432,9 @@
       "ID": "TROP014",
       "SetID": "9n0dl35",
       "Name": "Never Run Around",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "TROP015",
@@ -553,8 +553,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:02:27.3773804+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:02:24.5375811+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.6373889+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:58:32.7956311+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:02:27.3774101+00:00"
+  "LastUpdate_Ratings": "2023-05-28T18:59:10.759378+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:02:24.5375969+00:00"
 }

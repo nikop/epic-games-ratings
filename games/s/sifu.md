@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~613 |
+| Diligence as a goal | 4.00% | ~614 |
 | Project Arena | 3.00% | ~460 |
 | The Old Grandmaster | 1.00% | ~7,060 |
 | The Assault | 1.00% | ~7,060 |
@@ -26,9 +26,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 0.90% | ~6,354 |
 | Furious Fists | 0.80% | ~5,648 |
 | Stuntmaster | 0.80% | ~5,648 |
+| Old Child | 0.80% | ~5,648 |
 | Take damage to save time | 0.80% | ~5,648 |
 | Scareless | 0.70% | ~4,942 |
-| Old Child | 0.70% | ~4,942 |
 | Kung-Fu Tussle | 0.70% | ~4,942 |
 | Dance of the Praying Mantis | 0.60% | ~4,236 |
 | Qi Gong: Mind | 0.60% | ~4,236 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,036 (Ranked 15)  
+Progressed: 706,044 (Ranked 15)  
 Completed: 12,741 (1.80%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,14 +95,14 @@ Completed: 12,741 (1.80%) (Ranked 64)
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
-| 2023-05-28 | 706,036 | 12,741 |
+| 2023-05-28 | 706,044 | 12,741 |
 ## Awards
-Max (Great Boss Battles): 6,102  (Ranked 53)  
-Sum: 10,399 (Ranked 77)  
+Max (Great Boss Battles): 6,108  (Ranked 53)  
+Sum: 10,405 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,102 |
+| This game has Great Boss Battles | 6,108 |
 | This game has Diverse Characters | 518 |
 | This game has Challenging Combat | 514 |
 | This game has Quickly Understood Controls | 505 |
@@ -248,3 +248,4 @@ Diff (max vs sum): -24
 | 2023-05-25 | 4.82 | - | 6,091 | 10,376 |
 | 2023-05-26 | 4.82 | - | 6,094 | 10,384 |
 | 2023-05-27 | 4.82 | - | 6,102 | 10,399 |
+| 2023-05-28 | 4.82 | - | 6,108 | 10,405 |

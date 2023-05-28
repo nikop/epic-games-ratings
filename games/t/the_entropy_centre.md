@@ -7,14 +7,14 @@
 | It's Rewind Time | 89.00% | ~106 |
 | Wake Up | 81.00% | ~96 |
 | Time Gates | 61.00% | ~73 |
-| Command Centre | 47.00% | ~56 |
+| Command Centre | 48.00% | ~57 |
 | This is a Wall | 41.00% | ~49 |
 | Extendable Bridges | 33.00% | ~39 |
 | 48 Attempts | 32.00% | ~38 |
 | Chain Reaction | 31.00% | ~37 |
 | Man's Best Friend | 29.00% | ~35 |
 | Handyman | 22.00% | ~26 |
-| No Time To Relax | 13.00% | ~15 |
+| No Time To Relax | 14.00% | ~17 |
 | Running Boots | 12.00% | ~14 |
 | Bad Robots | 11.00% | ~13 |
 | Fashionista | 11.00% | ~13 |

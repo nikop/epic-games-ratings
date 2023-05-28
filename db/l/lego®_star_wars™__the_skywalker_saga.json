@@ -2276,9 +2276,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 47632,
+  "EOS_Progressed": 47643,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 942,
+  "EOS_NewPlayers": 947,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -5206,6 +5206,11 @@
       "Time": "2023-05-28T18:05:37.3607246+00:00",
       "NumProgressed": 47632,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-05-28T19:06:34.1772497+00:00",
+      "NumProgressed": 47643,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 45,
@@ -5241,7 +5246,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 37629
+      "UsersEstimate": 37638
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -5329,7 +5334,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 28103
+      "UsersEstimate": 28109
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -5337,7 +5342,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 21911
+      "UsersEstimate": 21916
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -5345,7 +5350,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 18576
+      "UsersEstimate": 18581
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -5353,7 +5358,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 22387
+      "UsersEstimate": 22392
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -5361,7 +5366,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 17148
+      "UsersEstimate": 17151
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -5369,7 +5374,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 14766
+      "UsersEstimate": 14769
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -5377,7 +5382,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12384
+      "UsersEstimate": 12387
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -5385,7 +5390,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10479
+      "UsersEstimate": 10481
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -5393,7 +5398,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9050
+      "UsersEstimate": 9052
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -5409,7 +5414,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 27150
+      "UsersEstimate": 27157
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -5425,7 +5430,7 @@
       "Name": "Rishi Maze",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -5441,7 +5446,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 8574
+      "UsersEstimate": 8576
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -5457,7 +5462,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 27627
+      "UsersEstimate": 27633
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -5465,7 +5470,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8574
+      "UsersEstimate": 8576
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -5473,7 +5478,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -5481,7 +5486,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 46203
+      "UsersEstimate": 46214
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -5521,7 +5526,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 33819
+      "UsersEstimate": 33827
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -5537,7 +5542,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 17624
+      "UsersEstimate": 17628
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -5553,7 +5558,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 25245
+      "UsersEstimate": 25251
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -5569,22 +5574,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 34295
+      "UsersEstimate": 34303
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 47632,
+      "Progressed": 47643,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-28T14:02:14.8240582+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:05:37.3607242+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:06:34.1772494+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.3477834+00:00",
-  "LastUpdate_Ratings": "2023-05-28T18:00:04.372534+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:05:37.3607789+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:01:17.2706238+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:06:34.1772903+00:00"
 }

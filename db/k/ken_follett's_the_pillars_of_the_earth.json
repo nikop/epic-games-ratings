@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12796,
+  "EOS_Progressed": 12797,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2889,6 +2889,11 @@
       "Time": "2023-05-28T18:05:07.5997037+00:00",
       "NumProgressed": 12796,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-28T19:05:57.6318709+00:00",
+      "NumProgressed": 12797,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 41,
@@ -2956,7 +2961,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "tpote_achievement_17",
@@ -3044,7 +3049,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "tpote_achievement_27",
@@ -3060,7 +3065,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "tpote_achievement_29",
@@ -3100,7 +3105,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "tpote_achievement_33",
@@ -3164,7 +3169,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5374
+      "UsersEstimate": 5375
     },
     {
       "ID": "tpote_achievement_40",
@@ -3227,15 +3232,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12796,
+      "Progressed": 12797,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-28T18:05:07.5997029+00:00",
+  "LastChanged_Achievements": "2023-05-28T19:05:57.6318704+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-28T17:59:28.6371826+00:00",
-  "LastUpdate_Achievements": "2023-05-28T18:05:07.5997499+00:00"
+  "LastUpdate_Ratings": "2023-05-28T19:00:30.9395653+00:00",
+  "LastUpdate_Achievements": "2023-05-28T19:05:57.6319046+00:00"
 }
