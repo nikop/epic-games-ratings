@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4260,9 +4260,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705926,
+  "EOS_Progressed": 705938,
   "EOS_Completed": 12739,
-  "EOS_NewPlayers": 1721,
+  "EOS_NewPlayers": 1707,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7510,6 +7510,11 @@
       "Time": "2023-05-28T09:06:32.8181723+00:00",
       "NumProgressed": 705926,
       "NumCompleted": 12739
+    },
+    {
+      "Time": "2023-05-28T10:06:19.9741136+00:00",
+      "NumProgressed": 705938,
+      "NumCompleted": 12739
     }
   ],
   "TotalAchievements": 50,
@@ -7561,7 +7566,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5647
+      "UsersEstimate": 5648
     },
     {
       "ID": "07_Wude_H1",
@@ -7609,7 +7614,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4941
+      "UsersEstimate": 4942
     },
     {
       "ID": "13_LowAge",
@@ -7673,7 +7678,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5647
+      "UsersEstimate": 5648
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -7769,7 +7774,7 @@
       "Name": "Old Child",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4941
+      "UsersEstimate": 4942
     },
     {
       "ID": "33_BladeOneShot",
@@ -7793,7 +7798,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4941
+      "UsersEstimate": 4942
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7833,7 +7838,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5647
+      "UsersEstimate": 5648
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -7865,7 +7870,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7920,21 +7925,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15227,
+      "Progressed": 15239,
       "Completed": 10185
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705926,
+      "Progressed": 705938,
       "Completed": 12739
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T21:58:54.951643+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:06:32.8181719+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:06:19.9741133+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:59:28.3040417+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:06:32.8182364+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:59:07.1147332+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:06:19.9741726+00:00"
 }

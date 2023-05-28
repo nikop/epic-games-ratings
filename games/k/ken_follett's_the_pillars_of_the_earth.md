@@ -1,35 +1,35 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 507)  
+Rating: 4.52 (Ranked 506)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,365 |
+| Tattletale | 42.00% | ~5,366 |
 | Man of politics | 36.00% | ~4,599 |
-| Yet another secret | 35.00% | ~4,471 |
-| Friends of sorts | 34.00% | ~4,343 |
-| Let there be darkness | 33.00% | ~4,215 |
-| End of Book One | 31.00% | ~3,960 |
+| Yet another secret | 35.00% | ~4,472 |
+| Friends of sorts | 34.00% | ~4,344 |
+| Let there be darkness | 33.00% | ~4,216 |
+| End of Book One | 31.00% | ~3,961 |
 | Wannabe knight | 25.00% | ~3,194 |
 | Garden of Eden | 25.00% | ~3,194 |
 | Full house | 24.00% | ~3,066 |
-| Help an old friend | 22.00% | ~2,810 |
+| Help an old friend | 22.00% | ~2,811 |
 | Two of us | 20.00% | ~2,555 |
 | Negotiation skills | 19.00% | ~2,427 |
 | Workers' union | 19.00% | ~2,427 |
-| End of Book Two | 18.00% | ~2,299 |
+| End of Book Two | 18.00% | ~2,300 |
 | Everything's in order | 17.00% | ~2,172 |
 | Jack was here! | 15.00% | ~1,916 |
-| Twist of Fate | 14.00% | ~1,788 |
-| Exterminator | 14.00% | ~1,788 |
+| Twist of Fate | 14.00% | ~1,789 |
+| Exterminator | 14.00% | ~1,789 |
 | Whodunnit | 13.00% | ~1,661 |
 | Good midwife | 11.00% | ~1,405 |
 | Friar Tuck | 11.00% | ~1,405 |
 | First profit | 11.00% | ~1,405 |
-| Skilled merchant | 10.00% | ~1,277 |
-| Team player | 10.00% | ~1,277 |
+| Skilled merchant | 10.00% | ~1,278 |
+| Team player | 10.00% | ~1,278 |
 | Nothing but make-believe | 9.00% | ~1,150 |
 | Brother Marcus | 9.00% | ~1,150 |
 | The oath | 9.00% | ~1,150 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,150 |
 | A cry for help | 8.00% | ~1,022 |
 | Silentium est aureum | 7.00% | ~894 |
-| Rebel without a cause | 6.00% | ~766 |
+| Rebel without a cause | 6.00% | ~767 |
 | Staring contest champion | 5.00% | ~639 |
 | Lone wolf | 5.00% | ~639 |
 | Vox Populi | 5.00% | ~639 |
@@ -46,9 +46,9 @@ Number of Ratings: 368  (23.09.2022)
 | Countess Aliena | 4.00% | ~511 |
 | Care, like a brother cares | 3.00% | ~383 |
 | A brush with death | 3.00% | ~383 |
-| Boy of mystery | 2.00% | ~255 |
+| Boy of mystery | 2.00% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,774 (Ranked 104)  
+Progressed: 12,776 (Ranked 104)  
 Completed: 95 (0.74%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 95 (0.74%) (Ranked 98)
 | 2023-05-25 | 12,697 | 94 |
 | 2023-05-26 | 12,723 | 94 |
 | 2023-05-27 | 12,759 | 94 |
-| 2023-05-28 | 12,774 | 95 |
+| 2023-05-28 | 12,776 | 95 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  

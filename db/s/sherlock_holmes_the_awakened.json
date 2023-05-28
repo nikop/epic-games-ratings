@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -694,6 +694,11 @@
       "Time": "2023-05-28T07:03:28.2863586+00:00",
       "NumProgressed": 276,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-05-28T10:03:45.349046+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 28,
@@ -703,9 +708,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "MQ01_2",
@@ -737,7 +742,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "MQ02_4",
@@ -745,7 +750,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "MQ03_1",
@@ -753,7 +758,7 @@
       "Name": "Fond Memories",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "MQ03_2",
@@ -791,9 +796,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ04_2",
@@ -801,7 +806,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MQ04_3",
@@ -809,7 +814,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "MQ05_1",
@@ -823,9 +828,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "MQ05_3",
@@ -833,7 +838,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "MQ05_4",
@@ -841,7 +846,7 @@
       "Name": "Knives Out",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "MQ06_1",
@@ -865,7 +870,7 @@
       "Name": "Land, Ho!",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "MQ06_4",
@@ -889,7 +894,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "MQ08_1",
@@ -897,7 +902,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MQ08_2",
@@ -905,30 +910,30 @@
       "Name": "Up In Flames",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "PLTN",
       "SetID": "bbing49",
       "Name": "Reawakened",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 12
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:03:41.0839708+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:03:45.3490456+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:57:25.1417094+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:03:41.0839957+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:57:15.6199213+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:03:45.3490734+00:00"
 }

@@ -30,7 +30,7 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 19.00% | ~55 |
 | It's Just an Accident | 19.00% | ~55 |
 | Bullseye! | 18.00% | ~52 |
-| Collectibles of Chapter III | 15.00% | ~44 |
+| Collectibles of Chapter III | 16.00% | ~47 |
 | Sorrow | 15.00% | ~44 |
 | Collectibles of Chapter IV | 14.00% | ~41 |
 | Atonement | 14.00% | ~41 |

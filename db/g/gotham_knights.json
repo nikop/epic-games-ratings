@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62493,
+  "EOS_Progressed": 62497,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1009,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4089,6 +4089,11 @@
       "Time": "2023-05-28T09:06:39.869283+00:00",
       "NumProgressed": 62493,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T10:06:27.4330388+00:00",
+      "NumProgressed": 62497,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4234,9 +4239,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 187
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -4466,9 +4471,9 @@
       "ID": "HERO_PROGRESSION_4",
       "SetID": "4eo5ebm",
       "Name": "Unstoppable Force",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 562
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -4587,22 +4592,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62493,
+      "Progressed": 62497,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32773,
-      "Completed": 2642
+      "Progressed": 32777,
+      "Completed": 2643
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:06:39.8692826+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:06:27.4330384+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:00:23.7652035+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:06:39.8693625+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:59:55.9608325+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:06:27.4331164+00:00"
 }

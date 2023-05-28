@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "ACH_01",
       "SetID": "72imik0",
       "Name": "The Bracelet",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_010",
@@ -413,9 +413,9 @@
       "ID": "ACH_035",
       "SetID": "72imik0",
       "Name": "Elizabeth Padget",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_036",
@@ -477,9 +477,9 @@
       "ID": "ACH_042",
       "SetID": "72imik0",
       "Name": "Luc Piette",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_043",
@@ -566,8 +566,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:06:22.3381482+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:06:09.3956515+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:36.382287+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:58:02.3787343+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:06:22.3381935+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:57:50.6936577+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:06:09.3956907+00:00"
 }

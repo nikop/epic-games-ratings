@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 290)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,039 |
-| Greasy Palms | 39.00% | ~2,756 |
-| South American Connection | 23.00% | ~1,625 |
-| Life of the Party | 17.00% | ~1,201 |
-| Tommy Two-Wheels | 13.00% | ~919 |
-| Big Heat from Little Havana | 12.00% | ~848 |
-| Chauffeur | 12.00% | ~848 |
+| Legal Counsel | 43.00% | ~3,042 |
+| Greasy Palms | 39.00% | ~2,759 |
+| South American Connection | 23.00% | ~1,627 |
+| Life of the Party | 17.00% | ~1,203 |
+| Tommy Two-Wheels | 13.00% | ~920 |
+| Big Heat from Little Havana | 12.00% | ~849 |
+| Chauffeur | 12.00% | ~849 |
 | Salutations My Little Friend | 10.00% | ~707 |
-| Iron-y | 9.00% | ~636 |
+| Iron-y | 9.00% | ~637 |
 | Gun for Hire | 7.00% | ~495 |
 | Mischief Managed | 7.00% | ~495 |
 | Vice City Mogul | 6.00% | ~424 |
-| Catch Me if You Can | 5.00% | ~353 |
-| Bloodstained Hands | 5.00% | ~353 |
+| Catch Me if You Can | 5.00% | ~354 |
+| Bloodstained Hands | 5.00% | ~354 |
 | Not my First Time | 4.00% | ~283 |
 | Grand Theft Auto | 4.00% | ~283 |
 | High Quality H2O | 3.00% | ~212 |
@@ -34,13 +34,13 @@ Rating: 4.65 (Ranked 290)
 | One is Better Than Two | 1.00% | ~71 |
 | Chopper’d Up | 1.00% | ~71 |
 | Daredevil | 0.90% | ~64 |
-| Born in the 80’s | 0.70% | ~49 |
-| Keepie-Uppy Okie Dokie | 0.70% | ~49 |
-| I'm Famous! | 0.70% | ~49 |
+| Born in the 80’s | 0.70% | ~50 |
+| Keepie-Uppy Okie Dokie | 0.70% | ~50 |
+| I'm Famous! | 0.70% | ~50 |
 | Done it All | 0.60% | ~42 |
 | Kingpin | 0.30% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,067 (Ranked 113)  
+Progressed: 7,074 (Ranked 113)  
 Completed: 24 (0.34%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 24 (0.34%) (Ranked 119)
 | 2023-05-25 | 6,836 | 23 |
 | 2023-05-26 | 6,919 | 23 |
 | 2023-05-27 | 7,028 | 24 |
-| 2023-05-28 | 7,067 | 24 |
+| 2023-05-28 | 7,074 | 24 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 411)  
 Sum: 40 (Ranked 445)  

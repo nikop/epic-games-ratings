@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -501,9 +501,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -565,9 +565,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 107
     },
     {
       "ID": "CultivairChests1",
@@ -589,9 +589,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 125
     },
     {
       "ID": "FactorywoodChests1",
@@ -733,17 +733,17 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 210
     },
     {
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 205
     },
     {
       "ID": "ParryRepeated1",
@@ -821,9 +821,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 201
     },
     {
       "ID": "SpeedRun",
@@ -837,9 +837,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "SyronGift",
@@ -853,9 +853,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 107
     },
     {
       "ID": "TheaterChests1",
@@ -901,9 +901,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 236
     },
     {
       "ID": "Zarkon2Defeated",
@@ -924,8 +924,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:05:11.3266373+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:05:07.0638821+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:00:01.2694615+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:05:11.3266929+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:59:35.85941+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:05:07.0639332+00:00"
 }

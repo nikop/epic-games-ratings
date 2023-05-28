@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2233,9 +2233,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 353
     },
     {
       "ID": "50",
@@ -2265,9 +2265,9 @@
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 468
     },
     {
       "ID": "9",
@@ -2290,8 +2290,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:05:57.6651361+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:05:54.6196652+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:57:39.3421258+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:05:57.6651979+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:57:27.5677159+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:05:54.6197192+00:00"
 }

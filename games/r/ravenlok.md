@@ -12,16 +12,16 @@
 | A Grand Visit | 71.00% | ~627 |
 | Vibing | 61.00% | ~539 |
 | Fun Guy | 61.00% | ~539 |
-| Tragic Brave | 52.00% | ~459 |
+| Tragic Brave | 53.00% | ~468 |
 | Awakened Spirits | 49.00% | ~433 |
 | Little Shop | 48.00% | ~424 |
 | An Actor! | 44.00% | ~389 |
 | Surprise! | 43.00% | ~380 |
 | Curtain Call | 42.00% | ~371 |
+| Well Rested | 40.00% | ~353 |
 | Piece of Cake | 39.00% | ~344 |
 | Gooey Delight! | 39.00% | ~344 |
 | Glimmer of Hope | 39.00% | ~344 |
-| Well Rested | 39.00% | ~344 |
 | Teacups for Toppy | 38.00% | ~336 |
 | Nightmare Fuel | 37.00% | ~327 |
 | Take Heart | 37.00% | ~327 |

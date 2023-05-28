@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~609 |
+| Diligence as a goal | 4.00% | ~610 |
 | Project Arena | 3.00% | ~457 |
 | The Old Grandmaster | 1.00% | ~7,059 |
 | The Assault | 1.00% | ~7,059 |
@@ -24,12 +24,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.90% | ~6,353 |
 | Path of the Prospect | 0.90% | ~6,353 |
 | Rumble in the Hangar | 0.90% | ~6,353 |
-| Furious Fists | 0.80% | ~5,647 |
-| Stuntmaster | 0.80% | ~5,647 |
-| Take damage to save time | 0.80% | ~5,647 |
-| Scareless | 0.70% | ~4,941 |
-| Old Child | 0.70% | ~4,941 |
-| Kung-Fu Tussle | 0.70% | ~4,941 |
+| Furious Fists | 0.80% | ~5,648 |
+| Stuntmaster | 0.80% | ~5,648 |
+| Take damage to save time | 0.80% | ~5,648 |
+| Scareless | 0.70% | ~4,942 |
+| Old Child | 0.70% | ~4,942 |
+| Kung-Fu Tussle | 0.70% | ~4,942 |
 | Dance of the Praying Mantis | 0.60% | ~4,236 |
 | Qi Gong: Mind | 0.60% | ~4,236 |
 | Deadly Venom | 0.60% | ~91 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,926 (Ranked 15)  
+Progressed: 705,938 (Ranked 15)  
 Completed: 12,739 (1.80%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 12,739 (1.80%) (Ranked 64)
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
-| 2023-05-28 | 705,926 | 12,739 |
+| 2023-05-28 | 705,938 | 12,739 |
 ## Awards
 Max (Great Boss Battles): 6,102  (Ranked 53)  
 Sum: 10,399 (Ranked 77)  

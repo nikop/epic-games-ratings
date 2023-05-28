@@ -9,15 +9,15 @@ Rating: 3.91 (Ranked 907)
 | World Map | 80.00% | ~958 |
 | Temple of Eternals | 56.00% | ~670 |
 | Prestigious | 53.00% | ~634 |
-| Fellowship Power | 40.00% | ~479 |
+| Fellowship Power | 41.00% | ~491 |
 | Guild Power | 24.00% | ~287 |
 | Prestigious x10 | 21.00% | ~251 |
 | The game is on | 19.00% | ~227 |
 | Exotic Merchant | 17.00% | ~203 |
 | Dragon Clicker | 16.00% | ~192 |
+| Inspection | 15.00% | ~180 |
 | Miner Clicker | 15.00% | ~180 |
 | Full Party | 14.00% | ~168 |
-| Inspection | 14.00% | ~168 |
 | Hero inspection | 13.00% | ~156 |
 | Dragon Master | 12.00% | ~144 |
 | Enlightenment | 12.00% | ~144 |
@@ -58,8 +58,8 @@ Rating: 3.91 (Ranked 907)
 | What lies behind the bush | 2.00% | ~24 |
 | Active Member | 1.00% | ~12 |
 | Crystal Mining | 1.00% | ~12 |
+| Ebony Jungle Liberator | 1.00% | ~12 |
 | The Alchemist | 1.00% | ~12 |
-| Ebony Jungle Liberator | 0.90% | ~11 |
 | Training makes a Pro player | 0.70% | ~8 |
 | Transmute | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |

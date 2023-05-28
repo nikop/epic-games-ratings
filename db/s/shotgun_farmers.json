@@ -2,10 +2,10 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -376,17 +376,17 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -704,7 +704,7 @@
       "ID": "ach_kill_self_with_pumpkin",
       "SetID": "bf10c8p",
       "Name": "Oh My Gourd",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -800,7 +800,7 @@
       "ID": "ach_waves_40",
       "SetID": "bf10c8p",
       "Name": "Expert Survivor",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -919,8 +919,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:04:46.4749953+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:04:41.3948869+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:58:36.26161+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:04:46.4750752+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:58:21.3785963+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:04:41.3949742+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 825,
-  "Ranking_Popularity": 398,
+  "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
@@ -402,18 +402,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-05-28T09:57:54.7331606+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 270,
-  "NumberOfAwardsMax": 46,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 271,
+  "NumberOfAwardsMax": 47,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Extremely Fun",
@@ -452,9 +458,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13872,
+  "EOS_Progressed": 13878,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1862,6 +1868,11 @@
       "Time": "2023-05-28T09:03:48.9893969+00:00",
       "NumProgressed": 13872,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-28T10:03:53.628967+00:00",
+      "NumProgressed": 13878,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1913,7 +1924,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -1993,7 +2004,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2001,7 +2012,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "KILL_ROBOT",
@@ -2009,7 +2020,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2025,7 +2036,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -2057,7 +2068,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -2065,7 +2076,7 @@
       "Name": "The Outer Way",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2081,7 +2092,7 @@
       "Name": "Without A Paddle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "STORY_HANGAR",
@@ -2089,7 +2100,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2105,7 +2116,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2113,7 +2124,7 @@
       "Name": "Crash Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "STORY_TOWER",
@@ -2192,22 +2203,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13872,
+      "Progressed": 13878,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1798,
+      "Progressed": 1804,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-28T02:10:09.3293551+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:03:48.989396+00:00",
+  "LastChanged": "2023-05-28T09:57:54.7331604+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:03:53.628966+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:58:06.3975019+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:03:48.9894413+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:57:54.7331609+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:03:53.6290113+00:00"
 }

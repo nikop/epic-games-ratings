@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "collect-combos",
       "SetID": "799afm0",
       "Name": "Experimentalist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "collect-discounted-items1",
@@ -488,8 +488,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:06:22.6029691+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:06:09.655992+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-28T08:59:08.5560697+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:06:22.6029986+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:58:47.7067447+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:06:09.6560213+00:00"
 }

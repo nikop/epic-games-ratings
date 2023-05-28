@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Solved first case | 85.00% | ~81 |
-| Solved second case | 81.00% | ~77 |
+| Solved first case | 85.00% | ~82 |
+| Solved second case | 81.00% | ~78 |
 | Solved third case | 68.00% | ~65 |
-| Solved fourth case | 51.00% | ~48 |
+| Solved fourth case | 50.00% | ~48 |
 | Solved seventh case | 26.00% | ~25 |
 | Solved sixth case | 22.00% | ~21 |
 | Solved fifth case | 21.00% | ~20 |
@@ -16,8 +16,8 @@
 | Solved tenth case | 17.00% | ~16 |
 | Solved eleventh case | 14.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 268)  
-Completed: 2 (2.11%) (Ranked 62)  
+Progressed: 96 (Ranked 267)  
+Completed: 2 (2.08%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -37,6 +37,7 @@ Completed: 2 (2.11%) (Ranked 62)
 | 2023-05-25 | 82 | 2 |
 | 2023-05-26 | 89 | 2 |
 | 2023-05-27 | 95 | 2 |
+| 2023-05-28 | 96 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

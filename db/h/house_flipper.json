@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1482,9 +1482,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19066,
+  "EOS_Progressed": 19067,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3012,6 +3012,11 @@
       "Time": "2023-05-28T09:06:19.7575212+00:00",
       "NumProgressed": 19066,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-28T10:06:06.7532261+00:00",
+      "NumProgressed": 19067,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3071,7 +3076,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17922
+      "UsersEstimate": 17923
     },
     {
       "ID": "GameOver",
@@ -3183,7 +3188,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5910
+      "UsersEstimate": 5911
     },
     {
       "ID": "VeronicaLiptson",
@@ -3206,15 +3211,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19066,
+      "Progressed": 19067,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-27T17:59:28.0177628+00:00",
-  "LastChanged_Achievements": "2023-05-28T09:06:19.7575208+00:00",
+  "LastChanged_Achievements": "2023-05-28T10:06:06.7532255+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:00:00.0911179+00:00",
-  "LastUpdate_Achievements": "2023-05-28T09:06:19.7575481+00:00"
+  "LastUpdate_Ratings": "2023-05-28T09:59:34.5108386+00:00",
+  "LastUpdate_Achievements": "2023-05-28T10:06:06.7532487+00:00"
 }

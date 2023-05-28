@@ -17,23 +17,23 @@
 | Proper Walls | 31.00% | ~56 |
 | Destination Destiny | 27.00% | ~49 |
 | Happy Tenants | 24.00% | ~43 |
+| Potent Potables | 23.00% | ~42 |
 | Smooth Service | 23.00% | ~42 |
-| Potent Potables | 22.00% | ~40 |
+| Lux Living | 22.00% | ~40 |
+| Your Prestige is Rising | 22.00% | ~40 |
 | Retail Revenue | 22.00% | ~40 |
-| Lux Living | 21.00% | ~38 |
-| Your Prestige is Rising | 21.00% | ~38 |
-| People Mover | 20.00% | ~36 |
+| People Mover | 21.00% | ~38 |
+| Leveled Up Shops | 21.00% | ~38 |
 | Emporium Empire | 20.00% | ~36 |
-| Leveled Up Shops | 20.00% | ~36 |
 | Get Electrified | 20.00% | ~36 |
 | Artfully Done | 19.00% | ~34 |
 | Rehab Expert | 19.00% | ~34 |
 | Don't Feel a Loan | 19.00% | ~34 |
 | Tasty Profits | 19.00% | ~34 |
 | We Don't Need No Education | 18.00% | ~33 |
+| Under One Roof | 17.00% | ~31 |
 | Established Fame | 17.00% | ~31 |
 | Cashflow Chief | 17.00% | ~31 |
-| Under One Roof | 16.00% | ~29 |
 | Boutique Benefits | 16.00% | ~29 |
 | Terrifically Trashed | 15.00% | ~27 |
 | Thrilled Tenants | 15.00% | ~27 |
@@ -61,14 +61,14 @@
 | Meet ADA/360 | 6.00% | ~11 |
 | Baron of Business | 6.00% | ~11 |
 | Water Features | 6.00% | ~11 |
+| Office Bigwigs | 5.00% | ~9 |
 | Golden Opportunity | 5.00% | ~9 |
-| Office Bigwigs | 4.00% | ~7 |
 | Luxury Boutiques | 4.00% | ~7 |
+| Plebs Are Needed | 4.00% | ~7 |
 | Curated Class | 3.00% | ~5 |
 | Decorator's Touch | 3.00% | ~5 |
 | Loft Life | 3.00% | ~5 |
 | Glut of Gastronomy | 3.00% | ~5 |
-| Plebs Are Needed | 3.00% | ~5 |
 | Royal Flush | 3.00% | ~5 |
 | The King of Cool | 3.00% | ~5 |
 | Three of a Kind | 3.00% | ~5 |

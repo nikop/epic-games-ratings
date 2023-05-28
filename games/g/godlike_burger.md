@@ -6,7 +6,7 @@ Rating: 4.25 (Ranked 786)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | MASTER CHEF | 83.00% | ~248 |
-| FIRST BLOOD | 78.00% | ~233 |
+| FIRST BLOOD | 79.00% | ~236 |
 | KEVIN! | 68.00% | ~203 |
 | JACK OF ALL TRADES | 63.00% | ~188 |
 | CRIMINAL | 57.00% | ~170 |
@@ -34,7 +34,7 @@ Rating: 4.25 (Ranked 786)
 | TRAVELER | 1.00% | ~3 |
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 218)  
+Progressed: 299 (Ranked 219)  
 Completed: 1 (0.33%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |

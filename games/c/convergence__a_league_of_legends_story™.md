@@ -8,31 +8,31 @@
 | Rail Rat | 76.00% | ~339 |
 | The Mysterious Stranger | 74.00% | ~330 |
 | Immaculate Aim | 61.00% | ~272 |
+| The Brass Boss | 53.00% | ~236 |
 | Honest Mistake | 52.00% | ~232 |
-| The Brass Boss | 52.00% | ~232 |
 | No, Thanks! | 49.00% | ~219 |
 | The Prince in Heels | 48.00% | ~214 |
+| Time Flies | 47.00% | ~210 |
 | Right On Time | 46.00% | ~205 |
-| Time Flies | 46.00% | ~205 |
-| The Harder They Fall | 45.00% | ~201 |
-| Fast Learner | 44.00% | ~196 |
+| The Harder They Fall | 46.00% | ~205 |
+| Fast Learner | 45.00% | ~201 |
 | Immaculate Aim | 43.00% | ~192 |
 | Make Up For Lost Time | 42.00% | ~187 |
 | Breaking Down Barriers | 41.00% | ~183 |
-| The Steel Shadow | 32.00% | ~143 |
+| The Steel Shadow | 33.00% | ~147 |
 | Golem Chaser | 32.00% | ~143 |
 | Like Clockwork | 31.00% | ~138 |
-| Family Memories | 27.00% | ~120 |
+| Family Memories | 28.00% | ~125 |
 | The Wicked Twins | 27.00% | ~120 |
 | The Betrayer | 26.00% | ~116 |
 | Good Neighbor | 26.00% | ~116 |
-| Street Style | 23.00% | ~103 |
-| Check Your Pulse | 23.00% | ~103 |
+| Street Style | 24.00% | ~107 |
+| Check Your Pulse | 24.00% | ~107 |
 | The Loose Cannon | 21.00% | ~94 |
+| Sump Explorer | 18.00% | ~80 |
 | Syron for Hope | 18.00% | ~80 |
 | Ask Questions Later | 18.00% | ~80 |
 | Whiz Kid | 17.00% | ~76 |
-| Sump Explorer | 17.00% | ~76 |
 | Chaincrawler Explorer | 16.00% | ~71 |
 | The Man Who Shattered Time | 16.00% | ~71 |
 | The Family Fortune | 16.00% | ~71 |
