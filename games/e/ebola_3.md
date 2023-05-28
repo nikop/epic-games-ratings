@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 56.00% | ~101 |
+| Fright ✔ | 56.00% | ~102 |
 | Chest ✔ | 55.00% | ~100 |
-| Inventory ✔ | 52.00% | ~94 |
-| Police officers ✔ | 28.00% | ~51 |
-| Mutation ✔ | 25.00% | ~45 |
+| Inventory ✔ | 52.00% | ~95 |
+| Police officers ✔ | 27.00% | ~49 |
+| Mutation ✔ | 25.00% | ~46 |
 | Doberman ✔ | 14.00% | ~25 |
 | Chess ✔ | 10.00% | ~18 |
 | Master of Unlocking ✔ | 9.00% | ~16 |
 | Weapon ✔ | 9.00% | ~16 |
-| Survival ✔ | 8.00% | ~14 |
+| Survival ✔ | 8.00% | ~15 |
 | Cheats ✔ | 7.00% | ~13 |
 | Hospital ✔ | 7.00% | ~13 |
 | King of survival ✔ | 7.00% | ~13 |
 | Thirst ✔ | 7.00% | ~13 |
-| Alice ✔ | 6.00% | ~11 |
 | Antivirus ✔ | 6.00% | ~11 |
-| Betty ✔ | 6.00% | ~11 |
-| Brain ✔ | 6.00% | ~11 |
 | City ✔ | 6.00% | ~11 |
-| Food ✔ | 6.00% | ~11 |
 | Fraternal help ✔ | 6.00% | ~11 |
-| All secrets revealed ✔ | 6.00% | ~11 |
+| Alice ✔ | 5.00% | ~9 |
+| Betty ✔ | 5.00% | ~9 |
+| Brain ✔ | 5.00% | ~9 |
 | Eva ✔ | 5.00% | ~9 |
+| Food ✔ | 5.00% | ~9 |
 | Mutant fight ✔ | 5.00% | ~9 |
 | Infected ✔ | 5.00% | ~9 |
+| All secrets revealed ✔ | 5.00% | ~9 |
 | Boss 1 ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
 | Sheriff ✔ | 4.00% | ~7 |
@@ -52,10 +52,10 @@
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
 | Speedrun ✔ | 1.00% | ~2 |
-| Seeker Two ✔ | 0.60% | ~1 |
-| Rank A+ ✔ | 0.60% | ~1 |
+| Seeker Two ✔ | 0.50% | ~1 |
+| Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 243)  
+Progressed: 182 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-24 | 179 | 0 |
 | 2023-05-26 | 180 | 0 |
 | 2023-05-27 | 181 | 0 |
+| 2023-05-28 | 182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

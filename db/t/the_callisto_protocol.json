@@ -458,9 +458,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13884,
+  "EOS_Progressed": 13890,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1883,6 +1883,11 @@
       "Time": "2023-05-28T12:03:59.0536885+00:00",
       "NumProgressed": 13884,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-28T13:06:21.6819733+00:00",
+      "NumProgressed": 13890,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2038,7 +2043,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2062,7 +2067,7 @@
       "Name": "Reforged",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2166,7 +2171,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2174,7 +2179,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2213,13 +2218,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13884,
+      "Progressed": 13890,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1810,
+      "Progressed": 1816,
       "Completed": 29
     }
   ],
@@ -2227,8 +2232,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T09:57:54.7331604+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:03:59.0536875+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:06:21.6819729+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:58:03.9220594+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:03:59.0537212+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:00:28.2704141+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:06:21.6820047+00:00"
 }

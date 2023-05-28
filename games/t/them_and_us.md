@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~85 |
-| Forced to Kill | 67.00% | ~85 |
-| A Night To Remember | 34.00% | ~43 |
-| Safe...For now? | 28.00% | ~36 |
+| Alone with Them | 66.00% | ~84 |
+| Forced to Kill | 66.00% | ~84 |
+| A Night To Remember | 34.00% | ~44 |
+| Safe...For now? | 27.00% | ~35 |
 | Open Sesame | 23.00% | ~29 |
 | Them and Us | 14.00% | ~18 |
 | OUTRAGE | 14.00% | ~18 |
@@ -17,14 +17,14 @@
 | Alone In The Dark | 11.00% | ~14 |
 | Parasite Exterminated | 11.00% | ~14 |
 | The Forgotten Tower | 10.00% | ~13 |
-| Rest In Peace | 9.00% | ~11 |
-| The Curse Is Real | 9.00% | ~11 |
+| Rest In Peace | 9.00% | ~12 |
+| The Curse Is Real | 9.00% | ~12 |
 | Lover of classics | 8.00% | ~10 |
 | Trapped | 7.00% | ~9 |
 | What A Mansion | 7.00% | ~9 |
 | Modern Player | 6.00% | ~8 |
-| Researcher | 6.00% | ~8 |
 | I Am The Gate Keeper! | 6.00% | ~8 |
+| Researcher | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |
 | Run and Gun | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 258)  
-Completed: 1 (0.79%) (Ranked 94)  
+Progressed: 128 (Ranked 258)  
+Completed: 1 (0.78%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 1 (0.79%) (Ranked 94)
 | 2023-05-25 | 122 | 1 |
 | 2023-05-26 | 124 | 1 |
 | 2023-05-27 | 127 | 1 |
+| 2023-05-28 | 128 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

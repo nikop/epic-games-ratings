@@ -24,30 +24,30 @@
 | Mushroom soup of the day | 46.00% | ~29 |
 | Spare Ribs | 46.00% | ~29 |
 | Honk honk! | 44.00% | ~28 |
-| My pants squeak when I walk | 43.00% | ~27 |
+| My pants squeak when I walk | 44.00% | ~28 |
 | Thats disgusting! | 41.00% | ~26 |
 | Cockadoodledoo! | 41.00% | ~26 |
 | Surprise!! | 40.00% | ~25 |
 | Self assessed tax return | 37.00% | ~23 |
 | Karaoke king | 37.00% | ~23 |
 | Make America Grate Again | 35.00% | ~22 |
+| You are no match for me, Billy! | 33.00% | ~21 |
 | Pasta Bolognese | 33.00% | ~21 |
-| You are no match for me, Billy! | 32.00% | ~20 |
 | Catch the bus with me! | 32.00% | ~20 |
 | You can't stop me, bro! | 32.00% | ~20 |
 | Haemochromatosis | 32.00% | ~20 |
 | Meatballs, coming up! | 29.00% | ~18 |
 | I'm going to get a concussion | 27.00% | ~17 |
-| Another one bites the iron | 25.00% | ~16 |
+| Another one bites the iron | 27.00% | ~17 |
 | A Megapint...? | 21.00% | ~13 |
+| Ripe Meat Off The Bone! | 21.00% | ~13 |
 | Hovering around | 21.00% | ~13 |
-| Ripe Meat Off The Bone! | 19.00% | ~12 |
 | Your daily dose of Vitamin C. | 17.00% | ~11 |
 | Kleptomaniac | 17.00% | ~11 |
 | You're not so Big anymore, Boi! | 16.00% | ~10 |
+| Just wing it! | 14.00% | ~9 |
 | I cant stand still! | 14.00% | ~9 |
 | Slimy... yet satisfying | 14.00% | ~9 |
-| Just wing it! | 13.00% | ~8 |
 | Deal with it | 13.00% | ~8 |
 | Yeehaw!!! | 11.00% | ~7 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |
@@ -57,6 +57,7 @@
 | You're looking mozzare-hella good! | 6.00% | ~4 |
 | Scrambled Eggs | 6.00% | ~4 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
+| Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
 | Timber! | 3.00% | ~2 |
@@ -64,8 +65,8 @@
 | Free Of Chains | 3.00% | ~2 |
 | Ancient Ruins of Misplaced Belongings | 2.00% | ~1 |
 | Ancient Ruins of Imperfectly Designed Walls | 2.00% | ~1 |
+| Ancient Ruins of Moldy Ceiling | 2.00% | ~1 |
 | Ancient Ruins of Inadequate Opportunities | 2.00% | ~1 |
-| Ancient Ruins of Stuffed Pantrys | 2.00% | ~1 |
 | Ancient Ruins of Stubbed Toes | 2.00% | ~1 |
 | My name is Whoopass, SIR Whoopass! | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
@@ -74,7 +75,6 @@
 | Fifty Shades of Gruyere | 0.00% | ~0 |
 | Ancient Ruins of Empty Echoes | 0.00% | ~0 |
 | Ancient Ruins of Vitamin D Addition | 0.00% | ~0 |
-| Ancient Ruins of Moldy Ceiling | 0.00% | ~0 |
 | Ancient Ruins of Poor Intrusion Prevention | 0.00% | ~0 |
 | Ancient Ruins of Peekaboo | 0.00% | ~0 |
 | Ancient Ruins of Leaky Roof | 0.00% | ~0 |

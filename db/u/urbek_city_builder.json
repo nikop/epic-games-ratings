@@ -2,7 +2,7 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 87,
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -342,6 +342,11 @@
       "Time": "2023-05-28T05:05:39.4396672+00:00",
       "NumProgressed": 191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T13:08:33.0882654+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -441,7 +446,7 @@
       "Name": "Food producer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "COMIDA_2",
@@ -625,7 +630,7 @@
       "Name": "I like my life",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FELIZ_2",
@@ -703,9 +708,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "MILLS",
@@ -713,7 +718,7 @@
       "Name": "Clean energy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MURICA_1",
@@ -793,7 +798,7 @@
       "Name": "Metropolurbek",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "POPULATION_3",
@@ -871,9 +876,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "SPORTS_2",
@@ -984,7 +989,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 0
     }
   ],
@@ -992,8 +997,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:31.9066149+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:33.0882649+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:59:08.9873583+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:31.9066856+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:01:25.5141502+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:33.0883334+00:00"
 }

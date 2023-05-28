@@ -1,7 +1,7 @@
 # Kao the Kangaroo - Round 2
 [Store](https://store.epicgames.com/en-US/p/kao-the-kangaroo-round-2-5d4d25)  
 [View Rawdata](../../db/k/kao_the_kangaroo_-_round_2.json)  
-Rating: 4.65 (Ranked 292)  
+Rating: 4.65 (Ranked 293)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

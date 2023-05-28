@@ -926,9 +926,9 @@
       "ID": "FIRST_LOSED_VISITOR",
       "SetID": "64e5lgf",
       "Name": "OH NO, HE\u0027S LEAVING!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "INTRODUCTION",
@@ -983,8 +983,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:14.2510666+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:17.2066229+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:59:46.5497365+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:14.2510786+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:02:03.927372+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:17.2066355+00:00"
 }

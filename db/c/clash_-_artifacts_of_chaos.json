@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.33,
+  "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -123,6 +123,11 @@
       "Time": "2023-05-28T02:18:56.4947168+00:00",
       "NumProgressed": 75,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T13:08:33.9223344+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -132,7 +137,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 17
     },
@@ -140,7 +145,7 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -180,7 +185,7 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -198,7 +203,7 @@
       "Name": "Declawing",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Achievement18",
@@ -228,7 +233,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -252,7 +257,7 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 90,
       "UsersEstimate": 14
     },
@@ -284,7 +289,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
       "UsersEstimate": 20
     },
@@ -301,7 +306,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 1
     }
   ],
@@ -309,8 +314,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:33.0732957+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:33.9223341+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.9291912+00:00",
-  "LastUpdate_Ratings": "2023-05-28T12:00:39.7747176+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:33.0733087+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:02:47.4146804+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:33.9223462+00:00"
 }

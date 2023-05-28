@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -317,9 +317,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -365,9 +365,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_first_harvest",
@@ -924,8 +924,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:04:57.0073694+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:07:01.3294112+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:58:34.471645+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:04:57.007431+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:00:53.4020546+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:07:01.3294767+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1171,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -518,6 +518,11 @@
       "Time": "2023-05-27T20:07:16.9333753+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-28T13:08:30.0389859+00:00",
+      "NumProgressed": 1171,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -577,7 +582,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "16",
@@ -593,7 +598,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "18",
@@ -617,7 +622,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "20",
@@ -641,7 +646,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "23",
@@ -689,7 +694,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "30",
@@ -753,7 +758,7 @@
       "Name": "Over my dead body",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "9",
@@ -768,15 +773,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1171,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:28.4719722+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:30.0389855+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:02.2498458+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:59:53.521381+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:28.4719907+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:02:10.637835+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:30.039006+00:00"
 }

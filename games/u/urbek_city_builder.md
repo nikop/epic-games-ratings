@@ -8,19 +8,19 @@
 | I like parks | 47.00% | ~90 |
 | It is nice to share with friends in the city | 26.00% | ~50 |
 | The spiritual world... | 25.00% | ~48 |
-| Sport is good for you | 25.00% | ~48 |
-| The woodcutter | 23.00% | ~44 |
+| Sport is good for you | 24.00% | ~46 |
+| The woodcutter | 22.00% | ~42 |
 | I like books | 19.00% | ~36 |
-| I like my life | 18.00% | ~34 |
-| Clean energy | 17.00% | ~32 |
+| I like my life | 18.00% | ~35 |
+| Clean energy | 17.00% | ~33 |
 | Soviet town | 15.00% | ~29 |
 | Bucolic city | 12.00% | ~23 |
 | I love parks | 10.00% | ~19 |
 | I love books! | 9.00% | ~17 |
 | King of fish | 9.00% | ~17 |
 | What would we do if we can't go out with friends? | 8.00% | ~15 |
-| Food producer | 6.00% | ~11 |
-| Metropolurbek | 6.00% | ~11 |
+| Food producer | 6.00% | ~12 |
+| Metropolurbek | 6.00% | ~12 |
 | I am very happy! | 4.00% | ~8 |
 | Sport is the best thing | 4.00% | ~8 |
 | Banking city | 3.00% | ~6 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191 (Ranked 241)  
+Progressed: 192 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 182 | 0 |
 | 2023-05-26 | 186 | 0 |
 | 2023-05-27 | 189 | 0 |
-| 2023-05-28 | 191 | 0 |
+| 2023-05-28 | 192 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

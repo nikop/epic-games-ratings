@@ -1,23 +1,23 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.44 (Ranked 632)  
+Rating: 4.44 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,448 |
-| Predator I | 22.00% | ~54,963 |
-| Fixer I | 10.00% | ~24,983 |
-| A week in Century City | 10.00% | ~24,983 |
-| The Wait | 7.00% | ~17,488 |
+| Survivor | 31.00% | ~77,450 |
+| Predator I | 22.00% | ~54,965 |
+| Fixer I | 10.00% | ~24,984 |
+| A week in Century City | 10.00% | ~24,984 |
+| The Wait | 7.00% | ~17,489 |
 | Green thumb I | 6.00% | ~14,990 |
 | Well-oiled machine | 5.00% | ~12,492 |
 | Saver I | 5.00% | ~12,492 |
 | Cleaning Company | 5.00% | ~12,492 |
-| The Ascent | 4.00% | ~9,993 |
-| Pacifist | 4.00% | ~9,993 |
-| Vandalism | 4.00% | ~9,993 |
-| Capitalist I | 4.00% | ~9,993 |
+| The Ascent | 4.00% | ~9,994 |
+| Pacifist | 4.00% | ~9,994 |
+| Vandalism | 4.00% | ~9,994 |
+| Capitalist I | 4.00% | ~9,994 |
 | Adrenaline | 3.00% | ~7,495 |
 | By a hair | 2.00% | ~4,997 |
 | Fixer II | 2.00% | ~4,997 |
@@ -43,11 +43,11 @@ Rating: 4.44 (Ranked 632)
 | A major purchase | 0.50% | ~1,249 |
 | Expert Hunter | 0.40% | ~999 |
 | Fungi hunter | 0.40% | ~999 |
-| Arms dealer | 0.30% | ~749 |
-| Fixer III | 0.30% | ~749 |
-| Predator III | 0.30% | ~749 |
-| AML questionnaire | 0.30% | ~749 |
-| Heartbreaker | 0.30% | ~749 |
+| Arms dealer | 0.30% | ~750 |
+| Fixer III | 0.30% | ~750 |
+| Predator III | 0.30% | ~750 |
+| AML questionnaire | 0.30% | ~750 |
+| Heartbreaker | 0.30% | ~750 |
 | Homerun | 0.20% | ~500 |
 | A season in Century City | 0.20% | ~500 |
 | Saver III | 0.10% | ~250 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 632)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,831 (Ranked 40)  
+Progressed: 249,840 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.00%) (Ranked 206)
 | 2023-05-25 | 249,607 | 1 |
 | 2023-05-26 | 249,693 | 1 |
 | 2023-05-27 | 249,786 | 1 |
-| 2023-05-28 | 249,831 | 1 |
+| 2023-05-28 | 249,840 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 464)  
 Sum: 66 (Ranked 422)  

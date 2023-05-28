@@ -2,7 +2,7 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 87,
@@ -899,8 +899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:40.9741416+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:41.0566993+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:58:18.0460187+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:40.9742374+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:00:40.7311368+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:41.0567919+00:00"
 }

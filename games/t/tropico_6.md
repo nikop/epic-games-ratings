@@ -1,26 +1,26 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,443 |
-| Un-Lonely Island | 49.00% | ~1,555 |
+| Just One...More...Term... | 77.00% | ~2,445 |
+| Un-Lonely Island | 49.00% | ~1,556 |
 | The Beginning of a Servantship | 46.00% | ~1,460 |
 | Trade Is My Trait | 38.00% | ~1,206 |
-| Number 18 | 25.00% | ~793 |
+| Number 18 | 25.00% | ~794 |
 | We Don't Have Time For That | 20.00% | ~635 |
 | The Governator | 19.00% | ~603 |
-| Caribbean Comrade | 17.00% | ~539 |
-| The Legend of Langostino | 17.00% | ~539 |
+| Caribbean Comrade | 17.00% | ~540 |
+| The Legend of Langostino | 17.00% | ~540 |
 | The Dreamer of Dreams | 16.00% | ~508 |
 | Go Sovereigns! | 12.00% | ~381 |
 | For Science! | 12.00% | ~381 |
 | Happy Ending? | 11.00% | ~349 |
-| Of Seals And Men | 10.00% | ~317 |
-| Shackadelic | 10.00% | ~317 |
+| Of Seals And Men | 10.00% | ~318 |
+| Shackadelic | 10.00% | ~318 |
 | Double Trouble | 9.00% | ~286 |
 | Firestarter | 9.00% | ~286 |
 | Make Tropico Great Again! | 8.00% | ~254 |
@@ -38,16 +38,16 @@ Number of Ratings: 398  (23.09.2022)
 | Promising Endeavors | 3.00% | ~95 |
 | Terraformer | 3.00% | ~95 |
 | The Time For Wonders | 3.00% | ~95 |
-| Chain Gang | 2.00% | ~63 |
-| From Knight to Little Duck | 2.00% | ~63 |
-| One Does Not Simply Stage A Coup | 2.00% | ~63 |
-| Sublime Subliminal Supreme | 2.00% | ~63 |
-| Teamplayer | 2.00% | ~63 |
-| Curse of the Mummy | 2.00% | ~63 |
+| Chain Gang | 2.00% | ~64 |
+| From Knight to Little Duck | 2.00% | ~64 |
+| One Does Not Simply Stage A Coup | 2.00% | ~64 |
+| Sublime Subliminal Supreme | 2.00% | ~64 |
+| Teamplayer | 2.00% | ~64 |
+| Curse of the Mummy | 2.00% | ~64 |
 | Survivor | 1.00% | ~32 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,173 (Ranked 134)  
+Progressed: 3,175 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.03%) (Ranked 184)
 | 2023-05-25 | 3,092 | 1 |
 | 2023-05-26 | 3,108 | 1 |
 | 2023-05-27 | 3,148 | 1 |
-| 2023-05-28 | 3,173 | 1 |
+| 2023-05-28 | 3,175 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 315)  
 Sum: 752 (Ranked 255)  

@@ -428,7 +428,7 @@
   ],
   "EOS_Progressed": 18704,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2218,9 +2218,9 @@
       "ID": "ach.220.hot",
       "SetID": "384aaja",
       "Name": "Hot Water",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5611
+      "UsersEstimate": 5798
     },
     {
       "ID": "ach.230.infinity",
@@ -2355,8 +2355,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-27T17:59:22.3817223+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:20.6807336+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:22.8908213+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:52.3008567+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:59:40.6930741+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:20.680764+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:01:59.0860252+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:22.8908499+00:00"
 }

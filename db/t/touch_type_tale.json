@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2805,
+  "EOS_Progressed": 2810,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1434,6 +1434,11 @@
       "Time": "2023-05-28T12:06:35.8078825+00:00",
       "NumProgressed": 2805,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-28T13:08:36.4095417+00:00",
+      "NumProgressed": 2810,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1453,7 +1458,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "bonus3",
@@ -1493,7 +1498,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2529
     },
     {
       "ID": "campaign10",
@@ -1501,7 +1506,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "campaign11",
@@ -1517,7 +1522,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "campaign13",
@@ -1525,7 +1530,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "campaign14",
@@ -1549,7 +1554,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "campaign17",
@@ -1581,7 +1586,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2248
     },
     {
       "ID": "campaign20",
@@ -1597,23 +1602,23 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1826
     },
     {
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1321
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 478
     },
     {
       "ID": "campaign6",
@@ -1621,7 +1626,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "campaign7",
@@ -1629,7 +1634,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 785
+      "UsersEstimate": 787
     },
     {
       "ID": "campaign8",
@@ -1653,7 +1658,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1152
     },
     {
       "ID": "scenario2",
@@ -1661,7 +1666,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "scenario3",
@@ -1677,7 +1682,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "scenario5",
@@ -1708,7 +1713,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2805,
+      "Progressed": 2810,
       "Completed": 9
     }
   ],
@@ -1716,8 +1721,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:35.8078819+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:36.4095414+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-28T12:00:39.5971794+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:35.8079088+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:02:47.2190145+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:36.4095656+00:00"
 }

@@ -23,8 +23,8 @@
 | Woodcutter | 68.00% | ~105 |
 | Sharpshooter | 68.00% | ~105 |
 | Architect of Darkness | 68.00% | ~105 |
-| Top of the World | 66.00% | ~102 |
-| The Apotheosis of War | 65.00% | ~101 |
+| Top of the World | 67.00% | ~104 |
+| The Apotheosis of War | 66.00% | ~102 |
 | Stasis Alcatraz | 65.00% | ~101 |
 | Tastes Like Chicken | 61.00% | ~95 |
 | Thunderstorm | 61.00% | ~95 |

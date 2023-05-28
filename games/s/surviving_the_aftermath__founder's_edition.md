@@ -6,25 +6,25 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~4,082 |
-| Leader | 61.00% | ~3,557 |
-| Explorer | 53.00% | ~3,090 |
-| Healer | 53.00% | ~3,090 |
-| Aspiring Inventor | 45.00% | ~2,624 |
-| Adventurer | 41.00% | ~2,391 |
-| Famous Healer | 38.00% | ~2,216 |
-| Local Leader | 35.00% | ~2,041 |
+| First Step | 70.00% | ~4,083 |
+| Leader | 61.00% | ~3,558 |
+| Explorer | 53.00% | ~3,091 |
+| Healer | 53.00% | ~3,091 |
+| Aspiring Inventor | 45.00% | ~2,625 |
+| Adventurer | 41.00% | ~2,392 |
+| Famous Healer | 38.00% | ~2,217 |
+| Local Leader | 35.00% | ~2,042 |
 | New Opportunities | 34.00% | ~1,983 |
-| Famous Explorer | 33.00% | ~1,924 |
-| Energized | 33.00% | ~1,924 |
-| The Long Haul | 33.00% | ~1,924 |
+| Famous Explorer | 33.00% | ~1,925 |
+| Energized | 33.00% | ~1,925 |
+| The Long Haul | 33.00% | ~1,925 |
 | Survivor | 31.00% | ~1,808 |
-| The Great Healer | 30.00% | ~1,749 |
+| The Great Healer | 30.00% | ~1,750 |
+| Cleaner | 28.00% | ~1,633 |
 | Catastrofan | 28.00% | ~1,633 |
-| Legendary Explorer | 27.00% | ~1,574 |
-| Cleaner | 27.00% | ~1,574 |
-| Finders, Keepers | 26.00% | ~1,516 |
-| Top Notch | 24.00% | ~1,399 |
+| Legendary Explorer | 27.00% | ~1,575 |
+| Finders, Keepers | 26.00% | ~1,517 |
+| Top Notch | 24.00% | ~1,400 |
 | Great Leader | 22.00% | ~1,283 |
 | Ice Lakes | 22.00% | ~1,283 |
 | Mentor | 22.00% | ~1,283 |
@@ -36,13 +36,13 @@ Number of Ratings: 836  (23.09.2022)
 | Big Game Hunter | 16.00% | ~933 |
 | Spreading Influence | 16.00% | ~933 |
 | Around the World | 15.00% | ~875 |
-| Bookworm | 14.00% | ~816 |
+| Bookworm | 14.00% | ~817 |
 | Famous Adventurer | 13.00% | ~758 |
 | Prepared for Anything | 13.00% | ~758 |
 | Big Catastrofan | 12.00% | ~700 |
 | It's a Finnish Thing | 10.00% | ~583 |
 | Sky Burial | 9.00% | ~525 |
-| Trader | 8.00% | ~466 |
+| Trader | 8.00% | ~467 |
 | Bread and Circuses | 7.00% | ~408 |
 | Tailored to fit | 7.00% | ~408 |
 | Really Friendly | 6.00% | ~350 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~12 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,831 (Ranked 121)  
+Progressed: 5,833 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 5,724 | 0 |
 | 2023-05-26 | 5,769 | 0 |
 | 2023-05-27 | 5,812 | 0 |
-| 2023-05-28 | 5,831 | 0 |
+| 2023-05-28 | 5,833 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 654 (Ranked 271)  

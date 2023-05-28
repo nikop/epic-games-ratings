@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62512,
+  "EOS_Progressed": 62520,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4104,6 +4104,11 @@
       "Time": "2023-05-28T12:06:39.8612509+00:00",
       "NumProgressed": 62512,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T13:08:40.0975763+00:00",
+      "NumProgressed": 62520,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4345,9 +4350,9 @@
       "ID": "FREEZE_1_5",
       "SetID": "4eo5ebm",
       "Name": "Quartzer Life Crisis",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 625
     },
     {
       "ID": "FREEZE_2",
@@ -4602,13 +4607,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62512,
+      "Progressed": 62520,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32792,
+      "Progressed": 32800,
       "Completed": 2643
     }
   ],
@@ -4616,8 +4621,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:39.8612503+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:40.0975758+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T12:00:07.4375089+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:39.8613165+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:02:22.9829787+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:40.097645+00:00"
 }

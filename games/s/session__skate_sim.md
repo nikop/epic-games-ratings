@@ -1,19 +1,19 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.66 (Ranked 275)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 52.00% | ~1,100 |
+| You're free now! | 52.00% | ~1,101 |
 | Keeping it classy | 25.00% | ~529 |
 | Welcome to the family | 18.00% | ~381 |
 | The finer things in life | 16.00% | ~339 |
 | Backpacker | 12.00% | ~254 |
-| Go with the Flow | 11.00% | ~233 |
-| Plastic Surgeon | 9.00% | ~190 |
-| The flip trick crown jewel | 9.00% | ~190 |
+| Go with the Flow | 12.00% | ~254 |
+| Plastic Surgeon | 9.00% | ~191 |
+| The flip trick crown jewel | 9.00% | ~191 |
 | Keep the dream alive | 8.00% | ~169 |
 | The hard way | 8.00% | ~169 |
 | Upfront shredder | 8.00% | ~169 |
@@ -40,9 +40,9 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~85 |
 | Tank commander | 4.00% | ~85 |
 | Trick shot marksman | 4.00% | ~85 |
-| G.O.A.T. status | 3.00% | ~63 |
-| Hoarder | 3.00% | ~63 |
-| We get it, you're good | 3.00% | ~63 |
+| G.O.A.T. status | 3.00% | ~64 |
+| Hoarder | 3.00% | ~64 |
+| We get it, you're good | 3.00% | ~64 |
 | Cross lock country | 2.00% | ~42 |
 | Many plys later... | 2.00% | ~42 |
 | Pew-Pew | 2.00% | ~42 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,116 (Ranked 147)  
+Progressed: 2,117 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 2,077 | 0 |
 | 2023-05-26 | 2,088 | 0 |
 | 2023-05-27 | 2,105 | 0 |
-| 2023-05-28 | 2,116 | 0 |
+| 2023-05-28 | 2,117 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 395)  
 Sum: 414 (Ranked 301)  

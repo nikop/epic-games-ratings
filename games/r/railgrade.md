@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 484)
 | Simplification | 33.00% | ~6,172 |
 | Box of Trains | 33.00% | ~6,172 |
 | Let There be Light | 32.00% | ~5,985 |
-| Hot Water | 30.00% | ~5,611 |
+| Hot Water | 31.00% | ~5,798 |
 | Indecisive | 29.00% | ~5,424 |
 | The scenic route | 27.00% | ~5,050 |
 | Industrialist | 25.00% | ~4,676 |

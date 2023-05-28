@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1693,
+  "EOS_Progressed": 1698,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1708,6 +1708,11 @@
       "Time": "2023-05-28T12:06:16.3565432+00:00",
       "NumProgressed": 1693,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T13:08:19.1522398+00:00",
+      "NumProgressed": 1698,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1799,7 +1804,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1885,9 +1890,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 272
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1927,7 +1932,7 @@
       "Name": "Lord of War",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1967,7 +1972,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2031,7 +2036,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2045,9 +2050,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -2286,13 +2291,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1644,
+      "Progressed": 1649,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1693,
+      "Progressed": 1698,
       "Completed": 2
     }
   ],
@@ -2300,8 +2305,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:16.3565427+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:19.1522394+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T12:00:59.1396721+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:16.3566022+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:03:04.901735+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:19.1522991+00:00"
 }

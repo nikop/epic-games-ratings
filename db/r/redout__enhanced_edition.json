@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223109,
+  "EOS_Progressed": 223119,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3953,6 +3953,11 @@
       "Time": "2023-05-28T12:06:03.748375+00:00",
       "NumProgressed": 223109,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-28T13:07:57.9158413+00:00",
+      "NumProgressed": 223119,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -3980,7 +3985,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62471
+      "UsersEstimate": 62473
     },
     {
       "ID": "CENTAUR",
@@ -3988,7 +3993,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17849
+      "UsersEstimate": 17850
     },
     {
       "ID": "CHALLENGER",
@@ -3996,7 +4001,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24542
+      "UsersEstimate": 24543
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -4028,7 +4033,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 17849
+      "UsersEstimate": 17850
     },
     {
       "ID": "FLAWLESS",
@@ -4044,7 +4049,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6693
+      "UsersEstimate": 6694
     },
     {
       "ID": "GT9STRADALE",
@@ -4052,7 +4057,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44622
+      "UsersEstimate": 44624
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -4100,7 +4105,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71395
+      "UsersEstimate": 71398
     },
     {
       "ID": "NOBUNAGA",
@@ -4124,7 +4129,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20080
+      "UsersEstimate": 20081
     },
     {
       "ID": "PHOTOFINISH",
@@ -4156,7 +4161,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11155
+      "UsersEstimate": 11156
     },
     {
       "ID": "RESPWND",
@@ -4180,7 +4185,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8924
+      "UsersEstimate": 8925
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -4188,7 +4193,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49084
+      "UsersEstimate": 49086
     },
     {
       "ID": "TACTICIAN",
@@ -4204,7 +4209,7 @@
       "Name": "TAKATORA",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8924
+      "UsersEstimate": 8925
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -4212,7 +4217,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49084
+      "UsersEstimate": 49086
     },
     {
       "ID": "TUNINGMANIAC",
@@ -4228,22 +4233,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91475
+      "UsersEstimate": 91479
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223109,
+      "Progressed": 223119,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:03.7483741+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:07:57.915841+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:58:32.5758695+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:03.7484118+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:00:51.4681159+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:07:57.9158752+00:00"
 }

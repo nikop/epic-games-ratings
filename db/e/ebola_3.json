@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -733,6 +733,11 @@
       "Time": "2023-05-27T08:06:33.7691621+00:00",
       "NumProgressed": 181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T13:08:39.8128631+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -750,9 +755,9 @@
       "ID": "achAliceTwo",
       "SetID": "72gjli4",
       "Name": "Alice \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achAntivirus",
@@ -768,23 +773,23 @@
       "Name": "Inventory \u2714",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achBett",
       "SetID": "72gjli4",
       "Name": "Betty \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achCar",
@@ -838,7 +843,7 @@
       "ID": "achCoinTwo",
       "SetID": "72gjli4",
       "Name": "Seeker Two \u2714",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -904,15 +909,15 @@
       "Name": "Survival \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achFood",
       "SetID": "72gjli4",
       "Name": "Food \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achGameHard",
@@ -944,7 +949,7 @@
       "Name": "Fright \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achLizun",
@@ -1014,9 +1019,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "achPriest",
@@ -1038,7 +1043,7 @@
       "ID": "achRankThree",
       "SetID": "72gjli4",
       "Name": "Rank A\u002B \u2714",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 85,
       "UsersEstimate": 1
     },
@@ -1062,9 +1067,9 @@
       "ID": "achSecretos",
       "SetID": "72gjli4",
       "Name": "All secrets revealed \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achSeif",
@@ -1096,7 +1101,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achVip",
@@ -1143,7 +1148,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 0
     }
   ],
@@ -1151,8 +1156,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:39.560994+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:39.8128627+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.5505459+00:00",
-  "LastUpdate_Ratings": "2023-05-28T12:00:42.242771+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:39.5610387+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:02:49.4146468+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:39.8129089+00:00"
 }

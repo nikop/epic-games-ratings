@@ -5,16 +5,16 @@ Rating: 4.57 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~584 |
-| Fetch Quest Complete | 91.00% | ~548 |
+| Pushing a pull door | 97.00% | ~585 |
+| Fetch Quest Complete | 91.00% | ~549 |
 | I can't wait! | 83.00% | ~500 |
-| Swish | 56.00% | ~337 |
+| Swish | 56.00% | ~338 |
 | Clean up on Aisle 9 | 40.00% | ~241 |
 | Machine Maxed | 31.00% | ~187 |
-| Bug Fixer | 25.00% | ~150 |
-| Gerald of Riviera | 25.00% | ~150 |
-| Existential dread | 24.00% | ~144 |
-| Goal | 22.00% | ~132 |
+| Bug Fixer | 25.00% | ~151 |
+| Gerald of Riviera | 25.00% | ~151 |
+| Existential dread | 24.00% | ~145 |
+| Goal | 22.00% | ~133 |
 | I ran the numbers | 15.00% | ~90 |
 | Taking the plunge | 12.00% | ~72 |
 | Hidden Packages | 11.00% | ~66 |
@@ -24,8 +24,8 @@ Rating: 4.57 (Ranked 438)
 | Jimmy Goldman Would be Proud | 6.00% | ~36 |
 | Bombscare | 5.00% | ~30 |
 | Rhythm is a dancer | 5.00% | ~30 |
+| Your Bloody Valentine | 5.00% | ~30 |
 | You Spin Me Round | 5.00% | ~30 |
-| Your Bloody Valentine | 4.00% | ~24 |
 | GoldGuy Jr | 4.00% | ~24 |
 | Nose to the Grindstone | 4.00% | ~24 |
 | We come in peace | 3.00% | ~18 |
@@ -60,7 +60,7 @@ Rating: 4.57 (Ranked 438)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602 (Ranked 191)  
+Progressed: 603 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 596 | 0 |
 | 2023-05-26 | 599 | 0 |
 | 2023-05-27 | 600 | 0 |
-| 2023-05-28 | 602 | 0 |
+| 2023-05-28 | 603 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -384,6 +384,11 @@
     {
       "Time": "2023-05-28T11:05:39.7155604+00:00",
       "NumProgressed": 718,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T13:08:32.6421169+00:00",
+      "NumProgressed": 719,
       "NumCompleted": 1
     }
   ],
@@ -522,9 +527,9 @@
       "ID": "AchievementDealmaker",
       "SetID": "76o014g",
       "Name": "Dealmaker",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 58
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -995,21 +1000,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-28T12:06:31.4050008+00:00",
+  "LastChanged_Achievements": "2023-05-28T13:08:32.6421165+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.0227175+00:00",
-  "LastUpdate_Ratings": "2023-05-28T11:57:40.8382844+00:00",
-  "LastUpdate_Achievements": "2023-05-28T12:06:31.405063+00:00"
+  "LastUpdate_Ratings": "2023-05-28T13:00:07.5698693+00:00",
+  "LastUpdate_Achievements": "2023-05-28T13:08:32.6421801+00:00"
 }
