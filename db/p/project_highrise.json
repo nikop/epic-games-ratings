@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -474,9 +474,9 @@
       "ID": "ach_ep1_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Sandbagger",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_ep1_revs_2",
@@ -899,8 +899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:06:28.39475+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:05:48.1864054+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:58:07.9595532+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:06:28.3948566+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:58:04.3303437+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:05:48.186512+00:00"
 }

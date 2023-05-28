@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -167,6 +167,11 @@
     {
       "Time": "2023-05-26T16:04:30.8220086+00:00",
       "NumProgressed": 284,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T11:03:43.0093802+00:00",
+      "NumProgressed": 285,
       "NumCompleted": 2
     }
   ],
@@ -323,7 +328,7 @@
       "Name": "Just in time!",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "20_sabotage",
@@ -339,7 +344,7 @@
       "Name": "Missed it!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "22_ouroboros",
@@ -353,9 +358,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 211
     },
     {
       "ID": "24_mega",
@@ -401,9 +406,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "30_completelynuts",
@@ -411,7 +416,7 @@
       "Name": "Completely nuts!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "31_chancellor",
@@ -443,7 +448,7 @@
       "Name": "Need to think",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "35_achtung",
@@ -490,15 +495,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:04:10.2127406+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:03:43.0093797+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:29.5718751+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:57:40.0360697+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:04:10.2127733+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:57:39.949094+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:03:43.0094079+00:00"
 }

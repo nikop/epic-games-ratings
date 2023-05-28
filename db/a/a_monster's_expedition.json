@@ -4,7 +4,7 @@
   "ProductSlug": "a-monsters-expedition",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:16.6505829+00:00",
   "LastChanged": "2023-03-31T05:57:16.650583+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:48.3771353+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:58:04.9699671+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:03:44.7590215+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:58:01.1160514+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:03:22.0457177+00:00"
 }

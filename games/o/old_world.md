@@ -6,24 +6,24 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,544 |
-| Settler | 82.00% | ~9,429 |
-| Explorer | 80.00% | ~9,199 |
-| Friendly Family | 76.00% | ~8,739 |
-| Intrepid | 70.00% | ~8,049 |
-| Mason | 62.00% | ~7,129 |
-| Able | 61.00% | ~7,014 |
-| Architect | 61.00% | ~7,014 |
-| Strong | 60.00% | ~6,899 |
-| Hanging Gardens | 60.00% | ~6,899 |
-| Noble | 58.00% | ~6,669 |
-| Oracle | 58.00% | ~6,669 |
-| Good | 56.00% | ~6,439 |
-| Just | 55.00% | ~6,324 |
-| Judaism | 55.00% | ~6,324 |
-| Keystone | 54.00% | ~6,209 |
-| Glorious | 53.00% | ~6,094 |
-| Trade Caravan | 52.00% | ~5,979 |
+| Play a Single Player Game | 83.00% | ~9,545 |
+| Settler | 82.00% | ~9,430 |
+| Explorer | 79.00% | ~9,085 |
+| Friendly Family | 76.00% | ~8,740 |
+| Intrepid | 70.00% | ~8,050 |
+| Mason | 62.00% | ~7,130 |
+| Able | 61.00% | ~7,015 |
+| Architect | 61.00% | ~7,015 |
+| Strong | 60.00% | ~6,900 |
+| Hanging Gardens | 60.00% | ~6,900 |
+| Noble | 58.00% | ~6,670 |
+| Oracle | 58.00% | ~6,670 |
+| Good | 56.00% | ~6,440 |
+| Just | 55.00% | ~6,325 |
+| Judaism | 55.00% | ~6,325 |
+| Keystone | 54.00% | ~6,210 |
+| Glorious | 53.00% | ~6,095 |
+| Trade Caravan | 52.00% | ~5,980 |
 | Naming Landmarks | 50.00% | ~5,750 |
 | Learned | 49.00% | ~5,635 |
 | Pioneer | 49.00% | ~5,635 |
@@ -207,10 +207,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 1.00% | ~115 |
 | Roman Papacy | 1.00% | ~115 |
 | One City Challenge | 1.00% | ~115 |
-| Acropolis in Athenai | 0.90% | ~103 |
-| Gold Victory (Carthage 2) | 0.90% | ~103 |
-| Battle of the Fertile Crescent | 0.90% | ~103 |
-| Great Ziggurat in Ur | 0.90% | ~103 |
+| Acropolis in Athenai | 0.90% | ~104 |
+| Gold Victory (Carthage 2) | 0.90% | ~104 |
+| Battle of the Fertile Crescent | 0.90% | ~104 |
+| Great Ziggurat in Ur | 0.90% | ~104 |
 | Musaeum in Alexandria | 0.80% | ~92 |
 | Bronze Victory (Carthage 3) | 0.80% | ~92 |
 | Et tu Brutus? | 0.80% | ~92 |
@@ -225,14 +225,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | I am the Archon Now | 0.60% | ~69 |
 | Unfinished Business | 0.60% | ~69 |
 | Philip's Bronze Crown | 0.60% | ~69 |
-| Gold Victory (Carthage 3) | 0.50% | ~57 |
-| Rebuilder | 0.50% | ~57 |
-| Philip's Silver Crown | 0.50% | ~57 |
-| Mighty Bucephalus | 0.50% | ~57 |
-| Knot So Hard | 0.50% | ~57 |
-| A Tyresome Siege | 0.50% | ~57 |
-| Learn By Playing 2 - Just | 0.50% | ~57 |
-| No Characters | 0.50% | ~57 |
+| Gold Victory (Carthage 3) | 0.50% | ~58 |
+| Rebuilder | 0.50% | ~58 |
+| Philip's Silver Crown | 0.50% | ~58 |
+| Mighty Bucephalus | 0.50% | ~58 |
+| Knot So Hard | 0.50% | ~58 |
+| A Tyresome Siege | 0.50% | ~58 |
+| Learn By Playing 2 - Just | 0.50% | ~58 |
+| No Characters | 0.50% | ~58 |
 | Bronze Victory (Carthage 4) | 0.40% | ~46 |
 | Silver Victory (Carthage 4) | 0.40% | ~46 |
 | Avenger | 0.40% | ~46 |
@@ -266,33 +266,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of War | 0.20% | ~23 |
 | Colossus in Rhodes | 0.20% | ~23 |
 | Win a Hotseat Game | 0.20% | ~23 |
-| Alliance Victory | 0.10% | ~11 |
-| The Great Raging Horde | 0.10% | ~11 |
-| United Against The Horde | 0.10% | ~11 |
-| Epic Victory (Carthage 4) | 0.10% | ~11 |
-| Council of Madness | 0.10% | ~11 |
-| Ethnic Diversity | 0.10% | ~11 |
-| That Also Works | 0.10% | ~11 |
-| Not a Chance | 0.10% | ~11 |
-| THIS IS SPARTA!! | 0.10% | ~11 |
-| Not a Scratch | 0.10% | ~11 |
-| Queen of Lies | 0.10% | ~11 |
-| Queen of Opportunity | 0.10% | ~11 |
-| Alexander the Great | 0.10% | ~11 |
-| Alexander the Alright | 0.10% | ~11 |
-| Youth Prevails | 0.10% | ~11 |
-| Toppling the Giants | 0.10% | ~11 |
-| Rule of Pharaohs | 0.10% | ~11 |
-| The Eastern Empire | 0.10% | ~11 |
-| Hardcore | 0.10% | ~11 |
-| Knowledge of the Ancients | 0.10% | ~11 |
-| Merchants of the Levant | 0.10% | ~11 |
-| Play a LAN Game | 0.10% | ~11 |
-| Win a 1-v-1 Game | 0.10% | ~11 |
-| Win a LAN Game | 0.10% | ~11 |
-| Win a Play-By-Cloud Game | 0.10% | ~11 |
+| Alliance Victory | 0.10% | ~12 |
+| The Great Raging Horde | 0.10% | ~12 |
+| United Against The Horde | 0.10% | ~12 |
+| Epic Victory (Carthage 4) | 0.10% | ~12 |
+| Council of Madness | 0.10% | ~12 |
+| Ethnic Diversity | 0.10% | ~12 |
+| That Also Works | 0.10% | ~12 |
+| Not a Chance | 0.10% | ~12 |
+| THIS IS SPARTA!! | 0.10% | ~12 |
+| Not a Scratch | 0.10% | ~12 |
+| Queen of Lies | 0.10% | ~12 |
+| Queen of Opportunity | 0.10% | ~12 |
+| Alexander the Great | 0.10% | ~12 |
+| Alexander the Alright | 0.10% | ~12 |
+| Youth Prevails | 0.10% | ~12 |
+| Toppling the Giants | 0.10% | ~12 |
+| Rule of Pharaohs | 0.10% | ~12 |
+| The Eastern Empire | 0.10% | ~12 |
+| Hardcore | 0.10% | ~12 |
+| Knowledge of the Ancients | 0.10% | ~12 |
+| Merchants of the Levant | 0.10% | ~12 |
+| Play a LAN Game | 0.10% | ~12 |
+| Win a 1-v-1 Game | 0.10% | ~12 |
+| Win a LAN Game | 0.10% | ~12 |
+| Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,499 (Ranked 105)  
+Progressed: 11,500 (Ranked 105)  
 Completed: 3 (0.03%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.03%) (Ranked 184)
 | 2023-05-25 | 11,405 | 3 |
 | 2023-05-26 | 11,439 | 3 |
 | 2023-05-27 | 11,488 | 3 |
-| 2023-05-28 | 11,499 | 3 |
+| 2023-05-28 | 11,500 | 3 |
 ## Awards
 Max (Relaxing): 217  (Ranked 250)  
 Sum: 1,761 (Ranked 197)  

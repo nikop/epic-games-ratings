@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -545,6 +545,11 @@
       "Time": "2023-05-28T04:01:40.9813195+00:00",
       "NumProgressed": 291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T11:00:33.8645376+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -660,7 +665,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_COLL_20",
@@ -676,7 +681,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -684,7 +689,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -772,7 +777,7 @@
       "Name": "Collectibles of Chapter XII",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FIN_CH01",
@@ -780,15 +785,15 @@
       "Name": "Cowardice",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -812,7 +817,7 @@
       "Name": "Consequences",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -850,9 +855,9 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -898,9 +903,9 @@
       "ID": "ACH_HIDE_BODIES",
       "SetID": "1j25agn",
       "Name": "Missing in Action",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -922,9 +927,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -962,9 +967,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -996,7 +1001,7 @@
       "Name": "Bullseye!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_NEST2",
@@ -1027,15 +1032,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:01:12.1885983+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:00:33.864537+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.3542342+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:57:30.3281066+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:01:12.188679+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:57:32.2042063+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:00:33.8645914+00:00"
 }

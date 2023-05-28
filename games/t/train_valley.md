@@ -7,23 +7,23 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 77.00% | ~219 |
-| Close call! | 75.00% | ~213 |
+| Close call! | 74.00% | ~211 |
 | Builder | 57.00% | ~162 |
 | Pangs of conscience | 51.00% | ~145 |
 | Living it large! | 46.00% | ~131 |
 | Collector | 45.00% | ~128 |
-| Need to think | 42.00% | ~119 |
-| Completely nuts! | 36.00% | ~102 |
-| Just in time! | 35.00% | ~99 |
+| Need to think | 42.00% | ~120 |
+| Completely nuts! | 36.00% | ~103 |
+| Just in time! | 35.00% | ~100 |
 | Europe | 32.00% | ~91 |
 | It's no coincidence. | 32.00% | ~91 |
 | Let's roll! | 28.00% | ~80 |
 | Philatelist | 27.00% | ~77 |
 | Ouroboros | 26.00% | ~74 |
 | Non Stop! | 26.00% | ~74 |
-| Madness! | 25.00% | ~71 |
+| Madness! | 26.00% | ~74 |
 | Foreman | 24.00% | ~68 |
-| Missed it! | 23.00% | ~65 |
+| Missed it! | 23.00% | ~66 |
 | Russia | 20.00% | ~57 |
 | America | 18.00% | ~51 |
 | Sabotage | 18.00% | ~51 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.70% | ~2 |
 | Salesman | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 222)  
+Progressed: 285 (Ranked 222)  
 Completed: 2 (0.70%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 2 (0.70%) (Ranked 101)
 | 2023-05-19 | 281 | 2 |
 | 2023-05-20 | 283 | 2 |
 | 2023-05-26 | 284 | 2 |
+| 2023-05-28 | 285 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

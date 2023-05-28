@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~33,047 |
-| Get Busy Living | 17.00% | ~21,608 |
-| Samuel Norton | 10.00% | ~12,710 |
-| Spare The Rod | 5.00% | ~6,355 |
-| Wait and Hope | 4.00% | ~5,084 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,084 |
-| Don't Put Me In The Dark | 3.00% | ~3,813 |
-| Iron Bars | 3.00% | ~3,813 |
-| Throw The Book At Them | 2.00% | ~2,542 |
+| Stone Walls | 26.00% | ~33,056 |
+| Get Busy Living | 17.00% | ~21,613 |
+| Samuel Norton | 10.00% | ~12,714 |
+| Spare The Rod | 5.00% | ~6,357 |
+| Wait and Hope | 4.00% | ~5,085 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,085 |
+| Don't Put Me In The Dark | 3.00% | ~3,814 |
+| Iron Bars | 3.00% | ~3,814 |
+| Throw The Book At Them | 2.00% | ~2,543 |
 | D.B. Cooper | 1.00% | ~1,271 |
 | Reformation | 0.60% | ~763 |
 | Crowd Control | 0.50% | ~636 |
-| Freedom | 0.40% | ~508 |
-| Confined | 0.40% | ~508 |
+| Freedom | 0.40% | ~509 |
+| Confined | 0.40% | ~509 |
 | It's Not What You Know... | 0.10% | ~127 |
 | ... It's What You Can Prove | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,105 (Ranked 56)  
+Progressed: 127,137 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,10 +61,10 @@ Completed: 5 (0.00%) (Ranked 206)
 | 2023-05-25 | 125,760 | 4 |
 | 2023-05-26 | 126,248 | 5 |
 | 2023-05-27 | 126,912 | 5 |
-| 2023-05-28 | 127,105 | 5 |
+| 2023-05-28 | 127,137 | 5 |
 ## Awards
 Max (Extremely Fun): 425  (Ranked 194)  
-Sum: 3,347 (Ranked 144)  
+Sum: 3,348 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -72,7 +72,7 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 414 |
 | This game is Great for Beginners | 412 |
 | This game has Quickly Understood Controls | 397 |
-| This game is Relaxing | 373 |
+| This game is Relaxing | 374 |
 | This game has Diverse Characters | 366 |
 | This game has Amazing Storytelling | 357 |
 | This game has Amazing Characters | 337 |
@@ -210,4 +210,4 @@ Diff (max vs sum): 50
 | 2023-05-25 | 4.61 | - | 425 | 3,331 |
 | 2023-05-26 | 4.61 | - | 425 | 3,340 |
 | 2023-05-27 | 4.61 | - | 425 | 3,345 |
-| 2023-05-28 | 4.61 | - | 425 | 3,347 |
+| 2023-05-28 | 4.61 | - | 425 | 3,348 |

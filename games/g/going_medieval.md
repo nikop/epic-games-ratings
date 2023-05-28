@@ -7,20 +7,20 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 68.00% | ~1,848 |
-| Having A Field Day | 66.00% | ~1,793 |
-| Reap What You Sow | 65.00% | ~1,766 |
+| Having A Field Day | 66.00% | ~1,794 |
+| Reap What You Sow | 65.00% | ~1,767 |
 | Green Thumb | 63.00% | ~1,712 |
-| The First Day | 60.00% | ~1,630 |
+| The First Day | 60.00% | ~1,631 |
 | Novice Researcher | 56.00% | ~1,522 |
-| Putting Food on the Table | 55.00% | ~1,494 |
-| Onward | 50.00% | ~1,358 |
-| Studious Researcher | 48.00% | ~1,304 |
+| Putting Food on the Table | 55.00% | ~1,495 |
+| Onward | 50.00% | ~1,359 |
 | The First Week | 47.00% | ~1,277 |
+| Studious Researcher | 47.00% | ~1,277 |
 | Feast or Famine | 46.00% | ~1,250 |
 | Adept Researcher | 45.00% | ~1,223 |
-| Beam Me Up | 44.00% | ~1,195 |
-| Home Cooked Meal | 44.00% | ~1,195 |
-| Luminary Researcher | 42.00% | ~1,141 |
+| Beam Me Up | 44.00% | ~1,196 |
+| Home Cooked Meal | 44.00% | ~1,196 |
+| Luminary Researcher | 42.00% | ~1,142 |
 | Retribution | 35.00% | ~951 |
 | Fit For A King | 35.00% | ~951 |
 | ...And Don’t Come Back! | 35.00% | ~951 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~54 |
 | Wabbit Season | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,717 (Ranked 137)  
+Progressed: 2,718 (Ranked 137)  
 Completed: 6 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 6 (0.22%) (Ranked 136)
 | 2023-05-25 | 2,701 | 6 |
 | 2023-05-26 | 2,707 | 6 |
 | 2023-05-27 | 2,715 | 6 |
-| 2023-05-28 | 2,717 | 6 |
+| 2023-05-28 | 2,718 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 306)  
 Sum: 932 (Ranked 235)  

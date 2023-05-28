@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10588,
+  "EOS_Progressed": 10596,
   "EOS_Completed": 227,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -4009,6 +4009,11 @@
       "Time": "2023-05-28T10:06:16.0858827+00:00",
       "NumProgressed": 10588,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-05-28T11:05:37.4715253+00:00",
+      "NumProgressed": 10596,
+      "NumCompleted": 227
     }
   ],
   "TotalAchievements": 20,
@@ -4020,7 +4025,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -4028,7 +4033,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "EAST_FINISHED",
@@ -4036,7 +4041,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -4044,7 +4049,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -4052,7 +4057,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -4060,7 +4065,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -4068,7 +4073,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -4076,7 +4081,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -4084,7 +4089,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "FOUND_ERIN",
@@ -4092,7 +4097,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -4100,7 +4105,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "FOUND_MAMBA",
@@ -4108,7 +4113,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -4116,7 +4121,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -4124,7 +4129,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "GAME_FINISHED",
@@ -4132,7 +4137,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "INTRO_FINISHED",
@@ -4140,7 +4145,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 8047
+      "UsersEstimate": 8053
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -4148,7 +4153,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2967
     },
     {
       "ID": "NORTH_FINISHED",
@@ -4156,7 +4161,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -4164,7 +4169,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "WEST_FINISHED",
@@ -4172,22 +4177,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10588,
+      "Progressed": 10596,
       "Completed": 227
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:06:16.0858818+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:05:37.4715248+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:00:23.2843792+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:06:16.0859193+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:59:54.5084396+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:05:37.471559+00:00"
 }

@@ -65,6 +65,7 @@
 | Golden Opportunity | 5.00% | ~9 |
 | Luxury Boutiques | 4.00% | ~7 |
 | Plebs Are Needed | 4.00% | ~7 |
+| Sandbagger | 4.00% | ~7 |
 | Curated Class | 3.00% | ~5 |
 | Decorator's Touch | 3.00% | ~5 |
 | Loft Life | 3.00% | ~5 |
@@ -73,7 +74,6 @@
 | The King of Cool | 3.00% | ~5 |
 | Three of a Kind | 3.00% | ~5 |
 | Four of a Kind | 3.00% | ~5 |
-| Sandbagger | 3.00% | ~5 |
 | In the Money | 3.00% | ~5 |
 | It is Payday | 3.00% | ~5 |
 | Apartment Awareness | 2.00% | ~4 |

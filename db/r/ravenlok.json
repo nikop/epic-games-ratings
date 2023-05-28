@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 883,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 6.8,
   "EosHistory": [
@@ -1913,9 +1913,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 291
     },
     {
       "ID": "14",
@@ -2137,9 +2137,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 300
     },
     {
       "ID": "4",
@@ -2290,8 +2290,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:05:54.6196652+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:05:18.3452893+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:57:27.5677159+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:05:54.6197192+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:57:29.9528006+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:05:18.3453572+00:00"
 }

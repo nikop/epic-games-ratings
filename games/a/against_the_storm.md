@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 1.00% | ~150 |
 | Ancient Battleground | 1.00% | ~150 |
 | Sparkdew Crystals | 1.00% | ~150 |
+| Royal Outpost | 1.00% | ~150 |
 | Lost Colonies | 1.00% | ~150 |
 | Cursed Lands | 1.00% | ~150 |
 | A Real Challenge | 1.00% | ~150 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.90% | ~135 |
 | Flooded Mines | 0.90% | ~135 |
 | Monastery of the Holy Flame | 0.90% | ~135 |
-| Royal Outpost | 0.90% | ~135 |
 | Corrosive Torrent | 0.90% | ~135 |
 | Watchtower | 0.90% | ~135 |
 | Refinery | 0.80% | ~120 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,046 (Ranked 99)  
+Progressed: 15,050 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 33 (0.22%) (Ranked 136)
 | 2023-05-25 | 14,995 | 33 |
 | 2023-05-26 | 15,011 | 33 |
 | 2023-05-27 | 15,040 | 33 |
-| 2023-05-28 | 15,046 | 33 |
+| 2023-05-28 | 15,050 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,031 (Ranked 152)  

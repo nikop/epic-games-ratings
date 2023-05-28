@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6121,
+  "EOS_Progressed": 6122,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2418,6 +2418,11 @@
       "Time": "2023-05-28T10:05:51.6591789+00:00",
       "NumProgressed": 6121,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-28T11:05:15.9274247+00:00",
+      "NumProgressed": 6122,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2445,7 +2450,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -2477,7 +2482,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2596,7 +2601,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6121,
+      "Progressed": 6122,
       "Completed": 23
     }
   ],
@@ -2604,8 +2609,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:05:51.6591783+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:05:15.9274242+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:58:00.2648548+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:05:51.6592068+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:57:55.8470016+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:05:15.9274529+00:00"
 }

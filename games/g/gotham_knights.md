@@ -13,36 +13,36 @@ Rating: 4.17 (Ranked 839)
 | Knighthood | 1.00% | ~625 |
 | Loose Ends | 1.00% | ~625 |
 | Whispered Words | 1.00% | ~625 |
-| Something in the Clay | 0.90% | ~562 |
-| Quartzer Life Crisis | 0.90% | ~562 |
-| Snow Problem | 0.90% | ~562 |
-| Working Hard or Harley Working? | 0.90% | ~562 |
-| Unstoppable Force | 0.90% | ~562 |
-| Lock and Key | 0.90% | ~562 |
+| Something in the Clay | 0.90% | ~563 |
+| Quartzer Life Crisis | 0.90% | ~563 |
+| Snow Problem | 0.90% | ~563 |
+| Working Hard or Harley Working? | 0.90% | ~563 |
+| Unstoppable Force | 0.90% | ~563 |
+| Lock and Key | 0.90% | ~563 |
 | The Show Mud Go On | 0.80% | ~500 |
 | Bad Apples in Every Orchard | 0.80% | ~500 |
-| Protector of Gotham | 0.70% | ~437 |
-| Rock and a Hard Place | 0.70% | ~437 |
-| Shock Til They Drop | 0.70% | ~437 |
-| Cooldown | 0.70% | ~437 |
-| Universal Health Scare | 0.70% | ~437 |
-| From Inside Gotham's Walls | 0.70% | ~437 |
-| Voiceless | 0.70% | ~437 |
-| Seeking Asylum | 0.70% | ~437 |
-| Gotham Knight | 0.70% | ~437 |
+| Protector of Gotham | 0.70% | ~438 |
+| Rock and a Hard Place | 0.70% | ~438 |
+| Shock Til They Drop | 0.70% | ~438 |
+| Cooldown | 0.70% | ~438 |
+| Universal Health Scare | 0.70% | ~438 |
+| From Inside Gotham's Walls | 0.70% | ~438 |
+| Voiceless | 0.70% | ~438 |
+| Seeking Asylum | 0.70% | ~438 |
+| Gotham Knight | 0.70% | ~438 |
 | End of an Era | 0.60% | ~375 |
 | In Your Element | 0.60% | ~375 |
 | Not On My Watch | 0.60% | ~375 |
 | Bulldozed | 0.60% | ~375 |
-| Out of Their League | 0.50% | ~312 |
-| Drone You Out | 0.50% | ~312 |
-| Gotham City Confidential | 0.50% | ~312 |
+| Out of Their League | 0.50% | ~313 |
+| Drone You Out | 0.50% | ~313 |
+| Gotham City Confidential | 0.50% | ~313 |
 | Solid Alibi | 0.40% | ~250 |
-| Dressed to Impress | 0.30% | ~187 |
-| Fusion Expert | 0.30% | ~187 |
-| Expert Crime Fighter | 0.30% | ~187 |
-| Family Meeting | 0.30% | ~187 |
-| A Worthy Successor | 0.30% | ~187 |
+| Dressed to Impress | 0.30% | ~188 |
+| Fusion Expert | 0.30% | ~188 |
+| Expert Crime Fighter | 0.30% | ~188 |
+| Family Meeting | 0.30% | ~188 |
+| A Worthy Successor | 0.30% | ~188 |
 | Hammer and Icicle | 0.20% | ~66 |
 | Renewable Enemy Source | 0.20% | ~66 |
 | A Momentum Occasion | 0.20% | ~125 |
@@ -53,21 +53,21 @@ Rating: 4.17 (Ranked 839)
 | The Cold, the Bad and the Ugly | 0.10% | ~33 |
 | Gotham's Greatest Depths | 0.10% | ~33 |
 | Showdown Sovereign | 0.10% | ~33 |
-| Practice Makes Perfect | 0.10% | ~62 |
+| Practice Makes Perfect | 0.10% | ~63 |
 | That's Showbiz, Clayby | 0.10% | ~33 |
-| Talonted | 0.10% | ~62 |
-| The Man-Bat Family | 0.10% | ~62 |
+| Talonted | 0.10% | ~63 |
+| The Man-Bat Family | 0.10% | ~63 |
 | Icebreaker | 0.10% | ~33 |
 | Don't Mecha Big Deal About It | 0.10% | ~33 |
-| Batarang Collector | 0.10% | ~62 |
-| Read Owl About It | 0.10% | ~62 |
-| History Major | 0.10% | ~62 |
-| Claiming the Mural High Ground | 0.10% | ~62 |
+| Batarang Collector | 0.10% | ~63 |
+| Read Owl About It | 0.10% | ~63 |
+| History Major | 0.10% | ~63 |
+| Claiming the Mural High Ground | 0.10% | ~63 |
 | A Sophisticated Mallet | 0.10% | ~33 |
-| He'd Be So Proud of You | 0.10% | ~62 |
+| He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,497 (Ranked 70)  
+Progressed: 62,504 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
-| 2023-05-28 | 62,497 | 91 |
+| 2023-05-28 | 62,504 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,244  (Ranked 98)  
 Sum: 3,727 (Ranked 137)  

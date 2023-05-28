@@ -510,9 +510,9 @@
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "back_from_the_dead",
@@ -759,8 +759,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:02:11.2613349+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:00:57.8046269+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-28T10:00:10.1456746+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:02:11.2613628+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:59:44.2128948+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:00:57.8046499+00:00"
 }

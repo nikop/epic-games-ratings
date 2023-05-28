@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4260,9 +4260,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705938,
+  "EOS_Progressed": 705950,
   "EOS_Completed": 12739,
-  "EOS_NewPlayers": 1707,
+  "EOS_NewPlayers": 1694,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7515,6 +7515,11 @@
       "Time": "2023-05-28T10:06:19.9741136+00:00",
       "NumProgressed": 705938,
       "NumCompleted": 12739
+    },
+    {
+      "Time": "2023-05-28T11:05:40.9486431+00:00",
+      "NumProgressed": 705950,
+      "NumCompleted": 12739
     }
   ],
   "TotalAchievements": 50,
@@ -7526,7 +7531,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7534,7 +7539,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7542,7 +7547,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7550,7 +7555,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7558,7 +7563,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7630,7 +7635,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "15_Detective_H1",
@@ -7694,7 +7699,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7702,7 +7707,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7710,7 +7715,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "25_ShrineMind",
@@ -7726,7 +7731,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "27_ShrineBody",
@@ -7734,7 +7739,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7790,7 +7795,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "35_WideStrike",
@@ -7806,7 +7811,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7814,7 +7819,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7862,7 +7867,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7878,7 +7883,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7894,7 +7899,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -7910,7 +7915,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7918,28 +7923,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15239,
+      "Progressed": 15251,
       "Completed": 10185
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705938,
+      "Progressed": 705950,
       "Completed": 12739
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T21:58:54.951643+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:06:19.9741133+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:05:40.9486426+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:59:07.1147332+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:06:19.9741726+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:58:52.7615066+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:05:40.948707+00:00"
 }

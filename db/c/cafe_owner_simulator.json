@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 453,
+  "EOS_Progressed": 454,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -843,6 +843,11 @@
       "Time": "2023-05-28T10:06:01.1269623+00:00",
       "NumProgressed": 453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T11:05:24.0022155+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -862,7 +867,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "CHIEF",
@@ -870,7 +875,7 @@
       "Name": "CHIEF",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CLEANER",
@@ -878,7 +883,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "DEBTOR",
@@ -965,7 +970,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 453,
+      "Progressed": 454,
       "Completed": 0
     }
   ],
@@ -973,8 +978,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:06:01.1269615+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:05:24.0022147+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:59:34.3999088+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:06:01.1269796+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:59:14.8062709+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:05:24.0022282+00:00"
 }

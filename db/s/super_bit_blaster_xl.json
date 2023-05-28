@@ -4,7 +4,7 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -383,9 +383,9 @@
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "50K",
@@ -399,9 +399,9 @@
       "ID": "5K",
       "SetID": "1f269fc",
       "Name": "5K",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "75K",
@@ -478,8 +478,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-28T10:05:50.5773672+00:00",
+  "LastChanged_Achievements": "2023-05-28T11:05:15.0168376+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.223313+00:00",
-  "LastUpdate_Ratings": "2023-05-28T09:57:46.735223+00:00",
-  "LastUpdate_Achievements": "2023-05-28T10:05:50.5773839+00:00"
+  "LastUpdate_Ratings": "2023-05-28T10:57:44.6889984+00:00",
+  "LastUpdate_Achievements": "2023-05-28T11:05:15.0168529+00:00"
 }

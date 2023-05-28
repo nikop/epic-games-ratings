@@ -7,23 +7,23 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~610 |
-| Project Arena | 3.00% | ~457 |
-| The Old Grandmaster | 1.00% | ~7,059 |
-| The Assault | 1.00% | ~7,059 |
-| The Hateful Pole Fighter | 1.00% | ~7,059 |
-| A Lady's Blood in the Snow | 1.00% | ~7,059 |
-| Life is your teacher | 1.00% | ~7,059 |
-| State of constant learning | 1.00% | ~7,059 |
-| Qi Gong: Breath | 1.00% | ~7,059 |
-| Lightning Hands | 1.00% | ~7,059 |
-| Bloody Sport | 1.00% | ~152 |
-| The best strikes are the ones we avoid | 1.00% | ~152 |
-| Lady Wing Chun | 0.90% | ~6,353 |
-| Kill Nil | 0.90% | ~6,353 |
-| Street Fighting | 0.90% | ~6,353 |
-| Qi Gong: Essence | 0.90% | ~6,353 |
-| Path of the Prospect | 0.90% | ~6,353 |
-| Rumble in the Hangar | 0.90% | ~6,353 |
+| Project Arena | 3.00% | ~458 |
+| The Old Grandmaster | 1.00% | ~7,060 |
+| The Assault | 1.00% | ~7,060 |
+| The Hateful Pole Fighter | 1.00% | ~7,060 |
+| A Lady's Blood in the Snow | 1.00% | ~7,060 |
+| Life is your teacher | 1.00% | ~7,060 |
+| State of constant learning | 1.00% | ~7,060 |
+| Qi Gong: Breath | 1.00% | ~7,060 |
+| Lightning Hands | 1.00% | ~7,060 |
+| Bloody Sport | 1.00% | ~153 |
+| The best strikes are the ones we avoid | 1.00% | ~153 |
+| Lady Wing Chun | 0.90% | ~6,354 |
+| Kill Nil | 0.90% | ~6,354 |
+| Street Fighting | 0.90% | ~6,354 |
+| Qi Gong: Essence | 0.90% | ~6,354 |
+| Path of the Prospect | 0.90% | ~6,354 |
+| Rumble in the Hangar | 0.90% | ~6,354 |
 | Furious Fists | 0.80% | ~5,648 |
 | Stuntmaster | 0.80% | ~5,648 |
 | Take damage to save time | 0.80% | ~5,648 |
@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.70% | ~4,942 |
 | Dance of the Praying Mantis | 0.60% | ~4,236 |
 | Qi Gong: Mind | 0.60% | ~4,236 |
-| Deadly Venom | 0.60% | ~91 |
-| A Touch of Acumen | 0.60% | ~91 |
+| Deadly Venom | 0.60% | ~92 |
+| A Touch of Acumen | 0.60% | ~92 |
 | Muk Yan Master | 0.50% | ~3,530 |
 | I know Kung-Fu | 0.50% | ~3,530 |
 | Tiger on Fire | 0.40% | ~2,824 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,938 (Ranked 15)  
+Progressed: 705,950 (Ranked 15)  
 Completed: 12,739 (1.80%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 12,739 (1.80%) (Ranked 64)
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
-| 2023-05-28 | 705,938 | 12,739 |
+| 2023-05-28 | 705,950 | 12,739 |
 ## Awards
 Max (Great Boss Battles): 6,102  (Ranked 53)  
 Sum: 10,399 (Ranked 77)  
