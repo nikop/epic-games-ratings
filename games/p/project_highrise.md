@@ -11,7 +11,7 @@
 | Dinner Dash | 39.00% | ~71 |
 | Floor Galore | 38.00% | ~69 |
 | It's Technical | 36.00% | ~66 |
-| Need a Consult | 34.00% | ~62 |
+| Need a Consult | 35.00% | ~64 |
 | Upgrade Unlock | 34.00% | ~62 |
 | Delegate Maintenance | 32.00% | ~58 |
 | Proper Walls | 31.00% | ~56 |
@@ -19,10 +19,10 @@
 | Happy Tenants | 24.00% | ~44 |
 | Potent Potables | 23.00% | ~42 |
 | Smooth Service | 23.00% | ~42 |
+| Lux Living | 22.00% | ~40 |
+| Your Prestige is Rising | 22.00% | ~40 |
 | Retail Revenue | 22.00% | ~40 |
-| Lux Living | 21.00% | ~38 |
 | People Mover | 21.00% | ~38 |
-| Your Prestige is Rising | 21.00% | ~38 |
 | Leveled Up Shops | 21.00% | ~38 |
 | Emporium Empire | 20.00% | ~36 |
 | Get Electrified | 20.00% | ~36 |

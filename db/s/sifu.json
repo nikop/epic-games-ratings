@@ -4260,9 +4260,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 706003,
+  "EOS_Progressed": 706019,
   "EOS_Completed": 12741,
-  "EOS_NewPlayers": 1668,
+  "EOS_NewPlayers": 1666,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7540,6 +7540,11 @@
       "Time": "2023-05-28T15:05:55.9579771+00:00",
       "NumProgressed": 706003,
       "NumCompleted": 12741
+    },
+    {
+      "Time": "2023-05-28T16:05:38.960417+00:00",
+      "NumProgressed": 706019,
+      "NumCompleted": 12741
     }
   ],
   "TotalAchievements": 50,
@@ -7781,9 +7786,9 @@
       "ID": "30_ComboMid",
       "SetID": "adcm20g",
       "Name": "I know Kung-Fu",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3530
+      "UsersEstimate": 4236
     },
     {
       "ID": "31_ComboHigh",
@@ -7887,7 +7892,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7895,7 +7900,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7950,21 +7955,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15304,
+      "Progressed": 15320,
       "Completed": 10185
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706003,
+      "Progressed": 706019,
       "Completed": 12741
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T21:58:54.951643+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:55.9579767+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:38.9604165+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:59:04.9469861+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:55.9580373+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:58:52.0967957+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:38.9604772+00:00"
 }

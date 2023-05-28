@@ -12,8 +12,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 8.00% | ~743 |
 | Mythic Choices | 8.00% | ~743 |
 | Defender's Heart | 8.00% | ~743 |
-| Queen's Gratitude | 7.00% | ~650 |
-| Fifth Crusade | 5.00% | ~464 |
+| Queen's Gratitude | 7.00% | ~651 |
+| Fifth Crusade | 5.00% | ~465 |
 | Embrace of the Abyss | 4.00% | ~372 |
 | Path of the Angel | 4.00% | ~372 |
 | Demonic and Divine | 4.00% | ~372 |
@@ -33,9 +33,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 2.00% | ~186 |
 | Hey, I Know You! | 2.00% | ~186 |
 | Get the Toad | 2.00% | ~186 |
-| Hanged Man's Notes | 2.00% | ~161 |
-| The Lady of the Forest | 2.00% | ~161 |
-| Beware Still Water | 2.00% | ~161 |
+| Hanged Man's Notes | 2.00% | ~162 |
+| The Lady of the Forest | 2.00% | ~162 |
+| Beware Still Water | 2.00% | ~162 |
 | Path of the Demon | 1.00% | ~93 |
 | Path of the Aeon | 1.00% | ~93 |
 | Path of the Trickster | 1.00% | ~93 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,290 (Ranked 110)  
+Progressed: 9,293 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,10 +161,10 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 9,187 | 0 |
 | 2023-05-26 | 9,226 | 0 |
 | 2023-05-27 | 9,264 | 0 |
-| 2023-05-28 | 9,290 | 0 |
+| 2023-05-28 | 9,293 | 0 |
 ## Awards
 Max (Character Customization): 1,642  (Ranked 111)  
-Sum: 6,661 (Ranked 110)  
+Sum: 6,662 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -175,7 +175,7 @@ Diff (max vs sum): 1
 | This game has Diverse Characters | 593 |
 | This game has Amazing Storytelling | 589 |
 | This game has Challenging Combat | 549 |
-| This game has Quickly Understood Controls | 547 |
+| This game has Quickly Understood Controls | 548 |
 | This game is Relaxing | 525 |
 | This game has a Creative Community | 372 |
 | This game has Obsessive Gameplay | 364 |
@@ -303,4 +303,4 @@ Diff (max vs sum): 1
 | 2023-05-25 | 4.76 | - | 1,640 | 6,648 |
 | 2023-05-26 | 4.76 | - | 1,640 | 6,652 |
 | 2023-05-27 | 4.76 | - | 1,642 | 6,655 |
-| 2023-05-28 | 4.76 | - | 1,642 | 6,661 |
+| 2023-05-28 | 4.76 | - | 1,642 | 6,662 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,11 +84,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1567,
+  "EOS_Progressed": 1568,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.6,
+  "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -239,6 +239,11 @@
       "Time": "2023-05-27T21:03:42.2734801+00:00",
       "NumProgressed": 1567,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-28T16:03:25.1081716+00:00",
+      "NumProgressed": 1568,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -298,7 +303,7 @@
       "Name": "\u201COccupied!\u201C",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -337,7 +342,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1567,
+      "Progressed": 1568,
       "Completed": 25
     }
   ],
@@ -345,8 +350,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:03:40.7156644+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:03:25.108171+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.2009842+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:57:46.1922562+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:03:40.7156767+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:57:35.0739623+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:03:25.1081807+00:00"
 }

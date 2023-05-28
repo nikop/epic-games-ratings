@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 886,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
@@ -1955,9 +1955,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 257
+      "UsersEstimate": 266
     },
     {
       "ID": "18",
@@ -1971,9 +1971,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 629
     },
     {
       "ID": "2",
@@ -2211,9 +2211,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 222
     },
     {
       "ID": "47",
@@ -2243,25 +2243,25 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 354
     },
     {
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 266
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 257
+      "UsersEstimate": 266
     },
     {
       "ID": "7",
@@ -2300,8 +2300,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:32.8957032+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:16.213318+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:57:28.3428154+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:32.8957708+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:57:15.3628874+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:16.2133702+00:00"
 }

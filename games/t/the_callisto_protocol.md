@@ -18,15 +18,15 @@ Rating: 4.19 (Ranked 825)
 | Big Game Hunter | 4.00% | ~73 |
 | Get a Grip | 3.00% | ~417 |
 | Float Like A Butterfly | 3.00% | ~417 |
+| Without A Paddle | 3.00% | ~417 |
 | Bear Trap | 3.00% | ~55 |
 | Two Heads Are Better Than One | 2.00% | ~278 |
 | Terminated | 2.00% | ~278 |
 | The Commonality | 2.00% | ~278 |
 | Mugshot | 2.00% | ~278 |
-| Without A Paddle | 2.00% | ~278 |
 | In the Pipe, Five by Five | 2.00% | ~278 |
 | Crash Site | 2.00% | ~278 |
-| Big Spender | 2.00% | ~36 |
+| Big Spender | 2.00% | ~37 |
 | You Need a Gun | 1.00% | ~139 |
 | Parole Denied | 1.00% | ~18 |
 | In Striking Distance | 1.00% | ~139 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,899 (Ranked 102)  
+Progressed: 13,903 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
 | 2023-05-27 | 13,841 | 53 |
-| 2023-05-28 | 13,899 | 53 |
+| 2023-05-28 | 13,903 | 53 |
 ## Awards
 Max (Amazing Storytelling): 47  (Ranked 396)  
 Sum: 272 (Ranked 333)  

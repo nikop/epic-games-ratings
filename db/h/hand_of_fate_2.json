@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656953,
+  "EOS_Progressed": 656954,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4223,6 +4223,11 @@
       "Time": "2023-05-28T15:05:39.4411447+00:00",
       "NumProgressed": 656953,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-28T16:05:22.5540109+00:00",
+      "NumProgressed": 656954,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4234,7 +4239,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473006
+      "UsersEstimate": 473007
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4378,7 +4383,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91973
+      "UsersEstimate": 91974
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -4617,15 +4622,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656953,
+      "Progressed": 656954,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:39.441144+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:22.5540104+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:27.8583755+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:57:39.9541679+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:39.4412042+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:57:28.3116971+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:22.5540679+00:00"
 }

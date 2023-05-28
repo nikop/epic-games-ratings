@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 871,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.91,
+  "EOS_Completed_Percentage": 3.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -656,6 +656,11 @@
       "Time": "2023-05-28T14:06:57.7155129+00:00",
       "NumProgressed": 870,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-05-28T16:05:17.9189157+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 16,
@@ -683,7 +688,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -715,7 +720,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -723,7 +728,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -731,7 +736,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -763,7 +768,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -794,7 +799,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 871,
       "Completed": 34
     }
   ],
@@ -802,8 +807,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:34.5902194+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:17.9189153+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:58:41.3734291+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:34.5902343+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:58:31.5628146+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:17.9189307+00:00"
 }

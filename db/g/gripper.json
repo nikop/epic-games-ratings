@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "ach_quests_shock",
       "SetID": "7flpkel",
       "Name": "Total Shock",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_quests_zero",
@@ -324,9 +324,9 @@
       "ID": "ach_win_anger",
       "SetID": "7flpkel",
       "Name": "Deal with Anger",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_win_bossrush",
@@ -380,9 +380,9 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_win_tunnelrun",
@@ -421,8 +421,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:34.9000088+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:18.1907204+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.9960672+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:58:10.2773249+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:34.9000417+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:58:02.1588775+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:18.1907455+00:00"
 }

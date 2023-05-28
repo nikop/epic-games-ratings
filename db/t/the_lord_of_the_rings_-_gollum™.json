@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -374,9 +374,9 @@
       "ID": "Annoying",
       "SetID": "70l3651",
       "Name": "He\u0027s so Annoying",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "BreakLegs",
@@ -414,9 +414,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "Chapter3",
@@ -430,9 +430,9 @@
       "ID": "Chapter4",
       "SetID": "70l3651",
       "Name": "The Veteran",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "Chapter5",
@@ -526,9 +526,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "GollumChoices",
@@ -622,9 +622,9 @@
       "ID": "Song",
       "SetID": "70l3651",
       "Name": "Made a Song",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "StealFood",
@@ -669,8 +669,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:29.0177828+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:12.3680129+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:57:48.1639498+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:29.0178111+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:57:37.5027048+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:12.3680406+00:00"
 }

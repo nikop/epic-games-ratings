@@ -24,6 +24,7 @@
 | Nerd | 4.00% | ~2 |
 | Geek | 4.00% | ~2 |
 | The Immortal One | 4.00% | ~2 |
+| Time Is of the Essence | 4.00% | ~2 |
 | First and Foremost | 4.00% | ~2 |
 | Made Mother Proud | 4.00% | ~2 |
 | Winner Winner Chicken Dinner | 4.00% | ~2 |
@@ -35,7 +36,6 @@
 | Shopping List | 2.00% | ~1 |
 | Checklist | 2.00% | ~1 |
 | Time Lord | 2.00% | ~1 |
-| Time Is of the Essence | 2.00% | ~1 |
 | First Things First | 2.00% | ~1 |
 | Made Father Proud | 2.00% | ~1 |
 | Win-Win! | 2.00% | ~1 |

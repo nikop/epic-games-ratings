@@ -4,8 +4,8 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "EVADER",
@@ -261,9 +261,9 @@
       "ID": "SEWERS_BOSS",
       "SetID": "63n2m0e",
       "Name": "Sewage Treatement",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SWIFT",
@@ -300,8 +300,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:02:29.2866953+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:02:24.4858129+00:00",
   "LastUpdate_AppInfo": "2023-05-23T19:56:59.3974929+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:57:04.3910205+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:02:29.2867098+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:56:51.3901851+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:02:24.4858388+00:00"
 }

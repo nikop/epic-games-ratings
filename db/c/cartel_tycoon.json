@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -630,6 +630,11 @@
       "Time": "2023-05-28T02:18:52.9913896+00:00",
       "NumProgressed": 347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T16:05:36.1407936+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -657,7 +662,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "dont-miss-calls",
@@ -681,7 +686,7 @@
       "Name": "That was base",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "hire-lieutenant",
@@ -689,7 +694,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "kill-lieutenants",
@@ -705,7 +710,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "play-at-night",
@@ -727,9 +732,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 157
     },
     {
       "ID": "rename-lieutenant",
@@ -759,17 +764,17 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "unlock-residences",
       "SetID": "bed33dd",
       "Name": "Pampered Life",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "upgrade-building",
@@ -777,7 +782,7 @@
       "Name": "Take-Off",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "use-submarine",
@@ -792,15 +797,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:52.7356224+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:36.1407931+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.0374277+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:00:10.807309+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:52.7356371+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:00:00.5870735+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:36.1408106+00:00"
 }

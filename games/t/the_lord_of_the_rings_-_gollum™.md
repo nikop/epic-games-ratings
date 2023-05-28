@@ -8,16 +8,16 @@
 | Collectibles Part 1 | 47.00% | ~152 |
 | Welcome to Mordor! | 47.00% | ~152 |
 | Wait! Wait! Not yet! | 29.00% | ~94 |
+| Like Flying... | 27.00% | ~87 |
 | Memories | 27.00% | ~87 |
-| Like Flying... | 26.00% | ~84 |
-| The Maggot | 18.00% | ~58 |
+| The Maggot | 19.00% | ~61 |
 | The Breeder | 13.00% | ~42 |
-| The Veteran | 10.00% | ~32 |
+| The Veteran | 11.00% | ~36 |
 | The Traitor | 6.00% | ~19 |
 | The Spider | 5.00% | ~16 |
+| He's so Annoying | 3.00% | ~10 |
 | Good as Fish | 3.00% | ~10 |
 | Trigger-Happy | 3.00% | ~10 |
-| He's so Annoying | 2.00% | ~6 |
 | Her Eyes | 2.00% | ~6 |
 | Gollum/Sméagol | 2.00% | ~6 |
 | Murderer | 2.00% | ~6 |
@@ -29,9 +29,9 @@
 | The Friend | 0.60% | ~2 |
 | Sweet Darkness | 0.60% | ~2 |
 | Nervous Hands | 0.60% | ~2 |
+| Made a Song | 0.60% | ~2 |
 | Elf-Friend | 0.30% | ~1 |
 | We wants it! We needs it | 0.30% | ~1 |
-| Made a Song | 0.30% | ~1 |
 | Ss ss ss... | 0.30% | ~1 |
 | Collectibles Part 2 | 0.00% | ~0 |
 | Rule them all! | 0.00% | ~0 |

@@ -5,11 +5,11 @@ Rating: 3.91 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,129 |
-| World Map | 80.00% | ~961 |
-| Temple of Eternals | 57.00% | ~685 |
+| Victor | 94.00% | ~1,130 |
+| World Map | 80.00% | ~962 |
+| Temple of Eternals | 56.00% | ~673 |
 | Prestigious | 53.00% | ~637 |
-| Fellowship Power | 40.00% | ~480 |
+| Fellowship Power | 40.00% | ~481 |
 | Guild Power | 24.00% | ~288 |
 | Prestigious x10 | 21.00% | ~252 |
 | The game is on | 19.00% | ~228 |
@@ -81,7 +81,7 @@ Rating: 3.91 (Ranked 907)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,201 (Ranked 161)  
+Progressed: 1,202 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.08%) (Ranked 166)
 | 2023-05-25 | 1,163 | 1 |
 | 2023-05-26 | 1,178 | 1 |
 | 2023-05-27 | 1,192 | 1 |
-| 2023-05-28 | 1,201 | 1 |
+| 2023-05-28 | 1,202 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

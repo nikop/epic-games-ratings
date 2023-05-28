@@ -13,47 +13,47 @@
 | Not so hip anymore! | 81.00% | ~52 |
 | Nerd | 81.00% | ~52 |
 | Blurry depth perception | 78.00% | ~50 |
-| Up and down | 73.00% | ~47 |
+| Up and down | 75.00% | ~48 |
 | Rolling, Rolling, Rolling | 72.00% | ~46 |
 | Fire-fighter! | 61.00% | ~39 |
+| Make Love not War-Craft a Mistlefoe | 61.00% | ~39 |
 | Oh, you're up to no gouda! | 59.00% | ~38 |
-| Make Love not War-Craft a Mistlefoe | 59.00% | ~38 |
-| Meat grinder | 56.00% | ~36 |
+| Meat grinder | 58.00% | ~37 |
 | Butcher | 48.00% | ~31 |
 | You're not going to blow me up! | 48.00% | ~31 |
 | Mushroom soup of the day | 45.00% | ~29 |
 | Spare Ribs | 45.00% | ~29 |
 | Honk honk! | 44.00% | ~28 |
 | My pants squeak when I walk | 44.00% | ~28 |
-| Thats disgusting! | 41.00% | ~26 |
-| Cockadoodledoo! | 41.00% | ~26 |
+| Thats disgusting! | 42.00% | ~27 |
+| Cockadoodledoo! | 42.00% | ~27 |
 | Surprise!! | 39.00% | ~25 |
-| Make America Grate Again | 36.00% | ~23 |
-| Self assessed tax return | 36.00% | ~23 |
-| Karaoke king | 36.00% | ~23 |
+| Make America Grate Again | 38.00% | ~24 |
+| Self assessed tax return | 38.00% | ~24 |
+| Karaoke king | 38.00% | ~24 |
 | Pasta Bolognese | 34.00% | ~22 |
 | You are no match for me, Billy! | 33.00% | ~21 |
 | You can't stop me, bro! | 33.00% | ~21 |
 | Catch the bus with me! | 31.00% | ~20 |
 | Haemochromatosis | 31.00% | ~20 |
-| Meatballs, coming up! | 28.00% | ~18 |
+| Meatballs, coming up! | 30.00% | ~19 |
 | I'm going to get a concussion | 28.00% | ~18 |
 | Another one bites the iron | 27.00% | ~17 |
 | A Megapint...? | 22.00% | ~14 |
+| Hovering around | 22.00% | ~14 |
 | Ripe Meat Off The Bone! | 20.00% | ~13 |
-| Hovering around | 20.00% | ~13 |
 | Kleptomaniac | 19.00% | ~12 |
+| You're not so Big anymore, Boi! | 17.00% | ~11 |
 | Your daily dose of Vitamin C. | 17.00% | ~11 |
-| You're not so Big anymore, Boi! | 16.00% | ~10 |
 | Just wing it! | 16.00% | ~10 |
-| I cant stand still! | 14.00% | ~9 |
+| I cant stand still! | 16.00% | ~10 |
+| Deal with it | 14.00% | ~9 |
 | Slimy... yet satisfying | 14.00% | ~9 |
-| Deal with it | 13.00% | ~8 |
+| Ancient Ruins of Dirty Feet | 11.00% | ~7 |
 | Yeehaw!!! | 11.00% | ~7 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |
 | Master Butcher | 11.00% | ~7 |
-| Ancient Ruins of Dirty Feet | 9.00% | ~6 |
-| Spoiler alert! | 8.00% | ~5 |
+| Spoiler alert! | 9.00% | ~6 |
 | You're looking mozzare-hella good! | 6.00% | ~4 |
 | Scrambled Eggs | 6.00% | ~4 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |

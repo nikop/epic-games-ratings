@@ -8,15 +8,15 @@
 | Island 2 | 91.00% | ~32 |
 | Island 3 | 89.00% | ~31 |
 | Island 4 | 80.00% | ~28 |
-| Island 5 | 69.00% | ~24 |
-| Island 6 | 49.00% | ~17 |
-| Island 10 | 46.00% | ~16 |
-| Island 7 | 46.00% | ~16 |
-| Island 8 | 46.00% | ~16 |
-| Island 9 | 46.00% | ~16 |
-| Island 11 | 40.00% | ~14 |
-| Island 12 | 40.00% | ~14 |
-| Island 13 | 34.00% | ~12 |
+| Island 5 | 71.00% | ~25 |
+| Island 6 | 51.00% | ~18 |
+| Island 10 | 49.00% | ~17 |
+| Island 7 | 49.00% | ~17 |
+| Island 8 | 49.00% | ~17 |
+| Island 9 | 49.00% | ~17 |
+| Island 11 | 43.00% | ~15 |
+| Island 12 | 43.00% | ~15 |
+| Island 13 | 37.00% | ~13 |
 | Island 14 | 34.00% | ~12 |
 | Island 15 | 31.00% | ~11 |
 | Island 16 | 31.00% | ~11 |
@@ -40,7 +40,7 @@
 | Island 34 | 20.00% | ~7 |
 | Island 35 | 20.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 306)  
+Progressed: 35 (Ranked 307)  
 Completed: 7 (20.00%) (Ranked 7)  
 ## EOS Players History
 | Date | Progressed | Completed |

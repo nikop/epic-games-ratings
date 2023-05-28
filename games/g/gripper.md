@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Deal with Shock | 61.00% | ~23 |
+| Deal with Shock | 63.00% | ~24 |
 | Skinner | 50.00% | ~19 |
-| Deal with Anger | 29.00% | ~11 |
+| Deal with Anger | 32.00% | ~12 |
 | Robolimb Ripper | 16.00% | ~6 |
 | Deal with Depression | 13.00% | ~5 |
-| Total Shock | 8.00% | ~3 |
+| Total Shock | 11.00% | ~4 |
 | No Shock Race | 8.00% | ~3 |
 | Max Health | 5.00% | ~2 |
 | No Anger Race | 5.00% | ~2 |

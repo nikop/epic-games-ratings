@@ -4,11 +4,11 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 907,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 160,
+  "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -2785,10 +2785,16 @@
       "Rating": 3.91,
       "NumberOfAwards": 2758,
       "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-05-28T15:59:40.5724069+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 2759,
+      "NumberOfAwardsMax": 391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2758,
+  "NumberOfAwards": 2759,
   "NumberOfAwardsMax": 391,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2850,7 +2856,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 322
+      "Count": 323
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2870,8 +2876,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-05-27T13:59:19.6442414+00:00",
+  "LastChanged": "2023-05-28T15:59:40.5724068+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:13.515034+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:59:47.3618538+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:03:38.9102975+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:59:40.5724078+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:03:23.2956543+00:00"
 }

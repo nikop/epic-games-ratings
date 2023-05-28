@@ -5,19 +5,19 @@ Rating: 4.68 (Ranked 237)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,991 |
-| 50 HEADSHOTS | 11.00% | ~44,991 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,721 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,721 |
-| 200 HEADSHOTS | 7.00% | ~28,631 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,540 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,450 |
-| FINISHED CHAPTER 4 | 4.00% | ~16,360 |
-| FINISH CHAPTER 5 | 4.00% | ~16,360 |
-| FINISH CHAPTER 6 | 4.00% | ~16,360 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,360 |
-| 1000 KILLS | 3.00% | ~12,270 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~8,180 |
+| 100 KILLS | 11.00% | ~44,993 |
+| 50 HEADSHOTS | 11.00% | ~44,993 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,722 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,722 |
+| 200 HEADSHOTS | 7.00% | ~28,632 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,542 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,451 |
+| FINISHED CHAPTER 4 | 4.00% | ~16,361 |
+| FINISH CHAPTER 5 | 4.00% | ~16,361 |
+| FINISH CHAPTER 6 | 4.00% | ~16,361 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,361 |
+| 1000 KILLS | 3.00% | ~12,271 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~8,181 |
 | FIREFIGHT LEVEL 20 | 0.60% | ~2,454 |
 | FIRST BLOOD | 0.60% | ~2,454 |
 | PACEMAKER | 0.40% | ~1,636 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 237)
 | THE GAMBLER | 0.10% | ~409 |
 | WARRIOR IN A GARDEN | 0.10% | ~409 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,008 (Ranked 34)  
+Progressed: 409,026 (Ranked 34)  
 Completed: 31 (0.01%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,11 +96,11 @@ Completed: 31 (0.01%) (Ranked 195)
 | 2023-05-25 | 407,754 | 31 |
 | 2023-05-26 | 408,218 | 31 |
 | 2023-05-27 | 408,716 | 31 |
-| 2023-05-28 | 409,008 | 31 |
+| 2023-05-28 | 409,026 | 31 |
 ## Awards
-Max (Great Boss Battles): 173  (Ranked 273)  
+Max (Great Boss Battles): 173  (Ranked 274)  
 Sum: 173 (Ranked 366)  
-Diff (max vs sum): -93  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 173 |

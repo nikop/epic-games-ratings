@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6126,
+  "EOS_Progressed": 6128,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2438,6 +2438,11 @@
       "Time": "2023-05-28T15:05:30.7715133+00:00",
       "NumProgressed": 6126,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-28T16:05:14.0162331+00:00",
+      "NumProgressed": 6128,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2449,7 +2454,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ARRR",
@@ -2553,7 +2558,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "LIBERATOR",
@@ -2616,7 +2621,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6126,
+      "Progressed": 6128,
       "Completed": 23
     }
   ],
@@ -2624,8 +2629,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:30.7715129+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:14.0162326+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:58:00.0284922+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:30.7715444+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:57:51.489685+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:14.0162599+00:00"
 }

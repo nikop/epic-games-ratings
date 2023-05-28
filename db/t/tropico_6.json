@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3179,
+  "EOS_Progressed": 3182,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3035,6 +3035,11 @@
       "Time": "2023-05-28T15:06:11.0680165+00:00",
       "NumProgressed": 3179,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T16:05:43.9577971+00:00",
+      "NumProgressed": 3182,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3086,7 +3091,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -3102,7 +3107,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3142,7 +3147,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3150,7 +3155,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3166,7 +3171,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3190,7 +3195,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -3198,7 +3203,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3206,7 +3211,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2450
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3302,7 +3307,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3318,7 +3323,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3326,7 +3331,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -3350,7 +3355,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -3365,15 +3370,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3179,
+      "Progressed": 3182,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:06:11.0680156+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:43.9577966+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:00:15.3300434+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:06:11.0680628+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:00:05.9373196+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:43.9578433+00:00"
 }

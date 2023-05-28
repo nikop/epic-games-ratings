@@ -6,44 +6,44 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,106 |
-| That's a Grand Army | 8.00% | ~3,650 |
-| That is mine! | 8.00% | ~3,650 |
-| Victorious! | 8.00% | ~3,650 |
-| Brothers in Arms | 6.00% | ~2,737 |
-| That's a Grand Navy | 6.00% | ~2,737 |
-| Seriously?! | 6.00% | ~2,737 |
-| For the Glory | 5.00% | ~2,281 |
-| Cold War | 4.00% | ~1,825 |
-| True Catholic | 4.00% | ~1,825 |
-| Defender of the Faith | 3.00% | ~1,369 |
-| It's all about the money | 3.00% | ~1,369 |
-| Respected | 3.00% | ~1,369 |
-| Truly Divine Ruler | 3.00% | ~1,369 |
-| Agressive Expander | 2.00% | ~912 |
-| Blockader | 2.00% | ~912 |
-| Combined Arms | 2.00% | ~912 |
-| Double the Love | 2.00% | ~912 |
-| Gentle Persuasion | 2.00% | ~912 |
-| It's all about luck | 2.00% | ~912 |
-| Queen of Conquest | 2.00% | ~912 |
-| Royal Authority | 2.00% | ~912 |
-| The Princess is in this Castle | 2.00% | ~912 |
-| Total Control | 2.00% | ~912 |
-| All That's Thine Shall Be Mine | 1.00% | ~456 |
-| Azur semé de lis or | 1.00% | ~456 |
-| Bright Spark | 1.00% | ~456 |
-| City of Cities | 1.00% | ~456 |
-| Factionalism | 1.00% | ~456 |
-| A Golden Empire | 1.00% | ~456 |
-| My armies are invincible! | 1.00% | ~456 |
+| Until death do us apart | 9.00% | ~4,110 |
+| That's a Grand Army | 8.00% | ~3,654 |
+| That is mine! | 8.00% | ~3,654 |
+| Victorious! | 8.00% | ~3,654 |
+| Brothers in Arms | 6.00% | ~2,740 |
+| That's a Grand Navy | 6.00% | ~2,740 |
+| Seriously?! | 6.00% | ~2,740 |
+| For the Glory | 5.00% | ~2,284 |
+| Cold War | 4.00% | ~1,827 |
+| True Catholic | 4.00% | ~1,827 |
+| Defender of the Faith | 3.00% | ~1,370 |
+| It's all about the money | 3.00% | ~1,370 |
+| Respected | 3.00% | ~1,370 |
+| Truly Divine Ruler | 3.00% | ~1,370 |
+| Agressive Expander | 2.00% | ~913 |
+| Blockader | 2.00% | ~913 |
+| Combined Arms | 2.00% | ~913 |
+| Double the Love | 2.00% | ~913 |
+| Gentle Persuasion | 2.00% | ~913 |
+| It's all about luck | 2.00% | ~913 |
+| Queen of Conquest | 2.00% | ~913 |
+| Royal Authority | 2.00% | ~913 |
+| The Princess is in this Castle | 2.00% | ~913 |
+| Total Control | 2.00% | ~913 |
+| All That's Thine Shall Be Mine | 1.00% | ~457 |
+| Azur semé de lis or | 1.00% | ~457 |
+| Bright Spark | 1.00% | ~457 |
+| City of Cities | 1.00% | ~457 |
+| Factionalism | 1.00% | ~457 |
+| A Golden Empire | 1.00% | ~457 |
+| My armies are invincible! | 1.00% | ~457 |
 | The Five Colonies | 0.90% | ~411 |
 | This navy can take it all | 0.90% | ~411 |
 | The Emperors new clothes | 0.80% | ~365 |
 | Isn't this the way to India? | 0.80% | ~365 |
 | Market Control | 0.80% | ~365 |
-| Down Under | 0.70% | ~319 |
-| Trustworthy | 0.70% | ~319 |
+| Down Under | 0.70% | ~320 |
+| Trustworthy | 0.70% | ~320 |
 | Electable! | 0.60% | ~274 |
 | Time Bandit | 0.60% | ~274 |
 | All belongs to Mother Russia | 0.50% | ~228 |
@@ -54,15 +54,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.50% | ~228 |
 | This is My Faith | 0.50% | ~228 |
 | Trophy Hunter | 0.50% | ~228 |
-| Absolutely | 0.40% | ~182 |
-| Dude, Where's my Boat? | 0.40% | ~182 |
-| Grand Coalition | 0.40% | ~182 |
-| In the Name of the Father | 0.40% | ~182 |
-| Live Long and Prosper | 0.40% | ~182 |
-| One Night in Paris | 0.40% | ~182 |
-| Ruina Imperii | 0.40% | ~182 |
-| The Continuation of Diplomacy | 0.40% | ~182 |
-| Voting Streak | 0.40% | ~182 |
+| Absolutely | 0.40% | ~183 |
+| Dude, Where's my Boat? | 0.40% | ~183 |
+| Grand Coalition | 0.40% | ~183 |
+| In the Name of the Father | 0.40% | ~183 |
+| Live Long and Prosper | 0.40% | ~183 |
+| One Night in Paris | 0.40% | ~183 |
+| Ruina Imperii | 0.40% | ~183 |
+| The Continuation of Diplomacy | 0.40% | ~183 |
+| Voting Streak | 0.40% | ~183 |
 | A Pile of Gold | 0.30% | ~137 |
 | All Your Trade Are Belong to Us | 0.30% | ~137 |
 | Bleed Them Dry | 0.30% | ~137 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,624 (Ranked 78)  
+Progressed: 45,671 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 43,718 | 0 |
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
-| 2023-05-28 | 45,624 | 0 |
+| 2023-05-28 | 45,671 | 0 |
 ## Awards
 Max (Educational): 5,302  (Ranked 60)  
 Sum: 43,879 (Ranked 27)  

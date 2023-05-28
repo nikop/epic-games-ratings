@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72442,
+  "EOS_Progressed": 72454,
   "EOS_Completed": 334,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -4203,6 +4203,11 @@
       "Time": "2023-05-28T15:05:48.4659404+00:00",
       "NumProgressed": 72442,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-05-28T16:05:31.7413411+00:00",
+      "NumProgressed": 72454,
+      "NumCompleted": 334
     }
   ],
   "TotalAchievements": 10,
@@ -4214,7 +4219,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "Drawings01",
@@ -4222,7 +4227,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "Drawings02",
@@ -4230,7 +4235,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "Drawings03",
@@ -4270,7 +4275,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7244
+      "UsersEstimate": 7245
     },
     {
       "ID": "Level00BowlingStrike",
@@ -4278,7 +4283,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 26079
+      "UsersEstimate": 26083
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -4286,22 +4291,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 72442,
+      "Progressed": 72454,
       "Completed": 334
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:48.4659397+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:31.7413405+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.412236+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:00:31.516409+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:48.4659716+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:00:25.4367029+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:31.7413704+00:00"
 }

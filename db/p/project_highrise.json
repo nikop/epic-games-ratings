@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -207,9 +207,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_apartments_2",
@@ -327,9 +327,9 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_consultant_1",
@@ -631,9 +631,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_prestige_2",
@@ -904,8 +904,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:06:13.4910645+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:46.5240339+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:58:07.4417468+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:06:13.4911686+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:58:00.0524673+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:46.524138+00:00"
 }

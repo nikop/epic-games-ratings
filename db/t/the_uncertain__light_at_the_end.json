@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -229,6 +229,11 @@
       "Time": "2023-05-28T08:07:16.246021+00:00",
       "NumProgressed": 431,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-28T16:05:41.4946684+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -264,7 +269,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Doors_Closing",
@@ -374,9 +379,9 @@
       "ID": "MISSING_DATA",
       "SetID": "ek310c",
       "Name": "Does Not Compute",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "Misanthrope",
@@ -408,7 +413,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Old_Friend",
@@ -456,7 +461,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -471,7 +476,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 5
     }
   ],
@@ -479,8 +484,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:58.6581601+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:41.4946679+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.4179478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:00:38.8447886+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:58.6581804+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:00:31.5860635+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:41.4946888+00:00"
 }

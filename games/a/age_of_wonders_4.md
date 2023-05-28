@@ -5,36 +5,36 @@ Rating: 4.53 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~2,963 |
-| Realm Estate | 76.00% | ~2,851 |
-| Secret Technique | 75.00% | ~2,813 |
-| Walls Cannot Stop Us | 73.00% | ~2,738 |
-| From Friends to Family | 69.00% | ~2,588 |
-| Magical Synergy | 64.00% | ~2,401 |
-| Bone Peddler | 61.00% | ~2,288 |
-| Stronger Together | 55.00% | ~2,063 |
-| Full Ascension | 53.00% | ~1,988 |
-| There Can Only Be One! | 47.00% | ~1,763 |
-| Seat of Power | 46.00% | ~1,725 |
-| Intimidation Tactics | 44.00% | ~1,650 |
-| My Final Form | 43.00% | ~1,613 |
-| Valley of Wonders | 41.00% | ~1,538 |
-| In a Liege of Your Own | 36.00% | ~1,350 |
-| Return of the Wizard King | 30.00% | ~1,125 |
-| Digging for Treasure | 30.00% | ~1,125 |
-| Against the Odds | 30.00% | ~1,125 |
-| Enchanted Archipelago | 26.00% | ~975 |
-| Impenetrable Fortress | 26.00% | ~975 |
+| A Wonderful Discovery | 79.00% | ~2,966 |
+| Realm Estate | 76.00% | ~2,854 |
+| Secret Technique | 75.00% | ~2,816 |
+| Walls Cannot Stop Us | 73.00% | ~2,741 |
+| From Friends to Family | 69.00% | ~2,591 |
+| Magical Synergy | 64.00% | ~2,403 |
+| Bone Peddler | 61.00% | ~2,291 |
+| Stronger Together | 55.00% | ~2,065 |
+| Full Ascension | 53.00% | ~1,990 |
+| There Can Only Be One! | 47.00% | ~1,765 |
+| Seat of Power | 46.00% | ~1,727 |
+| Intimidation Tactics | 44.00% | ~1,652 |
+| My Final Form | 43.00% | ~1,615 |
+| Valley of Wonders | 41.00% | ~1,540 |
+| In a Liege of Your Own | 36.00% | ~1,352 |
+| Return of the Wizard King | 30.00% | ~1,126 |
+| Digging for Treasure | 30.00% | ~1,126 |
+| Against the Odds | 30.00% | ~1,126 |
+| Enchanted Archipelago | 26.00% | ~976 |
+| Impenetrable Fortress | 26.00% | ~976 |
 | The Magic That Empowers Me! | 19.00% | ~713 |
 | Preparation Is Everything | 19.00% | ~713 |
-| Arch Mage | 18.00% | ~675 |
+| Arch Mage | 18.00% | ~676 |
 | God Emperor | 17.00% | ~638 |
-| Eternal Lord | 16.00% | ~600 |
-| Crimson Caldera | 16.00% | ~600 |
-| The Creator | 14.00% | ~525 |
-| Fiery Friend | 14.00% | ~525 |
+| Eternal Lord | 16.00% | ~601 |
+| Crimson Caldera | 16.00% | ~601 |
+| The Creator | 14.00% | ~526 |
+| Fiery Friend | 14.00% | ~526 |
 | Lord of Chaos | 13.00% | ~488 |
-| The Goddess of Nature | 12.00% | ~450 |
+| The Goddess of Nature | 12.00% | ~451 |
 | Pruning for Progress | 9.00% | ~338 |
 | The Eternal Court | 8.00% | ~300 |
 | Jack of All Tomes | 8.00% | ~300 |
@@ -50,7 +50,7 @@ Rating: 4.53 (Ranked 494)
 | Returning Circle | 0.30% | ~11 |
 | Master of Evilness | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,751 (Ranked 131)  
+Progressed: 3,755 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 3,417 | 0 |
 | 2023-05-26 | 3,539 | 0 |
 | 2023-05-27 | 3,669 | 0 |
-| 2023-05-28 | 3,751 | 0 |
+| 2023-05-28 | 3,755 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

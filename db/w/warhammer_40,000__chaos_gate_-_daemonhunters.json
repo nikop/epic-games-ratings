@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2722,
+  "EOS_Progressed": 2726,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1187,6 +1187,11 @@
       "Time": "2023-05-28T15:05:57.7787195+00:00",
       "NumProgressed": 2722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T16:05:40.8067294+00:00",
+      "NumProgressed": 2726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1214,7 +1219,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "BloodAndIron",
@@ -1262,7 +1267,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Dominus",
@@ -1286,7 +1291,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1294,7 +1299,7 @@
       "Name": "Surgical Excision",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1358,7 +1363,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Kills_Auto",
@@ -1366,7 +1371,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "Kills_Bleed",
@@ -1390,7 +1395,7 @@
       "Name": "Executioner",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 900
     },
     {
       "ID": "Kills_Exterminator",
@@ -1398,15 +1403,15 @@
       "Name": "Exterminator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 409
     },
     {
       "ID": "Kills_Interactable",
@@ -1422,7 +1427,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "Kills_Streak",
@@ -1446,7 +1451,7 @@
       "Name": "An Ill Omen",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1462,7 +1467,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1470,7 +1475,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1478,7 +1483,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "MasterOfTheForge",
@@ -1534,7 +1539,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1566,7 +1571,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1590,7 +1595,7 @@
       "Name": "Preservationist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -1598,7 +1603,7 @@
       "Name": "Engine Kill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -1630,7 +1635,7 @@
       "Name": "Death Comes For All",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "SacristaCompleted",
@@ -1669,21 +1674,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2722,
+      "Progressed": 2726,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2722,
+      "Progressed": 2726,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:57.7787187+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:40.8067289+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:58:42.3947179+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:57.7787778+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:58:32.2618862+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:40.8067857+00:00"
 }

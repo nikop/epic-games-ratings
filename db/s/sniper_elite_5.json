@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1715,
+  "EOS_Progressed": 1719,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1723,6 +1723,11 @@
       "Time": "2023-05-28T15:05:40.9781775+00:00",
       "NumProgressed": 1715,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T16:05:24.1657186+00:00",
+      "NumProgressed": 1719,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1742,7 +1747,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1782,7 +1787,7 @@
       "Name": "Fields of Glory",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1814,7 +1819,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1894,7 +1899,7 @@
       "Name": "Precision Is Key",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1902,7 +1907,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1942,7 +1947,7 @@
       "Name": "Lord of War",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1966,7 +1971,7 @@
       "Name": "Der Geist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1990,7 +1995,7 @@
       "Name": "Close Quarters",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1998,7 +2003,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2036,9 +2041,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -2046,7 +2051,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2084,9 +2089,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -2142,7 +2147,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2204,9 +2209,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -2301,13 +2306,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1666,
+      "Progressed": 1670,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1715,
+      "Progressed": 1719,
       "Completed": 2
     }
   ],
@@ -2315,8 +2320,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:40.9781769+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:24.1657177+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:00:35.9278743+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:40.9782531+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:00:30.1701697+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:24.1657914+00:00"
 }

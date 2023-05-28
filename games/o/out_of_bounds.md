@@ -35,10 +35,10 @@
 | EnergyBackup >= 30 | 15.00% | ~4 |
 | EnergyBackup >= 45 | 15.00% | ~4 |
 | Damn, I'm GOOD! | 11.00% | ~3 |
-| Just in time! | 7.00% | ~2 |
+| Just in time! | 11.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27 (Ranked 316)  
-Completed: 2 (7.41%) (Ranked 22)  
+Completed: 3 (11.11%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,4 +46,4 @@ Completed: 2 (7.41%) (Ranked 22)
 | 2023-05-15 | 24 | 1 |
 | 2023-05-17 | 25 | 2 |
 | 2023-05-21 | 26 | 2 |
-| 2023-05-28 | 27 | 2 |
+| 2023-05-28 | 27 | 3 |

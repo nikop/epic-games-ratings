@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -554,6 +554,11 @@
       "Time": "2023-05-28T15:05:39.3738497+00:00",
       "NumProgressed": 402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T16:05:22.5195634+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -589,7 +594,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "DevilDetail",
@@ -781,7 +786,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Toxic",
@@ -820,7 +825,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 0
     }
   ],
@@ -828,8 +833,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:39.3738488+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:22.5195629+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:57:56.8213529+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:39.3738775+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:57:46.2685668+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:22.5195874+00:00"
 }

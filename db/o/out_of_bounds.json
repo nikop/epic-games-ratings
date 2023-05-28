@@ -3,9 +3,9 @@
   "Name": "Out of Bounds",
   "ProductSlug": "out-of-bounds-ade206",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-04-13T17:00:00+00:00",
     "PcReleaseDate": "2023-04-13T17:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 27,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.41,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 11.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:55.9543072+00:00",
@@ -54,6 +54,11 @@
       "Time": "2023-05-28T11:05:45.8858542+00:00",
       "NumProgressed": 27,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T16:05:43.8569775+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 32,
@@ -247,9 +252,9 @@
       "ID": "FinishGame_MoreTime",
       "SetID": "94h12fn",
       "Name": "Just in time!",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LoseBy_Audio",
@@ -321,12 +326,12 @@
       "ID": "94h12fn",
       "IsBase": true,
       "Progressed": 27,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:06:10.9418591+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:43.8569768+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:33.0253322+00:00",
-  "LastUpdate_Ratings": "2023-05-28T15:00:16.0822408+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:06:10.941883+00:00"
+  "LastUpdate_Ratings": "2023-05-28T16:00:07.2295551+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:43.8570104+00:00"
 }

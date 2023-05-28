@@ -29,14 +29,14 @@
 | Tastes Like Chicken | 62.00% | ~96 |
 | Combo Breaker | 61.00% | ~95 |
 | Thunderstorm | 61.00% | ~95 |
+| Brilliant: Holy Mountain | 60.00% | ~93 |
 | Clean Forests | 59.00% | ~91 |
-| Brilliant: Holy Mountain | 59.00% | ~91 |
 | Starry: Meadowshire | 55.00% | ~85 |
 | Lieutenant of the Evil | 54.00% | ~84 |
 | Avada Kedavra | 52.00% | ~81 |
 | Starry: Holy Mountain | 52.00% | ~81 |
 | Brilliant: Tanglewood | 51.00% | ~79 |
-| It's a Trap | 49.00% | ~76 |
+| It's a Trap | 50.00% | ~78 |
 | Brilliant: Arcania | 48.00% | ~74 |
 | Deposition | 46.00% | ~71 |
 | Starry: Tanglewood | 46.00% | ~71 |

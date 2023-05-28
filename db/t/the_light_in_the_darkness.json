@@ -3,7 +3,7 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_Completed": 21,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1465,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1853,6 +1853,11 @@
       "Time": "2023-05-28T15:05:42.8885932+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-05-28T16:05:25.9537202+00:00",
+      "NumProgressed": 1465,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 12,
@@ -1928,7 +1933,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1944,7 +1949,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Nuremberg Laws",
@@ -1959,7 +1964,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1465,
       "Completed": 114
     }
   ],
@@ -1967,8 +1972,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-28T15:05:42.8885927+00:00",
+  "LastChanged_Achievements": "2023-05-28T16:05:25.9537197+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:59:34.5177155+00:00",
-  "LastUpdate_Achievements": "2023-05-28T15:05:42.8886134+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:59:23.5954782+00:00",
+  "LastUpdate_Achievements": "2023-05-28T16:05:25.9537381+00:00"
 }

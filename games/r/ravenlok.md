@@ -9,7 +9,7 @@
 | Into the Barn | 86.00% | ~762 |
 | A Prophecy | 84.00% | ~744 |
 | Sword, Shield, Fight! | 74.00% | ~656 |
-| A Grand Visit | 70.00% | ~620 |
+| A Grand Visit | 71.00% | ~629 |
 | Fun Guy | 61.00% | ~540 |
 | Vibing | 60.00% | ~532 |
 | Tragic Brave | 52.00% | ~461 |
@@ -18,10 +18,10 @@
 | An Actor! | 44.00% | ~390 |
 | Surprise! | 43.00% | ~381 |
 | Curtain Call | 42.00% | ~372 |
+| Well Rested | 40.00% | ~354 |
 | Piece of Cake | 39.00% | ~346 |
 | Gooey Delight! | 39.00% | ~346 |
 | Glimmer of Hope | 39.00% | ~346 |
-| Well Rested | 39.00% | ~346 |
 | Teacups for Toppy | 38.00% | ~337 |
 | Nightmare Fuel | 37.00% | ~328 |
 | Take Heart | 37.00% | ~328 |
@@ -41,14 +41,14 @@
 | Trick Question! | 31.00% | ~275 |
 | Pull the Plug | 30.00% | ~266 |
 | Soul Slayer | 30.00% | ~266 |
+| The Downfall | 30.00% | ~266 |
 | All Heart | 30.00% | ~266 |
 | Final Showdown | 30.00% | ~266 |
-| The Downfall | 29.00% | ~257 |
+| Spot of Tea? | 30.00% | ~266 |
+| Going Home | 30.00% | ~266 |
 | Extraordinary! | 29.00% | ~257 |
-| Spot of Tea? | 29.00% | ~257 |
-| Going Home | 29.00% | ~257 |
 | Mirror, Mirror | 27.00% | ~239 |
-| Flower Power | 24.00% | ~213 |
+| Flower Power | 25.00% | ~222 |
 | Shopping Spree! | 22.00% | ~195 |
 | Crowned | 21.00% | ~186 |
 | Max Level! | 13.00% | ~115 |

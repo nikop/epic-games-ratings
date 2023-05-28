@@ -5,11 +5,11 @@ Rating: 4.41 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 21.00% | ~360 |
-| Confirming Suspicions | 16.00% | ~274 |
+| Meeting Resistance | 21.00% | ~361 |
+| Confirming Suspicions | 16.00% | ~275 |
 | The Kraken Wakes | 12.00% | ~206 |
-| It's Starting to Crack | 9.00% | ~154 |
-| Lord of War | 8.00% | ~137 |
+| It's Starting to Crack | 9.00% | ~155 |
+| Lord of War | 8.00% | ~138 |
 | Resourceful | 7.00% | ~120 |
 | Change the Channel | 7.00% | ~120 |
 | Enemy at the Gates | 6.00% | ~103 |
@@ -23,13 +23,13 @@ Rating: 4.41 (Ranked 663)
 | Sharpshooter | 4.00% | ~69 |
 | Die Nussknacker Sweet! | 4.00% | ~69 |
 | Target America | 4.00% | ~69 |
-| Liberté | 3.00% | ~51 |
-| Fields of Glory | 3.00% | ~51 |
-| Precision Is Key | 3.00% | ~51 |
-| Der Geist | 3.00% | ~51 |
-| Close Quarters | 3.00% | ~51 |
-| Snake in the Grass | 3.00% | ~51 |
-| The Kraken Sleeps | 3.00% | ~51 |
+| Liberté | 3.00% | ~52 |
+| Fields of Glory | 3.00% | ~52 |
+| Precision Is Key | 3.00% | ~52 |
+| Der Geist | 3.00% | ~52 |
+| Close Quarters | 3.00% | ~52 |
+| Snake in the Grass | 3.00% | ~52 |
+| The Kraken Sleeps | 3.00% | ~52 |
 | Climbing the Ladder | 2.00% | ~34 |
 | No Stone Unturned | 2.00% | ~34 |
 | Skirmisher | 2.00% | ~34 |
@@ -40,16 +40,16 @@ Rating: 4.41 (Ranked 663)
 | It'll Buff Right Out | 1.00% | ~17 |
 | My Little Friend | 0.90% | ~15 |
 | Locomotion Commotion | 0.60% | ~10 |
+| Operation Foxley | 0.60% | ~10 |
 | Ghost of Falaise | 0.60% | ~10 |
+| Tinkerer | 0.50% | ~9 |
 | Herr Today, Gone Tomorrow | 0.50% | ~8 |
-| Operation Foxley | 0.50% | ~8 |
 | Last Resort | 0.50% | ~8 |
 | Siegebreaker | 0.50% | ~8 |
 | Strategist | 0.40% | ~7 |
-| Tinkerer | 0.40% | ~7 |
+| Road Rage | 0.40% | ~7 |
 | Don't hold your breath | 0.40% | ~7 |
 | From Paris with Love | 0.30% | ~5 |
-| Road Rage | 0.30% | ~5 |
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
 | Eagle Eyed | 0.20% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 663)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,715 (Ranked 152)  
+Progressed: 1,719 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,715 | 2 |
+| 2023-05-28 | 1,719 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
