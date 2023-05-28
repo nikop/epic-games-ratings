@@ -15,7 +15,7 @@ Rating: 3.77 (Ranked 921)
 | Gardener | 19.00% | ~184 |
 | Houston we have a problem | 18.00% | ~174 |
 | Occupy Mars! | 17.00% | ~164 |
-| Detective | 13.00% | ~126 |
+| Detective | 14.00% | ~135 |
 | The Collector | 9.00% | ~87 |
 | Get your hands dirty | 8.00% | ~77 |
 | All Wheel Trouble | 5.00% | ~48 |

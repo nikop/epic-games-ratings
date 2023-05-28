@@ -733,9 +733,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 55,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -1188,8 +1188,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:49.0988758+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:06:07.9694643+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.465604+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:58:30.3682674+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:49.0990307+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:58:46.918125+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:06:07.9696691+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.50 (Ranked 541)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 82.00% | ~312 |
-| Vanquisher of Robots | 72.00% | ~274 |
+| Good start! | 83.00% | ~315 |
+| Vanquisher of Robots | 73.00% | ~277 |
 | Party | 45.00% | ~171 |
 | Knowledge is Power | 44.00% | ~167 |
 | Impossible Cube | 42.00% | ~160 |
 | No Mercy | 41.00% | ~156 |
 | The Return of a Rat | 39.00% | ~148 |
 | Through the Darkness | 39.00% | ~148 |
-| Fat of the Earth | 32.00% | ~122 |
+| Fat of the Earth | 33.00% | ~125 |
 | Last Man Standing | 31.00% | ~118 |
 | Catch Jonathan_tostar | 27.00% | ~103 |
 | Great Hero | 25.00% | ~95 |

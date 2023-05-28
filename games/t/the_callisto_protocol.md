@@ -6,8 +6,8 @@ Rating: 4.19 (Ranked 825)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 8.00% | ~1,109 |
-| Chew 'Em Up | 6.00% | ~831 |
-| The Outer Way | 6.00% | ~831 |
+| Chew 'Em Up | 6.00% | ~832 |
+| The Outer Way | 6.00% | ~832 |
 | Giving Back | 5.00% | ~693 |
 | Desperate Times | 5.00% | ~693 |
 | Reforged | 4.00% | ~554 |
@@ -35,8 +35,8 @@ Rating: 4.19 (Ranked 825)
 | Power Up | 1.00% | ~139 |
 | Hoard Mode | 1.00% | ~18 |
 | I Do Belong Here | 0.80% | ~111 |
-| Recidivist | 0.70% | ~12 |
-| Lifer | 0.70% | ~12 |
+| Recidivist | 0.70% | ~13 |
+| Lifer | 0.70% | ~13 |
 | Grim Reaper | 0.40% | ~55 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 825)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,858 (Ranked 102)  
+Progressed: 13,860 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-25 | 13,610 | 52 |
 | 2023-05-26 | 13,735 | 53 |
 | 2023-05-27 | 13,841 | 53 |
-| 2023-05-28 | 13,858 | 53 |
+| 2023-05-28 | 13,860 | 53 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 270 (Ranked 334)  

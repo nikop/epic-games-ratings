@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-05-27T07:03:16.3052354+00:00",
       "NumProgressed": 169,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T06:00:30.1706012+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -132,7 +137,7 @@
       "Name": "Chameleon",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "chicken",
@@ -164,7 +169,7 @@
       "Name": "Highlander",
       "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -172,7 +177,7 @@
       "Name": "Look Mum I\u0027m A Detective",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "oscar_winning_performance",
@@ -196,7 +201,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "play_me_by_the_hour",
@@ -236,7 +241,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "the_big_sleep",
@@ -275,7 +280,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 2
     }
   ],
@@ -283,8 +288,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:00:14.7105027+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:00:30.1705993+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.3750449+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:58:28.0123447+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:00:14.7105203+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:58:43.3785661+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:00:30.1706199+00:00"
 }

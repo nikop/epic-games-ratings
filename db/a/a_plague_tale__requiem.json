@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 156,
+  "Ranking_Rating": 157,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 106,
@@ -272,9 +272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10754,
+  "EOS_Progressed": 10755,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1942,6 +1942,11 @@
       "Time": "2023-05-28T05:05:35.9990388+00:00",
       "NumProgressed": 10754,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-28T06:05:55.0644909+00:00",
+      "NumProgressed": 10755,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -1953,7 +1958,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 9894
+      "UsersEstimate": 9895
     },
     {
       "ID": "ACH_02",
@@ -1961,7 +1966,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 8388
+      "UsersEstimate": 8389
     },
     {
       "ID": "ACH_03",
@@ -1969,7 +1974,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 7743
+      "UsersEstimate": 7744
     },
     {
       "ID": "ACH_04",
@@ -1977,7 +1982,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 7420
+      "UsersEstimate": 7421
     },
     {
       "ID": "ACH_05",
@@ -1993,7 +1998,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 6775
+      "UsersEstimate": 6776
     },
     {
       "ID": "ACH_07",
@@ -2001,7 +2006,7 @@
       "Name": "Felons",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6452
+      "UsersEstimate": 6453
     },
     {
       "ID": "ACH_08",
@@ -2025,7 +2030,7 @@
       "Name": "Bloodline",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5377
+      "UsersEstimate": 5378
     },
     {
       "ID": "ACH_11",
@@ -2073,7 +2078,7 @@
       "Name": "King Hugo",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ACH_17",
@@ -2145,7 +2150,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ACH_26",
@@ -2169,7 +2174,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 7205
+      "UsersEstimate": 7206
     },
     {
       "ID": "ACH_29",
@@ -2209,7 +2214,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ACH_34",
@@ -2225,14 +2230,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10754,
+      "Progressed": 10755,
       "Completed": 32
     }
   ],
@@ -2240,8 +2245,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:35.9990386+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:05:55.0644904+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.0368466+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:59:04.5219436+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:35.9990647+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:59:18.6597577+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:05:55.0645273+00:00"
 }

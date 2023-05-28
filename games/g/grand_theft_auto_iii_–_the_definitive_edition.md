@@ -5,18 +5,18 @@ Rating: 4.18 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,588 |
-| Disposing of the Evidence | 36.00% | ~1,990 |
-| Without a Scratch | 32.00% | ~1,769 |
-| Wreckless Driving | 27.00% | ~1,493 |
-| A Marked Man | 24.00% | ~1,327 |
+| First Day on the Job | 83.00% | ~4,592 |
+| Disposing of the Evidence | 36.00% | ~1,992 |
+| Without a Scratch | 32.00% | ~1,770 |
+| Wreckless Driving | 27.00% | ~1,494 |
+| A Marked Man | 24.00% | ~1,328 |
 | Street Sweeper | 17.00% | ~940 |
-| Liberty City Minute | 16.00% | ~884 |
-| Offshore Delivery | 12.00% | ~663 |
-| Dirty Money | 11.00% | ~608 |
+| Liberty City Minute | 16.00% | ~885 |
+| Offshore Delivery | 12.00% | ~664 |
+| Dirty Money | 11.00% | ~609 |
 | By a Mile | 9.00% | ~498 |
 | Right-hand Man | 9.00% | ~498 |
-| Not So Fast | 8.00% | ~442 |
+| Not So Fast | 8.00% | ~443 |
 | A Gift from the King | 6.00% | ~332 |
 | Full Artillery | 3.00% | ~166 |
 | Mob Boss | 2.00% | ~111 |
@@ -27,15 +27,15 @@ Rating: 4.18 (Ranked 833)
 | Where To? | 1.00% | ~55 |
 | Playing Doctor | 1.00% | ~55 |
 | Liberty City Secrets | 1.00% | ~55 |
-| Planned Ahead | 0.90% | ~50 |
 | Man Toyz | 0.90% | ~50 |
+| Planned Ahead | 0.80% | ~44 |
 | Wheels Up | 0.80% | ~44 |
 | Going Rogue | 0.80% | ~44 |
 | Furious First Responder | 0.70% | ~39 |
 | Is That All You've Got? | 0.70% | ~39 |
 | King of Liberty City | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,528 (Ranked 123)  
+Progressed: 5,532 (Ranked 123)  
 Completed: 26 (0.47%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 26 (0.47%) (Ranked 109)
 | 2023-05-25 | 5,358 | 26 |
 | 2023-05-26 | 5,420 | 26 |
 | 2023-05-27 | 5,514 | 26 |
-| 2023-05-28 | 5,528 | 26 |
+| 2023-05-28 | 5,532 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

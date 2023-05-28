@@ -218,7 +218,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1660,
+  "EOS_Progressed": 1664,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 0,
@@ -1673,6 +1673,11 @@
       "Time": "2023-05-28T05:05:25.2677292+00:00",
       "NumProgressed": 1660,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T06:05:44.4547268+00:00",
+      "NumProgressed": 1664,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1716,7 +1721,7 @@
       "Name": "Opposing Force",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1764,7 +1769,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1804,7 +1809,7 @@
       "Name": "Gunslinger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1852,7 +1857,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1932,7 +1937,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1994,9 +1999,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2074,9 +2079,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 67
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2251,13 +2256,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1611,
+      "Progressed": 1615,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1660,
+      "Progressed": 1664,
       "Completed": 2
     }
   ],
@@ -2265,8 +2270,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:25.2677287+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:05:44.4547263+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:00:06.1517485+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:25.2677934+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:00:19.757309+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:05:44.4548007+00:00"
 }

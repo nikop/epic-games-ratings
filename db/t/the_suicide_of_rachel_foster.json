@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -244,7 +244,7 @@
   "Tags": [],
   "EOS_Progressed": 1073,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.94,
   "EosHistory": [
@@ -821,9 +821,9 @@
       "ID": "ACH_SussurriHotel",
       "SetID": "7a9m7mj",
       "Name": "Ghost Hunters",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 429
+      "UsersEstimate": 440
     }
   ],
   "AchievementSets": [
@@ -837,8 +837,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:33.158579+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:05:52.0355599+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.0683903+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:59:41.4380372+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:33.1585881+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:59:53.561243+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:05:52.0355713+00:00"
 }

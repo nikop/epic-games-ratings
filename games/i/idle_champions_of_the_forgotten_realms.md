@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~889 |
+| A Brief Tour of the Realms | 1.00% | ~890 |
 | The Cursed Farmer | 0.70% | ~623 |
 | The Court of Storms | 0.70% | ~387 |
 | Beware the Jabberwock | 0.60% | ~331 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,943 (Ranked 61)  
+Progressed: 88,950 (Ranked 61)  
 Completed: 1,889 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,15 +538,15 @@ Completed: 1,889 (2.12%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 88,943 | 1,889 |
+| 2023-05-28 | 88,950 | 1,889 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
-Sum: 29,989 (Ranked 37)  
+Sum: 29,991 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,908 |
-| This game is Great for Beginners | 4,841 |
+| This game is Great for Beginners | 4,843 |
 | This game has Quickly Understood Controls | 4,606 |
 | This game is Relaxing | 4,499 |
 | This game is Highly Recommended | 3,949 |
@@ -677,3 +677,4 @@ Diff (max vs sum): 27
 | 2023-05-25 | 4.06 | - | 4,905 | 29,974 |
 | 2023-05-26 | 4.06 | - | 4,905 | 29,983 |
 | 2023-05-27 | 4.06 | - | 4,908 | 29,989 |
+| 2023-05-28 | 4.06 | - | 4,908 | 29,991 |

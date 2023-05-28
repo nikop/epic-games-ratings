@@ -3926,10 +3926,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29989,
       "NumberOfAwardsMax": 4908
+    },
+    {
+      "Time": "2023-05-28T05:58:09.3157435+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29991,
+      "NumberOfAwardsMax": 4908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29989,
+  "NumberOfAwards": 29991,
   "NumberOfAwardsMax": 4908,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3937,7 +3943,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4841
+      "Count": 4843
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3976,9 +3982,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88943,
+  "EOS_Progressed": 88950,
   "EOS_Completed": 1889,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7681,6 +7687,11 @@
       "Time": "2023-05-28T05:05:50.9906521+00:00",
       "NumProgressed": 88943,
       "NumCompleted": 1889
+    },
+    {
+      "Time": "2023-05-28T06:06:10.0878856+00:00",
+      "NumProgressed": 88950,
+      "NumCompleted": 1889
     }
   ],
   "TotalAchievements": 493,
@@ -7692,7 +7703,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "objective_completed_10",
@@ -11635,21 +11646,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55217,
+      "Progressed": 55224,
       "Completed": 2724
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88943,
+      "Progressed": 88950,
       "Completed": 1889
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-27T19:58:37.9061253+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:50.9906517+00:00",
+  "LastChanged": "2023-05-28T05:58:09.3157433+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:06:10.0878852+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:57:54.1570152+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:50.9927979+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:58:09.315744+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:06:10.0902828+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3697,
+  "EOS_Progressed": 3698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2202,6 +2202,11 @@
       "Time": "2023-05-28T05:03:46.6550227+00:00",
       "NumProgressed": 3697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T06:04:18.2988661+00:00",
+      "NumProgressed": 3698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2245,7 +2250,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "14",
@@ -2253,7 +2258,7 @@
       "Name": "Full Ascension",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "15",
@@ -2269,7 +2274,7 @@
       "Name": "God Emperor",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "17",
@@ -2285,7 +2290,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "19",
@@ -2341,7 +2346,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "25",
@@ -2349,7 +2354,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "26",
@@ -2357,7 +2362,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "27",
@@ -2373,7 +2378,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "29",
@@ -2381,7 +2386,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "3",
@@ -2397,7 +2402,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "31",
@@ -2405,7 +2410,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "32",
@@ -2564,13 +2569,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3697,
-      "Completed": 3697
+      "Progressed": 3698,
+      "Completed": 3698
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3697,
+      "Progressed": 3698,
       "Completed": 0
     }
   ],
@@ -2578,8 +2583,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-27T18:58:55.371868+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:03:46.6550221+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:04:18.2988656+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:59:08.875902+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:03:46.6550601+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:59:22.6660847+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:04:18.2989135+00:00"
 }

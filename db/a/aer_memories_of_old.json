@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10567,
+  "EOS_Progressed": 10572,
   "EOS_Completed": 227,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
@@ -3984,6 +3984,11 @@
       "Time": "2023-05-28T05:05:36.6890554+00:00",
       "NumProgressed": 10567,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-05-28T06:05:55.6275428+00:00",
+      "NumProgressed": 10572,
+      "NumCompleted": 227
     }
   ],
   "TotalAchievements": 20,
@@ -3995,7 +4000,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -4011,7 +4016,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -4027,7 +4032,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -4043,7 +4048,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -4051,7 +4056,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -4059,7 +4064,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "FOUND_ERIN",
@@ -4067,7 +4072,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -4091,7 +4096,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -4115,7 +4120,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 8031
+      "UsersEstimate": 8035
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -4123,7 +4128,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2959
+      "UsersEstimate": 2960
     },
     {
       "ID": "NORTH_FINISHED",
@@ -4131,7 +4136,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -4147,22 +4152,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10567,
+      "Progressed": 10572,
       "Completed": 227
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:36.6890551+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:05:55.6275423+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:59:45.455402+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:36.6890815+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:59:57.7389175+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:05:55.6384101+00:00"
 }

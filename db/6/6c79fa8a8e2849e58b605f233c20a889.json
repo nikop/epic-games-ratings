@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1026,
+  "EOS_Progressed": 1028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -646,6 +646,11 @@
       "Time": "2023-05-28T05:00:30.9720208+00:00",
       "NumProgressed": 1026,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T06:00:46.3465296+00:00",
+      "NumProgressed": 1028,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -681,7 +686,7 @@
       "Name": "Whoops",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CONQUEROR",
@@ -689,7 +694,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -761,15 +766,15 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 607
     },
     {
       "ID": "GUARD_MAKER",
       "SetID": "8lhbnh7",
       "Name": "Guard Maker",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -832,14 +837,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1026,
+      "Progressed": 1028,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:00:30.9720204+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:00:46.3465291+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:57:02.7320997+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:00:30.9720348+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:57:19.2380924+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:00:46.3465489+00:00"
 }

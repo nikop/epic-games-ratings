@@ -4,7 +4,7 @@
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -225,9 +225,9 @@
       "ID": "BISTUN_ACHIEVEMENT_25",
       "SetID": "1kdk24p",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_26",
@@ -394,8 +394,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:37.7925355+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:05:56.7808305+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:19.0267021+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:59:32.2108655+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:37.7925574+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:59:44.2347083+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:05:56.7808589+00:00"
 }

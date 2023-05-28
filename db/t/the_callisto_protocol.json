@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -452,9 +452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13858,
+  "EOS_Progressed": 13860,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1842,6 +1842,11 @@
       "Time": "2023-05-28T05:03:28.056173+00:00",
       "NumProgressed": 13858,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-28T06:04:00.1088773+00:00",
+      "NumProgressed": 13860,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1933,7 +1938,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -1941,7 +1946,7 @@
       "Name": "Lifer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -1981,7 +1986,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "KILL_ROBOT",
@@ -2045,7 +2050,7 @@
       "Name": "The Outer Way",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2172,13 +2177,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13858,
+      "Progressed": 13860,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1784,
+      "Progressed": 1786,
       "Completed": 29
     }
   ],
@@ -2186,8 +2191,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T02:10:09.3293551+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:03:28.0561725+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:04:00.1088768+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:57:44.5678491+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:03:28.0562042+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:57:59.1341787+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:04:00.1089219+00:00"
 }

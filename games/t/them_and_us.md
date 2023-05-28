@@ -12,19 +12,19 @@
 | Them and Us | 14.00% | ~18 |
 | OUTRAGE | 14.00% | ~18 |
 | What have I done!? | 14.00% | ~18 |
+| The Cultists | 13.00% | ~17 |
 | This Coffin Has Your Name On It! | 13.00% | ~17 |
-| The Cultists | 12.00% | ~15 |
 | Alone In The Dark | 11.00% | ~14 |
 | Parasite Exterminated | 11.00% | ~14 |
-| The Forgotten Tower | 9.00% | ~11 |
+| The Forgotten Tower | 10.00% | ~13 |
+| Rest In Peace | 9.00% | ~11 |
 | Lover of classics | 8.00% | ~10 |
-| Rest In Peace | 8.00% | ~10 |
-| The Curse Is Real | 7.00% | ~9 |
+| The Curse Is Real | 8.00% | ~10 |
 | Trapped | 7.00% | ~9 |
 | Modern Player | 6.00% | ~8 |
+| Researcher | 6.00% | ~8 |
 | I Am The Gate Keeper! | 6.00% | ~8 |
 | What A Mansion | 6.00% | ~8 |
-| Researcher | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |
 | Run and Gun | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
@@ -32,6 +32,7 @@
 | Back In Time | 2.00% | ~3 |
 | Retro Player | 2.00% | ~3 |
 | Spiritual essence well spent | 2.00% | ~3 |
+| Pet The Dog | 2.00% | ~3 |
 | Survival Hero | 2.00% | ~3 |
 | The 5th Element | 2.00% | ~3 |
 | Before The Eclipse | 0.80% | ~1 |
@@ -42,7 +43,6 @@
 | Life Of The Thousand Gods | 0.80% | ~1 |
 | Nightmare Over | 0.80% | ~1 |
 | No Time To Relax | 0.80% | ~1 |
-| Pet The Dog | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 127 (Ranked 258)  

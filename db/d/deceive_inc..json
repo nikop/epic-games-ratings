@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6354,
+  "EOS_Progressed": 6355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3113,6 +3113,11 @@
       "Time": "2023-05-28T04:06:48.9296308+00:00",
       "NumProgressed": 6354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T06:05:57.1616686+00:00",
+      "NumProgressed": 6355,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3148,7 +3153,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "0005",
@@ -3212,7 +3217,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "0013",
@@ -3220,7 +3225,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "0014",
@@ -3228,7 +3233,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "0015",
@@ -3252,7 +3257,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "0018",
@@ -3260,7 +3265,7 @@
       "Name": "In It to Win It",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "0019",
@@ -3308,7 +3313,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "0025",
@@ -3364,7 +3369,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "0032",
@@ -3380,7 +3385,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "0034",
@@ -3411,7 +3416,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6354,
+      "Progressed": 6355,
       "Completed": 0
     }
   ],
@@ -3419,8 +3424,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:05:38.2342344+00:00",
+  "LastChanged_Achievements": "2023-05-28T06:05:57.1616682+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-05-28T04:59:18.9826647+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:05:38.2342682+00:00"
+  "LastUpdate_Ratings": "2023-05-28T05:59:32.3602722+00:00",
+  "LastUpdate_Achievements": "2023-05-28T06:05:57.1617124+00:00"
 }

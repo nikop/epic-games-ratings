@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 80.00% | ~16 |
-| Killing Spree | 55.00% | ~11 |
+| Killing Spree | 60.00% | ~12 |
 | 5Gb HDD | 40.00% | ~8 |
 | Merchant Prince I | 35.00% | ~7 |
 | Dominating | 25.00% | ~5 |

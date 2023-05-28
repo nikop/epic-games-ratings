@@ -22,9 +22,9 @@
 | Heart's Desire | 50.00% | ~8 |
 | Nature's Savior | 50.00% | ~8 |
 | Hammer It Home | 50.00% | ~8 |
+| For Whom the Bell Tolls | 50.00% | ~8 |
 | Shoo! Shoo! | 50.00% | ~8 |
 | The Ultimate Sacrifice | 44.00% | ~7 |
-| For Whom the Bell Tolls | 44.00% | ~7 |
 | Here I Am | 44.00% | ~7 |
 | Stand By Nature | 44.00% | ~7 |
 | Prison Break | 38.00% | ~6 |

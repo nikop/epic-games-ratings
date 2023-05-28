@@ -7,13 +7,13 @@ Rating: 4.53 (Ranked 494)
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~2,921 |
 | Realm Estate | 76.00% | ~2,810 |
-| Secret Technique | 75.00% | ~2,773 |
-| Walls Cannot Stop Us | 73.00% | ~2,699 |
-| From Friends to Family | 69.00% | ~2,551 |
-| Magical Synergy | 64.00% | ~2,366 |
-| Bone Peddler | 61.00% | ~2,255 |
-| Stronger Together | 55.00% | ~2,033 |
-| Full Ascension | 53.00% | ~1,959 |
+| Secret Technique | 75.00% | ~2,774 |
+| Walls Cannot Stop Us | 73.00% | ~2,700 |
+| From Friends to Family | 69.00% | ~2,552 |
+| Magical Synergy | 64.00% | ~2,367 |
+| Bone Peddler | 61.00% | ~2,256 |
+| Stronger Together | 55.00% | ~2,034 |
+| Full Ascension | 53.00% | ~1,960 |
 | There Can Only Be One! | 47.00% | ~1,738 |
 | Seat of Power | 46.00% | ~1,701 |
 | My Final Form | 43.00% | ~1,590 |
@@ -25,10 +25,10 @@ Rating: 4.53 (Ranked 494)
 | Against the Odds | 30.00% | ~1,109 |
 | Enchanted Archipelago | 26.00% | ~961 |
 | Impenetrable Fortress | 25.00% | ~924 |
-| The Magic That Empowers Me! | 19.00% | ~702 |
-| Preparation Is Everything | 19.00% | ~702 |
-| Arch Mage | 18.00% | ~665 |
-| God Emperor | 17.00% | ~628 |
+| The Magic That Empowers Me! | 19.00% | ~703 |
+| Preparation Is Everything | 19.00% | ~703 |
+| Arch Mage | 18.00% | ~666 |
+| God Emperor | 17.00% | ~629 |
 | Eternal Lord | 16.00% | ~592 |
 | Crimson Caldera | 16.00% | ~592 |
 | Fiery Friend | 14.00% | ~518 |
@@ -50,7 +50,7 @@ Rating: 4.53 (Ranked 494)
 | Returning Circle | 0.30% | ~11 |
 | Master of Evilness | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,697 (Ranked 131)  
+Progressed: 3,698 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 3,417 | 0 |
 | 2023-05-26 | 3,539 | 0 |
 | 2023-05-27 | 3,669 | 0 |
-| 2023-05-28 | 3,697 | 0 |
+| 2023-05-28 | 3,698 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
