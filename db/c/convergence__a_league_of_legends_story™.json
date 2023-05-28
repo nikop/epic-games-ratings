@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2023-05-28T06:04:59.6159537+00:00",
       "NumProgressed": 442,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T07:04:34.8403703+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -488,7 +493,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -512,7 +517,7 @@
       "Name": "Right On Time",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ClockworkCompletion1",
@@ -526,17 +531,17 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 137
     },
     {
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "CosmeticCompletion1",
@@ -576,7 +581,7 @@
       "Name": "Family Memories",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FactorywoodChests1",
@@ -592,15 +597,15 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 328
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -640,7 +645,7 @@
       "Name": "Rail Rat",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "HexlockGift",
@@ -720,7 +725,7 @@
       "Name": "Time Flies",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ParryBoss",
@@ -734,17 +739,17 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 217
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 182
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -752,23 +757,23 @@
       "Name": "The Wicked Twins",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 412
     },
     {
       "ID": "RewindParry",
@@ -790,9 +795,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "SkillCompletion1",
@@ -808,7 +813,7 @@
       "Name": "Fast Learner",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "SpeedRun",
@@ -856,15 +861,15 @@
       "Name": "Immaculate Aim",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "WatcherFought",
@@ -880,7 +885,7 @@
       "Name": "Good Neighbor",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Zarkon1Defeated",
@@ -903,14 +908,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:04:59.6159531+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:04:34.8403697+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:59:22.5034286+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:04:59.6160025+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:59:06.5990166+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:04:34.8404148+00:00"
 }

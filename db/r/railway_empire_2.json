@@ -348,17 +348,17 @@
       "ID": "A01",
       "SetID": "9b7p7eo",
       "Name": "Stoker",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "A02",
       "SetID": "9b7p7eo",
       "Name": "Trailblazer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "A03",
@@ -436,9 +436,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "A13",
@@ -452,9 +452,9 @@
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "A15",
@@ -500,9 +500,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "A21",
@@ -572,9 +572,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "A30",
@@ -636,9 +636,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "A38",
@@ -660,9 +660,9 @@
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "A41",
@@ -708,9 +708,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "A47",
@@ -732,9 +732,9 @@
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "A50",
@@ -787,8 +787,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:05:53.1560475+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:28.809062+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:58:10.321031+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:05:53.1560962+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:57:53.73409+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:28.8091144+00:00"
 }

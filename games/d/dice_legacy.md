@@ -36,11 +36,11 @@ Rating: 4.29 (Ranked 767)
 | Knowledge is Power | 0.20% | ~2 |
 | Six Faces | 0.10% | ~1 |
 | It's spreading | 0.10% | ~1 |
+| The experiment | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
 | The Incarnate | 0.10% | ~1 |
 | Ice and Fire | 0.00% | ~0 |
 | Aesthetics | 0.00% | ~0 |
-| The experiment | 0.00% | ~0 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | Discover the truth | 0.00% | ~0 |

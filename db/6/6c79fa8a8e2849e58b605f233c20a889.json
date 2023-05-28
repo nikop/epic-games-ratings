@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1028,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1012,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -651,6 +651,11 @@
       "Time": "2023-05-28T06:00:46.3465296+00:00",
       "NumProgressed": 1028,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T07:02:12.284496+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -742,7 +747,7 @@
       "Name": "Novice",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "GLOVE_SLAP",
@@ -758,7 +763,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "GRASSHOPPER",
@@ -766,7 +771,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "GUARD_MAKER",
@@ -837,14 +842,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1028,
+      "Progressed": 1030,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:00:46.3465291+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:02:12.2844954+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:57:19.2380924+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:00:46.3465489+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:57:01.1978866+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:02:12.2845138+00:00"
 }

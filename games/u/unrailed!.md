@@ -6,24 +6,24 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,357 |
-| Incurious | 14.00% | ~83,357 |
-| Stroller | 12.00% | ~71,449 |
-| Climate Change | 12.00% | ~71,449 |
-| Advanced Hiker | 10.00% | ~59,541 |
-| Toy Train | 10.00% | ~59,541 |
-| Hiker | 9.00% | ~53,587 |
-| Mojave Courier | 4.00% | ~23,816 |
-| Advanced Voyager | 3.00% | ~17,862 |
-| Expert Stroller | 3.00% | ~17,862 |
-| Voyager | 2.00% | ~11,908 |
-| Expert Hiker | 2.00% | ~11,908 |
-| Orient Express | 2.00% | ~11,908 |
-| Marathon | 2.00% | ~11,908 |
-| Destructionist | 2.00% | ~11,908 |
-| Saved by Nausicaä | 2.00% | ~11,908 |
+| Advanced Stroller | 14.00% | ~83,360 |
+| Incurious | 14.00% | ~83,360 |
+| Stroller | 12.00% | ~71,451 |
+| Climate Change | 12.00% | ~71,451 |
+| Advanced Hiker | 10.00% | ~59,543 |
+| Toy Train | 10.00% | ~59,543 |
+| Hiker | 9.00% | ~53,588 |
+| Mojave Courier | 4.00% | ~23,817 |
+| Advanced Voyager | 3.00% | ~17,863 |
+| Expert Stroller | 3.00% | ~17,863 |
+| Voyager | 2.00% | ~11,909 |
+| Expert Hiker | 2.00% | ~11,909 |
+| Orient Express | 2.00% | ~11,909 |
+| Marathon | 2.00% | ~11,909 |
+| Destructionist | 2.00% | ~11,909 |
+| Saved by Nausicaä | 2.00% | ~11,909 |
 | Lost | 1.00% | ~5,954 |
-| Rocketman | 0.60% | ~3,572 |
+| Rocketman | 0.60% | ~3,573 |
 | Expert Voyager | 0.50% | ~2,977 |
 | Nanuk | 0.50% | ~2,977 |
 | Shopaholic | 0.50% | ~2,977 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~595 |
 | 20 Miles under the Sea | 0.10% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595,410 (Ranked 20)  
+Progressed: 595,426 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 7 (0.00%) (Ranked 206)
 | 2023-05-25 | 594,025 | 7 |
 | 2023-05-26 | 594,575 | 7 |
 | 2023-05-27 | 595,255 | 7 |
-| 2023-05-28 | 595,410 | 7 |
+| 2023-05-28 | 595,426 | 7 |
 ## Awards
 Max (Diverse Characters): 185  (Ranked 265)  
 Sum: 1,506 (Ranked 208)  

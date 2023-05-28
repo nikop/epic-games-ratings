@@ -4,7 +4,7 @@
   "ProductSlug": "the-galactic-junkers-7fef21",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -88,6 +88,11 @@
       "Time": "2023-05-25T22:06:04.5792536+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T07:05:19.574246+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -97,7 +102,7 @@
       "ID": "A_Board_10_Ships",
       "SetID": "56632p4",
       "Name": "Notorious Pirate",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -105,7 +110,7 @@
       "ID": "A_Board_1_Ship",
       "SetID": "56632p4",
       "Name": "Pirate",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -147,13 +152,13 @@
       "Name": "Firefighter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "A_Extinguish_25_Fires",
       "SetID": "56632p4",
       "Name": "Master Firefighter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -161,7 +166,7 @@
       "ID": "A_Fix_10_Systems",
       "SetID": "56632p4",
       "Name": "Expert Mechanic",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -171,7 +176,7 @@
       "Name": "Mechanic",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "A_Fix_50_Systems",
@@ -185,7 +190,7 @@
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -193,7 +198,7 @@
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -209,7 +214,7 @@
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -217,7 +222,7 @@
       "ID": "A_Mine_1_Asteroid",
       "SetID": "56632p4",
       "Name": "Miner",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -241,7 +246,7 @@
       "ID": "A_Ray_Of_Sunshine",
       "SetID": "56632p4",
       "Name": "Ray of Sunshine",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -257,7 +262,7 @@
       "ID": "A_Salvage_1_Wreck",
       "SetID": "56632p4",
       "Name": "Salvager",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -282,7 +287,7 @@
     {
       "ID": "56632p4",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
@@ -290,8 +295,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:05:43.9872964+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:19.5742455+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.6820927+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:58:54.551245+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:05:43.9873131+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:58:37.8623515+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:19.5742627+00:00"
 }

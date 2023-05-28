@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1274,9 +1274,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62473,
+  "EOS_Progressed": 62479,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4074,6 +4074,11 @@
       "Time": "2023-05-28T06:06:05.6036533+00:00",
       "NumProgressed": 62473,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-28T07:05:41.2495072+00:00",
+      "NumProgressed": 62479,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4429,7 +4434,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4572,13 +4577,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62473,
+      "Progressed": 62479,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32753,
+      "Progressed": 32759,
       "Completed": 2642
     }
   ],
@@ -4586,8 +4591,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T04:59:24.5168101+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:06:05.6036528+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:41.2495067+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:59:37.1716895+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:06:05.603725+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:59:21.7276969+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:41.2495817+00:00"
 }

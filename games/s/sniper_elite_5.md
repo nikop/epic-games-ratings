@@ -10,8 +10,8 @@ Rating: 4.41 (Ranked 664)
 | The Kraken Wakes | 12.00% | ~200 |
 | It's Starting to Crack | 9.00% | ~150 |
 | Lord of War | 8.00% | ~133 |
-| Resourceful | 7.00% | ~116 |
-| Change the Channel | 7.00% | ~116 |
+| Resourceful | 7.00% | ~117 |
+| Change the Channel | 7.00% | ~117 |
 | Enemy at the Gates | 6.00% | ~100 |
 | Organ Grinder | 6.00% | ~100 |
 | Just a Flesh Wound | 5.00% | ~83 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 664)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,664 (Ranked 152)  
+Progressed: 1,667 (Ranked 152)  
 Completed: 2 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.12%) (Ranked 155)
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
-| 2023-05-28 | 1,664 | 2 |
+| 2023-05-28 | 1,667 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

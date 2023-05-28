@@ -11,11 +11,11 @@
 | Conquered | 8.00% | ~6 |
 | Scribe | 4.00% | ~3 |
 | Conciliator | 3.00% | ~2 |
+| Tactician | 3.00% | ~2 |
 | Fight Another Day | 3.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
-| Tactician | 1.00% | ~1 |
 | The More the Merrier | 1.00% | ~1 |
 | Breached | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |

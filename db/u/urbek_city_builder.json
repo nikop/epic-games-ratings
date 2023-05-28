@@ -495,9 +495,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "CULTURE_2",
@@ -623,9 +623,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "FELIZ_2",
@@ -783,9 +783,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "POPULATION_2",
@@ -992,8 +992,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:05:58.2608159+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:33.8074733+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:58:50.9271469+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:05:58.2609046+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:58:34.5761847+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:33.8075492+00:00"
 }

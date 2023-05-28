@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -452,9 +452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13860,
+  "EOS_Progressed": 13863,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1847,6 +1847,11 @@
       "Time": "2023-05-28T06:04:00.1088773+00:00",
       "NumProgressed": 13860,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-28T07:03:34.8101014+00:00",
+      "NumProgressed": 13863,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2000,9 +2005,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 555
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2026,7 +2031,7 @@
       "Name": "Reforged",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2034,7 +2039,7 @@
       "Name": "Paper Jams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2130,7 +2135,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2138,7 +2143,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2177,13 +2182,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13860,
+      "Progressed": 13863,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1786,
+      "Progressed": 1789,
       "Completed": 29
     }
   ],
@@ -2191,8 +2196,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T02:10:09.3293551+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:04:00.1088768+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:03:34.8101007+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:57:59.1341787+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:04:00.1089219+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:57:42.6964569+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:03:34.8101404+00:00"
 }

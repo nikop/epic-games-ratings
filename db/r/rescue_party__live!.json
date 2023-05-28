@@ -144,9 +144,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -248,9 +248,9 @@
       "ID": "ACH_SAFETY_FIRST",
       "SetID": "1p69hf1",
       "Name": "Safety first",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_SPEEDY",
@@ -273,8 +273,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:05:38.5396218+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:14.156964+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:55.4617057+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:59:20.237158+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:05:38.539636+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:59:04.5241512+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:14.1569759+00:00"
 }

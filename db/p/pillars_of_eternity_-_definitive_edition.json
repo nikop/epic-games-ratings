@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2466,9 +2466,9 @@
       "Count": 184
     }
   ],
-  "EOS_Progressed": 1078,
+  "EOS_Progressed": 1079,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2496,6 +2496,11 @@
       "Time": "2023-05-18T02:05:22.5502606+00:00",
       "NumProgressed": 1078,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-28T07:05:15.86342+00:00",
+      "NumProgressed": 1079,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2507,7 +2512,7 @@
       "Name": "Completed Act I",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_02",
@@ -2515,7 +2520,7 @@
       "Name": "Completed Act II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_03",
@@ -2563,7 +2568,7 @@
       "Name": "Alchemist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_09",
@@ -2595,7 +2600,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_13",
@@ -2699,7 +2704,7 @@
       "Name": "The Siege of Cr\u00E4gholdt",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_26",
@@ -2787,7 +2792,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_37",
@@ -2890,15 +2895,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1078,
+      "Progressed": 1079,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-05-26T20:57:31.1744513+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:05:40.121906+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:15.8634195+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.8314909+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:57:40.9545495+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:05:40.1219472+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:57:24.8277459+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:15.8634619+00:00"
 }

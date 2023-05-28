@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1664,
+  "EOS_Progressed": 1667,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1678,6 +1678,11 @@
       "Time": "2023-05-28T06:05:44.4547268+00:00",
       "NumProgressed": 1664,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-28T07:05:20.1719276+00:00",
+      "NumProgressed": 1667,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1913,7 +1918,7 @@
       "Name": "Resourceful",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2025,7 +2030,7 @@
       "Name": "Change the Channel",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2256,13 +2261,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1615,
+      "Progressed": 1618,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1664,
+      "Progressed": 1667,
       "Completed": 2
     }
   ],
@@ -2270,8 +2275,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-27T13:59:59.1362477+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:05:44.4547263+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:20.1719271+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:00:19.757309+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:05:44.4548007+00:00"
+  "LastUpdate_Ratings": "2023-05-28T07:00:03.4181696+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:20.1720032+00:00"
 }

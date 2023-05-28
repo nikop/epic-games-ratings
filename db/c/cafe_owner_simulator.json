@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-05-28T06:05:43.0232369+00:00",
       "NumProgressed": 448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T07:05:18.5879367+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -847,7 +852,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "CHIEF",
@@ -863,7 +868,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "DEBTOR",
@@ -950,7 +955,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 0
     }
   ],
@@ -958,8 +963,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:05:43.0232364+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:18.5879361+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:59:21.4675821+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:05:43.0232516+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:59:05.6355607+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:18.5879525+00:00"
 }

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 70.00% | ~206 |
-| Departure | 69.00% | ~203 |
-| A new Journey | 69.00% | ~203 |
+| Country Bumpkin | 71.00% | ~209 |
+| Departure | 70.00% | ~206 |
+| A new Journey | 70.00% | ~206 |
 | From X to Y | 68.00% | ~200 |
 | Brainstorm | 68.00% | ~200 |
 | Way of Iron | 68.00% | ~200 |
-| Mystery Tour | 64.00% | ~188 |
+| Mystery Tour | 65.00% | ~191 |
 | We brake for nobody | 63.00% | ~185 |
-| All around the World | 62.00% | ~182 |
-| Mind the Gap | 62.00% | ~182 |
+| All around the World | 63.00% | ~185 |
+| Mind the Gap | 63.00% | ~185 |
 | Travel Company | 62.00% | ~182 |
 | Right through the middle | 55.00% | ~162 |
 | Apprentice | 51.00% | ~150 |
 | Poor Devil | 49.00% | ~144 |
 | Facility Manager | 43.00% | ~126 |
-| Stoker | 41.00% | ~121 |
+| Stoker | 42.00% | ~123 |
 | Producer | 40.00% | ~118 |
 | Bridge Builder | 37.00% | ~109 |
 | Access granted | 32.00% | ~94 |
-| Going once, going twice, sold | 22.00% | ~65 |
+| Going once, going twice, sold | 23.00% | ~68 |
 | Full Steam ahead | 21.00% | ~62 |
 | Bull and bear | 20.00% | ~59 |
 | Seven at one stroke | 18.00% | ~53 |
+| Financial Shark | 16.00% | ~47 |
 | All mine | 15.00% | ~44 |
-| Financial Shark | 15.00% | ~44 |
-| Trailblazer | 13.00% | ~38 |
+| Trailblazer | 14.00% | ~41 |
 | Hostile Takeover | 13.00% | ~38 |
 | Mole | 13.00% | ~38 |
 | General Manager | 11.00% | ~32 |

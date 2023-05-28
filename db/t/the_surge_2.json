@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1643,
+  "EOS_Progressed": 1644,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -695,6 +695,11 @@
       "Time": "2023-05-28T06:06:05.9772538+00:00",
       "NumProgressed": 1643,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-28T07:05:41.5678909+00:00",
+      "NumProgressed": 1644,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -706,7 +711,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHV_02",
@@ -714,7 +719,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACHV_03",
@@ -738,7 +743,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHV_06",
@@ -746,7 +751,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHV_07",
@@ -786,7 +791,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHV_12",
@@ -850,7 +855,7 @@
       "Name": "Defense in Depth",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHV_20",
@@ -906,7 +911,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACHV_27",
@@ -986,7 +991,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACHV_37",
@@ -994,7 +999,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHV_38",
@@ -1010,7 +1015,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "ACHV_40",
@@ -1026,7 +1031,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACHV_42",
@@ -1058,7 +1063,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHV_46",
@@ -1161,7 +1166,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1643,
+      "Progressed": 1644,
       "Completed": 10
     }
   ],
@@ -1169,8 +1174,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:06:05.9772535+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:05:41.5678903+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-28T06:00:16.1473584+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:06:05.9773079+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:59:59.8866974+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:05:41.5679383+00:00"
 }

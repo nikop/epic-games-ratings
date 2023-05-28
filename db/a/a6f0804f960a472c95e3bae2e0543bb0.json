@@ -4,7 +4,7 @@
   "ProductSlug": "astronite-edc4d8",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T13:00:00+00:00",
@@ -238,8 +238,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-22T11:00:44.686172+00:00",
-  "LastChanged_Achievements": "2023-05-28T06:03:20.3192572+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:02:24.5671603+00:00",
   "LastUpdate_AppInfo": "2023-05-22T10:56:59.9356347+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:57:18.0661688+00:00",
-  "LastUpdate_Achievements": "2023-05-28T06:03:20.319273+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:56:59.9875865+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:02:24.5671857+00:00"
 }

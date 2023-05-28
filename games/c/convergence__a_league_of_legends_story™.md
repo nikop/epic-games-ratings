@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 92.00% | ~407 |
-| Rail Rat | 76.00% | ~336 |
-| The Mysterious Stranger | 73.00% | ~323 |
-| Immaculate Aim | 60.00% | ~265 |
+| Time Heals All Wounds | 93.00% | ~412 |
+| Rail Rat | 76.00% | ~337 |
+| The Mysterious Stranger | 74.00% | ~328 |
+| Immaculate Aim | 60.00% | ~266 |
 | Honest Mistake | 52.00% | ~230 |
 | The Brass Boss | 52.00% | ~230 |
-| No, Thanks! | 50.00% | ~221 |
-| The Prince in Heels | 47.00% | ~208 |
-| Right On Time | 46.00% | ~203 |
-| Time Flies | 46.00% | ~203 |
+| No, Thanks! | 49.00% | ~217 |
+| The Prince in Heels | 48.00% | ~213 |
+| Right On Time | 46.00% | ~204 |
+| Time Flies | 46.00% | ~204 |
 | The Harder They Fall | 45.00% | ~199 |
-| Fast Learner | 44.00% | ~194 |
-| Immaculate Aim | 43.00% | ~190 |
+| Fast Learner | 44.00% | ~195 |
+| Immaculate Aim | 44.00% | ~195 |
 | Make Up For Lost Time | 42.00% | ~186 |
-| Breaking Down Barriers | 40.00% | ~177 |
-| The Steel Shadow | 32.00% | ~141 |
-| Golem Chaser | 31.00% | ~137 |
-| Like Clockwork | 30.00% | ~133 |
-| Family Memories | 27.00% | ~119 |
-| The Wicked Twins | 27.00% | ~119 |
-| Good Neighbor | 27.00% | ~119 |
+| Breaking Down Barriers | 41.00% | ~182 |
+| The Steel Shadow | 32.00% | ~142 |
+| Golem Chaser | 32.00% | ~142 |
+| Like Clockwork | 31.00% | ~137 |
+| Family Memories | 27.00% | ~120 |
+| The Wicked Twins | 27.00% | ~120 |
+| Good Neighbor | 27.00% | ~120 |
 | The Betrayer | 26.00% | ~115 |
 | Street Style | 23.00% | ~102 |
 | Check Your Pulse | 23.00% | ~102 |
@@ -37,15 +37,15 @@
 | Whiz Kid | 16.00% | ~71 |
 | The Family Fortune | 16.00% | ~71 |
 | The Man Who Shattered Time | 15.00% | ~66 |
-| Fairgrounds Explorer | 13.00% | ~57 |
+| Fairgrounds Explorer | 13.00% | ~58 |
 | Cultivair Explorer | 11.00% | ~49 |
 | Theater Explorer | 11.00% | ~49 |
 | Rungs Was Right | 10.00% | ~44 |
 | Corin Goes Home | 8.00% | ~35 |
+| Clovemary for Remembering | 8.00% | ~35 |
 | Sartorialist | 8.00% | ~35 |
 | Entresol Explorer | 8.00% | ~35 |
 | Hexlock for Protection | 8.00% | ~35 |
-| Clovemary for Remembering | 7.00% | ~31 |
 | Golem Hunter | 5.00% | ~22 |
 | Wunderkind | 3.00% | ~13 |
 | Fitting In | 3.00% | ~13 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 442 (Ranked 198)  
+Progressed: 443 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,4 +68,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 325 | 0 |
 | 2023-05-26 | 386 | 0 |
 | 2023-05-27 | 438 | 0 |
-| 2023-05-28 | 442 | 0 |
+| 2023-05-28 | 443 | 0 |

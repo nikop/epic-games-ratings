@@ -12,9 +12,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.60% | ~331 |
 | Beast Intentions | 0.50% | ~445 |
 | The Mad Wizard | 0.50% | ~445 |
+| Coasting to the Finish | 0.50% | ~276 |
 | The Ring of Regeneration | 0.40% | ~356 |
 | Are Ya Chicken? | 0.40% | ~356 |
-| Coasting to the Finish | 0.40% | ~221 |
 | Quick or Quack | 0.40% | ~221 |
 | Best Thay Ever | 0.30% | ~166 |
 | Were-verpowered | 0.30% | ~267 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,950 (Ranked 61)  
+Progressed: 88,953 (Ranked 61)  
 Completed: 1,889 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 1,889 (2.12%) (Ranked 61)
 | 2023-05-25 | 88,656 | 1,879 |
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
-| 2023-05-28 | 88,950 | 1,889 |
+| 2023-05-28 | 88,953 | 1,889 |
 ## Awards
 Max (Diverse Characters): 4,908  (Ranked 64)  
 Sum: 29,991 (Ranked 37)  

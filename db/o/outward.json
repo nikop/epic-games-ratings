@@ -486,7 +486,7 @@
   ],
   "EOS_Progressed": 2621,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1850,9 +1850,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1677
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2002,8 +2002,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-28T05:00:36.2159811+00:00",
+  "LastChanged_Achievements": "2023-05-28T07:00:08.886333+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-05-28T05:57:51.6704754+00:00",
-  "LastUpdate_Achievements": "2023-05-28T05:00:36.2160133+00:00"
+  "LastUpdate_Ratings": "2023-05-28T06:57:36.0207696+00:00",
+  "LastUpdate_Achievements": "2023-05-28T07:00:08.8863851+00:00"
 }
