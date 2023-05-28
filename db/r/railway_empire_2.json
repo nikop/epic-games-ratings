@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -466,9 +466,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "A18",
@@ -498,17 +498,17 @@
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "A23",
@@ -626,17 +626,17 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 183
     },
     {
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "A39",
@@ -714,9 +714,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "A49",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:18:48.4363643+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:05:22.0419895+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:10:25.0489083+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:18:48.4364169+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:57:56.2438607+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:05:22.0420374+00:00"
 }

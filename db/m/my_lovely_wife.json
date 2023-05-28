@@ -2,13 +2,13 @@
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
   "ProductSlug": "my-lovely-wife-bef07f",
-  "Ranking_Rating": 713,
+  "Ranking_Rating": 712,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "ACH_FINISH_SUCC_STORY_2",
       "SetID": "ajki3eh",
       "Name": "Playboy",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FINISH_SUCC_STORY_3",
@@ -420,8 +420,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:18:26.0528248+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:05:05.5464944+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.1888334+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:10:26.878213+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:18:26.0528486+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:57:57.3432621+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:05:05.5465177+00:00"
 }

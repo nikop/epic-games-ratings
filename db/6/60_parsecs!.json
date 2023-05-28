@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "Achievement_AllSeatsTaken",
       "SetID": "c01p6e5",
       "Name": "All Seats Taken",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 221
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -573,8 +573,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:14:12.8105132+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:00:23.2544387+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.5136089+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:11:26.5105291+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:14:12.8105508+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:58:35.4422465+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:00:23.2544742+00:00"
 }

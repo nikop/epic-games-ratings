@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 64.00% | ~174 |
 | Read Between The Lines | 63.00% | ~171 |
-| High Profile | 56.00% | ~152 |
+| High Profile | 57.00% | ~155 |
 | Whispers In The Dark | 55.00% | ~150 |
 | Fond Memories | 49.00% | ~133 |
 | History Check | 47.00% | ~128 |
@@ -16,8 +16,8 @@
 | Gaze Into The Abyss | 43.00% | ~117 |
 | Open Sesame | 42.00% | ~114 |
 | Sticky Fingers | 42.00% | ~114 |
+| Knives Out | 42.00% | ~114 |
 | Back In The Saddle | 41.00% | ~112 |
-| Knives Out | 41.00% | ~112 |
 | Land, Ho! | 40.00% | ~109 |
 | No Man Is An Island | 38.00% | ~103 |
 | Going Once... | 35.00% | ~95 |
@@ -26,7 +26,7 @@
 | Fhtagn! | 33.00% | ~90 |
 | Let Me Be Frank | 32.00% | ~87 |
 | Up In Flames | 32.00% | ~87 |
-| Brain Food | 30.00% | ~82 |
+| Brain Food | 31.00% | ~84 |
 | No Stone Unturned | 27.00% | ~73 |
 | Curiosity Killed The Cat | 19.00% | ~52 |
 | Big Breakthrough | 17.00% | ~46 |

@@ -14,8 +14,8 @@
 | What have I done!? | 14.00% | ~18 |
 | The Cultists | 12.00% | ~15 |
 | This Coffin Has Your Name On It! | 12.00% | ~15 |
+| Parasite Exterminated | 11.00% | ~14 |
 | Alone In The Dark | 10.00% | ~13 |
-| Parasite Exterminated | 10.00% | ~13 |
 | The Forgotten Tower | 9.00% | ~11 |
 | Lover of classics | 8.00% | ~10 |
 | Rest In Peace | 8.00% | ~10 |

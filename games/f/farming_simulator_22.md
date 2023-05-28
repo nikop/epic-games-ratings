@@ -31,8 +31,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Fix me up | 13.00% | ~5,599 |
 | That's a wrap | 13.00% | ~5,599 |
 | Rock on | 12.00% | ~5,168 |
+| Highly cultivated | 11.00% | ~4,738 |
 | It's sow easy | 11.00% | ~4,738 |
-| Highly cultivated | 10.00% | ~4,307 |
 | Giddy-up! | 10.00% | ~4,307 |
 | Cowherd | 7.00% | ~3,015 |
 | Fluffyness | 6.00% | ~2,584 |

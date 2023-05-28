@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -4985,7 +4985,7 @@
   ],
   "EOS_Progressed": 43069,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8104,9 +8104,9 @@
       "ID": "Cultivate",
       "SetID": "636ci4d",
       "Name": "Highly cultivated",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4738
     },
     {
       "ID": "CultivateFirst",
@@ -8384,8 +8384,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-05-27T21:59:27.6434237+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:18:49.8894468+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:05:23.066484+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:06.7681989+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:12:23.1598719+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:18:49.8895021+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:59:10.5967685+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:05:23.066534+00:00"
 }

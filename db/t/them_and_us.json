@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -683,9 +683,9 @@
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_Researcher",
@@ -836,8 +836,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:14:28.2310179+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:00:34.4870622+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:06.6921846+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:09:19.4857049+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:14:28.2310521+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:57:14.670186+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:00:34.4870956+00:00"
 }

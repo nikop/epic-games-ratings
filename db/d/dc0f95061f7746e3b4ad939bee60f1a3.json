@@ -2,10 +2,10 @@
   "ID": "dc0f95061f7746e3b4ad939bee60f1a3",
   "Name": "Puzzle Compound",
   "ProductSlug": "puzzle-compound-fe9903",
-  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T13:00:00+00:00",
     "PcReleaseDate": "2023-05-25T13:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2023-05-27T06:04:26.0564929+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T03:03:54.578336+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 11,
@@ -68,7 +73,7 @@
       "ID": "ACH_CASTLE_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "The Forgotten Castle Complete",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 80,
       "UsersEstimate": 6
     },
@@ -76,7 +81,7 @@
       "ID": "ACH_CASTLE_FAST_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "The Forgotten Castle Speedrun",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -108,7 +113,7 @@
       "ID": "ACH_MANSION_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Jefferson\u0027s Mansion Complete",
-      "Percentage": 50,
+      "Percentage": 42,
       "XP": 80,
       "UsersEstimate": 5
     },
@@ -116,7 +121,7 @@
       "ID": "ACH_MANSION_FAST_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Jefferson\u0027s Mansion Speedrun",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -157,13 +162,13 @@
     {
       "ID": "b5c8hh8",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:16:40.3617884+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:03:54.5783356+00:00",
   "LastUpdate_AppInfo": "2023-05-23T03:57:23.0516033+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:09:13.757254+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:16:40.3618043+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:57:10.847832+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:03:54.5783441+00:00"
 }

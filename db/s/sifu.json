@@ -4260,9 +4260,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705833,
+  "EOS_Progressed": 705842,
   "EOS_Completed": 12739,
-  "EOS_NewPlayers": 1769,
+  "EOS_NewPlayers": 1764,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7475,6 +7475,11 @@
       "Time": "2023-05-28T02:18:56.0241816+00:00",
       "NumProgressed": 705833,
       "NumCompleted": 12739
+    },
+    {
+      "Time": "2023-05-28T03:05:28.0819469+00:00",
+      "NumProgressed": 705842,
+      "NumCompleted": 12739
     }
   ],
   "TotalAchievements": 50,
@@ -7518,7 +7523,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7582,7 +7587,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -7694,7 +7699,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7702,7 +7707,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -7742,7 +7747,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "34_TimedTakedown",
@@ -7750,7 +7755,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "35_WideStrike",
@@ -7766,7 +7771,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7774,7 +7779,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7830,7 +7835,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7885,21 +7890,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15134,
+      "Progressed": 15143,
       "Completed": 10182
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705833,
+      "Progressed": 705842,
       "Completed": 12739
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-27T21:58:54.951643+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:18:56.0241811+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:05:28.0819465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:11:34.9818917+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:18:56.0242526+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:58:40.5218377+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:05:28.0820065+00:00"
 }

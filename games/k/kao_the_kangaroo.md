@@ -1,7 +1,7 @@
 # Kao the Kangaroo
 [Store](https://store.epicgames.com/en-US/p/kao-the-kangaroo-62abe3)  
 [View Rawdata](../../db/k/kao_the_kangaroo.json)  
-Rating: 4.37 (Ranked 706)  
+Rating: 4.36 (Ranked 712)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -24,3 +24,4 @@ Rating: 4.37 (Ranked 706)
 | 2023-05-21 | 4.35 | 0 | 0 |
 | 2023-05-22 | 4.36 | 0 | 0 |
 | 2023-05-25 | 4.37 | 0 | 0 |
+| 2023-05-28 | 4.36 | 0 | 0 |

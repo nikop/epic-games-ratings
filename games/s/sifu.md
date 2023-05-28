@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~605 |
+| Diligence as a goal | 4.00% | ~606 |
 | Project Arena | 3.00% | ~454 |
 | The Old Grandmaster | 1.00% | ~7,058 |
 | The Assault | 1.00% | ~7,058 |
@@ -17,11 +17,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 1.00% | ~7,058 |
 | Bloody Sport | 1.00% | ~151 |
 | The best strikes are the ones we avoid | 1.00% | ~151 |
-| Lady Wing Chun | 0.90% | ~6,352 |
-| Qi Gong: Essence | 0.90% | ~6,352 |
-| Lightning Hands | 0.90% | ~6,352 |
-| Path of the Prospect | 0.90% | ~6,352 |
-| Rumble in the Hangar | 0.90% | ~6,352 |
+| Lady Wing Chun | 0.90% | ~6,353 |
+| Qi Gong: Essence | 0.90% | ~6,353 |
+| Lightning Hands | 0.90% | ~6,353 |
+| Path of the Prospect | 0.90% | ~6,353 |
+| Rumble in the Hangar | 0.90% | ~6,353 |
 | Furious Fists | 0.80% | ~5,647 |
 | Kill Nil | 0.80% | ~5,647 |
 | Stuntmaster | 0.80% | ~5,647 |
@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.40% | ~2,823 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,823 |
 | Detective Story | 0.40% | ~2,823 |
-| Prodigal Child | 0.30% | ~2,117 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,117 |
-| Sword Stained With Blood | 0.30% | ~2,117 |
+| Prodigal Child | 0.30% | ~2,118 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,118 |
+| Sword Stained With Blood | 0.30% | ~2,118 |
 | Martial Hub | 0.30% | ~45 |
 | Secure, Protect, Leave | 0.30% | ~45 |
 | Drunken Fighter | 0.20% | ~1,412 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,833 (Ranked 15)  
+Progressed: 705,842 (Ranked 15)  
 Completed: 12,739 (1.80%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 12,739 (1.80%) (Ranked 64)
 | 2023-05-25 | 705,232 | 12,734 |
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
-| 2023-05-28 | 705,833 | 12,739 |
+| 2023-05-28 | 705,842 | 12,739 |
 ## Awards
 Max (Great Boss Battles): 6,102  (Ranked 53)  
 Sum: 10,399 (Ranked 77)  

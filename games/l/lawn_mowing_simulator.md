@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~507,941 |
-| Every story has a beginning | 37.00% | ~229,193 |
-| The first of many | 32.00% | ~198,221 |
-| Positive word of mouth | 18.00% | ~111,499 |
-| Lawn in the U.S.A. | 15.00% | ~92,916 |
-| Blade Runner | 9.00% | ~55,750 |
-| Credible | 7.00% | ~43,361 |
-| Teamwork makes the dream work | 6.00% | ~37,166 |
+| The dream begins | 82.00% | ~507,959 |
+| Every story has a beginning | 37.00% | ~229,201 |
+| The first of many | 32.00% | ~198,228 |
+| Positive word of mouth | 18.00% | ~111,503 |
+| Lawn in the U.S.A. | 15.00% | ~92,919 |
+| Blade Runner | 9.00% | ~55,752 |
+| Credible | 7.00% | ~43,362 |
+| Teamwork makes the dream work | 6.00% | ~37,168 |
 | Bigger and better | 4.00% | ~24,778 |
 | Aggressive expansion | 4.00% | ~24,778 |
-| Where there's muck there's brass | 3.00% | ~18,583 |
-| Size isn't everything | 3.00% | ~18,583 |
-| Established | 3.00% | ~18,583 |
+| Where there's muck there's brass | 3.00% | ~18,584 |
+| Size isn't everything | 3.00% | ~18,584 |
+| Established | 3.00% | ~18,584 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,389 |
 | Close shave | 2.00% | ~12,389 |
 | Every good deed… | 2.00% | ~12,389 |
 | Leaner and meaner | 2.00% | ~12,389 |
 | First step on the ladder | 2.00% | ~12,389 |
 | Trusted | 2.00% | ~12,389 |
-| Fighting on all fronts | 1.00% | ~6,194 |
-| The top of the mountain | 1.00% | ~6,194 |
+| Fighting on all fronts | 1.00% | ~6,195 |
+| The top of the mountain | 1.00% | ~6,195 |
 | Earn your stripes | 0.90% | ~5,575 |
 | Lawn & Order | 0.90% | ~5,575 |
 | Jack of all trades | 0.90% | ~5,575 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~619 |
 | Mo mowers, mo problems | 0.10% | ~619 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 619,440 (Ranked 19)  
+Progressed: 619,462 (Ranked 19)  
 Completed: 11 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 11 (0.00%) (Ranked 206)
 | 2023-05-25 | 618,166 | 11 |
 | 2023-05-26 | 618,711 | 11 |
 | 2023-05-27 | 619,382 | 11 |
-| 2023-05-28 | 619,440 | 11 |
+| 2023-05-28 | 619,462 | 11 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 269)  
 Sum: 961 (Ranked 232)  

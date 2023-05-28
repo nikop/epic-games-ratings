@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -454,6 +454,11 @@
       "Time": "2023-05-28T00:04:22.8866004+00:00",
       "NumProgressed": 439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T03:04:28.1916238+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -495,9 +500,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 198
     },
     {
       "ID": "ClockworkCompletion1",
@@ -585,7 +590,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -711,9 +716,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 198
     },
     {
       "ID": "ParryRepeated1",
@@ -721,7 +726,7 @@
       "Name": "No, Thanks!",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "PhaseDiveCounter",
@@ -745,15 +750,15 @@
       "Name": "The Prince in Heels",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 409
     },
     {
       "ID": "RewindParry",
@@ -761,7 +766,7 @@
       "Name": "Honest Mistake",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ScrambotCompletion1",
@@ -791,9 +796,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 189
     },
     {
       "ID": "SpeedRun",
@@ -841,7 +846,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "WarwickDefeated",
@@ -873,29 +878,29 @@
       "Name": "The Brass Boss",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:17:30.3197962+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:04:28.1916235+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:12:09.372269+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:17:30.3198487+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:59:01.38516+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:04:28.1916734+00:00"
 }

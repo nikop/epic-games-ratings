@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -531,9 +531,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -563,9 +563,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -660,8 +660,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-28T02:18:26.4441583+00:00",
+  "LastChanged_Achievements": "2023-05-28T03:05:05.7721137+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:11.1073335+00:00",
-  "LastUpdate_Ratings": "2023-05-28T02:10:54.880726+00:00",
-  "LastUpdate_Achievements": "2023-05-28T02:18:26.444182+00:00"
+  "LastUpdate_Ratings": "2023-05-28T02:58:15.3804786+00:00",
+  "LastUpdate_Achievements": "2023-05-28T03:05:05.7721333+00:00"
 }

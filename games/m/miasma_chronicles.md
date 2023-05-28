@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~588 |
-| Ranidaphobia | 67.00% | ~433 |
-| Aspiring Editor | 62.00% | ~401 |
-| Gun for Hire | 56.00% | ~362 |
-| I am the law! | 41.00% | ~265 |
-| Lumberjack | 24.00% | ~155 |
+| First Blood | 91.00% | ~591 |
+| Ranidaphobia | 67.00% | ~435 |
+| Aspiring Editor | 62.00% | ~402 |
+| Gun for Hire | 55.00% | ~357 |
+| I am the law! | 41.00% | ~266 |
+| Lumberjack | 24.00% | ~156 |
 | From Darkness to Light | 23.00% | ~149 |
 | Firestarter | 21.00% | ~136 |
 | Limp Richard | 19.00% | ~123 |
-| Croaked | 17.00% | ~110 |
+| Croaked | 18.00% | ~117 |
 | Exorcist | 15.00% | ~97 |
-| Editor Adept | 14.00% | ~90 |
+| Editor Adept | 14.00% | ~91 |
 | Giant Killer | 11.00% | ~71 |
 | The meaning of Kain | 11.00% | ~71 |
 | Hold The Line | 9.00% | ~58 |
@@ -41,9 +41,9 @@
 | Endgame | 1.00% | ~6 |
 | Savior | 1.00% | ~6 |
 | Side Order | 1.00% | ~6 |
+| Cruelty | 0.80% | ~5 |
 | Bot Whisperer | 0.60% | ~4 |
 | Chaos Theory | 0.60% | ~4 |
-| Cruelty | 0.60% | ~4 |
 | Five Finger Deathcount | 0.30% | ~2 |
 | Fratricide | 0.30% | ~2 |
 | Dressed To Kill | 0.20% | ~1 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646 (Ranked 188)  
+Progressed: 649 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 206)
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
-| 2023-05-28 | 646 | 0 |
+| 2023-05-28 | 649 | 0 |

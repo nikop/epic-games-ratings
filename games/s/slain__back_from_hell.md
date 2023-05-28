@@ -5,15 +5,15 @@ Rating: 4.28 (Ranked 773)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,550 |
-| A Good Day To Die | 16.00% | ~3,640 |
+| Man 'O War | 20.00% | ~4,551 |
+| A Good Day To Die | 16.00% | ~3,641 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,365 |
 | Right Back Atcha | 6.00% | ~1,365 |
-| Killed by Death | 5.00% | ~1,137 |
+| Killed by Death | 5.00% | ~1,138 |
 | Kill 'Em All | 4.00% | ~910 |
 | Down Boy! | 2.00% | ~455 |
 | A Snowball's Chance in Hell | 2.00% | ~455 |
-| Enjoy The Silence | 1.00% | ~227 |
+| Enjoy The Silence | 1.00% | ~228 |
 | Sure Footed As A Goat | 0.90% | ~205 |
 | Thorn in My Herbicide | 0.80% | ~182 |
 | Backdoor Man | 0.80% | ~182 |
@@ -22,20 +22,20 @@ Rating: 4.28 (Ranked 773)
 | Red In Tooth And Claw | 0.70% | ~159 |
 | The Sky Is Falling | 0.70% | ~159 |
 | That'll Come In Handy... | 0.70% | ~159 |
-| Start As You Mean To Go On | 0.60% | ~136 |
-| Hail the Great Horned Metal God! | 0.60% | ~136 |
+| Start As You Mean To Go On | 0.60% | ~137 |
+| Hail the Great Horned Metal God! | 0.60% | ~137 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~114 |
 | Four Legged Friend | 0.40% | ~91 |
 | Ice To See You | 0.40% | ~91 |
 | Smack My Imp Up | 0.40% | ~91 |
 | Vroll With It | 0.30% | ~68 |
 | Swift of Foot, Keen of Blade | 0.30% | ~68 |
-| Flame Retardant | 0.20% | ~45 |
-| Death or Glory | 0.20% | ~45 |
+| Flame Retardant | 0.20% | ~46 |
+| Death or Glory | 0.20% | ~46 |
 | Too Metal For Magic | 0.10% | ~23 |
 | Heart Of Steel | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,749 (Ranked 90)  
+Progressed: 22,756 (Ranked 90)  
 Completed: 18 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 18 (0.08%) (Ranked 166)
 | 2023-05-25 | 22,301 | 18 |
 | 2023-05-26 | 22,512 | 18 |
 | 2023-05-27 | 22,732 | 18 |
-| 2023-05-28 | 22,749 | 18 |
+| 2023-05-28 | 22,756 | 18 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 301)  
 Sum: 125 (Ranked 388)  

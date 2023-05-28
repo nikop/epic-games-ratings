@@ -49,7 +49,7 @@ Number of Ratings: 368  (23.09.2022)
 | Boy of mystery | 2.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,763 (Ranked 104)  
-Completed: 94 (0.74%) (Ranked 98)  
+Completed: 95 (0.74%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 94 (0.74%) (Ranked 98)
 | 2023-05-25 | 12,697 | 94 |
 | 2023-05-26 | 12,723 | 94 |
 | 2023-05-27 | 12,759 | 94 |
-| 2023-05-28 | 12,763 | 94 |
+| 2023-05-28 | 12,763 | 95 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  
