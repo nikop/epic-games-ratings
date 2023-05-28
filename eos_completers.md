@@ -31,7 +31,7 @@
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.17% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 32 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.35% |
+| 32 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.33% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.14% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
@@ -59,9 +59,9 @@
 | 57 | [Iron Danger](games/i/iron_danger.md) | 2.26% |
 | 58 | [JARS](games/j/jars.md) | 2.22% |
 | 58 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
-| 62 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.11% |
+| 62 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.08% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 1.97% |
 | 64 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 64 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -73,7 +73,7 @@
 | 71 | [Frogun](games/f/frogun.md) | 1.54% |
 | 72 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 73 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.43% |
-| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
+| 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.42% |
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
 | 76 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.33% |
 | 77 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
