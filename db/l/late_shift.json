@@ -236,9 +236,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 355
     },
     {
       "ID": "CHOICES_MATTER",
@@ -284,9 +284,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 159
     },
     {
       "ID": "ENDING_6",
@@ -308,9 +308,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -364,9 +364,9 @@
       "ID": "PROTECTOR",
       "SetID": "8eejhlh",
       "Name": "Protector",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "SABOTAGE",
@@ -405,8 +405,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:06:51.9642341+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:30.3840526+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:58:19.5305043+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:06:51.9642496+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:57:47.2629919+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:30.3840672+00:00"
 }

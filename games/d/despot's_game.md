@@ -5,15 +5,15 @@ Rating: 4.50 (Ranked 541)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 83.00% | ~315 |
-| Vanquisher of Robots | 73.00% | ~277 |
+| Good start! | 83.00% | ~316 |
+| Vanquisher of Robots | 73.00% | ~278 |
 | Party | 45.00% | ~171 |
-| Knowledge is Power | 44.00% | ~167 |
-| Impossible Cube | 42.00% | ~160 |
+| Knowledge is Power | 44.00% | ~168 |
+| Impossible Cube | 43.00% | ~164 |
 | No Mercy | 41.00% | ~156 |
-| The Return of a Rat | 39.00% | ~148 |
-| Through the Darkness | 39.00% | ~148 |
-| Fat of the Earth | 33.00% | ~125 |
+| The Return of a Rat | 39.00% | ~149 |
+| Through the Darkness | 39.00% | ~149 |
+| Fat of the Earth | 33.00% | ~126 |
 | Last Man Standing | 31.00% | ~118 |
 | Catch Jonathan_tostar | 27.00% | ~103 |
 | Great Hero | 25.00% | ~95 |
@@ -21,14 +21,14 @@ Rating: 4.50 (Ranked 541)
 | Assemble a Meganewbie | 24.00% | ~91 |
 | He's Seen It All | 24.00% | ~91 |
 | Rookie | 24.00% | ~91 |
-| Frugal | 21.00% | ~80 |
+| Frugal | 20.00% | ~76 |
 | Feed a God | 20.00% | ~76 |
 | To the Moon and Back | 19.00% | ~72 |
 | Great Flight | 17.00% | ~65 |
 | Holy Vengeance | 14.00% | ~53 |
-| Honorary Cultist | 11.00% | ~42 |
 | Strength and Sorcery | 10.00% | ~38 |
 | Brain and Brawn | 10.00% | ~38 |
+| Honorary Cultist | 10.00% | ~38 |
 | Omae Wa Mou Shindeiru | 7.00% | ~27 |
 | Experimentalist | 6.00% | ~23 |
 | Wide Selection | 6.00% | ~23 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 541)
 | Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380 (Ranked 203)  
+Progressed: 381 (Ranked 203)  
 Completed: 1 (0.26%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 1 (0.26%) (Ranked 133)
 | 2023-05-25 | 373 | 1 |
 | 2023-05-26 | 375 | 1 |
 | 2023-05-27 | 378 | 1 |
-| 2023-05-28 | 380 | 1 |
+| 2023-05-28 | 381 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

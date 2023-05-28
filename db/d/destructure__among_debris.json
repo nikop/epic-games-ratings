@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -498,6 +498,11 @@
       "Time": "2023-05-28T12:03:11.7981505+00:00",
       "NumProgressed": 108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T15:02:13.2441802+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -541,7 +546,7 @@
       "Name": "Ball Galore",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ball_protector",
@@ -579,9 +584,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "easy_victory",
@@ -597,7 +602,7 @@
       "Name": "Graduation",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -741,7 +746,7 @@
       "Name": "You Are Actually Supposed To Use Those",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "what_are_you",
@@ -756,7 +761,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 1
     }
   ],
@@ -764,8 +769,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:03:15.9506068+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:02:13.2441795+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:01:21.3531518+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:03:15.9506339+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:59:59.9664096+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:02:13.2442072+00:00"
 }

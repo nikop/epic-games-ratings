@@ -23,6 +23,7 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.20% | ~10 |
 | Benedict Brahrnold | 0.20% | ~10 |
 | I'll Be Back | 0.20% | ~10 |
+| It Smells Like Roses | 0.20% | ~4 |
 | Love Conquers All | 0.20% | ~10 |
 | Newcomer: Vickie | 0.20% | ~10 |
 | Rachael | 0.20% | ~10 |
@@ -53,7 +54,6 @@ Number of Ratings: 177  (23.09.2022)
 | Host Hijinks | 0.10% | ~5 |
 | Hungry Hungry Hot Tubs | 0.10% | ~2 |
 | Ice Bath | 0.10% | ~5 |
-| It Smells Like Roses | 0.10% | ~2 |
 | Money Shot | 0.10% | ~5 |
 | Notice Me, Sensei | 0.10% | ~5 |
 | Now It's a Party! | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,205 (Ranked 124)  
+Progressed: 5,206 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.04%) (Ranked 178)
 | 2023-05-25 | 5,135 | 2 |
 | 2023-05-26 | 5,162 | 2 |
 | 2023-05-27 | 5,186 | 2 |
-| 2023-05-28 | 5,205 | 2 |
+| 2023-05-28 | 5,206 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

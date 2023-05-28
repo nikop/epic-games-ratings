@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1606,9 +1606,9 @@
       "ID": "UNLOCK_RESEARCH_5",
       "SetID": "5349c2e",
       "Name": "Studious Researcher",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1305
     }
   ],
   "AchievementSets": [
@@ -1622,8 +1622,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-26T20:02:37.4182915+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:07:16.4783596+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:49.0131666+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.9974072+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:01:10.0192974+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:07:16.4783859+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:59:51.651164+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:49.0131923+00:00"
 }

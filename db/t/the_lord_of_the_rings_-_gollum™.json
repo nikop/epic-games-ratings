@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -360,6 +360,11 @@
       "Time": "2023-05-28T14:06:50.223218+00:00",
       "NumProgressed": 322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T15:05:29.0177833+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -395,7 +400,7 @@
       "Name": "The Wraith",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Chapter10",
@@ -417,9 +422,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "Chapter4",
@@ -449,9 +454,9 @@
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "Chapter8",
@@ -475,7 +480,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Collectibles2",
@@ -539,7 +544,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Memories",
@@ -561,9 +566,9 @@
       "ID": "NoDamage",
       "SetID": "70l3651",
       "Name": "Nervous Hands",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NoDeath",
@@ -641,9 +646,9 @@
       "ID": "TriggerHappy",
       "SetID": "70l3651",
       "Name": "Trigger-Happy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "WelcomeToMordor",
@@ -651,21 +656,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:06:50.2232173+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:29.0177828+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:58:20.6592606+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:06:50.2232546+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:57:48.1639498+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:29.0178111+00:00"
 }

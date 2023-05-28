@@ -711,9 +711,9 @@
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_restaurants_4",
@@ -904,8 +904,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:07:34.592285+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:06:13.4910645+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:58:48.6918446+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:07:34.592385+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:58:07.4417468+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:06:13.4911686+00:00"
 }

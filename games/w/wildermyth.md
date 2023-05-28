@@ -19,7 +19,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 11.00% | ~134 |
 | Who's Counting? | 11.00% | ~134 |
 | Core Failure | 11.00% | ~134 |
-| Pyrrhic Victory | 9.00% | ~109 |
+| Pyrrhic Victory | 9.00% | ~110 |
 | Echoes Die | 8.00% | ~97 |
 | Thematic Divergence | 7.00% | ~85 |
 | Chain Reaction | 7.00% | ~85 |
@@ -35,12 +35,12 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 4.00% | ~49 |
 | A Hunger, Sated | 4.00% | ~49 |
 | Turncoat | 4.00% | ~49 |
-| We Emerge Changed | 3.00% | ~36 |
-| No More Nightmares | 3.00% | ~36 |
-| Bears are Scary | 3.00% | ~36 |
-| Grillmaster | 3.00% | ~36 |
-| Into Mulch | 3.00% | ~36 |
-| No Time for Clawmonsters | 3.00% | ~36 |
+| We Emerge Changed | 3.00% | ~37 |
+| No More Nightmares | 3.00% | ~37 |
+| Bears are Scary | 3.00% | ~37 |
+| Grillmaster | 3.00% | ~37 |
+| Into Mulch | 3.00% | ~37 |
+| No Time for Clawmonsters | 3.00% | ~37 |
 | Storied Past | 2.00% | ~24 |
 | The Power of Friendship | 2.00% | ~24 |
 | Empty the Caves | 2.00% | ~24 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,216 (Ranked 160)  
+Progressed: 1,217 (Ranked 160)  
 Completed: 3 (0.25%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 3 (0.25%) (Ranked 134)
 | 2023-05-25 | 1,205 | 3 |
 | 2023-05-26 | 1,211 | 3 |
 | 2023-05-27 | 1,216 | 3 |
+| 2023-05-28 | 1,217 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 464)  

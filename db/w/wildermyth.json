@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1216,
+  "EOS_Progressed": 1217,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -635,6 +635,11 @@
       "Time": "2023-05-27T21:05:30.958878+00:00",
       "NumProgressed": 1216,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-28T15:05:39.1522001+00:00",
+      "NumProgressed": 1217,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -646,7 +651,7 @@
       "Name": "We Emerge Changed",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_150Calamities",
@@ -782,7 +787,7 @@
       "Name": "No More Nightmares",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -862,7 +867,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "completedStory_cvawn",
@@ -974,7 +979,7 @@
       "Name": "Bears are Scary",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -990,7 +995,7 @@
       "Name": "Grillmaster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -1014,7 +1019,7 @@
       "Name": "Into Mulch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -1086,22 +1091,22 @@
       "Name": "No Time for Clawmonsters",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1216,
+      "Progressed": 1217,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:07:03.3497218+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:39.1521995+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:02:15.4114174+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:07:03.3497701+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:00:40.4139647+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:39.1522528+00:00"
 }

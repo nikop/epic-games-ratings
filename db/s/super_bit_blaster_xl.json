@@ -4,7 +4,7 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "1.5 Million",
       "SetID": "1f269fc",
       "Name": "1.5 Million",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "10K",
@@ -388,9 +388,9 @@
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "50K",
@@ -420,25 +420,25 @@
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Bit Blaster V3",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V3",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Bit Blaster V4",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V4",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Bit Blaster V5",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:06:51.4337721+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:29.9740173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.223313+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:58:19.8933812+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:06:51.4338153+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:57:47.4673592+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:29.9740341+00:00"
 }

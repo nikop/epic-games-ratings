@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -681,9 +681,9 @@
       "ID": "ACH_DREAMLISTENER",
       "SetID": "7pam6gn",
       "Name": "Dream Listener",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -713,9 +713,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 244
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -802,8 +802,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:06:57.7155121+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:34.5902194+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:59:32.2710896+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:06:57.7155272+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:58:41.3734291+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:34.5902343+00:00"
 }

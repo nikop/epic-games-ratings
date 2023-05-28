@@ -2,12 +2,12 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1500,
+  "EOS_Progressed": 1501,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -836,6 +836,11 @@
       "Time": "2023-05-28T12:03:22.7267491+00:00",
       "NumProgressed": 1500,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-28T15:02:22.7577436+00:00",
+      "NumProgressed": 1501,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -847,7 +852,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "Collect20Gold",
@@ -871,7 +876,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "CollectAllStatues",
@@ -917,9 +922,9 @@
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 585
     },
     {
       "ID": "CompleteGuardFaction",
@@ -927,7 +932,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "CompleteHunterFaction",
@@ -943,7 +948,7 @@
       "Name": "A new Warchief rises",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DefeatAvor",
@@ -991,7 +996,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "GetTHWeapon",
@@ -999,15 +1004,15 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 766
     },
     {
       "ID": "Kill25Frogs",
@@ -1015,7 +1020,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "Kill25Mozi",
@@ -1061,9 +1066,9 @@
       "ID": "RepairThroneRoom",
       "SetID": "9lj35g4",
       "Name": "Throne Room Fit For A King",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 525
+      "UsersEstimate": 540
     },
     {
       "ID": "RescueBrothers",
@@ -1086,22 +1091,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1500,
+      "Progressed": 1501,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 141,
-      "Completed": 141
+      "Progressed": 142,
+      "Completed": 142
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:03:29.6532337+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:02:22.7577427+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:59:11.8030267+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:03:29.6532614+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:58:24.9574012+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:02:22.7577756+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "4acc3c00b76e48dca196601dfe1940fc",
   "Name": "Gripper",
   "ProductSlug": "gripper-a6534b",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -117,6 +117,11 @@
     {
       "Time": "2023-05-28T03:05:08.0655769+00:00",
       "NumProgressed": 37,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T15:05:34.9000094+00:00",
+      "NumProgressed": 38,
       "NumCompleted": 0
     }
   ],
@@ -255,7 +260,7 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -319,7 +324,7 @@
       "ID": "ach_win_anger",
       "SetID": "7flpkel",
       "Name": "Deal with Anger",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -367,7 +372,7 @@
       "ID": "ach_win_depression",
       "SetID": "7flpkel",
       "Name": "Deal with Depression",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -375,7 +380,7 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -408,7 +413,7 @@
     {
       "ID": "7flpkel",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
@@ -416,8 +421,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:06:58.1184814+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:34.9000088+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.9960672+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:58:51.932575+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:06:58.1185076+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:58:10.2773249+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:34.9000417+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 347,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 5.76,
   "EosHistory": [
@@ -896,9 +896,9 @@
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_019",
@@ -1007,8 +1007,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:04:13.7842697+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:03:26.1297101+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:57:24.700331+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:04:13.7843084+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:57:05.2132454+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:03:26.1297388+00:00"
 }

@@ -24,13 +24,13 @@
 | Bathroom Secret Spot | 18.00% | ~3 |
 | Living Room Secret Spot | 12.00% | ~2 |
 | Angry Dad | 12.00% | ~2 |
+| At least everyone still had fun | 12.00% | ~2 |
 | Basement Secret Spot | 6.00% | ~1 |
 | Classroom Secret Spot | 6.00% | ~1 |
 | Kitchen Secret Spot | 6.00% | ~1 |
 | Kickball Kup | 6.00% | ~1 |
 | Found the Secret Formula! | 6.00% | ~1 |
 | Goooooooooal! | 6.00% | ~1 |
-| At least everyone still had fun | 6.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |

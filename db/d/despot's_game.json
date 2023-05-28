@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380,
+  "EOS_Progressed": 381,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -190,6 +190,11 @@
       "Time": "2023-05-28T05:05:31.1533983+00:00",
       "NumProgressed": 380,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-28T15:05:46.7117675+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -231,9 +236,9 @@
       "ID": "collect-discounted-items1",
       "SetID": "799afm0",
       "Name": "Frugal",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "collect-discounted-items2",
@@ -273,15 +278,15 @@
       "Name": "Fat of the Earth",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 164
     },
     {
       "ID": "finished-quest-flight",
@@ -321,7 +326,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "finished-quest-reaper",
@@ -337,7 +342,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "finished-quest-secret",
@@ -417,7 +422,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "win-first-level",
@@ -425,7 +430,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "win-koth-fights1",
@@ -457,15 +462,15 @@
       "Name": "Through the Darkness",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "win-with-3-cultists",
       "SetID": "799afm0",
       "Name": "Honorary Cultist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 38
     },
     {
       "ID": "win-with-mrakus",
@@ -480,7 +485,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 380,
+      "Progressed": 381,
       "Completed": 1
     }
   ],
@@ -488,8 +493,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:07:13.430313+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:46.711767+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:59:37.3338128+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:07:13.4303405+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:58:45.3648078+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:46.7117958+00:00"
 }

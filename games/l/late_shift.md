@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~352 |
+| Cause and Effect | 96.00% | ~355 |
 | Fair Share | 71.00% | ~263 |
-| Even Tempered | 55.00% | ~204 |
+| Even Tempered | 56.00% | ~207 |
 | Star-Crossed Lovers | 45.00% | ~166 |
 | Shill Bidder | 44.00% | ~163 |
-| The Delivery | 42.00% | ~155 |
+| The Delivery | 43.00% | ~159 |
 | The Frenzy | 34.00% | ~126 |
 | Office Clerk | 32.00% | ~118 |
 | Good Karma | 31.00% | ~115 |
-| Protector | 27.00% | ~100 |
+| Protector | 28.00% | ~104 |
 | The Bribe | 26.00% | ~96 |
 | The Ploy | 15.00% | ~56 |
 | Interrogation | 14.00% | ~52 |

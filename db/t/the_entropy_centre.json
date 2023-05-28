@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -228,6 +228,11 @@
       "Time": "2023-05-28T08:06:44.0384818+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-28T15:05:33.4106691+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -301,7 +306,7 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
       "UsersEstimate": 73
     },
@@ -311,15 +316,15 @@
       "Name": "Command Centre",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ACT4",
       "SetID": "2310cb1",
       "Name": "This is a Wall",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ACT5",
@@ -375,13 +380,13 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 35
     },
@@ -415,7 +420,7 @@
       "Name": "Looper",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_REUINTED",
@@ -431,7 +436,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -454,7 +459,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -462,8 +467,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:06:56.1930967+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:33.4106686+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-28T13:57:50.8732132+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:06:56.1931203+00:00"
+  "LastUpdate_Ratings": "2023-05-28T14:57:26.5740611+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:33.410686+00:00"
 }

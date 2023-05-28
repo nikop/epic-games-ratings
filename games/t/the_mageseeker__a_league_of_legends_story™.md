@@ -12,7 +12,7 @@ Rating: 4.78 (Ranked 99)
 | Pentakill | 75.00% | ~1,642 |
 | The use of petricite | 72.00% | ~1,576 |
 | You can pet the dog | 60.00% | ~1,313 |
-| Big Helmet Bro | 34.00% | ~744 |
+| Big Helmet Bro | 35.00% | ~766 |
 | Clarion Cove | 34.00% | ~744 |
 | Past trauma | 33.00% | ~722 |
 | Thornbarrow | 32.00% | ~700 |

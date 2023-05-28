@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177,
+  "EOS_Progressed": 178,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.26,
+  "EOS_Completed_Percentage": 2.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-05-27T19:05:27.7568727+00:00",
       "NumProgressed": 177,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-28T15:05:55.0823205+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -191,7 +196,7 @@
       "Name": "Found the Healer",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -310,7 +315,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 4
     }
   ],
@@ -318,8 +323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-28T14:07:23.8550197+00:00",
+  "LastChanged_Achievements": "2023-05-28T15:05:55.0823195+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:26.9999323+00:00",
-  "LastUpdate_Ratings": "2023-05-28T14:01:27.37039+00:00",
-  "LastUpdate_Achievements": "2023-05-28T14:07:23.8550379+00:00"
+  "LastUpdate_Ratings": "2023-05-28T15:00:08.0054827+00:00",
+  "LastUpdate_Achievements": "2023-05-28T15:05:55.0823376+00:00"
 }

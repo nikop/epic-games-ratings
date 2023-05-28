@@ -7,8 +7,8 @@
 | Is There Anybody Out There? | 94.00% | ~76 |
 | Cluster One | 83.00% | ~67 |
 | Another Brick in the Wall (Part 1) | 70.00% | ~57 |
-| High Hopes | 58.00% | ~47 |
-| Comfortably Numb | 56.00% | ~45 |
+| High Hopes | 59.00% | ~48 |
+| Comfortably Numb | 57.00% | ~46 |
 | Another Brick in the Wall (Part 2) | 48.00% | ~39 |
 | Echoes | 48.00% | ~39 |
 | Biding My Time | 44.00% | ~36 |
