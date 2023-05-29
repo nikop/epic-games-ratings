@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 15.08% |
+| 11 | [Island Cities](games/i/island_cities.md) | 15.00% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
@@ -21,13 +21,13 @@
 | 18 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.89% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.88% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
 | 24 | [Scorn](games/s/scorn.md) | 6.92% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.70% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.67% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.11% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
@@ -84,7 +84,7 @@
 | 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.17% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.15% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
-| 85 | [Late Shift](games/l/late_shift.md) | 1.08% |
+| 85 | [Late Shift](games/l/late_shift.md) | 1.07% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.05% |
 | 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.99% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
@@ -105,7 +105,7 @@
 | 103 | [Haven](games/h/haven.md) | 0.68% |
 | 104 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.64% |
 | 105 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 105 | [The Surge 2](games/t/the_surge_2.md) | 0.61% |
+| 106 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
 | 107 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
