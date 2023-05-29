@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.42,
+  "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -764,6 +764,11 @@
       "Time": "2023-05-29T05:03:35.6466067+00:00",
       "NumProgressed": 294,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-29T06:04:19.5274908+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -773,9 +778,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 180
     },
     {
       "ID": "MQ01_2",
@@ -783,7 +788,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "MQ02_1",
@@ -821,9 +826,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 136
     },
     {
       "ID": "MQ03_2",
@@ -831,7 +836,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ03_3",
@@ -839,7 +844,7 @@
       "Name": "History Check",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "MQ03_4",
@@ -853,9 +858,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "MQ04_1",
@@ -879,7 +884,7 @@
       "Name": "The New World",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ05_1",
@@ -917,9 +922,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "MQ06_2",
@@ -967,7 +972,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "MQ08_2",
@@ -998,7 +1003,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 13
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:03:35.6466061+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:04:19.5274901+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:17.3627913+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:03:35.6466293+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:57:42.3271945+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:04:19.5275166+00:00"
 }

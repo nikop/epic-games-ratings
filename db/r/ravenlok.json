@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 897,
+  "EOS_Progressed": 898,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 6.8,
+  "EOS_Completed_Percentage": 6.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1922,6 +1922,11 @@
       "Time": "2023-05-29T03:05:21.7836887+00:00",
       "NumProgressed": 897,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-05-29T06:06:52.0223782+00:00",
+      "NumProgressed": 898,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 50,
@@ -1933,7 +1938,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "10",
@@ -1955,9 +1960,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 305
     },
     {
       "ID": "13",
@@ -2011,9 +2016,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 629
     },
     {
       "ID": "2",
@@ -2021,7 +2026,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "20",
@@ -2093,7 +2098,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "29",
@@ -2107,9 +2112,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 539
     },
     {
       "ID": "30",
@@ -2197,7 +2202,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "40",
@@ -2221,7 +2226,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "43",
@@ -2251,9 +2256,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 216
     },
     {
       "ID": "47",
@@ -2261,7 +2266,7 @@
       "Name": "Crowned",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "48",
@@ -2269,7 +2274,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "49",
@@ -2309,7 +2314,7 @@
       "Name": "Fun Guy",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "8",
@@ -2317,7 +2322,7 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "9",
@@ -2332,7 +2337,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 897,
+      "Progressed": 898,
       "Completed": 61
     }
   ],
@@ -2340,8 +2345,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:15.9210232+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:06:52.0223776+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:27.2609082+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:15.9210758+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:57:56.8817943+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:06:52.0224401+00:00"
 }

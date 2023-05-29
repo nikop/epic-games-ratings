@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 93.00% | ~445 |
 | Rail Rat | 76.00% | ~364 |
-| The Mysterious Stranger | 74.00% | ~354 |
+| The Mysterious Stranger | 75.00% | ~359 |
 | Immaculate Aim | 62.00% | ~297 |
 | The Brass Boss | 54.00% | ~259 |
 | Honest Mistake | 52.00% | ~249 |
@@ -20,7 +20,7 @@
 | Make Up For Lost Time | 43.00% | ~206 |
 | Breaking Down Barriers | 41.00% | ~196 |
 | The Steel Shadow | 34.00% | ~163 |
-| Like Clockwork | 33.00% | ~158 |
+| Like Clockwork | 34.00% | ~163 |
 | Golem Chaser | 33.00% | ~158 |
 | The Wicked Twins | 30.00% | ~144 |
 | Family Memories | 29.00% | ~139 |
@@ -30,11 +30,11 @@
 | Street Style | 25.00% | ~120 |
 | The Loose Cannon | 25.00% | ~120 |
 | The Man Who Shattered Time | 20.00% | ~96 |
+| Ask Questions Later | 20.00% | ~96 |
 | The Family Fortune | 20.00% | ~96 |
 | Whiz Kid | 19.00% | ~91 |
 | Sump Explorer | 19.00% | ~91 |
 | Syron for Hope | 19.00% | ~91 |
-| Ask Questions Later | 19.00% | ~91 |
 | Chaincrawler Explorer | 18.00% | ~86 |
 | Factorywood Explorer | 17.00% | ~81 |
 | Fairgrounds Explorer | 16.00% | ~77 |

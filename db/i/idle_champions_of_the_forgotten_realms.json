@@ -3994,11 +3994,11 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89076,
-  "EOS_Completed": 1892,
-  "EOS_NewPlayers": 795,
-  "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 2.12,
+  "EOS_Progressed": 89080,
+  "EOS_Completed": 1893,
+  "EOS_NewPlayers": 798,
+  "EOS_NewCompleters": 33,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -7814,6 +7814,11 @@
       "Time": "2023-05-29T05:05:48.2197039+00:00",
       "NumProgressed": 89076,
       "NumCompleted": 1892
+    },
+    {
+      "Time": "2023-05-29T06:07:34.7841076+00:00",
+      "NumProgressed": 89080,
+      "NumCompleted": 1893
     }
   ],
   "TotalAchievements": 493,
@@ -9503,9 +9508,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 445
     },
     {
       "ID": "objective_completed_35",
@@ -11039,9 +11044,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 356
     },
     {
       "ID": "objective_completed_80",
@@ -11768,21 +11773,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55350,
+      "Progressed": 55354,
       "Completed": 2733
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89076,
-      "Completed": 1892
+      "Progressed": 89080,
+      "Completed": 1893
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-29T02:04:30.5185943+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:48.2197035+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:34.7841069+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:57.4094162+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:48.2220756+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:58:41.8370643+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:34.7871376+00:00"
 }

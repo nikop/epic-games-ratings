@@ -36,11 +36,11 @@ Number of Ratings: 22  (23.09.2022)
 | Club Champion | 5.00% | ~21 |
 | Mobile Infantry | 5.00% | ~21 |
 | King of District 5 | 4.00% | ~17 |
+| Accomplished Veteran | 3.00% | ~12 |
 | Hundred Percent Third | 3.00% | ~12 |
 | Hundred Percent Fourth | 3.00% | ~12 |
 | Circus Maximus | 3.00% | ~12 |
 | City Savior | 3.00% | ~12 |
-| Accomplished Veteran | 2.00% | ~8 |
 | Unmatched Skills | 2.00% | ~8 |
 | Victorian Victor | 2.00% | ~8 |
 | King of District 6 | 2.00% | ~8 |

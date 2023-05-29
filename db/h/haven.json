@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -702,9 +702,9 @@
       "ID": "3",
       "SetID": "n50no0",
       "Name": "Hug therapy",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 540
     },
     {
       "ID": "30",
@@ -790,8 +790,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:33.7142271+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:16.2363562+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:02.2498458+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:59:09.4501078+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:33.7142506+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:00:31.9860964+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:16.2363794+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~861 |
-| Waff! | 94.00% | ~843 |
-| Into the Barn | 86.00% | ~771 |
-| A Prophecy | 84.00% | ~753 |
-| Sword, Shield, Fight! | 74.00% | ~664 |
-| A Grand Visit | 71.00% | ~637 |
-| Vibing | 61.00% | ~547 |
-| Fun Guy | 61.00% | ~547 |
-| Tragic Brave | 52.00% | ~466 |
+| Once Upon a Time | 96.00% | ~862 |
+| Waff! | 94.00% | ~844 |
+| Into the Barn | 86.00% | ~772 |
+| A Prophecy | 84.00% | ~754 |
+| Sword, Shield, Fight! | 74.00% | ~665 |
+| A Grand Visit | 70.00% | ~629 |
+| Fun Guy | 61.00% | ~548 |
+| Vibing | 60.00% | ~539 |
+| Tragic Brave | 52.00% | ~467 |
 | Awakened Spirits | 49.00% | ~440 |
 | Little Shop | 48.00% | ~431 |
 | Surprise! | 43.00% | ~386 |
@@ -31,8 +31,8 @@
 | Frog Facts! | 35.00% | ~314 |
 | All That Glistens | 35.00% | ~314 |
 | It's Pointy! | 35.00% | ~314 |
+| Spellbound | 34.00% | ~305 |
 | All Skilled Up! | 34.00% | ~305 |
-| Spellbound | 33.00% | ~296 |
 | Extinct Again! | 33.00% | ~296 |
 | Bird of Prey | 32.00% | ~287 |
 | Stardust | 32.00% | ~287 |
@@ -48,15 +48,15 @@
 | Spot of Tea? | 29.00% | ~260 |
 | Going Home | 29.00% | ~260 |
 | Mirror, Mirror | 27.00% | ~242 |
-| Flower Power | 25.00% | ~224 |
-| Shopping Spree! | 22.00% | ~197 |
-| Crowned | 21.00% | ~188 |
+| Flower Power | 24.00% | ~216 |
+| Shopping Spree! | 22.00% | ~198 |
+| Crowned | 21.00% | ~189 |
 | Max Level! | 13.00% | ~117 |
 | Dance Master | 8.00% | ~72 |
 | Bombs Away! | 8.00% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897 (Ranked 176)  
-Completed: 61 (6.80%) (Ranked 25)  
+Progressed: 898 (Ranked 176)  
+Completed: 61 (6.79%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 61 (6.80%) (Ranked 25)
 | 2023-05-26 | 868 | 58 |
 | 2023-05-27 | 876 | 60 |
 | 2023-05-28 | 894 | 61 |
-| 2023-05-29 | 897 | 61 |
+| 2023-05-29 | 898 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

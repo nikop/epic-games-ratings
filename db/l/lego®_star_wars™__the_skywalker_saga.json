@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2196,10 +2196,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6366,
       "NumberOfAwardsMax": 2286
+    },
+    {
+      "Time": "2023-05-29T06:01:48.3963907+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6367,
+      "NumberOfAwardsMax": 2286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6366,
+  "NumberOfAwards": 6367,
   "NumberOfAwardsMax": 2286,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2261,7 +2267,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 441
+      "Count": 442
     },
     {
       "Text": "This game is Relaxing",
@@ -2276,10 +2282,10 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 47698,
-  "EOS_Completed": 170,
-  "EOS_NewPlayers": 934,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 47699,
+  "EOS_Completed": 171,
+  "EOS_NewPlayers": 928,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
@@ -5256,6 +5262,11 @@
       "Time": "2023-05-29T05:05:42.2198762+00:00",
       "NumProgressed": 47698,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-05-29T06:07:27.8641335+00:00",
+      "NumProgressed": 47699,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 45,
@@ -5291,7 +5302,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 37681
+      "UsersEstimate": 37682
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -5387,7 +5398,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 21941
+      "UsersEstimate": 21942
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -5395,7 +5406,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 18602
+      "UsersEstimate": 18603
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -5403,7 +5414,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 22418
+      "UsersEstimate": 22419
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -5411,7 +5422,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 17171
+      "UsersEstimate": 17172
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -5419,7 +5430,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -5427,7 +5438,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12401
+      "UsersEstimate": 12402
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -5531,7 +5542,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 46267
+      "UsersEstimate": 46268
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -5587,7 +5598,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 17648
+      "UsersEstimate": 17649
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -5626,15 +5637,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 47698,
-      "Completed": 170
+      "Progressed": 47699,
+      "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-05-28T14:02:14.8240582+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:42.2198754+00:00",
+  "LastChanged": "2023-05-29T06:01:48.3963905+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:27.8641332+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.3477834+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:59:59.5743715+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:42.2199285+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:01:48.3963912+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:27.8641907+00:00"
 }

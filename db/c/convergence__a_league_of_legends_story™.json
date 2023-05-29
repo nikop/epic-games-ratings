@@ -611,9 +611,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 163
     },
     {
       "ID": "ClovemaryGift",
@@ -683,9 +683,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 359
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -955,9 +955,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "WatcherSpared",
@@ -994,8 +994,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:04:39.7547666+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:05:58.7728388+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:59:04.9855447+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:04:39.7548176+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:00:25.4657694+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:05:58.7728806+00:00"
 }

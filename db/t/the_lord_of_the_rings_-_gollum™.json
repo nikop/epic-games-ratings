@@ -448,9 +448,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 199
     },
     {
       "ID": "Chapter10",
@@ -488,17 +488,17 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "Chapter7",
@@ -719,8 +719,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:12.1982033+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:06:46.8205787+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:42.3552852+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:12.1982336+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:58:19.4185592+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:06:46.8206057+00:00"
 }

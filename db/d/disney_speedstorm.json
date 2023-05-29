@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2611,
+  "EOS_Progressed": 2612,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1975,6 +1975,11 @@
       "Time": "2023-05-29T00:03:24.7416082+00:00",
       "NumProgressed": 2611,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T06:03:51.5162143+00:00",
+      "NumProgressed": 2612,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2008,9 +2013,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 209
     },
     {
       "ID": "13",
@@ -2074,7 +2079,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "20",
@@ -2146,7 +2151,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "7",
@@ -2177,13 +2182,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2611,
+      "Progressed": 2612,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:03:23.7278061+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:03:51.5162137+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:58:40.3513639+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:03:23.7278337+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:59:48.4501859+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:03:51.5162479+00:00"
 }

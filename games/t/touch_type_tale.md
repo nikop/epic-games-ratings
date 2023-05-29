@@ -7,11 +7,11 @@
 | You and what Army? | 90.00% | ~2,543 |
 | Flanked! | 79.00% | ~2,233 |
 | Economics 101 | 65.00% | ~1,837 |
-| Get Rich Quick | 47.00% | ~1,328 |
+| Get Rich Quick | 48.00% | ~1,356 |
 | Do the Splits | 41.00% | ~1,159 |
 | Maestro | 28.00% | ~791 |
 | Full Employment | 19.00% | ~537 |
-| Clay Fighter | 17.00% | ~480 |
+| Clay Fighter | 18.00% | ~509 |
 | Nowhere left to Hide | 15.00% | ~424 |
 | All Ovens Blazing | 14.00% | ~396 |
 | Boulder Clash | 14.00% | ~396 |

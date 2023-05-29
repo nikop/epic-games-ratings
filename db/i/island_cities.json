@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 15,
+  "EOS_Completed_Percentage": 14.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -878,6 +878,11 @@
       "Time": "2023-05-29T03:05:20.8158835+00:00",
       "NumProgressed": 200,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-29T06:06:50.7091262+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -889,7 +894,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "LEVEL_002",
@@ -897,7 +902,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_003",
@@ -905,7 +910,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_004",
@@ -913,7 +918,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_005",
@@ -959,17 +964,17 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_012",
@@ -999,9 +1004,9 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_016",
@@ -1064,7 +1069,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 30
     }
   ],
@@ -1072,8 +1077,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:14.9891138+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:06:50.7091257+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:56.6777409+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:14.989133+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:58:40.6609391+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:06:50.7091486+00:00"
 }

@@ -5,31 +5,31 @@ Rating: 4.88 (Ranked 19)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 81.00% | ~1,909 |
-| Feeling the beat! | 81.00% | ~1,909 |
-| You can pet the cat! | 76.00% | ~1,791 |
-| Who put gears in there? | 69.00% | ~1,626 |
-| Cream of the Crop | 64.00% | ~1,508 |
-| Thanks for the free chip, Peppermint! | 63.00% | ~1,485 |
-| You got this, Peppermint? | 58.00% | ~1,367 |
+| Start with a bang! | 81.00% | ~1,910 |
+| Feeling the beat! | 81.00% | ~1,910 |
+| You can pet the cat! | 76.00% | ~1,792 |
+| Who put gears in there? | 69.00% | ~1,627 |
+| Cream of the Crop | 64.00% | ~1,509 |
+| Thanks for the free chip, Peppermint! | 63.00% | ~1,486 |
+| You got this, Peppermint? | 58.00% | ~1,368 |
 | Perfect Parry | 56.00% | ~1,320 |
 | Alright, that felt AWESOME! | 56.00% | ~1,320 |
-| I play my own way! | 51.00% | ~1,202 |
+| I play my own way! | 51.00% | ~1,203 |
 | This will cost you big time | 49.00% | ~1,155 |
-| Uh, they were broken when I got here | 48.00% | ~1,131 |
+| Uh, they were broken when I got here | 48.00% | ~1,132 |
 | Z-shielding's got nothing on us! | 47.00% | ~1,108 |
 | Kissing the sky! | 45.00% | ~1,061 |
 | Does that say weakpoint? | 43.00% | ~1,014 |
 | Whoa! There's ANOTHER health bar!? | 42.00% | ~990 |
-| The Negotiator | 39.00% | ~919 |
+| The Negotiator | 39.00% | ~920 |
 | You must like calling me in, Chai | 35.00% | ~825 |
-| Out in a puff of smoke | 34.00% | ~801 |
+| Out in a puff of smoke | 34.00% | ~802 |
 | Headliner | 33.00% | ~778 |
 | Time to pay up! | 31.00% | ~731 |
-| Perfecter Parry-er! | 30.00% | ~707 |
+| Perfecter Parry-er! | 31.00% | ~731 |
 | Who's the boss now? | 29.00% | ~684 |
-| I look cool. But I can look COOLER. | 29.00% | ~684 |
 | I have to read these things? | 28.00% | ~660 |
+| I look cool. But I can look COOLER. | 28.00% | ~660 |
 | There's such a thing as TOO helpful | 22.00% | ~519 |
 | That's a lot of junk metal… | 21.00% | ~495 |
 | Beat-hit mania | 19.00% | ~448 |
@@ -59,7 +59,7 @@ Rating: 4.88 (Ranked 19)
 | This was... not what I expected. | 0.90% | ~21 |
 | My Ultimate Setlist | 0.80% | ~19 |
 | Have we met before? | 0.80% | ~19 |
-| OK, I THINK I know what I'm doing now | 0.70% | ~16 |
+| OK, I THINK I know what I'm doing now | 0.70% | ~17 |
 | I have to read ALL of these things? | 0.60% | ~14 |
 | I'm untouchable! | 0.60% | ~14 |
 | I think that's enough health for now | 0.50% | ~12 |
@@ -67,7 +67,7 @@ Rating: 4.88 (Ranked 19)
 | Didn't skip a beat! | 0.30% | ~7 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,357 (Ranked 143)  
+Progressed: 2,358 (Ranked 143)  
 Completed: 4 (0.17%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 4 (0.17%) (Ranked 145)
 | 2023-05-26 | 2,191 | 4 |
 | 2023-05-27 | 2,275 | 4 |
 | 2023-05-28 | 2,347 | 4 |
-| 2023-05-29 | 2,357 | 4 |
+| 2023-05-29 | 2,358 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 758,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -647,6 +647,11 @@
       "Time": "2023-05-29T04:02:02.3076623+00:00",
       "NumProgressed": 757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T06:02:45.8224343+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -674,7 +679,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ATTENBOROUGH",
@@ -800,9 +805,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 144
     },
     {
       "ID": "ENDGAME",
@@ -816,9 +821,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "EXPERIENCED",
@@ -842,7 +847,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -866,7 +871,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "GIANT_KILLER",
@@ -906,7 +911,7 @@
       "Name": "I am the law!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "INFILTRATOR",
@@ -962,15 +967,15 @@
       "Name": "Ranidaphobia",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 68
     },
     {
       "ID": "RUTHLESS",
@@ -1065,14 +1070,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 758,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:00:20.053941+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:02:45.8224336+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:58:10.1661114+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:00:20.053987+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:59:02.0964775+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:02:45.8224834+00:00"
 }

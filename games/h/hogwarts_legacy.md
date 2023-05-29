@@ -26,7 +26,7 @@ Rating: 4.77 (Ranked 105)
 | Followed the Butterflies | 5.00% | ~13,694 |
 | The Spell Master | 5.00% | ~13,694 |
 | Rising From the Ashes | 5.00% | ~13,694 |
-| The Seeker of Knowledge | 4.00% | ~10,955 |
+| The Seeker of Knowledge | 4.00% | ~10,956 |
 | The Root of the Problem | 3.00% | ~8,217 |
 | Third Time's a Charm | 3.00% | ~8,217 |
 | Room with a View | 3.00% | ~8,217 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,096 |
 | Collector's Edition | 0.20% | ~548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273,885 (Ranked 39)  
+Progressed: 273,890 (Ranked 39)  
 Completed: 377 (0.14%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 377 (0.14%) (Ranked 152)
 | 2023-05-26 | 272,827 | 374 |
 | 2023-05-27 | 273,323 | 376 |
 | 2023-05-28 | 273,796 | 377 |
-| 2023-05-29 | 273,885 | 377 |
+| 2023-05-29 | 273,890 | 377 |
 ## Awards
 Max (Character Customization): 19,274  (Ranked 18)  
 Sum: 35,543 (Ranked 33)  

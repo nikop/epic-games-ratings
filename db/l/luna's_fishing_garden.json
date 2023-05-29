@@ -132,9 +132,9 @@
       "ID": "5_science",
       "SetID": "459695l",
       "Name": "Science Enthusiast",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "6_immortal",
@@ -181,8 +181,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:10.6510878+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:06:44.6209737+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.8392836+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:26.2909324+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:10.6511001+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:57:55.5958903+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:06:44.6209991+00:00"
 }

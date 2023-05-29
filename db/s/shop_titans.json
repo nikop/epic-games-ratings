@@ -4264,9 +4264,9 @@
       "Count": 3678
     }
   ],
-  "EOS_Progressed": 129331,
+  "EOS_Progressed": 129332,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7874,6 +7874,11 @@
       "Time": "2023-05-29T05:05:43.2485254+00:00",
       "NumProgressed": 129331,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-05-29T06:07:29.2478421+00:00",
+      "NumProgressed": 129332,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 112,
@@ -7893,7 +7898,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 34919
+      "UsersEstimate": 34920
     },
     {
       "ID": "advlevel03",
@@ -7909,7 +7914,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10346
+      "UsersEstimate": 10347
     },
     {
       "ID": "advlevel05",
@@ -7941,7 +7946,7 @@
       "Name": "Above the Norm",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "ascend03",
@@ -7981,7 +7986,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10346
+      "UsersEstimate": 10347
     },
     {
       "ID": "blueprint01",
@@ -7989,7 +7994,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 75012
+      "UsersEstimate": 75013
     },
     {
       "ID": "blueprint02",
@@ -8053,7 +8058,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 125451
+      "UsersEstimate": 125452
     },
     {
       "ID": "chest02",
@@ -8077,7 +8082,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 34919
+      "UsersEstimate": 34920
     },
     {
       "ID": "collection02",
@@ -8117,7 +8122,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 117691
+      "UsersEstimate": 117692
     },
     {
       "ID": "commonres02",
@@ -8189,7 +8194,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55612
+      "UsersEstimate": 55613
     },
     {
       "ID": "damage02",
@@ -8205,7 +8210,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "donovan_a",
@@ -8237,7 +8242,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 78892
+      "UsersEstimate": 78893
     },
     {
       "ID": "energy02",
@@ -8293,7 +8298,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 34919
+      "UsersEstimate": 34920
     },
     {
       "ID": "furniture02",
@@ -8301,7 +8306,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "furniture03",
@@ -8317,7 +8322,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "fuseflawless",
@@ -8325,7 +8330,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 31039
+      "UsersEstimate": 31040
     },
     {
       "ID": "fuselegendary",
@@ -8357,7 +8362,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 112518
+      "UsersEstimate": 112519
     },
     {
       "ID": "gold02",
@@ -8373,7 +8378,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 47852
+      "UsersEstimate": 47853
     },
     {
       "ID": "gold04",
@@ -8461,7 +8466,7 @@
       "Name": "Item of Renown",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10346
+      "UsersEstimate": 10347
     },
     {
       "ID": "level01",
@@ -8469,7 +8474,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 85358
+      "UsersEstimate": 85359
     },
     {
       "ID": "level02",
@@ -8541,7 +8546,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 59492
+      "UsersEstimate": 59493
     },
     {
       "ID": "master02",
@@ -8661,7 +8666,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96998
+      "UsersEstimate": 96999
     },
     {
       "ID": "sell02",
@@ -8701,7 +8706,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 124158
+      "UsersEstimate": 124159
     },
     {
       "ID": "twinenchant01",
@@ -8733,7 +8738,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "uncommonres03",
@@ -8765,7 +8770,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "yami_a",
@@ -8780,15 +8785,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 129331,
+      "Progressed": 129332,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-29T02:04:44.902549+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:43.248525+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:29.2478413+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.2820378+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:58:11.5517124+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:43.2486952+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:59:04.2662934+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:29.2480306+00:00"
 }

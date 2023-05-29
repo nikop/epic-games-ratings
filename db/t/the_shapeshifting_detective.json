@@ -140,9 +140,9 @@
       "ID": "chameleon",
       "SetID": "2db2j74",
       "Name": "Chameleon",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "chicken",
@@ -156,9 +156,9 @@
       "ID": "hashtag_winning",
       "SetID": "2db2j74",
       "Name": "Hashtag Winning",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "heavy_rayne",
@@ -260,9 +260,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "voyeur",
@@ -293,8 +293,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:00:11.9186363+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:02:28.7636947+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.3750449+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:58:29.4297762+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:00:11.9186567+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:59:32.3160768+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:02:28.763714+00:00"
 }

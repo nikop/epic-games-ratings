@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1473,
+  "EOS_Progressed": 1474,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 7.88,
+  "EOS_Completed_Percentage": 7.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1898,6 +1898,11 @@
       "Time": "2023-05-29T04:06:47.1860056+00:00",
       "NumProgressed": 1473,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-05-29T06:07:04.1979846+00:00",
+      "NumProgressed": 1474,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 12,
@@ -1909,7 +1914,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Bernard",
@@ -1923,9 +1928,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 295
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1941,7 +1946,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Jakob",
@@ -1949,7 +1954,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Jude",
@@ -1973,7 +1978,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1987,9 +1992,9 @@
       "ID": "Nazis in Paris",
       "SetID": "b40dflc",
       "Name": "Nazis in Paris",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 368
+      "UsersEstimate": 354
     },
     {
       "ID": "Nuremberg Laws",
@@ -2004,7 +2009,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1473,
+      "Progressed": 1474,
       "Completed": 116
     }
   ],
@@ -2012,8 +2017,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:24.7848306+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:04.197984+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:59:10.8439359+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:24.7848502+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:00:34.0659401+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:04.1980081+00:00"
 }

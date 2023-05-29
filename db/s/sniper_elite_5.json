@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1774,
+  "EOS_Progressed": 1780,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1789,6 +1789,11 @@
       "Time": "2023-05-29T05:05:23.7526865+00:00",
       "NumProgressed": 1774,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T06:07:02.7621899+00:00",
+      "NumProgressed": 1780,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1800,7 +1805,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1824,7 +1829,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1840,7 +1845,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1856,7 +1861,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1864,23 +1869,23 @@
       "Name": "Organ Grinder",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 392
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1950,9 +1955,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1968,7 +1973,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1984,7 +1989,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -2040,7 +2045,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2048,7 +2053,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2112,7 +2117,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2168,7 +2173,7 @@
       "Name": "Taking it back",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2176,7 +2181,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2286,9 +2291,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -2367,13 +2372,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1725,
+      "Progressed": 1731,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1774,
+      "Progressed": 1780,
       "Completed": 2
     }
   ],
@@ -2381,8 +2386,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:23.7526861+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:02.7621895+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:59:57.0921157+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:23.7527622+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:01:44.532877+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:02.7622797+00:00"
 }

@@ -1668,17 +1668,17 @@
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1356
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 509
     },
     {
       "ID": "campaign6",
@@ -1781,8 +1781,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:39.7547519+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:24.80178+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:59:42.0442497+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:39.754785+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:01:21.0932817+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:24.8018152+00:00"
 }

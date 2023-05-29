@@ -30,13 +30,13 @@
 | This Mansion Is Clean | 3.00% | ~4 |
 | Armed To The Teeth | 2.00% | ~3 |
 | Back In Time | 2.00% | ~3 |
+| Box Of Ploutus | 2.00% | ~3 |
 | Retro Player | 2.00% | ~3 |
 | Spiritual essence well spent | 2.00% | ~3 |
 | Pet The Dog | 2.00% | ~3 |
 | Survival Hero | 2.00% | ~3 |
 | The 5th Element | 2.00% | ~3 |
 | Before The Eclipse | 0.80% | ~1 |
-| Box Of Ploutus | 0.80% | ~1 |
 | Chosen One | 0.80% | ~1 |
 | Die Another Day | 0.80% | ~1 |
 | Dressed to Kill | 0.80% | ~1 |

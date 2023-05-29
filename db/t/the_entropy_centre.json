@@ -353,9 +353,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ACT7",
@@ -482,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:16.5139586+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:06:52.8112302+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:25.2257359+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:16.5139778+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:57:54.2844977+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:06:52.8112662+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 21.00% | ~373 |
-| Confirming Suspicions | 17.00% | ~302 |
-| The Kraken Wakes | 12.00% | ~213 |
-| It's Starting to Crack | 10.00% | ~177 |
+| Meeting Resistance | 22.00% | ~392 |
+| Confirming Suspicions | 17.00% | ~303 |
+| The Kraken Wakes | 12.00% | ~214 |
+| It's Starting to Crack | 10.00% | ~178 |
 | Lord of War | 9.00% | ~160 |
 | Resourceful | 8.00% | ~142 |
 | Change the Channel | 8.00% | ~142 |
-| Enemy at the Gates | 6.00% | ~106 |
-| Just a Flesh Wound | 6.00% | ~106 |
-| Organ Grinder | 6.00% | ~106 |
-| As Quiet as a Mouse | 6.00% | ~106 |
-| Taking it back | 6.00% | ~106 |
+| Enemy at the Gates | 6.00% | ~107 |
+| Just a Flesh Wound | 6.00% | ~107 |
+| Organ Grinder | 6.00% | ~107 |
+| As Quiet as a Mouse | 6.00% | ~107 |
+| Taking it back | 6.00% | ~107 |
 | Explosive Efficiency | 5.00% | ~89 |
 | Target America | 5.00% | ~89 |
 | Opposing Force | 4.00% | ~71 |
@@ -28,14 +28,14 @@ Rating: 4.42 (Ranked 651)
 | Liberté | 3.00% | ~53 |
 | Fields of Glory | 3.00% | ~53 |
 | Skirmisher | 3.00% | ~53 |
+| Set Europe Ablaze | 3.00% | ~53 |
 | Precision Is Key | 3.00% | ~53 |
 | Close Quarters | 3.00% | ~53 |
 | Snake in the Grass | 3.00% | ~53 |
-| Climbing the Ladder | 2.00% | ~35 |
-| No Stone Unturned | 2.00% | ~35 |
-| Set Europe Ablaze | 2.00% | ~35 |
-| Rigged to Blow | 2.00% | ~35 |
-| Brains of the Operation | 2.00% | ~35 |
+| Climbing the Ladder | 2.00% | ~36 |
+| No Stone Unturned | 2.00% | ~36 |
+| Rigged to Blow | 2.00% | ~36 |
+| Brains of the Operation | 2.00% | ~36 |
 | The Long Game | 1.00% | ~18 |
 | My Little Friend | 1.00% | ~18 |
 | It'll Buff Right Out | 1.00% | ~18 |
@@ -44,11 +44,11 @@ Rating: 4.42 (Ranked 651)
 | Herr Today, Gone Tomorrow | 0.60% | ~10 |
 | Siegebreaker | 0.60% | ~10 |
 | Ghost of Falaise | 0.60% | ~10 |
-| Strategist | 0.50% | ~9 |
 | Tinkerer | 0.50% | ~9 |
 | Don't hold your breath | 0.50% | ~9 |
-| Last Resort | 0.50% | ~9 |
+| Strategist | 0.40% | ~7 |
 | Road Rage | 0.40% | ~7 |
+| Last Resort | 0.40% | ~7 |
 | From Paris with Love | 0.30% | ~5 |
 | Souvenir hunter | 0.30% | ~5 |
 | Up close and personal | 0.30% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 651)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,774 (Ranked 152)  
+Progressed: 1,780 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,774 | 2 |
+| 2023-05-29 | 1,780 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

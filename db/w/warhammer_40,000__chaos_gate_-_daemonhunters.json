@@ -522,7 +522,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2740,
+  "EOS_Progressed": 2741,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
@@ -1232,6 +1232,11 @@
       "Time": "2023-05-29T04:07:06.5446297+00:00",
       "NumProgressed": 2740,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T06:07:24.004905+00:00",
+      "NumProgressed": 2741,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1331,7 +1336,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1409,9 +1414,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 767
     },
     {
       "ID": "Kills_Bleed",
@@ -1419,7 +1424,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1475,7 +1480,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "Kills_Vakir",
@@ -1491,7 +1496,7 @@
       "Name": "An Ill Omen",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1714,21 +1719,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2740,
+      "Progressed": 2741,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2740,
+      "Progressed": 2741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:39.1683356+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:24.0049043+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:58:25.1274014+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:39.1683852+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:59:25.535706+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:24.0049625+00:00"
 }

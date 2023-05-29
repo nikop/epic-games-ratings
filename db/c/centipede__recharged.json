@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -297,10 +297,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 14059,
-  "EOS_Completed": 86,
-  "EOS_NewPlayers": 251,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed": 87,
+  "EOS_NewPlayers": 249,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.2496506+00:00",
@@ -3241,6 +3241,11 @@
       "Time": "2023-05-29T04:03:35.4311136+00:00",
       "NumProgressed": 14059,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-05-29T06:03:58.3890365+00:00",
+      "NumProgressed": 14059,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 16,
@@ -3290,9 +3295,9 @@
       "ID": "Feel_The_Thunder",
       "SetID": "96f13ae",
       "Name": "Feel The Thunder",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 844
+      "UsersEstimate": 984
     },
     {
       "ID": "Fireworks",
@@ -3380,14 +3385,14 @@
       "ID": "96f13ae",
       "IsBase": true,
       "Progressed": 14059,
-      "Completed": 86
+      "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:03:28.3217612+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:03:58.3890358+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:37.8656226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:58:44.6748548+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:03:28.3217906+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:59:54.3279055+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:03:58.3890689+00:00"
 }

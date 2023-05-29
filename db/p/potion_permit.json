@@ -304,9 +304,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1312,
+  "EOS_Progressed": 1313,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -734,6 +734,11 @@
       "Time": "2023-05-29T02:12:07.2286697+00:00",
       "NumProgressed": 1312,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-29T06:07:25.4647902+00:00",
+      "NumProgressed": 1313,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -745,7 +750,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -809,7 +814,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -817,7 +822,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -825,7 +830,7 @@
       "Name": "Expert Chemist",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -833,7 +838,7 @@
       "Name": "Amateur Chef",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -857,7 +862,7 @@
       "Name": "Friendly",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -921,7 +926,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -953,7 +958,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -1025,7 +1030,7 @@
       "Name": "Grape Supplier",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENTS_37",
@@ -1041,14 +1046,14 @@
       "Name": "Moonbury Navigator",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1312,
+      "Progressed": 1313,
       "Completed": 5
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:40.3368988+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:25.4647896+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:43.6449908+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:59:50.6648291+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:40.336931+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:01:34.558728+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:25.4648249+00:00"
 }

@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2023-05-29T04:06:42.7772434+00:00",
       "NumProgressed": 408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T06:07:00.008727+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -619,15 +624,15 @@
       "Name": "Dental maturity",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "Devoted",
@@ -641,9 +646,9 @@
       "ID": "Extremist",
       "SetID": "2aagp3d",
       "Name": "Devoted",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "EyeSpy",
@@ -683,7 +688,7 @@
       "Name": "Gold rush",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "GossipGirl",
@@ -707,7 +712,7 @@
       "Name": "Spirit animal",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LiarLiar",
@@ -850,7 +855,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 0
     }
   ],
@@ -858,8 +863,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-29T05:05:21.75775+00:00",
+  "LastChanged_Achievements": "2023-05-29T06:07:00.0087264+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:57:49.4575467+00:00",
-  "LastUpdate_Achievements": "2023-05-29T05:05:21.7577746+00:00"
+  "LastUpdate_Ratings": "2023-05-29T05:58:29.5960654+00:00",
+  "LastUpdate_Achievements": "2023-05-29T06:07:00.0087551+00:00"
 }
