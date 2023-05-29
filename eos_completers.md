@@ -21,7 +21,7 @@
 | 18 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.87% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
 | 24 | [Scorn](games/s/scorn.md) | 6.91% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
@@ -29,15 +29,15 @@
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.62% |
-| 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.11% |
+| 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.08% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.36% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.35% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
-| 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
+| 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.46% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.29% |
@@ -85,11 +85,11 @@
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.15% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.07% |
-| 86 | [Five Dates](games/f/five_dates.md) | 1.05% |
+| 86 | [Five Dates](games/f/five_dates.md) | 1.04% |
 | 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.98% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
-| 89 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.90% |
-| 90 | [Hades](games/h/hades.md) | 0.89% |
+| 89 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.89% |
+| 89 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Adios](games/a/adios.md) | 0.83% |
