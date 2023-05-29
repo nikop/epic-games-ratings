@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "Level_completed_003_001",
       "SetID": "6od1ndi",
       "Name": "Onk Boga III",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "Level_completed_004_009",
@@ -402,8 +402,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:06:58.2846647+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:10.8064786+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:17.5939939+00:00",
-  "LastUpdate_Ratings": "2023-05-29T12:00:35.1562263+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:06:58.2846888+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:05:02.4829913+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:10.8064982+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~619 |
-| Project Arena | 3.00% | ~464 |
+| Project Arena | 3.00% | ~465 |
 | The Old Grandmaster | 1.00% | ~7,062 |
 | The Assault | 1.00% | ~7,062 |
 | The Hateful Pole Fighter | 1.00% | ~7,062 |
@@ -19,11 +19,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,062 |
 | Bloody Sport | 1.00% | ~155 |
 | The best strikes are the ones we avoid | 1.00% | ~155 |
-| Lady Wing Chun | 0.90% | ~6,355 |
-| Kill Nil | 0.90% | ~6,355 |
-| Street Fighting | 0.90% | ~6,355 |
-| Qi Gong: Essence | 0.90% | ~6,355 |
-| Path of the Prospect | 0.90% | ~6,355 |
+| Lady Wing Chun | 0.90% | ~6,356 |
+| Kill Nil | 0.90% | ~6,356 |
+| Street Fighting | 0.90% | ~6,356 |
+| Qi Gong: Essence | 0.90% | ~6,356 |
+| Path of the Prospect | 0.90% | ~6,356 |
 | Furious Fists | 0.80% | ~5,649 |
 | Stuntmaster | 0.80% | ~5,649 |
 | Old Child | 0.80% | ~5,649 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.40% | ~2,825 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,825 |
 | Sword Stained With Blood | 0.40% | ~2,825 |
-| Prodigal Child | 0.30% | ~2,118 |
+| Prodigal Child | 0.30% | ~2,119 |
 | Martial Hub | 0.30% | ~46 |
 | Secure, Protect, Leave | 0.30% | ~46 |
 | Drunken Fighter | 0.20% | ~1,412 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,162 (Ranked 15)  
+Progressed: 706,184 (Ranked 15)  
 Completed: 12,743 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,20 +96,20 @@ Completed: 12,743 (1.80%) (Ranked 65)
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
-| 2023-05-29 | 706,162 | 12,743 |
+| 2023-05-29 | 706,184 | 12,743 |
 ## Awards
 Max (Great Boss Battles): 6,108  (Ranked 53)  
-Sum: 10,406 (Ranked 77)  
+Sum: 10,408 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,108 |
-| This game has Diverse Characters | 518 |
+| This game has Diverse Characters | 519 |
 | This game has Challenging Combat | 515 |
 | This game has Quickly Understood Controls | 505 |
 | This game is Extremely Fun | 501 |
 | This game has Amazing Storytelling | 495 |
-| This game has Amazing Characters | 480 |
+| This game has Amazing Characters | 481 |
 | This game is Highly Recommended | 480 |
 | This game has Unique Visuals | 455 |
 | This game is Relaxing | 401 |
@@ -250,3 +250,4 @@ Diff (max vs sum): -24
 | 2023-05-26 | 4.82 | - | 6,094 | 10,384 |
 | 2023-05-27 | 4.82 | - | 6,102 | 10,399 |
 | 2023-05-28 | 4.82 | - | 6,108 | 10,406 |
+| 2023-05-29 | 4.82 | - | 6,108 | 10,408 |

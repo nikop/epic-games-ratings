@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -768,9 +768,9 @@
       "ID": "MissionDreamsOfThePast",
       "SetID": "a6c395p",
       "Name": "Time to Spear",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 279
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -984,8 +984,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:07:16.2072805+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:26.872952+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-29T12:00:46.6454225+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:07:16.2073237+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:05:12.5538903+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:26.8729869+00:00"
 }

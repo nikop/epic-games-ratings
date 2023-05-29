@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.30% | ~267 |
 | The Crumbling Temple | 0.30% | ~267 |
 | Mad Cow Disease | 0.30% | ~267 |
+| Exploring Port Nyanzaru | 0.30% | ~267 |
 | The Contagious Curse | 0.30% | ~267 |
 | Pure Energy | 0.30% | ~267 |
 | Maddening | 0.20% | ~178 |
@@ -61,7 +62,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
 | Premature Betrayal | 0.20% | ~178 |
-| Exploring Port Nyanzaru | 0.20% | ~178 |
 | A Tale of Two Cities | 0.20% | ~178 |
 | The Dead Three | 0.20% | ~178 |
 | Flying Monkey Skulls of Doom | 0.20% | ~178 |
@@ -74,6 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.20% | ~178 |
 | Underdeep Cartography | 0.20% | ~178 |
 | Overdue Rendezvous | 0.20% | ~178 |
+| How Far Away is Thay | 0.20% | ~111 |
 | The Templar's Camp | 0.20% | ~178 |
 | Rescue in the Jungle | 0.20% | ~178 |
 | Pros and CONs | 0.10% | ~89 |
@@ -454,7 +455,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waiting on Sunrise | 0.10% | ~55 |
 | Frontline Fighters | 0.10% | ~55 |
 | A Chilling Encounter | 0.10% | ~55 |
-| How Far Away is Thay | 0.10% | ~55 |
 | Deekin's Mission | 0.10% | ~55 |
 | Dive Bomb | 0.10% | ~55 |
 | Fire and Ice | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,104 (Ranked 61)  
+Progressed: 89,107 (Ranked 61)  
 Completed: 1,896 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 1,896 (2.13%) (Ranked 63)
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
-| 2023-05-29 | 89,104 | 1,896 |
+| 2023-05-29 | 89,107 | 1,896 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,997 (Ranked 37)  

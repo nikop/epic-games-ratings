@@ -140,7 +140,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14649,
+  "EOS_Progressed": 14650,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 2,
@@ -3225,6 +3225,11 @@
       "Time": "2023-05-29T12:07:04.1773053+00:00",
       "NumProgressed": 14649,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-29T13:11:16.1004477+00:00",
+      "NumProgressed": 14650,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 14,
@@ -3236,7 +3241,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11573
+      "UsersEstimate": 11574
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -3347,15 +3352,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14649,
+      "Progressed": 14650,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:07:04.1773048+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:16.1004471+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:44.1953463+00:00",
-  "LastUpdate_Ratings": "2023-05-29T12:01:15.6920078+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:07:04.1773419+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:05:35.9053837+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:16.1004763+00:00"
 }

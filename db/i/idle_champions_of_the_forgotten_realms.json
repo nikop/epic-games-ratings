@@ -4000,9 +4000,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89104,
+  "EOS_Progressed": 89107,
   "EOS_Completed": 1896,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -7855,6 +7855,11 @@
       "Time": "2023-05-29T12:07:24.0017451+00:00",
       "NumProgressed": 89104,
       "NumCompleted": 1896
+    },
+    {
+      "Time": "2023-05-29T13:11:33.8195795+00:00",
+      "NumProgressed": 89107,
+      "NumCompleted": 1896
     }
   ],
   "TotalAchievements": 493,
@@ -10008,9 +10013,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "objective_completed_540",
@@ -11392,9 +11397,9 @@
       "ID": "objective_completed_855",
       "SetID": "415jc5c",
       "Name": "How Far Away is Thay",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_857",
@@ -11809,21 +11814,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55378,
+      "Progressed": 55381,
       "Completed": 2735
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89104,
+      "Progressed": 89107,
       "Completed": 1896
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-29T07:58:02.2008463+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:07:24.0017445+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:33.8195789+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:58:18.8016214+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:07:24.0052252+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:03:10.3740933+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:33.8220849+00:00"
 }

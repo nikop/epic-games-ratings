@@ -4192,10 +4192,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10406,
       "NumberOfAwardsMax": 6108
+    },
+    {
+      "Time": "2023-05-29T13:04:09.1529253+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10408,
+      "NumberOfAwardsMax": 6108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10406,
+  "NumberOfAwards": 10408,
   "NumberOfAwardsMax": 6108,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4227,13 +4233,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 480
+      "Count": 481
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 518
+      "Count": 519
     },
     {
       "Text": "This game is Relaxing",
@@ -4272,7 +4278,7 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 706162,
+  "EOS_Progressed": 706184,
   "EOS_Completed": 12743,
   "EOS_NewPlayers": 1623,
   "EOS_NewCompleters": 10,
@@ -7652,6 +7658,11 @@
       "Time": "2023-05-29T12:07:10.8283878+00:00",
       "NumProgressed": 706162,
       "NumCompleted": 12743
+    },
+    {
+      "Time": "2023-05-29T13:11:21.8958226+00:00",
+      "NumProgressed": 706184,
+      "NumCompleted": 12743
     }
   ],
   "TotalAchievements": 50,
@@ -7695,7 +7706,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7759,7 +7770,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -7767,7 +7778,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "15_Detective_H1",
@@ -7831,7 +7842,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7871,7 +7882,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7943,7 +7954,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7999,7 +8010,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8062,21 +8073,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15463,
+      "Progressed": 15485,
       "Completed": 10192
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706162,
+      "Progressed": 706184,
       "Completed": 12743
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-28T23:59:06.5559147+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:07:10.8283872+00:00",
+  "LastChanged": "2023-05-29T13:04:09.1529251+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:21.895822+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:59:28.7062972+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:07:10.8284611+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:04:09.1529258+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:21.8958866+00:00"
 }

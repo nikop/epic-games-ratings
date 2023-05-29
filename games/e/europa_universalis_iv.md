@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,156 |
-| That's a Grand Army | 8.00% | ~3,694 |
-| That is mine! | 8.00% | ~3,694 |
-| Victorious! | 8.00% | ~3,694 |
-| Brothers in Arms | 6.00% | ~2,771 |
-| That's a Grand Navy | 6.00% | ~2,771 |
-| Seriously?! | 6.00% | ~2,771 |
-| For the Glory | 5.00% | ~2,309 |
-| Cold War | 4.00% | ~1,847 |
-| True Catholic | 4.00% | ~1,847 |
-| Defender of the Faith | 3.00% | ~1,385 |
-| It's all about the money | 3.00% | ~1,385 |
-| Respected | 3.00% | ~1,385 |
-| Truly Divine Ruler | 3.00% | ~1,385 |
+| Until death do us apart | 9.00% | ~4,159 |
+| That's a Grand Army | 8.00% | ~3,697 |
+| That is mine! | 8.00% | ~3,697 |
+| Victorious! | 8.00% | ~3,697 |
+| Brothers in Arms | 6.00% | ~2,773 |
+| That's a Grand Navy | 6.00% | ~2,773 |
+| Seriously?! | 6.00% | ~2,773 |
+| For the Glory | 5.00% | ~2,311 |
+| Cold War | 4.00% | ~1,849 |
+| True Catholic | 4.00% | ~1,849 |
+| Defender of the Faith | 3.00% | ~1,386 |
+| It's all about the money | 3.00% | ~1,386 |
+| Respected | 3.00% | ~1,386 |
+| Truly Divine Ruler | 3.00% | ~1,386 |
 | Agressive Expander | 2.00% | ~924 |
 | Blockader | 2.00% | ~924 |
 | Combined Arms | 2.00% | ~924 |
@@ -39,11 +39,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 1.00% | ~462 |
 | The Five Colonies | 0.90% | ~416 |
 | This navy can take it all | 0.90% | ~416 |
-| The Emperors new clothes | 0.80% | ~369 |
-| Isn't this the way to India? | 0.80% | ~369 |
-| Market Control | 0.80% | ~369 |
-| Down Under | 0.70% | ~323 |
-| Trustworthy | 0.70% | ~323 |
+| The Emperors new clothes | 0.80% | ~370 |
+| Isn't this the way to India? | 0.80% | ~370 |
+| Market Control | 0.80% | ~370 |
+| Down Under | 0.70% | ~324 |
+| Trustworthy | 0.70% | ~324 |
 | Electable! | 0.60% | ~277 |
 | Time Bandit | 0.60% | ~277 |
 | All belongs to Mother Russia | 0.50% | ~231 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,181 (Ranked 78)  
+Progressed: 46,215 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
 | 2023-05-28 | 45,938 | 0 |
-| 2023-05-29 | 46,181 | 0 |
+| 2023-05-29 | 46,215 | 0 |
 ## Awards
 Max (Educational): 5,302  (Ranked 60)  
 Sum: 43,890 (Ranked 27)  

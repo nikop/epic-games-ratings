@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1655,
+  "EOS_Progressed": 1656,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2023-05-29T10:05:50.6012354+00:00",
       "NumProgressed": 1655,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-29T13:11:29.3771669+00:00",
+      "NumProgressed": 1656,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -777,7 +782,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHV_04",
@@ -929,7 +934,7 @@
       "Name": "Offensive Defense",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACHV_23",
@@ -961,7 +966,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACHV_27",
@@ -969,7 +974,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACHV_28",
@@ -993,7 +998,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHV_31",
@@ -1033,7 +1038,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACHV_36",
@@ -1065,7 +1070,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACHV_40",
@@ -1121,7 +1126,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACHV_47",
@@ -1216,7 +1221,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1655,
+      "Progressed": 1656,
       "Completed": 10
     }
   ],
@@ -1224,8 +1229,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:07:19.1676651+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:29.3771664+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-29T12:01:21.4235102+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:07:19.1677264+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:05:40.5264015+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:29.3772215+00:00"
 }

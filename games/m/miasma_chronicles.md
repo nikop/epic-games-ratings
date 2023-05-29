@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~707 |
-| Ranidaphobia | 69.00% | ~536 |
-| Aspiring Editor | 65.00% | ~505 |
-| Gun for Hire | 59.00% | ~458 |
-| I am the law! | 48.00% | ~373 |
-| Lumberjack | 29.00% | ~225 |
-| Firestarter | 25.00% | ~194 |
-| From Darkness to Light | 25.00% | ~194 |
-| Limp Richard | 24.00% | ~186 |
+| First Blood | 91.00% | ~710 |
+| Ranidaphobia | 69.00% | ~538 |
+| Aspiring Editor | 65.00% | ~507 |
+| Gun for Hire | 59.00% | ~460 |
+| I am the law! | 48.00% | ~374 |
+| Lumberjack | 29.00% | ~226 |
+| From Darkness to Light | 26.00% | ~203 |
+| Limp Richard | 25.00% | ~195 |
+| Firestarter | 25.00% | ~195 |
 | Croaked | 23.00% | ~179 |
-| Exorcist | 20.00% | ~155 |
-| Editor Adept | 19.00% | ~148 |
-| Giant Killer | 17.00% | ~132 |
-| The meaning of Kain | 16.00% | ~124 |
+| Exorcist | 21.00% | ~164 |
+| Editor Adept | 20.00% | ~156 |
+| Giant Killer | 17.00% | ~133 |
+| The meaning of Kain | 16.00% | ~125 |
 | Sensei | 15.00% | ~117 |
+| Recycler | 11.00% | ~86 |
+| Technophobe | 11.00% | ~86 |
 | Chain Killer | 10.00% | ~78 |
 | Hold The Line | 10.00% | ~78 |
-| Recycler | 10.00% | ~78 |
-| Technophobe | 10.00% | ~78 |
 | Newtonian Knockout | 9.00% | ~70 |
 | There Can Be Only One! | 8.00% | ~62 |
-| Are you not entertained? | 7.00% | ~54 |
-| Ganglord | 6.00% | ~47 |
-| Jarhead | 6.00% | ~47 |
+| Are you not entertained? | 7.00% | ~55 |
+| Ganglord | 7.00% | ~55 |
+| Jarhead | 7.00% | ~55 |
 | Infiltrator | 6.00% | ~47 |
 | Pushing Daisy | 6.00% | ~47 |
 | Experienced | 5.00% | ~39 |
@@ -44,7 +44,7 @@
 | Side Order | 2.00% | ~16 |
 | Bot Whisperer | 1.00% | ~8 |
 | Cruelty | 1.00% | ~8 |
-| Dressed To Kill | 0.40% | ~3 |
+| Dressed To Kill | 0.50% | ~4 |
 | Five Finger Deathcount | 0.40% | ~3 |
 | Fratricide | 0.30% | ~2 |
 | Goaaaaal! | 0.10% | ~1 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 777 (Ranked 180)  
+Progressed: 780 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
-| 2023-05-29 | 777 | 0 |
+| 2023-05-29 | 780 | 0 |

@@ -2,10 +2,10 @@
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
   "ProductSlug": "world-of-contraptions-6dbc07",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2023-05-29T12:06:36.3825316+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T13:10:51.6038098+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -290,7 +295,7 @@
       "ID": "TUTORIAL_FIRST",
       "SetID": "aemieak",
       "Name": "Starting to take notes",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 1
     }
@@ -299,13 +304,13 @@
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:06:36.382531+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:10:51.6038073+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:56.7854741+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:58:28.7622089+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:06:36.3825572+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:03:18.7285176+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:10:51.6038316+00:00"
 }

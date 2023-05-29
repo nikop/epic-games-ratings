@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12812,
+  "EOS_Progressed": 12813,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2939,6 +2939,11 @@
       "Time": "2023-05-29T11:06:41.2968067+00:00",
       "NumProgressed": 12812,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-29T13:10:53.6483063+00:00",
+      "NumProgressed": 12813,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 41,
@@ -3038,7 +3043,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "tpote_achievement_20",
@@ -3062,7 +3067,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2563
     },
     {
       "ID": "tpote_achievement_23",
@@ -3086,7 +3091,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "tpote_achievement_26",
@@ -3174,7 +3179,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "tpote_achievement_36",
@@ -3198,7 +3203,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "tpote_achievement_39",
@@ -3270,22 +3275,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12812,
+      "Progressed": 12813,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:06:38.6130062+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:10:53.6483058+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-29T12:00:43.6257776+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:06:38.6130625+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:05:09.1224886+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:10:53.6483552+00:00"
 }

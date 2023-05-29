@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -266,9 +266,9 @@
       "ID": "SEWERS_BOSS",
       "SetID": "63n2m0e",
       "Name": "Sewage Treatement",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SWIFT",
@@ -305,8 +305,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:03:52.730599+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:08:34.8011945+00:00",
   "LastUpdate_AppInfo": "2023-05-23T19:56:59.3974929+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:57:03.5139623+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:03:52.7306164+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:02:06.4689799+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:08:34.8012119+00:00"
 }

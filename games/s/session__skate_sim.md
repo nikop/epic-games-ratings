@@ -31,7 +31,6 @@ Number of Ratings: 111  (23.09.2022)
 | Sup widdit big dog! | 5.00% | ~107 |
 | Tight lipslides | 5.00% | ~107 |
 | Commence the Hijinx! | 4.00% | ~86 |
-| Cops called! | 4.00% | ~86 |
 | DIY Boss | 4.00% | ~86 |
 | Laid back | 4.00% | ~86 |
 | Lines for days | 4.00% | ~86 |
@@ -40,6 +39,7 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~86 |
 | Tank commander | 4.00% | ~86 |
 | Trick shot marksman | 4.00% | ~86 |
+| Cops called! | 3.00% | ~64 |
 | G.O.A.T. status | 3.00% | ~64 |
 | Hoarder | 3.00% | ~64 |
 | We get it, you're good | 3.00% | ~64 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,142 (Ranked 147)  
+Progressed: 2,143 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 2,088 | 0 |
 | 2023-05-27 | 2,105 | 0 |
 | 2023-05-28 | 2,129 | 0 |
-| 2023-05-29 | 2,142 | 0 |
+| 2023-05-29 | 2,143 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 395)  
 Sum: 414 (Ranked 301)  

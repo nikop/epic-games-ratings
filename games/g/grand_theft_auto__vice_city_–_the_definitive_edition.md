@@ -1,46 +1,46 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,085 |
-| Greasy Palms | 39.00% | ~2,798 |
-| South American Connection | 23.00% | ~1,650 |
+| Legal Counsel | 43.00% | ~3,087 |
+| Greasy Palms | 39.00% | ~2,800 |
+| South American Connection | 23.00% | ~1,651 |
 | Life of the Party | 17.00% | ~1,220 |
 | Tommy Two-Wheels | 13.00% | ~933 |
 | Big Heat from Little Havana | 12.00% | ~861 |
 | Chauffeur | 12.00% | ~861 |
 | Iron-y | 9.00% | ~646 |
 | Salutations My Little Friend | 9.00% | ~646 |
-| Gun for Hire | 7.00% | ~502 |
-| Mischief Managed | 7.00% | ~502 |
-| Vice City Mogul | 6.00% | ~430 |
+| Gun for Hire | 7.00% | ~503 |
+| Mischief Managed | 7.00% | ~503 |
+| Vice City Mogul | 6.00% | ~431 |
 | Catch Me if You Can | 5.00% | ~359 |
 | Bloodstained Hands | 5.00% | ~359 |
 | Not my First Time | 4.00% | ~287 |
 | Grand Theft Auto | 4.00% | ~287 |
 | High Quality H2O | 3.00% | ~215 |
 | Pie Guy | 3.00% | ~215 |
-| Running Rampant | 2.00% | ~143 |
-| Point A to Point B | 2.00% | ~143 |
-| Bull in a China Shop | 2.00% | ~143 |
-| Somebody Call the Wambulance? | 2.00% | ~143 |
-| Just Like the Real Thing | 2.00% | ~143 |
-| Don't Need Roads | 2.00% | ~143 |
-| Take the Cannoli | 2.00% | ~143 |
-| City Sleuth | 2.00% | ~143 |
+| Running Rampant | 2.00% | ~144 |
+| Point A to Point B | 2.00% | ~144 |
+| Bull in a China Shop | 2.00% | ~144 |
+| Somebody Call the Wambulance? | 2.00% | ~144 |
+| Just Like the Real Thing | 2.00% | ~144 |
+| Don't Need Roads | 2.00% | ~144 |
+| Take the Cannoli | 2.00% | ~144 |
+| City Sleuth | 2.00% | ~144 |
 | One is Better Than Two | 1.00% | ~72 |
 | Chopper’d Up | 1.00% | ~72 |
-| Daredevil | 0.90% | ~65 |
+| Daredevil | 0.80% | ~57 |
 | Born in the 80’s | 0.70% | ~50 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~50 |
 | I'm Famous! | 0.70% | ~50 |
 | Done it All | 0.60% | ~43 |
 | Kingpin | 0.30% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,174 (Ranked 113)  
+Progressed: 7,179 (Ranked 113)  
 Completed: 24 (0.33%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 24 (0.33%) (Ranked 120)
 | 2023-05-26 | 6,919 | 23 |
 | 2023-05-27 | 7,028 | 24 |
 | 2023-05-28 | 7,140 | 24 |
-| 2023-05-29 | 7,174 | 24 |
+| 2023-05-29 | 7,179 | 24 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 411)  
 Sum: 40 (Ranked 445)  
@@ -146,3 +146,4 @@ Diff (max vs sum): -34
 | 2023-05-23 | 4.66 | 38 | 38 |
 | 2023-05-24 | 4.65 | 38 | 38 |
 | 2023-05-26 | 4.65 | 40 | 40 |
+| 2023-05-29 | 4.64 | 40 | 40 |

@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,6 +366,11 @@
     {
       "Time": "2023-05-29T12:07:09.690239+00:00",
       "NumProgressed": 198,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T13:11:20.9567496+00:00",
+      "NumProgressed": 200,
       "NumCompleted": 0
     }
   ],
@@ -704,9 +709,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -762,7 +767,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -810,7 +815,7 @@
       "Name": "Small town",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "POPULATION_2",
@@ -984,9 +989,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "WELFARE_1",
@@ -1009,7 +1014,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 200,
       "Completed": 0
     }
   ],
@@ -1017,8 +1022,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:07:09.6902385+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:20.9567492+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:59:15.9362688+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:07:09.6903469+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:03:58.6505355+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:20.9568336+00:00"
 }

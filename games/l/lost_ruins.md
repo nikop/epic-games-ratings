@@ -16,10 +16,10 @@
 | Iconoclasm | 14.00% | ~46 |
 | Librarian | 13.00% | ~43 |
 | The End | 13.00% | ~43 |
-| Gladiator | 12.00% | ~39 |
-| Lumberjack | 12.00% | ~39 |
-| Orcs Must Die! | 12.00% | ~39 |
-| Troubleshooter | 12.00% | ~39 |
+| Gladiator | 12.00% | ~40 |
+| Lumberjack | 12.00% | ~40 |
+| Orcs Must Die! | 12.00% | ~40 |
+| Troubleshooter | 12.00% | ~40 |
 | Money Swag | 9.00% | ~30 |
 | Shield Crusher | 7.00% | ~23 |
 | Treasure Hunter | 7.00% | ~23 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 216)  
+Progressed: 330 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 321 | 0 |
 | 2023-05-27 | 325 | 0 |
 | 2023-05-28 | 327 | 0 |
-| 2023-05-29 | 329 | 0 |
+| 2023-05-29 | 330 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

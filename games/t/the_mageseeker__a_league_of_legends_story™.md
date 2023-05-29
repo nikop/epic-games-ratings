@@ -5,11 +5,11 @@ Rating: 4.78 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,098 |
-| No more cages! | 91.00% | ~2,009 |
-| Everfrost | 77.00% | ~1,700 |
-| Dark Forest | 76.00% | ~1,678 |
-| Pentakill | 75.00% | ~1,656 |
+| For Demacia | 95.00% | ~2,099 |
+| No more cages! | 91.00% | ~2,010 |
+| Everfrost | 77.00% | ~1,701 |
+| Dark Forest | 76.00% | ~1,679 |
+| Pentakill | 75.00% | ~1,657 |
 | The use of petricite | 72.00% | ~1,590 |
 | You can pet the dog | 60.00% | ~1,325 |
 | Big Helmet Bro | 35.00% | ~773 |
@@ -17,8 +17,8 @@ Rating: 4.78 (Ranked 99)
 | Past trauma | 33.00% | ~729 |
 | Thornbarrow | 33.00% | ~729 |
 | Ternmoat Headquarters | 32.00% | ~707 |
-| Elemental master | 31.00% | ~684 |
-| Cypress Glen Headquarters | 31.00% | ~684 |
+| Elemental master | 31.00% | ~685 |
+| Cypress Glen Headquarters | 31.00% | ~685 |
 | Old friend | 27.00% | ~596 |
 | Petricite Burst | 27.00% | ~596 |
 | Devineur | 26.00% | ~574 |
@@ -29,9 +29,9 @@ Rating: 4.78 (Ranked 99)
 | Sacred Woods | 21.00% | ~464 |
 | Little light | 19.00% | ~420 |
 | Capelworth | 19.00% | ~420 |
-| Glyndemere | 18.00% | ~397 |
-| Iffighain Headquarters | 18.00% | ~397 |
-| Full equipped | 18.00% | ~397 |
+| Iffighain Headquarters | 19.00% | ~420 |
+| Glyndemere | 18.00% | ~398 |
+| Full equipped | 18.00% | ~398 |
 | Whispers in the Woods II | 16.00% | ~353 |
 | Quickmoore Headquarters | 15.00% | ~331 |
 | Whispers in the Woods III | 14.00% | ~309 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 99)
 | Silverwing nest | 2.00% | ~44 |
 | The Unshackled | 0.50% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,208 (Ranked 145)  
+Progressed: 2,209 (Ranked 145)  
 Completed: 1 (0.05%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.05%) (Ranked 176)
 | 2023-05-26 | 2,167 | 1 |
 | 2023-05-27 | 2,178 | 1 |
 | 2023-05-28 | 2,201 | 1 |
-| 2023-05-29 | 2,208 | 1 |
+| 2023-05-29 | 2,209 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

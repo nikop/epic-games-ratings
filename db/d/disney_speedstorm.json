@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2614,
+  "EOS_Progressed": 2615,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1990,6 +1990,11 @@
       "Time": "2023-05-29T12:03:57.166517+00:00",
       "NumProgressed": 2614,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T13:08:38.6062273+00:00",
+      "NumProgressed": 2615,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2001,7 +2006,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "10",
@@ -2057,7 +2062,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "17",
@@ -2153,7 +2158,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "6",
@@ -2161,7 +2166,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "7",
@@ -2192,13 +2197,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2614,
+      "Progressed": 2615,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:03:57.1665165+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:08:38.6062266+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:59:25.0817282+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:03:57.1665466+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:04:05.9323998+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:08:38.6062549+00:00"
 }

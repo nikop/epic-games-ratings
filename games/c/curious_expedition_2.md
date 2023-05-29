@@ -48,9 +48,9 @@ Number of Ratings: 20  (23.09.2022)
 | No Laughing Matter | 7.00% | ~21 |
 | Level Up | 7.00% | ~21 |
 | Zookeeper | 6.00% | ~18 |
+| A Paris Sunset | 5.00% | ~15 |
 | The Workshop | 5.00% | ~15 |
 | Islander Understanding | 4.00% | ~12 |
-| A Paris Sunset | 4.00% | ~12 |
 | The Director Perseveres | 4.00% | ~12 |
 | A Familiar Figure | 4.00% | ~12 |
 | X Marks the Spot | 4.00% | ~12 |

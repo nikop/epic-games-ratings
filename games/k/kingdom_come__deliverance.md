@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~243,060 |
-| Cavalier | 25.00% | ~196,016 |
-| Fatso | 23.00% | ~180,335 |
-| Awakening | 20.00% | ~156,813 |
-| Ranger | 20.00% | ~156,813 |
-| Scrooge | 20.00% | ~156,813 |
-| Anorectic | 16.00% | ~125,450 |
-| Firestarter | 15.00% | ~117,610 |
-| Bookworm | 14.00% | ~109,769 |
-| Insomniac | 13.00% | ~101,928 |
-| Buddy | 11.00% | ~86,247 |
-| Sinner | 11.00% | ~86,247 |
-| Thief | 11.00% | ~86,247 |
-| Convict | 10.00% | ~78,406 |
-| Traveller | 10.00% | ~78,406 |
-| Haggler | 9.00% | ~70,566 |
-| Runt | 7.00% | ~54,884 |
-| Casanova | 6.00% | ~47,044 |
-| McLovin | 6.00% | ~47,044 |
-| Bad Trip | 5.00% | ~39,203 |
-| Monk | 5.00% | ~39,203 |
-| Serial Killer | 5.00% | ~39,203 |
+| Blacksmith's Son | 31.00% | ~243,064 |
+| Cavalier | 25.00% | ~196,019 |
+| Fatso | 23.00% | ~180,338 |
+| Awakening | 20.00% | ~156,815 |
+| Ranger | 20.00% | ~156,815 |
+| Scrooge | 20.00% | ~156,815 |
+| Anorectic | 16.00% | ~125,452 |
+| Firestarter | 15.00% | ~117,612 |
+| Bookworm | 14.00% | ~109,771 |
+| Insomniac | 13.00% | ~101,930 |
+| Buddy | 11.00% | ~86,248 |
+| Sinner | 11.00% | ~86,248 |
+| Thief | 11.00% | ~86,248 |
+| Convict | 10.00% | ~78,408 |
+| Traveller | 10.00% | ~78,408 |
+| Haggler | 9.00% | ~70,567 |
+| Runt | 7.00% | ~54,885 |
+| Casanova | 6.00% | ~47,045 |
+| McLovin | 6.00% | ~47,045 |
+| Bad Trip | 5.00% | ~39,204 |
+| Monk | 5.00% | ~39,204 |
+| Serial Killer | 5.00% | ~39,204 |
 | Bastard | 4.00% | ~31,363 |
 | Hunter | 4.00% | ~31,363 |
 | Plague Doctor | 4.00% | ~31,363 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~23,522 |
 | Ginger in a Pickle | 3.00% | ~23,522 |
 | Kingdom did not come | 3.00% | ~23,522 |
-| Completionist | 2.00% | ~15,681 |
-| Death by splinter | 2.00% | ~15,681 |
-| King Charming | 2.00% | ~15,681 |
-| Knightrider | 2.00% | ~15,681 |
-| Level Cap | 2.00% | ~15,681 |
-| Arena Master | 2.00% | ~15,681 |
-| Robber Baron | 2.00% | ~15,681 |
-| Talmberger | 2.00% | ~15,681 |
-| The End | 2.00% | ~15,681 |
+| Completionist | 2.00% | ~15,682 |
+| Death by splinter | 2.00% | ~15,682 |
+| King Charming | 2.00% | ~15,682 |
+| Knightrider | 2.00% | ~15,682 |
+| Level Cap | 2.00% | ~15,682 |
+| Arena Master | 2.00% | ~15,682 |
+| Robber Baron | 2.00% | ~15,682 |
+| Talmberger | 2.00% | ~15,682 |
+| The End | 2.00% | ~15,682 |
 | Woman's Lot | 1.00% | ~7,841 |
 | Chivalrous Soul | 1.00% | ~7,841 |
 | Spoilsport | 1.00% | ~7,841 |
@@ -53,9 +53,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Stealth Killer | 1.00% | ~7,841 |
 | Bailiff | 0.80% | ~6,273 |
 | Tracker | 0.80% | ~6,273 |
-| David Horak | 0.70% | ~5,488 |
-| Mercenary's Honour | 0.70% | ~5,488 |
-| Saviour | 0.70% | ~5,488 |
+| David Horak | 0.70% | ~5,489 |
+| Mercenary's Honour | 0.70% | ~5,489 |
+| Saviour | 0.70% | ~5,489 |
 | Edward Kelly | 0.60% | ~4,704 |
 | Fighter | 0.60% | ~4,704 |
 | I Can Quit Anytime | 0.50% | ~3,920 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~784 |
 | Wingman | 0.10% | ~784 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784,064 (Ranked 12)  
+Progressed: 784,077 (Ranked 12)  
 Completed: 40 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 40 (0.01%) (Ranked 196)
 | 2023-05-26 | 783,466 | 40 |
 | 2023-05-27 | 783,726 | 40 |
 | 2023-05-28 | 783,973 | 40 |
-| 2023-05-29 | 784,064 | 40 |
+| 2023-05-29 | 784,077 | 40 |
 ## Awards
 Max (Character Customization): 7,200  (Ranked 44)  
-Sum: 26,924 (Ranked 43)  
+Sum: 26,926 (Ranked 43)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -145,7 +145,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 1,607 |
 | This game has Realistic Visuals | 1,592 |
 | This game is Educational | 1,541 |
-| This game is Relaxing | 1,481 |
+| This game is Relaxing | 1,483 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -274,4 +274,4 @@ Diff (max vs sum): 1
 | 2023-05-26 | 4.71 | - | 7,195 | 26,902 |
 | 2023-05-27 | 4.71 | - | 7,200 | 26,912 |
 | 2023-05-28 | 4.71 | - | 7,200 | 26,917 |
-| 2023-05-29 | 4.71 | - | 7,200 | 26,924 |
+| 2023-05-29 | 4.71 | - | 7,200 | 26,926 |

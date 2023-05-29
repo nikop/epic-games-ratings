@@ -23,8 +23,8 @@
 | Your Prestige is Rising | 22.00% | ~40 |
 | Retail Revenue | 22.00% | ~40 |
 | People Mover | 21.00% | ~38 |
+| Emporium Empire | 21.00% | ~38 |
 | Leveled Up Shops | 21.00% | ~38 |
-| Emporium Empire | 20.00% | ~36 |
 | Get Electrified | 20.00% | ~36 |
 | Artfully Done | 19.00% | ~35 |
 | Rehab Expert | 19.00% | ~35 |

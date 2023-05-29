@@ -7,9 +7,9 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~896 |
+| First cargo item on board | 71.00% | ~826 |
 | First cargo item waiting | 71.00% | ~826 |
 | First bus stop | 70.00% | ~814 |
-| First cargo item on board | 70.00% | ~814 |
 | First passenger on board | 66.00% | ~768 |
 | First passenger waiting | 66.00% | ~768 |
 | First bus arrived | 65.00% | ~756 |
@@ -48,9 +48,9 @@ Number of Ratings: 180  (23.09.2022)
 | Truck Fever | 10.00% | ~116 |
 | Back to the future | 9.00% | ~105 |
 | Transport belt | 9.00% | ~105 |
+| E.P.E.C. | 6.00% | ~70 |
 | Antique | 5.00% | ~58 |
 | Campaign shark | 5.00% | ~58 |
-| E.P.E.C. | 5.00% | ~58 |
 | Transport shark (Hard mode) | 4.00% | ~47 |
 | Transport corporation | 4.00% | ~47 |
 | Cannot get enough | 3.00% | ~35 |

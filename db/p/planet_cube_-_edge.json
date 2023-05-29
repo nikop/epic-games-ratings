@@ -4,8 +4,8 @@
   "ProductSlug": "planet-cube-edge-aac6d5",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-14T09:00:00+00:00",
     "PcReleaseDate": "2023-03-14T09:00:00+00:00",
@@ -364,8 +364,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:27.5483439+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:06:51.8641415+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:05.5052994+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:29.2489748+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:59:16.4996936+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:06:51.8641794+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:03:59.1313736+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:05.5053311+00:00"
 }

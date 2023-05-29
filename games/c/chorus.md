@@ -32,8 +32,8 @@ Number of Ratings: 58  (23.09.2022)
 | In the Eye of the Storm | 38.00% | ~342 |
 | The Crimson Void | 35.00% | ~315 |
 | The Nameless Dread | 34.00% | ~306 |
+| Time to Spear | 31.00% | ~279 |
 | Mastery of Weapons | 30.00% | ~270 |
-| Time to Spear | 30.00% | ~270 |
 | Disciple | 30.00% | ~270 |
 | Two Birds | 26.00% | ~234 |
 | Ghosts | 25.00% | ~225 |

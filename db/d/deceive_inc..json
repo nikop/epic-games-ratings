@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6423,
+  "EOS_Progressed": 6424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3223,6 +3223,11 @@
       "Time": "2023-05-29T11:07:10.4827771+00:00",
       "NumProgressed": 6423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T13:11:19.3190296+00:00",
+      "NumProgressed": 6424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3322,7 +3327,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "0013",
@@ -3330,7 +3335,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "0014",
@@ -3338,7 +3343,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "0015",
@@ -3362,7 +3367,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2634
     },
     {
       "ID": "0018",
@@ -3370,7 +3375,7 @@
       "Name": "In It to Win It",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "0019",
@@ -3386,7 +3391,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "0021",
@@ -3458,7 +3463,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "0030",
@@ -3488,9 +3493,9 @@
       "ID": "0033",
       "SetID": "2n2feee",
       "Name": "Hostile Takeover",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1606
     },
     {
       "ID": "0034",
@@ -3521,7 +3526,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6423,
+      "Progressed": 6424,
       "Completed": 0
     }
   ],
@@ -3529,8 +3534,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:07:07.8902954+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:19.3190291+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-05-29T12:00:19.6074655+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:07:07.8903494+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:04:48.7747273+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:19.3190749+00:00"
 }

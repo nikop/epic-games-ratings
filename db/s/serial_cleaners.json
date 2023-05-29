@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "ALL_MAIN_MISSIONS",
       "SetID": "2lk004m",
       "Name": "All the Stories",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ALL_MEMORIES",
@@ -352,8 +352,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-29T12:06:57.8089293+00:00",
+  "LastChanged_Achievements": "2023-05-29T13:11:10.5236564+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:46.9856284+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:59:43.9302031+00:00",
-  "LastUpdate_Achievements": "2023-05-29T12:06:57.8089503+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:04:21.7991177+00:00",
+  "LastUpdate_Achievements": "2023-05-29T13:11:10.5236779+00:00"
 }

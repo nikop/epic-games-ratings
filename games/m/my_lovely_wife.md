@@ -6,28 +6,28 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~545 |
-| I did it! | 94.00% | ~528 |
-| Learner | 91.00% | ~511 |
-| Economical | 91.00% | ~511 |
-| Devout | 89.00% | ~500 |
-| The Love Martyr | 87.00% | ~489 |
-| Frugal | 85.00% | ~478 |
-| Dilligent | 82.00% | ~461 |
+| Objective Complete | 97.00% | ~546 |
+| I did it! | 94.00% | ~529 |
+| Learner | 91.00% | ~512 |
+| Economical | 91.00% | ~512 |
+| Devout | 89.00% | ~501 |
+| The Love Martyr | 87.00% | ~490 |
+| Frugal | 85.00% | ~479 |
+| Dilligent | 82.00% | ~462 |
 | I... I did it? | 80.00% | ~450 |
 | Adored | 75.00% | ~422 |
-| The Hobbyist | 65.00% | ~365 |
-| A Forked Tongue | 54.00% | ~303 |
+| The Hobbyist | 64.00% | ~360 |
+| A Forked Tongue | 54.00% | ~304 |
 | Between Two Fires | 51.00% | ~287 |
 | The Admirer | 51.00% | ~287 |
-| Precious | 44.00% | ~247 |
-| Devoted | 41.00% | ~230 |
-| The Farmer | 39.00% | ~219 |
+| Precious | 44.00% | ~248 |
+| Devoted | 41.00% | ~231 |
+| The Farmer | 39.00% | ~220 |
 | Ever After | 35.00% | ~197 |
-| Loyal | 28.00% | ~157 |
-| Mandatory Sacrifice | 28.00% | ~157 |
+| Loyal | 28.00% | ~158 |
+| Mandatory Sacrifice | 28.00% | ~158 |
 | The Collector | 24.00% | ~135 |
-| All Doors Open | 20.00% | ~112 |
+| All Doors Open | 20.00% | ~113 |
 | Faithful | 10.00% | ~56 |
 | Asmodeus | 8.00% | ~45 |
 | A Close | 8.00% | ~45 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562 (Ranked 193)  
+Progressed: 563 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-24 | 557 | 0 |
 | 2023-05-27 | 559 | 0 |
 | 2023-05-28 | 561 | 0 |
-| 2023-05-29 | 562 | 0 |
+| 2023-05-29 | 563 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
