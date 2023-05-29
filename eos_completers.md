@@ -12,7 +12,7 @@
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.93% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 9.09% |
@@ -22,7 +22,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.87% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
 | 24 | [Scorn](games/s/scorn.md) | 6.91% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -32,7 +32,7 @@
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.11% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.41% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.39% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
@@ -45,9 +45,9 @@
 | 43 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.12% |
-| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.00% |
-| 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
-| 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
+| 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.94% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.89% |
 | 51 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
@@ -86,9 +86,9 @@
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.07% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.05% |
-| 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.99% |
+| 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.98% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
-| 89 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.91% |
+| 89 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.90% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
