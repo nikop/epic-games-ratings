@@ -8,11 +8,11 @@
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
-| 9 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.08% |
-| 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
-| 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 11.76% |
+| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
+| 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
+| 11 | [Island Cities](games/i/island_cities.md) | 15.08% |
+| 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 9.09% |
@@ -60,9 +60,9 @@
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.25% |
 | 59 | [JARS](games/j/jars.md) | 2.22% |
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
-| 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.04% |
+| 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.02% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.96% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 65 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -109,8 +109,8 @@
 | 107 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
-| 110 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.47% |
-| 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 110 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.46% |
 | 112 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.40% |
 | 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
