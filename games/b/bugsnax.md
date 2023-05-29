@@ -6,27 +6,27 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~26,718 |
-| Gone Home | 93.00% | ~25,616 |
-| Wonderfalls | 87.00% | ~23,963 |
-| Got to Catch a Few | 77.00% | ~21,209 |
-| Double Trapper | 75.00% | ~20,658 |
-| I'm Stuffed | 69.00% | ~19,005 |
-| Got to Catch a Lot | 66.00% | ~18,179 |
+| Everybody Gets One | 97.00% | ~26,719 |
+| Gone Home | 93.00% | ~25,617 |
+| Wonderfalls | 87.00% | ~23,964 |
+| Got to Catch a Few | 77.00% | ~21,210 |
+| Double Trapper | 75.00% | ~20,659 |
+| I'm Stuffed | 69.00% | ~19,006 |
+| Got to Catch a Lot | 66.00% | ~18,180 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~16,802 |
-| Know Thy Neighbor | 59.00% | ~16,251 |
+| Know Thy Neighbor | 59.00% | ~16,252 |
 | In the Arms of the Gramble | 58.00% | ~15,976 |
 | Launch Party | 56.00% | ~15,425 |
 | Perf Dirt | 56.00% | ~15,425 |
 | Vacation's End | 52.00% | ~14,323 |
-| Bossy Bugs | 46.00% | ~12,670 |
+| Bossy Bugs | 46.00% | ~12,671 |
 | Survivor | 45.00% | ~12,395 |
 | That Reminds Me of a Puzzle | 43.00% | ~11,844 |
 | Sidetracked | 40.00% | ~11,018 |
 | Film Buff | 38.00% | ~10,467 |
 | Combo Meal | 38.00% | ~10,467 |
 | Midnight Snak | 36.00% | ~9,916 |
-| Candid Cryptid | 35.00% | ~9,640 |
+| Candid Cryptid | 35.00% | ~9,641 |
 | Got to Catch Them All | 32.00% | ~8,814 |
 | Deep Impact | 22.00% | ~6,060 |
 | Grab Bag | 22.00% | ~6,060 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,204 |
 | Dapper Capper | 6.00% | ~1,653 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,544 (Ranked 88)  
+Progressed: 27,545 (Ranked 88)  
 Completed: 1,274 (4.63%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 1,274 (4.63%) (Ranked 32)
 | 2023-05-26 | 27,507 | 1,272 |
 | 2023-05-27 | 27,523 | 1,274 |
 | 2023-05-28 | 27,537 | 1,274 |
-| 2023-05-29 | 27,544 | 1,274 |
+| 2023-05-29 | 27,545 | 1,274 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 417)  
 Sum: 317 (Ranked 324)  

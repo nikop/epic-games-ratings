@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1796,
+  "EOS_Progressed": 1801,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1824,6 +1824,11 @@
       "Time": "2023-05-29T13:11:05.7992801+00:00",
       "NumProgressed": 1796,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T14:06:09.4862086+00:00",
+      "NumProgressed": 1801,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1897,9 +1902,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1915,7 +1920,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2003,7 +2008,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2083,7 +2088,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2129,9 +2134,9 @@
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -2267,7 +2272,7 @@
       "Name": "Reich To The Point",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -2283,7 +2288,7 @@
       "Name": "Covert Elimination",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -2299,7 +2304,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -2331,7 +2336,7 @@
       "Name": "Siegebreaker",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2339,7 +2344,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -2402,13 +2407,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1747,
+      "Progressed": 1752,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1796,
+      "Progressed": 1801,
       "Completed": 2
     }
   ],
@@ -2416,8 +2421,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:11:05.7992789+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:06:09.4862081+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:05:44.2629833+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:11:05.7993566+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:00:55.7593706+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:06:09.4863028+00:00"
 }

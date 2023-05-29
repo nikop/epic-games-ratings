@@ -1,7 +1,7 @@
 # Days Gone
 [Store](https://store.epicgames.com/en-US/p/days-gone)  
 [View Rawdata](../../db/d/days_gone.json)  
-Rating: 4.69 (Ranked 215)  
+Rating: 4.68 (Ranked 236)  
 Number of Ratings: 3,949  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 3,775  (Ranked 78)  
@@ -147,3 +147,4 @@ Diff (max vs sum): -31
 | 2023-05-25 | 4.69 | - | 3,765 | 6,663 |
 | 2023-05-27 | 4.69 | - | 3,768 | 6,667 |
 | 2023-05-28 | 4.69 | - | 3,775 | 6,675 |
+| 2023-05-29 | 4.68 | - | 3,775 | 6,675 |

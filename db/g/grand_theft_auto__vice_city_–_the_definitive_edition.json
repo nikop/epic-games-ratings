@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 7179,
+  "EOS_Progressed": 7180,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2777,6 +2777,11 @@
       "Time": "2023-05-29T13:08:28.0598524+00:00",
       "NumProgressed": 7179,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-29T14:03:30.8825191+00:00",
+      "NumProgressed": 7180,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 34,
@@ -2956,7 +2961,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "ACH23",
@@ -2972,7 +2977,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH25",
@@ -2980,7 +2985,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH26",
@@ -3059,7 +3064,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7179,
+      "Progressed": 7180,
       "Completed": 24
     }
   ],
@@ -3067,8 +3072,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-29T13:03:24.3591761+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:08:28.0598519+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:03:30.882518+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:03:24.3591767+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:08:28.0598944+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:58:25.3631491+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:03:30.8825812+00:00"
 }

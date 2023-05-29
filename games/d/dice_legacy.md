@@ -21,9 +21,9 @@ Rating: 4.29 (Ranked 767)
 | Prophecy Fulfilled | 3.00% | ~25 |
 | Just Chilling | 2.00% | ~16 |
 | Incredible Strength | 2.00% | ~16 |
+| The Greedy Ones | 2.00% | ~16 |
 | The First King | 1.00% | ~8 |
 | The great fire | 1.00% | ~8 |
-| The Greedy Ones | 1.00% | ~8 |
 | The Unruly Ones | 1.00% | ~8 |
 | The Council | 0.90% | ~7 |
 | The Mad | 0.70% | ~6 |

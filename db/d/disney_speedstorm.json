@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2615,
+  "EOS_Progressed": 2616,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1995,6 +1995,11 @@
       "Time": "2023-05-29T13:08:38.6062273+00:00",
       "NumProgressed": 2615,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T14:03:41.544563+00:00",
+      "NumProgressed": 2616,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2014,7 +2019,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "11",
@@ -2046,7 +2051,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "15",
@@ -2102,7 +2107,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "21",
@@ -2140,9 +2145,9 @@
       "ID": "3",
       "SetID": "9p3jgda",
       "Name": "FRIENDLY",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 157
     },
     {
       "ID": "4",
@@ -2150,7 +2155,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "5",
@@ -2197,13 +2202,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2615,
+      "Progressed": 2616,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:08:38.6062266+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:03:41.5445619+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:04:05.9323998+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:08:38.6062549+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:59:08.7010771+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:03:41.5445996+00:00"
 }

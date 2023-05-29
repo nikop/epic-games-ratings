@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -875,17 +875,17 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "MQ04_1",
@@ -1036,8 +1036,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:08:52.5574388+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:03:55.6413649+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:02:19.4983843+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:08:52.5574666+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:57:18.454559+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:03:55.641393+00:00"
 }

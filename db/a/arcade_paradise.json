@@ -2,12 +2,12 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 437,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 605,
+  "EOS_Progressed": 606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -237,6 +237,11 @@
       "Time": "2023-05-28T22:06:15.0449937+00:00",
       "NumProgressed": 605,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T14:06:16.3000254+00:00",
+      "NumProgressed": 606,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -272,7 +277,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -368,7 +373,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "DreadTrophy",
@@ -392,7 +397,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "Ext4Trophy",
@@ -528,7 +533,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "MaxPriceTrophy",
@@ -614,9 +619,9 @@
       "ID": "SwishTrophy",
       "SetID": "32aeje8",
       "Name": "Swish",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 339
     },
     {
       "ID": "TerrorTrophy",
@@ -656,7 +661,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "YouthTrophy",
@@ -679,7 +684,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 605,
+      "Progressed": 606,
       "Completed": 0
     }
   ],
@@ -687,8 +692,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:11:12.2335746+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:06:16.3000177+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:57.6905227+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:03:19.3620069+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:11:12.2336238+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:58:19.7416999+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:06:16.3000772+00:00"
 }

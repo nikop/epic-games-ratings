@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
@@ -2576,9 +2576,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9323,
+  "EOS_Progressed": 9325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4886,6 +4886,11 @@
       "Time": "2023-05-29T13:11:30.4580387+00:00",
       "NumProgressed": 9323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T14:06:34.574353+00:00",
+      "NumProgressed": 9325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4897,7 +4902,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "02_BurningCity",
@@ -5159,9 +5164,9 @@
       "ID": "35_AbyssalConspiracy",
       "SetID": "989of5o",
       "Name": "Abyssal Conspiracy",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 84
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -5824,21 +5829,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8105,
+      "Progressed": 8107,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9323,
+      "Progressed": 9325,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-29T10:58:46.2996937+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:11:30.4580383+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:06:34.5743525+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:03:26.4378603+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:11:30.4582273+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:58:27.4148535+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:06:34.5745306+00:00"
 }

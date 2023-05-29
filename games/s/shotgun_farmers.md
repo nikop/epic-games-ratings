@@ -13,8 +13,8 @@
 | First Blood | 18.00% | ~12 |
 | Quick-Draw Pod | 18.00% | ~3 |
 | Amateur Survivor | 17.00% | ~3 |
+| I Believe I Can Fly | 14.00% | ~9 |
 | No Asperascope | 14.00% | ~9 |
-| I Believe I Can Fly | 12.00% | ~8 |
 | Triple Kill | 12.00% | ~8 |
 | Professional Survivor | 12.00% | ~2 |
 | Cornivore | 11.00% | ~7 |

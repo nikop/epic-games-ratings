@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12813,
+  "EOS_Progressed": 12814,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2944,6 +2944,11 @@
       "Time": "2023-05-29T13:10:53.6483063+00:00",
       "NumProgressed": 12813,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-29T14:05:57.6124874+00:00",
+      "NumProgressed": 12814,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 41,
@@ -2955,7 +2960,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "tpote_achievement_10",
@@ -2995,7 +3000,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "tpote_achievement_15",
@@ -3027,7 +3032,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "tpote_achievement_19",
@@ -3035,7 +3040,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "tpote_achievement_2",
@@ -3083,7 +3088,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "tpote_achievement_25",
@@ -3107,7 +3112,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "tpote_achievement_28",
@@ -3131,7 +3136,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "tpote_achievement_30",
@@ -3147,7 +3152,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "tpote_achievement_32",
@@ -3219,7 +3224,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5381
+      "UsersEstimate": 5382
     },
     {
       "ID": "tpote_achievement_40",
@@ -3243,7 +3248,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3203
+      "UsersEstimate": 3204
     },
     {
       "ID": "tpote_achievement_6",
@@ -3282,15 +3287,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12813,
+      "Progressed": 12814,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:10:53.6483058+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:05:57.6124868+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:05:09.1224886+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:10:53.6483552+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:00:19.3536048+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:05:57.612535+00:00"
 }

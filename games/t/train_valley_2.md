@@ -36,6 +36,7 @@ Number of Ratings: 87  (23.09.2022)
 | One way | 2.00% | ~14 |
 | Overseer | 2.00% | ~14 |
 | Relocation | 2.00% | ~14 |
+| Squander | 2.00% | ~14 |
 | The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
 | At the last moment! | 1.00% | ~7 |
@@ -50,7 +51,6 @@ Number of Ratings: 87  (23.09.2022)
 | Ouroboros | 1.00% | ~7 |
 | Prick of conscience | 1.00% | ~7 |
 | Sabotage | 1.00% | ~7 |
-| Squander | 1.00% | ~7 |
 | Stargazer | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Astronomer | 0.80% | ~6 |

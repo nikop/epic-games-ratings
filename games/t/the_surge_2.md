@@ -9,7 +9,7 @@ Rating: 4.24 (Ranked 793)
 | Don't I Know You...? | 77.00% | ~1,275 |
 | Jailbreak | 65.00% | ~1,076 |
 | Suited and Booted | 38.00% | ~629 |
-| HEADSHOT! | 36.00% | ~596 |
+| HEADSHOT! | 37.00% | ~613 |
 | Sleeping With The Fishes | 35.00% | ~580 |
 | High Performance | 30.00% | ~497 |
 | Overheated | 29.00% | ~480 |

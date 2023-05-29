@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3868,
+  "EOS_Progressed": 3870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2098,6 +2098,11 @@
       "Time": "2023-05-29T13:06:03.3064184+00:00",
       "NumProgressed": 3868,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T14:01:16.4236195+00:00",
+      "NumProgressed": 3870,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2109,7 +2114,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2117,7 +2122,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2125,7 +2130,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2133,7 +2138,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -2141,7 +2146,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2149,7 +2154,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2157,7 +2162,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -2165,7 +2170,7 @@
       "Name": "Scaling up",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2173,7 +2178,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -2181,7 +2186,7 @@
       "Name": "License to Gill",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -2197,7 +2202,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -2213,7 +2218,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -2388,13 +2393,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3868,
+      "Progressed": 3870,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3240,
+      "Progressed": 3242,
       "Completed": 112
     }
   ],
@@ -2402,8 +2407,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:06:03.3064179+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:01:16.4236187+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:05:00.3766578+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:06:03.3064746+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:00:10.8027399+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:01:16.4237208+00:00"
 }

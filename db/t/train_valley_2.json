@@ -860,9 +860,9 @@
       "ID": "AchievementSquander",
       "SetID": "76o014g",
       "Name": "Squander",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "AchievementStarSapphire_NAME",
@@ -1018,8 +1018,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:11:21.2699682+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:06:25.2228007+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.0227175+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:02:36.6993231+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:11:21.2700473+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:57:34.1554361+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:06:25.2228822+00:00"
 }

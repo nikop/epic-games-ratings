@@ -6,39 +6,39 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,364 |
-| Self-Improvement | 71.00% | ~1,113 |
-| Perky | 66.00% | ~1,035 |
+| Unforgiven | 87.00% | ~1,365 |
+| Self-Improvement | 71.00% | ~1,114 |
+| Perky | 66.00% | ~1,036 |
 | Let’s Ride | 60.00% | ~941 |
-| Welcome to the Weird West | 58.00% | ~909 |
-| Dead or Alive | 56.00% | ~878 |
-| Full House | 37.00% | ~580 |
-| Off the Trail | 33.00% | ~517 |
+| Welcome to the Weird West | 58.00% | ~910 |
+| Dead or Alive | 56.00% | ~879 |
+| Full House | 37.00% | ~581 |
+| Off the Trail | 33.00% | ~518 |
 | Justice Served | 28.00% | ~439 |
-| Chain Reaction | 27.00% | ~423 |
+| Chain Reaction | 27.00% | ~424 |
 | Scholar | 25.00% | ~392 |
 | Through Their Eyes | 25.00% | ~392 |
-| Dishonored | 24.00% | ~376 |
-| Rain of Death | 24.00% | ~376 |
-| The Great Escape | 23.00% | ~361 |
+| Dishonored | 24.00% | ~377 |
+| Rain of Death | 24.00% | ~377 |
+| The Great Escape | 22.00% | ~345 |
 | That’s All, Folks | 18.00% | ~282 |
 | Fallen Star | 16.00% | ~251 |
 | Here Comes Santa Claus | 16.00% | ~251 |
 | Winds of War | 16.00% | ~251 |
 | For Balance | 15.00% | ~235 |
 | Dog Days | 13.00% | ~204 |
-| Workers' Rights | 13.00% | ~204 |
 | Elusive Prey | 12.00% | ~188 |
 | Out on the Ebb Tide | 12.00% | ~188 |
 | Power Behind the Pulpit | 12.00% | ~188 |
 | Something Wicked This Way Comes… | 12.00% | ~188 |
 | There is Hope | 12.00% | ~188 |
 | Turning the Tables | 12.00% | ~188 |
+| Workers' Rights | 12.00% | ~188 |
 | Loyalty to the Pack | 9.00% | ~141 |
 | Eternity Can Wait | 9.00% | ~141 |
 | Mystery Machine | 9.00% | ~141 |
 | The Philosopher’s Stone | 9.00% | ~141 |
-| Gold Digger | 8.00% | ~125 |
+| Gold Digger | 8.00% | ~126 |
 | Do Not Pass Go… | 7.00% | ~110 |
 | Getting the Gang Back Together | 7.00% | ~110 |
 | Monster Hunter | 7.00% | ~110 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,568 (Ranked 156)  
+Progressed: 1,569 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-26 | 1,547 | 2 |
 | 2023-05-27 | 1,560 | 2 |
 | 2023-05-28 | 1,562 | 2 |
-| 2023-05-29 | 1,568 | 2 |
+| 2023-05-29 | 1,569 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

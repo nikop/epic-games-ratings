@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4278,9 +4278,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 706184,
+  "EOS_Progressed": 706195,
   "EOS_Completed": 12743,
-  "EOS_NewPlayers": 1623,
+  "EOS_NewPlayers": 1621,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7663,6 +7663,11 @@
       "Time": "2023-05-29T13:11:21.8958226+00:00",
       "NumProgressed": 706184,
       "NumCompleted": 12743
+    },
+    {
+      "Time": "2023-05-29T14:06:25.7063431+00:00",
+      "NumProgressed": 706195,
+      "NumCompleted": 12743
     }
   ],
   "TotalAchievements": 50,
@@ -7714,7 +7719,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "07_Wude_H1",
@@ -7826,7 +7831,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -7922,7 +7927,7 @@
       "Name": "Old Child",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "33_BladeOneShot",
@@ -7986,7 +7991,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8018,7 +8023,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8073,21 +8078,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15485,
-      "Completed": 10192
+      "Progressed": 15496,
+      "Completed": 10193
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706184,
+      "Progressed": 706195,
       "Completed": 12743
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-29T13:04:09.1529251+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:11:21.895822+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:06:25.7063426+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:04:09.1529258+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:11:21.8958866+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:59:11.7960817+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:06:25.7064496+00:00"
 }

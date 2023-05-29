@@ -15,12 +15,12 @@
 | Upgrade Unlock | 35.00% | ~64 |
 | Proper Walls | 32.00% | ~58 |
 | Delegate Maintenance | 32.00% | ~58 |
-| Destination Destiny | 27.00% | ~49 |
-| Happy Tenants | 24.00% | ~44 |
+| Destination Destiny | 28.00% | ~51 |
+| Happy Tenants | 25.00% | ~46 |
+| Your Prestige is Rising | 23.00% | ~42 |
 | Potent Potables | 23.00% | ~42 |
 | Smooth Service | 23.00% | ~42 |
 | Lux Living | 22.00% | ~40 |
-| Your Prestige is Rising | 22.00% | ~40 |
 | Retail Revenue | 22.00% | ~40 |
 | People Mover | 21.00% | ~38 |
 | Emporium Empire | 21.00% | ~38 |

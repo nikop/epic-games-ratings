@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13963,
+  "EOS_Progressed": 13967,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2004,6 +2004,11 @@
       "Time": "2023-05-29T13:09:00.6772323+00:00",
       "NumProgressed": 13963,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T14:04:03.6444493+00:00",
+      "NumProgressed": 13967,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2207,7 +2212,7 @@
       "Name": "The Outer Way",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2334,13 +2339,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13963,
+      "Progressed": 13967,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1889,
+      "Progressed": 1893,
       "Completed": 29
     }
   ],
@@ -2348,8 +2353,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:09:00.6772317+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:04:03.6444488+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:02:58.2806125+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:09:00.6772759+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:57:57.8879291+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:04:03.6445098+00:00"
 }

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -888,6 +888,11 @@
       "Time": "2023-05-29T10:05:26.4949148+00:00",
       "NumProgressed": 464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T14:06:05.5369837+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -897,9 +902,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 182
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -907,7 +912,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 457
     },
     {
       "ID": "CHIEF",
@@ -921,9 +926,9 @@
       "ID": "CLEANER",
       "SetID": "64e5lgf",
       "Name": "CLEANER",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 433
     },
     {
       "ID": "DEBTOR",
@@ -939,7 +944,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "FIRST_100K",
@@ -963,7 +968,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 350
     },
     {
       "ID": "INTRODUCTION",
@@ -979,7 +984,7 @@
       "Name": "SECOND_FLOOR",
       "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SUCCESSFUL",
@@ -1010,7 +1015,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 466,
       "Completed": 0
     }
   ],
@@ -1018,8 +1023,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-29T13:11:02.0955566+00:00",
+  "LastChanged_Achievements": "2023-05-29T14:06:05.5369831+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:04:35.4990897+00:00",
-  "LastUpdate_Achievements": "2023-05-29T13:11:02.0955737+00:00"
+  "LastUpdate_Ratings": "2023-05-29T13:59:42.0174855+00:00",
+  "LastUpdate_Achievements": "2023-05-29T14:06:05.5370035+00:00"
 }

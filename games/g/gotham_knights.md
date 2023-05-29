@@ -6,8 +6,8 @@ Rating: 4.17 (Ranked 839)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 3.00% | ~1,882 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,254 |
-| Loose Ends | 2.00% | ~1,254 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,255 |
+| Loose Ends | 2.00% | ~1,255 |
 | The Batman Family | 1.00% | ~627 |
 | Something in the Clay | 1.00% | ~627 |
 | To the Victor Go the Spoils | 1.00% | ~627 |
@@ -19,8 +19,8 @@ Rating: 4.17 (Ranked 839)
 | Knighthood | 1.00% | ~627 |
 | Whispered Words | 1.00% | ~627 |
 | Lock and Key | 1.00% | ~627 |
-| The Show Mud Go On | 0.90% | ~564 |
-| Bad Apples in Every Orchard | 0.90% | ~564 |
+| The Show Mud Go On | 0.90% | ~565 |
+| Bad Apples in Every Orchard | 0.90% | ~565 |
 | Protector of Gotham | 0.80% | ~502 |
 | Universal Health Scare | 0.80% | ~502 |
 | From Inside Gotham's Walls | 0.80% | ~502 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,719 (Ranked 70)  
+Progressed: 62,726 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,10 +106,10 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,719 | 91 |
+| 2023-05-29 | 62,726 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
-Sum: 3,737 (Ranked 138)  
+Sum: 3,739 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -117,7 +117,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 191 |
-| This game has Amazing Characters | 187 |
+| This game has Amazing Characters | 189 |
 | This game has Diverse Characters | 183 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 180 |
@@ -223,3 +223,4 @@ Diff (max vs sum): -40
 | 2023-05-26 | 4.17 | 2,239 | 3,718 |
 | 2023-05-27 | 4.17 | 2,244 | 3,726 |
 | 2023-05-28 | 4.17 | 2,254 | 3,737 |
+| 2023-05-29 | 4.17 | 2,254 | 3,739 |

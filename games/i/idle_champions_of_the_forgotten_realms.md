@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~111 |
 | Welcome to the Rock | 0.20% | ~111 |
 | Beast Mode | 0.20% | ~178 |
+| The Forbidden City | 0.20% | ~178 |
 | Low Initiative | 0.20% | ~178 |
 | A Mysterious Summons | 0.20% | ~178 |
 | Street War | 0.20% | ~178 |
@@ -191,7 +192,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~55 |
 | Anchors Aweigh | 0.10% | ~55 |
 | Welcome to the Band | 0.10% | ~55 |
-| The Forbidden City | 0.10% | ~89 |
 | Periodic Petrification | 0.10% | ~89 |
 | No Good at All | 0.10% | ~89 |
 | Fall From Grace | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,107 (Ranked 61)  
-Completed: 1,896 (2.13%) (Ranked 63)  
+Progressed: 89,112 (Ranked 61)  
+Completed: 1,897 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -539,7 +539,7 @@ Completed: 1,896 (2.13%) (Ranked 63)
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
-| 2023-05-29 | 89,107 | 1,896 |
+| 2023-05-29 | 89,112 | 1,897 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,997 (Ranked 37)  
