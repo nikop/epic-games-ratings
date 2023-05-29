@@ -36,9 +36,9 @@ Rating: 4.32 (Ranked 748)
 | Ridiculously Generous | 0.30% | ~164 |
 | Nine Funkotronians | 0.30% | ~164 |
 | I'm A Total Saint | 0.30% | ~164 |
-| Struck By Love | 0.30% | ~164 |
 | The Worst Possible Luck | 0.30% | ~164 |
 | Broken Present Risk Taker | 0.20% | ~110 |
+| Struck By Love | 0.20% | ~110 |
 | Truly Evil | 0.20% | ~110 |
 | Achievement Achiever | 0.10% | ~55 |
 | Boom Box Wipeout | 0.10% | ~55 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 748)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,799 (Ranked 74)  
+Progressed: 54,802 (Ranked 74)  
 Completed: 4 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 4 (0.01%) (Ranked 196)
 | 2023-05-26 | 54,718 | 4 |
 | 2023-05-27 | 54,761 | 4 |
 | 2023-05-28 | 54,796 | 4 |
-| 2023-05-29 | 54,799 | 4 |
+| 2023-05-29 | 54,802 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

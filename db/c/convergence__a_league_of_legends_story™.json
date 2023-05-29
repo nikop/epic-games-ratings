@@ -686,9 +686,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 139
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -918,9 +918,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "TheaterChests1",
@@ -989,8 +989,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:04:44.3257712+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:05:40.4232208+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:59:23.186796+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:04:44.3258104+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:00:09.6698285+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:05:40.423281+00:00"
 }

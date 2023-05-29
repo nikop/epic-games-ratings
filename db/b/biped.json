@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2154,
+  "EOS_Progressed": 2156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2381,6 +2381,11 @@
       "Time": "2023-05-29T03:05:17.9630251+00:00",
       "NumProgressed": 2154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T04:06:29.4954668+00:00",
+      "NumProgressed": 2156,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2392,7 +2397,7 @@
       "Name": "First Step",
       "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "10",
@@ -2456,7 +2461,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "4",
@@ -2472,7 +2477,7 @@
       "Name": "Snowy Peak",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "6",
@@ -2511,7 +2516,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 2154,
+      "Progressed": 2156,
       "Completed": 0
     }
   ],
@@ -2519,8 +2524,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:17.9630247+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:06:29.4954664+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.8518043+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:58:12.9476497+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:17.9630442+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:58:22.9160906+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:06:29.495491+00:00"
 }

@@ -6,20 +6,20 @@ Rating: 4.56 (Ranked 451)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 10.00% | ~225 |
-| Sputnik 2049 | 9.00% | ~202 |
+| Sputnik 2049 | 9.00% | ~203 |
 | Without Breaking Some Eggs... | 8.00% | ~180 |
 | Infinite Growth... | 8.00% | ~180 |
-| Space Society | 5.00% | ~112 |
-| A Thousand Strong | 5.00% | ~112 |
-| Ready for a New World | 5.00% | ~112 |
+| Space Society | 5.00% | ~113 |
+| A Thousand Strong | 5.00% | ~113 |
+| Ready for a New World | 5.00% | ~113 |
 | Guy de Borderlands | 4.00% | ~90 |
 | Breaking Protocol | 4.00% | ~90 |
 | Permanent Redesigns | 4.00% | ~90 |
 | Ain't Nobody Got Time for That | 4.00% | ~90 |
 | The Ship of Theseus | 4.00% | ~90 |
 | Hope Seeker | 4.00% | ~90 |
-| A Hunk of Junk | 3.00% | ~67 |
-| Fully Recycled | 3.00% | ~67 |
+| A Hunk of Junk | 3.00% | ~68 |
+| Fully Recycled | 3.00% | ~68 |
 | Man's Best Friend | 2.00% | ~45 |
 | Sightseeing | 2.00% | ~45 |
 | Exceeding Capacity | 2.00% | ~45 |
@@ -29,18 +29,18 @@ Rating: 4.56 (Ranked 451)
 | Convenient Transport | 2.00% | ~45 |
 | Please Make it Stop! | 2.00% | ~45 |
 | From the Past | 2.00% | ~45 |
-| Oats | 1.00% | ~22 |
-| In Dolos We Trust | 1.00% | ~22 |
-| BRAWL! | 1.00% | ~22 |
-| All in Good Health | 1.00% | ~22 |
+| Oats | 1.00% | ~23 |
+| In Dolos We Trust | 1.00% | ~23 |
+| BRAWL! | 1.00% | ~23 |
+| All in Good Health | 1.00% | ~23 |
 | What They Hide From Us | 0.80% | ~18 |
 | ...  in a finite world | 0.80% | ~18 |
 | Delivery! | 0.80% | ~18 |
 | Pedal to the Metal | 0.80% | ~18 |
 | What the Ruins Teach Us | 0.80% | ~18 |
 | Pulsar Disciple | 0.80% | ~18 |
-| Sustainable Energy | 0.60% | ~13 |
-| You Had One Job... | 0.60% | ~13 |
+| Sustainable Energy | 0.60% | ~14 |
+| You Had One Job... | 0.60% | ~14 |
 | Mutual Loyalty | 0.50% | ~11 |
 | Praise the Hull! | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
@@ -50,8 +50,8 @@ Rating: 4.56 (Ranked 451)
 | Tiqqun Contender | 0.30% | ~7 |
 | Gregor Spinoza | 0.30% | ~7 |
 | Scientifically Accurate | 0.30% | ~7 |
-| Better Him Than Me | 0.20% | ~4 |
-| Remember the Dead | 0.20% | ~4 |
+| Better Him Than Me | 0.20% | ~5 |
+| Remember the Dead | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,249 (Ranked 144)  
+Progressed: 2,251 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 2,182 | 0 |
 | 2023-05-27 | 2,211 | 0 |
 | 2023-05-28 | 2,248 | 0 |
-| 2023-05-29 | 2,249 | 0 |
+| 2023-05-29 | 2,251 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

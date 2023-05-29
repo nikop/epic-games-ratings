@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4158,
+  "EOS_Progressed": 4159,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2023-05-28T10:06:27.663349+00:00",
       "NumProgressed": 4158,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-29T04:07:13.0804398+00:00",
+      "NumProgressed": 4159,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -882,7 +887,7 @@
       "Name": "Builder I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -922,7 +927,7 @@
       "Name": "An honorable Governor I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
@@ -978,7 +983,7 @@
       "Name": "Full-time job I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -1010,7 +1015,7 @@
       "Name": "Researcher",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -1306,7 +1311,7 @@
       "Name": "Tax-man II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -1338,7 +1343,7 @@
       "Name": "A time consuming game I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -1418,7 +1423,7 @@
       "Name": "Time for some trade",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -1457,15 +1462,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4158,
+      "Progressed": 4159,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:51.2532146+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:07:13.0804395+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.5863815+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:58:12.7970456+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:51.2533141+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:58:22.718852+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:07:13.0805742+00:00"
 }

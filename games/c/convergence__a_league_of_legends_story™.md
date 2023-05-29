@@ -24,9 +24,9 @@
 | Golem Chaser | 33.00% | ~158 |
 | The Wicked Twins | 30.00% | ~143 |
 | Family Memories | 29.00% | ~139 |
-| The Betrayer | 28.00% | ~134 |
+| The Betrayer | 29.00% | ~139 |
+| Check Your Pulse | 27.00% | ~129 |
 | Good Neighbor | 27.00% | ~129 |
-| Check Your Pulse | 26.00% | ~124 |
 | Street Style | 25.00% | ~120 |
 | The Loose Cannon | 25.00% | ~120 |
 | The Family Fortune | 21.00% | ~100 |

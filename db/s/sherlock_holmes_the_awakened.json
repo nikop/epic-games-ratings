@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 293,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.44,
   "EosHistory": [
@@ -816,9 +816,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "MQ03_2",
@@ -1001,8 +1001,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:03:39.2690881+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:03:46.0925535+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:57:32.0899179+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:03:39.2691074+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:57:22.2945805+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:03:46.0925781+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~891 |
 | The Court of Storms | 0.80% | ~443 |
-| The Cursed Farmer | 0.70% | ~623 |
+| The Cursed Farmer | 0.70% | ~624 |
 | Beast Intentions | 0.60% | ~534 |
 | The Mad Wizard | 0.60% | ~534 |
 | Beware the Jabberwock | 0.60% | ~332 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.30% | ~267 |
 | The Crumbling Temple | 0.30% | ~267 |
 | Mad Cow Disease | 0.30% | ~267 |
+| The Contagious Curse | 0.30% | ~267 |
 | Friendly Imps | 0.30% | ~267 |
 | Pure Energy | 0.30% | ~267 |
 | Maddening | 0.20% | ~178 |
@@ -62,7 +63,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~178 |
 | Flying Monkey Skulls of Doom | 0.20% | ~178 |
 | Running of the Saurs | 0.20% | ~178 |
-| The Contagious Curse | 0.20% | ~178 |
 | Hearts Aflame | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,069 (Ranked 61)  
+Progressed: 89,073 (Ranked 61)  
 Completed: 1,892 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 1,892 (2.12%) (Ranked 62)
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
-| 2023-05-29 | 89,069 | 1,892 |
+| 2023-05-29 | 89,073 | 1,892 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,995 (Ranked 37)  

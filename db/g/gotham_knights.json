@@ -1280,9 +1280,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62649,
+  "EOS_Progressed": 62665,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1042,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4180,6 +4180,11 @@
       "Time": "2023-05-29T03:05:50.0748789+00:00",
       "NumProgressed": 62649,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T04:07:11.4420186+00:00",
+      "NumProgressed": 62665,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4239,7 +4244,7 @@
       "Name": "The Batman Family",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -4295,7 +4300,7 @@
       "Name": "Something in the Clay",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "CLAYFACE_2",
@@ -4415,7 +4420,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "FREEZE_1_5",
@@ -4423,7 +4428,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "FREEZE_2",
@@ -4503,7 +4508,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "HARLEY_3",
@@ -4511,7 +4516,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "HARLEY_4",
@@ -4567,7 +4572,7 @@
       "Name": "Knighthood",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4591,7 +4596,7 @@
       "Name": "Whispered Words",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "MYSTERY_03",
@@ -4599,7 +4604,7 @@
       "Name": "Lock and Key",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "MYSTERY_04",
@@ -4678,13 +4683,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62649,
+      "Progressed": 62665,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32929,
+      "Progressed": 32945,
       "Completed": 2643
     }
   ],
@@ -4692,8 +4697,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T21:59:47.3836473+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:50.0748786+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:07:11.4420181+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:59:37.7829361+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:50.0749396+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:00:32.2217278+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:07:11.4420962+00:00"
 }

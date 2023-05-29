@@ -21,8 +21,8 @@
 | Archivist | 9.00% | ~11 |
 | Cataclysm | 7.00% | ~9 |
 | Looper | 7.00% | ~9 |
+| So Close | 6.00% | ~7 |
 | Final Charge | 6.00% | ~7 |
-| So Close | 5.00% | ~6 |
 | Transformers, cubes in disguise | 5.00% | ~6 |
 | Kaboom! | 5.00% | ~6 |
 | All Alone | 5.00% | ~6 |

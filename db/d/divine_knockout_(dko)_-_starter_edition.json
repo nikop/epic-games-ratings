@@ -3,7 +3,7 @@
   "Name": "Divine Knockout (DKO) - Starter Edition",
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 729,
-  "Ranking_Popularity": 384,
+  "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
@@ -762,11 +762,17 @@
       "Rating": 4.34,
       "NumberOfAwards": 451,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-05-29T04:00:39.3581496+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 452,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 451,
-  "NumberOfAwardsMax": 51,
+  "NumberOfAwards": 452,
+  "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -791,7 +797,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Competitive Players",
@@ -859,8 +865,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-05-28T21:00:27.1603892+00:00",
+  "LastChanged": "2023-05-29T04:00:39.3581494+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:17.0379359+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:59:42.5467825+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:04:47.5960328+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:00:39.3581502+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:05:44.9917676+00:00"
 }

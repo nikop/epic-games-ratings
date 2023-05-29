@@ -8,15 +8,15 @@ Rating: 4.17 (Ranked 839)
 | Har, Har, Har, Very Funny | 2.00% | ~1,253 |
 | First Step Into the Knight | 2.00% | ~1,253 |
 | Loose Ends | 2.00% | ~1,253 |
-| The Batman Family | 1.00% | ~626 |
-| Something in the Clay | 1.00% | ~626 |
-| To the Victor Go the Spoils | 1.00% | ~626 |
-| Quartzer Life Crisis | 1.00% | ~626 |
-| Get ReQ'd | 1.00% | ~626 |
-| Working Hard or Harley Working? | 1.00% | ~626 |
-| Knighthood | 1.00% | ~626 |
-| Whispered Words | 1.00% | ~626 |
-| Lock and Key | 1.00% | ~626 |
+| The Batman Family | 1.00% | ~627 |
+| Something in the Clay | 1.00% | ~627 |
+| To the Victor Go the Spoils | 1.00% | ~627 |
+| Quartzer Life Crisis | 1.00% | ~627 |
+| Get ReQ'd | 1.00% | ~627 |
+| Working Hard or Harley Working? | 1.00% | ~627 |
+| Knighthood | 1.00% | ~627 |
+| Whispered Words | 1.00% | ~627 |
+| Lock and Key | 1.00% | ~627 |
 | Snow Problem | 0.90% | ~564 |
 | Unstoppable Force | 0.90% | ~564 |
 | Bad Apples in Every Orchard | 0.90% | ~564 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,649 (Ranked 70)  
+Progressed: 62,665 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,649 | 91 |
+| 2023-05-29 | 62,665 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,737 (Ranked 138)  

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~687 |
-| Ranidaphobia | 69.00% | ~521 |
-| Aspiring Editor | 65.00% | ~491 |
-| Gun for Hire | 59.00% | ~445 |
-| I am the law! | 48.00% | ~362 |
-| Lumberjack | 28.00% | ~211 |
+| First Blood | 91.00% | ~689 |
+| Ranidaphobia | 69.00% | ~522 |
+| Aspiring Editor | 65.00% | ~492 |
+| Gun for Hire | 59.00% | ~447 |
+| I am the law! | 48.00% | ~363 |
+| Lumberjack | 28.00% | ~212 |
 | From Darkness to Light | 25.00% | ~189 |
-| Limp Richard | 24.00% | ~181 |
-| Firestarter | 24.00% | ~181 |
+| Limp Richard | 24.00% | ~182 |
+| Firestarter | 24.00% | ~182 |
 | Croaked | 23.00% | ~174 |
-| Exorcist | 19.00% | ~143 |
+| Exorcist | 19.00% | ~144 |
 | Editor Adept | 18.00% | ~136 |
 | Giant Killer | 16.00% | ~121 |
 | Sensei | 14.00% | ~106 |
@@ -24,19 +24,19 @@
 | Technophobe | 10.00% | ~76 |
 | Chain Killer | 9.00% | ~68 |
 | Newtonian Knockout | 9.00% | ~68 |
-| There Can Be Only One! | 8.00% | ~60 |
+| There Can Be Only One! | 8.00% | ~61 |
 | Are you not entertained? | 6.00% | ~45 |
+| Ganglord | 6.00% | ~45 |
 | Jarhead | 6.00% | ~45 |
-| Ganglord | 5.00% | ~38 |
 | Infiltrator | 5.00% | ~38 |
 | Pushing Daisy | 5.00% | ~38 |
 | Ruthless | 5.00% | ~38 |
+| Experienced | 4.00% | ~30 |
 | Wipe Out | 4.00% | ~30 |
 | Chain Reaction | 3.00% | ~23 |
 | Commando | 3.00% | ~23 |
 | Curveball | 3.00% | ~23 |
 | Endgame | 3.00% | ~23 |
-| Experienced | 3.00% | ~23 |
 | Savior | 3.00% | ~23 |
 | The Watchers | 3.00% | ~23 |
 | Dr Jones | 2.00% | ~15 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755 (Ranked 181)  
+Progressed: 757 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
-| 2023-05-29 | 755 | 0 |
+| 2023-05-29 | 757 | 0 |

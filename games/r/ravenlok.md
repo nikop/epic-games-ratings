@@ -9,12 +9,12 @@
 | Into the Barn | 86.00% | ~771 |
 | A Prophecy | 84.00% | ~753 |
 | Sword, Shield, Fight! | 74.00% | ~664 |
-| A Grand Visit | 70.00% | ~628 |
+| A Grand Visit | 71.00% | ~637 |
+| Vibing | 61.00% | ~547 |
 | Fun Guy | 61.00% | ~547 |
-| Vibing | 60.00% | ~538 |
 | Tragic Brave | 52.00% | ~466 |
+| Awakened Spirits | 49.00% | ~440 |
 | Little Shop | 48.00% | ~431 |
-| Awakened Spirits | 48.00% | ~431 |
 | Surprise! | 43.00% | ~386 |
 | An Actor! | 43.00% | ~386 |
 | Curtain Call | 42.00% | ~377 |

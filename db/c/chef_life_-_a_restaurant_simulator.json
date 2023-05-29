@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -959,6 +959,11 @@
       "Time": "2023-05-28T21:02:19.0469573+00:00",
       "NumProgressed": 243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T04:02:41.5306801+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1144,9 +1149,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "Packing20",
@@ -1170,7 +1175,7 @@
       "Name": "Home Cook",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "RecipeDifferent30",
@@ -1289,7 +1294,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 0
     }
   ],
@@ -1297,8 +1302,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:01:06.7534726+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:02:41.5306796+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:58:31.2811156+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:01:06.7535009+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:58:49.5435753+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:02:41.5307171+00:00"
 }

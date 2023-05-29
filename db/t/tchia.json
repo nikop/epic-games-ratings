@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6140,
+  "EOS_Progressed": 6141,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2478,6 +2478,11 @@
       "Time": "2023-05-29T03:05:19.5795234+00:00",
       "NumProgressed": 6140,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-29T04:06:31.661448+00:00",
+      "NumProgressed": 6141,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2537,7 +2542,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2561,7 +2566,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -2656,7 +2661,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6140,
+      "Progressed": 6141,
       "Completed": 23
     }
   ],
@@ -2664,8 +2669,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:19.5795229+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:06:31.6614476+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:58:07.4073102+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:19.5795458+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:58:15.7215239+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:06:31.6614811+00:00"
 }

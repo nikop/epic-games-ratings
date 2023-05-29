@@ -19,7 +19,7 @@
 | Interrogation | 14.00% | ~52 |
 | Sabotage | 12.00% | ~45 |
 | Choices Matter | 8.00% | ~30 |
-| The Fool | 5.00% | ~19 |
+| The Fool | 6.00% | ~22 |
 | The Lion's Den | 4.00% | ~15 |
 | The Coward | 3.00% | ~11 |
 | Proficient Storyteller | 3.00% | ~11 |

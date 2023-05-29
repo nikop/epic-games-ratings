@@ -1573,9 +1573,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 477900,
+  "EOS_Progressed": 477901,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5268,6 +5268,11 @@
       "Time": "2023-05-29T03:05:37.8974033+00:00",
       "NumProgressed": 477900,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-29T04:06:55.9063601+00:00",
+      "NumProgressed": 477901,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -5335,7 +5340,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 281961
+      "UsersEstimate": 281962
     },
     {
       "ID": "CHAS",
@@ -5423,7 +5428,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 320193
+      "UsersEstimate": 320194
     },
     {
       "ID": "EXTERMINATOR",
@@ -5447,7 +5452,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 353646
+      "UsersEstimate": 353647
     },
     {
       "ID": "FILTHYRICH",
@@ -5471,7 +5476,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 387099
+      "UsersEstimate": 387100
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -5551,7 +5556,7 @@
       "Name": "Happy Returns",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 367983
+      "UsersEstimate": 367984
     },
     {
       "ID": "HEADTRAUMA",
@@ -5567,7 +5572,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 372762
+      "UsersEstimate": 372763
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -5591,7 +5596,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 305856
+      "UsersEstimate": 305857
     },
     {
       "ID": "KABOOM",
@@ -5615,7 +5620,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 339309
+      "UsersEstimate": 339310
     },
     {
       "ID": "LIQUIDATOR",
@@ -5807,7 +5812,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 253287
+      "UsersEstimate": 253288
     },
     {
       "ID": "SAVANTGENIUS",
@@ -5863,7 +5868,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 310635
+      "UsersEstimate": 310636
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -5959,7 +5964,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 262845
+      "UsersEstimate": 262846
     },
     {
       "ID": "YOUMONSTER",
@@ -5974,15 +5979,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 477900,
+      "Progressed": 477901,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-05-27T06:58:22.8722153+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:37.8974028+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:06:55.9063595+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.4973465+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:58:25.7237293+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:37.8974969+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:58:42.7777803+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:06:55.9064896+00:00"
 }

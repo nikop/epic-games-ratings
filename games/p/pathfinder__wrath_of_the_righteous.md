@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 15.00% | ~1,396 |
+| Devoured by Darkness | 15.00% | ~1,397 |
 | Burning City | 10.00% | ~931 |
 | A Spark | 10.00% | ~931 |
 | Banner over the Citadel | 8.00% | ~745 |
@@ -14,9 +14,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 8.00% | ~745 |
 | Queen's Gratitude | 7.00% | ~652 |
 | Fifth Crusade | 5.00% | ~466 |
-| Embrace of the Abyss | 4.00% | ~372 |
-| Path of the Angel | 4.00% | ~372 |
-| Demonic and Divine | 4.00% | ~372 |
+| Embrace of the Abyss | 4.00% | ~373 |
+| Path of the Angel | 4.00% | ~373 |
+| Demonic and Divine | 4.00% | ~373 |
 | Path of the Azata | 3.00% | ~279 |
 | Transformation | 3.00% | ~279 |
 | The Legacy | 3.00% | ~279 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~93 |
 | Stay Underground | 1.00% | ~81 |
 | Sarkoris Will Be Green | 1.00% | ~81 |
-| Abyssal Conspiracy | 0.80% | ~74 |
+| Abyssal Conspiracy | 0.80% | ~75 |
 | The Final Threshold | 0.70% | ~65 |
 | End of Eternal Guard | 0.70% | ~65 |
 | This Wall Won't Fall | 0.70% | ~57 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,310 (Ranked 110)  
+Progressed: 9,313 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 9,226 | 0 |
 | 2023-05-27 | 9,264 | 0 |
 | 2023-05-28 | 9,304 | 0 |
-| 2023-05-29 | 9,310 | 0 |
+| 2023-05-29 | 9,313 | 0 |
 ## Awards
 Max (Character Customization): 1,642  (Ranked 111)  
 Sum: 6,662 (Ranked 110)  

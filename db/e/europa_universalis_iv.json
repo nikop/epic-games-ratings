@@ -5254,10 +5254,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43881,
       "NumberOfAwardsMax": 5302
+    },
+    {
+      "Time": "2023-05-29T03:57:27.0146116+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43885,
+      "NumberOfAwardsMax": 5302
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43881,
+  "NumberOfAwards": 43885,
   "NumberOfAwardsMax": 5302,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -5319,7 +5325,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4173
+      "Count": 4177
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5328,7 +5334,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 45993,
+  "EOS_Progressed": 46006,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 4423,
   "EOS_NewCompleters": 0,
@@ -9238,6 +9244,11 @@
       "Time": "2023-05-29T03:05:54.6275433+00:00",
       "NumProgressed": 45993,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T04:07:16.8076656+00:00",
+      "NumProgressed": 46006,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -10249,7 +10260,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "achievement_grand_coalition",
@@ -11529,7 +11540,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -11913,7 +11924,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4141
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -11945,7 +11956,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -11967,9 +11978,9 @@
       "ID": "achievement_voting_streak",
       "SetID": "8p2n7he",
       "Name": "Voting Streak",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -12080,21 +12091,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 45993,
+      "Progressed": 46006,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 45993,
+      "Progressed": 46006,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-28T20:57:30.5398519+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:54.6275427+00:00",
+  "LastChanged": "2023-05-29T03:57:27.0146095+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:07:16.8076648+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.5359105+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:57:35.0382504+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:54.6285514+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:57:27.0146124+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:07:16.808995+00:00"
 }

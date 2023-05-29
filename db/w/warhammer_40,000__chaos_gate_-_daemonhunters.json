@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2739,
+  "EOS_Progressed": 2740,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1227,6 +1227,11 @@
       "Time": "2023-05-29T02:12:06.0796819+00:00",
       "NumProgressed": 2739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T04:07:06.5446297+00:00",
+      "NumProgressed": 2740,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1334,7 +1339,7 @@
       "Name": "Surgical Excision",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1430,7 +1435,7 @@
       "Name": "Executioner",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "Kills_Exterminator",
@@ -1574,7 +1579,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1709,21 +1714,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2739,
+      "Progressed": 2740,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2739,
+      "Progressed": 2740,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:45.9887818+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:07:06.5446291+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:58:41.8337663+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:45.9888304+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:59:07.8631128+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:07:06.5446882+00:00"
 }

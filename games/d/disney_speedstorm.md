@@ -22,8 +22,8 @@
 | LEGENDARY HERO | 9.00% | ~235 |
 | ACE DEFENDER | 8.00% | ~209 |
 | THE EYE OF THE HUNTER | 8.00% | ~209 |
+| BE OUR GUEST | 6.00% | ~157 |
 | FRIENDLY | 6.00% | ~157 |
-| BE OUR GUEST | 5.00% | ~131 |
 | ACE TRICKSTER | 4.00% | ~104 |
 | EXPERIENCED CREW | 3.00% | ~78 |
 | FRAMED! | 2.00% | ~52 |

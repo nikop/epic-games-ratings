@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -892,9 +892,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 176
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -1013,8 +1013,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-29T03:05:26.9857439+00:00",
+  "LastChanged_Achievements": "2023-05-29T04:06:41.7207823+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:59:22.5997096+00:00",
-  "LastUpdate_Achievements": "2023-05-29T03:05:26.9857584+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:00:08.7012885+00:00",
+  "LastUpdate_Achievements": "2023-05-29T04:06:41.7208001+00:00"
 }

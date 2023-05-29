@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,139 |
-| That's a Grand Army | 8.00% | ~3,679 |
-| That is mine! | 8.00% | ~3,679 |
-| Victorious! | 8.00% | ~3,679 |
+| Until death do us apart | 9.00% | ~4,141 |
+| That's a Grand Army | 8.00% | ~3,680 |
+| That is mine! | 8.00% | ~3,680 |
+| Victorious! | 8.00% | ~3,680 |
 | Brothers in Arms | 6.00% | ~2,760 |
 | That's a Grand Navy | 6.00% | ~2,760 |
 | Seriously?! | 6.00% | ~2,760 |
@@ -54,7 +54,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.50% | ~230 |
 | This is My Faith | 0.50% | ~230 |
 | Trophy Hunter | 0.50% | ~230 |
-| Voting Streak | 0.50% | ~230 |
 | Absolutely | 0.40% | ~184 |
 | Dude, Where's my Boat? | 0.40% | ~184 |
 | Grand Coalition | 0.40% | ~184 |
@@ -63,6 +62,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~184 |
 | Ruina Imperii | 0.40% | ~184 |
 | The Continuation of Diplomacy | 0.40% | ~184 |
+| Voting Streak | 0.40% | ~184 |
 | A Pile of Gold | 0.30% | ~138 |
 | All Your Trade Are Belong to Us | 0.30% | ~138 |
 | Bleed Them Dry | 0.30% | ~138 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,993 (Ranked 78)  
+Progressed: 46,006 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,10 +400,10 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
 | 2023-05-28 | 45,938 | 0 |
-| 2023-05-29 | 45,993 | 0 |
+| 2023-05-29 | 46,006 | 0 |
 ## Awards
 Max (Educational): 5,302  (Ranked 60)  
-Sum: 43,881 (Ranked 27)  
+Sum: 43,885 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -415,7 +415,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,934 |
 | This game has Competitive Players | 4,775 |
 | This game has Amazing Storytelling | 4,521 |
-| This game has Amazing Characters | 4,173 |
+| This game has Amazing Characters | 4,177 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -552,3 +552,4 @@ Diff (max vs sum): 33
 | 2023-05-26 | 4.68 | - | 5,287 | 43,808 |
 | 2023-05-27 | 4.68 | - | 5,293 | 43,840 |
 | 2023-05-28 | 4.68 | - | 5,302 | 43,881 |
+| 2023-05-29 | 4.68 | - | 5,302 | 43,885 |
