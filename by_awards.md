@@ -22,10 +22,10 @@
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,476 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,099 | 4.61 | 360 |
 | 22 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,367 | 4.58 | 420 |
-| 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,326 | 4.76 | 118 |
+| 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,339 | 4.76 | 118 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 13,549 | 4.21 | 810 |
 | 25 | [Maneater](games/m/maneater.md) | 13,479 | 4.49 | 559 |
-| 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,318 | 4.60 | 387 |
+| 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,329 | 4.60 | 387 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,448 | 4.36 | 711 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,016 | 4.60 | 387 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,006 | 4.42 | 651 |
@@ -52,7 +52,7 @@
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,357 | 4.71 | 179 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,285 | 4.80 | 78 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,119 | 4.58 | 420 |
-| 53 | [Sifu](games/s/sifu.md) | 6,108 | 4.82 | 63 |
+| 53 | [Sifu](games/s/sifu.md) | 6,109 | 4.82 | 63 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,931 | 4.64 | 314 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,859 | 4.79 | 90 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,778 | 4.66 | 274 |
@@ -73,7 +73,7 @@
 | 71 | [Chivalry 2](games/c/chivalry_2.md) | 4,138 | 4.61 | 360 |
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,095 | 4.51 | 523 |
 | 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,047 | 4.77 | 105 |
-| 74 | [God of War](games/g/god_of_war.md) | 4,017 | 4.88 | 19 |
+| 74 | [God of War](games/g/god_of_war.md) | 4,018 | 4.88 | 19 |
 | 75 | [Dead Island 2](games/d/dead_island_2.md) | 4,014 | 4.54 | 485 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,953 | 4.56 | 450 |
 | 77 | [SMITE](games/s/smite.md) | 3,822 | 4.45 | 606 |
@@ -133,7 +133,7 @@
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,089 | 4.54 | 485 |
 | 132 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,061 | 4.61 | 360 |
 | 133 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,043 | 4.66 | 274 |
-| 134 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,033 | 4.78 | 99 |
+| 134 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,036 | 4.78 | 99 |
 | 135 | [Saints Row](games/s/saints_row.md) | 1,030 | 3.78 | 920 |
 | 136 | [EVE Online](games/e/eve_online.md) | 1,024 | 4.25 | 787 |
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,008 | 4.23 | 804 |
@@ -148,7 +148,7 @@
 | 146 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 849 | 4.55 | 470 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 776 | 4.69 | 215 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 772 | 4.74 | 141 |
-| 149 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 764 | 4.56 | 450 |
+| 149 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 766 | 4.56 | 450 |
 | 150 | [The Long Dark](games/t/the_long_dark.md) | 759 | 4.74 | 141 |
 | 151 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 753 | 4.50 | 541 |
 | 152 | [Auto Chess](games/a/auto_chess.md) | 738 | 4.52 | 506 |
@@ -214,8 +214,8 @@
 | 211 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 353 | 4.61 | 360 |
 | 213 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 344 | 4.31 | 756 |
 | 214 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 334 | 4.60 | 387 |
-| 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 331 | 4.71 | 179 |
-| 215 | [Inscryption](games/i/inscryption.md) | 331 | 4.86 | 30 |
+| 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 332 | 4.71 | 179 |
+| 216 | [Inscryption](games/i/inscryption.md) | 331 | 4.86 | 30 |
 | 217 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 329 | 4.76 | 118 |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 326 | 4.85 | 38 |
 | 219 | [Dungeons 3](games/d/dungeons_3.md) | 324 | 4.65 | 295 |
@@ -331,11 +331,11 @@
 | 329 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 96 | 4.86 | 30 |
 | 329 | [Predecessor](games/p/predecessor.md) | 96 | 4.44 | 630 |
 | 329 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 834 |
+| 332 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 94 | 4.35 | 719 |
 | 332 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 94 | 4.41 | 664 |
-| 333 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 93 | 4.51 | 523 |
-| 333 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 93 | 4.35 | 719 |
-| 333 | [First Class Trouble](games/f/first_class_trouble.md) | 93 | 4.51 | 523 |
-| 333 | [Verdun](games/v/verdun.md) | 93 | 4.53 | 494 |
+| 334 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 93 | 4.51 | 523 |
+| 334 | [First Class Trouble](games/f/first_class_trouble.md) | 93 | 4.51 | 523 |
+| 334 | [Verdun](games/v/verdun.md) | 93 | 4.53 | 494 |
 | 337 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 92 | 4.18 | 834 |
 | 337 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 92 | 4.53 | 494 |
 | 339 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 91 | 4.37 | 704 |

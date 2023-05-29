@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 15.20% |
+| 11 | [Island Cities](games/i/island_cities.md) | 15.12% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
@@ -19,12 +19,12 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.98% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
-| 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
+| 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
+| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.88% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
 | 24 | [Scorn](games/s/scorn.md) | 6.90% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.76% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.87% |
@@ -32,7 +32,7 @@
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.25% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
@@ -51,8 +51,8 @@
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.89% |
 | 51 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 2.84% |
-| 53 | [Lamentum](games/l/lamentum.md) | 2.83% |
+| 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
+| 53 | [Lamentum](games/l/lamentum.md) | 2.82% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.74% |
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
@@ -61,9 +61,9 @@
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.23% |
 | 60 | [JARS](games/j/jars.md) | 2.22% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.17% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 64 | [Bloodshore](games/b/bloodshore.md) | 1.96% |
+| 64 | [Bloodshore](games/b/bloodshore.md) | 1.95% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 65 | [Sifu](games/s/sifu.md) | 1.80% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.72% |
@@ -103,8 +103,8 @@
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |
 | 102 | [Train Valley](games/t/train_valley.md) | 0.70% |
 | 103 | [Haven](games/h/haven.md) | 0.68% |
-| 104 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.64% |
-| 105 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 104 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
 | 106 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
 | 107 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
