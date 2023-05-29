@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2829,
+  "EOS_Progressed": 2830,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1509,6 +1509,11 @@
       "Time": "2023-05-29T13:11:24.4164346+00:00",
       "NumProgressed": 2829,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-29T15:05:45.879073+00:00",
+      "NumProgressed": 2830,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1518,9 +1523,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 368
     },
     {
       "ID": "bonus2",
@@ -1536,7 +1541,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "bonus4",
@@ -1568,7 +1573,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "campaign10",
@@ -1648,7 +1653,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "campaign2",
@@ -1656,7 +1661,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "campaign20",
@@ -1664,7 +1669,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "campaign3",
@@ -1672,7 +1677,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "campaign4",
@@ -1712,7 +1717,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "campaign9",
@@ -1744,7 +1749,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "scenario4",
@@ -1783,7 +1788,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2829,
+      "Progressed": 2830,
       "Completed": 9
     }
   ],
@@ -1791,8 +1796,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:28.3210954+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:45.8790724+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:00:34.3644021+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:28.321133+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:59:49.3922163+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:45.8791043+00:00"
 }

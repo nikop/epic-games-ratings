@@ -2,13 +2,13 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -478,9 +478,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 590217,
+  "EOS_Progressed": 590222,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1084,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4388,6 +4388,11 @@
       "Time": "2023-05-29T14:06:11.418305+00:00",
       "NumProgressed": 590217,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-05-29T15:05:31.2189275+00:00",
+      "NumProgressed": 590222,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 28,
@@ -4463,7 +4468,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 354130
+      "UsersEstimate": 354133
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -4479,7 +4484,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 259695
+      "UsersEstimate": 259698
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -4495,7 +4500,7 @@
       "Name": "Cosplay",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 76728
+      "UsersEstimate": 76729
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -4503,7 +4508,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 76728
+      "UsersEstimate": 76729
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -4511,7 +4516,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 283304
+      "UsersEstimate": 283307
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -4519,7 +4524,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 289206
+      "UsersEstimate": 289209
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -4527,7 +4532,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 548902
+      "UsersEstimate": 548906
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -4535,7 +4540,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 141652
+      "UsersEstimate": 141653
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -4559,7 +4564,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 389543
+      "UsersEstimate": 389547
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -4567,7 +4572,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 106239
+      "UsersEstimate": 106240
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -4575,7 +4580,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 312815
+      "UsersEstimate": 312818
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -4583,7 +4588,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47217
+      "UsersEstimate": 47218
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -4622,15 +4627,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 590217,
+      "Progressed": 590222,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-05-17T13:05:09.553013+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:11.4183044+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:31.2189269+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.0480126+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:59:11.953352+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:11.4183592+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:58:43.9335249+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:31.2189736+00:00"
 }

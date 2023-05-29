@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -2201,17 +2201,17 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1679
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2032
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2458,8 +2458,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:10.8717743+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:30.7880631+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:57:41.294791+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:10.8718673+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:57:33.7494641+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:30.7881196+00:00"
 }

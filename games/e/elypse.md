@@ -22,14 +22,14 @@
 | Hard Rock | 28.00% | ~14 |
 | Homeless | 26.00% | ~13 |
 | Big badaboom! | 26.00% | ~13 |
-| Nokron tower | 20.00% | ~10 |
+| Nokron tower | 22.00% | ~11 |
+| Bookworm | 22.00% | ~11 |
 | Magnitude 5 | 20.00% | ~10 |
-| Bookworm | 20.00% | ~10 |
 | Payback | 20.00% | ~10 |
 | Full power | 18.00% | ~9 |
 | "Ah sh*t... Here we go again!" | 18.00% | ~9 |
 | Compulsive hoarder | 18.00% | ~9 |
-| MayDay! MayDay! | 14.00% | ~7 |
+| MayDay! MayDay! | 16.00% | ~8 |
 | GG EZ | 10.00% | ~5 |
 | Comeback | 10.00% | ~5 |
 | Gooooooaaaaal!!! | 8.00% | ~4 |

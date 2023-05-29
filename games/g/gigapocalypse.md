@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 85.00% | ~109 |
+| Too Cool For School | 86.00% | ~110 |
 | Caretaker | 83.00% | ~106 |
-| Feng Shui | 70.00% | ~90 |
+| Feng Shui | 71.00% | ~91 |
 | Who's A Good Boy | 68.00% | ~87 |
 | Power Up | 67.00% | ~86 |
 | Thick Skin | 65.00% | ~83 |

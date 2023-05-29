@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "MissionOldFriend",
       "SetID": "a6c395p",
       "Name": "Old Days Born Anew",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 568
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -989,8 +989,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:30.8393067+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:48.1408557+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:00:21.8170421+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:30.8393628+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:59:39.4994418+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:48.1408916+00:00"
 }

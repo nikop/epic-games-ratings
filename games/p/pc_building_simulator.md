@@ -6,29 +6,29 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,683,484 |
-| Easy to forget | 46.00% | ~1,613,339 |
-| Back in the black | 38.00% | ~1,332,758 |
-| That's what I'm talking about | 28.00% | ~982,032 |
-| The Best of Both Worlds | 24.00% | ~841,742 |
-| Get your wings | 20.00% | ~701,452 |
-| Double trouble | 15.00% | ~526,089 |
-| Smashing it | 10.00% | ~350,726 |
-| But can it run Crysis? | 9.00% | ~315,653 |
-| My favourite feature... | 9.00% | ~315,653 |
-| From humble beginnings... | 7.00% | ~245,508 |
-| Customer satisfaction | 7.00% | ~245,508 |
-| Keeping things neat | 4.00% | ~140,290 |
-| Seems you're pretty good at this | 4.00% | ~140,290 |
-| Triple threat | 3.00% | ~105,218 |
-| You rock at this! | 3.00% | ~105,218 |
-| Your music sucks | 3.00% | ~105,218 |
-| Bending over backwards | 3.00% | ~105,218 |
-| I'm broke, Uncle! | 2.00% | ~70,145 |
-| Maybe you should try something else? | 2.00% | ~70,145 |
-| Taking care of business | 2.00% | ~70,145 |
-| Perfection | 2.00% | ~70,145 |
-| Calling in Sick | 2.00% | ~70,145 |
+| You need to plug it in... | 48.00% | ~1,683,509 |
+| Easy to forget | 46.00% | ~1,613,363 |
+| Back in the black | 38.00% | ~1,332,778 |
+| That's what I'm talking about | 28.00% | ~982,047 |
+| The Best of Both Worlds | 24.00% | ~841,754 |
+| Get your wings | 20.00% | ~701,462 |
+| Double trouble | 15.00% | ~526,096 |
+| Smashing it | 10.00% | ~350,731 |
+| But can it run Crysis? | 9.00% | ~315,658 |
+| My favourite feature... | 9.00% | ~315,658 |
+| From humble beginnings... | 7.00% | ~245,512 |
+| Customer satisfaction | 7.00% | ~245,512 |
+| Keeping things neat | 4.00% | ~140,292 |
+| Seems you're pretty good at this | 4.00% | ~140,292 |
+| Triple threat | 3.00% | ~105,219 |
+| You rock at this! | 3.00% | ~105,219 |
+| Your music sucks | 3.00% | ~105,219 |
+| Bending over backwards | 3.00% | ~105,219 |
+| I'm broke, Uncle! | 2.00% | ~70,146 |
+| Maybe you should try something else? | 2.00% | ~70,146 |
+| Taking care of business | 2.00% | ~70,146 |
+| Perfection | 2.00% | ~70,146 |
+| Calling in Sick | 2.00% | ~70,146 |
 | Overvolted | 1.00% | ~35,073 |
 | If you fail the first time... | 1.00% | ~35,073 |
 | Amazonian | 1.00% | ~35,073 |
@@ -37,11 +37,11 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,073 |
 | Majority Shareholder | 1.00% | ~35,073 |
 | Owner | 1.00% | ~35,073 |
-| Show off | 0.90% | ~31,565 |
+| Show off | 0.90% | ~31,566 |
 | Work ethic 101 | 0.60% | ~21,044 |
-| Building momentum | 0.50% | ~17,536 |
-| Lead by example | 0.50% | ~17,536 |
-| Treat yourself - RAM | 0.50% | ~17,536 |
+| Building momentum | 0.50% | ~17,537 |
+| Lead by example | 0.50% | ~17,537 |
+| Treat yourself - RAM | 0.50% | ~17,537 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,522 |
 | Mr big business | 0.30% | ~10,522 |
 | Mister Big | 0.30% | ~10,522 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,507 |
 | Treat yourself - GPU | 0.10% | ~3,507 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,507,258 (Ranked 4)  
+Progressed: 3,507,310 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 23 (0.00%) (Ranked 207)
 | 2023-05-26 | 3,505,275 | 23 |
 | 2023-05-27 | 3,506,149 | 23 |
 | 2023-05-28 | 3,506,922 | 23 |
-| 2023-05-29 | 3,507,258 | 23 |
+| 2023-05-29 | 3,507,310 | 23 |
 ## Awards
 Max (Great for Beginners): 1,043  (Ranked 133)  
-Sum: 7,780 (Ranked 94)  
+Sum: 7,781 (Ranked 94)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -109,7 +109,7 @@ Diff (max vs sum): 39
 | This game is Relaxing | 966 |
 | This game is Educational | 964 |
 | This game is Extremely Fun | 960 |
-| This game has Quickly Understood Controls | 925 |
+| This game has Quickly Understood Controls | 926 |
 | This game is Highly Recommended | 868 |
 | This game has Amazing Storytelling | 793 |
 | This game has Obsessive Gameplay | 664 |
@@ -230,3 +230,4 @@ Diff (max vs sum): 39
 | 2023-05-26 | 4.66 | - | 1,043 | 7,775 |
 | 2023-05-27 | 4.66 | - | 1,043 | 7,779 |
 | 2023-05-28 | 4.66 | - | 1,043 | 7,780 |
+| 2023-05-29 | 4.66 | - | 1,043 | 7,781 |

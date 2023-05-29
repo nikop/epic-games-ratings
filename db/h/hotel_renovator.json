@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -499,6 +499,11 @@
       "Time": "2023-05-28T14:07:21.0335116+00:00",
       "NumProgressed": 774,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-29T15:05:40.3162576+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -526,7 +531,7 @@
       "Name": "Soulmate?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -534,7 +539,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -582,7 +587,7 @@
       "Name": "Top spot in town",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_GOLDEN_EGGS_ALL",
@@ -590,7 +595,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -598,7 +603,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -606,7 +611,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -614,7 +619,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -628,9 +633,9 @@
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_POSTCARD",
@@ -644,9 +649,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -662,7 +667,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH_STAR_2",
@@ -670,7 +675,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_STAR_3",
@@ -694,7 +699,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -725,7 +730,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 11
     }
   ],
@@ -733,8 +738,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:21.7654831+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:40.316257+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.1714018+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:57:11.775283+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:21.7655049+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:57:06.1724948+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:40.316279+00:00"
 }

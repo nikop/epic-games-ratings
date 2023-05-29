@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -466,7 +466,7 @@
   ],
   "EOS_Progressed": 13967,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2186,9 +2186,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 698
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2353,8 +2353,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:04:03.6444488+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:03:35.4040704+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:57:57.8879291+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:04:03.6445098+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:57:45.1823077+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:03:35.4041113+00:00"
 }

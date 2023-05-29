@@ -10,7 +10,7 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Gatherer | 58.00% | ~128 |
 | Mushroom Picker | 56.00% | ~123 |
 | Scrapper | 49.00% | ~108 |
-| Cook | 41.00% | ~90 |
+| Cook | 42.00% | ~92 |
 | Teleport | 40.00% | ~88 |
 | Scrap Master | 38.00% | ~84 |
 | Smelter | 35.00% | ~77 |
@@ -33,8 +33,8 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 8.00% | ~18 |
 | Smelting Master | 8.00% | ~18 |
 | Black Gold | 7.00% | ~15 |
+| Survival Master | 4.00% | ~9 |
 | Traveler | 3.00% | ~7 |
-| Survival Master | 3.00% | ~7 |
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

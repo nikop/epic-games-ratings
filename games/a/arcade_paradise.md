@@ -1,7 +1,7 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.57 (Ranked 437)  
+Rating: 4.57 (Ranked 438)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.57 (Ranked 437)
 | Existential dread | 24.00% | ~145 |
 | Goal | 22.00% | ~133 |
 | I ran the numbers | 15.00% | ~91 |
-| Taking the plunge | 12.00% | ~73 |
+| Taking the plunge | 13.00% | ~79 |
 | Hidden Packages | 11.00% | ~67 |
 | GOOOAAAL | 9.00% | ~55 |
 | New Kid on the Block | 7.00% | ~42 |
@@ -28,11 +28,11 @@ Rating: 4.57 (Ranked 437)
 | You Spin Me Round | 5.00% | ~30 |
 | GoldGuy Jr | 4.00% | ~24 |
 | Nose to the Grindstone | 4.00% | ~24 |
+| Waking nightmare | 4.00% | ~24 |
 | We come in peace | 3.00% | ~18 |
 | Crowning achievement | 3.00% | ~18 |
 | Modern Gorefare | 3.00% | ~18 |
 | Hammer time | 3.00% | ~18 |
-| Waking nightmare | 3.00% | ~18 |
 | 1CC | 2.00% | ~12 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~12 |
 | To do. Done! | 2.00% | ~12 |

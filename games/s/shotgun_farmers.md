@@ -16,8 +16,8 @@
 | I Believe I Can Fly | 14.00% | ~9 |
 | No Asperascope | 14.00% | ~9 |
 | Triple Kill | 12.00% | ~8 |
+| Cornivore | 12.00% | ~8 |
 | Professional Survivor | 12.00% | ~2 |
-| Cornivore | 11.00% | ~7 |
 | Oh My Gourd | 9.00% | ~1 |
 | Expert Survivor | 9.00% | ~1 |
 | Grave Digger | 9.00% | ~1 |

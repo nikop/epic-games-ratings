@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1801,
+  "EOS_Progressed": 1803,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1829,6 +1829,11 @@
       "Time": "2023-05-29T14:06:09.4862086+00:00",
       "NumProgressed": 1801,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T15:05:29.7543033+00:00",
+      "NumProgressed": 1803,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1920,7 +1925,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2008,7 +2013,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2190,9 +2195,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -2222,9 +2227,9 @@
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
       "SetID": "bm6el81",
       "Name": "Sight Beyond Sights",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -2407,13 +2412,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1752,
+      "Progressed": 1754,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1801,
+      "Progressed": 1803,
       "Completed": 2
     }
   ],
@@ -2421,8 +2426,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:09.4862081+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:29.7543027+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:00:55.7593706+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:09.4863028+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:00:06.9154458+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:29.7543764+00:00"
 }

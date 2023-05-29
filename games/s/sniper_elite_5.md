@@ -5,8 +5,8 @@ Rating: 4.42 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 22.00% | ~396 |
-| Confirming Suspicions | 17.00% | ~306 |
+| Meeting Resistance | 22.00% | ~397 |
+| Confirming Suspicions | 17.00% | ~307 |
 | The Kraken Wakes | 13.00% | ~234 |
 | It's Starting to Crack | 10.00% | ~180 |
 | Lord of War | 9.00% | ~162 |
@@ -42,12 +42,12 @@ Rating: 4.42 (Ranked 651)
 | Locomotion Commotion | 0.70% | ~13 |
 | Operation Foxley | 0.70% | ~12 |
 | Strategist | 0.60% | ~11 |
+| Road Rage | 0.60% | ~11 |
 | Don't hold your breath | 0.60% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~11 |
 | Siegebreaker | 0.60% | ~11 |
 | Ghost of Falaise | 0.60% | ~11 |
 | Tinkerer | 0.50% | ~9 |
-| Road Rage | 0.50% | ~9 |
 | From Paris with Love | 0.40% | ~7 |
 | Up close and personal | 0.40% | ~7 |
 | Last Resort | 0.40% | ~7 |
@@ -55,6 +55,7 @@ Rating: 4.42 (Ranked 651)
 | Eagle Eyed | 0.30% | ~5 |
 | Sink or Swim | 0.30% | ~2 |
 | Burn after reading | 0.20% | ~4 |
+| Sight Beyond Sights | 0.20% | ~4 |
 | Shoot for the Moon | 0.20% | ~4 |
 | Can't Outrun A Bullet | 0.20% | ~4 |
 | Reich To The Point | 0.20% | ~4 |
@@ -62,7 +63,6 @@ Rating: 4.42 (Ranked 651)
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
 | Out of Scope | 0.10% | ~2 |
-| Sight Beyond Sights | 0.10% | ~2 |
 | Führerious Repetition | 0.10% | ~2 |
 | From Führer Away | 0.10% | ~2 |
 | Alpha | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 651)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,801 (Ranked 152)  
+Progressed: 1,803 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,801 | 2 |
+| 2023-05-29 | 1,803 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

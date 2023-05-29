@@ -16,6 +16,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 1.00% | ~7,062 |
 | Qi Gong: Breath | 1.00% | ~7,062 |
 | Lightning Hands | 1.00% | ~7,062 |
+| Path of the Prospect | 1.00% | ~7,062 |
 | Rumble in the Hangar | 1.00% | ~7,062 |
 | Bloody Sport | 1.00% | ~155 |
 | The best strikes are the ones we avoid | 1.00% | ~155 |
@@ -23,7 +24,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.90% | ~6,356 |
 | Street Fighting | 0.90% | ~6,356 |
 | Qi Gong: Essence | 0.90% | ~6,356 |
-| Path of the Prospect | 0.90% | ~6,356 |
 | Furious Fists | 0.80% | ~5,650 |
 | Stuntmaster | 0.80% | ~5,650 |
 | Old Child | 0.80% | ~5,650 |
@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,825 |
 | Sword Stained With Blood | 0.40% | ~2,825 |
 | Prodigal Child | 0.30% | ~2,119 |
-| Martial Hub | 0.30% | ~46 |
-| Secure, Protect, Leave | 0.30% | ~46 |
+| Martial Hub | 0.30% | ~47 |
+| Secure, Protect, Leave | 0.30% | ~47 |
 | Drunken Fighter | 0.20% | ~1,412 |
 | Martial Artist | 0.20% | ~1,412 |
 | Knowledge Greed | 0.20% | ~1,412 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,195 (Ranked 15)  
-Completed: 12,743 (1.80%) (Ranked 65)  
+Progressed: 706,206 (Ranked 15)  
+Completed: 12,744 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 12,743 (1.80%) (Ranked 65)
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
-| 2023-05-29 | 706,195 | 12,743 |
+| 2023-05-29 | 706,206 | 12,744 |
 ## Awards
 Max (Great Boss Battles): 6,108  (Ranked 53)  
 Sum: 10,408 (Ranked 77)  

@@ -20,6 +20,7 @@ Number of Ratings: 87  (23.09.2022)
 | Upgrade complete | 4.00% | ~29 |
 | Builder | 3.00% | ~22 |
 | Close call! | 3.00% | ~22 |
+| Critical care | 3.00% | ~22 |
 | Get out my way | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
 | Multilevel road | 3.00% | ~22 |
@@ -29,7 +30,6 @@ Number of Ratings: 87  (23.09.2022)
 | Trapiche Emerald | 3.00% | ~2 |
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
-| Critical care | 2.00% | ~14 |
 | Industrial Age | 2.00% | ~14 |
 | Jewelry accuracy | 2.00% | ~14 |
 | Living it large | 2.00% | ~14 |

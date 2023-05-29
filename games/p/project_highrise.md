@@ -19,9 +19,9 @@
 | Happy Tenants | 25.00% | ~46 |
 | Your Prestige is Rising | 23.00% | ~42 |
 | Potent Potables | 23.00% | ~42 |
+| Retail Revenue | 23.00% | ~42 |
 | Smooth Service | 23.00% | ~42 |
 | Lux Living | 22.00% | ~40 |
-| Retail Revenue | 22.00% | ~40 |
 | People Mover | 21.00% | ~38 |
 | Emporium Empire | 21.00% | ~38 |
 | Leveled Up Shops | 21.00% | ~38 |
@@ -31,8 +31,8 @@
 | Don't Feel a Loan | 19.00% | ~35 |
 | Tasty Profits | 19.00% | ~35 |
 | We Don't Need No Education | 18.00% | ~33 |
+| Under One Roof | 17.00% | ~31 |
 | Cashflow Chief | 17.00% | ~31 |
-| Under One Roof | 16.00% | ~29 |
 | Established Fame | 16.00% | ~29 |
 | Boutique Benefits | 16.00% | ~29 |
 | Terrifically Trashed | 15.00% | ~27 |

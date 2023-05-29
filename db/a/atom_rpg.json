@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 864,
+  "EOS_Progressed": 866,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -905,6 +905,11 @@
       "Time": "2023-05-29T11:07:11.4996759+00:00",
       "NumProgressed": 864,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T15:05:42.1300181+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -916,7 +921,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -962,9 +967,9 @@
       "ID": "DOUBLE_AGENT",
       "SetID": "bf13m8j",
       "Name": "Double agent",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 130
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -972,7 +977,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 855
+      "UsersEstimate": 857
     },
     {
       "ID": "EXPERT_1",
@@ -1012,7 +1017,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "INDY_1",
@@ -1164,15 +1169,15 @@
       "Name": "Superhuman",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 208
     },
     {
       "ID": "VVE",
@@ -1203,15 +1208,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 864,
+      "Progressed": 866,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:23.9593653+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:42.1300173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:00:29.1703541+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:23.9594043+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:59:45.4395345+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:42.1300466+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 194,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 86,
@@ -491,9 +491,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ach-portal-return",
@@ -539,9 +539,9 @@
       "ID": "ach-rob-shrines",
       "SetID": "17ih7ma",
       "Name": "Plunderer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ach-salamanderPrince",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:32.8010403+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:50.2219559+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:00:58.5146726+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:32.8010999+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:00:09.3018238+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:50.222009+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15426,
+  "EOS_Progressed": 15427,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -1317,6 +1317,11 @@
       "Time": "2023-05-29T14:06:26.0098851+00:00",
       "NumProgressed": 15426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T15:05:44.0279432+00:00",
+      "NumProgressed": 15427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1328,7 +1333,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14655
+      "UsersEstimate": 14656
     },
     {
       "ID": "ACH001",
@@ -1408,7 +1413,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3239
+      "UsersEstimate": 3240
     },
     {
       "ID": "ACH0019",
@@ -1480,7 +1485,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8484
+      "UsersEstimate": 8485
     },
     {
       "ID": "ACH004",
@@ -1488,7 +1493,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13575
+      "UsersEstimate": 13576
     },
     {
       "ID": "ACH005",
@@ -1535,7 +1540,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15426,
+      "Progressed": 15427,
       "Completed": 0
     }
   ],
@@ -1543,8 +1548,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:26.0098847+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:44.0279425+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.042634+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:00:37.0387383+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:26.009942+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:59:51.8484239+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:44.0279685+00:00"
 }

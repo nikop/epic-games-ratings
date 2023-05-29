@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2755,
+  "EOS_Progressed": 2756,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1272,6 +1272,11 @@
       "Time": "2023-05-29T14:06:27.6337117+00:00",
       "NumProgressed": 2755,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T15:05:45.4307377+00:00",
+      "NumProgressed": 2756,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1451,7 +1456,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "Kills_Bleed",
@@ -1507,7 +1512,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "Kills_Streak",
@@ -1754,21 +1759,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2755,
+      "Progressed": 2756,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2755,
+      "Progressed": 2756,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:06:27.6337112+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:45.4307372+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:58:48.0820333+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:06:27.6337661+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:58:25.9310363+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:45.4307938+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10055,
+  "EOS_Progressed": 10056,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-05-29T14:05:59.2819781+00:00",
       "NumProgressed": 10055,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-29T15:05:18.7809419+00:00",
+      "NumProgressed": 10056,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -751,7 +756,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -759,7 +764,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -807,7 +812,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7742
+      "UsersEstimate": 7743
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -871,7 +876,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9653
+      "UsersEstimate": 9654
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -887,7 +892,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5932
+      "UsersEstimate": 5933
     },
     {
       "ID": "ACH_NIGHT",
@@ -959,7 +964,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -967,7 +972,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "ACH_WEEKLY",
@@ -990,15 +995,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10055,
+      "Progressed": 10056,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:05:59.2819776+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:05:18.7809412+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.9775265+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:57:28.7239098+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:05:59.2820121+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:57:23.9877835+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:05:18.7809765+00:00"
 }

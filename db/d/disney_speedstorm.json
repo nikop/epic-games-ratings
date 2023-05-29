@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2616,
+  "EOS_Progressed": 2618,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2000,6 +2000,11 @@
       "Time": "2023-05-29T14:03:41.544563+00:00",
       "NumProgressed": 2616,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T15:03:17.2601138+00:00",
+      "NumProgressed": 2618,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2035,7 +2040,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "13",
@@ -2043,7 +2048,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "14",
@@ -2083,7 +2088,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "19",
@@ -2099,7 +2104,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "20",
@@ -2131,7 +2136,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "24",
@@ -2139,15 +2144,15 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "3",
       "SetID": "9p3jgda",
       "Name": "FRIENDLY",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "4",
@@ -2163,7 +2168,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "6",
@@ -2171,7 +2176,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "7",
@@ -2179,7 +2184,7 @@
       "Name": "MASTER",
       "Percentage": 9,
       "XP": 65,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "8",
@@ -2195,20 +2200,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2616,
+      "Progressed": 2618,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T14:03:41.5445619+00:00",
+  "LastChanged_Achievements": "2023-05-29T15:03:17.2601131+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-29T13:59:08.7010771+00:00",
-  "LastUpdate_Achievements": "2023-05-29T14:03:41.5445996+00:00"
+  "LastUpdate_Ratings": "2023-05-29T14:58:41.3993855+00:00",
+  "LastUpdate_Achievements": "2023-05-29T15:03:17.260142+00:00"
 }

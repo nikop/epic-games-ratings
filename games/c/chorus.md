@@ -15,7 +15,7 @@ Number of Ratings: 58  (23.09.2022)
 | Safe Home | 69.00% | ~622 |
 | Helping Hand | 68.00% | ~613 |
 | Paragon | 64.00% | ~577 |
-| Old Days Born Anew | 62.00% | ~559 |
+| Old Days Born Anew | 63.00% | ~568 |
 | Full Arsenal | 58.00% | ~523 |
 | Controlled Demolition | 56.00% | ~505 |
 | Payback | 54.00% | ~487 |

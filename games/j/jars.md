@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Broken jar | 82.00% | ~37 |
+| Broken jar | 84.00% | ~38 |
 | Missing data | 76.00% | ~34 |
 | It fits. IT FITS! | 73.00% | ~33 |
 | I have an army! | 69.00% | ~31 |
 | Uncle will be happy | 69.00% | ~31 |
 | The child of the night | 67.00% | ~30 |
 | Sticky fingers | 47.00% | ~21 |
-| A horrible thing will happen... | 40.00% | ~18 |
+| A horrible thing will happen... | 42.00% | ~19 |
 | Vampires | 36.00% | ~16 |
-| Bloody stream | 33.00% | ~15 |
+| Bloody stream | 36.00% | ~16 |
 | Fangs | 20.00% | ~9 |
 | Mirrors | 13.00% | ~6 |
 | At least there is something to read | 4.00% | ~2 |

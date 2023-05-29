@@ -10,9 +10,9 @@ Rating: 4.19 (Ranked 826)
 | Chew 'Em Up | 6.00% | ~838 |
 | Desperate Times | 6.00% | ~838 |
 | Giving Back | 5.00% | ~698 |
+| Reforged | 5.00% | ~698 |
 | Paper Jams | 5.00% | ~698 |
 | Workplace Hazard | 4.00% | ~559 |
-| Reforged | 4.00% | ~559 |
 | If the SHU Fits... | 4.00% | ~559 |
 | Instigator | 4.00% | ~76 |
 | Big Game Hunter | 4.00% | ~76 |

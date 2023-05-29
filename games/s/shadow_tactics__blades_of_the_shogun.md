@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,210 |
-| Thorough | 9.00% | ~15,489 |
-| A thief's beginning | 7.00% | ~12,047 |
-| Tanuki Time | 7.00% | ~12,047 |
-| Disguised | 6.00% | ~10,326 |
-| Jonin | 6.00% | ~10,326 |
-| Rescue Takuma | 6.00% | ~10,326 |
-| Rollin' | 6.00% | ~10,326 |
-| Stoned Ox | 6.00% | ~10,326 |
-| Chunin | 5.00% | ~8,605 |
-| Happy Planning | 5.00% | ~8,605 |
-| Ice Ice Yuki | 5.00% | ~8,605 |
-| Mugen Unchained | 5.00% | ~8,605 |
-| Yabu | 5.00% | ~8,605 |
-| Flying Rocks | 4.00% | ~6,884 |
-| Okkoto | 4.00% | ~6,884 |
-| Prisoners | 4.00% | ~6,884 |
-| Too Early | 4.00% | ~6,884 |
-| Warzone | 4.00% | ~6,884 |
+| Genin | 10.00% | ~17,212 |
+| Thorough | 9.00% | ~15,490 |
+| A thief's beginning | 7.00% | ~12,048 |
+| Tanuki Time | 7.00% | ~12,048 |
+| Disguised | 6.00% | ~10,327 |
+| Jonin | 6.00% | ~10,327 |
+| Rescue Takuma | 6.00% | ~10,327 |
+| Rollin' | 6.00% | ~10,327 |
+| Stoned Ox | 6.00% | ~10,327 |
+| Chunin | 5.00% | ~8,606 |
+| Happy Planning | 5.00% | ~8,606 |
+| Ice Ice Yuki | 5.00% | ~8,606 |
+| Mugen Unchained | 5.00% | ~8,606 |
+| Yabu | 5.00% | ~8,606 |
+| Flying Rocks | 4.00% | ~6,885 |
+| Okkoto | 4.00% | ~6,885 |
+| Prisoners | 4.00% | ~6,885 |
+| Too Early | 4.00% | ~6,885 |
+| Warzone | 4.00% | ~6,885 |
 | Gear up | 3.00% | ~5,163 |
 | Happy little accidents | 3.00% | ~5,163 |
 | Noboru | 3.00% | ~5,163 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~172 |
 | Release the Kraken | 0.10% | ~172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172,095 (Ranked 53)  
+Progressed: 172,116 (Ranked 53)  
 Completed: 47 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 47 (0.03%) (Ranked 185)
 | 2023-05-26 | 171,089 | 47 |
 | 2023-05-27 | 171,505 | 47 |
 | 2023-05-28 | 171,914 | 47 |
-| 2023-05-29 | 172,095 | 47 |
+| 2023-05-29 | 172,116 | 47 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,673 (Ranked 126)  

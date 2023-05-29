@@ -18,10 +18,10 @@ Number of Ratings: 20  (23.09.2022)
 | Treasure Hunt | 30.00% | ~90 |
 | Good Mama | 29.00% | ~87 |
 | O Captain My Captain | 27.00% | ~81 |
+| Plunderer | 26.00% | ~78 |
 | Taxonomist | 25.00% | ~75 |
-| Plunderer | 25.00% | ~75 |
+| Uncertain Loyalties | 23.00% | ~69 |
 | Nahua Seeker | 22.00% | ~66 |
-| Uncertain Loyalties | 22.00% | ~66 |
 | Traveller | 21.00% | ~63 |
 | Roll to Save | 20.00% | ~60 |
 | Red Flag Pirate | 17.00% | ~51 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 220)  
+Progressed: 300 (Ranked 221)  
 Completed: 1 (0.33%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
