@@ -260,7 +260,7 @@
 | 257 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 69 | 367 |
 | 257 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 491 |
 | 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 491 |
-| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 525 | 182 |
+| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 526 | 182 |
 | 257 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 0 | 491 |
 | 257 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 491 |
 | 257 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 491 |
@@ -383,7 +383,7 @@
 | 360 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 491 |
 | 360 | [Supraland](games/s/supraland.md) | 4.61 | 7,615 | 40 |
 | 360 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 491 |
-| 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 257 | 238 |
+| 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 260 | 238 |
 | 360 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 491 |
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 491 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,082 | 21 |

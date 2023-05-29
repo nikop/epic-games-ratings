@@ -181,7 +181,7 @@
 | 179 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 538 | 4.62 | 343 |
 | 179 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 538 | 4.42 | 651 |
 | 181 | [Star Trek Online](games/s/star_trek_online.md) | 536 | 4.44 | 629 |
-| 182 | [FAR CRY 4](games/f/far_cry_4.md) | 525 | 4.67 | 257 |
+| 182 | [FAR CRY 4](games/f/far_cry_4.md) | 526 | 4.67 | 257 |
 | 183 | [Godfall Ultimate Edition](games/g/godfall.md) | 514 | 4.07 | 875 |
 | 184 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 506 | 4.52 | 506 |
 | 185 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 504 | 4.82 | 63 |
@@ -237,7 +237,7 @@
 | 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 270 | 4.58 | 420 |
 | 236 | [Diabotical](games/d/diabotical.md) | 268 | 4.75 | 131 |
 | 237 | [Sheltered](games/s/sheltered.md) | 267 | 4.42 | 651 |
-| 238 | [The Sims™ 4](games/t/the_sims™_4.md) | 257 | 4.61 | 360 |
+| 238 | [The Sims™ 4](games/t/the_sims™_4.md) | 260 | 4.61 | 360 |
 | 239 | [Dead Cells](games/d/dead_cells.md) | 255 | 4.88 | 19 |
 | 239 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 255 | 4.84 | 48 |
 | 241 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 676 |
