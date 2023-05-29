@@ -4,7 +4,7 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 82,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -171,9 +171,9 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
@@ -195,9 +195,9 @@
       "ID": "ACH_GUNNERS_DREAM",
       "SetID": "5kae3ip",
       "Name": "The Gunner\u0027s Dream",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_HIGH_HOPES",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:05:31.1603293+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:05:17.612565+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.2941182+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:57:27.6108836+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:05:31.160339+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:57:25.7545426+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:05:17.6125786+00:00"
 }

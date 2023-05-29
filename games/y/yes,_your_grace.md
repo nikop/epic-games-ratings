@@ -1,7 +1,7 @@
 # Yes, Your Grace
 [Store](https://store.epicgames.com/en-US/p/yes-your-grace)  
 [View Rawdata](../../db/y/yes,_your_grace.json)  
-Rating: 4.51 (Ranked 523)  
+Rating: 4.51 (Ranked 522)  
 Number of Ratings: 85  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

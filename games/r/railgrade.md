@@ -1,18 +1,18 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 485)  
+Rating: 4.54 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,363 |
-| Before the Downfall | 93.00% | ~17,426 |
+| Trevithick's Legacy | 98.00% | ~18,364 |
+| Before the Downfall | 93.00% | ~17,427 |
 | Money like Water | 91.00% | ~17,052 |
-| Minimalist | 90.00% | ~16,864 |
-| Builder | 82.00% | ~15,365 |
+| Minimalist | 90.00% | ~16,865 |
+| Builder | 82.00% | ~15,366 |
 | Eraser | 70.00% | ~13,117 |
 | Pocket of Trains | 65.00% | ~12,180 |
-| Inspector | 59.00% | ~11,055 |
+| Inspector | 59.00% | ~11,056 |
 | Going the Distance | 54.00% | ~10,119 |
 | Oil Baron | 42.00% | ~7,870 |
 | Loads-a-Money | 42.00% | ~7,870 |
@@ -20,16 +20,16 @@ Rating: 4.54 (Ranked 485)
 | Simplification | 33.00% | ~6,184 |
 | Box of Trains | 33.00% | ~6,184 |
 | Let There be Light | 32.00% | ~5,996 |
-| Hot Water | 30.00% | ~5,621 |
+| Hot Water | 30.00% | ~5,622 |
 | Indecisive | 29.00% | ~5,434 |
-| The scenic route | 27.00% | ~5,059 |
-| Industrialist | 25.00% | ~4,684 |
+| The scenic route | 27.00% | ~5,060 |
+| Industrialist | 25.00% | ~4,685 |
 | Perfectionist | 23.00% | ~4,310 |
 | Trains over Pipes | 23.00% | ~4,310 |
-| 8K is Enough for Everyone | 22.00% | ~4,122 |
+| 8K is Enough for Everyone | 22.00% | ~4,123 |
 | Man of Steel | 16.00% | ~2,998 |
 | Room Full of Trains | 12.00% | ~2,249 |
-| Investor | 9.00% | ~1,686 |
+| Investor | 9.00% | ~1,687 |
 | Multiverse | 7.00% | ~1,312 |
 | The poor groundwater levels | 7.00% | ~1,312 |
 | Metropolis | 7.00% | ~1,312 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 485)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,738 (Ranked 96)  
+Progressed: 18,739 (Ranked 96)  
 Completed: 29 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 29 (0.15%) (Ranked 149)
 | 2023-05-26 | 18,670 | 29 |
 | 2023-05-27 | 18,694 | 29 |
 | 2023-05-28 | 18,719 | 29 |
-| 2023-05-29 | 18,738 | 29 |
+| 2023-05-29 | 18,739 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
 Sum: 648 (Ranked 274)  

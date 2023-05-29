@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~180,879 |
-| I know the Rules | 42.00% | ~93,789 |
-| Contender | 11.00% | ~24,564 |
-| I Found it! | 7.00% | ~15,632 |
-| First but not Last | 3.00% | ~6,699 |
-| Dress Code | 3.00% | ~6,699 |
-| Ready Steady Score | 2.00% | ~4,466 |
-| Full Loot Madness | 2.00% | ~4,466 |
+| Ball Launched | 81.00% | ~180,894 |
+| I know the Rules | 42.00% | ~93,797 |
+| Contender | 11.00% | ~24,566 |
+| I Found it! | 7.00% | ~15,633 |
+| First but not Last | 3.00% | ~6,700 |
+| Dress Code | 3.00% | ~6,700 |
+| Ready Steady Score | 2.00% | ~4,467 |
+| Full Loot Madness | 2.00% | ~4,467 |
 | Nine Zeroes | 0.90% | ~2,010 |
-| My Table, my Rules | 0.80% | ~1,786 |
+| My Table, my Rules | 0.80% | ~1,787 |
 | Shiny Memento | 0.30% | ~670 |
 | Pinball Hoarder | 0.30% | ~670 |
 | Interior Designer | 0.30% | ~670 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,308 (Ranked 44)  
+Progressed: 223,326 (Ranked 44)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,10 +76,10 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 222,060 | 0 |
 | 2023-05-27 | 222,541 | 0 |
 | 2023-05-28 | 222,995 | 0 |
-| 2023-05-29 | 223,308 | 0 |
+| 2023-05-29 | 223,326 | 0 |
 ## Awards
 Max (Great for Beginners): 173  (Ranked 275)  
-Sum: 1,495 (Ranked 209)  
+Sum: 1,496 (Ranked 209)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -90,8 +90,8 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 153 |
 | This game is Highly Recommended | 149 |
 | This game has Competitive Players | 144 |
+| This game has Challenging Combat | 101 |
 | This game has Amazing Storytelling | 100 |
-| This game has Challenging Combat | 100 |
 | This game has a Competitive Community | 99 |
 | This game has Amazing Characters | 89 |
 | This game has Obsessive Gameplay | 65 |
@@ -222,3 +222,4 @@ Diff (max vs sum): 66
 | 2023-05-20 | 4.03 | - | 173 | 1,492 |
 | 2023-05-21 | 4.03 | - | 173 | 1,494 |
 | 2023-05-26 | 4.03 | - | 173 | 1,495 |
+| 2023-05-29 | 4.03 | - | 173 | 1,496 |

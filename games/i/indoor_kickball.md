@@ -19,19 +19,19 @@
 | Grand Slam! | 23.00% | ~7 |
 | Bedroom Secret Spot | 23.00% | ~7 |
 | Kick It | 19.00% | ~6 |
-| Save some water for the fishies | 13.00% | ~4 |
+| Save some water for the fishies | 16.00% | ~5 |
 | Spooky | 13.00% | ~4 |
 | Bathroom Secret Spot | 13.00% | ~4 |
 | Classroom Secret Spot | 6.00% | ~2 |
+| Kitchen Secret Spot | 6.00% | ~2 |
 | Living Room Secret Spot | 6.00% | ~2 |
 | Angry Dad | 6.00% | ~2 |
 | At least everyone still had fun | 6.00% | ~2 |
+| Just how we drew it up | 6.00% | ~2 |
 | Basement Secret Spot | 3.00% | ~1 |
-| Kitchen Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
 | Found the Secret Formula! | 3.00% | ~1 |
 | Goooooooooal! | 3.00% | ~1 |
-| Just how we drew it up | 3.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 315)  
+Progressed: 31 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

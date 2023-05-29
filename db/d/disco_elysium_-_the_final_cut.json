@@ -1085,9 +1085,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 119586,
+  "EOS_Progressed": 119591,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4535,6 +4535,11 @@
       "Time": "2023-05-29T21:05:50.5644488+00:00",
       "NumProgressed": 119586,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-29T22:05:37.0589474+00:00",
+      "NumProgressed": 119591,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -4578,7 +4583,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21525
+      "UsersEstimate": 21526
     },
     {
       "ID": "ACH_COP_BAD",
@@ -4602,7 +4607,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28701
+      "UsersEstimate": 28702
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -4626,7 +4631,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33484
+      "UsersEstimate": 33485
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -4642,7 +4647,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4783
+      "UsersEstimate": 4784
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -4650,7 +4655,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19134
+      "UsersEstimate": 19135
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -4658,7 +4663,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23917
+      "UsersEstimate": 23918
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -4674,7 +4679,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15546
+      "UsersEstimate": 15547
     },
     {
       "ID": "ACH_COP_STAR",
@@ -4682,7 +4687,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17938
+      "UsersEstimate": 17939
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -4690,7 +4695,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13154
+      "UsersEstimate": 13155
     },
     {
       "ID": "ACH_CUNO",
@@ -4738,7 +4743,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5979
+      "UsersEstimate": 5980
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -4762,7 +4767,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16742
+      "UsersEstimate": 16743
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -4826,7 +4831,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15546
+      "UsersEstimate": 15547
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -4842,7 +4847,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4783
+      "UsersEstimate": 4784
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -4865,15 +4870,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 119586,
+      "Progressed": 119591,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-22T17:58:59.3664508+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:05:50.5644483+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:05:37.0589468+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:41.5073294+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:59:10.4453361+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:05:50.5644885+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:58:50.3958678+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:05:37.0589959+00:00"
 }

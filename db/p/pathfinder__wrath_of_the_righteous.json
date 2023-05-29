@@ -2576,7 +2576,7 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9337,
+  "EOS_Progressed": 9338,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
@@ -4916,6 +4916,11 @@
       "Time": "2023-05-29T21:06:16.5984158+00:00",
       "NumProgressed": 9337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T22:05:52.6092632+00:00",
+      "NumProgressed": 9338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4959,7 +4964,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -4983,7 +4988,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "09_PathOfDemon",
@@ -5319,7 +5324,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -5854,21 +5859,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8119,
+      "Progressed": 8120,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9337,
+      "Progressed": 9338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-29T10:58:46.2996937+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:06:16.5984153+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:05:52.6092625+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:58:20.2179424+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:06:16.5985533+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:58:11.1644653+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:05:52.6096899+00:00"
 }

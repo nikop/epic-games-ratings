@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 3.00% | ~1,883 |
+| First Step Into the Knight | 3.00% | ~1,884 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,256 |
 | Loose Ends | 2.00% | ~1,256 |
 | The Batman Family | 1.00% | ~628 |
@@ -25,14 +25,14 @@ Rating: 4.17 (Ranked 840)
 | Protector of Gotham | 0.80% | ~502 |
 | Rock and a Hard Place | 0.80% | ~502 |
 | Universal Health Scare | 0.80% | ~502 |
-| End of an Era | 0.70% | ~439 |
-| In Your Element | 0.70% | ~439 |
-| Not On My Watch | 0.70% | ~439 |
-| Shock Til They Drop | 0.70% | ~439 |
-| Cooldown | 0.70% | ~439 |
-| Voiceless | 0.70% | ~439 |
-| Seeking Asylum | 0.70% | ~439 |
-| Gotham Knight | 0.70% | ~439 |
+| End of an Era | 0.70% | ~440 |
+| In Your Element | 0.70% | ~440 |
+| Not On My Watch | 0.70% | ~440 |
+| Shock Til They Drop | 0.70% | ~440 |
+| Cooldown | 0.70% | ~440 |
+| Voiceless | 0.70% | ~440 |
+| Seeking Asylum | 0.70% | ~440 |
+| Gotham Knight | 0.70% | ~440 |
 | Bulldozed | 0.60% | ~377 |
 | Gotham City Confidential | 0.60% | ~377 |
 | Out of Their League | 0.50% | ~314 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,782 (Ranked 70)  
+Progressed: 62,788 (Ranked 70)  
 Completed: 91 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,782 | 91 |
+| 2023-05-29 | 62,788 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,740 (Ranked 138)  

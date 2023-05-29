@@ -1,50 +1,50 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.56 (Ranked 450)  
+Rating: 4.56 (Ranked 451)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~851,263 |
-| I Need a Bigger Garage | 62.00% | ~593,014 |
-| Pump my Ride | 46.00% | ~439,978 |
-| Ghostbuster | 31.00% | ~296,507 |
-| Call Roadside Assistance | 17.00% | ~162,601 |
-| That Was Close | 17.00% | ~162,601 |
-| Quickie | 10.00% | ~95,648 |
-| California Dreamer | 7.00% | ~66,953 |
-| Can't Touch This | 4.00% | ~38,259 |
-| Carménère Taster | 3.00% | ~28,694 |
-| Comeback | 3.00% | ~28,694 |
-| Marathonist | 3.00% | ~28,694 |
-| Living Legend | 3.00% | ~28,694 |
-| Driver from Ipanema | 2.00% | ~19,130 |
-| Pathfinder | 2.00% | ~19,130 |
-| Go-Kart Champion | 2.00% | ~19,130 |
-| Completionist | 2.00% | ~19,130 |
-| Supersonic | 2.00% | ~19,130 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,130 |
+| The First of Many | 89.00% | ~851,308 |
+| I Need a Bigger Garage | 62.00% | ~593,046 |
+| Pump my Ride | 46.00% | ~440,002 |
+| Ghostbuster | 31.00% | ~296,523 |
+| Call Roadside Assistance | 17.00% | ~162,609 |
+| That Was Close | 17.00% | ~162,609 |
+| Quickie | 10.00% | ~95,653 |
+| California Dreamer | 7.00% | ~66,957 |
+| Can't Touch This | 4.00% | ~38,261 |
+| Carménère Taster | 3.00% | ~28,696 |
+| Comeback | 3.00% | ~28,696 |
+| Marathonist | 3.00% | ~28,696 |
+| Living Legend | 3.00% | ~28,696 |
+| Driver from Ipanema | 2.00% | ~19,131 |
+| Pathfinder | 2.00% | ~19,131 |
+| Go-Kart Champion | 2.00% | ~19,131 |
+| Completionist | 2.00% | ~19,131 |
+| Supersonic | 2.00% | ~19,131 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,131 |
 | God of Roads | 1.00% | ~9,565 |
 | The Iceman | 1.00% | ~9,565 |
 | Oil Tycoon | 1.00% | ~9,565 |
 | Round the Globe | 1.00% | ~9,565 |
 | Golden Passport | 1.00% | ~9,565 |
-| Bollywood Star | 0.90% | ~8,608 |
-| Brave and Bold | 0.90% | ~8,608 |
+| Bollywood Star | 0.90% | ~8,609 |
+| Brave and Bold | 0.90% | ~8,609 |
 | Crocodile Hunter | 0.80% | ~7,652 |
 | Old Master | 0.80% | ~7,652 |
-| Volcano Surfer | 0.70% | ~6,695 |
-| Otaku | 0.70% | ~6,695 |
-| Survivor | 0.50% | ~4,782 |
-| King of the World | 0.50% | ~4,782 |
+| Volcano Surfer | 0.70% | ~6,696 |
+| Otaku | 0.70% | ~6,696 |
+| Survivor | 0.50% | ~4,783 |
+| King of the World | 0.50% | ~4,783 |
 | Getting Famous | 0.40% | ~3,826 |
 | Master of the Racetrack | 0.20% | ~1,913 |
 | Now Go Play Outside | 0.20% | ~1,913 |
-| Transporter | 0.10% | ~956 |
-| Look Mom, No Hands! | 0.10% | ~956 |
+| Transporter | 0.10% | ~957 |
+| Look Mom, No Hands! | 0.10% | ~957 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 956,475 (Ranked 10)  
+Progressed: 956,526 (Ranked 10)  
 Completed: 274 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,16 +83,16 @@ Completed: 274 (0.03%) (Ranked 185)
 | 2023-05-26 | 950,665 | 270 |
 | 2023-05-27 | 953,097 | 272 |
 | 2023-05-28 | 955,175 | 273 |
-| 2023-05-29 | 956,475 | 274 |
+| 2023-05-29 | 956,526 | 274 |
 ## Awards
 Max (Great for Beginners): 140  (Ranked 289)  
-Sum: 1,127 (Ranked 226)  
+Sum: 1,128 (Ranked 226)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 140 |
 | This game has Quickly Understood Controls | 120 |
-| This game is Relaxing | 114 |
+| This game is Relaxing | 115 |
 | This game is Highly Recommended | 108 |
 | This game is Great for Quick Sessions | 108 |
 | This game has Competitive Players | 103 |
@@ -231,4 +231,4 @@ Diff (max vs sum): 63
 | 2023-05-26 | 4.56 | - | 139 | 1,120 |
 | 2023-05-27 | 4.56 | - | 139 | 1,121 |
 | 2023-05-28 | 4.56 | - | 140 | 1,124 |
-| 2023-05-29 | 4.56 | - | 140 | 1,127 |
+| 2023-05-29 | 4.56 | - | 140 | 1,128 |

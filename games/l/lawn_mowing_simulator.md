@@ -6,16 +6,16 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~508,798 |
-| Every story has a beginning | 37.00% | ~229,579 |
-| The first of many | 32.00% | ~198,555 |
-| Positive word of mouth | 18.00% | ~111,687 |
-| Lawn in the U.S.A. | 15.00% | ~93,073 |
-| Blade Runner | 9.00% | ~55,844 |
-| Credible | 7.00% | ~43,434 |
-| Teamwork makes the dream work | 6.00% | ~37,229 |
-| Bigger and better | 4.00% | ~24,819 |
-| Aggressive expansion | 4.00% | ~24,819 |
+| The dream begins | 82.00% | ~508,818 |
+| Every story has a beginning | 37.00% | ~229,589 |
+| The first of many | 32.00% | ~198,563 |
+| Positive word of mouth | 18.00% | ~111,692 |
+| Lawn in the U.S.A. | 15.00% | ~93,076 |
+| Blade Runner | 9.00% | ~55,846 |
+| Credible | 7.00% | ~43,436 |
+| Teamwork makes the dream work | 6.00% | ~37,231 |
+| Bigger and better | 4.00% | ~24,820 |
+| Aggressive expansion | 4.00% | ~24,820 |
 | Where there's muck there's brass | 3.00% | ~18,615 |
 | Size isn't everything | 3.00% | ~18,615 |
 | Established | 3.00% | ~18,615 |
@@ -27,41 +27,41 @@ Number of Ratings: 5,086  (23.09.2022)
 | Trusted | 2.00% | ~12,410 |
 | Fighting on all fronts | 1.00% | ~6,205 |
 | The top of the mountain | 1.00% | ~6,205 |
-| Earn your stripes | 0.90% | ~5,584 |
-| Lawn & Order | 0.90% | ~5,584 |
-| Jack of all trades | 0.90% | ~5,584 |
-| Professional | 0.90% | ~5,584 |
+| Earn your stripes | 0.90% | ~5,585 |
+| Lawn & Order | 0.90% | ~5,585 |
+| Jack of all trades | 0.90% | ~5,585 |
+| Professional | 0.90% | ~5,585 |
 | All hands on deck | 0.80% | ~4,964 |
 | Worked your grass off | 0.80% | ~4,964 |
-| The grass is always greener | 0.70% | ~4,343 |
+| The grass is always greener | 0.70% | ~4,344 |
 | Phoenix rises | 0.40% | ~2,482 |
 | Cut Loose | 0.40% | ~2,482 |
 | Esteemed | 0.40% | ~2,482 |
 | In it for the long haul | 0.20% | ~1,241 |
 | Hard times | 0.20% | ~1,241 |
 | Distinguished | 0.20% | ~1,241 |
-| Amateur mower | 0.10% | ~620 |
-| Expert mower | 0.10% | ~620 |
-| Professional mower | 0.10% | ~620 |
-| Lawn on the 4th of July | 0.10% | ~620 |
-| Zero to hero | 0.10% | ~620 |
-| A seat at the round table | 0.10% | ~620 |
-| Home game | 0.10% | ~620 |
-| Excalibur? | 0.10% | ~620 |
-| An axe to grind | 0.10% | ~620 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~620 |
-| Head of the family | 0.10% | ~620 |
-| Spared no expense | 0.10% | ~620 |
-| We’re going to make a fortune with this place | 0.10% | ~620 |
-| Don’t go into the long grass! | 0.10% | ~620 |
-| Clever girl | 0.10% | ~620 |
-| We have a T-Rex | 0.10% | ~620 |
-| Welcome to Dino Safari! | 0.10% | ~620 |
-| Centurion | 0.10% | ~620 |
-| Lawn Enforcement Officer | 0.10% | ~620 |
-| Mo mowers, mo problems | 0.10% | ~620 |
+| Amateur mower | 0.10% | ~621 |
+| Expert mower | 0.10% | ~621 |
+| Professional mower | 0.10% | ~621 |
+| Lawn on the 4th of July | 0.10% | ~621 |
+| Zero to hero | 0.10% | ~621 |
+| A seat at the round table | 0.10% | ~621 |
+| Home game | 0.10% | ~621 |
+| Excalibur? | 0.10% | ~621 |
+| An axe to grind | 0.10% | ~621 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~621 |
+| Head of the family | 0.10% | ~621 |
+| Spared no expense | 0.10% | ~621 |
+| We’re going to make a fortune with this place | 0.10% | ~621 |
+| Don’t go into the long grass! | 0.10% | ~621 |
+| Clever girl | 0.10% | ~621 |
+| We have a T-Rex | 0.10% | ~621 |
+| Welcome to Dino Safari! | 0.10% | ~621 |
+| Centurion | 0.10% | ~621 |
+| Lawn Enforcement Officer | 0.10% | ~621 |
+| Mo mowers, mo problems | 0.10% | ~621 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 620,485 (Ranked 19)  
+Progressed: 620,510 (Ranked 19)  
 Completed: 11 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 11 (0.00%) (Ranked 207)
 | 2023-05-26 | 618,711 | 11 |
 | 2023-05-27 | 619,382 | 11 |
 | 2023-05-28 | 619,994 | 11 |
-| 2023-05-29 | 620,485 | 11 |
+| 2023-05-29 | 620,510 | 11 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 270)  
 Sum: 962 (Ranked 232)  

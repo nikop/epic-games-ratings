@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 359,
-  "EOS_Completed": 21,
+  "EOS_Completed": 22,
   "EOS_NewPlayers": 92,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.85,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 6.13,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -811,6 +811,11 @@
       "Time": "2023-05-29T21:03:34.3656236+00:00",
       "NumProgressed": 359,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-05-29T22:03:33.5956523+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 30,
@@ -1028,17 +1033,17 @@
       "ID": "LEVEL_027",
       "SetID": "212bg48",
       "Name": "A farm island lost in time...",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_029",
@@ -1062,13 +1067,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 359,
-      "Completed": 21
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:03:34.365623+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:03:33.5956516+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:57:05.7069333+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:03:34.3656436+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:57:06.6141868+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:03:33.5956822+00:00"
 }

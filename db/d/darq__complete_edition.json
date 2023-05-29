@@ -2,7 +2,7 @@
   "ID": "3819de76dedf4cd2aebbcf9279e23e43",
   "Name": "DARQ: Complete Edition",
   "ProductSlug": "darq-complete-edition",
-  "Ranking_Rating": 630,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 425,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 388,
   "RatingHistory": [
     {
@@ -403,6 +403,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-29T21:59:26.3051039+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -420,8 +426,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:45.2388208+00:00",
-  "LastChanged": "2023-03-31T05:57:09.289102+00:00",
+  "LastChanged": "2023-05-29T21:59:26.3051035+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.3311332+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:59:55.0872837+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:03:42.2580331+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:59:26.3051046+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:03:41.3235409+00:00"
 }

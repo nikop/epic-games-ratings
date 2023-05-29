@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -106,7 +106,7 @@
   "Tags": [],
   "EOS_Progressed": 1220,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2730,9 +2730,9 @@
       "ID": "movinguptheladder",
       "SetID": "3nl4bcg",
       "Name": "Moving Up The Ladder",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 73
     },
     {
       "ID": "mysteriousrock",
@@ -2987,8 +2987,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:05:51.9437985+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:05:38.3427465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:58:01.3875614+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:05:51.9438843+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:57:55.7704781+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:05:38.3428365+00:00"
 }

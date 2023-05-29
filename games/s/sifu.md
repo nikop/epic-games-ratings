@@ -21,10 +21,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 1.00% | ~155 |
 | The best strikes are the ones we avoid | 1.00% | ~155 |
 | Lady Wing Chun | 0.90% | ~6,356 |
+| Furious Fists | 0.90% | ~6,356 |
 | Kill Nil | 0.90% | ~6,356 |
 | Street Fighting | 0.90% | ~6,356 |
 | Qi Gong: Essence | 0.90% | ~6,356 |
-| Furious Fists | 0.80% | ~5,650 |
 | Stuntmaster | 0.80% | ~5,650 |
 | Old Child | 0.80% | ~5,650 |
 | Take damage to save time | 0.80% | ~5,650 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,242 (Ranked 15)  
+Progressed: 706,245 (Ranked 15)  
 Completed: 12,745 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 12,745 (1.80%) (Ranked 65)
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
-| 2023-05-29 | 706,242 | 12,745 |
+| 2023-05-29 | 706,245 | 12,745 |
 ## Awards
 Max (Great Boss Battles): 6,109  (Ranked 53)  
 Sum: 10,410 (Ranked 77)  

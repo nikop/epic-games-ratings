@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1835,
+  "EOS_Progressed": 1840,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1864,6 +1864,11 @@
       "Time": "2023-05-29T21:05:45.4992939+00:00",
       "NumProgressed": 1835,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T22:05:31.9216344+00:00",
+      "NumProgressed": 1840,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1883,7 +1888,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1907,7 +1912,7 @@
       "Name": "Opposing Force",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1915,15 +1920,15 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1939,7 +1944,7 @@
       "Name": "Organ Grinder",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1955,7 +1960,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2011,7 +2016,7 @@
       "Name": "Sharpshooter",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2043,7 +2048,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2083,7 +2088,7 @@
       "Name": "Lord of War",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2091,7 +2096,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2107,7 +2112,7 @@
       "Name": "Der Geist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2131,7 +2136,7 @@
       "Name": "Close Quarters",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2139,7 +2144,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2243,15 +2248,15 @@
       "Name": "Taking it back",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2283,7 +2288,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2345,9 +2350,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -2369,9 +2374,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2401,9 +2406,9 @@
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
       "SetID": "83mdf7p",
       "Name": "Fight Another Day",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -2442,13 +2447,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1786,
+      "Progressed": 1791,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1835,
+      "Progressed": 1840,
       "Completed": 2
     }
   ],
@@ -2456,8 +2461,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:05:45.4992934+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:05:31.921634+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T21:00:39.0467379+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:05:45.4993523+00:00"
+  "LastUpdate_Ratings": "2023-05-29T22:00:02.2644019+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:05:31.9217093+00:00"
 }

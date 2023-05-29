@@ -17,7 +17,7 @@ Rating: 4.64 (Ranked 314)
 | The Dark Side | 67.00% | ~2,750 |
 | Duck and cover! | 62.00% | ~2,544 |
 | Souper! | 61.00% | ~2,503 |
-| Pacifist | 55.00% | ~2,257 |
+| Pacifist | 56.00% | ~2,298 |
 | 2-1-6 | 54.00% | ~2,216 |
 | A gift | 50.00% | ~2,052 |
 | Girl Power | 44.00% | ~1,806 |

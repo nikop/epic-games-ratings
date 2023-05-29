@@ -7,18 +7,18 @@
 | Sorry, kiddo | 96.00% | ~158 |
 | And away we go! | 87.00% | ~144 |
 | Job one. DONE! | 56.00% | ~92 |
-| You are Carol Vorderman | 54.00% | ~89 |
+| You are Carol Vorderman | 55.00% | ~91 |
 | Toby foolery | 49.00% | ~81 |
 | Don't fear the baldness | 36.00% | ~59 |
 | Instinct | 36.00% | ~59 |
 | Blow | 30.00% | ~50 |
-| Just like me | 29.00% | ~48 |
+| Just like me | 30.00% | ~50 |
 | I bless the rain down in London | 27.00% | ~45 |
-| Delusions | 26.00% | ~43 |
+| Delusions | 27.00% | ~45 |
 | Brown nosing | 25.00% | ~41 |
 | Cheat | 25.00% | ~41 |
-| Prove it | 21.00% | ~35 |
-| The truth | 21.00% | ~35 |
+| Prove it | 22.00% | ~36 |
+| The truth | 22.00% | ~36 |
 | Making a murderer | 15.00% | ~25 |
 | The whole truth | 12.00% | ~20 |
 ## Popularity (Based on EOS Achievements)

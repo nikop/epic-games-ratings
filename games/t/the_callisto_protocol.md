@@ -1,14 +1,14 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 827)  
+Rating: 4.18 (Ranked 834)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 9.00% | ~1,260 |
 | The Outer Way | 7.00% | ~980 |
+| Desperate Times | 7.00% | ~980 |
 | Chew 'Em Up | 6.00% | ~840 |
-| Desperate Times | 6.00% | ~840 |
 | Giving Back | 5.00% | ~700 |
 | Reforged | 5.00% | ~700 |
 | Paper Jams | 5.00% | ~700 |
@@ -35,8 +35,8 @@ Rating: 4.19 (Ranked 827)
 | Parole Denied | 1.00% | ~19 |
 | In Striking Distance | 1.00% | ~140 |
 | Hoard Mode | 1.00% | ~19 |
-| Recidivist | 0.70% | ~13 |
-| Lifer | 0.70% | ~13 |
+| Recidivist | 0.70% | ~14 |
+| Lifer | 0.70% | ~14 |
 | Grim Reaper | 0.40% | ~56 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 827)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,002 (Ranked 102)  
+Progressed: 14,005 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-26 | 13,735 | 53 |
 | 2023-05-27 | 13,841 | 53 |
 | 2023-05-28 | 13,925 | 53 |
-| 2023-05-29 | 14,002 | 53 |
+| 2023-05-29 | 14,005 | 53 |
 ## Awards
 Max (Amazing Storytelling): 47  (Ranked 396)  
 Sum: 272 (Ranked 333)  
@@ -152,3 +152,4 @@ Diff (max vs sum): 63
 | 2023-05-26 | 4.19 | 46 | 268 |
 | 2023-05-27 | 4.19 | 46 | 269 |
 | 2023-05-28 | 4.19 | 47 | 272 |
+| 2023-05-29 | 4.18 | 47 | 272 |

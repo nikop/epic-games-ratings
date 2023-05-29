@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -738,6 +738,11 @@
       "Time": "2023-05-29T21:02:20.527748+00:00",
       "NumProgressed": 810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T22:02:12.1931098+00:00",
+      "NumProgressed": 812,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -765,7 +770,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ATTENBOROUGH",
@@ -829,7 +834,7 @@
       "Name": "Croaked",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "CRUELTY",
@@ -891,9 +896,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 179
     },
     {
       "ID": "ENDGAME",
@@ -909,7 +914,7 @@
       "Name": "Exorcist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "EXPERIENCED",
@@ -933,7 +938,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 739
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -981,7 +986,7 @@
       "Name": "Gun for Hire",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -997,7 +1002,7 @@
       "Name": "I am the law!",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "INFILTRATOR",
@@ -1013,7 +1018,7 @@
       "Name": "Lumberjack",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1051,9 +1056,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 577
     },
     {
       "ID": "RECYCLER",
@@ -1139,9 +1144,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 41
     },
     {
       "ID": "WIPE_OUT",
@@ -1156,7 +1161,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 812,
       "Completed": 0
     }
   ],
@@ -1164,8 +1169,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-29T20:58:20.2954547+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:02:20.5277474+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:02:12.1931093+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:58:20.2954556+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:02:20.5277831+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:58:11.1766249+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:02:12.1931557+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.67 (Ranked 257)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,882 |
+| Eye Scream, You Scream | 83.00% | ~18,883 |
 | Mods Please Ban | 77.00% | ~17,518 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,290 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,291 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,608 |
-| First Bounty Down | 59.00% | ~13,422 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,967 |
-| Luglox Genocide | 43.00% | ~9,782 |
+| First Bounty Down | 59.00% | ~13,423 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,968 |
+| Luglox Genocide | 43.00% | ~9,783 |
 | Playing Card To Get | 33.00% | ~7,508 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,508 |
 | Creature Feature | 29.00% | ~6,598 |
@@ -26,7 +26,7 @@ Rating: 4.67 (Ranked 257)
 | Lezduit! | 20.00% | ~4,550 |
 | Who's The Boss? | 20.00% | ~4,550 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,550 |
-| Self-Actualization | 19.00% | ~4,322 |
+| Self-Actualization | 19.00% | ~4,323 |
 | Legendary Bounty Hunter | 18.00% | ~4,095 |
 | Seeing All The Sights | 16.00% | ~3,640 |
 | Carried Stan's Load To Completion | 13.00% | ~2,958 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,750 (Ranked 91)  
+Progressed: 22,751 (Ranked 91)  
 Completed: 8 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 8 (0.04%) (Ranked 180)
 | 2023-05-26 | 22,724 | 8 |
 | 2023-05-27 | 22,732 | 8 |
 | 2023-05-28 | 22,748 | 8 |
-| 2023-05-29 | 22,750 | 8 |
+| 2023-05-29 | 22,751 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

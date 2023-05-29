@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~468 |
-| Rail Rat | 77.00% | ~387 |
-| The Mysterious Stranger | 74.00% | ~372 |
-| Immaculate Aim | 64.00% | ~322 |
-| The Brass Boss | 55.00% | ~277 |
-| Honest Mistake | 54.00% | ~272 |
-| No, Thanks! | 52.00% | ~262 |
+| Time Heals All Wounds | 93.00% | ~470 |
+| Rail Rat | 76.00% | ~384 |
+| The Mysterious Stranger | 74.00% | ~374 |
+| Immaculate Aim | 64.00% | ~323 |
+| The Brass Boss | 55.00% | ~278 |
+| Honest Mistake | 54.00% | ~273 |
+| No, Thanks! | 52.00% | ~263 |
 | Time Flies | 50.00% | ~252 |
 | The Prince in Heels | 50.00% | ~252 |
-| The Harder They Fall | 48.00% | ~241 |
-| Right On Time | 47.00% | ~236 |
-| Fast Learner | 46.00% | ~231 |
-| Immaculate Aim | 46.00% | ~231 |
-| Make Up For Lost Time | 44.00% | ~221 |
-| Breaking Down Barriers | 42.00% | ~211 |
-| The Steel Shadow | 36.00% | ~181 |
-| Golem Chaser | 34.00% | ~171 |
-| Like Clockwork | 33.00% | ~166 |
-| The Wicked Twins | 32.00% | ~161 |
-| Family Memories | 30.00% | ~151 |
-| The Betrayer | 30.00% | ~151 |
-| Check Your Pulse | 28.00% | ~141 |
+| The Harder They Fall | 48.00% | ~242 |
+| Right On Time | 47.00% | ~237 |
+| Fast Learner | 46.00% | ~232 |
+| Immaculate Aim | 46.00% | ~232 |
+| Make Up For Lost Time | 44.00% | ~222 |
+| Breaking Down Barriers | 42.00% | ~212 |
+| The Steel Shadow | 36.00% | ~182 |
+| Like Clockwork | 34.00% | ~172 |
+| Golem Chaser | 34.00% | ~172 |
+| The Wicked Twins | 33.00% | ~167 |
+| The Betrayer | 31.00% | ~157 |
+| Family Memories | 30.00% | ~152 |
+| Check Your Pulse | 29.00% | ~146 |
 | Good Neighbor | 28.00% | ~141 |
 | Street Style | 27.00% | ~136 |
 | The Loose Cannon | 26.00% | ~131 |
@@ -37,13 +37,13 @@
 | Syron for Hope | 19.00% | ~96 |
 | Chaincrawler Explorer | 18.00% | ~91 |
 | Factorywood Explorer | 18.00% | ~91 |
-| Fairgrounds Explorer | 17.00% | ~86 |
-| Theater Explorer | 14.00% | ~70 |
-| Cultivair Explorer | 13.00% | ~65 |
-| Rungs Was Right | 12.00% | ~60 |
-| Corin Goes Home | 11.00% | ~55 |
-| Sartorialist | 11.00% | ~55 |
-| Entresol Explorer | 11.00% | ~55 |
+| Fairgrounds Explorer | 16.00% | ~81 |
+| Theater Explorer | 14.00% | ~71 |
+| Cultivair Explorer | 13.00% | ~66 |
+| Rungs Was Right | 12.00% | ~61 |
+| Corin Goes Home | 11.00% | ~56 |
+| Entresol Explorer | 11.00% | ~56 |
+| Sartorialist | 10.00% | ~50 |
 | Clovemary for Remembering | 9.00% | ~45 |
 | Hexlock for Protection | 9.00% | ~45 |
 | Golem Hunter | 8.00% | ~40 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503 (Ranked 195)  
+Progressed: 505 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 386 | 0 |
 | 2023-05-27 | 438 | 0 |
 | 2023-05-28 | 474 | 0 |
-| 2023-05-29 | 503 | 0 |
+| 2023-05-29 | 505 | 0 |

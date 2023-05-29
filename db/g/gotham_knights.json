@@ -1292,9 +1292,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62782,
+  "EOS_Progressed": 62788,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4282,6 +4282,11 @@
       "Time": "2023-05-29T21:06:14.6532454+00:00",
       "NumProgressed": 62782,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T22:05:50.5604728+00:00",
+      "NumProgressed": 62788,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4373,7 +4378,7 @@
       "Name": "End of an Era",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "APPLY_STATUS",
@@ -4381,7 +4386,7 @@
       "Name": "In Your Element",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "CHALLENGES_1",
@@ -4453,7 +4458,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -4501,7 +4506,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -4541,7 +4546,7 @@
       "Name": "Cooldown",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -4637,7 +4642,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4725,7 +4730,7 @@
       "Name": "Voiceless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "MYSTERY_07",
@@ -4733,7 +4738,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "MYSTERY_08",
@@ -4741,7 +4746,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "SECRET_CACHE",
@@ -4780,13 +4785,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62782,
+      "Progressed": 62788,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33062,
+      "Progressed": 33068,
       "Completed": 2643
     }
   ],
@@ -4794,8 +4799,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-29T17:01:00.287079+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:06:14.653245+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:05:50.5604722+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:59:50.250196+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:06:14.6533041+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:59:22.0107576+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:05:50.5605375+00:00"
 }

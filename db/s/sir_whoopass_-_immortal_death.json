@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -281,6 +281,11 @@
       "Time": "2023-05-29T18:05:29.6604829+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T22:05:32.8241685+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 82,
@@ -306,7 +311,7 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -322,7 +327,7 @@
       "ID": "CHEESE_1",
       "SetID": "9gfkh7c",
       "Name": "That\u0027s what cheese said!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -330,7 +335,7 @@
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -346,7 +351,7 @@
       "ID": "CHEESE_4",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re looking mozzare-hella good!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -354,7 +359,7 @@
       "ID": "CHEESE_5",
       "SetID": "9gfkh7c",
       "Name": "Fifty Shades of Gruyere",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -362,7 +367,7 @@
       "ID": "CLOWN_1",
       "SetID": "9gfkh7c",
       "Name": "Honk honk!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -394,7 +399,7 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_04",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Vitamin D Addition",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -402,7 +407,7 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Dirty Feet",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -410,7 +415,7 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_06",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Imperfectly Designed Walls",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -418,7 +423,7 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_07",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Moldy Ceiling",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -426,7 +431,7 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_08",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Poor Intrusion Prevention",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -474,7 +479,7 @@
       "ID": "COMPLETE_DUNGEONRUINS_03",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Chilly Winds",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -482,7 +487,7 @@
       "ID": "COWBOY_1",
       "SetID": "9gfkh7c",
       "Name": "Yeehaw!!!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -490,15 +495,15 @@
       "ID": "DIE_1",
       "SetID": "9gfkh7c",
       "Name": "Catch the bus with me!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -506,7 +511,7 @@
       "ID": "DODGE_2",
       "SetID": "9gfkh7c",
       "Name": "I\u0027m going to get a concussion",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -522,7 +527,7 @@
       "ID": "DRUNK_1",
       "SetID": "9gfkh7c",
       "Name": "A Megapint...?",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -530,7 +535,7 @@
       "ID": "DRUNK_2",
       "SetID": "9gfkh7c",
       "Name": "I drink, but I\u0027m not a drunk!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -546,7 +551,7 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -570,7 +575,7 @@
       "ID": "ENT_1",
       "SetID": "9gfkh7c",
       "Name": "Timber!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -578,7 +583,7 @@
       "ID": "FIRE_1",
       "SetID": "9gfkh7c",
       "Name": "AHHHHHH.....I\u0027M ON FIRE!!!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -586,7 +591,7 @@
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -594,7 +599,7 @@
       "ID": "FLAPPY_KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "Just wing it!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -610,7 +615,7 @@
       "ID": "GLASSES_1",
       "SetID": "9gfkh7c",
       "Name": "Deal with it",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -618,7 +623,7 @@
       "ID": "GLASSES_2",
       "SetID": "9gfkh7c",
       "Name": "Consider it dealt with",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -626,7 +631,7 @@
       "ID": "GNOME_1",
       "SetID": "9gfkh7c",
       "Name": "Tastes just like chicken!",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -634,9 +639,9 @@
       "ID": "GNOME_2",
       "SetID": "9gfkh7c",
       "Name": "Your daily dose of Vitamin C.",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GNOME_3",
@@ -658,7 +663,7 @@
       "ID": "GRENADIER_2",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not going to blow me up!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -674,7 +679,7 @@
       "ID": "IMMORTAL_1",
       "SetID": "9gfkh7c",
       "Name": "Grumpy Immortal",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 190,
       "UsersEstimate": 3
     },
@@ -690,7 +695,7 @@
       "ID": "ITEM_1",
       "SetID": "9gfkh7c",
       "Name": "Ripe Meat Off The Bone!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -730,7 +735,7 @@
       "ID": "JUMP_1",
       "SetID": "9gfkh7c",
       "Name": "Up and down",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -746,7 +751,7 @@
       "ID": "JUMP_3",
       "SetID": "9gfkh7c",
       "Name": "I cant stand still!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -754,7 +759,7 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -794,9 +799,9 @@
       "ID": "METAL_BARS",
       "SetID": "9gfkh7c",
       "Name": "Another one bites the iron",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "METAL_BARS_SWA",
@@ -810,15 +815,15 @@
       "ID": "MOUNT_1",
       "SetID": "9gfkh7c",
       "Name": "Hovering around",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ORC_HIPSTER_1",
       "SetID": "9gfkh7c",
       "Name": "Not so hip anymore!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -826,15 +831,15 @@
       "ID": "ORC_LOOT",
       "SetID": "9gfkh7c",
       "Name": "Kleptomaniac",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ORC_NOOB_1",
       "SetID": "9gfkh7c",
       "Name": "MLG 360 no scope kill!",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 60
     },
@@ -842,7 +847,7 @@
       "ID": "ORC_WARMAIDEN_1",
       "SetID": "9gfkh7c",
       "Name": "I like you...but I have to kill you...",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -850,7 +855,7 @@
       "ID": "OTHER_1",
       "SetID": "9gfkh7c",
       "Name": "Nerd",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -858,7 +863,7 @@
       "ID": "OTHER_2",
       "SetID": "9gfkh7c",
       "Name": "Free Of Chains",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -866,7 +871,7 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -874,7 +879,7 @@
       "ID": "OUTHOUSE_1",
       "SetID": "9gfkh7c",
       "Name": "Thats disgusting!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -890,7 +895,7 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -898,7 +903,7 @@
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -906,7 +911,7 @@
       "ID": "SVEN_OLOF_1",
       "SetID": "9gfkh7c",
       "Name": "Blurry depth perception",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 51
     },
@@ -914,7 +919,7 @@
       "ID": "WEAPON_1",
       "SetID": "9gfkh7c",
       "Name": "Cockadoodledoo!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -922,7 +927,7 @@
       "ID": "WEAPON_2",
       "SetID": "9gfkh7c",
       "Name": "Are you ready to rumble?",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 59
     },
@@ -947,14 +952,14 @@
     {
       "ID": "9gfkh7c",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:05:46.3814118+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:05:32.824168+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:57:11.5617427+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:05:46.381481+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:57:10.1957753+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:05:32.8242583+00:00"
 }

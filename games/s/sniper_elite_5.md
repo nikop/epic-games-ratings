@@ -5,47 +5,47 @@ Rating: 4.42 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 23.00% | ~422 |
-| Confirming Suspicions | 17.00% | ~312 |
+| Meeting Resistance | 23.00% | ~423 |
+| Confirming Suspicions | 17.00% | ~313 |
 | The Kraken Wakes | 13.00% | ~239 |
 | It's Starting to Crack | 11.00% | ~202 |
-| Lord of War | 9.00% | ~165 |
+| Lord of War | 9.00% | ~166 |
 | Resourceful | 8.00% | ~147 |
 | Change the Channel | 8.00% | ~147 |
-| Enemy at the Gates | 7.00% | ~128 |
-| Organ Grinder | 7.00% | ~128 |
-| Taking it back | 7.00% | ~128 |
+| Enemy at the Gates | 7.00% | ~129 |
+| Organ Grinder | 7.00% | ~129 |
+| Taking it back | 7.00% | ~129 |
 | Just a Flesh Wound | 6.00% | ~110 |
 | Explosive Efficiency | 6.00% | ~110 |
 | As Quiet as a Mouse | 6.00% | ~110 |
 | Gunslinger | 5.00% | ~92 |
 | Target America | 5.00% | ~92 |
-| Liberté | 4.00% | ~73 |
-| Opposing Force | 4.00% | ~73 |
-| Sharpshooter | 4.00% | ~73 |
-| Die Nussknacker Sweet! | 4.00% | ~73 |
-| Der Geist | 4.00% | ~73 |
-| Close Quarters | 4.00% | ~73 |
-| Snake in the Grass | 4.00% | ~73 |
-| The Kraken Sleeps | 4.00% | ~73 |
+| Liberté | 4.00% | ~74 |
+| Opposing Force | 4.00% | ~74 |
+| Fields of Glory | 4.00% | ~74 |
+| Sharpshooter | 4.00% | ~74 |
+| Die Nussknacker Sweet! | 4.00% | ~74 |
+| Der Geist | 4.00% | ~74 |
+| Close Quarters | 4.00% | ~74 |
+| Snake in the Grass | 4.00% | ~74 |
+| The Kraken Sleeps | 4.00% | ~74 |
 | Climbing the Ladder | 3.00% | ~55 |
 | No Stone Unturned | 3.00% | ~55 |
-| Fields of Glory | 3.00% | ~55 |
 | Skirmisher | 3.00% | ~55 |
 | Set Europe Ablaze | 3.00% | ~55 |
 | Precision Is Key | 3.00% | ~55 |
+| Brains of the Operation | 3.00% | ~55 |
 | Rigged to Blow | 2.00% | ~37 |
-| Brains of the Operation | 2.00% | ~37 |
 | The Long Game | 1.00% | ~18 |
 | My Little Friend | 1.00% | ~18 |
 | It'll Buff Right Out | 1.00% | ~18 |
 | Strategist | 0.80% | ~15 |
 | Locomotion Commotion | 0.80% | ~15 |
+| Operation Foxley | 0.80% | ~14 |
 | Road Rage | 0.70% | ~13 |
 | Herr Today, Gone Tomorrow | 0.70% | ~13 |
-| Operation Foxley | 0.70% | ~13 |
+| Siegebreaker | 0.70% | ~13 |
 | Ghost of Falaise | 0.70% | ~13 |
-| Siegebreaker | 0.60% | ~11 |
 | Tinkerer | 0.50% | ~9 |
 | Don't hold your breath | 0.50% | ~9 |
 | Last Resort | 0.50% | ~9 |
@@ -61,6 +61,7 @@ Rating: 4.42 (Ranked 651)
 | Reich To The Point | 0.20% | ~4 |
 | Covert Elimination | 0.20% | ~4 |
 | If You Go Down To The Woods Today | 0.20% | ~4 |
+| Fight Another Day | 0.20% | ~4 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
 | Out of Scope | 0.10% | ~2 |
@@ -69,7 +70,6 @@ Rating: 4.42 (Ranked 651)
 | Alpha | 0.10% | ~2 |
 | Das Familienjuwel | 0.10% | ~2 |
 | Operation Overlord | 0.10% | ~2 |
-| Fight Another Day | 0.10% | ~2 |
 | Best of the Best | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 651)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,835 (Ranked 152)  
+Progressed: 1,840 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,835 | 2 |
+| 2023-05-29 | 1,840 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

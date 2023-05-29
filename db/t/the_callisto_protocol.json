@@ -2,20 +2,20 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -414,6 +414,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-29T21:57:48.7010348+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
@@ -464,9 +470,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14002,
+  "EOS_Progressed": 14005,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2039,6 +2045,11 @@
       "Time": "2023-05-29T21:03:41.4394571+00:00",
       "NumProgressed": 14002,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T22:03:40.5261589+00:00",
+      "NumProgressed": 14005,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2130,7 +2141,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -2138,7 +2149,7 @@
       "Name": "Lifer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -2280,9 +2291,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 840
+      "UsersEstimate": 980
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2369,22 +2380,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14002,
+      "Progressed": 14005,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1928,
+      "Progressed": 1931,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T21:03:41.4394567+00:00",
+  "LastChanged": "2023-05-29T21:57:48.7010346+00:00",
+  "LastChanged_Achievements": "2023-05-29T22:03:40.5261584+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:57:52.0814343+00:00",
-  "LastUpdate_Achievements": "2023-05-29T21:03:41.4394886+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:57:48.7010352+00:00",
+  "LastUpdate_Achievements": "2023-05-29T22:03:40.5261983+00:00"
 }
