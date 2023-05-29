@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1222,
+  "EOS_Progressed": 1223,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -665,6 +665,11 @@
       "Time": "2023-05-29T10:05:27.2295612+00:00",
       "NumProgressed": 1222,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-29T16:05:53.2393628+00:00",
+      "NumProgressed": 1223,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -708,7 +713,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -740,7 +745,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -748,7 +753,7 @@
       "Name": "Passing Shadow",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -820,7 +825,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -842,9 +847,9 @@
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_maimedHero",
@@ -852,7 +857,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_mythwalker",
@@ -868,7 +873,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -898,9 +903,9 @@
       "ID": "completedStory_cvawn",
       "SetID": "95dc8p",
       "Name": "In Soil, In Smoke",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 49
     },
     {
       "ID": "completedStory_ecthis",
@@ -916,7 +921,7 @@
       "Name": "War Endured",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "completedStory_legacy",
@@ -980,7 +985,7 @@
       "Name": "Core Failure",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1123,15 +1128,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1222,
+      "Progressed": 1223,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:27.235571+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:05:53.2393624+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:00:12.1209112+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:27.2356174+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:00:51.4082047+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:05:53.2394025+00:00"
 }

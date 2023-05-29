@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -653,9 +653,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "FELIZ_2",
@@ -733,9 +733,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "MILLS",
@@ -1022,8 +1022,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:43.1964928+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:06:11.346882+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:35.3904076+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:43.1965775+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:58.5862529+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:06:11.3469608+00:00"
 }

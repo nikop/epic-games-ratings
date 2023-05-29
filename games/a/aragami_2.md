@@ -6,18 +6,18 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,772 |
-| First Steps | 81.00% | ~27,093 |
+| Awakening | 92.00% | ~30,773 |
+| First Steps | 81.00% | ~27,094 |
 | Control the Shadows | 68.00% | ~22,745 |
-| Tools of the Trade | 63.00% | ~21,072 |
+| Tools of the Trade | 63.00% | ~21,073 |
 | Apprentice | 60.00% | ~20,069 |
-| Secret Seeker | 57.00% | ~19,065 |
+| Secret Seeker | 57.00% | ~19,066 |
 | Forge of Assassins | 56.00% | ~18,731 |
-| Revenant | 51.00% | ~17,058 |
+| Revenant | 51.00% | ~17,059 |
 | I don’t Care! | 45.00% | ~15,052 |
 | Bird of Prey | 37.00% | ~12,376 |
-| Engraved with Power | 32.00% | ~10,703 |
-| Lady | 30.00% | ~10,034 |
+| Engraved with Power | 32.00% | ~10,704 |
+| Lady | 30.00% | ~10,035 |
 | Fashionable Assassin | 27.00% | ~9,031 |
 | Apex Predator | 24.00% | ~8,028 |
 | Soul Reaver | 22.00% | ~7,359 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~334 |
 | Anger Management | 1.00% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,448 (Ranked 84)  
+Progressed: 33,449 (Ranked 84)  
 Completed: 160 (0.48%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 160 (0.48%) (Ranked 108)
 | 2023-05-26 | 33,225 | 159 |
 | 2023-05-27 | 33,309 | 159 |
 | 2023-05-28 | 33,399 | 160 |
-| 2023-05-29 | 33,448 | 160 |
+| 2023-05-29 | 33,449 | 160 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

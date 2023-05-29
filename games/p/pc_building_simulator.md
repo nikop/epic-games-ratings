@@ -6,37 +6,37 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,683,509 |
-| Easy to forget | 46.00% | ~1,613,363 |
-| Back in the black | 38.00% | ~1,332,778 |
-| That's what I'm talking about | 28.00% | ~982,047 |
-| The Best of Both Worlds | 24.00% | ~841,754 |
-| Get your wings | 20.00% | ~701,462 |
-| Double trouble | 15.00% | ~526,096 |
-| Smashing it | 10.00% | ~350,731 |
-| But can it run Crysis? | 9.00% | ~315,658 |
-| My favourite feature... | 9.00% | ~315,658 |
-| From humble beginnings... | 7.00% | ~245,512 |
-| Customer satisfaction | 7.00% | ~245,512 |
-| Keeping things neat | 4.00% | ~140,292 |
-| Seems you're pretty good at this | 4.00% | ~140,292 |
-| Triple threat | 3.00% | ~105,219 |
-| You rock at this! | 3.00% | ~105,219 |
-| Your music sucks | 3.00% | ~105,219 |
-| Bending over backwards | 3.00% | ~105,219 |
-| I'm broke, Uncle! | 2.00% | ~70,146 |
-| Maybe you should try something else? | 2.00% | ~70,146 |
-| Taking care of business | 2.00% | ~70,146 |
-| Perfection | 2.00% | ~70,146 |
-| Calling in Sick | 2.00% | ~70,146 |
-| Overvolted | 1.00% | ~35,073 |
-| If you fail the first time... | 1.00% | ~35,073 |
-| Amazonian | 1.00% | ~35,073 |
-| Things are under control | 1.00% | ~35,073 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,073 |
-| Building isn't cheap! | 1.00% | ~35,073 |
-| Majority Shareholder | 1.00% | ~35,073 |
-| Owner | 1.00% | ~35,073 |
+| You need to plug it in... | 48.00% | ~1,683,530 |
+| Easy to forget | 46.00% | ~1,613,383 |
+| Back in the black | 38.00% | ~1,332,795 |
+| That's what I'm talking about | 28.00% | ~982,059 |
+| The Best of Both Worlds | 24.00% | ~841,765 |
+| Get your wings | 20.00% | ~701,471 |
+| Double trouble | 15.00% | ~526,103 |
+| Smashing it | 10.00% | ~350,735 |
+| But can it run Crysis? | 9.00% | ~315,662 |
+| My favourite feature... | 9.00% | ~315,662 |
+| From humble beginnings... | 7.00% | ~245,515 |
+| Customer satisfaction | 7.00% | ~245,515 |
+| Keeping things neat | 4.00% | ~140,294 |
+| Seems you're pretty good at this | 4.00% | ~140,294 |
+| Triple threat | 3.00% | ~105,221 |
+| You rock at this! | 3.00% | ~105,221 |
+| Your music sucks | 3.00% | ~105,221 |
+| Bending over backwards | 3.00% | ~105,221 |
+| I'm broke, Uncle! | 2.00% | ~70,147 |
+| Maybe you should try something else? | 2.00% | ~70,147 |
+| Taking care of business | 2.00% | ~70,147 |
+| Perfection | 2.00% | ~70,147 |
+| Calling in Sick | 2.00% | ~70,147 |
+| Overvolted | 1.00% | ~35,074 |
+| If you fail the first time... | 1.00% | ~35,074 |
+| Amazonian | 1.00% | ~35,074 |
+| Things are under control | 1.00% | ~35,074 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,074 |
+| Building isn't cheap! | 1.00% | ~35,074 |
+| Majority Shareholder | 1.00% | ~35,074 |
+| Owner | 1.00% | ~35,074 |
 | Show off | 0.90% | ~31,566 |
 | Work ethic 101 | 0.60% | ~21,044 |
 | Building momentum | 0.50% | ~17,537 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,507 |
 | Treat yourself - GPU | 0.10% | ~3,507 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,507,310 (Ranked 4)  
+Progressed: 3,507,354 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 23 (0.00%) (Ranked 207)
 | 2023-05-26 | 3,505,275 | 23 |
 | 2023-05-27 | 3,506,149 | 23 |
 | 2023-05-28 | 3,506,922 | 23 |
-| 2023-05-29 | 3,507,310 | 23 |
+| 2023-05-29 | 3,507,354 | 23 |
 ## Awards
 Max (Great for Beginners): 1,043  (Ranked 133)  
-Sum: 7,781 (Ranked 94)  
+Sum: 7,782 (Ranked 94)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -114,7 +114,7 @@ Diff (max vs sum): 39
 | This game has Amazing Storytelling | 793 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 637 |
-| This game has a Creative Community | 624 |
+| This game has a Creative Community | 625 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -230,4 +230,4 @@ Diff (max vs sum): 39
 | 2023-05-26 | 4.66 | - | 1,043 | 7,775 |
 | 2023-05-27 | 4.66 | - | 1,043 | 7,779 |
 | 2023-05-28 | 4.66 | - | 1,043 | 7,780 |
-| 2023-05-29 | 4.66 | - | 1,043 | 7,781 |
+| 2023-05-29 | 4.66 | - | 1,043 | 7,782 |

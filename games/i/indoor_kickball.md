@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Character Unlocked | 75.00% | ~21 |
-| Hat Unlocked | 75.00% | ~21 |
-| Accessory Unlocked | 75.00% | ~21 |
-| Kickball Unlocked | 71.00% | ~20 |
-| Homer | 71.00% | ~20 |
-| First Win | 64.00% | ~18 |
-| Have a good trip! | 61.00% | ~17 |
-| Settle Down | 50.00% | ~14 |
-| Stay Hydrated | 46.00% | ~13 |
-| Butter Fingers | 43.00% | ~12 |
-| True Story! | 36.00% | ~10 |
-| Have Mercy | 29.00% | ~8 |
-| Bedroom Secret Spot | 25.00% | ~7 |
+| Character Unlocked | 72.00% | ~21 |
+| Hat Unlocked | 72.00% | ~21 |
+| Accessory Unlocked | 72.00% | ~21 |
+| Kickball Unlocked | 69.00% | ~20 |
+| Homer | 69.00% | ~20 |
+| First Win | 62.00% | ~18 |
+| Have a good trip! | 59.00% | ~17 |
+| Settle Down | 48.00% | ~14 |
+| Stay Hydrated | 45.00% | ~13 |
+| Butter Fingers | 41.00% | ~12 |
+| True Story! | 34.00% | ~10 |
+| Have Mercy | 28.00% | ~8 |
+| Bedroom Secret Spot | 24.00% | ~7 |
 | Grand Slam! | 21.00% | ~6 |
 | Kick It | 21.00% | ~6 |
 | Save some water for the fishies | 14.00% | ~4 |
@@ -26,12 +26,12 @@
 | Living Room Secret Spot | 7.00% | ~2 |
 | Angry Dad | 7.00% | ~2 |
 | At least everyone still had fun | 7.00% | ~2 |
-| Basement Secret Spot | 4.00% | ~1 |
-| Kitchen Secret Spot | 4.00% | ~1 |
-| Kickball Kup | 4.00% | ~1 |
-| Found the Secret Formula! | 4.00% | ~1 |
-| Goooooooooal! | 4.00% | ~1 |
-| Just how we drew it up | 4.00% | ~1 |
+| Basement Secret Spot | 3.00% | ~1 |
+| Kitchen Secret Spot | 3.00% | ~1 |
+| Kickball Kup | 3.00% | ~1 |
+| Found the Secret Formula! | 3.00% | ~1 |
+| Goooooooooal! | 3.00% | ~1 |
+| Just how we drew it up | 3.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 316)  
+Progressed: 29 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 6 | 0 |
 | 2023-05-27 | 16 | 0 |
 | 2023-05-28 | 21 | 0 |
-| 2023-05-29 | 28 | 0 |
+| 2023-05-29 | 29 | 0 |

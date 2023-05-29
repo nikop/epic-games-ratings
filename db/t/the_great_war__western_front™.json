@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2023-05-29T15:00:17.4322493+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T16:01:00.4770798+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -814,7 +819,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -822,7 +827,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -845,7 +850,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
@@ -853,8 +858,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:00:17.4322483+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:01:00.4770792+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.8279033+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:17.6498065+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:00:17.4322669+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:36.9635124+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:01:00.4770956+00:00"
 }

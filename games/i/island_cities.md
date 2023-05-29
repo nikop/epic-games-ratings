@@ -11,15 +11,15 @@
 | Bridges to come and go | 50.00% | ~102 |
 | Found an oasis | 41.00% | ~83 |
 | Burger or pizza? | 35.00% | ~71 |
-| Passion for sports | 30.00% | ~61 |
+| Passion for sports | 31.00% | ~63 |
 | Who loves trains? | 26.00% | ~53 |
-| Easy and steady climb | 25.00% | ~51 |
+| Easy and steady climb | 26.00% | ~53 |
 | At the heart of the city | 23.00% | ~47 |
 | Calm neighborhood | 21.00% | ~43 |
 | Elevated ring | 21.00% | ~43 |
 | Not lonely anymore | 19.00% | ~39 |
 | Monumental tribute | 18.00% | ~37 |
-| The beach is right there | 17.00% | ~35 |
+| The beach is right there | 18.00% | ~37 |
 | Commuting | 17.00% | ~35 |
 | Le jardin magnifique | 16.00% | ~32 |
 | Aiming for a living and human city | 15.00% | ~30 |

@@ -484,9 +484,9 @@
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
@@ -939,8 +939,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:04:22.6035025+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:04:37.3464702+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:08.9175473+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:04:22.6035719+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:25.3199866+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:04:37.3465287+00:00"
 }

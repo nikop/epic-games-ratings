@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -399,9 +399,9 @@
       "ID": "BADGE_FORESTS_CUT",
       "SetID": "ak6pfjk",
       "Name": "Woodcutter",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "BADGE_GOLD_COINS_COLLECT",
@@ -431,9 +431,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -447,9 +447,9 @@
       "ID": "BADGE_MONUMENT_KEEPER",
       "SetID": "ak6pfjk",
       "Name": "Monument Keeper",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
@@ -527,9 +527,9 @@
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:00:36.3087906+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:01:23.0995437+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:25.0365091+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:00:36.3088354+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:45.5796006+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:01:23.0995775+00:00"
 }

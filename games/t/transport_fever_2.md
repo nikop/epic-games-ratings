@@ -62,7 +62,7 @@ Number of Ratings: 180  (23.09.2022)
 | Trans-Siberian Railway | 2.00% | ~23 |
 | No country for old trains | 1.00% | ~12 |
 | Campaign tycoon | 1.00% | ~12 |
-| Train Fever | 0.90% | ~10 |
+| Train Fever | 1.00% | ~12 |
 | Louis Favre | 0.90% | ~10 |
 | Big spender | 0.40% | ~5 |
 | Glacier express | 0.20% | ~2 |

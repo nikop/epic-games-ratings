@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2578,7 +2578,7 @@
   ],
   "EOS_Progressed": 9325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5212,9 +5212,9 @@
       "ID": "41_PlayfulMood",
       "SetID": "989of5o",
       "Name": "Playful Mood",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 56
     },
     {
       "ID": "42_JustPathetic",
@@ -5842,8 +5842,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-29T10:58:46.2996937+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:51.7216005+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:06:20.7633912+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:09.7622945+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:51.7217777+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:26.7606016+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:06:20.7635419+00:00"
 }

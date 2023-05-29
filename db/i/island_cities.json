@@ -963,9 +963,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_009",
@@ -979,9 +979,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_011",
@@ -1027,9 +1027,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "LEVEL_017",
@@ -1092,8 +1092,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:17.8863649+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:05:45.0199813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:57:53.5328173+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:17.8863879+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:08.7451282+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:05:45.019997+00:00"
 }

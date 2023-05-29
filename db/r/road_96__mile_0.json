@@ -2,7 +2,7 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 86,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 207,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -379,6 +379,11 @@
       "Time": "2023-05-29T13:08:19.753303+00:00",
       "NumProgressed": 206,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T16:03:12.2359756+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -390,23 +395,23 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "findalltapes",
@@ -428,9 +433,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrb2",
@@ -460,9 +465,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "scoreminrankrp1",
@@ -486,7 +491,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "scoreminrankrv1",
@@ -509,7 +514,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 2
     }
   ],
@@ -517,8 +522,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:02:31.7822968+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:03:12.2359747+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:33.5953422+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:02:31.7823091+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:56.2910162+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:03:12.2360029+00:00"
 }

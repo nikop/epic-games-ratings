@@ -16,14 +16,14 @@
 | Go Home! | 74.00% | ~115 |
 | Brilliant: Meadowshire | 72.00% | ~112 |
 | Look After the Pence... | 72.00% | ~112 |
+| Drunken Master | 72.00% | ~112 |
 | Sergeant of the Evil | 72.00% | ~112 |
-| Drunken Master | 71.00% | ~111 |
 | V.I.P. Cemetery | 69.00% | ~108 |
+| Woodcutter | 69.00% | ~108 |
 | Takeover | 68.00% | ~106 |
-| Woodcutter | 68.00% | ~106 |
 | Sharpshooter | 68.00% | ~106 |
+| Architect of Darkness | 68.00% | ~106 |
 | Top of the World | 67.00% | ~105 |
-| Architect of Darkness | 67.00% | ~105 |
 | The Apotheosis of War | 65.00% | ~101 |
 | Stasis Alcatraz | 65.00% | ~101 |
 | Tastes Like Chicken | 62.00% | ~97 |
@@ -50,8 +50,8 @@
 | Dwarven Countdown | 28.00% | ~44 |
 | Starry: Wasteland | 28.00% | ~44 |
 | Deadman's Chest | 26.00% | ~41 |
+| Monument Keeper | 25.00% | ~39 |
 | Brilliant: Free Coast | 24.00% | ~37 |
-| Monument Keeper | 24.00% | ~37 |
 | Brilliant: The Deep | 22.00% | ~34 |
 | Starry: Free Coast | 22.00% | ~34 |
 | Starry: The Deep | 19.00% | ~30 |

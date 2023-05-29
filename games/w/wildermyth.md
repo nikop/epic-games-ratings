@@ -6,19 +6,19 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 33.00% | ~403 |
+| The Cost of Heroism | 33.00% | ~404 |
 | Me and My Familiar | 30.00% | ~367 |
 | This Too Shall Pass | 26.00% | ~318 |
-| Passing Shadow | 24.00% | ~293 |
-| Cutthroat Competitors | 24.00% | ~293 |
-| How Romantic! | 23.00% | ~281 |
+| Passing Shadow | 24.00% | ~294 |
+| Cutthroat Competitors | 24.00% | ~294 |
+| How Romantic! | 22.00% | ~269 |
 | Daybreak | 22.00% | ~269 |
-| Gotta Ca... Must Collect All of Them | 20.00% | ~244 |
+| Gotta Ca... Must Collect All of Them | 20.00% | ~245 |
 | Completing the Look | 12.00% | ~147 |
-| A Mythic Menagerie | 11.00% | ~134 |
-| Who's Counting? | 11.00% | ~134 |
-| War Endured | 11.00% | ~134 |
-| Core Failure | 11.00% | ~134 |
+| A Mythic Menagerie | 11.00% | ~135 |
+| Who's Counting? | 11.00% | ~135 |
+| War Endured | 11.00% | ~135 |
+| Core Failure | 11.00% | ~135 |
 | Pyrrhic Victory | 9.00% | ~110 |
 | Echoes Die | 8.00% | ~98 |
 | Thematic Divergence | 7.00% | ~86 |
@@ -28,11 +28,11 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 6.00% | ~73 |
 | Let Me Get My Chisel | 5.00% | ~61 |
 | Plague Doctor | 5.00% | ~61 |
-| In Soil, In Smoke | 5.00% | ~61 |
 | Wingknight's Prowess | 5.00% | ~61 |
 | All My Birds, Safely Home | 5.00% | ~61 |
 | Worldwalker | 4.00% | ~49 |
 | Legends Never Die | 4.00% | ~49 |
+| In Soil, In Smoke | 4.00% | ~49 |
 | A Hunger, Sated | 4.00% | ~49 |
 | Turncoat | 4.00% | ~49 |
 | We Emerge Changed | 3.00% | ~37 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,222 (Ranked 160)  
+Progressed: 1,223 (Ranked 160)  
 Completed: 3 (0.25%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 3 (0.25%) (Ranked 135)
 | 2023-05-26 | 1,211 | 3 |
 | 2023-05-27 | 1,216 | 3 |
 | 2023-05-28 | 1,218 | 3 |
-| 2023-05-29 | 1,222 | 3 |
+| 2023-05-29 | 1,223 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 464)  

@@ -1,17 +1,17 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,089 |
-| Greasy Palms | 39.00% | ~2,802 |
-| South American Connection | 23.00% | ~1,652 |
-| Life of the Party | 17.00% | ~1,221 |
+| Legal Counsel | 43.00% | ~3,091 |
+| Greasy Palms | 39.00% | ~2,803 |
+| South American Connection | 23.00% | ~1,653 |
+| Life of the Party | 17.00% | ~1,222 |
 | Tommy Two-Wheels | 13.00% | ~934 |
-| Big Heat from Little Havana | 12.00% | ~862 |
-| Chauffeur | 12.00% | ~862 |
+| Big Heat from Little Havana | 12.00% | ~863 |
+| Chauffeur | 12.00% | ~863 |
 | Iron-y | 9.00% | ~647 |
 | Salutations My Little Friend | 9.00% | ~647 |
 | Gun for Hire | 7.00% | ~503 |
@@ -19,8 +19,8 @@ Rating: 4.64 (Ranked 314)
 | Vice City Mogul | 6.00% | ~431 |
 | Catch Me if You Can | 5.00% | ~359 |
 | Bloodstained Hands | 5.00% | ~359 |
-| Not my First Time | 4.00% | ~287 |
-| Grand Theft Auto | 4.00% | ~287 |
+| Not my First Time | 4.00% | ~288 |
+| Grand Theft Auto | 4.00% | ~288 |
 | High Quality H2O | 3.00% | ~216 |
 | Pie Guy | 3.00% | ~216 |
 | Running Rampant | 2.00% | ~144 |
@@ -33,14 +33,14 @@ Rating: 4.64 (Ranked 314)
 | City Sleuth | 2.00% | ~144 |
 | One is Better Than Two | 1.00% | ~72 |
 | Chopper’d Up | 1.00% | ~72 |
-| Daredevil | 0.80% | ~57 |
+| Daredevil | 0.80% | ~58 |
 | Born in the 80’s | 0.70% | ~50 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~50 |
 | I'm Famous! | 0.70% | ~50 |
 | Done it All | 0.60% | ~43 |
 | Kingpin | 0.30% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,184 (Ranked 113)  
+Progressed: 7,188 (Ranked 113)  
 Completed: 24 (0.33%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 24 (0.33%) (Ranked 120)
 | 2023-05-26 | 6,919 | 23 |
 | 2023-05-27 | 7,028 | 24 |
 | 2023-05-28 | 7,140 | 24 |
-| 2023-05-29 | 7,184 | 24 |
+| 2023-05-29 | 7,188 | 24 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 411)  
 Sum: 40 (Ranked 445)  

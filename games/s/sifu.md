@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~620 |
-| Project Arena | 3.00% | ~465 |
+| Diligence as a goal | 4.00% | ~621 |
+| Project Arena | 3.00% | ~466 |
 | The Old Grandmaster | 1.00% | ~7,062 |
 | The Assault | 1.00% | ~7,062 |
 | The Hateful Pole Fighter | 1.00% | ~7,062 |
@@ -28,8 +28,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.80% | ~5,650 |
 | Old Child | 0.80% | ~5,650 |
 | Take damage to save time | 0.80% | ~5,650 |
-| Scareless | 0.70% | ~4,943 |
-| Kung-Fu Tussle | 0.70% | ~4,943 |
+| Scareless | 0.70% | ~4,944 |
+| Kung-Fu Tussle | 0.70% | ~4,944 |
 | Dance of the Praying Mantis | 0.60% | ~4,237 |
 | Qi Gong: Mind | 0.60% | ~4,237 |
 | I know Kung-Fu | 0.60% | ~4,237 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,206 (Ranked 15)  
+Progressed: 706,217 (Ranked 15)  
 Completed: 12,744 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 12,744 (1.80%) (Ranked 65)
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
-| 2023-05-29 | 706,206 | 12,744 |
+| 2023-05-29 | 706,217 | 12,744 |
 ## Awards
 Max (Great Boss Battles): 6,108  (Ranked 53)  
 Sum: 10,408 (Ranked 77)  

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~864 |
-| Waff! | 94.00% | ~846 |
-| Into the Barn | 86.00% | ~774 |
-| A Prophecy | 84.00% | ~756 |
-| Sword, Shield, Fight! | 74.00% | ~666 |
-| A Grand Visit | 71.00% | ~639 |
-| Vibing | 61.00% | ~549 |
-| Fun Guy | 61.00% | ~549 |
-| Tragic Brave | 52.00% | ~468 |
+| Once Upon a Time | 96.00% | ~865 |
+| Waff! | 94.00% | ~847 |
+| Into the Barn | 86.00% | ~775 |
+| A Prophecy | 84.00% | ~757 |
+| Sword, Shield, Fight! | 74.00% | ~667 |
+| A Grand Visit | 71.00% | ~640 |
+| Vibing | 61.00% | ~550 |
+| Fun Guy | 61.00% | ~550 |
+| Tragic Brave | 52.00% | ~469 |
 | Awakened Spirits | 49.00% | ~441 |
 | Little Shop | 48.00% | ~432 |
 | Surprise! | 43.00% | ~387 |
@@ -55,8 +55,8 @@
 | Dance Master | 8.00% | ~72 |
 | Bombs Away! | 8.00% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 900 (Ranked 176)  
-Completed: 61 (6.78%) (Ranked 25)  
+Progressed: 901 (Ranked 176)  
+Completed: 61 (6.77%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 61 (6.78%) (Ranked 25)
 | 2023-05-26 | 868 | 58 |
 | 2023-05-27 | 876 | 60 |
 | 2023-05-28 | 894 | 61 |
-| 2023-05-29 | 900 | 61 |
+| 2023-05-29 | 901 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

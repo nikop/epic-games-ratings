@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2618,
+  "EOS_Progressed": 2620,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2005,6 +2005,11 @@
       "Time": "2023-05-29T15:03:17.2601138+00:00",
       "NumProgressed": 2618,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T16:03:30.7227206+00:00",
+      "NumProgressed": 2620,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2024,7 +2029,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "11",
@@ -2056,7 +2061,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "15",
@@ -2112,7 +2117,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "21",
@@ -2120,7 +2125,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "22",
@@ -2128,7 +2133,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "23",
@@ -2136,7 +2141,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "24",
@@ -2144,7 +2149,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "3",
@@ -2160,7 +2165,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "5",
@@ -2168,7 +2173,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "6",
@@ -2207,13 +2212,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2618,
+      "Progressed": 2620,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:03:17.2601131+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:03:30.72272+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:41.3993855+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:03:17.260142+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:59:05.5663478+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:03:30.722747+00:00"
 }

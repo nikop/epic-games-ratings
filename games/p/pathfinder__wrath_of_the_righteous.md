@@ -52,7 +52,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.60% | ~56 |
 | Path of the Legend | 0.60% | ~56 |
 | Strategic Victory | 0.60% | ~56 |
-| Playful Mood | 0.50% | ~47 |
+| Playful Mood | 0.60% | ~56 |
 | Dreadful Dragon | 0.50% | ~47 |
 | Truly Profane Gift | 0.50% | ~47 |
 | Masterful Charge | 0.40% | ~37 |

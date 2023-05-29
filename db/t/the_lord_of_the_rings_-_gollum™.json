@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -435,6 +435,11 @@
       "Time": "2023-05-29T15:05:15.4734353+00:00",
       "NumProgressed": 344,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T16:05:42.157049+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -470,7 +475,7 @@
       "Name": "The Wraith",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Chapter10",
@@ -524,9 +529,9 @@
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Chapter8",
@@ -550,7 +555,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Collectibles2",
@@ -598,7 +603,7 @@
       "Name": "Like Flying...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "GollumChoices",
@@ -692,9 +697,9 @@
       "ID": "Song",
       "SetID": "70l3651",
       "Name": "Made a Song",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "StealFood",
@@ -708,7 +713,7 @@
       "ID": "Tasty",
       "SetID": "70l3651",
       "Name": "So Tasty!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -716,9 +721,9 @@
       "ID": "TriggerHappy",
       "SetID": "70l3651",
       "Name": "Trigger-Happy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "WelcomeToMordor",
@@ -733,14 +738,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 345,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:15.4734346+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:05:42.1570486+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:57:40.2849144+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:15.4734639+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:57:51.1075706+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:05:42.1570716+00:00"
 }

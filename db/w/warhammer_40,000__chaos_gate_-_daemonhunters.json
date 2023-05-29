@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2756,
+  "EOS_Progressed": 2757,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1277,6 +1277,11 @@
       "Time": "2023-05-29T15:05:45.4307377+00:00",
       "NumProgressed": 2756,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T16:06:14.2555319+00:00",
+      "NumProgressed": 2757,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1304,7 +1309,7 @@
       "Name": "Look Over There!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "BloodAndIron",
@@ -1496,7 +1501,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Kills_Interactable",
@@ -1759,21 +1764,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2756,
+      "Progressed": 2757,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2756,
+      "Progressed": 2757,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:45.4307372+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:06:14.2555314+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:25.9310363+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:45.4307938+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:46.6940207+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:06:14.2555763+00:00"
 }

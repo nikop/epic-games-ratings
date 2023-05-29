@@ -26,9 +26,9 @@
 | Skin Of Your Teeth | 8.00% | ~5 |
 | 10K | 8.00% | ~5 |
 | Drinking Problem | 6.00% | ~4 |
+| Quit Horsin' Around | 6.00% | ~4 |
 | Perfect | 6.00% | ~1 |
 | Master Survivor | 6.00% | ~1 |
-| Quit Horsin' Around | 5.00% | ~3 |
 | Summers Here | 5.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |
 | Pyromaniac | 3.00% | ~0 |

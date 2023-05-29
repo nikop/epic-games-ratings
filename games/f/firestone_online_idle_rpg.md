@@ -33,10 +33,10 @@ Rating: 3.91 (Ranked 907)
 | The power of Awakening | 7.00% | ~85 |
 | Frostfire Liberator | 6.00% | ~73 |
 | Hunter | 6.00% | ~73 |
+| Moving Up The Ladder | 6.00% | ~73 |
 | Scroll Master | 6.00% | ~73 |
 | Doing My Part | 5.00% | ~61 |
 | Mastery | 5.00% | ~61 |
-| Moving Up The Ladder | 5.00% | ~61 |
 | Relic Of The Past | 5.00% | ~61 |
 | The Expeditioner | 5.00% | ~61 |
 | Here We Go Again | 4.00% | ~49 |

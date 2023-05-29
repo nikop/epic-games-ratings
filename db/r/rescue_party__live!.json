@@ -149,9 +149,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -221,9 +221,9 @@
       "ID": "ACH_PROFESSIONAL_TEAM",
       "SetID": "1p69hf1",
       "Name": "Professional team!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
@@ -253,9 +253,9 @@
       "ID": "ACH_SAFETY_FIRST",
       "SetID": "1p69hf1",
       "Name": "Safety first",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_SPEEDY",
@@ -278,8 +278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:20.2778285+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:05:47.6939122+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:55.4617057+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:59:04.8743943+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:20.2778422+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:59:33.7887653+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:05:47.6939222+00:00"
 }

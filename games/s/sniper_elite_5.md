@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 22.00% | ~397 |
+| Meeting Resistance | 22.00% | ~398 |
 | Confirming Suspicions | 17.00% | ~307 |
-| The Kraken Wakes | 13.00% | ~234 |
-| It's Starting to Crack | 10.00% | ~180 |
-| Lord of War | 9.00% | ~162 |
-| Resourceful | 8.00% | ~144 |
-| Change the Channel | 8.00% | ~144 |
+| The Kraken Wakes | 13.00% | ~235 |
+| It's Starting to Crack | 10.00% | ~181 |
+| Lord of War | 9.00% | ~163 |
+| Resourceful | 8.00% | ~145 |
+| Change the Channel | 8.00% | ~145 |
 | Organ Grinder | 7.00% | ~126 |
 | Enemy at the Gates | 6.00% | ~108 |
 | Just a Flesh Wound | 6.00% | ~108 |
@@ -39,9 +39,9 @@ Rating: 4.42 (Ranked 651)
 | The Long Game | 1.00% | ~18 |
 | My Little Friend | 1.00% | ~18 |
 | It'll Buff Right Out | 1.00% | ~18 |
-| Locomotion Commotion | 0.70% | ~13 |
+| Locomotion Commotion | 0.80% | ~14 |
+| Strategist | 0.70% | ~13 |
 | Operation Foxley | 0.70% | ~12 |
-| Strategist | 0.60% | ~11 |
 | Road Rage | 0.60% | ~11 |
 | Don't hold your breath | 0.60% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~11 |
@@ -66,18 +66,18 @@ Rating: 4.42 (Ranked 651)
 | Führerious Repetition | 0.10% | ~2 |
 | From Führer Away | 0.10% | ~2 |
 | Alpha | 0.10% | ~2 |
+| Das Familienjuwel | 0.10% | ~2 |
 | Operation Overlord | 0.10% | ~2 |
 | If You Go Down To The Woods Today | 0.10% | ~2 |
 | Fight Another Day | 0.10% | ~2 |
 | Best of the Best | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Das Familienjuwel | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,803 (Ranked 152)  
+Progressed: 1,807 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,803 | 2 |
+| 2023-05-29 | 1,807 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

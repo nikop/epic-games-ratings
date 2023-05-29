@@ -7,15 +7,15 @@
 | Too Cool For School | 86.00% | ~110 |
 | Caretaker | 83.00% | ~106 |
 | Feng Shui | 71.00% | ~91 |
-| Who's A Good Boy | 68.00% | ~87 |
-| Power Up | 67.00% | ~86 |
-| Thick Skin | 65.00% | ~83 |
-| Math Wizard | 62.00% | ~79 |
-| Power Overload | 61.00% | ~78 |
-| Destroy Erase Improve | 61.00% | ~78 |
-| Quite A Snack | 56.00% | ~72 |
+| Who's A Good Boy | 69.00% | ~88 |
+| Power Up | 68.00% | ~87 |
+| Thick Skin | 66.00% | ~84 |
+| Math Wizard | 63.00% | ~81 |
+| Power Overload | 62.00% | ~79 |
+| Destroy Erase Improve | 62.00% | ~79 |
+| Quite A Snack | 57.00% | ~73 |
 | Overwhelming Power | 52.00% | ~67 |
-| Impenetrable Skin | 49.00% | ~63 |
+| Impenetrable Skin | 50.00% | ~64 |
 | Chomp Chomp! | 40.00% | ~51 |
 | Supreme Power | 38.00% | ~49 |
 | Glorious Battle | 38.00% | ~49 |
@@ -25,8 +25,8 @@
 | Meat Larder | 35.00% | ~45 |
 | Mutant And Proud | 34.00% | ~44 |
 | The Emperor's New Clothes | 29.00% | ~37 |
+| Happy Little Home | 29.00% | ~37 |
 | Godlike Power | 28.00% | ~36 |
-| Happy Little Home | 28.00% | ~36 |
 | Final Evolution | 28.00% | ~36 |
 | You Shall Not Pass | 25.00% | ~32 |
 | Animal Lover | 25.00% | ~32 |

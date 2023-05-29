@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1513,
+  "EOS_Progressed": 1514,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -886,6 +886,11 @@
       "Time": "2023-05-29T15:00:22.5706494+00:00",
       "NumProgressed": 1513,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-29T16:01:06.7629412+00:00",
+      "NumProgressed": 1514,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -897,7 +902,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "Collect20Gold",
@@ -921,15 +926,15 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "CollectAllStatues",
       "SetID": "9lj35g4",
       "Name": "Return the Statues",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 378
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -943,9 +948,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 106
     },
     {
       "ID": "CompleteArenaFaction",
@@ -977,7 +982,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1001,7 +1006,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "DefeatMoziQueen",
@@ -1031,9 +1036,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 636
     },
     {
       "ID": "GetRangedWeapon",
@@ -1049,7 +1054,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "Kill25Bugs",
@@ -1081,7 +1086,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1089,15 +1094,15 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "RepairChef",
       "SetID": "9lj35g4",
       "Name": "Kitchen Ready To Cook",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 681
     },
     {
       "ID": "RepairSmith",
@@ -1111,9 +1116,9 @@
       "ID": "RepairThroneRoom",
       "SetID": "9lj35g4",
       "Name": "Throne Room Fit For A King",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 545
     },
     {
       "ID": "RescueBrothers",
@@ -1121,7 +1126,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1129,29 +1134,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1513,
+      "Progressed": 1514,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 154,
-      "Completed": 154
+      "Progressed": 155,
+      "Completed": 155
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:00:22.5706482+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:01:06.7629408+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:12.1316048+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:00:22.5706812+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:30.0575916+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:01:06.7631359+00:00"
 }

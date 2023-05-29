@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 356,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 5.9,
   "EosHistory": [
@@ -901,17 +901,17 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_015",
@@ -1052,8 +1052,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:03:28.3436627+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:03:44.3191015+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:57:03.6022868+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:03:28.3436871+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:57:07.6121483+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:03:44.319124+00:00"
 }

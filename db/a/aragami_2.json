@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33448,
+  "EOS_Progressed": 33449,
   "EOS_Completed": 160,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3617,6 +3617,11 @@
       "Time": "2023-05-29T15:00:14.4871215+00:00",
       "NumProgressed": 33448,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-29T16:00:56.9605522+00:00",
+      "NumProgressed": 33449,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 44,
@@ -3628,7 +3633,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19065
+      "UsersEstimate": 19066
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3636,7 +3641,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 10034
+      "UsersEstimate": 10035
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -3748,7 +3753,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 27093
+      "UsersEstimate": 27094
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3860,7 +3865,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -3868,7 +3873,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 21072
+      "UsersEstimate": 21073
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3964,7 +3969,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30772
+      "UsersEstimate": 30773
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3972,14 +3977,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 17058
+      "UsersEstimate": 17059
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33448,
+      "Progressed": 33449,
       "Completed": 160
     }
   ],
@@ -3987,8 +3992,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:00:14.4871199+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:00:56.9605514+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.3708529+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:58:12.7101709+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:00:14.4872203+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:58:30.6855344+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:00:56.9607017+00:00"
 }

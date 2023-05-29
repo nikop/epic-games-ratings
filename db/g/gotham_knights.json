@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1286,9 +1286,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62731,
+  "EOS_Progressed": 62736,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1067,
+  "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4246,6 +4246,11 @@
       "Time": "2023-05-29T15:05:49.7327458+00:00",
       "NumProgressed": 62731,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T16:06:18.6204777+00:00",
+      "NumProgressed": 62736,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4335,9 +4340,9 @@
       "ID": "ALL_VILLAIN",
       "SetID": "4eo5ebm",
       "Name": "End of an Era",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 439
     },
     {
       "ID": "APPLY_STATUS",
@@ -4744,13 +4749,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62731,
+      "Progressed": 62736,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33011,
+      "Progressed": 33016,
       "Completed": 2643
     }
   ],
@@ -4758,8 +4763,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-29T14:00:05.3983684+00:00",
-  "LastChanged_Achievements": "2023-05-29T15:05:49.7327452+00:00",
+  "LastChanged_Achievements": "2023-05-29T16:06:18.6204773+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T14:59:23.7315015+00:00",
-  "LastUpdate_Achievements": "2023-05-29T15:05:49.732821+00:00"
+  "LastUpdate_Ratings": "2023-05-29T15:59:57.4196776+00:00",
+  "LastUpdate_Achievements": "2023-05-29T16:06:18.6205365+00:00"
 }

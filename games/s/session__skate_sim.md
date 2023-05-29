@@ -48,7 +48,7 @@ Number of Ratings: 111  (23.09.2022)
 | Pew-Pew | 2.00% | ~43 |
 | Dipped! | 1.00% | ~21 |
 | That was wheelie fun | 1.00% | ~21 |
-| Skatepark hero | 0.70% | ~15 |
+| Skatepark hero | 0.80% | ~17 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
 | Bing Bong! | 0.00% | ~0 |
