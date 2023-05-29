@@ -25,8 +25,8 @@ Number of Ratings: 53  (23.09.2022)
 | Groundskeeper | 25.00% | ~146 |
 | Wholesale | 21.00% | ~123 |
 | Walk the plank | 20.00% | ~117 |
+| My precious! | 18.00% | ~105 |
 | Pearly gates | 17.00% | ~99 |
-| My precious! | 17.00% | ~99 |
 | Conquistador | 13.00% | ~76 |
 | Panic buying | 11.00% | ~64 |
 | Just a scratch | 9.00% | ~53 |
@@ -42,8 +42,8 @@ Number of Ratings: 53  (23.09.2022)
 | A true pirate! | 4.00% | ~23 |
 | Overpopulation | 4.00% | ~23 |
 | Premier Maître | 3.00% | ~18 |
+| Supreme conqueror | 3.00% | ~18 |
 | Strategist | 3.00% | ~18 |
-| Supreme conqueror | 2.00% | ~12 |
 | The customer is always right | 2.00% | ~12 |
 | Master & Commander | 2.00% | ~12 |
 | All aboard! | 2.00% | ~12 |

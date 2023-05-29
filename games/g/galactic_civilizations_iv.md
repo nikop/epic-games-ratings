@@ -1,35 +1,35 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 833)  
+Rating: 4.18 (Ranked 834)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,594 |
-| Worker Specialization | 78.00% | ~4,536 |
-| First Contact | 73.00% | ~4,245 |
-| Win a Battle | 67.00% | ~3,896 |
-| Anomaly Researcher | 63.00% | ~3,663 |
-| Unleash My Power | 62.00% | ~3,605 |
-| Own 30 Planets | 35.00% | ~2,035 |
-| Xenocide | 33.00% | ~1,919 |
+| Colonize a Planet | 79.00% | ~4,595 |
+| Worker Specialization | 78.00% | ~4,537 |
+| First Contact | 73.00% | ~4,246 |
+| Win a Battle | 67.00% | ~3,897 |
+| Anomaly Researcher | 63.00% | ~3,665 |
+| Unleash My Power | 62.00% | ~3,607 |
+| Own 30 Planets | 35.00% | ~2,036 |
+| Xenocide | 33.00% | ~1,920 |
 | Commodity Trader | 32.00% | ~1,861 |
 | Design a Civilization | 32.00% | ~1,861 |
-| Design a Ship | 29.00% | ~1,686 |
+| Design a Ship | 29.00% | ~1,687 |
 | Commodity Seller | 26.00% | ~1,512 |
 | Prestige Victory! | 14.00% | ~814 |
 | Galactic War | 11.00% | ~640 |
-| Trading Partner | 9.00% | ~523 |
+| Trading Partner | 9.00% | ~524 |
 | Fleet Victory | 8.00% | ~465 |
 | Win as Terrans | 7.00% | ~407 |
-| Win with a Custom Faction | 7.00% | ~407 |
 | Gain an Ally | 6.00% | ~349 |
+| Win with a Custom Faction | 6.00% | ~349 |
 | War with the Unknown | 5.00% | ~291 |
 | Conquest Victory! | 4.00% | ~233 |
 | Win Quickly | 4.00% | ~233 |
-| Pirate Cleansing | 3.00% | ~174 |
-| Win an Immense Game | 3.00% | ~174 |
+| Pirate Cleansing | 3.00% | ~175 |
+| Win an Immense Game | 3.00% | ~175 |
 | Artifact Mastery | 2.00% | ~116 |
 | Win as Altarians | 2.00% | ~116 |
 | Win as the Mimot | 2.00% | ~116 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,815 (Ranked 122)  
+Progressed: 5,817 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,14 +118,15 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 5,792 | 0 |
 | 2023-05-27 | 5,803 | 0 |
 | 2023-05-28 | 5,815 | 0 |
+| 2023-05-29 | 5,817 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 337)  
-Sum: 659 (Ranked 269)  
+Sum: 660 (Ranked 269)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 92 |
-| This game is Relaxing | 86 |
+| This game is Relaxing | 87 |
 | This game has Quickly Understood Controls | 83 |
 | This game is Extremely Fun | 80 |
 | This game is Highly Recommended | 80 |
@@ -227,3 +228,4 @@ Diff (max vs sum): 68
 | 2023-05-21 | 4.19 | - | 91 | 658 |
 | 2023-05-22 | 4.19 | - | 92 | 659 |
 | 2023-05-24 | 4.18 | - | 92 | 659 |
+| 2023-05-29 | 4.18 | - | 92 | 660 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -808,9 +808,9 @@
       "ID": "MissionHelios",
       "SetID": "a6c395p",
       "Name": "Cult Slayer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 378
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -984,8 +984,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:41.1856195+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:39.8572086+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:59:41.921554+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:41.1856549+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:59:32.7455912+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:39.8572426+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1785,
+  "EOS_Progressed": 1788,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1804,6 +1804,11 @@
       "Time": "2023-05-29T08:05:22.7051653+00:00",
       "NumProgressed": 1785,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T09:05:21.6407357+00:00",
+      "NumProgressed": 1788,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1847,7 +1852,7 @@
       "Name": "Opposing Force",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1935,7 +1940,7 @@
       "Name": "Gunslinger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1951,7 +1956,7 @@
       "Name": "Sharpshooter",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1983,7 +1988,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2031,7 +2036,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2047,7 +2052,7 @@
       "Name": "Der Geist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2063,7 +2068,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2127,7 +2132,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2223,7 +2228,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2382,13 +2387,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1736,
+      "Progressed": 1739,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1785,
+      "Progressed": 1788,
       "Completed": 2
     }
   ],
@@ -2396,8 +2401,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:22.7051648+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:21.640735+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:00:10.1009677+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:22.7053165+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:59:59.4416029+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:21.6408105+00:00"
 }

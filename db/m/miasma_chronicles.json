@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -662,6 +662,11 @@
       "Time": "2023-05-29T08:00:37.5121682+00:00",
       "NumProgressed": 769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T09:00:28.6329308+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -687,9 +692,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 501
     },
     {
       "ID": "ATTENBOROUGH",
@@ -753,7 +758,7 @@
       "Name": "Croaked",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "CRUELTY",
@@ -857,7 +862,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 702
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -881,7 +886,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "GIANT_KILLER",
@@ -905,7 +910,7 @@
       "Name": "Gun for Hire",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -921,7 +926,7 @@
       "Name": "I am the law!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "INFILTRATOR",
@@ -929,7 +934,7 @@
       "Name": "Infiltrator",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LUMBERJACK",
@@ -937,7 +942,7 @@
       "Name": "Lumberjack",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -975,9 +980,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 532
     },
     {
       "ID": "RECYCLER",
@@ -993,7 +998,7 @@
       "Name": "Ruthless",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "SAVIOR",
@@ -1057,15 +1062,15 @@
       "Name": "The meaning of Kain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 31
     },
     {
       "ID": "WIPE_OUT",
@@ -1080,14 +1085,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:00:37.512168+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:00:28.6329298+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:58:15.2478234+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:00:37.5122137+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:58:09.5934312+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:00:28.6329779+00:00"
 }

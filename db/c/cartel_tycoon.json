@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -635,6 +635,11 @@
       "Time": "2023-05-28T16:05:36.1407936+00:00",
       "NumProgressed": 348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T09:05:32.065053+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -646,7 +651,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "cool-shirts",
@@ -670,7 +675,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "female-conqueror",
@@ -684,9 +689,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 133
     },
     {
       "ID": "hire-lieutenant",
@@ -694,7 +699,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "kill-lieutenants",
@@ -710,7 +715,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "play-at-night",
@@ -718,7 +723,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "product-profit",
@@ -732,9 +737,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "rename-lieutenant",
@@ -758,15 +763,15 @@
       "Name": "Spread",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 195
     },
     {
       "ID": "unlock-residences",
@@ -774,7 +779,7 @@
       "Name": "Pampered Life",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "upgrade-building",
@@ -782,7 +787,7 @@
       "Name": "Take-Off",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "use-submarine",
@@ -797,15 +802,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:33.3359576+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:32.0650523+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.0374277+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:59:45.4417149+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:33.335972+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:59:36.2599677+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:32.0650691+00:00"
 }

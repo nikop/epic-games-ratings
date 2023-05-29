@@ -6,9 +6,9 @@ Rating: 4.42 (Ranked 651)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 22.00% | ~393 |
-| Confirming Suspicions | 17.00% | ~303 |
-| The Kraken Wakes | 12.00% | ~214 |
-| It's Starting to Crack | 10.00% | ~178 |
+| Confirming Suspicions | 17.00% | ~304 |
+| The Kraken Wakes | 12.00% | ~215 |
+| It's Starting to Crack | 10.00% | ~179 |
 | Lord of War | 9.00% | ~161 |
 | Resourceful | 8.00% | ~143 |
 | Change the Channel | 8.00% | ~143 |
@@ -19,12 +19,12 @@ Rating: 4.42 (Ranked 651)
 | Taking it back | 6.00% | ~107 |
 | Explosive Efficiency | 5.00% | ~89 |
 | Target America | 5.00% | ~89 |
-| Opposing Force | 4.00% | ~71 |
-| Gunslinger | 4.00% | ~71 |
-| Sharpshooter | 4.00% | ~71 |
-| Die Nussknacker Sweet! | 4.00% | ~71 |
-| Der Geist | 4.00% | ~71 |
-| The Kraken Sleeps | 4.00% | ~71 |
+| Opposing Force | 4.00% | ~72 |
+| Gunslinger | 4.00% | ~72 |
+| Sharpshooter | 4.00% | ~72 |
+| Die Nussknacker Sweet! | 4.00% | ~72 |
+| Der Geist | 4.00% | ~72 |
+| The Kraken Sleeps | 4.00% | ~72 |
 | Liberté | 3.00% | ~54 |
 | Fields of Glory | 3.00% | ~54 |
 | Skirmisher | 3.00% | ~54 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 651)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,785 (Ranked 152)  
+Progressed: 1,788 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,785 | 2 |
+| 2023-05-29 | 1,788 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

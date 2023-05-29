@@ -2,10 +2,10 @@
   "ID": "acc5980b138144229ceaacdebb4cb054",
   "Name": "Smelter",
   "ProductSlug": "smelter-97a47b",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
     "PcReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 8.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:46.9022204+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2023-05-21T16:05:31.038459+00:00",
       "NumProgressed": 33,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-29T09:05:31.6803986+00:00",
+      "NumProgressed": 34,
       "NumCompleted": 3
     }
   ],
@@ -137,7 +142,7 @@
       "ID": "SMELTER_EREMAGU_RUNE",
       "SetID": "1g58k92",
       "Name": "Locked Away",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -171,7 +176,7 @@
       "Name": "What took you so long?",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SMELTER_FISSURES",
@@ -219,13 +224,13 @@
       "Name": "Time to Bash Some Heads!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SMELTER_GURABI_RUNE",
       "SetID": "1g58k92",
       "Name": "Deep in the Mounds",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -297,9 +302,9 @@
       "ID": "SMELTER_NEW_CHALLENGER",
       "SetID": "1g58k92",
       "Name": "Shiny!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SMELTER_NUTORO_CHALLENGES",
@@ -377,7 +382,7 @@
       "ID": "SMELTER_SALVAGE",
       "SetID": "1g58k92",
       "Name": "A Little Renovating",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -393,7 +398,7 @@
       "ID": "SMELTER_SMELT_PART1",
       "SetID": "1g58k92",
       "Name": "Smeltastic!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -435,7 +440,7 @@
       "Name": "Welcome to the Rumbly Lands!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SMELTER_XELADO",
@@ -474,7 +479,7 @@
     {
       "ID": "1g58k92",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 3
     }
   ],
@@ -482,8 +487,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:32.873746+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:31.680398+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2139919+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:58:44.9063371+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:32.8737862+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:58:38.8392301+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:31.6804407+00:00"
 }

@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 838)  
+Rating: 4.17 (Ranked 839)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,9 +21,9 @@ Rating: 4.17 (Ranked 838)
 | Snow Problem | 0.90% | ~564 |
 | Unstoppable Force | 0.90% | ~564 |
 | Bad Apples in Every Orchard | 0.90% | ~564 |
-| Protector of Gotham | 0.80% | ~501 |
-| Universal Health Scare | 0.80% | ~501 |
-| From Inside Gotham's Walls | 0.80% | ~501 |
+| Protector of Gotham | 0.80% | ~502 |
+| Universal Health Scare | 0.80% | ~502 |
+| From Inside Gotham's Walls | 0.80% | ~502 |
 | In Your Element | 0.70% | ~439 |
 | Rock and a Hard Place | 0.70% | ~439 |
 | Not On My Watch | 0.70% | ~439 |
@@ -34,9 +34,9 @@ Rating: 4.17 (Ranked 838)
 | Gotham Knight | 0.70% | ~439 |
 | End of an Era | 0.60% | ~376 |
 | Bulldozed | 0.60% | ~376 |
+| Gotham City Confidential | 0.60% | ~376 |
 | Out of Their League | 0.50% | ~313 |
 | Drone You Out | 0.50% | ~313 |
-| Gotham City Confidential | 0.50% | ~313 |
 | Fusion Expert | 0.40% | ~251 |
 | Family Meeting | 0.40% | ~251 |
 | Solid Alibi | 0.40% | ~251 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,686 (Ranked 70)  
+Progressed: 62,692 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,686 | 91 |
+| 2023-05-29 | 62,692 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,737 (Ranked 138)  

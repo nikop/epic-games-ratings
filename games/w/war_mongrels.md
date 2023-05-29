@@ -18,8 +18,8 @@ Number of Ratings: 34  (23.09.2022)
 | Missing in Action | 36.00% | ~107 |
 | The Motivation | 35.00% | ~104 |
 | Heroism | 32.00% | ~95 |
+| King of Knives | 32.00% | ~95 |
 | Collectibles of Chapter I | 31.00% | ~92 |
-| King of Knives | 31.00% | ~92 |
 | Consequences | 29.00% | ~86 |
 | Opportunities | 27.00% | ~80 |
 | The Horror | 26.00% | ~77 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296 (Ranked 221)  
+Progressed: 296 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

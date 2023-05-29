@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~700 |
-| Ranidaphobia | 68.00% | ~523 |
-| Aspiring Editor | 64.00% | ~492 |
-| Gun for Hire | 59.00% | ~454 |
-| I am the law! | 48.00% | ~369 |
-| Lumberjack | 28.00% | ~215 |
-| From Darkness to Light | 25.00% | ~192 |
+| First Blood | 91.00% | ~702 |
+| Ranidaphobia | 69.00% | ~532 |
+| Aspiring Editor | 65.00% | ~501 |
+| Gun for Hire | 59.00% | ~455 |
+| I am the law! | 48.00% | ~370 |
+| Lumberjack | 28.00% | ~216 |
+| From Darkness to Light | 25.00% | ~193 |
 | Limp Richard | 24.00% | ~185 |
 | Firestarter | 24.00% | ~185 |
-| Croaked | 22.00% | ~169 |
+| Croaked | 22.00% | ~170 |
 | Editor Adept | 19.00% | ~146 |
 | Exorcist | 19.00% | ~146 |
 | Giant Killer | 16.00% | ~123 |
-| The meaning of Kain | 15.00% | ~115 |
+| The meaning of Kain | 15.00% | ~116 |
 | Sensei | 14.00% | ~108 |
 | Hold The Line | 10.00% | ~77 |
 | Recycler | 10.00% | ~77 |
@@ -29,16 +29,16 @@
 | Ganglord | 6.00% | ~46 |
 | Jarhead | 6.00% | ~46 |
 | Pushing Daisy | 6.00% | ~46 |
-| Infiltrator | 5.00% | ~38 |
-| Ruthless | 5.00% | ~38 |
+| Infiltrator | 5.00% | ~39 |
+| Ruthless | 5.00% | ~39 |
 | Chain Reaction | 4.00% | ~31 |
 | Experienced | 4.00% | ~31 |
+| The Watchers | 4.00% | ~31 |
 | Wipe Out | 4.00% | ~31 |
 | Commando | 3.00% | ~23 |
 | Curveball | 3.00% | ~23 |
 | Endgame | 3.00% | ~23 |
 | Savior | 3.00% | ~23 |
-| The Watchers | 3.00% | ~23 |
 | Chaos Theory | 2.00% | ~15 |
 | Dr Jones | 2.00% | ~15 |
 | Side Order | 2.00% | ~15 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 181)  
+Progressed: 771 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
-| 2023-05-29 | 769 | 0 |
+| 2023-05-29 | 771 | 0 |

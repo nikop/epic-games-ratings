@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -706,10 +706,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 659,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2023-05-29T08:57:25.7898194+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 659,
+  "NumberOfAwards": 660,
   "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -753,7 +759,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has Amazing Characters",
@@ -774,9 +780,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5815,
+  "EOS_Progressed": 5817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2644,6 +2650,11 @@
       "Time": "2023-05-28T22:03:45.5297102+00:00",
       "NumProgressed": 5815,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T09:03:20.6029746+00:00",
+      "NumProgressed": 5817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2695,7 +2706,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3665
     },
     {
       "ID": "Control_All_Relics",
@@ -2711,7 +2722,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -2719,7 +2730,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2759,7 +2770,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4594
+      "UsersEstimate": 4595
     },
     {
       "ID": "First_Race_Met",
@@ -2767,7 +2778,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4246
     },
     {
       "ID": "First_Ship_Designed",
@@ -2775,7 +2786,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "First_Stream_Travel",
@@ -2791,7 +2802,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4536
+      "UsersEstimate": 4537
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2847,7 +2858,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "Level_5_Ship",
@@ -2871,7 +2882,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "Play_1000_Hours",
@@ -2975,7 +2986,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3607
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3143,7 +3154,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3165,9 +3176,9 @@
       "ID": "Win_CustomFaction",
       "SetID": "4h07amh",
       "Name": "Win with a Custom Faction",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 349
     },
     {
       "ID": "Win_Diplomacy",
@@ -3183,7 +3194,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Win_Influence",
@@ -3230,15 +3241,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5815,
+      "Progressed": 5817,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-05-24T02:57:17.2647785+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:03:33.0716863+00:00",
+  "LastChanged": "2023-05-29T08:57:25.7898192+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:03:20.602974+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.5418964+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:57:29.1252035+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:03:33.0717677+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:57:25.7898199+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:03:20.603064+00:00"
 }

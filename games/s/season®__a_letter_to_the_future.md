@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Leaver | 83.00% | ~729 |
-| Journal Beautifier | 83.00% | ~729 |
+| Home Leaver | 83.00% | ~730 |
+| Journal Beautifier | 83.00% | ~730 |
 | Outside World Seer | 65.00% | ~571 |
 | Stranger Encounterer | 37.00% | ~325 |
 | Grey Hands Praxis 101 | 28.00% | ~246 |
@@ -21,7 +21,7 @@
 | Love Uncoverer | 9.00% | ~79 |
 | Graffiti Artist | 8.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 878 (Ranked 177)  
+Progressed: 879 (Ranked 177)  
 Completed: 34 (3.87%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 34 (3.87%) (Ranked 37)
 | 2023-05-26 | 853 | 34 |
 | 2023-05-27 | 867 | 34 |
 | 2023-05-28 | 874 | 34 |
-| 2023-05-29 | 878 | 34 |
+| 2023-05-29 | 879 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

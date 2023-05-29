@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -711,9 +711,9 @@
       "ID": "ACH006",
       "SetID": "69nfp41",
       "Name": "Supreme conqueror",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH007",
@@ -863,9 +863,9 @@
       "ID": "ACH025",
       "SetID": "69nfp41",
       "Name": "My precious!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH026",
@@ -1071,8 +1071,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:25.751281+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:24.5287133+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.2461574+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:58:22.22087+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:25.7513248+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:58:16.7134092+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:24.5287532+00:00"
 }

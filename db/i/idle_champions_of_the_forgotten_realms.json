@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4000,9 +4000,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89085,
+  "EOS_Progressed": 89089,
   "EOS_Completed": 1894,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -7835,6 +7835,11 @@
       "Time": "2023-05-29T08:05:47.6311833+00:00",
       "NumProgressed": 89085,
       "NumCompleted": 1894
+    },
+    {
+      "Time": "2023-05-29T09:05:46.2986119+00:00",
+      "NumProgressed": 89089,
+      "NumCompleted": 1894
     }
   ],
   "TotalAchievements": 493,
@@ -8628,9 +8633,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1184",
@@ -9516,9 +9521,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 713
     },
     {
       "ID": "objective_completed_34",
@@ -11789,21 +11794,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55359,
+      "Progressed": 55363,
       "Completed": 2735
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89085,
+      "Progressed": 89089,
       "Completed": 1894
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-29T07:58:02.2008463+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:47.6311829+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:46.2986112+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:58:02.2008469+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:47.6334987+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:57:57.0056801+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:46.3013127+00:00"
 }

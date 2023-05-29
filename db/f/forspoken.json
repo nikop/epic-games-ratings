@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 848,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 82,
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38309,
+  "EOS_Progressed": 38310,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2777,6 +2777,11 @@
       "Time": "2023-05-29T08:05:32.6402696+00:00",
       "NumProgressed": 38309,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T09:05:31.5003413+00:00",
+      "NumProgressed": 38310,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2948,7 +2953,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -3004,7 +3009,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -3211,22 +3216,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38309,
+      "Progressed": 38310,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3146,
-      "Completed": 3146
+      "Progressed": 3147,
+      "Completed": 3147
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:32.6402688+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:31.5003407+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4981852+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:58:23.7288437+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:32.640329+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:58:18.187175+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:31.5004003+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1085,7 +1085,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 119515,
+  "EOS_Progressed": 119517,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
@@ -4470,6 +4470,11 @@
       "Time": "2023-05-29T08:05:28.6151779+00:00",
       "NumProgressed": 119515,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-29T09:05:27.3235898+00:00",
+      "NumProgressed": 119517,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -4505,7 +4510,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "ACH_COP_ART",
@@ -4561,7 +4566,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33464
+      "UsersEstimate": 33465
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -4585,7 +4590,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19122
+      "UsersEstimate": 19123
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -4617,7 +4622,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17927
+      "UsersEstimate": 17928
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -4641,7 +4646,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10756
+      "UsersEstimate": 10757
     },
     {
       "ID": "ACH_GLUTEN",
@@ -4705,7 +4710,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -4800,15 +4805,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 119515,
+      "Progressed": 119517,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-22T17:58:59.3664508+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:28.6151774+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:27.3235891+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:41.5073294+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:58:56.5689178+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:28.615229+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:58:48.2286498+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:27.323638+00:00"
 }

@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 848)  
+Rating: 4.15 (Ranked 849)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,8 +13,8 @@ Rating: 4.15 (Ranked 848)
 | Pilgrimage: Initiate | 6.00% | ~2,299 |
 | Hell of a Run | 6.00% | ~2,299 |
 | Call of the Fount: Baptized | 6.00% | ~2,299 |
-| No Mercy | 5.00% | ~1,915 |
-| Explorer: Seeker | 5.00% | ~1,915 |
+| No Mercy | 5.00% | ~1,916 |
+| Explorer: Seeker | 5.00% | ~1,916 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,532 |
 | Stuck | 4.00% | ~1,532 |
 | Help Me Out Here | 4.00% | ~1,532 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 848)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,309 (Ranked 82)  
+Progressed: 38,310 (Ranked 82)  
 Completed: 2 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 2 (0.01%) (Ranked 196)
 | 2023-05-26 | 38,246 | 1 |
 | 2023-05-27 | 38,278 | 2 |
 | 2023-05-28 | 38,304 | 2 |
-| 2023-05-29 | 38,309 | 2 |
+| 2023-05-29 | 38,310 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

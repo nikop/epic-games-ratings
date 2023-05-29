@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.39,
+  "EOS_Completed_Percentage": 4.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -774,6 +774,11 @@
       "Time": "2023-05-29T08:03:31.2152765+00:00",
       "NumProgressed": 296,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-29T09:03:18.8025708+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -833,7 +838,7 @@
       "Name": "Fond Memories",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "MQ03_2",
@@ -841,7 +846,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "MQ03_3",
@@ -849,7 +854,7 @@
       "Name": "History Check",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "MQ03_4",
@@ -857,7 +862,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "MQ03_5",
@@ -865,7 +870,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "MQ04_1",
@@ -889,7 +894,7 @@
       "Name": "The New World",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "MQ05_1",
@@ -897,7 +902,7 @@
       "Name": "Open Sesame",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ05_2",
@@ -905,7 +910,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ05_3",
@@ -913,7 +918,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ05_4",
@@ -921,7 +926,7 @@
       "Name": "Knives Out",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ06_1",
@@ -945,7 +950,7 @@
       "Name": "Land, Ho!",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ06_4",
@@ -953,7 +958,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ07_1",
@@ -1008,7 +1013,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 13
     }
   ],
@@ -1016,8 +1021,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:03:31.2152761+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:03:18.8025702+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:57:21.1596564+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:03:31.2152996+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:57:17.6130836+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:03:18.8025956+00:00"
 }

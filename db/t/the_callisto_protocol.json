@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 102,
@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13946,
+  "EOS_Progressed": 13947,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1979,6 +1979,11 @@
       "Time": "2023-05-29T07:04:11.0759036+00:00",
       "NumProgressed": 13946,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T09:03:25.3588542+00:00",
+      "NumProgressed": 13947,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2012,9 +2017,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 279
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2309,13 +2314,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13946,
+      "Progressed": 13947,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1872,
+      "Progressed": 1873,
       "Completed": 29
     }
   ],
@@ -2323,8 +2328,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:03:38.0689273+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:03:25.3588536+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:57:51.1366487+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:03:38.0689687+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:57:47.8362669+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:03:25.3588971+00:00"
 }

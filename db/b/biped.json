@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2162,
+  "EOS_Progressed": 2164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2401,6 +2401,11 @@
       "Time": "2023-05-29T08:05:10.3735711+00:00",
       "NumProgressed": 2162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T09:05:09.7179125+00:00",
+      "NumProgressed": 2164,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2476,7 +2481,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "4",
@@ -2516,7 +2521,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "9",
@@ -2531,7 +2536,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 2162,
+      "Progressed": 2164,
       "Completed": 0
     }
   ],
@@ -2539,8 +2544,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:10.3735701+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:09.717912+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.8518043+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:58:02.3241558+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:10.3735975+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:57:57.1257721+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:09.7179368+00:00"
 }

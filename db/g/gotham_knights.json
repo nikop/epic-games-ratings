@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1280,9 +1280,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62686,
+  "EOS_Progressed": 62692,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4205,6 +4205,11 @@
       "Time": "2023-05-29T08:05:42.4777972+00:00",
       "NumProgressed": 62686,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T09:05:41.0392315+00:00",
+      "NumProgressed": 62692,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4312,7 +4317,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "CLAYFACE_1",
@@ -4544,7 +4549,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -4640,7 +4645,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "MYSTERY_06",
@@ -4670,9 +4675,9 @@
       "ID": "SECRET_CACHE",
       "SetID": "4eo5ebm",
       "Name": "Gotham City Confidential",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 376
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -4703,13 +4708,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62686,
+      "Progressed": 62692,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32966,
+      "Progressed": 32972,
       "Completed": 2643
     }
   ],
@@ -4717,8 +4722,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T21:59:47.3836473+00:00",
-  "LastChanged_Achievements": "2023-05-29T08:05:42.4777968+00:00",
+  "LastChanged_Achievements": "2023-05-29T09:05:41.0392311+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:59:29.223423+00:00",
-  "LastUpdate_Achievements": "2023-05-29T08:05:42.4778716+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:59:19.8789924+00:00",
+  "LastUpdate_Achievements": "2023-05-29T09:05:41.0392936+00:00"
 }

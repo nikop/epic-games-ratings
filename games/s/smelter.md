@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 88.00% | ~29 |
-| Welcome to the Rumbly Lands! | 88.00% | ~29 |
-| Time to Bash Some Heads! | 82.00% | ~27 |
-| Shiny! | 70.00% | ~23 |
-| Deep in the Mounds | 67.00% | ~22 |
-| Locked Away | 33.00% | ~11 |
-| Smeltastic! | 33.00% | ~11 |
-| A Little Renovating | 30.00% | ~10 |
+| What took you so long? | 88.00% | ~30 |
+| Welcome to the Rumbly Lands! | 88.00% | ~30 |
+| Time to Bash Some Heads! | 82.00% | ~28 |
+| Shiny! | 71.00% | ~24 |
+| Deep in the Mounds | 65.00% | ~22 |
+| Locked Away | 32.00% | ~11 |
+| Smeltastic! | 32.00% | ~11 |
+| A Little Renovating | 29.00% | ~10 |
 | Deflect This! | 24.00% | ~8 |
 | Just Some Improvements | 21.00% | ~7 |
 | It's a Sign! | 21.00% | ~7 |
@@ -56,8 +56,8 @@
 | With a Little Help from My Friends | 9.00% | ~3 |
 | The More the Merrier | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 312)  
-Completed: 3 (9.09%) (Ranked 16)  
+Progressed: 34 (Ranked 309)  
+Completed: 3 (8.82%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 3 (9.09%) (Ranked 16)
 | 2023-05-16 | 31 | 3 |
 | 2023-05-19 | 32 | 3 |
 | 2023-05-21 | 33 | 3 |
+| 2023-05-29 | 34 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
