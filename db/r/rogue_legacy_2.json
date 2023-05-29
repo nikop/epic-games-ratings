@@ -1125,7 +1125,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21916,
+  "EOS_Progressed": 21917,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
@@ -3170,6 +3170,11 @@
       "Time": "2023-05-29T22:05:37.632768+00:00",
       "NumProgressed": 21916,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-29T23:06:25.0310931+00:00",
+      "NumProgressed": 21917,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -3341,7 +3346,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -3492,21 +3497,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21916,
+      "Progressed": 21917,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 846,
+      "Progressed": 847,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-29T20:00:06.0882849+00:00",
-  "LastChanged_Achievements": "2023-05-29T22:05:37.6327675+00:00",
+  "LastChanged_Achievements": "2023-05-29T23:06:25.0310926+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.3423496+00:00",
-  "LastUpdate_Ratings": "2023-05-29T21:58:52.8586012+00:00",
-  "LastUpdate_Achievements": "2023-05-29T22:05:37.6328098+00:00"
+  "LastUpdate_Ratings": "2023-05-29T22:59:31.4235782+00:00",
+  "LastUpdate_Achievements": "2023-05-29T23:06:25.0311267+00:00"
 }

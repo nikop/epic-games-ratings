@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 451)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 11.00% | ~250 |
+| Wakey Wakey | 11.00% | ~251 |
 | Sputnik 2049 | 10.00% | ~228 |
 | Without Breaking Some Eggs... | 9.00% | ~205 |
 | Infinite Growth... | 9.00% | ~205 |
+| Ready for a New World | 6.00% | ~137 |
 | Space Society | 5.00% | ~114 |
 | A Thousand Strong | 5.00% | ~114 |
-| Ready for a New World | 5.00% | ~114 |
 | Guy de Borderlands | 4.00% | ~91 |
 | Breaking Protocol | 4.00% | ~91 |
 | Permanent Redesigns | 4.00% | ~91 |
@@ -33,7 +33,7 @@ Rating: 4.56 (Ranked 451)
 | In Dolos We Trust | 1.00% | ~23 |
 | BRAWL! | 1.00% | ~23 |
 | All in Good Health | 1.00% | ~23 |
-| What They Hide From Us | 0.90% | ~20 |
+| What They Hide From Us | 0.90% | ~21 |
 | ...  in a finite world | 0.80% | ~18 |
 | Delivery! | 0.80% | ~18 |
 | What the Ruins Teach Us | 0.80% | ~18 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,277 (Ranked 144)  
+Progressed: 2,278 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 2,182 | 0 |
 | 2023-05-27 | 2,211 | 0 |
 | 2023-05-28 | 2,248 | 0 |
-| 2023-05-29 | 2,277 | 0 |
+| 2023-05-29 | 2,278 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

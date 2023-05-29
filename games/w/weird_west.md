@@ -6,18 +6,18 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,366 |
+| Unforgiven | 87.00% | ~1,367 |
 | Self-Improvement | 71.00% | ~1,115 |
-| Perky | 66.00% | ~1,036 |
-| Let’s Ride | 60.00% | ~942 |
+| Perky | 66.00% | ~1,037 |
+| Let’s Ride | 60.00% | ~943 |
 | Welcome to the Weird West | 58.00% | ~911 |
-| Dead or Alive | 56.00% | ~879 |
+| Dead or Alive | 56.00% | ~880 |
 | Full House | 37.00% | ~581 |
-| Off the Trail | 34.00% | ~534 |
+| Off the Trail | 33.00% | ~518 |
 | Justice Served | 28.00% | ~440 |
 | Chain Reaction | 27.00% | ~424 |
-| Scholar | 25.00% | ~392 |
-| Through Their Eyes | 25.00% | ~392 |
+| Scholar | 25.00% | ~393 |
+| Through Their Eyes | 25.00% | ~393 |
 | Dishonored | 24.00% | ~377 |
 | Rain of Death | 24.00% | ~377 |
 | The Great Escape | 23.00% | ~361 |
@@ -27,13 +27,13 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~251 |
 | For Balance | 15.00% | ~236 |
 | Dog Days | 13.00% | ~204 |
-| Elusive Prey | 12.00% | ~188 |
-| Out on the Ebb Tide | 12.00% | ~188 |
-| Power Behind the Pulpit | 12.00% | ~188 |
-| Something Wicked This Way Comes… | 12.00% | ~188 |
-| There is Hope | 12.00% | ~188 |
-| Turning the Tables | 12.00% | ~188 |
-| Workers' Rights | 12.00% | ~188 |
+| Elusive Prey | 12.00% | ~189 |
+| Out on the Ebb Tide | 12.00% | ~189 |
+| Power Behind the Pulpit | 12.00% | ~189 |
+| Something Wicked This Way Comes… | 12.00% | ~189 |
+| There is Hope | 12.00% | ~189 |
+| Turning the Tables | 12.00% | ~189 |
+| Workers' Rights | 12.00% | ~189 |
 | Loyalty to the Pack | 9.00% | ~141 |
 | Eternity Can Wait | 9.00% | ~141 |
 | Mystery Machine | 9.00% | ~141 |
@@ -44,9 +44,9 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 7.00% | ~110 |
 | Knuckle Sandwich | 7.00% | ~110 |
 | Who You Gonna Call? | 6.00% | ~94 |
-| Healing Old Wounds | 5.00% | ~78 |
-| This Is Sparta | 5.00% | ~78 |
-| What’s in the Box? | 5.00% | ~78 |
+| Healing Old Wounds | 5.00% | ~79 |
+| This Is Sparta | 5.00% | ~79 |
+| What’s in the Box? | 5.00% | ~79 |
 | Ghost Town | 3.00% | ~47 |
 | Moondrunk | 3.00% | ~47 |
 | Lord Inut Sends His Regards | 2.00% | ~31 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,570 (Ranked 155)  
+Progressed: 1,571 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-26 | 1,547 | 2 |
 | 2023-05-27 | 1,560 | 2 |
 | 2023-05-28 | 1,562 | 2 |
-| 2023-05-29 | 1,570 | 2 |
+| 2023-05-29 | 1,571 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

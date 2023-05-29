@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.15,
+  "EOS_Completed_Percentage": 4.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -824,6 +824,11 @@
       "Time": "2023-05-29T22:03:34.0266075+00:00",
       "NumProgressed": 313,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-29T23:03:52.1846088+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -841,17 +846,17 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "MQ02_2",
@@ -867,7 +872,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "MQ02_4",
@@ -891,7 +896,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "MQ03_3",
@@ -907,7 +912,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "MQ03_5",
@@ -921,9 +926,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "MQ04_2",
@@ -939,7 +944,7 @@
       "Name": "The New World",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "MQ05_1",
@@ -1041,9 +1046,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 100
     },
     {
       "ID": "PLTN",
@@ -1058,7 +1063,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 13
     }
   ],
@@ -1066,8 +1071,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T22:03:34.026607+00:00",
+  "LastChanged_Achievements": "2023-05-29T23:03:52.1846078+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T21:57:16.0217505+00:00",
-  "LastUpdate_Achievements": "2023-05-29T22:03:34.0266339+00:00"
+  "LastUpdate_Ratings": "2023-05-29T22:57:10.5978795+00:00",
+  "LastUpdate_Achievements": "2023-05-29T23:03:52.1846327+00:00"
 }

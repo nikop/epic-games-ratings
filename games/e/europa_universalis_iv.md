@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,191 |
-| That's a Grand Army | 8.00% | ~3,725 |
-| That is mine! | 8.00% | ~3,725 |
-| Victorious! | 8.00% | ~3,725 |
-| Brothers in Arms | 6.00% | ~2,794 |
-| That's a Grand Navy | 6.00% | ~2,794 |
-| Seriously?! | 6.00% | ~2,794 |
-| For the Glory | 5.00% | ~2,328 |
+| Until death do us apart | 9.00% | ~4,192 |
+| That's a Grand Army | 8.00% | ~3,726 |
+| That is mine! | 8.00% | ~3,726 |
+| Victorious! | 8.00% | ~3,726 |
+| Brothers in Arms | 6.00% | ~2,795 |
+| That's a Grand Navy | 6.00% | ~2,795 |
+| Seriously?! | 6.00% | ~2,795 |
+| For the Glory | 5.00% | ~2,329 |
 | Cold War | 4.00% | ~1,863 |
 | True Catholic | 4.00% | ~1,863 |
 | Defender of the Faith | 3.00% | ~1,397 |
 | It's all about the money | 3.00% | ~1,397 |
 | Respected | 3.00% | ~1,397 |
 | Truly Divine Ruler | 3.00% | ~1,397 |
-| Agressive Expander | 2.00% | ~931 |
-| Blockader | 2.00% | ~931 |
-| Combined Arms | 2.00% | ~931 |
-| Double the Love | 2.00% | ~931 |
-| Gentle Persuasion | 2.00% | ~931 |
-| It's all about luck | 2.00% | ~931 |
-| Queen of Conquest | 2.00% | ~931 |
-| Royal Authority | 2.00% | ~931 |
-| The Princess is in this Castle | 2.00% | ~931 |
-| Total Control | 2.00% | ~931 |
+| Agressive Expander | 2.00% | ~932 |
+| Blockader | 2.00% | ~932 |
+| Combined Arms | 2.00% | ~932 |
+| Double the Love | 2.00% | ~932 |
+| Gentle Persuasion | 2.00% | ~932 |
+| It's all about luck | 2.00% | ~932 |
+| Queen of Conquest | 2.00% | ~932 |
+| Royal Authority | 2.00% | ~932 |
+| The Princess is in this Castle | 2.00% | ~932 |
+| Total Control | 2.00% | ~932 |
 | All That's Thine Shall Be Mine | 1.00% | ~466 |
 | Azur semé de lis or | 1.00% | ~466 |
 | Bright Spark | 1.00% | ~466 |
@@ -56,7 +56,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trophy Hunter | 0.50% | ~233 |
 | Voting Streak | 0.50% | ~233 |
 | Absolutely | 0.40% | ~186 |
-| Bleed Them Dry | 0.40% | ~186 |
 | Dude, Where's my Boat? | 0.40% | ~186 |
 | Grand Coalition | 0.40% | ~186 |
 | In the Name of the Father | 0.40% | ~186 |
@@ -66,6 +65,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.40% | ~186 |
 | A Pile of Gold | 0.30% | ~140 |
 | All Your Trade Are Belong to Us | 0.30% | ~140 |
+| Bleed Them Dry | 0.30% | ~140 |
 | Four For Trade | 0.30% | ~140 |
 | Global Hegemony | 0.30% | ~140 |
 | Grand Duchy | 0.30% | ~140 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,566 (Ranked 78)  
+Progressed: 46,581 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,10 +400,10 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 44,401 | 0 |
 | 2023-05-27 | 45,190 | 0 |
 | 2023-05-28 | 45,938 | 0 |
-| 2023-05-29 | 46,566 | 0 |
+| 2023-05-29 | 46,581 | 0 |
 ## Awards
 Max (Educational): 5,306  (Ranked 60)  
-Sum: 43,912 (Ranked 27)  
+Sum: 43,917 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -414,7 +414,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 4,999 |
 | This game is Relaxing | 4,934 |
 | This game has Competitive Players | 4,780 |
-| This game has Amazing Storytelling | 4,521 |
+| This game has Amazing Storytelling | 4,526 |
 | This game has Amazing Characters | 4,177 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -552,4 +552,4 @@ Diff (max vs sum): 33
 | 2023-05-26 | 4.68 | - | 5,287 | 43,808 |
 | 2023-05-27 | 4.68 | - | 5,293 | 43,840 |
 | 2023-05-28 | 4.68 | - | 5,302 | 43,881 |
-| 2023-05-29 | 4.68 | - | 5,306 | 43,912 |
+| 2023-05-29 | 4.68 | - | 5,306 | 43,917 |

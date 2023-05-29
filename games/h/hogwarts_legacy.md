@@ -5,18 +5,18 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 7.00% | ~19,192 |
-| Grappling with a Graphorn | 6.00% | ~16,450 |
-| The One Who Mastered Memories | 6.00% | ~16,450 |
-| The Hallowed Hero | 6.00% | ~16,450 |
-| The Hero of Hogwarts | 6.00% | ~16,450 |
-| The Defender of Dragons | 6.00% | ~16,450 |
-| A Keen Sense of Spell | 6.00% | ~16,450 |
-| Loom for Improvement | 6.00% | ~16,450 |
-| Coasting Along | 6.00% | ~16,450 |
-| First Class Student | 6.00% | ~16,450 |
-| Troll with the Punches | 6.00% | ~16,450 |
-| That's a Keeper | 6.00% | ~16,450 |
+| The Sort Who Makes an Entrance | 7.00% | ~19,193 |
+| Grappling with a Graphorn | 6.00% | ~16,451 |
+| The One Who Mastered Memories | 6.00% | ~16,451 |
+| The Hallowed Hero | 6.00% | ~16,451 |
+| The Hero of Hogwarts | 6.00% | ~16,451 |
+| The Defender of Dragons | 6.00% | ~16,451 |
+| A Keen Sense of Spell | 6.00% | ~16,451 |
+| Loom for Improvement | 6.00% | ~16,451 |
+| Coasting Along | 6.00% | ~16,451 |
+| First Class Student | 6.00% | ~16,451 |
+| Troll with the Punches | 6.00% | ~16,451 |
+| That's a Keeper | 6.00% | ~16,451 |
 | The Avenging Gazelle | 5.00% | ~13,709 |
 | Beast Friends | 5.00% | ~13,709 |
 | A Sallow Grave | 5.00% | ~13,709 |
@@ -26,13 +26,13 @@ Rating: 4.77 (Ranked 105)
 | Followed the Butterflies | 5.00% | ~13,709 |
 | The Spell Master | 5.00% | ~13,709 |
 | Rising From the Ashes | 5.00% | ~13,709 |
-| The Seeker of Knowledge | 4.00% | ~10,967 |
-| The Root of the Problem | 3.00% | ~8,225 |
-| Third Time's a Charm | 3.00% | ~8,225 |
-| Room with a View | 3.00% | ~8,225 |
-| The Intrepid Explorer | 3.00% | ~8,225 |
-| The Ends Petrify the Means | 3.00% | ~8,225 |
-| Raising Expectations | 3.00% | ~8,225 |
+| The Seeker of Knowledge | 4.00% | ~10,968 |
+| The Root of the Problem | 3.00% | ~8,226 |
+| Third Time's a Charm | 3.00% | ~8,226 |
+| Room with a View | 3.00% | ~8,226 |
+| The Intrepid Explorer | 3.00% | ~8,226 |
+| The Ends Petrify the Means | 3.00% | ~8,226 |
+| Raising Expectations | 3.00% | ~8,226 |
 | The Toast of the Town | 2.00% | ~5,484 |
 | Going Through the Potions | 2.00% | ~5,484 |
 | Floo Around the World | 2.00% | ~5,484 |
@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 105)
 | Finishing Touches | 1.00% | ~2,742 |
 | Demiguise Dread | 0.90% | ~2,468 |
 | A Forte for Achievement | 0.90% | ~2,468 |
-| Savvy Spender | 0.80% | ~2,193 |
+| Savvy Spender | 0.80% | ~2,194 |
 | Merlin's Beard! | 0.60% | ~1,645 |
 | Spilled Milk | 0.50% | ~1,371 |
 | The Nature of the Beast | 0.40% | ~1,097 |
 | Collector's Edition | 0.20% | ~548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,175 (Ranked 39)  
+Progressed: 274,189 (Ranked 39)  
 Completed: 378 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,14 +90,14 @@ Completed: 378 (0.14%) (Ranked 151)
 | 2023-05-26 | 272,827 | 374 |
 | 2023-05-27 | 273,323 | 376 |
 | 2023-05-28 | 273,796 | 377 |
-| 2023-05-29 | 274,175 | 378 |
+| 2023-05-29 | 274,189 | 378 |
 ## Awards
-Max (Character Customization): 19,274  (Ranked 18)  
-Sum: 35,593 (Ranked 33)  
+Max (Character Customization): 19,315  (Ranked 18)  
+Sum: 35,634 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 19,274 |
+| This game has Inclusive Character Customization | 19,315 |
 | This game has Great Boss Battles | 9,122 |
 | This game is Great for Beginners | 791 |
 | This game is Extremely Fun | 791 |
@@ -178,4 +178,4 @@ Diff (max vs sum): -15
 | 2023-05-26 | 4.77 | 19,190 | 35,361 |
 | 2023-05-27 | 4.77 | 19,220 | 35,444 |
 | 2023-05-28 | 4.77 | 19,274 | 35,543 |
-| 2023-05-29 | 4.77 | 19,274 | 35,593 |
+| 2023-05-29 | 4.77 | 19,315 | 35,634 |

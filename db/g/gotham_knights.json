@@ -1292,9 +1292,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62788,
+  "EOS_Progressed": 62796,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4287,6 +4287,11 @@
       "Time": "2023-05-29T22:05:50.5604728+00:00",
       "NumProgressed": 62788,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T23:06:41.2995012+00:00",
+      "NumProgressed": 62796,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4392,9 +4397,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 565
     },
     {
       "ID": "CLAYFACE_1",
@@ -4728,9 +4733,9 @@
       "ID": "MYSTERY_06",
       "SetID": "4eo5ebm",
       "Name": "Voiceless",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 502
     },
     {
       "ID": "MYSTERY_07",
@@ -4785,13 +4790,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62788,
+      "Progressed": 62796,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33068,
+      "Progressed": 33076,
       "Completed": 2643
     }
   ],
@@ -4799,8 +4804,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-29T17:01:00.287079+00:00",
-  "LastChanged_Achievements": "2023-05-29T22:05:50.5604722+00:00",
+  "LastChanged_Achievements": "2023-05-29T23:06:41.2995009+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T21:59:22.0107576+00:00",
-  "LastUpdate_Achievements": "2023-05-29T22:05:50.5605375+00:00"
+  "LastUpdate_Ratings": "2023-05-29T23:00:15.4711587+00:00",
+  "LastUpdate_Achievements": "2023-05-29T23:06:41.2995594+00:00"
 }

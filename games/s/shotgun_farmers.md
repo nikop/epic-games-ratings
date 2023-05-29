@@ -29,10 +29,10 @@
 | Quit Horsin' Around | 6.00% | ~4 |
 | Perfect | 6.00% | ~1 |
 | Master Survivor | 6.00% | ~1 |
+| This Is My Boomstick | 5.00% | ~1 |
 | Summers Here | 5.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |
 | Pyromaniac | 3.00% | ~0 |
-| This Is My Boomstick | 3.00% | ~0 |
 | Easy Peasy | 3.00% | ~0 |
 | Chick Magnet | 2.00% | ~1 |
 | Getting Started | 2.00% | ~1 |

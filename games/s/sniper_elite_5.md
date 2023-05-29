@@ -1,23 +1,23 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.42 (Ranked 651)  
+Rating: 4.43 (Ranked 641)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 23.00% | ~423 |
+| Meeting Resistance | 23.00% | ~424 |
 | Confirming Suspicions | 17.00% | ~313 |
 | The Kraken Wakes | 13.00% | ~239 |
-| It's Starting to Crack | 11.00% | ~202 |
+| It's Starting to Crack | 11.00% | ~203 |
 | Lord of War | 9.00% | ~166 |
 | Resourceful | 8.00% | ~147 |
 | Change the Channel | 8.00% | ~147 |
 | Enemy at the Gates | 7.00% | ~129 |
 | Organ Grinder | 7.00% | ~129 |
 | Taking it back | 7.00% | ~129 |
-| Just a Flesh Wound | 6.00% | ~110 |
-| Explosive Efficiency | 6.00% | ~110 |
-| As Quiet as a Mouse | 6.00% | ~110 |
+| Just a Flesh Wound | 6.00% | ~111 |
+| Explosive Efficiency | 6.00% | ~111 |
+| As Quiet as a Mouse | 6.00% | ~111 |
 | Gunslinger | 5.00% | ~92 |
 | Target America | 5.00% | ~92 |
 | Liberté | 4.00% | ~74 |
@@ -34,8 +34,8 @@ Rating: 4.42 (Ranked 651)
 | Skirmisher | 3.00% | ~55 |
 | Set Europe Ablaze | 3.00% | ~55 |
 | Precision Is Key | 3.00% | ~55 |
-| Brains of the Operation | 3.00% | ~55 |
 | Rigged to Blow | 2.00% | ~37 |
+| Brains of the Operation | 2.00% | ~37 |
 | The Long Game | 1.00% | ~18 |
 | My Little Friend | 1.00% | ~18 |
 | It'll Buff Right Out | 1.00% | ~18 |
@@ -51,11 +51,11 @@ Rating: 4.42 (Ranked 651)
 | Last Resort | 0.50% | ~9 |
 | From Paris with Love | 0.40% | ~7 |
 | Up close and personal | 0.40% | ~7 |
+| Burn after reading | 0.30% | ~6 |
 | Souvenir hunter | 0.30% | ~6 |
 | Eagle Eyed | 0.30% | ~6 |
 | Can't Outrun A Bullet | 0.30% | ~6 |
 | Sink or Swim | 0.30% | ~2 |
-| Burn after reading | 0.20% | ~4 |
 | Sight Beyond Sights | 0.20% | ~4 |
 | Shoot for the Moon | 0.20% | ~4 |
 | Reich To The Point | 0.20% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 651)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,840 (Ranked 152)  
+Progressed: 1,842 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,840 | 2 |
+| 2023-05-29 | 1,842 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -152,3 +152,4 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 4.39 | 0 | 0 |
 | 2023-05-27 | 4.41 | 0 | 0 |
 | 2023-05-28 | 4.42 | 0 | 0 |
+| 2023-05-29 | 4.43 | 0 | 0 |

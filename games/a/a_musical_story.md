@@ -14,7 +14,7 @@
 | Road-Trip | 60.00% | ~38 |
 | A Musical Pause | 59.00% | ~37 |
 | Sound of Noise | 48.00% | ~30 |
-| Briget's | 46.00% | ~29 |
+| Briget's | 48.00% | ~30 |
 | Big City Music | 43.00% | ~27 |
 | Love at First Sight | 43.00% | ~27 |
 | First Kiss | 37.00% | ~23 |

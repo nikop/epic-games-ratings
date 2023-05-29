@@ -20,17 +20,17 @@ Rating: 4.17 (Ranked 840)
 | Whispered Words | 1.00% | ~628 |
 | Lock and Key | 1.00% | ~628 |
 | Bad Apples in Every Orchard | 1.00% | ~628 |
+| Protector of Gotham | 0.90% | ~565 |
 | The Show Mud Go On | 0.90% | ~565 |
 | From Inside Gotham's Walls | 0.90% | ~565 |
-| Protector of Gotham | 0.80% | ~502 |
 | Rock and a Hard Place | 0.80% | ~502 |
 | Universal Health Scare | 0.80% | ~502 |
+| Voiceless | 0.80% | ~502 |
 | End of an Era | 0.70% | ~440 |
 | In Your Element | 0.70% | ~440 |
 | Not On My Watch | 0.70% | ~440 |
 | Shock Til They Drop | 0.70% | ~440 |
 | Cooldown | 0.70% | ~440 |
-| Voiceless | 0.70% | ~440 |
 | Seeking Asylum | 0.70% | ~440 |
 | Gotham Knight | 0.70% | ~440 |
 | Bulldozed | 0.60% | ~377 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,788 (Ranked 70)  
+Progressed: 62,796 (Ranked 70)  
 Completed: 91 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,788 | 91 |
+| 2023-05-29 | 62,796 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,740 (Ranked 138)  

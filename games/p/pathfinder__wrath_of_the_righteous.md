@@ -45,10 +45,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 1.00% | ~81 |
 | Sarkoris Will Be Green | 1.00% | ~81 |
 | Abyssal Conspiracy | 0.90% | ~84 |
+| This Wall Won't Fall | 0.80% | ~65 |
 | The Final Threshold | 0.70% | ~65 |
 | Strategic Victory | 0.70% | ~65 |
 | End of Eternal Guard | 0.70% | ~65 |
-| This Wall Won't Fall | 0.70% | ~57 |
 | Not the Last Sarkorian | 0.70% | ~57 |
 | Path of the Dragon | 0.60% | ~56 |
 | Path of the Legend | 0.60% | ~56 |

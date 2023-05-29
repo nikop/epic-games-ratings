@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 834,
   "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 79,
@@ -420,10 +420,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-29T22:57:57.4485739+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -443,7 +449,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Characters",
@@ -470,7 +476,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14005,
+  "EOS_Progressed": 14012,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 1,
@@ -2050,6 +2056,11 @@
       "Time": "2023-05-29T22:03:40.5261589+00:00",
       "NumProgressed": 14005,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T23:04:00.6536359+00:00",
+      "NumProgressed": 14012,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2077,7 +2088,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2093,7 +2104,7 @@
       "Name": "Flesh Wound",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2189,7 +2200,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "KILL_ROBOT",
@@ -2229,7 +2240,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2237,7 +2248,7 @@
       "Name": "Paper Jams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2253,7 +2264,7 @@
       "Name": "The Outer Way",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2293,7 +2304,7 @@
       "Name": "Desperate Times",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2333,7 +2344,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2341,7 +2352,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2380,22 +2391,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14005,
+      "Progressed": 14012,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1931,
+      "Progressed": 1938,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-29T21:57:48.7010346+00:00",
-  "LastChanged_Achievements": "2023-05-29T22:03:40.5261584+00:00",
+  "LastChanged": "2023-05-29T22:57:57.4485737+00:00",
+  "LastChanged_Achievements": "2023-05-29T23:04:00.6536355+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T21:57:48.7010352+00:00",
-  "LastUpdate_Achievements": "2023-05-29T22:03:40.5261983+00:00"
+  "LastUpdate_Ratings": "2023-05-29T22:57:57.4485742+00:00",
+  "LastUpdate_Achievements": "2023-05-29T23:04:00.653669+00:00"
 }
