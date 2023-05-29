@@ -2,20 +2,20 @@
   "ID": "c0f696a36d1d49f9a6a96a732a83acfc",
   "Name": "This Is The Police 2",
   "ProductSlug": "this-is-the-police-2",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-24T17:00:00+00:00",
     "PcReleaseDate": "2018-07-31T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 29,
   "RatingHistory": [
     {
@@ -173,6 +173,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-29T04:59:58.6127027+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -190,8 +196,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.818188+00:00",
-  "LastChanged": "2023-03-31T05:57:39.8504126+00:00",
+  "LastChanged": "2023-05-29T04:59:58.6127025+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.5509681+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:01:32.1275805+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:23.0252081+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:59:58.6127031+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:07.7604544+00:00"
 }

@@ -18,7 +18,7 @@ Rating: 4.51 (Ranked 522)
 | Kitchen Ready To Cook | 44.00% | ~664 |
 | Collect Gold | 43.00% | ~648 |
 | Smithy Ready to Craft | 43.00% | ~648 |
-| Fix the Travellers Wagon | 41.00% | ~618 |
+| Fix the Travellers Wagon | 42.00% | ~633 |
 | Complete Elder Faction | 39.00% | ~588 |
 | Throne Room Fit For A King | 36.00% | ~543 |
 | End of the Mozis | 35.00% | ~528 |

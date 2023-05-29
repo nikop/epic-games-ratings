@@ -22,21 +22,21 @@
 | Producer | 46.00% | ~154 |
 | Stoker | 44.00% | ~147 |
 | Bridge Builder | 43.00% | ~144 |
-| Access granted | 38.00% | ~127 |
+| Access granted | 39.00% | ~130 |
 | Full Steam ahead | 29.00% | ~97 |
 | Going once, going twice, sold | 29.00% | ~97 |
 | Seven at one stroke | 22.00% | ~73 |
 | Bull and bear | 22.00% | ~73 |
 | Mole | 20.00% | ~67 |
+| All mine | 19.00% | ~63 |
 | Trailblazer | 18.00% | ~60 |
-| All mine | 18.00% | ~60 |
 | Financial Shark | 18.00% | ~60 |
 | Hostile Takeover | 16.00% | ~53 |
 | General Manager | 15.00% | ~50 |
 | Country Life | 15.00% | ~50 |
 | Traffic Jam | 10.00% | ~33 |
 | Traffic Junction | 10.00% | ~33 |
-| Assimilated | 8.00% | ~27 |
+| Assimilated | 9.00% | ~30 |
 | Locusts | 8.00% | ~27 |
 | Resistance is futile | 6.00% | ~20 |
 | Breaking Ground | 6.00% | ~20 |

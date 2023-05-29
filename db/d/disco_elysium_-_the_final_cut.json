@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1085,9 +1085,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 119499,
+  "EOS_Progressed": 119503,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4450,6 +4450,11 @@
       "Time": "2023-05-29T04:06:53.7041872+00:00",
       "NumProgressed": 119499,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-29T05:05:29.7156698+00:00",
+      "NumProgressed": 119503,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -4493,7 +4498,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21510
+      "UsersEstimate": 21511
     },
     {
       "ID": "ACH_COP_BAD",
@@ -4517,7 +4522,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28680
+      "UsersEstimate": 28681
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -4541,7 +4546,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33460
+      "UsersEstimate": 33461
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -4549,7 +4554,7 @@
       "Name": "The Most Honourable Cop in The Land",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_COP_LAW",
@@ -4573,7 +4578,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23900
+      "UsersEstimate": 23901
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -4629,7 +4634,7 @@
       "Name": "Gluten-Free Topping Pie",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_HARDCORE_ENDGAME",
@@ -4669,7 +4674,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ACH_KIM",
@@ -4693,7 +4698,7 @@
       "Name": "Get Kim to Wear *The Jacket*",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_LEOPART_MINDSET",
@@ -4701,7 +4706,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_MEDAL",
@@ -4709,7 +4714,7 @@
       "Name": "Medal dispenser",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_MULLEN",
@@ -4717,7 +4722,7 @@
       "Name": "Modus: Mullen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_NETWORTHY",
@@ -4725,7 +4730,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -4733,7 +4738,7 @@
       "Name": "Palerunner",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_PINBALL",
@@ -4765,7 +4770,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ACH_WHATBODY",
@@ -4773,22 +4778,22 @@
       "Name": "What body?",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 119499,
+      "Progressed": 119503,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-22T17:58:59.3664508+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:53.7041868+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:29.7156693+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:41.5073294+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:59:44.0895732+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:53.7042499+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:58:47.8700348+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:29.7157188+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 82,
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38306,
+  "EOS_Progressed": 38307,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
@@ -2762,6 +2762,11 @@
       "Time": "2023-05-29T00:06:07.7925171+00:00",
       "NumProgressed": 38306,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T05:05:33.3430554+00:00",
+      "NumProgressed": 38307,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3196,22 +3201,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38306,
+      "Progressed": 38307,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3143,
-      "Completed": 3143
+      "Progressed": 3144,
+      "Completed": 3144
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:58.6766765+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:33.3430548+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4981852+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:58:56.650685+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:58.6767404+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:58:18.439048+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:33.3431163+00:00"
 }

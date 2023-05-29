@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 113,
@@ -346,9 +346,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 7150,
+  "EOS_Progressed": 7151,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2726,6 +2726,11 @@
       "Time": "2023-05-29T04:03:15.5789655+00:00",
       "NumProgressed": 7150,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-29T05:03:15.2235425+00:00",
+      "NumProgressed": 7151,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 34,
@@ -2785,7 +2790,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH08",
@@ -2793,7 +2798,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH09",
@@ -2841,7 +2846,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "ACH15",
@@ -2897,7 +2902,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "ACH22",
@@ -2913,7 +2918,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACH24",
@@ -3008,7 +3013,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7150,
+      "Progressed": 7151,
       "Completed": 24
     }
   ],
@@ -3016,8 +3021,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-26T13:02:50.0676532+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:03:15.5789649+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:03:15.2235419+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:58:40.1394442+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:03:15.5790192+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:58:08.6528015+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:03:15.2235802+00:00"
 }

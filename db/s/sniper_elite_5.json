@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1770,
+  "EOS_Progressed": 1774,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1784,6 +1784,11 @@
       "Time": "2023-05-29T04:06:45.4732662+00:00",
       "NumProgressed": 1770,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T05:05:23.7526865+00:00",
+      "NumProgressed": 1774,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1865,9 +1870,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -1875,7 +1880,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1963,7 +1968,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1995,7 +2000,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2003,7 +2008,7 @@
       "Name": "Lord of War",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2033,9 +2038,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2043,7 +2048,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2185,9 +2190,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2362,13 +2367,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1721,
+      "Progressed": 1725,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1770,
+      "Progressed": 1774,
       "Completed": 2
     }
   ],
@@ -2376,8 +2381,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:45.4732656+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:23.7526861+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:01:29.7711661+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:45.4733465+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:59:57.0921157+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:23.7527622+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -221,6 +221,11 @@
       "Time": "2023-05-28T18:05:06.8001944+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T05:05:13.4071903+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -230,7 +235,7 @@
       "ID": "Builder",
       "SetID": "82ojhod",
       "Name": "Builder",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -238,7 +243,7 @@
       "ID": "Cook",
       "SetID": "82ojhod",
       "Name": "Cook",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -246,7 +251,7 @@
       "ID": "Crafter",
       "SetID": "82ojhod",
       "Name": "Crafter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "Healer",
       "SetID": "82ojhod",
       "Name": "Healer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "Rep1",
       "SetID": "82ojhod",
       "Name": "Rep1",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -318,7 +323,7 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 60,
       "UsersEstimate": 5
     }
@@ -327,14 +332,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:31.1604448+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:13.4071898+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:08.964692+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:57:22.6904646+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:31.1604578+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:57:17.4868745+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:13.4072012+00:00"
 }

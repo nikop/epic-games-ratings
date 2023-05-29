@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2825,
+  "EOS_Progressed": 2826,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1494,6 +1494,11 @@
       "Time": "2023-05-29T04:07:07.3460954+00:00",
       "NumProgressed": 2825,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-29T05:05:39.7547523+00:00",
+      "NumProgressed": 2826,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1553,7 +1558,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "campaign10",
@@ -1601,7 +1606,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "campaign16",
@@ -1641,7 +1646,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "campaign20",
@@ -1657,7 +1662,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "campaign4",
@@ -1713,7 +1718,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "scenario2",
@@ -1768,7 +1773,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2825,
+      "Progressed": 2826,
       "Completed": 9
     }
   ],
@@ -1776,8 +1781,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:07:07.3460949+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:39.7547519+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:01:05.8011499+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:07:07.3461291+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:59:42.0442497+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:39.754785+00:00"
 }

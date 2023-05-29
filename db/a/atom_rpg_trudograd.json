@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -668,9 +668,9 @@
       "ID": "LUCKY_GOOSE",
       "SetID": "62d2oh4",
       "Name": "Goose Sacrifice",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEMOIRS_OF_A_NIBBLER",
@@ -797,8 +797,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:37.8379777+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:18.1794377+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.6742976+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:57:26.8138448+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:37.8380042+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:57:20.1233671+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:18.1794621+00:00"
 }

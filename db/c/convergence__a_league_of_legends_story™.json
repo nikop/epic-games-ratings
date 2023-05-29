@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-05-29T02:11:05.9895573+00:00",
       "NumProgressed": 478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T05:04:39.7547669+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -622,9 +627,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "CosmeticProgress1",
@@ -672,7 +677,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -702,9 +707,9 @@
       "ID": "GadgetCompletion1",
       "SetID": "a9e499d",
       "Name": "Wunderkind",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "GadgetProgress1",
@@ -720,7 +725,7 @@
       "Name": "Rail Rat",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "HexlockGift",
@@ -750,9 +755,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 206
     },
     {
       "ID": "MapCompletion1",
@@ -774,9 +779,9 @@
       "ID": "NoDeathRun",
       "SetID": "a9e499d",
       "Name": "Going to Live Forever",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NoGadgetFutureEkko3",
@@ -800,7 +805,7 @@
       "Name": "Time Flies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ParryBoss",
@@ -832,7 +837,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PidgeDefeated",
@@ -840,7 +845,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "RewindDamage1",
@@ -864,7 +869,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ScrambotProgress1",
@@ -888,7 +893,7 @@
       "Name": "Fast Learner",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "SpeedRun",
@@ -936,7 +941,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "WarwickDefeated",
@@ -944,7 +949,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "WatcherFought",
@@ -968,29 +973,29 @@
       "Name": "The Brass Boss",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:05:40.4232208+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:04:39.7547666+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:00:09.6698285+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:05:40.423281+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:59:04.9855447+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:04:39.7548176+00:00"
 }

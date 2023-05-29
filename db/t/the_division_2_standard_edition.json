@@ -3,12 +3,12 @@
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 586,
-  "Ranking_Popularity": 47,
+  "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5580,18 +5580,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 22569,
       "NumberOfAwardsMax": 6983
+    },
+    {
+      "Time": "2023-05-29T04:59:53.3837104+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 22585,
+      "NumberOfAwardsMax": 6999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22569,
-  "NumberOfAwardsMax": 6983,
+  "NumberOfAwards": 22585,
+  "NumberOfAwardsMax": 6999,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6983
+      "Count": 6999
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5671,8 +5677,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-05-29T04:01:23.6595144+00:00",
+  "LastChanged": "2023-05-29T04:59:53.3837102+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.5269383+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:01:23.6595172+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:10.6701878+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:59:53.3837109+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:04:59.7305826+00:00"
 }

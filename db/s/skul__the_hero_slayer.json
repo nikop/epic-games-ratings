@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -800,9 +800,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7472,
+  "EOS_Progressed": 7473,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1715,6 +1715,11 @@
       "Time": "2023-05-29T04:06:33.8572849+00:00",
       "NumProgressed": 7472,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-29T05:05:15.2401117+00:00",
+      "NumProgressed": 7473,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1774,7 +1779,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2839
+      "UsersEstimate": 2840
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1814,7 +1819,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "LeoniasFall",
@@ -1846,7 +1851,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "SavedElderEnt",
@@ -1886,7 +1891,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6949
+      "UsersEstimate": 6950
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1894,7 +1899,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1902,7 +1907,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "WhattoBuy",
@@ -1910,22 +1915,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6202
+      "UsersEstimate": 6203
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7472,
+      "Progressed": 7473,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-29T02:58:55.6613081+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:33.8572843+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:15.2401112+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:59:30.3936059+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:33.8573106+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:58:39.0747633+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:15.2401328+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -712,9 +712,9 @@
       "ID": "CHAIN_REACTION",
       "SetID": "9a4jnji",
       "Name": "Chain Reaction",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 30
     },
     {
       "ID": "CHAOS_THEORY",
@@ -944,9 +944,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1040,9 +1040,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 114
     },
     {
       "ID": "THE_WATCHERS",
@@ -1071,8 +1071,8 @@
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:02:02.3076619+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:00:20.053941+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:58:42.51329+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:02:02.3077095+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:58:10.1661114+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:00:20.053987+00:00"
 }

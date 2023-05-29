@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8783,
+  "EOS_Progressed": 8784,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2811,6 +2811,11 @@
       "Time": "2023-05-29T04:07:08.5216155+00:00",
       "NumProgressed": 8783,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-29T05:05:40.6192834+00:00",
+      "NumProgressed": 8784,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2822,7 +2827,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7026
+      "UsersEstimate": 7027
     },
     {
       "ID": "ACH02",
@@ -2918,7 +2923,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACH14",
@@ -2926,7 +2931,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACH15",
@@ -2934,7 +2939,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH16",
@@ -2942,7 +2947,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACH17",
@@ -3014,7 +3019,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH26",
@@ -3101,7 +3106,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8783,
+      "Progressed": 8784,
       "Completed": 17
     }
   ],
@@ -3109,8 +3114,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-28T22:00:20.7077147+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:07:08.5216148+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:40.619283+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.6877714+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:01:09.8369136+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:07:08.5216603+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:59:44.7748403+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:40.6193226+00:00"
 }

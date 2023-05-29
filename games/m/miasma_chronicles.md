@@ -17,8 +17,8 @@
 | Exorcist | 19.00% | ~144 |
 | Editor Adept | 18.00% | ~136 |
 | Giant Killer | 16.00% | ~121 |
+| The meaning of Kain | 15.00% | ~114 |
 | Sensei | 14.00% | ~106 |
-| The meaning of Kain | 14.00% | ~106 |
 | Hold The Line | 10.00% | ~76 |
 | Recycler | 10.00% | ~76 |
 | Technophobe | 10.00% | ~76 |
@@ -28,12 +28,12 @@
 | Are you not entertained? | 6.00% | ~45 |
 | Ganglord | 6.00% | ~45 |
 | Jarhead | 6.00% | ~45 |
+| Pushing Daisy | 6.00% | ~45 |
 | Infiltrator | 5.00% | ~38 |
-| Pushing Daisy | 5.00% | ~38 |
 | Ruthless | 5.00% | ~38 |
+| Chain Reaction | 4.00% | ~30 |
 | Experienced | 4.00% | ~30 |
 | Wipe Out | 4.00% | ~30 |
-| Chain Reaction | 3.00% | ~23 |
 | Commando | 3.00% | ~23 |
 | Curveball | 3.00% | ~23 |
 | Endgame | 3.00% | ~23 |

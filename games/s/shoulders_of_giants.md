@@ -5,18 +5,18 @@ Rating: 4.35 (Ranked 720)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,826 |
-| A Ribbiting Performance | 77.00% | ~1,598 |
-| At Least We Have Each Other... | 76.00% | ~1,577 |
+| On the Shoulders of Giants | 88.00% | ~1,827 |
+| A Ribbiting Performance | 77.00% | ~1,599 |
+| At Least We Have Each Other... | 76.00% | ~1,578 |
 | Frogbot | 73.00% | ~1,515 |
-| Ouch | 55.00% | ~1,141 |
-| Fun in the Stun | 54.00% | ~1,120 |
+| Ouch | 55.00% | ~1,142 |
+| Fun in the Stun | 54.00% | ~1,121 |
 | Do you feel like a tough guy? | 44.00% | ~913 |
 | The Interdimensional Power of Friendship | 44.00% | ~913 |
 | Turn Up The HEAT | 40.00% | ~830 |
-| Stop Hitting Yourself! | 35.00% | ~726 |
-| Nothing to Wear | 31.00% | ~643 |
-| The First Law of Thermodynamics | 27.00% | ~560 |
+| Stop Hitting Yourself! | 35.00% | ~727 |
+| Nothing to Wear | 31.00% | ~644 |
+| The First Law of Thermodynamics | 27.00% | ~561 |
 | The Second Law of Thermodynamics | 15.00% | ~311 |
 | Do you trust me? | 15.00% | ~311 |
 | The Third Law of Thermodynamics | 9.00% | ~187 |
@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 720)
 | Better Than the Devs | 4.00% | ~83 |
 | So do we just stay up here, or?... | 2.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,075 (Ranked 148)  
+Progressed: 2,076 (Ranked 148)  
 Completed: 8 (0.39%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 8 (0.39%) (Ranked 114)
 | 2023-05-26 | 2,067 | 8 |
 | 2023-05-27 | 2,072 | 8 |
 | 2023-05-28 | 2,075 | 8 |
+| 2023-05-29 | 2,076 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

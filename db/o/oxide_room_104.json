@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BATHROOM",
@@ -262,9 +262,9 @@
       "ID": "ACH_HOHARMFORCE104",
       "SetID": "511e31d",
       "Name": "Let\u0027s play a game\u2026",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_KITCHEN",
@@ -342,9 +342,9 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 68,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ROOM203",
@@ -374,9 +374,9 @@
       "ID": "ACH_THEGARDEN",
       "SetID": "511e31d",
       "Name": "Face to face",
-      "Percentage": 68,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -390,9 +390,9 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:33.1220767+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:14.7960308+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:08.2504111+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:57:21.2966373+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:33.1221004+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:57:16.7194321+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:14.7960549+00:00"
 }

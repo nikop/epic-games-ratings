@@ -8,7 +8,7 @@
 | Conspiracy Theorist | 46.00% | ~93 |
 | On the Road | 44.00% | ~89 |
 | Souvenirs | 37.00% | ~75 |
-| This is Not Heavy Metal! | 20.00% | ~41 |
+| This is Not Heavy Metal! | 21.00% | ~43 |
 | Welcome to the Garage | 19.00% | ~39 |
 | Truthseeker | 17.00% | ~35 |
 | 86's Nightmare | 12.00% | ~24 |

@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1280,9 +1280,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62665,
+  "EOS_Progressed": 62671,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4185,6 +4185,11 @@
       "Time": "2023-05-29T04:07:11.4420186+00:00",
       "NumProgressed": 62665,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T05:05:43.0399409+00:00",
+      "NumProgressed": 62671,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4683,13 +4688,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62665,
+      "Progressed": 62671,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32945,
+      "Progressed": 32951,
       "Completed": 2643
     }
   ],
@@ -4697,8 +4702,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T21:59:47.3836473+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:07:11.4420181+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:43.0399404+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T04:00:32.2217278+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:07:11.4420962+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:59:20.1328027+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:43.0400161+00:00"
 }

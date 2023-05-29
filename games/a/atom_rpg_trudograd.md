@@ -29,11 +29,11 @@ Rating: 4.50 (Ranked 541)
 | Bronzovka | 0.30% | ~3 |
 | Commando | 0.30% | ~3 |
 | Incompetence | 0.30% | ~3 |
+| Goose Sacrifice | 0.30% | ~3 |
 | Sick Freak | 0.30% | ~3 |
 | Goodbye ATOM | 0.20% | ~2 |
 | Escalation of Conflict | 0.20% | ~2 |
 | Holy Mountain | 0.20% | ~2 |
-| Goose Sacrifice | 0.20% | ~2 |
 | Power of Simplicity | 0.20% | ~2 |
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |

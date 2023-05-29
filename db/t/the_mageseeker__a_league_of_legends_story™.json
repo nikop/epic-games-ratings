@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2205,
+  "EOS_Progressed": 2206,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1996,6 +1996,11 @@
       "Time": "2023-05-29T04:06:47.4956001+00:00",
       "NumProgressed": 2205,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T05:05:25.1963839+00:00",
+      "NumProgressed": 2206,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2007,7 +2012,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 10,
       "XP": 120,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -2015,7 +2020,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2047,7 +2052,7 @@
       "Name": "Hijack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2071,7 +2076,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2087,7 +2092,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2095,7 +2100,7 @@
       "Name": "I smell fear",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -2143,7 +2148,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2191,7 +2196,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2207,7 +2212,7 @@
       "Name": "The end of the experiments",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -2223,7 +2228,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2247,7 +2252,7 @@
       "Name": "Devineur",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2295,7 +2300,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -2311,7 +2316,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2335,7 +2340,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -2407,7 +2412,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -2423,14 +2428,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2205,
+      "Progressed": 2206,
       "Completed": 1
     }
   ],
@@ -2438,8 +2443,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:47.4955995+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:25.1963833+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:57:50.7229623+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:47.495678+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:57:35.6893446+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:25.1964407+00:00"
 }

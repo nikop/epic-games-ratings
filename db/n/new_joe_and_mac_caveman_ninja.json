@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -73,6 +73,11 @@
       "Time": "2023-05-28T14:06:59.8121592+00:00",
       "NumProgressed": 162,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T05:05:18.7226133+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -106,9 +111,9 @@
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "05",
@@ -116,7 +121,7 @@
       "Name": "A turbulent river.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "06",
@@ -180,7 +185,7 @@
       "Name": "Passing the carcass.",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "14",
@@ -203,7 +208,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 2
     }
   ],
@@ -211,8 +216,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:38.6102475+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:18.7226126+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.3434495+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:57:46.1784771+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:38.6102577+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:57:32.8008528+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:18.7226257+00:00"
 }

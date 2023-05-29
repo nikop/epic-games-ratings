@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "13",
       "SetID": "39djiaj",
       "Name": "Kickball Unlocked",
-      "Percentage": 65,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "14",
@@ -218,9 +218,9 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 65,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "20",
@@ -338,17 +338,17 @@
       "ID": "33",
       "SetID": "39djiaj",
       "Name": "Spooky",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "34",
       "SetID": "39djiaj",
       "Name": "Have Mercy",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "35",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:41.853716+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:21.0714221+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:59:48.3863086+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:41.8537476+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:58:51.9075827+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:21.0714523+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -622,9 +622,9 @@
       "ID": "A24",
       "SetID": "9b7p7eo",
       "Name": "Access granted",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "A25",
@@ -670,9 +670,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "A31",
@@ -686,9 +686,9 @@
       "ID": "A32",
       "SetID": "9b7p7eo",
       "Name": "Assimilated",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "A33",
@@ -877,8 +877,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:06:56.9847075+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:05:32.1359064+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:58:24.0954961+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:06:56.984759+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:57:58.2890771+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:05:32.1359518+00:00"
 }

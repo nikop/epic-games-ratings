@@ -6,10 +6,10 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,460 |
-| Biggest Communism Builder | 24.00% | ~28,680 |
-| The World's Most Laughable Centrist | 20.00% | ~23,900 |
-| Il Coppo Del'Arte! | 18.00% | ~21,510 |
+| Goodest Of The Good Cops | 28.00% | ~33,461 |
+| Biggest Communism Builder | 24.00% | ~28,681 |
+| The World's Most Laughable Centrist | 20.00% | ~23,901 |
+| Il Coppo Del'Arte! | 18.00% | ~21,511 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,120 |
 | Hyperstellar Law Official | 15.00% | ~17,925 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,730 |
@@ -29,25 +29,25 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,390 |
 | Wheel of Pleasure and Light | 2.00% | ~2,390 |
 | Massive Torque Dork | 1.00% | ~1,195 |
-| Avowed Inframaterialist | 0.90% | ~1,075 |
-| Real Musor | 0.90% | ~1,075 |
+| Avowed Inframaterialist | 0.90% | ~1,076 |
+| Real Musor | 0.90% | ~1,076 |
 | Baddest Brow in Town | 0.80% | ~956 |
 | Committee of la Responsabilité | 0.80% | ~956 |
 | Venture into the HARDCORE | 0.80% | ~956 |
-| Networthy Individual | 0.70% | ~836 |
-| Leopard Mindset | 0.50% | ~597 |
-| Modus: Mullen | 0.30% | ~358 |
-| Palerunner | 0.30% | ~358 |
+| Networthy Individual | 0.70% | ~837 |
+| Leopard Mindset | 0.50% | ~598 |
+| Modus: Mullen | 0.30% | ~359 |
+| Palerunner | 0.30% | ~359 |
 | Cause a ****storm | 0.20% | ~239 |
 | True Detective | 0.20% | ~239 |
 | The Icebreaker | 0.20% | ~239 |
-| The Most Honourable Cop in The Land | 0.10% | ~119 |
-| Gluten-Free Topping Pie | 0.10% | ~119 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~119 |
-| Medal dispenser | 0.10% | ~119 |
-| What body? | 0.10% | ~119 |
+| The Most Honourable Cop in The Land | 0.10% | ~120 |
+| Gluten-Free Topping Pie | 0.10% | ~120 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~120 |
+| Medal dispenser | 0.10% | ~120 |
+| What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,499 (Ranked 57)  
+Progressed: 119,503 (Ranked 57)  
 Completed: 25 (0.02%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 25 (0.02%) (Ranked 190)
 | 2023-05-26 | 119,187 | 25 |
 | 2023-05-27 | 119,325 | 25 |
 | 2023-05-28 | 119,484 | 25 |
-| 2023-05-29 | 119,499 | 25 |
+| 2023-05-29 | 119,503 | 25 |
 ## Awards
 Max (Character Customization): 690  (Ranked 157)  
 Sum: 1,046 (Ranked 230)  

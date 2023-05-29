@@ -1,34 +1,34 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 293)  
+Rating: 4.65 (Ranked 294)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~4,108 |
-| Tomorrow Never Dyes | 47.00% | ~3,016 |
-| Mainframe Hacker | 46.00% | ~2,952 |
-| The Spy who eliminated me | 46.00% | ~2,952 |
-| Never Say Loser Again | 41.00% | ~2,631 |
+| Tomorrow Never Dyes | 47.00% | ~3,017 |
+| Mainframe Hacker | 46.00% | ~2,953 |
+| The Spy who eliminated me | 46.00% | ~2,953 |
+| Never Say Loser Again | 41.00% | ~2,632 |
 | For your Eyes only | 39.00% | ~2,503 |
 | From the Vault with Love | 37.00% | ~2,375 |
 | Tailor-Made | 37.00% | ~2,375 |
-| Fully Decked Out | 36.00% | ~2,310 |
+| Fully Decked Out | 36.00% | ~2,311 |
 | You Only Live Twice | 32.00% | ~2,054 |
 | A view to Win | 28.00% | ~1,797 |
-| Private Collection | 25.00% | ~1,604 |
-| Smells Like Trouble | 25.00% | ~1,604 |
-| Assistant Accountant | 24.00% | ~1,540 |
-| The Living Portrait | 24.00% | ~1,540 |
-| Killer Looks | 24.00% | ~1,540 |
-| Hostile Takeover | 24.00% | ~1,540 |
+| Private Collection | 25.00% | ~1,605 |
+| Smells Like Trouble | 25.00% | ~1,605 |
+| Assistant Accountant | 24.00% | ~1,541 |
+| The Living Portrait | 24.00% | ~1,541 |
+| Killer Looks | 24.00% | ~1,541 |
+| Hostile Takeover | 24.00% | ~1,541 |
 | Keycards Royale | 23.00% | ~1,476 |
 | In It to Win It | 23.00% | ~1,476 |
 | Dr. No Kill | 23.00% | ~1,476 |
 | My Motto, My Creed | 23.00% | ~1,476 |
 | Security Supervisor | 10.00% | ~642 |
-| License to Thrill | 8.00% | ~513 |
-| Social of Solace | 8.00% | ~513 |
+| License to Thrill | 8.00% | ~514 |
+| Social of Solace | 8.00% | ~514 |
 | Safe Withdrawal | 6.00% | ~385 |
 | Live and let lie | 5.00% | ~321 |
 | Call Me Maybe | 5.00% | ~321 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 293)
 | Extraction Confusion | 0.30% | ~19 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,418 (Ranked 118)  
+Progressed: 6,419 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 6,286 | 0 |
 | 2023-05-27 | 6,343 | 0 |
 | 2023-05-28 | 6,411 | 0 |
-| 2023-05-29 | 6,418 | 0 |
+| 2023-05-29 | 6,419 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

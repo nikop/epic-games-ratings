@@ -2,20 +2,20 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -244,15 +244,21 @@
       "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-29T04:57:50.3282516+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5601,
+  "EOS_Progressed": 5603,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2270,6 +2276,11 @@
       "Time": "2023-05-29T04:02:01.484486+00:00",
       "NumProgressed": 5601,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-29T05:00:19.5377596+00:00",
+      "NumProgressed": 5603,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -2281,7 +2292,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "ACH02",
@@ -2289,7 +2300,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACH03",
@@ -2305,7 +2316,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH05",
@@ -2321,7 +2332,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH07",
@@ -2353,7 +2364,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "ACH11",
@@ -2401,7 +2412,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "ACH17",
@@ -2512,16 +2523,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5601,
+      "Progressed": 5603,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-05-28T02:10:13.0019789+00:00",
-  "LastChanged_Achievements": "2023-05-29T04:02:01.4844855+00:00",
+  "LastChanged": "2023-05-29T04:57:50.3282515+00:00",
+  "LastChanged_Achievements": "2023-05-29T05:00:19.5377591+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-29T03:58:12.4028396+00:00",
-  "LastUpdate_Achievements": "2023-05-29T04:02:01.4845223+00:00"
+  "LastUpdate_Ratings": "2023-05-29T04:57:50.3282521+00:00",
+  "LastUpdate_Achievements": "2023-05-29T05:00:19.5377915+00:00"
 }
