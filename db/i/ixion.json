@@ -190,7 +190,7 @@
   "Tags": [],
   "EOS_Progressed": 2255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1643,9 +1643,9 @@
       "ID": "ACH_BASE_11",
       "SetID": "92iocjf",
       "Name": "Mutual Loyalty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BASE_12",
@@ -1787,9 +1787,9 @@
       "ID": "ACH_BASE_3",
       "SetID": "92iocjf",
       "Name": "Catastrophe Avoided",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_BASE_30",
@@ -1867,9 +1867,9 @@
       "ID": "ACH_BASE_4",
       "SetID": "92iocjf",
       "Name": "Gregor Spinoza",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_BASE_40",
@@ -2098,8 +2098,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-26T15:59:06.5118285+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:06:10.8483957+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:05:21.0864009+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.5657521+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:58:40.2384933+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:06:10.8484637+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:58:20.4763056+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:05:21.0864656+00:00"
 }

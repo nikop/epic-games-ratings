@@ -39,16 +39,16 @@ Rating: 4.56 (Ranked 451)
 | Pedal to the Metal | 0.80% | ~18 |
 | What the Ruins Teach Us | 0.80% | ~18 |
 | Pulsar Disciple | 0.80% | ~18 |
+| Mutual Loyalty | 0.60% | ~14 |
 | Sustainable Energy | 0.60% | ~14 |
 | You Had One Job... | 0.60% | ~14 |
-| Mutual Loyalty | 0.50% | ~11 |
+| Catastrophe Avoided | 0.50% | ~11 |
 | Praise the Hull! | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
-| Catastrophe Avoided | 0.40% | ~9 |
+| Gregor Spinoza | 0.40% | ~9 |
 | Tiqqun Unchained | 0.40% | ~9 |
 | Help of the Forgotten Member | 0.40% | ~9 |
 | Tiqqun Contender | 0.30% | ~7 |
-| Gregor Spinoza | 0.30% | ~7 |
 | Scientifically Accurate | 0.30% | ~7 |
 | Better Him Than Me | 0.20% | ~5 |
 | Remember the Dead | 0.20% | ~5 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "profile_ryan",
@@ -330,9 +330,9 @@
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "success_ty",
@@ -363,8 +363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:05:58.529269+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:05:10.1325607+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.8430665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:57:39.2024496+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:05:58.5292835+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:57:28.484472+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:05:10.1325752+00:00"
 }

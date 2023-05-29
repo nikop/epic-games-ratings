@@ -30,10 +30,10 @@
 | So Tasty! | 0.90% | ~3 |
 | Nervous Hands | 0.60% | ~2 |
 | Made a Song | 0.60% | ~2 |
+| Ss ss ss... | 0.60% | ~2 |
 | Collectibles Part 2 | 0.30% | ~1 |
 | Elf-Friend | 0.30% | ~1 |
 | We wants it! We needs it | 0.30% | ~1 |
-| Ss ss ss... | 0.30% | ~1 |
 | Rule them all! | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 | How Did You Do That? | 0.00% | ~0 |

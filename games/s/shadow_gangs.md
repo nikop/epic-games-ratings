@@ -8,6 +8,7 @@
 | Mission I finished | 25.00% | ~1 |
 | First shoot bonus stage beaten | 25.00% | ~1 |
 | Bridge level completed | 25.00% | ~1 |
+| Forest level completed | 25.00% | ~1 |
 | City Completed | 0.00% | ~0 |
 | Temple level completed | 0.00% | ~0 |
 | Mission II finished | 0.00% | ~0 |
@@ -26,7 +27,6 @@
 | Eighth ninja bonus stage beaten | 0.00% | ~0 |
 | Ninth ninja bonus stage beaten | 0.00% | ~0 |
 | Tenth ninja bonus stage beaten | 0.00% | ~0 |
-| Forest level completed | 0.00% | ~0 |
 | Power Start | 0.00% | ~0 |
 | Pirate Ship | 0.00% | ~0 |
 | Cave Treasure Room | 0.00% | ~0 |

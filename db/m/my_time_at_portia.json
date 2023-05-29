@@ -2,7 +2,7 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 423,
@@ -2338,18 +2338,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 4727,
       "NumberOfAwardsMax": 2219
+    },
+    {
+      "Time": "2023-05-29T07:59:48.419314+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4728,
+      "NumberOfAwardsMax": 2220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4727,
-  "NumberOfAwardsMax": 2219,
+  "NumberOfAwards": 4728,
+  "NumberOfAwardsMax": 2220,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2219
+      "Count": 2220
     },
     {
       "Text": "This game is Relaxing",
@@ -2435,8 +2441,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2023-05-27T18:59:29.0821837+00:00",
+  "LastChanged": "2023-05-29T07:59:48.4193139+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.4792146+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:00:23.9537367+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:05:35.0507701+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:59:48.4193144+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:04:49.6971454+00:00"
 }

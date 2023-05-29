@@ -800,9 +800,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7475,
+  "EOS_Progressed": 7476,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1730,6 +1730,11 @@
       "Time": "2023-05-29T07:06:02.5158415+00:00",
       "NumProgressed": 7475,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-29T08:05:13.6085985+00:00",
+      "NumProgressed": 7476,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1741,7 +1746,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "Chatterbox",
@@ -1765,7 +1770,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4634
+      "UsersEstimate": 4635
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1773,7 +1778,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "DwarfChandelier",
@@ -1789,7 +1794,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2840
+      "UsersEstimate": 2841
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1829,7 +1834,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "LeoniasFall",
@@ -1845,7 +1850,7 @@
       "Name": "The Levitator",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Manners",
@@ -1853,7 +1858,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "RookieWelcome",
@@ -1869,7 +1874,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4634
+      "UsersEstimate": 4635
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1901,7 +1906,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6952
+      "UsersEstimate": 6953
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1909,7 +1914,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3438
+      "UsersEstimate": 3439
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1925,22 +1930,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6204
+      "UsersEstimate": 6205
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7475,
+      "Progressed": 7476,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-29T02:58:55.6613081+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:06:02.515841+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:05:13.6085982+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:59:10.704201+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:06:02.5158629+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:58:45.7556447+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:05:13.608619+00:00"
 }

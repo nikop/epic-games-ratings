@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-05-29T07:05:19.8733922+00:00",
       "NumProgressed": 480,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T08:04:36.6636055+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -576,9 +581,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -586,7 +591,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ChestCompletion1",
@@ -616,9 +621,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 159
     },
     {
       "ID": "ClovemaryGift",
@@ -650,7 +655,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "EntresolChests1",
@@ -690,7 +695,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -730,7 +735,7 @@
       "Name": "Rail Rat",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "HexlockGift",
@@ -762,7 +767,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "MapCompletion1",
@@ -810,7 +815,7 @@
       "Name": "Time Flies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ParryBoss",
@@ -840,9 +845,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 149
     },
     {
       "ID": "PidgeDefeated",
@@ -850,7 +855,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "RewindDamage1",
@@ -858,7 +863,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "RewindParry",
@@ -882,7 +887,7 @@
       "Name": "Golem Chaser",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "SkillCompletion1",
@@ -978,7 +983,7 @@
       "Name": "The Brass Boss",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Zarkon2Defeated",
@@ -993,14 +998,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:05:19.8733918+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:04:36.6636051+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:59:40.8741211+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:05:19.8734479+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:59:14.4616379+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:04:36.6636539+00:00"
 }

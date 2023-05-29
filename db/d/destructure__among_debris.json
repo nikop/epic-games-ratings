@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.91,
+  "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -508,6 +508,11 @@
       "Time": "2023-05-29T04:01:37.0235522+00:00",
       "NumProgressed": 110,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T08:00:19.8307028+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -591,7 +596,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "easy_victory",
@@ -607,7 +612,7 @@
       "Name": "Graduation",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -766,7 +771,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 1
     }
   ],
@@ -774,8 +779,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:00:57.5477023+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:00:19.8307023+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:00:12.6950126+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:00:57.5477326+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:59:38.8953591+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:00:19.8307326+00:00"
 }

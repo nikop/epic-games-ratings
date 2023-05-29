@@ -52,10 +52,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.20% | ~30 |
 | Harpy Utopia | 0.20% | ~30 |
 | The Queen's Chosen | 0.20% | ~30 |
+| Ruins | 0.20% | ~30 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
-| Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,064 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 137)  

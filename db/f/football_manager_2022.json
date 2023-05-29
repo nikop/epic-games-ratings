@@ -4697,7 +4697,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 461634,
+  "EOS_Progressed": 461635,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 0,
@@ -8412,6 +8412,11 @@
       "Time": "2023-05-29T07:06:37.9910384+00:00",
       "NumProgressed": 461634,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-29T08:05:45.2050052+00:00",
+      "NumProgressed": 461635,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -8447,7 +8452,7 @@
       "Name": "Unbeatable!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 166188
+      "UsersEstimate": 166189
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -8479,7 +8484,7 @@
       "Name": "On A Roll",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 115408
+      "UsersEstimate": 115409
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -8503,7 +8508,7 @@
       "Name": "Top Form",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 73861
+      "UsersEstimate": 73862
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -8719,7 +8724,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 87710
+      "UsersEstimate": 87711
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -8799,7 +8804,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101559
+      "UsersEstimate": 101560
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -8815,7 +8820,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 115408
+      "UsersEstimate": 115409
     },
     {
       "ID": "achievement_mr_delegator",
@@ -8863,7 +8868,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 87710
+      "UsersEstimate": 87711
     },
     {
       "ID": "achievement_pick_feeder",
@@ -8959,7 +8964,7 @@
       "Name": "Cash To Burn",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 73861
+      "UsersEstimate": 73862
     },
     {
       "ID": "achievement_sell_player",
@@ -8975,7 +8980,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 230817
+      "UsersEstimate": 230818
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -8983,7 +8988,7 @@
       "Name": "Goal Machine",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101559
+      "UsersEstimate": 101560
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -8999,7 +9004,7 @@
       "Name": "Invincible!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46163
+      "UsersEstimate": 46164
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -9023,7 +9028,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60012
+      "UsersEstimate": 60013
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -9055,7 +9060,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 230817
+      "UsersEstimate": 230818
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -9095,7 +9100,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46163
+      "UsersEstimate": 46164
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -9206,15 +9211,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 461634,
+      "Progressed": 461635,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-05-28T17:00:53.7329174+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:06:37.991038+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:05:45.2050047+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.0804853+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:00:23.7927476+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:06:37.9911734+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:59:48.0473121+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:05:45.2051395+00:00"
 }

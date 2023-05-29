@@ -580,7 +580,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5935,
+  "EOS_Progressed": 5936,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -1735,6 +1735,11 @@
       "Time": "2023-05-29T06:01:51.7153356+00:00",
       "NumProgressed": 5935,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-29T08:00:16.9287322+00:00",
+      "NumProgressed": 5936,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1762,7 +1767,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1794,7 +1799,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1858,7 +1863,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -2090,7 +2095,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2098,14 +2103,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5935,
+      "Progressed": 5936,
       "Completed": 8
     }
   ],
@@ -2113,8 +2118,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:00:54.0745371+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:00:16.9287311+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:57:38.2173328+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:00:54.0745836+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:57:27.69377+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:00:16.9287776+00:00"
 }

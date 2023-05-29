@@ -9,8 +9,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~891 |
 | The Court of Storms | 0.80% | ~443 |
 | The Cursed Farmer | 0.70% | ~624 |
-| Beast Intentions | 0.60% | ~534 |
-| The Mad Wizard | 0.60% | ~534 |
+| Beast Intentions | 0.60% | ~535 |
+| The Mad Wizard | 0.60% | ~535 |
 | Beware the Jabberwock | 0.60% | ~332 |
 | The Ring of Regeneration | 0.50% | ~445 |
 | Coasting to the Finish | 0.50% | ~277 |
@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.20% | ~111 |
 | Get Back In The Castle | 0.20% | ~111 |
 | Pin and Skewer | 0.20% | ~111 |
+| Bully for Vecna | 0.20% | ~111 |
 | No One Can Hear You Scream | 0.20% | ~111 |
 | Welcome to the Rock | 0.20% | ~111 |
 | Beast Mode | 0.20% | ~178 |
@@ -167,7 +168,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.10% | ~55 |
 | Kas the Bloody Handed | 0.10% | ~55 |
 | Kas the Destroyer | 0.10% | ~55 |
-| Bully for Vecna | 0.10% | ~55 |
 | Who Lurks Below? | 0.10% | ~55 |
 | Clowning Around | 0.10% | ~55 |
 | Xanathaaaaaaar! | 0.10% | ~55 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,082 (Ranked 61)  
-Completed: 1,893 (2.13%) (Ranked 63)  
+Progressed: 89,085 (Ranked 61)  
+Completed: 1,894 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -539,15 +539,15 @@ Completed: 1,893 (2.13%) (Ranked 63)
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
-| 2023-05-29 | 89,082 | 1,893 |
+| 2023-05-29 | 89,085 | 1,894 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
-Sum: 29,995 (Ranked 37)  
+Sum: 29,997 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,910 |
-| This game is Great for Beginners | 4,843 |
+| This game is Great for Beginners | 4,845 |
 | This game has Quickly Understood Controls | 4,606 |
 | This game is Relaxing | 4,501 |
 | This game is Highly Recommended | 3,949 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 27
 | 2023-05-26 | 4.06 | - | 4,905 | 29,983 |
 | 2023-05-27 | 4.06 | - | 4,908 | 29,989 |
 | 2023-05-28 | 4.06 | - | 4,910 | 29,993 |
-| 2023-05-29 | 4.06 | - | 4,910 | 29,995 |
+| 2023-05-29 | 4.06 | - | 4,910 | 29,997 |

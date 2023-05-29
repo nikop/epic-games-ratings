@@ -3944,10 +3944,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29995,
       "NumberOfAwardsMax": 4910
+    },
+    {
+      "Time": "2023-05-29T07:58:02.2008464+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29997,
+      "NumberOfAwardsMax": 4910
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29995,
+  "NumberOfAwards": 29997,
   "NumberOfAwardsMax": 4910,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3955,7 +3961,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4843
+      "Count": 4845
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3994,9 +4000,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89082,
-  "EOS_Completed": 1893,
-  "EOS_NewPlayers": 799,
+  "EOS_Progressed": 89085,
+  "EOS_Completed": 1894,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -7824,6 +7830,11 @@
       "Time": "2023-05-29T07:06:40.6577367+00:00",
       "NumProgressed": 89082,
       "NumCompleted": 1893
+    },
+    {
+      "Time": "2023-05-29T08:05:47.6311833+00:00",
+      "NumProgressed": 89085,
+      "NumCompleted": 1894
     }
   ],
   "TotalAchievements": 493,
@@ -8203,7 +8214,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "objective_completed_110",
@@ -8729,9 +8740,9 @@
       "ID": "objective_completed_1209",
       "SetID": "415jc5c",
       "Name": "Bully for Vecna",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1213",
@@ -10979,7 +10990,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "objective_completed_70",
@@ -11778,21 +11789,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55356,
-      "Completed": 2734
+      "Progressed": 55359,
+      "Completed": 2735
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89082,
-      "Completed": 1893
+      "Progressed": 89085,
+      "Completed": 1894
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-29T02:04:30.5185943+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:06:40.6577362+00:00",
+  "LastChanged": "2023-05-29T07:58:02.2008463+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:05:47.6311829+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:58:18.4564871+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:06:40.6603945+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:58:02.2008469+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:05:47.6334987+00:00"
 }

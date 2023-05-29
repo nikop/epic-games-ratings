@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38308,
+  "EOS_Progressed": 38309,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
@@ -2772,6 +2772,11 @@
       "Time": "2023-05-29T07:06:23.9215354+00:00",
       "NumProgressed": 38308,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T08:05:32.6402696+00:00",
+      "NumProgressed": 38309,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2975,7 +2980,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -3023,7 +3028,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -3071,7 +3076,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -3095,7 +3100,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -3135,7 +3140,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "STAYING_AIR",
@@ -3206,22 +3211,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38308,
+      "Progressed": 38309,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3145,
-      "Completed": 3145
+      "Progressed": 3146,
+      "Completed": 3146
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:06:23.921535+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:05:32.6402688+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4981852+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:58:44.0627145+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:06:23.9215983+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:58:23.7288437+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:05:32.640329+00:00"
 }

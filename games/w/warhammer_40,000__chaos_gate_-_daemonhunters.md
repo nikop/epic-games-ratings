@@ -7,7 +7,7 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 34.00% | ~932 |
-| Look Over There! | 28.00% | ~768 |
+| Look Over There! | 29.00% | ~795 |
 | Not So Fast... | 28.00% | ~768 |
 | Watch Where You Step... | 28.00% | ~768 |
 | An Ill Omen | 26.00% | ~713 |

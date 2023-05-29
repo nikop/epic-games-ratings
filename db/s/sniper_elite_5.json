@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1781,
+  "EOS_Progressed": 1785,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1799,6 +1799,11 @@
       "Time": "2023-05-29T07:06:12.628864+00:00",
       "NumProgressed": 1781,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T08:05:22.7051653+00:00",
+      "NumProgressed": 1785,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1818,7 +1823,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1858,7 +1863,7 @@
       "Name": "Fields of Glory",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1890,7 +1895,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1938,7 +1943,7 @@
       "Name": "Skirmisher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1962,7 +1967,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1970,7 +1975,7 @@
       "Name": "Precision Is Key",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -2018,7 +2023,7 @@
       "Name": "Lord of War",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2034,7 +2039,7 @@
       "Name": "Resourceful",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2066,7 +2071,7 @@
       "Name": "Close Quarters",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2074,7 +2079,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2146,7 +2151,7 @@
       "Name": "Change the Channel",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2377,13 +2382,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1732,
+      "Progressed": 1736,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1781,
+      "Progressed": 1785,
       "Completed": 2
     }
   ],
@@ -2391,8 +2396,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T07:06:12.6288636+00:00",
+  "LastChanged_Achievements": "2023-05-29T08:05:22.7051648+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T07:00:47.8605385+00:00",
-  "LastUpdate_Achievements": "2023-05-29T07:06:12.6289491+00:00"
+  "LastUpdate_Ratings": "2023-05-29T08:00:10.1009677+00:00",
+  "LastUpdate_Achievements": "2023-05-29T08:05:22.7053165+00:00"
 }
