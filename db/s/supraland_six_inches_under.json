@@ -1076,9 +1076,9 @@
       "ID": "Race",
       "SetID": "5lok9mm",
       "Name": "Faster",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1229
     },
     {
       "ID": "Revenge",
@@ -1188,8 +1188,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:39.0967479+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:48.8787738+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:27.193231+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:23.3528215+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:39.0967953+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:36.1701605+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:48.8788575+00:00"
 }

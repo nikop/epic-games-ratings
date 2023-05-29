@@ -3,11 +3,11 @@
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 586,
-  "Ranking_Popularity": 46,
+  "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
@@ -5610,10 +5610,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 22620,
       "NumberOfAwardsMax": 6999
+    },
+    {
+      "Time": "2023-05-29T17:59:57.793237+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 22622,
+      "NumberOfAwardsMax": 6999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22620,
+  "NumberOfAwards": 22622,
   "NumberOfAwardsMax": 6999,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5645,7 +5651,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1158
+      "Count": 1160
     },
     {
       "Text": "This game is Relaxing",
@@ -5701,8 +5707,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-05-29T15:00:01.9286252+00:00",
+  "LastChanged": "2023-05-29T17:59:57.7932368+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.5269383+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:52.6127259+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:06:38.4991972+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:57.7932376+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:02.768992+00:00"
 }

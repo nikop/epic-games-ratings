@@ -6,23 +6,23 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,968 |
-| Ready for Winter | 64.00% | ~1,702 |
-| Ready for Summer | 50.00% | ~1,330 |
-| Cordon Bleu | 43.00% | ~1,144 |
-| Tapped! | 35.00% | ~931 |
-| Eureka | 31.00% | ~825 |
-| Scourge Slayer | 25.00% | ~665 |
+| Venture Outward | 74.00% | ~1,971 |
+| Ready for Winter | 64.00% | ~1,704 |
+| Ready for Summer | 50.00% | ~1,332 |
+| Cordon Bleu | 43.00% | ~1,145 |
+| Tapped! | 35.00% | ~932 |
+| Eureka | 31.00% | ~826 |
+| Scourge Slayer | 25.00% | ~666 |
 | Science, Troglodyte! | 23.00% | ~612 |
-| Exceptional Skill | 22.00% | ~585 |
-| Home Sweet Home | 22.00% | ~585 |
-| Encyclopedic! | 19.00% | ~505 |
+| Exceptional Skill | 22.00% | ~586 |
+| Home Sweet Home | 22.00% | ~586 |
+| Encyclopedic! | 19.00% | ~506 |
 | A Fortress Toppled! | 16.00% | ~426 |
 | Apex Predator | 15.00% | ~399 |
 | The Power of Family | 15.00% | ~399 |
-| Strange amalgams | 12.00% | ~319 |
-| The Power of Faith | 12.00% | ~319 |
-| The Power of Freedom | 9.00% | ~239 |
+| Strange amalgams | 12.00% | ~320 |
+| The Power of Faith | 12.00% | ~320 |
+| The Power of Freedom | 9.00% | ~240 |
 | Ace Detective | 8.00% | ~213 |
 | Gift from the Ancestors | 8.00% | ~213 |
 | Magic is a science | 8.00% | ~213 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | Blood and justice | 6.00% | ~160 |
 | Hold my Mead and Watch This | 6.00% | ~160 |
 | The stuff of legends. | 6.00% | ~160 |
-| Ancestor's Pride | 4.00% | ~106 |
-| For All Aurai | 4.00% | ~106 |
-| Memory of a legend | 4.00% | ~106 |
+| Ancestor's Pride | 4.00% | ~107 |
+| For All Aurai | 4.00% | ~107 |
+| Memory of a legend | 4.00% | ~107 |
 | Light of Levant | 3.00% | ~80 |
 | This was a mistake... | 3.00% | ~80 |
 | Crowd Pleaser. | 2.00% | ~53 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,660 (Ranked 139)  
+Progressed: 2,663 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.04%) (Ranked 180)
 | 2023-05-26 | 2,594 | 1 |
 | 2023-05-27 | 2,618 | 1 |
 | 2023-05-28 | 2,645 | 1 |
-| 2023-05-29 | 2,660 | 1 |
+| 2023-05-29 | 2,663 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 344)  

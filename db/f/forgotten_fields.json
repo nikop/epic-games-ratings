@@ -4,7 +4,7 @@
   "ProductSlug": "forgotten-fields-260a8a",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-02-22T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.6634006+00:00",
   "LastChanged": "2023-03-31T05:58:10.6634007+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:25.4342856+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:58:07.5304585+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:05:36.2022936+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:57:21.5963361+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:04:18.8722409+00:00"
 }

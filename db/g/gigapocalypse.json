@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 129,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -274,9 +274,9 @@
       "ID": "secret27",
       "SetID": "39f6ck8",
       "Name": "Godlike Power",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "secret28",
@@ -354,9 +354,9 @@
       "ID": "secret36",
       "SetID": "39f6ck8",
       "Name": "Overwhelming Power",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "secret37",
@@ -555,8 +555,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:35.6217787+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:45.971603+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.5763347+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:17.056441+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:35.621837+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:31.9244996+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:45.9716887+00:00"
 }

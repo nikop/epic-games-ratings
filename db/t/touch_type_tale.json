@@ -3,7 +3,7 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2833,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1528,9 +1528,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 397
     },
     {
       "ID": "bonus2",
@@ -1801,8 +1801,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:34.4554759+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:45.0989781+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:35.0819127+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:34.4555155+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:45.5059331+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:45.0990159+00:00"
 }

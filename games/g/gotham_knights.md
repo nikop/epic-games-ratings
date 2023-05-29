@@ -5,36 +5,36 @@ Rating: 4.17 (Ranked 839)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 3.00% | ~1,882 |
+| First Step Into the Knight | 3.00% | ~1,883 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,255 |
 | Loose Ends | 2.00% | ~1,255 |
-| The Batman Family | 1.00% | ~627 |
-| Something in the Clay | 1.00% | ~627 |
-| To the Victor Go the Spoils | 1.00% | ~627 |
-| Quartzer Life Crisis | 1.00% | ~627 |
-| Snow Problem | 1.00% | ~627 |
-| Get ReQ'd | 1.00% | ~627 |
-| Working Hard or Harley Working? | 1.00% | ~627 |
-| Unstoppable Force | 1.00% | ~627 |
-| Knighthood | 1.00% | ~627 |
-| Whispered Words | 1.00% | ~627 |
-| Lock and Key | 1.00% | ~627 |
+| The Batman Family | 1.00% | ~628 |
+| Something in the Clay | 1.00% | ~628 |
+| To the Victor Go the Spoils | 1.00% | ~628 |
+| Quartzer Life Crisis | 1.00% | ~628 |
+| Snow Problem | 1.00% | ~628 |
+| Get ReQ'd | 1.00% | ~628 |
+| Working Hard or Harley Working? | 1.00% | ~628 |
+| Unstoppable Force | 1.00% | ~628 |
+| Knighthood | 1.00% | ~628 |
+| Whispered Words | 1.00% | ~628 |
+| Lock and Key | 1.00% | ~628 |
 | The Show Mud Go On | 0.90% | ~565 |
 | Bad Apples in Every Orchard | 0.90% | ~565 |
 | Protector of Gotham | 0.80% | ~502 |
+| Rock and a Hard Place | 0.80% | ~502 |
 | Universal Health Scare | 0.80% | ~502 |
 | From Inside Gotham's Walls | 0.80% | ~502 |
 | End of an Era | 0.70% | ~439 |
 | In Your Element | 0.70% | ~439 |
-| Rock and a Hard Place | 0.70% | ~439 |
 | Not On My Watch | 0.70% | ~439 |
 | Shock Til They Drop | 0.70% | ~439 |
 | Cooldown | 0.70% | ~439 |
 | Voiceless | 0.70% | ~439 |
 | Seeking Asylum | 0.70% | ~439 |
 | Gotham Knight | 0.70% | ~439 |
-| Bulldozed | 0.60% | ~376 |
-| Gotham City Confidential | 0.60% | ~376 |
+| Bulldozed | 0.60% | ~377 |
+| Gotham City Confidential | 0.60% | ~377 |
 | Out of Their League | 0.50% | ~314 |
 | Drone You Out | 0.50% | ~314 |
 | Fusion Expert | 0.40% | ~251 |
@@ -45,8 +45,8 @@ Rating: 4.17 (Ranked 839)
 | A Worthy Successor | 0.30% | ~188 |
 | Hammer and Icicle | 0.20% | ~66 |
 | Renewable Enemy Source | 0.20% | ~66 |
-| A Momentum Occasion | 0.20% | ~125 |
-| Bat Out of Hell | 0.20% | ~125 |
+| A Momentum Occasion | 0.20% | ~126 |
+| Bat Out of Hell | 0.20% | ~126 |
 | Element of Surprise | 0.10% | ~33 |
 | It's Nice to Be Wanted | 0.10% | ~33 |
 | Crime Is a Terrible Thing to Waste | 0.10% | ~33 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,740 (Ranked 70)  
+Progressed: 62,753 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,740 | 91 |
+| 2023-05-29 | 62,753 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,740 (Ranked 138)  

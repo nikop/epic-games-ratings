@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2023-05-28T22:06:27.4460863+00:00",
       "NumProgressed": 434,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-29T18:05:44.5861161+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -287,7 +292,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Echoes",
@@ -343,15 +348,15 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Hitman",
       "SetID": "ek310c",
       "Name": "Short Circuit",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "Illustrator",
@@ -359,7 +364,7 @@
       "Name": "F is for Feline",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Investigative",
@@ -375,7 +380,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Leisurely_Strol",
@@ -431,7 +436,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Paparazzi",
@@ -486,7 +491,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 5
     }
   ],
@@ -494,8 +499,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:33.7232777+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:44.5861154+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.4179478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:02:00.9201334+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:33.7233014+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:00:05.6861354+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:44.5861511+00:00"
 }

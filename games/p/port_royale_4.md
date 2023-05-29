@@ -10,7 +10,7 @@ Number of Ratings: 53  (23.09.2022)
 | My little farm | 66.00% | ~387 |
 | Every beginning is difficult | 63.00% | ~369 |
 | 3, 2, 1, mine | 56.00% | ~328 |
-| Gofer | 55.00% | ~322 |
+| Gofer | 56.00% | ~328 |
 | Seafarer | 54.00% | ~316 |
 | O Captain! My Captain! | 54.00% | ~316 |
 | Greed for gold | 42.00% | ~246 |

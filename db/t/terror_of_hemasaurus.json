@@ -134,17 +134,17 @@
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Brain Chopper",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_100_STAGES_ENDLESS",
@@ -286,9 +286,9 @@
       "ID": "ACH_50_POLICE_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Night Bird",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_50_SWAT_HELICOPTERS",
@@ -318,9 +318,9 @@
       "ID": "ACH_KILL_1000_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Horror Show",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_KILL_100_ENEMIES",
@@ -358,9 +358,9 @@
       "ID": "ACH_UFO_STAGE",
       "SetID": "aio76gp",
       "Name": "Kill All Humans!",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:04:27.3289817+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:03:20.2125582+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.7621564+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:59:15.5941899+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:04:27.329002+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:58:08.0498098+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:03:20.2125946+00:00"
 }

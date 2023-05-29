@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,8 +26,8 @@
   "Tags": [],
   "EOS_Progressed": 304,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 97,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 96,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.28,
   "EosHistory": [
     {
@@ -837,9 +837,9 @@
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "MQ02_3",
@@ -1046,8 +1046,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:04:37.1190088+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:03:27.2043672+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:57:42.3158475+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:04:37.1190358+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:57:03.8092001+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:03:27.2044068+00:00"
 }

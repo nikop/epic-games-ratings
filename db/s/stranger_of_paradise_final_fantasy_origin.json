@@ -1522,9 +1522,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 78372,
+  "EOS_Progressed": 78373,
   "EOS_Completed": 2131,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -3537,6 +3537,11 @@
       "Time": "2023-05-29T14:06:27.0840864+00:00",
       "NumProgressed": 78372,
       "NumCompleted": 2131
+    },
+    {
+      "Time": "2023-05-29T18:05:43.9650533+00:00",
+      "NumProgressed": 78373,
+      "NumCompleted": 2131
     }
   ],
   "TotalAchievements": 46,
@@ -3556,7 +3561,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 64265
+      "UsersEstimate": 64266
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -3572,7 +3577,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 53293
+      "UsersEstimate": 53294
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -3580,7 +3585,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 49374
+      "UsersEstimate": 49375
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -3604,7 +3609,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 38402
+      "UsersEstimate": 38403
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -3620,7 +3625,7 @@
       "Name": "Phantom Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36051
+      "UsersEstimate": 36052
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -3628,7 +3633,7 @@
       "Name": "The Earth\u0027s Light",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 35267
+      "UsersEstimate": 35268
     },
     {
       "ID": "011_TROPHY_MISSION_REMEMBER",
@@ -3668,7 +3673,7 @@
       "Name": "Led by the Nose",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 26646
+      "UsersEstimate": 26647
     },
     {
       "ID": "016_TROPHY_MISSION_FRAUGHT_JOURNEY",
@@ -3684,7 +3689,7 @@
       "Name": "Origin of True Chaos",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 15674
+      "UsersEstimate": 15675
     },
     {
       "ID": "018_TROPHY_CLEAR_LEVEL200_ON_CHAOS",
@@ -3716,7 +3721,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 76021
+      "UsersEstimate": 76022
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -3724,7 +3729,7 @@
       "Name": "Imbued Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36051
+      "UsersEstimate": 36052
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -3732,7 +3737,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 67400
+      "UsersEstimate": 67401
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -3740,7 +3745,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 61130
+      "UsersEstimate": 61131
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -3748,7 +3753,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 66616
+      "UsersEstimate": 66617
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -3820,7 +3825,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 55644
+      "UsersEstimate": 55645
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -3860,7 +3865,7 @@
       "Name": "Path of the Assassin",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 24295
+      "UsersEstimate": 24296
     },
     {
       "ID": "040_TROPHY_UNLOCKED_LIBERATOR",
@@ -3868,7 +3873,7 @@
       "Name": "Path of the Liberator",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 27430
+      "UsersEstimate": 27431
     },
     {
       "ID": "041_TROPHY_UNLOCKED_BREAKER",
@@ -3884,7 +3889,7 @@
       "Name": "Path of the Void Knight",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 26646
+      "UsersEstimate": 26647
     },
     {
       "ID": "043_TROPHY_UNLOCKED_TYRANT",
@@ -3892,7 +3897,7 @@
       "Name": "Path of the Tyrant",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 26646
+      "UsersEstimate": 26647
     },
     {
       "ID": "044_TROPHY_UNLOCKED_SAGE",
@@ -3915,15 +3920,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 78372,
+      "Progressed": 78373,
       "Completed": 2131
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:33.0268621+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:43.9650524+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:13.3163472+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:03.3037739+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:33.0269146+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:22.2371392+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:43.9651399+00:00"
 }

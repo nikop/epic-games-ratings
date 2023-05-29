@@ -6,14 +6,14 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,597 |
-| Worker Specialization | 78.00% | ~4,539 |
-| First Contact | 73.00% | ~4,248 |
+| Colonize a Planet | 79.00% | ~4,598 |
+| Worker Specialization | 78.00% | ~4,540 |
+| First Contact | 73.00% | ~4,249 |
 | Win a Battle | 67.00% | ~3,899 |
-| Anomaly Researcher | 63.00% | ~3,666 |
+| Anomaly Researcher | 63.00% | ~3,667 |
 | Unleash My Power | 62.00% | ~3,608 |
 | Own 30 Planets | 35.00% | ~2,037 |
-| Xenocide | 33.00% | ~1,920 |
+| Xenocide | 33.00% | ~1,921 |
 | Commodity Trader | 32.00% | ~1,862 |
 | Design a Civilization | 32.00% | ~1,862 |
 | Design a Ship | 29.00% | ~1,688 |
@@ -40,11 +40,11 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 1.00% | ~58 |
 | Win as the Navigators | 0.90% | ~52 |
 | Win as Torians | 0.90% | ~52 |
+| Win as the Manti | 0.80% | ~47 |
 | Win as Xeloxi | 0.80% | ~47 |
 | Win as the Drath | 0.70% | ~41 |
 | Win as the Drengin | 0.70% | ~41 |
 | Win as the Krynn | 0.70% | ~41 |
-| Win as the Manti | 0.70% | ~41 |
 | Diplomatic Victory! | 0.70% | ~41 |
 | Win as the Iconians | 0.60% | ~35 |
 | Win as the Iridium | 0.60% | ~35 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,819 (Ranked 122)  
+Progressed: 5,820 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 5,792 | 0 |
 | 2023-05-27 | 5,803 | 0 |
 | 2023-05-28 | 5,815 | 0 |
-| 2023-05-29 | 5,819 | 0 |
+| 2023-05-29 | 5,820 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 337)  
 Sum: 661 (Ranked 267)  

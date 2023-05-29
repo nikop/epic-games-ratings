@@ -14,7 +14,7 @@
 | Power Overload | 62.00% | ~80 |
 | Destroy Erase Improve | 62.00% | ~80 |
 | Quite A Snack | 57.00% | ~74 |
-| Overwhelming Power | 52.00% | ~67 |
+| Overwhelming Power | 53.00% | ~68 |
 | Impenetrable Skin | 50.00% | ~64 |
 | Chomp Chomp! | 40.00% | ~52 |
 | Glorious Battle | 39.00% | ~50 |
@@ -25,8 +25,8 @@
 | Meat Larder | 35.00% | ~45 |
 | Mutant And Proud | 34.00% | ~44 |
 | The Emperor's New Clothes | 29.00% | ~37 |
+| Godlike Power | 29.00% | ~37 |
 | Happy Little Home | 29.00% | ~37 |
-| Godlike Power | 28.00% | ~36 |
 | Final Evolution | 28.00% | ~36 |
 | You Shall Not Pass | 25.00% | ~32 |
 | Animal Lover | 25.00% | ~32 |

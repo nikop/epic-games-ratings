@@ -2,9 +2,9 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -276,6 +276,11 @@
       "Time": "2023-05-28T17:06:31.2257702+00:00",
       "NumProgressed": 65,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T18:05:29.6604829+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 82,
@@ -309,7 +314,7 @@
       "ID": "BILLY_GOAT_1",
       "SetID": "9gfkh7c",
       "Name": "Meatballs, coming up!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -317,7 +322,7 @@
       "ID": "CHEESE_1",
       "SetID": "9gfkh7c",
       "Name": "That\u0027s what cheese said!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -333,7 +338,7 @@
       "ID": "CHEESE_3",
       "SetID": "9gfkh7c",
       "Name": "Make America Grate Again",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -357,7 +362,7 @@
       "ID": "CLOWN_1",
       "SetID": "9gfkh7c",
       "Name": "Honk honk!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -493,7 +498,7 @@
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -517,7 +522,7 @@
       "ID": "DRUNK_1",
       "SetID": "9gfkh7c",
       "Name": "A Megapint...?",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -541,7 +546,7 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -573,7 +578,7 @@
       "ID": "FIRE_1",
       "SetID": "9gfkh7c",
       "Name": "AHHHHHH.....I\u0027M ON FIRE!!!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -581,7 +586,7 @@
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -597,7 +602,7 @@
       "ID": "FUNGOID_1",
       "SetID": "9gfkh7c",
       "Name": "Mushroom soup of the day",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -623,7 +628,7 @@
       "Name": "Tastes just like chicken!",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GNOME_2",
@@ -653,7 +658,7 @@
       "ID": "GRENADIER_2",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not going to blow me up!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -677,7 +682,7 @@
       "ID": "IRS_1",
       "SetID": "9gfkh7c",
       "Name": "Self assessed tax return",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -701,7 +706,7 @@
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -709,7 +714,7 @@
       "ID": "JOLLY_1",
       "SetID": "9gfkh7c",
       "Name": "Karaoke king",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -725,7 +730,7 @@
       "ID": "JUMP_1",
       "SetID": "9gfkh7c",
       "Name": "Up and down",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -733,7 +738,7 @@
       "ID": "JUMP_2",
       "SetID": "9gfkh7c",
       "Name": "My pants squeak when I walk",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -749,7 +754,7 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -789,7 +794,7 @@
       "ID": "METAL_BARS",
       "SetID": "9gfkh7c",
       "Name": "Another one bites the iron",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -797,7 +802,7 @@
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -813,7 +818,7 @@
       "ID": "ORC_HIPSTER_1",
       "SetID": "9gfkh7c",
       "Name": "Not so hip anymore!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -831,13 +836,13 @@
       "Name": "MLG 360 no scope kill!",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ORC_WARMAIDEN_1",
       "SetID": "9gfkh7c",
       "Name": "I like you...but I have to kill you...",
-      "Percentage": 82,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -847,7 +852,7 @@
       "Name": "Nerd",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "OTHER_2",
@@ -861,7 +866,7 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -869,7 +874,7 @@
       "ID": "OUTHOUSE_1",
       "SetID": "9gfkh7c",
       "Name": "Thats disgusting!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -885,7 +890,7 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -893,7 +898,7 @@
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -901,7 +906,7 @@
       "ID": "SVEN_OLOF_1",
       "SetID": "9gfkh7c",
       "Name": "Blurry depth perception",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -909,7 +914,7 @@
       "ID": "WEAPON_1",
       "SetID": "9gfkh7c",
       "Name": "Cockadoodledoo!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -919,7 +924,7 @@
       "Name": "Are you ready to rumble?",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WHOOPASS_1",
@@ -942,14 +947,14 @@
     {
       "ID": "9gfkh7c",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:14.6922851+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:29.6604821+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:57:34.7891987+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:14.6923756+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:56:58.5907865+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:29.660574+00:00"
 }

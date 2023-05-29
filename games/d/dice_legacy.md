@@ -9,15 +9,15 @@ Rating: 4.29 (Ranked 766)
 | The City | 7.00% | ~57 |
 | Manipulating Fate | 6.00% | ~49 |
 | Burn and Pillage | 5.00% | ~41 |
+| Hear me out | 5.00% | ~41 |
 | Full house | 4.00% | ~33 |
 | Ascended | 4.00% | ~33 |
-| Hear me out | 4.00% | ~33 |
+| Greedy | 4.00% | ~33 |
+| Hidden Secrets | 4.00% | ~33 |
 | Listening to the crowd | 4.00% | ~33 |
 | The Stranded King | 4.00% | ~33 |
 | Accepting the Prophecy | 4.00% | ~33 |
 | The Penitent Ones | 3.00% | ~25 |
-| Greedy | 3.00% | ~25 |
-| Hidden Secrets | 3.00% | ~25 |
 | Prophecy Fulfilled | 3.00% | ~25 |
 | Just Chilling | 2.00% | ~16 |
 | Incredible Strength | 2.00% | ~16 |
@@ -29,11 +29,11 @@ Rating: 4.29 (Ranked 766)
 | The Mad | 0.70% | ~6 |
 | Like the dream | 0.50% | ~4 |
 | Charismatic Leader | 0.40% | ~3 |
+| Knowledge is Power | 0.40% | ~3 |
 | The Great Winter | 0.20% | ~2 |
 | Red Tape | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Metropolis | 0.20% | ~2 |
-| Knowledge is Power | 0.20% | ~2 |
 | Six Faces | 0.10% | ~1 |
 | It's spreading | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 766)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 819 (Ranked 179)  
+Progressed: 820 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 803 | 0 |
 | 2023-05-27 | 810 | 0 |
 | 2023-05-28 | 816 | 0 |
-| 2023-05-29 | 819 | 0 |
+| 2023-05-29 | 820 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

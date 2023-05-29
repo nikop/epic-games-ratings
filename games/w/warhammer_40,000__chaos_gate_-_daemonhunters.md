@@ -6,17 +6,17 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 34.00% | ~938 |
-| Look Over There! | 29.00% | ~800 |
-| Not So Fast... | 28.00% | ~772 |
-| Watch Where You Step... | 28.00% | ~772 |
-| An Ill Omen | 27.00% | ~745 |
-| Purging Spree | 21.00% | ~579 |
-| Blood for the Blood God! | 16.00% | ~441 |
-| Friendly Fire | 15.00% | ~414 |
-| Surgical Excision | 14.00% | ~386 |
-| Bloodless | 14.00% | ~386 |
-| Honoured Battle-Brother | 11.00% | ~303 |
+| Executioner | 34.00% | ~940 |
+| Look Over There! | 29.00% | ~802 |
+| Not So Fast... | 28.00% | ~774 |
+| Watch Where You Step... | 28.00% | ~774 |
+| An Ill Omen | 27.00% | ~746 |
+| Purging Spree | 21.00% | ~580 |
+| Blood for the Blood God! | 16.00% | ~442 |
+| Friendly Fire | 15.00% | ~415 |
+| Surgical Excision | 14.00% | ~387 |
+| Bloodless | 14.00% | ~387 |
+| Honoured Battle-Brother | 11.00% | ~304 |
 | The Emperor Protects | 10.00% | ~276 |
 | Nemesis Master | 10.00% | ~276 |
 | Gunmaster | 10.00% | ~276 |
@@ -24,19 +24,19 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 8.00% | ~221 |
 | Opportunist | 7.00% | ~193 |
 | Just a Scratch | 7.00% | ~193 |
-| Hold Your Ground | 6.00% | ~165 |
-| Daemonkeeper | 4.00% | ~110 |
-| A Gift Spurned | 4.00% | ~110 |
-| Long Distance Call | 4.00% | ~110 |
+| Hold Your Ground | 6.00% | ~166 |
+| Daemonkeeper | 4.00% | ~111 |
+| A Gift Spurned | 4.00% | ~111 |
+| Long Distance Call | 4.00% | ~111 |
 | Corruption Cleanser | 3.00% | ~83 |
 | Mind Like a Fortress | 3.00% | ~83 |
 | Harvest No More | 3.00% | ~83 |
-| Junk Banishment | 3.00% | ~83 |
 | Tactical Flexibility | 3.00% | ~83 |
 | Patron of Deimos | 2.00% | ~55 |
 | Exterminator | 2.00% | ~55 |
 | Preservationist | 2.00% | ~55 |
 | Engine Kill | 2.00% | ~55 |
+| Junk Banishment | 2.00% | ~55 |
 | Death Comes For All | 2.00% | ~55 |
 | Clean Slate | 1.00% | ~28 |
 | Fleetmaster | 1.00% | ~28 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,758 (Ranked 137)  
+Progressed: 2,764 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 2,669 | 0 |
 | 2023-05-27 | 2,704 | 0 |
 | 2023-05-28 | 2,736 | 0 |
-| 2023-05-29 | 2,758 | 0 |
+| 2023-05-29 | 2,764 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 298)  

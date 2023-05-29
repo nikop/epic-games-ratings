@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 65,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 15.27,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 15.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -898,6 +898,11 @@
       "Time": "2023-05-29T15:05:17.8863655+00:00",
       "NumProgressed": 203,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-29T18:05:18.7077503+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 22,
@@ -909,7 +914,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "LEVEL_002",
@@ -925,7 +930,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "LEVEL_004",
@@ -949,7 +954,7 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_007",
@@ -979,9 +984,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_011",
@@ -1045,7 +1050,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_019",
@@ -1053,7 +1058,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_020",
@@ -1061,7 +1066,7 @@
       "Name": "City of dreams",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_021",
@@ -1069,7 +1074,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_022",
@@ -1077,14 +1082,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 31
     }
   ],
@@ -1092,8 +1097,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:00.5001562+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:18.7077497+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:58:47.0840738+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:00.5001782+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:57:48.6837446+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:18.7077768+00:00"
 }

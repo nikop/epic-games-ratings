@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2758,
+  "EOS_Progressed": 2764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1287,6 +1287,11 @@
       "Time": "2023-05-29T17:07:33.9019991+00:00",
       "NumProgressed": 2758,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T18:05:44.6545507+00:00",
+      "NumProgressed": 2764,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1314,7 +1319,7 @@
       "Name": "Look Over There!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 802
     },
     {
       "ID": "BloodAndIron",
@@ -1386,7 +1391,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1394,7 +1399,7 @@
       "Name": "Surgical Excision",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1450,7 +1455,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1458,7 +1463,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Kills_Auto",
@@ -1466,7 +1471,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 774
     },
     {
       "ID": "Kills_Bleed",
@@ -1474,7 +1479,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1490,7 +1495,7 @@
       "Name": "Executioner",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 940
     },
     {
       "ID": "Kills_Exterminator",
@@ -1506,7 +1511,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "Kills_Interactable",
@@ -1522,7 +1527,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 774
     },
     {
       "ID": "Kills_Streak",
@@ -1530,7 +1535,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "Kills_Vakir",
@@ -1546,7 +1551,7 @@
       "Name": "An Ill Omen",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1634,7 +1639,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1712,9 +1717,9 @@
       "ID": "ReaperDefeated_Necrosus",
       "SetID": "3jha1np",
       "Name": "Junk Banishment",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 55
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -1722,7 +1727,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1738,7 +1743,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "SkilledKnight",
@@ -1769,21 +1774,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2758,
+      "Progressed": 2764,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2758,
+      "Progressed": 2764,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:33.9019986+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:44.6545501+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:59:33.1530627+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:33.9020647+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:58:19.7065649+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:44.6546507+00:00"
 }

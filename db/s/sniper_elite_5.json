@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1811,
+  "EOS_Progressed": 1816,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 0,
@@ -1844,6 +1844,11 @@
       "Time": "2023-05-29T17:07:13.3622096+00:00",
       "NumProgressed": 1811,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T18:05:28.7392838+00:00",
+      "NumProgressed": 1816,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1861,9 +1866,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1887,23 +1892,23 @@
       "Name": "Opposing Force",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 127
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1935,7 +1940,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 400
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1975,7 +1980,7 @@
       "Name": "Gunslinger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1991,7 +1996,7 @@
       "Name": "Sharpshooter",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2023,7 +2028,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2071,7 +2076,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2087,7 +2092,7 @@
       "Name": "Der Geist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2103,15 +2108,15 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2119,7 +2124,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2167,7 +2172,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2183,7 +2188,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -2205,9 +2210,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -2263,7 +2268,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2341,9 +2346,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -2373,9 +2378,9 @@
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
       "SetID": "83mdf7p",
       "Name": "If You Go Down To The Woods Today",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -2422,13 +2427,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1762,
+      "Progressed": 1767,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1811,
+      "Progressed": 1816,
       "Completed": 2
     }
   ],
@@ -2436,8 +2441,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:13.3622091+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:28.7392832+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:58.6205332+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:13.3622948+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:00:02.4677044+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:28.7394171+00:00"
 }

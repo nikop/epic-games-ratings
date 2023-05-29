@@ -187,9 +187,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -307,9 +307,9 @@
       "ID": "Vanilla_CodexTier1",
       "SetID": "27kik8p",
       "Name": "Scribe",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -988,8 +988,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:18.1762715+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:32.4249083+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.7890376+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:59:45.6707541+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:18.1763855+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:58:28.3427022+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:32.4250762+00:00"
 }

@@ -23,10 +23,10 @@
 | Cataclysm | 7.00% | ~9 |
 | Looper | 7.00% | ~9 |
 | Kaboom! | 6.00% | ~7 |
+| All Alone | 6.00% | ~7 |
 | Final Charge | 6.00% | ~7 |
+| Reunited | 6.00% | ~7 |
 | Transformers, cubes in disguise | 5.00% | ~6 |
-| All Alone | 5.00% | ~6 |
-| Reunited | 5.00% | ~6 |
 | Summer Luvin' | 4.00% | ~5 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |

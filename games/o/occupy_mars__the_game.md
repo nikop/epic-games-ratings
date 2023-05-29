@@ -5,18 +5,18 @@ Rating: 3.80 (Ranked 916)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~416 |
+| I don't feel so good | 41.00% | ~417 |
 | Electrician | 33.00% | ~335 |
-| Fear my botany powers, Mars | 30.00% | ~304 |
+| Fear my botany powers, Mars | 30.00% | ~305 |
 | Zero Waste | 27.00% | ~274 |
 | Bob The Builder | 27.00% | ~274 |
 | I am the greatest botanist on this planet. | 26.00% | ~264 |
-| Miner | 22.00% | ~223 |
-| Gardener | 20.00% | ~203 |
+| Miner | 22.00% | ~224 |
+| Gardener | 21.00% | ~213 |
 | Houston we have a problem | 19.00% | ~193 |
-| Occupy Mars! | 17.00% | ~172 |
+| Occupy Mars! | 17.00% | ~173 |
 | Detective | 15.00% | ~152 |
-| The Collector | 10.00% | ~101 |
+| The Collector | 10.00% | ~102 |
 | Get your hands dirty | 8.00% | ~81 |
 | All Wheel Trouble | 5.00% | ~51 |
 | ITS crash site | 4.00% | ~41 |
@@ -29,11 +29,11 @@ Rating: 3.80 (Ranked 916)
 | Hard Landing | 0.60% | ~6 |
 | Caveman | 0.50% | ~5 |
 | Thunderstruck | 0.40% | ~4 |
+| Explosive Miner | 0.30% | ~3 |
+| Bull’s eye | 0.30% | ~3 |
 | Rocket Jump | 0.30% | ~3 |
-| Explosive Miner | 0.20% | ~2 |
 | Hot Repairs | 0.20% | ~2 |
 | 5G Network | 0.20% | ~2 |
-| Bull’s eye | 0.20% | ~2 |
 | Korolev crater | 0.20% | ~2 |
 | One does not simply... | 0.20% | ~2 |
 | Rover Mechanic | 0.20% | ~2 |
@@ -54,7 +54,7 @@ Rating: 3.80 (Ranked 916)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,014 (Ranked 169)  
+Progressed: 1,016 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 936 | 0 |
 | 2023-05-27 | 964 | 0 |
 | 2023-05-28 | 994 | 0 |
-| 2023-05-29 | 1,014 | 0 |
+| 2023-05-29 | 1,016 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

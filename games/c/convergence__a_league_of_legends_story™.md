@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~462 |
+| Time Heals All Wounds | 93.00% | ~463 |
 | Rail Rat | 76.00% | ~378 |
-| The Mysterious Stranger | 74.00% | ~368 |
-| Immaculate Aim | 63.00% | ~313 |
-| The Brass Boss | 55.00% | ~273 |
-| Honest Mistake | 53.00% | ~263 |
-| No, Thanks! | 51.00% | ~253 |
+| The Mysterious Stranger | 74.00% | ~369 |
+| Immaculate Aim | 63.00% | ~314 |
+| The Brass Boss | 55.00% | ~274 |
+| Honest Mistake | 53.00% | ~264 |
+| No, Thanks! | 52.00% | ~259 |
 | Time Flies | 49.00% | ~244 |
 | The Prince in Heels | 49.00% | ~244 |
+| The Harder They Fall | 48.00% | ~239 |
 | Right On Time | 47.00% | ~234 |
-| The Harder They Fall | 47.00% | ~234 |
 | Fast Learner | 45.00% | ~224 |
 | Immaculate Aim | 45.00% | ~224 |
 | Make Up For Lost Time | 43.00% | ~214 |
@@ -24,20 +24,20 @@
 | Like Clockwork | 33.00% | ~164 |
 | The Wicked Twins | 31.00% | ~154 |
 | Family Memories | 30.00% | ~149 |
-| The Betrayer | 29.00% | ~144 |
-| Check Your Pulse | 27.00% | ~134 |
+| The Betrayer | 30.00% | ~149 |
+| Check Your Pulse | 28.00% | ~139 |
 | Good Neighbor | 27.00% | ~134 |
 | Street Style | 26.00% | ~129 |
 | The Loose Cannon | 26.00% | ~129 |
-| The Family Fortune | 21.00% | ~104 |
-| The Man Who Shattered Time | 20.00% | ~99 |
-| Whiz Kid | 20.00% | ~99 |
-| Ask Questions Later | 20.00% | ~99 |
-| Sump Explorer | 19.00% | ~94 |
-| Syron for Hope | 19.00% | ~94 |
-| Chaincrawler Explorer | 18.00% | ~89 |
-| Factorywood Explorer | 18.00% | ~89 |
-| Fairgrounds Explorer | 16.00% | ~80 |
+| The Family Fortune | 21.00% | ~105 |
+| The Man Who Shattered Time | 20.00% | ~100 |
+| Whiz Kid | 20.00% | ~100 |
+| Ask Questions Later | 20.00% | ~100 |
+| Sump Explorer | 19.00% | ~95 |
+| Syron for Hope | 19.00% | ~95 |
+| Chaincrawler Explorer | 18.00% | ~90 |
+| Factorywood Explorer | 18.00% | ~90 |
+| Fairgrounds Explorer | 17.00% | ~85 |
 | Theater Explorer | 14.00% | ~70 |
 | Cultivair Explorer | 13.00% | ~65 |
 | Rungs Was Right | 12.00% | ~60 |
@@ -54,11 +54,11 @@
 | A Lesson in Precision | 0.80% | ~4 |
 | Wildlife Protection | 0.40% | ~2 |
 | Going to Live Forever | 0.40% | ~2 |
-| Raw Talent | 0.20% | ~1 |
+| Raw Talent | 0.40% | ~2 |
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 195)  
+Progressed: 498 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 386 | 0 |
 | 2023-05-27 | 438 | 0 |
 | 2023-05-28 | 474 | 0 |
-| 2023-05-29 | 497 | 0 |
+| 2023-05-29 | 498 | 0 |

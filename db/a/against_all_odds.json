@@ -2,12 +2,12 @@
   "ID": "676a89b2e8344c9db39a79724150cba6",
   "Name": "Against All Odds",
   "ProductSlug": "against-all-odds-409105",
-  "Ranking_Rating": 729,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-05-04T16:58:21.4625211+00:00",
@@ -122,6 +122,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-29T17:58:06.1028373+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -140,8 +146,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-04T16:58:21.462516+00:00",
   "FirstSeenRating": "2023-05-04T16:58:21.4625207+00:00",
-  "LastChanged": "2023-05-28T17:58:02.4658926+00:00",
+  "LastChanged": "2023-05-29T17:58:06.1028371+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.1468271+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:59:12.5624279+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:05:24.8221924+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:58:06.1028378+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:04:11.0289955+00:00"
 }

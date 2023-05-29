@@ -330,9 +330,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "gagif7",
       "Name": "POI Hunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -386,9 +386,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "gagif7",
       "Name": "Last One Standing",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:03:12.3479625+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:02:12.4782768+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.0293662+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:58:10.7138106+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:03:12.3479972+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:57:24.1033228+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:02:12.4783339+00:00"
 }

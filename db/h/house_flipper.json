@@ -1506,9 +1506,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19105,
+  "EOS_Progressed": 19107,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3151,6 +3151,11 @@
       "Time": "2023-05-29T17:07:15.8418788+00:00",
       "NumProgressed": 19105,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-29T18:05:30.6006818+00:00",
+      "NumProgressed": 19107,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3210,7 +3215,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17959
+      "UsersEstimate": 17961
     },
     {
       "ID": "GameOver",
@@ -3242,7 +3247,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "JuniorEstateAgent",
@@ -3272,9 +3277,9 @@
       "ID": "MrAndMrsJantart",
       "SetID": "d0jo315",
       "Name": "Just Enough",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3439
+      "UsersEstimate": 3630
     },
     {
       "ID": "Negotiator",
@@ -3330,7 +3335,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "YouDoItWrong",
@@ -3345,15 +3350,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19105,
+      "Progressed": 19107,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-29T17:00:37.8421528+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:15.8418785+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:30.6006809+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:00:37.8421535+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:15.8419075+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:02.6985435+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:30.6007262+00:00"
 }

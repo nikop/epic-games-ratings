@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223254,
+  "EOS_Progressed": 223255,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4088,6 +4088,11 @@
       "Time": "2023-05-29T17:06:57.9722295+00:00",
       "NumProgressed": 223254,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-29T18:05:16.8948418+00:00",
+      "NumProgressed": 223255,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -4235,7 +4240,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71441
+      "UsersEstimate": 71442
     },
     {
       "ID": "NOBUNAGA",
@@ -4363,22 +4368,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91534
+      "UsersEstimate": 91535
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223254,
+      "Progressed": 223255,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:06:57.9722292+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:16.8948411+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:59:04.7558081+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:06:57.9722836+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:58:01.1515708+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:16.8949127+00:00"
 }

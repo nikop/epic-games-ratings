@@ -167,9 +167,9 @@
       "ID": "BADGE_BOSS_7_KILL",
       "SetID": "ak6pfjk",
       "Name": "Feed the Fishes",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "BADGE_BOSS_8_KILL",
@@ -287,9 +287,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_4",
       "SetID": "ak6pfjk",
       "Name": "Starry: Arcania",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_5",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:02:43.8918473+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:00:37.2638454+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:59:30.9678837+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:02:43.8918935+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:58:18.5885802+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:00:37.2639209+00:00"
 }

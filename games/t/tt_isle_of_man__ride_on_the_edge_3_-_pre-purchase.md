@@ -20,10 +20,12 @@
 | Lone Wolf | 5.00% | ~3 |
 | Playing God | 5.00% | ~3 |
 | Déjà-Vu | 3.00% | ~2 |
+| POI Hunter | 3.00% | ~2 |
 | The Joy of Discovery | 3.00% | ~2 |
 | Gotta Go Fast! | 3.00% | ~2 |
 | Say My Name | 3.00% | ~2 |
 | Geek | 3.00% | ~2 |
+| Last One Standing | 3.00% | ~2 |
 | The Immortal One | 3.00% | ~2 |
 | Time Lord | 3.00% | ~2 |
 | Time Is of the Essence | 3.00% | ~2 |
@@ -32,8 +34,6 @@
 | Winner Winner Chicken Dinner | 3.00% | ~2 |
 | Tailor-Made | 3.00% | ~2 |
 | Golden Ratio | 2.00% | ~1 |
-| POI Hunter | 2.00% | ~1 |
-| Last One Standing | 2.00% | ~1 |
 | Shopping List | 2.00% | ~1 |
 | Checklist | 2.00% | ~1 |
 | First Things First | 2.00% | ~1 |

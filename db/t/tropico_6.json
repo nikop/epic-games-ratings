@@ -870,7 +870,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3206,
+  "EOS_Progressed": 3207,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -3130,6 +3130,11 @@
       "Time": "2023-05-29T17:07:36.8032598+00:00",
       "NumProgressed": 3206,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T18:05:46.9989713+00:00",
+      "NumProgressed": 3207,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3413,7 +3418,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3421,7 +3426,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -3445,7 +3450,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -3460,15 +3465,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3206,
+      "Progressed": 3207,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:36.8032593+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:46.9989707+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:31.7046765+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:36.8033058+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:41.830577+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:46.9990168+00:00"
 }

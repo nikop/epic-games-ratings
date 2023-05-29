@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1638,
+  "EOS_Progressed": 1639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1637,6 +1637,11 @@
       "Time": "2023-05-29T02:06:40.0168344+00:00",
       "NumProgressed": 1638,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T18:00:34.5183044+00:00",
+      "NumProgressed": 1639,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1704,7 +1709,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "Achievement_010",
@@ -1784,7 +1789,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "Achievement_020",
@@ -1840,7 +1845,7 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "Achievement_027",
@@ -1848,7 +1853,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "Achievement_028",
@@ -1872,7 +1877,7 @@
       "Name": "ICU",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "Achievement_031",
@@ -2175,7 +2180,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1638,
+      "Progressed": 1639,
       "Completed": 0
     }
   ],
@@ -2183,8 +2188,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-28T21:57:48.21108+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:02:39.9741489+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:00:34.5183039+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:37.8719634+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:58:29.34888+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:02:39.9742281+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:57:37.7765765+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:00:34.5184542+00:00"
 }

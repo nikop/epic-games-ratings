@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -160,11 +160,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.57,
+  "EOS_Completed_Percentage": 8.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -180,6 +180,11 @@
       "Time": "2023-05-15T02:07:42.5709456+00:00",
       "NumProgressed": 665,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-05-29T18:05:48.2750801+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 50,
@@ -191,7 +196,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -199,7 +204,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -215,7 +220,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -239,7 +244,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -271,7 +276,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -279,7 +284,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -303,7 +308,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -375,7 +380,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -391,15 +396,15 @@
       "Name": "No Treasure Left Behind",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT027",
       "SetID": "dejhjd5",
       "Name": "Natural Born Monster-Killer",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -423,7 +428,7 @@
       "Name": "Gourmand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT031",
@@ -447,7 +452,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -479,7 +484,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -503,7 +508,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -511,7 +516,7 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -559,7 +564,7 @@
       "Name": "Champion of the Quarry",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT048",
@@ -575,7 +580,7 @@
       "Name": "Champion of the Lava Ruins",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT050",
@@ -590,15 +595,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-03-31T05:58:46.4032746+00:00",
-  "LastChanged_Achievements": "2023-05-29T17:07:38.3510136+00:00",
+  "LastChanged_Achievements": "2023-05-29T18:05:48.2750794+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:36.4740051+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:01:38.3501493+00:00",
-  "LastUpdate_Achievements": "2023-05-29T17:07:38.3510711+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:59:47.8483591+00:00",
+  "LastUpdate_Achievements": "2023-05-29T18:05:48.2751575+00:00"
 }
