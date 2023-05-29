@@ -50,9 +50,9 @@
 | 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 49 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.89% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
-| 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 2.84% |
-| 53 | [Lamentum](games/l/lamentum.md) | 2.83% |
+| 51 | [Bunny Park](games/b/bunny_park.md) | 2.84% |
+| 52 | [Lamentum](games/l/lamentum.md) | 2.83% |
+| 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.82% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -62,7 +62,7 @@
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
-| 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.02% |
+| 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.00% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.96% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 65 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -88,7 +88,7 @@
 | 86 | [Five Dates](games/f/five_dates.md) | 1.05% |
 | 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.99% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
-| 89 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.92% |
+| 89 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.91% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
