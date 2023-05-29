@@ -3,7 +3,7 @@
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 10,
+  "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -962,9 +962,9 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_012",
@@ -1067,8 +1067,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:05:52.7867658+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:05:45.3652539+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:58:12.3096519+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:05:52.7867957+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:58:05.0981978+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:05:45.3652688+00:00"
 }

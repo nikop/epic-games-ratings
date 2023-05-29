@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 99,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.04,
+  "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -273,6 +273,11 @@
       "Time": "2023-05-28T19:02:11.3173702+00:00",
       "NumProgressed": 98,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T00:02:09.8132321+00:00",
+      "NumProgressed": 99,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 11,
@@ -284,7 +289,7 @@
       "Name": "Solved first case",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "1",
@@ -292,7 +297,7 @@
       "Name": "Solved second case",
       "Percentage": 82,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "10",
@@ -338,7 +343,7 @@
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
       "UsersEstimate": 25
     },
@@ -371,22 +376,22 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 99,
       "Completed": 2
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 45,
-      "Completed": 45
+      "Progressed": 46,
+      "Completed": 46
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:01:37.7839512+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:02:09.8132317+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:22.3252566+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:58:55.7427072+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:01:37.783962+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:58:46.4667462+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:02:09.8132432+00:00"
 }

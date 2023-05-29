@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1533,9 +1533,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42489,
+  "EOS_Progressed": 42490,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2773,6 +2773,11 @@
       "Time": "2023-05-28T23:06:27.535154+00:00",
       "NumProgressed": 42489,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-29T00:06:21.2029724+00:00",
+      "NumProgressed": 42490,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2784,7 +2789,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2856,7 +2861,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17420
+      "UsersEstimate": 17421
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -2880,7 +2885,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5948
+      "UsersEstimate": 5949
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -2976,7 +2981,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26343
+      "UsersEstimate": 26344
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2992,7 +2997,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14021
+      "UsersEstimate": 14022
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -3000,7 +3005,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18695
+      "UsersEstimate": 18696
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3080,7 +3085,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17420
+      "UsersEstimate": 17421
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -3088,7 +3093,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21244
+      "UsersEstimate": 21245
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3176,7 +3181,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18695
+      "UsersEstimate": 18696
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3224,7 +3229,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14446
+      "UsersEstimate": 14447
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -3248,7 +3253,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10197
+      "UsersEstimate": 10198
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -3288,7 +3293,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -3311,15 +3316,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42489,
+      "Progressed": 42490,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-27T18:59:14.2196655+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:06:27.5351535+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:06:21.2029719+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:00:05.9270554+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:06:27.5352265+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:59:57.714393+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:06:21.2030405+00:00"
 }

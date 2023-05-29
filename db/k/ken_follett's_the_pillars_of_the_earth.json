@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -2934,9 +2934,9 @@
       "ID": "tpote_achievement_11",
       "SetID": "3jcf6c3",
       "Name": "Wannabe knight",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3200
     },
     {
       "ID": "tpote_achievement_12",
@@ -3254,8 +3254,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:05:51.8044716+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:05:44.5348878+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:00:14.5681937+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:05:51.8045396+00:00"
+  "LastUpdate_Ratings": "2023-05-29T00:00:07.0386501+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:05:44.5349375+00:00"
 }

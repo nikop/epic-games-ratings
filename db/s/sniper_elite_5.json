@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -226,7 +226,7 @@
   "Tags": [],
   "EOS_Progressed": 1760,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1946,9 +1946,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 299
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2361,8 +2361,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:06:03.0133619+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:05:55.8111301+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:00:50.2938783+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:06:03.0134451+00:00"
+  "LastUpdate_Ratings": "2023-05-29T00:00:41.47424+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:05:55.8112052+00:00"
 }

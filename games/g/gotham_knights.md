@@ -5,8 +5,8 @@ Rating: 4.17 (Ranked 839)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Har, Har, Har, Very Funny | 2.00% | ~1,252 |
-| First Step Into the Knight | 2.00% | ~1,252 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,253 |
+| First Step Into the Knight | 2.00% | ~1,253 |
 | The Batman Family | 1.00% | ~626 |
 | To the Victor Go the Spoils | 1.00% | ~626 |
 | Quartzer Life Crisis | 1.00% | ~626 |
@@ -15,10 +15,10 @@ Rating: 4.17 (Ranked 839)
 | Knighthood | 1.00% | ~626 |
 | Loose Ends | 1.00% | ~626 |
 | Whispered Words | 1.00% | ~626 |
+| Lock and Key | 1.00% | ~626 |
 | Something in the Clay | 0.90% | ~564 |
 | Snow Problem | 0.90% | ~564 |
 | Unstoppable Force | 0.90% | ~564 |
-| Lock and Key | 0.90% | ~564 |
 | Bad Apples in Every Orchard | 0.90% | ~564 |
 | Protector of Gotham | 0.80% | ~501 |
 | The Show Mud Go On | 0.80% | ~501 |
@@ -37,9 +37,9 @@ Rating: 4.17 (Ranked 839)
 | Out of Their League | 0.50% | ~313 |
 | Drone You Out | 0.50% | ~313 |
 | Gotham City Confidential | 0.50% | ~313 |
-| Fusion Expert | 0.40% | ~250 |
-| Family Meeting | 0.40% | ~250 |
-| Solid Alibi | 0.40% | ~250 |
+| Fusion Expert | 0.40% | ~251 |
+| Family Meeting | 0.40% | ~251 |
+| Solid Alibi | 0.40% | ~251 |
 | Dressed to Impress | 0.30% | ~188 |
 | Expert Crime Fighter | 0.30% | ~188 |
 | A Worthy Successor | 0.30% | ~188 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,616 (Ranked 70)  
+Progressed: 62,627 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
+| 2023-05-29 | 62,627 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,737 (Ranked 138)  

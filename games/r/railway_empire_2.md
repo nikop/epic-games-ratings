@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 77.00% | ~255 |
+| Departure | 76.00% | ~252 |
 | A new Journey | 76.00% | ~252 |
-| Departure | 75.00% | ~248 |
+| From X to Y | 74.00% | ~245 |
+| Brainstorm | 74.00% | ~245 |
 | Way of Iron | 74.00% | ~245 |
-| From X to Y | 73.00% | ~242 |
-| Brainstorm | 73.00% | ~242 |
 | Mystery Tour | 71.00% | ~235 |
 | We brake for nobody | 70.00% | ~232 |
-| All around the World | 69.00% | ~228 |
+| All around the World | 70.00% | ~232 |
+| Mind the Gap | 69.00% | ~228 |
 | Travel Company | 69.00% | ~228 |
-| Mind the Gap | 68.00% | ~225 |
 | Right through the middle | 60.00% | ~199 |
 | Poor Devil | 54.00% | ~179 |
 | Apprentice | 53.00% | ~175 |
 | Facility Manager | 51.00% | ~169 |
 | Producer | 46.00% | ~152 |
 | Stoker | 44.00% | ~146 |
-| Bridge Builder | 41.00% | ~136 |
+| Bridge Builder | 42.00% | ~139 |
 | Access granted | 38.00% | ~126 |
 | Full Steam ahead | 28.00% | ~93 |
 | Going once, going twice, sold | 28.00% | ~93 |
@@ -31,9 +31,9 @@
 | Trailblazer | 18.00% | ~60 |
 | Financial Shark | 18.00% | ~60 |
 | All mine | 17.00% | ~56 |
-| Hostile Takeover | 15.00% | ~50 |
+| Hostile Takeover | 16.00% | ~53 |
 | General Manager | 14.00% | ~46 |
-| Country Life | 12.00% | ~40 |
+| Country Life | 13.00% | ~43 |
 | Traffic Junction | 10.00% | ~33 |
 | Traffic Jam | 9.00% | ~30 |
 | Assimilated | 7.00% | ~23 |
@@ -46,7 +46,7 @@
 | Settler | 2.00% | ~7 |
 | Socializer | 2.00% | ~7 |
 | Go West | 1.00% | ~3 |
-| Conductor | 0.90% | ~3 |
+| Conductor | 1.00% | ~3 |
 | Accurate | 0.60% | ~2 |
 | A new Hope | 0.30% | ~1 |
 | Unstoppable | 0.30% | ~1 |

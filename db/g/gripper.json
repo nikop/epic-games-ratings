@@ -4,8 +4,8 @@
   "ProductSlug": "gripper-a6534b",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -122,6 +122,11 @@
     {
       "Time": "2023-05-28T15:05:34.9000094+00:00",
       "NumProgressed": 38,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T00:05:48.6703001+00:00",
+      "NumProgressed": 39,
       "NumCompleted": 0
     }
   ],
@@ -220,7 +225,7 @@
       "ID": "ach_quests_shock",
       "SetID": "7flpkel",
       "Name": "Total Shock",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -236,7 +241,7 @@
       "ID": "ach_rip_parts_shock",
       "SetID": "7flpkel",
       "Name": "Robolimb Ripper",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -260,7 +265,7 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -324,7 +329,7 @@
       "ID": "ach_win_anger",
       "SetID": "7flpkel",
       "Name": "Deal with Anger",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -372,7 +377,7 @@
       "ID": "ach_win_depression",
       "SetID": "7flpkel",
       "Name": "Deal with Depression",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -380,7 +385,7 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -413,7 +418,7 @@
     {
       "ID": "7flpkel",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
@@ -421,8 +426,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:05:55.9212072+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:05:48.6702996+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.9960672+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:58:17.7448978+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:05:55.9212543+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:58:10.4481506+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:05:48.6703297+00:00"
 }

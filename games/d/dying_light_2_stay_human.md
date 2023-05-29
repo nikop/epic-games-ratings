@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,024 |
-| Into the Unknown | 9.00% | ~50,422 |
-| First Shot | 9.00% | ~50,422 |
-| Herzlich Wilkommen! | 8.00% | ~44,819 |
-| Good Night & Good Luck | 8.00% | ~44,819 |
-| Sancho Panza | 7.00% | ~39,217 |
-| Oh, So This Is How It Works! | 7.00% | ~39,217 |
-| Under Pressure | 6.00% | ~33,614 |
-| On the Trail of the Enemy | 6.00% | ~33,614 |
-| It Wasn't That Hard, Was It? | 6.00% | ~33,614 |
-| Flag Burning | 6.00% | ~33,614 |
-| Night Hunter | 6.00% | ~33,614 |
-| Light in the Darkness | 5.00% | ~28,012 |
-| Get Outta My House! | 5.00% | ~28,012 |
-| Being All Social | 5.00% | ~28,012 |
+| You Never Forget Your First... | 10.00% | ~56,026 |
+| Into the Unknown | 9.00% | ~50,424 |
+| First Shot | 9.00% | ~50,424 |
+| Herzlich Wilkommen! | 8.00% | ~44,821 |
+| Good Night & Good Luck | 8.00% | ~44,821 |
+| Sancho Panza | 7.00% | ~39,218 |
+| Oh, So This Is How It Works! | 7.00% | ~39,218 |
+| Under Pressure | 6.00% | ~33,616 |
+| On the Trail of the Enemy | 6.00% | ~33,616 |
+| It Wasn't That Hard, Was It? | 6.00% | ~33,616 |
+| Flag Burning | 6.00% | ~33,616 |
+| Night Hunter | 6.00% | ~33,616 |
+| Light in the Darkness | 5.00% | ~28,013 |
+| Get Outta My House! | 5.00% | ~28,013 |
+| Being All Social | 5.00% | ~28,013 |
 | Debris and Ashes | 4.00% | ~22,410 |
 | We Will Be Heard! | 4.00% | ~22,410 |
 | Known Associate | 4.00% | ~22,410 |
@@ -38,30 +38,30 @@ Number of Ratings: 7,305  (23.09.2022)
 | Parkour Master | 2.00% | ~11,205 |
 | Combat Master | 2.00% | ~11,205 |
 | You're Going Down! | 2.00% | ~11,205 |
-| Municipal Services | 1.00% | ~5,602 |
-| Tube Map | 1.00% | ~5,602 |
-| Don Quixote | 1.00% | ~5,602 |
-| Can't You Read the Signs? | 1.00% | ~5,602 |
-| Ban Hammer | 1.00% | ~5,602 |
-| Modder | 1.00% | ~5,602 |
-| Ironheart | 1.00% | ~5,602 |
+| Municipal Services | 1.00% | ~5,603 |
+| Tube Map | 1.00% | ~5,603 |
+| Don Quixote | 1.00% | ~5,603 |
+| Can't You Read the Signs? | 1.00% | ~5,603 |
+| Ban Hammer | 1.00% | ~5,603 |
+| Modder | 1.00% | ~5,603 |
+| Ironheart | 1.00% | ~5,603 |
 | Nemesis | 1.00% | ~2,057 |
 | That's Teamwork! | 0.90% | ~5,042 |
 | Fit as a Fiddle | 0.90% | ~5,042 |
 | Enter the Hall | 0.90% | ~1,851 |
-| Night of Terrors | 0.80% | ~1,645 |
+| Night of Terrors | 0.80% | ~1,646 |
 | Find Anything Interesting? | 0.70% | ~3,922 |
 | Boot Licker | 0.70% | ~3,922 |
-| Who Wants To Be a... | 0.60% | ~3,361 |
-| Get the Point? | 0.60% | ~3,361 |
+| Who Wants To Be a... | 0.60% | ~3,362 |
+| Get the Point? | 0.60% | ~3,362 |
 | My Friend, Ciro | 0.60% | ~1,234 |
 | Skullcrusher | 0.60% | ~1,234 |
 | Revenants | 0.50% | ~2,801 |
 | Tanning Salon | 0.50% | ~2,801 |
 | Lightning Reflexes | 0.40% | ~2,241 |
-| A Friend in Need... | 0.20% | ~1,120 |
-| Man On a Mission | 0.20% | ~1,120 |
-| Ultramarathon | 0.20% | ~1,120 |
+| A Friend in Need... | 0.20% | ~1,121 |
+| Man On a Mission | 0.20% | ~1,121 |
+| Ultramarathon | 0.20% | ~1,121 |
 | Don't Look Up | 0.10% | ~560 |
 | True Nightrunner | 0.10% | ~560 |
 | Bing Bang Boom! | 0.10% | ~560 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~206 |
 | Connoisseur | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 560,240 (Ranked 22)  
+Progressed: 560,262 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 49 (0.01%) (Ranked 196)
 | 2023-05-26 | 557,751 | 49 |
 | 2023-05-27 | 558,944 | 49 |
 | 2023-05-28 | 560,240 | 49 |
+| 2023-05-29 | 560,262 | 49 |
 ## Awards
 Max (Character Customization): 7,282  (Ranked 43)  
 Sum: 16,464 (Ranked 59)  

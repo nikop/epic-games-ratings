@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13925,
+  "EOS_Progressed": 13927,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1944,6 +1944,11 @@
       "Time": "2023-05-28T23:03:57.1737872+00:00",
       "NumProgressed": 13925,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T00:03:48.1305509+00:00",
+      "NumProgressed": 13927,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2075,7 +2080,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2107,7 +2112,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -2139,7 +2144,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -2171,7 +2176,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2195,7 +2200,7 @@
       "Name": "Crash Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STORY_TOWER",
@@ -2211,7 +2216,7 @@
       "Name": "Power Up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "DISMEMBER_100",
@@ -2274,13 +2279,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13925,
+      "Progressed": 13927,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1851,
+      "Progressed": 1853,
       "Completed": 29
     }
   ],
@@ -2288,8 +2293,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:03:57.1737865+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:03:48.1305504+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:58:01.3354446+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:03:57.1738272+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:57:53.9958575+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:03:48.1305874+00:00"
 }

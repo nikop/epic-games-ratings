@@ -18,16 +18,16 @@ Rating: 4.51 (Ranked 522)
 | Kitchen Ready To Cook | 44.00% | ~663 |
 | Collect Gold | 43.00% | ~648 |
 | Smithy Ready to Craft | 43.00% | ~648 |
-| Fix the Travellers Wagon | 41.00% | ~617 |
+| Fix the Travellers Wagon | 42.00% | ~633 |
 | Complete Elder Faction | 39.00% | ~587 |
 | End of the Mozis | 36.00% | ~542 |
 | Throne Room Fit For A King | 36.00% | ~542 |
+| Meet the Creatures from the Deep | 34.00% | ~512 |
 | Return Power To The Depths | 34.00% | ~512 |
-| Meet the Creatures from the Deep | 33.00% | ~497 |
 | Defeat Ratnor Rodentson | 28.00% | ~422 |
 | Return the Statues | 25.00% | ~376 |
 | Defeat Rattus Augustail | 24.00% | ~361 |
-| Complete the Chefs Book | 22.00% | ~331 |
+| Complete the Chefs Book | 23.00% | ~346 |
 | Complete Ranger Faction | 20.00% | ~301 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~286 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~271 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 894,
+  "EOS_Progressed": 895,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 113,
-  "EOS_NewCompleters": 10,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
     {
@@ -1912,6 +1912,11 @@
       "Time": "2023-05-28T23:05:53.6920808+00:00",
       "NumProgressed": 894,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-05-29T00:05:46.3041332+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 50,
@@ -1923,7 +1928,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "10",
@@ -1985,9 +1990,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 260
     },
     {
       "ID": "18",
@@ -1995,7 +2000,7 @@
       "Name": "Surprise!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "19",
@@ -2011,7 +2016,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "20",
@@ -2099,7 +2104,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "30",
@@ -2115,7 +2120,7 @@
       "Name": "Little Shop",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "32",
@@ -2129,9 +2134,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 430
     },
     {
       "ID": "34",
@@ -2187,7 +2192,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "40",
@@ -2195,7 +2200,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "41",
@@ -2217,9 +2222,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 385
     },
     {
       "ID": "44",
@@ -2235,7 +2240,7 @@
       "Name": "Extraordinary!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "46",
@@ -2259,7 +2264,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "49",
@@ -2281,17 +2286,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 260
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 260
     },
     {
       "ID": "7",
@@ -2299,7 +2304,7 @@
       "Name": "Fun Guy",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "8",
@@ -2315,14 +2320,14 @@
       "Name": "Curtain Call",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 894,
+      "Progressed": 895,
       "Completed": 61
     }
   ],
@@ -2330,8 +2335,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:05:53.6920802+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:05:46.3041322+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:57:35.5282073+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:05:53.6921523+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:57:28.4329983+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:05:46.304187+00:00"
 }

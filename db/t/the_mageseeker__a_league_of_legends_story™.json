@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2201,
+  "EOS_Progressed": 2202,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -1981,6 +1981,11 @@
       "Time": "2023-05-28T23:06:04.7509109+00:00",
       "NumProgressed": 2201,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T00:05:57.571509+00:00",
+      "NumProgressed": 2202,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2040,7 +2045,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2056,7 +2061,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2072,7 +2077,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2096,7 +2101,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2112,7 +2117,7 @@
       "Name": "Past trauma",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -2128,7 +2133,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2168,7 +2173,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2176,7 +2181,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2208,7 +2213,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2216,7 +2221,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2224,7 +2229,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2232,7 +2237,7 @@
       "Name": "Devineur",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2328,7 +2333,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2336,7 +2341,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2358,9 +2363,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 286
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -2408,14 +2413,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2201,
+      "Progressed": 2202,
       "Completed": 1
     }
   ],
@@ -2423,8 +2428,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:06:04.7509103+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:05:57.5715086+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:57:46.7847947+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:06:04.7509772+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:57:39.7468303+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:05:57.5715663+00:00"
 }

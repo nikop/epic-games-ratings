@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2610,
+  "EOS_Progressed": 2611,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1970,6 +1970,11 @@
       "Time": "2023-05-28T22:03:28.9929612+00:00",
       "NumProgressed": 2610,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T00:03:24.7416082+00:00",
+      "NumProgressed": 2611,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2021,7 +2026,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "15",
@@ -2045,7 +2050,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "18",
@@ -2133,7 +2138,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "6",
@@ -2172,13 +2177,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2610,
+      "Progressed": 2611,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:03:33.7464235+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:03:24.7416072+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:59:10.7208743+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:03:33.7464569+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:59:03.1206785+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:03:24.7416368+00:00"
 }

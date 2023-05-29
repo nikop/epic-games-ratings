@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
     "PcReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -1984,9 +1984,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 67089,
+  "EOS_Progressed": 67090,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1424,
+  "EOS_NewPlayers": 1416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5814,6 +5814,11 @@
       "Time": "2023-05-28T23:06:28.6860297+00:00",
       "NumProgressed": 67089,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-29T00:06:22.3673631+00:00",
+      "NumProgressed": 67090,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 100,
@@ -5833,7 +5838,7 @@
       "Name": "You\u0027re on Fire",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22139
+      "UsersEstimate": 22140
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -5841,7 +5846,7 @@
       "Name": "Unbeatable!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 33544
+      "UsersEstimate": 33545
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -5897,7 +5902,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -5921,7 +5926,7 @@
       "Name": "Team Performance",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 28848
+      "UsersEstimate": 28849
     },
     {
       "ID": "achievement_beat_a_rival",
@@ -5945,7 +5950,7 @@
       "Name": "Thumping",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 35557
+      "UsersEstimate": 35558
     },
     {
       "ID": "achievement_bragging_rights",
@@ -6097,7 +6102,7 @@
       "Name": "What A Goal!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23481
+      "UsersEstimate": 23482
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -6129,7 +6134,7 @@
       "Name": "Hat-trick",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 40253
+      "UsersEstimate": 40254
     },
     {
       "ID": "achievement_head_to_head",
@@ -6137,7 +6142,7 @@
       "Name": "T\u00EAte-\u00E0-t\u00EAte",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9392
+      "UsersEstimate": 9393
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -6145,7 +6150,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 28848
+      "UsersEstimate": 28849
     },
     {
       "ID": "achievement_import_to_victory",
@@ -6185,7 +6190,7 @@
       "Name": "The Special One",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 22139
+      "UsersEstimate": 22140
     },
     {
       "ID": "achievement_mini_league_champion",
@@ -6201,7 +6206,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23481
+      "UsersEstimate": 23482
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -6209,7 +6214,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 52329
+      "UsersEstimate": 52330
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -6233,7 +6238,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 48975
+      "UsersEstimate": 48976
     },
     {
       "ID": "achievement_people_pleaser",
@@ -6241,7 +6246,7 @@
       "Name": "People Pleaser",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 34215
+      "UsersEstimate": 34216
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -6289,7 +6294,7 @@
       "Name": "Record Sale",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "achievement_record_signing",
@@ -6297,7 +6302,7 @@
       "Name": "Record Signing",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 28848
+      "UsersEstimate": 28849
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -6313,7 +6318,7 @@
       "Name": "Scoring Streak",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 35557
+      "UsersEstimate": 35558
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -6337,7 +6342,7 @@
       "Name": "Shots For Days",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "achievement_signed_a_player",
@@ -6377,7 +6382,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 28848
+      "UsersEstimate": 28849
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -6465,7 +6470,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 34215
+      "UsersEstimate": 34216
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -6553,7 +6558,7 @@
       "Name": "Best in the World",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9392
+      "UsersEstimate": 9393
     },
     {
       "ID": "achievement_you_can_buy_happiness",
@@ -6624,7 +6629,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 67089,
+      "Progressed": 67090,
       "Completed": 14
     }
   ],
@@ -6632,8 +6637,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-05-28T14:59:25.7764218+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:06:28.6860294+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:06:22.3673626+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:55.1212561+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:59:37.8289887+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:06:28.686178+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:59:31.7082214+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:06:22.3674924+00:00"
 }

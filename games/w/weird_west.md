@@ -6,18 +6,18 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,359 |
-| Self-Improvement | 72.00% | ~1,125 |
-| Perky | 66.00% | ~1,031 |
-| Let’s Ride | 60.00% | ~937 |
-| Welcome to the Weird West | 58.00% | ~906 |
+| Unforgiven | 87.00% | ~1,360 |
+| Self-Improvement | 71.00% | ~1,110 |
+| Perky | 66.00% | ~1,032 |
+| Let’s Ride | 60.00% | ~938 |
+| Welcome to the Weird West | 58.00% | ~907 |
 | Dead or Alive | 56.00% | ~875 |
 | Full House | 37.00% | ~578 |
 | Off the Trail | 34.00% | ~531 |
-| Justice Served | 28.00% | ~437 |
+| Justice Served | 28.00% | ~438 |
 | Chain Reaction | 27.00% | ~422 |
-| Scholar | 25.00% | ~390 |
-| Through Their Eyes | 25.00% | ~390 |
+| Scholar | 25.00% | ~391 |
+| Through Their Eyes | 25.00% | ~391 |
 | Dishonored | 24.00% | ~375 |
 | Rain of Death | 24.00% | ~375 |
 | The Great Escape | 23.00% | ~359 |
@@ -28,12 +28,12 @@ Number of Ratings: 125  (23.09.2022)
 | For Balance | 15.00% | ~234 |
 | Dog Days | 13.00% | ~203 |
 | Workers' Rights | 13.00% | ~203 |
-| Elusive Prey | 12.00% | ~187 |
-| Out on the Ebb Tide | 12.00% | ~187 |
-| Power Behind the Pulpit | 12.00% | ~187 |
-| Something Wicked This Way Comes… | 12.00% | ~187 |
-| There is Hope | 12.00% | ~187 |
-| Turning the Tables | 12.00% | ~187 |
+| Elusive Prey | 12.00% | ~188 |
+| Out on the Ebb Tide | 12.00% | ~188 |
+| Power Behind the Pulpit | 12.00% | ~188 |
+| Something Wicked This Way Comes… | 12.00% | ~188 |
+| There is Hope | 12.00% | ~188 |
+| Turning the Tables | 12.00% | ~188 |
 | Loyalty to the Pack | 9.00% | ~141 |
 | Eternity Can Wait | 9.00% | ~141 |
 | Mystery Machine | 9.00% | ~141 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562 (Ranked 156)  
+Progressed: 1,563 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-26 | 1,547 | 2 |
 | 2023-05-27 | 1,560 | 2 |
 | 2023-05-28 | 1,562 | 2 |
+| 2023-05-29 | 1,563 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

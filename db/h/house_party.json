@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5222,
+  "EOS_Progressed": 5223,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1436,6 +1436,11 @@
       "Time": "2023-05-28T23:03:18.4744846+00:00",
       "NumProgressed": 5222,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T00:03:09.5298136+00:00",
+      "NumProgressed": 5223,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 69,
@@ -1533,9 +1538,9 @@
       "ID": "CaughtInAct",
       "SetID": "bmkn7o4",
       "Name": "Caught in the Act",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -1998,21 +2003,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2261,
+      "Progressed": 2262,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5222,
+      "Progressed": 5223,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:03:18.474484+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:03:09.5298119+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:57:30.629783+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:03:18.474579+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:57:23.2419913+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:03:09.5298885+00:00"
 }

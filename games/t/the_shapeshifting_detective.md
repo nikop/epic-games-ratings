@@ -21,7 +21,7 @@
 | Voyeur | 10.00% | ~17 |
 | Heavy Rayne | 9.00% | ~15 |
 | Put A Ring On It | 9.00% | ~15 |
-| Chicken | 7.00% | ~12 |
+| Chicken | 8.00% | ~14 |
 | Bullseye | 5.00% | ~9 |
 | Show Me Some Skin | 5.00% | ~9 |
 | The Big Sleep | 4.00% | ~7 |

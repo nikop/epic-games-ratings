@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2822,
+  "EOS_Progressed": 2823,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -1479,6 +1479,11 @@
       "Time": "2023-05-28T23:06:22.2277236+00:00",
       "NumProgressed": 2822,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-29T00:06:15.7810816+00:00",
+      "NumProgressed": 2823,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1538,7 +1543,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "campaign10",
@@ -1578,7 +1583,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "campaign15",
@@ -1624,9 +1629,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2230
     },
     {
       "ID": "campaign20",
@@ -1642,7 +1647,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "campaign4",
@@ -1650,15 +1655,15 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 480
     },
     {
       "ID": "campaign6",
@@ -1753,7 +1758,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2822,
+      "Progressed": 2823,
       "Completed": 9
     }
   ],
@@ -1761,8 +1766,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:06:22.2277229+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:06:15.7810811+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:00:29.9852501+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:06:22.2278202+00:00"
+  "LastUpdate_Ratings": "2023-05-29T00:00:21.575675+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:06:15.7811142+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~37,509 |
-| INFUSED WITH LIGHT | 53.00% | ~29,671 |
-| FOXIN' AROUND | 28.00% | ~15,675 |
-| FETCH | 27.00% | ~15,115 |
-| BLOOMS OF LIGHT | 26.00% | ~14,556 |
-| BEST FRIENDS | 22.00% | ~12,316 |
-| AWAKEN | 21.00% | ~11,756 |
-| ERADICATE | 20.00% | ~11,197 |
-| SPIRIT BARK | 20.00% | ~11,197 |
-| GARDEN OF LIGHT | 18.00% | ~10,077 |
-| SPIRIT FORM | 16.00% | ~8,957 |
-| UPROOTING DARKNESS | 15.00% | ~8,397 |
-| WRITTEN IN STONE | 15.00% | ~8,397 |
-| WEIGHTLESS | 11.00% | ~6,158 |
-| SPIRIT DASH | 10.00% | ~5,598 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~37,513 |
+| INFUSED WITH LIGHT | 52.00% | ~29,115 |
+| FOXIN' AROUND | 28.00% | ~15,677 |
+| FETCH | 27.00% | ~15,117 |
+| BLOOMS OF LIGHT | 26.00% | ~14,557 |
+| BEST FRIENDS | 22.00% | ~12,318 |
+| AWAKEN | 21.00% | ~11,758 |
+| ERADICATE | 20.00% | ~11,198 |
+| SPIRIT BARK | 20.00% | ~11,198 |
+| GARDEN OF LIGHT | 18.00% | ~10,078 |
+| SPIRIT FORM | 16.00% | ~8,958 |
+| UPROOTING DARKNESS | 15.00% | ~8,398 |
+| WRITTEN IN STONE | 15.00% | ~8,398 |
+| WEIGHTLESS | 11.00% | ~6,159 |
+| SPIRIT DASH | 10.00% | ~5,599 |
 | OLD COMPANION | 8.00% | ~4,479 |
 | PLAGUE DOCTOR | 8.00% | ~4,479 |
 | MATCH MAKER | 7.00% | ~3,919 |
 | NORTHERN LIGHTS | 7.00% | ~3,919 |
 | SPIRITED AWAY | 7.00% | ~3,919 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,679 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,680 |
 | ANCIENT HISTORY | 2.00% | ~1,120 |
 | NONE FORGOTTEN | 2.00% | ~1,120 |
 | KINDRED SPIRITS | 0.60% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,983 (Ranked 73)  
+Progressed: 55,990 (Ranked 73)  
 Completed: 271 (0.48%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 271 (0.48%) (Ranked 108)
 | 2023-05-26 | 55,604 | 264 |
 | 2023-05-27 | 55,798 | 269 |
 | 2023-05-28 | 55,983 | 271 |
+| 2023-05-29 | 55,990 | 271 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 463)  
 Sum: 93 (Ranked 402)  

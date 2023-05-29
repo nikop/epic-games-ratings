@@ -12,8 +12,8 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 34.00% | ~4,352 |
 | Let there be darkness | 33.00% | ~4,224 |
 | End of Book One | 31.00% | ~3,968 |
+| Wannabe knight | 25.00% | ~3,200 |
 | Garden of Eden | 25.00% | ~3,200 |
-| Wannabe knight | 24.00% | ~3,072 |
 | Full house | 24.00% | ~3,072 |
 | Help an old friend | 22.00% | ~2,816 |
 | Two of us | 20.00% | ~2,560 |

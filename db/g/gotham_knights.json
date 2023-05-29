@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1280,9 +1280,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62616,
+  "EOS_Progressed": 62627,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1027,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4165,6 +4165,11 @@
       "Time": "2023-05-28T23:06:25.9126601+00:00",
       "NumProgressed": 62616,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T00:06:19.612816+00:00",
+      "NumProgressed": 62627,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4320,7 +4325,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -4376,7 +4381,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -4480,7 +4485,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "HARLEY_2",
@@ -4520,7 +4525,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4582,9 +4587,9 @@
       "ID": "MYSTERY_03",
       "SetID": "4eo5ebm",
       "Name": "Lock and Key",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 626
     },
     {
       "ID": "MYSTERY_04",
@@ -4640,7 +4645,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -4663,13 +4668,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62616,
+      "Progressed": 62627,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32896,
+      "Progressed": 32907,
       "Completed": 2643
     }
   ],
@@ -4677,8 +4682,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T21:59:47.3836473+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:06:25.9126594+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:06:19.6128156+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T22:59:59.7785579+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:06:25.9127565+00:00"
+  "LastUpdate_Ratings": "2023-05-28T23:59:52.7096775+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:06:19.6128844+00:00"
 }

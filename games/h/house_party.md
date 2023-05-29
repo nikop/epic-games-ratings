@@ -13,8 +13,8 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 0.70% | ~16 |
 | If at First You Don't Succeed... | 0.70% | ~37 |
 | The Brahdyssey | 0.60% | ~31 |
+| Caught in the Act | 0.60% | ~31 |
 | Drunk and Disorderly: Stephanie | 0.60% | ~31 |
-| Caught in the Act | 0.50% | ~26 |
 | Drunk and Disorderly: Ashley | 0.30% | ~16 |
 | IRL Let's Player | 0.30% | ~16 |
 | Inspector | 0.30% | ~16 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,222 (Ranked 124)  
+Progressed: 5,223 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 2 (0.04%) (Ranked 180)
 | 2023-05-26 | 5,162 | 2 |
 | 2023-05-27 | 5,186 | 2 |
 | 2023-05-28 | 5,222 | 2 |
+| 2023-05-29 | 5,223 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

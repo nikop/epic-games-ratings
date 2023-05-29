@@ -39,7 +39,7 @@
 | Meatballs, coming up! | 31.00% | ~20 |
 | I'm going to get a concussion | 29.00% | ~19 |
 | Another one bites the iron | 28.00% | ~18 |
-| A Megapint...? | 23.00% | ~15 |
+| A Megapint...? | 25.00% | ~16 |
 | Ripe Meat Off The Bone! | 23.00% | ~15 |
 | Hovering around | 23.00% | ~15 |
 | Your daily dose of Vitamin C. | 20.00% | ~13 |
@@ -56,26 +56,26 @@
 | Spoiler alert! | 9.00% | ~6 |
 | You're looking mozzare-hella good! | 8.00% | ~5 |
 | Scrambled Eggs | 6.00% | ~4 |
+| Timber! | 5.00% | ~3 |
+| Free Of Chains | 5.00% | ~3 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
+| Ancient Ruins of Misplaced Belongings | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
-| Timber! | 3.00% | ~2 |
+| My name is Whoopass, SIR Whoopass! | 3.00% | ~2 |
 | Grumpy Immortal | 3.00% | ~2 |
 | European karaoke king | 3.00% | ~2 |
-| Free Of Chains | 3.00% | ~2 |
-| Ancient Ruins of Misplaced Belongings | 2.00% | ~1 |
+| Fifty Shades of Gruyere | 2.00% | ~1 |
 | Ancient Ruins of Vitamin D Addition | 2.00% | ~1 |
 | Ancient Ruins of Imperfectly Designed Walls | 2.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~1 |
+| Ancient Ruins of Poor Intrusion Prevention | 2.00% | ~1 |
 | Ancient Ruins of Inadequate Opportunities | 2.00% | ~1 |
 | Ancient Ruins of Stubbed Toes | 2.00% | ~1 |
-| My name is Whoopass, SIR Whoopass! | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
 | Out of bounds | 2.00% | ~1 |
-| Fifty Shades of Gruyere | 0.00% | ~0 |
 | Ancient Ruins of Empty Echoes | 0.00% | ~0 |
-| Ancient Ruins of Poor Intrusion Prevention | 0.00% | ~0 |
 | Ancient Ruins of Peekaboo | 0.00% | ~0 |
 | Ancient Ruins of Leaky Roof | 0.00% | ~0 |
 | Ancient Ruins of Chilly Winds | 0.00% | ~0 |

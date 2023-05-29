@@ -3,9 +3,9 @@
   "Name": "The Tale of Bistun",
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 13,
+  "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
     "PcReleaseDate": "2022-07-13T14:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 17,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.76,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 17.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:55.121207+00:00",
@@ -77,6 +77,11 @@
       "Time": "2023-05-28T21:06:25.1620383+00:00",
       "NumProgressed": 17,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T00:06:09.6629393+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 38,
@@ -230,33 +235,33 @@
       "ID": "BISTUN_ACHIEVEMENT_25",
       "SetID": "1kdk24p",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_26",
       "SetID": "1kdk24p",
       "Name": "Here I Am",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_27",
       "SetID": "1kdk24p",
       "Name": "Break The Cycle",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_28",
       "SetID": "1kdk24p",
       "Name": "Continue The Cycle",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_29",
@@ -310,9 +315,9 @@
       "ID": "BISTUN_ACHIEVEMENT_34",
       "SetID": "1kdk24p",
       "Name": "Slip and Slide",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_35",
@@ -392,15 +397,15 @@
       "ID": "1kdk24p",
       "IsBase": true,
       "Progressed": 17,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-28T23:06:16.423617+00:00",
+  "LastChanged_Achievements": "2023-05-29T00:06:09.6629387+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:19.0267021+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:00:09.5925412+00:00",
-  "LastUpdate_Achievements": "2023-05-28T23:06:16.4236471+00:00"
+  "LastUpdate_Ratings": "2023-05-29T00:00:01.0730406+00:00",
+  "LastUpdate_Achievements": "2023-05-29T00:06:09.6629699+00:00"
 }
