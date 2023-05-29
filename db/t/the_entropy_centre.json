@@ -265,9 +265,9 @@
       "ID": "ACH_ACT10",
       "SetID": "2310cb1",
       "Name": "So Close",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ACT11",
@@ -353,9 +353,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ACT7",
@@ -482,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:05:14.1842544+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:05:21.9197778+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:57:25.6325625+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:05:14.1842733+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:57:30.4964657+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:05:21.9197985+00:00"
 }

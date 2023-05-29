@@ -5,14 +5,14 @@ Rating: 4.49 (Ranked 559)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,261 |
-| Advancement | 73.00% | ~16,350 |
-| Meticulously Efficient | 64.00% | ~14,334 |
-| Discovery | 62.00% | ~13,886 |
-| Swift Rift Removers | 56.00% | ~12,542 |
-| Fully Upgraded | 55.00% | ~12,318 |
-| Cultured | 53.00% | ~11,870 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,646 |
+| Stylish | 86.00% | ~19,262 |
+| Advancement | 73.00% | ~16,351 |
+| Meticulously Efficient | 64.00% | ~14,335 |
+| Discovery | 62.00% | ~13,887 |
+| Swift Rift Removers | 56.00% | ~12,543 |
+| Fully Upgraded | 55.00% | ~12,319 |
+| Cultured | 53.00% | ~11,871 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,647 |
 | Vaporous Expansion | 49.00% | ~10,975 |
 | Teamwork | 45.00% | ~10,079 |
 | There you are! | 44.00% | ~9,855 |
@@ -30,14 +30,14 @@ Rating: 4.49 (Ranked 559)
 | Summoner | 27.00% | ~6,047 |
 | Pesky Jerks | 26.00% | ~5,823 |
 | Right back at ya | 26.00% | ~5,823 |
-| Animated | 25.00% | ~5,599 |
-| Skilled | 25.00% | ~5,599 |
-| Collector | 24.00% | ~5,375 |
-| Ectoplasmic Entity | 24.00% | ~5,375 |
-| Rift Destroyer | 20.00% | ~4,479 |
-| Tobin's Prodigy | 19.00% | ~4,255 |
-| Reckless | 18.00% | ~4,031 |
-| Terrifying | 17.00% | ~3,807 |
+| Animated | 25.00% | ~5,600 |
+| Skilled | 25.00% | ~5,600 |
+| Collector | 24.00% | ~5,376 |
+| Ectoplasmic Entity | 24.00% | ~5,376 |
+| Rift Destroyer | 20.00% | ~4,480 |
+| Tobin's Prodigy | 19.00% | ~4,256 |
+| Reckless | 18.00% | ~4,032 |
+| Terrifying | 17.00% | ~3,808 |
 | Diabolical | 16.00% | ~3,584 |
 | Escape Artist | 16.00% | ~3,584 |
 | Seasoned | 16.00% | ~3,584 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 559)
 | I don't need these | 1.00% | ~224 |
 | Mycophile | 1.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,397 (Ranked 92)  
+Progressed: 22,398 (Ranked 92)  
 Completed: 40 (0.18%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 40 (0.18%) (Ranked 144)
 | 2023-05-26 | 22,259 | 40 |
 | 2023-05-27 | 22,302 | 40 |
 | 2023-05-28 | 22,376 | 40 |
-| 2023-05-29 | 22,397 | 40 |
+| 2023-05-29 | 22,398 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,087 (Ranked 183)  

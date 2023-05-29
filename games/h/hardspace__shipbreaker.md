@@ -14,9 +14,9 @@ Number of Ratings: 36  (23.09.2022)
 | Truly Shocking! | 46.00% | ~308 |
 | Critical Thinker | 33.00% | ~221 |
 | Always Finding Your Mark | 28.00% | ~187 |
+| No Niños | 27.00% | ~181 |
 | The Weight of the World | 27.00% | ~181 |
 | Act I Complete | 26.00% | ~174 |
-| No Niños | 26.00% | ~174 |
 | A drop in the Ocean | 25.00% | ~167 |
 | I ain’t afraid of no Ghost | 23.00% | ~154 |
 | Act II Complete | 19.00% | ~127 |

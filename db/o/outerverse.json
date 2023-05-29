@@ -2,7 +2,7 @@
   "ID": "5d46b2bd3f2143e894866ac923f4547c",
   "Name": "Outerverse",
   "ProductSlug": "outerverse-82d7ce",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 88,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.161188+00:00",
   "LastChanged": "2023-03-31T05:58:44.1611881+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:45.3543073+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:58:52.0012331+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:02:16.2917335+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:59:04.1000739+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:02:24.8163033+00:00"
 }

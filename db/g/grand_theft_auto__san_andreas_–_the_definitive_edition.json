@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8804,
+  "EOS_Progressed": 8806,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2836,6 +2836,11 @@
       "Time": "2023-05-29T09:05:38.6522029+00:00",
       "NumProgressed": 8804,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-29T10:05:46.6104274+00:00",
+      "NumProgressed": 8806,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2847,7 +2852,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7043
+      "UsersEstimate": 7045
     },
     {
       "ID": "ACH02",
@@ -2903,7 +2908,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "ACH09",
@@ -2951,7 +2956,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH15",
@@ -3015,7 +3020,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ACH23",
@@ -3126,7 +3131,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8804,
+      "Progressed": 8806,
       "Completed": 17
     }
   ],
@@ -3134,8 +3139,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-28T22:00:20.7077147+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:05:38.6522022+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:05:46.6104269+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.6877714+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:59:45.4363919+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:05:38.6522385+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:59:59.7979661+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:05:46.6104699+00:00"
 }

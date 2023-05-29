@@ -10,7 +10,7 @@
 | Command Centre | 48.00% | ~59 |
 | This is a Wall | 41.00% | ~50 |
 | Extendable Bridges | 34.00% | ~41 |
-| 48 Attempts | 32.00% | ~39 |
+| 48 Attempts | 33.00% | ~40 |
 | Chain Reaction | 30.00% | ~37 |
 | Man's Best Friend | 29.00% | ~35 |
 | Handyman | 21.00% | ~26 |
@@ -19,9 +19,9 @@
 | Bad Robots | 11.00% | ~13 |
 | Fashionista | 11.00% | ~13 |
 | Archivist | 9.00% | ~11 |
+| So Close | 7.00% | ~9 |
 | Cataclysm | 7.00% | ~9 |
 | Looper | 7.00% | ~9 |
-| So Close | 6.00% | ~7 |
 | Final Charge | 6.00% | ~7 |
 | Transformers, cubes in disguise | 5.00% | ~6 |
 | Kaboom! | 5.00% | ~6 |

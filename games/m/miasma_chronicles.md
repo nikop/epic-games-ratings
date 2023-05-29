@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~702 |
-| Ranidaphobia | 69.00% | ~532 |
-| Aspiring Editor | 65.00% | ~501 |
-| Gun for Hire | 59.00% | ~455 |
-| I am the law! | 48.00% | ~370 |
-| Lumberjack | 28.00% | ~216 |
-| From Darkness to Light | 25.00% | ~193 |
-| Limp Richard | 24.00% | ~185 |
-| Firestarter | 24.00% | ~185 |
+| First Blood | 91.00% | ~704 |
+| Ranidaphobia | 69.00% | ~534 |
+| Aspiring Editor | 65.00% | ~503 |
+| Gun for Hire | 59.00% | ~457 |
+| I am the law! | 48.00% | ~372 |
+| Lumberjack | 28.00% | ~217 |
+| From Darkness to Light | 25.00% | ~194 |
+| Limp Richard | 24.00% | ~186 |
+| Firestarter | 24.00% | ~186 |
 | Croaked | 22.00% | ~170 |
-| Editor Adept | 19.00% | ~146 |
-| Exorcist | 19.00% | ~146 |
-| Giant Killer | 16.00% | ~123 |
+| Exorcist | 19.00% | ~147 |
+| Editor Adept | 18.00% | ~139 |
+| Giant Killer | 16.00% | ~124 |
 | The meaning of Kain | 15.00% | ~116 |
 | Sensei | 14.00% | ~108 |
 | Hold The Line | 10.00% | ~77 |
 | Recycler | 10.00% | ~77 |
 | Technophobe | 10.00% | ~77 |
-| Chain Killer | 9.00% | ~69 |
-| Newtonian Knockout | 9.00% | ~69 |
+| Chain Killer | 9.00% | ~70 |
+| Newtonian Knockout | 9.00% | ~70 |
 | There Can Be Only One! | 8.00% | ~62 |
 | Are you not entertained? | 6.00% | ~46 |
 | Ganglord | 6.00% | ~46 |
@@ -33,12 +33,12 @@
 | Ruthless | 5.00% | ~39 |
 | Chain Reaction | 4.00% | ~31 |
 | Experienced | 4.00% | ~31 |
-| The Watchers | 4.00% | ~31 |
 | Wipe Out | 4.00% | ~31 |
 | Commando | 3.00% | ~23 |
 | Curveball | 3.00% | ~23 |
 | Endgame | 3.00% | ~23 |
 | Savior | 3.00% | ~23 |
+| The Watchers | 3.00% | ~23 |
 | Chaos Theory | 2.00% | ~15 |
 | Dr Jones | 2.00% | ~15 |
 | Side Order | 2.00% | ~15 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 771 (Ranked 181)  
+Progressed: 774 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
-| 2023-05-29 | 771 | 0 |
+| 2023-05-29 | 774 | 0 |

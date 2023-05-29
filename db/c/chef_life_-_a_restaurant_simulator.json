@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -979,6 +979,11 @@
       "Time": "2023-05-29T09:02:20.4849071+00:00",
       "NumProgressed": 247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T10:02:29.1083558+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1166,7 +1171,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Packing20",
@@ -1252,9 +1257,9 @@
       "ID": "TrattoriaSet",
       "SetID": "d1bm05f",
       "Name": "Italian Style",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "UnlockAssiette",
@@ -1309,7 +1314,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 0
     }
   ],
@@ -1317,8 +1322,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:02:20.4849065+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:02:29.1083547+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:58:14.2593826+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:02:20.4849493+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:58:22.9293967+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:02:29.1083917+00:00"
 }

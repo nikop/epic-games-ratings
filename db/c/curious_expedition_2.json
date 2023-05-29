@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 300,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -108,6 +108,11 @@
     {
       "Time": "2023-05-28T02:19:05.9966396+00:00",
       "NumProgressed": 299,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T10:05:50.3419769+00:00",
+      "NumProgressed": 300,
       "NumCompleted": 1
     }
   ],
@@ -296,7 +301,7 @@
       "Name": "Cartographer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ach-discover-locations-high",
@@ -344,7 +349,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach-hardExpeditions",
@@ -599,7 +604,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 300,
       "Completed": 1
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:05:41.8615926+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:05:50.3419764+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:00:01.4534036+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:05:41.8616454+00:00"
+  "LastUpdate_Ratings": "2023-05-29T10:00:16.5607118+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:05:50.3420307+00:00"
 }

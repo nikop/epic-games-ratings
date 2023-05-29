@@ -346,7 +346,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 7165,
+  "EOS_Progressed": 7167,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 2,
@@ -2751,6 +2751,11 @@
       "Time": "2023-05-29T09:02:28.6151131+00:00",
       "NumProgressed": 7165,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-29T10:03:17.1923232+00:00",
+      "NumProgressed": 7167,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 34,
@@ -2866,7 +2871,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "ACH15",
@@ -2914,7 +2919,7 @@
       "Name": "Daredevil",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH21",
@@ -2922,7 +2927,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "ACH22",
@@ -2962,7 +2967,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH27",
@@ -3026,14 +3031,14 @@
       "Name": "Kingpin",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7165,
+      "Progressed": 7167,
       "Completed": 24
     }
   ],
@@ -3041,8 +3046,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-26T13:02:50.0676532+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:02:28.6151125+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:03:17.1923228+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:58:08.1533405+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:02:28.6151516+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:58:16.5875089+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:03:17.1923617+00:00"
 }

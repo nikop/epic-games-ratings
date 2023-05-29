@@ -6,60 +6,60 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~125,461 |
-| Titan's First Steps | 96.00% | ~124,167 |
-| Basic in Bulk | 91.00% | ~117,700 |
-| Tinkle of Coins | 87.00% | ~112,527 |
-| Disintermediation | 76.00% | ~98,299 |
-| Capitalism Ho! | 75.00% | ~97,006 |
-| It's Free Real Estate | 70.00% | ~90,539 |
-| Budding Merchant | 66.00% | ~85,365 |
-| Another Satisfied Customer | 61.00% | ~78,898 |
-| One Easy Payment | 60.00% | ~77,605 |
-| Own the Means of Production | 60.00% | ~77,605 |
-| Some Assembly Required | 58.00% | ~75,018 |
-| Pretty Penny | 57.00% | ~73,724 |
-| One-Armed Bandit | 50.00% | ~64,670 |
-| Through Repetition, Perfection | 46.00% | ~59,497 |
-| The Daily Grind | 45.00% | ~58,203 |
-| Bounty Hunters | 44.00% | ~56,910 |
-| Where it Hurts | 43.00% | ~55,617 |
-| Dungeon Imports | 42.00% | ~54,323 |
-| Flooding the Market | 41.00% | ~53,030 |
-| Demand for Supplies | 39.00% | ~50,443 |
-| Gild-Gotten Goods | 37.00% | ~47,856 |
-| Did we pack lunch? | 35.00% | ~45,269 |
-| Arcane Industries | 34.00% | ~43,976 |
-| Accomplished Merchant | 31.00% | ~40,096 |
-| Ascended | 28.00% | ~36,215 |
-| Gem Expert | 28.00% | ~36,215 |
-| Helping Hand | 28.00% | ~36,215 |
-| On the Path to Greatness | 27.00% | ~34,922 |
-| Blank Page Syndrome | 27.00% | ~34,922 |
-| Efficient Floor Space | 27.00% | ~34,922 |
-| Vanity, Verily | 26.00% | ~33,629 |
-| Research & Development | 25.00% | ~32,335 |
-| Flawless Fusion | 24.00% | ~31,042 |
-| Power of Love | 23.00% | ~29,748 |
-| Natural 20 | 23.00% | ~29,748 |
+| Sponsored by Argon | 97.00% | ~125,465 |
+| Titan's First Steps | 96.00% | ~124,171 |
+| Basic in Bulk | 91.00% | ~117,704 |
+| Tinkle of Coins | 87.00% | ~112,530 |
+| Disintermediation | 76.00% | ~98,302 |
+| Capitalism Ho! | 75.00% | ~97,009 |
+| It's Free Real Estate | 70.00% | ~90,542 |
+| Budding Merchant | 66.00% | ~85,368 |
+| Another Satisfied Customer | 61.00% | ~78,900 |
+| One Easy Payment | 60.00% | ~77,607 |
+| Own the Means of Production | 60.00% | ~77,607 |
+| Some Assembly Required | 58.00% | ~75,020 |
+| Pretty Penny | 57.00% | ~73,727 |
+| One-Armed Bandit | 50.00% | ~64,672 |
+| Through Repetition, Perfection | 46.00% | ~59,499 |
+| The Daily Grind | 45.00% | ~58,205 |
+| Bounty Hunters | 44.00% | ~56,912 |
+| Where it Hurts | 43.00% | ~55,618 |
+| Dungeon Imports | 42.00% | ~54,325 |
+| Flooding the Market | 41.00% | ~53,031 |
+| Demand for Supplies | 39.00% | ~50,445 |
+| Gild-Gotten Goods | 37.00% | ~47,858 |
+| Did we pack lunch? | 35.00% | ~45,271 |
+| Arcane Industries | 34.00% | ~43,977 |
+| Accomplished Merchant | 31.00% | ~40,097 |
+| Ascended | 28.00% | ~36,217 |
+| Gem Expert | 28.00% | ~36,217 |
+| Helping Hand | 28.00% | ~36,217 |
+| On the Path to Greatness | 27.00% | ~34,923 |
+| Blank Page Syndrome | 27.00% | ~34,923 |
+| Efficient Floor Space | 27.00% | ~34,923 |
+| Vanity, Verily | 26.00% | ~33,630 |
+| Research & Development | 25.00% | ~32,336 |
+| Flawless Fusion | 24.00% | ~31,043 |
+| Power of Love | 23.00% | ~29,749 |
+| Natural 20 | 23.00% | ~29,749 |
 | Fated Encounters | 21.00% | ~27,162 |
 | Royal Ransom | 21.00% | ~27,162 |
 | Magical Harmony | 21.00% | ~27,162 |
-| Tax not Included | 20.00% | ~25,868 |
-| Trash to Treasure | 18.00% | ~23,281 |
-| For the Hoard! | 17.00% | ~21,988 |
-| Special Ingredient | 17.00% | ~21,988 |
-| A Notch Above the Rest | 15.00% | ~19,401 |
-| Scrapbooker | 15.00% | ~19,401 |
-| This Power Level...! | 15.00% | ~19,401 |
-| Expansion in Session | 15.00% | ~19,401 |
-| Seasoned Journeyman | 15.00% | ~19,401 |
-| Black Friday Special | 15.00% | ~19,401 |
+| Tax not Included | 20.00% | ~25,869 |
+| Trash to Treasure | 18.00% | ~23,282 |
+| For the Hoard! | 17.00% | ~21,989 |
+| Special Ingredient | 17.00% | ~21,989 |
+| A Notch Above the Rest | 15.00% | ~19,402 |
+| Scrapbooker | 15.00% | ~19,402 |
+| This Power Level...! | 15.00% | ~19,402 |
+| Expansion in Session | 15.00% | ~19,402 |
+| Seasoned Journeyman | 15.00% | ~19,402 |
+| Black Friday Special | 15.00% | ~19,402 |
 | Big Game Hunting | 14.00% | ~18,108 |
 | Locally Sourced | 14.00% | ~18,108 |
 | Flying off the Shelves | 14.00% | ~18,108 |
 | Laden with Loot | 14.00% | ~18,108 |
-| Fat Cat Tag Team | 13.00% | ~16,814 |
+| Fat Cat Tag Team | 13.00% | ~16,815 |
 | Hidden Potential | 12.00% | ~15,521 |
 | Mammonite | 12.00% | ~15,521 |
 | Attrition Mission | 12.00% | ~15,521 |
@@ -74,15 +74,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 9.00% | ~11,641 |
 | Glittering Collection | 9.00% | ~11,641 |
 | Master Recycler | 9.00% | ~11,641 |
-| Cream of the Crop | 8.00% | ~10,347 |
-| The King's Caprice | 8.00% | ~10,347 |
-| Item of Renown | 8.00% | ~10,347 |
+| Cream of the Crop | 8.00% | ~10,348 |
+| The King's Caprice | 8.00% | ~10,348 |
+| Item of Renown | 8.00% | ~10,348 |
 | Booty by the Boatload | 7.00% | ~9,054 |
 | A Legend is Born | 7.00% | ~9,054 |
 | Wealth Beyond Measure | 7.00% | ~9,054 |
-| Thirst for Knowledge | 6.00% | ~7,760 |
-| Treasure Trove | 6.00% | ~7,760 |
-| All Accounted For | 6.00% | ~7,760 |
+| Thirst for Knowledge | 6.00% | ~7,761 |
+| Treasure Trove | 6.00% | ~7,761 |
+| All Accounted For | 6.00% | ~7,761 |
 | Archivist | 5.00% | ~6,467 |
 | Bountiful Harvest | 5.00% | ~6,467 |
 | Precision Engineering | 5.00% | ~6,467 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~517 |
 | Capitalist Camaraderie | 0.20% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,341 (Ranked 55)  
-Completed: 87 (0.07%) (Ranked 172)  
+Progressed: 129,345 (Ranked 55)  
+Completed: 88 (0.07%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 87 (0.07%) (Ranked 172)
 | 2023-05-26 | 129,122 | 85 |
 | 2023-05-27 | 129,227 | 85 |
 | 2023-05-28 | 129,324 | 86 |
-| 2023-05-29 | 129,341 | 87 |
+| 2023-05-29 | 129,345 | 88 |
 ## Awards
 Max (Great for Beginners): 4,592  (Ranked 66)  
 Sum: 26,648 (Ranked 44)  

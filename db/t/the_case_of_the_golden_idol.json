@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "6",
@@ -405,8 +405,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:00:12.5166833+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:00:28.9601291+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:22.3252566+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:58:29.179532+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:00:12.5166998+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:58:40.0524333+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:00:28.9601626+00:00"
 }

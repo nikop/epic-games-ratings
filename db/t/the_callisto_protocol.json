@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13947,
+  "EOS_Progressed": 13953,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1984,6 +1984,11 @@
       "Time": "2023-05-29T09:03:25.3588542+00:00",
       "NumProgressed": 13947,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T10:03:44.6220472+00:00",
+      "NumProgressed": 13953,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2011,7 +2016,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2057,9 +2062,9 @@
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 140
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -2099,7 +2104,7 @@
       "Name": "Get a Grip",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2107,7 +2112,7 @@
       "Name": "In Striking Distance",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "KILL_2HEAD",
@@ -2131,7 +2136,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2155,7 +2160,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2171,7 +2176,7 @@
       "Name": "Paper Jams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2203,7 +2208,7 @@
       "Name": "Without A Paddle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "STORY_HANGAR",
@@ -2219,7 +2224,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -2243,7 +2248,7 @@
       "Name": "Full Circle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "STORY_TUNNELS",
@@ -2307,20 +2312,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13947,
+      "Progressed": 13953,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1873,
+      "Progressed": 1879,
       "Completed": 29
     }
   ],
@@ -2328,8 +2333,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:03:25.3588536+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:03:44.6220466+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:57:47.8362669+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:03:25.3588971+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:57:55.0731274+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:03:44.6220919+00:00"
 }

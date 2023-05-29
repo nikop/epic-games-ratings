@@ -6,24 +6,24 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 34.00% | ~934 |
-| Look Over There! | 28.00% | ~769 |
-| Not So Fast... | 28.00% | ~769 |
-| Watch Where You Step... | 28.00% | ~769 |
-| An Ill Omen | 26.00% | ~714 |
-| Purging Spree | 21.00% | ~577 |
-| Blood for the Blood God! | 16.00% | ~439 |
+| Executioner | 34.00% | ~935 |
+| Look Over There! | 29.00% | ~798 |
+| Not So Fast... | 28.00% | ~770 |
+| Watch Where You Step... | 28.00% | ~770 |
+| An Ill Omen | 27.00% | ~742 |
+| Purging Spree | 21.00% | ~578 |
+| Blood for the Blood God! | 16.00% | ~440 |
 | Friendly Fire | 15.00% | ~412 |
-| Surgical Excision | 14.00% | ~384 |
-| Bloodless | 14.00% | ~384 |
+| Surgical Excision | 14.00% | ~385 |
+| Bloodless | 14.00% | ~385 |
 | Honoured Battle-Brother | 11.00% | ~302 |
 | The Emperor Protects | 10.00% | ~275 |
 | Nemesis Master | 10.00% | ~275 |
 | Gunmaster | 10.00% | ~275 |
 | A Foul Creche | 10.00% | ~275 |
-| Opportunist | 7.00% | ~192 |
-| Efficient Killer | 7.00% | ~192 |
-| Just a Scratch | 7.00% | ~192 |
+| Opportunist | 7.00% | ~193 |
+| Efficient Killer | 7.00% | ~193 |
+| Just a Scratch | 7.00% | ~193 |
 | Hold Your Ground | 6.00% | ~165 |
 | Daemonkeeper | 4.00% | ~110 |
 | A Gift Spurned | 4.00% | ~110 |
@@ -38,13 +38,13 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 2.00% | ~55 |
 | Engine Kill | 2.00% | ~55 |
 | Death Comes For All | 2.00% | ~55 |
-| Clean Slate | 1.00% | ~27 |
-| Fleetmaster | 1.00% | ~27 |
-| For the Machine God | 1.00% | ~27 |
-| Unstable Immaterium | 1.00% | ~27 |
-| Strike Force | 1.00% | ~27 |
-| Hands-On Research | 1.00% | ~27 |
-| Only in Death | 1.00% | ~27 |
+| Clean Slate | 1.00% | ~28 |
+| Fleetmaster | 1.00% | ~28 |
+| For the Machine God | 1.00% | ~28 |
+| Unstable Immaterium | 1.00% | ~28 |
+| Strike Force | 1.00% | ~28 |
+| Hands-On Research | 1.00% | ~28 |
+| Only in Death | 1.00% | ~28 |
 | Exercise in Restraint | 0.80% | ~22 |
 | True Mastery | 0.60% | ~16 |
 | The Flesh is Weak | 0.50% | ~14 |
@@ -52,9 +52,9 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.40% | ~11 |
 | Blood and Iron | 0.30% | ~8 |
 | Firing Squad | 0.30% | ~8 |
-| Crisis Management | 0.20% | ~5 |
-| Grand Master | 0.20% | ~5 |
-| Brothers in Arms | 0.20% | ~5 |
+| Crisis Management | 0.20% | ~6 |
+| Grand Master | 0.20% | ~6 |
+| Brothers in Arms | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,746 (Ranked 137)  
+Progressed: 2,750 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 2,669 | 0 |
 | 2023-05-27 | 2,704 | 0 |
 | 2023-05-28 | 2,736 | 0 |
-| 2023-05-29 | 2,746 | 0 |
+| 2023-05-29 | 2,750 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 298)  

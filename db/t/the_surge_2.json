@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1654,
+  "EOS_Progressed": 1655,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -745,6 +745,11 @@
       "Time": "2023-05-29T03:05:50.860354+00:00",
       "NumProgressed": 1654,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-29T10:05:50.6012354+00:00",
+      "NumProgressed": 1655,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -764,7 +769,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ACHV_03",
@@ -908,7 +913,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_21",
@@ -930,9 +935,9 @@
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 596
     },
     {
       "ID": "ACHV_24",
@@ -956,7 +961,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ACHV_27",
@@ -980,7 +985,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHV_30",
@@ -996,7 +1001,7 @@
       "Name": "Where It All Began",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_32",
@@ -1084,7 +1089,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_43",
@@ -1211,7 +1216,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1654,
+      "Progressed": 1655,
       "Completed": 10
     }
   ],
@@ -1219,8 +1224,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:05:42.1213302+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:05:50.6012349+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:59:55.8289332+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:05:42.1213841+00:00"
+  "LastUpdate_Ratings": "2023-05-29T10:00:11.571492+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:05:50.6012916+00:00"
 }

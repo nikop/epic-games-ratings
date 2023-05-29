@@ -5,17 +5,17 @@ Rating: 4.78 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,096 |
+| For Demacia | 95.00% | ~2,097 |
 | No more cages! | 92.00% | ~2,030 |
 | Everfrost | 77.00% | ~1,699 |
 | Dark Forest | 76.00% | ~1,677 |
-| Pentakill | 75.00% | ~1,654 |
-| The use of petricite | 72.00% | ~1,588 |
+| Pentakill | 75.00% | ~1,655 |
+| The use of petricite | 72.00% | ~1,589 |
 | You can pet the dog | 60.00% | ~1,324 |
 | Big Helmet Bro | 35.00% | ~772 |
 | Clarion Cove | 34.00% | ~750 |
 | Past trauma | 33.00% | ~728 |
-| Thornbarrow | 33.00% | ~728 |
+| Thornbarrow | 32.00% | ~706 |
 | Ternmoat Headquarters | 32.00% | ~706 |
 | Elemental master | 31.00% | ~684 |
 | Cypress Glen Headquarters | 31.00% | ~684 |
@@ -24,8 +24,8 @@ Rating: 4.78 (Ranked 99)
 | Devineur | 26.00% | ~574 |
 | Whispers in the Woods I | 25.00% | ~552 |
 | Hijack | 25.00% | ~552 |
-| Ancient power | 23.00% | ~507 |
-| I chose my shackles | 22.00% | ~485 |
+| Ancient power | 23.00% | ~508 |
+| I chose my shackles | 22.00% | ~486 |
 | Sacred Woods | 21.00% | ~463 |
 | Little light | 19.00% | ~419 |
 | Capelworth | 19.00% | ~419 |
@@ -50,16 +50,16 @@ Rating: 4.78 (Ranked 99)
 | The Great City of Demacia | 9.00% | ~199 |
 | Back to sleep, then... | 9.00% | ~199 |
 | Call it 'redistribution of magic | 9.00% | ~199 |
-| Chains master | 8.00% | ~176 |
-| Truth is a dark mirror | 8.00% | ~176 |
-| You can pet the... horse | 8.00% | ~176 |
+| Chains master | 8.00% | ~177 |
+| Truth is a dark mirror | 8.00% | ~177 |
+| You can pet the... horse | 8.00% | ~177 |
 | Do you trust me? | 7.00% | ~154 |
 | The great mage rebellion starts now | 7.00% | ~154 |
 | Spellcrafting | 7.00% | ~154 |
 | Silverwing nest | 2.00% | ~44 |
 | The Unshackled | 0.50% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,206 (Ranked 145)  
+Progressed: 2,207 (Ranked 145)  
 Completed: 1 (0.05%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.05%) (Ranked 176)
 | 2023-05-26 | 2,167 | 1 |
 | 2023-05-27 | 2,178 | 1 |
 | 2023-05-28 | 2,201 | 1 |
-| 2023-05-29 | 2,206 | 1 |
+| 2023-05-29 | 2,207 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

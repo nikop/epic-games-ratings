@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,323 |
+| Rigged And Ready | 80.00% | ~1,324 |
 | Don't I Know You...? | 77.00% | ~1,274 |
-| Jailbreak | 65.00% | ~1,075 |
+| Jailbreak | 65.00% | ~1,076 |
 | Suited and Booted | 38.00% | ~629 |
-| HEADSHOT! | 37.00% | ~612 |
+| HEADSHOT! | 36.00% | ~596 |
 | Sleeping With The Fishes | 35.00% | ~579 |
 | High Performance | 30.00% | ~496 |
 | Overheated | 29.00% | ~480 |
@@ -31,11 +31,11 @@ Rating: 4.24 (Ranked 793)
 | Bad Dog | 13.00% | ~215 |
 | Risk Tolerant | 13.00% | ~215 |
 | What A Catchy Song | 13.00% | ~215 |
-| Marked For Success | 12.00% | ~198 |
-| Where It All Began | 12.00% | ~198 |
-| Sorry, Didn't See You There | 12.00% | ~198 |
+| Marked For Success | 12.00% | ~199 |
+| Where It All Began | 12.00% | ~199 |
+| Sorry, Didn't See You There | 12.00% | ~199 |
 | Corrupted Beauty | 11.00% | ~182 |
-| Triplets | 10.00% | ~165 |
+| Triplets | 10.00% | ~166 |
 | Stimulating The Local Economy | 9.00% | ~149 |
 | Denying Prophecy | 8.00% | ~132 |
 | Defense in Depth | 8.00% | ~132 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 793)
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,654 (Ranked 153)  
+Progressed: 1,655 (Ranked 153)  
 Completed: 10 (0.60%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 10 (0.60%) (Ranked 106)
 | 2023-05-26 | 1,621 | 10 |
 | 2023-05-27 | 1,635 | 10 |
 | 2023-05-28 | 1,651 | 10 |
-| 2023-05-29 | 1,654 | 10 |
+| 2023-05-29 | 1,655 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

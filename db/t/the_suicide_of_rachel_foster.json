@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5,
+  "EOS_Completed_Percentage": 4.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -772,6 +772,11 @@
       "Time": "2023-05-29T06:07:11.0620603+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-05-29T10:05:35.7021915+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 11,
@@ -791,7 +796,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_Cacciavite",
@@ -815,7 +820,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_FineEV9",
@@ -855,7 +860,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -863,22 +868,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1082,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:05:27.6680331+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:05:35.7021911+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.0683903+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:59:35.0840432+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:05:27.6680454+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:59:48.5343202+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:05:35.7022052+00:00"
 }

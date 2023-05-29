@@ -5,12 +5,12 @@ Rating: 4.50 (Ranked 541)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~924 |
+| Fresh Prince of Trudograd | 87.00% | ~925 |
 | Household | 6.00% | ~64 |
 | An Old Friend | 5.00% | ~53 |
-| Lot 49 | 4.00% | ~42 |
-| Viva La Revolution | 4.00% | ~42 |
-| Walking Fortress | 4.00% | ~42 |
+| Lot 49 | 4.00% | ~43 |
+| Viva La Revolution | 4.00% | ~43 |
+| Walking Fortress | 4.00% | ~43 |
 | Atomic Soda | 3.00% | ~32 |
 | Freelance Police | 3.00% | ~32 |
 | Mysterious Knife | 3.00% | ~32 |
@@ -20,8 +20,8 @@ Rating: 4.50 (Ranked 541)
 | Human Antidote | 2.00% | ~21 |
 | Albino Bloodsucker | 1.00% | ~11 |
 | Death of the Author | 0.90% | ~10 |
-| Memoirs of a Nibbler | 0.80% | ~8 |
-| Sixth Sense | 0.80% | ~8 |
+| Memoirs of a Nibbler | 0.80% | ~9 |
+| Sixth Sense | 0.80% | ~9 |
 | KGB Bunker | 0.70% | ~7 |
 | Rising Star | 0.60% | ~6 |
 | Baby Eater | 0.50% | ~5 |
@@ -38,7 +38,7 @@ Rating: 4.50 (Ranked 541)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,062 (Ranked 167)  
+Progressed: 1,063 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 1,052 | 0 |
 | 2023-05-27 | 1,060 | 0 |
 | 2023-05-28 | 1,062 | 0 |
+| 2023-05-29 | 1,063 | 0 |
 ## Awards
 Max (Character Customization): 20  (Ranked 485)  
 Sum: 20 (Ranked 486)  

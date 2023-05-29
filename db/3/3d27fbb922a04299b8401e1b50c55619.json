@@ -4,7 +4,7 @@
   "ProductSlug": "influent-4b0f43",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -230,8 +230,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-25T18:00:02.4221088+00:00",
-  "LastChanged_Achievements": "2023-05-29T09:02:19.5412491+00:00",
+  "LastChanged_Achievements": "2023-05-29T10:02:28.0881826+00:00",
   "LastUpdate_AppInfo": "2023-05-25T17:56:52.1652747+00:00",
-  "LastUpdate_Ratings": "2023-05-29T08:57:03.9510033+00:00",
-  "LastUpdate_Achievements": "2023-05-29T09:02:19.5412595+00:00"
+  "LastUpdate_Ratings": "2023-05-29T09:57:06.8367868+00:00",
+  "LastUpdate_Achievements": "2023-05-29T10:02:28.0881958+00:00"
 }
