@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Aspairagus | 44.00% | ~7 |
 | Survivor | 30.00% | ~5 |
-| No Diggity | 27.00% | ~4 |
+| No Diggity | 29.00% | ~5 |
 | Seeds of War | 26.00% | ~17 |
 | Early Survivor | 26.00% | ~4 |
 | Bouncemato | 20.00% | ~3 |

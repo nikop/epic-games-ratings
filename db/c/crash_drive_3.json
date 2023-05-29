@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -136,6 +136,11 @@
       "Time": "2023-05-28T09:03:28.6833598+00:00",
       "NumProgressed": 314,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T20:03:51.9237544+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -187,7 +192,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -257,9 +262,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -267,7 +272,7 @@
       "Name": "To and Fro",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -275,7 +280,7 @@
       "Name": "Disoriented",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -299,7 +304,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -321,9 +326,9 @@
       "ID": "HIT_10_PLAYERS",
       "SetID": "20koof9",
       "Name": "Anger Issues",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -331,7 +336,7 @@
       "Name": "Pushover",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HIT_ALIEN",
@@ -345,9 +350,9 @@
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -395,7 +400,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -411,7 +416,7 @@
       "Name": "A Forest Walk",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -475,7 +480,7 @@
       "Name": "Out of this League",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -537,9 +542,9 @@
       "ID": "WIN_BALL",
       "SetID": "20koof9",
       "Name": "Beach Party!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "WIN_KING_HILL",
@@ -563,7 +568,7 @@
       "Name": "In the Bag!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -586,7 +591,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 2
     }
   ],
@@ -594,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:04:11.3803436+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:03:51.9237537+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.3349929+00:00",
-  "LastUpdate_Ratings": "2023-05-29T18:59:13.7957702+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:04:11.3803849+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:59:29.0903728+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:03:51.9237968+00:00"
 }

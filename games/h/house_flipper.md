@@ -6,10 +6,10 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~17,961 |
+| First money | 94.00% | ~17,962 |
 | Strongman | 31.00% | ~5,923 |
-| Just Enough | 19.00% | ~3,630 |
-| Alpha Male | 19.00% | ~3,630 |
+| Just Enough | 19.00% | ~3,631 |
+| Alpha Male | 19.00% | ~3,631 |
 | Pro-creative | 18.00% | ~3,439 |
 | Worth Every Penny | 15.00% | ~2,866 |
 | Family man | 12.00% | ~2,293 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~96 |
 | Senior Estate Agent | 0.50% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,107 (Ranked 94)  
+Progressed: 19,108 (Ranked 94)  
 Completed: 19 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,10 +69,10 @@ Completed: 19 (0.10%) (Ranked 159)
 | 2023-05-26 | 19,013 | 19 |
 | 2023-05-27 | 19,054 | 19 |
 | 2023-05-28 | 19,087 | 19 |
-| 2023-05-29 | 19,107 | 19 |
+| 2023-05-29 | 19,108 | 19 |
 ## Awards
 Max (Great for Beginners): 292  (Ranked 227)  
-Sum: 2,140 (Ranked 178)  
+Sum: 2,141 (Ranked 178)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -86,7 +86,7 @@ Diff (max vs sum): 49
 | This game has a Creative Community | 204 |
 | This game has Amazing Characters | 186 |
 | This game has Obsessive Gameplay | 173 |
-| This game has Easy Combat | 157 |
+| This game has Easy Combat | 158 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -192,4 +192,4 @@ Diff (max vs sum): 49
 | 2023-05-26 | 4.69 | - | 289 | 2,131 |
 | 2023-05-27 | 4.69 | - | 292 | 2,135 |
 | 2023-05-28 | 4.69 | - | 292 | 2,139 |
-| 2023-05-29 | 4.69 | - | 292 | 2,140 |
+| 2023-05-29 | 4.69 | - | 292 | 2,141 |

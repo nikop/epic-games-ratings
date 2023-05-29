@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 60.00% | ~120 |
-| I like parks | 48.00% | ~96 |
-| It is nice to share with friends in the city | 26.00% | ~52 |
+| Small town | 60.00% | ~121 |
+| I like parks | 48.00% | ~97 |
+| It is nice to share with friends in the city | 25.00% | ~50 |
 | Sport is good for you | 25.00% | ~50 |
 | The spiritual world... | 24.00% | ~48 |
-| The woodcutter | 23.00% | ~46 |
+| The woodcutter | 22.00% | ~44 |
 | I like books | 19.00% | ~38 |
-| I like my life | 19.00% | ~38 |
+| I like my life | 18.00% | ~36 |
 | Clean energy | 16.00% | ~32 |
 | Soviet town | 16.00% | ~32 |
-| Bucolic city | 14.00% | ~28 |
-| I love parks | 10.00% | ~20 |
+| Bucolic city | 13.00% | ~26 |
 | I love books! | 9.00% | ~18 |
-| King of fish | 9.00% | ~18 |
-| What would we do if we can't go out with friends? | 9.00% | ~18 |
+| I love parks | 9.00% | ~18 |
+| King of fish | 8.00% | ~16 |
+| What would we do if we can't go out with friends? | 8.00% | ~16 |
 | Food producer | 6.00% | ~12 |
 | Metropolurbek | 6.00% | ~12 |
-| Sport is the best thing | 5.00% | ~10 |
 | I am very happy! | 4.00% | ~8 |
-| Banking city | 3.00% | ~6 |
-| Read! Everyone should read! | 3.00% | ~6 |
-| Little Mayor | 3.00% | ~6 |
-| Temperate builder | 3.00% | ~6 |
-| Archipelago builder | 2.00% | ~4 |
-| Food provider master | 2.00% | ~4 |
-| City crisis | 2.00% | ~4 |
-| What is there after death? | 2.00% | ~4 |
+| Sport is the best thing | 4.00% | ~8 |
+| Banking city | 2.00% | ~4 |
+| Read! Everyone should read! | 2.00% | ~4 |
 | Oh, I love parks, listening to birds! | 2.00% | ~4 |
-| Freedom to go to the mall! | 2.00% | ~4 |
+| Little Mayor | 2.00% | ~4 |
 | Rebel city | 2.00% | ~4 |
-| Temperate urban planner | 2.00% | ~4 |
+| Temperate builder | 2.00% | ~4 |
 | Anarchist Utopia | 1.00% | ~2 |
+| Archipelago builder | 1.00% | ~2 |
 | Archipelago urban planner | 1.00% | ~2 |
+| Food provider master | 1.00% | ~2 |
+| City crisis | 1.00% | ~2 |
+| What is there after death? | 1.00% | ~2 |
 | Perfect city | 1.00% | ~2 |
 | Oh, I am sad | 1.00% | ~2 |
 | Farming Frenzy | 1.00% | ~2 |
+| Freedom to go to the mall! | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
+| Temperate urban planner | 1.00% | ~2 |
 | Welfare state | 1.00% | ~2 |
 | Anarchist paradise | 0.50% | ~1 |
 | I can't see the sky | 0.50% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 239)  
+Progressed: 202 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 186 | 0 |
 | 2023-05-27 | 189 | 0 |
 | 2023-05-28 | 195 | 0 |
-| 2023-05-29 | 200 | 0 |
+| 2023-05-29 | 202 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

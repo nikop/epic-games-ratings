@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~730 |
-| Ranidaphobia | 71.00% | ~569 |
-| Aspiring Editor | 67.00% | ~537 |
-| Gun for Hire | 61.00% | ~489 |
-| I am the law! | 49.00% | ~393 |
-| Lumberjack | 30.00% | ~241 |
-| From Darkness to Light | 27.00% | ~217 |
-| Limp Richard | 26.00% | ~209 |
-| Firestarter | 26.00% | ~209 |
-| Croaked | 25.00% | ~200 |
-| Exorcist | 22.00% | ~176 |
-| Editor Adept | 21.00% | ~168 |
-| Giant Killer | 18.00% | ~144 |
-| Sensei | 17.00% | ~136 |
-| The meaning of Kain | 17.00% | ~136 |
-| Technophobe | 12.00% | ~96 |
-| Hold The Line | 11.00% | ~88 |
-| Recycler | 11.00% | ~88 |
-| Chain Killer | 10.00% | ~80 |
-| Newtonian Knockout | 9.00% | ~72 |
-| There Can Be Only One! | 9.00% | ~72 |
+| First Blood | 91.00% | ~733 |
+| Ranidaphobia | 70.00% | ~564 |
+| Aspiring Editor | 67.00% | ~540 |
+| Gun for Hire | 61.00% | ~492 |
+| I am the law! | 49.00% | ~395 |
+| Lumberjack | 31.00% | ~250 |
+| Firestarter | 27.00% | ~218 |
+| From Darkness to Light | 27.00% | ~218 |
+| Limp Richard | 26.00% | ~210 |
+| Croaked | 25.00% | ~202 |
+| Exorcist | 22.00% | ~177 |
+| Editor Adept | 21.00% | ~169 |
+| Giant Killer | 18.00% | ~145 |
+| Sensei | 17.00% | ~137 |
+| The meaning of Kain | 17.00% | ~137 |
+| Technophobe | 12.00% | ~97 |
+| Chain Killer | 11.00% | ~89 |
+| Hold The Line | 11.00% | ~89 |
+| Recycler | 11.00% | ~89 |
+| Newtonian Knockout | 9.00% | ~73 |
+| There Can Be Only One! | 9.00% | ~73 |
 | Are you not entertained? | 8.00% | ~64 |
 | Ganglord | 8.00% | ~64 |
 | Jarhead | 8.00% | ~64 |
-| Infiltrator | 7.00% | ~56 |
+| Infiltrator | 8.00% | ~64 |
 | Pushing Daisy | 7.00% | ~56 |
 | Experienced | 6.00% | ~48 |
 | Ruthless | 6.00% | ~48 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802 (Ranked 180)  
+Progressed: 806 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
-| 2023-05-29 | 802 | 0 |
+| 2023-05-29 | 806 | 0 |

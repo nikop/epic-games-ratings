@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.96,
+  "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -117,6 +117,11 @@
       "Time": "2023-05-28T17:06:42.0874263+00:00",
       "NumProgressed": 153,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-29T20:07:01.0442938+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -128,15 +133,15 @@
       "Name": "Bromance",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -144,7 +149,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "deathlooper",
@@ -206,9 +211,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -216,7 +221,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "thats_my_boy",
@@ -263,7 +268,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 3
     }
   ],
@@ -271,8 +276,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:49.3948733+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:07:01.044293+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.1546983+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:00:35.7144281+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:49.394887+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:01:09.0857571+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:07:01.0443137+00:00"
 }

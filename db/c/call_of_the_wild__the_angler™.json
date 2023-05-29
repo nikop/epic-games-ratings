@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3876,
+  "EOS_Progressed": 3880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2118,6 +2118,11 @@
       "Time": "2023-05-29T19:02:19.3817792+00:00",
       "NumProgressed": 3876,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T20:02:32.576924+00:00",
+      "NumProgressed": 3880,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2129,7 +2134,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2832
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2137,7 +2142,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1785
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2145,7 +2150,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2406
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2153,7 +2158,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -2161,7 +2166,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2169,7 +2174,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2056
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2177,7 +2182,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -2185,7 +2190,7 @@
       "Name": "Scaling up",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1824
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2193,7 +2198,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -2201,7 +2206,7 @@
       "Name": "License to Gill",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -2209,7 +2214,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -2225,7 +2230,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -2233,7 +2238,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -2241,7 +2246,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -2281,7 +2286,7 @@
       "Name": "Marathon",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -2289,7 +2294,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -2297,7 +2302,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -2369,7 +2374,7 @@
       "Name": "Rod and Troll",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -2385,7 +2390,7 @@
       "Name": "Trollsporet Tale Teller",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -2408,13 +2413,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3876,
+      "Progressed": 3880,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3248,
+      "Progressed": 3252,
       "Completed": 112
     }
   ],
@@ -2422,8 +2427,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:02:19.3817787+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:02:32.5769233+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:00:28.5116478+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:02:19.3818104+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:01:00.7354489+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:02:32.5769905+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-05-29T18:05:44.5861161+00:00",
       "NumProgressed": 435,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-29T20:07:09.633582+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -284,7 +289,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Doors_Closing",
@@ -476,7 +481,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -491,7 +496,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 5
     }
   ],
@@ -499,8 +504,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:57.2331061+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:07:09.6335817+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.4179478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:01:20.7997412+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:57.2331271+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:01:59.6630495+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:07:09.6336004+00:00"
 }

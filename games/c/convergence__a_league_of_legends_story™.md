@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~465 |
-| Rail Rat | 76.00% | ~380 |
-| The Mysterious Stranger | 74.00% | ~370 |
-| Immaculate Aim | 63.00% | ~315 |
-| The Brass Boss | 55.00% | ~275 |
-| Honest Mistake | 54.00% | ~270 |
-| No, Thanks! | 52.00% | ~260 |
-| Time Flies | 50.00% | ~250 |
-| The Prince in Heels | 49.00% | ~245 |
-| The Harder They Fall | 48.00% | ~240 |
-| Right On Time | 46.00% | ~230 |
-| Fast Learner | 45.00% | ~225 |
-| Immaculate Aim | 45.00% | ~225 |
-| Make Up For Lost Time | 44.00% | ~220 |
-| Breaking Down Barriers | 42.00% | ~210 |
-| The Steel Shadow | 35.00% | ~175 |
-| Golem Chaser | 34.00% | ~170 |
-| Like Clockwork | 33.00% | ~165 |
-| The Wicked Twins | 31.00% | ~155 |
-| Family Memories | 30.00% | ~150 |
-| The Betrayer | 30.00% | ~150 |
-| Check Your Pulse | 28.00% | ~140 |
-| Good Neighbor | 27.00% | ~135 |
-| Street Style | 26.00% | ~130 |
-| The Loose Cannon | 26.00% | ~130 |
+| Time Heals All Wounds | 93.00% | ~467 |
+| Rail Rat | 76.00% | ~382 |
+| The Mysterious Stranger | 74.00% | ~371 |
+| Immaculate Aim | 63.00% | ~316 |
+| The Brass Boss | 55.00% | ~276 |
+| Honest Mistake | 54.00% | ~271 |
+| No, Thanks! | 52.00% | ~261 |
+| Time Flies | 50.00% | ~251 |
+| The Prince in Heels | 50.00% | ~251 |
+| The Harder They Fall | 48.00% | ~241 |
+| Right On Time | 47.00% | ~236 |
+| Fast Learner | 45.00% | ~226 |
+| Immaculate Aim | 45.00% | ~226 |
+| Make Up For Lost Time | 44.00% | ~221 |
+| Breaking Down Barriers | 42.00% | ~211 |
+| The Steel Shadow | 36.00% | ~181 |
+| Golem Chaser | 34.00% | ~171 |
+| Like Clockwork | 33.00% | ~166 |
+| The Wicked Twins | 32.00% | ~161 |
+| Family Memories | 30.00% | ~151 |
+| The Betrayer | 30.00% | ~151 |
+| Check Your Pulse | 28.00% | ~141 |
+| Street Style | 27.00% | ~136 |
+| Good Neighbor | 27.00% | ~136 |
+| The Loose Cannon | 26.00% | ~131 |
 | The Family Fortune | 21.00% | ~105 |
 | The Man Who Shattered Time | 20.00% | ~100 |
 | Whiz Kid | 20.00% | ~100 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 195)  
+Progressed: 502 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 386 | 0 |
 | 2023-05-27 | 438 | 0 |
 | 2023-05-28 | 474 | 0 |
-| 2023-05-29 | 500 | 0 |
+| 2023-05-29 | 502 | 0 |

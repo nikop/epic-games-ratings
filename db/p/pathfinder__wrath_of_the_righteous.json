@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2576,7 +2576,7 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9330,
+  "EOS_Progressed": 9334,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
@@ -4906,6 +4906,11 @@
       "Time": "2023-05-29T19:07:04.1036311+00:00",
       "NumProgressed": 9330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T20:07:17.1266223+00:00",
+      "NumProgressed": 9334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4933,7 +4938,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "04_FithCrusade",
@@ -4941,7 +4946,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -5053,7 +5058,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "19_EqualToAroden",
@@ -5285,7 +5290,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "49_Flame",
@@ -5844,21 +5849,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8112,
+      "Progressed": 8116,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9330,
+      "Progressed": 9334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-29T10:58:46.2996937+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:07:04.1036303+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:07:17.1266219+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-29T18:58:44.4516466+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:07:04.1037893+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:58:53.261106+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:07:17.1268129+00:00"
 }

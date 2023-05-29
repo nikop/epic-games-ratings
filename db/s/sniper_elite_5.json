@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1823,
+  "EOS_Progressed": 1829,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1854,6 +1854,11 @@
       "Time": "2023-05-29T19:06:38.9588595+00:00",
       "NumProgressed": 1823,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T20:06:49.5237465+00:00",
+      "NumProgressed": 1829,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1889,7 +1894,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1911,9 +1916,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1921,7 +1926,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1945,7 +1950,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1983,9 +1988,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 91
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2033,7 +2038,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2049,7 +2054,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -2065,7 +2070,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2073,7 +2078,7 @@
       "Name": "Lord of War",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2105,7 +2110,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2113,7 +2118,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2175,9 +2180,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2231,9 +2236,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 128
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2241,7 +2246,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2279,9 +2284,9 @@
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -2327,9 +2332,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -2432,13 +2437,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1774,
+      "Progressed": 1780,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1823,
+      "Progressed": 1829,
       "Completed": 2
     }
   ],
@@ -2446,8 +2451,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:38.9588591+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:06:49.5237458+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:01:18.7967594+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:38.9589314+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:01:57.3921255+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:06:49.5238419+00:00"
 }

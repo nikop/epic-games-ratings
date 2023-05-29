@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 459369,
+  "EOS_Progressed": 459375,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4293,6 +4293,11 @@
       "Time": "2023-05-29T19:06:56.9884587+00:00",
       "NumProgressed": 459369,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-29T20:07:09.3622133+00:00",
+      "NumProgressed": 459375,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -4918,38 +4923,38 @@
       "ID": "achievement_win_run_with_phalanx",
       "SetID": "7plcbc4",
       "Name": "Horus Rule",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_win_run_with_pragmah",
       "SetID": "7plcbc4",
       "Name": "Kronos Rule",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 3303,
+      "Progressed": 3309,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 459369,
+      "Progressed": 459375,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:56.9884582+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:07:09.362213+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:47.654546+00:00",
-  "LastUpdate_Ratings": "2023-05-29T18:59:49.01369+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:56.9885446+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:00:15.7620322+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:07:09.3623075+00:00"
 }

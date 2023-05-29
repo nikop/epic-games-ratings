@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6437,
+  "EOS_Progressed": 6438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3258,6 +3258,11 @@
       "Time": "2023-05-29T19:06:52.3839719+00:00",
       "NumProgressed": 6437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T20:07:04.449418+00:00",
+      "NumProgressed": 6438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3373,7 +3378,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "0015",
@@ -3397,7 +3402,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "0018",
@@ -3419,9 +3424,9 @@
       "ID": "0020",
       "SetID": "2n2feee",
       "Name": "Dr. No Kill",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 115,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1545
     },
     {
       "ID": "0021",
@@ -3437,7 +3442,7 @@
       "Name": "PHD in VIP",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "0023",
@@ -3453,7 +3458,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "0025",
@@ -3493,7 +3498,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "0030",
@@ -3501,7 +3506,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "0031",
@@ -3509,7 +3514,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "0032",
@@ -3525,7 +3530,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "0034",
@@ -3533,7 +3538,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "0035",
@@ -3556,7 +3561,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6437,
+      "Progressed": 6438,
       "Completed": 0
     }
   ],
@@ -3564,8 +3569,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:52.3839715+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:07:04.4494173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:00:16.9840579+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:52.3840234+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:00:46.7610863+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:07:04.4494857+00:00"
 }

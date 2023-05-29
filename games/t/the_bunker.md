@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 89.00% | ~86 |
-| The Routine | 79.00% | ~77 |
-| Mother | 76.00% | ~74 |
-| Failure | 74.00% | ~72 |
-| Replace Fuse | 67.00% | ~65 |
+| Last Goodbye | 90.00% | ~87 |
+| The Routine | 80.00% | ~78 |
+| Mother | 77.00% | ~75 |
+| Failure | 75.00% | ~73 |
+| Replace Fuse | 68.00% | ~66 |
 | Alarm | 65.00% | ~63 |
 | Air Filtration | 64.00% | ~62 |
 | Broken | 63.00% | ~61 |
@@ -16,11 +16,11 @@
 | Descent | 60.00% | ~58 |
 | Awakenings | 58.00% | ~56 |
 | Cold Storage | 58.00% | ~56 |
+| Sam | 54.00% | ~52 |
 | Churchill | 53.00% | ~51 |
-| Sam | 53.00% | ~51 |
+| Doctor | 49.00% | ~48 |
 | Leave | 48.00% | ~47 |
-| Doctor | 48.00% | ~47 |
-| Commissioner | 47.00% | ~46 |
+| Commissioner | 48.00% | ~47 |
 | Engineer | 47.00% | ~46 |
 | Soldier | 47.00% | ~46 |
 | Press Play | 38.00% | ~37 |

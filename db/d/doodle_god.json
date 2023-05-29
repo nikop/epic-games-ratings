@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "605782",
@@ -300,8 +300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:44.8232718+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:06:56.1228974+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:55.9771021+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:00:00.7392794+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:44.8232869+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:00:28.0915808+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:06:56.1229163+00:00"
 }

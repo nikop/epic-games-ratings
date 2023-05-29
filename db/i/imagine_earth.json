@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372,
+  "EOS_Progressed": 373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -129,6 +129,11 @@
       "Time": "2023-05-28T18:00:27.7143359+00:00",
       "NumProgressed": 372,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T20:02:09.102948+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -148,7 +153,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "CampaignStars2",
@@ -220,7 +225,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Multitalent",
@@ -252,7 +257,7 @@
       "Name": "Iqunox",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PlanetJoma",
@@ -268,7 +273,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PlanetMagni",
@@ -300,7 +305,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "PlanetUdionTorix",
@@ -331,7 +336,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 372,
+      "Progressed": 373,
       "Completed": 0
     }
   ],
@@ -339,8 +344,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:01:28.3091223+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:02:09.1029466+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:48.7726988+00:00",
-  "LastUpdate_Ratings": "2023-05-29T18:59:49.177045+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:01:28.3099532+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:00:15.957123+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:02:09.1029716+00:00"
 }

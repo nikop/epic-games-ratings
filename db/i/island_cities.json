@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 15.2,
+  "EOS_Completed_Percentage": 15.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -903,6 +903,11 @@
       "Time": "2023-05-29T18:05:18.7077503+00:00",
       "NumProgressed": 204,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-29T20:06:36.5469158+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 22,
@@ -914,7 +919,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "LEVEL_002",
@@ -922,15 +927,15 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_004",
@@ -938,7 +943,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_005",
@@ -962,7 +967,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_008",
@@ -970,7 +975,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_009",
@@ -984,17 +989,17 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_012",
@@ -1008,9 +1013,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_014",
@@ -1089,7 +1094,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 31
     }
   ],
@@ -1097,8 +1102,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:27.3265083+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:06:36.5469151+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-29T18:58:23.7189351+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:27.326528+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:58:32.1112527+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:06:36.5469414+00:00"
 }

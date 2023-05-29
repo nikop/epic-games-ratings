@@ -6,24 +6,24 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 80.00% | ~938 |
-| Lovebirds | 51.00% | ~598 |
-| Life’s short, ride long | 47.00% | ~551 |
+| Balding bloot! | 80.00% | ~940 |
+| Lovebirds | 51.00% | ~599 |
+| Life’s short, ride long | 47.00% | ~552 |
 | Hug therapy | 46.00% | ~540 |
-| Over my dead body | 42.00% | ~493 |
+| Over my dead body | 42.00% | ~494 |
 | Shake the rust off their feet | 23.00% | ~270 |
-| My little pony | 21.00% | ~246 |
+| My little pony | 21.00% | ~247 |
 | Strike! | 20.00% | ~235 |
 | A love supreme | 19.00% | ~223 |
-| In my shoes | 18.00% | ~211 |
-| Like new! | 16.00% | ~188 |
-| Heartstrings | 14.00% | ~164 |
-| Head in the clouds | 14.00% | ~164 |
-| Don't look back | 13.00% | ~152 |
+| In my shoes | 18.00% | ~212 |
+| Like new! | 15.00% | ~176 |
+| Heartstrings | 14.00% | ~165 |
+| Head in the clouds | 14.00% | ~165 |
+| Don't look back | 13.00% | ~153 |
 | Back to rust | 12.00% | ~141 |
 | Flower Powered | 12.00% | ~141 |
-| Perfect timing | 10.00% | ~117 |
-| Unstoppable | 10.00% | ~117 |
+| Perfect timing | 10.00% | ~118 |
+| Unstoppable | 10.00% | ~118 |
 | Ain't no mountain high enough | 9.00% | ~106 |
 | Self-sustainability | 8.00% | ~94 |
 | Spring cleaning | 6.00% | ~70 |
@@ -34,10 +34,10 @@ Number of Ratings: 38  (23.09.2022)
 | Strip-a-bobble | 4.00% | ~47 |
 | Pearls before Birble | 3.00% | ~35 |
 | Last minute | 3.00% | ~35 |
-| Thar she blows | 2.00% | ~23 |
-| À la carte | 2.00% | ~23 |
+| Thar she blows | 2.00% | ~24 |
+| À la carte | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,173 (Ranked 162)  
+Progressed: 1,175 (Ranked 162)  
 Completed: 8 (0.68%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 8 (0.68%) (Ranked 103)
 | 2023-05-25 | 1,163 | 8 |
 | 2023-05-27 | 1,170 | 8 |
 | 2023-05-28 | 1,172 | 8 |
-| 2023-05-29 | 1,173 | 8 |
+| 2023-05-29 | 1,175 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

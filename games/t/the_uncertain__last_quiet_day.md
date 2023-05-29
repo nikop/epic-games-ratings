@@ -31,8 +31,8 @@
 | That's much better! | 15.00% | ~69 |
 | Not as clumsy or random | 13.00% | ~59 |
 | Blade Runner | 10.00% | ~46 |
+| Meticulous | 9.00% | ~41 |
 | Perfect hearing | 9.00% | ~41 |
-| Meticulous | 8.00% | ~37 |
 | Lucky dog | 5.00% | ~23 |
 | Accurate | 5.00% | ~23 |
 | Silent | 4.00% | ~18 |

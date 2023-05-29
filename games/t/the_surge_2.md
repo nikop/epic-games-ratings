@@ -18,7 +18,7 @@ Rating: 4.24 (Ranked 793)
 | Home Invasion | 22.00% | ~365 |
 | Luminary | 22.00% | ~365 |
 | It's a Trap | 22.00% | ~365 |
-| True Survivor | 20.00% | ~331 |
+| True Survivor | 21.00% | ~348 |
 | Shocking | 20.00% | ~331 |
 | Court Martial | 19.00% | ~315 |
 | Offensive Defense | 19.00% | ~315 |

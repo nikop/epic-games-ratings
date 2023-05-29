@@ -352,9 +352,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 7203,
+  "EOS_Progressed": 7205,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2807,6 +2807,11 @@
       "Time": "2023-05-29T19:03:48.0810472+00:00",
       "NumProgressed": 7203,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-29T20:03:37.01896+00:00",
+      "NumProgressed": 7205,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 34,
@@ -2922,7 +2927,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "ACH15",
@@ -2978,7 +2983,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "ACH22",
@@ -3002,7 +3007,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACH25",
@@ -3010,7 +3015,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACH26",
@@ -3018,7 +3023,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH27",
@@ -3089,7 +3094,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7203,
+      "Progressed": 7205,
       "Completed": 24
     }
   ],
@@ -3097,8 +3102,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-29T13:03:24.3591761+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:03:48.0810467+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:03:37.0189593+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-29T18:58:41.5821262+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:03:48.0810877+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:58:50.8588971+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:03:37.0189997+00:00"
 }

@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12821,
+  "EOS_Progressed": 12823,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2969,6 +2969,11 @@
       "Time": "2023-05-29T19:06:26.6956202+00:00",
       "NumProgressed": 12821,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-29T20:06:35.7349785+00:00",
+      "NumProgressed": 12823,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 41,
@@ -2980,7 +2985,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "tpote_achievement_10",
@@ -2996,7 +3001,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "tpote_achievement_12",
@@ -3020,7 +3025,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4359
+      "UsersEstimate": 4360
     },
     {
       "ID": "tpote_achievement_15",
@@ -3052,7 +3057,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "tpote_achievement_19",
@@ -3068,7 +3073,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "tpote_achievement_20",
@@ -3092,7 +3097,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "tpote_achievement_23",
@@ -3108,7 +3113,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "tpote_achievement_25",
@@ -3146,9 +3151,9 @@
       "ID": "tpote_achievement_29",
       "SetID": "3jcf6c3",
       "Name": "Skilled merchant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1154
     },
     {
       "ID": "tpote_achievement_3",
@@ -3156,7 +3161,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "tpote_achievement_30",
@@ -3244,7 +3249,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "tpote_achievement_40",
@@ -3268,7 +3273,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "tpote_achievement_6",
@@ -3276,7 +3281,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "tpote_achievement_7",
@@ -3284,7 +3289,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "tpote_achievement_8",
@@ -3307,15 +3312,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12821,
+      "Progressed": 12823,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-29T19:06:26.6956194+00:00",
+  "LastChanged_Achievements": "2023-05-29T20:06:35.7349775+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:00:38.309556+00:00",
-  "LastUpdate_Achievements": "2023-05-29T19:06:26.6956892+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:01:12.6927759+00:00",
+  "LastUpdate_Achievements": "2023-05-29T20:06:35.7350275+00:00"
 }

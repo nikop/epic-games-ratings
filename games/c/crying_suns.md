@@ -78,15 +78,15 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Supremacy | 0.10% | ~3 |
 | Kronos Mastery | 0.10% | ~3 |
 | Kronos Supremacy | 0.10% | ~3 |
+| Horus Rule | 0.10% | ~3 |
+| Kronos Rule | 0.10% | ~3 |
 | Geno Supremacy | 0.00% | ~0 |
 | Jericho Mastery | 0.00% | ~0 |
 | Jericho Supremacy | 0.00% | ~0 |
 | Void Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
-| Horus Rule | 0.00% | ~0 |
-| Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,369 (Ranked 31)  
+Progressed: 459,375 (Ranked 31)  
 Completed: 14 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 14 (0.00%) (Ranked 207)
 | 2023-05-26 | 459,053 | 14 |
 | 2023-05-27 | 459,179 | 14 |
 | 2023-05-28 | 459,298 | 14 |
-| 2023-05-29 | 459,369 | 14 |
+| 2023-05-29 | 459,375 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

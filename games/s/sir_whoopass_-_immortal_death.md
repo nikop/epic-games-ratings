@@ -14,17 +14,17 @@
 | Nerd | 80.00% | ~53 |
 | Blurry depth perception | 77.00% | ~51 |
 | Up and down | 74.00% | ~49 |
-| Rolling, Rolling, Rolling | 70.00% | ~46 |
-| Fire-fighter! | 61.00% | ~40 |
+| Rolling, Rolling, Rolling | 71.00% | ~47 |
+| Fire-fighter! | 62.00% | ~41 |
+| Make Love not War-Craft a Mistlefoe | 61.00% | ~40 |
 | Oh, you're up to no gouda! | 59.00% | ~39 |
-| Make Love not War-Craft a Mistlefoe | 59.00% | ~39 |
-| Meat grinder | 56.00% | ~37 |
-| Butcher | 48.00% | ~32 |
-| You're not going to blow me up! | 48.00% | ~32 |
-| Mushroom soup of the day | 47.00% | ~31 |
-| Honk honk! | 45.00% | ~30 |
+| Meat grinder | 58.00% | ~38 |
+| Butcher | 50.00% | ~33 |
+| You're not going to blow me up! | 50.00% | ~33 |
+| Mushroom soup of the day | 48.00% | ~32 |
+| Honk honk! | 47.00% | ~31 |
+| Spare Ribs | 47.00% | ~31 |
 | My pants squeak when I walk | 45.00% | ~30 |
-| Spare Ribs | 45.00% | ~30 |
 | Cockadoodledoo! | 44.00% | ~29 |
 | Thats disgusting! | 42.00% | ~28 |
 | Surprise!! | 41.00% | ~27 |
@@ -39,7 +39,7 @@
 | Meatballs, coming up! | 30.00% | ~20 |
 | I'm going to get a concussion | 29.00% | ~19 |
 | Another one bites the iron | 27.00% | ~18 |
-| A Megapint...? | 24.00% | ~16 |
+| A Megapint...? | 26.00% | ~17 |
 | Ripe Meat Off The Bone! | 23.00% | ~15 |
 | Hovering around | 23.00% | ~15 |
 | Your daily dose of Vitamin C. | 20.00% | ~13 |
