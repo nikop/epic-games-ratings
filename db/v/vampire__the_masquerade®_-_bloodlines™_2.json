@@ -4,8 +4,8 @@
   "ProductSlug": "vampire-the-masquerade-bloodlines-2",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:13.7539697+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:57:31.5051727+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:03:59.4294738+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:57:25.3993042+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:04:09.5610297+00:00"
 }

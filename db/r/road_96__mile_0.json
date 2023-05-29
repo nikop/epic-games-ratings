@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2023-05-29T08:02:32.5176388+00:00",
       "NumProgressed": 204,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T12:03:34.5327632+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -380,7 +385,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "completeact2",
@@ -436,7 +441,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "scoreminrankrf2",
@@ -452,15 +457,15 @@
       "Name": "Souvenirs",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "scoreminrankrp2",
@@ -499,7 +504,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 2
     }
   ],
@@ -507,8 +512,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:03:23.8398853+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:03:34.5327627+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:59:22.6346574+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:03:23.8399104+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:59:13.0474605+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:03:34.5327782+00:00"
 }

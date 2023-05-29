@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2751,
+  "EOS_Progressed": 2752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1257,6 +1257,11 @@
       "Time": "2023-05-29T11:07:15.3716579+00:00",
       "NumProgressed": 2751,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T12:07:12.8879184+00:00",
+      "NumProgressed": 2752,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1436,7 +1441,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "Kills_Bleed",
@@ -1460,7 +1465,7 @@
       "Name": "Executioner",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Kills_Exterminator",
@@ -1492,7 +1497,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "Kills_Streak",
@@ -1739,21 +1744,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2751,
+      "Progressed": 2752,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2751,
+      "Progressed": 2752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:07:15.3716573+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:07:12.8879179+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:59:10.3720087+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:07:15.3717179+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:59:01.6568248+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:07:12.8879906+00:00"
 }

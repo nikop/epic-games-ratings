@@ -5,18 +5,18 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 7.00% | ~19,177 |
-| Grappling with a Graphorn | 6.00% | ~16,437 |
-| The One Who Mastered Memories | 6.00% | ~16,437 |
-| The Hallowed Hero | 6.00% | ~16,437 |
-| The Hero of Hogwarts | 6.00% | ~16,437 |
-| The Defender of Dragons | 6.00% | ~16,437 |
-| A Keen Sense of Spell | 6.00% | ~16,437 |
-| Loom for Improvement | 6.00% | ~16,437 |
-| Coasting Along | 6.00% | ~16,437 |
-| First Class Student | 6.00% | ~16,437 |
-| Troll with the Punches | 6.00% | ~16,437 |
-| That's a Keeper | 6.00% | ~16,437 |
+| The Sort Who Makes an Entrance | 7.00% | ~19,178 |
+| Grappling with a Graphorn | 6.00% | ~16,438 |
+| The One Who Mastered Memories | 6.00% | ~16,438 |
+| The Hallowed Hero | 6.00% | ~16,438 |
+| The Hero of Hogwarts | 6.00% | ~16,438 |
+| The Defender of Dragons | 6.00% | ~16,438 |
+| A Keen Sense of Spell | 6.00% | ~16,438 |
+| Loom for Improvement | 6.00% | ~16,438 |
+| Coasting Along | 6.00% | ~16,438 |
+| First Class Student | 6.00% | ~16,438 |
+| Troll with the Punches | 6.00% | ~16,438 |
+| That's a Keeper | 6.00% | ~16,438 |
 | The Avenging Gazelle | 5.00% | ~13,698 |
 | Beast Friends | 5.00% | ~13,698 |
 | A Sallow Grave | 5.00% | ~13,698 |
@@ -26,7 +26,7 @@ Rating: 4.77 (Ranked 105)
 | Followed the Butterflies | 5.00% | ~13,698 |
 | The Spell Master | 5.00% | ~13,698 |
 | Rising From the Ashes | 5.00% | ~13,698 |
-| The Seeker of Knowledge | 4.00% | ~10,958 |
+| The Seeker of Knowledge | 4.00% | ~10,959 |
 | The Root of the Problem | 3.00% | ~8,219 |
 | Third Time's a Charm | 3.00% | ~8,219 |
 | Room with a View | 3.00% | ~8,219 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,096 |
 | Collector's Edition | 0.20% | ~548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273,958 (Ranked 39)  
+Progressed: 273,969 (Ranked 39)  
 Completed: 377 (0.14%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,18 +90,18 @@ Completed: 377 (0.14%) (Ranked 152)
 | 2023-05-26 | 272,827 | 374 |
 | 2023-05-27 | 273,323 | 376 |
 | 2023-05-28 | 273,796 | 377 |
-| 2023-05-29 | 273,958 | 377 |
+| 2023-05-29 | 273,969 | 377 |
 ## Awards
 Max (Character Customization): 19,274  (Ranked 18)  
-Sum: 35,547 (Ranked 33)  
+Sum: 35,551 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 19,274 |
 | This game has Great Boss Battles | 9,094 |
 | This game is Great for Beginners | 791 |
+| This game is Relaxing | 790 |
 | This game is Extremely Fun | 788 |
-| This game is Relaxing | 786 |
 | This game has Amazing Storytelling | 769 |
 | This game has Diverse Characters | 762 |
 | This game has Amazing Characters | 750 |
@@ -178,4 +178,4 @@ Diff (max vs sum): -15
 | 2023-05-26 | 4.77 | 19,190 | 35,361 |
 | 2023-05-27 | 4.77 | 19,220 | 35,444 |
 | 2023-05-28 | 4.77 | 19,274 | 35,543 |
-| 2023-05-29 | 4.77 | 19,274 | 35,547 |
+| 2023-05-29 | 4.77 | 19,274 | 35,551 |

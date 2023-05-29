@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1316,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -749,6 +749,11 @@
       "Time": "2023-05-29T11:07:16.8837791+00:00",
       "NumProgressed": 1316,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-29T12:07:14.343215+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -760,7 +765,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -816,7 +821,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -864,7 +869,7 @@
       "Name": "Sous Chef",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENTS_15",
@@ -872,7 +877,7 @@
       "Name": "Friendly",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1022,9 +1027,9 @@
       "ID": "ACHIEVEMENTS_34",
       "SetID": "d4o538a",
       "Name": "Moonbury Traveller",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 817
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -1063,7 +1068,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1316,
+      "Progressed": 1317,
       "Completed": 5
     }
   ],
@@ -1071,8 +1076,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:07:16.8837783+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:07:14.3432145+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:43.6449908+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:01:25.0846871+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:07:16.8838137+00:00"
+  "LastUpdate_Ratings": "2023-05-29T12:01:15.6910405+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:07:14.343251+00:00"
 }

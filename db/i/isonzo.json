@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5940,
+  "EOS_Progressed": 5941,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1750,6 +1750,11 @@
       "Time": "2023-05-29T11:01:54.3474508+00:00",
       "NumProgressed": 5940,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-29T12:01:46.359075+00:00",
+      "NumProgressed": 5941,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1777,7 +1782,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1817,7 +1822,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -1833,7 +1838,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -1929,7 +1934,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1969,7 +1974,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -2033,7 +2038,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -2105,7 +2110,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2120,7 +2125,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5940,
+      "Progressed": 5941,
       "Completed": 8
     }
   ],
@@ -2128,8 +2133,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:01:54.3474499+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:01:46.3590741+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:57:34.893267+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:01:54.3475412+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:57:28.7311665+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:01:46.3591246+00:00"
 }

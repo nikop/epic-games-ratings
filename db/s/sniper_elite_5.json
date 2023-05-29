@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1789,
+  "EOS_Progressed": 1790,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1814,6 +1814,11 @@
       "Time": "2023-05-29T10:05:29.6503628+00:00",
       "NumProgressed": 1789,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T12:06:52.2255988+00:00",
+      "NumProgressed": 1790,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1895,9 +1900,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -2087,9 +2092,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2151,9 +2156,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -2167,17 +2172,17 @@
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -2217,7 +2222,7 @@
       "Name": "Target America",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2392,13 +2397,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1740,
+      "Progressed": 1741,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1789,
+      "Progressed": 1790,
       "Completed": 2
     }
   ],
@@ -2406,8 +2411,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:06:54.9926821+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:06:52.2255983+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:01:35.8115156+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:06:54.9927583+00:00"
+  "LastUpdate_Ratings": "2023-05-29T12:01:25.9227656+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:06:52.2256896+00:00"
 }

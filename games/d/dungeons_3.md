@@ -1,59 +1,59 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.65 (Ranked 294)  
+Rating: 4.65 (Ranked 295)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~12,680 |
-| The Evilest Evil | 59.00% | ~10,688 |
-| Twistram is devastated | 58.00% | ~10,507 |
-| The Gehenna Stones | 51.00% | ~9,239 |
-| No one has to die today! | 47.00% | ~8,514 |
-| Death and destruction! | 46.00% | ~8,333 |
-| The Swamplanders from the swamplands | 45.00% | ~8,152 |
-| The One-Huge-Army-Building Evil | 42.00% | ~7,608 |
-| Rusty Steel | 42.00% | ~7,608 |
-| The last burger | 39.00% | ~7,065 |
-| Braiiiiins! | 38.00% | ~6,884 |
-| Hands off the Dungeonheart! | 37.00% | ~6,703 |
-| A trip on sea, what fun it can be | 36.00% | ~6,521 |
-| Damned good | 34.00% | ~6,159 |
-| Stock Market Crash | 33.00% | ~5,978 |
-| Factory farming | 33.00% | ~5,978 |
-| Not-So-Overproud | 31.00% | ~5,616 |
-| For a handfull of Catapults | 30.00% | ~5,434 |
-| Thirst quencher | 29.00% | ~5,253 |
-| Ogre Solo! | 29.00% | ~5,253 |
-| Shadow hunter | 29.00% | ~5,253 |
-| Tide Master | 28.00% | ~5,072 |
-| Destroy the thing | 27.00% | ~4,891 |
-| Difficult family relationships | 26.00% | ~4,710 |
-| Angel of Fire | 26.00% | ~4,710 |
-| MASS-O-BOT | 25.00% | ~4,529 |
-| Prepare the grave | 25.00% | ~4,529 |
-| Where there is Light, there is Shadow | 25.00% | ~4,529 |
-| At the foot of Mount Destiny | 24.00% | ~4,348 |
-| The Force disturbed | 22.00% | ~3,985 |
-| The Victorious Evil | 21.00% | ~3,804 |
-| Chorus of damnation | 20.00% | ~3,623 |
-| We don’t have time! | 20.00% | ~3,623 |
-| The Stones’ Power | 18.00% | ~3,261 |
-| Flat as a pancake | 18.00% | ~3,261 |
-| Lifeguard | 18.00% | ~3,261 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,898 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,355 |
-| Then let them eat cake! | 13.00% | ~2,355 |
+| The Shadow strikes | 70.00% | ~12,685 |
+| The Evilest Evil | 59.00% | ~10,691 |
+| Twistram is devastated | 58.00% | ~10,510 |
+| The Gehenna Stones | 51.00% | ~9,242 |
+| No one has to die today! | 47.00% | ~8,517 |
+| Death and destruction! | 46.00% | ~8,336 |
+| The Swamplanders from the swamplands | 45.00% | ~8,154 |
+| The One-Huge-Army-Building Evil | 42.00% | ~7,611 |
+| Rusty Steel | 42.00% | ~7,611 |
+| The last burger | 39.00% | ~7,067 |
+| Braiiiiins! | 38.00% | ~6,886 |
+| Hands off the Dungeonheart! | 37.00% | ~6,705 |
+| A trip on sea, what fun it can be | 36.00% | ~6,524 |
+| Damned good | 34.00% | ~6,161 |
+| Stock Market Crash | 33.00% | ~5,980 |
+| Factory farming | 33.00% | ~5,980 |
+| Not-So-Overproud | 31.00% | ~5,618 |
+| For a handfull of Catapults | 30.00% | ~5,436 |
+| Thirst quencher | 29.00% | ~5,255 |
+| Ogre Solo! | 29.00% | ~5,255 |
+| Shadow hunter | 29.00% | ~5,255 |
+| Tide Master | 28.00% | ~5,074 |
+| Destroy the thing | 27.00% | ~4,893 |
+| Difficult family relationships | 26.00% | ~4,711 |
+| Angel of Fire | 26.00% | ~4,711 |
+| MASS-O-BOT | 25.00% | ~4,530 |
+| Prepare the grave | 25.00% | ~4,530 |
+| Where there is Light, there is Shadow | 25.00% | ~4,530 |
+| At the foot of Mount Destiny | 24.00% | ~4,349 |
+| The Force disturbed | 22.00% | ~3,987 |
+| The Victorious Evil | 21.00% | ~3,805 |
+| Chorus of damnation | 20.00% | ~3,624 |
+| We don’t have time! | 20.00% | ~3,624 |
+| The Stones’ Power | 18.00% | ~3,262 |
+| Flat as a pancake | 18.00% | ~3,262 |
+| Lifeguard | 18.00% | ~3,262 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,899 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,356 |
+| Then let them eat cake! | 13.00% | ~2,356 |
 | Please, no interruptions! | 11.00% | ~1,993 |
 | The White Knight | 10.00% | ~1,812 |
-| Use the terrain | 9.00% | ~1,630 |
-| Master of Traps | 9.00% | ~1,630 |
-| Ignore The Level Designer’s Plan | 9.00% | ~1,630 |
-| Can’t stand to see an Ogre bleed | 9.00% | ~1,630 |
-| Lifesaver | 9.00% | ~1,630 |
-| Prison Break | 9.00% | ~1,630 |
-| Hearts of Iron | 8.00% | ~1,449 |
+| Use the terrain | 9.00% | ~1,631 |
+| Master of Traps | 9.00% | ~1,631 |
+| Ignore The Level Designer’s Plan | 9.00% | ~1,631 |
+| Can’t stand to see an Ogre bleed | 9.00% | ~1,631 |
+| Lifesaver | 9.00% | ~1,631 |
+| Prison Break | 9.00% | ~1,631 |
+| Hearts of Iron | 8.00% | ~1,450 |
 | Spawner Killer | 7.00% | ~1,268 |
 | A little something extra | 7.00% | ~1,268 |
 | Hearts are trump | 7.00% | ~1,268 |
@@ -61,13 +61,13 @@ Number of Ratings: 1,635  (23.09.2022)
 | Band of Brothers | 5.00% | ~906 |
 | Night of the Living Dead (on Speed) | 4.00% | ~725 |
 | I need a hero! | 4.00% | ~725 |
-| Storm And Stress | 3.00% | ~543 |
-| I love the smell of Catapult fire! | 3.00% | ~543 |
+| Storm And Stress | 3.00% | ~544 |
+| I love the smell of Catapult fire! | 3.00% | ~544 |
 | Discoverer | 2.00% | ~362 |
 | Not a scratch | 2.00% | ~362 |
 | Sacrifices! | 2.00% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,115 (Ranked 97)  
+Progressed: 18,121 (Ranked 97)  
 Completed: 160 (0.88%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,16 +106,16 @@ Completed: 160 (0.88%) (Ranked 91)
 | 2023-05-26 | 17,685 | 157 |
 | 2023-05-27 | 17,875 | 159 |
 | 2023-05-28 | 18,068 | 159 |
-| 2023-05-29 | 18,115 | 160 |
+| 2023-05-29 | 18,121 | 160 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 219)  
-Sum: 2,543 (Ranked 164)  
+Sum: 2,544 (Ranked 164)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 324 |
 | This game is Extremely Fun | 307 |
-| This game has Quickly Understood Controls | 299 |
+| This game has Quickly Understood Controls | 300 |
 | This game is Highly Recommended | 284 |
 | This game has Amazing Storytelling | 284 |
 | This game has Amazing Characters | 280 |
@@ -237,3 +237,4 @@ Diff (max vs sum): 55
 | 2023-05-25 | 4.65 | - | 322 | 2,535 |
 | 2023-05-26 | 4.65 | - | 322 | 2,539 |
 | 2023-05-27 | 4.65 | - | 324 | 2,543 |
+| 2023-05-29 | 4.65 | - | 324 | 2,544 |

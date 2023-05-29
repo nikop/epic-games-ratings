@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 294,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -3440,9 +3440,9 @@
       "ID": "0027",
       "SetID": "2n2feee",
       "Name": "My Motto, My Creed",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1542
     },
     {
       "ID": "0028",
@@ -3529,8 +3529,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:07:10.4827761+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:07:07.8902954+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:00:28.688842+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:07:10.4828469+00:00"
+  "LastUpdate_Ratings": "2023-05-29T12:00:19.6074655+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:07:07.8903494+00:00"
 }

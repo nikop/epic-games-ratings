@@ -37,9 +37,9 @@ Rating: 4.24 (Ranked 793)
 | Corrupted Beauty | 11.00% | ~182 |
 | Triplets | 10.00% | ~166 |
 | Stimulating The Local Economy | 9.00% | ~149 |
+| A Little Banged Up | 8.00% | ~132 |
 | Denying Prophecy | 8.00% | ~132 |
 | Defense in Depth | 8.00% | ~132 |
-| A Little Banged Up | 7.00% | ~116 |
 | Reverse Engineering | 7.00% | ~116 |
 | Following In Their Footsteps | 7.00% | ~116 |
 | Turbo Booster | 6.00% | ~99 |

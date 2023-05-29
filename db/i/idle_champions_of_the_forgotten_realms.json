@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4000,10 +4000,10 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89099,
-  "EOS_Completed": 1895,
-  "EOS_NewPlayers": 808,
-  "EOS_NewCompleters": 33,
+  "EOS_Progressed": 89104,
+  "EOS_Completed": 1896,
+  "EOS_NewPlayers": 809,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -7850,6 +7850,11 @@
       "Time": "2023-05-29T11:07:26.3850296+00:00",
       "NumProgressed": 89099,
       "NumCompleted": 1895
+    },
+    {
+      "Time": "2023-05-29T12:07:24.0017451+00:00",
+      "NumProgressed": 89104,
+      "NumCompleted": 1896
     }
   ],
   "TotalAchievements": 493,
@@ -9541,7 +9546,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "objective_completed_35",
@@ -11797,28 +11802,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55373,
+      "Progressed": 55378,
       "Completed": 2735
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89099,
-      "Completed": 1895
+      "Progressed": 89104,
+      "Completed": 1896
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-29T07:58:02.2008463+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:07:26.385029+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:07:24.0017445+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:58:26.6033756+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:07:26.3878311+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:58:18.8016214+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:07:24.0052252+00:00"
 }

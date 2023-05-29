@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
     "PcReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "SMELTER_NUTORO_RUNE",
       "SetID": "1g58k92",
       "Name": "It\u0027s a Sign!",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SMELTER_NUTORO_UPGRADES",
@@ -487,8 +487,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:07:08.2218379+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:07:05.5603369+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2139919+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:59:32.7577215+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:07:08.2218827+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:59:21.9195541+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:07:05.5603805+00:00"
 }

@@ -1,30 +1,30 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 294)  
+Rating: 4.65 (Ranked 295)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~3,622 |
 | A Grove Replanted | 53.00% | ~3,428 |
-| Fields Watered | 41.00% | ~2,651 |
-| Seekers Found | 41.00% | ~2,651 |
-| Settling the Skies | 41.00% | ~2,651 |
+| Fields Watered | 41.00% | ~2,652 |
+| Seekers Found | 41.00% | ~2,652 |
+| Settling the Skies | 41.00% | ~2,652 |
 | Wind Powered | 40.00% | ~2,587 |
 | It Takes a Village | 34.00% | ~2,199 |
 | On the Town | 28.00% | ~1,811 |
-| Daylight Found | 26.00% | ~1,681 |
+| Daylight Found | 26.00% | ~1,682 |
 | Irons Scorched | 25.00% | ~1,617 |
 | Islands Connected | 25.00% | ~1,617 |
-| Harp Tuned | 23.00% | ~1,487 |
-| Pyre Ignited | 23.00% | ~1,487 |
-| Travelers Returned | 23.00% | ~1,487 |
+| Harp Tuned | 23.00% | ~1,488 |
+| Pyre Ignited | 23.00% | ~1,488 |
+| Travelers Returned | 23.00% | ~1,488 |
 | Hopes Hoisted | 22.00% | ~1,423 |
-| Knowledge Shared | 20.00% | ~1,293 |
-| Relic Finder | 20.00% | ~1,293 |
+| Knowledge Shared | 20.00% | ~1,294 |
+| Relic Finder | 20.00% | ~1,294 |
 | Worthy of the Title | 19.00% | ~1,229 |
-| A Peaceful Respite | 14.00% | ~905 |
+| A Peaceful Respite | 14.00% | ~906 |
 | Prophecy Fulfilled | 13.00% | ~841 |
 | A Learned Scholar | 12.00% | ~776 |
 | A Wanderer’s Guide | 11.00% | ~711 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~129 |
 | A True Challenge | 2.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,467 (Ranked 117)  
+Progressed: 6,468 (Ranked 117)  
 Completed: 51 (0.79%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 51 (0.79%) (Ranked 95)
 | 2023-05-26 | 6,449 | 51 |
 | 2023-05-27 | 6,454 | 51 |
 | 2023-05-28 | 6,464 | 51 |
-| 2023-05-29 | 6,467 | 51 |
+| 2023-05-29 | 6,468 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

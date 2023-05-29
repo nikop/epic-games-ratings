@@ -7,7 +7,7 @@ Number of Ratings: 71  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | "Nice" to meet you | 76.00% | ~824 |
-| Freeze to death | 56.00% | ~607 |
+| Freeze to death | 57.00% | ~618 |
 | Is she really dead? | 46.00% | ~499 |
 | Screwdriver | 44.00% | ~477 |
 | Cutepie | 42.00% | ~455 |

@@ -63,19 +63,19 @@
 | Ancient Ruins of Misplaced Belongings | 3.00% | ~2 |
 | Ancient Ruins of Inadequate Opportunities | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
+| Ancient Ruins of Stubbed Toes | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
 | My name is Whoopass, SIR Whoopass! | 3.00% | ~2 |
 | European karaoke king | 3.00% | ~2 |
+| Out of bounds | 3.00% | ~2 |
 | Fifty Shades of Gruyere | 2.00% | ~1 |
 | Ancient Ruins of Vitamin D Addition | 2.00% | ~1 |
 | Ancient Ruins of Imperfectly Designed Walls | 2.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~1 |
 | Ancient Ruins of Poor Intrusion Prevention | 2.00% | ~1 |
-| Ancient Ruins of Stubbed Toes | 2.00% | ~1 |
 | Ancient Ruins of Chilly Winds | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
-| Out of bounds | 2.00% | ~1 |
 | Ancient Ruins of Empty Echoes | 0.00% | ~0 |
 | Ancient Ruins of Peekaboo | 0.00% | ~0 |
 | Ancient Ruins of Leaky Roof | 0.00% | ~0 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 290)  
+Progressed: 65 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

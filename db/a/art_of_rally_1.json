@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10052,
+  "EOS_Progressed": 10053,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -621,6 +621,11 @@
       "Time": "2023-05-29T07:06:02.9868742+00:00",
       "NumProgressed": 10052,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-29T12:06:40.7746586+00:00",
+      "NumProgressed": 10053,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -656,7 +661,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -736,7 +741,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -752,7 +757,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -792,7 +797,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7741
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -840,7 +845,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5629
+      "UsersEstimate": 5630
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -856,7 +861,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9650
+      "UsersEstimate": 9651
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -968,22 +973,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7237
+      "UsersEstimate": 7238
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10052,
+      "Progressed": 10053,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:06:43.3810248+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:06:40.774658+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.9775265+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:57:37.1313636+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:06:43.3810835+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:57:31.1037039+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:06:40.7747011+00:00"
 }

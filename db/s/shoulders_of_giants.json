@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2076,
+  "EOS_Progressed": 2077,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -891,6 +891,11 @@
       "Time": "2023-05-29T05:05:34.4244387+00:00",
       "NumProgressed": 2076,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-29T12:07:06.3189195+00:00",
+      "NumProgressed": 2077,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -934,7 +939,7 @@
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "complete_tutorial",
@@ -942,7 +947,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "deal_damage",
@@ -966,7 +971,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "fail_planet",
@@ -974,7 +979,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "piercing_beam",
@@ -990,7 +995,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "reach_high_heat",
@@ -1006,7 +1011,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1014,7 +1019,7 @@
       "Name": "Do you trust me?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "save_planet_coop",
@@ -1022,7 +1027,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "stick_decoy",
@@ -1038,7 +1043,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "trash_truck",
@@ -1053,7 +1058,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2076,
+      "Progressed": 2077,
       "Completed": 8
     }
   ],
@@ -1061,8 +1066,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:07:08.7963837+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:07:06.3189191+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:38.8014549+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:01:16.5421098+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:07:08.7964035+00:00"
+  "LastUpdate_Ratings": "2023-05-29T12:01:07.4561309+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:07:06.3189372+00:00"
 }

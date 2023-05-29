@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Don't Touch My Gems! | 97.00% | ~151 |
 | On the Crest of a Wave | 96.00% | ~150 |
-| Foreman of Darkness | 94.00% | ~147 |
+| Foreman of Darkness | 95.00% | ~148 |
 | Brilliant Day | 93.00% | ~145 |
 | Evil Genius | 87.00% | ~136 |
 | Air Defense | 84.00% | ~131 |

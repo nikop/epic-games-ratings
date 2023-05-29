@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2613,
+  "EOS_Progressed": 2614,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1985,6 +1985,11 @@
       "Time": "2023-05-29T11:03:46.8512975+00:00",
       "NumProgressed": 2613,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T12:03:57.166517+00:00",
+      "NumProgressed": 2614,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2004,7 +2009,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "11",
@@ -2036,7 +2041,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "15",
@@ -2076,7 +2081,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 11,
       "XP": 85,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "2",
@@ -2187,13 +2192,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2613,
+      "Progressed": 2614,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:03:46.8512965+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:03:57.1665165+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:59:35.8934091+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:03:46.8513462+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:59:25.0817282+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:03:57.1665466+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -880,9 +880,9 @@
       "ID": "MissionTemple",
       "SetID": "a6c395p",
       "Name": "Disruption",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 405
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -928,9 +928,9 @@
       "ID": "RiteOfTheHunt",
       "SetID": "a6c395p",
       "Name": "Huntress",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 487
     },
     {
       "ID": "RiteOfTheStar",
@@ -952,9 +952,9 @@
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 405
     },
     {
       "ID": "VisitAllLocations",
@@ -984,8 +984,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:07:18.7124453+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:07:16.2072805+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:00:56.1068404+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:07:18.7125056+00:00"
+  "LastUpdate_Ratings": "2023-05-29T12:00:46.6454225+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:07:16.2073237+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -759,9 +759,9 @@
       "ID": "ACH012",
       "SetID": "69nfp41",
       "Name": "3, 2, 1, mine",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH013",
@@ -1071,8 +1071,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:06:58.6987961+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:06:56.1537429+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.2461574+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:58:57.0569907+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:06:58.6988669+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:58:48.8026066+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:06:56.1537905+00:00"
 }

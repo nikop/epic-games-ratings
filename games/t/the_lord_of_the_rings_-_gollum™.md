@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 58.00% | ~198 |
+| The Wraith | 59.00% | ~201 |
 | Collectibles Part 1 | 48.00% | ~164 |
 | Welcome to Mordor! | 47.00% | ~160 |
 | Wait! Wait! Not yet! | 30.00% | ~102 |
@@ -20,8 +20,8 @@
 | Her Eyes | 3.00% | ~10 |
 | Murderer | 3.00% | ~10 |
 | Trigger-Happy | 3.00% | ~10 |
+| The Friend | 2.00% | ~7 |
 | Gollum/Sméagol | 2.00% | ~7 |
-| The Friend | 1.00% | ~3 |
 | Master of the Old Game | 1.00% | ~3 |
 | So Silly! | 1.00% | ~3 |
 | Break a Leg! | 0.90% | ~3 |

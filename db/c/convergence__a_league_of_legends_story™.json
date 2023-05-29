@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -620,9 +620,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 229
     },
     {
       "ID": "ClockworkCompletion1",
@@ -828,9 +828,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     },
     {
       "ID": "ParryBoss",
@@ -868,9 +868,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     },
     {
       "ID": "RewindDamage1",
@@ -884,9 +884,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 259
     },
     {
       "ID": "ScrambotCompletion1",
@@ -996,9 +996,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1019,8 +1019,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:05:48.9458574+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:05:47.4177979+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T11:00:13.1930699+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:05:48.9459411+00:00"
+  "LastUpdate_Ratings": "2023-05-29T12:00:02.5948976+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:05:47.4178473+00:00"
 }

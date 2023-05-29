@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1568,
+  "EOS_Progressed": 1569,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2023-05-28T16:03:25.1081716+00:00",
       "NumProgressed": 1568,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-29T12:04:32.6958445+00:00",
+      "NumProgressed": 1569,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -295,7 +300,7 @@
       "Name": "Resignation Reprise.",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
@@ -342,7 +347,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1568,
+      "Progressed": 1569,
       "Completed": 25
     }
   ],
@@ -350,8 +355,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:04:32.6767861+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:04:32.6958438+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.2009842+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:58:02.3376213+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:04:32.6768029+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:57:55.1861748+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:04:32.6958553+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -453,9 +453,9 @@
       "ID": "COMPLETE_DUNGEONRUINS_01",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Stubbed Toes",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_DUNGEONRUINS_02",
@@ -877,9 +877,9 @@
       "ID": "OUT_OF_BOUNDS",
       "SetID": "9gfkh7c",
       "Name": "Out of bounds",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SHARK",
@@ -948,8 +948,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:06:56.3826858+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:06:53.6529787+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:57:17.7488817+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:06:56.3827785+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:57:12.0694401+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:06:53.6530899+00:00"
 }

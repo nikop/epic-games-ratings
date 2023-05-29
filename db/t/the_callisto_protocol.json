@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13956,
+  "EOS_Progressed": 13960,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1994,6 +1994,11 @@
       "Time": "2023-05-29T11:04:23.3774668+00:00",
       "NumProgressed": 13956,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T12:04:23.4582291+00:00",
+      "NumProgressed": 13960,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2035,9 +2040,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1256
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2133,7 +2138,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "KILL_ROBOT",
@@ -2195,9 +2200,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 977
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2237,7 +2242,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2293,7 +2298,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2324,13 +2329,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13956,
+      "Progressed": 13960,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1882,
+      "Progressed": 1886,
       "Completed": 29
     }
   ],
@@ -2338,8 +2343,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T11:04:23.3774659+00:00",
+  "LastChanged_Achievements": "2023-05-29T12:04:23.4582286+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:58:12.0673868+00:00",
-  "LastUpdate_Achievements": "2023-05-29T11:04:23.377533+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:58:04.0428024+00:00",
+  "LastUpdate_Achievements": "2023-05-29T12:04:23.4582781+00:00"
 }

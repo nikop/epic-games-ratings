@@ -1,24 +1,24 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.65 (Ranked 294)  
+Rating: 4.65 (Ranked 295)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,083 |
-| Greasy Palms | 39.00% | ~2,796 |
-| South American Connection | 23.00% | ~1,649 |
-| Life of the Party | 17.00% | ~1,219 |
-| Tommy Two-Wheels | 13.00% | ~932 |
-| Big Heat from Little Havana | 12.00% | ~860 |
-| Chauffeur | 12.00% | ~860 |
-| Iron-y | 9.00% | ~645 |
-| Salutations My Little Friend | 9.00% | ~645 |
+| Legal Counsel | 43.00% | ~3,085 |
+| Greasy Palms | 39.00% | ~2,798 |
+| South American Connection | 23.00% | ~1,650 |
+| Life of the Party | 17.00% | ~1,220 |
+| Tommy Two-Wheels | 13.00% | ~933 |
+| Big Heat from Little Havana | 12.00% | ~861 |
+| Chauffeur | 12.00% | ~861 |
+| Iron-y | 9.00% | ~646 |
+| Salutations My Little Friend | 9.00% | ~646 |
 | Gun for Hire | 7.00% | ~502 |
 | Mischief Managed | 7.00% | ~502 |
 | Vice City Mogul | 6.00% | ~430 |
-| Catch Me if You Can | 5.00% | ~358 |
-| Bloodstained Hands | 5.00% | ~358 |
+| Catch Me if You Can | 5.00% | ~359 |
+| Bloodstained Hands | 5.00% | ~359 |
 | Not my First Time | 4.00% | ~287 |
 | Grand Theft Auto | 4.00% | ~287 |
 | High Quality H2O | 3.00% | ~215 |
@@ -40,7 +40,7 @@ Rating: 4.65 (Ranked 294)
 | Done it All | 0.60% | ~43 |
 | Kingpin | 0.30% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,170 (Ranked 113)  
+Progressed: 7,174 (Ranked 113)  
 Completed: 24 (0.33%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 24 (0.33%) (Ranked 120)
 | 2023-05-26 | 6,919 | 23 |
 | 2023-05-27 | 7,028 | 24 |
 | 2023-05-28 | 7,140 | 24 |
-| 2023-05-29 | 7,170 | 24 |
+| 2023-05-29 | 7,174 | 24 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 411)  
 Sum: 40 (Ranked 445)  

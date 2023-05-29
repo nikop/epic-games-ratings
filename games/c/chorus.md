@@ -19,12 +19,12 @@ Number of Ratings: 58  (23.09.2022)
 | Full Arsenal | 58.00% | ~523 |
 | Controlled Demolition | 56.00% | ~505 |
 | Payback | 54.00% | ~487 |
+| Huntress | 54.00% | ~487 |
 | Born to Drift | 53.00% | ~478 |
-| Huntress | 53.00% | ~478 |
 | Relentless | 49.00% | ~441 |
 | The Path Forward | 46.00% | ~414 |
-| Disruption | 44.00% | ~396 |
-| Phoenix | 44.00% | ~396 |
+| Disruption | 45.00% | ~405 |
+| Phoenix | 45.00% | ~405 |
 | Cult Slayer | 42.00% | ~378 |
 | Origin | 40.00% | ~360 |
 | It Was An Accident | 40.00% | ~360 |

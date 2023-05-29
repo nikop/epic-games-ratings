@@ -12,13 +12,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.60% | ~535 |
 | The Mad Wizard | 0.60% | ~535 |
 | Beware the Jabberwock | 0.60% | ~332 |
-| The Ring of Regeneration | 0.50% | ~445 |
+| The Ring of Regeneration | 0.50% | ~446 |
 | Coasting to the Finish | 0.50% | ~277 |
 | Were-verpowered | 0.40% | ~356 |
 | Seeking Allies | 0.40% | ~356 |
 | Are Ya Chicken? | 0.40% | ~356 |
 | Friendly Imps | 0.40% | ~356 |
-| Quick or Quack | 0.40% | ~221 |
+| Quick or Quack | 0.40% | ~222 |
 | Owlbear Necessities | 0.30% | ~166 |
 | Best Thay Ever | 0.30% | ~166 |
 | Checkmate | 0.30% | ~166 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,099 (Ranked 61)  
-Completed: 1,895 (2.13%) (Ranked 63)  
+Progressed: 89,104 (Ranked 61)  
+Completed: 1,896 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -539,7 +539,7 @@ Completed: 1,895 (2.13%) (Ranked 63)
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
-| 2023-05-29 | 89,099 | 1,895 |
+| 2023-05-29 | 89,104 | 1,896 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,997 (Ranked 37)  
