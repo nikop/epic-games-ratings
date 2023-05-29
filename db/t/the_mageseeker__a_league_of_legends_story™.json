@@ -2239,9 +2239,9 @@
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 728
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2448,8 +2448,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:05:30.8363908+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:06:56.5678045+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:57:41.3474101+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:05:30.8364484+00:00"
+  "LastUpdate_Ratings": "2023-05-29T10:57:53.5093712+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:06:56.5678848+00:00"
 }

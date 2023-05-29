@@ -31,8 +31,8 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 18.00% | ~53 |
 | Bullseye! | 18.00% | ~53 |
 | Collectibles of Chapter III | 16.00% | ~47 |
+| Collectibles of Chapter IV | 15.00% | ~44 |
 | Sorrow | 15.00% | ~44 |
-| Collectibles of Chapter IV | 14.00% | ~41 |
 | Atonement | 14.00% | ~41 |
 | Without a Second Thought | 12.00% | ~36 |
 | Helping Hand | 11.00% | ~33 |

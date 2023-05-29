@@ -4,7 +4,7 @@
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:05:47.1853388+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:07:17.856298+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:33.8833471+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:59:56.762888+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:05:47.1853781+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:01:10.8933095+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:07:17.8563382+00:00"
 }

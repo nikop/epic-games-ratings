@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 62.00% | ~184 |
-| Read Between The Lines | 61.00% | ~181 |
-| High Profile | 54.00% | ~160 |
-| Whispers In The Dark | 52.00% | ~154 |
+| To Hell In A Handcart | 62.00% | ~185 |
+| Read Between The Lines | 61.00% | ~182 |
+| High Profile | 54.00% | ~161 |
+| Whispers In The Dark | 52.00% | ~155 |
 | Fond Memories | 47.00% | ~140 |
 | History Check | 45.00% | ~134 |
 | A Method To His Madness | 45.00% | ~134 |
@@ -28,13 +28,13 @@
 | Let Me Be Frank | 31.00% | ~92 |
 | Brain Food | 29.00% | ~86 |
 | No Stone Unturned | 28.00% | ~83 |
-| Curiosity Killed The Cat | 18.00% | ~53 |
-| Read It And Weep | 18.00% | ~53 |
-| Big Breakthrough | 17.00% | ~50 |
+| Curiosity Killed The Cat | 18.00% | ~54 |
+| Read It And Weep | 18.00% | ~54 |
+| Big Breakthrough | 17.00% | ~51 |
 | Reawakened | 6.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 221)  
-Completed: 13 (4.38%) (Ranked 33)  
+Progressed: 298 (Ranked 221)  
+Completed: 13 (4.36%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,7 +69,7 @@ Completed: 13 (4.38%) (Ranked 33)
 | 2023-05-26 | 257 | 12 |
 | 2023-05-27 | 271 | 12 |
 | 2023-05-28 | 293 | 13 |
-| 2023-05-29 | 297 | 13 |
+| 2023-05-29 | 298 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

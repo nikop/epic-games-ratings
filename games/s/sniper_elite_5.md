@@ -7,7 +7,7 @@ Rating: 4.42 (Ranked 651)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 22.00% | ~394 |
 | Confirming Suspicions | 17.00% | ~304 |
-| The Kraken Wakes | 12.00% | ~215 |
+| The Kraken Wakes | 13.00% | ~233 |
 | It's Starting to Crack | 10.00% | ~179 |
 | Lord of War | 9.00% | ~161 |
 | Resourceful | 8.00% | ~143 |
@@ -15,9 +15,9 @@ Rating: 4.42 (Ranked 651)
 | Enemy at the Gates | 6.00% | ~107 |
 | Just a Flesh Wound | 6.00% | ~107 |
 | Organ Grinder | 6.00% | ~107 |
+| Explosive Efficiency | 6.00% | ~107 |
 | As Quiet as a Mouse | 6.00% | ~107 |
 | Taking it back | 6.00% | ~107 |
-| Explosive Efficiency | 5.00% | ~89 |
 | Target America | 5.00% | ~89 |
 | Opposing Force | 4.00% | ~72 |
 | Gunslinger | 4.00% | ~72 |

@@ -15,12 +15,12 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Hydromancer | 73.00% | ~46,954 |
 | The Matriarch | 70.00% | ~45,025 |
 | The Aeromancer | 66.00% | ~42,452 |
+| The Venomancer | 66.00% | ~42,452 |
 | The Huntsman | 65.00% | ~41,809 |
-| The Venomancer | 65.00% | ~41,809 |
 | Dawnlight Order | 64.00% | ~41,165 |
 | The Electromancer | 61.00% | ~39,236 |
 | The Terramancer | 59.00% | ~37,949 |
-| The Exalted | 56.00% | ~36,020 |
+| The Exalted | 57.00% | ~36,663 |
 | Sheriff Inquisitors | 55.00% | ~35,377 |
 | Blueheart Runners | 54.00% | ~34,733 |
 | The Necromancer | 52.00% | ~33,447 |

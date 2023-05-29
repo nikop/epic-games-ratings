@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.38,
+  "EOS_Completed_Percentage": 4.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -779,6 +779,11 @@
       "Time": "2023-05-29T09:03:18.8025708+00:00",
       "NumProgressed": 297,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-29T11:04:13.6970129+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -790,7 +795,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "MQ01_2",
@@ -798,7 +803,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "MQ02_1",
@@ -806,7 +811,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "MQ02_2",
@@ -814,7 +819,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MQ02_3",
@@ -822,7 +827,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MQ02_4",
@@ -830,7 +835,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "MQ03_1",
@@ -966,7 +971,7 @@
       "Name": "Read It And Weep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MQ07_2",
@@ -1013,7 +1018,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 13
     }
   ],
@@ -1021,8 +1026,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:03:37.8361112+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:04:13.697012+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:57:22.1454296+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:03:37.8361352+00:00"
+  "LastUpdate_Ratings": "2023-05-29T10:57:23.3807199+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:04:13.6970531+00:00"
 }

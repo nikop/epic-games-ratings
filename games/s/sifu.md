@@ -7,18 +7,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~618 |
-| Project Arena | 3.00% | ~463 |
-| The Old Grandmaster | 1.00% | ~7,061 |
-| The Assault | 1.00% | ~7,061 |
-| The Hateful Pole Fighter | 1.00% | ~7,061 |
-| A Lady's Blood in the Snow | 1.00% | ~7,061 |
-| Life is your teacher | 1.00% | ~7,061 |
-| State of constant learning | 1.00% | ~7,061 |
-| Qi Gong: Breath | 1.00% | ~7,061 |
-| Lightning Hands | 1.00% | ~7,061 |
-| Rumble in the Hangar | 1.00% | ~7,061 |
-| Bloody Sport | 1.00% | ~154 |
-| The best strikes are the ones we avoid | 1.00% | ~154 |
+| Project Arena | 3.00% | ~464 |
+| The Old Grandmaster | 1.00% | ~7,062 |
+| The Assault | 1.00% | ~7,062 |
+| The Hateful Pole Fighter | 1.00% | ~7,062 |
+| A Lady's Blood in the Snow | 1.00% | ~7,062 |
+| Life is your teacher | 1.00% | ~7,062 |
+| State of constant learning | 1.00% | ~7,062 |
+| Qi Gong: Breath | 1.00% | ~7,062 |
+| Lightning Hands | 1.00% | ~7,062 |
+| Rumble in the Hangar | 1.00% | ~7,062 |
+| Bloody Sport | 1.00% | ~155 |
+| The best strikes are the ones we avoid | 1.00% | ~155 |
 | Lady Wing Chun | 0.90% | ~6,355 |
 | Kill Nil | 0.90% | ~6,355 |
 | Street Fighting | 0.90% | ~6,355 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,143 (Ranked 15)  
+Progressed: 706,154 (Ranked 15)  
 Completed: 12,743 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 12,743 (1.80%) (Ranked 65)
 | 2023-05-26 | 705,511 | 12,736 |
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
-| 2023-05-29 | 706,143 | 12,743 |
+| 2023-05-29 | 706,154 | 12,743 |
 ## Awards
 Max (Great Boss Battles): 6,108  (Ranked 53)  
 Sum: 10,406 (Ranked 77)  

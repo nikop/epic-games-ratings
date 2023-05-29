@@ -6,41 +6,41 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,898 |
-| Say goodbye, creep! | 65.00% | ~27,623 |
-| Blood splattered | 65.00% | ~27,623 |
-| Choo choo! | 62.00% | ~26,348 |
-| Groovy | 61.00% | ~25,923 |
-| Cleanup on aisle 4! | 56.00% | ~23,798 |
-| Gold | 50.00% | ~21,248 |
-| The boat can leave now...tell the crew | 48.00% | ~20,399 |
-| Give me something to shoot! | 46.00% | ~19,549 |
-| Stand back boy! | 46.00% | ~19,549 |
-| Weird science | 44.00% | ~18,699 |
-| Chain reaction | 44.00% | ~18,699 |
-| Look mummy! A shark! | 41.00% | ~17,424 |
-| What did you say, Blain? | 41.00% | ~17,424 |
-| In the dark dark woods... | 38.00% | ~16,149 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,149 |
-| Double tap | 36.00% | ~15,299 |
-| Cranial blowout! | 36.00% | ~15,299 |
-| Zombie killin' machine | 36.00% | ~15,299 |
-| Every bullet counts | 36.00% | ~15,299 |
-| All of this has happened before… | 35.00% | ~14,874 |
-| You've got red on you | 34.00% | ~14,449 |
-| All roads lead to Rome | 33.00% | ~14,024 |
-| You're all going to die down here | 31.00% | ~13,174 |
-| He did Nazi that coming | 31.00% | ~13,174 |
-| Kill of the week | 31.00% | ~13,174 |
-| I never liked them anyway | 30.00% | ~12,749 |
-| Is it over? | 28.00% | ~11,899 |
-| Got your back | 27.00% | ~11,474 |
-| Gore soaked | 24.00% | ~10,199 |
-| Shock therapy | 22.00% | ~9,349 |
-| Leave the limbs you've lost | 22.00% | ~9,349 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,649 |
-| Take them down screaming | 18.00% | ~7,649 |
-| Weapons expert | 17.00% | ~7,224 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,899 |
+| Say goodbye, creep! | 65.00% | ~27,624 |
+| Blood splattered | 65.00% | ~27,624 |
+| Choo choo! | 62.00% | ~26,349 |
+| Groovy | 61.00% | ~25,924 |
+| Cleanup on aisle 4! | 56.00% | ~23,799 |
+| Gold | 50.00% | ~21,250 |
+| The boat can leave now...tell the crew | 48.00% | ~20,400 |
+| Give me something to shoot! | 46.00% | ~19,550 |
+| Stand back boy! | 46.00% | ~19,550 |
+| Weird science | 44.00% | ~18,700 |
+| Chain reaction | 44.00% | ~18,700 |
+| Look mummy! A shark! | 41.00% | ~17,425 |
+| What did you say, Blain? | 41.00% | ~17,425 |
+| In the dark dark woods... | 38.00% | ~16,150 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,150 |
+| Double tap | 36.00% | ~15,300 |
+| Cranial blowout! | 36.00% | ~15,300 |
+| Zombie killin' machine | 36.00% | ~15,300 |
+| Every bullet counts | 36.00% | ~15,300 |
+| All of this has happened before… | 35.00% | ~14,875 |
+| You've got red on you | 34.00% | ~14,450 |
+| All roads lead to Rome | 33.00% | ~14,025 |
+| You're all going to die down here | 31.00% | ~13,175 |
+| He did Nazi that coming | 31.00% | ~13,175 |
+| Kill of the week | 31.00% | ~13,175 |
+| I never liked them anyway | 30.00% | ~12,750 |
+| Is it over? | 28.00% | ~11,900 |
+| Got your back | 27.00% | ~11,475 |
+| Gore soaked | 24.00% | ~10,200 |
+| Shock therapy | 22.00% | ~9,350 |
+| Leave the limbs you've lost | 22.00% | ~9,350 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,650 |
+| Take them down screaming | 18.00% | ~7,650 |
+| Weapons expert | 17.00% | ~7,225 |
 | Bad Blood | 16.00% | ~6,800 |
 | The bigger they are... | 15.00% | ~6,375 |
 | I'm going deeper underground | 14.00% | ~5,950 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~425 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,497 (Ranked 81)  
+Progressed: 42,499 (Ranked 81)  
 Completed: 25 (0.06%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 25 (0.06%) (Ranked 174)
 | 2023-05-26 | 42,433 | 25 |
 | 2023-05-27 | 42,457 | 25 |
 | 2023-05-28 | 42,489 | 25 |
-| 2023-05-29 | 42,497 | 25 |
+| 2023-05-29 | 42,499 | 25 |
 ## Awards
 Max (Great Boss Battles): 776  (Ranked 147)  
 Sum: 2,378 (Ranked 168)  

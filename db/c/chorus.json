@@ -704,9 +704,9 @@
       "ID": "MasteryOfCombat",
       "SetID": "a6c395p",
       "Name": "Mastery of Combat",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 198
     },
     {
       "ID": "MasteryOfRites",
@@ -800,9 +800,9 @@
       "ID": "MissionHeartOfTheFaceless",
       "SetID": "a6c395p",
       "Name": "Disciple",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 270
     },
     {
       "ID": "MissionHelios",
@@ -984,8 +984,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:05:47.9440652+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:07:18.7124453+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:59:46.1054038+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:05:47.9441026+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:00:56.1068404+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:07:18.7125056+00:00"
 }

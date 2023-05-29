@@ -34,11 +34,11 @@ Number of Ratings: 58  (23.09.2022)
 | The Nameless Dread | 34.00% | ~306 |
 | Mastery of Weapons | 30.00% | ~270 |
 | Time to Spear | 30.00% | ~270 |
-| Disciple | 29.00% | ~261 |
+| Disciple | 30.00% | ~270 |
 | Two Birds | 26.00% | ~234 |
 | Ghosts | 25.00% | ~225 |
 | Uneasy Alliance | 24.00% | ~216 |
-| Mastery of Combat | 21.00% | ~189 |
+| Mastery of Combat | 22.00% | ~198 |
 | Retaliate | 21.00% | ~189 |
 | Mastery of Rites | 20.00% | ~180 |
 | Power Chord | 20.00% | ~180 |

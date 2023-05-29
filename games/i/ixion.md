@@ -19,11 +19,11 @@ Rating: 4.56 (Ranked 451)
 | The Ship of Theseus | 4.00% | ~90 |
 | Hope Seeker | 4.00% | ~90 |
 | A Hunk of Junk | 3.00% | ~68 |
+| Exceeding Capacity | 3.00% | ~68 |
 | Fully Recycled | 3.00% | ~68 |
 | Please Make it Stop! | 3.00% | ~68 |
 | Man's Best Friend | 2.00% | ~45 |
 | Sightseeing | 2.00% | ~45 |
-| Exceeding Capacity | 2.00% | ~45 |
 | Power Outage | 2.00% | ~45 |
 | Access Granted | 2.00% | ~45 |
 | Necessary Enhancement | 2.00% | ~45 |

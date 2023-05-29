@@ -265,9 +265,9 @@
       "ID": "Achievement_Bingpot",
       "SetID": "c01p6e5",
       "Name": "Bingpot!",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_BovineDomain",
@@ -578,8 +578,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:02:14.6833266+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:02:32.4217395+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.5136089+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:58:49.7660971+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:02:14.6833622+00:00"
+  "LastUpdate_Ratings": "2023-05-29T10:59:31.5152239+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:02:32.4217765+00:00"
 }

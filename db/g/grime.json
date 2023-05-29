@@ -5,9 +5,9 @@
   "Ranking_Rating": 388,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -373,6 +373,11 @@
       "Time": "2023-05-29T04:07:08.5639777+00:00",
       "NumProgressed": 560,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T11:07:17.5843509+00:00",
+      "NumProgressed": 561,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -390,9 +395,9 @@
       "ID": "ACQUIRE_ALLHUNTPOINTS",
       "SetID": "ccc0dlh",
       "Name": "Bloodhunter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 11
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -432,7 +437,7 @@
       "Name": "The Hunt",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -719,21 +724,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 561,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:05:47.0393014+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:07:17.58435+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-05-29T10:00:09.8729947+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:05:47.0393356+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:01:29.0236412+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:07:17.5844081+00:00"
 }

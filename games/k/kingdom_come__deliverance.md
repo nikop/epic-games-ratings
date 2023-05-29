@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~243,054 |
-| Cavalier | 25.00% | ~196,011 |
-| Fatso | 23.00% | ~180,330 |
-| Awakening | 20.00% | ~156,809 |
-| Ranger | 20.00% | ~156,809 |
-| Scrooge | 20.00% | ~156,809 |
-| Anorectic | 16.00% | ~125,447 |
-| Firestarter | 15.00% | ~117,607 |
-| Bookworm | 14.00% | ~109,766 |
-| Insomniac | 13.00% | ~101,926 |
-| Buddy | 11.00% | ~86,245 |
-| Sinner | 11.00% | ~86,245 |
-| Thief | 11.00% | ~86,245 |
-| Convict | 10.00% | ~78,404 |
-| Traveller | 10.00% | ~78,404 |
-| Haggler | 9.00% | ~70,564 |
-| Runt | 7.00% | ~54,883 |
+| Blacksmith's Son | 31.00% | ~243,056 |
+| Cavalier | 25.00% | ~196,013 |
+| Fatso | 23.00% | ~180,332 |
+| Awakening | 20.00% | ~156,810 |
+| Ranger | 20.00% | ~156,810 |
+| Scrooge | 20.00% | ~156,810 |
+| Anorectic | 16.00% | ~125,448 |
+| Firestarter | 15.00% | ~117,608 |
+| Bookworm | 14.00% | ~109,767 |
+| Insomniac | 13.00% | ~101,927 |
+| Buddy | 11.00% | ~86,246 |
+| Sinner | 11.00% | ~86,246 |
+| Thief | 11.00% | ~86,246 |
+| Convict | 10.00% | ~78,405 |
+| Traveller | 10.00% | ~78,405 |
+| Haggler | 9.00% | ~70,565 |
+| Runt | 7.00% | ~54,884 |
 | Casanova | 6.00% | ~47,043 |
 | McLovin | 6.00% | ~47,043 |
-| Bad Trip | 5.00% | ~39,202 |
-| Monk | 5.00% | ~39,202 |
-| Serial Killer | 5.00% | ~39,202 |
+| Bad Trip | 5.00% | ~39,203 |
+| Monk | 5.00% | ~39,203 |
+| Serial Killer | 5.00% | ~39,203 |
 | Bastard | 4.00% | ~31,362 |
 | Hunter | 4.00% | ~31,362 |
 | Plague Doctor | 4.00% | ~31,362 |
-| Bard | 3.00% | ~23,521 |
-| Conqueror | 3.00% | ~23,521 |
-| Ginger in a Pickle | 3.00% | ~23,521 |
-| Kingdom did not come | 3.00% | ~23,521 |
+| Bard | 3.00% | ~23,522 |
+| Conqueror | 3.00% | ~23,522 |
+| Ginger in a Pickle | 3.00% | ~23,522 |
+| Kingdom did not come | 3.00% | ~23,522 |
 | Completionist | 2.00% | ~15,681 |
 | Death by splinter | 2.00% | ~15,681 |
 | King Charming | 2.00% | ~15,681 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,681 |
 | Talmberger | 2.00% | ~15,681 |
 | The End | 2.00% | ~15,681 |
-| Woman's Lot | 1.00% | ~7,840 |
-| Chivalrous Soul | 1.00% | ~7,840 |
-| Spoilsport | 1.00% | ~7,840 |
-| Freud | 1.00% | ~7,840 |
-| Gambler | 1.00% | ~7,840 |
-| Master Huntsman | 1.00% | ~7,840 |
-| Stealth Killer | 1.00% | ~7,840 |
+| Woman's Lot | 1.00% | ~7,841 |
+| Chivalrous Soul | 1.00% | ~7,841 |
+| Spoilsport | 1.00% | ~7,841 |
+| Freud | 1.00% | ~7,841 |
+| Gambler | 1.00% | ~7,841 |
+| Master Huntsman | 1.00% | ~7,841 |
+| Stealth Killer | 1.00% | ~7,841 |
 | Bailiff | 0.80% | ~6,272 |
 | Tracker | 0.80% | ~6,272 |
 | David Horak | 0.70% | ~5,488 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~784 |
 | Wingman | 0.10% | ~784 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784,045 (Ranked 12)  
+Progressed: 784,052 (Ranked 12)  
 Completed: 40 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 40 (0.01%) (Ranked 196)
 | 2023-05-26 | 783,466 | 40 |
 | 2023-05-27 | 783,726 | 40 |
 | 2023-05-28 | 783,973 | 40 |
-| 2023-05-29 | 784,045 | 40 |
+| 2023-05-29 | 784,052 | 40 |
 ## Awards
 Max (Character Customization): 7,200  (Ranked 44)  
-Sum: 26,921 (Ranked 43)  
+Sum: 26,924 (Ranked 43)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -143,7 +143,7 @@ Diff (max vs sum): 1
 | This game has Diverse Characters | 1,624 |
 | This game is Highly Recommended | 1,614 |
 | This game has Amazing Characters | 1,607 |
-| This game has Realistic Visuals | 1,589 |
+| This game has Realistic Visuals | 1,592 |
 | This game is Educational | 1,541 |
 | This game is Relaxing | 1,481 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -274,4 +274,4 @@ Diff (max vs sum): 1
 | 2023-05-26 | 4.71 | - | 7,195 | 26,902 |
 | 2023-05-27 | 4.71 | - | 7,200 | 26,912 |
 | 2023-05-28 | 4.71 | - | 7,200 | 26,917 |
-| 2023-05-29 | 4.71 | - | 7,200 | 26,921 |
+| 2023-05-29 | 4.71 | - | 7,200 | 26,924 |

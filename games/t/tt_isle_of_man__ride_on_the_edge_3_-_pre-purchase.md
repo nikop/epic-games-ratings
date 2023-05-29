@@ -9,9 +9,10 @@
 | You Get An Upgrade, You Get An Upgrade! | 17.00% | ~10 |
 | Onwards and Upwards | 17.00% | ~10 |
 | Like Phileas Fogg | 14.00% | ~8 |
-| Serial Winner | 7.00% | ~4 |
+| Serial Winner | 9.00% | ~5 |
 | Start Your Engines | 7.00% | ~4 |
 | Seven-League Boots | 5.00% | ~3 |
+| Nerd | 5.00% | ~3 |
 | Highly Qualified | 5.00% | ~3 |
 | No Room for Improvement | 5.00% | ~3 |
 | Upgradeaholic | 5.00% | ~3 |
@@ -22,9 +23,9 @@
 | The Joy of Discovery | 3.00% | ~2 |
 | Gotta Go Fast! | 3.00% | ~2 |
 | Say My Name | 3.00% | ~2 |
-| Nerd | 3.00% | ~2 |
 | Geek | 3.00% | ~2 |
 | The Immortal One | 3.00% | ~2 |
+| Time Lord | 3.00% | ~2 |
 | Time Is of the Essence | 3.00% | ~2 |
 | First and Foremost | 3.00% | ~2 |
 | Made Mother Proud | 3.00% | ~2 |
@@ -35,7 +36,6 @@
 | Last One Standing | 2.00% | ~1 |
 | Shopping List | 2.00% | ~1 |
 | Checklist | 2.00% | ~1 |
-| Time Lord | 2.00% | ~1 |
 | First Things First | 2.00% | ~1 |
 | Made Father Proud | 2.00% | ~1 |
 | Win-Win! | 2.00% | ~1 |

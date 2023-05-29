@@ -4272,7 +4272,7 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 706143,
+  "EOS_Progressed": 706154,
   "EOS_Completed": 12743,
   "EOS_NewPlayers": 1624,
   "EOS_NewCompleters": 10,
@@ -7642,6 +7642,11 @@
       "Time": "2023-05-29T10:05:43.547538+00:00",
       "NumProgressed": 706143,
       "NumCompleted": 12743
+    },
+    {
+      "Time": "2023-05-29T11:07:13.2885825+00:00",
+      "NumProgressed": 706154,
+      "NumCompleted": 12743
     }
   ],
   "TotalAchievements": 50,
@@ -7653,7 +7658,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7661,7 +7666,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7669,7 +7674,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7677,7 +7682,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7829,7 +7834,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7837,7 +7842,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "25_ShrineMind",
@@ -7853,7 +7858,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "27_ShrineBody",
@@ -7917,7 +7922,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "35_WideStrike",
@@ -7941,7 +7946,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7989,7 +7994,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8005,7 +8010,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -8037,7 +8042,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -8052,21 +8057,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15444,
-      "Completed": 10191
+      "Progressed": 15455,
+      "Completed": 10192
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706143,
+      "Progressed": 706154,
       "Completed": 12743
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-28T23:59:06.5559147+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:05:43.5475375+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:07:13.2885814+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:58:55.0961544+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:05:43.5476094+00:00"
+  "LastUpdate_Ratings": "2023-05-29T10:59:39.7545379+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:07:13.2886882+00:00"
 }

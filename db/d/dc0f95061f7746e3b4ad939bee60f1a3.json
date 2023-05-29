@@ -4,7 +4,7 @@
   "ProductSlug": "puzzle-compound-fe9903",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T13:00:00+00:00",
@@ -103,9 +103,9 @@
       "ID": "ACH_CASTLE_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "The Forgotten Castle Complete",
-      "Percentage": 32,
+      "Percentage": 42,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_CASTLE_FAST_COMPLETED",
@@ -197,8 +197,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:04:08.8586962+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:04:57.8392168+00:00",
   "LastUpdate_AppInfo": "2023-05-23T03:57:23.0516033+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:57:16.9061959+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:04:08.8587062+00:00"
+  "LastUpdate_Ratings": "2023-05-29T10:57:15.3929777+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:04:57.8392309+00:00"
 }

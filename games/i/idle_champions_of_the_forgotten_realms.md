@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~111 |
 | Pin and Skewer | 0.20% | ~111 |
 | Bully for Vecna | 0.20% | ~111 |
+| Homecoming | 0.20% | ~178 |
 | No One Can Hear You Scream | 0.20% | ~111 |
 | Welcome to the Rock | 0.20% | ~111 |
 | Beast Mode | 0.20% | ~178 |
@@ -172,7 +173,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~55 |
 | Xanathaaaaaaar! | 0.10% | ~55 |
 | A Whale of a Time | 0.10% | ~55 |
-| Homecoming | 0.10% | ~89 |
 | Anti-Dexterous Explorers | 0.10% | ~89 |
 | Struggling Toward Omu | 0.10% | ~89 |
 | Wagon Train | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,091 (Ranked 61)  
-Completed: 1,894 (2.13%) (Ranked 63)  
+Progressed: 89,099 (Ranked 61)  
+Completed: 1,895 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -539,7 +539,7 @@ Completed: 1,894 (2.13%) (Ranked 63)
 | 2023-05-26 | 88,776 | 1,880 |
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
-| 2023-05-29 | 89,091 | 1,894 |
+| 2023-05-29 | 89,099 | 1,895 |
 ## Awards
 Max (Diverse Characters): 4,910  (Ranked 64)  
 Sum: 29,997 (Ranked 37)  

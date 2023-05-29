@@ -61,6 +61,7 @@
 | Free Of Chains | 5.00% | ~3 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
 | Ancient Ruins of Misplaced Belongings | 3.00% | ~2 |
+| Ancient Ruins of Inadequate Opportunities | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
@@ -71,14 +72,13 @@
 | Ancient Ruins of Imperfectly Designed Walls | 2.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~1 |
 | Ancient Ruins of Poor Intrusion Prevention | 2.00% | ~1 |
-| Ancient Ruins of Inadequate Opportunities | 2.00% | ~1 |
 | Ancient Ruins of Stubbed Toes | 2.00% | ~1 |
+| Ancient Ruins of Chilly Winds | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
 | Out of bounds | 2.00% | ~1 |
 | Ancient Ruins of Empty Echoes | 0.00% | ~0 |
 | Ancient Ruins of Peekaboo | 0.00% | ~0 |
 | Ancient Ruins of Leaky Roof | 0.00% | ~0 |
-| Ancient Ruins of Chilly Winds | 0.00% | ~0 |
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |

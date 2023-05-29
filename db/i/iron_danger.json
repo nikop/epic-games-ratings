@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.25,
+  "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -121,6 +121,11 @@
       "Time": "2023-05-28T15:05:55.0823205+00:00",
       "NumProgressed": 178,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-29T11:07:11.2379861+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -156,7 +161,7 @@
       "Name": "Berry Nice",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -252,7 +257,7 @@
       "Name": "First Shard",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_SHARD_2",
@@ -276,7 +281,7 @@
       "Name": "Fourth Shard",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_SHARD_5",
@@ -315,7 +320,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 4
     }
   ],
@@ -323,8 +328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-29T10:05:42.0383194+00:00",
+  "LastChanged_Achievements": "2023-05-29T11:07:11.2379853+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:26.9999323+00:00",
-  "LastUpdate_Ratings": "2023-05-29T09:59:47.0950335+00:00",
-  "LastUpdate_Achievements": "2023-05-29T10:05:42.0383349+00:00"
+  "LastUpdate_Ratings": "2023-05-29T11:00:57.6356381+00:00",
+  "LastUpdate_Achievements": "2023-05-29T11:07:11.2380021+00:00"
 }
