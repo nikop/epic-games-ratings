@@ -2,10 +2,10 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2020-05-15T08:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-18T13:05:33.6597+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T03:03:22.9340857+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -38,7 +43,7 @@
       "ID": "CompleteTutorials",
       "SetID": "9ajogia",
       "Name": "Student",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -46,7 +51,7 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -62,7 +67,7 @@
       "ID": "NotPermitted",
       "SetID": "9ajogia",
       "Name": "Caged",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -79,13 +84,13 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:09:25.7831521+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:03:22.9340848+00:00",
   "LastUpdate_AppInfo": "2023-05-25T13:04:54.0581951+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:03:40.7196983+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:09:25.783159+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:57:22.1681443+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:03:22.9340975+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -395,9 +395,9 @@
       "ID": "CAREERACADEMY",
       "SetID": "3dh70f3",
       "Name": "Rookie No More",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 267
     },
     {
       "ID": "CAREERADVANCED",
@@ -579,9 +579,9 @@
       "ID": "ONEMODULE",
       "SetID": "3dh70f3",
       "Name": "Increasing your Power Level",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 267
     },
     {
       "ID": "ONEPAINT",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:11:56.0435092+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:35.7690083+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.3827086+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:04:32.9428974+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:11:56.0435547+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:58:15.4185841+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:35.7690443+00:00"
 }

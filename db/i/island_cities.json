@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 15.08,
+  "EOS_Completed_Percentage": 15,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -873,6 +873,11 @@
       "Time": "2023-05-28T21:06:00.9329397+00:00",
       "NumProgressed": 199,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-29T03:05:20.8158835+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -882,9 +887,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "LEVEL_002",
@@ -892,7 +897,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "LEVEL_003",
@@ -900,7 +905,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_004",
@@ -908,7 +913,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_005",
@@ -1059,7 +1064,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 30
     }
   ],
@@ -1067,8 +1072,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:11:41.4504395+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:20.8158832+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:04:29.6677034+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:11:41.4504588+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:58:11.8515465+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:20.8158992+00:00"
 }

@@ -33,8 +33,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 0.90% | ~136 |
 | Corrosive Torrent | 0.90% | ~136 |
 | Watchtower | 0.90% | ~136 |
-| Against All Odds | 0.80% | ~120 |
-| Statue of the Forefathers | 0.80% | ~120 |
+| Against All Odds | 0.80% | ~121 |
+| Statue of the Forefathers | 0.80% | ~121 |
 | Serving Ale | 0.70% | ~105 |
 | Forsaken Gods Temple | 0.70% | ~105 |
 | Into the Forest | 0.70% | ~105 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,062 (Ranked 99)  
+Progressed: 15,063 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 33 (0.22%) (Ranked 137)
 | 2023-05-26 | 15,011 | 33 |
 | 2023-05-27 | 15,040 | 33 |
 | 2023-05-28 | 15,062 | 33 |
+| 2023-05-29 | 15,063 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,033 (Ranked 152)  

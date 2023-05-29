@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2626,9 +2626,9 @@
       "ID": "legendary",
       "SetID": "3nl4bcg",
       "Name": "Legendary",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "lieutenant",
@@ -2947,8 +2947,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:11:56.9373505+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:36.8873653+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:04:28.4105702+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:11:56.9374431+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:58:10.5718298+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:36.8874383+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -655,9 +655,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 30159,
+  "EOS_Progressed": 30160,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4315,6 +4315,11 @@
       "Time": "2023-05-29T02:06:41.0718557+00:00",
       "NumProgressed": 30159,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-29T03:00:28.6708022+00:00",
+      "NumProgressed": 30160,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -4390,7 +4395,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ach_cursestone",
@@ -4414,7 +4419,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ach_deathofermod",
@@ -4446,7 +4451,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10857
+      "UsersEstimate": 10858
     },
     {
       "ID": "ach_die10",
@@ -4494,7 +4499,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ach_invictus",
@@ -4550,7 +4555,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ach_newstories",
@@ -4757,15 +4762,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 30159,
+      "Progressed": 30160,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-27T21:59:24.6396174+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:06:41.0718551+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:00:28.6708018+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:05.2746817+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:05:47.4671039+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:06:41.0719297+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:30.6210394+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:00:28.6708639+00:00"
 }

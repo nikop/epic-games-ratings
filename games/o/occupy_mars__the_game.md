@@ -30,6 +30,7 @@ Rating: 3.80 (Ranked 916)
 | Caveman | 0.50% | ~5 |
 | Thunderstruck | 0.40% | ~4 |
 | Rocket Jump | 0.30% | ~3 |
+| Explosive Miner | 0.20% | ~2 |
 | Hot Repairs | 0.20% | ~2 |
 | 5G Network | 0.20% | ~2 |
 | Bull’s eye | 0.20% | ~2 |
@@ -37,7 +38,6 @@ Rating: 3.80 (Ranked 916)
 | One does not simply... | 0.20% | ~2 |
 | Rover Mechanic | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
-| Explosive Miner | 0.10% | ~1 |
 | Historical Places | 0.10% | ~1 |
 | Planetary Defence | 0.10% | ~1 |
 | Never Ending Story? | 0.10% | ~1 |

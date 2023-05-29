@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -336,17 +336,17 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "UNLOCK_WELL",
       "SetID": "3c20ib3",
       "Name": "Irrigation not irritation",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "V_VEGAN",
@@ -369,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:07:02.4759383+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:00:50.8897088+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:19.674512+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:04:01.5783835+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:07:02.4759617+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:57:44.0095475+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:00:50.8897277+00:00"
 }

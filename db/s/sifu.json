@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4272,10 +4272,10 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 706091,
-  "EOS_Completed": 12742,
-  "EOS_NewPlayers": 1659,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 706100,
+  "EOS_Completed": 12743,
+  "EOS_NewPlayers": 1654,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -7602,6 +7602,11 @@
       "Time": "2023-05-29T02:12:04.1763794+00:00",
       "NumProgressed": 706091,
       "NumCompleted": 12742
+    },
+    {
+      "Time": "2023-05-29T03:05:44.2289473+00:00",
+      "NumProgressed": 706100,
+      "NumCompleted": 12743
     }
   ],
   "TotalAchievements": 50,
@@ -7899,9 +7904,9 @@
       "ID": "37_CustomTrophy_H1",
       "SetID": "adcm20g",
       "Name": "Rumble in the Hangar",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6355
+      "UsersEstimate": 7061
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -8012,21 +8017,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15392,
-      "Completed": 10189
+      "Progressed": 15401,
+      "Completed": 10190
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706091,
-      "Completed": 12742
+      "Progressed": 706100,
+      "Completed": 12743
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-28T23:59:06.5559147+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:12:04.1763789+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:44.2289465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:05:19.8635409+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:12:04.1764481+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:00.032136+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:44.2478656+00:00"
 }

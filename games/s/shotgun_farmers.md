@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 42.00% | ~6 |
-| Survivor | 28.00% | ~4 |
-| No Diggity | 26.00% | ~4 |
+| Aspairagus | 43.00% | ~6 |
+| Survivor | 29.00% | ~4 |
+| No Diggity | 28.00% | ~4 |
+| Early Survivor | 26.00% | ~4 |
 | Seeds of War | 25.00% | ~16 |
-| Early Survivor | 25.00% | ~4 |
 | Bouncemato | 20.00% | ~3 |
 | First Blood | 18.00% | ~12 |
 | Quick-Draw Pod | 18.00% | ~3 |
-| Amateur Survivor | 15.00% | ~2 |
+| Amateur Survivor | 17.00% | ~3 |
 | I Believe I Can Fly | 12.00% | ~8 |
 | No Asperascope | 12.00% | ~8 |
 | Triple Kill | 12.00% | ~8 |
+| Professional Survivor | 12.00% | ~2 |
 | Cornivore | 11.00% | ~7 |
-| Professional Survivor | 11.00% | ~2 |
 | Oh My Gourd | 9.00% | ~1 |
 | Expert Survivor | 9.00% | ~1 |
 | Grave Digger | 9.00% | ~1 |
@@ -36,6 +36,7 @@
 | Easy Peasy | 3.00% | ~0 |
 | Chick Magnet | 2.00% | ~1 |
 | Getting Started | 2.00% | ~1 |
+| I Have The High Ground | 2.00% | ~1 |
 | Early Bird | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
 | Pork Chop Express | 2.00% | ~1 |
@@ -55,7 +56,6 @@
 | Forestside Survivor | 0.00% | ~0 |
 | Graveside Survivor | 0.00% | ~0 |
 | Hardcore Parkour | 0.00% | ~0 |
-| I Have The High Ground | 0.00% | ~0 |
 | Cow Topper | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
 | Pro Double Cobbler | 0.00% | ~0 |

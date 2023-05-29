@@ -15,6 +15,7 @@ Number of Ratings: 87  (23.09.2022)
 | Forgot something | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
 | Mega-railroad | 4.00% | ~29 |
+| Need to think | 4.00% | ~29 |
 | Non-Stop | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
 | Builder | 3.00% | ~22 |
@@ -22,7 +23,6 @@ Number of Ratings: 87  (23.09.2022)
 | Get out my way | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
 | Multilevel road | 3.00% | ~22 |
-| Need to think | 3.00% | ~22 |
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~22 |

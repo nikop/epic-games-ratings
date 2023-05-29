@@ -25,7 +25,7 @@
 | Second Chances | 7.00% | ~32 |
 | Not A People Person | 5.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462 (Ranked 196)  
+Progressed: 462 (Ranked 197)  
 Completed: 16 (3.46%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |

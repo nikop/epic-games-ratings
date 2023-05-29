@@ -5,8 +5,8 @@ Rating: 4.45 (Ranked 606)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 26.00% | ~257 |
-| Increasing your Power Level | 26.00% | ~257 |
+| Rookie No More | 27.00% | ~267 |
+| Increasing your Power Level | 27.00% | ~267 |
 | Enter the Speed Gauntlet | 24.00% | ~238 |
 | I just can't choose | 24.00% | ~238 |
 | A Cheese Grater to the Face | 19.00% | ~188 |

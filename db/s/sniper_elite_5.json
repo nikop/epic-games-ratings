@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1768,
+  "EOS_Progressed": 1769,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1774,6 +1774,11 @@
       "Time": "2023-05-29T02:11:50.2397065+00:00",
       "NumProgressed": 1768,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T03:05:29.8341725+00:00",
+      "NumProgressed": 1769,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2009,15 +2014,15 @@
       "Name": "Resourceful",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2121,7 +2126,7 @@
       "Name": "Change the Channel",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2352,13 +2357,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1719,
+      "Progressed": 1720,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1768,
+      "Progressed": 1769,
       "Completed": 2
     }
   ],
@@ -2366,8 +2371,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:11:50.239706+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:29.8341721+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:06:33.2648738+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:11:50.2397819+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:00:18.6206328+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:29.8342324+00:00"
 }

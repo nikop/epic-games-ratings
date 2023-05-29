@@ -1,7 +1,7 @@
 # Unexplored 2: The Wayfarer's Legacy
 [Store](https://store.epicgames.com/en-US/p/unexplored-2)  
 [View Rawdata](../../db/u/unexplored_2__the_wayfarer's_legacy.json)  
-Rating: 4.38 (Ranked 697)  
+Rating: 4.38 (Ranked 696)  
 Number of Ratings: 28  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

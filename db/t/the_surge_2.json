@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,11 +225,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1654,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -740,6 +740,11 @@
       "Time": "2023-05-29T02:12:10.7445956+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-29T03:05:50.860354+00:00",
+      "NumProgressed": 1654,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -749,9 +754,9 @@
       "ID": "ACHV_01",
       "SetID": "8p5mlmc",
       "Name": "A Little Banged Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHV_02",
@@ -759,7 +764,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACHV_03",
@@ -775,7 +780,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACHV_05",
@@ -783,7 +788,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACHV_06",
@@ -791,7 +796,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHV_07",
@@ -799,7 +804,7 @@
       "Name": "Court Martial",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHV_08",
@@ -887,7 +892,7 @@
       "Name": "True Survivor",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHV_19",
@@ -901,9 +906,9 @@
       "ID": "ACHV_20",
       "SetID": "8p5mlmc",
       "Name": "Marked For Success",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHV_21",
@@ -927,7 +932,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACHV_24",
@@ -943,7 +948,7 @@
       "Name": "Full Arsenal",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHV_26",
@@ -951,7 +956,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACHV_27",
@@ -967,7 +972,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHV_29",
@@ -1015,7 +1020,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHV_35",
@@ -1023,7 +1028,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACHV_36",
@@ -1039,7 +1044,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHV_38",
@@ -1055,7 +1060,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1274
     },
     {
       "ID": "ACHV_40",
@@ -1071,7 +1076,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACHV_42",
@@ -1103,7 +1108,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHV_46",
@@ -1206,7 +1211,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1654,
       "Completed": 10
     }
   ],
@@ -1214,8 +1219,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:12:10.7445952+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:50.8603537+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:06:30.5650494+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:12:10.7446414+00:00"
+  "LastUpdate_Ratings": "2023-05-29T03:00:15.4403005+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:50.8603948+00:00"
 }

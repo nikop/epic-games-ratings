@@ -840,25 +840,25 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "MQ04_2",
@@ -1001,8 +1001,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:09:41.3835332+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:03:39.2690881+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:03:50.1859029+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:09:41.3835564+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:57:32.0899179+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:03:39.2691074+00:00"
 }

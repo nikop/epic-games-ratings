@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3823,
+  "EOS_Progressed": 3824,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2314,6 +2314,11 @@
       "Time": "2023-05-29T02:10:25.5121872+00:00",
       "NumProgressed": 3823,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T03:04:03.6743003+00:00",
+      "NumProgressed": 3824,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2325,7 +2330,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "10",
@@ -2357,7 +2362,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "14",
@@ -2365,7 +2370,7 @@
       "Name": "Full Ascension",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "15",
@@ -2437,7 +2442,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2906
     },
     {
       "ID": "23",
@@ -2445,7 +2450,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "24",
@@ -2453,7 +2458,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "25",
@@ -2509,7 +2514,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "31",
@@ -2541,7 +2546,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "35",
@@ -2676,13 +2681,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3823,
-      "Completed": 3823
+      "Progressed": 3824,
+      "Completed": 3824
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3823,
+      "Progressed": 3824,
       "Completed": 0
     }
   ],
@@ -2690,8 +2695,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-28T10:59:16.0669024+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:10:25.5121864+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:04:03.6742999+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:05:40.613938+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:10:25.5122456+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:23.3790471+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:04:03.6743388+00:00"
 }

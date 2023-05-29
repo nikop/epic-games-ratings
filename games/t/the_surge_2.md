@@ -5,41 +5,41 @@ Rating: 4.24 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,322 |
-| Don't I Know You...? | 77.00% | ~1,272 |
-| Jailbreak | 65.00% | ~1,074 |
-| Suited and Booted | 38.00% | ~628 |
-| HEADSHOT! | 37.00% | ~611 |
-| Sleeping With The Fishes | 35.00% | ~578 |
+| Rigged And Ready | 80.00% | ~1,323 |
+| Don't I Know You...? | 77.00% | ~1,274 |
+| Jailbreak | 65.00% | ~1,075 |
+| Suited and Booted | 38.00% | ~629 |
+| HEADSHOT! | 37.00% | ~612 |
+| Sleeping With The Fishes | 35.00% | ~579 |
 | High Performance | 30.00% | ~496 |
-| Overheated | 29.00% | ~479 |
+| Overheated | 29.00% | ~480 |
 | Powered Up | 28.00% | ~463 |
-| Studied The Blade | 24.00% | ~396 |
-| Home Invasion | 22.00% | ~363 |
-| Luminary | 22.00% | ~363 |
-| It's a Trap | 22.00% | ~363 |
-| True Survivor | 20.00% | ~330 |
-| Shocking | 20.00% | ~330 |
+| Studied The Blade | 24.00% | ~397 |
+| Home Invasion | 22.00% | ~364 |
+| Luminary | 22.00% | ~364 |
+| It's a Trap | 22.00% | ~364 |
+| True Survivor | 20.00% | ~331 |
+| Shocking | 20.00% | ~331 |
 | Offensive Defense | 19.00% | ~314 |
 | Unforeseeable Consequences | 19.00% | ~314 |
-| Court Martial | 18.00% | ~297 |
-| Clean Cut | 18.00% | ~297 |
+| Court Martial | 18.00% | ~298 |
+| Clean Cut | 18.00% | ~298 |
 | Dead Again | 17.00% | ~281 |
-| Full Arsenal | 16.00% | ~264 |
+| Full Arsenal | 16.00% | ~265 |
 | Can't Trust Banks | 15.00% | ~248 |
 | Mommy Dearest | 13.00% | ~215 |
 | Bad Dog | 13.00% | ~215 |
 | Risk Tolerant | 13.00% | ~215 |
 | What A Catchy Song | 13.00% | ~215 |
-| Marked For Success | 12.00% | ~198 |
 | Where It All Began | 12.00% | ~198 |
 | Sorry, Didn't See You There | 12.00% | ~198 |
 | Corrupted Beauty | 11.00% | ~182 |
+| Marked For Success | 11.00% | ~182 |
 | Triplets | 10.00% | ~165 |
 | Stimulating The Local Economy | 9.00% | ~149 |
-| A Little Banged Up | 8.00% | ~132 |
 | Denying Prophecy | 8.00% | ~132 |
 | Defense in Depth | 8.00% | ~132 |
+| A Little Banged Up | 7.00% | ~116 |
 | Reverse Engineering | 7.00% | ~116 |
 | Following In Their Footsteps | 7.00% | ~116 |
 | Turbo Booster | 6.00% | ~99 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 792)
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,652 (Ranked 153)  
-Completed: 10 (0.61%) (Ranked 105)  
+Progressed: 1,654 (Ranked 153)  
+Completed: 10 (0.60%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 10 (0.61%) (Ranked 105)
 | 2023-05-26 | 1,621 | 10 |
 | 2023-05-27 | 1,635 | 10 |
 | 2023-05-28 | 1,651 | 10 |
-| 2023-05-29 | 1,652 | 10 |
+| 2023-05-29 | 1,654 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

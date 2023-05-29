@@ -6,21 +6,21 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 73.00% | ~2,811 |
-| Hey Good Hookin | 62.00% | ~2,388 |
-| I'm on a Boat! | 53.00% | ~2,041 |
-| Scaling up | 47.00% | ~1,810 |
-| Can you smell what the Rod is Hooking | 46.00% | ~1,771 |
-| Ready to Rod and Roll | 38.00% | ~1,463 |
-| More Fish in the Sea | 38.00% | ~1,463 |
-| License to Gill | 31.00% | ~1,194 |
-| Fish Out of Water | 30.00% | ~1,155 |
-| Things that go Splash in the Night | 25.00% | ~963 |
-| Goldfish? | 25.00% | ~963 |
-| Going for Gold | 23.00% | ~886 |
-| I'm Hooked! | 17.00% | ~655 |
-| More than a Tourist | 12.00% | ~462 |
-| Diamond in the Rough | 12.00% | ~462 |
+| Fish Just Got Reel | 73.00% | ~2,815 |
+| Hey Good Hookin | 62.00% | ~2,391 |
+| I'm on a Boat! | 53.00% | ~2,044 |
+| Scaling up | 47.00% | ~1,812 |
+| Can you smell what the Rod is Hooking | 46.00% | ~1,774 |
+| Ready to Rod and Roll | 38.00% | ~1,465 |
+| More Fish in the Sea | 38.00% | ~1,465 |
+| License to Gill | 31.00% | ~1,195 |
+| Fish Out of Water | 30.00% | ~1,157 |
+| Things that go Splash in the Night | 25.00% | ~964 |
+| Goldfish? | 25.00% | ~964 |
+| Going for Gold | 23.00% | ~887 |
+| I'm Hooked! | 17.00% | ~656 |
+| More than a Tourist | 12.00% | ~463 |
+| Diamond in the Rough | 12.00% | ~463 |
 | Hook, Line and Sinker | 7.00% | ~270 |
 | Marathon | 7.00% | ~270 |
 | Big Fish Small Pond | 6.00% | ~231 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,851 (Ranked 130)  
+Progressed: 3,856 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 3,776 | 0 |
 | 2023-05-27 | 3,806 | 0 |
 | 2023-05-28 | 3,850 | 0 |
-| 2023-05-29 | 3,851 | 0 |
+| 2023-05-29 | 3,856 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 436)  
 Sum: 158 (Ranked 378)  

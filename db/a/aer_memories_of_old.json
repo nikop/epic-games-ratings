@@ -374,7 +374,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10677,
+  "EOS_Progressed": 10680,
   "EOS_Completed": 230,
   "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 14,
@@ -4084,6 +4084,11 @@
       "Time": "2023-05-29T02:12:00.2559217+00:00",
       "NumProgressed": 10677,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2023-05-29T03:05:40.1404927+00:00",
+      "NumProgressed": 10680,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 20,
@@ -4127,7 +4132,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -4151,7 +4156,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -4199,7 +4204,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "GAME_FINISHED",
@@ -4215,7 +4220,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 8115
+      "UsersEstimate": 8117
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -4239,7 +4244,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "WEST_FINISHED",
@@ -4254,15 +4259,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10677,
+      "Progressed": 10680,
       "Completed": 230
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:12:00.2559208+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:40.1404925+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:06:14.6284334+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:12:00.2559553+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:57.9840054+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:40.1405239+00:00"
 }

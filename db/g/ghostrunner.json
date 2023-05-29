@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -900,9 +900,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6710,
+  "EOS_Progressed": 6711,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 1166,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -4645,6 +4645,11 @@
       "Time": "2023-05-29T02:11:52.1492429+00:00",
       "NumProgressed": 6710,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-29T03:05:31.7457432+00:00",
+      "NumProgressed": 6711,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 45,
@@ -4760,7 +4765,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Junkrunner",
@@ -4848,7 +4853,7 @@
       "Name": "Perfection",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "PreempativeStrike",
@@ -4856,7 +4861,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "PushItToTheLimit",
@@ -4928,7 +4933,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "SwordToAGunfight",
@@ -4952,7 +4957,7 @@
       "Name": "Unstoppable force",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -4984,7 +4989,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "WhereAreMyKeys",
@@ -4992,7 +4997,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "WhereHeStood",
@@ -5015,21 +5020,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 6710,
+      "Progressed": 6711,
       "Completed": 18
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 6710,
+      "Progressed": 6711,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-05-26T02:57:49.6584275+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:11:52.1492423+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:31.7457427+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.5233025+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:04:25.5558149+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:11:52.1493003+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:58:06.9669249+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:31.7457935+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -5328,9 +5328,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 45983,
+  "EOS_Progressed": 45993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4425,
+  "EOS_NewPlayers": 4423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9233,6 +9233,11 @@
       "Time": "2023-05-29T02:12:14.7710793+00:00",
       "NumProgressed": 45983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T03:05:54.6275433+00:00",
+      "NumProgressed": 45993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -9684,7 +9689,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -9764,7 +9769,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "achievement_colonial_management",
@@ -9860,7 +9865,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -10076,7 +10081,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "achievement_forever_golden",
@@ -10268,7 +10273,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -10460,7 +10465,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -11180,7 +11185,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -11244,7 +11249,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -11836,7 +11841,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -11852,7 +11857,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_trustworthy",
@@ -11908,7 +11913,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -12075,21 +12080,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 45983,
+      "Progressed": 45993,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 45983,
+      "Progressed": 45993,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-28T20:57:30.5398519+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:12:14.7710788+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:54.6275427+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.5359105+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:03:53.3710836+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:12:14.7722169+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:57:35.0382504+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:54.6285514+00:00"
 }

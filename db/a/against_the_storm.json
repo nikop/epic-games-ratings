@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2318,9 +2318,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15062,
+  "EOS_Progressed": 15063,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4388,6 +4388,11 @@
       "Time": "2023-05-28T22:06:30.6167188+00:00",
       "NumProgressed": 15062,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-29T03:05:49.1242025+00:00",
+      "NumProgressed": 15063,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4503,7 +4508,7 @@
       "Name": "Against All Odds",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WinNearArmory",
@@ -4631,7 +4636,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WinNearTemple",
@@ -4798,15 +4803,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15062,
+      "Progressed": 15063,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-28T15:00:05.6433519+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:12:09.1504359+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:49.1242021+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:06:06.6945852+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:12:09.1504887+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:49.9932428+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:49.124249+00:00"
 }

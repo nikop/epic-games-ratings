@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1280,9 +1280,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62637,
+  "EOS_Progressed": 62649,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1042,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4175,6 +4175,11 @@
       "Time": "2023-05-29T02:12:10.1997204+00:00",
       "NumProgressed": 62637,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T03:05:50.0748789+00:00",
+      "NumProgressed": 62649,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4272,9 +4277,9 @@
       "ID": "APPLY_STATUS",
       "SetID": "4eo5ebm",
       "Name": "In Your Element",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 439
     },
     {
       "ID": "CHALLENGES_1",
@@ -4306,7 +4311,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -4346,7 +4351,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -4394,7 +4399,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -4434,7 +4439,7 @@
       "Name": "Cooldown",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -4576,9 +4581,9 @@
       "ID": "MYSTERY_01",
       "SetID": "4eo5ebm",
       "Name": "Loose Ends",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 1253
     },
     {
       "ID": "MYSTERY_02",
@@ -4618,7 +4623,7 @@
       "Name": "Voiceless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "MYSTERY_07",
@@ -4626,7 +4631,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "MYSTERY_08",
@@ -4634,7 +4639,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "SECRET_CACHE",
@@ -4673,13 +4678,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62637,
+      "Progressed": 62649,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32917,
+      "Progressed": 32929,
       "Completed": 2643
     }
   ],
@@ -4687,8 +4692,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T21:59:47.3836473+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:12:10.1997197+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:05:50.0748786+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:05:54.3830658+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:12:10.1997957+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:37.7829361+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:05:50.0749396+00:00"
 }

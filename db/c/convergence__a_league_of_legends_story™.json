@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -694,9 +694,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "GadgetCompletion1",
@@ -742,9 +742,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "LacunaCompleted",
@@ -974,9 +974,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
@@ -989,8 +989,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:11:05.9895563+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:04:44.3257712+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:05:40.4013346+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:11:05.9896067+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:23.186796+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:04:44.3258104+00:00"
 }

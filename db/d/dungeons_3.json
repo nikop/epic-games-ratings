@@ -2104,9 +2104,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 18081,
+  "EOS_Progressed": 18082,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -5894,6 +5894,11 @@
       "Time": "2023-05-29T02:10:28.8352586+00:00",
       "NumProgressed": 18081,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-05-29T03:04:07.0113989+00:00",
+      "NumProgressed": 18082,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 60,
@@ -5913,7 +5918,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8498
+      "UsersEstimate": 8499
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -5921,7 +5926,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 10487
+      "UsersEstimate": 10488
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -5945,7 +5950,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4339
+      "UsersEstimate": 4340
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -5961,7 +5966,7 @@
       "Name": "Hearts of Iron",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_Completed",
@@ -5993,7 +5998,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6509
+      "UsersEstimate": 6510
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -6017,7 +6022,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9221
+      "UsersEstimate": 9222
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -6113,7 +6118,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 8136
+      "UsersEstimate": 8137
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -6145,7 +6150,7 @@
       "Name": "Thirst quencher",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5243
+      "UsersEstimate": 5244
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -6161,7 +6166,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5243
+      "UsersEstimate": 5244
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -6233,7 +6238,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -6289,7 +6294,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8318
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -6297,7 +6302,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5243
+      "UsersEstimate": 5244
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -6384,15 +6389,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 18081,
+      "Progressed": 18082,
       "Completed": 159
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-27T19:59:58.3788341+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:10:28.8352579+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:04:07.0113985+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.7478417+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:05:26.224203+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:10:28.8353362+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:59:06.8183362+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:04:07.0114763+00:00"
 }

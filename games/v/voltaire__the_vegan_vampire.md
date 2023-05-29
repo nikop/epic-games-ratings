@@ -7,8 +7,8 @@
 | So it begins | 98.00% | ~84 |
 | Good to grow | 64.00% | ~55 |
 | Fashionista | 44.00% | ~38 |
-| Irrigation not irritation | 40.00% | ~34 |
-| Graduated | 37.00% | ~32 |
+| Irrigation not irritation | 41.00% | ~35 |
+| Graduated | 38.00% | ~33 |
 | Night Shift | 24.00% | ~21 |
 | It's about the journey | 14.00% | ~12 |
 | C'who? | 12.00% | ~10 |

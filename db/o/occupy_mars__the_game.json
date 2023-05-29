@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -84,7 +84,7 @@
   "Tags": [],
   "EOS_Progressed": 995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1110,9 +1110,9 @@
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
       "SetID": "l546gc",
       "Name": "Explosive Miner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_HARD_LANDING",
@@ -1479,8 +1479,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-28T17:57:09.9383158+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:09:29.8661339+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:03:27.1713652+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:03:58.846075+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:09:29.8661794+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:57:40.9050285+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:03:27.1714018+00:00"
 }

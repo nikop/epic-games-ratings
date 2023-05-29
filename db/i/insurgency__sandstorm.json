@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -2101,9 +2101,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 376134,
+  "EOS_Progressed": 376163,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4022,
+  "EOS_NewPlayers": 4038,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5981,6 +5981,11 @@
       "Time": "2023-05-29T02:09:28.3303087+00:00",
       "NumProgressed": 376134,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T03:03:25.536003+00:00",
+      "NumProgressed": 376163,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -6000,7 +6005,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "ACH_CARRYING",
@@ -6016,7 +6021,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -6040,7 +6045,7 @@
       "Name": "Efficient",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -6048,7 +6053,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15045
+      "UsersEstimate": 15047
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -6096,7 +6101,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15045
+      "UsersEstimate": 15047
     },
     {
       "ID": "ACH_JR_50",
@@ -6120,7 +6125,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -6160,7 +6165,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18807
+      "UsersEstimate": 18808
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -6192,7 +6197,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -6208,7 +6213,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -6224,7 +6229,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -6248,7 +6253,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -6256,7 +6261,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18807
+      "UsersEstimate": 18808
     },
     {
       "ID": "ACH_WET_FEET",
@@ -6264,22 +6269,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15045
+      "UsersEstimate": 15047
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 376134,
+      "Progressed": 376163,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-05-29T02:04:19.3540442+00:00",
-  "LastChanged_Achievements": "2023-05-29T02:09:28.330308+00:00",
+  "LastChanged_Achievements": "2023-05-29T03:03:25.5360023+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:36.8400562+00:00",
-  "LastUpdate_Ratings": "2023-05-29T02:04:19.3540448+00:00",
-  "LastUpdate_Achievements": "2023-05-29T02:09:28.3303557+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:58:00.4501252+00:00",
+  "LastUpdate_Achievements": "2023-05-29T03:03:25.5361135+00:00"
 }
