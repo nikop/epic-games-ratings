@@ -22,21 +22,21 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.88% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
 | 24 | [Scorn](games/s/scorn.md) | 6.90% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.87% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.85% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
+| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
-| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.45% |
@@ -47,8 +47,8 @@
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.94% |
-| 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
+| 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
+| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.91% |
 | 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.89% |
 | 51 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
@@ -57,11 +57,11 @@
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.47% |
+| 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.23% |
 | 60 | [JARS](games/j/jars.md) | 2.22% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.17% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.95% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
@@ -107,8 +107,8 @@
 | 104 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
 | 106 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
 | 107 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
+| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
+| 109 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 110 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.46% |
