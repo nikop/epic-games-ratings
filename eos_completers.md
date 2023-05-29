@@ -12,7 +12,7 @@
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.93% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.26% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
@@ -30,7 +30,7 @@
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.63% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.11% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.38% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
@@ -391,6 +391,7 @@
 | 207 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |
 | 207 | [tERRORbane](games/t/terrorbane.md) | 0.00% |
 | 207 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 0.00% |
+| 207 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 0.00% |
 | 207 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
 | 207 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 207 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
