@@ -22,17 +22,17 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.98% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.43% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
 | 24 | [Scorn](games/s/scorn.md) | 6.90% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.76% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.88% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.87% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.28% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.25% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
@@ -42,9 +42,9 @@
 | 40 | [The Complex](games/t/the_complex.md) | 3.45% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
-| 43 | [ZZT!](games/z/zzt!.md) | 3.23% |
+| 43 | [ZZT!](games/z/zzt!.md) | 3.22% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
-| 45 | [The Bunker](games/t/the_bunker.md) | 3.12% |
+| 45 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.94% |
@@ -61,7 +61,7 @@
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.23% |
 | 60 | [JARS](games/j/jars.md) | 2.22% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.96% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
@@ -104,11 +104,11 @@
 | 102 | [Train Valley](games/t/train_valley.md) | 0.70% |
 | 103 | [Haven](games/h/haven.md) | 0.68% |
 | 104 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.64% |
-| 105 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 105 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 106 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
 | 107 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
-| 109 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 110 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.46% |
@@ -148,11 +148,11 @@
 | 146 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
 | 146 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 146 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 149 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 149 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 149 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 152 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
-| 152 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 151 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
+| 151 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
+| 151 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 154 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 154 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 156 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
@@ -226,6 +226,7 @@
 | 207 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 207 | [Biped](games/b/biped.md) | 0.00% |
 | 207 | [BLACKTAIL](games/b/blacktail.md) | 0.00% |
+| 207 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 0.00% |
 | 207 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 0.00% |
 | 207 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 0.00% |
 | 207 | [BloodRayne: Terminal Cut](games/b/bloodrayne__terminal_cut.md) | 0.00% |
@@ -422,4 +423,4 @@
 | 207 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 207 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 207 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,693 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,694 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
