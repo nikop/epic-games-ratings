@@ -23,7 +23,7 @@
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.87% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
-| 24 | [Scorn](games/s/scorn.md) | 6.92% |
+| 24 | [Scorn](games/s/scorn.md) | 6.91% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -75,7 +75,7 @@
 | 73 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.42% |
 | 75 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
-| 76 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
+| 76 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
 | 77 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.30% |
 | 78 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.23% |
@@ -121,12 +121,12 @@
 | 119 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
 | 121 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
+| 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 121 | [Godlike Burger](games/g/godlike_burger.md) | 0.33% |
-| 123 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
-| 123 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
-| 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 123 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
-| 123 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
+| 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 124 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
+| 124 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 128 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
