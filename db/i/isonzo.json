@@ -580,7 +580,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5930,
+  "EOS_Progressed": 5931,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -1720,6 +1720,11 @@
       "Time": "2023-05-29T00:01:15.7742071+00:00",
       "NumProgressed": 5930,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-29T02:07:01.4128747+00:00",
+      "NumProgressed": 5931,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1731,7 +1736,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -1763,7 +1768,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -1923,7 +1928,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1979,7 +1984,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2075,7 +2080,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2090,7 +2095,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5930,
+      "Progressed": 5931,
       "Completed": 8
     }
   ],
@@ -2098,8 +2103,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:01:15.7742066+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:07:01.4128742+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:24.1964378+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:01:15.7742736+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:03:57.146823+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:07:01.4129102+00:00"
 }

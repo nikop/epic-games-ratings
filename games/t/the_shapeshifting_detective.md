@@ -13,7 +13,7 @@
 | A Woman Scorned | 24.00% | ~41 |
 | Chameleon | 21.00% | ~36 |
 | Highlander | 20.00% | ~34 |
-| Look Mum I'm A Detective | 18.00% | ~31 |
+| Look Mum I'm A Detective | 19.00% | ~32 |
 | You Had One Job | 13.00% | ~22 |
 | Book 'em Danny | 11.00% | ~19 |
 | Poetent | 11.00% | ~19 |

@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "TROP005",
       "SetID": "9n0dl35",
       "Name": "A Friend in Need",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 256
     },
     {
       "ID": "TROP006",
@@ -553,8 +553,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:02:20.4097506+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:09:10.4519699+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.6373889+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:59:00.3140909+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:02:20.4097716+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:05:12.2401055+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:10.4519926+00:00"
 }

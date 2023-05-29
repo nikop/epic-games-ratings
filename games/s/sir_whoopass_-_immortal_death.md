@@ -57,6 +57,7 @@
 | You're looking mozzare-hella good! | 8.00% | ~5 |
 | Scrambled Eggs | 6.00% | ~4 |
 | Timber! | 5.00% | ~3 |
+| Grumpy Immortal | 5.00% | ~3 |
 | Free Of Chains | 5.00% | ~3 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
 | Ancient Ruins of Misplaced Belongings | 3.00% | ~2 |
@@ -64,7 +65,6 @@
 | I want to throw up! | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
 | My name is Whoopass, SIR Whoopass! | 3.00% | ~2 |
-| Grumpy Immortal | 3.00% | ~2 |
 | European karaoke king | 3.00% | ~2 |
 | Fifty Shades of Gruyere | 2.00% | ~1 |
 | Ancient Ruins of Vitamin D Addition | 2.00% | ~1 |

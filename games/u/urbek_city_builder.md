@@ -21,8 +21,8 @@
 | What would we do if we can't go out with friends? | 9.00% | ~18 |
 | Food producer | 6.00% | ~12 |
 | Metropolurbek | 6.00% | ~12 |
+| Sport is the best thing | 5.00% | ~10 |
 | I am very happy! | 4.00% | ~8 |
-| Sport is the best thing | 4.00% | ~8 |
 | Banking city | 3.00% | ~6 |
 | Read! Everyone should read! | 3.00% | ~6 |
 | Little Mayor | 3.00% | ~6 |

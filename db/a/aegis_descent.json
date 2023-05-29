@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -127,6 +127,11 @@
       "Time": "2023-05-27T22:00:37.717904+00:00",
       "NumProgressed": 366,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T02:09:10.7428731+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -178,7 +183,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -186,7 +191,7 @@
       "Name": "Death from Above",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -208,9 +213,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "Award_EarlyBird",
@@ -250,7 +255,7 @@
       "Name": "Gunner",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Award_HalfwayThere",
@@ -386,7 +391,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Award_ShellShock",
@@ -489,7 +494,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 1
     }
   ],
@@ -497,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:02:20.6517526+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:09:10.7428721+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:58:19.6556685+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:02:20.6517884+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:41.5476375+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:10.7429091+00:00"
 }

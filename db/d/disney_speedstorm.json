@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2611,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2008,9 +2008,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 235
     },
     {
       "ID": "13",
@@ -2182,8 +2182,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:03:24.7416072+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:09:29.5137955+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:59:03.1206785+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:03:24.7416368+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:05:15.7352635+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:29.513824+00:00"
 }

@@ -36,9 +36,9 @@ Rating: 4.56 (Ranked 451)
 | What They Hide From Us | 0.80% | ~18 |
 | ...  in a finite world | 0.80% | ~18 |
 | Delivery! | 0.80% | ~18 |
+| Pedal to the Metal | 0.80% | ~18 |
 | What the Ruins Teach Us | 0.80% | ~18 |
 | Pulsar Disciple | 0.80% | ~18 |
-| Pedal to the Metal | 0.70% | ~16 |
 | Sustainable Energy | 0.60% | ~13 |
 | You Had One Job... | 0.60% | ~13 |
 | Mutual Loyalty | 0.50% | ~11 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,248 (Ranked 144)  
+Progressed: 2,249 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 2,182 | 0 |
 | 2023-05-27 | 2,211 | 0 |
 | 2023-05-28 | 2,248 | 0 |
+| 2023-05-29 | 2,249 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

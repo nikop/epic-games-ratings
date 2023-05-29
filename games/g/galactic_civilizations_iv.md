@@ -49,8 +49,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iconians | 0.60% | ~35 |
 | Win as the Iridium | 0.60% | ~35 |
 | Win as the Onyx | 0.60% | ~35 |
+| Relic Hoarder | 0.30% | ~17 |
 | Iconia Reclaimed! | 0.30% | ~17 |
-| Relic Hoarder | 0.20% | ~12 |
 | Commodity Seller, Level 2 | 0.20% | ~12 |
 | Commodity Trader - Level 2 | 0.10% | ~6 |
 | Discover a Nebula | 0.10% | ~6 |

@@ -4,10 +4,10 @@
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 809,
   "Ranking_Popularity": 24,
-  "Ranking_PopularitySum": 40,
+  "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -5260,18 +5260,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 27945,
       "NumberOfAwardsMax": 13516
+    },
+    {
+      "Time": "2023-05-29T02:06:16.2185537+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 27978,
+      "NumberOfAwardsMax": 13549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27945,
-  "NumberOfAwardsMax": 13516,
+  "NumberOfAwards": 27978,
+  "NumberOfAwardsMax": 13549,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 13516
+      "Count": 13549
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5333,8 +5339,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-05-29T00:00:20.6606061+00:00",
+  "LastChanged": "2023-05-29T02:06:16.2185535+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:34.1706945+00:00",
-  "LastUpdate_Ratings": "2023-05-29T00:00:20.660607+00:00",
+  "LastUpdate_Ratings": "2023-05-29T02:06:16.2185542+00:00",
   "LastUpdate_Achievements": "2023-05-29T00:02:09.5840034+00:00"
 }

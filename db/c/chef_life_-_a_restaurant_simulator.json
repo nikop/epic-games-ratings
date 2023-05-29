@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1040,9 +1040,9 @@
       "ID": "CustomDressing20",
       "SetID": "d1bm05f",
       "Name": "Perfectionist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "DilemasResponsibility10",
@@ -1297,8 +1297,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:02:19.091875+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:09:09.3927414+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:58:27.9489703+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:02:19.091911+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:48.3170954+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:09.3927735+00:00"
 }

@@ -1,55 +1,55 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 560)  
+Rating: 4.49 (Ranked 559)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,248 |
-| Advancement | 73.00% | ~16,338 |
-| Meticulously Efficient | 64.00% | ~14,324 |
-| Discovery | 62.00% | ~13,876 |
-| Swift Rift Removers | 56.00% | ~12,533 |
-| Fully Upgraded | 55.00% | ~12,310 |
-| Cultured | 53.00% | ~11,862 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,638 |
-| Vaporous Expansion | 49.00% | ~10,967 |
-| Teamwork | 45.00% | ~10,071 |
-| There you are! | 44.00% | ~9,848 |
-| Clutch Capture | 41.00% | ~9,176 |
-| Back Off | 36.00% | ~8,057 |
-| Daily Dose | 35.00% | ~7,833 |
-| Welcome to the Crew | 33.00% | ~7,386 |
-| Solo Capture | 32.00% | ~7,162 |
-| Ghostbuster In Training | 31.00% | ~6,938 |
-| Icing on the Cake | 30.00% | ~6,714 |
-| Side Hustle | 28.00% | ~6,267 |
-| We have the best insurance | 27.00% | ~6,043 |
-| Legions | 27.00% | ~6,043 |
-| Stunner | 27.00% | ~6,043 |
-| Summoner | 27.00% | ~6,043 |
-| Pesky Jerks | 26.00% | ~5,819 |
-| Right back at ya | 26.00% | ~5,819 |
-| Animated | 25.00% | ~5,595 |
-| Skilled | 25.00% | ~5,595 |
-| Collector | 24.00% | ~5,371 |
-| Ectoplasmic Entity | 24.00% | ~5,371 |
-| Rift Destroyer | 20.00% | ~4,476 |
-| Tobin's Prodigy | 19.00% | ~4,252 |
-| Reckless | 18.00% | ~4,029 |
-| Terrifying | 17.00% | ~3,805 |
-| Diabolical | 16.00% | ~3,581 |
-| Escape Artist | 16.00% | ~3,581 |
-| Seasoned | 16.00% | ~3,581 |
-| Liability | 10.00% | ~2,238 |
-| Rivalry | 10.00% | ~2,238 |
-| Whoopsie | 10.00% | ~2,238 |
-| Fragile Panes | 9.00% | ~2,014 |
-| Surprise! | 9.00% | ~2,014 |
+| Stylish | 86.00% | ~19,255 |
+| Advancement | 73.00% | ~16,344 |
+| Meticulously Efficient | 64.00% | ~14,329 |
+| Discovery | 62.00% | ~13,881 |
+| Swift Rift Removers | 56.00% | ~12,538 |
+| Fully Upgraded | 55.00% | ~12,314 |
+| Cultured | 53.00% | ~11,866 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,642 |
+| Vaporous Expansion | 49.00% | ~10,971 |
+| Teamwork | 45.00% | ~10,075 |
+| There you are! | 44.00% | ~9,851 |
+| Clutch Capture | 41.00% | ~9,179 |
+| Back Off | 36.00% | ~8,060 |
+| Daily Dose | 35.00% | ~7,836 |
+| Welcome to the Crew | 33.00% | ~7,388 |
+| Solo Capture | 32.00% | ~7,164 |
+| Ghostbuster In Training | 31.00% | ~6,941 |
+| Icing on the Cake | 30.00% | ~6,717 |
+| Side Hustle | 28.00% | ~6,269 |
+| We have the best insurance | 27.00% | ~6,045 |
+| Legions | 27.00% | ~6,045 |
+| Stunner | 27.00% | ~6,045 |
+| Summoner | 27.00% | ~6,045 |
+| Pesky Jerks | 26.00% | ~5,821 |
+| Right back at ya | 26.00% | ~5,821 |
+| Animated | 25.00% | ~5,597 |
+| Skilled | 25.00% | ~5,597 |
+| Collector | 24.00% | ~5,373 |
+| Ectoplasmic Entity | 24.00% | ~5,373 |
+| Rift Destroyer | 20.00% | ~4,478 |
+| Tobin's Prodigy | 19.00% | ~4,254 |
+| Reckless | 18.00% | ~4,030 |
+| Terrifying | 17.00% | ~3,806 |
+| Diabolical | 16.00% | ~3,582 |
+| Escape Artist | 16.00% | ~3,582 |
+| Seasoned | 16.00% | ~3,582 |
+| Liability | 10.00% | ~2,239 |
+| Rivalry | 10.00% | ~2,239 |
+| Whoopsie | 10.00% | ~2,239 |
+| Fragile Panes | 9.00% | ~2,015 |
+| Surprise! | 9.00% | ~2,015 |
 | Master Collector | 7.00% | ~1,567 |
 | Rift Seeker | 7.00% | ~1,567 |
 | Therapeutic | 7.00% | ~1,567 |
-| Ghost Expert | 3.00% | ~671 |
+| Ghost Expert | 3.00% | ~672 |
 | Catostrophic Destroyer | 2.00% | ~448 |
 | Line em' up | 2.00% | ~448 |
 | Little Help Here | 2.00% | ~448 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 560)
 | I don't need these | 1.00% | ~224 |
 | Mycophile | 1.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,381 (Ranked 92)  
+Progressed: 22,389 (Ranked 92)  
 Completed: 40 (0.18%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,10 +96,10 @@ Completed: 40 (0.18%) (Ranked 144)
 | 2023-05-26 | 22,259 | 40 |
 | 2023-05-27 | 22,302 | 40 |
 | 2023-05-28 | 22,376 | 40 |
-| 2023-05-29 | 22,381 | 40 |
+| 2023-05-29 | 22,389 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
-Sum: 2,086 (Ranked 183)  
+Sum: 2,087 (Ranked 183)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -111,8 +111,8 @@ Diff (max vs sum): 63
 | This game is Extremely Fun | 207 |
 | This game is Highly Recommended | 202 |
 | This game is Relaxing | 202 |
+| This game has Amazing Characters | 195 |
 | This game has Quickly Understood Controls | 195 |
-| This game has Amazing Characters | 194 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -191,3 +191,4 @@ Diff (max vs sum): 63
 | 2023-05-26 | 4.49 | 231 | 2,084 |
 | 2023-05-27 | 4.49 | 231 | 2,085 |
 | 2023-05-28 | 4.49 | 231 | 2,086 |
+| 2023-05-29 | 4.49 | 231 | 2,087 |

@@ -4,7 +4,7 @@
   "ProductSlug": "symmetry-44cf24",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-26T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.6109921+00:00",
   "LastChanged": "2023-03-31T05:58:20.6109922+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.424893+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:09.4330172+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:03:07.0012293+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:03:45.3064327+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:15.1805922+00:00"
 }

@@ -824,9 +824,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "MQ03_3",
@@ -920,9 +920,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "MQ06_3",
@@ -944,9 +944,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "MQ07_2",
@@ -1001,8 +1001,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:03:39.568146+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:09:41.3835332+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:15.6960723+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:03:39.5681705+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:03:50.1859029+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:41.3835564+00:00"
 }

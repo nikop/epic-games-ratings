@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -889,9 +889,9 @@
       "ID": "SPORTS_2",
       "SetID": "44dlcg0",
       "Name": "Sport is the best thing",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "SPORTS_3",
@@ -1002,8 +1002,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:06:11.7189271+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:12:03.2834957+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:58:54.7496912+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:06:11.7190226+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:05:08.0800462+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:12:03.2835847+00:00"
 }

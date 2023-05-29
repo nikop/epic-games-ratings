@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 40.00% | ~6 |
-| Survivor | 26.00% | ~4 |
+| Aspairagus | 42.00% | ~6 |
+| Survivor | 28.00% | ~4 |
+| No Diggity | 26.00% | ~4 |
 | Seeds of War | 25.00% | ~16 |
-| No Diggity | 25.00% | ~4 |
-| Early Survivor | 23.00% | ~3 |
+| Early Survivor | 25.00% | ~4 |
 | Bouncemato | 20.00% | ~3 |
 | First Blood | 18.00% | ~12 |
 | Quick-Draw Pod | 18.00% | ~3 |
@@ -21,10 +21,10 @@
 | Oh My Gourd | 9.00% | ~1 |
 | Expert Survivor | 9.00% | ~1 |
 | Grave Digger | 9.00% | ~1 |
+| Quadsparagus | 9.00% | ~1 |
 | 15K | 8.00% | ~5 |
 | Skin Of Your Teeth | 8.00% | ~5 |
 | 10K | 8.00% | ~5 |
-| Quadsparagus | 8.00% | ~1 |
 | Drinking Problem | 6.00% | ~4 |
 | Perfect | 6.00% | ~1 |
 | Master Survivor | 6.00% | ~1 |

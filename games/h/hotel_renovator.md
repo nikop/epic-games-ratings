@@ -19,7 +19,7 @@ Rating: 4.52 (Ranked 506)
 | Moving up | 41.00% | ~317 |
 | Fine, I'll do it myself | 40.00% | ~310 |
 | No need to call anyone | 38.00% | ~294 |
-| Big fortune | 31.00% | ~240 |
+| Big fortune | 32.00% | ~248 |
 | Still more work ahead | 28.00% | ~217 |
 | Hotel sleuthing | 27.00% | ~209 |
 | Aesop's fable | 26.00% | ~201 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -2701,9 +2701,9 @@
       "ID": "Control_All_Relics",
       "SetID": "4h07amh",
       "Name": "Relic Hoarder",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "Destroy_8_Pirate_Bases",
@@ -3237,8 +3237,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-24T02:57:17.2647785+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:03:41.5244475+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:09:42.9636237+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.5418964+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:25.8705287+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:03:41.5245377+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:03:58.4793663+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:42.9637067+00:00"
 }

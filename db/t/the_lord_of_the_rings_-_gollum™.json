@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -395,6 +395,11 @@
       "Time": "2023-05-28T23:05:49.2188597+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T02:11:38.4796226+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -420,17 +425,17 @@
       "ID": "CatchAFish",
       "SetID": "70l3651",
       "Name": "And now we wish...",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 194
     },
     {
       "ID": "Chapter10",
@@ -516,9 +521,9 @@
       "ID": "Collectibles2",
       "SetID": "70l3651",
       "Name": "Collectibles Part 2",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Collectibles3",
@@ -612,9 +617,9 @@
       "ID": "OldGame",
       "SetID": "70l3651",
       "Name": "Master of the Old Game",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "RiverHobbit",
@@ -684,23 +689,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:05:41.7272783+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:11:38.4796222+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:47.6144539+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:05:41.7273073+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:15.8042709+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:11:38.4796488+00:00"
 }

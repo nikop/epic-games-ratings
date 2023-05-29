@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2737,
+  "EOS_Progressed": 2739,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-05-29T00:06:14.8118898+00:00",
       "NumProgressed": 2737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T02:12:06.0796819+00:00",
+      "NumProgressed": 2739,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1249,7 +1254,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "BloodAndIron",
@@ -1385,7 +1390,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1401,7 +1406,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "Kills_Bleed",
@@ -1457,7 +1462,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "Kills_Streak",
@@ -1657,7 +1662,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1673,7 +1678,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "SkilledKnight",
@@ -1704,21 +1709,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2737,
+      "Progressed": 2739,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2737,
+      "Progressed": 2739,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:06:14.8118892+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:12:06.0796813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:58:42.1267799+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:06:14.81194+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:58.9455823+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:12:06.0797409+00:00"
 }

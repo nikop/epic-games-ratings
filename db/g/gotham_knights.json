@@ -1280,9 +1280,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62627,
+  "EOS_Progressed": 62637,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4170,6 +4170,11 @@
       "Time": "2023-05-29T00:06:19.612816+00:00",
       "NumProgressed": 62627,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T02:12:10.1997204+00:00",
+      "NumProgressed": 62637,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4283,9 +4288,9 @@
       "ID": "CLAYFACE_1",
       "SetID": "4eo5ebm",
       "Name": "Something in the Clay",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 626
     },
     {
       "ID": "CLAYFACE_2",
@@ -4507,9 +4512,9 @@
       "ID": "HARLEY_4",
       "SetID": "4eo5ebm",
       "Name": "Universal Health Scare",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 501
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -4668,13 +4673,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62627,
+      "Progressed": 62637,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32907,
+      "Progressed": 32917,
       "Completed": 2643
     }
   ],
@@ -4682,8 +4687,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T21:59:47.3836473+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:06:19.6128156+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:12:10.1997197+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:59:52.7096775+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:06:19.6128844+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:05:54.3830658+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:12:10.1997957+00:00"
 }

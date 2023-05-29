@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~55 |
-| To Each Their Own | 49.00% | ~28 |
-| You Get An Upgrade, You Get An Upgrade! | 18.00% | ~10 |
-| Onwards and Upwards | 18.00% | ~10 |
+| You're Going Down! | 95.00% | ~55 |
+| To Each Their Own | 48.00% | ~28 |
+| You Get An Upgrade, You Get An Upgrade! | 17.00% | ~10 |
+| Onwards and Upwards | 17.00% | ~10 |
 | Like Phileas Fogg | 14.00% | ~8 |
 | Serial Winner | 7.00% | ~4 |
 | Start Your Engines | 7.00% | ~4 |
@@ -18,18 +18,18 @@
 | Tailor-Made for Two | 5.00% | ~3 |
 | Lone Wolf | 5.00% | ~3 |
 | Playing God | 5.00% | ~3 |
-| Déjà-Vu | 4.00% | ~2 |
-| The Joy of Discovery | 4.00% | ~2 |
-| Gotta Go Fast! | 4.00% | ~2 |
-| Say My Name | 4.00% | ~2 |
-| Nerd | 4.00% | ~2 |
-| Geek | 4.00% | ~2 |
-| The Immortal One | 4.00% | ~2 |
-| Time Is of the Essence | 4.00% | ~2 |
-| First and Foremost | 4.00% | ~2 |
-| Made Mother Proud | 4.00% | ~2 |
-| Winner Winner Chicken Dinner | 4.00% | ~2 |
-| Tailor-Made | 4.00% | ~2 |
+| Déjà-Vu | 3.00% | ~2 |
+| The Joy of Discovery | 3.00% | ~2 |
+| Gotta Go Fast! | 3.00% | ~2 |
+| Say My Name | 3.00% | ~2 |
+| Nerd | 3.00% | ~2 |
+| Geek | 3.00% | ~2 |
+| The Immortal One | 3.00% | ~2 |
+| Time Is of the Essence | 3.00% | ~2 |
+| First and Foremost | 3.00% | ~2 |
+| Made Mother Proud | 3.00% | ~2 |
+| Winner Winner Chicken Dinner | 3.00% | ~2 |
+| Tailor-Made | 3.00% | ~2 |
 | Golden Ratio | 2.00% | ~1 |
 | POI Hunter | 2.00% | ~1 |
 | Last One Standing | 2.00% | ~1 |
@@ -44,8 +44,8 @@
 | Playing Favourites | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 293)  
-Completed: 1 (1.75%) (Ranked 67)  
+Progressed: 58 (Ranked 293)  
+Completed: 1 (1.72%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,3 +68,4 @@ Completed: 1 (1.75%) (Ranked 67)
 | 2023-05-26 | 53 | 1 |
 | 2023-05-27 | 56 | 1 |
 | 2023-05-28 | 57 | 1 |
+| 2023-05-29 | 58 | 1 |

@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.32,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -128,6 +128,11 @@
       "Time": "2023-05-28T13:08:33.9223344+00:00",
       "NumProgressed": 76,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T02:12:04.6297168+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -185,9 +190,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement16",
@@ -201,7 +206,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
       "UsersEstimate": 51
     },
@@ -209,7 +214,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 90,
       "UsersEstimate": 25
     },
@@ -217,7 +222,7 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -225,7 +230,7 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 15
     },
@@ -273,7 +278,7 @@
       "ID": "Achievement6",
       "SetID": "jf6ho5",
       "Name": "Total Eclipse",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -306,7 +311,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 1
     }
   ],
@@ -314,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:06:13.203194+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:12:04.6297162+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.9291912+00:00",
-  "LastUpdate_Ratings": "2023-05-29T00:00:21.6165984+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:06:13.2032104+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:06:17.2159762+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:12:04.6297309+00:00"
 }

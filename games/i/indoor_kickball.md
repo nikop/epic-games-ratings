@@ -14,7 +14,7 @@
 | Stay Hydrated | 48.00% | ~11 |
 | Settle Down | 43.00% | ~10 |
 | Butter Fingers | 43.00% | ~10 |
-| True Story! | 30.00% | ~7 |
+| True Story! | 35.00% | ~8 |
 | Bedroom Secret Spot | 26.00% | ~6 |
 | Grand Slam! | 22.00% | ~5 |
 | Kick It | 17.00% | ~4 |

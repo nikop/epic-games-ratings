@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5592,
+  "EOS_Progressed": 5599,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2260,6 +2260,11 @@
       "Time": "2023-05-29T00:01:02.6072847+00:00",
       "NumProgressed": 5592,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-29T02:06:50.9021247+00:00",
+      "NumProgressed": 5599,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -2271,7 +2276,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4647
     },
     {
       "ID": "ACH02",
@@ -2279,7 +2284,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACH03",
@@ -2295,7 +2300,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2016
     },
     {
       "ID": "ACH05",
@@ -2311,7 +2316,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ACH07",
@@ -2335,7 +2340,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH10",
@@ -2343,7 +2348,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1512
     },
     {
       "ID": "ACH11",
@@ -2375,7 +2380,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH15",
@@ -2391,7 +2396,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1344
     },
     {
       "ID": "ACH17",
@@ -2399,7 +2404,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH18",
@@ -2407,7 +2412,7 @@
       "Name": "Not So Fast",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH19",
@@ -2455,7 +2460,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH25",
@@ -2463,7 +2468,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH26",
@@ -2502,7 +2507,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5592,
+      "Progressed": 5599,
       "Completed": 26
     }
   ],
@@ -2510,8 +2515,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-28T02:10:13.0019789+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:01:02.6072842+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:06:50.9021241+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:57.283224+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:01:02.6073221+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:23.8112633+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:06:50.9021616+00:00"
 }

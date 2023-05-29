@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -669,9 +669,9 @@
       "ID": "IMMORTAL_1",
       "SetID": "9gfkh7c",
       "Name": "Grumpy Immortal",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 190,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "IRS_1",
@@ -948,8 +948,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:05:57.2715894+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:11:51.3884725+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:11.0809929+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:05:57.2716813+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:03:46.5735816+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:11:51.3885634+00:00"
 }

@@ -13,10 +13,10 @@
 | Vibing | 61.00% | ~546 |
 | Fun Guy | 61.00% | ~546 |
 | Tragic Brave | 52.00% | ~465 |
+| Awakened Spirits | 49.00% | ~439 |
 | Little Shop | 48.00% | ~430 |
-| Awakened Spirits | 48.00% | ~430 |
+| An Actor! | 44.00% | ~394 |
 | Surprise! | 43.00% | ~385 |
-| An Actor! | 43.00% | ~385 |
 | Curtain Call | 42.00% | ~376 |
 | Piece of Cake | 39.00% | ~349 |
 | Gooey Delight! | 39.00% | ~349 |

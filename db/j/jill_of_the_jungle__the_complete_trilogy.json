@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 908,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.4,
+  "EOS_Completed_Percentage": 7.38,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -2319,6 +2319,11 @@
       "Time": "2023-05-28T23:05:47.2746742+00:00",
       "NumProgressed": 906,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-05-29T02:11:36.8286925+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 5,
@@ -2330,7 +2335,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 906
+      "UsersEstimate": 908
     },
     {
       "ID": "2",
@@ -2354,7 +2359,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "5",
@@ -2362,14 +2367,14 @@
       "Name": "Jill the Champion",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 908,
       "Completed": 67
     }
   ],
@@ -2377,8 +2382,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:05:39.7957215+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:11:36.8286919+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.3724069+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:13.7568999+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:05:39.7957424+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:03:48.7013489+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:11:36.8287115+00:00"
 }

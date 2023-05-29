@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,8 +29,8 @@
   "Tags": [],
   "EOS_Progressed": 895,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 113,
-  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 109,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
     {
@@ -2134,9 +2134,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 439
     },
     {
       "ID": "34",
@@ -2222,9 +2222,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 394
     },
     {
       "ID": "44",
@@ -2335,8 +2335,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:05:46.3041322+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:11:42.2473665+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:28.4329983+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:05:46.304187+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:00.0415654+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:11:42.2474192+00:00"
 }

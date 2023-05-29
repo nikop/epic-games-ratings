@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13927,
+  "EOS_Progressed": 13933,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1949,6 +1949,11 @@
       "Time": "2023-05-29T00:03:48.1305509+00:00",
       "NumProgressed": 13927,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T02:09:48.1747966+00:00",
+      "NumProgressed": 13933,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1976,7 +1981,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1992,7 +1997,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2136,7 +2141,7 @@
       "Name": "Paper Jams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2279,13 +2284,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13927,
+      "Progressed": 13933,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1853,
+      "Progressed": 1859,
       "Completed": 29
     }
   ],
@@ -2293,8 +2298,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T00:03:48.1305504+00:00",
+  "LastChanged_Achievements": "2023-05-29T02:09:48.1747961+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:53.9958575+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:03:48.1305874+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:21.3890267+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:09:48.1748349+00:00"
 }

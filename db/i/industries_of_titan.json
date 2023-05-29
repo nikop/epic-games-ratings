@@ -2,12 +2,12 @@
   "ID": "protea",
   "Name": "Industries of Titan",
   "ProductSlug": "industries-of-titan",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-04-14T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 123,
   "RatingHistory": [
     {
@@ -366,6 +366,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-29T02:04:00.943783+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -383,8 +389,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:16.5099101+00:00",
-  "LastChanged": "2023-05-21T23:57:35.484385+00:00",
+  "LastChanged": "2023-05-29T02:04:00.9437828+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:19.8050087+00:00",
-  "LastUpdate_Ratings": "2023-05-28T23:57:29.5600654+00:00",
-  "LastUpdate_Achievements": "2023-05-29T00:01:02.375506+00:00"
+  "LastUpdate_Ratings": "2023-05-29T02:04:00.9437834+00:00",
+  "LastUpdate_Achievements": "2023-05-29T02:06:50.6995077+00:00"
 }
