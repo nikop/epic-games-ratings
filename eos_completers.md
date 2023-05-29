@@ -1,10 +1,10 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 100.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.89% |
-| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 25.71% |
-| 4 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 25.00% |
-| 4 | [Overloop](games/o/overloop.md) | 25.00% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.84% |
+| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 25.00% |
+| 3 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 25.00% |
+| 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
@@ -23,8 +23,8 @@
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.45% |
-| 24 | [Scorn](games/s/scorn.md) | 6.91% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
+| 24 | [Scorn](games/s/scorn.md) | 6.90% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.90% |
@@ -32,17 +32,17 @@
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.30% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.28% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
+| 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
+| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.46% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
-| 43 | [ZZT!](games/z/zzt!.md) | 3.19% |
+| 43 | [ZZT!](games/z/zzt!.md) | 3.23% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.12% |
 | 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
@@ -113,9 +113,9 @@
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.46% |
 | 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.40% |
-| 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
-| 115 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
-| 115 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
+| 114 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
+| 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
+| 114 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 117 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 117 | [Tchia](games/t/tchia.md) | 0.37% |
 | 119 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
@@ -156,15 +156,15 @@
 | 154 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 154 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 156 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 157 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 157 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.11% |
 | 157 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 160 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 160 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
-| 160 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 160 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 160 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 160 | [Supraland](games/s/supraland.md) | 0.10% |
+| 159 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 159 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
+| 159 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 159 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
+| 159 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 159 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
+| 159 | [Supraland](games/s/supraland.md) | 0.10% |
 | 166 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 167 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.08% |
 | 167 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
