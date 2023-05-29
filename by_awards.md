@@ -41,7 +41,7 @@
 | 39 | [SnowRunner](games/s/snowrunner.md) | 8,267 | 4.76 | 117 |
 | 40 | [Supraland](games/s/supraland.md) | 7,615 | 4.61 | 360 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,579 | 4.85 | 38 |
-| 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,359 | 4.57 | 438 |
+| 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,367 | 4.57 | 438 |
 | 43 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,282 | 4.58 | 420 |
 | 44 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,200 | 4.71 | 179 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,140 | 4.89 | 13 |
@@ -82,7 +82,7 @@
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,456 | 4.47 | 586 |
 | 81 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,327 | 4.68 | 237 |
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,314 | 4.46 | 596 |
-| 83 | [Paladins](games/p/paladins.md) | 3,252 | 4.35 | 720 |
+| 83 | [Paladins](games/p/paladins.md) | 3,255 | 4.35 | 720 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,209 | 4.59 | 406 |
 | 85 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,206 | 4.75 | 131 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,096 | 4.57 | 438 |

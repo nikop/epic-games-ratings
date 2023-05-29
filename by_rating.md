@@ -445,7 +445,7 @@
 | 438 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 491 |
 | 438 | [Hob](games/h/hob.md) | 4.57 | 0 | 491 |
 | 438 | [Isonzo](games/i/isonzo.md) | 4.57 | 31 | 441 |
-| 438 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,359 | 42 |
+| 438 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,367 | 42 |
 | 438 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,096 | 86 |
 | 438 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,449 | 19 |
 | 438 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,747 | 109 |
@@ -725,7 +725,7 @@
 | 720 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 259 |
 | 720 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.35 | 0 | 491 |
 | 720 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
-| 720 | [Paladins](games/p/paladins.md) | 4.35 | 3,252 | 83 |
+| 720 | [Paladins](games/p/paladins.md) | 4.35 | 3,255 | 83 |
 | 720 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 491 |
 | 720 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 39 | 414 |
 | 729 | [Against All Odds](games/a/against_all_odds.md) | 4.34 | 0 | 491 |

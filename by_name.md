@@ -1461,7 +1461,7 @@
 | [Nikopol - Secrets of the Immortals](games/n/nikopol_-_secrets_of_the_immortals.md) | - | - | 0 | - |
 | [Nine Noir Lives](games/n/nine_noir_lives.md) | - | - | 0 | - |
 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 78 | 2,367 | 95 |
-| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 438 | 7,359 | 42 |
+| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 438 | 7,367 | 42 |
 | [Nira](games/n/nira.md) | - | - | 0 | - |
 | [Nivalis](games/n/nivalis.md) | - | - | - | - |
 | [Nix](games/n/nix.md) | - | - | - | - |
@@ -1546,7 +1546,7 @@
 | [Pacific Drive](games/p/pacific_drive.md) | - | - | - | - |
 | [Painting Werther](games/p/painting_werther.md) | - | - | - | - |
 | [Paladin Dream](games/p/paladin_dream.md) | - | - | 0 | - |
-| [Paladins](games/p/paladins.md) | 4.35 | 720 | 3,252 | 83 |
+| [Paladins](games/p/paladins.md) | 4.35 | 720 | 3,255 | 83 |
 | [Pandemic 1993](games/p/pandemic_1993.md) | - | - | - | - |
 | [Panic Porcupine](games/p/panic_porcupine.md) | - | - | - | - |
 | [Panther](games/p/panther.md) | - | - | - | - |
