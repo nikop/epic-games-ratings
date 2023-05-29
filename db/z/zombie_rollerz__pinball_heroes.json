@@ -233,9 +233,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -778,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:07:27.2481214+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:06:33.4159269+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:20.770751+00:00",
-  "LastUpdate_Ratings": "2023-05-29T05:57:59.4494511+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:07:27.2482235+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:57:44.6228072+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:06:33.4160013+00:00"
 }

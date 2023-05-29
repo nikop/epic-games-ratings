@@ -5,8 +5,8 @@ Rating: 4.17 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Step Into the Knight | 3.00% | ~1,881 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,254 |
-| First Step Into the Knight | 2.00% | ~1,254 |
 | Loose Ends | 2.00% | ~1,254 |
 | The Batman Family | 1.00% | ~627 |
 | Something in the Clay | 1.00% | ~627 |
@@ -17,11 +17,11 @@ Rating: 4.17 (Ranked 838)
 | Knighthood | 1.00% | ~627 |
 | Whispered Words | 1.00% | ~627 |
 | Lock and Key | 1.00% | ~627 |
+| The Show Mud Go On | 0.90% | ~564 |
 | Snow Problem | 0.90% | ~564 |
 | Unstoppable Force | 0.90% | ~564 |
 | Bad Apples in Every Orchard | 0.90% | ~564 |
 | Protector of Gotham | 0.80% | ~501 |
-| The Show Mud Go On | 0.80% | ~501 |
 | Universal Health Scare | 0.80% | ~501 |
 | From Inside Gotham's Walls | 0.80% | ~501 |
 | In Your Element | 0.70% | ~439 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,678 (Ranked 70)  
+Progressed: 62,684 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,678 | 91 |
+| 2023-05-29 | 62,684 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,737 (Ranked 138)  

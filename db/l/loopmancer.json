@@ -4,7 +4,7 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 88,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -69,6 +69,11 @@
       "Time": "2023-05-28T17:03:32.2915478+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T07:03:55.8370951+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -78,7 +83,7 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
       "UsersEstimate": 85
     },
@@ -86,7 +91,7 @@
       "ID": "ACH_AVOID_PLAZA_ATTACK",
       "SetID": "6d82akp",
       "Name": "Excellent Driving Skills",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -94,7 +99,7 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 103,
+      "Percentage": 105,
       "XP": 5,
       "UsersEstimate": 92
     },
@@ -102,7 +107,7 @@
       "ID": "ACH_DEFEAT_OGATA",
       "SetID": "6d82akp",
       "Name": "Best in Dragon City",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -158,7 +163,7 @@
       "ID": "ACH_DIE_FOR_VEHICLE",
       "SetID": "6d82akp",
       "Name": "Unexpected Crisis",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -198,7 +203,7 @@
       "ID": "ACH_ENDING_SWEET_DREAM",
       "SetID": "6d82akp",
       "Name": "Limbo",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -214,7 +219,7 @@
       "ID": "ACH_ENDING_WIFE_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Walking into a Trap",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 20
     },
@@ -246,7 +251,7 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 60
     },
@@ -262,7 +267,7 @@
       "ID": "ACH_KILL_MANY_GAKOGUY",
       "SetID": "6d82akp",
       "Name": "Ninja Killer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -350,7 +355,7 @@
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
       "SetID": "6d82akp",
       "Name": "Unavoidable",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 56
     },
@@ -438,7 +443,7 @@
       "ID": "ACH_UNLOCK_ALL_MAIN_ACTOR",
       "SetID": "6d82akp",
       "Name": "Greetings",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -478,7 +483,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
       "UsersEstimate": 85
     },
@@ -486,7 +491,7 @@
       "ID": "ACH_UNLOCK_MANY_CARDS",
       "SetID": "6d82akp",
       "Name": "Memento",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -494,7 +499,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
       "UsersEstimate": 76
     },
@@ -535,7 +540,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 88,
       "Completed": 0
     }
   ],
@@ -543,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:04:23.816615+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:03:55.8370945+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.1734599+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:00:40.1476935+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:04:23.8166683+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:59:52.742914+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:03:55.8371498+00:00"
 }

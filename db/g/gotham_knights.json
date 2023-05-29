@@ -1280,9 +1280,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62678,
+  "EOS_Progressed": 62684,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4195,6 +4195,11 @@
       "Time": "2023-05-29T06:07:28.843629+00:00",
       "NumProgressed": 62678,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T07:06:34.8220465+00:00",
+      "NumProgressed": 62684,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4316,9 +4321,9 @@
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 564
     },
     {
       "ID": "CLAYFACE_3",
@@ -4548,9 +4553,9 @@
       "ID": "HERO_PROGRESSION_1",
       "SetID": "4eo5ebm",
       "Name": "First Step Into the Knight",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1881
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4693,13 +4698,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62678,
+      "Progressed": 62684,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32958,
+      "Progressed": 32964,
       "Completed": 2643
     }
   ],
@@ -4707,8 +4712,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-28T21:59:47.3836473+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:07:28.8436173+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:06:34.8220457+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:00:47.8277446+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:07:28.8437166+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:59:58.6989616+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:06:34.8221232+00:00"
 }

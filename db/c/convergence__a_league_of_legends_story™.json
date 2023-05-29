@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-05-29T05:04:39.7547669+00:00",
       "NumProgressed": 479,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T07:05:19.8733922+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -597,7 +602,7 @@
       "Name": "Right On Time",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ClockworkCompletion1",
@@ -669,7 +674,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FairgroundsChests1",
@@ -683,9 +688,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 355
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -725,7 +730,7 @@
       "Name": "Rail Rat",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "HexlockGift",
@@ -813,7 +818,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ParryRepeated1",
@@ -821,7 +826,7 @@
       "Name": "No, Thanks!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "PhaseDiveCounter",
@@ -829,7 +834,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -853,7 +858,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "RewindParry",
@@ -861,7 +866,7 @@
       "Name": "Honest Mistake",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ScrambotCompletion1",
@@ -885,7 +890,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "SkillProgress1",
@@ -925,7 +930,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TheaterChests1",
@@ -941,7 +946,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "WarwickDefeated",
@@ -965,7 +970,7 @@
       "Name": "Good Neighbor",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Zarkon1Defeated",
@@ -988,14 +993,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:05:58.7728388+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:05:19.8733918+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:00:25.4657694+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:05:58.7728806+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:59:40.8741211+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:05:19.8734479+00:00"
 }

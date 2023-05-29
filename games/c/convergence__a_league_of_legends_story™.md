@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~445 |
-| Rail Rat | 76.00% | ~364 |
-| The Mysterious Stranger | 75.00% | ~359 |
-| Immaculate Aim | 62.00% | ~297 |
+| Time Heals All Wounds | 93.00% | ~446 |
+| Rail Rat | 76.00% | ~365 |
+| The Mysterious Stranger | 74.00% | ~355 |
+| Immaculate Aim | 62.00% | ~298 |
 | The Brass Boss | 54.00% | ~259 |
-| Honest Mistake | 52.00% | ~249 |
-| No, Thanks! | 51.00% | ~244 |
+| Honest Mistake | 52.00% | ~250 |
+| No, Thanks! | 51.00% | ~245 |
 | The Prince in Heels | 49.00% | ~235 |
 | Time Flies | 48.00% | ~230 |
-| The Harder They Fall | 47.00% | ~225 |
-| Right On Time | 46.00% | ~220 |
+| The Harder They Fall | 47.00% | ~226 |
+| Right On Time | 46.00% | ~221 |
 | Fast Learner | 45.00% | ~216 |
 | Immaculate Aim | 45.00% | ~216 |
 | Make Up For Lost Time | 43.00% | ~206 |
-| Breaking Down Barriers | 41.00% | ~196 |
+| Breaking Down Barriers | 41.00% | ~197 |
 | The Steel Shadow | 34.00% | ~163 |
 | Like Clockwork | 34.00% | ~163 |
 | Golem Chaser | 33.00% | ~158 |
 | The Wicked Twins | 30.00% | ~144 |
 | Family Memories | 29.00% | ~139 |
 | The Betrayer | 29.00% | ~139 |
-| Check Your Pulse | 27.00% | ~129 |
-| Good Neighbor | 27.00% | ~129 |
+| Check Your Pulse | 27.00% | ~130 |
+| Good Neighbor | 27.00% | ~130 |
 | Street Style | 25.00% | ~120 |
 | The Loose Cannon | 25.00% | ~120 |
 | The Man Who Shattered Time | 20.00% | ~96 |
@@ -36,11 +36,11 @@
 | Sump Explorer | 19.00% | ~91 |
 | Syron for Hope | 19.00% | ~91 |
 | Chaincrawler Explorer | 18.00% | ~86 |
-| Factorywood Explorer | 17.00% | ~81 |
+| Factorywood Explorer | 17.00% | ~82 |
 | Fairgrounds Explorer | 16.00% | ~77 |
 | Theater Explorer | 14.00% | ~67 |
 | Cultivair Explorer | 13.00% | ~62 |
-| Rungs Was Right | 12.00% | ~57 |
+| Rungs Was Right | 12.00% | ~58 |
 | Corin Goes Home | 11.00% | ~53 |
 | Sartorialist | 11.00% | ~53 |
 | Entresol Explorer | 11.00% | ~53 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 195)  
+Progressed: 480 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 386 | 0 |
 | 2023-05-27 | 438 | 0 |
 | 2023-05-28 | 474 | 0 |
-| 2023-05-29 | 479 | 0 |
+| 2023-05-29 | 480 | 0 |

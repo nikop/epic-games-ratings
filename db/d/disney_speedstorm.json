@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2612,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2013,9 +2013,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 235
     },
     {
       "ID": "13",
@@ -2133,9 +2133,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 731
+      "UsersEstimate": 757
     },
     {
       "ID": "5",
@@ -2187,8 +2187,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:03:51.5162137+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:03:38.4935878+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-29T05:59:48.4501859+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:03:51.5162479+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:59:12.1945994+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:03:38.4936161+00:00"
 }

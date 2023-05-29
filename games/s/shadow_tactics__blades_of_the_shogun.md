@@ -6,30 +6,30 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,198 |
-| Thorough | 9.00% | ~15,478 |
+| Genin | 10.00% | ~17,199 |
+| Thorough | 9.00% | ~15,479 |
 | A thief's beginning | 7.00% | ~12,039 |
 | Tanuki Time | 7.00% | ~12,039 |
-| Disguised | 6.00% | ~10,319 |
-| Jonin | 6.00% | ~10,319 |
-| Rescue Takuma | 6.00% | ~10,319 |
-| Rollin' | 6.00% | ~10,319 |
-| Stoned Ox | 6.00% | ~10,319 |
-| Chunin | 5.00% | ~8,599 |
-| Happy Planning | 5.00% | ~8,599 |
-| Ice Ice Yuki | 5.00% | ~8,599 |
-| Mugen Unchained | 5.00% | ~8,599 |
-| Yabu | 5.00% | ~8,599 |
-| Flying Rocks | 4.00% | ~6,879 |
-| Okkoto | 4.00% | ~6,879 |
-| Prisoners | 4.00% | ~6,879 |
-| Too Early | 4.00% | ~6,879 |
-| Warzone | 4.00% | ~6,879 |
-| Gear up | 3.00% | ~5,159 |
-| Happy little accidents | 3.00% | ~5,159 |
-| Noboru | 3.00% | ~5,159 |
-| Still Rollin' | 3.00% | ~5,159 |
-| Stoned | 3.00% | ~5,159 |
+| Disguised | 6.00% | ~10,320 |
+| Jonin | 6.00% | ~10,320 |
+| Rescue Takuma | 6.00% | ~10,320 |
+| Rollin' | 6.00% | ~10,320 |
+| Stoned Ox | 6.00% | ~10,320 |
+| Chunin | 5.00% | ~8,600 |
+| Happy Planning | 5.00% | ~8,600 |
+| Ice Ice Yuki | 5.00% | ~8,600 |
+| Mugen Unchained | 5.00% | ~8,600 |
+| Yabu | 5.00% | ~8,600 |
+| Flying Rocks | 4.00% | ~6,880 |
+| Okkoto | 4.00% | ~6,880 |
+| Prisoners | 4.00% | ~6,880 |
+| Too Early | 4.00% | ~6,880 |
+| Warzone | 4.00% | ~6,880 |
+| Gear up | 3.00% | ~5,160 |
+| Happy little accidents | 3.00% | ~5,160 |
+| Noboru | 3.00% | ~5,160 |
+| Still Rollin' | 3.00% | ~5,160 |
+| Stoned | 3.00% | ~5,160 |
 | Atheist Ox | 2.00% | ~3,440 |
 | It's raining men | 2.00% | ~3,440 |
 | The Old Way | 2.00% | ~3,440 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~172 |
 | Release the Kraken | 0.10% | ~172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,982 (Ranked 53)  
+Progressed: 171,992 (Ranked 53)  
 Completed: 47 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 47 (0.03%) (Ranked 185)
 | 2023-05-26 | 171,089 | 47 |
 | 2023-05-27 | 171,505 | 47 |
 | 2023-05-28 | 171,914 | 47 |
-| 2023-05-29 | 171,982 | 47 |
+| 2023-05-29 | 171,992 | 47 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,673 (Ranked 126)  

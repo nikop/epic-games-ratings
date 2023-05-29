@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1073,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1055,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -751,6 +751,11 @@
       "Time": "2023-05-29T06:03:21.3353461+00:00",
       "NumProgressed": 1073,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T07:03:13.377343+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -768,9 +773,9 @@
       "ID": "AI_DRAW",
       "SetID": "8lhbnh7",
       "Name": "Puppetmaster",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "BOT_DESTROYER",
@@ -850,7 +855,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -866,7 +871,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "GUARD_MAKER",
@@ -898,7 +903,7 @@
       "Name": "Knight Commander",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -937,14 +942,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1073,
+      "Progressed": 1075,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:03:21.3353456+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:03:13.3773424+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-29T05:57:30.1205589+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:03:21.3353662+00:00"
+  "LastUpdate_Ratings": "2023-05-29T06:57:17.566829+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:03:13.3773643+00:00"
 }

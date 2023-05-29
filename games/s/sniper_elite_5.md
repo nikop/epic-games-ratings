@@ -44,9 +44,9 @@ Rating: 4.42 (Ranked 651)
 | Herr Today, Gone Tomorrow | 0.60% | ~10 |
 | Siegebreaker | 0.60% | ~10 |
 | Ghost of Falaise | 0.60% | ~10 |
+| Strategist | 0.50% | ~9 |
 | Tinkerer | 0.50% | ~9 |
 | Don't hold your breath | 0.50% | ~9 |
-| Strategist | 0.40% | ~7 |
 | Road Rage | 0.40% | ~7 |
 | Last Resort | 0.40% | ~7 |
 | From Paris with Love | 0.30% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 651)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,780 (Ranked 152)  
+Progressed: 1,781 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,780 | 2 |
+| 2023-05-29 | 1,781 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1780,
+  "EOS_Progressed": 1781,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
@@ -1794,6 +1794,11 @@
       "Time": "2023-05-29T06:07:02.7621899+00:00",
       "NumProgressed": 1780,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T07:06:12.628864+00:00",
+      "NumProgressed": 1781,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1875,9 +1880,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -2372,13 +2377,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1731,
+      "Progressed": 1732,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1780,
+      "Progressed": 1781,
       "Completed": 2
     }
   ],
@@ -2386,8 +2391,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:07:02.7621895+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:06:12.6288636+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:01:44.532877+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:07:02.7622797+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:00:47.8605385+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:06:12.6289491+00:00"
 }

@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10689,
+  "EOS_Progressed": 10690,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
@@ -4104,6 +4104,11 @@
       "Time": "2023-05-29T06:07:15.7513777+00:00",
       "NumProgressed": 10689,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2023-05-29T07:06:23.6471414+00:00",
+      "NumProgressed": 10690,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 20,
@@ -4131,7 +4136,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -4179,7 +4184,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "FOUND_ERIN",
@@ -4211,7 +4216,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -4251,7 +4256,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -4274,15 +4279,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10689,
+      "Progressed": 10690,
       "Completed": 230
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-29T06:07:15.7513771+00:00",
+  "LastChanged_Achievements": "2023-05-29T07:06:23.6471405+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-29T06:01:17.3884637+00:00",
-  "LastUpdate_Achievements": "2023-05-29T06:07:15.7514177+00:00"
+  "LastUpdate_Ratings": "2023-05-29T07:00:25.0525516+00:00",
+  "LastUpdate_Achievements": "2023-05-29T07:06:23.6471782+00:00"
 }

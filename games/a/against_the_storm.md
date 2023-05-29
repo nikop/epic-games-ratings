@@ -21,6 +21,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 1.00% | ~151 |
 | Royal Outpost | 1.00% | ~151 |
 | Lost Colonies | 1.00% | ~151 |
+| Watchtower | 1.00% | ~151 |
 | Cursed Lands | 1.00% | ~151 |
 | A Real Challenge | 1.00% | ~151 |
 | Like a Machine | 1.00% | ~151 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.90% | ~136 |
 | Monastery of the Holy Flame | 0.90% | ~136 |
 | Corrosive Torrent | 0.90% | ~136 |
-| Watchtower | 0.90% | ~136 |
 | Against All Odds | 0.80% | ~121 |
 | Statue of the Forefathers | 0.80% | ~121 |
 | Serving Ale | 0.70% | ~105 |

@@ -9,19 +9,19 @@
 | Into the Barn | 86.00% | ~772 |
 | A Prophecy | 84.00% | ~754 |
 | Sword, Shield, Fight! | 74.00% | ~665 |
-| A Grand Visit | 70.00% | ~629 |
+| A Grand Visit | 71.00% | ~638 |
+| Vibing | 61.00% | ~548 |
 | Fun Guy | 61.00% | ~548 |
-| Vibing | 60.00% | ~539 |
 | Tragic Brave | 52.00% | ~467 |
 | Awakened Spirits | 49.00% | ~440 |
 | Little Shop | 48.00% | ~431 |
 | Surprise! | 43.00% | ~386 |
 | An Actor! | 43.00% | ~386 |
 | Curtain Call | 42.00% | ~377 |
+| Well Rested | 40.00% | ~359 |
 | Piece of Cake | 39.00% | ~350 |
 | Gooey Delight! | 39.00% | ~350 |
 | Glimmer of Hope | 39.00% | ~350 |
-| Well Rested | 39.00% | ~350 |
 | Teacups for Toppy | 38.00% | ~341 |
 | Nightmare Fuel | 37.00% | ~332 |
 | Take Heart | 37.00% | ~332 |
