@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2320,7 +2320,7 @@
   ],
   "EOS_Progressed": 15070,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4632,9 +4632,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 151
     },
     {
       "ID": "WinNearMonastery",
@@ -4840,8 +4840,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-28T15:00:05.6433519+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:05:47.4975378+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:07:00.3599085+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:59:33.5871133+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:05:47.4976175+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:00:39.7642873+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:07:00.3599548+00:00"
 }

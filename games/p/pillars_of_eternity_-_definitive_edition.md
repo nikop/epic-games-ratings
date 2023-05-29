@@ -32,9 +32,9 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Siege of Crägholdt | 7.00% | ~76 |
 | A Voice from the Deep | 6.00% | ~65 |
 | Called to their Labor | 6.00% | ~65 |
+| Chef | 5.00% | ~54 |
 | From the Clouds to the Depths | 5.00% | ~54 |
 | Explorer | 5.00% | ~54 |
-| Chef | 4.00% | ~43 |
 | Scribe | 4.00% | ~43 |
 | Appease All of the Gods | 4.00% | ~43 |
 | Terror of the White March | 4.00% | ~43 |

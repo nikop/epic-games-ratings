@@ -1,7 +1,7 @@
 # Bad North
 [Store](https://store.epicgames.com/en-US/p/bad-north)  
 [View Rawdata](../../db/b/bad_north.json)  
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 237)  
 Number of Ratings: 859  (23.09.2022)  
 ## Awards
 | Award | Count |

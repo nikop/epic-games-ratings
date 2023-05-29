@@ -3,11 +3,11 @@
   "Name": "HUMANKIND\u2122 Standard Edition",
   "ProductSlug": "humankind",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 320,
+  "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 240,
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-08-17T14:00:00+00:00",
@@ -1074,11 +1074,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 893,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-05-29T18:58:32.6083254+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 895,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 893,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 895,
+  "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -1091,7 +1097,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1115,7 +1121,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game is Educational",
@@ -1165,8 +1171,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2023-05-27T06:58:11.4400508+00:00",
+  "LastChanged": "2023-05-29T18:58:32.6083251+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:55.5410312+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:57:55.2670497+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:02:14.1026446+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:58:32.6083259+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:03:18.5358675+00:00"
 }

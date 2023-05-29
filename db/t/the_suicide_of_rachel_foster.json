@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1087,
+  "EOS_Progressed": 1088,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.06,
   "EosHistory": [
@@ -802,6 +802,11 @@
       "Time": "2023-05-29T18:05:34.3283334+00:00",
       "NumProgressed": 1087,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-05-29T19:06:45.509302+00:00",
+      "NumProgressed": 1088,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 11,
@@ -829,7 +834,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -877,7 +882,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -900,15 +905,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1087,
+      "Progressed": 1088,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:05:34.3283329+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:06:45.5093014+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.0683903+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:59:36.9197561+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:05:34.3283521+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:00:46.4303458+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:06:45.5093146+00:00"
 }

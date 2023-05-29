@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1218,
+  "EOS_Progressed": 1219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2359,6 +2359,11 @@
       "Time": "2023-05-29T18:05:35.3577144+00:00",
       "NumProgressed": 1218,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T19:06:46.7239815+00:00",
+      "NumProgressed": 1219,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2458,7 +2463,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "doingmypart",
@@ -2554,7 +2559,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "fourleafclover",
@@ -2576,9 +2581,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 171
     },
     {
       "ID": "gearenchanting",
@@ -2602,7 +2607,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "herewegoagain",
@@ -2720,9 +2725,9 @@
       "ID": "movinguptheladder",
       "SetID": "3nl4bcg",
       "Name": "Moving Up The Ladder",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 61
     },
     {
       "ID": "mysteriousrock",
@@ -2794,7 +2799,7 @@
       "Name": "Scientist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "scrollmaster",
@@ -2826,7 +2831,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "thealchemist",
@@ -2858,7 +2863,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "thepowerofawakening",
@@ -2930,7 +2935,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "warmachinesarmy",
@@ -2962,14 +2967,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1218,
+      "Progressed": 1219,
       "Completed": 1
     }
   ],
@@ -2977,8 +2982,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:05:35.3577138+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:06:46.7239809+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:57:47.3386332+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:05:35.3578747+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:58:22.1228955+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:06:46.7240681+00:00"
 }

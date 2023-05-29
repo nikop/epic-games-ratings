@@ -15,12 +15,12 @@ Rating: 4.67 (Ranked 257)
 | Gold rush | 6.00% | ~25 |
 | Spirit animal | 6.00% | ~25 |
 | Liar Liar | 5.00% | ~21 |
+| A friend in need... | 5.00% | ~21 |
+| Sneak peek | 4.00% | ~16 |
 | Fishing fanatic | 4.00% | ~16 |
-| A friend in need... | 4.00% | ~16 |
 | The cycle acknowledged | 4.00% | ~16 |
 | Baba Yaga | 4.00% | ~16 |
 | Extensive retelling | 3.00% | ~12 |
-| Sneak peek | 3.00% | ~12 |
 | Favorite | 3.00% | ~12 |
 | The word around is... | 3.00% | ~12 |
 | Queen | 3.00% | ~12 |

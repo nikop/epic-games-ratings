@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38320,
+  "EOS_Progressed": 38322,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2812,6 +2812,11 @@
       "Time": "2023-05-29T17:07:26.4691368+00:00",
       "NumProgressed": 38320,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T19:06:50.3874378+00:00",
+      "NumProgressed": 38322,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2975,7 +2980,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "CUFF_ATTACK",
@@ -3246,22 +3251,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38320,
+      "Progressed": 38322,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3157,
-      "Completed": 3157
+      "Progressed": 3159,
+      "Completed": 3159
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:05:38.5152084+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:06:50.3874374+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4981852+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:58:12.3855669+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:05:38.5152907+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:58:56.8535468+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:06:50.3875109+00:00"
 }

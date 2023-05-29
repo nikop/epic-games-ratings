@@ -9,7 +9,7 @@
 | Onwards and Upwards | 19.00% | ~11 |
 | You Get An Upgrade, You Get An Upgrade! | 17.00% | ~10 |
 | Like Phileas Fogg | 14.00% | ~8 |
-| Serial Winner | 9.00% | ~5 |
+| Serial Winner | 10.00% | ~6 |
 | Start Your Engines | 7.00% | ~4 |
 | Seven-League Boots | 5.00% | ~3 |
 | Nerd | 5.00% | ~3 |

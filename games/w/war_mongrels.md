@@ -31,8 +31,8 @@ Number of Ratings: 34  (23.09.2022)
 | It's Just an Accident | 19.00% | ~56 |
 | Bullseye! | 18.00% | ~53 |
 | Collectibles of Chapter III | 16.00% | ~47 |
+| Sorrow | 16.00% | ~47 |
 | Collectibles of Chapter IV | 15.00% | ~44 |
-| Sorrow | 15.00% | ~44 |
 | Atonement | 14.00% | ~41 |
 | Without a Second Thought | 12.00% | ~36 |
 | Helping Hand | 11.00% | ~33 |

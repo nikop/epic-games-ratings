@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~727 |
-| Ranidaphobia | 70.00% | ~559 |
-| Aspiring Editor | 66.00% | ~527 |
-| Gun for Hire | 60.00% | ~479 |
-| I am the law! | 48.00% | ~384 |
-| Lumberjack | 30.00% | ~240 |
-| From Darkness to Light | 27.00% | ~216 |
-| Firestarter | 26.00% | ~208 |
+| First Blood | 91.00% | ~730 |
+| Ranidaphobia | 71.00% | ~569 |
+| Aspiring Editor | 67.00% | ~537 |
+| Gun for Hire | 61.00% | ~489 |
+| I am the law! | 49.00% | ~393 |
+| Lumberjack | 30.00% | ~241 |
+| From Darkness to Light | 27.00% | ~217 |
+| Limp Richard | 26.00% | ~209 |
+| Firestarter | 26.00% | ~209 |
 | Croaked | 25.00% | ~200 |
-| Limp Richard | 25.00% | ~200 |
 | Exorcist | 22.00% | ~176 |
 | Editor Adept | 21.00% | ~168 |
 | Giant Killer | 18.00% | ~144 |
@@ -33,21 +33,21 @@
 | Experienced | 6.00% | ~48 |
 | Ruthless | 6.00% | ~48 |
 | Chain Reaction | 4.00% | ~32 |
-| Curveball | 4.00% | ~32 |
 | Endgame | 4.00% | ~32 |
 | Savior | 4.00% | ~32 |
 | The Watchers | 4.00% | ~32 |
 | Wipe Out | 4.00% | ~32 |
 | Commando | 3.00% | ~24 |
+| Curveball | 3.00% | ~24 |
 | Dr Jones | 3.00% | ~24 |
-| Bot Whisperer | 2.00% | ~16 |
 | Chaos Theory | 2.00% | ~16 |
 | Side Order | 2.00% | ~16 |
+| Bot Whisperer | 1.00% | ~8 |
 | Cruelty | 1.00% | ~8 |
-| Dressed To Kill | 0.50% | ~4 |
-| Five Finger Deathcount | 0.40% | ~3 |
-| Fratricide | 0.30% | ~2 |
-| Goaaaaal! | 0.30% | ~2 |
+| Dressed To Kill | 0.60% | ~5 |
+| Five Finger Deathcount | 0.50% | ~4 |
+| Fratricide | 0.20% | ~2 |
+| Goaaaaal! | 0.20% | ~2 |
 | Alpha Editor | 0.00% | ~0 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 180)  
+Progressed: 802 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 501 | 0 |
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
-| 2023-05-29 | 799 | 0 |
+| 2023-05-29 | 802 | 0 |

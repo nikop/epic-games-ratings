@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,9 +779,9 @@
       "ID": "achBett",
       "SetID": "72gjli4",
       "Name": "Betty \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "achBrain",
@@ -1131,9 +1131,9 @@
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "achWorms",
@@ -1156,8 +1156,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:05:48.0399726+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:07:00.9487539+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.5505459+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:59:47.598703+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:05:48.0400564+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:00:58.545953+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:07:00.9487941+00:00"
 }

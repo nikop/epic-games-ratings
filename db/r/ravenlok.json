@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 902,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
@@ -1975,17 +1975,17 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 307
     },
     {
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 298
     },
     {
       "ID": "14",
@@ -2207,9 +2207,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 307
     },
     {
       "ID": "4",
@@ -2271,9 +2271,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 226
     },
     {
       "ID": "47",
@@ -2360,8 +2360,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:05:19.9219779+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:06:28.7512117+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:57:14.878937+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:05:19.9220703+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:57:42.0789819+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:06:28.7512775+00:00"
 }

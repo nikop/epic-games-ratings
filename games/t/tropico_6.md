@@ -6,15 +6,15 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,437 |
-| Un-Lonely Island | 49.00% | ~1,571 |
-| The Beginning of a Servantship | 46.00% | ~1,475 |
+| Just One...More...Term... | 76.00% | ~2,439 |
+| Un-Lonely Island | 48.00% | ~1,540 |
+| The Beginning of a Servantship | 46.00% | ~1,476 |
 | Trade Is My Trait | 38.00% | ~1,219 |
 | Number 18 | 25.00% | ~802 |
-| We Don't Have Time For That | 20.00% | ~641 |
-| The Governator | 19.00% | ~609 |
-| Caribbean Comrade | 17.00% | ~545 |
-| The Legend of Langostino | 17.00% | ~545 |
+| We Don't Have Time For That | 20.00% | ~642 |
+| The Governator | 19.00% | ~610 |
+| Caribbean Comrade | 17.00% | ~546 |
+| The Legend of Langostino | 17.00% | ~546 |
 | The Dreamer of Dreams | 16.00% | ~513 |
 | Go Sovereigns! | 12.00% | ~385 |
 | For Science! | 12.00% | ~385 |
@@ -25,12 +25,12 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 9.00% | ~289 |
 | Make Tropico Great Again! | 8.00% | ~257 |
 | French Connection | 8.00% | ~257 |
-| Don't Panic! | 7.00% | ~224 |
-| I Owe You Nothing | 7.00% | ~224 |
-| Computer Says "No" | 6.00% | ~192 |
-| Beware The Betman | 6.00% | ~192 |
-| Watch The World Burn | 6.00% | ~192 |
-| Fairy Tale Come True | 6.00% | ~192 |
+| Don't Panic! | 7.00% | ~225 |
+| I Owe You Nothing | 7.00% | ~225 |
+| Computer Says "No" | 6.00% | ~193 |
+| Beware The Betman | 6.00% | ~193 |
+| Watch The World Burn | 6.00% | ~193 |
+| Fairy Tale Come True | 6.00% | ~193 |
 | Viva Tropico! | 5.00% | ~160 |
 | Apocalypso | 4.00% | ~128 |
 | Been there, Done That | 3.00% | ~96 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~32 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,207 (Ranked 134)  
+Progressed: 3,209 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.03%) (Ranked 185)
 | 2023-05-26 | 3,108 | 1 |
 | 2023-05-27 | 3,148 | 1 |
 | 2023-05-28 | 3,194 | 1 |
-| 2023-05-29 | 3,207 | 1 |
+| 2023-05-29 | 3,209 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 315)  
 Sum: 752 (Ranked 255)  

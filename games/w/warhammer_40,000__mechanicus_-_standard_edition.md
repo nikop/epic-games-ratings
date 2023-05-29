@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,987 |
-| This is only the beginning | 19.00% | ~40,270 |
-| Knowledge is power | 12.00% | ~25,434 |
-| Power Ranger | 9.00% | ~19,075 |
-| Galvanic Rifle | 9.00% | ~19,075 |
-| Taser Goad | 9.00% | ~19,075 |
-| Radium Ready | 9.00% | ~19,075 |
-| Half a cog | 9.00% | ~19,075 |
-| Watch them crumble | 6.00% | ~12,717 |
-| Competent Cohort | 4.00% | ~8,478 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,478 |
-| One with the Machine | 4.00% | ~8,478 |
-| Legio Cybernetica | 3.00% | ~6,358 |
-| Fleshy Disposal | 3.00% | ~6,358 |
+| No aid from the Omnissiah | 25.00% | ~52,991 |
+| This is only the beginning | 19.00% | ~40,273 |
+| Knowledge is power | 12.00% | ~25,436 |
+| Power Ranger | 9.00% | ~19,077 |
+| Galvanic Rifle | 9.00% | ~19,077 |
+| Taser Goad | 9.00% | ~19,077 |
+| Radium Ready | 9.00% | ~19,077 |
+| Half a cog | 9.00% | ~19,077 |
+| Watch them crumble | 6.00% | ~12,718 |
+| Competent Cohort | 4.00% | ~8,479 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,479 |
+| One with the Machine | 4.00% | ~8,479 |
+| Legio Cybernetica | 3.00% | ~6,359 |
+| Fleshy Disposal | 3.00% | ~6,359 |
 | Battle Servitor | 2.00% | ~4,239 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,239 |
 | Impatient destruction | 2.00% | ~4,239 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 642)
 | Perma-live | 0.10% | ~212 |
 | Purge the Heretek | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,947 (Ranked 48)  
+Progressed: 211,965 (Ranked 48)  
 Completed: 3 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,17 +79,17 @@ Completed: 3 (0.00%) (Ranked 207)
 | 2023-05-26 | 211,364 | 3 |
 | 2023-05-27 | 211,581 | 3 |
 | 2023-05-28 | 211,804 | 3 |
-| 2023-05-29 | 211,947 | 3 |
+| 2023-05-29 | 211,965 | 3 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 230)  
-Sum: 2,099 (Ranked 182)  
+Sum: 2,100 (Ranked 182)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 277 |
 | This game has Quickly Understood Controls | 271 |
 | This game is Extremely Fun | 268 |
-| This game has Amazing Characters | 255 |
+| This game has Amazing Characters | 256 |
 | This game has Diverse Characters | 252 |
 | This game has Amazing Storytelling | 241 |
 | This game is Relaxing | 234 |
@@ -128,3 +128,4 @@ Diff (max vs sum): 48
 | 2023-05-15 | 4.43 | 277 | 2,094 |
 | 2023-05-20 | 4.43 | 277 | 2,096 |
 | 2023-05-27 | 4.43 | 277 | 2,099 |
+| 2023-05-29 | 4.43 | 277 | 2,100 |

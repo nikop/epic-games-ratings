@@ -2,12 +2,12 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -5790,10 +5790,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1338516,
       "NumberOfAwardsMax": 296955
+    },
+    {
+      "Time": "2023-05-29T18:59:18.6283769+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1338605,
+      "NumberOfAwardsMax": 296955
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1338516,
+  "NumberOfAwards": 1338605,
   "NumberOfAwardsMax": 296955,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5819,19 +5825,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 116563
+      "Count": 116588
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 111437
+      "Count": 111457
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 112791
+      "Count": 112817
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5849,7 +5855,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 108333
+      "Count": 108351
     },
     {
       "Text": "This game is Relaxing",
@@ -5875,8 +5881,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-05-29T14:58:34.5240471+00:00",
+  "LastChanged": "2023-05-29T18:59:18.6283768+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:27.7567161+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:58:29.9188329+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:03:47.3928389+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:59:18.6283776+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:04:46.6479527+00:00"
 }

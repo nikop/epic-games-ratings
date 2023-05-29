@@ -2,12 +2,12 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 109,
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 3949,
   "RatingHistory": [
     {
@@ -2510,6 +2510,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 6675,
       "NumberOfAwardsMax": 3775
+    },
+    {
+      "Time": "2023-05-29T18:57:42.2314022+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 6675,
+      "NumberOfAwardsMax": 3775
     }
   ],
   "ReviewsDisabled": false,
@@ -2601,8 +2607,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2023-05-29T13:57:30.4666347+00:00",
+  "LastChanged": "2023-05-29T18:57:42.2314021+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.7081056+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:57:14.973119+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:03:32.8033927+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:57:42.2314026+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:04:28.9026717+00:00"
 }

@@ -7,17 +7,17 @@
 | Tastes just like chicken! | 92.00% | ~61 |
 | MLG 360 no scope kill! | 91.00% | ~60 |
 | Are you ready to rumble? | 89.00% | ~59 |
-| That's what cheese said! | 82.00% | ~54 |
-| I like you...but I have to kill you... | 80.00% | ~53 |
+| That's what cheese said! | 83.00% | ~55 |
+| I like you...but I have to kill you... | 82.00% | ~54 |
+| AHHHHHH.....I'M ON FIRE!!! | 80.00% | ~53 |
+| Not so hip anymore! | 80.00% | ~53 |
 | Nerd | 80.00% | ~53 |
-| AHHHHHH.....I'M ON FIRE!!! | 79.00% | ~52 |
-| Not so hip anymore! | 79.00% | ~52 |
-| Blurry depth perception | 76.00% | ~50 |
-| Up and down | 73.00% | ~48 |
+| Blurry depth perception | 77.00% | ~51 |
+| Up and down | 74.00% | ~49 |
 | Rolling, Rolling, Rolling | 70.00% | ~46 |
 | Fire-fighter! | 61.00% | ~40 |
+| Oh, you're up to no gouda! | 59.00% | ~39 |
 | Make Love not War-Craft a Mistlefoe | 59.00% | ~39 |
-| Oh, you're up to no gouda! | 58.00% | ~38 |
 | Meat grinder | 56.00% | ~37 |
 | Butcher | 48.00% | ~32 |
 | You're not going to blow me up! | 48.00% | ~32 |
@@ -25,8 +25,8 @@
 | Honk honk! | 45.00% | ~30 |
 | My pants squeak when I walk | 45.00% | ~30 |
 | Spare Ribs | 45.00% | ~30 |
+| Cockadoodledoo! | 44.00% | ~29 |
 | Thats disgusting! | 42.00% | ~28 |
-| Cockadoodledoo! | 42.00% | ~28 |
 | Surprise!! | 41.00% | ~27 |
 | Make America Grate Again | 36.00% | ~24 |
 | Self assessed tax return | 36.00% | ~24 |

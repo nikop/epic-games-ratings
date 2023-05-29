@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2833,
+  "EOS_Progressed": 2834,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -1519,6 +1519,11 @@
       "Time": "2023-05-29T17:07:34.4554765+00:00",
       "NumProgressed": 2833,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-29T19:06:57.7729452+00:00",
+      "NumProgressed": 2834,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1578,7 +1583,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "campaign10",
@@ -1666,7 +1671,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "campaign20",
@@ -1682,7 +1687,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "campaign4",
@@ -1714,7 +1719,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "campaign8",
@@ -1793,7 +1798,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2833,
+      "Progressed": 2834,
       "Completed": 9
     }
   ],
@@ -1801,8 +1806,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:05:45.0989781+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:06:57.7729446+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:59:45.5059331+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:05:45.0990159+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:00:56.1603568+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:06:57.7729708+00:00"
 }

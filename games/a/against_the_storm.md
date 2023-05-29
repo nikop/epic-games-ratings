@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 1.00% | ~151 |
 | Ancient Battleground | 1.00% | ~151 |
 | Sparkdew Crystals | 1.00% | ~151 |
+| Flooded Mines | 1.00% | ~151 |
 | Royal Outpost | 1.00% | ~151 |
 | Lost Colonies | 1.00% | ~151 |
 | Watchtower | 1.00% | ~151 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.90% | ~136 |
 | Haunted Forest | 0.90% | ~136 |
 | Levitating Monument | 0.90% | ~136 |
-| Flooded Mines | 0.90% | ~136 |
 | Monastery of the Holy Flame | 0.90% | ~136 |
 | Corrosive Torrent | 0.90% | ~136 |
 | Against All Odds | 0.80% | ~121 |

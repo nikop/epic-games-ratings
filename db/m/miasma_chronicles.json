@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 802,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -712,6 +712,11 @@
       "Time": "2023-05-29T18:02:12.7232087+00:00",
       "NumProgressed": 799,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T19:03:16.9978404+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -737,9 +742,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 537
     },
     {
       "ID": "ATTENBOROUGH",
@@ -761,9 +766,9 @@
       "ID": "BOT_WHISPERER",
       "SetID": "9a4jnji",
       "Name": "Bot Whisperer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 8
     },
     {
       "ID": "CHAIN_KILLER",
@@ -817,9 +822,9 @@
       "ID": "CURVEBALL",
       "SetID": "9a4jnji",
       "Name": "Curveball",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 24
     },
     {
       "ID": "DEAD_DD",
@@ -833,9 +838,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 209
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -849,9 +854,9 @@
       "ID": "DRESSED_TO_KILL",
       "SetID": "9a4jnji",
       "Name": "Dressed To Kill",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_JONES",
@@ -899,7 +904,7 @@
       "Name": "Firestarter",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "FIRST_BLOOD",
@@ -907,21 +912,21 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 730
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
       "SetID": "9a4jnji",
       "Name": "Five Finger Deathcount",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FRATRICIDE",
       "SetID": "9a4jnji",
       "Name": "Fratricide",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -931,7 +936,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "GIANT_KILLER",
@@ -945,7 +950,7 @@
       "ID": "GOAL",
       "SetID": "9a4jnji",
       "Name": "Goaaaaal!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -953,9 +958,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 489
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -969,9 +974,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 393
     },
     {
       "ID": "INFILTRATOR",
@@ -987,7 +992,7 @@
       "Name": "Lumberjack",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1025,9 +1030,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 569
     },
     {
       "ID": "RECYCLER",
@@ -1130,14 +1135,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 802,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:02:12.7232081+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:03:16.9978399+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:58:03.6194482+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:02:12.7232802+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:58:44.6040376+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:03:16.9978805+00:00"
 }

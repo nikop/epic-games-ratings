@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3892,
+  "EOS_Progressed": 3900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2394,6 +2394,11 @@
       "Time": "2023-05-29T18:03:51.6953493+00:00",
       "NumProgressed": 3892,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T19:04:52.1807736+00:00",
+      "NumProgressed": 3900,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2405,7 +2410,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1599
     },
     {
       "ID": "10",
@@ -2421,7 +2426,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1794
     },
     {
       "ID": "12",
@@ -2437,7 +2442,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 741
     },
     {
       "ID": "14",
@@ -2445,7 +2450,7 @@
       "Name": "Full Ascension",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2067
     },
     {
       "ID": "15",
@@ -2453,7 +2458,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1170
     },
     {
       "ID": "16",
@@ -2461,7 +2466,7 @@
       "Name": "God Emperor",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "17",
@@ -2469,7 +2474,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "18",
@@ -2477,7 +2482,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "19",
@@ -2485,7 +2490,7 @@
       "Name": "The Creator",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "2",
@@ -2493,7 +2498,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1014
     },
     {
       "ID": "20",
@@ -2501,7 +2506,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "21",
@@ -2509,7 +2514,7 @@
       "Name": "Eternal Lord",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "22",
@@ -2517,7 +2522,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2925
     },
     {
       "ID": "23",
@@ -2525,7 +2530,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3081
     },
     {
       "ID": "24",
@@ -2533,7 +2538,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2925
     },
     {
       "ID": "25",
@@ -2541,7 +2546,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2808
     },
     {
       "ID": "26",
@@ -2549,7 +2554,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2340
     },
     {
       "ID": "27",
@@ -2557,7 +2562,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1170
     },
     {
       "ID": "28",
@@ -2565,7 +2570,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2691
     },
     {
       "ID": "29",
@@ -2573,7 +2578,7 @@
       "Name": "Stronger Together",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2106
     },
     {
       "ID": "3",
@@ -2581,7 +2586,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "30",
@@ -2589,7 +2594,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "31",
@@ -2597,7 +2602,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2496
     },
     {
       "ID": "32",
@@ -2605,7 +2610,7 @@
       "Name": "My Final Form",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1638
     },
     {
       "ID": "33",
@@ -2613,7 +2618,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1794
     },
     {
       "ID": "34",
@@ -2621,7 +2626,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1404
     },
     {
       "ID": "35",
@@ -2637,7 +2642,7 @@
       "Name": "Fiery Friend",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "37",
@@ -2645,7 +2650,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1170
     },
     {
       "ID": "38",
@@ -2661,7 +2666,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 975
     },
     {
       "ID": "4",
@@ -2669,7 +2674,7 @@
       "Name": "The Eternal Court",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "40",
@@ -2677,7 +2682,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1677
     },
     {
       "ID": "41",
@@ -2685,7 +2690,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "42",
@@ -2709,7 +2714,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "5",
@@ -2756,13 +2761,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3892,
-      "Completed": 3892
+      "Progressed": 3900,
+      "Completed": 3900
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3892,
+      "Progressed": 3900,
       "Completed": 0
     }
   ],
@@ -2770,8 +2775,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-28T10:59:16.0669024+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:03:51.6953488+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:04:52.1807731+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:59:02.9626477+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:03:51.6954354+00:00"
+  "LastUpdate_Ratings": "2023-05-29T19:00:03.4704141+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:04:52.1808225+00:00"
 }

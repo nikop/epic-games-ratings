@@ -11,18 +11,18 @@
 | Mutation ✔ | 25.00% | ~46 |
 | Doberman ✔ | 14.00% | ~25 |
 | Chess ✔ | 10.00% | ~18 |
+| Weapon ✔ | 10.00% | ~18 |
 | Master of Unlocking ✔ | 9.00% | ~16 |
-| Weapon ✔ | 9.00% | ~16 |
 | Survival ✔ | 8.00% | ~15 |
 | Cheats ✔ | 7.00% | ~13 |
 | Hospital ✔ | 7.00% | ~13 |
 | King of survival ✔ | 7.00% | ~13 |
 | Thirst ✔ | 7.00% | ~13 |
 | Antivirus ✔ | 6.00% | ~11 |
+| Betty ✔ | 6.00% | ~11 |
 | City ✔ | 6.00% | ~11 |
 | Fraternal help ✔ | 6.00% | ~11 |
 | Alice ✔ | 5.00% | ~9 |
-| Betty ✔ | 5.00% | ~9 |
 | Brain ✔ | 5.00% | ~9 |
 | Eva ✔ | 5.00% | ~9 |
 | Food ✔ | 5.00% | ~9 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.50% | ~1 |
 | Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 243)  
+Progressed: 182 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

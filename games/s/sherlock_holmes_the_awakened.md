@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 62.00% | ~188 |
-| Read Between The Lines | 61.00% | ~185 |
-| High Profile | 53.00% | ~161 |
-| Whispers In The Dark | 52.00% | ~158 |
-| Fond Memories | 47.00% | ~143 |
-| A Method To His Madness | 46.00% | ~140 |
-| History Check | 45.00% | ~137 |
-| Lock, Stock, And Barrel | 42.00% | ~128 |
-| Gaze Into The Abyss | 42.00% | ~128 |
-| The New World | 42.00% | ~128 |
+| To Hell In A Handcart | 61.00% | ~187 |
+| Read Between The Lines | 60.00% | ~184 |
+| High Profile | 53.00% | ~162 |
+| Whispers In The Dark | 52.00% | ~159 |
+| Fond Memories | 46.00% | ~141 |
+| History Check | 45.00% | ~138 |
+| A Method To His Madness | 45.00% | ~138 |
+| Lock, Stock, And Barrel | 42.00% | ~129 |
+| Gaze Into The Abyss | 42.00% | ~129 |
+| The New World | 42.00% | ~129 |
 | Open Sesame | 40.00% | ~122 |
 | Sticky Fingers | 40.00% | ~122 |
 | Back In The Saddle | 39.00% | ~119 |
 | Knives Out | 39.00% | ~119 |
 | Land, Ho! | 39.00% | ~119 |
-| No Man Is An Island | 37.00% | ~112 |
-| At Wits' End | 36.00% | ~109 |
-| Going Once... | 34.00% | ~103 |
-| Bookworm | 33.00% | ~100 |
-| Up In Flames | 33.00% | ~100 |
-| Fhtagn! | 33.00% | ~100 |
-| Let Me Be Frank | 31.00% | ~94 |
-| Brain Food | 29.00% | ~88 |
-| No Stone Unturned | 28.00% | ~85 |
+| No Man Is An Island | 37.00% | ~113 |
+| At Wits' End | 36.00% | ~110 |
+| Going Once... | 34.00% | ~104 |
+| Bookworm | 33.00% | ~101 |
+| Fhtagn! | 33.00% | ~101 |
+| Up In Flames | 32.00% | ~98 |
+| Let Me Be Frank | 31.00% | ~95 |
+| Brain Food | 29.00% | ~89 |
+| No Stone Unturned | 28.00% | ~86 |
 | Curiosity Killed The Cat | 18.00% | ~55 |
 | Read It And Weep | 18.00% | ~55 |
 | Big Breakthrough | 17.00% | ~52 |
 | Reawakened | 6.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304 (Ranked 220)  
-Completed: 13 (4.28%) (Ranked 33)  
+Progressed: 306 (Ranked 219)  
+Completed: 13 (4.25%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,7 +69,7 @@ Completed: 13 (4.28%) (Ranked 33)
 | 2023-05-26 | 257 | 12 |
 | 2023-05-27 | 271 | 12 |
 | 2023-05-28 | 293 | 13 |
-| 2023-05-29 | 304 | 13 |
+| 2023-05-29 | 306 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

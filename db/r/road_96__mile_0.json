@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -389,6 +389,11 @@
       "Time": "2023-05-29T18:02:30.2774527+00:00",
       "NumProgressed": 208,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T19:03:38.9737959+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -400,7 +405,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "completeact2",
@@ -416,7 +421,7 @@
       "Name": "On the Road",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "findalltapes",
@@ -454,9 +459,9 @@
       "ID": "scoreminrankrf1",
       "SetID": "40n95i5",
       "Name": "86\u0027s Nightmare",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "scoreminrankrf2",
@@ -470,17 +475,17 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "scoreminrankrp2",
@@ -502,9 +507,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrv2",
@@ -519,7 +524,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 2
     }
   ],
@@ -527,8 +532,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-29T18:02:30.2774519+00:00",
+  "LastChanged_Achievements": "2023-05-29T19:03:38.9737952+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-29T17:58:29.2772908+00:00",
-  "LastUpdate_Achievements": "2023-05-29T18:02:30.2774825+00:00"
+  "LastUpdate_Ratings": "2023-05-29T18:59:17.7845438+00:00",
+  "LastUpdate_Achievements": "2023-05-29T19:03:38.9738088+00:00"
 }

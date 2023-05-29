@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Character Unlocked | 72.00% | ~21 |
-| Hat Unlocked | 72.00% | ~21 |
-| Accessory Unlocked | 72.00% | ~21 |
-| Kickball Unlocked | 69.00% | ~20 |
-| Homer | 69.00% | ~20 |
-| First Win | 62.00% | ~18 |
-| Have a good trip! | 59.00% | ~17 |
-| Settle Down | 48.00% | ~14 |
-| Stay Hydrated | 48.00% | ~14 |
-| Butter Fingers | 45.00% | ~13 |
-| True Story! | 34.00% | ~10 |
-| Have Mercy | 28.00% | ~8 |
-| Grand Slam! | 24.00% | ~7 |
-| Bedroom Secret Spot | 24.00% | ~7 |
-| Kick It | 21.00% | ~6 |
-| Save some water for the fishies | 14.00% | ~4 |
-| Spooky | 14.00% | ~4 |
-| Bathroom Secret Spot | 14.00% | ~4 |
-| Classroom Secret Spot | 7.00% | ~2 |
-| Living Room Secret Spot | 7.00% | ~2 |
-| Angry Dad | 7.00% | ~2 |
-| At least everyone still had fun | 7.00% | ~2 |
+| Character Unlocked | 74.00% | ~23 |
+| Hat Unlocked | 74.00% | ~23 |
+| Accessory Unlocked | 74.00% | ~23 |
+| Kickball Unlocked | 65.00% | ~20 |
+| Homer | 65.00% | ~20 |
+| Have a good trip! | 61.00% | ~19 |
+| First Win | 58.00% | ~18 |
+| Stay Hydrated | 48.00% | ~15 |
+| Settle Down | 45.00% | ~14 |
+| Butter Fingers | 42.00% | ~13 |
+| True Story! | 32.00% | ~10 |
+| Have Mercy | 26.00% | ~8 |
+| Grand Slam! | 23.00% | ~7 |
+| Bedroom Secret Spot | 23.00% | ~7 |
+| Kick It | 19.00% | ~6 |
+| Save some water for the fishies | 13.00% | ~4 |
+| Spooky | 13.00% | ~4 |
+| Bathroom Secret Spot | 13.00% | ~4 |
+| Classroom Secret Spot | 6.00% | ~2 |
+| Living Room Secret Spot | 6.00% | ~2 |
+| Angry Dad | 6.00% | ~2 |
+| At least everyone still had fun | 6.00% | ~2 |
 | Basement Secret Spot | 3.00% | ~1 |
 | Kitchen Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 316)  
+Progressed: 31 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 6 | 0 |
 | 2023-05-27 | 16 | 0 |
 | 2023-05-28 | 21 | 0 |
-| 2023-05-29 | 29 | 0 |
+| 2023-05-29 | 31 | 0 |

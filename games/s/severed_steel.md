@@ -1,23 +1,23 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 237)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~45,042 |
-| 50 HEADSHOTS | 11.00% | ~45,042 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,758 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,758 |
-| 200 HEADSHOTS | 7.00% | ~28,663 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,568 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,473 |
+| 100 KILLS | 11.00% | ~45,043 |
+| 50 HEADSHOTS | 11.00% | ~45,043 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,759 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,759 |
+| 200 HEADSHOTS | 7.00% | ~28,664 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,569 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,474 |
+| 1000 KILLS | 4.00% | ~16,379 |
 | FINISHED CHAPTER 4 | 4.00% | ~16,379 |
 | FINISH CHAPTER 5 | 4.00% | ~16,379 |
 | FINISH CHAPTER 6 | 4.00% | ~16,379 |
 | CATHARTIC ESCAPISM | 4.00% | ~16,379 |
-| 1000 KILLS | 3.00% | ~12,284 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~8,189 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~8,190 |
 | FIREFIGHT LEVEL 20 | 0.60% | ~2,457 |
 | FIRST BLOOD | 0.60% | ~2,457 |
 | PACEMAKER | 0.40% | ~1,638 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 236)
 | THE GAMBLER | 0.10% | ~409 |
 | WARRIOR IN A GARDEN | 0.10% | ~409 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,469 (Ranked 34)  
+Progressed: 409,482 (Ranked 34)  
 Completed: 32 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,14 +97,14 @@ Completed: 32 (0.01%) (Ranked 196)
 | 2023-05-26 | 408,218 | 31 |
 | 2023-05-27 | 408,716 | 31 |
 | 2023-05-28 | 409,142 | 32 |
-| 2023-05-29 | 409,469 | 32 |
+| 2023-05-29 | 409,482 | 32 |
 ## Awards
-Max (Great Boss Battles): 173  (Ranked 274)  
-Sum: 173 (Ranked 366)  
+Max (Great Boss Battles): 174  (Ranked 274)  
+Sum: 174 (Ranked 366)  
 Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 173 |
+| This game has Great Boss Battles | 174 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -143,3 +143,4 @@ Diff (max vs sum): -92
 | 2023-05-24 | 4.68 | 171 | 171 |
 | 2023-05-25 | 4.68 | 172 | 172 |
 | 2023-05-27 | 4.68 | 173 | 173 |
+| 2023-05-29 | 4.68 | 174 | 174 |
