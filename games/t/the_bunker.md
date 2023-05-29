@@ -9,8 +9,8 @@
 | Mother | 77.00% | ~75 |
 | Failure | 75.00% | ~73 |
 | Replace Fuse | 68.00% | ~66 |
-| Alarm | 65.00% | ~63 |
-| Air Filtration | 64.00% | ~62 |
+| Alarm | 66.00% | ~64 |
+| Air Filtration | 65.00% | ~63 |
 | Broken | 63.00% | ~61 |
 | Radiation | 61.00% | ~59 |
 | Descent | 60.00% | ~58 |
@@ -21,7 +21,7 @@
 | Doctor | 49.00% | ~48 |
 | Leave | 48.00% | ~47 |
 | Commissioner | 48.00% | ~47 |
-| Engineer | 47.00% | ~46 |
+| Engineer | 48.00% | ~47 |
 | Soldier | 47.00% | ~46 |
 | Press Play | 38.00% | ~37 |
 | Bookworm | 24.00% | ~23 |

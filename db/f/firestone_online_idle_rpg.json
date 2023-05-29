@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1219,
+  "EOS_Progressed": 1220,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-05-29T19:06:46.7239815+00:00",
       "NumProgressed": 1219,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T21:05:51.9437992+00:00",
+      "NumProgressed": 1220,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2623,7 +2628,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "howdoyouturnthison",
@@ -2767,7 +2772,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "prestigiousx10",
@@ -2935,7 +2940,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "warmachinesarmy",
@@ -2967,14 +2972,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1219,
+      "Progressed": 1220,
       "Completed": 1
     }
   ],
@@ -2982,8 +2987,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:06:58.2712433+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:05:51.9437985+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:30.4220256+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:06:58.2713243+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:58:01.3875614+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:51.9438843+00:00"
 }

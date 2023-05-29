@@ -2,12 +2,12 @@
   "ID": "644221d9c96142f9b149c983362c5074",
   "Name": "Fault: Elder Orb",
   "ProductSlug": "fault-elder-orb",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": null,
@@ -1433,6 +1433,6 @@
   "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
   "LastChanged": "2022-12-03T23:07:52.062399+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:14.5711473+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:57:38.4156491+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:03:33.0967294+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:57:23.288551+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:03:13.0435263+00:00"
 }

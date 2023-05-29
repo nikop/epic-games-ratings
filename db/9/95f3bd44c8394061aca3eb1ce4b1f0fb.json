@@ -75,9 +75,9 @@
       "ID": "WithFriend",
       "SetID": "9ajogia",
       "Name": "Friendship",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -89,8 +89,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:03:41.6973051+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:03:19.1451656+00:00",
   "LastUpdate_AppInfo": "2023-05-25T13:04:54.0581951+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:57:11.9488637+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:03:41.6973124+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:57:02.5780298+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:03:19.1451725+00:00"
 }

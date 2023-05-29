@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
@@ -1292,9 +1292,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62770,
+  "EOS_Progressed": 62782,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1069,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4277,6 +4277,11 @@
       "Time": "2023-05-29T20:07:14.7390202+00:00",
       "NumProgressed": 62770,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-29T21:06:14.6532454+00:00",
+      "NumProgressed": 62782,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4592,7 +4597,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "HARLEY_2",
@@ -4680,7 +4685,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "MYSTERY_02",
@@ -4702,17 +4707,17 @@
       "ID": "MYSTERY_04",
       "SetID": "4eo5ebm",
       "Name": "Bad Apples in Every Orchard",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 628
     },
     {
       "ID": "MYSTERY_05",
       "SetID": "4eo5ebm",
       "Name": "From Inside Gotham\u0027s Walls",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 565
     },
     {
       "ID": "MYSTERY_06",
@@ -4775,13 +4780,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62770,
+      "Progressed": 62782,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33050,
+      "Progressed": 33062,
       "Completed": 2643
     }
   ],
@@ -4789,8 +4794,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-29T17:01:00.287079+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:07:14.7390195+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:06:14.653245+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:00:54.5109135+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:07:14.7391245+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:59:50.250196+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:06:14.6533041+00:00"
 }

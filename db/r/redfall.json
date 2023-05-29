@@ -2,12 +2,12 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1639,
+  "EOS_Progressed": 1640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1642,6 +1642,11 @@
       "Time": "2023-05-29T18:00:34.5183044+00:00",
       "NumProgressed": 1639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T21:02:13.9242994+00:00",
+      "NumProgressed": 1640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1669,7 +1674,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "Achievement_004",
@@ -1677,7 +1682,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "Achievement_006",
@@ -1701,7 +1706,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "Achievement_009",
@@ -1709,7 +1714,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "Achievement_010",
@@ -1717,7 +1722,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Achievement_011",
@@ -1771,9 +1776,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 328
     },
     {
       "ID": "Achievement_018",
@@ -1789,7 +1794,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "Achievement_020",
@@ -1869,7 +1874,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Achievement_030",
@@ -1885,7 +1890,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "Achievement_032",
@@ -1901,7 +1906,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "Achievement_034",
@@ -1909,7 +1914,7 @@
       "Name": "Catch and Release",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "Achievement_035",
@@ -2173,14 +2178,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1639,
+      "Progressed": 1640,
       "Completed": 0
     }
   ],
@@ -2188,8 +2193,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-28T21:57:48.21108+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:02:43.092419+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:02:13.9242989+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:37.8719634+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:14.8464981+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:02:43.0924913+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:57:49.8706132+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:02:13.9243585+00:00"
 }

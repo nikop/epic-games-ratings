@@ -2,12 +2,12 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 695,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "NumberOfRatings": 1466,
   "RatingHistory": [
     {
@@ -1776,6 +1776,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 3666,
       "NumberOfAwardsMax": 553
+    },
+    {
+      "Time": "2023-05-29T20:58:34.719108+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3666,
+      "NumberOfAwardsMax": 553
     }
   ],
   "ReviewsDisabled": false,
@@ -1855,8 +1861,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-05-29T02:04:52.6756261+00:00",
+  "LastChanged": "2023-05-29T20:58:34.7191078+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4978883+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:59:08.1610127+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:02:11.6512578+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:58:34.7191083+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:00:51.1254794+00:00"
 }

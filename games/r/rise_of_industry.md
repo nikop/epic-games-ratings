@@ -5,26 +5,26 @@ Rating: 4.22 (Ranked 807)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~319,045 |
-| Well educated | 37.00% | ~251,163 |
-| City Planner | 19.00% | ~128,976 |
-| Deforester | 16.00% | ~108,611 |
-| Big Hauling | 15.00% | ~101,823 |
-| Exporter | 13.00% | ~88,247 |
-| I would drive 500 tiles... | 12.00% | ~81,458 |
-| Apprentice Manufacturer | 12.00% | ~81,458 |
-| Landscaper | 11.00% | ~74,670 |
-| Railwayman | 7.00% | ~47,517 |
-| Penniless | 6.00% | ~40,729 |
-| Massive Gains | 6.00% | ~40,729 |
-| Engineer | 2.00% | ~13,576 |
-| Salesman | 2.00% | ~13,576 |
-| High Flyer | 2.00% | ~13,576 |
+| Entrepreneur | 47.00% | ~319,063 |
+| Well educated | 37.00% | ~251,177 |
+| City Planner | 19.00% | ~128,983 |
+| Deforester | 16.00% | ~108,617 |
+| Big Hauling | 15.00% | ~101,829 |
+| Exporter | 13.00% | ~88,251 |
+| I would drive 500 tiles... | 12.00% | ~81,463 |
+| Apprentice Manufacturer | 12.00% | ~81,463 |
+| Landscaper | 11.00% | ~74,674 |
+| Railwayman | 7.00% | ~47,520 |
+| Penniless | 6.00% | ~40,731 |
+| Massive Gains | 6.00% | ~40,731 |
+| Engineer | 2.00% | ~13,577 |
+| Salesman | 2.00% | ~13,577 |
+| High Flyer | 2.00% | ~13,577 |
 | Captain | 0.70% | ~4,752 |
 | Billionaire | 0.60% | ~4,073 |
 | Vroom Vroom | 0.40% | ~2,715 |
-| Excavator | 0.30% | ~2,036 |
-| Loan Ranger | 0.30% | ~2,036 |
+| Excavator | 0.30% | ~2,037 |
+| Loan Ranger | 0.30% | ~2,037 |
 | [2130] Nature Lover | 0.10% | ~679 |
 | [2130] No Quarter Given | 0.10% | ~679 |
 | [2130] Dumpster Diving | 0.10% | ~679 |
@@ -33,7 +33,7 @@ Rating: 4.22 (Ranked 807)
 | Master Builder | 0.10% | ~679 |
 | Hard working | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,820 (Ranked 17)  
+Progressed: 678,857 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 1 (0.00%) (Ranked 207)
 | 2023-05-26 | 676,136 | 1 |
 | 2023-05-27 | 677,096 | 1 |
 | 2023-05-28 | 678,162 | 1 |
-| 2023-05-29 | 678,820 | 1 |
+| 2023-05-29 | 678,857 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

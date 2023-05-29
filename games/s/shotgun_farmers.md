@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 44.00% | ~7 |
+| Aspairagus | 45.00% | ~7 |
 | Survivor | 30.00% | ~5 |
-| No Diggity | 29.00% | ~5 |
+| No Diggity | 30.00% | ~5 |
 | Seeds of War | 26.00% | ~17 |
 | Early Survivor | 26.00% | ~4 |
 | Bouncemato | 20.00% | ~3 |
 | First Blood | 18.00% | ~12 |
 | Quick-Draw Pod | 18.00% | ~3 |
-| Amateur Survivor | 17.00% | ~3 |
-| I Believe I Can Fly | 14.00% | ~9 |
+| Amateur Survivor | 18.00% | ~3 |
+| I Believe I Can Fly | 15.00% | ~10 |
 | No Asperascope | 14.00% | ~9 |
+| Professional Survivor | 14.00% | ~2 |
 | Triple Kill | 12.00% | ~8 |
 | Cornivore | 12.00% | ~8 |
-| Professional Survivor | 12.00% | ~2 |
+| Grave Digger | 11.00% | ~2 |
 | Oh My Gourd | 9.00% | ~1 |
 | Expert Survivor | 9.00% | ~1 |
-| Grave Digger | 9.00% | ~1 |
 | Quadsparagus | 9.00% | ~1 |
 | 15K | 8.00% | ~5 |
 | Skin Of Your Teeth | 8.00% | ~5 |

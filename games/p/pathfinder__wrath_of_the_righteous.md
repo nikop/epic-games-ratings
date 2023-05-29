@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 15.00% | ~1,400 |
+| Devoured by Darkness | 15.00% | ~1,401 |
 | A Spark | 11.00% | ~1,027 |
-| Burning City | 10.00% | ~933 |
+| Burning City | 10.00% | ~934 |
 | Defender's Heart | 9.00% | ~840 |
 | Banner over the Citadel | 8.00% | ~747 |
 | Mythic Choices | 8.00% | ~747 |
-| Queen's Gratitude | 7.00% | ~653 |
+| Queen's Gratitude | 7.00% | ~654 |
 | Fifth Crusade | 5.00% | ~467 |
 | Embrace of the Abyss | 4.00% | ~373 |
 | Path of the Angel | 4.00% | ~373 |
@@ -46,12 +46,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 1.00% | ~81 |
 | Abyssal Conspiracy | 0.90% | ~84 |
 | The Final Threshold | 0.70% | ~65 |
+| Strategic Victory | 0.70% | ~65 |
 | End of Eternal Guard | 0.70% | ~65 |
 | This Wall Won't Fall | 0.70% | ~57 |
 | Not the Last Sarkorian | 0.70% | ~57 |
 | Path of the Dragon | 0.60% | ~56 |
 | Path of the Legend | 0.60% | ~56 |
-| Strategic Victory | 0.60% | ~56 |
 | Playful Mood | 0.60% | ~56 |
 | Dreadful Dragon | 0.50% | ~47 |
 | Truly Profane Gift | 0.50% | ~47 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,334 (Ranked 110)  
+Progressed: 9,337 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 9,226 | 0 |
 | 2023-05-27 | 9,264 | 0 |
 | 2023-05-28 | 9,304 | 0 |
-| 2023-05-29 | 9,334 | 0 |
+| 2023-05-29 | 9,337 | 0 |
 ## Awards
 Max (Character Customization): 1,642  (Ranked 111)  
 Sum: 6,665 (Ranked 110)  

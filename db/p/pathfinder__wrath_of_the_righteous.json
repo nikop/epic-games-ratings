@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2576,9 +2576,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9334,
+  "EOS_Progressed": 9337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4911,6 +4911,11 @@
       "Time": "2023-05-29T20:07:17.1266223+00:00",
       "NumProgressed": 9334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T21:06:16.5984158+00:00",
+      "NumProgressed": 9337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4922,7 +4927,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "02_BurningCity",
@@ -4930,7 +4935,7 @@
       "Name": "Burning City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -5122,7 +5127,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "28_GreatUpstart",
@@ -5136,9 +5141,9 @@
       "ID": "29_StrategicVictory",
       "SetID": "989of5o",
       "Name": "Strategic Victory",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 65
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -5849,21 +5854,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8116,
+      "Progressed": 8119,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9334,
+      "Progressed": 9337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-29T10:58:46.2996937+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:07:17.1266219+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:06:16.5984153+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:53.261106+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:07:17.1268129+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:58:20.2179424+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:06:16.5985533+00:00"
 }

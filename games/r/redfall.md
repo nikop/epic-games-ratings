@@ -1,28 +1,28 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.45 (Ranked 927)  
+Rating: 3.45 (Ranked 928)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,262 |
-| Home Is Where the Heart Is | 60.00% | ~983 |
-| Wounded Whispers | 60.00% | ~983 |
-| Ne Plus Ultra | 59.00% | ~967 |
-| Blood Will Have Blood | 49.00% | ~803 |
+| I Like My Stakes Rare! | 77.00% | ~1,263 |
+| Home Is Where the Heart Is | 60.00% | ~984 |
+| Wounded Whispers | 60.00% | ~984 |
+| Ne Plus Ultra | 59.00% | ~968 |
+| Blood Will Have Blood | 49.00% | ~804 |
 | ICU | 45.00% | ~738 |
-| Catch and Release | 44.00% | ~721 |
+| Catch and Release | 44.00% | ~722 |
 | Peek-a-boo | 43.00% | ~705 |
-| Sucks To Be You | 42.00% | ~688 |
-| Welcome to the Neighborhood | 37.00% | ~606 |
+| Sucks To Be You | 42.00% | ~689 |
+| Welcome to the Neighborhood | 37.00% | ~607 |
 | Fly Fisher | 35.00% | ~574 |
-| Throw The First Stone | 34.00% | ~557 |
-| Enter of Your Own Free Will | 32.00% | ~524 |
+| Throw The First Stone | 34.00% | ~558 |
+| Enter of Your Own Free Will | 32.00% | ~525 |
 | Heart Attack | 31.00% | ~508 |
 | Skin of Their Teeth | 31.00% | ~508 |
 | Grounded | 23.00% | ~377 |
-| Bad Wiring | 21.00% | ~344 |
-| I Spit On Your Grave | 19.00% | ~311 |
+| Bad Wiring | 20.00% | ~328 |
+| I Spit On Your Grave | 19.00% | ~312 |
 | Neighborhood Revitalization | 15.00% | ~246 |
 | Radio Silence | 15.00% | ~246 |
 | Helping Hand | 12.00% | ~197 |
@@ -72,7 +72,7 @@ Rating: 3.45 (Ranked 927)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,639 (Ranked 154)  
+Progressed: 1,640 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 1,627 | 0 |
 | 2023-05-27 | 1,633 | 0 |
 | 2023-05-28 | 1,637 | 0 |
-| 2023-05-29 | 1,639 | 0 |
+| 2023-05-29 | 1,640 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

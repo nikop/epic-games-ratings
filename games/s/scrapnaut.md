@@ -24,13 +24,13 @@ Number of Ratings: 38  (23.09.2022)
 | Electro-Scrap Master | 24.00% | ~53 |
 | Robot Hunter | 21.00% | ~46 |
 | Advanced Survivalist | 19.00% | ~42 |
-| Master Of Technology | 17.00% | ~37 |
+| Master Of Technology | 18.00% | ~40 |
 | Treasure Hunter | 16.00% | ~35 |
 | Mythical Smelter | 11.00% | ~24 |
 | Blacksmith | 10.00% | ~22 |
+| Fuel | 9.00% | ~20 |
 | Master Of Management | 8.00% | ~18 |
 | Forest Lord | 8.00% | ~18 |
-| Fuel | 8.00% | ~18 |
 | Smelting Master | 8.00% | ~18 |
 | Black Gold | 7.00% | ~15 |
 | Survival Master | 4.00% | ~9 |

@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -396,9 +396,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -804,7 +804,7 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -812,7 +812,7 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -836,7 +836,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -852,7 +852,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -908,9 +908,9 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_y_farmers_same_sniper",
@@ -939,8 +939,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:05:16.4925751+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:04:29.0467233+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:51.9906622+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:05:16.4926622+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:58:19.5278028+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:04:29.0467959+00:00"
 }

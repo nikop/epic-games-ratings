@@ -3,11 +3,11 @@
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
   "Ranking_Rating": 630,
-  "Ranking_Popularity": 127,
-  "Ranking_PopularitySum": 212,
+  "Ranking_Popularity": 124,
+  "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -670,18 +670,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 1436,
       "NumberOfAwardsMax": 1128
+    },
+    {
+      "Time": "2023-05-29T21:00:38.9273933+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 1492,
+      "NumberOfAwardsMax": 1180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1436,
-  "NumberOfAwardsMax": 1128,
+  "NumberOfAwards": 1492,
+  "NumberOfAwardsMax": 1180,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1128
+      "Count": 1180
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -705,7 +711,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -744,8 +750,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "LastChanged": "2023-05-29T16:00:46.5400902+00:00",
+  "LastChanged": "2023-05-29T21:00:38.9273932+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:50.4818657+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:01:57.2061944+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:06:17.3743024+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:00:38.9273937+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:21.9886967+00:00"
 }

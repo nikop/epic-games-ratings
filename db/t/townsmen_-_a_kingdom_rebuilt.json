@@ -2,7 +2,7 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 817,
+  "Ranking_Rating": 818,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 128,
@@ -1373,9 +1373,9 @@
       "ID": "ACHIEVEMENT_TIME5",
       "SetID": "9eacipp",
       "Name": "A time consuming game V",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_TOOLS1",
@@ -1469,8 +1469,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:07:16.9172505+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:06:16.5214793+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.5863815+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:33.3259297+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:07:16.9173702+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:58:05.1177256+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:06:16.5215807+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 59.00% | ~208 |
+| The Wraith | 60.00% | ~211 |
 | Collectibles Part 1 | 48.00% | ~169 |
 | Welcome to Mordor! | 47.00% | ~165 |
 | Wait! Wait! Not yet! | 31.00% | ~109 |
@@ -15,9 +15,9 @@
 | The Veteran | 12.00% | ~42 |
 | The Traitor | 8.00% | ~28 |
 | The Spider | 7.00% | ~25 |
+| He's so Annoying | 4.00% | ~14 |
 | Good as Fish | 4.00% | ~14 |
 | Trigger-Happy | 4.00% | ~14 |
-| He's so Annoying | 3.00% | ~11 |
 | Her Eyes | 3.00% | ~11 |
 | Murderer | 3.00% | ~11 |
 | The Friend | 2.00% | ~7 |

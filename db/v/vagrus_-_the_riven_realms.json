@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -547,9 +547,9 @@
       "ID": "Vanilla_FleeFromAFight",
       "SetID": "27kik8p",
       "Name": "Fight Another Day",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_Forager",
@@ -988,8 +988,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:06:54.469511+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:05:49.1122711+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.7890376+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:59:33.0934671+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:06:54.4696143+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:58:48.8590045+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:49.1123653+00:00"
 }

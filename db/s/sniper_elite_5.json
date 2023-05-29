@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1829,
+  "EOS_Progressed": 1835,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1859,6 +1859,11 @@
       "Time": "2023-05-29T20:06:49.5237465+00:00",
       "NumProgressed": 1829,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-29T21:05:45.4992939+00:00",
+      "NumProgressed": 1835,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1892,9 +1897,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1948,9 +1953,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 422
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1990,7 +1995,7 @@
       "Name": "Gunslinger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2038,7 +2043,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2094,7 +2099,7 @@
       "Name": "Resourceful",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2118,7 +2123,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2158,7 +2163,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -2166,7 +2171,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -2182,7 +2187,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2206,7 +2211,7 @@
       "Name": "Change the Channel",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2262,7 +2267,7 @@
       "Name": "Target America",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2286,7 +2291,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -2334,7 +2339,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -2342,7 +2347,7 @@
       "Name": "Operation Foxley",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -2374,7 +2379,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -2437,13 +2442,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1780,
+      "Progressed": 1786,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1829,
+      "Progressed": 1835,
       "Completed": 2
     }
   ],
@@ -2451,8 +2456,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-28T23:00:50.2938775+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:06:49.5237458+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:05:45.4992934+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T20:01:57.3921255+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:06:49.5238419+00:00"
+  "LastUpdate_Ratings": "2023-05-29T21:00:39.0467379+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:45.4993523+00:00"
 }

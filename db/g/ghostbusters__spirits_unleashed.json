@@ -1092,9 +1092,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22419,
+  "EOS_Progressed": 22420,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4007,6 +4007,11 @@
       "Time": "2023-05-29T20:07:03.4220795+00:00",
       "NumProgressed": 22419,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-29T21:05:55.8492496+00:00",
+      "NumProgressed": 22420,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4018,7 +4023,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16366
+      "UsersEstimate": 16367
     },
     {
       "ID": "Animated",
@@ -4082,7 +4087,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "Daily_Dose",
@@ -4130,7 +4135,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "Escape_Artist",
@@ -4154,7 +4159,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12330
+      "UsersEstimate": 12331
     },
     {
       "ID": "GB_In_Training",
@@ -4242,7 +4247,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "Rift_Destroyer",
@@ -4290,7 +4295,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "Skilled",
@@ -4322,7 +4327,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19280
+      "UsersEstimate": 19281
     },
     {
       "ID": "Summoner",
@@ -4378,7 +4383,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4402,7 +4407,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10985
+      "UsersEstimate": 10986
     },
     {
       "ID": "Welcome_Crew",
@@ -4410,7 +4415,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7398
+      "UsersEstimate": 7399
     },
     {
       "ID": "Whoopsie",
@@ -4425,7 +4430,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22419,
+      "Progressed": 22420,
       "Completed": 40
     }
   ],
@@ -4433,8 +4438,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-29T02:05:11.9914995+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:07:03.4220788+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:05:55.8492492+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:59:44.1121988+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:07:03.4221421+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:58:58.6488176+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:55.8493049+00:00"
 }

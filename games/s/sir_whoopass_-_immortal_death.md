@@ -25,15 +25,15 @@
 | Honk honk! | 47.00% | ~31 |
 | Spare Ribs | 47.00% | ~31 |
 | My pants squeak when I walk | 45.00% | ~30 |
+| Thats disgusting! | 44.00% | ~29 |
 | Cockadoodledoo! | 44.00% | ~29 |
-| Thats disgusting! | 42.00% | ~28 |
-| Surprise!! | 41.00% | ~27 |
+| Surprise!! | 42.00% | ~28 |
 | Make America Grate Again | 36.00% | ~24 |
 | Self assessed tax return | 36.00% | ~24 |
 | Karaoke king | 36.00% | ~24 |
+| Pasta Bolognese | 36.00% | ~24 |
 | You are no match for me, Billy! | 35.00% | ~23 |
-| Pasta Bolognese | 35.00% | ~23 |
-| You can't stop me, bro! | 33.00% | ~22 |
+| You can't stop me, bro! | 35.00% | ~23 |
 | Haemochromatosis | 33.00% | ~22 |
 | Catch the bus with me! | 32.00% | ~21 |
 | Meatballs, coming up! | 30.00% | ~20 |
@@ -46,9 +46,9 @@
 | Kleptomaniac | 20.00% | ~13 |
 | You're not so Big anymore, Boi! | 18.00% | ~12 |
 | Just wing it! | 17.00% | ~11 |
-| I cant stand still! | 15.00% | ~10 |
+| I cant stand still! | 17.00% | ~11 |
+| Slimy... yet satisfying | 15.00% | ~10 |
 | Deal with it | 14.00% | ~9 |
-| Slimy... yet satisfying | 14.00% | ~9 |
 | Master Butcher | 12.00% | ~8 |
 | Ancient Ruins of Dirty Feet | 11.00% | ~7 |
 | Yeehaw!!! | 11.00% | ~7 |

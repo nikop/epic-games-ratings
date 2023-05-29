@@ -5,7 +5,7 @@
   "Ranking_Rating": 257,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 202,
+  "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 86,
@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -604,6 +604,11 @@
       "Time": "2023-05-29T20:06:45.8948457+00:00",
       "NumProgressed": 412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T21:05:42.8332281+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -647,7 +652,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Devoted",
@@ -671,7 +676,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Favourite",
@@ -687,7 +692,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Goal",
@@ -759,7 +764,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "NoMoreWards",
@@ -815,7 +820,7 @@
       "Name": "Baba Yaga",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ToadCharming",
@@ -870,7 +875,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 0
     }
   ],
@@ -878,8 +883,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:06:45.8948451+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:05:42.8332183+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:19.869218+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:06:45.8948717+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:57:54.3124424+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:42.8332491+00:00"
 }

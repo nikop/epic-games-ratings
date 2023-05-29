@@ -2,7 +2,7 @@
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
-  "Ranking_Rating": 817,
+  "Ranking_Rating": 818,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 156,
@@ -338,9 +338,9 @@
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
       "Name": "Worlds best dad.",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
@@ -355,8 +355,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:04:32.4138692+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:03:47.7697852+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.2009842+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:08.7237922+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:04:32.413897+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:57:44.9026276+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:03:47.7697936+00:00"
 }

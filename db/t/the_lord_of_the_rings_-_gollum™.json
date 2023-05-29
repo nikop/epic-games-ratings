@@ -464,9 +464,9 @@
       "ID": "Annoying",
       "SetID": "70l3651",
       "Name": "He\u0027s so Annoying",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "BreakLegs",
@@ -488,9 +488,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "Chapter10",
@@ -759,8 +759,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:06:33.3113923+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:05:33.123945+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:58:09.6561568+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:06:33.311421+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:57:45.788876+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:33.1239682+00:00"
 }

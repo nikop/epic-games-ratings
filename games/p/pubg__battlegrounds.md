@@ -1,31 +1,31 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 3.98 (Ranked 895)  
+Rating: 3.98 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 75.00% | ~283,263 |
-| Health Junkie | 45.00% | ~169,958 |
-| You Complete Me | 41.00% | ~154,850 |
-| Guardian Angel | 39.00% | ~147,297 |
-| Devil Inside Me | 31.00% | ~117,082 |
-| Killing Spree | 22.00% | ~83,090 |
-| Fantastic Four | 21.00% | ~79,314 |
-| Marksman Novice | 20.00% | ~75,537 |
-| First Blood | 13.00% | ~49,099 |
-| Top 10 | 13.00% | ~49,099 |
-| Now You See Me, Now You Don't | 12.00% | ~45,322 |
-| Marksman Expert | 9.00% | ~33,992 |
-| CQB Novice | 8.00% | ~30,215 |
-| Collateral Damage | 7.00% | ~26,438 |
-| Airborne | 6.00% | ~22,661 |
-| Pacifist | 6.00% | ~22,661 |
-| Last Survivor | 4.00% | ~15,107 |
-| Marksman Master | 4.00% | ~15,107 |
-| Trigonometry Novice | 4.00% | ~15,107 |
-| First Come, First Served | 4.00% | ~15,107 |
-| Dynamic Duo | 4.00% | ~15,107 |
+| Blood on My Hands | 75.00% | ~283,289 |
+| Health Junkie | 45.00% | ~169,974 |
+| You Complete Me | 41.00% | ~154,865 |
+| Guardian Angel | 39.00% | ~147,310 |
+| Devil Inside Me | 31.00% | ~117,093 |
+| Killing Spree | 22.00% | ~83,098 |
+| Fantastic Four | 21.00% | ~79,321 |
+| Marksman Novice | 20.00% | ~75,544 |
+| First Blood | 13.00% | ~49,103 |
+| Top 10 | 13.00% | ~49,103 |
+| Now You See Me, Now You Don't | 12.00% | ~45,326 |
+| Marksman Expert | 9.00% | ~33,995 |
+| CQB Novice | 8.00% | ~30,218 |
+| Collateral Damage | 7.00% | ~26,440 |
+| Airborne | 6.00% | ~22,663 |
+| Pacifist | 6.00% | ~22,663 |
+| Last Survivor | 4.00% | ~15,109 |
+| Marksman Master | 4.00% | ~15,109 |
+| Trigonometry Novice | 4.00% | ~15,109 |
+| First Come, First Served | 4.00% | ~15,109 |
+| Dynamic Duo | 4.00% | ~15,109 |
 | Winner Winner Chicken Dinner! | 2.00% | ~7,554 |
 | Okay, Now I'm Ready | 2.00% | ~7,554 |
 | Agent 48 | 2.00% | ~7,554 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 895)
 | The First Rule Is… | 0.10% | ~378 |
 | Shoot the Knee | 0.10% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,684 (Ranked 36)  
+Progressed: 377,719 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 8 (0.00%) (Ranked 207)
 | 2023-05-26 | 374,218 | 8 |
 | 2023-05-27 | 375,446 | 8 |
 | 2023-05-28 | 376,784 | 8 |
-| 2023-05-29 | 377,684 | 8 |
+| 2023-05-29 | 377,719 | 8 |
 ## Awards
 Max (Competitive Players): 2,066  (Ranked 103)  
 Sum: 8,617 (Ranked 85)  

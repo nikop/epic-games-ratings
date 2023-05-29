@@ -315,9 +315,9 @@
       "ID": "ACH_ACT15",
       "SetID": "2310cb1",
       "Name": "Cataclysm",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ACT16",
@@ -363,9 +363,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_ACT7",
@@ -443,9 +443,9 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_REUINTED",
@@ -492,8 +492,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-29T20:06:38.8416704+00:00",
+  "LastChanged_Achievements": "2023-05-29T21:05:37.5871355+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-29T19:57:42.6081319+00:00",
-  "LastUpdate_Achievements": "2023-05-29T20:06:38.8416904+00:00"
+  "LastUpdate_Ratings": "2023-05-29T20:57:25.7065554+00:00",
+  "LastUpdate_Achievements": "2023-05-29T21:05:37.587149+00:00"
 }

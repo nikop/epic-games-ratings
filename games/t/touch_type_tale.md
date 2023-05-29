@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,552 |
-| Flanked! | 80.00% | ~2,268 |
-| Economics 101 | 65.00% | ~1,843 |
-| Get Rich Quick | 48.00% | ~1,361 |
-| Do the Splits | 41.00% | ~1,162 |
-| Maestro | 28.00% | ~794 |
+| You and what Army? | 90.00% | ~2,554 |
+| Flanked! | 80.00% | ~2,270 |
+| Economics 101 | 65.00% | ~1,845 |
+| Get Rich Quick | 48.00% | ~1,362 |
+| Do the Splits | 41.00% | ~1,164 |
+| Maestro | 28.00% | ~795 |
 | Full Employment | 19.00% | ~539 |
-| Clay Fighter | 18.00% | ~510 |
-| Nowhere left to Hide | 15.00% | ~425 |
+| Clay Fighter | 18.00% | ~511 |
+| Nowhere left to Hide | 15.00% | ~426 |
 | All Ovens Blazing | 14.00% | ~397 |
 | Boulder Clash | 14.00% | ~397 |
-| Held Back by the Roots | 12.00% | ~340 |
+| Held Back by the Roots | 12.00% | ~341 |
 | Well Supplied | 11.00% | ~312 |
 | Damage Control | 8.00% | ~227 |
 | Master of the Brawl | 8.00% | ~227 |
-| Sniped | 7.00% | ~198 |
-| Leave Them no Cake | 7.00% | ~198 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~198 |
+| Sniped | 7.00% | ~199 |
+| Leave Them no Cake | 7.00% | ~199 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~199 |
 | A Secret Recipe | 6.00% | ~170 |
 | Your Biggest Fans | 5.00% | ~142 |
 | An Ally in Need | 5.00% | ~142 |
 | For the Queen | 5.00% | ~142 |
 | Not a Drop Wasted | 5.00% | ~142 |
-| Reinforcements | 4.00% | ~113 |
-| Sweet Revenge | 4.00% | ~113 |
-| We Have the Technology | 4.00% | ~113 |
-| Figure of Breach | 4.00% | ~113 |
+| Reinforcements | 4.00% | ~114 |
+| Sweet Revenge | 4.00% | ~114 |
+| We Have the Technology | 4.00% | ~114 |
+| Figure of Breach | 4.00% | ~114 |
 | Work It | 3.00% | ~85 |
 | The Handyman Can! | 3.00% | ~85 |
 | A Brief Moment of Respite | 3.00% | ~85 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~28 |
 | All Geared Up | 1.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,835 (Ranked 136)  
+Progressed: 2,838 (Ranked 136)  
 Completed: 9 (0.32%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 9 (0.32%) (Ranked 123)
 | 2023-05-26 | 2,786 | 9 |
 | 2023-05-27 | 2,801 | 9 |
 | 2023-05-28 | 2,822 | 9 |
-| 2023-05-29 | 2,835 | 9 |
+| 2023-05-29 | 2,838 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

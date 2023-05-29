@@ -1,13 +1,13 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 839)  
+Rating: 4.17 (Ranked 840)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 3.00% | ~1,883 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,255 |
-| Loose Ends | 2.00% | ~1,255 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,256 |
+| Loose Ends | 2.00% | ~1,256 |
 | The Batman Family | 1.00% | ~628 |
 | Something in the Clay | 1.00% | ~628 |
 | To the Victor Go the Spoils | 1.00% | ~628 |
@@ -19,12 +19,12 @@ Rating: 4.17 (Ranked 839)
 | Knighthood | 1.00% | ~628 |
 | Whispered Words | 1.00% | ~628 |
 | Lock and Key | 1.00% | ~628 |
+| Bad Apples in Every Orchard | 1.00% | ~628 |
 | The Show Mud Go On | 0.90% | ~565 |
-| Bad Apples in Every Orchard | 0.90% | ~565 |
+| From Inside Gotham's Walls | 0.90% | ~565 |
 | Protector of Gotham | 0.80% | ~502 |
 | Rock and a Hard Place | 0.80% | ~502 |
 | Universal Health Scare | 0.80% | ~502 |
-| From Inside Gotham's Walls | 0.80% | ~502 |
 | End of an Era | 0.70% | ~439 |
 | In Your Element | 0.70% | ~439 |
 | Not On My Watch | 0.70% | ~439 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 839)
 | He'd Be So Proud of You | 0.10% | ~63 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,770 (Ranked 70)  
+Progressed: 62,782 (Ranked 70)  
 Completed: 91 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-26 | 62,222 | 91 |
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
-| 2023-05-29 | 62,770 | 91 |
+| 2023-05-29 | 62,782 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 98)  
 Sum: 3,740 (Ranked 138)  

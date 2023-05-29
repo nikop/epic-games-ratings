@@ -16,9 +16,9 @@ Rating: 4.50 (Ranked 541)
 | Fat of the Earth | 33.00% | ~126 |
 | Last Man Standing | 31.00% | ~118 |
 | Catch Jonathan_tostar | 27.00% | ~103 |
+| Assemble a Meganewbie | 25.00% | ~95 |
 | Great Hero | 25.00% | ~95 |
 | Campaigning | 24.00% | ~91 |
-| Assemble a Meganewbie | 24.00% | ~91 |
 | He's Seen It All | 24.00% | ~91 |
 | Rookie | 24.00% | ~91 |
 | Frugal | 20.00% | ~76 |

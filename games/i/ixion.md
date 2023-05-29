@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 10.00% | ~227 |
+| Wakey Wakey | 11.00% | ~250 |
 | Without Breaking Some Eggs... | 9.00% | ~205 |
 | Infinite Growth... | 9.00% | ~205 |
 | Sputnik 2049 | 9.00% | ~205 |
@@ -22,13 +22,13 @@ Rating: 4.56 (Ranked 450)
 | Exceeding Capacity | 3.00% | ~68 |
 | Fully Recycled | 3.00% | ~68 |
 | Please Make it Stop! | 3.00% | ~68 |
-| Man's Best Friend | 2.00% | ~45 |
-| Sightseeing | 2.00% | ~45 |
-| Power Outage | 2.00% | ~45 |
-| Access Granted | 2.00% | ~45 |
-| Necessary Enhancement | 2.00% | ~45 |
-| Convenient Transport | 2.00% | ~45 |
-| From the Past | 2.00% | ~45 |
+| Man's Best Friend | 2.00% | ~46 |
+| Sightseeing | 2.00% | ~46 |
+| Power Outage | 2.00% | ~46 |
+| Access Granted | 2.00% | ~46 |
+| Necessary Enhancement | 2.00% | ~46 |
+| Convenient Transport | 2.00% | ~46 |
+| From the Past | 2.00% | ~46 |
 | Oats | 1.00% | ~23 |
 | In Dolos We Trust | 1.00% | ~23 |
 | BRAWL! | 1.00% | ~23 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 450)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,274 (Ranked 144)  
+Progressed: 2,276 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 2,182 | 0 |
 | 2023-05-27 | 2,211 | 0 |
 | 2023-05-28 | 2,248 | 0 |
-| 2023-05-29 | 2,274 | 0 |
+| 2023-05-29 | 2,276 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

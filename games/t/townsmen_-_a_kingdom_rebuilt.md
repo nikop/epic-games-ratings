@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.20 (Ranked 817)  
+Rating: 4.20 (Ranked 818)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -66,9 +66,9 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere I | 1.00% | ~42 |
 | I've been everywhere V | 1.00% | ~42 |
 | Tax-man V | 1.00% | ~42 |
+| A time consuming game V | 1.00% | ~42 |
 | An honorable Governor III | 0.90% | ~37 |
 | Reunification | 0.90% | ~37 |
-| A time consuming game V | 0.90% | ~37 |
 | Treat her well… | 0.80% | ~33 |
 | When there's fire... | 0.70% | ~29 |
 | I've been everywhere II | 0.70% | ~29 |

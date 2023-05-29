@@ -10,9 +10,9 @@
 | Randomized | 11.00% | ~9 |
 | Conquered | 10.00% | ~8 |
 | Scribe | 5.00% | ~4 |
+| Fight Another Day | 4.00% | ~3 |
 | Conciliator | 3.00% | ~2 |
 | Tactician | 3.00% | ~2 |
-| Fight Another Day | 3.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |

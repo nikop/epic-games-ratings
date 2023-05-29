@@ -1,24 +1,24 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 903)  
+Rating: 3.93 (Ranked 904)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~46,726 |
-| First One’s Free | 64.00% | ~40,965 |
-| Neophyte Ninja | 50.00% | ~32,004 |
-| Too Old for This | 47.00% | ~30,084 |
-| Fancy Pants | 35.00% | ~22,403 |
-| Case Closed | 34.00% | ~21,763 |
-| King of the Hill | 33.00% | ~21,123 |
-| Underworld Initiate | 29.00% | ~18,562 |
-| Roid Ranger | 21.00% | ~13,442 |
+| Downed but Not Outed | 73.00% | ~46,729 |
+| First One’s Free | 64.00% | ~40,968 |
+| Neophyte Ninja | 50.00% | ~32,006 |
+| Too Old for This | 47.00% | ~30,086 |
+| Fancy Pants | 35.00% | ~22,404 |
+| Case Closed | 34.00% | ~21,764 |
+| King of the Hill | 33.00% | ~21,124 |
+| Underworld Initiate | 29.00% | ~18,563 |
+| Roid Ranger | 21.00% | ~13,443 |
 | True Player | 19.00% | ~12,162 |
 | Off the Rocks | 19.00% | ~12,162 |
-| Raider’s Ruin | 16.00% | ~10,241 |
-| Dragonslayer | 16.00% | ~10,241 |
-| Hidden Sonata | 13.00% | ~8,321 |
+| Raider’s Ruin | 16.00% | ~10,242 |
+| Dragonslayer | 16.00% | ~10,242 |
+| Hidden Sonata | 13.00% | ~8,322 |
 | Rockay Rex | 11.00% | ~7,041 |
 | Freebooter | 10.00% | ~6,401 |
 | Classy Joint | 10.00% | ~6,401 |
@@ -27,14 +27,14 @@ Rating: 3.93 (Ranked 903)
 | Headhunter | 8.00% | ~5,121 |
 | Ding Dong | 8.00% | ~5,121 |
 | Foo Finder | 7.00% | ~4,481 |
-| Legend Looter | 5.00% | ~3,200 |
-| Savvy Seeker | 5.00% | ~3,200 |
+| Legend Looter | 5.00% | ~3,201 |
+| Savvy Seeker | 5.00% | ~3,201 |
 | Imports and Exports | 4.00% | ~2,560 |
 | Olympus Ascended | 4.00% | ~2,560 |
+| Cracked the Jack | 4.00% | ~2,560 |
 | Red Star | 4.00% | ~2,560 |
 | Privateer | 3.00% | ~1,920 |
 | Groundhog Days | 3.00% | ~1,920 |
-| Cracked the Jack | 3.00% | ~1,920 |
 | Rockay Raider | 2.00% | ~1,280 |
 | Moneybags | 2.00% | ~1,280 |
 | Impossible Dreamer | 2.00% | ~1,280 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 903)
 | Geek Out | 0.50% | ~320 |
 | Full House | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,008 (Ranked 67)  
+Progressed: 64,012 (Ranked 67)  
 Completed: 31 (0.05%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 31 (0.05%) (Ranked 176)
 | 2023-05-26 | 63,386 | 31 |
 | 2023-05-27 | 63,642 | 31 |
 | 2023-05-28 | 63,842 | 31 |
-| 2023-05-29 | 64,008 | 31 |
+| 2023-05-29 | 64,012 | 31 |
 ## Awards
 Max (Diverse Characters): 301  (Ranked 225)  
 Sum: 1,419 (Ranked 213)  

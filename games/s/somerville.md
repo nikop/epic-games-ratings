@@ -1,12 +1,12 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.20 (Ranked 817)  
+Rating: 4.20 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | “Occupied!“ | 14.00% | ~220 |
-| Worlds best dad. | 12.00% | ~188 |
+| Worlds best dad. | 13.00% | ~204 |
 | Resignation Reprise. | 9.00% | ~141 |
 | War of the worlds. | 6.00% | ~94 |
 | Resignation. | 5.00% | ~78 |
