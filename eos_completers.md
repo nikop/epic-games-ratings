@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 15.42% |
+| 11 | [Island Cities](games/i/island_cities.md) | 15.35% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
@@ -21,26 +21,26 @@
 | 18 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.35% |
 | 24 | [Scorn](games/s/scorn.md) | 6.91% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.62% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.90% |
+| 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.08% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.35% |
+| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.33% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
-| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.46% |
-| 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.29% |
+| 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 43 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
@@ -81,12 +81,12 @@
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.23% |
 | 80 | [Chorus](games/c/chorus.md) | 1.22% |
 | 81 | [Trifox](games/t/trifox.md) | 1.20% |
-| 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.17% |
+| 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.16% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.15% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.07% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.04% |
-| 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.98% |
+| 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.97% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
 | 89 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.89% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
@@ -127,9 +127,9 @@
 | 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 124 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 128 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
-| 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
+| 129 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 129 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 131 | [Dead Island 2](games/d/dead_island_2.md) | 0.28% |
 | 132 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
 | 132 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
