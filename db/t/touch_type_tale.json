@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2830,
+  "EOS_Progressed": 2833,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1514,6 +1514,11 @@
       "Time": "2023-05-29T15:05:45.879073+00:00",
       "NumProgressed": 2830,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-29T17:07:34.4554765+00:00",
+      "NumProgressed": 2833,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1573,7 +1578,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2550
     },
     {
       "ID": "campaign10",
@@ -1605,7 +1610,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "campaign14",
@@ -1613,7 +1618,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "campaign15",
@@ -1629,7 +1634,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "campaign17",
@@ -1661,7 +1666,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2266
     },
     {
       "ID": "campaign20",
@@ -1677,7 +1682,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "campaign4",
@@ -1685,7 +1690,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1360
     },
     {
       "ID": "campaign5",
@@ -1693,7 +1698,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "campaign6",
@@ -1701,7 +1706,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "campaign7",
@@ -1709,7 +1714,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "campaign8",
@@ -1725,7 +1730,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "scenario1",
@@ -1733,7 +1738,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1162
     },
     {
       "ID": "scenario2",
@@ -1788,7 +1793,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2830,
+      "Progressed": 2833,
       "Completed": 9
     }
   ],
@@ -1796,8 +1801,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:06:14.7422955+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:34.4554759+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:00:27.5849549+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:06:14.7423217+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:01:35.0819127+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:34.4555155+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 15.00% | ~1,399 |
 | A Spark | 11.00% | ~1,026 |
-| Burning City | 10.00% | ~932 |
+| Burning City | 10.00% | ~933 |
 | Banner over the Citadel | 8.00% | ~746 |
 | Mythic Choices | 8.00% | ~746 |
 | Defender's Heart | 8.00% | ~746 |
@@ -24,16 +24,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 3.00% | ~280 |
 | All Paths Open | 3.00% | ~280 |
 | Next-Door Play | 3.00% | ~280 |
-| Heart of the Fallen Land | 2.00% | ~186 |
-| Path of the Trickster | 2.00% | ~186 |
-| Heroic Victory | 2.00% | ~186 |
-| Divide and Rule | 2.00% | ~186 |
-| Mythic Reinforcements | 2.00% | ~186 |
-| Core of the Riddle | 2.00% | ~186 |
-| Your First Big Enemy | 2.00% | ~186 |
-| A Flame | 2.00% | ~186 |
-| Hey, I Know You! | 2.00% | ~186 |
-| Get the Toad | 2.00% | ~186 |
+| Heart of the Fallen Land | 2.00% | ~187 |
+| Path of the Trickster | 2.00% | ~187 |
+| Heroic Victory | 2.00% | ~187 |
+| Divide and Rule | 2.00% | ~187 |
+| Mythic Reinforcements | 2.00% | ~187 |
+| Core of the Riddle | 2.00% | ~187 |
+| Your First Big Enemy | 2.00% | ~187 |
+| A Flame | 2.00% | ~187 |
+| Hey, I Know You! | 2.00% | ~187 |
+| Get the Toad | 2.00% | ~187 |
 | Hanged Man's Notes | 2.00% | ~162 |
 | The Lady of the Forest | 2.00% | ~162 |
 | Beware Still Water | 2.00% | ~162 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,325 (Ranked 110)  
+Progressed: 9,327 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 9,226 | 0 |
 | 2023-05-27 | 9,264 | 0 |
 | 2023-05-28 | 9,304 | 0 |
-| 2023-05-29 | 9,325 | 0 |
+| 2023-05-29 | 9,327 | 0 |
 ## Awards
 Max (Character Customization): 1,642  (Ranked 111)  
 Sum: 6,665 (Ranked 110)  

@@ -14,8 +14,8 @@ Number of Ratings: 706  (23.09.2022)
 | Novice Researcher | 56.00% | ~1,525 |
 | Putting Food on the Table | 55.00% | ~1,498 |
 | Onward | 50.00% | ~1,362 |
-| Studious Researcher | 48.00% | ~1,307 |
 | The First Week | 47.00% | ~1,280 |
+| Studious Researcher | 47.00% | ~1,280 |
 | Feast or Famine | 46.00% | ~1,253 |
 | Adept Researcher | 45.00% | ~1,225 |
 | Beam Me Up | 44.00% | ~1,198 |
@@ -36,7 +36,7 @@ Number of Ratings: 706  (23.09.2022)
 | Don't Cry Wolf | 11.00% | ~300 |
 | Where Wolf? | 7.00% | ~191 |
 | Food Chain | 2.00% | ~54 |
-| Wabbit Season | 1.00% | ~27 |
+| Wabbit Season | 0.90% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,723 (Ranked 138)  
 Completed: 6 (0.22%) (Ranked 137)  

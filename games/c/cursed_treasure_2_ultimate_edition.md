@@ -18,9 +18,9 @@
 | Look After the Pence... | 72.00% | ~112 |
 | Drunken Master | 72.00% | ~112 |
 | Sergeant of the Evil | 72.00% | ~112 |
-| V.I.P. Cemetery | 69.00% | ~108 |
+| V.I.P. Cemetery | 70.00% | ~109 |
+| Takeover | 69.00% | ~108 |
 | Woodcutter | 69.00% | ~108 |
-| Takeover | 68.00% | ~106 |
 | Sharpshooter | 68.00% | ~106 |
 | Architect of Darkness | 68.00% | ~106 |
 | Top of the World | 67.00% | ~105 |
@@ -41,7 +41,7 @@
 | Deposition | 46.00% | ~72 |
 | Starry: Tanglewood | 46.00% | ~72 |
 | Starry: Arcania | 43.00% | ~67 |
-| Sing, My Angel | 39.00% | ~61 |
+| Sing, My Angel | 40.00% | ~62 |
 | The Coreland | 38.00% | ~59 |
 | Starry: The Coreland | 36.00% | ~56 |
 | Feed the Fishes | 35.00% | ~55 |

@@ -1012,9 +1012,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 545
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1084,9 +1084,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 515
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1155,8 +1155,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:01:06.7629408+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:02:24.2575032+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:58:30.0575916+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:01:06.7631359+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:59:12.7565197+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:02:24.2575813+00:00"
 }

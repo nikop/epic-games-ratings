@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 883,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
@@ -773,9 +773,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 247
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -862,8 +862,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:05:47.8121569+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:03.7671479+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:58:45.9123651+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:05:47.8121711+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:59:31.7096656+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:03.7671648+00:00"
 }

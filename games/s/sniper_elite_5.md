@@ -6,19 +6,19 @@ Rating: 4.42 (Ranked 651)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 22.00% | ~398 |
-| Confirming Suspicions | 17.00% | ~307 |
+| Confirming Suspicions | 17.00% | ~308 |
 | The Kraken Wakes | 13.00% | ~235 |
 | It's Starting to Crack | 10.00% | ~181 |
 | Lord of War | 9.00% | ~163 |
 | Resourceful | 8.00% | ~145 |
 | Change the Channel | 8.00% | ~145 |
-| Organ Grinder | 7.00% | ~126 |
-| Enemy at the Gates | 6.00% | ~108 |
-| Just a Flesh Wound | 6.00% | ~108 |
-| Explosive Efficiency | 6.00% | ~108 |
-| As Quiet as a Mouse | 6.00% | ~108 |
-| Taking it back | 6.00% | ~108 |
-| Target America | 5.00% | ~90 |
+| Organ Grinder | 7.00% | ~127 |
+| Enemy at the Gates | 6.00% | ~109 |
+| Just a Flesh Wound | 6.00% | ~109 |
+| Explosive Efficiency | 6.00% | ~109 |
+| As Quiet as a Mouse | 6.00% | ~109 |
+| Taking it back | 6.00% | ~109 |
+| Target America | 5.00% | ~91 |
 | Opposing Force | 4.00% | ~72 |
 | Gunslinger | 4.00% | ~72 |
 | Sharpshooter | 4.00% | ~72 |
@@ -42,11 +42,11 @@ Rating: 4.42 (Ranked 651)
 | Locomotion Commotion | 0.80% | ~14 |
 | Strategist | 0.70% | ~13 |
 | Operation Foxley | 0.70% | ~12 |
+| Ghost of Falaise | 0.70% | ~12 |
 | Road Rage | 0.60% | ~11 |
 | Don't hold your breath | 0.60% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~11 |
 | Siegebreaker | 0.60% | ~11 |
-| Ghost of Falaise | 0.60% | ~11 |
 | Tinkerer | 0.50% | ~9 |
 | From Paris with Love | 0.40% | ~7 |
 | Up close and personal | 0.40% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 651)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,807 (Ranked 152)  
+Progressed: 1,811 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-26 | 1,528 | 2 |
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
-| 2023-05-29 | 1,807 | 2 |
+| 2023-05-29 | 1,811 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

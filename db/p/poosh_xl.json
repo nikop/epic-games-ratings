@@ -468,9 +468,9 @@
       "ID": "Challenge 01",
       "SetID": "5n829i",
       "Name": "Challenge 01",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Challenge 02",
@@ -572,9 +572,9 @@
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Poosh Past 10000",
@@ -612,9 +612,9 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Terrible Start",
@@ -634,8 +634,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:03:16.4153273+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:03:43.2249176+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.7217223+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:57:40.4712309+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:03:16.4153393+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:58:09.5904064+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:03:43.2249353+00:00"
 }

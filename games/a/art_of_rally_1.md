@@ -6,24 +6,24 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,655 |
-| keep it tidy | 77.00% | ~7,744 |
-| podium | 72.00% | ~7,241 |
+| light attack | 96.00% | ~9,656 |
+| keep it tidy | 77.00% | ~7,745 |
+| podium | 72.00% | ~7,242 |
 | medium attack | 59.00% | ~5,934 |
 | brail | 56.00% | ~5,632 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,023 |
-| grocery-getter | 39.00% | ~3,922 |
+| grocery-getter | 39.00% | ~3,923 |
 | rwd only | 26.00% | ~2,615 |
 | food tour: pasta | 26.00% | ~2,615 |
 | to finish first, first you must finish | 21.00% | ~2,112 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,112 |
-| autopilot | 20.00% | ~2,011 |
-| turbo | 20.00% | ~2,011 |
+| autopilot | 20.00% | ~2,012 |
+| turbo | 20.00% | ~2,012 |
 | food tour: pretzel | 19.00% | ~1,911 |
 | bicycle race | 15.00% | ~1,509 |
 | monster | 14.00% | ~1,408 |
-| car wash | 13.00% | ~1,307 |
-| perkele | 13.00% | ~1,307 |
+| car wash | 13.00% | ~1,308 |
+| perkele | 13.00% | ~1,308 |
 | night ride | 12.00% | ~1,207 |
 | the artist | 12.00% | ~1,207 |
 | snorkel | 12.00% | ~1,207 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,057 (Ranked 108)  
+Progressed: 10,058 (Ranked 108)  
 Completed: 9 (0.09%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 9 (0.09%) (Ranked 166)
 | 2023-05-26 | 10,037 | 9 |
 | 2023-05-27 | 10,043 | 9 |
 | 2023-05-28 | 10,051 | 9 |
-| 2023-05-29 | 10,057 | 9 |
+| 2023-05-29 | 10,058 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 955,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -785,6 +785,11 @@
       "Time": "2023-05-29T16:06:07.1673493+00:00",
       "NumProgressed": 953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-29T17:07:26.1131545+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -876,7 +881,7 @@
       "Name": "E1M1",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Everyone_is_here",
@@ -924,7 +929,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "High_noon",
@@ -988,7 +993,7 @@
       "Name": "Mosquito bite",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Scout",
@@ -1028,22 +1033,22 @@
       "Name": "Your Answer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 955,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:06:07.1673489+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:26.113154+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:59:24.5083401+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:06:07.1673683+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:00:23.3352212+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:26.1131803+00:00"
 }

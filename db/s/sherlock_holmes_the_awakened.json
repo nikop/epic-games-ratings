@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -853,17 +853,17 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "MQ03_2",
@@ -885,17 +885,17 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "MQ04_1",
@@ -973,9 +973,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ06_4",
@@ -1046,8 +1046,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:03:44.7198211+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:04:37.1190088+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:57:18.6250355+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:03:44.7198402+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:57:42.3158475+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:04:37.1190358+00:00"
 }

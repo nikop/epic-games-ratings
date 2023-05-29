@@ -473,9 +473,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "Chapter10",
@@ -521,9 +521,9 @@
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "Chapter7",
@@ -681,9 +681,9 @@
       "ID": "Scout",
       "SetID": "70l3651",
       "Name": "Scout",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SmeagolChoices",
@@ -697,7 +697,7 @@
       "ID": "Song",
       "SetID": "70l3651",
       "Name": "Made a Song",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -729,9 +729,9 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
@@ -744,8 +744,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:05:42.1570486+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:06:57.1031921+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:57:51.1075706+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:05:42.1570716+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:58:23.7620193+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:06:57.103223+00:00"
 }

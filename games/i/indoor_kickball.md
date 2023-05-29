@@ -12,12 +12,12 @@
 | First Win | 62.00% | ~18 |
 | Have a good trip! | 59.00% | ~17 |
 | Settle Down | 48.00% | ~14 |
-| Stay Hydrated | 45.00% | ~13 |
-| Butter Fingers | 41.00% | ~12 |
+| Stay Hydrated | 48.00% | ~14 |
+| Butter Fingers | 45.00% | ~13 |
 | True Story! | 34.00% | ~10 |
 | Have Mercy | 28.00% | ~8 |
+| Grand Slam! | 24.00% | ~7 |
 | Bedroom Secret Spot | 24.00% | ~7 |
-| Grand Slam! | 21.00% | ~6 |
 | Kick It | 21.00% | ~6 |
 | Save some water for the fishies | 14.00% | ~4 |
 | Spooky | 14.00% | ~4 |

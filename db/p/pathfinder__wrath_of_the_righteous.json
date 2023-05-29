@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2576,7 +2576,7 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9325,
+  "EOS_Progressed": 9327,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
@@ -4891,6 +4891,11 @@
       "Time": "2023-05-29T14:06:34.574353+00:00",
       "NumProgressed": 9325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T17:07:41.21591+00:00",
+      "NumProgressed": 9327,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4910,7 +4915,7 @@
       "Name": "Burning City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4942,7 +4947,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "07_FinalThreshold",
@@ -4990,7 +4995,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "13_PathOfLich",
@@ -5126,7 +5131,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "31_DivideAndRule",
@@ -5134,7 +5139,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "32_MythicReinforcements",
@@ -5142,7 +5147,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "33_DefendersHeart",
@@ -5174,7 +5179,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -5182,7 +5187,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -5278,7 +5283,7 @@
       "Name": "A Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -5286,7 +5291,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -5334,7 +5339,7 @@
       "Name": "Get the Toad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "57_PathOfDevil",
@@ -5829,21 +5834,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8107,
+      "Progressed": 8109,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9325,
+      "Progressed": 9327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-29T10:58:46.2996937+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:06:20.7633912+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:41.2159093+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:58:26.7606016+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:06:20.7635419+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:59:08.2790242+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:41.216083+00:00"
 }

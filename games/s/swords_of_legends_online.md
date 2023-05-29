@@ -1,11 +1,11 @@
 # Swords of Legends Online
 [Store](https://store.epicgames.com/en-US/p/swords-of-legends-online)  
 [View Rawdata](../../db/s/swords_of_legends_online.json)  
-Rating: 4.29 (Ranked 767)  
+Rating: 4.29 (Ranked 766)  
 Number of Ratings: 262  (23.09.2022)  
 ## Awards
 Max (Character Customization): 172  (Ranked 276)  
-Sum: 440 (Ranked 297)  
+Sum: 441 (Ranked 297)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
@@ -15,10 +15,10 @@ Diff (max vs sum): -21
 | This game has Amazing Characters | 22 |
 | This game has Beautiful Visuals | 22 |
 | This game has Quickly Understood Controls | 22 |
+| This game has Amazing Storytelling | 21 |
 | This game is Educational | 21 |
 | This game has Diverse Characters | 20 |
 | This game is Extremely Fun | 20 |
-| This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -115,3 +115,4 @@ Diff (max vs sum): -21
 | 2023-05-23 | 4.30 | - | 172 | 438 |
 | 2023-05-25 | 4.30 | - | 172 | 439 |
 | 2023-05-28 | 4.29 | - | 172 | 440 |
+| 2023-05-29 | 4.29 | - | 172 | 441 |

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 357,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.9,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -796,6 +796,11 @@
       "Time": "2023-05-29T13:08:52.2303081+00:00",
       "NumProgressed": 356,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-05-29T17:04:36.6347479+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 30,
@@ -807,7 +812,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "LEVEL_002",
@@ -815,7 +820,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "LEVEL_003",
@@ -847,7 +852,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LEVEL_007",
@@ -861,9 +866,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_009",
@@ -879,7 +884,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_011",
@@ -887,7 +892,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_012",
@@ -901,9 +906,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_014",
@@ -919,7 +924,7 @@
       "Name": "Flatland",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_016",
@@ -927,7 +932,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_017",
@@ -957,9 +962,9 @@
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 110,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_021",
@@ -967,7 +972,7 @@
       "Name": "Island in the center of the island",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_022",
@@ -975,7 +980,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_023",
@@ -1046,14 +1051,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 357,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:03:44.3191015+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:04:36.6347475+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:57:07.6121483+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:03:44.319124+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:57:27.2325185+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:04:36.6347748+00:00"
 }

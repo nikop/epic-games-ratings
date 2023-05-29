@@ -2,7 +2,7 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 767,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 818,
+  "EOS_Progressed": 819,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -538,6 +538,11 @@
       "Time": "2023-05-29T16:05:49.6711716+00:00",
       "NumProgressed": 818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T17:07:06.0604806+00:00",
+      "NumProgressed": 819,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -773,7 +778,7 @@
       "Name": "We made it",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -908,7 +913,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 818,
+      "Progressed": 819,
       "Completed": 0
     }
   ],
@@ -916,8 +921,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:05:49.6711712+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:06.06048+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.4958326+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:57:48.3058098+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:05:49.6712025+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:58:20.1810688+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:06.0605214+00:00"
 }

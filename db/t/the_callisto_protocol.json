@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -464,9 +464,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13970,
+  "EOS_Progressed": 13978,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2014,6 +2014,11 @@
       "Time": "2023-05-29T16:03:52.5745356+00:00",
       "NumProgressed": 13970,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-29T17:04:46.5571462+00:00",
+      "NumProgressed": 13978,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2041,7 +2046,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2049,7 +2054,7 @@
       "Name": "You Need a Gun",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2057,7 +2062,7 @@
       "Name": "Flesh Wound",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2145,7 +2150,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2153,7 +2158,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "KILL_ROBOT",
@@ -2177,7 +2182,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -2193,7 +2198,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2201,7 +2206,7 @@
       "Name": "Paper Jams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2209,7 +2214,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -2241,7 +2246,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2257,7 +2262,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2265,7 +2270,7 @@
       "Name": "Crash Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "STORY_TOWER",
@@ -2281,7 +2286,7 @@
       "Name": "Power Up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "DISMEMBER_100",
@@ -2344,13 +2349,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13970,
+      "Progressed": 13978,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1896,
+      "Progressed": 1904,
       "Completed": 29
     }
   ],
@@ -2358,8 +2363,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-28T13:58:30.9530604+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:03:52.5745352+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:04:46.5571456+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:57:57.5794281+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:03:52.574567+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:58:32.0597389+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:04:46.5571893+00:00"
 }

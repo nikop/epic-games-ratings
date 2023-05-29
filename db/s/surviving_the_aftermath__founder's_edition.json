@@ -1001,7 +1001,7 @@
   ],
   "EOS_Progressed": 5897,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4349,9 +4349,9 @@
       "ID": "25",
       "SetID": "8idi9ml",
       "Name": "Cleaner",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1651
     },
     {
       "ID": "26",
@@ -4533,9 +4533,9 @@
       "ID": "46",
       "SetID": "8idi9ml",
       "Name": "Finders, Keepers",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1533
     },
     {
       "ID": "47",
@@ -4693,8 +4693,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-28T15:00:00.6697435+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:06:15.5495222+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:35.3534983+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-05-29T16:00:13.0391969+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:06:15.5495843+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:01:16.8421622+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:35.3535757+00:00"
 }

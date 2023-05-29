@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~461 |
-| Rail Rat | 76.00% | ~377 |
-| The Mysterious Stranger | 74.00% | ~367 |
-| Immaculate Aim | 63.00% | ~312 |
-| The Brass Boss | 54.00% | ~268 |
+| Time Heals All Wounds | 93.00% | ~462 |
+| Rail Rat | 76.00% | ~378 |
+| The Mysterious Stranger | 74.00% | ~368 |
+| Immaculate Aim | 63.00% | ~313 |
+| The Brass Boss | 55.00% | ~273 |
 | Honest Mistake | 53.00% | ~263 |
 | No, Thanks! | 51.00% | ~253 |
-| Time Flies | 49.00% | ~243 |
-| The Prince in Heels | 49.00% | ~243 |
-| The Harder They Fall | 47.00% | ~233 |
-| Right On Time | 46.00% | ~228 |
-| Fast Learner | 45.00% | ~223 |
-| Immaculate Aim | 45.00% | ~223 |
-| Make Up For Lost Time | 43.00% | ~213 |
-| Breaking Down Barriers | 42.00% | ~208 |
+| Time Flies | 49.00% | ~244 |
+| The Prince in Heels | 49.00% | ~244 |
+| Right On Time | 47.00% | ~234 |
+| The Harder They Fall | 47.00% | ~234 |
+| Fast Learner | 45.00% | ~224 |
+| Immaculate Aim | 45.00% | ~224 |
+| Make Up For Lost Time | 43.00% | ~214 |
+| Breaking Down Barriers | 42.00% | ~209 |
 | The Steel Shadow | 35.00% | ~174 |
 | Golem Chaser | 34.00% | ~169 |
 | Like Clockwork | 33.00% | ~164 |
@@ -37,9 +37,9 @@
 | Syron for Hope | 19.00% | ~94 |
 | Chaincrawler Explorer | 18.00% | ~89 |
 | Factorywood Explorer | 18.00% | ~89 |
-| Fairgrounds Explorer | 17.00% | ~84 |
-| Theater Explorer | 14.00% | ~69 |
-| Cultivair Explorer | 13.00% | ~64 |
+| Fairgrounds Explorer | 16.00% | ~80 |
+| Theater Explorer | 14.00% | ~70 |
+| Cultivair Explorer | 13.00% | ~65 |
 | Rungs Was Right | 12.00% | ~60 |
 | Corin Goes Home | 11.00% | ~55 |
 | Sartorialist | 11.00% | ~55 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496 (Ranked 195)  
+Progressed: 497 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 386 | 0 |
 | 2023-05-27 | 438 | 0 |
 | 2023-05-28 | 474 | 0 |
-| 2023-05-29 | 496 | 0 |
+| 2023-05-29 | 497 | 0 |

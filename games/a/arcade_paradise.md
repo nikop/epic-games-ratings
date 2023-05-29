@@ -43,9 +43,9 @@ Rating: 4.57 (Ranked 438)
 | Fat Princess | 1.00% | ~6 |
 | Hexadecimal | 1.00% | ~6 |
 | IMANOK CODE | 1.00% | ~6 |
+| True Capitalist | 1.00% | ~6 |
 | Slacker | 1.00% | ~6 |
 | Intergalactic, planetary, planetary... | 1.00% | ~6 |
-| True Capitalist | 0.80% | ~5 |
 | Once upon a slime | 0.80% | ~5 |
 | It's a horror game | 0.80% | ~5 |
 | Smells like teen spirit | 0.80% | ~5 |

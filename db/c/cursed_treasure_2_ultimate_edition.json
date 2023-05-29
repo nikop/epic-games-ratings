@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "BADGE_BOSS_6_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sing, My Angel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "BADGE_BOSS_7_KILL",
@@ -327,9 +327,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -343,9 +343,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:01:23.0995437+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:02:43.8918473+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:58:45.5796006+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:01:23.0995775+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:59:30.9678837+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:02:43.8918935+00:00"
 }

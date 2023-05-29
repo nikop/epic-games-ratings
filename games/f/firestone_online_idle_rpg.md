@@ -60,10 +60,10 @@ Rating: 3.91 (Ranked 907)
 | Crystal Mining | 1.00% | ~12 |
 | Ebony Jungle Liberator | 1.00% | ~12 |
 | The Alchemist | 1.00% | ~12 |
+| Arena Challenger | 0.70% | ~9 |
 | Legendary | 0.70% | ~9 |
 | Training makes a Pro player | 0.70% | ~9 |
 | Transmute | 0.70% | ~9 |
-| Arena Challenger | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
 | Cauldron Liberator | 0.40% | ~5 |
 | Gear Enchanting | 0.40% | ~5 |

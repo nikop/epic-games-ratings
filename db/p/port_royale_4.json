@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 585,
+  "EOS_Progressed": 586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -659,6 +659,11 @@
       "Time": "2023-05-29T13:11:09.1420407+00:00",
       "NumProgressed": 585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T17:07:17.5739394+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -670,7 +675,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH001",
@@ -726,7 +731,7 @@
       "Name": "My little farm",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH008",
@@ -774,7 +779,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH014",
@@ -806,7 +811,7 @@
       "Name": "Pearly gates",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH018",
@@ -836,9 +841,9 @@
       "ID": "ACH021",
       "SetID": "69nfp41",
       "Name": "Collectionitis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH022",
@@ -852,9 +857,9 @@
       "ID": "ACH023",
       "SetID": "69nfp41",
       "Name": "Gofer",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH024",
@@ -1069,15 +1074,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 585,
+      "Progressed": 586,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:05:59.7652684+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:17.5739389+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.2461574+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:58:35.5243701+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:05:59.7653015+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:59:19.3053966+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:17.5739875+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -276,6 +276,11 @@
       "Time": "2023-05-29T16:06:12.4588422+00:00",
       "NumProgressed": 332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T17:07:32.0355375+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -303,7 +308,7 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Assassin",
@@ -319,7 +324,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "BugHunter",
@@ -399,7 +404,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Inquisitor",
@@ -551,7 +556,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TheTrio",
@@ -606,7 +611,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 0
     }
   ],
@@ -614,8 +619,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:06:12.4588417+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:07:32.0355367+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.4676985+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:59:46.4939868+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:06:12.458867+00:00"
+  "LastUpdate_Ratings": "2023-05-29T17:00:47.1824889+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:07:32.0355721+00:00"
 }

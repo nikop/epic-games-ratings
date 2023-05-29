@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1040,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -796,6 +796,11 @@
       "Time": "2023-05-29T16:02:16.862655+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-29T17:03:32.5400535+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -807,7 +812,7 @@
       "Name": "Aggressor",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AI_DRAW",
@@ -839,7 +844,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -887,7 +892,7 @@
       "Name": "Novice",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 415
     },
     {
       "ID": "GLOVE_SLAP",
@@ -901,9 +906,9 @@
       "ID": "GONNA_FLY_NOW",
       "SetID": "8lhbnh7",
       "Name": "Gonna Fly Now",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 55
     },
     {
       "ID": "GRASSHOPPER",
@@ -911,7 +916,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 645
     },
     {
       "ID": "GUARD_MAKER",
@@ -982,14 +987,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1093,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-29T16:02:16.8626545+00:00",
+  "LastChanged_Achievements": "2023-05-29T17:03:32.5400529+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-29T15:57:06.6620909+00:00",
-  "LastUpdate_Achievements": "2023-05-29T16:02:16.8626713+00:00"
+  "LastUpdate_Ratings": "2023-05-29T16:57:26.627261+00:00",
+  "LastUpdate_Achievements": "2023-05-29T17:03:32.5400741+00:00"
 }

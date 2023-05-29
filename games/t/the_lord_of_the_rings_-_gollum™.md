@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 59.00% | ~204 |
+| The Wraith | 60.00% | ~207 |
 | Collectibles Part 1 | 48.00% | ~166 |
-| Welcome to Mordor! | 47.00% | ~162 |
+| Welcome to Mordor! | 48.00% | ~166 |
 | Wait! Wait! Not yet! | 31.00% | ~107 |
 | Like Flying... | 28.00% | ~97 |
 | Memories | 27.00% | ~93 |
@@ -14,7 +14,7 @@
 | The Breeder | 15.00% | ~52 |
 | The Veteran | 11.00% | ~38 |
 | The Traitor | 8.00% | ~28 |
-| The Spider | 6.00% | ~21 |
+| The Spider | 7.00% | ~24 |
 | Good as Fish | 4.00% | ~14 |
 | Trigger-Happy | 4.00% | ~14 |
 | He's so Annoying | 3.00% | ~10 |
@@ -24,21 +24,21 @@
 | Gollum/Sméagol | 2.00% | ~7 |
 | Master of the Old Game | 1.00% | ~3 |
 | So Silly! | 1.00% | ~3 |
+| Made a Song | 1.00% | ~3 |
 | So Tasty! | 1.00% | ~3 |
 | Break a Leg! | 0.90% | ~3 |
 | And now we wish... | 0.90% | ~3 |
 | Sweet Darkness | 0.90% | ~3 |
-| Made a Song | 0.90% | ~3 |
 | Nervous Hands | 0.60% | ~2 |
 | Ss ss ss... | 0.60% | ~2 |
 | Collectibles Part 2 | 0.30% | ~1 |
 | Elf-Friend | 0.30% | ~1 |
 | We wants it! We needs it | 0.30% | ~1 |
+| Scout | 0.30% | ~1 |
 | Rule them all! | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 | How Did You Do That? | 0.00% | ~0 |
 | River Hobbit | 0.00% | ~0 |
-| Scout | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 345 (Ranked 214)  
