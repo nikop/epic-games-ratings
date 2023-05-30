@@ -21,7 +21,7 @@
 | 18 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.98% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
+| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.78% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
 | 24 | [Scorn](games/s/scorn.md) | 6.87% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
@@ -61,7 +61,7 @@
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.21% |
 | 60 | [JARS](games/j/jars.md) | 2.17% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -84,7 +84,7 @@
 | 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
-| 85 | [Late Shift](games/l/late_shift.md) | 1.06% |
+| 85 | [Late Shift](games/l/late_shift.md) | 1.05% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.02% |
 | 87 | [Sable](games/s/sable.md) | 0.95% |
 | 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.93% |
@@ -423,4 +423,4 @@
 | 207 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 207 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 207 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,701 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,702 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
