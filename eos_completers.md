@@ -19,15 +19,15 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.99% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.98% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.74% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
 | 24 | [Scorn](games/s/scorn.md) | 6.88% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.01% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.99% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
@@ -63,7 +63,7 @@
 | 61 | [JARS](games/j/jars.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 64 | [Bloodshore](games/b/bloodshore.md) | 1.94% |
+| 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 66 | [Sifu](games/s/sifu.md) | 1.80% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.69% |
@@ -71,7 +71,7 @@
 | 69 | [Night Book](games/n/night_book.md) | 1.60% |
 | 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
 | 70 | [Somerville](games/s/somerville.md) | 1.59% |
-| 72 | [Frogun](games/f/frogun.md) | 1.54% |
+| 72 | [Frogun](games/f/frogun.md) | 1.52% |
 | 73 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 74 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
 | 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.41% |
@@ -80,14 +80,14 @@
 | 78 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
 | 79 | [Chorus](games/c/chorus.md) | 1.21% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.21% |
-| 81 | [Trifox](games/t/trifox.md) | 1.20% |
+| 81 | [Trifox](games/t/trifox.md) | 1.19% |
 | 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.06% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.02% |
 | 87 | [Sable](games/s/sable.md) | 0.95% |
-| 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.94% |
+| 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.93% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
@@ -109,7 +109,7 @@
 | 107 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 109 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 109 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
+| 110 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.47% |
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.39% |
