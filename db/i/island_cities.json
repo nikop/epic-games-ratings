@@ -993,9 +993,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_009",
@@ -1122,8 +1122,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-30T16:06:23.5392398+00:00",
+  "LastChanged_Achievements": "2023-05-30T17:05:18.3259316+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:58:12.0386024+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:06:23.5392566+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:57:51.3278199+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:05:18.3259476+00:00"
 }

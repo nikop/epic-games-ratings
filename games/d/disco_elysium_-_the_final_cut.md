@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,505 |
+| Goodest Of The Good Cops | 28.00% | ~33,506 |
 | Biggest Communism Builder | 24.00% | ~28,719 |
-| The World's Most Laughable Centrist | 20.00% | ~23,932 |
-| Il Coppo Del'Arte! | 18.00% | ~21,539 |
+| The World's Most Laughable Centrist | 20.00% | ~23,933 |
+| Il Coppo Del'Arte! | 18.00% | ~21,540 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,146 |
-| Hyperstellar Law Official | 15.00% | ~17,949 |
+| Hyperstellar Law Official | 15.00% | ~17,950 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,753 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,556 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,556 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,163 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,769 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,770 |
 | Unbelievably Boring **** | 8.00% | ~9,573 |
 | Enemy Of The Physical Realm | 8.00% | ~9,573 |
 | Hardie's Heroes | 5.00% | ~5,983 |
-| The Lawbringer | 4.00% | ~4,786 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,786 |
+| The Lawbringer | 4.00% | ~4,787 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,787 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,590 |
 | Bother Kim After Hours | 3.00% | ~3,590 |
 | Baddest Of the Bad Cops | 2.00% | ~2,393 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~120 |
 | What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,661 (Ranked 57)  
+Progressed: 119,664 (Ranked 57)  
 Completed: 25 (0.02%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 25 (0.02%) (Ranked 190)
 | 2023-05-27 | 119,325 | 25 |
 | 2023-05-28 | 119,484 | 25 |
 | 2023-05-29 | 119,593 | 25 |
-| 2023-05-30 | 119,661 | 25 |
+| 2023-05-30 | 119,664 | 25 |
 ## Awards
 Max (Character Customization): 690  (Ranked 157)  
 Sum: 1,046 (Ranked 230)  

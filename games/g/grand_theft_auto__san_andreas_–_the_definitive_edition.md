@@ -5,21 +5,21 @@ Rating: 4.61 (Ranked 359)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,149 |
-| Pay 'n' Spray | 48.00% | ~4,289 |
-| All Dressed Up for San Fierro | 22.00% | ~1,966 |
-| The American Dream | 17.00% | ~1,519 |
-| School's Out | 15.00% | ~1,340 |
-| Smooth Moves | 15.00% | ~1,340 |
+| Getting Started | 80.00% | ~7,151 |
+| Pay 'n' Spray | 48.00% | ~4,291 |
+| All Dressed Up for San Fierro | 22.00% | ~1,967 |
+| The American Dream | 17.00% | ~1,520 |
+| School's Out | 15.00% | ~1,341 |
+| Smooth Moves | 15.00% | ~1,341 |
 | Today Was a Good Day | 13.00% | ~1,162 |
-| What happens in Las Venturas... | 12.00% | ~1,072 |
-| Horror of the Santa Maria | 9.00% | ~804 |
+| What happens in Las Venturas... | 12.00% | ~1,073 |
+| Horror of the Santa Maria | 9.00% | ~805 |
 | Liberty City State of Mind | 7.00% | ~626 |
 | With Extra Dip | 6.00% | ~536 |
 | The End of the Line | 6.00% | ~536 |
 | Original Gangster | 6.00% | ~536 |
 | Saviour | 5.00% | ~447 |
-| Rescue a Kitten Too? | 4.00% | ~357 |
+| Rescue a Kitten Too? | 4.00% | ~358 |
 | They Can’t Stop All of Us | 3.00% | ~268 |
 | What are the Odds | 3.00% | ~268 |
 | I’ll Have Two Number 9s | 2.00% | ~179 |
@@ -34,14 +34,14 @@ Rating: 4.61 (Ranked 359)
 | Assassin | 1.00% | ~89 |
 | Ain’t Nothing But a G Thing | 1.00% | ~89 |
 | Chick Magnet | 0.90% | ~80 |
-| Lucky Spinner | 0.80% | ~71 |
+| Lucky Spinner | 0.80% | ~72 |
 | Hoopin' it Up | 0.70% | ~63 |
 | Not a Player | 0.60% | ~54 |
 | Remastered | 0.50% | ~45 |
 | ...Here we go again | 0.20% | ~18 |
 | I Ain't No Buster | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,936 (Ranked 111)  
+Progressed: 8,939 (Ranked 111)  
 Completed: 17 (0.19%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 17 (0.19%) (Ranked 143)
 | 2023-05-27 | 8,629 | 17 |
 | 2023-05-28 | 8,761 | 17 |
 | 2023-05-29 | 8,878 | 17 |
-| 2023-05-30 | 8,936 | 17 |
+| 2023-05-30 | 8,939 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

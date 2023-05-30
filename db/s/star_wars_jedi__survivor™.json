@@ -4,11 +4,11 @@
   "ProductSlug": "star-wars-jedi-survivor",
   "Ranking_Rating": 630,
   "Ranking_Popularity": 124,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -688,10 +688,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 1494,
       "NumberOfAwardsMax": 1180
+    },
+    {
+      "Time": "2023-05-30T17:00:01.4881254+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 1500,
+      "NumberOfAwardsMax": 1180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1494,
+  "NumberOfAwards": 1500,
   "NumberOfAwardsMax": 1180,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -705,7 +711,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",
@@ -729,7 +735,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 42
+      "Count": 46
     },
     {
       "Text": "This game has Diverse Characters",
@@ -762,8 +768,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "LastChanged": "2023-05-30T16:01:06.0644907+00:00",
+  "LastChanged": "2023-05-30T17:00:01.4881252+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:50.4818657+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:01:06.0644917+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:06:04.5833036+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:00:01.4881257+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:05:04.3979903+00:00"
 }

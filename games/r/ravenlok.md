@@ -18,11 +18,11 @@
 | An Actor! | 44.00% | ~400 |
 | Surprise! | 43.00% | ~391 |
 | Curtain Call | 42.00% | ~382 |
+| Glimmer of Hope | 40.00% | ~364 |
 | Well Rested | 40.00% | ~364 |
 | Piece of Cake | 39.00% | ~355 |
 | Gooey Delight! | 39.00% | ~355 |
-| Glimmer of Hope | 39.00% | ~355 |
-| Teacups for Toppy | 38.00% | ~345 |
+| Teacups for Toppy | 39.00% | ~355 |
 | Nightmare Fuel | 37.00% | ~336 |
 | Take Heart | 37.00% | ~336 |
 | The Guardian | 37.00% | ~336 |
@@ -30,9 +30,9 @@
 | Ancient Wisdom | 35.00% | ~318 |
 | Frog Facts! | 35.00% | ~318 |
 | All That Glistens | 35.00% | ~318 |
+| It's Pointy! | 35.00% | ~318 |
 | Spellbound | 34.00% | ~309 |
 | All Skilled Up! | 34.00% | ~309 |
-| It's Pointy! | 34.00% | ~309 |
 | Extinct Again! | 33.00% | ~300 |
 | Bird of Prey | 33.00% | ~300 |
 | Stardust | 33.00% | ~300 |
@@ -47,7 +47,7 @@
 | Spot of Tea? | 30.00% | ~273 |
 | Going Home | 30.00% | ~273 |
 | Extraordinary! | 29.00% | ~264 |
-| Mirror, Mirror | 27.00% | ~245 |
+| Mirror, Mirror | 28.00% | ~255 |
 | Flower Power | 24.00% | ~218 |
 | Shopping Spree! | 22.00% | ~200 |
 | Crowned | 21.00% | ~191 |

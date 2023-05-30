@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -2086,10 +2086,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 3860,
       "NumberOfAwardsMax": 587
+    },
+    {
+      "Time": "2023-05-30T16:57:11.3702267+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3863,
+      "NumberOfAwardsMax": 587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3860,
+  "NumberOfAwards": 3863,
   "NumberOfAwardsMax": 587,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -2121,7 +2127,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 505
+      "Count": 508
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2154,8 +2160,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-05-30T13:04:56.718234+00:00",
+  "LastChanged": "2023-05-30T16:57:11.3702265+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.1224963+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:57:19.7112552+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:02:25.2065445+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:57:11.3702271+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:02:14.0439418+00:00"
 }

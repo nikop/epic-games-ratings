@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~627 |
-| Project Arena | 3.00% | ~470 |
+| Project Arena | 3.00% | ~471 |
 | The Old Grandmaster | 1.00% | ~7,064 |
 | The Assault | 1.00% | ~7,064 |
 | The Hateful Pole Fighter | 1.00% | ~7,064 |
@@ -38,11 +38,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.50% | ~3,532 |
 | Tiger on Fire | 0.50% | ~3,532 |
 | Detective Story | 0.50% | ~3,532 |
-| Source of Flying Daggers | 0.40% | ~2,825 |
-| Iron Money | 0.40% | ~2,825 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,825 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,825 |
-| Sword Stained With Blood | 0.40% | ~2,825 |
+| Source of Flying Daggers | 0.40% | ~2,826 |
+| Iron Money | 0.40% | ~2,826 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,826 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,826 |
+| Sword Stained With Blood | 0.40% | ~2,826 |
 | Prodigal Child | 0.30% | ~2,119 |
 | Martial Hub | 0.30% | ~47 |
 | Secure, Protect, Leave | 0.30% | ~47 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,374 (Ranked 15)  
+Progressed: 706,383 (Ranked 15)  
 Completed: 12,747 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,15 +97,15 @@ Completed: 12,747 (1.80%) (Ranked 66)
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
 | 2023-05-29 | 706,246 | 12,745 |
-| 2023-05-30 | 706,374 | 12,747 |
+| 2023-05-30 | 706,383 | 12,747 |
 ## Awards
 Max (Great Boss Battles): 6,109  (Ranked 53)  
-Sum: 10,410 (Ranked 77)  
+Sum: 10,411 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,109 |
-| This game has Diverse Characters | 519 |
+| This game has Diverse Characters | 520 |
 | This game has Challenging Combat | 515 |
 | This game has Quickly Understood Controls | 505 |
 | This game is Extremely Fun | 501 |
@@ -252,3 +252,4 @@ Diff (max vs sum): -24
 | 2023-05-27 | 4.82 | - | 6,102 | 10,399 |
 | 2023-05-28 | 4.82 | - | 6,108 | 10,406 |
 | 2023-05-29 | 4.82 | - | 6,109 | 10,410 |
+| 2023-05-30 | 4.82 | - | 6,109 | 10,411 |

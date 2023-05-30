@@ -2,20 +2,20 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 506,
+  "Ranking_Rating": 494,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -1309,6 +1309,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 2142,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2023-05-30T16:58:50.780058+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 2142,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
@@ -1401,8 +1407,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-05-30T11:59:55.6790342+00:00",
+  "LastChanged": "2023-05-30T16:58:50.7800578+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:45.4972146+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:59:32.3920943+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:04:26.7876381+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:58:50.7800583+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:03:48.8884265+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "walking-dead-season-one",
   "Ranking_Rating": 78,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2012-04-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -242,6 +242,6 @@
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
   "LastChanged": "2023-04-24T21:57:16.244392+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.0174664+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:59:31.1451933+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:01:22.7007701+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:58:49.870347+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:00:14.3163875+00:00"
 }

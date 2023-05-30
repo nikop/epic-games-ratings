@@ -61,6 +61,7 @@
 | Grumpy Immortal | 6.00% | ~4 |
 | Free Of Chains | 6.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 4.00% | ~3 |
+| Ancient Ruins of Leaky Roof | 4.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~3 |
 | My name is Whoopass, SIR Whoopass! | 4.00% | ~3 |
 | European karaoke king | 4.00% | ~3 |
@@ -69,7 +70,6 @@
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~2 |
-| Ancient Ruins of Leaky Roof | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
 | Out of bounds | 3.00% | ~2 |
 | Fifty Shades of Gruyere | 1.00% | ~1 |

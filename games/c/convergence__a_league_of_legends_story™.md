@@ -12,12 +12,12 @@
 | Honest Mistake | 55.00% | ~285 |
 | No, Thanks! | 53.00% | ~275 |
 | Time Flies | 51.00% | ~264 |
-| The Prince in Heels | 50.00% | ~259 |
+| The Prince in Heels | 51.00% | ~264 |
 | The Harder They Fall | 49.00% | ~254 |
-| Right On Time | 47.00% | ~243 |
+| Right On Time | 48.00% | ~249 |
 | Fast Learner | 47.00% | ~243 |
-| Immaculate Aim | 46.00% | ~238 |
-| Make Up For Lost Time | 45.00% | ~233 |
+| Immaculate Aim | 47.00% | ~243 |
+| Make Up For Lost Time | 46.00% | ~238 |
 | Breaking Down Barriers | 42.00% | ~218 |
 | The Steel Shadow | 37.00% | ~192 |
 | Golem Chaser | 35.00% | ~181 |
@@ -32,9 +32,9 @@
 | The Family Fortune | 22.00% | ~114 |
 | The Man Who Shattered Time | 21.00% | ~109 |
 | Whiz Kid | 21.00% | ~109 |
+| Chaincrawler Explorer | 20.00% | ~104 |
 | Sump Explorer | 20.00% | ~104 |
 | Ask Questions Later | 20.00% | ~104 |
-| Chaincrawler Explorer | 19.00% | ~98 |
 | Syron for Hope | 19.00% | ~98 |
 | Factorywood Explorer | 18.00% | ~93 |
 | Fairgrounds Explorer | 18.00% | ~93 |

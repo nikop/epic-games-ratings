@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 909,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.71,
   "EosHistory": [
@@ -2192,17 +2192,17 @@
       "ID": "34",
       "SetID": "d0g98p",
       "Name": "Glimmer of Hope",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 364
     },
     {
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 355
     },
     {
       "ID": "36",
@@ -2248,9 +2248,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 255
     },
     {
       "ID": "41",
@@ -2280,9 +2280,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 318
     },
     {
       "ID": "45",
@@ -2385,8 +2385,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-30T16:06:25.590548+00:00",
+  "LastChanged_Achievements": "2023-05-30T17:05:19.9472242+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:57:29.1757249+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:06:25.5906708+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:57:18.7266794+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:05:19.9472677+00:00"
 }

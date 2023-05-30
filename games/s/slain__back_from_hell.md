@@ -1,24 +1,24 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 773)  
+Rating: 4.28 (Ranked 772)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,636 |
-| A Good Day To Die | 16.00% | ~3,709 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,391 |
-| Right Back Atcha | 6.00% | ~1,391 |
-| Killed by Death | 5.00% | ~1,159 |
-| Kill 'Em All | 4.00% | ~927 |
+| Man 'O War | 20.00% | ~4,639 |
+| A Good Day To Die | 16.00% | ~3,711 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,392 |
+| Right Back Atcha | 6.00% | ~1,392 |
+| Killed by Death | 5.00% | ~1,160 |
+| Kill 'Em All | 4.00% | ~928 |
 | Down Boy! | 2.00% | ~464 |
 | A Snowball's Chance in Hell | 2.00% | ~464 |
 | Enjoy The Silence | 1.00% | ~232 |
 | Sure Footed As A Goat | 0.90% | ~209 |
-| Thorn in My Herbicide | 0.80% | ~185 |
-| Backdoor Man | 0.80% | ~185 |
-| Death Becomes Her | 0.80% | ~185 |
-| Schadenfreude | 0.80% | ~185 |
+| Thorn in My Herbicide | 0.80% | ~186 |
+| Backdoor Man | 0.80% | ~186 |
+| Death Becomes Her | 0.80% | ~186 |
+| Schadenfreude | 0.80% | ~186 |
 | Red In Tooth And Claw | 0.70% | ~162 |
 | The Sky Is Falling | 0.70% | ~162 |
 | Start As You Mean To Go On | 0.60% | ~139 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 773)
 | Too Metal For Magic | 0.10% | ~23 |
 | Heart Of Steel | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,182 (Ranked 90)  
+Progressed: 23,193 (Ranked 90)  
 Completed: 18 (0.08%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 18 (0.08%) (Ranked 167)
 | 2023-05-27 | 22,732 | 18 |
 | 2023-05-28 | 22,926 | 18 |
 | 2023-05-29 | 23,067 | 18 |
-| 2023-05-30 | 23,182 | 18 |
+| 2023-05-30 | 23,193 | 18 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 301)  
 Sum: 125 (Ranked 388)  

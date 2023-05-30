@@ -3,12 +3,12 @@
   "Name": "Evoland Legendary Edition",
   "ProductSlug": "evoland-legendary-edition-5753ec",
   "Ranking_Rating": 558,
-  "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 334,
+  "Ranking_Popularity": 232,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
     "PcReleaseDate": "2019-02-07T08:00:00+00:00",
@@ -75,11 +75,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 272
+    },
+    {
+      "Time": "2023-05-30T16:57:34.5926154+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
-  "NumberOfAwardsMax": 272,
+  "NumberOfAwards": 273,
+  "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -92,7 +98,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 272
+      "Count": 273
     }
   ],
   "EOS_Progressed": 0,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:33.1892038+00:00",
   "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
-  "LastChanged": "2023-05-27T13:00:21.9286208+00:00",
+  "LastChanged": "2023-05-30T16:57:34.5926152+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.7790901+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:57:50.9581051+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:04:06.9006916+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:57:34.5926157+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:03:35.0513633+00:00"
 }

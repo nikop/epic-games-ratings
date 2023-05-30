@@ -15,9 +15,9 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 22.00% | ~269 |
 | Gotta Ca... Must Collect All of Them | 21.00% | ~257 |
 | Completing the Look | 12.00% | ~147 |
+| Who's Counting? | 12.00% | ~147 |
 | War Endured | 12.00% | ~147 |
 | A Mythic Menagerie | 11.00% | ~135 |
-| Who's Counting? | 11.00% | ~135 |
 | Core Failure | 11.00% | ~135 |
 | Pyrrhic Victory | 9.00% | ~110 |
 | Echoes Die | 8.00% | ~98 |
@@ -103,8 +103,8 @@ Completed: 3 (0.25%) (Ranked 135)
 | 2023-05-30 | 1,224 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
-Sum: 27 (Ranked 464)  
-Diff (max vs sum): -9  
+Sum: 27 (Ranked 465)  
+Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 27 |

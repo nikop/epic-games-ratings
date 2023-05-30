@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -977,9 +977,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 257
     },
     {
       "ID": "FIRST_100K",
@@ -1058,8 +1058,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-30T16:06:30.8848134+00:00",
+  "LastChanged_Achievements": "2023-05-30T17:05:23.9551562+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:59:49.9906546+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:06:30.8848269+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:59:04.3198943+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:05:23.9551707+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "COMPLETE_DUNGEONRUINS_02",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Leaky Roof",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_DUNGEONRUINS_03",
@@ -958,8 +958,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-30T16:06:37.77606+00:00",
+  "LastChanged_Achievements": "2023-05-30T17:05:29.6673423+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:57:09.5082011+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:06:37.7761344+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:57:04.8812212+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:05:29.6674114+00:00"
 }

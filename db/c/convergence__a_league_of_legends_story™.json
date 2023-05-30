@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -694,9 +694,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "ChestCompletion1",
@@ -710,9 +710,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 249
     },
     {
       "ID": "ClockworkCompletion1",
@@ -870,9 +870,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "MapCompletion1",
@@ -958,9 +958,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "RewindDamage1",
@@ -1062,9 +1062,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "WatcherFought",
@@ -1109,8 +1109,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T16:05:35.8640067+00:00",
+  "LastChanged_Achievements": "2023-05-30T17:04:43.5502042+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:59:50.2511099+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:05:35.8640497+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:59:04.7161029+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:04:43.5502544+00:00"
 }

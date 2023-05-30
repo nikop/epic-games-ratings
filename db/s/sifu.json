@@ -4210,10 +4210,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10410,
       "NumberOfAwardsMax": 6109
+    },
+    {
+      "Time": "2023-05-30T16:58:42.3201117+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10411,
+      "NumberOfAwardsMax": 6109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10410,
+  "NumberOfAwards": 10411,
   "NumberOfAwardsMax": 6109,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4251,7 +4257,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 519
+      "Count": 520
     },
     {
       "Text": "This game is Relaxing",
@@ -4290,9 +4296,9 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706374,
+  "EOS_Progressed": 706383,
   "EOS_Completed": 12747,
-  "EOS_NewPlayers": 1552,
+  "EOS_NewPlayers": 1549,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7805,6 +7811,11 @@
       "Time": "2023-05-30T16:06:53.175454+00:00",
       "NumProgressed": 706374,
       "NumCompleted": 12747
+    },
+    {
+      "Time": "2023-05-30T17:05:42.0783064+00:00",
+      "NumProgressed": 706383,
+      "NumCompleted": 12747
     }
   ],
   "TotalAchievements": 50,
@@ -7880,7 +7891,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "10_Wude_H4",
@@ -7888,7 +7899,7 @@
       "Name": "Iron Money",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "11_Wude_H5",
@@ -7896,7 +7907,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "12_MidAge",
@@ -8032,7 +8043,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -8072,7 +8083,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "34_TimedTakedown",
@@ -8152,7 +8163,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8215,21 +8226,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15675,
-      "Completed": 10197
+      "Progressed": 15684,
+      "Completed": 10198
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706374,
+      "Progressed": 706383,
       "Completed": 12747
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-29T20:59:02.1691035+00:00",
-  "LastChanged_Achievements": "2023-05-30T16:06:53.1754532+00:00",
+  "LastChanged": "2023-05-30T16:58:42.3201116+00:00",
+  "LastChanged_Achievements": "2023-05-30T17:05:42.0783059+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:59:20.3071222+00:00",
-  "LastUpdate_Achievements": "2023-05-30T16:06:53.1755146+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:58:42.3201121+00:00",
+  "LastUpdate_Achievements": "2023-05-30T17:05:42.0783557+00:00"
 }
