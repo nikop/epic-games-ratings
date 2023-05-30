@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 59.00% | ~131 |
-| Scrap Gatherer | 58.00% | ~129 |
-| Mushroom Picker | 56.00% | ~124 |
-| Scrapper | 50.00% | ~111 |
-| Cook | 42.00% | ~93 |
-| Teleport | 41.00% | ~91 |
+| Scrap Gatherer | 58.00% | ~130 |
+| My New Home | 58.00% | ~130 |
+| Mushroom Picker | 56.00% | ~125 |
+| Scrapper | 50.00% | ~112 |
+| Cook | 42.00% | ~94 |
+| Teleport | 40.00% | ~90 |
 | Scrap Master | 39.00% | ~87 |
-| Smelter | 36.00% | ~80 |
-| Digger | 34.00% | ~75 |
-| Electro-Scrap Gatherer | 34.00% | ~75 |
-| Survivor | 32.00% | ~71 |
+| Smelter | 36.00% | ~81 |
+| Digger | 34.00% | ~76 |
+| Electro-Scrap Gatherer | 33.00% | ~74 |
+| Survivor | 32.00% | ~72 |
 | Robot Destroyer | 31.00% | ~69 |
 | Herbalist | 27.00% | ~60 |
-| Lumberjack | 27.00% | ~60 |
+| Lumberjack | 26.00% | ~58 |
 | Electro-Scrap Master | 25.00% | ~56 |
 | Prepper | 25.00% | ~56 |
-| Robot Hunter | 22.00% | ~49 |
-| Advanced Survivalist | 20.00% | ~44 |
+| Robot Hunter | 21.00% | ~47 |
+| Advanced Survivalist | 20.00% | ~45 |
 | Master Of Technology | 18.00% | ~40 |
 | Treasure Hunter | 17.00% | ~38 |
 | Mythical Smelter | 12.00% | ~27 |
-| Blacksmith | 11.00% | ~24 |
-| Fuel | 10.00% | ~22 |
-| Master Of Management | 9.00% | ~20 |
+| Blacksmith | 11.00% | ~25 |
+| Fuel | 11.00% | ~25 |
 | Forest Lord | 9.00% | ~20 |
 | Smelting Master | 9.00% | ~20 |
 | Black Gold | 8.00% | ~18 |
+| Master Of Management | 8.00% | ~18 |
+| Traveler | 4.00% | ~9 |
 | Survival Master | 4.00% | ~9 |
-| Traveler | 3.00% | ~7 |
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 234)  
+Progressed: 224 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 214 | 0 |
 | 2023-05-28 | 218 | 0 |
 | 2023-05-29 | 220 | 0 |
-| 2023-05-30 | 222 | 0 |
+| 2023-05-30 | 224 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

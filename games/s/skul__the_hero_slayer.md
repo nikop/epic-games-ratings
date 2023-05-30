@@ -6,23 +6,23 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,984 |
-| What should I buy? | 83.00% | ~6,233 |
-| Focus! | 62.00% | ~4,656 |
-| Rescued Elder Ent | 62.00% | ~4,656 |
+| The Legend Begins | 93.00% | ~6,985 |
+| What should I buy? | 83.00% | ~6,234 |
+| Focus! | 62.00% | ~4,657 |
+| Rescued Elder Ent | 62.00% | ~4,657 |
 | The End of the Gold Mane Knights | 46.00% | ~3,455 |
 | Rules of Etiquette | 39.00% | ~2,929 |
 | False Goddess, Disappear | 38.00% | ~2,854 |
-| Quick Movements | 33.00% | ~2,478 |
-| Inventory Management | 33.00% | ~2,478 |
+| Quick Movements | 33.00% | ~2,479 |
+| Inventory Management | 33.00% | ~2,479 |
 | The Fall of the Leonia Order | 29.00% | ~2,178 |
 | The Hero Killer | 27.00% | ~2,028 |
 | Go Home... | 26.00% | ~1,953 |
 | The Final Battle of the First Hero | 25.00% | ~1,878 |
 | Brain at Full Throttle | 22.00% | ~1,652 |
 | Rookies Welcome | 20.00% | ~1,502 |
-| Deadly Power | 15.00% | ~1,126 |
-| Castle Restoration Plans | 14.00% | ~1,051 |
+| Deadly Power | 15.00% | ~1,127 |
+| Castle Restoration Plans | 14.00% | ~1,052 |
 | The Dwarven Chandelier | 12.00% | ~901 |
 | Master of Speed | 9.00% | ~676 |
 | The Levitator | 6.00% | ~451 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~75 |
 | Cold-Blooded | 0.80% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,510 (Ranked 112)  
+Progressed: 7,511 (Ranked 112)  
 Completed: 11 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,14 +67,14 @@ Completed: 11 (0.15%) (Ranked 149)
 | 2023-05-27 | 7,440 | 11 |
 | 2023-05-28 | 7,468 | 11 |
 | 2023-05-29 | 7,495 | 11 |
-| 2023-05-30 | 7,510 | 11 |
+| 2023-05-30 | 7,511 | 11 |
 ## Awards
-Max (Diverse Characters): 113  (Ranked 313)  
-Sum: 755 (Ranked 254)  
-Diff (max vs sum): 59  
+Max (Great for Beginners): 118  (Ranked 307)  
+Sum: 873 (Ranked 242)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 114 |
+| This game is Great for Beginners | 118 |
 | This game has Diverse Characters | 113 |
 | This game is Highly Recommended | 107 |
 | This game is Extremely Fun | 106 |
@@ -184,3 +184,4 @@ Diff (max vs sum): 59
 | 2023-05-25 | 4.71 | - | 113 | 753 |
 | 2023-05-27 | 4.71 | - | 113 | 754 |
 | 2023-05-29 | 4.71 | - | 113 | 755 |
+| 2023-05-30 | 4.71 | - | 118 | 873 |

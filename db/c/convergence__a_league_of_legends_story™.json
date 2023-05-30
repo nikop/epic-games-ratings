@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -867,9 +867,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "LacunaCompleted",
@@ -1043,9 +1043,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 161
     },
     {
       "ID": "TheaterChests1",
@@ -1114,8 +1114,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:05:28.8463851+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:04:44.3896847+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:59:55.3203911+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:05:28.8465003+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:59:03.4842185+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:04:44.3898862+00:00"
 }

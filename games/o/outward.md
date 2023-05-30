@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,988 |
-| Ready for Winter | 63.00% | ~1,692 |
-| Ready for Summer | 50.00% | ~1,343 |
-| Cordon Bleu | 43.00% | ~1,155 |
-| Tapped! | 35.00% | ~940 |
-| Eureka | 31.00% | ~833 |
+| Venture Outward | 74.00% | ~1,990 |
+| Ready for Winter | 63.00% | ~1,694 |
+| Ready for Summer | 50.00% | ~1,344 |
+| Cordon Bleu | 43.00% | ~1,156 |
+| Tapped! | 35.00% | ~941 |
+| Eureka | 30.00% | ~807 |
 | Scourge Slayer | 25.00% | ~672 |
 | Science, Troglodyte! | 23.00% | ~618 |
-| Exceptional Skill | 22.00% | ~591 |
-| Home Sweet Home | 22.00% | ~591 |
-| Encyclopedic! | 19.00% | ~510 |
+| Exceptional Skill | 22.00% | ~592 |
+| Home Sweet Home | 21.00% | ~565 |
+| Encyclopedic! | 19.00% | ~511 |
 | A Fortress Toppled! | 16.00% | ~430 |
 | Apex Predator | 15.00% | ~403 |
 | The Power of Family | 15.00% | ~403 |
-| Strange amalgams | 12.00% | ~322 |
-| The Power of Faith | 12.00% | ~322 |
+| Strange amalgams | 12.00% | ~323 |
+| The Power of Faith | 12.00% | ~323 |
 | The Power of Freedom | 9.00% | ~242 |
 | Ace Detective | 8.00% | ~215 |
 | Gift from the Ancestors | 8.00% | ~215 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | Blood and justice | 6.00% | ~161 |
 | Hold my Mead and Watch This | 6.00% | ~161 |
 | The stuff of legends. | 6.00% | ~161 |
-| Ancestor's Pride | 4.00% | ~107 |
-| For All Aurai | 4.00% | ~107 |
-| Memory of a legend | 4.00% | ~107 |
+| Ancestor's Pride | 4.00% | ~108 |
+| For All Aurai | 4.00% | ~108 |
+| Memory of a legend | 4.00% | ~108 |
 | Light of Levant | 3.00% | ~81 |
 | This was a mistake... | 3.00% | ~81 |
 | Crowd Pleaser. | 2.00% | ~54 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,686 (Ranked 139)  
+Progressed: 2,689 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.04%) (Ranked 179)
 | 2023-05-27 | 2,618 | 1 |
 | 2023-05-28 | 2,645 | 1 |
 | 2023-05-29 | 2,669 | 1 |
-| 2023-05-30 | 2,686 | 1 |
+| 2023-05-30 | 2,689 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 344)  

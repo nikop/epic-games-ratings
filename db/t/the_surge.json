@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -313,9 +313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4300,
+  "EOS_Progressed": 4301,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -813,6 +813,11 @@
       "Time": "2023-05-30T20:02:20.0231755+00:00",
       "NumProgressed": 4300,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-30T22:02:20.7201951+00:00",
+      "NumProgressed": 4301,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -872,7 +877,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3612
+      "UsersEstimate": 3613
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -880,7 +885,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -888,7 +893,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3311
+      "UsersEstimate": 3312
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1040,7 +1045,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1072,7 +1077,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1359,15 +1364,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4300,
+      "Progressed": 4301,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-23T01:58:51.2287865+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:02:22.6800005+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:02:20.7201944+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:44.8329823+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:58:39.3780938+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:02:22.6800704+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:57:48.09359+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:02:20.7202583+00:00"
 }

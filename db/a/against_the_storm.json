@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2318,9 +2318,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15084,
+  "EOS_Progressed": 15088,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4468,6 +4468,11 @@
       "Time": "2023-05-30T21:06:30.198182+00:00",
       "NumProgressed": 15084,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-30T22:05:44.8981206+00:00",
+      "NumProgressed": 15088,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4821,9 +4826,9 @@
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory through Prosperity",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 60
     },
     {
       "ID": "WinWithRuins",
@@ -4878,15 +4883,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15084,
+      "Progressed": 15088,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-28T15:00:05.6433519+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:06:30.1981813+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:05:44.89812+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:00:25.0994815+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:06:30.1982747+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:59:29.9957934+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:05:44.8981814+00:00"
 }

@@ -39,10 +39,10 @@
 | Heartbreaker | 33.00% | ~300 |
 | Kidnapped! | 33.00% | ~300 |
 | Pull the Plug | 31.00% | ~282 |
+| All Heart | 31.00% | ~282 |
 | Trick Question! | 31.00% | ~282 |
 | Soul Slayer | 30.00% | ~273 |
 | The Downfall | 30.00% | ~273 |
-| All Heart | 30.00% | ~273 |
 | Extraordinary! | 30.00% | ~273 |
 | Final Showdown | 30.00% | ~273 |
 | Spot of Tea? | 30.00% | ~273 |
@@ -51,7 +51,7 @@
 | Flower Power | 25.00% | ~227 |
 | Shopping Spree! | 23.00% | ~209 |
 | Crowned | 21.00% | ~191 |
-| Max Level! | 13.00% | ~118 |
+| Max Level! | 14.00% | ~127 |
 | Dance Master | 8.00% | ~73 |
 | Bombs Away! | 8.00% | ~73 |
 ## Popularity (Based on EOS Achievements)

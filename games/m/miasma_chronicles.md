@@ -25,10 +25,10 @@ Rating: 4.23 (Ranked 803)
 | Chain Killer | 12.00% | ~105 |
 | Hold The Line | 12.00% | ~105 |
 | Are you not entertained? | 10.00% | ~87 |
+| Jarhead | 10.00% | ~87 |
 | Newtonian Knockout | 10.00% | ~87 |
 | There Can Be Only One! | 10.00% | ~87 |
 | Ganglord | 9.00% | ~78 |
-| Jarhead | 9.00% | ~78 |
 | Pushing Daisy | 9.00% | ~78 |
 | Infiltrator | 8.00% | ~70 |
 | Experienced | 7.00% | ~61 |

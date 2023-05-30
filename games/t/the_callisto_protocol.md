@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,073 (Ranked 102)  
+Progressed: 14,074 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,10 +85,10 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-27 | 13,841 | 53 |
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
-| 2023-05-30 | 14,073 | 53 |
+| 2023-05-30 | 14,074 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
-Sum: 276 (Ranked 332)  
+Sum: 277 (Ranked 332)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -97,7 +97,7 @@ Diff (max vs sum): 56
 | This game has Amazing Characters | 45 |
 | This game is Extremely Fun | 42 |
 | This game has Quickly Understood Controls | 41 |
-| This game has Challenging Combat | 31 |
+| This game has Challenging Combat | 32 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -154,4 +154,4 @@ Diff (max vs sum): 56
 | 2023-05-27 | 4.19 | 46 | 269 |
 | 2023-05-28 | 4.19 | 47 | 272 |
 | 2023-05-29 | 4.18 | 47 | 273 |
-| 2023-05-30 | 4.18 | 50 | 276 |
+| 2023-05-30 | 4.18 | 50 | 277 |

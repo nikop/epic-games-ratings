@@ -4,8 +4,8 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "breathless_end",
@@ -416,8 +416,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:03:18.9980041+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:03:16.3625321+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:50.1252712+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:58:44.3073109+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:03:18.9980171+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:57:53.2791998+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:03:16.3625481+00:00"
 }

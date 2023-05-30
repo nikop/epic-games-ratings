@@ -25,10 +25,10 @@
 | The Wicked Twins | 34.00% | ~177 |
 | The Betrayer | 33.00% | ~172 |
 | Family Memories | 31.00% | ~161 |
-| Check Your Pulse | 30.00% | ~156 |
+| Check Your Pulse | 31.00% | ~161 |
 | Good Neighbor | 29.00% | ~151 |
 | Street Style | 28.00% | ~146 |
-| The Loose Cannon | 27.00% | ~140 |
+| The Loose Cannon | 28.00% | ~146 |
 | The Family Fortune | 23.00% | ~120 |
 | The Man Who Shattered Time | 22.00% | ~114 |
 | Whiz Kid | 22.00% | ~114 |

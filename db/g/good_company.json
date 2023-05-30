@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4875,
+  "EOS_Progressed": 4876,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1124,6 +1124,11 @@
       "Time": "2023-05-30T12:06:47.5870735+00:00",
       "NumProgressed": 4875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T22:05:40.9865129+00:00",
+      "NumProgressed": 4876,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1191,7 +1196,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ach_campaign_progress10",
@@ -1487,7 +1492,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ach_frp_many_modules",
@@ -1742,15 +1747,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4875,
+      "Progressed": 4876,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:06:26.4360886+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:05:40.9865124+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.5581107+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:59:29.5318332+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:06:26.4361742+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:58:39.6223988+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:05:40.986599+00:00"
 }

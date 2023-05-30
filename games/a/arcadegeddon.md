@@ -6,27 +6,27 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,270 |
-| Photogenic | 88.00% | ~6,063 |
-| Surge Gauntlet Jockey | 85.00% | ~5,856 |
+| Let's Get This Party Started | 91.00% | ~6,271 |
+| Photogenic | 88.00% | ~6,064 |
+| Surge Gauntlet Jockey | 85.00% | ~5,857 |
 | Plug It In | 84.00% | ~5,788 |
-| Adventure Time | 80.00% | ~5,512 |
-| Playing With Power | 77.00% | ~5,305 |
-| Coup d'Etat | 58.00% | ~3,996 |
-| You're Fired | 58.00% | ~3,996 |
+| Adventure Time | 80.00% | ~5,513 |
+| Playing With Power | 77.00% | ~5,306 |
+| Coup d'Etat | 58.00% | ~3,997 |
+| You're Fired | 58.00% | ~3,997 |
 | Get Furious | 55.00% | ~3,790 |
 | Gunplay And Cosplay | 55.00% | ~3,790 |
 | Hacks In Stacks | 54.00% | ~3,721 |
-| Meching Enemies | 48.00% | ~3,307 |
-| Ticket Toddler | 46.00% | ~3,169 |
-| Booty Bashing | 45.00% | ~3,100 |
-| Here Comes a New Challenger | 38.00% | ~2,618 |
-| Field Medic | 37.00% | ~2,549 |
+| Meching Enemies | 48.00% | ~3,308 |
+| Ticket Toddler | 46.00% | ~3,170 |
+| Booty Bashing | 45.00% | ~3,101 |
+| Here Comes a New Challenger | 38.00% | ~2,619 |
+| Field Medic | 37.00% | ~2,550 |
 | Rapid Response | 33.00% | ~2,274 |
 | Guardian Angel | 32.00% | ~2,205 |
 | Surge Ahead | 31.00% | ~2,136 |
 | The Full Monty | 31.00% | ~2,136 |
-| Poppin Noggins | 25.00% | ~1,722 |
+| Poppin Noggins | 25.00% | ~1,723 |
 | Clips and Crits | 22.00% | ~1,516 |
 | Grey Goo | 20.00% | ~1,378 |
 | Boss of Bosses | 15.00% | ~1,034 |
@@ -40,8 +40,8 @@ Number of Ratings: 801  (23.09.2022)
 | Rescue Ranger | 7.00% | ~482 |
 | Ticket Titan | 7.00% | ~482 |
 | Surge Gauntlet Scholar | 6.00% | ~413 |
-| No Chill | 5.00% | ~344 |
-| Stop Hitting Yourself | 5.00% | ~344 |
+| No Chill | 5.00% | ~345 |
+| Stop Hitting Yourself | 5.00% | ~345 |
 | Ground Control | 4.00% | ~276 |
 | Master of Arms | 4.00% | ~276 |
 | Team Player | 4.00% | ~276 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~34 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,890 (Ranked 115)  
+Progressed: 6,891 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 6,782 | 0 |
 | 2023-05-28 | 6,825 | 0 |
 | 2023-05-29 | 6,858 | 0 |
-| 2023-05-30 | 6,890 | 0 |
+| 2023-05-30 | 6,891 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 485 (Ranked 292)  

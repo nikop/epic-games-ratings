@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -424,6 +424,11 @@
       "Time": "2023-05-30T20:03:10.9222011+00:00",
       "NumProgressed": 215,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T22:03:19.9587781+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -449,9 +454,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "findalltapes",
@@ -475,7 +480,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "scoreminrankrb2",
@@ -507,7 +512,7 @@
       "Name": "Souvenirs",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "scoreminrankrp1",
@@ -537,9 +542,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "scoreminrankrv2",
@@ -554,7 +559,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 2
     }
   ],
@@ -562,8 +567,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:03:22.6556317+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:03:19.9587775+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:59:22.1796875+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:03:22.6556425+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:58:30.5978098+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:03:19.9587933+00:00"
 }

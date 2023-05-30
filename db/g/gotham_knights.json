@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1298,7 +1298,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62899,
+  "EOS_Progressed": 62907,
   "EOS_Completed": 91,
   "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 0,
@@ -4403,6 +4403,11 @@
       "Time": "2023-05-30T21:06:31.0097728+00:00",
       "NumProgressed": 62899,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-30T22:05:45.7925043+00:00",
+      "NumProgressed": 62907,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4598,7 +4603,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -4878,7 +4883,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -4901,13 +4906,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62899,
+      "Progressed": 62907,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33179,
+      "Progressed": 33187,
       "Completed": 2643
     }
   ],
@@ -4915,8 +4920,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-30T00:00:31.1469343+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:06:31.0097724+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:05:45.7925036+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:00:11.7340819+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:06:31.0098473+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:59:18.2440519+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:05:45.7925855+00:00"
 }

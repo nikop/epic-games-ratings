@@ -13,7 +13,7 @@ Number of Ratings: 101  (23.09.2022)
 | Bad Trip | 45.00% | ~159 |
 | Didn't Miss A Single One | 44.00% | ~155 |
 | Spread | 40.00% | ~141 |
-| That was base | 38.00% | ~134 |
+| That was base | 39.00% | ~138 |
 | Safe Pair of Hands | 35.00% | ~124 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~102 |
 | Pampered Life | 25.00% | ~88 |

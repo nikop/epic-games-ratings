@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~892 |
+| A Brief Tour of the Realms | 1.00% | ~893 |
 | The Cursed Farmer | 0.80% | ~714 |
 | The Court of Storms | 0.80% | ~444 |
-| Beast Intentions | 0.60% | ~535 |
-| The Mad Wizard | 0.60% | ~535 |
+| Beast Intentions | 0.60% | ~536 |
+| The Mad Wizard | 0.60% | ~536 |
 | Beware the Jabberwock | 0.60% | ~333 |
 | The Ring of Regeneration | 0.50% | ~446 |
 | Coasting to the Finish | 0.50% | ~278 |
@@ -33,11 +33,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~268 |
 | The Contagious Curse | 0.30% | ~268 |
 | Pure Energy | 0.30% | ~268 |
-| Maddening | 0.20% | ~178 |
+| Maddening | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
-| The Silken Swamp | 0.20% | ~178 |
-| Supply Run | 0.20% | ~178 |
+| The Silken Swamp | 0.20% | ~179 |
+| Supply Run | 0.20% | ~179 |
 | Keep Your Distance | 0.20% | ~111 |
 | Hands Off! | 0.20% | ~111 |
 | The Dread Domain of Tovag | 0.20% | ~111 |
@@ -48,45 +48,45 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~111 |
 | Pin and Skewer | 0.20% | ~111 |
 | Bully for Vecna | 0.20% | ~111 |
-| Homecoming | 0.20% | ~178 |
+| Homecoming | 0.20% | ~179 |
 | The Minions of Endelyn Moongrave | 0.20% | ~111 |
 | No One Can Hear You Scream | 0.20% | ~111 |
 | Welcome to the Rock | 0.20% | ~111 |
-| The Forbidden City | 0.20% | ~178 |
-| Low Initiative | 0.20% | ~178 |
-| Street War | 0.20% | ~178 |
-| Building Trust | 0.20% | ~178 |
-| March of the Undead | 0.20% | ~178 |
-| No Time To Rest | 0.20% | ~178 |
-| Invisible Shadows | 0.20% | ~178 |
-| The Dinner Party | 0.20% | ~178 |
-| The Botched Kidnapping | 0.20% | ~178 |
-| Trollskull Manor | 0.20% | ~178 |
-| Attack on the Manor | 0.20% | ~178 |
-| The Death Curse | 0.20% | ~178 |
-| Nimble Escape | 0.20% | ~178 |
-| Useless Allies | 0.20% | ~178 |
-| Premature Betrayal | 0.20% | ~178 |
-| A Tale of Two Cities | 0.20% | ~178 |
-| The Dead Three | 0.20% | ~178 |
-| Flying Monkey Skulls of Doom | 0.20% | ~178 |
-| The Darkness Runs Deeper | 0.20% | ~178 |
-| Running of the Saurs | 0.20% | ~178 |
-| Dinosaur Racing | 0.20% | ~178 |
+| The Forbidden City | 0.20% | ~179 |
+| Low Initiative | 0.20% | ~179 |
+| Street War | 0.20% | ~179 |
+| Building Trust | 0.20% | ~179 |
+| March of the Undead | 0.20% | ~179 |
+| No Time To Rest | 0.20% | ~179 |
+| Invisible Shadows | 0.20% | ~179 |
+| The Dinner Party | 0.20% | ~179 |
+| The Botched Kidnapping | 0.20% | ~179 |
+| Trollskull Manor | 0.20% | ~179 |
+| Attack on the Manor | 0.20% | ~179 |
+| The Death Curse | 0.20% | ~179 |
+| Nimble Escape | 0.20% | ~179 |
+| Useless Allies | 0.20% | ~179 |
+| Premature Betrayal | 0.20% | ~179 |
+| A Tale of Two Cities | 0.20% | ~179 |
+| The Dead Three | 0.20% | ~179 |
+| Flying Monkey Skulls of Doom | 0.20% | ~179 |
+| The Darkness Runs Deeper | 0.20% | ~179 |
+| Running of the Saurs | 0.20% | ~179 |
+| Dinosaur Racing | 0.20% | ~179 |
 | Hearts Aflame | 0.20% | ~111 |
 | Look Out! | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
-| Escort to Waterdeep | 0.20% | ~178 |
+| Escort to Waterdeep | 0.20% | ~179 |
 | The Giant's Bane Tavern | 0.20% | ~111 |
-| Close Escort | 0.20% | ~178 |
-| Constant Banditry | 0.20% | ~178 |
-| Waterdeep Detours | 0.20% | ~178 |
-| Underdeep Cartography | 0.20% | ~178 |
-| Overdue Rendezvous | 0.20% | ~178 |
+| Close Escort | 0.20% | ~179 |
+| Constant Banditry | 0.20% | ~179 |
+| Waterdeep Detours | 0.20% | ~179 |
+| Underdeep Cartography | 0.20% | ~179 |
+| Overdue Rendezvous | 0.20% | ~179 |
 | How Far Away is Thay | 0.20% | ~111 |
-| The Templar's Camp | 0.20% | ~178 |
-| Rescue in the Jungle | 0.20% | ~178 |
+| The Templar's Camp | 0.20% | ~179 |
+| Rescue in the Jungle | 0.20% | ~179 |
 | Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
 | Starving in the Jungle | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,249 (Ranked 61)  
+Progressed: 89,253 (Ranked 61)  
 Completed: 1,899 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 1,899 (2.13%) (Ranked 63)
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
-| 2023-05-30 | 89,249 | 1,899 |
+| 2023-05-30 | 89,253 | 1,899 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

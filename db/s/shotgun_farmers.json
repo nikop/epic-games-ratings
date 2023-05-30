@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -625,9 +625,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -649,9 +649,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -841,7 +841,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -944,8 +944,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:04:58.7651724+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:04:24.3518216+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:58:54.7834448+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:04:58.7652638+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:58:04.8003544+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:04:24.3518999+00:00"
 }

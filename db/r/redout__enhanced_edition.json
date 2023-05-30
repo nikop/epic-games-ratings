@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223358,
+  "EOS_Progressed": 223360,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 1,
@@ -4223,6 +4223,11 @@
       "Time": "2023-05-30T21:06:00.93242+00:00",
       "NumProgressed": 223358,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-30T22:05:16.1722109+00:00",
+      "NumProgressed": 223360,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -4250,7 +4255,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62540
+      "UsersEstimate": 62541
     },
     {
       "ID": "CENTAUR",
@@ -4266,7 +4271,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24569
+      "UsersEstimate": 24570
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -4498,22 +4503,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91577
+      "UsersEstimate": 91578
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223358,
+      "Progressed": 223360,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-30T21:06:00.9324193+00:00",
+  "LastChanged_Achievements": "2023-05-30T22:05:16.1722103+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:58:53.4216161+00:00",
-  "LastUpdate_Achievements": "2023-05-30T21:06:00.9324657+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:58:03.5492453+00:00",
+  "LastUpdate_Achievements": "2023-05-30T22:05:16.1722614+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 46.00% | ~8 |
+| Aspairagus | 48.00% | ~8 |
 | Survivor | 34.00% | ~6 |
 | No Diggity | 33.00% | ~6 |
 | Early Survivor | 30.00% | ~5 |
@@ -14,10 +14,10 @@
 | First Blood | 19.00% | ~13 |
 | Quick-Draw Pod | 18.00% | ~3 |
 | I Believe I Can Fly | 15.00% | ~10 |
-| No Asperascope | 13.00% | ~9 |
+| No Asperascope | 15.00% | ~10 |
+| Triple Kill | 13.00% | ~9 |
 | Cornivore | 13.00% | ~9 |
 | Professional Survivor | 13.00% | ~2 |
-| Triple Kill | 12.00% | ~8 |
 | Grave Digger | 12.00% | ~2 |
 | 15K | 10.00% | ~7 |
 | 10K | 10.00% | ~7 |
