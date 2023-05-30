@@ -58,8 +58,8 @@
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
-| 59 | [Iron Danger](games/i/iron_danger.md) | 2.23% |
-| 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
+| 59 | [Iron Danger](games/i/iron_danger.md) | 2.22% |
+| 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 61 | [JARS](games/j/jars.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
