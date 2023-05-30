@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.82,
+  "EOS_Completed_Percentage": 2.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -168,6 +168,11 @@
       "Time": "2023-05-29T20:04:40.3486101+00:00",
       "NumProgressed": 284,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-30T13:11:30.5967418+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -251,7 +256,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_10",
@@ -259,7 +264,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_11",
@@ -267,15 +272,15 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_12",
       "SetID": "7881h0d",
       "Name": "Lord Wesley",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_13",
@@ -291,7 +296,7 @@
       "Name": "Lord Clayton",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_15",
@@ -330,7 +335,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 8
     }
   ],
@@ -338,8 +343,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-30T12:04:40.6971946+00:00",
+  "LastChanged_Achievements": "2023-05-30T13:11:30.5967411+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:35.252453+00:00",
-  "LastUpdate_Ratings": "2023-05-30T11:58:25.8463783+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:04:40.6972062+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:05:23.5008428+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:11:30.596755+00:00"
 }

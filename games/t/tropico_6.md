@@ -6,27 +6,27 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,448 |
-| Un-Lonely Island | 48.00% | ~1,546 |
-| The Beginning of a Servantship | 46.00% | ~1,482 |
-| Trade Is My Trait | 37.00% | ~1,192 |
-| Number 18 | 25.00% | ~805 |
-| We Don't Have Time For That | 20.00% | ~644 |
+| Just One...More...Term... | 76.00% | ~2,449 |
+| Un-Lonely Island | 48.00% | ~1,547 |
+| The Beginning of a Servantship | 46.00% | ~1,483 |
+| Trade Is My Trait | 37.00% | ~1,193 |
+| Number 18 | 25.00% | ~806 |
+| We Don't Have Time For That | 20.00% | ~645 |
 | The Governator | 19.00% | ~612 |
 | Caribbean Comrade | 17.00% | ~548 |
 | The Legend of Langostino | 17.00% | ~548 |
-| The Dreamer of Dreams | 16.00% | ~515 |
+| The Dreamer of Dreams | 16.00% | ~516 |
 | Go Sovereigns! | 12.00% | ~387 |
 | For Science! | 12.00% | ~387 |
-| Happy Ending? | 11.00% | ~354 |
+| Happy Ending? | 11.00% | ~355 |
 | Of Seals And Men | 10.00% | ~322 |
 | Shackadelic | 10.00% | ~322 |
 | Double Trouble | 9.00% | ~290 |
 | Firestarter | 9.00% | ~290 |
 | Make Tropico Great Again! | 8.00% | ~258 |
 | French Connection | 8.00% | ~258 |
-| Don't Panic! | 7.00% | ~225 |
-| I Owe You Nothing | 7.00% | ~225 |
+| Don't Panic! | 7.00% | ~226 |
+| I Owe You Nothing | 7.00% | ~226 |
 | Computer Says "No" | 6.00% | ~193 |
 | Beware The Betman | 6.00% | ~193 |
 | Watch The World Burn | 6.00% | ~193 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~32 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,221 (Ranked 134)  
+Progressed: 3,223 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.03%) (Ranked 185)
 | 2023-05-27 | 3,148 | 1 |
 | 2023-05-28 | 3,194 | 1 |
 | 2023-05-29 | 3,213 | 1 |
-| 2023-05-30 | 3,221 | 1 |
+| 2023-05-30 | 3,223 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 316)  
 Sum: 752 (Ranked 255)  

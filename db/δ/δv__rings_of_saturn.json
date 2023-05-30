@@ -4,10 +4,10 @@
   "ProductSlug": "deltav-rings-of-saturn-4cd187",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
-    "ReleaseDate": "2099-01-01T00:00:00+00:00",
+    "ReleaseDate": "2023-06-01T08:00:00+00:00",
     "PcReleaseDate": "2019-08-12T18:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:54.605848+00:00",
-  "LastUpdate_Ratings": "2023-05-30T11:58:51.3797137+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:05:09.0861237+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:05:42.76577+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:11:53.2887741+00:00"
 }

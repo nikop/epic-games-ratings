@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1298,9 +1298,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62850,
+  "EOS_Progressed": 62856,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4358,6 +4358,11 @@
       "Time": "2023-05-30T12:06:53.6719171+00:00",
       "NumProgressed": 62850,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-30T13:13:17.7562453+00:00",
+      "NumProgressed": 62856,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4417,7 +4422,7 @@
       "Name": "The Batman Family",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -4473,7 +4478,7 @@
       "Name": "Something in the Clay",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "CLAYFACE_2",
@@ -4593,7 +4598,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "FREEZE_1_5",
@@ -4601,7 +4606,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "FREEZE_2",
@@ -4609,7 +4614,7 @@
       "Name": "Snow Problem",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "FREEZE_3",
@@ -4681,7 +4686,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "HARLEY_3",
@@ -4689,7 +4694,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "HARLEY_4",
@@ -4737,7 +4742,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -4745,7 +4750,7 @@
       "Name": "Knighthood",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4769,7 +4774,7 @@
       "Name": "Whispered Words",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MYSTERY_03",
@@ -4777,7 +4782,7 @@
       "Name": "Lock and Key",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MYSTERY_04",
@@ -4785,7 +4790,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MYSTERY_05",
@@ -4856,13 +4861,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62850,
+      "Progressed": 62856,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33130,
+      "Progressed": 33136,
       "Completed": 2643
     }
   ],
@@ -4870,8 +4875,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-30T00:00:31.1469343+00:00",
-  "LastChanged_Achievements": "2023-05-30T12:06:53.6719164+00:00",
+  "LastChanged_Achievements": "2023-05-30T13:13:17.7562447+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-30T12:00:31.9827201+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:06:53.6719762+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:07:00.9471046+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:13:17.7563182+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 25  (23.09.2022)
 | Dilligent | 82.00% | ~462 |
 | I... I did it? | 80.00% | ~451 |
 | Adored | 75.00% | ~423 |
-| The Hobbyist | 64.00% | ~361 |
+| The Hobbyist | 65.00% | ~367 |
 | A Forked Tongue | 54.00% | ~305 |
 | Between Two Fires | 51.00% | ~288 |
 | The Admirer | 51.00% | ~288 |

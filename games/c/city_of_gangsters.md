@@ -5,26 +5,26 @@ Rating: 4.25 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~146,019 |
-| Copacetic Coordination | 16.00% | ~50,789 |
-| Fronting the Money | 14.00% | ~44,440 |
-| The Dawn of Automation | 14.00% | ~44,440 |
-| Extraordinary Logistics | 14.00% | ~44,440 |
-| Dirty Money | 13.00% | ~41,266 |
-| Family First | 13.00% | ~41,266 |
-| Cleaning House | 12.00% | ~38,092 |
-| Room in the Back | 12.00% | ~38,092 |
-| Booze Baron | 11.00% | ~34,918 |
-| Beating the Heat | 10.00% | ~31,743 |
-| Friends on the Force | 10.00% | ~31,743 |
-| Neighborhood Watch | 10.00% | ~31,743 |
-| Core Corps | 8.00% | ~25,395 |
-| Sizeable Stash | 7.00% | ~22,220 |
-| Street Fighter | 7.00% | ~22,220 |
-| Friendly Gestures | 7.00% | ~22,220 |
-| People Person | 7.00% | ~22,220 |
-| Liquor Lord | 6.00% | ~19,046 |
-| Show ‘em the Sugar | 6.00% | ~19,046 |
+| Corner Clout | 46.00% | ~146,027 |
+| Copacetic Coordination | 16.00% | ~50,792 |
+| Fronting the Money | 14.00% | ~44,443 |
+| The Dawn of Automation | 14.00% | ~44,443 |
+| Extraordinary Logistics | 14.00% | ~44,443 |
+| Dirty Money | 13.00% | ~41,268 |
+| Family First | 13.00% | ~41,268 |
+| Cleaning House | 12.00% | ~38,094 |
+| Room in the Back | 12.00% | ~38,094 |
+| Booze Baron | 11.00% | ~34,920 |
+| Beating the Heat | 10.00% | ~31,745 |
+| Friends on the Force | 10.00% | ~31,745 |
+| Neighborhood Watch | 10.00% | ~31,745 |
+| Core Corps | 8.00% | ~25,396 |
+| Sizeable Stash | 7.00% | ~22,222 |
+| Street Fighter | 7.00% | ~22,222 |
+| Friendly Gestures | 7.00% | ~22,222 |
+| People Person | 7.00% | ~22,222 |
+| Liquor Lord | 6.00% | ~19,047 |
+| Show ‘em the Sugar | 6.00% | ~19,047 |
 | Street Knowledge | 5.00% | ~15,872 |
 | Oh Captain | 5.00% | ~15,872 |
 | Branching Out | 5.00% | ~15,872 |
@@ -36,18 +36,18 @@ Rating: 4.25 (Ranked 787)
 | Mission Mastery | 5.00% | ~15,872 |
 | Wise Head | 5.00% | ~15,872 |
 | Killing Them Softly | 5.00% | ~15,872 |
-| Considerable Clams | 4.00% | ~12,697 |
-| Gin Joint | 4.00% | ~12,697 |
-| An Affront to the Enemy | 4.00% | ~12,697 |
-| Friends from Back Home | 4.00% | ~12,697 |
-| Half Century Mark | 4.00% | ~12,697 |
-| Corner Opportunities | 3.00% | ~9,523 |
-| 2122 North Clark Street | 3.00% | ~9,523 |
-| Copious Cabbage | 3.00% | ~9,523 |
-| Sockdolager | 3.00% | ~9,523 |
-| Still Stalwart | 3.00% | ~9,523 |
-| Bees Knees Bootlegger | 3.00% | ~9,523 |
-| Tighten the Screws | 3.00% | ~9,523 |
+| Considerable Clams | 4.00% | ~12,698 |
+| Gin Joint | 4.00% | ~12,698 |
+| An Affront to the Enemy | 4.00% | ~12,698 |
+| Friends from Back Home | 4.00% | ~12,698 |
+| Half Century Mark | 4.00% | ~12,698 |
+| Corner Opportunities | 3.00% | ~9,524 |
+| 2122 North Clark Street | 3.00% | ~9,524 |
+| Copious Cabbage | 3.00% | ~9,524 |
+| Sockdolager | 3.00% | ~9,524 |
+| Still Stalwart | 3.00% | ~9,524 |
+| Bees Knees Bootlegger | 3.00% | ~9,524 |
+| Tighten the Screws | 3.00% | ~9,524 |
 | One of Us | 2.00% | ~6,349 |
 | Baker’s Dozen | 2.00% | ~6,349 |
 | Dropping the Dime | 2.00% | ~6,349 |
@@ -61,7 +61,7 @@ Rating: 4.25 (Ranked 787)
 | Cat’s Meow Clubs | 1.00% | ~3,174 |
 | Determined Deliveries | 0.90% | ~2,857 |
 | Stepping It Up | 0.90% | ~2,857 |
-| Crossing Over | 0.80% | ~2,539 |
+| Crossing Over | 0.80% | ~2,540 |
 | Boots in the Ground | 0.70% | ~2,222 |
 | Getting Fancy | 0.70% | ~2,222 |
 | Homemade Hooch | 0.40% | ~1,270 |
@@ -86,8 +86,8 @@ Rating: 4.25 (Ranked 787)
 | High Pillow | 0.10% | ~317 |
 | Station Master | 0.10% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317,432 (Ranked 38)  
-Completed: 3 (0.00%) (Ranked 207)  
+Progressed: 317,450 (Ranked 38)  
+Completed: 4 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 3 (0.00%) (Ranked 207)
 | 2023-05-27 | 316,543 | 3 |
 | 2023-05-28 | 316,969 | 3 |
 | 2023-05-29 | 317,294 | 3 |
-| 2023-05-30 | 317,432 | 3 |
+| 2023-05-30 | 317,450 | 4 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 465)  
 Sum: 88 (Ranked 405)  

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Wraith | 59.00% | ~211 |
-| Collectibles Part 1 | 48.00% | ~172 |
+| Collectibles Part 1 | 49.00% | ~175 |
 | Welcome to Mordor! | 48.00% | ~172 |
 | Wait! Wait! Not yet! | 33.00% | ~118 |
 | Like Flying... | 29.00% | ~104 |
@@ -19,9 +19,9 @@
 | Good as Fish | 4.00% | ~14 |
 | Trigger-Happy | 4.00% | ~14 |
 | Her Eyes | 3.00% | ~11 |
+| Gollum/Sméagol | 3.00% | ~11 |
 | Murderer | 3.00% | ~11 |
 | The Friend | 2.00% | ~7 |
-| Gollum/Sméagol | 2.00% | ~7 |
 | Master of the Old Game | 1.00% | ~4 |
 | So Silly! | 1.00% | ~4 |
 | Made a Song | 1.00% | ~4 |

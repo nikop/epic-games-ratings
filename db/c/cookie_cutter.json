@@ -4,8 +4,8 @@
   "ProductSlug": "cookie-cutter-d25fbc",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.8628372+00:00",
-  "LastUpdate_Ratings": "2023-05-30T12:01:05.3935818+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:04:21.7393935+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:07:26.363565+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:11:16.799561+00:00"
 }

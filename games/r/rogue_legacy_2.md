@@ -12,9 +12,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | Poise and Poisons | 0.60% | ~132 |
 | No Harm in Looking | 0.50% | ~110 |
 | Hands and Hammers | 0.40% | ~88 |
+| Progenitor and Protégé | 0.40% | ~88 |
 | Suns and Soldiers | 0.40% | ~88 |
 | King and Kin | 0.30% | ~66 |
-| Progenitor and Protégé | 0.30% | ~66 |
 | Prequel to the Sequel | 0.30% | ~66 |
 | Truly Blessed | 0.20% | ~44 |
 | Pillow Investments | 0.20% | ~44 |
@@ -89,18 +89,18 @@ Completed: 35 (0.16%) (Ranked 145)
 | 2023-05-30 | 21,926 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 249)  
-Sum: 1,635 (Ranked 202)  
+Sum: 1,637 (Ranked 202)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 218 |
-| This game has Quickly Understood Controls | 201 |
+| This game has Quickly Understood Controls | 202 |
 | This game has Diverse Characters | 192 |
 | This game has Challenging Combat | 190 |
 | This game is Highly Recommended | 187 |
 | This game is Relaxing | 181 |
 | This game has Amazing Characters | 162 |
-| This game has Amazing Storytelling | 157 |
+| This game has Amazing Storytelling | 158 |
 | This game has Playful Visuals | 147 |
 | This game has Obsessive Gameplay | 123 |
 ## Ratings History
@@ -186,3 +186,4 @@ Diff (max vs sum): 47
 | 2023-05-25 | 4.85 | - | 217 | 1,631 |
 | 2023-05-26 | 4.85 | - | 218 | 1,634 |
 | 2023-05-29 | 4.85 | - | 218 | 1,635 |
+| 2023-05-30 | 4.85 | - | 218 | 1,637 |

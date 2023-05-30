@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5049,9 +5049,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 43216,
+  "EOS_Progressed": 43217,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8309,6 +8309,11 @@
       "Time": "2023-05-30T12:06:40.225086+00:00",
       "NumProgressed": 43216,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-30T13:13:06.5344466+00:00",
+      "NumProgressed": 43217,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -8320,7 +8325,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "BreedCows",
@@ -8400,7 +8405,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 27658
+      "UsersEstimate": 27659
     },
     {
       "ID": "CutTree",
@@ -8408,7 +8413,7 @@
       "Name": "You wood not believe it",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9075
+      "UsersEstimate": 9076
     },
     {
       "ID": "CutTreeFirst",
@@ -8464,7 +8469,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "HarvestedFirst",
@@ -8472,7 +8477,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 32844
+      "UsersEstimate": 32845
     },
     {
       "ID": "HorseJumps",
@@ -8528,7 +8533,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 22904
+      "UsersEstimate": 22905
     },
     {
       "ID": "NumBeehives",
@@ -8544,7 +8549,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17286
+      "UsersEstimate": 17287
     },
     {
       "ID": "NumPlaceables",
@@ -8560,7 +8565,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "NumVehiclesLarge",
@@ -8568,7 +8573,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 9075
+      "UsersEstimate": 9076
     },
     {
       "ID": "NumVehiclesSmall",
@@ -8576,7 +8581,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25065
+      "UsersEstimate": 25066
     },
     {
       "ID": "PetDog",
@@ -8584,7 +8589,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12100
+      "UsersEstimate": 12101
     },
     {
       "ID": "PlayTime",
@@ -8592,7 +8597,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25497
+      "UsersEstimate": 25498
     },
     {
       "ID": "Sow",
@@ -8608,7 +8613,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27226
+      "UsersEstimate": 27227
     },
     {
       "ID": "Stones",
@@ -8663,15 +8668,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 43216,
+      "Progressed": 43217,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-05-30T00:00:22.7980078+00:00",
-  "LastChanged_Achievements": "2023-05-30T12:06:40.2250855+00:00",
+  "LastChanged_Achievements": "2023-05-30T13:13:06.5344461+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:06.7681989+00:00",
-  "LastUpdate_Ratings": "2023-05-30T12:00:25.3078601+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:06:40.2251281+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:06:55.7084369+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:13:06.5344978+00:00"
 }

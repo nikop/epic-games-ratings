@@ -10,7 +10,7 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~3,619 |
 | Explorer | 53.00% | ~3,144 |
 | Healer | 52.00% | ~3,085 |
-| Aspiring Inventor | 44.00% | ~2,611 |
+| Aspiring Inventor | 45.00% | ~2,670 |
 | Adventurer | 41.00% | ~2,433 |
 | Famous Healer | 38.00% | ~2,255 |
 | Local Leader | 35.00% | ~2,077 |
@@ -20,9 +20,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~1,958 |
 | Survivor | 31.00% | ~1,839 |
 | The Great Healer | 30.00% | ~1,780 |
+| Cleaner | 28.00% | ~1,661 |
 | Catastrofan | 28.00% | ~1,661 |
 | Legendary Explorer | 27.00% | ~1,602 |
-| Cleaner | 27.00% | ~1,602 |
 | Finders, Keepers | 26.00% | ~1,543 |
 | Top Notch | 24.00% | ~1,424 |
 | Great Leader | 22.00% | ~1,305 |

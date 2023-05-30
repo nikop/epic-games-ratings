@@ -12,10 +12,10 @@ Rating: 4.43 (Ranked 642)
 | Lord of War | 10.00% | ~186 |
 | Resourceful | 9.00% | ~168 |
 | Change the Channel | 9.00% | ~168 |
-| Enemy at the Gates | 7.00% | ~130 |
-| Organ Grinder | 7.00% | ~130 |
-| As Quiet as a Mouse | 7.00% | ~130 |
-| Taking it back | 7.00% | ~130 |
+| Enemy at the Gates | 7.00% | ~131 |
+| Organ Grinder | 7.00% | ~131 |
+| As Quiet as a Mouse | 7.00% | ~131 |
+| Taking it back | 7.00% | ~131 |
 | Just a Flesh Wound | 6.00% | ~112 |
 | Explosive Efficiency | 6.00% | ~112 |
 | Target America | 6.00% | ~112 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 642)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,864 (Ranked 152)  
+Progressed: 1,865 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
-| 2023-05-30 | 1,864 | 2 |
+| 2023-05-30 | 1,865 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

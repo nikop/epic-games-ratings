@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14089,
+  "EOS_Progressed": 14090,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -3321,6 +3321,11 @@
       "Time": "2023-05-30T12:03:46.8740935+00:00",
       "NumProgressed": 14089,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-30T13:10:45.5588909+00:00",
+      "NumProgressed": 14090,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 16,
@@ -3348,7 +3353,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -3380,7 +3385,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -3404,7 +3409,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "Mirrors",
@@ -3428,7 +3433,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7185
+      "UsersEstimate": 7186
     },
     {
       "ID": "Sole_Survivor",
@@ -3459,15 +3464,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14089,
+      "Progressed": 14090,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-05-30T12:03:46.8740929+00:00",
+  "LastChanged_Achievements": "2023-05-30T13:10:45.5588904+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:37.8656226+00:00",
-  "LastUpdate_Ratings": "2023-05-30T11:59:46.2885408+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:03:46.8741182+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:06:24.9629355+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:10:45.5589198+00:00"
 }

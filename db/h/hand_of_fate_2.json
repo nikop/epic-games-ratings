@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -838,7 +838,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657057,
+  "EOS_Progressed": 657058,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
@@ -4408,6 +4408,11 @@
       "Time": "2023-05-30T12:06:28.5902879+00:00",
       "NumProgressed": 657057,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-30T13:12:56.7607346+00:00",
+      "NumProgressed": 657058,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4419,7 +4424,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473081
+      "UsersEstimate": 473082
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4427,7 +4432,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381093
+      "UsersEstimate": 381094
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4802,15 +4807,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657057,
+      "Progressed": 657058,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-30T12:06:28.5902873+00:00",
+  "LastChanged_Achievements": "2023-05-30T13:12:56.7607342+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:27.8583755+00:00",
-  "LastUpdate_Ratings": "2023-05-30T11:58:14.8912231+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:06:28.5903336+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:05:14.3026881+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:12:56.7607951+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1864,
+  "EOS_Progressed": 1865,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1925,6 +1925,11 @@
       "Time": "2023-05-30T12:06:31.4870258+00:00",
       "NumProgressed": 1864,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T13:12:59.1750966+00:00",
+      "NumProgressed": 1865,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1976,7 +1981,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2000,7 +2005,7 @@
       "Name": "Organ Grinder",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2176,7 +2181,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2304,7 +2309,7 @@
       "Name": "Taking it back",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2503,13 +2508,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1815,
+      "Progressed": 1816,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1864,
+      "Progressed": 1865,
       "Completed": 2
     }
   ],
@@ -2517,8 +2522,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-29T23:01:12.2037001+00:00",
-  "LastChanged_Achievements": "2023-05-30T12:06:31.4870251+00:00",
+  "LastChanged_Achievements": "2023-05-30T13:12:59.1750962+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T12:01:22.6240684+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:06:31.4870847+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:07:40.7649859+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:12:59.1751621+00:00"
 }

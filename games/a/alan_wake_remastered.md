@@ -1,43 +1,43 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 451)  
+Rating: 4.56 (Ranked 452)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 25.00% | ~12,562 |
-| Let There Be Light | 20.00% | ~10,050 |
-| Float Like a Butterfly | 19.00% | ~9,548 |
-| Nordic Walking | 15.00% | ~7,538 |
-| Bright Falls' Finest | 15.00% | ~7,538 |
-| Under a Thin Layer of Skin | 13.00% | ~6,532 |
-| Paging Mr. Wake | 11.00% | ~5,528 |
-| Park Ranger | 10.00% | ~5,025 |
-| Back! Back, I Say! | 10.00% | ~5,025 |
-| Finders Keepers | 10.00% | ~5,025 |
-| Sound and Fury | 9.00% | ~4,522 |
-| Missed by a Mile | 9.00% | ~4,522 |
-| Damn Good Cup of Coffee | 9.00% | ~4,522 |
-| Iron Horse | 8.00% | ~4,020 |
-| Wheels Within Wheels | 8.00% | ~4,020 |
-| They're Heeeeeere! | 8.00% | ~4,020 |
-| The Six-Gun Scribe | 8.00% | ~4,020 |
-| Collateral Carnage | 8.00% | ~4,020 |
-| Come One, Come All | 8.00% | ~4,020 |
-| A Friend in Need | 8.00% | ~1,097 |
+| Follow the Light | 25.00% | ~12,565 |
+| Let There Be Light | 20.00% | ~10,052 |
+| Float Like a Butterfly | 19.00% | ~9,549 |
+| Nordic Walking | 15.00% | ~7,539 |
+| Bright Falls' Finest | 15.00% | ~7,539 |
+| Under a Thin Layer of Skin | 13.00% | ~6,534 |
+| Paging Mr. Wake | 11.00% | ~5,529 |
+| Park Ranger | 10.00% | ~5,026 |
+| Back! Back, I Say! | 10.00% | ~5,026 |
+| Finders Keepers | 10.00% | ~5,026 |
+| Sound and Fury | 9.00% | ~4,523 |
+| Missed by a Mile | 9.00% | ~4,523 |
+| Damn Good Cup of Coffee | 9.00% | ~4,523 |
+| Iron Horse | 8.00% | ~4,021 |
+| Wheels Within Wheels | 8.00% | ~4,021 |
+| They're Heeeeeere! | 8.00% | ~4,021 |
+| The Six-Gun Scribe | 8.00% | ~4,021 |
+| Collateral Carnage | 8.00% | ~4,021 |
+| Come One, Come All | 8.00% | ~4,021 |
+| A Friend in Need | 8.00% | ~1,098 |
 | Heavy Metal | 7.00% | ~3,518 |
 | Perchance to Dream | 7.00% | ~3,518 |
+| Gatekeeper | 7.00% | ~3,518 |
 | It's Not Just a Typewriter Brand | 7.00% | ~3,518 |
 | Thunder and Lightning | 7.00% | ~3,518 |
 | Two For the Price of One | 7.00% | ~3,518 |
-| Gatekeeper | 6.00% | ~3,015 |
-| The Lady of the Light | 6.00% | ~3,015 |
-| Energized! | 6.00% | ~3,015 |
-| Right of Way | 6.00% | ~3,015 |
-| A Friend Indeed | 6.00% | ~823 |
-| Tornado Wrangler | 5.00% | ~2,512 |
-| What Light Through Yonder Window | 5.00% | ~2,512 |
+| The Lady of the Light | 6.00% | ~3,016 |
+| Energized! | 6.00% | ~3,016 |
+| Right of Way | 6.00% | ~3,016 |
+| A Friend Indeed | 6.00% | ~824 |
+| Tornado Wrangler | 5.00% | ~2,513 |
+| What Light Through Yonder Window | 5.00% | ~2,513 |
 | Ding! | 5.00% | ~686 |
 | Drink 'Em Both Up | 4.00% | ~2,010 |
 | Departure | 4.00% | ~2,010 |
@@ -49,11 +49,11 @@ Number of Ratings: 524  (23.09.2022)
 | Kill Your Darlings | 3.00% | ~412 |
 | Heartbreaker | 3.00% | ~412 |
 | Carny | 2.00% | ~1,005 |
-| Iron Will | 2.00% | ~274 |
-| Medical Opinions | 1.00% | ~502 |
-| Taken Season | 1.00% | ~502 |
-| An Idyllic Small Town | 1.00% | ~502 |
-| Couch Potato | 1.00% | ~502 |
+| Iron Will | 2.00% | ~275 |
+| Medical Opinions | 1.00% | ~503 |
+| Taken Season | 1.00% | ~503 |
+| An Idyllic Small Town | 1.00% | ~503 |
+| Couch Potato | 1.00% | ~503 |
 | Go Gentle Into That Good Light | 1.00% | ~137 |
 | Words Will Never Harm You | 0.60% | ~82 |
 | Fast and Furious | 0.50% | ~69 |
@@ -63,10 +63,10 @@ Number of Ratings: 524  (23.09.2022)
 | Creative Space | 0.40% | ~55 |
 | Run-On Sentence | 0.30% | ~41 |
 | Tick Tock | 0.30% | ~41 |
-| Alan, Wake Up | 0.20% | ~100 |
-| Meet the Deadline | 0.20% | ~100 |
-| Picking Up After Yourself | 0.20% | ~100 |
-| Bright Falls Aficionado | 0.20% | ~100 |
+| Alan, Wake Up | 0.20% | ~101 |
+| Meet the Deadline | 0.20% | ~101 |
+| Picking Up After Yourself | 0.20% | ~101 |
+| Bright Falls Aficionado | 0.20% | ~101 |
 | Licensed Properties | 0.20% | ~27 |
 | Gunless Wonder | 0.10% | ~50 |
 | Every Nook and Cranny | 0.10% | ~50 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~50 |
 | No Punctuation | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,250 (Ranked 76)  
+Progressed: 50,260 (Ranked 76)  
 Completed: 48 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 48 (0.10%) (Ranked 159)
 | 2023-05-27 | 48,959 | 48 |
 | 2023-05-28 | 49,590 | 48 |
 | 2023-05-29 | 50,091 | 48 |
-| 2023-05-30 | 50,250 | 48 |
+| 2023-05-30 | 50,260 | 48 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

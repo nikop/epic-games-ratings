@@ -7,13 +7,13 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 61.00% | ~181 |
-| Cowardice | 53.00% | ~157 |
+| Cowardice | 54.00% | ~160 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~148 |
 | Eat Lead! | 48.00% | ~142 |
 | Here Comes the Boom | 44.00% | ~130 |
 | Prospector | 43.00% | ~127 |
 | Treasure Hunter | 41.00% | ~121 |
-| The Breaking Point | 39.00% | ~115 |
+| The Breaking Point | 40.00% | ~118 |
 | Sniper Wolf | 37.00% | ~110 |
 | Missing in Action | 36.00% | ~107 |
 | The Motivation | 35.00% | ~104 |
@@ -21,7 +21,7 @@ Number of Ratings: 34  (23.09.2022)
 | King of Knives | 32.00% | ~95 |
 | Collectibles of Chapter I | 31.00% | ~92 |
 | Consequences | 29.00% | ~86 |
-| Opportunities | 27.00% | ~80 |
+| Opportunities | 28.00% | ~83 |
 | The Horror | 26.00% | ~77 |
 | Collectibles of Chapter II | 24.00% | ~71 |
 | The Difference | 23.00% | ~68 |
@@ -29,7 +29,7 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 20.00% | ~59 |
 | Broken Hopes | 19.00% | ~56 |
 | It's Just an Accident | 19.00% | ~56 |
-| Bullseye! | 18.00% | ~53 |
+| Bullseye! | 19.00% | ~56 |
 | Collectibles of Chapter III | 16.00% | ~47 |
 | Sorrow | 16.00% | ~47 |
 | Collectibles of Chapter IV | 15.00% | ~44 |

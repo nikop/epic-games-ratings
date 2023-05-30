@@ -4,8 +4,8 @@
   "ProductSlug": "paperplanes-b05dc7",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-01-13T04:30:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:58:37.0857735+00:00",
-  "LastUpdate_Ratings": "2023-05-30T11:59:44.4037391+00:00",
-  "LastUpdate_Achievements": "2023-05-30T12:05:19.4602759+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:06:23.4766048+00:00",
+  "LastUpdate_Achievements": "2023-05-30T13:12:01.4728762+00:00"
 }

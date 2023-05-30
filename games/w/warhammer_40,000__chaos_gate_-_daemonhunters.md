@@ -6,21 +6,21 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 34.00% | ~943 |
-| Look Over There! | 29.00% | ~804 |
-| Watch Where You Step... | 29.00% | ~804 |
+| Executioner | 34.00% | ~944 |
+| Look Over There! | 29.00% | ~805 |
+| Watch Where You Step... | 29.00% | ~805 |
 | Not So Fast... | 28.00% | ~777 |
 | An Ill Omen | 27.00% | ~749 |
 | Purging Spree | 21.00% | ~583 |
 | Blood for the Blood God! | 16.00% | ~444 |
 | Friendly Fire | 15.00% | ~416 |
-| Surgical Excision | 14.00% | ~388 |
-| Bloodless | 14.00% | ~388 |
+| Surgical Excision | 14.00% | ~389 |
+| Bloodless | 14.00% | ~389 |
 | Honoured Battle-Brother | 11.00% | ~305 |
-| The Emperor Protects | 10.00% | ~277 |
-| Nemesis Master | 10.00% | ~277 |
-| Gunmaster | 10.00% | ~277 |
-| A Foul Creche | 10.00% | ~277 |
+| The Emperor Protects | 10.00% | ~278 |
+| Nemesis Master | 10.00% | ~278 |
+| Gunmaster | 10.00% | ~278 |
+| A Foul Creche | 10.00% | ~278 |
 | Efficient Killer | 8.00% | ~222 |
 | Opportunist | 7.00% | ~194 |
 | Just a Scratch | 7.00% | ~194 |
@@ -32,12 +32,12 @@ Number of Ratings: 371  (23.09.2022)
 | Mind Like a Fortress | 3.00% | ~83 |
 | Harvest No More | 3.00% | ~83 |
 | Tactical Flexibility | 3.00% | ~83 |
-| Patron of Deimos | 2.00% | ~55 |
-| Exterminator | 2.00% | ~55 |
-| Preservationist | 2.00% | ~55 |
-| Engine Kill | 2.00% | ~55 |
-| Junk Banishment | 2.00% | ~55 |
-| Death Comes For All | 2.00% | ~55 |
+| Patron of Deimos | 2.00% | ~56 |
+| Exterminator | 2.00% | ~56 |
+| Preservationist | 2.00% | ~56 |
+| Engine Kill | 2.00% | ~56 |
+| Junk Banishment | 2.00% | ~56 |
+| Death Comes For All | 2.00% | ~56 |
 | Clean Slate | 1.00% | ~28 |
 | Fleetmaster | 1.00% | ~28 |
 | For the Machine God | 1.00% | ~28 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,774 (Ranked 137)  
+Progressed: 2,775 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 2,704 | 0 |
 | 2023-05-28 | 2,736 | 0 |
 | 2023-05-29 | 2,765 | 0 |
-| 2023-05-30 | 2,774 | 0 |
+| 2023-05-30 | 2,775 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 298)  

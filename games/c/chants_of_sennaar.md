@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rascal | 100.00% | ~2 |
-| That's the spirit | 100.00% | ~2 |
-| Scholar | 100.00% | ~2 |
-| Welcome to the Tower | 100.00% | ~2 |
-| The Preacher's fate | 50.00% | ~1 |
-| Champollion | 50.00% | ~1 |
-| The great escape | 50.00% | ~1 |
-| A new dawn | 50.00% | ~1 |
-| The darkness | 50.00% | ~1 |
+| Rascal | 67.00% | ~2 |
+| That's the spirit | 67.00% | ~2 |
+| Scholar | 67.00% | ~2 |
+| Welcome to the Tower | 67.00% | ~2 |
+| The Preacher's fate | 33.00% | ~1 |
+| Champollion | 33.00% | ~1 |
+| The great escape | 33.00% | ~1 |
+| A new dawn | 33.00% | ~1 |
+| The darkness | 33.00% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |
@@ -30,10 +30,11 @@
 | Fashion victim | 0.00% | ~0 |
 | One last step | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 388)  
+Progressed: 3 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-26 | 1 | 0 |
 | 2023-05-29 | 2 | 0 |
+| 2023-05-30 | 3 | 0 |
