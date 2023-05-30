@@ -466,25 +466,25 @@
 | 452 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,740 | 65 |
 | 452 | [Observation](games/o/observation.md) | 4.56 | 0 | 491 |
 | 452 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,776 | 108 |
+| 452 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 491 |
 | 452 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 353 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 50 | 388 |
 | 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,953 | 76 |
-| 470 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 491 |
-| 470 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 491 |
-| 470 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,205 | 123 |
-| 470 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.55 | 34 | 430 |
-| 470 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 480 |
-| 470 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 204 | 257 |
-| 470 | [Hue](games/h/hue.md) | 4.55 | 0 | 491 |
-| 470 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 70 | 365 |
-| 470 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 22 | 473 |
-| 470 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 441 |
-| 470 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 491 |
-| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 850 | 145 |
-| 470 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 340 |
-| 470 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.55 | 0 | 491 |
-| 470 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 491 |
-| 470 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,166 | 127 |
+| 471 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 491 |
+| 471 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 491 |
+| 471 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,205 | 123 |
+| 471 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.55 | 34 | 430 |
+| 471 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 480 |
+| 471 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 204 | 257 |
+| 471 | [Hue](games/h/hue.md) | 4.55 | 0 | 491 |
+| 471 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 70 | 365 |
+| 471 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 22 | 473 |
+| 471 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 441 |
+| 471 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 491 |
+| 471 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 850 | 145 |
+| 471 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 340 |
+| 471 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 491 |
+| 471 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,166 | 127 |
 | 486 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,052 | 74 |
 | 486 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 433 |
 | 486 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,092 | 131 |
@@ -621,6 +621,7 @@
 | 607 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 854 | 144 |
 | 607 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 491 |
 | 607 | [SMITE](games/s/smite.md) | 4.45 | 3,827 | 77 |
+| 607 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 491 |
 | 607 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 491 |
 | 607 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.45 | 1,180 | 124 |
 | 607 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 411 |
@@ -629,28 +630,27 @@
 | 607 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 311 |
 | 607 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 465 |
 | 607 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 491 |
-| 630 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 491 |
-| 630 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 25 | 463 |
-| 630 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 491 |
-| 630 | [Predecessor](games/p/predecessor.md) | 4.44 | 96 | 329 |
-| 630 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 49 | 393 |
-| 630 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
-| 630 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
-| 630 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 536 | 181 |
-| 630 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 491 |
-| 630 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 326 |
-| 630 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
-| 630 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
-| 642 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 0 | 491 |
-| 642 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 30 | 446 |
-| 642 | [ELEX](games/e/elex.md) | 4.43 | 24 | 465 |
-| 642 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 491 |
-| 642 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 491 |
-| 642 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 368 |
-| 642 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 491 |
-| 642 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.43 | 0 | 491 |
-| 642 | [Tunche](games/t/tunche.md) | 4.43 | 0 | 491 |
-| 642 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 231 |
+| 631 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 491 |
+| 631 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 25 | 463 |
+| 631 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 491 |
+| 631 | [Predecessor](games/p/predecessor.md) | 4.44 | 96 | 329 |
+| 631 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 49 | 393 |
+| 631 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
+| 631 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
+| 631 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 536 | 181 |
+| 631 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 491 |
+| 631 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 326 |
+| 631 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
+| 631 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
+| 643 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 0 | 491 |
+| 643 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 30 | 446 |
+| 643 | [ELEX](games/e/elex.md) | 4.43 | 24 | 465 |
+| 643 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 491 |
+| 643 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 491 |
+| 643 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 368 |
+| 643 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 491 |
+| 643 | [Tunche](games/t/tunche.md) | 4.43 | 0 | 491 |
+| 643 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 231 |
 | 652 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 491 |
 | 652 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 378 |
 | 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 188 | 265 |

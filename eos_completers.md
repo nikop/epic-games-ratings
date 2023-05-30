@@ -22,21 +22,21 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.94% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
 | 24 | [Scorn](games/s/scorn.md) | 6.88% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.01% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
-| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.03% |
+| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.94% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
@@ -87,7 +87,7 @@
 | 85 | [Late Shift](games/l/late_shift.md) | 1.06% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.03% |
 | 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.95% |
-| 88 | [Sable](games/s/sable.md) | 0.94% |
+| 87 | [Sable](games/s/sable.md) | 0.95% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
@@ -423,4 +423,4 @@
 | 207 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 207 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 207 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,697 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,699 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
