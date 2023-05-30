@@ -22,15 +22,15 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.94% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 24 | [Scorn](games/s/scorn.md) | 6.88% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.01% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
-| 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
+| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.03% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
@@ -52,7 +52,7 @@
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
-| 53 | [Lamentum](games/l/lamentum.md) | 2.82% |
+| 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.74% |
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
@@ -61,11 +61,11 @@
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.21% |
 | 61 | [JARS](games/j/jars.md) | 2.17% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.94% |
-| 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
-| 65 | [Sifu](games/s/sifu.md) | 1.80% |
+| 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 66 | [Sifu](games/s/sifu.md) | 1.80% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.69% |
 | 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.67% |
 | 69 | [Night Book](games/n/night_book.md) | 1.60% |
@@ -91,15 +91,15 @@
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.86% |
+| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.85% |
 | 93 | [Adios](games/a/adios.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.78% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
 | 96 | [Them and Us](games/t/them_and_us.md) | 0.78% |
-| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |
+| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |
 | 102 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 103 | [Haven](games/h/haven.md) | 0.68% |
