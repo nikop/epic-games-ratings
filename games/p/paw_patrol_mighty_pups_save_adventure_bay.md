@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| You Have Been Everywhere | 33.00% | ~1 |
+| Animal Sighting | 33.00% | ~1 |
 | Mighty Powers | 0.00% | ~0 |
 | Grand Re-Opening | 0.00% | ~0 |
 | King of the Mountain | 0.00% | ~0 |
@@ -22,8 +24,6 @@
 | Clear the Road | 0.00% | ~0 |
 | Never Miss | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
-| You Have Been Everywhere | 0.00% | ~0 |
-| Animal Sighting | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 | Paw patrol member | 0.00% | ~0 |
@@ -35,12 +35,13 @@
 | Mountain and Ice | 0.00% | ~0 |
 | Adventure Bay’s Citizen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 389)  
+Progressed: 3 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2 | 0 |
+| 2023-05-30 | 3 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

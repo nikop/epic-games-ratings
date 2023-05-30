@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "ACH_25_BEACH_PARTY",
       "SetID": "2k150c1",
       "Name": "Satisfaction Guaranteed",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_26_CRANE",
@@ -379,8 +379,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:04:21.3690287+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:05:13.7235919+00:00",
   "LastUpdate_AppInfo": "2023-05-27T14:56:56.8528775+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:57:11.4632176+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:04:21.3690595+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:57:24.9915055+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:05:13.7236232+00:00"
 }

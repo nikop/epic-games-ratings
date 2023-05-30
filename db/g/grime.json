@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 564,
+  "EOS_Progressed": 565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -393,6 +393,11 @@
       "Time": "2023-05-30T06:06:31.4707229+00:00",
       "NumProgressed": 564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T15:07:18.5572651+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -564,7 +569,7 @@
       "Name": "Celebration",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -572,7 +577,7 @@
       "Name": "Inevitable",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -628,7 +633,7 @@
       "Name": "Predator",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -739,21 +744,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 564,
+      "Progressed": 565,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:45.4883159+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:07:18.5572645+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:59:59.7039393+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:45.4883508+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:01:32.7768831+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:07:18.5573002+00:00"
 }

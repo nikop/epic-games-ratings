@@ -35,12 +35,12 @@ Rating: 3.40 (Ranked 930)
 | Nice Try | 4.00% | ~66 |
 | Enemy of My Enemy | 4.00% | ~66 |
 | Revelations | 3.00% | ~49 |
+| Sic Transit Umbra | 3.00% | ~49 |
 | Silence Is Golden | 3.00% | ~49 |
 | Check, Please! | 3.00% | ~49 |
 | Contingency Plans | 2.00% | ~33 |
 | Scream Team | 2.00% | ~33 |
 | Blood Brother | 2.00% | ~33 |
-| Sic Transit Umbra | 2.00% | ~33 |
 | Good Morning | 2.00% | ~33 |
 | Empty Nest Syndrome | 2.00% | ~33 |
 | Harvest’s End | 2.00% | ~33 |

@@ -4,7 +4,7 @@
   "ProductSlug": "submarine-titans-660aa0",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-10T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.3257133+00:00",
   "LastChanged": "2023-03-31T05:57:04.3257134+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:01.9807115+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:59:11.6501943+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:04:44.2441979+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:00:21.7069026+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:05:50.7268378+00:00"
 }

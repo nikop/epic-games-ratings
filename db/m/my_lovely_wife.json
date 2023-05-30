@@ -5,9 +5,9 @@
   "Ranking_Rating": 711,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 193,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "ACH_ASSIGN_RUIN_2",
       "SetID": "ajki3eh",
       "Name": "Loyal",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_1",
@@ -397,9 +397,9 @@
       "ID": "ACH_UNLOCK_SUCC_ENDING_2",
       "SetID": "ajki3eh",
       "Name": "A Close",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_3",
@@ -445,8 +445,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:20.6972372+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:06:44.9516804+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.1888334+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:57:57.7388457+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:20.6972606+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:58:33.5992495+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:06:44.9517055+00:00"
 }

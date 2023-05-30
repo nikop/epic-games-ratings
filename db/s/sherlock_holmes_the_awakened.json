@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -913,9 +913,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "MQ03_1",
@@ -977,9 +977,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "MQ05_1",
@@ -1106,8 +1106,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:03:40.162738+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:04:13.6566275+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:57:15.2723585+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:03:40.1627608+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:57:29.6474344+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:04:13.6566562+00:00"
 }

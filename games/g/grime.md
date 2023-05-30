@@ -23,9 +23,9 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 9.00% | ~51 |
 | Shapely | 8.00% | ~45 |
 | Jawstag | 8.00% | ~45 |
-| Celebration | 7.00% | ~39 |
-| Inevitable | 7.00% | ~39 |
-| Predator | 7.00% | ~39 |
+| Celebration | 7.00% | ~40 |
+| Inevitable | 7.00% | ~40 |
+| Predator | 7.00% | ~40 |
 | Assimilation | 6.00% | ~34 |
 | Watcher | 6.00% | ~34 |
 | Dream | 6.00% | ~9 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564 (Ranked 193)  
+Progressed: 565 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 558 | 0 |
 | 2023-05-27 | 559 | 0 |
 | 2023-05-29 | 562 | 0 |
-| 2023-05-30 | 564 | 0 |
+| 2023-05-30 | 565 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

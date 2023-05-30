@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~178 |
 | Dinosaur Racing | 0.20% | ~178 |
 | Hearts Aflame | 0.20% | ~111 |
+| Look Out! | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
 | Escort to Waterdeep | 0.20% | ~178 |
@@ -378,7 +379,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.10% | ~55 |
 | Dream Gauntlet | 0.10% | ~55 |
 | Zombie Dreams | 0.10% | ~55 |
-| Look Out! | 0.10% | ~55 |
 | The Path of Dreams | 0.10% | ~55 |
 | The Path of Redcaps | 0.10% | ~55 |
 | The Path of Trials | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,207 (Ranked 61)  
+Progressed: 89,215 (Ranked 61)  
 Completed: 1,898 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 1,898 (2.13%) (Ranked 63)
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
-| 2023-05-30 | 89,207 | 1,898 |
+| 2023-05-30 | 89,215 | 1,898 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

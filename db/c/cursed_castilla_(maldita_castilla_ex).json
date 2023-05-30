@@ -2,9 +2,9 @@
   "ID": "d0499205da1f4e13a160607e61c02aec",
   "Name": "Cursed Castilla (Maldita Castilla EX)",
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -47,6 +47,11 @@
       "Time": "2023-05-13T19:06:26.7588208+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T15:07:13.0223283+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -56,7 +61,7 @@
       "ID": "cc_achievement_01",
       "SetID": "177a8ba",
       "Name": "Pioneer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -185,7 +190,7 @@
     {
       "ID": "177a8ba",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
@@ -193,8 +198,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:41.3361008+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:07:13.0223279+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:40.26455+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:59:52.8109236+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:41.3361135+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:01:22.0766477+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:07:13.0223416+00:00"
 }

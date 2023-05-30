@@ -2,9 +2,9 @@
   "ID": "44c4d41627104968a7df87b8e33aa481",
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
-  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -37,6 +37,11 @@
     {
       "Time": "2023-04-25T16:15:34.1994685+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T15:07:03.7972747+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -191,17 +196,17 @@
       "ID": "25",
       "SetID": "38ide56",
       "Name": "You Have Been Everywhere",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "26",
       "SetID": "38ide56",
       "Name": "Animal Sighting",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "27",
@@ -288,7 +293,7 @@
     {
       "ID": "38ide56",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
@@ -296,8 +301,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:34.5386212+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:07:03.7972744+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:53.2031886+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:59:03.4940539+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:34.5386417+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:00:09.4060833+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:07:03.7972947+00:00"
 }

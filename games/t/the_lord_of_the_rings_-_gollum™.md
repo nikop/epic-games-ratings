@@ -12,7 +12,7 @@
 | Memories | 27.00% | ~97 |
 | The Maggot | 22.00% | ~79 |
 | The Breeder | 16.00% | ~57 |
-| The Veteran | 12.00% | ~43 |
+| The Veteran | 13.00% | ~47 |
 | The Traitor | 9.00% | ~32 |
 | The Spider | 8.00% | ~29 |
 | He's so Annoying | 4.00% | ~14 |
@@ -22,13 +22,13 @@
 | Gollum/Sméagol | 3.00% | ~11 |
 | Murderer | 3.00% | ~11 |
 | The Friend | 2.00% | ~7 |
+| Sweet Darkness | 1.00% | ~4 |
 | Master of the Old Game | 1.00% | ~4 |
 | So Silly! | 1.00% | ~4 |
 | Made a Song | 1.00% | ~4 |
 | So Tasty! | 1.00% | ~4 |
 | Break a Leg! | 0.80% | ~3 |
 | And now we wish... | 0.80% | ~3 |
-| Sweet Darkness | 0.80% | ~3 |
 | Nervous Hands | 0.60% | ~2 |
 | Ss ss ss... | 0.60% | ~2 |
 | Collectibles Part 2 | 0.30% | ~1 |

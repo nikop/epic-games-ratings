@@ -7,17 +7,17 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 87.00% | ~1,369 |
-| Self-Improvement | 72.00% | ~1,133 |
-| Perky | 66.00% | ~1,038 |
+| Self-Improvement | 71.00% | ~1,118 |
+| Perky | 66.00% | ~1,039 |
 | Let’s Ride | 60.00% | ~944 |
-| Welcome to the Weird West | 58.00% | ~912 |
+| Welcome to the Weird West | 58.00% | ~913 |
 | Dead or Alive | 56.00% | ~881 |
 | Full House | 37.00% | ~582 |
 | Off the Trail | 33.00% | ~519 |
-| Justice Served | 28.00% | ~440 |
+| Justice Served | 28.00% | ~441 |
 | Chain Reaction | 27.00% | ~425 |
-| Scholar | 25.00% | ~393 |
-| Through Their Eyes | 25.00% | ~393 |
+| Scholar | 25.00% | ~394 |
+| Through Their Eyes | 25.00% | ~394 |
 | Dishonored | 24.00% | ~378 |
 | Rain of Death | 24.00% | ~378 |
 | The Great Escape | 23.00% | ~362 |
@@ -26,7 +26,7 @@ Number of Ratings: 125  (23.09.2022)
 | Here Comes Santa Claus | 16.00% | ~252 |
 | Winds of War | 16.00% | ~252 |
 | For Balance | 15.00% | ~236 |
-| Dog Days | 13.00% | ~204 |
+| Dog Days | 13.00% | ~205 |
 | Elusive Prey | 12.00% | ~189 |
 | Out on the Ebb Tide | 12.00% | ~189 |
 | Power Behind the Pulpit | 12.00% | ~189 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,573 (Ranked 155)  
+Progressed: 1,574 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-27 | 1,560 | 2 |
 | 2023-05-28 | 1,562 | 2 |
 | 2023-05-29 | 1,571 | 2 |
-| 2023-05-30 | 1,573 | 2 |
+| 2023-05-30 | 1,574 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

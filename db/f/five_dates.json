@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 390,
+  "EOS_Progressed": 391,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -317,6 +317,11 @@
       "Time": "2023-05-30T13:10:39.6497879+00:00",
       "NumProgressed": 390,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-30T15:03:43.8215137+00:00",
+      "NumProgressed": 391,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -328,7 +333,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "booty_call",
@@ -336,7 +341,7 @@
       "Name": "Booty Call",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "crash_and_burn",
@@ -352,7 +357,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "hold_my_beer",
@@ -447,7 +452,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 390,
+      "Progressed": 391,
       "Completed": 4
     }
   ],
@@ -455,8 +460,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:03:26.7357537+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:03:43.8215131+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:53.6921193+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:57:58.7569694+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:03:26.7357652+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:58:34.7374248+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:03:43.8215285+00:00"
 }

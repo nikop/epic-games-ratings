@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -30,7 +30,7 @@
   "EOS_Progressed": 909,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 90,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.71,
   "EosHistory": [
     {
@@ -2016,9 +2016,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 300
     },
     {
       "ID": "15",
@@ -2072,9 +2072,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 300
     },
     {
       "ID": "21",
@@ -2184,9 +2184,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 445
     },
     {
       "ID": "34",
@@ -2385,8 +2385,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:20.8984028+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:06:45.1929034+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:57:24.4276698+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:20.8984548+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:57:44.6075668+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:06:45.1929615+00:00"
 }

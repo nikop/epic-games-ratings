@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207,
+  "EOS_Progressed": 208,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 14.98,
+  "EOS_Completed_Percentage": 14.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -918,6 +918,11 @@
       "Time": "2023-05-30T04:05:14.2260905+00:00",
       "NumProgressed": 207,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-30T15:06:43.1502971+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 22,
@@ -929,7 +934,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "LEVEL_002",
@@ -937,23 +942,23 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_005",
@@ -967,9 +972,9 @@
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_007",
@@ -985,15 +990,15 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_010",
@@ -1033,7 +1038,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_015",
@@ -1104,7 +1109,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 207,
+      "Progressed": 208,
       "Completed": 31
     }
   ],
@@ -1112,8 +1117,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:19.4711753+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:06:43.1502962+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:57:53.7425078+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:19.4711973+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:58:28.6051273+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:06:43.1503169+00:00"
 }

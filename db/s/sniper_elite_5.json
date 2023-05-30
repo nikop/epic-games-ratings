@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1871,
+  "EOS_Progressed": 1875,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1941,6 +1941,11 @@
       "Time": "2023-05-30T14:05:29.5787803+00:00",
       "NumProgressed": 1871,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T15:06:57.1682566+00:00",
+      "NumProgressed": 1875,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2032,7 +2037,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2120,7 +2125,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2136,7 +2141,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -2160,7 +2165,7 @@
       "Name": "Lord of War",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2176,7 +2181,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2200,7 +2205,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2232,7 +2237,7 @@
       "Name": "Burn after reading",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -2240,7 +2245,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -2248,7 +2253,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -2288,7 +2293,7 @@
       "Name": "Change the Channel",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2296,7 +2301,7 @@
       "Name": "Up close and personal",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -2446,9 +2451,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2519,13 +2524,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1822,
+      "Progressed": 1826,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1871,
+      "Progressed": 1875,
       "Completed": 2
     }
   ],
@@ -2533,8 +2538,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:29.5787798+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:06:57.1682561+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:00:04.8929954+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:29.5788552+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:01:39.9725132+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:06:57.1683393+00:00"
 }

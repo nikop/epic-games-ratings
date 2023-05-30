@@ -319,9 +319,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_8",
       "SetID": "ak6pfjk",
       "Name": "Starry: The Deep",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 55,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BADGE_BUILDINGS_CAPTURE",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:02:31.3194483+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:02:48.3412096+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:58:24.6161949+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:02:31.3194944+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:59:13.0832567+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:02:48.3412551+00:00"
 }

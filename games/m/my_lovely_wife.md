@@ -25,12 +25,12 @@ Number of Ratings: 25  (23.09.2022)
 | The Farmer | 39.00% | ~220 |
 | Ever After | 35.00% | ~197 |
 | Mandatory Sacrifice | 29.00% | ~164 |
-| Loyal | 27.00% | ~152 |
+| Loyal | 28.00% | ~158 |
 | The Collector | 24.00% | ~135 |
 | All Doors Open | 20.00% | ~113 |
 | Faithful | 10.00% | ~56 |
+| A Close | 9.00% | ~51 |
 | Asmodeus | 8.00% | ~45 |
-| A Close | 8.00% | ~45 |
 | Luna | 7.00% | ~39 |
 | Lover | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564 (Ranked 193)  
+Progressed: 564 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

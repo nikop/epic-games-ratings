@@ -13,8 +13,8 @@
 | Vibing | 61.00% | ~554 |
 | Fun Guy | 61.00% | ~554 |
 | Tragic Brave | 52.00% | ~473 |
+| Awakened Spirits | 49.00% | ~445 |
 | Little Shop | 48.00% | ~436 |
-| Awakened Spirits | 48.00% | ~436 |
 | Surprise! | 43.00% | ~391 |
 | An Actor! | 43.00% | ~391 |
 | Curtain Call | 41.00% | ~373 |
@@ -34,8 +34,8 @@
 | All Skilled Up! | 34.00% | ~309 |
 | It's Pointy! | 34.00% | ~309 |
 | Extinct Again! | 33.00% | ~300 |
-| Bird of Prey | 32.00% | ~291 |
-| Stardust | 32.00% | ~291 |
+| Bird of Prey | 33.00% | ~300 |
+| Stardust | 33.00% | ~300 |
 | Heartbreaker | 32.00% | ~291 |
 | Kidnapped! | 32.00% | ~291 |
 | Trick Question! | 31.00% | ~282 |

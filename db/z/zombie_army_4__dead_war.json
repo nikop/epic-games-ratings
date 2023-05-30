@@ -1459,18 +1459,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2378,
       "NumberOfAwardsMax": 776
+    },
+    {
+      "Time": "2023-05-30T15:00:45.0315886+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2381,
+      "NumberOfAwardsMax": 779
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2378,
-  "NumberOfAwardsMax": 776,
+  "NumberOfAwards": 2381,
+  "NumberOfAwardsMax": 779,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 776
+      "Count": 779
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1539,9 +1545,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42510,
+  "EOS_Progressed": 42511,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2844,6 +2850,11 @@
       "Time": "2023-05-29T23:06:42.6389898+00:00",
       "NumProgressed": 42510,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-30T15:07:23.9491873+00:00",
+      "NumProgressed": 42511,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2855,7 +2866,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25931
+      "UsersEstimate": 25932
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2927,7 +2938,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17429
+      "UsersEstimate": 17430
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -2951,7 +2962,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5951
+      "UsersEstimate": 5952
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -3047,7 +3058,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26356
+      "UsersEstimate": 26357
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3063,7 +3074,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14028
+      "UsersEstimate": 14029
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -3071,7 +3082,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18704
+      "UsersEstimate": 18705
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3111,7 +3122,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14878
+      "UsersEstimate": 14879
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -3151,7 +3162,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17429
+      "UsersEstimate": 17430
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -3159,7 +3170,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21255
+      "UsersEstimate": 21256
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3247,7 +3258,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18704
+      "UsersEstimate": 18705
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3295,7 +3306,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14453
+      "UsersEstimate": 14454
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -3319,7 +3330,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -3359,7 +3370,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6376
+      "UsersEstimate": 6377
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -3382,15 +3393,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42510,
+      "Progressed": 42511,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-05-29T04:00:38.1993107+00:00",
-  "LastChanged_Achievements": "2023-05-30T14:05:49.0677558+00:00",
+  "LastChanged": "2023-05-30T15:00:45.0315882+00:00",
+  "LastChanged_Achievements": "2023-05-30T15:07:23.9491867+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:59:27.9373629+00:00",
-  "LastUpdate_Achievements": "2023-05-30T14:05:49.0678222+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:00:45.0315891+00:00",
+  "LastUpdate_Achievements": "2023-05-30T15:07:23.9492559+00:00"
 }
