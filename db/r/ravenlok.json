@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 907,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6.73,
   "EosHistory": [
@@ -2030,9 +2030,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 272
     },
     {
       "ID": "18",
@@ -2326,17 +2326,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 272
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 263
+      "UsersEstimate": 272
     },
     {
       "ID": "7",
@@ -2375,8 +2375,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:34.4722947+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:05:47.6589973+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:04:38.6170066+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:34.4723629+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:57:25.3012395+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:05:47.6590753+00:00"
 }

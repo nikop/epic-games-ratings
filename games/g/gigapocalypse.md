@@ -23,18 +23,18 @@
 | The Duelist | 37.00% | ~48 |
 | Target Practice | 37.00% | ~48 |
 | Meat Larder | 36.00% | ~46 |
-| Mutant And Proud | 34.00% | ~44 |
+| Mutant And Proud | 35.00% | ~45 |
 | The Emperor's New Clothes | 29.00% | ~37 |
 | Godlike Power | 29.00% | ~37 |
 | Happy Little Home | 29.00% | ~37 |
-| Final Evolution | 28.00% | ~36 |
+| Final Evolution | 29.00% | ~37 |
 | You Shall Not Pass | 26.00% | ~34 |
 | Animal Lover | 26.00% | ~34 |
 | Undying Skin | 26.00% | ~34 |
-| Fight Me! | 25.00% | ~32 |
-| Supremacy | 25.00% | ~32 |
-| Mommy's Very Angry | 24.00% | ~31 |
-| Immortal Skin | 21.00% | ~27 |
+| Fight Me! | 26.00% | ~34 |
+| Supremacy | 26.00% | ~34 |
+| Mommy's Very Angry | 25.00% | ~32 |
+| Immortal Skin | 22.00% | ~28 |
 | Loyal Companion | 21.00% | ~27 |
 | Back To The Future | 19.00% | ~25 |
 | Fire Beacon | 19.00% | ~25 |

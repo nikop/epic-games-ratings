@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 359)  
+Rating: 4.61 (Ranked 358)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,840 |
-| Wallbanger | 5.00% | ~18,840 |
-| Exploitative | 4.00% | ~15,072 |
-| High Speed Low Drag | 4.00% | ~15,072 |
-| Wet Feet | 4.00% | ~15,072 |
-| Checkpoint Victory | 3.00% | ~11,304 |
-| Lucky | 3.00% | ~11,304 |
-| Stylin' | 3.00% | ~11,304 |
-| Turf War | 3.00% | ~11,304 |
+| Point Shooting | 5.00% | ~18,841 |
+| Wallbanger | 5.00% | ~18,841 |
+| Exploitative | 4.00% | ~15,073 |
+| High Speed Low Drag | 4.00% | ~15,073 |
+| Wet Feet | 4.00% | ~15,073 |
+| Checkpoint Victory | 3.00% | ~11,305 |
+| Lucky | 3.00% | ~11,305 |
+| Stylin' | 3.00% | ~11,305 |
+| Turf War | 3.00% | ~11,305 |
 | Banged | 2.00% | ~7,536 |
 | First Blood | 2.00% | ~7,536 |
 | Flaccid Paralysis | 2.00% | ~7,536 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,391 |
 | Mount & Gun | 0.90% | ~3,391 |
 | Personal | 0.90% | ~3,391 |
-| Grounded | 0.80% | ~3,014 |
-| Play to Win | 0.80% | ~3,014 |
+| Grounded | 0.80% | ~3,015 |
+| Play to Win | 0.80% | ~3,015 |
 | #1 | 0.70% | ~2,638 |
 | Special Delivery | 0.70% | ~2,638 |
 | Firefight Victory | 0.60% | ~2,261 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~377 |
 | Road Hazard | 0.10% | ~377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376,794 (Ranked 37)  
+Progressed: 376,821 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 2 (0.00%) (Ranked 207)
 | 2023-05-27 | 375,284 | 2 |
 | 2023-05-28 | 376,041 | 2 |
 | 2023-05-29 | 376,702 | 2 |
-| 2023-05-30 | 376,794 | 2 |
+| 2023-05-30 | 376,821 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 353  (Ranked 211)  
 Sum: 2,681 (Ranked 162)  

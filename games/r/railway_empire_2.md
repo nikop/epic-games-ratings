@@ -19,17 +19,17 @@
 | Poor Devil | 54.00% | ~217 |
 | Apprentice | 52.00% | ~209 |
 | Facility Manager | 51.00% | ~205 |
-| Producer | 47.00% | ~189 |
+| Producer | 48.00% | ~193 |
 | Stoker | 43.00% | ~173 |
 | Bridge Builder | 43.00% | ~173 |
 | Access granted | 38.00% | ~153 |
 | Going once, going twice, sold | 33.00% | ~133 |
-| Full Steam ahead | 31.00% | ~125 |
+| Full Steam ahead | 32.00% | ~129 |
 | Seven at one stroke | 26.00% | ~105 |
+| Bull and bear | 25.00% | ~100 |
 | Mole | 24.00% | ~96 |
-| Bull and bear | 24.00% | ~96 |
 | All mine | 21.00% | ~84 |
-| Financial Shark | 20.00% | ~80 |
+| Financial Shark | 21.00% | ~84 |
 | Trailblazer | 18.00% | ~72 |
 | Hostile Takeover | 18.00% | ~72 |
 | General Manager | 17.00% | ~68 |
@@ -50,11 +50,11 @@
 | Conductor | 1.00% | ~4 |
 | A new Hope | 0.70% | ~3 |
 | Accurate | 0.70% | ~3 |
+| Let off some steam | 0.50% | ~2 |
 | Unstoppable | 0.20% | ~1 |
 | Track to the Future | 0.20% | ~1 |
 | European Union | 0.20% | ~1 |
 | Three Cheers for Progress | 0.20% | ~1 |
-| Let off some steam | 0.20% | ~1 |
 | Engineer | 0.00% | ~0 |
 | United States | 0.00% | ~0 |
 | Call of Duty | 0.00% | ~0 |

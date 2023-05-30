@@ -656,9 +656,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -712,9 +712,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "CosmeticProgress1",
@@ -736,9 +736,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 61
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -760,9 +760,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -904,9 +904,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 270
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1079,8 +1079,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:12:41.1993009+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:05:02.3134759+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:07:07.7817088+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:12:41.1993872+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:59:29.2177075+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:05:02.3136039+00:00"
 }

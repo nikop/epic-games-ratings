@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "21",
       "SetID": "39djiaj",
       "Name": "Basement Secret Spot",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "22",
@@ -347,9 +347,9 @@
       "ID": "31",
       "SetID": "39djiaj",
       "Name": "Save some water for the fishies",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "32",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:40.7071254+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:05:53.1442632+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:06:48.0036146+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:40.7071576+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:59:12.3932639+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:05:53.1442914+00:00"
 }

@@ -650,9 +650,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "A16",
@@ -746,9 +746,9 @@
       "ID": "A27",
       "SetID": "9b7p7eo",
       "Name": "Let off some steam",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A28",
@@ -802,9 +802,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     },
     {
       "ID": "A35",
@@ -914,17 +914,17 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "A50",
@@ -977,8 +977,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:56.9651637+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:06:07.6643823+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:05:25.0913661+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:56.9652538+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:58:04.2274174+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:06:07.6644462+00:00"
 }

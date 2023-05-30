@@ -42,11 +42,11 @@
 | A Megapint...? | 27.00% | ~18 |
 | Ripe Meat Off The Bone! | 24.00% | ~16 |
 | Hovering around | 24.00% | ~16 |
-| Your daily dose of Vitamin C. | 21.00% | ~14 |
-| Kleptomaniac | 21.00% | ~14 |
-| You're not so Big anymore, Boi! | 19.00% | ~13 |
+| Your daily dose of Vitamin C. | 22.00% | ~15 |
+| Kleptomaniac | 22.00% | ~15 |
+| You're not so Big anymore, Boi! | 21.00% | ~14 |
+| I cant stand still! | 18.00% | ~12 |
 | Just wing it! | 16.00% | ~11 |
-| I cant stand still! | 16.00% | ~11 |
 | Deal with it | 15.00% | ~10 |
 | Slimy... yet satisfying | 15.00% | ~10 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~9 |
@@ -56,7 +56,7 @@
 | Spoiler alert! | 9.00% | ~6 |
 | You're looking mozzare-hella good! | 9.00% | ~6 |
 | Scrambled Eggs | 9.00% | ~6 |
-| Ancient Ruins of Moist Overhangs | 6.00% | ~4 |
+| Ancient Ruins of Moist Overhangs | 7.00% | ~5 |
 | Timber! | 6.00% | ~4 |
 | Grumpy Immortal | 6.00% | ~4 |
 | Free Of Chains | 6.00% | ~4 |

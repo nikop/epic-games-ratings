@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -548,6 +548,11 @@
       "Time": "2023-05-29T23:06:29.6868966+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-30T03:06:08.6847+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -615,7 +620,7 @@
       "Name": "My little pony",
       "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "17",
@@ -623,7 +628,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "18",
@@ -719,7 +724,7 @@
       "Name": "Hug therapy",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "30",
@@ -765,9 +770,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 542
     },
     {
       "ID": "7",
@@ -798,15 +803,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:58.1131444+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:06:08.6846996+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:02.2498458+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:07:14.1895719+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:58.1131684+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:59:35.7305088+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:06:08.6847237+00:00"
 }

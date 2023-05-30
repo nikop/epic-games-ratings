@@ -10,7 +10,7 @@
 | Immaculate Aim | 64.00% | ~326 |
 | The Brass Boss | 55.00% | ~280 |
 | Honest Mistake | 54.00% | ~275 |
-| No, Thanks! | 52.00% | ~265 |
+| No, Thanks! | 53.00% | ~270 |
 | Time Flies | 51.00% | ~260 |
 | The Prince in Heels | 50.00% | ~255 |
 | The Harder They Fall | 48.00% | ~245 |
@@ -19,7 +19,7 @@
 | Immaculate Aim | 46.00% | ~235 |
 | Make Up For Lost Time | 45.00% | ~230 |
 | Breaking Down Barriers | 42.00% | ~214 |
-| The Steel Shadow | 36.00% | ~184 |
+| The Steel Shadow | 37.00% | ~189 |
 | Like Clockwork | 34.00% | ~173 |
 | Golem Chaser | 34.00% | ~173 |
 | The Wicked Twins | 33.00% | ~168 |
@@ -37,13 +37,13 @@
 | Syron for Hope | 19.00% | ~97 |
 | Chaincrawler Explorer | 18.00% | ~92 |
 | Factorywood Explorer | 18.00% | ~92 |
-| Fairgrounds Explorer | 16.00% | ~82 |
+| Fairgrounds Explorer | 17.00% | ~87 |
 | Theater Explorer | 14.00% | ~71 |
 | Cultivair Explorer | 13.00% | ~66 |
+| Entresol Explorer | 12.00% | ~61 |
 | Rungs Was Right | 12.00% | ~61 |
 | Corin Goes Home | 11.00% | ~56 |
-| Entresol Explorer | 11.00% | ~56 |
-| Sartorialist | 10.00% | ~51 |
+| Sartorialist | 11.00% | ~56 |
 | Clovemary for Remembering | 9.00% | ~46 |
 | Hexlock for Protection | 9.00% | ~46 |
 | Golem Hunter | 8.00% | ~41 |

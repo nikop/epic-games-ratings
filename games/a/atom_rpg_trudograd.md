@@ -19,7 +19,7 @@ Rating: 4.50 (Ranked 541)
 | Fight Club | 2.00% | ~21 |
 | Human Antidote | 2.00% | ~21 |
 | Albino Bloodsucker | 1.00% | ~11 |
-| Death of the Author | 0.90% | ~10 |
+| Death of the Author | 1.00% | ~11 |
 | Memoirs of a Nibbler | 0.80% | ~9 |
 | Sixth Sense | 0.80% | ~9 |
 | KGB Bunker | 0.70% | ~7 |
@@ -28,13 +28,13 @@ Rating: 4.50 (Ranked 541)
 | Admiral | 0.30% | ~3 |
 | Bronzovka | 0.30% | ~3 |
 | Commando | 0.30% | ~3 |
+| Holy Mountain | 0.30% | ~3 |
 | Incompetence | 0.30% | ~3 |
 | Goose Sacrifice | 0.30% | ~3 |
+| Power of Simplicity | 0.30% | ~3 |
 | Sick Freak | 0.30% | ~3 |
 | Goodbye ATOM | 0.20% | ~2 |
 | Escalation of Conflict | 0.20% | ~2 |
-| Holy Mountain | 0.20% | ~2 |
-| Power of Simplicity | 0.20% | ~2 |
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)

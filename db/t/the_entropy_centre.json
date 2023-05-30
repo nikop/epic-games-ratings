@@ -435,9 +435,9 @@
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_LOOPER",
@@ -492,8 +492,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:35.2093689+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:05:48.1602817+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:04:36.4756832+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:35.2094011+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:57:21.7250404+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:05:48.1603029+00:00"
 }

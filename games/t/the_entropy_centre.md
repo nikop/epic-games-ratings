@@ -13,7 +13,7 @@
 | 48 Attempts | 34.00% | ~42 |
 | Man's Best Friend | 30.00% | ~38 |
 | Chain Reaction | 30.00% | ~38 |
-| Handyman | 21.00% | ~26 |
+| Handyman | 22.00% | ~28 |
 | No Time To Relax | 14.00% | ~18 |
 | Bad Robots | 13.00% | ~16 |
 | Running Boots | 12.00% | ~15 |

@@ -19,16 +19,16 @@
 | Kick It | 24.00% | ~8 |
 | Have Mercy | 24.00% | ~8 |
 | Bedroom Secret Spot | 21.00% | ~7 |
-| Save some water for the fishies | 18.00% | ~6 |
+| Save some water for the fishies | 21.00% | ~7 |
 | Spooky | 18.00% | ~6 |
 | Bathroom Secret Spot | 15.00% | ~5 |
 | Just how we drew it up | 9.00% | ~3 |
+| Basement Secret Spot | 6.00% | ~2 |
 | Classroom Secret Spot | 6.00% | ~2 |
 | Kitchen Secret Spot | 6.00% | ~2 |
 | Living Room Secret Spot | 6.00% | ~2 |
 | Angry Dad | 6.00% | ~2 |
 | At least everyone still had fun | 6.00% | ~2 |
-| Basement Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
 | Found the Secret Formula! | 3.00% | ~1 |
 | Goooooooooal! | 3.00% | ~1 |

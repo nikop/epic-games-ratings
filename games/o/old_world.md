@@ -6,81 +6,81 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,601 |
-| Settler | 82.00% | ~9,486 |
-| Explorer | 79.00% | ~9,139 |
-| Friendly Family | 76.00% | ~8,792 |
-| Intrepid | 70.00% | ~8,098 |
-| Able | 61.00% | ~7,056 |
-| Architect | 61.00% | ~7,056 |
-| Mason | 61.00% | ~7,056 |
-| Strong | 60.00% | ~6,941 |
-| Hanging Gardens | 60.00% | ~6,941 |
-| Noble | 58.00% | ~6,709 |
-| Oracle | 58.00% | ~6,709 |
-| Good | 56.00% | ~6,478 |
-| Just | 55.00% | ~6,362 |
-| Judaism | 55.00% | ~6,362 |
-| Keystone | 54.00% | ~6,247 |
-| Glorious | 52.00% | ~6,015 |
-| Trade Caravan | 52.00% | ~6,015 |
-| Naming Landmarks | 50.00% | ~5,784 |
-| Learned | 49.00% | ~5,668 |
-| Zoroastrianism | 49.00% | ~5,668 |
-| Fountainhead | 48.00% | ~5,553 |
-| Pioneer | 48.00% | ~5,553 |
-| Developing Cities | 48.00% | ~5,553 |
-| Magnificent | 46.00% | ~5,321 |
-| Pyramids | 46.00% | ~5,321 |
+| Play a Single Player Game | 83.00% | ~9,603 |
+| Settler | 82.00% | ~9,487 |
+| Explorer | 79.00% | ~9,140 |
+| Friendly Family | 76.00% | ~8,793 |
+| Intrepid | 70.00% | ~8,099 |
+| Able | 61.00% | ~7,058 |
+| Architect | 61.00% | ~7,058 |
+| Mason | 61.00% | ~7,058 |
+| Strong | 60.00% | ~6,942 |
+| Hanging Gardens | 60.00% | ~6,942 |
+| Noble | 58.00% | ~6,711 |
+| Oracle | 58.00% | ~6,711 |
+| Good | 56.00% | ~6,479 |
+| Just | 55.00% | ~6,364 |
+| Judaism | 55.00% | ~6,364 |
+| Keystone | 54.00% | ~6,248 |
+| Glorious | 52.00% | ~6,016 |
+| Trade Caravan | 52.00% | ~6,016 |
+| Naming Landmarks | 50.00% | ~5,785 |
+| Learned | 49.00% | ~5,669 |
+| Zoroastrianism | 49.00% | ~5,669 |
+| Fountainhead | 48.00% | ~5,554 |
+| Pioneer | 48.00% | ~5,554 |
+| Developing Cities | 48.00% | ~5,554 |
+| Magnificent | 46.00% | ~5,322 |
+| Pyramids | 46.00% | ~5,322 |
 | Warrior | 45.00% | ~5,206 |
 | Strong Cities | 45.00% | ~5,206 |
 | Greek Paganism | 45.00% | ~5,206 |
-| Ishtar Gate | 44.00% | ~5,090 |
-| Babylonian Paganism | 43.00% | ~4,974 |
+| Ishtar Gate | 44.00% | ~5,091 |
+| Babylonian Paganism | 43.00% | ~4,975 |
 | Enlightened | 42.00% | ~4,859 |
-| Great Ziggurat | 41.00% | ~4,743 |
-| Christianity | 41.00% | ~4,743 |
-| Roman Paganism | 41.00% | ~4,743 |
-| Great | 40.00% | ~4,627 |
-| Lighthouse | 40.00% | ~4,627 |
+| Great Ziggurat | 41.00% | ~4,744 |
+| Christianity | 41.00% | ~4,744 |
+| Roman Paganism | 41.00% | ~4,744 |
+| Great | 40.00% | ~4,628 |
+| Lighthouse | 40.00% | ~4,628 |
 | Able Difficulty | 39.00% | ~4,512 |
-| Ambitious | 38.00% | ~4,396 |
-| Carthaginian Paganism | 38.00% | ~4,396 |
-| Necropolis | 37.00% | ~4,280 |
-| Apadana | 36.00% | ~4,164 |
-| Egyptian Paganism | 36.00% | ~4,164 |
+| Ambitious | 38.00% | ~4,397 |
+| Carthaginian Paganism | 38.00% | ~4,397 |
+| Necropolis | 37.00% | ~4,281 |
+| Apadana | 36.00% | ~4,165 |
+| Egyptian Paganism | 36.00% | ~4,165 |
 | Musaeum | 35.00% | ~4,049 |
 | Manichaeism | 35.00% | ~4,049 |
-| Brilliant | 34.00% | ~3,933 |
+| Brilliant | 34.00% | ~3,934 |
 | Drillmaster | 32.00% | ~3,702 |
 | Colossus | 32.00% | ~3,702 |
-| Legendary Cities | 31.00% | ~3,586 |
-| Furious Family | 31.00% | ~3,586 |
-| Learn to Play 1 | 31.00% | ~3,586 |
-| Just Difficulty | 30.00% | ~3,470 |
-| Artisans | 30.00% | ~3,470 |
-| Acropolis | 30.00% | ~3,470 |
-| Mythology | 30.00% | ~3,470 |
+| Legendary Cities | 31.00% | ~3,587 |
+| Furious Family | 31.00% | ~3,587 |
+| Learn to Play 1 | 31.00% | ~3,587 |
+| Just Difficulty | 30.00% | ~3,471 |
+| Artisans | 30.00% | ~3,471 |
+| Acropolis | 30.00% | ~3,471 |
+| Mythology | 30.00% | ~3,471 |
 | Wise | 29.00% | ~3,355 |
 | Mausoleum | 29.00% | ~3,355 |
-| Intercessor | 27.00% | ~3,123 |
+| Intercessor | 27.00% | ~3,124 |
 | Valiant | 26.00% | ~3,008 |
 | Sages | 26.00% | ~3,008 |
 | Hanging Gardens in Babylon | 25.00% | ~2,892 |
 | Points Victory | 25.00% | ~2,892 |
-| Temple of Solomon | 24.00% | ~2,776 |
-| Learn to Play 2 | 24.00% | ~2,776 |
-| Greece | 24.00% | ~2,776 |
-| Persian Paganism | 24.00% | ~2,776 |
+| Temple of Solomon | 24.00% | ~2,777 |
+| Learn to Play 2 | 24.00% | ~2,777 |
+| Greece | 24.00% | ~2,777 |
+| Persian Paganism | 24.00% | ~2,777 |
 | Good Difficulty | 23.00% | ~2,661 |
 | Champions | 23.00% | ~2,661 |
-| Patrons | 23.00% | ~2,661 |
 | Power to the People | 23.00% | ~2,661 |
 | Building Wonders | 23.00% | ~2,661 |
+| Patrons | 22.00% | ~2,545 |
 | Hittite Iron | 22.00% | ~2,545 |
 | Legalism | 22.00% | ~2,545 |
-| Mighty | 21.00% | ~2,429 |
-| Via Recta Souk | 21.00% | ~2,429 |
+| Mighty | 21.00% | ~2,430 |
+| Via Recta Souk | 21.00% | ~2,430 |
 | Statesmen | 20.00% | ~2,314 |
 | Circus Maximus | 20.00% | ~2,314 |
 | Hagia Sophia | 20.00% | ~2,314 |
@@ -92,12 +92,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 19.00% | ~2,198 |
 | Cimmerian Archer | 19.00% | ~2,198 |
 | Ambition Victory | 19.00% | ~2,198 |
-| Conqueror | 18.00% | ~2,082 |
-| Landowners | 18.00% | ~2,082 |
-| Pantheon | 18.00% | ~2,082 |
-| Assyrian Paganism | 18.00% | ~2,082 |
-| Redemption | 18.00% | ~2,082 |
-| Double Victory | 18.00% | ~2,082 |
+| Conqueror | 18.00% | ~2,083 |
+| Landowners | 18.00% | ~2,083 |
+| Pantheon | 18.00% | ~2,083 |
+| Assyrian Paganism | 18.00% | ~2,083 |
+| Redemption | 18.00% | ~2,083 |
+| Double Victory | 18.00% | ~2,083 |
 | Subjugator | 17.00% | ~1,967 |
 | Traders | 17.00% | ~1,967 |
 | Military Prestige | 17.00% | ~1,967 |
@@ -112,13 +112,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 16.00% | ~1,851 |
 | Gnosticism | 16.00% | ~1,851 |
 | Veneration | 16.00% | ~1,851 |
-| Capable | 15.00% | ~1,735 |
-| Church of the Holy Sepulchre | 15.00% | ~1,735 |
-| Hittite Paganism | 15.00% | ~1,735 |
-| Industrial Progress | 15.00% | ~1,735 |
-| Enlightenment | 15.00% | ~1,735 |
-| Revelation | 15.00% | ~1,735 |
-| Win a Single Player Game | 15.00% | ~1,735 |
+| Capable | 15.00% | ~1,736 |
+| Church of the Holy Sepulchre | 15.00% | ~1,736 |
+| Hittite Paganism | 15.00% | ~1,736 |
+| Industrial Progress | 15.00% | ~1,736 |
+| Enlightenment | 15.00% | ~1,736 |
+| Revelation | 15.00% | ~1,736 |
+| Win a Single Player Game | 15.00% | ~1,736 |
 | Devout | 14.00% | ~1,620 |
 | Babylonia | 14.00% | ~1,620 |
 | Carthage | 14.00% | ~1,620 |
@@ -132,17 +132,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 12.00% | ~1,388 |
 | Ten Crowns | 12.00% | ~1,388 |
 | All Nations | 12.00% | ~1,388 |
-| Ishtar Gate in Babylon | 11.00% | ~1,272 |
-| Ready | 11.00% | ~1,272 |
-| Noble Difficulty | 11.00% | ~1,272 |
-| Learn to Play 4 | 11.00% | ~1,272 |
+| Ishtar Gate in Babylon | 11.00% | ~1,273 |
+| Ready | 11.00% | ~1,273 |
+| Noble Difficulty | 11.00% | ~1,273 |
+| Learn to Play 4 | 11.00% | ~1,273 |
 | Cao'an | 10.00% | ~1,157 |
 | Siege Tower | 10.00% | ~1,157 |
 | Carthage - Ox Hide | 9.00% | ~1,041 |
 | No Undo | 9.00% | ~1,041 |
-| Glorious Difficulty | 8.00% | ~925 |
-| Persia | 8.00% | ~925 |
-| Old World Order | 8.00% | ~925 |
+| Glorious Difficulty | 8.00% | ~926 |
+| Persia | 8.00% | ~926 |
+| Old World Order | 8.00% | ~926 |
 | The Eternal Treaty | 7.00% | ~810 |
 | Assyria | 7.00% | ~810 |
 | Capturing Cities | 7.00% | ~810 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,568 (Ranked 105)  
+Progressed: 11,570 (Ranked 105)  
 Completed: 3 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.03%) (Ranked 185)
 | 2023-05-27 | 11,488 | 3 |
 | 2023-05-28 | 11,536 | 3 |
 | 2023-05-29 | 11,566 | 3 |
-| 2023-05-30 | 11,568 | 3 |
+| 2023-05-30 | 11,570 | 3 |
 ## Awards
 Max (Relaxing): 217  (Ranked 250)  
 Sum: 1,761 (Ranked 197)  

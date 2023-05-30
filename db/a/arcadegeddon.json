@@ -727,9 +727,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6860,
+  "EOS_Progressed": 6861,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3022,6 +3022,11 @@
       "Time": "2023-05-30T02:09:11.6448382+00:00",
       "NumProgressed": 6860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T03:01:17.1057543+00:00",
+      "NumProgressed": 6861,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -3033,7 +3038,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5488
+      "UsersEstimate": 5489
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -3089,7 +3094,7 @@
       "Name": "Field Medic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -3097,7 +3102,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -3129,7 +3134,7 @@
       "Name": "Guardian Angel",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -3137,7 +3142,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -3145,7 +3150,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3705
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -3177,7 +3182,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 6243
+      "UsersEstimate": 6244
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -3233,7 +3238,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -3241,7 +3246,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -3249,7 +3254,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -3287,9 +3292,9 @@
       "ID": "ACH_SEASONED_ADVENTURER",
       "SetID": "97mcd7i",
       "Name": "Seasoned Adventurer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 823
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -3337,7 +3342,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5831
+      "UsersEstimate": 5832
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -3369,7 +3374,7 @@
       "Name": "The Final Blow",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH_THE_FULL_MONTY",
@@ -3432,15 +3437,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6860,
+      "Progressed": 6861,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:09:11.6448375+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:01:17.1057539+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.2765007+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:05:46.0942012+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:09:11.6451981+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:58:20.6657524+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:01:17.1060461+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 7.00% | ~19,196 |
+| The Sort Who Makes an Entrance | 7.00% | ~19,197 |
 | Grappling with a Graphorn | 6.00% | ~16,454 |
 | The One Who Mastered Memories | 6.00% | ~16,454 |
 | The Hallowed Hero | 6.00% | ~16,454 |
@@ -26,7 +26,7 @@ Rating: 4.77 (Ranked 105)
 | Followed the Butterflies | 5.00% | ~13,712 |
 | The Spell Master | 5.00% | ~13,712 |
 | Rising From the Ashes | 5.00% | ~13,712 |
-| The Seeker of Knowledge | 4.00% | ~10,969 |
+| The Seeker of Knowledge | 4.00% | ~10,970 |
 | The Root of the Problem | 3.00% | ~8,227 |
 | Third Time's a Charm | 3.00% | ~8,227 |
 | Room with a View | 3.00% | ~8,227 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,097 |
 | Collector's Edition | 0.20% | ~548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,235 (Ranked 39)  
+Progressed: 274,240 (Ranked 39)  
 Completed: 378 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 378 (0.14%) (Ranked 151)
 | 2023-05-27 | 273,323 | 376 |
 | 2023-05-28 | 273,796 | 377 |
 | 2023-05-29 | 274,189 | 378 |
-| 2023-05-30 | 274,235 | 378 |
+| 2023-05-30 | 274,240 | 378 |
 ## Awards
 Max (Character Customization): 19,315  (Ranked 18)  
 Sum: 35,638 (Ranked 33)  

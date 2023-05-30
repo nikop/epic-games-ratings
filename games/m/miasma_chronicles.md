@@ -5,25 +5,25 @@ Rating: 4.22 (Ranked 807)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~748 |
-| Ranidaphobia | 71.00% | ~584 |
-| Aspiring Editor | 67.00% | ~551 |
-| Gun for Hire | 62.00% | ~510 |
-| I am the law! | 49.00% | ~403 |
-| Lumberjack | 31.00% | ~255 |
-| Limp Richard | 27.00% | ~222 |
-| Firestarter | 27.00% | ~222 |
-| From Darkness to Light | 27.00% | ~222 |
-| Croaked | 26.00% | ~214 |
-| Exorcist | 23.00% | ~189 |
-| Editor Adept | 22.00% | ~181 |
-| Giant Killer | 18.00% | ~148 |
+| First Blood | 91.00% | ~752 |
+| Ranidaphobia | 71.00% | ~586 |
+| Aspiring Editor | 67.00% | ~553 |
+| Gun for Hire | 62.00% | ~512 |
+| I am the law! | 49.00% | ~405 |
+| Lumberjack | 31.00% | ~256 |
+| Limp Richard | 27.00% | ~223 |
+| Firestarter | 27.00% | ~223 |
+| From Darkness to Light | 27.00% | ~223 |
+| Croaked | 25.00% | ~206 |
+| Editor Adept | 22.00% | ~182 |
+| Exorcist | 22.00% | ~182 |
+| Giant Killer | 19.00% | ~157 |
 | Sensei | 17.00% | ~140 |
 | The meaning of Kain | 17.00% | ~140 |
-| Technophobe | 13.00% | ~107 |
 | Recycler | 12.00% | ~99 |
-| Chain Killer | 11.00% | ~90 |
-| Hold The Line | 11.00% | ~90 |
+| Technophobe | 12.00% | ~99 |
+| Chain Killer | 11.00% | ~91 |
+| Hold The Line | 11.00% | ~91 |
 | Newtonian Knockout | 9.00% | ~74 |
 | There Can Be Only One! | 9.00% | ~74 |
 | Are you not entertained? | 8.00% | ~66 |
@@ -31,8 +31,8 @@ Rating: 4.22 (Ranked 807)
 | Jarhead | 8.00% | ~66 |
 | Infiltrator | 8.00% | ~66 |
 | Pushing Daisy | 7.00% | ~58 |
-| Experienced | 6.00% | ~49 |
-| Ruthless | 6.00% | ~49 |
+| Experienced | 6.00% | ~50 |
+| Ruthless | 6.00% | ~50 |
 | The Watchers | 5.00% | ~41 |
 | Chain Reaction | 4.00% | ~33 |
 | Commando | 4.00% | ~33 |
@@ -42,8 +42,8 @@ Rating: 4.22 (Ranked 807)
 | Wipe Out | 4.00% | ~33 |
 | Chaos Theory | 3.00% | ~25 |
 | Dr Jones | 3.00% | ~25 |
-| Bot Whisperer | 2.00% | ~16 |
-| Side Order | 2.00% | ~16 |
+| Bot Whisperer | 2.00% | ~17 |
+| Side Order | 2.00% | ~17 |
 | Cruelty | 1.00% | ~8 |
 | Dressed To Kill | 0.60% | ~5 |
 | Five Finger Deathcount | 0.50% | ~4 |
@@ -57,7 +57,7 @@ Rating: 4.22 (Ranked 807)
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 822 (Ranked 179)  
+Progressed: 826 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
 | 2023-05-29 | 815 | 0 |
-| 2023-05-30 | 822 | 0 |
+| 2023-05-30 | 826 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

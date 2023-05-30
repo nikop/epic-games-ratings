@@ -15,9 +15,9 @@
 | Who loves trains? | 27.00% | ~56 |
 | Easy and steady climb | 26.00% | ~54 |
 | At the heart of the city | 23.00% | ~47 |
-| Calm neighborhood | 21.00% | ~43 |
-| Elevated ring | 21.00% | ~43 |
-| Not lonely anymore | 19.00% | ~39 |
+| Calm neighborhood | 22.00% | ~45 |
+| Elevated ring | 22.00% | ~45 |
+| Not lonely anymore | 20.00% | ~41 |
 | Monumental tribute | 18.00% | ~37 |
 | The beach is right there | 18.00% | ~37 |
 | Commuting | 18.00% | ~37 |

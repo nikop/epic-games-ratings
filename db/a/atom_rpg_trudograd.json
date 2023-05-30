@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -608,9 +608,9 @@
       "ID": "DEATH_OF_THE_AUTHOR",
       "SetID": "62d2oh4",
       "Name": "Death of the Author",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ESCALATION_OF_CONFLICT",
@@ -640,9 +640,9 @@
       "ID": "HOLY_MOUNTAIN",
       "SetID": "62d2oh4",
       "Name": "Holy Mountain",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HOUSEHOLD",
@@ -728,9 +728,9 @@
       "ID": "POWER_SIMPLICITY",
       "SetID": "62d2oh4",
       "Name": "Power of Simplicity",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RISING_STAR",
@@ -817,8 +817,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:36.7319774+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:05:49.6813522+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.6742976+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:04:28.5960076+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:36.7320146+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:57:15.081996+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:05:49.6813796+00:00"
 }

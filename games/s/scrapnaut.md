@@ -28,10 +28,10 @@ Number of Ratings: 38  (23.09.2022)
 | Treasure Hunter | 16.00% | ~35 |
 | Mythical Smelter | 11.00% | ~24 |
 | Blacksmith | 10.00% | ~22 |
+| Master Of Management | 9.00% | ~20 |
 | Forest Lord | 9.00% | ~20 |
 | Fuel | 9.00% | ~20 |
 | Smelting Master | 9.00% | ~20 |
-| Master Of Management | 8.00% | ~18 |
 | Black Gold | 7.00% | ~15 |
 | Survival Master | 4.00% | ~9 |
 | Traveler | 3.00% | ~7 |

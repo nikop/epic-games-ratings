@@ -1,24 +1,24 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.62 (Ranked 342)  
+Rating: 4.61 (Ranked 358)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,111 |
-| Pay 'n' Spray | 48.00% | ~4,267 |
-| All Dressed Up for San Fierro | 22.00% | ~1,956 |
-| The American Dream | 17.00% | ~1,511 |
-| School's Out | 15.00% | ~1,333 |
-| Smooth Moves | 15.00% | ~1,333 |
+| Getting Started | 80.00% | ~7,116 |
+| Pay 'n' Spray | 48.00% | ~4,270 |
+| All Dressed Up for San Fierro | 22.00% | ~1,957 |
+| The American Dream | 17.00% | ~1,512 |
+| School's Out | 15.00% | ~1,334 |
+| Smooth Moves | 15.00% | ~1,334 |
 | Today Was a Good Day | 13.00% | ~1,156 |
 | What happens in Las Venturas... | 12.00% | ~1,067 |
-| Horror of the Santa Maria | 9.00% | ~800 |
-| Liberty City State of Mind | 7.00% | ~622 |
-| With Extra Dip | 6.00% | ~533 |
-| The End of the Line | 6.00% | ~533 |
-| Original Gangster | 6.00% | ~533 |
-| Saviour | 5.00% | ~444 |
+| Horror of the Santa Maria | 9.00% | ~801 |
+| Liberty City State of Mind | 7.00% | ~623 |
+| With Extra Dip | 6.00% | ~534 |
+| The End of the Line | 6.00% | ~534 |
+| Original Gangster | 6.00% | ~534 |
+| Saviour | 5.00% | ~445 |
 | Rescue a Kitten Too? | 4.00% | ~356 |
 | They Can’t Stop All of Us | 3.00% | ~267 |
 | What are the Odds | 3.00% | ~267 |
@@ -41,7 +41,7 @@ Rating: 4.62 (Ranked 342)
 | ...Here we go again | 0.20% | ~18 |
 | I Ain't No Buster | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,889 (Ranked 111)  
+Progressed: 8,895 (Ranked 111)  
 Completed: 17 (0.19%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 17 (0.19%) (Ranked 143)
 | 2023-05-27 | 8,629 | 17 |
 | 2023-05-28 | 8,761 | 17 |
 | 2023-05-29 | 8,878 | 17 |
-| 2023-05-30 | 8,889 | 17 |
+| 2023-05-30 | 8,895 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -129,3 +129,4 @@ Completed: 17 (0.19%) (Ranked 143)
 | 2023-05-24 | 4.63 | 0 | 0 |
 | 2023-05-25 | 4.63 | 0 | 0 |
 | 2023-05-28 | 4.63 | 0 | 0 |
+| 2023-05-30 | 4.61 | 0 | 0 |

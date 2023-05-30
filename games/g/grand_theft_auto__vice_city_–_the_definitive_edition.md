@@ -5,32 +5,32 @@ Rating: 4.64 (Ranked 313)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,105 |
-| Greasy Palms | 39.00% | ~2,816 |
-| South American Connection | 23.00% | ~1,661 |
+| Legal Counsel | 43.00% | ~3,107 |
+| Greasy Palms | 39.00% | ~2,818 |
+| South American Connection | 23.00% | ~1,662 |
 | Life of the Party | 17.00% | ~1,228 |
 | Tommy Two-Wheels | 13.00% | ~939 |
 | Big Heat from Little Havana | 12.00% | ~867 |
 | Chauffeur | 12.00% | ~867 |
 | Iron-y | 9.00% | ~650 |
 | Salutations My Little Friend | 9.00% | ~650 |
-| Gun for Hire | 7.00% | ~505 |
-| Mischief Managed | 7.00% | ~505 |
-| Vice City Mogul | 6.00% | ~433 |
+| Gun for Hire | 7.00% | ~506 |
+| Mischief Managed | 7.00% | ~506 |
+| Vice City Mogul | 6.00% | ~434 |
 | Catch Me if You Can | 5.00% | ~361 |
 | Bloodstained Hands | 5.00% | ~361 |
 | Not my First Time | 4.00% | ~289 |
 | Grand Theft Auto | 4.00% | ~289 |
 | High Quality H2O | 3.00% | ~217 |
 | Pie Guy | 3.00% | ~217 |
-| Running Rampant | 2.00% | ~144 |
-| Point A to Point B | 2.00% | ~144 |
-| Bull in a China Shop | 2.00% | ~144 |
-| Somebody Call the Wambulance? | 2.00% | ~144 |
-| Just Like the Real Thing | 2.00% | ~144 |
-| Don't Need Roads | 2.00% | ~144 |
-| Take the Cannoli | 2.00% | ~144 |
-| City Sleuth | 2.00% | ~144 |
+| Running Rampant | 2.00% | ~145 |
+| Point A to Point B | 2.00% | ~145 |
+| Bull in a China Shop | 2.00% | ~145 |
+| Somebody Call the Wambulance? | 2.00% | ~145 |
+| Just Like the Real Thing | 2.00% | ~145 |
+| Don't Need Roads | 2.00% | ~145 |
+| Take the Cannoli | 2.00% | ~145 |
+| City Sleuth | 2.00% | ~145 |
 | One is Better Than Two | 1.00% | ~72 |
 | Chopper’d Up | 1.00% | ~72 |
 | Daredevil | 0.80% | ~58 |
@@ -40,7 +40,7 @@ Rating: 4.64 (Ranked 313)
 | Done it All | 0.60% | ~43 |
 | Kingpin | 0.30% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,221 (Ranked 113)  
+Progressed: 7,226 (Ranked 113)  
 Completed: 24 (0.33%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 24 (0.33%) (Ranked 120)
 | 2023-05-27 | 7,028 | 24 |
 | 2023-05-28 | 7,140 | 24 |
 | 2023-05-29 | 7,217 | 24 |
-| 2023-05-30 | 7,221 | 24 |
+| 2023-05-30 | 7,226 | 24 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 411)  
 Sum: 40 (Ranked 445)  

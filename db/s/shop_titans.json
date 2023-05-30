@@ -4282,9 +4282,9 @@
       "Count": 3678
     }
   ],
-  "EOS_Progressed": 129408,
+  "EOS_Progressed": 129409,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7992,6 +7992,11 @@
       "Time": "2023-05-30T02:14:11.548377+00:00",
       "NumProgressed": 129408,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-05-30T03:06:21.0546595+00:00",
+      "NumProgressed": 129409,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 112,
@@ -8051,7 +8056,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36234
+      "UsersEstimate": 36235
     },
     {
       "ID": "ascend02",
@@ -8123,7 +8128,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "bookentry",
@@ -8171,7 +8176,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 125526
+      "UsersEstimate": 125527
     },
     {
       "ID": "chest02",
@@ -8179,7 +8184,7 @@
       "Name": "For the Hoard!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21999
+      "UsersEstimate": 22000
     },
     {
       "ID": "chest03",
@@ -8235,7 +8240,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 117761
+      "UsersEstimate": 117762
     },
     {
       "ID": "commonres02",
@@ -8267,7 +8272,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 98350
+      "UsersEstimate": 98351
     },
     {
       "ID": "craft02",
@@ -8275,7 +8280,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 53057
+      "UsersEstimate": 53058
     },
     {
       "ID": "craft03",
@@ -8307,7 +8312,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55645
+      "UsersEstimate": 55646
     },
     {
       "ID": "damage02",
@@ -8459,7 +8464,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23293
+      "UsersEstimate": 23294
     },
     {
       "ID": "gemsspent",
@@ -8467,7 +8472,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 36234
+      "UsersEstimate": 36235
     },
     {
       "ID": "gold01",
@@ -8475,7 +8480,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 112585
+      "UsersEstimate": 112586
     },
     {
       "ID": "gold02",
@@ -8523,7 +8528,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36234
+      "UsersEstimate": 36235
     },
     {
       "ID": "help02",
@@ -8587,7 +8592,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 85409
+      "UsersEstimate": 85410
     },
     {
       "ID": "level02",
@@ -8595,7 +8600,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 40116
+      "UsersEstimate": 40117
     },
     {
       "ID": "level03",
@@ -8627,7 +8632,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 54351
+      "UsersEstimate": 54352
     },
     {
       "ID": "loot02",
@@ -8755,7 +8760,7 @@
       "Name": "Treasure Trove",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "rareres03",
@@ -8779,7 +8784,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 97056
+      "UsersEstimate": 97057
     },
     {
       "ID": "sell02",
@@ -8819,7 +8824,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 124232
+      "UsersEstimate": 124233
     },
     {
       "ID": "twinenchant01",
@@ -8835,7 +8840,7 @@
       "Name": "All Accounted For",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "uncommonres01",
@@ -8843,7 +8848,7 @@
       "Name": "Special Ingredient",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21999
+      "UsersEstimate": 22000
     },
     {
       "ID": "uncommonres02",
@@ -8898,15 +8903,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 129408,
+      "Progressed": 129409,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-29T17:58:05.0381677+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:14:11.5483762+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:06:21.0546591+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.2820378+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:05:47.4202694+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:14:11.5486937+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:58:21.7668235+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:06:21.0548532+00:00"
 }

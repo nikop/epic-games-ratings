@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -590,9 +590,9 @@
       "ID": "TRANSMISSION",
       "SetID": "1a29mp6",
       "Name": "Transmission",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 151
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -615,8 +615,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:41.2528329+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:05:53.6634399+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.2878475+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:06:55.3295561+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:41.2528474+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:59:18.4593589+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:05:53.6634545+00:00"
 }

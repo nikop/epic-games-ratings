@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1518,
+  "EOS_Progressed": 1519,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:46.139377+00:00",
@@ -906,6 +906,11 @@
       "Time": "2023-05-29T23:01:45.1805577+00:00",
       "NumProgressed": 1518,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-30T03:01:13.4026913+00:00",
+      "NumProgressed": 1519,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -933,7 +938,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "Collect50MonsterParts",
@@ -941,7 +946,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "CollectAllStatues",
@@ -997,7 +1002,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1021,7 +1026,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "DefeatMoziQueen",
@@ -1029,7 +1034,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1045,7 +1050,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -1077,7 +1082,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "Kill25Frogs",
@@ -1117,7 +1122,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "RepairSmith",
@@ -1133,7 +1138,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "RescueBrothers",
@@ -1141,7 +1146,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1156,22 +1161,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1518,
+      "Progressed": 1519,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 159,
-      "Completed": 159
+      "Progressed": 160,
+      "Completed": 160
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:09:07.4792856+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:01:13.4026909+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:05:48.8831262+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:09:07.4793273+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:58:22.7270403+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:01:13.4027244+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1223,
+  "EOS_Progressed": 1224,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -670,6 +670,11 @@
       "Time": "2023-05-29T16:05:53.2393628+00:00",
       "NumProgressed": 1223,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-30T03:05:54.1899137+00:00",
+      "NumProgressed": 1224,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -849,7 +854,7 @@
       "Name": "How Romantic!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_maimedHero",
@@ -871,9 +876,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -911,17 +916,17 @@
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 86
     },
     {
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 147
     },
     {
       "ID": "completedStory_legacy",
@@ -1128,15 +1133,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1223,
+      "Progressed": 1224,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-30T02:13:41.8153064+00:00",
+  "LastChanged_Achievements": "2023-05-30T03:05:54.1899133+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:08:35.2199474+00:00",
-  "LastUpdate_Achievements": "2023-05-30T02:13:41.8153969+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:00:44.2070657+00:00",
+  "LastUpdate_Achievements": "2023-05-30T03:05:54.1899691+00:00"
 }

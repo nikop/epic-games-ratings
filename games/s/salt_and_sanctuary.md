@@ -1,28 +1,28 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 359)  
+Rating: 4.61 (Ranked 358)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~433,823 |
-| The Three | 64.00% | ~334,514 |
-| The Banquet | 40.00% | ~209,071 |
-| Devara's Light | 30.00% | ~156,803 |
-| The Iron Ones | 18.00% | ~94,082 |
-| The Village | 16.00% | ~83,628 |
+| Find Sanctuary | 83.00% | ~433,825 |
+| The Three | 64.00% | ~334,516 |
+| The Banquet | 40.00% | ~209,072 |
+| Devara's Light | 30.00% | ~156,804 |
+| The Iron Ones | 18.00% | ~94,083 |
+| The Village | 16.00% | ~83,629 |
 | The Forest | 14.00% | ~73,175 |
-| Branded | 13.00% | ~67,948 |
-| The Imposter | 13.00% | ~67,948 |
-| The Keep | 13.00% | ~67,948 |
+| Branded | 13.00% | ~67,949 |
+| The Imposter | 13.00% | ~67,949 |
+| The Keep | 13.00% | ~67,949 |
 | The Castle | 11.00% | ~57,495 |
 | The Dome | 9.00% | ~47,041 |
 | The Red Hall | 9.00% | ~47,041 |
 | The Sacrifice | 8.00% | ~41,814 |
-| The Cave | 7.00% | ~36,587 |
-| The Stone Roots | 7.00% | ~36,587 |
-| The Ziggurat | 7.00% | ~36,587 |
+| The Cave | 7.00% | ~36,588 |
+| The Stone Roots | 7.00% | ~36,588 |
+| The Ziggurat | 7.00% | ~36,588 |
 | Storied | 6.00% | ~31,361 |
 | The Construct | 6.00% | ~31,361 |
 | The Mire | 6.00% | ~31,361 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,454 |
 | Fading Fast | 1.00% | ~5,227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,678 (Ranked 24)  
+Progressed: 522,681 (Ranked 24)  
 Completed: 1,429 (0.27%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,11 +84,11 @@ Completed: 1,429 (0.27%) (Ranked 132)
 | 2023-05-27 | 522,391 | 1,426 |
 | 2023-05-28 | 522,538 | 1,428 |
 | 2023-05-29 | 522,668 | 1,429 |
-| 2023-05-30 | 522,678 | 1,429 |
+| 2023-05-30 | 522,681 | 1,429 |
 ## Awards
-Max (Challenging Combat): 270  (Ranked 234)  
+Max (Challenging Combat): 270  (Ranked 235)  
 Sum: 1,884 (Ranked 190)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 270 |
