@@ -19,7 +19,7 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.96% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.88% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
@@ -27,18 +27,18 @@
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.13% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.11% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
-| 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
+| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
+| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.10% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.45% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
@@ -48,8 +48,8 @@
 | 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
-| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.91% |
-| 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.89% |
+| 49 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.89% |
+| 50 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.88% |
 | 51 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.82% |
@@ -109,9 +109,9 @@
 | 107 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 109 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 110 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
-| 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.46% |
+| 109 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
+| 111 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 112 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.40% |
 | 114 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
 | 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
@@ -125,8 +125,8 @@
 | 123 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 123 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
 | 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 123 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 123 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 127 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 129 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
