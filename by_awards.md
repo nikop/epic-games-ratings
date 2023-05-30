@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 110,169 | 4.69 | 215 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 65,701 | 4.62 | 342 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,256 | 4.59 | 406 |
-| 11 | [VALORANT](games/v/valorant.md) | 54,441 | 4.54 | 486 |
+| 11 | [VALORANT](games/v/valorant.md) | 54,556 | 4.54 | 486 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 35,957 | 4.60 | 386 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,362 | 4.50 | 541 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 32,085 | 4.74 | 141 |
@@ -51,24 +51,24 @@
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,594 | 4.74 | 141 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,357 | 4.71 | 179 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,285 | 4.80 | 78 |
-| 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,119 | 4.58 | 420 |
+| 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,126 | 4.58 | 420 |
 | 53 | [Sifu](games/s/sifu.md) | 6,109 | 4.82 | 64 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,931 | 4.64 | 313 |
-| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,859 | 4.79 | 90 |
+| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,861 | 4.79 | 90 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,778 | 4.66 | 275 |
 | 57 | [Prey](games/p/prey.md) | 5,559 | 4.62 | 342 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,520 | 4.82 | 64 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,479 | 4.85 | 38 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,306 | 4.68 | 236 |
 | 61 | [DEATH STRANDING](games/d/death_stranding.md) | 5,262 | 4.77 | 105 |
-| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,050 | 4.75 | 131 |
+| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,061 | 4.75 | 131 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 4,964 | 4.34 | 728 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,911 | 4.06 | 879 |
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,740 | 4.56 | 451 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,595 | 3.98 | 896 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,581 | 4.65 | 293 |
 | 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,528 | 4.70 | 194 |
-| 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,312 | 4.70 | 194 |
+| 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,317 | 4.70 | 194 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,287 | 4.70 | 194 |
 | 71 | [Chivalry 2](games/c/chivalry_2.md) | 4,146 | 4.61 | 359 |
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,095 | 4.51 | 522 |
@@ -88,7 +88,7 @@
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,098 | 4.57 | 437 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,091 | 4.68 | 236 |
 | 88 | [Hades](games/h/hades.md) | 3,082 | 4.92 | 3 |
-| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,958 | 4.77 | 105 |
+| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,967 | 4.77 | 105 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,669 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,500 | 4.61 | 359 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,454 | 4.28 | 773 |
@@ -168,8 +168,8 @@
 | 166 | [Dark Deity](games/d/dark_deity.md) | 607 | 4.16 | 845 |
 | 167 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 605 | 4.74 | 141 |
 | 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 598 | 4.74 | 141 |
-| 169 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 587 | 4.80 | 78 |
-| 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 587 | 4.62 | 342 |
+| 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 588 | 4.62 | 342 |
+| 170 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 587 | 4.80 | 78 |
 | 171 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 571 | 4.60 | 386 |
 | 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 562 | 4.74 | 141 |
 | 173 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 236 |

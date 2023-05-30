@@ -27,7 +27,7 @@
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.06% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.03% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
@@ -40,7 +40,7 @@
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 41 | [The Complex](games/t/the_complex.md) | 3.45% |
+| 41 | [The Complex](games/t/the_complex.md) | 3.44% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.22% |
@@ -61,9 +61,9 @@
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.21% |
 | 61 | [JARS](games/j/jars.md) | 2.17% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 64 | [Bloodshore](games/b/bloodshore.md) | 1.95% |
+| 64 | [Bloodshore](games/b/bloodshore.md) | 1.94% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 65 | [Sifu](games/s/sifu.md) | 1.80% |
 | 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.72% |
@@ -136,11 +136,11 @@
 | 134 | [Despot's Game](games/d/despot's_game.md) | 0.26% |
 | 135 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 136 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
-| 137 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 137 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 137 | [Filament](games/f/filament.md) | 0.22% |
 | 137 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 141 | [Blanc](games/b/blanc.md) | 0.21% |
+| 140 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 140 | [Blanc](games/b/blanc.md) | 0.21% |
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 143 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
 | 144 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
