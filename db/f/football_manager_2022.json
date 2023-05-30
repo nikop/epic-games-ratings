@@ -4721,9 +4721,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 461737,
+  "EOS_Progressed": 461738,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8531,6 +8531,11 @@
       "Time": "2023-05-30T03:06:22.5534252+00:00",
       "NumProgressed": 461737,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-30T04:05:45.9089164+00:00",
+      "NumProgressed": 461738,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -8566,7 +8571,7 @@
       "Name": "Unbeatable!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 166225
+      "UsersEstimate": 166226
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -8726,7 +8731,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 226251
+      "UsersEstimate": 226252
     },
     {
       "ID": "achievement_club_world_cup",
@@ -8774,7 +8779,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189312
+      "UsersEstimate": 189313
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -8854,7 +8859,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 129286
+      "UsersEstimate": 129287
     },
     {
       "ID": "achievement_hattrick",
@@ -8862,7 +8867,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189312
+      "UsersEstimate": 189313
     },
     {
       "ID": "achievement_head_to_head",
@@ -9046,7 +9051,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 143138
+      "UsersEstimate": 143139
     },
     {
       "ID": "achievement_rushed_signing",
@@ -9086,7 +9091,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 217016
+      "UsersEstimate": 217017
     },
     {
       "ID": "achievement_signed_a_player",
@@ -9094,7 +9099,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 230868
+      "UsersEstimate": 230869
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -9174,7 +9179,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 230868
+      "UsersEstimate": 230869
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -9198,7 +9203,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 55408
+      "UsersEstimate": 55409
     },
     {
       "ID": "achievement_won_world_cup",
@@ -9238,7 +9243,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 143138
+      "UsersEstimate": 143139
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -9325,15 +9330,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 461737,
+      "Progressed": 461738,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-05-30T02:07:59.5962486+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:06:22.5534247+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:05:45.9089159+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.0804853+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:00:14.6983429+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:06:22.5535587+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:59:40.4437711+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:05:45.9090517+00:00"
 }

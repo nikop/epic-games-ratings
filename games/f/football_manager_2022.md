@@ -6,24 +6,24 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~230,868 |
-| First Victory | 50.00% | ~230,868 |
-| Clean Sheet | 49.00% | ~226,251 |
-| He's Sold! | 47.00% | ~217,016 |
-| I'm The Boss! | 41.00% | ~189,312 |
-| Hat-trick | 41.00% | ~189,312 |
+| He's Signed! | 50.00% | ~230,869 |
+| First Victory | 50.00% | ~230,869 |
+| Clean Sheet | 49.00% | ~226,252 |
+| He's Sold! | 47.00% | ~217,017 |
+| I'm The Boss! | 41.00% | ~189,313 |
+| Hat-trick | 41.00% | ~189,313 |
 | Thumping | 37.00% | ~170,843 |
 | Scoring Streak | 37.00% | ~170,843 |
-| Unbeatable! | 36.00% | ~166,225 |
+| Unbeatable! | 36.00% | ~166,226 |
 | Superb Dressing Room Atmosphere | 35.00% | ~161,608 |
 | Total Support | 32.00% | ~147,756 |
-| Record Signing | 31.00% | ~143,138 |
-| Millionaire's Club | 31.00% | ~143,138 |
+| Record Signing | 31.00% | ~143,139 |
+| Millionaire's Club | 31.00% | ~143,139 |
 | Team Performance | 30.00% | ~138,521 |
 | He's a Natural | 30.00% | ~138,521 |
 | Parked The Bus | 29.00% | ~133,904 |
 | Star Man | 29.00% | ~133,904 |
-| Shrewd Spender | 28.00% | ~129,286 |
+| Shrewd Spender | 28.00% | ~129,287 |
 | Attack! | 27.00% | ~124,669 |
 | You're On Fire | 26.00% | ~120,052 |
 | Tremendous Trio | 26.00% | ~120,052 |
@@ -52,7 +52,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~64,643 |
 | Window Shopping | 14.00% | ~64,643 |
 | Comeback King! | 13.00% | ~60,026 |
-| You're Up! | 12.00% | ~55,408 |
+| You're Up! | 12.00% | ~55,409 |
 | Money, Money, Money | 11.00% | ~50,791 |
 | Invincible! | 10.00% | ~46,174 |
 | Best In The World | 10.00% | ~46,174 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~462 |
 | Shoestring Budget | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,737 (Ranked 30)  
+Progressed: 461,738 (Ranked 30)  
 Completed: 18 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 18 (0.00%) (Ranked 207)
 | 2023-05-27 | 461,490 | 18 |
 | 2023-05-28 | 461,620 | 18 |
 | 2023-05-29 | 461,731 | 18 |
-| 2023-05-30 | 461,737 | 18 |
+| 2023-05-30 | 461,738 | 18 |
 ## Awards
 Max (Relaxing): 6,285  (Ranked 51)  
 Sum: 49,541 (Ranked 24)  

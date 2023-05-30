@@ -106,7 +106,7 @@
   "Tags": [],
   "EOS_Progressed": 1221,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2687,9 +2687,9 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 37
     },
     {
       "ID": "masterenchanter",
@@ -2807,9 +2807,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 110
     },
     {
       "ID": "scrollmaster",
@@ -2992,8 +2992,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:06:05.047279+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:05:30.7664538+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:58:00.9079589+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:06:05.0473673+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:57:51.6084336+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:05:30.7665331+00:00"
 }

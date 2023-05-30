@@ -8,16 +8,16 @@
 | Witch's duty | 56.00% | ~43 |
 | A good start | 55.00% | ~42 |
 | Runes collector | 49.00% | ~38 |
-| First time, yes? | 48.00% | ~37 |
+| First time, yes? | 49.00% | ~38 |
 | Kind heart | 44.00% | ~34 |
 | Skilled rider | 43.00% | ~33 |
 | Devil's dozen | 27.00% | ~21 |
-| It doesn't work like that | 21.00% | ~16 |
+| It doesn't work like that | 22.00% | ~17 |
 | A small victory | 16.00% | ~12 |
-| This is just the beginning... | 13.00% | ~10 |
+| This is just the beginning... | 14.00% | ~11 |
 | Time is on my side | 10.00% | ~8 |
-| Unstoppable Curiosity | 9.00% | ~7 |
-| Gold Digger | 6.00% | ~5 |
+| Unstoppable Curiosity | 10.00% | ~8 |
+| Gold Digger | 8.00% | ~6 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77 (Ranked 280)  

@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519632,
+  "EOS_Progressed": 1519641,
   "EOS_Completed": 615,
-  "EOS_NewPlayers": 1608,
+  "EOS_NewPlayers": 1610,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4430,6 +4430,11 @@
       "Time": "2023-05-30T03:03:41.3666884+00:00",
       "NumProgressed": 1519632,
       "NumCompleted": 615
+    },
+    {
+      "Time": "2023-05-30T04:03:32.4775449+00:00",
+      "NumProgressed": 1519641,
+      "NumCompleted": 615
     }
   ],
   "TotalAchievements": 20,
@@ -4449,7 +4454,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106374
+      "UsersEstimate": 106375
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -4489,7 +4494,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136767
+      "UsersEstimate": 136768
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -4537,7 +4542,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151963
+      "UsersEstimate": 151964
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -4600,15 +4605,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1519632,
+      "Progressed": 1519641,
       "Completed": 615
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:03:41.3666879+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:03:32.4775445+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:27.6569582+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:00:10.1754725+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:03:41.3667392+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:59:36.931482+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:03:32.4775827+00:00"
 }

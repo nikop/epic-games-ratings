@@ -16,12 +16,12 @@
 | Best Student | 18.00% | ~2 |
 | Chapter 6 | 18.00% | ~2 |
 | Ads Fan | 9.00% | ~1 |
+| Food Thief | 9.00% | ~1 |
 | Highway Survival | 9.00% | ~1 |
 | Hard To Wake Up | 9.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Chipmunk | 0.00% | ~0 |
-| Food Thief | 0.00% | ~0 |
 | Secret Locker | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |

@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 52.00% | ~1,120 |
-| Keeping it classy | 25.00% | ~538 |
+| You're free now! | 52.00% | ~1,121 |
+| Keeping it classy | 25.00% | ~539 |
 | Welcome to the family | 18.00% | ~388 |
 | The finer things in life | 16.00% | ~345 |
-| Backpacker | 12.00% | ~258 |
+| Backpacker | 12.00% | ~259 |
 | Go with the Flow | 11.00% | ~237 |
 | Plastic Surgeon | 9.00% | ~194 |
 | Keep the dream alive | 8.00% | ~172 |
@@ -24,7 +24,6 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 5.00% | ~108 |
 | Fulfilled the dream | 5.00% | ~108 |
 | G'Day Mate! | 5.00% | ~108 |
-| Globetrotter | 5.00% | ~108 |
 | NAHELL! | 5.00% | ~108 |
 | Purple passion | 5.00% | ~108 |
 | Squad goals | 5.00% | ~108 |
@@ -32,6 +31,7 @@ Number of Ratings: 111  (23.09.2022)
 | Tight lipslides | 5.00% | ~108 |
 | Commence the Hijinx! | 4.00% | ~86 |
 | DIY Boss | 4.00% | ~86 |
+| Globetrotter | 4.00% | ~86 |
 | Laid back | 4.00% | ~86 |
 | Lines for days | 4.00% | ~86 |
 | Manny Destroys All | 4.00% | ~86 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,154 (Ranked 147)  
+Progressed: 2,156 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 2,105 | 0 |
 | 2023-05-28 | 2,129 | 0 |
 | 2023-05-29 | 2,152 | 0 |
-| 2023-05-30 | 2,154 | 0 |
+| 2023-05-30 | 2,156 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 396)  
 Sum: 414 (Ranked 301)  

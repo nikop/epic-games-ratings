@@ -4,7 +4,7 @@
   "ProductSlug": "swordship-b6c7f4",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-21T16:00:00+00:00",
@@ -186,8 +186,8 @@
   "FirstSeenRating": "2023-03-31T05:57:09.580608+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.4750192+00:00",
   "LastChanged": "2023-03-31T05:57:09.5806081+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:05:44.9802236+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:05:13.4554506+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:13.2749617+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:57:17.00326+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:05:44.9802356+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:57:17.5941421+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:05:13.4554606+00:00"
 }

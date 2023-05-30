@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5952,
+  "EOS_Progressed": 5953,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1786,6 +1786,11 @@
       "Time": "2023-05-29T23:01:49.1929202+00:00",
       "NumProgressed": 5952,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-30T04:02:11.7164145+00:00",
+      "NumProgressed": 5953,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1805,7 +1810,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -1861,7 +1866,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -1885,7 +1890,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -1989,7 +1994,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2125,7 +2130,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2149,14 +2154,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5952,
+      "Progressed": 5953,
       "Completed": 8
     }
   ],
@@ -2164,8 +2169,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-29T13:02:28.4952795+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:01:17.1511661+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:02:11.716414+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:57:20.1327368+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:01:17.1512063+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:57:20.2510536+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:02:11.716476+00:00"
 }

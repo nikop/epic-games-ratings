@@ -853,9 +853,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "MQ01_2",
@@ -1086,8 +1086,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:03:44.0143213+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:03:34.6469794+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:57:11.3839173+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:03:44.014364+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:57:13.3669016+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:03:34.647012+00:00"
 }

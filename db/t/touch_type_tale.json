@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2841,
+  "EOS_Progressed": 2842,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -1539,6 +1539,11 @@
       "Time": "2023-05-30T02:14:06.0095806+00:00",
       "NumProgressed": 2841,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-30T04:05:39.8501376+00:00",
+      "NumProgressed": 2842,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1598,7 +1603,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "campaign10",
@@ -1686,7 +1691,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "campaign20",
@@ -1718,7 +1723,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "campaign6",
@@ -1734,7 +1739,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "campaign8",
@@ -1782,7 +1787,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "scenario5",
@@ -1813,7 +1818,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2841,
+      "Progressed": 2842,
       "Completed": 9
     }
   ],
@@ -1821,8 +1826,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:06:15.7461021+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:05:39.8501373+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:00:18.7317073+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:06:15.7461622+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:59:43.4867817+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:05:39.8501691+00:00"
 }

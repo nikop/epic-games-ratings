@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 885,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.96,
+  "EOS_Completed_Percentage": 3.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -721,6 +721,11 @@
       "Time": "2023-05-30T00:06:27.3368979+00:00",
       "NumProgressed": 884,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-30T04:05:16.678047+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 16,
@@ -780,7 +785,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -788,7 +793,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -796,7 +801,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -859,7 +864,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 35
     }
   ],
@@ -867,8 +872,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:05:48.8278787+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:05:16.6780465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:58:38.9484917+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:05:48.8279015+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:58:22.8597937+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:05:16.6780614+00:00"
 }

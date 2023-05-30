@@ -5,27 +5,27 @@ Rating: 4.22 (Ranked 807)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~752 |
-| Ranidaphobia | 71.00% | ~586 |
-| Aspiring Editor | 67.00% | ~553 |
-| Gun for Hire | 62.00% | ~512 |
-| I am the law! | 49.00% | ~405 |
-| Lumberjack | 31.00% | ~256 |
-| Limp Richard | 27.00% | ~223 |
-| Firestarter | 27.00% | ~223 |
-| From Darkness to Light | 27.00% | ~223 |
-| Croaked | 25.00% | ~206 |
+| First Blood | 91.00% | ~753 |
+| Ranidaphobia | 71.00% | ~588 |
+| Aspiring Editor | 67.00% | ~555 |
+| Gun for Hire | 61.00% | ~505 |
+| I am the law! | 49.00% | ~406 |
+| Lumberjack | 31.00% | ~257 |
+| Limp Richard | 27.00% | ~224 |
+| Firestarter | 27.00% | ~224 |
+| From Darkness to Light | 27.00% | ~224 |
+| Croaked | 25.00% | ~207 |
 | Editor Adept | 22.00% | ~182 |
 | Exorcist | 22.00% | ~182 |
 | Giant Killer | 19.00% | ~157 |
-| Sensei | 17.00% | ~140 |
-| The meaning of Kain | 17.00% | ~140 |
+| Sensei | 17.00% | ~141 |
+| The meaning of Kain | 17.00% | ~141 |
+| Technophobe | 13.00% | ~108 |
 | Recycler | 12.00% | ~99 |
-| Technophobe | 12.00% | ~99 |
 | Chain Killer | 11.00% | ~91 |
 | Hold The Line | 11.00% | ~91 |
-| Newtonian Knockout | 9.00% | ~74 |
-| There Can Be Only One! | 9.00% | ~74 |
+| Newtonian Knockout | 9.00% | ~75 |
+| There Can Be Only One! | 9.00% | ~75 |
 | Are you not entertained? | 8.00% | ~66 |
 | Ganglord | 8.00% | ~66 |
 | Jarhead | 8.00% | ~66 |
@@ -57,7 +57,7 @@ Rating: 4.22 (Ranked 807)
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 826 (Ranked 179)  
+Progressed: 828 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
 | 2023-05-29 | 815 | 0 |
-| 2023-05-30 | 826 | 0 |
+| 2023-05-30 | 828 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

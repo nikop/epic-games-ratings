@@ -47,10 +47,10 @@
 | You're not so Big anymore, Boi! | 21.00% | ~14 |
 | I cant stand still! | 18.00% | ~12 |
 | Just wing it! | 16.00% | ~11 |
+| Master Butcher | 15.00% | ~10 |
 | Deal with it | 15.00% | ~10 |
 | Slimy... yet satisfying | 15.00% | ~10 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~9 |
-| Master Butcher | 13.00% | ~9 |
 | I drink, but I'm not a drunk! | 12.00% | ~8 |
 | Yeehaw!!! | 10.00% | ~7 |
 | Spoiler alert! | 9.00% | ~6 |

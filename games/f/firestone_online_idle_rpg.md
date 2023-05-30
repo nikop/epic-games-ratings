@@ -27,8 +27,8 @@ Rating: 3.91 (Ranked 908)
 | Natural Talent | 11.00% | ~134 |
 | The Unstoppable | 11.00% | ~134 |
 | Superior | 10.00% | ~122 |
+| Scientist | 9.00% | ~110 |
 | Daily Quest Completionist | 8.00% | ~98 |
-| Scientist | 8.00% | ~98 |
 | Challenger | 7.00% | ~85 |
 | The power of Awakening | 7.00% | ~85 |
 | Frostfire Liberator | 6.00% | ~73 |
@@ -48,12 +48,12 @@ Rating: 3.91 (Ranked 908)
 | Ancient Knowledge | 3.00% | ~37 |
 | Background Story | 3.00% | ~37 |
 | Four Leaf Clover | 3.00% | ~37 |
+| Lock And Load | 3.00% | ~37 |
 | Master Enchanter | 3.00% | ~37 |
 | Blueprint Upgrades | 2.00% | ~24 |
 | Dragon Slayer | 2.00% | ~24 |
 | Enchanting skill | 2.00% | ~24 |
 | Engineer Mastery | 2.00% | ~24 |
-| Lock And Load | 2.00% | ~24 |
 | Sailor | 2.00% | ~24 |
 | What lies behind the bush | 2.00% | ~24 |
 | Active Member | 1.00% | ~12 |

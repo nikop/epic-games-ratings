@@ -6,10 +6,10 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,226 |
+| Genin | 10.00% | ~17,227 |
 | Thorough | 9.00% | ~15,504 |
-| A thief's beginning | 7.00% | ~12,058 |
-| Tanuki Time | 7.00% | ~12,058 |
+| A thief's beginning | 7.00% | ~12,059 |
+| Tanuki Time | 7.00% | ~12,059 |
 | Disguised | 6.00% | ~10,336 |
 | Jonin | 6.00% | ~10,336 |
 | Rescue Takuma | 6.00% | ~10,336 |
@@ -20,11 +20,11 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 5.00% | ~8,613 |
 | Mugen Unchained | 5.00% | ~8,613 |
 | Yabu | 5.00% | ~8,613 |
-| Flying Rocks | 4.00% | ~6,890 |
-| Okkoto | 4.00% | ~6,890 |
-| Prisoners | 4.00% | ~6,890 |
-| Too Early | 4.00% | ~6,890 |
-| Warzone | 4.00% | ~6,890 |
+| Flying Rocks | 4.00% | ~6,891 |
+| Okkoto | 4.00% | ~6,891 |
+| Prisoners | 4.00% | ~6,891 |
+| Too Early | 4.00% | ~6,891 |
+| Warzone | 4.00% | ~6,891 |
 | Gear up | 3.00% | ~5,168 |
 | Happy little accidents | 3.00% | ~5,168 |
 | Noboru | 3.00% | ~5,168 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~172 |
 | Release the Kraken | 0.10% | ~172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172,262 (Ranked 53)  
+Progressed: 172,269 (Ranked 53)  
 Completed: 47 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 47 (0.03%) (Ranked 185)
 | 2023-05-27 | 171,505 | 47 |
 | 2023-05-28 | 171,914 | 47 |
 | 2023-05-29 | 172,222 | 47 |
-| 2023-05-30 | 172,262 | 47 |
+| 2023-05-30 | 172,269 | 47 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,673 (Ranked 126)  

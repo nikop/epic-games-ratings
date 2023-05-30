@@ -23,10 +23,10 @@
 | Expert Survivor | 9.00% | ~1 |
 | Quadsparagus | 9.00% | ~1 |
 | 15K | 8.00% | ~5 |
+| Drinking Problem | 8.00% | ~5 |
 | Skin Of Your Teeth | 8.00% | ~5 |
 | Quit Horsin' Around | 8.00% | ~5 |
 | 10K | 8.00% | ~5 |
-| Drinking Problem | 6.00% | ~4 |
 | Perfect | 6.00% | ~1 |
 | Master Survivor | 6.00% | ~1 |
 | Summers Here | 6.00% | ~1 |

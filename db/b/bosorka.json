@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -195,17 +195,17 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 55,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -227,9 +227,9 @@
       "ID": "RUNE_CURSEDCOINS",
       "SetID": "9433p49",
       "Name": "Unstoppable Curiosity",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
@@ -243,17 +243,17 @@
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
       "SetID": "9433p49",
       "Name": "Gold Digger",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -316,8 +316,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-30T03:05:48.8287656+00:00",
+  "LastChanged_Achievements": "2023-05-30T04:05:16.6971648+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.8015132+00:00",
-  "LastUpdate_Ratings": "2023-05-30T02:57:32.511028+00:00",
-  "LastUpdate_Achievements": "2023-05-30T03:05:48.8288102+00:00"
+  "LastUpdate_Ratings": "2023-05-30T03:57:29.6984288+00:00",
+  "LastUpdate_Achievements": "2023-05-30T04:05:16.6971781+00:00"
 }
