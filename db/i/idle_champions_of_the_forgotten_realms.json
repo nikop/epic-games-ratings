@@ -4030,10 +4030,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89253,
+  "EOS_Progressed": 89259,
   "EOS_Completed": 1899,
-  "EOS_NewPlayers": 821,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 824,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8035,6 +8035,11 @@
       "Time": "2023-05-30T22:05:51.319317+00:00",
       "NumProgressed": 89253,
       "NumCompleted": 1899
+    },
+    {
+      "Time": "2023-05-30T23:06:35.1218364+00:00",
+      "NumProgressed": 89259,
+      "NumCompleted": 1899
     }
   ],
   "TotalAchievements": 493,
@@ -8804,9 +8809,9 @@
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1179",
@@ -11236,9 +11241,9 @@
       "ID": "objective_completed_76",
       "SetID": "cc37lbc",
       "Name": "Easily Distracted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_77",
@@ -11989,21 +11994,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55527,
+      "Progressed": 55533,
       "Completed": 2743
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89253,
+      "Progressed": 89259,
       "Completed": 1899
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-30T13:57:54.7211701+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:05:51.3193165+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:06:35.1218358+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:57:51.5798794+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:05:51.3216374+00:00"
+  "LastUpdate_Ratings": "2023-05-30T22:58:04.0690655+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:06:35.1246661+00:00"
 }

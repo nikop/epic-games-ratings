@@ -5,16 +5,16 @@ Rating: 3.41 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,365 |
-| Master, Commander | 20.00% | ~11,776 |
-| Hard Worker | 19.00% | ~11,187 |
-| Mechanic | 19.00% | ~11,187 |
-| Adios, Friendo | 18.00% | ~10,598 |
-| Bottom's Up | 17.00% | ~10,009 |
+| Be Seeing You | 21.00% | ~12,366 |
+| Master, Commander | 20.00% | ~11,777 |
+| Hard Worker | 19.00% | ~11,188 |
+| Mechanic | 19.00% | ~11,188 |
+| Adios, Friendo | 18.00% | ~10,599 |
+| Bottom's Up | 17.00% | ~10,010 |
 | Nice Try | 16.00% | ~9,421 |
-| Right On Target | 13.00% | ~7,654 |
+| Right On Target | 13.00% | ~7,655 |
 | Piano Man | 10.00% | ~5,888 |
-| Lazy Bones | 9.00% | ~5,299 |
+| Lazy Bones | 9.00% | ~5,300 |
 | Vinyl Vibes | 7.00% | ~4,122 |
 | Nothing Left to Say | 6.00% | ~3,533 |
 | Sniper | 6.00% | ~3,533 |
@@ -22,17 +22,17 @@ Rating: 3.41 (Ranked 930)
 | Butcher | 4.00% | ~2,355 |
 | Magnetic Miracles | 4.00% | ~2,355 |
 | Spicy | 4.00% | ~2,355 |
-| A Man Of Taste | 3.00% | ~1,766 |
-| Ace in the Hole | 3.00% | ~1,766 |
-| Fair's Fair | 3.00% | ~1,766 |
-| Hearty | 3.00% | ~1,766 |
-| Meaty | 3.00% | ~1,766 |
-| Taco Toto | 3.00% | ~1,766 |
+| A Man Of Taste | 3.00% | ~1,767 |
+| Ace in the Hole | 3.00% | ~1,767 |
+| Fair's Fair | 3.00% | ~1,767 |
+| Hearty | 3.00% | ~1,767 |
+| Meaty | 3.00% | ~1,767 |
+| Taco Toto | 3.00% | ~1,767 |
 | Audiophile | 2.00% | ~1,178 |
 | Tape Head | 1.00% | ~589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,879 (Ranked 72)  
-Completed: 490 (0.83%) (Ranked 93)  
+Progressed: 58,884 (Ranked 72)  
+Completed: 491 (0.83%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 490 (0.83%) (Ranked 93)
 | 2023-05-27 | 58,307 | 486 |
 | 2023-05-28 | 58,558 | 487 |
 | 2023-05-29 | 58,741 | 488 |
-| 2023-05-30 | 58,879 | 490 |
+| 2023-05-30 | 58,884 | 491 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

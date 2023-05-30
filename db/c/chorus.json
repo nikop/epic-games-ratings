@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 908,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -648,6 +648,11 @@
       "Time": "2023-05-30T18:05:58.7923655+00:00",
       "NumProgressed": 907,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-30T23:06:27.1333788+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -659,7 +664,7 @@
       "Name": "Demigod",
       "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "DieInPermadeath",
@@ -691,7 +696,7 @@
       "Name": "Paragon",
       "Percentage": 64,
       "XP": 70,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "GatlingVsArmor",
@@ -723,7 +728,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "MasteryOfCombat",
@@ -731,7 +736,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "MasteryOfRites",
@@ -739,7 +744,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "MasteryOfWeapons",
@@ -755,7 +760,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -763,7 +768,7 @@
       "Name": "Retaliate",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "MissionAncientRitual",
@@ -771,7 +776,7 @@
       "Name": "Power Chord",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -801,9 +806,9 @@
       "ID": "MissionEnclaveWarPreparation",
       "SetID": "a6c395p",
       "Name": "Full Arsenal",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 518
     },
     {
       "ID": "MissionEosReturn",
@@ -819,7 +824,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -859,7 +864,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -875,7 +880,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "MissionScavengingJob",
@@ -883,7 +888,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "MissionShipyard",
@@ -899,7 +904,7 @@
       "Name": "The Path Forward",
       "Percentage": 46,
       "XP": 70,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "MissionTemple",
@@ -907,7 +912,7 @@
       "Name": "Disruption",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -915,7 +920,7 @@
       "Name": "Ascension",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "MissionTheiaStep1",
@@ -947,7 +952,7 @@
       "Name": "Crash Test",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "RiteOfTheHunt",
@@ -979,7 +984,7 @@
       "Name": "Phoenix",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "VisitAllLocations",
@@ -993,24 +998,24 @@
       "ID": "WinARace",
       "SetID": "a6c395p",
       "Name": "Relentless",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 436
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 908,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:05:44.150664+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:06:27.1333781+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:59:30.7653807+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:05:44.1506956+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:00:11.720723+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:06:27.1334146+00:00"
 }

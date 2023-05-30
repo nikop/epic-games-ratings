@@ -19,6 +19,7 @@ Number of Ratings: 177  (23.09.2022)
 | IRL Let's Player | 0.30% | ~16 |
 | Inspector | 0.30% | ~16 |
 | Newcomer: Vickie | 0.30% | ~16 |
+| Social Butterfly | 0.30% | ~16 |
 | The Magic Number | 0.30% | ~16 |
 | Amy | 0.20% | ~11 |
 | Amy: Scavenger Hunt | 0.20% | ~11 |
@@ -28,7 +29,6 @@ Number of Ratings: 177  (23.09.2022)
 | Love Conquers All | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
 | Smooth Operator: Ashley | 0.20% | ~11 |
-| Social Butterfly | 0.20% | ~11 |
 | Stephanie | 0.20% | ~11 |
 | The Muse: Madison | 0.20% | ~11 |
 | The Crush | 0.20% | ~11 |

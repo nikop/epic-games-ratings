@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~179 |
 | Supply Run | 0.20% | ~179 |
 | Keep Your Distance | 0.20% | ~111 |
+| Heatwave | 0.20% | ~111 |
 | Hands Off! | 0.20% | ~111 |
 | The Dread Domain of Tovag | 0.20% | ~111 |
 | Frail Doesn't Mean Broken | 0.20% | ~111 |
@@ -82,6 +83,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~179 |
 | Constant Banditry | 0.20% | ~179 |
 | Waterdeep Detours | 0.20% | ~179 |
+| Easily Distracted | 0.20% | ~179 |
 | Underdeep Cartography | 0.20% | ~179 |
 | Overdue Rendezvous | 0.20% | ~179 |
 | How Far Away is Thay | 0.20% | ~111 |
@@ -172,7 +174,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | More Than Well Equipped | 0.10% | ~56 |
 | Return to the Tomb | 0.10% | ~56 |
 | Arcane Efforts | 0.10% | ~56 |
-| Heatwave | 0.10% | ~56 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
 | Weak Doesn't Mean Feeble | 0.10% | ~56 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~56 |
@@ -416,7 +417,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only Human | 0.10% | ~56 |
 | The Long Haul | 0.10% | ~89 |
 | Lost in the Deep | 0.10% | ~89 |
-| Easily Distracted | 0.10% | ~89 |
 | Rude Welcome | 0.10% | ~89 |
 | Moose Tracks | 0.10% | ~56 |
 | An Awakened Axe | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,253 (Ranked 61)  
+Progressed: 89,259 (Ranked 61)  
 Completed: 1,899 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 1,899 (2.13%) (Ranked 63)
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
-| 2023-05-30 | 89,253 | 1,899 |
+| 2023-05-30 | 89,259 | 1,899 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

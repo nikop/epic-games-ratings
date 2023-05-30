@@ -175,9 +175,9 @@
       "ID": "brown_nosing",
       "SetID": "202dmm8",
       "Name": "Brown nosing",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "cheat",
@@ -215,9 +215,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "just_like_me",
@@ -296,8 +296,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:05:34.6760343+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:06:15.9033238+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.1098258+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:59:34.7802664+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:05:34.6760479+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:00:16.8663806+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:06:15.9033375+00:00"
 }

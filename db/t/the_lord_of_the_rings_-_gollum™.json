@@ -2,7 +2,7 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 89,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -505,6 +505,11 @@
       "Time": "2023-05-30T21:06:00.4221364+00:00",
       "NumProgressed": 363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T23:05:52.7131+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -538,9 +543,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 215
     },
     {
       "ID": "Chapter10",
@@ -562,9 +567,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "Chapter4",
@@ -684,7 +689,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Memories",
@@ -706,7 +711,7 @@
       "ID": "NoDamage",
       "SetID": "70l3651",
       "Name": "Nervous Hands",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -770,7 +775,7 @@
       "ID": "StealFood",
       "SetID": "70l3651",
       "Name": "Ss ss ss...",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -796,21 +801,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:05:15.6476784+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:05:52.7130993+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:57:36.9080783+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:05:15.6477083+00:00"
+  "LastUpdate_Ratings": "2023-05-30T22:57:44.8642242+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:05:52.7131292+00:00"
 }

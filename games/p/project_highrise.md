@@ -27,9 +27,9 @@
 | Leveled Up Shops | 22.00% | ~41 |
 | Rehab Expert | 21.00% | ~39 |
 | Get Electrified | 21.00% | ~39 |
+| Don't Feel a Loan | 20.00% | ~37 |
 | Tasty Profits | 20.00% | ~37 |
 | Artfully Done | 19.00% | ~35 |
-| Don't Feel a Loan | 19.00% | ~35 |
 | Under One Roof | 18.00% | ~33 |
 | Cashflow Chief | 18.00% | ~33 |
 | We Don't Need No Education | 18.00% | ~33 |

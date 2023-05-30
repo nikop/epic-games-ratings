@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 361
+      "UsersEstimate": 365
     },
     {
       "ID": "CHOICES_MATTER",
@@ -369,9 +369,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 274
     },
     {
       "ID": "GOOD_KARMA",
@@ -433,9 +433,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
@@ -450,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:05:16.7086223+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:05:54.0687755+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:57:35.8740595+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:05:16.7086387+00:00"
+  "LastUpdate_Ratings": "2023-05-30T22:57:43.5405797+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:05:54.068792+00:00"
 }

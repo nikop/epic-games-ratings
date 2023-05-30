@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 909,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
@@ -2125,17 +2125,17 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 327
     },
     {
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 327
     },
     {
       "ID": "28",
@@ -2390,8 +2390,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:05:19.3187227+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:05:57.375659+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:57:21.8160276+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:05:19.3187776+00:00"
+  "LastUpdate_Ratings": "2023-05-30T22:57:25.9102721+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:05:57.375715+00:00"
 }

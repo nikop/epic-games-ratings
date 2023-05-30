@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~361 |
-| Fair Share | 71.00% | ~270 |
+| Cause and Effect | 96.00% | ~365 |
+| Fair Share | 72.00% | ~274 |
 | Even Tempered | 55.00% | ~209 |
-| Star-Crossed Lovers | 45.00% | ~171 |
+| Star-Crossed Lovers | 46.00% | ~175 |
 | Shill Bidder | 43.00% | ~163 |
 | The Delivery | 42.00% | ~160 |
 | The Frenzy | 33.00% | ~125 |

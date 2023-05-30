@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 5273,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1989,9 +1989,9 @@
       "ID": "SocialButterfly",
       "SetID": "bmkn7o4",
       "Name": "Social Butterfly",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "Stephanie",
@@ -2171,8 +2171,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:03:23.0195439+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:03:18.6717972+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-05-30T21:57:18.0040479+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:03:23.0196205+00:00"
+  "LastUpdate_Ratings": "2023-05-30T22:57:21.0057703+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:03:18.6718757+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,11 +145,11 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1224,
+  "EOS_Progressed": 1225,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.2726912+00:00",
@@ -675,6 +675,11 @@
       "Time": "2023-05-30T03:05:54.1899137+00:00",
       "NumProgressed": 1224,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-30T23:06:04.1183753+00:00",
+      "NumProgressed": 1225,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -702,7 +707,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -748,9 +753,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -876,9 +881,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -934,7 +939,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "completedStory_monarchs",
@@ -950,7 +955,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "completedStory_ulstryx",
@@ -958,7 +963,7 @@
       "Name": "Daybreak",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1133,15 +1138,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1224,
+      "Progressed": 1225,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-30T22:05:24.8353687+00:00",
+  "LastChanged_Achievements": "2023-05-30T23:06:04.1183746+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-30T22:00:01.8284497+00:00",
-  "LastUpdate_Achievements": "2023-05-30T22:05:24.8354191+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:00:49.7710155+00:00",
+  "LastUpdate_Achievements": "2023-05-30T23:06:04.118426+00:00"
 }
