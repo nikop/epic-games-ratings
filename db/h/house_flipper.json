@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 94,
@@ -1512,9 +1512,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19129,
+  "EOS_Progressed": 19130,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3227,6 +3227,11 @@
       "Time": "2023-05-30T20:05:45.1288831+00:00",
       "NumProgressed": 19129,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-30T21:06:13.7590893+00:00",
+      "NumProgressed": 19130,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3238,7 +3243,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "CarMechanic",
@@ -3270,7 +3275,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "EstateAgent",
@@ -3286,7 +3291,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17981
+      "UsersEstimate": 17982
     },
     {
       "ID": "GameOver",
@@ -3326,7 +3331,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "KnockKnock",
@@ -3421,15 +3426,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19129,
+      "Progressed": 19130,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-29T20:00:30.370932+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:45.1288826+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:13.759089+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:21.7309403+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:45.1289032+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:59:55.5738788+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:13.7591106+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2318,9 +2318,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15082,
+  "EOS_Progressed": 15084,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4463,6 +4463,11 @@
       "Time": "2023-05-30T20:06:01.559304+00:00",
       "NumProgressed": 15082,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-30T21:06:30.198182+00:00",
+      "NumProgressed": 15084,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4586,7 +4591,7 @@
       "Name": "Ruined Armory",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "WinNearBandit",
@@ -4650,7 +4655,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "WinNearHaunted",
@@ -4720,9 +4725,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 151
     },
     {
       "ID": "WinNearWatchtower",
@@ -4873,15 +4878,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15082,
+      "Progressed": 15084,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-28T15:00:05.6433519+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:06:01.5593033+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:30.1981813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:49.0155658+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:06:01.5593448+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:00:25.0994815+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:30.1982747+00:00"
 }

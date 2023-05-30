@@ -26,7 +26,7 @@
 | Patience | 10.00% | ~12 |
 | Master Tactician | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 262)  
+Progressed: 123 (Ranked 263)  
 Completed: 4 (3.25%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |

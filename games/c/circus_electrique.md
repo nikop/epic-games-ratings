@@ -7,11 +7,11 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 40.00% | ~166 |
+| Grand Opening | 36.00% | ~149 |
 | Circus Electrique Proudly Presents... | 36.00% | ~149 |
-| Grand Opening | 35.00% | ~145 |
 | Path of Learning | 35.00% | ~145 |
 | Built in a Day | 29.00% | ~120 |
-| More Brain Than Brawn | 25.00% | ~104 |
+| More Brain Than Brawn | 26.00% | ~108 |
 | Perfect Illusion | 20.00% | ~83 |
 | Hundred Percent First | 20.00% | ~83 |
 | Dirty Dozen | 17.00% | ~71 |

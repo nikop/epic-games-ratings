@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3229,
+  "EOS_Progressed": 3230,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3215,6 +3215,11 @@
       "Time": "2023-05-30T20:06:01.0652962+00:00",
       "NumProgressed": 3229,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T21:06:29.7752681+00:00",
+      "NumProgressed": 3230,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3266,7 +3271,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -3274,7 +3279,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -3322,7 +3327,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3346,7 +3351,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3370,7 +3375,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -3386,7 +3391,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3545,15 +3550,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3229,
+      "Progressed": 3230,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:06:01.0652959+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:29.7752677+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:59.2335132+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:06:01.0653304+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:00:33.7847428+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:29.7753099+00:00"
 }

@@ -43,12 +43,12 @@
 | Soul Slayer | 30.00% | ~273 |
 | The Downfall | 30.00% | ~273 |
 | All Heart | 30.00% | ~273 |
+| Extraordinary! | 30.00% | ~273 |
 | Final Showdown | 30.00% | ~273 |
 | Spot of Tea? | 30.00% | ~273 |
 | Going Home | 30.00% | ~273 |
-| Extraordinary! | 29.00% | ~264 |
 | Mirror, Mirror | 28.00% | ~255 |
-| Flower Power | 24.00% | ~218 |
+| Flower Power | 25.00% | ~227 |
 | Shopping Spree! | 23.00% | ~209 |
 | Crowned | 21.00% | ~191 |
 | Max Level! | 13.00% | ~118 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 909 (Ranked 175)  
-Completed: 61 (6.71%) (Ranked 25)  
+Completed: 62 (6.82%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,7 +93,7 @@ Completed: 61 (6.71%) (Ranked 25)
 | 2023-05-27 | 876 | 60 |
 | 2023-05-28 | 894 | 61 |
 | 2023-05-29 | 906 | 61 |
-| 2023-05-30 | 909 | 61 |
+| 2023-05-30 | 909 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

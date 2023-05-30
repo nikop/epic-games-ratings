@@ -1,25 +1,25 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 237)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,237 |
-| That's a Grand Army | 8.00% | ~3,766 |
-| That is mine! | 8.00% | ~3,766 |
-| Victorious! | 8.00% | ~3,766 |
-| Brothers in Arms | 6.00% | ~2,825 |
-| That's a Grand Navy | 6.00% | ~2,825 |
-| Seriously?! | 6.00% | ~2,825 |
-| For the Glory | 5.00% | ~2,354 |
-| Cold War | 4.00% | ~1,883 |
-| True Catholic | 4.00% | ~1,883 |
-| Defender of the Faith | 3.00% | ~1,412 |
-| It's all about the money | 3.00% | ~1,412 |
-| Respected | 3.00% | ~1,412 |
-| Truly Divine Ruler | 3.00% | ~1,412 |
+| Until death do us apart | 9.00% | ~4,240 |
+| That's a Grand Army | 8.00% | ~3,768 |
+| That is mine! | 8.00% | ~3,768 |
+| Victorious! | 8.00% | ~3,768 |
+| Brothers in Arms | 6.00% | ~2,826 |
+| That's a Grand Navy | 6.00% | ~2,826 |
+| Seriously?! | 6.00% | ~2,826 |
+| For the Glory | 5.00% | ~2,355 |
+| Cold War | 4.00% | ~1,884 |
+| True Catholic | 4.00% | ~1,884 |
+| Defender of the Faith | 3.00% | ~1,413 |
+| It's all about the money | 3.00% | ~1,413 |
+| Respected | 3.00% | ~1,413 |
+| Truly Divine Ruler | 3.00% | ~1,413 |
 | Agressive Expander | 2.00% | ~942 |
 | Blockader | 2.00% | ~942 |
 | Combined Arms | 2.00% | ~942 |
@@ -44,17 +44,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~377 |
 | Down Under | 0.70% | ~330 |
 | Trustworthy | 0.70% | ~330 |
-| Electable! | 0.60% | ~282 |
-| Time Bandit | 0.60% | ~282 |
-| All belongs to Mother Russia | 0.50% | ~235 |
-| At every continent | 0.50% | ~235 |
-| Early-Modern Warfare | 0.50% | ~235 |
-| One Family to Rule them All | 0.50% | ~235 |
-| Populists in Government | 0.50% | ~235 |
-| The pen is mightier than the sword | 0.50% | ~235 |
-| This is My Faith | 0.50% | ~235 |
-| Trophy Hunter | 0.50% | ~235 |
-| Voting Streak | 0.50% | ~235 |
+| Electable! | 0.60% | ~283 |
+| Time Bandit | 0.60% | ~283 |
+| All belongs to Mother Russia | 0.50% | ~236 |
+| At every continent | 0.50% | ~236 |
+| Early-Modern Warfare | 0.50% | ~236 |
+| One Family to Rule them All | 0.50% | ~236 |
+| Populists in Government | 0.50% | ~236 |
+| The pen is mightier than the sword | 0.50% | ~236 |
+| This is My Faith | 0.50% | ~236 |
+| Trophy Hunter | 0.50% | ~236 |
+| Voting Streak | 0.50% | ~236 |
 | Absolutely | 0.40% | ~188 |
 | Bleed Them Dry | 0.40% | ~188 |
 | Dude, Where's my Boat? | 0.40% | ~188 |
@@ -65,6 +65,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.40% | ~188 |
 | Tear Down This Wall | 0.40% | ~188 |
 | The Continuation of Diplomacy | 0.40% | ~188 |
+| A Decent Reserve | 0.30% | ~141 |
 | A Pile of Gold | 0.30% | ~141 |
 | All Your Trade Are Belong to Us | 0.30% | ~141 |
 | Four For Trade | 0.30% | ~141 |
@@ -80,7 +81,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.30% | ~141 |
 | Vasa or Wettin? | 0.30% | ~141 |
 | Wonderful | 0.30% | ~141 |
-| A Decent Reserve | 0.20% | ~94 |
 | A Protected Market | 0.20% | ~94 |
 | AAA Credit | 0.20% | ~94 |
 | Fine Financials | 0.20% | ~94 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,078 (Ranked 78)  
+Progressed: 47,106 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 45,190 | 0 |
 | 2023-05-28 | 45,938 | 0 |
 | 2023-05-29 | 46,581 | 0 |
-| 2023-05-30 | 47,078 | 0 |
+| 2023-05-30 | 47,106 | 0 |
 ## Awards
 Max (Educational): 5,313  (Ranked 60)  
 Sum: 43,946 (Ranked 27)  

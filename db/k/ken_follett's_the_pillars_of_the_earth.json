@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12854,
+  "EOS_Progressed": 12855,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3064,6 +3064,11 @@
       "Time": "2023-05-30T20:05:32.6459909+00:00",
       "NumProgressed": 12854,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-05-30T21:06:02.3554806+00:00",
+      "NumProgressed": 12855,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 41,
@@ -3115,7 +3120,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4370
+      "UsersEstimate": 4371
     },
     {
       "ID": "tpote_achievement_15",
@@ -3259,7 +3264,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "tpote_achievement_31",
@@ -3395,22 +3400,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4627
+      "UsersEstimate": 4628
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12854,
+      "Progressed": 12855,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:32.6459904+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:02.3554803+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:47.8206165+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:32.6460296+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:00:23.2639612+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:02.3555203+00:00"
 }

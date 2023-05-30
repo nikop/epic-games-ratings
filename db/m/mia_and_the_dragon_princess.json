@@ -2,9 +2,9 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -251,6 +251,11 @@
       "Time": "2023-05-27T21:00:18.5806157+00:00",
       "NumProgressed": 45,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T21:03:18.9980044+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -260,7 +265,7 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -268,7 +273,7 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -276,7 +281,7 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -284,7 +289,7 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -292,7 +297,7 @@
       "ID": "codebreaker",
       "SetID": "5anb57n",
       "Name": "Codebreaker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -316,7 +321,7 @@
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -324,7 +329,7 @@
       "ID": "flying_high",
       "SetID": "5anb57n",
       "Name": "Flying High",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -348,7 +353,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -372,7 +377,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -380,7 +385,7 @@
       "ID": "set_sail",
       "SetID": "5anb57n",
       "Name": "Set Sail",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
       "UsersEstimate": 8
     },
@@ -405,14 +410,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:02:36.8657835+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:03:18.9980041+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:50.1252712+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:58:11.3027333+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:02:36.8657944+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:58:44.3073109+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:03:18.9980171+00:00"
 }

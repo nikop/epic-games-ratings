@@ -2,12 +2,12 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 807,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -15,11 +15,17 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-05-29T20:58:20.2954549+00:00",
       "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-30T20:58:55.5657961+00:00",
+      "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -28,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 871,
+  "EOS_Progressed": 872,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 758,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -833,6 +839,11 @@
       "Time": "2023-05-30T20:00:29.222381+00:00",
       "NumProgressed": 871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T21:01:04.2277079+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -850,9 +861,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 87
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -860,7 +871,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ATTENBOROUGH",
@@ -922,9 +933,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 244
     },
     {
       "ID": "CRUELTY",
@@ -986,9 +997,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 209
     },
     {
       "ID": "ENDGAME",
@@ -1002,9 +1013,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 218
     },
     {
       "ID": "EXPERIENCED",
@@ -1018,9 +1029,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 253
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1028,7 +1039,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1076,7 +1087,7 @@
       "Name": "Gun for Hire",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1092,7 +1103,7 @@
       "Name": "I am the law!",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "INFILTRATOR",
@@ -1148,7 +1159,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "RECYCLER",
@@ -1178,9 +1189,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 166
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1251,16 +1262,16 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 871,
+      "Progressed": 872,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged": "2023-05-29T20:58:20.2954547+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:00:29.2223805+00:00",
+  "LastChanged": "2023-05-30T20:58:55.5657959+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:01:04.2277076+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:58:22.6141288+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:00:29.2224246+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:58:55.5657964+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:01:04.2277561+00:00"
 }

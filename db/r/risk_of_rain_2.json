@@ -2,7 +2,7 @@
   "ID": "0dfcaeede0214b80b597f08fd7d64b1b",
   "Name": "Risk of Rain 2",
   "ProductSlug": "risk-of-rain-2",
-  "Ranking_Rating": 38,
+  "Ranking_Rating": 47,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 425,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 1310,
   "RatingHistory": [
     {
@@ -1464,6 +1464,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 2254,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2023-05-30T20:59:47.2045121+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2254,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
@@ -1555,8 +1561,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-05-29T20:59:22.3037935+00:00",
+  "LastChanged": "2023-05-30T20:59:47.204512+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.151396+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:13.6699333+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:04:47.208487+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:59:47.2045124+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:05:17.8661804+00:00"
 }

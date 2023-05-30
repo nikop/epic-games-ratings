@@ -2,12 +2,12 @@
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
-  "Ranking_Rating": 48,
+  "Ranking_Rating": 47,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5080,
+  "EOS_Progressed": 5082,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -395,6 +395,11 @@
       "Time": "2023-05-30T19:06:22.2747456+00:00",
       "NumProgressed": 5080,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-30T21:06:30.4446003+00:00",
+      "NumProgressed": 5082,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -430,7 +435,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -438,7 +443,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -462,7 +467,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -478,7 +483,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -510,7 +515,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -534,7 +539,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4980
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -542,7 +547,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -558,7 +563,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -582,7 +587,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -598,7 +603,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -614,7 +619,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3964
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -630,7 +635,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -638,7 +643,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -646,7 +651,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -654,7 +659,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -678,7 +683,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -694,7 +699,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4980
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -750,7 +755,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -790,22 +795,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3607
+      "UsersEstimate": 3608
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5080,
+      "Progressed": 5082,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:06:01.8242936+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:30.4445998+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:26.530118+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:53.4117697+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:06:01.8243277+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:00:27.6695743+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:30.4446424+00:00"
 }

@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.30% | ~268 |
 | Beast Mode | 0.30% | ~268 |
 | Terror in the Dark | 0.30% | ~268 |
+| A Mysterious Summons | 0.30% | ~268 |
 | Unearthed Evil | 0.30% | ~268 |
 | The Crumbling Temple | 0.30% | ~268 |
 | Mad Cow Disease | 0.30% | ~268 |
@@ -53,7 +54,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~111 |
 | The Forbidden City | 0.20% | ~178 |
 | Low Initiative | 0.20% | ~178 |
-| A Mysterious Summons | 0.20% | ~178 |
 | Street War | 0.20% | ~178 |
 | Building Trust | 0.20% | ~178 |
 | March of the Undead | 0.20% | ~178 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,242 (Ranked 61)  
+Progressed: 89,249 (Ranked 61)  
 Completed: 1,899 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 1,899 (2.13%) (Ranked 63)
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
-| 2023-05-30 | 89,242 | 1,899 |
+| 2023-05-30 | 89,249 | 1,899 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

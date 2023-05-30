@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 909,
-  "EOS_Completed": 61,
-  "EOS_NewPlayers": 76,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.71,
+  "EOS_Completed": 62,
+  "EOS_NewPlayers": 71,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1967,6 +1967,11 @@
       "Time": "2023-05-30T14:05:20.8984037+00:00",
       "NumProgressed": 909,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-05-30T21:06:04.3171546+00:00",
+      "NumProgressed": 909,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 50,
@@ -2288,17 +2293,17 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 273
     },
     {
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 227
     },
     {
       "ID": "47",
@@ -2378,15 +2383,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 909,
-      "Completed": 61
+      "Completed": 62
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:34.5688035+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:04.3171542+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:57:37.9772942+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:34.5688477+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:57:46.7124124+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:04.3172+00:00"
 }

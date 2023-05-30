@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -883,9 +883,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "MQ01_2",
@@ -1116,8 +1116,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:03:34.0340297+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:04:15.8802824+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:57:28.4827004+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:03:34.034053+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:57:27.6525188+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:04:15.8803366+00:00"
 }

@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 2450,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1927,9 +1927,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 710
     },
     {
       "ID": "Ach022",
@@ -2183,9 +2183,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1054
     },
     {
       "ID": "Ach054",
@@ -2270,8 +2270,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-27T21:58:32.6719245+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:51.064149+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:19.9802841+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:15.1250502+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:58:36.2572004+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:51.0642013+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:59:08.9510663+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:19.9803471+00:00"
 }

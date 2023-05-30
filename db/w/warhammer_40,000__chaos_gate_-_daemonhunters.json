@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2785,
+  "EOS_Progressed": 2789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1367,6 +1367,11 @@
       "Time": "2023-05-30T20:05:59.3858964+00:00",
       "NumProgressed": 2785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T21:06:28.1931015+00:00",
+      "NumProgressed": 2789,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1394,7 +1399,7 @@
       "Name": "Look Over There!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "BloodAndIron",
@@ -1466,7 +1471,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1530,7 +1535,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1546,7 +1551,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "Kills_Bleed",
@@ -1570,7 +1575,7 @@
       "Name": "Executioner",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Kills_Exterminator",
@@ -1602,7 +1607,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "Kills_Streak",
@@ -1610,7 +1615,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Kills_Vakir",
@@ -1626,7 +1631,7 @@
       "Name": "An Ill Omen",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1642,7 +1647,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1650,7 +1655,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1658,7 +1663,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MasterOfTheForge",
@@ -1746,7 +1751,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1802,7 +1807,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1818,7 +1823,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "SkilledKnight",
@@ -1849,21 +1854,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2785,
+      "Progressed": 2789,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2785,
+      "Progressed": 2789,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:59.3858958+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:28.1931011+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:58:41.6003872+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:59.3859417+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:59:14.7314023+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:28.1931568+00:00"
 }

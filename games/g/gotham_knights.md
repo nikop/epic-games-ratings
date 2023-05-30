@@ -10,6 +10,7 @@ Rating: 4.17 (Ranked 840)
 | Loose Ends | 2.00% | ~1,258 |
 | The Batman Family | 1.00% | ~629 |
 | Something in the Clay | 1.00% | ~629 |
+| The Show Mud Go On | 1.00% | ~629 |
 | To the Victor Go the Spoils | 1.00% | ~629 |
 | Quartzer Life Crisis | 1.00% | ~629 |
 | Snow Problem | 1.00% | ~629 |
@@ -21,7 +22,6 @@ Rating: 4.17 (Ranked 840)
 | Lock and Key | 1.00% | ~629 |
 | Bad Apples in Every Orchard | 1.00% | ~629 |
 | Protector of Gotham | 0.90% | ~566 |
-| The Show Mud Go On | 0.90% | ~566 |
 | From Inside Gotham's Walls | 0.90% | ~566 |
 | Rock and a Hard Place | 0.80% | ~503 |
 | Not On My Watch | 0.80% | ~503 |
@@ -30,10 +30,10 @@ Rating: 4.17 (Ranked 840)
 | Universal Health Scare | 0.80% | ~503 |
 | Voiceless | 0.80% | ~503 |
 | Seeking Asylum | 0.80% | ~503 |
+| Gotham Knight | 0.80% | ~503 |
 | End of an Era | 0.70% | ~440 |
 | In Your Element | 0.70% | ~440 |
 | Bulldozed | 0.70% | ~440 |
-| Gotham Knight | 0.70% | ~440 |
 | Drone You Out | 0.60% | ~377 |
 | Gotham City Confidential | 0.60% | ~377 |
 | Out of Their League | 0.50% | ~314 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,886 (Ranked 70)  
+Progressed: 62,899 (Ranked 70)  
 Completed: 91 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
-| 2023-05-30 | 62,886 | 91 |
+| 2023-05-30 | 62,899 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,263  (Ranked 98)  
 Sum: 3,749 (Ranked 138)  

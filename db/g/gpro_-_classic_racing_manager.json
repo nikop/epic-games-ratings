@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -261,6 +261,11 @@
       "Time": "2023-05-30T10:04:11.9142541+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T21:04:53.2641486+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -270,9 +275,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -334,15 +339,15 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "76k7b7p",
       "Name": "Amateur newbie",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -350,7 +355,7 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "76k7b7p",
       "Name": "Pro newbie",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -374,7 +379,7 @@
       "ID": "ACHIEVEMENT_183",
       "SetID": "76k7b7p",
       "Name": "Monster Amateur car",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -408,13 +413,13 @@
       "Name": "Amateur hitchhiker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_189",
       "SetID": "76k7b7p",
       "Name": "Pro hitchhiker",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -424,7 +429,7 @@
       "Name": "Wannabe",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -480,7 +485,7 @@
       "Name": "Loyalty",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_198",
@@ -488,7 +493,7 @@
       "Name": "Hero",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -510,7 +515,7 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -566,7 +571,7 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "76k7b7p",
       "Name": "Amateur wannabe",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -648,7 +653,7 @@
       "Name": "Drama queen",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_223",
@@ -656,7 +661,7 @@
       "Name": "Mr. Whiting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_224",
@@ -726,7 +731,7 @@
       "ID": "ACHIEVEMENT_233",
       "SetID": "76k7b7p",
       "Name": "Knockout Amateur",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -774,15 +779,15 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_27",
       "SetID": "76k7b7p",
       "Name": "No brakes Amateur",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -902,7 +907,7 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "76k7b7p",
       "Name": "First Amateur taste",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -950,7 +955,7 @@
       "ID": "ACHIEVEMENT_304",
       "SetID": "76k7b7p",
       "Name": "Addict",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -958,7 +963,7 @@
       "ID": "ACHIEVEMENT_305",
       "SetID": "76k7b7p",
       "Name": "Shepherd",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1000,7 +1005,7 @@
       "Name": "Hattrick",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_311",
@@ -1110,7 +1115,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "76k7b7p",
       "Name": "Amateur hattrick",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1208,7 +1213,7 @@
       "Name": "Tutorial master",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_353",
@@ -1392,7 +1397,7 @@
       "Name": "Photo shoot",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -1400,7 +1405,7 @@
       "Name": "Weatherman",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_77",
@@ -1462,7 +1467,7 @@
       "ID": "ACHIEVEMENT_85",
       "SetID": "76k7b7p",
       "Name": "Untouchable",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1494,7 +1499,7 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "76k7b7p",
       "Name": "Amateur photo shoot",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1510,7 +1515,7 @@
       "ID": "ACHIEVEMENT_91",
       "SetID": "76k7b7p",
       "Name": "On the top",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1567,14 +1572,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:04:32.1370597+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:04:53.2641482+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:05.1482704+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:57:23.5403819+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:04:32.1373313+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:57:19.9331446+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:04:53.264481+00:00"
 }

@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1894,
+  "EOS_Progressed": 1901,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1966,6 +1966,11 @@
       "Time": "2023-05-30T20:05:44.2172465+00:00",
       "NumProgressed": 1894,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T21:06:12.9429255+00:00",
+      "NumProgressed": 1901,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2057,7 +2062,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2145,7 +2150,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2185,7 +2190,7 @@
       "Name": "Lord of War",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2201,7 +2206,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2225,7 +2230,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2289,7 +2294,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2313,7 +2318,7 @@
       "Name": "Change the Channel",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2337,7 +2342,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -2495,17 +2500,17 @@
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
       "SetID": "83mdf7p",
       "Name": "If You Go Down To The Woods Today",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
       "SetID": "83mdf7p",
       "Name": "Fight Another Day",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -2544,13 +2549,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1845,
+      "Progressed": 1852,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1894,
+      "Progressed": 1901,
       "Completed": 2
     }
   ],
@@ -2558,8 +2563,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:44.217246+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:12.9429251+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T20:00:18.9340916+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:44.217307+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:00:52.5086631+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:12.9429994+00:00"
 }

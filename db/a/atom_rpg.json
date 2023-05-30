@@ -346,9 +346,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 872,
+  "EOS_Progressed": 873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -946,6 +946,11 @@
       "Time": "2023-05-30T20:05:55.3358212+00:00",
       "NumProgressed": 872,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T21:06:24.1571774+00:00",
+      "NumProgressed": 873,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1013,7 +1018,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "EXPERT_1",
@@ -1085,7 +1090,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1109,7 +1114,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1181,7 +1186,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "SECRET_ROOM",
@@ -1227,9 +1232,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 297
     },
     {
       "ID": "WISHMASTER_1",
@@ -1244,15 +1249,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 872,
+      "Progressed": 873,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-30T06:00:15.8196801+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:55.3358205+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:24.1571771+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:57.9152559+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:55.3358458+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:00:32.3105703+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:24.1572052+00:00"
 }

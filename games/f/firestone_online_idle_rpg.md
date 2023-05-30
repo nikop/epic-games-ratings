@@ -7,7 +7,7 @@ Rating: 3.91 (Ranked 908)
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,152 |
 | World Map | 80.00% | ~981 |
-| Temple of Eternals | 56.00% | ~687 |
+| Temple of Eternals | 57.00% | ~699 |
 | Prestigious | 53.00% | ~650 |
 | Fellowship Power | 40.00% | ~490 |
 | Guild Power | 24.00% | ~294 |
@@ -40,13 +40,13 @@ Rating: 3.91 (Ranked 908)
 | Mastery | 5.00% | ~61 |
 | The Expeditioner | 5.00% | ~61 |
 | Ancient Knowledge | 4.00% | ~49 |
+| Background Story | 4.00% | ~49 |
 | Here We Go Again | 4.00% | ~49 |
 | How Do You Turn This On? | 4.00% | ~49 |
 | Missions Dedication | 4.00% | ~49 |
 | The father of Dragons | 4.00% | ~49 |
 | Trader | 4.00% | ~49 |
 | Weekly Quest Completionist | 4.00% | ~49 |
-| Background Story | 3.00% | ~37 |
 | Four Leaf Clover | 3.00% | ~37 |
 | Lock And Load | 3.00% | ~37 |
 | Master Enchanter | 3.00% | ~37 |

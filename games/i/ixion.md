@@ -9,9 +9,9 @@ Rating: 4.56 (Ranked 452)
 | Sputnik 2049 | 10.00% | ~230 |
 | Without Breaking Some Eggs... | 9.00% | ~207 |
 | Infinite Growth... | 9.00% | ~207 |
+| A Thousand Strong | 6.00% | ~138 |
 | Ready for a New World | 6.00% | ~138 |
 | Space Society | 5.00% | ~115 |
-| A Thousand Strong | 5.00% | ~115 |
 | Breaking Protocol | 5.00% | ~115 |
 | Ain't Nobody Got Time for That | 5.00% | ~115 |
 | Guy de Borderlands | 4.00% | ~92 |
@@ -40,9 +40,9 @@ Rating: 4.56 (Ranked 452)
 | Pulsar Disciple | 0.80% | ~18 |
 | Mutual Loyalty | 0.70% | ~16 |
 | Sustainable Energy | 0.70% | ~16 |
+| Praise the Hull! | 0.70% | ~16 |
 | Pedal to the Metal | 0.70% | ~16 |
 | Catastrophe Avoided | 0.60% | ~14 |
-| Praise the Hull! | 0.60% | ~14 |
 | You Had One Job... | 0.60% | ~14 |
 | Space Greenhouse | 0.50% | ~12 |
 | Gregor Spinoza | 0.40% | ~9 |

@@ -11,11 +11,11 @@
 | The Brass Boss | 57.00% | ~296 |
 | Honest Mistake | 55.00% | ~286 |
 | No, Thanks! | 53.00% | ~276 |
-| Time Flies | 51.00% | ~265 |
+| Time Flies | 52.00% | ~270 |
 | The Prince in Heels | 51.00% | ~265 |
 | The Harder They Fall | 49.00% | ~255 |
+| Fast Learner | 49.00% | ~255 |
 | Right On Time | 48.00% | ~250 |
-| Fast Learner | 48.00% | ~250 |
 | Immaculate Aim | 47.00% | ~244 |
 | Make Up For Lost Time | 46.00% | ~239 |
 | Breaking Down Barriers | 43.00% | ~224 |
@@ -29,21 +29,21 @@
 | Good Neighbor | 29.00% | ~151 |
 | Street Style | 28.00% | ~146 |
 | The Loose Cannon | 27.00% | ~140 |
+| The Family Fortune | 23.00% | ~120 |
 | The Man Who Shattered Time | 22.00% | ~114 |
-| The Family Fortune | 22.00% | ~114 |
-| Whiz Kid | 21.00% | ~109 |
+| Whiz Kid | 22.00% | ~114 |
 | Sump Explorer | 21.00% | ~109 |
 | Ask Questions Later | 21.00% | ~109 |
 | Chaincrawler Explorer | 20.00% | ~104 |
 | Syron for Hope | 20.00% | ~104 |
 | Factorywood Explorer | 19.00% | ~99 |
-| Fairgrounds Explorer | 18.00% | ~94 |
+| Fairgrounds Explorer | 19.00% | ~99 |
 | Theater Explorer | 15.00% | ~78 |
 | Cultivair Explorer | 14.00% | ~73 |
 | Corin Goes Home | 12.00% | ~62 |
+| Sartorialist | 12.00% | ~62 |
 | Entresol Explorer | 12.00% | ~62 |
 | Rungs Was Right | 12.00% | ~62 |
-| Sartorialist | 11.00% | ~57 |
 | Clovemary for Remembering | 10.00% | ~52 |
 | Hexlock for Protection | 9.00% | ~47 |
 | Golem Hunter | 8.00% | ~42 |

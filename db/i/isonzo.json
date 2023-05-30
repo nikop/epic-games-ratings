@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5960,
+  "EOS_Progressed": 5961,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1822,6 +1822,11 @@
       "Time": "2023-05-30T18:03:15.087086+00:00",
       "NumProgressed": 5960,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-30T21:02:25.876995+00:00",
+      "NumProgressed": 5961,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1945,7 +1950,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1961,7 +1966,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -2025,7 +2030,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2121,7 +2126,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -2161,7 +2166,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2185,14 +2190,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5960,
+      "Progressed": 5961,
       "Completed": 8
     }
   ],
@@ -2200,8 +2205,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-30T13:05:00.9198627+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:02:23.2158097+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:02:25.8769947+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:57:35.3991475+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:02:23.2158421+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:57:36.903738+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:02:25.8770355+00:00"
 }

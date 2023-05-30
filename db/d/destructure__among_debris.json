@@ -2,7 +2,7 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 90,
@@ -629,9 +629,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "easy_victory",
@@ -725,9 +725,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "scrap_collector",
@@ -814,8 +814,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:00:48.160824+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:02:11.9929125+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:47.9228402+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:00:48.1608442+00:00"
+  "LastUpdate_Ratings": "2023-05-30T21:00:23.3870548+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:02:11.9931231+00:00"
 }

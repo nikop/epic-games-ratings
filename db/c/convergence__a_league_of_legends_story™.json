@@ -747,9 +747,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "CosmeticProgress1",
@@ -795,9 +795,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -835,9 +835,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 114
     },
     {
       "ID": "GrindingTime1",
@@ -923,9 +923,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 270
     },
     {
       "ID": "ParryBoss",
@@ -1011,9 +1011,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 255
     },
     {
       "ID": "SpeedRun",
@@ -1099,9 +1099,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
@@ -1114,8 +1114,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:04:58.2366716+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:05:28.8463851+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:21.4318056+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:04:58.2367119+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:59:55.3203911+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:05:28.8465003+00:00"
 }

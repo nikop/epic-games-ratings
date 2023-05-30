@@ -9,7 +9,7 @@
 | Fashionista | 44.00% | ~38 |
 | Irrigation not irritation | 41.00% | ~35 |
 | Graduated | 38.00% | ~33 |
-| Night Shift | 24.00% | ~21 |
+| Night Shift | 26.00% | ~22 |
 | It's about the journey | 14.00% | ~12 |
 | C'who? | 12.00% | ~10 |
 | Shine bright | 10.00% | ~9 |

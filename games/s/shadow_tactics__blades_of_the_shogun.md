@@ -39,19 +39,19 @@ Number of Ratings: 495  (23.09.2022)
 | Old Man | 1.00% | ~1,725 |
 | The End | 1.00% | ~1,725 |
 | Undeserved Honor | 0.80% | ~1,380 |
-| High Five the Moon | 0.70% | ~1,207 |
-| When Cut Across the Neck | 0.70% | ~1,207 |
+| High Five the Moon | 0.70% | ~1,208 |
+| When Cut Across the Neck | 0.70% | ~1,208 |
 | The Cave | 0.60% | ~1,035 |
 | Merciful | 0.40% | ~690 |
 | Time Paradox | 0.40% | ~690 |
-| Five Shadows | 0.30% | ~517 |
-| Chicken Dinner | 0.10% | ~172 |
-| Complete Mastery | 0.10% | ~172 |
-| Mimimi | 0.10% | ~172 |
-| Praise the Shogun | 0.10% | ~172 |
-| Release the Kraken | 0.10% | ~172 |
+| Five Shadows | 0.30% | ~518 |
+| Chicken Dinner | 0.10% | ~173 |
+| Complete Mastery | 0.10% | ~173 |
+| Mimimi | 0.10% | ~173 |
+| Praise the Shogun | 0.10% | ~173 |
+| Release the Kraken | 0.10% | ~173 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172,497 (Ranked 53)  
+Progressed: 172,504 (Ranked 53)  
 Completed: 47 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 47 (0.03%) (Ranked 185)
 | 2023-05-27 | 171,505 | 47 |
 | 2023-05-28 | 171,914 | 47 |
 | 2023-05-29 | 172,222 | 47 |
-| 2023-05-30 | 172,497 | 47 |
+| 2023-05-30 | 172,504 | 47 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,673 (Ranked 126)  

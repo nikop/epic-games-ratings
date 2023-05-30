@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -500,6 +500,11 @@
       "Time": "2023-05-30T18:05:29.6659475+00:00",
       "NumProgressed": 362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T21:06:00.4221364+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -511,7 +516,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BreakLegs",
@@ -591,7 +596,7 @@
       "Name": "Good as Fish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Chapter8",
@@ -599,7 +604,7 @@
       "Name": "Her Eyes",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Chapter9",
@@ -615,7 +620,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Collectibles2",
@@ -679,7 +684,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Memories",
@@ -695,7 +700,7 @@
       "Name": "Murderer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NoDamage",
@@ -783,7 +788,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WelcomeToMordor",
@@ -798,14 +803,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:30.6341064+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:00.4221361+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:57:54.3359726+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:30.6341346+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:58:18.8013773+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:00.4221634+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -317,9 +317,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -622,8 +622,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:54.1341541+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:23.1377368+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:58:56.2140869+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:54.1341874+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:59:28.2635831+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:23.1377848+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -923,9 +923,9 @@
       "ID": "Game_Over",
       "SetID": "85nb4h3",
       "Name": "Game Over",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 67
+      "UsersEstimate": 77
     },
     {
       "ID": "Grenadier",
@@ -1067,8 +1067,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:05:53.1944042+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:06:22.1294847+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:59:12.0107477+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:05:53.1944245+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:59:45.4631247+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:06:22.129508+00:00"
 }

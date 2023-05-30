@@ -19,7 +19,7 @@ Rating: 4.88 (Ranked 19)
 | Uh, they were broken when I got here | 47.00% | ~1,152 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,127 |
 | Kissing the sky! | 45.00% | ~1,102 |
-| Does that say weakpoint? | 42.00% | ~1,029 |
+| Does that say weakpoint? | 43.00% | ~1,054 |
 | Whoa! There's ANOTHER health bar!? | 41.00% | ~1,004 |
 | The Negotiator | 39.00% | ~956 |
 | You must like calling me in, Chai | 34.00% | ~833 |
@@ -28,7 +28,7 @@ Rating: 4.88 (Ranked 19)
 | Time to pay up! | 31.00% | ~760 |
 | Perfecter Parry-er! | 30.00% | ~735 |
 | Who's the boss now? | 29.00% | ~710 |
-| I have to read these things? | 28.00% | ~686 |
+| I have to read these things? | 29.00% | ~710 |
 | I look cool. But I can look COOLER. | 28.00% | ~686 |
 | There's such a thing as TOO helpful | 22.00% | ~539 |
 | That's a lot of junk metal… | 20.00% | ~490 |

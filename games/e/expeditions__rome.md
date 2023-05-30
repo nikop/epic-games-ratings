@@ -1,7 +1,7 @@
 # Expeditions: Rome
 [Store](https://store.epicgames.com/en-US/p/expeditions-rome)  
 [View Rawdata](../../db/e/expeditions__rome.json)  
-Rating: 4.65 (Ranked 293)  
+Rating: 4.64 (Ranked 313)  
 Number of Ratings: 68  (23.09.2022)  
 ## Awards
 Max (Character Customization): 46  (Ranked 399)  
@@ -62,3 +62,4 @@ Diff (max vs sum): -41
 | 2023-03-31 | 4.64 | - | 45 | 45 |
 | 2023-05-01 | 4.65 | - | 45 | 45 |
 | 2023-05-18 | 4.65 | - | 46 | 46 |
+| 2023-05-30 | 4.64 | - | 46 | 46 |

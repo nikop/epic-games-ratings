@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1284,9 +1284,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "TrattoriaSet",
@@ -1357,8 +1357,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:03:10.5886304+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:03:22.4191347+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:58:27.1874521+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:03:10.5886601+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:58:59.9357704+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:03:22.4191687+00:00"
 }

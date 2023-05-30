@@ -5,21 +5,21 @@ Rating: 4.49 (Ranked 558)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,307 |
-| Advancement | 73.00% | ~16,388 |
-| Meticulously Efficient | 64.00% | ~14,368 |
-| Discovery | 62.00% | ~13,919 |
-| Swift Rift Removers | 56.00% | ~12,572 |
+| Stylish | 86.00% | ~19,308 |
+| Advancement | 73.00% | ~16,389 |
+| Meticulously Efficient | 64.00% | ~14,369 |
+| Discovery | 62.00% | ~13,920 |
+| Swift Rift Removers | 56.00% | ~12,573 |
 | Fully Upgraded | 55.00% | ~12,348 |
-| Cultured | 53.00% | ~11,898 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,674 |
-| Vaporous Expansion | 49.00% | ~11,000 |
-| Teamwork | 45.00% | ~10,102 |
+| Cultured | 53.00% | ~11,899 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,675 |
+| Vaporous Expansion | 49.00% | ~11,001 |
+| Teamwork | 45.00% | ~10,103 |
 | There you are! | 44.00% | ~9,878 |
-| Clutch Capture | 41.00% | ~9,204 |
+| Clutch Capture | 41.00% | ~9,205 |
 | Back Off | 36.00% | ~8,082 |
-| Daily Dose | 35.00% | ~7,857 |
-| Welcome to the Crew | 33.00% | ~7,408 |
+| Daily Dose | 35.00% | ~7,858 |
+| Welcome to the Crew | 33.00% | ~7,409 |
 | Solo Capture | 32.00% | ~7,184 |
 | Ghostbuster In Training | 31.00% | ~6,960 |
 | Icing on the Cake | 30.00% | ~6,735 |
@@ -30,8 +30,8 @@ Rating: 4.49 (Ranked 558)
 | Summoner | 27.00% | ~6,062 |
 | Pesky Jerks | 26.00% | ~5,837 |
 | Right back at ya | 26.00% | ~5,837 |
-| Animated | 25.00% | ~5,612 |
-| Skilled | 25.00% | ~5,612 |
+| Animated | 25.00% | ~5,613 |
+| Skilled | 25.00% | ~5,613 |
 | Collector | 24.00% | ~5,388 |
 | Ectoplasmic Entity | 24.00% | ~5,388 |
 | Rift Destroyer | 20.00% | ~4,490 |
@@ -44,8 +44,8 @@ Rating: 4.49 (Ranked 558)
 | Liability | 10.00% | ~2,245 |
 | Rivalry | 10.00% | ~2,245 |
 | Whoopsie | 10.00% | ~2,245 |
-| Fragile Panes | 9.00% | ~2,020 |
-| Surprise! | 9.00% | ~2,020 |
+| Fragile Panes | 9.00% | ~2,021 |
+| Surprise! | 9.00% | ~2,021 |
 | Master Collector | 7.00% | ~1,572 |
 | Rift Seeker | 7.00% | ~1,572 |
 | Therapeutic | 7.00% | ~1,572 |
@@ -54,10 +54,10 @@ Rating: 4.49 (Ranked 558)
 | Line em' up | 2.00% | ~449 |
 | Little Help Here | 2.00% | ~449 |
 | Ultimate Defense | 2.00% | ~449 |
-| I don't need these | 1.00% | ~224 |
-| Mycophile | 1.00% | ~224 |
+| I don't need these | 1.00% | ~225 |
+| Mycophile | 1.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,450 (Ranked 92)  
+Progressed: 22,451 (Ranked 92)  
 Completed: 40 (0.18%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 40 (0.18%) (Ranked 144)
 | 2023-05-27 | 22,302 | 40 |
 | 2023-05-28 | 22,376 | 40 |
 | 2023-05-29 | 22,425 | 40 |
-| 2023-05-30 | 22,450 | 40 |
+| 2023-05-30 | 22,451 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,087 (Ranked 183)  

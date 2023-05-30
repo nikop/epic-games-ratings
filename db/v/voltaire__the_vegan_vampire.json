@@ -264,9 +264,9 @@
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KILL_YEETUS",
@@ -369,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-30T20:02:33.1873514+00:00",
+  "LastChanged_Achievements": "2023-05-30T21:03:15.3857101+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:19.674512+00:00",
-  "LastUpdate_Ratings": "2023-05-30T19:57:40.1164502+00:00",
-  "LastUpdate_Achievements": "2023-05-30T20:02:33.1873697+00:00"
+  "LastUpdate_Ratings": "2023-05-30T20:57:53.4734494+00:00",
+  "LastUpdate_Achievements": "2023-05-30T21:03:15.3857322+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.45 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 23.00% | ~436 |
-| Confirming Suspicions | 18.00% | ~341 |
-| The Kraken Wakes | 14.00% | ~265 |
-| It's Starting to Crack | 11.00% | ~208 |
-| Lord of War | 10.00% | ~189 |
-| Resourceful | 9.00% | ~170 |
-| Change the Channel | 9.00% | ~170 |
+| Meeting Resistance | 23.00% | ~437 |
+| Confirming Suspicions | 18.00% | ~342 |
+| The Kraken Wakes | 14.00% | ~266 |
+| It's Starting to Crack | 11.00% | ~209 |
+| Lord of War | 10.00% | ~190 |
+| Resourceful | 9.00% | ~171 |
+| Change the Channel | 9.00% | ~171 |
 | Taking it back | 8.00% | ~152 |
 | Enemy at the Gates | 7.00% | ~133 |
 | Organ Grinder | 7.00% | ~133 |
@@ -48,7 +48,7 @@ Rating: 4.45 (Ranked 607)
 | Ghost of Falaise | 0.70% | ~13 |
 | From Paris with Love | 0.60% | ~11 |
 | Tinkerer | 0.60% | ~11 |
-| Don't hold your breath | 0.50% | ~9 |
+| Don't hold your breath | 0.50% | ~10 |
 | Last Resort | 0.50% | ~9 |
 | Burn after reading | 0.40% | ~8 |
 | Souvenir hunter | 0.40% | ~8 |
@@ -56,12 +56,12 @@ Rating: 4.45 (Ranked 607)
 | Up close and personal | 0.40% | ~8 |
 | Shoot for the Moon | 0.30% | ~6 |
 | Can't Outrun A Bullet | 0.30% | ~6 |
+| If You Go Down To The Woods Today | 0.30% | ~6 |
+| Fight Another Day | 0.30% | ~6 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~4 |
 | Reich To The Point | 0.20% | ~4 |
 | Covert Elimination | 0.20% | ~4 |
-| If You Go Down To The Woods Today | 0.20% | ~4 |
-| Fight Another Day | 0.20% | ~4 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
 | Out of Scope | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 607)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,894 (Ranked 151)  
+Progressed: 1,901 (Ranked 151)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
-| 2023-05-30 | 1,894 | 2 |
+| 2023-05-30 | 1,901 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
