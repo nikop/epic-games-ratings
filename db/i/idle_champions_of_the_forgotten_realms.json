@@ -4030,10 +4030,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89215,
+  "EOS_Progressed": 89218,
   "EOS_Completed": 1898,
-  "EOS_NewPlayers": 818,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 813,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8000,6 +8000,11 @@
       "Time": "2023-05-30T15:07:28.6883915+00:00",
       "NumProgressed": 89215,
       "NumCompleted": 1898
+    },
+    {
+      "Time": "2023-05-30T16:07:05.4436359+00:00",
+      "NumProgressed": 89218,
+      "NumCompleted": 1898
     }
   ],
   "TotalAchievements": 493,
@@ -9017,9 +9022,9 @@
       "ID": "objective_completed_1325",
       "SetID": "415jc5c",
       "Name": "The Minions of Endelyn Moongrave",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1326",
@@ -11954,21 +11959,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55489,
+      "Progressed": 55492,
       "Completed": 2742
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89215,
+      "Progressed": 89218,
       "Completed": 1898
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-30T13:57:54.7211701+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:07:28.688391+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:07:05.4436355+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:58:29.7580901+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:07:28.6911627+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:58:13.1124632+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:07:05.4457592+00:00"
 }

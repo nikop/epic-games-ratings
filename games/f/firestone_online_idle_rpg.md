@@ -22,11 +22,11 @@ Rating: 3.91 (Ranked 908)
 | Dragon Master | 12.00% | ~147 |
 | Enlightenment | 12.00% | ~147 |
 | Lieutenant | 12.00% | ~147 |
-| Milestone collector | 11.00% | ~135 |
+| Milestone collector | 12.00% | ~147 |
 | Mysterious Rock | 11.00% | ~135 |
 | Natural Talent | 11.00% | ~135 |
+| Superior | 11.00% | ~135 |
 | The Unstoppable | 11.00% | ~135 |
-| Superior | 10.00% | ~122 |
 | Scientist | 9.00% | ~110 |
 | Daily Quest Completionist | 8.00% | ~98 |
 | Challenger | 7.00% | ~86 |

@@ -1,7 +1,7 @@
 # Tower of Fantasy
 [Store](https://store.epicgames.com/en-US/p/tower-of-fantasy)  
 [View Rawdata](../../db/t/tower_of_fantasy.json)  
-Rating: 4.35 (Ranked 721)  
+Rating: 4.30 (Ranked 758)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.35 (Ranked 721)
 | 2023-05-27 | 4.43 | 0 | 0 |
 | 2023-05-28 | 4.37 | 0 | 0 |
 | 2023-05-29 | 4.35 | 0 | 0 |
+| 2023-05-30 | 4.30 | 0 | 0 |

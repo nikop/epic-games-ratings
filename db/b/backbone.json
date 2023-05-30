@@ -2,7 +2,7 @@
   "ID": "09d8b60b834a47d48fb0aba85a6d6a2e",
   "Name": "Backbone",
   "ProductSlug": "backbone",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 740,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 425,
@@ -112,6 +112,6 @@
   "FirstSeenRating": "2022-10-07T12:31:08.1263406+00:00",
   "LastChanged": "2023-03-31T05:57:39.4337449+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:51.4497907+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:01:39.9494021+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:06:31.9640674+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:01:06.3532063+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:13.0835575+00:00"
 }

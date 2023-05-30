@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2291,
+  "EOS_Progressed": 2294,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1718,6 +1718,11 @@
       "Time": "2023-05-30T15:06:54.7463877+00:00",
       "NumProgressed": 2291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T16:06:34.5533854+00:00",
+      "NumProgressed": 2294,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1929,7 +1934,7 @@
       "Name": "Ready for a New World",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_BASE_35",
@@ -2184,13 +2189,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 472,
+      "Progressed": 475,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2291,
+      "Progressed": 2294,
       "Completed": 0
     }
   ],
@@ -2198,8 +2203,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-26T15:59:06.5118285+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:06:54.7463872+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:34.5533851+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.5657521+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:58:58.1374044+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:06:54.7464567+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:58:39.9328409+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:34.5534364+00:00"
 }

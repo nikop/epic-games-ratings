@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2726,9 +2726,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 147
     },
     {
       "ID": "minerclicker",
@@ -2846,9 +2846,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 135
     },
     {
       "ID": "templeofeternals",
@@ -3007,8 +3007,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:07:05.5167799+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:44.4336363+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:58:27.0443796+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:07:05.5168691+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:58:10.660661+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:44.433704+00:00"
 }

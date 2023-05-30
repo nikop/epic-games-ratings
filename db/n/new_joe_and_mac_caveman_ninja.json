@@ -3,8 +3,8 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -83,6 +83,11 @@
       "Time": "2023-05-29T14:06:02.8244188+00:00",
       "NumProgressed": 164,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T16:06:28.0122918+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -102,7 +107,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "03",
@@ -110,7 +115,7 @@
       "Name": "In the treetops.",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "04",
@@ -166,7 +171,7 @@
       "Name": "The mountain of peril.",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "11",
@@ -213,7 +218,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 2
     }
   ],
@@ -221,8 +226,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:06:47.9030735+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:28.0122916+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.3434495+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:57:53.1624136+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:06:47.903086+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:57:38.598028+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:28.0123003+00:00"
 }

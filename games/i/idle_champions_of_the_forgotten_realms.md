@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.20% | ~111 |
 | Bully for Vecna | 0.20% | ~111 |
 | Homecoming | 0.20% | ~178 |
+| The Minions of Endelyn Moongrave | 0.20% | ~111 |
 | No One Can Hear You Scream | 0.20% | ~111 |
 | Welcome to the Rock | 0.20% | ~111 |
 | Beast Mode | 0.20% | ~178 |
@@ -187,7 +188,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.10% | ~89 |
 | Lobsterfolk Assault | 0.10% | ~89 |
 | Taking Responsibility | 0.10% | ~89 |
-| The Minions of Endelyn Moongrave | 0.10% | ~55 |
 | Between a Brigganock and a Hard Place | 0.10% | ~55 |
 | Love Unsoiled | 0.10% | ~55 |
 | The Play's the Thing! | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,215 (Ranked 61)  
+Progressed: 89,218 (Ranked 61)  
 Completed: 1,898 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 1,898 (2.13%) (Ranked 63)
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
-| 2023-05-30 | 89,215 | 1,898 |
+| 2023-05-30 | 89,218 | 1,898 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

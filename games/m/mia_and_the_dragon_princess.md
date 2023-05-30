@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Glass Act | 36.00% | ~16 |
-| Tour Guide Extraordinaire | 31.00% | ~14 |
+| Tour Guide Extraordinaire | 33.00% | ~15 |
 | Relight my Cannon | 29.00% | ~13 |
 | Puzzle Prodigy | 22.00% | ~10 |
 | Snitch | 22.00% | ~10 |

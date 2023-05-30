@@ -4854,11 +4854,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 10383,
       "NumberOfAwardsMax": 1327
+    },
+    {
+      "Time": "2023-05-30T15:57:44.4622603+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10388,
+      "NumberOfAwardsMax": 1332
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10383,
-  "NumberOfAwardsMax": 1327,
+  "NumberOfAwards": 10388,
+  "NumberOfAwardsMax": 1332,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -4901,7 +4907,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1327
+      "Count": 1332
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -4939,8 +4945,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-05-30T14:57:59.18472+00:00",
+  "LastChanged": "2023-05-30T15:57:44.46226+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:29.265348+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:57:59.1847208+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:02:48.4446906+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:57:44.4622611+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:02:47.2033064+00:00"
 }

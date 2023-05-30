@@ -2,7 +2,7 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 96,
@@ -428,7 +428,7 @@
   ],
   "EOS_Progressed": 18752,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2298,9 +2298,9 @@
       "ID": "ach.120.simplification",
       "SetID": "384aaja",
       "Name": "Simplification",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6188
+      "UsersEstimate": 6376
     },
     {
       "ID": "ach.130.minimalist",
@@ -2515,8 +2515,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-27T17:59:22.3817223+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:06:59.4923184+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:39.0077035+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:52.3008567+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:00:08.0675065+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:06:59.492354+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:59:44.1550892+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:39.0077332+00:00"
 }

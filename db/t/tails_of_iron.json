@@ -986,9 +986,9 @@
       "ID": "CompleteArenaFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Arena Faction",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 228
     },
     {
       "ID": "CompleteChefsBook",
@@ -1185,8 +1185,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:02:39.8938606+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:02:39.6062827+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:58:53.0536527+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:02:39.8938895+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:58:35.7891348+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:02:39.6063067+00:00"
 }

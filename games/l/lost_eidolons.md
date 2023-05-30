@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.31 (Ranked 754)  
+Rating: 4.31 (Ranked 753)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.31 (Ranked 754)
 | Ready to Learn | 62.00% | ~573 |
 | Monster Hunter | 53.00% | ~490 |
 | Earning Trust | 50.00% | ~462 |
-| Monster Slayer | 28.00% | ~259 |
+| Monster Slayer | 29.00% | ~268 |
 | Awakening | 22.00% | ~203 |
 | Huntmaster | 21.00% | ~194 |
 | Complete the sidequest 'Malice and Greed' | 17.00% | ~157 |

@@ -2,7 +2,7 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 233,
@@ -502,9 +502,9 @@
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Blacksmith",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -695,8 +695,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:06:43.1906721+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:23.7715249+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:11.1073335+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:59:01.1327023+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:06:43.1906966+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:58:42.3900808+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:23.7715431+00:00"
 }

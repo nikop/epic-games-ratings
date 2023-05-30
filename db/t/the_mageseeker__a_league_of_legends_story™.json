@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2220,
+  "EOS_Progressed": 2221,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2056,6 +2056,11 @@
       "Time": "2023-05-30T11:05:12.9271239+00:00",
       "NumProgressed": 2220,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T16:06:37.4432722+00:00",
+      "NumProgressed": 2221,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2115,7 +2120,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2131,7 +2136,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2147,7 +2152,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2179,7 +2184,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -2203,7 +2208,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2243,7 +2248,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2251,7 +2256,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2283,23 +2288,23 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 733
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Clarion Cove",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 755
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2371,7 +2376,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2411,7 +2416,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2443,7 +2448,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2483,14 +2488,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2220,
+      "Progressed": 2221,
       "Completed": 1
     }
   ],
@@ -2498,8 +2503,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:06:57.8669173+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:37.4432718+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:57:57.6403301+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:06:57.8669738+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:57:42.9026971+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:37.4433179+00:00"
 }

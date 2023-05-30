@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3224,
+  "EOS_Progressed": 3225,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3195,6 +3195,11 @@
       "Time": "2023-05-30T15:07:20.135357+00:00",
       "NumProgressed": 3224,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T16:06:58.2554092+00:00",
+      "NumProgressed": 3225,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3270,7 +3275,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -3294,7 +3299,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -3302,7 +3307,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3366,7 +3371,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3494,7 +3499,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -3502,7 +3507,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -3525,15 +3530,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3224,
+      "Progressed": 3225,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:07:20.1353562+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:58.2554085+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:01:10.0304483+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:07:20.1354038+00:00"
+  "LastUpdate_Ratings": "2023-05-30T16:00:40.2268078+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:58.2554426+00:00"
 }

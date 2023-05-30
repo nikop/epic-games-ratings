@@ -29,12 +29,12 @@ Number of Ratings: 58  (23.09.2022)
 | Origin | 40.00% | ~362 |
 | It Was An Accident | 40.00% | ~362 |
 | Set in Motion | 39.00% | ~353 |
-| In the Eye of the Storm | 37.00% | ~335 |
+| In the Eye of the Storm | 38.00% | ~344 |
 | The Crimson Void | 35.00% | ~317 |
 | The Nameless Dread | 34.00% | ~308 |
+| Mastery of Weapons | 30.00% | ~272 |
 | Time to Spear | 30.00% | ~272 |
 | Disciple | 30.00% | ~272 |
-| Mastery of Weapons | 29.00% | ~262 |
 | Two Birds | 26.00% | ~235 |
 | Ghosts | 25.00% | ~226 |
 | Uneasy Alliance | 24.00% | ~217 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,7 +522,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2778,
+  "EOS_Progressed": 2779,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -1347,6 +1347,11 @@
       "Time": "2023-05-30T15:07:17.3987985+00:00",
       "NumProgressed": 2778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T16:06:55.7458451+00:00",
+      "NumProgressed": 2779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1534,7 +1539,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1574,7 +1579,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Kills_Knockback",
@@ -1590,7 +1595,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "Kills_Vakir",
@@ -1718,7 +1723,7 @@
       "Name": "Just a Scratch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "NexusCompleted",
@@ -1829,21 +1834,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2778,
+      "Progressed": 2779,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2778,
+      "Progressed": 2779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:07:17.3987978+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:55.7458448+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:59:15.0030276+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:07:17.398871+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:58:54.1353324+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:55.7458905+00:00"
 }

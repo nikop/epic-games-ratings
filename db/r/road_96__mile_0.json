@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -404,6 +404,11 @@
       "Time": "2023-05-30T13:10:30.1674665+00:00",
       "NumProgressed": 211,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T16:03:27.0156092+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -501,9 +506,9 @@
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "scoreminrankrp3",
@@ -534,7 +539,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 2
     }
   ],
@@ -542,8 +547,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:03:29.6933467+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:03:27.0156087+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-30T14:59:26.6080928+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:03:29.6933623+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:59:04.9662348+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:03:27.0156202+00:00"
 }

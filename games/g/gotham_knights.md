@@ -24,13 +24,13 @@ Rating: 4.17 (Ranked 840)
 | The Show Mud Go On | 0.90% | ~566 |
 | From Inside Gotham's Walls | 0.90% | ~566 |
 | Rock and a Hard Place | 0.80% | ~503 |
+| Not On My Watch | 0.80% | ~503 |
 | Shock Til They Drop | 0.80% | ~503 |
 | Cooldown | 0.80% | ~503 |
 | Universal Health Scare | 0.80% | ~503 |
 | Voiceless | 0.80% | ~503 |
 | End of an Era | 0.70% | ~440 |
 | In Your Element | 0.70% | ~440 |
-| Not On My Watch | 0.70% | ~440 |
 | Bulldozed | 0.70% | ~440 |
 | Seeking Asylum | 0.70% | ~440 |
 | Gotham Knight | 0.70% | ~440 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,869 (Ranked 70)  
+Progressed: 62,873 (Ranked 70)  
 Completed: 91 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
-| 2023-05-30 | 62,869 | 91 |
+| 2023-05-30 | 62,873 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,263  (Ranked 98)  
 Sum: 3,749 (Ranked 138)  

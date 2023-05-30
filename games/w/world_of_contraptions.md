@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Starting to take notes | 54.00% | ~21 |
+| Starting to take notes | 56.00% | ~22 |
 | The first of many | 49.00% | ~19 |
 | Graduated in contraptions | 13.00% | ~5 |
 | Easy group | 0.00% | ~0 |

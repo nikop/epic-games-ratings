@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 486)  
+Rating: 4.54 (Ranked 485)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,7 +17,7 @@ Rating: 4.54 (Ranked 486)
 | Oil Baron | 42.00% | ~7,876 |
 | Loads-a-Money | 42.00% | ~7,876 |
 | Helper of the People | 39.00% | ~7,313 |
-| Simplification | 33.00% | ~6,188 |
+| Simplification | 34.00% | ~6,376 |
 | Box of Trains | 33.00% | ~6,188 |
 | Let There be Light | 32.00% | ~6,001 |
 | Hot Water | 30.00% | ~5,626 |

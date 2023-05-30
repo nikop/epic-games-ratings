@@ -4,7 +4,7 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.12,
+  "EOS_Completed_Percentage": 4.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-05-29T05:05:17.1647662+00:00",
       "NumProgressed": 170,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-30T16:06:26.3278917+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -133,9 +138,9 @@
       "ID": "ACH_DAWN_OF_VICTORY",
       "SetID": "1p69hf1",
       "Name": "Dawn of Victory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -151,7 +156,7 @@
       "Name": "Medal of honor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -175,7 +180,7 @@
       "Name": "Life matters",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_LIGHT",
@@ -191,7 +196,7 @@
       "Name": "Love and peace",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_MERCILESS_CALAMITY",
@@ -207,7 +212,7 @@
       "Name": "My turn",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_PANDA_SO_CUTE",
@@ -231,7 +236,7 @@
       "Name": "Team assemble",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_RESCUE_WITH_CAUTION",
@@ -247,7 +252,7 @@
       "Name": "Resource manager",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SAFETY_FIRST",
@@ -255,7 +260,7 @@
       "Name": "Safety first",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_SPEEDY",
@@ -263,14 +268,14 @@
       "Name": "ASAP",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 7
     }
   ],
@@ -278,8 +283,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-05-30T15:06:46.0076903+00:00",
+  "LastChanged_Achievements": "2023-05-30T16:06:26.3278912+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:55.4617057+00:00",
-  "LastUpdate_Ratings": "2023-05-30T15:00:11.7036916+00:00",
-  "LastUpdate_Achievements": "2023-05-30T15:06:46.0077062+00:00"
+  "LastUpdate_Ratings": "2023-05-30T15:59:47.658155+00:00",
+  "LastUpdate_Achievements": "2023-05-30T16:06:26.3279029+00:00"
 }

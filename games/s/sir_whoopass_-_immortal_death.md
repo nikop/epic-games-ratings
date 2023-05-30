@@ -42,12 +42,12 @@
 | A Megapint...? | 27.00% | ~18 |
 | Ripe Meat Off The Bone! | 24.00% | ~16 |
 | Hovering around | 24.00% | ~16 |
+| You're not so Big anymore, Boi! | 22.00% | ~15 |
 | Your daily dose of Vitamin C. | 22.00% | ~15 |
 | Kleptomaniac | 22.00% | ~15 |
-| You're not so Big anymore, Boi! | 21.00% | ~14 |
-| I cant stand still! | 18.00% | ~12 |
+| I cant stand still! | 19.00% | ~13 |
+| Master Butcher | 16.00% | ~11 |
 | Just wing it! | 16.00% | ~11 |
-| Master Butcher | 15.00% | ~10 |
 | Deal with it | 15.00% | ~10 |
 | Slimy... yet satisfying | 15.00% | ~10 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~9 |
@@ -55,8 +55,8 @@
 | Yeehaw!!! | 10.00% | ~7 |
 | Spoiler alert! | 9.00% | ~6 |
 | You're looking mozzare-hella good! | 9.00% | ~6 |
+| Ancient Ruins of Moist Overhangs | 9.00% | ~6 |
 | Scrambled Eggs | 9.00% | ~6 |
-| Ancient Ruins of Moist Overhangs | 7.00% | ~5 |
 | Timber! | 6.00% | ~4 |
 | Grumpy Immortal | 6.00% | ~4 |
 | Free Of Chains | 6.00% | ~4 |
@@ -64,6 +64,7 @@
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~3 |
 | My name is Whoopass, SIR Whoopass! | 4.00% | ~3 |
 | European karaoke king | 4.00% | ~3 |
+| Ancient Ruins of Empty Echoes | 3.00% | ~2 |
 | Ancient Ruins of Misplaced Belongings | 3.00% | ~2 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
@@ -72,7 +73,6 @@
 | I want to throw up! | 3.00% | ~2 |
 | Out of bounds | 3.00% | ~2 |
 | Fifty Shades of Gruyere | 1.00% | ~1 |
-| Ancient Ruins of Empty Echoes | 1.00% | ~1 |
 | Ancient Ruins of Vitamin D Addition | 1.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 1.00% | ~1 |
 | Ancient Ruins of Poor Intrusion Prevention | 1.00% | ~1 |

@@ -33,6 +33,7 @@
 | This Is My Boomstick | 5.00% | ~1 |
 | Easy Peasy | 5.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |
+| Carrocketeer | 3.00% | ~2 |
 | Pyromaniac | 3.00% | ~0 |
 | Chick Magnet | 2.00% | ~1 |
 | Getting Started | 2.00% | ~1 |
@@ -41,7 +42,6 @@
 | Pro Pyromancer | 2.00% | ~1 |
 | Pork Chop Express | 2.00% | ~1 |
 | Eggtraordinary | 2.00% | ~1 |
-| Carrocketeer | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
 | Berry Loved | 2.00% | ~0 |
 | Carrocket From Above | 2.00% | ~0 |
