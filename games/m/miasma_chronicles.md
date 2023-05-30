@@ -6,15 +6,15 @@ Rating: 4.22 (Ranked 807)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 91.00% | ~768 |
-| Ranidaphobia | 70.00% | ~591 |
+| Ranidaphobia | 71.00% | ~599 |
 | Aspiring Editor | 67.00% | ~565 |
-| Gun for Hire | 61.00% | ~515 |
+| Gun for Hire | 62.00% | ~523 |
 | I am the law! | 50.00% | ~422 |
-| Lumberjack | 31.00% | ~262 |
+| Lumberjack | 32.00% | ~270 |
 | From Darkness to Light | 28.00% | ~236 |
+| Croaked | 27.00% | ~228 |
 | Limp Richard | 27.00% | ~228 |
 | Firestarter | 27.00% | ~228 |
-| Croaked | 26.00% | ~219 |
 | Exorcist | 23.00% | ~194 |
 | Editor Adept | 22.00% | ~186 |
 | Giant Killer | 19.00% | ~160 |
@@ -30,9 +30,9 @@ Rating: 4.22 (Ranked 807)
 | Jarhead | 9.00% | ~76 |
 | There Can Be Only One! | 9.00% | ~76 |
 | Infiltrator | 8.00% | ~68 |
+| Pushing Daisy | 8.00% | ~68 |
 | Experienced | 7.00% | ~59 |
-| Pushing Daisy | 7.00% | ~59 |
-| Ruthless | 6.00% | ~51 |
+| Ruthless | 7.00% | ~59 |
 | The Watchers | 5.00% | ~42 |
 | Chain Reaction | 4.00% | ~34 |
 | Commando | 4.00% | ~34 |
@@ -47,7 +47,7 @@ Rating: 4.22 (Ranked 807)
 | Cruelty | 1.00% | ~8 |
 | Dressed To Kill | 0.70% | ~6 |
 | Five Finger Deathcount | 0.50% | ~4 |
-| Fratricide | 0.20% | ~2 |
+| Fratricide | 0.40% | ~3 |
 | Goaaaaal! | 0.20% | ~2 |
 | Alpha Editor | 0.10% | ~1 |
 | QA Has Suffered! (Redux) | 0.10% | ~1 |

@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 35,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -173,6 +173,11 @@
       "Time": "2023-05-28T13:08:17.0249309+00:00",
       "NumProgressed": 34,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T12:06:27.1734669+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -182,7 +187,7 @@
       "ID": "DD_complete",
       "SetID": "3b8n56h",
       "Name": "The Bodyguard",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -190,7 +195,7 @@
       "ID": "GL_complete",
       "SetID": "3b8n56h",
       "Name": "The Apprentice",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -198,7 +203,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -214,7 +219,7 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -222,7 +227,7 @@
       "ID": "LW_complete",
       "SetID": "3b8n56h",
       "Name": "The Familiar",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -230,7 +235,7 @@
       "ID": "MC_complete",
       "SetID": "3b8n56h",
       "Name": "The Steed",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -246,7 +251,7 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -270,7 +275,7 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -294,7 +299,7 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -318,7 +323,7 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -342,7 +347,7 @@
       "ID": "StrangerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "A Strange Proposition",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -374,7 +379,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 15
     },
@@ -406,7 +411,7 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -422,7 +427,7 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -503,7 +508,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 35,
       "Completed": 0
     }
   ],
@@ -511,8 +516,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:05:08.3899254+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:06:27.1734664+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.9841997+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:57:09.1462948+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:05:08.3899528+00:00"
+  "LastUpdate_Ratings": "2023-05-30T11:57:52.1575778+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:06:27.173491+00:00"
 }

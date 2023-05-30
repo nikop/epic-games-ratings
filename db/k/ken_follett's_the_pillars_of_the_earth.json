@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12836,
+  "EOS_Progressed": 12837,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
@@ -3019,6 +3019,11 @@
       "Time": "2023-05-30T11:05:01.3713916+00:00",
       "NumProgressed": 12836,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-30T12:06:18.8948442+00:00",
+      "NumProgressed": 12837,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 41,
@@ -3070,7 +3075,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4364
+      "UsersEstimate": 4365
     },
     {
       "ID": "tpote_achievement_15",
@@ -3222,7 +3227,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "tpote_achievement_32",
@@ -3230,7 +3235,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "tpote_achievement_33",
@@ -3294,7 +3299,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5391
+      "UsersEstimate": 5392
     },
     {
       "ID": "tpote_achievement_40",
@@ -3357,15 +3362,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12836,
+      "Progressed": 12837,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:05:01.3713909+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:06:18.8948437+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:59:27.965269+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:05:01.3714278+00:00"
+  "LastUpdate_Ratings": "2023-05-30T12:00:46.171818+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:06:18.8948823+00:00"
 }

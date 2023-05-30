@@ -887,9 +887,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 228
     },
     {
       "ID": "CRUELTY",
@@ -1007,9 +1007,9 @@
       "ID": "FRATRICIDE",
       "SetID": "9a4jnji",
       "Name": "Fratricide",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FROM_DARKNESS",
@@ -1039,9 +1039,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 523
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1071,9 +1071,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 270
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1095,9 +1095,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1111,9 +1111,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 599
     },
     {
       "ID": "RECYCLER",
@@ -1127,9 +1127,9 @@
       "ID": "RUTHLESS",
       "SetID": "9a4jnji",
       "Name": "Ruthless",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "SAVIOR",
@@ -1224,8 +1224,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-29T20:58:20.2954547+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:00:42.9588044+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:03:11.5557308+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:58:03.3250074+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:00:42.958842+00:00"
+  "LastUpdate_Ratings": "2023-05-30T11:59:00.8474114+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:03:11.555772+00:00"
 }

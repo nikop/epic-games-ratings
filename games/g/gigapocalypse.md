@@ -28,19 +28,19 @@
 | Godlike Power | 29.00% | ~37 |
 | Happy Little Home | 29.00% | ~37 |
 | Final Evolution | 29.00% | ~37 |
-| You Shall Not Pass | 26.00% | ~34 |
+| You Shall Not Pass | 27.00% | ~35 |
+| Mommy's Very Angry | 26.00% | ~34 |
 | Animal Lover | 26.00% | ~34 |
 | Undying Skin | 26.00% | ~34 |
 | Fight Me! | 26.00% | ~34 |
 | Supremacy | 26.00% | ~34 |
-| Mommy's Very Angry | 25.00% | ~32 |
 | Immortal Skin | 22.00% | ~28 |
 | Loyal Companion | 21.00% | ~27 |
-| Back To The Future | 19.00% | ~25 |
-| Fire Beacon | 19.00% | ~25 |
-| Lunch Before The Lunch | 17.00% | ~22 |
+| Back To The Future | 20.00% | ~26 |
+| Fire Beacon | 20.00% | ~26 |
+| Lunch Before The Lunch | 18.00% | ~23 |
 | Building Blocks | 16.00% | ~21 |
-| From Here To Eternity | 14.00% | ~18 |
+| From Here To Eternity | 15.00% | ~19 |
 | Boss Hunter | 13.00% | ~17 |
 | Octopostructure | 12.00% | ~15 |
 | Hawkman | 9.00% | ~12 |
@@ -48,10 +48,10 @@
 | Fashion Victim | 6.00% | ~8 |
 | Feast Time | 6.00% | ~8 |
 | See You Later | 5.00% | ~6 |
+| Godlike Skin | 5.00% | ~6 |
 | Unlucky Luke | 5.00% | ~6 |
 | Cheesy Chess | 5.00% | ~6 |
 | A Phony Clown | 4.00% | ~5 |
-| Godlike Skin | 4.00% | ~5 |
 | Got'em Totem | 4.00% | ~5 |
 | Duck Knight | 3.00% | ~4 |
 | Octopy Mayhem | 3.00% | ~4 |

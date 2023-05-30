@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72709,
+  "EOS_Progressed": 72712,
   "EOS_Completed": 336,
-  "EOS_NewPlayers": 927,
+  "EOS_NewPlayers": 926,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -4408,6 +4408,11 @@
       "Time": "2023-05-30T11:05:17.4691346+00:00",
       "NumProgressed": 72709,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2023-05-30T12:06:37.0609761+00:00",
+      "NumProgressed": 72712,
+      "NumCompleted": 336
     }
   ],
   "TotalAchievements": 10,
@@ -4419,7 +4424,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "Drawings01",
@@ -4483,7 +4488,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 26175
+      "UsersEstimate": 26176
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -4498,15 +4503,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 72709,
+      "Progressed": 72712,
       "Completed": 336
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:05:17.4691342+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:06:37.0609754+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.412236+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:59:52.2483895+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:05:17.4691577+00:00"
+  "LastUpdate_Ratings": "2023-05-30T12:01:16.9649434+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:06:37.0610013+00:00"
 }

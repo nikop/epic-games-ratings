@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2023-05-30T03:01:13.4026913+00:00",
       "NumProgressed": 1519,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-30T12:02:08.7445862+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -922,7 +927,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "Collect20Gold",
@@ -930,7 +935,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "Collect20Iron",
@@ -986,7 +991,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "CompleteElderFaction",
@@ -994,7 +999,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1042,7 +1047,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1064,9 +1069,9 @@
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 897
     },
     {
       "ID": "GetTHWeapon",
@@ -1074,7 +1079,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "Kill25Bugs",
@@ -1090,7 +1095,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "Kill25Mozi",
@@ -1098,7 +1103,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "MeetTheMoles",
@@ -1106,7 +1111,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1114,7 +1119,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "RepairChef",
@@ -1130,7 +1135,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "RepairThroneRoom",
@@ -1154,29 +1159,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1519,
+      "Progressed": 1520,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 160,
-      "Completed": 160
+      "Progressed": 161,
+      "Completed": 161
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:00:32.249028+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:02:08.744585+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:58:05.776355+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:00:32.24905+00:00"
+  "LastUpdate_Ratings": "2023-05-30T11:59:04.2814676+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:02:08.7446055+00:00"
 }

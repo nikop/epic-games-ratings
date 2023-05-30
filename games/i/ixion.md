@@ -34,7 +34,7 @@ Rating: 4.56 (Ranked 451)
 | BRAWL! | 1.00% | ~23 |
 | All in Good Health | 1.00% | ~23 |
 | What They Hide From Us | 0.90% | ~21 |
-| ...  in a finite world | 0.80% | ~18 |
+| ...  in a finite world | 0.90% | ~21 |
 | Delivery! | 0.80% | ~18 |
 | What the Ruins Teach Us | 0.80% | ~18 |
 | Pulsar Disciple | 0.80% | ~18 |

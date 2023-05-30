@@ -2508,18 +2508,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6668,
       "NumberOfAwardsMax": 1642
+    },
+    {
+      "Time": "2023-05-30T11:59:00.9804649+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6671,
+      "NumberOfAwardsMax": 1645
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6668,
-  "NumberOfAwardsMax": 1642,
+  "NumberOfAwards": 6671,
+  "NumberOfAwardsMax": 1645,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1642
+      "Count": 1645
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2582,7 +2588,7 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9350,
+  "EOS_Progressed": 9351,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -4962,6 +4968,11 @@
       "Time": "2023-05-30T09:07:06.235703+00:00",
       "NumProgressed": 9350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T12:06:55.3969987+00:00",
+      "NumProgressed": 9351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4973,7 +4984,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "02_BurningCity",
@@ -5045,7 +5056,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "11_PathOfAeon",
@@ -5101,7 +5112,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "18_MythicChoices",
@@ -5157,7 +5168,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "25_MasterfulDispell",
@@ -5181,7 +5192,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "29_StrategicVictory",
@@ -5317,7 +5328,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "46_AllPathsOpen",
@@ -5325,7 +5336,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -5341,7 +5352,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "49_Flame",
@@ -5397,7 +5408,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "56_GetToad",
@@ -5900,21 +5911,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8132,
+      "Progressed": 8133,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9350,
+      "Progressed": 9351,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-29T23:58:44.29734+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:05:33.325046+00:00",
+  "LastChanged": "2023-05-30T11:59:00.9804648+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:06:55.3969981+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:58:03.4122862+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:05:33.3251884+00:00"
+  "LastUpdate_Ratings": "2023-05-30T11:59:00.9804651+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:06:55.3971389+00:00"
 }

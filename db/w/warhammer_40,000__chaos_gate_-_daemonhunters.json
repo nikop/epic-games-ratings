@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2772,
+  "EOS_Progressed": 2774,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1327,6 +1327,11 @@
       "Time": "2023-05-30T09:07:00.3042409+00:00",
       "NumProgressed": 2772,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T12:06:49.2824675+00:00",
+      "NumProgressed": 2774,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1506,7 +1511,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "Kills_Bleed",
@@ -1530,7 +1535,7 @@
       "Name": "Executioner",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Kills_Exterminator",
@@ -1570,7 +1575,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Kills_Vakir",
@@ -1586,7 +1591,7 @@
       "Name": "An Ill Omen",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1809,21 +1814,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2772,
+      "Progressed": 2774,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2772,
+      "Progressed": 2774,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:05:27.9029328+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:06:49.282467+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:58:19.0469894+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:05:27.9029774+00:00"
+  "LastUpdate_Ratings": "2023-05-30T11:59:21.0452612+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:06:49.2825119+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,437 |
-| Returning Home: Quick Learner | 25.00% | ~1,218 |
+| Level: Returning Home | 50.00% | ~2,438 |
+| Returning Home: Quick Learner | 25.00% | ~1,219 |
 | Level: Charlie's Circuits | 22.00% | ~1,072 |
 | Level: Rising Markets | 9.00% | ~439 |
 | Peddler | 8.00% | ~390 |
@@ -20,21 +20,21 @@ Number of Ratings: 75  (23.09.2022)
 | Speedy | 5.00% | ~244 |
 | High Five! | 4.00% | ~195 |
 | Modular Progress | 4.00% | ~195 |
+| Salesperson | 4.00% | ~195 |
 | Campaign: Lesson Learned | 3.00% | ~146 |
 | Level: Bet On Bots | 3.00% | ~146 |
 | Modular Performance | 3.00% | ~146 |
-| Salesperson | 3.00% | ~146 |
-| Level: Merry-Go-Around | 2.00% | ~97 |
-| Charlies's Circuits: Artist | 2.00% | ~97 |
-| Modular Peak | 2.00% | ~97 |
-| Accountant | 2.00% | ~97 |
-| Data Churn Type III | 2.00% | ~97 |
-| Multi-Millionaire | 2.00% | ~97 |
-| Contender | 2.00% | ~97 |
-| Trophy Collector | 2.00% | ~97 |
-| Module Maniac | 2.00% | ~97 |
-| Overproducer | 2.00% | ~97 |
-| Natural Talent | 2.00% | ~97 |
+| Level: Merry-Go-Around | 2.00% | ~98 |
+| Charlies's Circuits: Artist | 2.00% | ~98 |
+| Modular Peak | 2.00% | ~98 |
+| Accountant | 2.00% | ~98 |
+| Data Churn Type III | 2.00% | ~98 |
+| Multi-Millionaire | 2.00% | ~98 |
+| Contender | 2.00% | ~98 |
+| Trophy Collector | 2.00% | ~98 |
+| Module Maniac | 2.00% | ~98 |
+| Overproducer | 2.00% | ~98 |
+| Natural Talent | 2.00% | ~98 |
 | Level: A Happy Taskforce | 1.00% | ~49 |
 | Level: The Machinery | 1.00% | ~49 |
 | Extra Life: Knowledge Cap | 1.00% | ~49 |
@@ -51,8 +51,8 @@ Number of Ratings: 75  (23.09.2022)
 | Trendsetter | 0.60% | ~29 |
 | Level: Heating-Up | 0.50% | ~24 |
 | CEO | 0.50% | ~24 |
-| Campaign: Man vs. Machine | 0.40% | ~19 |
-| Rockstar | 0.40% | ~19 |
+| Campaign: Man vs. Machine | 0.40% | ~20 |
+| Rockstar | 0.40% | ~20 |
 | A Happy Taskforce: Interior Designer | 0.30% | ~15 |
 | The Machinery: Goal Orientated | 0.30% | ~15 |
 | The Machinery: Energy Saver | 0.30% | ~15 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,874 (Ranked 126)  
+Progressed: 4,875 (Ranked 126)  
 Completed: 1 (0.02%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.02%) (Ranked 190)
 | 2023-05-27 | 4,862 | 1 |
 | 2023-05-28 | 4,868 | 1 |
 | 2023-05-29 | 4,871 | 1 |
-| 2023-05-30 | 4,874 | 1 |
+| 2023-05-30 | 4,875 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 15.00% | ~1,402 |
-| A Spark | 11.00% | ~1,028 |
+| Devoured by Darkness | 15.00% | ~1,403 |
+| A Spark | 11.00% | ~1,029 |
 | Burning City | 10.00% | ~935 |
 | Defender's Heart | 9.00% | ~842 |
 | Banner over the Citadel | 8.00% | ~748 |
@@ -17,13 +17,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 4.00% | ~374 |
 | Path of the Angel | 4.00% | ~374 |
 | Demonic and Divine | 4.00% | ~374 |
-| Path of the Azata | 3.00% | ~280 |
-| Transformation | 3.00% | ~280 |
-| The Legacy | 3.00% | ~280 |
-| Great Upstart | 3.00% | ~280 |
-| Voice from Your Dreams | 3.00% | ~280 |
-| All Paths Open | 3.00% | ~280 |
-| Next-Door Play | 3.00% | ~280 |
+| Path of the Azata | 3.00% | ~281 |
+| Transformation | 3.00% | ~281 |
+| The Legacy | 3.00% | ~281 |
+| Great Upstart | 3.00% | ~281 |
+| Voice from Your Dreams | 3.00% | ~281 |
+| All Paths Open | 3.00% | ~281 |
+| Next-Door Play | 3.00% | ~281 |
 | Heart of the Fallen Land | 2.00% | ~187 |
 | Path of the Trickster | 2.00% | ~187 |
 | Heroic Victory | 2.00% | ~187 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,350 (Ranked 110)  
+Progressed: 9,351 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,14 +163,14 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 9,264 | 0 |
 | 2023-05-28 | 9,304 | 0 |
 | 2023-05-29 | 9,338 | 0 |
-| 2023-05-30 | 9,350 | 0 |
+| 2023-05-30 | 9,351 | 0 |
 ## Awards
-Max (Character Customization): 1,642  (Ranked 111)  
-Sum: 6,668 (Ranked 110)  
+Max (Character Customization): 1,645  (Ranked 111)  
+Sum: 6,671 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,642 |
+| This game has Inclusive Character Customization | 1,645 |
 | This game is Extremely Fun | 630 |
 | This game has Amazing Characters | 610 |
 | This game is Highly Recommended | 610 |
@@ -307,3 +307,4 @@ Diff (max vs sum): 1
 | 2023-05-27 | 4.76 | - | 1,642 | 6,655 |
 | 2023-05-28 | 4.76 | - | 1,642 | 6,662 |
 | 2023-05-29 | 4.76 | - | 1,642 | 6,668 |
+| 2023-05-30 | 4.76 | - | 1,645 | 6,671 |

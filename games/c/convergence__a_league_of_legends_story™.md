@@ -8,20 +8,20 @@
 | Rail Rat | 76.00% | ~391 |
 | The Mysterious Stranger | 74.00% | ~381 |
 | Immaculate Aim | 64.00% | ~330 |
+| The Brass Boss | 56.00% | ~288 |
 | Honest Mistake | 55.00% | ~283 |
-| The Brass Boss | 55.00% | ~283 |
 | No, Thanks! | 53.00% | ~273 |
 | Time Flies | 51.00% | ~263 |
 | The Prince in Heels | 50.00% | ~258 |
 | The Harder They Fall | 49.00% | ~252 |
 | Right On Time | 47.00% | ~242 |
-| Fast Learner | 46.00% | ~237 |
+| Fast Learner | 47.00% | ~242 |
 | Immaculate Aim | 46.00% | ~237 |
 | Make Up For Lost Time | 45.00% | ~232 |
-| Breaking Down Barriers | 42.00% | ~216 |
+| Breaking Down Barriers | 43.00% | ~221 |
 | The Steel Shadow | 37.00% | ~191 |
+| Golem Chaser | 35.00% | ~180 |
 | Like Clockwork | 34.00% | ~175 |
-| Golem Chaser | 34.00% | ~175 |
 | The Wicked Twins | 33.00% | ~170 |
 | The Betrayer | 32.00% | ~165 |
 | Family Memories | 31.00% | ~160 |
@@ -42,8 +42,8 @@
 | Cultivair Explorer | 13.00% | ~67 |
 | Entresol Explorer | 12.00% | ~62 |
 | Corin Goes Home | 11.00% | ~57 |
+| Sartorialist | 11.00% | ~57 |
 | Rungs Was Right | 11.00% | ~57 |
-| Sartorialist | 10.00% | ~52 |
 | Clovemary for Remembering | 9.00% | ~46 |
 | Hexlock for Protection | 9.00% | ~46 |
 | Golem Hunter | 8.00% | ~41 |

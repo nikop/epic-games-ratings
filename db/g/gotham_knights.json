@@ -1298,9 +1298,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62848,
+  "EOS_Progressed": 62850,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4353,6 +4353,11 @@
       "Time": "2023-05-30T11:05:31.6071538+00:00",
       "NumProgressed": 62848,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-30T12:06:53.6719171+00:00",
+      "NumProgressed": 62850,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4570,17 +4575,17 @@
       "ID": "DEFEAT_OC_2",
       "SetID": "4eo5ebm",
       "Name": "Shock Til They Drop",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 503
     },
     {
       "ID": "DEFEAT_OC_3",
       "SetID": "4eo5ebm",
       "Name": "Drone You Out",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 377
     },
     {
       "ID": "FREEZE_1",
@@ -4708,7 +4713,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4851,13 +4856,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62848,
+      "Progressed": 62850,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33128,
+      "Progressed": 33130,
       "Completed": 2643
     }
   ],
@@ -4865,8 +4870,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-30T00:00:31.1469343+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:05:31.6071533+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:06:53.6719164+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:59:16.8496109+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:05:31.6072173+00:00"
+  "LastUpdate_Ratings": "2023-05-30T12:00:31.9827201+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:06:53.6719762+00:00"
 }

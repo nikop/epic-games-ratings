@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 3.00% | ~1,885 |
+| First Step Into the Knight | 3.00% | ~1,886 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,257 |
 | Loose Ends | 2.00% | ~1,257 |
 | The Batman Family | 1.00% | ~628 |
@@ -24,6 +24,7 @@ Rating: 4.17 (Ranked 840)
 | The Show Mud Go On | 0.90% | ~566 |
 | From Inside Gotham's Walls | 0.90% | ~566 |
 | Rock and a Hard Place | 0.80% | ~503 |
+| Shock Til They Drop | 0.80% | ~503 |
 | Cooldown | 0.80% | ~503 |
 | Universal Health Scare | 0.80% | ~503 |
 | Voiceless | 0.80% | ~503 |
@@ -31,12 +32,11 @@ Rating: 4.17 (Ranked 840)
 | In Your Element | 0.70% | ~440 |
 | Not On My Watch | 0.70% | ~440 |
 | Bulldozed | 0.70% | ~440 |
-| Shock Til They Drop | 0.70% | ~440 |
 | Seeking Asylum | 0.70% | ~440 |
 | Gotham Knight | 0.70% | ~440 |
+| Drone You Out | 0.60% | ~377 |
 | Gotham City Confidential | 0.60% | ~377 |
 | Out of Their League | 0.50% | ~314 |
-| Drone You Out | 0.50% | ~314 |
 | Solid Alibi | 0.50% | ~314 |
 | Fusion Expert | 0.40% | ~251 |
 | Family Meeting | 0.40% | ~251 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,848 (Ranked 70)  
+Progressed: 62,850 (Ranked 70)  
 Completed: 91 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
-| 2023-05-30 | 62,848 | 91 |
+| 2023-05-30 | 62,850 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,263  (Ranked 98)  
 Sum: 3,749 (Ranked 138)  

@@ -7,32 +7,32 @@
 | In the Black | 58.00% | ~106 |
 | Starting Skyward | 52.00% | ~95 |
 | Grime is Not Good | 46.00% | ~84 |
-| Campaign Launch | 41.00% | ~75 |
+| Campaign Launch | 42.00% | ~77 |
 | Dinner Dash | 40.00% | ~73 |
 | Floor Galore | 39.00% | ~71 |
 | It's Technical | 36.00% | ~66 |
 | Need a Consult | 35.00% | ~64 |
 | Upgrade Unlock | 35.00% | ~64 |
+| Delegate Maintenance | 33.00% | ~60 |
 | Proper Walls | 32.00% | ~59 |
-| Delegate Maintenance | 32.00% | ~59 |
 | Destination Destiny | 28.00% | ~51 |
-| Happy Tenants | 25.00% | ~46 |
-| Smooth Service | 24.00% | ~44 |
+| Happy Tenants | 26.00% | ~48 |
+| Smooth Service | 25.00% | ~46 |
+| Lux Living | 23.00% | ~42 |
 | Your Prestige is Rising | 23.00% | ~42 |
 | Potent Potables | 23.00% | ~42 |
 | Retail Revenue | 23.00% | ~42 |
-| Lux Living | 22.00% | ~40 |
 | People Mover | 22.00% | ~40 |
 | Emporium Empire | 22.00% | ~40 |
 | Leveled Up Shops | 22.00% | ~40 |
+| Rehab Expert | 21.00% | ~38 |
 | Get Electrified | 21.00% | ~38 |
 | Artfully Done | 20.00% | ~37 |
-| Rehab Expert | 20.00% | ~37 |
 | Don't Feel a Loan | 20.00% | ~37 |
 | Tasty Profits | 20.00% | ~37 |
+| Under One Roof | 18.00% | ~33 |
 | Cashflow Chief | 18.00% | ~33 |
 | We Don't Need No Education | 18.00% | ~33 |
-| Under One Roof | 17.00% | ~31 |
 | Established Fame | 17.00% | ~31 |
 | Boutique Benefits | 16.00% | ~29 |
 | Terrifically Trashed | 16.00% | ~29 |

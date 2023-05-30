@@ -3,7 +3,7 @@
   "Name": "Jasmine",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:09.3583788+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:57:28.3418098+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:00:27.6046813+00:00"
+  "LastUpdate_Ratings": "2023-05-30T11:58:16.5163422+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:02:02.5860479+00:00"
 }

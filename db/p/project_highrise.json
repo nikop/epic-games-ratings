@@ -212,9 +212,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_apartments_2",
@@ -236,9 +236,9 @@
       "ID": "ach_area_1",
       "SetID": "b8gh1fi",
       "Name": "Under One Roof",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_art",
@@ -284,9 +284,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_campaigns_1",
@@ -540,25 +540,25 @@
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_grime_2",
       "SetID": "b8gh1fi",
       "Name": "Rehab Expert",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_loan",
@@ -820,9 +820,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_trash_1",
@@ -909,8 +909,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-30T11:05:33.2525144+00:00",
+  "LastChanged_Achievements": "2023-05-30T12:06:55.297507+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-30T10:57:51.0173101+00:00",
-  "LastUpdate_Achievements": "2023-05-30T11:05:33.2526099+00:00"
+  "LastUpdate_Ratings": "2023-05-30T11:58:45.8234307+00:00",
+  "LastUpdate_Achievements": "2023-05-30T12:06:55.2975875+00:00"
 }
