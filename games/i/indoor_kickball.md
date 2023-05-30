@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Character Unlocked | 73.00% | ~24 |
-| Hat Unlocked | 73.00% | ~24 |
-| Accessory Unlocked | 73.00% | ~24 |
-| Homer | 64.00% | ~21 |
-| Kickball Unlocked | 61.00% | ~20 |
-| Have a good trip! | 61.00% | ~20 |
-| First Win | 58.00% | ~19 |
-| Settle Down | 45.00% | ~15 |
-| Stay Hydrated | 45.00% | ~15 |
-| Butter Fingers | 42.00% | ~14 |
-| True Story! | 30.00% | ~10 |
+| Character Unlocked | 76.00% | ~26 |
+| Hat Unlocked | 76.00% | ~26 |
+| Accessory Unlocked | 76.00% | ~26 |
+| Kickball Unlocked | 65.00% | ~22 |
+| Homer | 65.00% | ~22 |
+| First Win | 62.00% | ~21 |
+| Have a good trip! | 62.00% | ~21 |
+| Settle Down | 50.00% | ~17 |
+| Stay Hydrated | 50.00% | ~17 |
+| Butter Fingers | 44.00% | ~15 |
+| True Story! | 35.00% | ~12 |
+| Grand Slam! | 26.00% | ~9 |
+| Kick It | 24.00% | ~8 |
 | Have Mercy | 24.00% | ~8 |
-| Grand Slam! | 21.00% | ~7 |
 | Bedroom Secret Spot | 21.00% | ~7 |
-| Kick It | 18.00% | ~6 |
-| Save some water for the fishies | 15.00% | ~5 |
-| Spooky | 12.00% | ~4 |
-| Bathroom Secret Spot | 12.00% | ~4 |
+| Save some water for the fishies | 18.00% | ~6 |
+| Spooky | 18.00% | ~6 |
+| Bathroom Secret Spot | 15.00% | ~5 |
+| Just how we drew it up | 9.00% | ~3 |
 | Classroom Secret Spot | 6.00% | ~2 |
 | Kitchen Secret Spot | 6.00% | ~2 |
 | Living Room Secret Spot | 6.00% | ~2 |
 | Angry Dad | 6.00% | ~2 |
 | At least everyone still had fun | 6.00% | ~2 |
-| Just how we drew it up | 6.00% | ~2 |
 | Basement Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
 | Found the Secret Formula! | 3.00% | ~1 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 314)  
+Progressed: 34 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,4 +56,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 16 | 0 |
 | 2023-05-28 | 21 | 0 |
 | 2023-05-29 | 31 | 0 |
-| 2023-05-30 | 33 | 0 |
+| 2023-05-30 | 34 | 0 |

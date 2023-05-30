@@ -27,6 +27,7 @@ Number of Ratings: 87  (23.09.2022)
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~22 |
+| The Tortoise | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
@@ -37,7 +38,6 @@ Number of Ratings: 87  (23.09.2022)
 | Overseer | 2.00% | ~14 |
 | Relocation | 2.00% | ~14 |
 | Squander | 2.00% | ~14 |
-| The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
 | At the last moment! | 1.00% | ~7 |
 | Bridge builder | 1.00% | ~7 |

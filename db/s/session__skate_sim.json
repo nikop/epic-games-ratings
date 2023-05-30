@@ -3,12 +3,12 @@
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 275,
-  "Ranking_Popularity": 395,
+  "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2152,
+  "EOS_Progressed": 2154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1602,6 +1602,11 @@
       "Time": "2023-05-29T22:05:27.3628519+00:00",
       "NumProgressed": 2152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:13:39.4557462+00:00",
+      "NumProgressed": 2154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1917,15 +1922,15 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
       "SetID": "72olkc5",
       "Name": "The flip trick crown jewel",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -1981,7 +1986,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -1989,22 +1994,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2152,
+      "Progressed": 2154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:30.9760015+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:13:39.4557453+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.7904558+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:59:39.3342723+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:30.9760486+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:06:39.9045746+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:13:39.455822+00:00"
 }

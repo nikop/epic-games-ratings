@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 884,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
@@ -834,9 +834,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 327
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_THEEND",
@@ -867,8 +867,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:27.3368974+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:13:35.7782686+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:59:07.1906525+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:27.336915+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:06:07.748919+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:13:35.7782936+00:00"
 }

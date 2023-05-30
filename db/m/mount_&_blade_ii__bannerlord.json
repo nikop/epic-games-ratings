@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4327,10 +4327,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13199,
       "NumberOfAwardsMax": 6594
+    },
+    {
+      "Time": "2023-05-30T02:07:27.7233458+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13200,
+      "NumberOfAwardsMax": 6594
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13199,
+  "NumberOfAwards": 13200,
   "NumberOfAwardsMax": 6594,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4392,7 +4398,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 721
+      "Count": 722
     },
     {
       "Text": "This game has a Creative Community",
@@ -4407,9 +4413,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51417,
+  "EOS_Progressed": 51421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8232,6 +8238,11 @@
       "Time": "2023-05-30T00:07:00.7149791+00:00",
       "NumProgressed": 51417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:14:09.1738642+00:00",
+      "NumProgressed": 51421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -8251,7 +8262,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7198
+      "UsersEstimate": 7199
     },
     {
       "ID": "Bannerlord",
@@ -8259,7 +8270,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "Best served cold",
@@ -8323,7 +8334,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "Dynasty",
@@ -8331,7 +8342,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "Entrepreneur",
@@ -8371,7 +8382,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6170
+      "UsersEstimate": 6171
     },
     {
       "ID": "Great Granny",
@@ -8403,7 +8414,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "I can do it",
@@ -8411,7 +8422,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7198
+      "UsersEstimate": 7199
     },
     {
       "ID": "I spit on your grave",
@@ -8419,7 +8430,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "Jack of All Trades",
@@ -8467,7 +8478,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15425
+      "UsersEstimate": 15426
     },
     {
       "ID": "Lawbringer",
@@ -8475,7 +8486,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17996
+      "UsersEstimate": 17997
     },
     {
       "ID": "Lawmaker",
@@ -8619,7 +8630,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "Undercover",
@@ -8643,22 +8654,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51417,
+      "Progressed": 51421,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-29T17:59:16.7747085+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:07:00.7149785+00:00",
+  "LastChanged": "2023-05-30T02:07:27.7233457+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:14:09.1738637+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-05-30T00:00:27.6837214+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:07:00.7150541+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:07:27.7233465+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:14:09.1739764+00:00"
 }

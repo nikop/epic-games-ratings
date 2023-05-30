@@ -1,14 +1,14 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.63 (Ranked 329)  
+Rating: 4.63 (Ranked 328)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~80,127 |
-| ... in the magical land of Foenum... | 34.00% | ~75,675 |
-| Be Gentle... | 22.00% | ~48,966 |
-| A Worthy Opponent | 17.00% | ~37,838 |
+| Once upon a time... | 36.00% | ~80,129 |
+| ... in the magical land of Foenum... | 34.00% | ~75,677 |
+| Be Gentle... | 22.00% | ~48,968 |
+| A Worthy Opponent | 17.00% | ~37,839 |
 | Makin' Bacon | 4.00% | ~8,903 |
 | Tenderhoof | 3.00% | ~6,677 |
 | Champ'een of The Praire | 1.00% | ~2,226 |
@@ -34,7 +34,7 @@ Rating: 4.63 (Ranked 329)
 | Alpaca Space Program | 0.10% | ~223 |
 | High Priestess | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,574 (Ranked 46)  
+Progressed: 222,580 (Ranked 46)  
 Completed: 3 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 3 (0.00%) (Ranked 207)
 | 2023-05-27 | 222,365 | 3 |
 | 2023-05-28 | 222,490 | 3 |
 | 2023-05-29 | 222,570 | 3 |
-| 2023-05-30 | 222,574 | 3 |
+| 2023-05-30 | 222,580 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

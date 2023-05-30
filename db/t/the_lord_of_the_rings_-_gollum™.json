@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -465,6 +465,11 @@
       "Time": "2023-05-29T23:06:02.0147909+00:00",
       "NumProgressed": 354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:13:29.3912363+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -500,7 +505,7 @@
       "Name": "The Wraith",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Chapter10",
@@ -516,7 +521,7 @@
       "Name": "The Maggot",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Chapter3",
@@ -532,23 +537,23 @@
       "Name": "The Veteran",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "Chapter7",
@@ -578,9 +583,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 170
     },
     {
       "ID": "Collectibles2",
@@ -644,7 +649,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Memories",
@@ -763,14 +768,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:20.5866267+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:13:29.3912358+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:58:02.3966753+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:20.5866547+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:05:01.7901785+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:13:29.391267+00:00"
 }

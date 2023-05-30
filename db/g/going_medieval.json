@@ -3,12 +3,12 @@
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 386,
-  "Ranking_Popularity": 306,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1415,9 +1415,9 @@
       "ID": "DISMANTLE_ITEMS_50",
       "SetID": "5349c2e",
       "Name": "Nothing Wasted",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 300
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -1631,9 +1631,9 @@
       "ID": "UNLOCK_RESEARCH_5",
       "SetID": "5349c2e",
       "Name": "Studious Researcher",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1308
     }
   ],
   "AchievementSets": [
@@ -1647,8 +1647,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-26T20:02:37.4182915+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:44.8300299+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:13:53.3843695+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.9974072+00:00",
-  "LastUpdate_Ratings": "2023-05-30T00:00:37.482188+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:44.8300558+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:07:36.6120766+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:13:53.3844094+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -112,6 +112,11 @@
       "Time": "2023-05-29T13:07:15.8719294+00:00",
       "NumProgressed": 172,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T02:09:24.2508015+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -123,7 +128,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "book_em_danny",
@@ -145,9 +150,9 @@
       "ID": "chameleon",
       "SetID": "2db2j74",
       "Name": "Chameleon",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "chicken",
@@ -163,7 +168,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "heavy_rayne",
@@ -171,7 +176,7 @@
       "Name": "Heavy Rayne",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "highlander",
@@ -179,7 +184,7 @@
       "Name": "Highlander",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -203,7 +208,7 @@
       "Name": "Patient Listener",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "play_it_again_sam",
@@ -235,7 +240,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "show_me_some_skin",
@@ -249,9 +254,9 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 154
     },
     {
       "ID": "the_big_sleep",
@@ -265,9 +270,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "voyeur",
@@ -290,7 +295,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 2
     }
   ],
@@ -298,8 +303,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:02:23.9101923+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:09:24.2508008+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.3750449+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:59:17.371056+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:02:23.9102099+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:06:17.6820489+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:09:24.2508166+00:00"
 }

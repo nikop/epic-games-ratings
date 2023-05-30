@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-05-29T23:06:14.0334896+00:00",
       "NumProgressed": 416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:13:42.0861616+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -630,7 +635,7 @@
       "Name": "Extensive retelling",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BadApple",
@@ -652,9 +657,9 @@
       "ID": "CompleteSmile",
       "SetID": "2aagp3d",
       "Name": "Dental maturity",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "DevilDetail",
@@ -694,7 +699,7 @@
       "Name": "Favorite",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FisherKing",
@@ -726,7 +731,7 @@
       "Name": "The word around is...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -790,7 +795,7 @@
       "Name": "Queen",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Rats",
@@ -806,7 +811,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Specialist",
@@ -814,7 +819,7 @@
       "Name": "Specialist",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SpringCleaning",
@@ -844,9 +849,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "Toxic",
@@ -878,14 +883,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 0
     }
   ],
@@ -893,8 +898,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:33.4642739+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:13:42.086161+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:58:12.5708934+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:33.4642977+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:05:12.0409005+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:13:42.0861888+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 386,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,7 +193,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -383,6 +383,11 @@
       "Time": "2023-05-29T18:05:46.1745144+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:14:07.1515253+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -506,7 +511,7 @@
       "Name": "Glare",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -608,9 +613,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -626,7 +631,7 @@
       "Name": "Kinship",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -666,7 +671,7 @@
       "Name": "Ravenous",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -674,7 +679,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -722,28 +727,28 @@
       "Name": "Proportions",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:58.6283553+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:14:07.1515245+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-05-30T00:01:22.9485075+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:58.6284107+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:08:22.7697611+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:14:07.1515823+00:00"
 }

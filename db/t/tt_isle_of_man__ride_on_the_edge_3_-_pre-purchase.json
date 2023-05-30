@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -410,9 +410,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "gagif7",
       "Name": "Checklist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:02:28.7139243+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:09:29.0757517+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.0293662+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:57:51.9987066+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:02:28.7139586+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:04:51.0921401+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:09:29.0758071+00:00"
 }

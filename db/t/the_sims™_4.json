@@ -4,11 +4,11 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 359,
   "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 199,
+  "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -2318,10 +2318,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1664,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2023-05-30T02:04:44.9297339+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1675,
+      "NumberOfAwardsMax": 260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1664,
+  "NumberOfAwards": 1675,
   "NumberOfAwardsMax": 260,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2329,7 +2335,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 115
+      "Count": 118
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2347,7 +2353,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 159
+      "Count": 163
     },
     {
       "Text": "This game is Educational",
@@ -2371,7 +2377,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 125
+      "Count": 129
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2404,8 +2410,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-05-29T14:57:29.423097+00:00",
+  "LastChanged": "2023-05-30T02:04:44.9297337+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.8394036+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:57:45.8303296+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:02:42.8685265+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:04:44.9297344+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:10:12.7299664+00:00"
 }

@@ -5,37 +5,37 @@ Rating: 4.43 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 23.00% | ~424 |
-| Confirming Suspicions | 17.00% | ~314 |
+| Meeting Resistance | 23.00% | ~426 |
+| Confirming Suspicions | 18.00% | ~333 |
 | The Kraken Wakes | 13.00% | ~240 |
-| It's Starting to Crack | 11.00% | ~203 |
-| Lord of War | 9.00% | ~166 |
+| It's Starting to Crack | 11.00% | ~204 |
+| Lord of War | 10.00% | ~185 |
 | Resourceful | 8.00% | ~148 |
 | Change the Channel | 8.00% | ~148 |
-| Enemy at the Gates | 7.00% | ~129 |
-| Organ Grinder | 7.00% | ~129 |
-| Taking it back | 7.00% | ~129 |
+| Enemy at the Gates | 7.00% | ~130 |
+| Organ Grinder | 7.00% | ~130 |
+| Taking it back | 7.00% | ~130 |
 | Just a Flesh Wound | 6.00% | ~111 |
 | Explosive Efficiency | 6.00% | ~111 |
 | As Quiet as a Mouse | 6.00% | ~111 |
+| Target America | 6.00% | ~111 |
 | Gunslinger | 5.00% | ~92 |
-| Target America | 5.00% | ~92 |
+| Sharpshooter | 5.00% | ~92 |
 | Liberté | 4.00% | ~74 |
 | Opposing Force | 4.00% | ~74 |
 | Fields of Glory | 4.00% | ~74 |
-| Sharpshooter | 4.00% | ~74 |
 | Die Nussknacker Sweet! | 4.00% | ~74 |
 | Der Geist | 4.00% | ~74 |
 | Close Quarters | 4.00% | ~74 |
 | Snake in the Grass | 4.00% | ~74 |
 | The Kraken Sleeps | 4.00% | ~74 |
-| Climbing the Ladder | 3.00% | ~55 |
-| No Stone Unturned | 3.00% | ~55 |
-| Skirmisher | 3.00% | ~55 |
-| Set Europe Ablaze | 3.00% | ~55 |
-| Precision Is Key | 3.00% | ~55 |
+| Climbing the Ladder | 3.00% | ~56 |
+| No Stone Unturned | 3.00% | ~56 |
+| Skirmisher | 3.00% | ~56 |
+| Set Europe Ablaze | 3.00% | ~56 |
+| Precision Is Key | 3.00% | ~56 |
+| Brains of the Operation | 3.00% | ~56 |
 | Rigged to Blow | 2.00% | ~37 |
-| Brains of the Operation | 2.00% | ~37 |
 | The Long Game | 1.00% | ~18 |
 | My Little Friend | 1.00% | ~18 |
 | It'll Buff Right Out | 1.00% | ~18 |
@@ -43,9 +43,9 @@ Rating: 4.43 (Ranked 642)
 | Locomotion Commotion | 0.80% | ~15 |
 | Operation Foxley | 0.80% | ~14 |
 | Road Rage | 0.70% | ~13 |
-| Herr Today, Gone Tomorrow | 0.70% | ~13 |
-| Siegebreaker | 0.70% | ~13 |
 | Ghost of Falaise | 0.70% | ~13 |
+| Herr Today, Gone Tomorrow | 0.60% | ~11 |
+| Siegebreaker | 0.60% | ~11 |
 | Tinkerer | 0.50% | ~9 |
 | Don't hold your breath | 0.50% | ~9 |
 | Last Resort | 0.50% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 642)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,845 (Ranked 152)  
+Progressed: 1,850 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
-| 2023-05-30 | 1,845 | 2 |
+| 2023-05-30 | 1,850 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

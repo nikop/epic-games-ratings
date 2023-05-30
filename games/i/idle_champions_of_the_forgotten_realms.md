@@ -23,14 +23,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.30% | ~166 |
 | Checkmate | 0.30% | ~166 |
 | Vecna Out! | 0.30% | ~166 |
-| A Persistent Buzzing | 0.30% | ~267 |
-| Terror in the Dark | 0.30% | ~267 |
-| Unearthed Evil | 0.30% | ~267 |
-| The Crumbling Temple | 0.30% | ~267 |
-| Mad Cow Disease | 0.30% | ~267 |
-| Exploring Port Nyanzaru | 0.30% | ~267 |
-| The Contagious Curse | 0.30% | ~267 |
-| Pure Energy | 0.30% | ~267 |
+| A Persistent Buzzing | 0.30% | ~268 |
+| Terror in the Dark | 0.30% | ~268 |
+| Unearthed Evil | 0.30% | ~268 |
+| The Crumbling Temple | 0.30% | ~268 |
+| Mad Cow Disease | 0.30% | ~268 |
+| Exploring Port Nyanzaru | 0.30% | ~268 |
+| The Contagious Curse | 0.30% | ~268 |
+| Pure Energy | 0.30% | ~268 |
 | Maddening | 0.20% | ~178 |
 | Tall Tales | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~178 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~111 |
 | The Dread Domain of Tovag | 0.20% | ~111 |
 | Frail Doesn't Mean Broken | 0.20% | ~111 |
+| The Castle of a Thousand Vecnas | 0.20% | ~111 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~111 |
 | The Sanctum of the Sword | 0.20% | ~111 |
 | Get Back In The Castle | 0.20% | ~111 |
@@ -71,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
 | Escort to Waterdeep | 0.20% | ~178 |
+| The Giant's Bane Tavern | 0.20% | ~111 |
 | Constant Banditry | 0.20% | ~178 |
 | Waterdeep Detours | 0.20% | ~178 |
 | Underdeep Cartography | 0.20% | ~178 |
@@ -167,7 +169,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.10% | ~55 |
 | To Avernus in a Handbasket | 0.10% | ~55 |
 | Weak Doesn't Mean Feeble | 0.10% | ~55 |
-| The Castle of a Thousand Vecnas | 0.10% | ~55 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~55 |
 | Kas the Bloody Handed | 0.10% | ~55 |
 | Kas the Destroyer | 0.10% | ~55 |
@@ -405,7 +406,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~55 |
 | Prisoners of Lolth | 0.10% | ~55 |
 | Prisoners of Unknown Choices | 0.10% | ~55 |
-| The Giant's Bane Tavern | 0.10% | ~55 |
 | Rime Bandits | 0.10% | ~55 |
 | Giant-Size Adventure | 0.10% | ~55 |
 | Power of Three | 0.10% | ~55 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,166 (Ranked 61)  
-Completed: 1,897 (2.13%) (Ranked 63)  
+Progressed: 89,175 (Ranked 61)  
+Completed: 1,898 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -540,14 +540,14 @@ Completed: 1,897 (2.13%) (Ranked 63)
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
-| 2023-05-30 | 89,166 | 1,897 |
+| 2023-05-30 | 89,175 | 1,898 |
 ## Awards
-Max (Diverse Characters): 4,910  (Ranked 64)  
-Sum: 29,997 (Ranked 37)  
+Max (Diverse Characters): 4,911  (Ranked 64)  
+Sum: 29,998 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,910 |
+| This game has Diverse Characters | 4,911 |
 | This game is Great for Beginners | 4,845 |
 | This game has Quickly Understood Controls | 4,606 |
 | This game is Relaxing | 4,501 |
@@ -681,3 +681,4 @@ Diff (max vs sum): 27
 | 2023-05-27 | 4.06 | - | 4,908 | 29,989 |
 | 2023-05-28 | 4.06 | - | 4,910 | 29,993 |
 | 2023-05-29 | 4.06 | - | 4,910 | 29,997 |
+| 2023-05-30 | 4.06 | - | 4,911 | 29,998 |

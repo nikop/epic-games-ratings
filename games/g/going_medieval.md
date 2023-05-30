@@ -14,8 +14,8 @@ Number of Ratings: 706  (23.09.2022)
 | Novice Researcher | 56.00% | ~1,525 |
 | Putting Food on the Table | 55.00% | ~1,498 |
 | Onward | 50.00% | ~1,362 |
+| Studious Researcher | 48.00% | ~1,308 |
 | The First Week | 47.00% | ~1,280 |
-| Studious Researcher | 47.00% | ~1,280 |
 | Feast or Famine | 46.00% | ~1,253 |
 | Adept Researcher | 45.00% | ~1,226 |
 | Beam Me Up | 44.00% | ~1,199 |
@@ -31,9 +31,9 @@ Number of Ratings: 706  (23.09.2022)
 | Oh Deer! | 16.00% | ~436 |
 | All Year Round | 16.00% | ~436 |
 | Disassembled | 13.00% | ~354 |
+| Nothing Wasted | 11.00% | ~300 |
 | Deerly Departed | 11.00% | ~300 |
 | Don't Cry Wolf | 11.00% | ~300 |
-| Nothing Wasted | 10.00% | ~272 |
 | Where Wolf? | 7.00% | ~191 |
 | Food Chain | 2.00% | ~54 |
 | Wabbit Season | 0.90% | ~25 |
@@ -58,9 +58,9 @@ Completed: 6 (0.22%) (Ranked 137)
 | 2023-05-28 | 2,720 | 6 |
 | 2023-05-29 | 2,724 | 6 |
 ## Awards
-Max (Relaxing): 118  (Ranked 306)  
+Max (Relaxing): 118  (Ranked 307)  
 Sum: 932 (Ranked 236)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 118 |

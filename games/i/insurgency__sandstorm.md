@@ -6,43 +6,43 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,837 |
-| Wallbanger | 5.00% | ~18,837 |
-| Exploitative | 4.00% | ~15,069 |
-| High Speed Low Drag | 4.00% | ~15,069 |
-| Wet Feet | 4.00% | ~15,069 |
-| Checkpoint Victory | 3.00% | ~11,302 |
-| Lucky | 3.00% | ~11,302 |
-| Stylin' | 3.00% | ~11,302 |
-| Turf War | 3.00% | ~11,302 |
-| Banged | 2.00% | ~7,535 |
-| First Blood | 2.00% | ~7,535 |
-| Flaccid Paralysis | 2.00% | ~7,535 |
-| Push Victory | 2.00% | ~7,535 |
-| Self-destructive | 2.00% | ~7,535 |
-| Blindfire | 1.00% | ~3,767 |
-| Efficient | 1.00% | ~3,767 |
-| Ruthless | 1.00% | ~3,767 |
-| Semper Paratus | 1.00% | ~3,767 |
+| Point Shooting | 5.00% | ~18,840 |
+| Wallbanger | 5.00% | ~18,840 |
+| Exploitative | 4.00% | ~15,072 |
+| High Speed Low Drag | 4.00% | ~15,072 |
+| Wet Feet | 4.00% | ~15,072 |
+| Checkpoint Victory | 3.00% | ~11,304 |
+| Lucky | 3.00% | ~11,304 |
+| Stylin' | 3.00% | ~11,304 |
+| Turf War | 3.00% | ~11,304 |
+| Banged | 2.00% | ~7,536 |
+| First Blood | 2.00% | ~7,536 |
+| Flaccid Paralysis | 2.00% | ~7,536 |
+| Push Victory | 2.00% | ~7,536 |
+| Self-destructive | 2.00% | ~7,536 |
+| Blindfire | 1.00% | ~3,768 |
+| Efficient | 1.00% | ~3,768 |
+| Ruthless | 1.00% | ~3,768 |
+| Semper Paratus | 1.00% | ~3,768 |
 | Carrying | 0.90% | ~3,391 |
 | Mount & Gun | 0.90% | ~3,391 |
 | Personal | 0.90% | ~3,391 |
 | Grounded | 0.80% | ~3,014 |
 | Play to Win | 0.80% | ~3,014 |
-| #1 | 0.70% | ~2,637 |
-| Special Delivery | 0.70% | ~2,637 |
-| Firefight Victory | 0.60% | ~2,260 |
+| #1 | 0.70% | ~2,638 |
+| Special Delivery | 0.70% | ~2,638 |
+| Firefight Victory | 0.60% | ~2,261 |
 | Cinematic | 0.50% | ~1,884 |
 | Thanks Station! | 0.40% | ~1,507 |
 | Knock Knock | 0.30% | ~1,130 |
 | There For You | 0.30% | ~1,130 |
-| Hit and Run | 0.20% | ~753 |
+| Hit and Run | 0.20% | ~754 |
 | Designated Driver | 0.10% | ~377 |
 | J.R. .50 | 0.10% | ~377 |
 | It's All in the Reflexes | 0.10% | ~377 |
 | Road Hazard | 0.10% | ~377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376,733 (Ranked 37)  
+Progressed: 376,794 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,10 +82,10 @@ Completed: 2 (0.00%) (Ranked 207)
 | 2023-05-27 | 375,284 | 2 |
 | 2023-05-28 | 376,041 | 2 |
 | 2023-05-29 | 376,702 | 2 |
-| 2023-05-30 | 376,733 | 2 |
+| 2023-05-30 | 376,794 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 353  (Ranked 211)  
-Sum: 2,679 (Ranked 162)  
+Sum: 2,681 (Ranked 162)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -93,7 +93,7 @@ Diff (max vs sum): 49
 | This game has Challenging Combat | 322 |
 | This game is Extremely Fun | 317 |
 | This game has Competitive Players | 316 |
-| This game has Realistic Visuals | 286 |
+| This game has Realistic Visuals | 288 |
 | This game has Amazing Storytelling | 285 |
 | This game is Highly Recommended | 285 |
 | This game has Amazing Characters | 279 |
@@ -239,3 +239,4 @@ Diff (max vs sum): 49
 | 2023-05-26 | 4.61 | - | 352 | 2,677 |
 | 2023-05-28 | 4.61 | - | 352 | 2,678 |
 | 2023-05-29 | 4.61 | - | 353 | 2,679 |
+| 2023-05-30 | 4.61 | - | 353 | 2,681 |

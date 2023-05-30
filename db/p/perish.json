@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2899,
+  "EOS_Progressed": 2901,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1063,6 +1063,11 @@
       "Time": "2023-05-29T18:05:44.19259+00:00",
       "NumProgressed": 2899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:14:04.8841227+00:00",
+      "NumProgressed": 2901,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1258,7 +1263,7 @@
       "Name": "Hipparchia\u0027s Labour",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_M_PW",
@@ -1458,7 +1463,7 @@
       "Name": "Olympian",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_R_D",
@@ -1577,7 +1582,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2899,
+      "Progressed": 2901,
       "Completed": 0
     }
   ],
@@ -1585,8 +1590,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:56.3630246+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:14:04.884122+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.4747054+00:00",
-  "LastUpdate_Ratings": "2023-05-30T00:00:28.8082989+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:56.3630996+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:07:28.8925248+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:14:04.8842371+00:00"
 }

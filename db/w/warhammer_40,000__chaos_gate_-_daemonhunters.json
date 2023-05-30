@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,7 +522,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2766,
+  "EOS_Progressed": 2767,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -1302,6 +1302,11 @@
       "Time": "2023-05-30T00:06:56.9696061+00:00",
       "NumProgressed": 2766,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:14:05.5356016+00:00",
+      "NumProgressed": 2767,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1481,7 +1486,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "Kills_Bleed",
@@ -1505,7 +1510,7 @@
       "Name": "Executioner",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Kills_Exterminator",
@@ -1784,21 +1789,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2766,
+      "Progressed": 2767,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2766,
+      "Progressed": 2767,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:56.9696057+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:14:05.5356009+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:59:08.3258071+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:56.969672+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:06:08.9205068+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:14:05.5357028+00:00"
 }

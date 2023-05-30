@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -193,7 +193,7 @@
   "Tags": [],
   "EOS_Progressed": 1518,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1099,9 +1099,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 516
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1170,8 +1170,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:02:06.9395519+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:09:07.4792856+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:58:48.149694+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:02:06.9395811+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:05:48.8831262+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:09:07.4793273+00:00"
 }

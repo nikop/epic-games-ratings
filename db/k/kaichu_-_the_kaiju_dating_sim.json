@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
     "PcReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -155,9 +155,9 @@
       "ID": "LOVING_COMMUTE",
       "SetID": "dhjj31a",
       "Name": "Loving Commute",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "OUT_OF_YOUR_SHELL",
@@ -220,8 +220,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:21.0968894+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:13:29.8833922+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.5033221+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:58:02.2080304+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:21.0968981+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:05:01.6040967+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:13:29.8834106+00:00"
 }

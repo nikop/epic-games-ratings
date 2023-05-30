@@ -10,8 +10,8 @@ Rating: 4.45 (Ranked 606)
 | Enter the Speed Gauntlet | 24.00% | ~238 |
 | I just can't choose | 24.00% | ~238 |
 | A Cheese Grater to the Face | 19.00% | ~188 |
-| It's like an haircut | 18.00% | ~178 |
-| Put it on a shelf | 18.00% | ~178 |
+| It's like an haircut | 18.00% | ~179 |
+| Put it on a shelf | 18.00% | ~179 |
 | Suit up | 16.00% | ~159 |
 | Walked like an Egyptian | 15.00% | ~149 |
 | Ride in the rising sun | 15.00% | ~149 |
@@ -22,10 +22,10 @@ Rating: 4.45 (Ranked 606)
 | Blurred photofinish | 9.00% | ~89 |
 | EZ game EZ life | 7.00% | ~69 |
 | First step into a larger world | 7.00% | ~69 |
-| Over the clouds | 6.00% | ~59 |
-| Under the sea, under the sea | 6.00% | ~59 |
-| Even Faster! | 6.00% | ~59 |
-| Longshot | 6.00% | ~59 |
+| Over the clouds | 6.00% | ~60 |
+| Under the sea, under the sea | 6.00% | ~60 |
+| Even Faster! | 6.00% | ~60 |
+| Longshot | 6.00% | ~60 |
 | B-asic! | 5.00% | ~50 |
 | Under the neon lights | 4.00% | ~40 |
 | All Power to Engines! | 4.00% | ~40 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 606)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 991 (Ranked 170)  
+Progressed: 992 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 988 | 0 |
 | 2023-05-28 | 990 | 0 |
 | 2023-05-29 | 991 | 0 |
+| 2023-05-30 | 992 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

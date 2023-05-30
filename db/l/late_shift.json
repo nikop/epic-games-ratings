@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -247,6 +247,11 @@
       "Time": "2023-05-29T12:06:37.7582811+00:00",
       "NumProgressed": 374,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-30T02:13:31.2049822+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -258,7 +263,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "CHOICES_MATTER",
@@ -314,7 +319,7 @@
       "Name": "The Bribe",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ENDING_7",
@@ -322,15 +327,15 @@
       "Name": "The Frenzy",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 206
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -346,15 +351,15 @@
       "Name": "Fair Share",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "INTERROGATION",
@@ -362,15 +367,15 @@
       "Name": "Interrogation",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -417,7 +422,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 4
     }
   ],
@@ -425,8 +430,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:06:22.5464739+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:13:31.2049815+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:58:00.7245797+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:06:22.5464895+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:05:00.0751433+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:13:31.2050066+00:00"
 }

@@ -27,6 +27,7 @@
 | Geek | 3.00% | ~2 |
 | Last One Standing | 3.00% | ~2 |
 | The Immortal One | 3.00% | ~2 |
+| Checklist | 3.00% | ~2 |
 | Time Lord | 3.00% | ~2 |
 | Time Is of the Essence | 3.00% | ~2 |
 | First and Foremost | 3.00% | ~2 |
@@ -35,7 +36,6 @@
 | Tailor-Made | 3.00% | ~2 |
 | Golden Ratio | 2.00% | ~1 |
 | Shopping List | 2.00% | ~1 |
-| Checklist | 2.00% | ~1 |
 | First Things First | 2.00% | ~1 |
 | Made Father Proud | 2.00% | ~1 |
 | Win-Win! | 2.00% | ~1 |

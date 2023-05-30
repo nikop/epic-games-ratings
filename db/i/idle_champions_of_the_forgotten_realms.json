@@ -3950,11 +3950,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 29997,
       "NumberOfAwardsMax": 4910
+    },
+    {
+      "Time": "2023-05-30T02:05:24.0450697+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29998,
+      "NumberOfAwardsMax": 4911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29997,
-  "NumberOfAwardsMax": 4910,
+  "NumberOfAwards": 29998,
+  "NumberOfAwardsMax": 4911,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3967,7 +3973,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4910
+      "Count": 4911
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4000,10 +4006,10 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89166,
-  "EOS_Completed": 1897,
-  "EOS_NewPlayers": 826,
-  "EOS_NewCompleters": 34,
+  "EOS_Progressed": 89175,
+  "EOS_Completed": 1898,
+  "EOS_NewPlayers": 830,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -7915,6 +7921,11 @@
       "Time": "2023-05-30T00:07:07.7419028+00:00",
       "NumProgressed": 89166,
       "NumCompleted": 1897
+    },
+    {
+      "Time": "2023-05-30T02:14:16.2788899+00:00",
+      "NumProgressed": 89175,
+      "NumCompleted": 1898
     }
   ],
   "TotalAchievements": 493,
@@ -8732,9 +8743,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1189",
@@ -8902,7 +8913,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_130",
@@ -9046,7 +9057,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_150",
@@ -9254,7 +9265,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_20",
@@ -9614,7 +9625,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_36",
@@ -10062,7 +10073,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_54",
@@ -10070,7 +10081,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_540",
@@ -10470,7 +10481,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_60",
@@ -11004,9 +11015,9 @@
       "ID": "objective_completed_690",
       "SetID": "415jc5c",
       "Name": "The Giant\u0027s Bane Tavern",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_691",
@@ -11670,7 +11681,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_902",
@@ -11869,21 +11880,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55440,
+      "Progressed": 55449,
       "Completed": 2739
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89166,
-      "Completed": 1897
+      "Progressed": 89175,
+      "Completed": 1898
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-29T07:58:02.2008463+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:07:07.7419024+00:00",
+  "LastChanged": "2023-05-30T02:05:24.0450694+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:14:16.2788894+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:58:24.8425921+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:07:07.7446338+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:05:24.0450704+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:14:16.2816398+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-05-28T17:01:37.5352121+00:00",
       "NumProgressed": 616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T02:09:30.3759362+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -225,7 +230,7 @@
       "Name": "Ann ULTRA",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Annakin Skyscroller",
@@ -313,7 +318,7 @@
       "Name": "I just love stuff!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "I_think_its_broke",
@@ -329,7 +334,7 @@
       "Name": "In the smacker...I think",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Keep_em_coming",
@@ -337,7 +342,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Lady_Luck",
@@ -345,15 +350,15 @@
       "Name": "Lady Luck is a cool cat",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 117
+      "UsersEstimate": 111
     },
     {
       "ID": "SERENITY_NOW",
@@ -393,7 +398,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -401,7 +406,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "The Traveler",
@@ -512,7 +517,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 0
     }
   ],
@@ -520,8 +525,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:02:30.0120874+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:09:30.3759356+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.4161188+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:57:53.0586053+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:02:30.012117+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:04:52.0805431+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:09:30.3759811+00:00"
 }

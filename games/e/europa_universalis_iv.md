@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,194 |
-| That's a Grand Army | 8.00% | ~3,728 |
-| That is mine! | 8.00% | ~3,728 |
-| Victorious! | 8.00% | ~3,728 |
-| Brothers in Arms | 6.00% | ~2,796 |
-| That's a Grand Navy | 6.00% | ~2,796 |
-| Seriously?! | 6.00% | ~2,796 |
-| For the Glory | 5.00% | ~2,330 |
-| Cold War | 4.00% | ~1,864 |
-| True Catholic | 4.00% | ~1,864 |
-| Defender of the Faith | 3.00% | ~1,398 |
-| It's all about the money | 3.00% | ~1,398 |
-| Respected | 3.00% | ~1,398 |
-| Truly Divine Ruler | 3.00% | ~1,398 |
+| Until death do us apart | 9.00% | ~4,196 |
+| That's a Grand Army | 8.00% | ~3,730 |
+| That is mine! | 8.00% | ~3,730 |
+| Victorious! | 8.00% | ~3,730 |
+| Brothers in Arms | 6.00% | ~2,797 |
+| That's a Grand Navy | 6.00% | ~2,797 |
+| Seriously?! | 6.00% | ~2,797 |
+| For the Glory | 5.00% | ~2,331 |
+| Cold War | 4.00% | ~1,865 |
+| True Catholic | 4.00% | ~1,865 |
+| Defender of the Faith | 3.00% | ~1,399 |
+| It's all about the money | 3.00% | ~1,399 |
+| Respected | 3.00% | ~1,399 |
+| Truly Divine Ruler | 3.00% | ~1,399 |
 | Agressive Expander | 2.00% | ~932 |
 | Blockader | 2.00% | ~932 |
 | Combined Arms | 2.00% | ~932 |
@@ -37,8 +37,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~466 |
 | A Golden Empire | 1.00% | ~466 |
 | My armies are invincible! | 1.00% | ~466 |
-| The Five Colonies | 0.90% | ~419 |
-| This navy can take it all | 0.90% | ~419 |
+| The Five Colonies | 0.90% | ~420 |
+| This navy can take it all | 0.90% | ~420 |
 | The Emperors new clothes | 0.80% | ~373 |
 | Isn't this the way to India? | 0.80% | ~373 |
 | Market Control | 0.80% | ~373 |
@@ -56,6 +56,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trophy Hunter | 0.50% | ~233 |
 | Voting Streak | 0.50% | ~233 |
 | Absolutely | 0.40% | ~186 |
+| Bleed Them Dry | 0.40% | ~186 |
 | Dude, Where's my Boat? | 0.40% | ~186 |
 | Grand Coalition | 0.40% | ~186 |
 | In the Name of the Father | 0.40% | ~186 |
@@ -65,7 +66,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.40% | ~186 |
 | A Pile of Gold | 0.30% | ~140 |
 | All Your Trade Are Belong to Us | 0.30% | ~140 |
-| Bleed Them Dry | 0.30% | ~140 |
 | Four For Trade | 0.30% | ~140 |
 | Global Hegemony | 0.30% | ~140 |
 | Grand Duchy | 0.30% | ~140 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,597 (Ranked 78)  
+Progressed: 46,622 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 45,190 | 0 |
 | 2023-05-28 | 45,938 | 0 |
 | 2023-05-29 | 46,581 | 0 |
-| 2023-05-30 | 46,597 | 0 |
+| 2023-05-30 | 46,622 | 0 |
 ## Awards
 Max (Educational): 5,306  (Ranked 60)  
 Sum: 43,917 (Ranked 27)  

@@ -3,11 +3,11 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 834,
-  "Ranking_Popularity": 396,
+  "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -426,18 +426,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 273,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-30T02:05:09.9313145+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 273,
-  "NumberOfAwardsMax": 47,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 276,
+  "NumberOfAwardsMax": 50,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 47
+      "Count": 50
     },
     {
       "Text": "This game is Extremely Fun",
@@ -476,7 +482,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14012,
+  "EOS_Progressed": 14018,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 1,
@@ -2061,6 +2067,11 @@
       "Time": "2023-05-29T23:04:00.6536359+00:00",
       "NumProgressed": 14012,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-30T02:11:18.2649886+00:00",
+      "NumProgressed": 14018,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2104,7 +2115,7 @@
       "Name": "Flesh Wound",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2176,7 +2187,7 @@
       "Name": "Get a Grip",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2208,7 +2219,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2216,7 +2227,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2232,7 +2243,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2246,9 +2257,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 841
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2272,7 +2283,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "STORY_HABITAT",
@@ -2280,7 +2291,7 @@
       "Name": "Without A Paddle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "STORY_HANGAR",
@@ -2391,22 +2402,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14012,
+      "Progressed": 14018,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1938,
+      "Progressed": 1944,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-29T22:57:57.4485737+00:00",
-  "LastChanged_Achievements": "2023-05-30T00:03:49.1481973+00:00",
+  "LastChanged": "2023-05-30T02:05:09.9313144+00:00",
+  "LastChanged_Achievements": "2023-05-30T02:11:18.2649879+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:58:10.6306248+00:00",
-  "LastUpdate_Achievements": "2023-05-30T00:03:49.1482371+00:00"
+  "LastUpdate_Ratings": "2023-05-30T02:05:09.9313149+00:00",
+  "LastUpdate_Achievements": "2023-05-30T02:11:18.2650445+00:00"
 }
