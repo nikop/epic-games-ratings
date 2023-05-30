@@ -19,22 +19,22 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.93% |
-| 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.92% |
+| 20 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
 | 24 | [Scorn](games/s/scorn.md) | 6.88% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.01% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.91% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
@@ -55,7 +55,7 @@
 | 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.74% |
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 56 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
+| 56 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
@@ -89,15 +89,15 @@
 | 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.94% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
-| 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
-| 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
+| 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
+| 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.85% |
 | 93 | [Adios](games/a/adios.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
-| 96 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.78% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
 | 96 | [Them and Us](games/t/them_and_us.md) | 0.78% |
+| 98 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.77% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |
