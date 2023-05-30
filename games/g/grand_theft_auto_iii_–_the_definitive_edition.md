@@ -1,12 +1,12 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.14 (Ranked 856)  
+Rating: 4.14 (Ranked 855)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,721 |
-| Disposing of the Evidence | 36.00% | ~2,048 |
+| First Day on the Job | 83.00% | ~4,722 |
+| Disposing of the Evidence | 37.00% | ~2,105 |
 | Without a Scratch | 32.00% | ~1,820 |
 | Wreckless Driving | 27.00% | ~1,536 |
 | A Marked Man | 24.00% | ~1,365 |
@@ -35,7 +35,7 @@ Rating: 4.14 (Ranked 856)
 | Is That All You've Got? | 0.70% | ~40 |
 | King of Liberty City | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,688 (Ranked 123)  
+Progressed: 5,689 (Ranked 123)  
 Completed: 27 (0.47%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 27 (0.47%) (Ranked 110)
 | 2023-05-27 | 5,514 | 26 |
 | 2023-05-28 | 5,589 | 26 |
 | 2023-05-29 | 5,648 | 26 |
-| 2023-05-30 | 5,688 | 27 |
+| 2023-05-30 | 5,689 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

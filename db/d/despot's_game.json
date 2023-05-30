@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -195,6 +195,11 @@
       "Time": "2023-05-28T15:05:46.7117675+00:00",
       "NumProgressed": 381,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T20:05:48.1093607+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -228,9 +233,9 @@
       "ID": "collect-combos",
       "SetID": "799afm0",
       "Name": "Experimentalist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "collect-discounted-items1",
@@ -254,7 +259,7 @@
       "Name": "No Mercy",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "different-items1",
@@ -262,7 +267,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "different-items2",
@@ -276,17 +281,17 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 160
     },
     {
       "ID": "finished-quest-flight",
@@ -302,7 +307,7 @@
       "Name": "Campaigning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "finished-quest-nurgle",
@@ -318,7 +323,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "finished-quest-rat",
@@ -374,7 +379,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "last-hero",
@@ -414,7 +419,7 @@
       "Name": "Great Hero",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "win-first-biom",
@@ -422,7 +427,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "win-first-level",
@@ -430,7 +435,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "win-koth-fights1",
@@ -438,15 +443,15 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "win-koth-fights2",
       "SetID": "799afm0",
       "Name": "Soldier",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "win-koth-fights3",
@@ -485,7 +490,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 1
     }
   ],
@@ -493,8 +498,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:06:06.787789+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:48.1093598+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:58:42.4172546+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:06:06.7878105+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:44.1771706+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:48.1093803+00:00"
 }

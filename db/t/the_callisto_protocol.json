@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -482,9 +482,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14064,
+  "EOS_Progressed": 14069,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2157,6 +2157,11 @@
       "Time": "2023-05-30T19:03:57.2279877+00:00",
       "NumProgressed": 14064,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-30T20:03:40.6726706+00:00",
+      "NumProgressed": 14069,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2360,7 +2365,7 @@
       "Name": "The Outer Way",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2400,7 +2405,7 @@
       "Name": "Desperate Times",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2487,13 +2492,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14064,
+      "Progressed": 14069,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1990,
+      "Progressed": 1995,
       "Completed": 29
     }
   ],
@@ -2501,8 +2506,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-30T02:05:09.9313144+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:03:57.2279871+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:03:40.6726697+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:57:51.4120442+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:03:57.2280206+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:57:59.873883+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:03:40.6727071+00:00"
 }

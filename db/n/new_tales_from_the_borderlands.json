@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3411,
+  "EOS_Progressed": 3412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -433,6 +433,11 @@
       "Time": "2023-05-30T00:06:42.9451801+00:00",
       "NumProgressed": 3411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T20:05:47.7140293+00:00",
+      "NumProgressed": 3412,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -548,7 +553,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -564,7 +569,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -651,7 +656,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3411,
+      "Progressed": 3412,
       "Completed": 0
     }
   ],
@@ -659,8 +664,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:06:06.2508855+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:47.7140288+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:59.8325789+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:59:31.5339098+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:06:06.2509015+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:59:23.7760813+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:47.7140441+00:00"
 }

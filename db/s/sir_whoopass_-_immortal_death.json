@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "COMPLETE_DUNGEONRUINS_03",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Chilly Winds",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COWBOY_1",
@@ -751,9 +751,9 @@
       "ID": "JUMP_3",
       "SetID": "9gfkh7c",
       "Name": "I cant stand still!",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KNIGHT_1",
@@ -958,8 +958,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:06:03.0304005+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:45.0456581+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:57:07.7963732+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:06:03.0304832+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:57:24.3045075+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:45.0457314+00:00"
 }

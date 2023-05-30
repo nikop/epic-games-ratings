@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -419,6 +419,11 @@
       "Time": "2023-05-30T19:03:21.2887326+00:00",
       "NumProgressed": 214,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T20:03:10.9222011+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -430,7 +435,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "completeact2",
@@ -438,15 +443,15 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "findalltapes",
@@ -478,7 +483,7 @@
       "Name": "Freedom",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "scoreminrankrf1",
@@ -508,9 +513,9 @@
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "scoreminrankrp2",
@@ -542,14 +547,14 @@
       "Name": "Friendzone",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 2
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:03:21.2887322+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:03:10.9222004+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:58:49.2316689+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:03:21.288743+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:49.7703379+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:03:10.9222117+00:00"
 }

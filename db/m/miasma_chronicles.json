@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 871,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-05-30T19:00:46.2289151+00:00",
       "NumProgressed": 870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T20:00:29.222381+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -853,9 +858,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 592
     },
     {
       "ID": "ATTENBOROUGH",
@@ -887,7 +892,7 @@
       "Name": "Chain Killer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "CHAIN_REACTION",
@@ -949,9 +954,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 244
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1013,9 +1018,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 244
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1023,7 +1028,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1071,39 +1076,39 @@
       "Name": "Gun for Hire",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 105
     },
     {
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 444
     },
     {
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 70
     },
     {
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 279
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1149,9 +1154,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "RUTHLESS",
@@ -1205,9 +1210,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 122
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1246,7 +1251,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 871,
       "Completed": 0
     }
   ],
@@ -1254,8 +1259,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-29T20:58:20.2954547+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:00:46.2289145+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:00:29.2223805+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:58:19.0940329+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:00:46.2289581+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:22.6141288+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:00:29.2224246+00:00"
 }

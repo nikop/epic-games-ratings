@@ -6,9 +6,9 @@ Rating: 3.91 (Ranked 908)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,152 |
-| World Map | 80.00% | ~980 |
-| Temple of Eternals | 56.00% | ~686 |
-| Prestigious | 53.00% | ~649 |
+| World Map | 80.00% | ~981 |
+| Temple of Eternals | 56.00% | ~687 |
+| Prestigious | 53.00% | ~650 |
 | Fellowship Power | 40.00% | ~490 |
 | Guild Power | 24.00% | ~294 |
 | Prestigious x10 | 21.00% | ~257 |
@@ -50,12 +50,12 @@ Rating: 3.91 (Ranked 908)
 | Four Leaf Clover | 3.00% | ~37 |
 | Lock And Load | 3.00% | ~37 |
 | Master Enchanter | 3.00% | ~37 |
-| Blueprint Upgrades | 2.00% | ~24 |
-| Dragon Slayer | 2.00% | ~24 |
-| Enchanting skill | 2.00% | ~24 |
-| Engineer Mastery | 2.00% | ~24 |
-| Sailor | 2.00% | ~24 |
-| What lies behind the bush | 2.00% | ~24 |
+| Blueprint Upgrades | 2.00% | ~25 |
+| Dragon Slayer | 2.00% | ~25 |
+| Enchanting skill | 2.00% | ~25 |
+| Engineer Mastery | 2.00% | ~25 |
+| Sailor | 2.00% | ~25 |
+| What lies behind the bush | 2.00% | ~25 |
 | Active Member | 1.00% | ~12 |
 | Crystal Mining | 1.00% | ~12 |
 | Ebony Jungle Liberator | 1.00% | ~12 |
@@ -81,7 +81,7 @@ Rating: 3.91 (Ranked 908)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,225 (Ranked 160)  
+Progressed: 1,226 (Ranked 160)  
 Completed: 1 (0.08%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 1 (0.08%) (Ranked 167)
 | 2023-05-27 | 1,192 | 1 |
 | 2023-05-28 | 1,207 | 1 |
 | 2023-05-29 | 1,220 | 1 |
-| 2023-05-30 | 1,225 | 1 |
+| 2023-05-30 | 1,226 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

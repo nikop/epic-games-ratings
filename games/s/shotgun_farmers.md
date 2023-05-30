@@ -21,9 +21,9 @@
 | Grave Digger | 12.00% | ~2 |
 | 15K | 11.00% | ~7 |
 | 10K | 11.00% | ~7 |
+| Perfect | 11.00% | ~2 |
 | Drinking Problem | 9.00% | ~6 |
 | Oh My Gourd | 9.00% | ~1 |
-| Perfect | 9.00% | ~1 |
 | Expert Survivor | 9.00% | ~1 |
 | Quadsparagus | 9.00% | ~1 |
 | Skin Of Your Teeth | 8.00% | ~5 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1491,
+  "EOS_Progressed": 1492,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 101,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 102,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 7.98,
   "EosHistory": [
     {
@@ -1978,6 +1978,11 @@
       "Time": "2023-05-30T19:06:01.4918199+00:00",
       "NumProgressed": 1491,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-05-30T20:05:43.6026033+00:00",
+      "NumProgressed": 1492,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 12,
@@ -2013,7 +2018,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Jacques a Dit",
@@ -2084,7 +2089,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1491,
+      "Progressed": 1492,
       "Completed": 119
     }
   ],
@@ -2092,8 +2097,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:06:01.4918195+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:43.6026027+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:59:35.6094155+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:06:01.4918362+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:59:27.0894011+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:43.6026199+00:00"
 }

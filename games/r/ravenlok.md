@@ -15,8 +15,8 @@
 | Tragic Brave | 52.00% | ~473 |
 | Awakened Spirits | 49.00% | ~445 |
 | Little Shop | 48.00% | ~436 |
+| Surprise! | 44.00% | ~400 |
 | An Actor! | 44.00% | ~400 |
-| Surprise! | 43.00% | ~391 |
 | Curtain Call | 42.00% | ~382 |
 | Glimmer of Hope | 40.00% | ~364 |
 | Well Rested | 40.00% | ~364 |
@@ -49,7 +49,7 @@
 | Extraordinary! | 29.00% | ~264 |
 | Mirror, Mirror | 28.00% | ~255 |
 | Flower Power | 24.00% | ~218 |
-| Shopping Spree! | 22.00% | ~200 |
+| Shopping Spree! | 23.00% | ~209 |
 | Crowned | 21.00% | ~191 |
 | Max Level! | 13.00% | ~118 |
 | Dance Master | 8.00% | ~73 |

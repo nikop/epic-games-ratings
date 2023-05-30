@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2389,6 +2389,11 @@
       "Time": "2023-05-30T12:06:38.6799031+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T20:05:50.5550663+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2448,7 +2453,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "cauldronliberator",
@@ -2520,7 +2525,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ebonyjungleliberator",
@@ -2536,7 +2541,7 @@
       "Name": "Enchanting skill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "enchantingskillx5",
@@ -2552,7 +2557,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "enhancedwarmachines",
@@ -2792,7 +2797,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "prestigiousx10",
@@ -2816,7 +2821,7 @@
       "Name": "Sailor",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "scientist",
@@ -2856,7 +2861,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "thealchemist",
@@ -2984,7 +2989,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "worldmap",
@@ -2992,14 +2997,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 1
     }
   ],
@@ -3007,8 +3012,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:06:09.3621914+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:50.5550656+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:58:01.0565234+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:06:09.3622607+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:07.9255801+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:50.5551416+00:00"
 }

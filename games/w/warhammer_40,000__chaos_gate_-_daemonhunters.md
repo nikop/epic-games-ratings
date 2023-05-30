@@ -6,16 +6,16 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 35.00% | ~974 |
-| Look Over There! | 29.00% | ~807 |
-| Watch Where You Step... | 29.00% | ~807 |
-| Not So Fast... | 28.00% | ~779 |
-| An Ill Omen | 27.00% | ~751 |
-| Purging Spree | 21.00% | ~584 |
-| Blood for the Blood God! | 16.00% | ~445 |
-| Friendly Fire | 15.00% | ~417 |
-| Surgical Excision | 14.00% | ~389 |
-| Bloodless | 14.00% | ~389 |
+| Executioner | 35.00% | ~975 |
+| Look Over There! | 29.00% | ~808 |
+| Watch Where You Step... | 29.00% | ~808 |
+| Not So Fast... | 28.00% | ~780 |
+| An Ill Omen | 27.00% | ~752 |
+| Purging Spree | 21.00% | ~585 |
+| Blood for the Blood God! | 16.00% | ~446 |
+| Friendly Fire | 15.00% | ~418 |
+| Surgical Excision | 14.00% | ~390 |
+| Bloodless | 14.00% | ~390 |
 | Honoured Battle-Brother | 11.00% | ~306 |
 | The Emperor Protects | 10.00% | ~278 |
 | Nemesis Master | 10.00% | ~278 |
@@ -28,10 +28,10 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 4.00% | ~111 |
 | A Gift Spurned | 4.00% | ~111 |
 | Long Distance Call | 4.00% | ~111 |
-| Corruption Cleanser | 3.00% | ~83 |
-| Mind Like a Fortress | 3.00% | ~83 |
-| Harvest No More | 3.00% | ~83 |
-| Tactical Flexibility | 3.00% | ~83 |
+| Corruption Cleanser | 3.00% | ~84 |
+| Mind Like a Fortress | 3.00% | ~84 |
+| Harvest No More | 3.00% | ~84 |
+| Tactical Flexibility | 3.00% | ~84 |
 | Patron of Deimos | 2.00% | ~56 |
 | Exterminator | 2.00% | ~56 |
 | Preservationist | 2.00% | ~56 |
@@ -51,9 +51,9 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.50% | ~14 |
 | Strategic Command | 0.40% | ~11 |
 | Blood and Iron | 0.30% | ~8 |
+| Grand Master | 0.30% | ~8 |
 | Firing Squad | 0.30% | ~8 |
 | Crisis Management | 0.20% | ~6 |
-| Grand Master | 0.20% | ~6 |
 | Brothers in Arms | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,782 (Ranked 137)  
+Progressed: 2,785 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 2,704 | 0 |
 | 2023-05-28 | 2,736 | 0 |
 | 2023-05-29 | 2,765 | 0 |
-| 2023-05-30 | 2,782 | 0 |
+| 2023-05-30 | 2,785 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 299)  

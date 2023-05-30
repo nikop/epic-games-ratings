@@ -11,16 +11,16 @@
 | Pooshed Past 5000 | 23.00% | ~24 |
 | Terrible Start | 19.00% | ~20 |
 | Challenge 01 | 10.00% | ~10 |
-| Pooshed Past 7500 | 9.00% | ~9 |
+| Pooshed Past 7500 | 10.00% | ~10 |
 | Challenge 03 | 3.00% | ~3 |
 | Challenge 04 | 3.00% | ~3 |
+| Pooshed Past 10000 | 3.00% | ~3 |
 | Challenge 02 | 2.00% | ~2 |
 | Challenge 05 | 2.00% | ~2 |
 | Challenge 07 | 2.00% | ~2 |
 | Challenge 08 | 2.00% | ~2 |
 | Challenge 09 | 2.00% | ~2 |
 | Challenge 10 | 2.00% | ~2 |
-| Pooshed Past 10000 | 2.00% | ~2 |
 | Challenge 06 | 1.00% | ~1 |
 | Challenge 11 | 0.00% | ~0 |
 | Challenge 12 | 0.00% | ~0 |

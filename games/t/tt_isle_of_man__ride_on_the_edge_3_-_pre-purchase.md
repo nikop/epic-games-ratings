@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | You're Going Down! | 97.00% | ~57 |
 | To Each Their Own | 49.00% | ~29 |
-| You Get An Upgrade, You Get An Upgrade! | 19.00% | ~11 |
+| You Get An Upgrade, You Get An Upgrade! | 20.00% | ~12 |
 | Onwards and Upwards | 19.00% | ~11 |
 | Like Phileas Fogg | 14.00% | ~8 |
 | Serial Winner | 12.00% | ~7 |
+| Highly Qualified | 7.00% | ~4 |
 | No Room for Improvement | 7.00% | ~4 |
 | Start Your Engines | 7.00% | ~4 |
 | Seven-League Boots | 5.00% | ~3 |
 | Nerd | 5.00% | ~3 |
-| Highly Qualified | 5.00% | ~3 |
 | Upgradeaholic | 5.00% | ~3 |
 | Tailor-Made for Two | 5.00% | ~3 |
 | Lone Wolf | 5.00% | ~3 |

@@ -45,7 +45,7 @@
 | You're not so Big anymore, Boi! | 22.00% | ~15 |
 | Your daily dose of Vitamin C. | 22.00% | ~15 |
 | Kleptomaniac | 22.00% | ~15 |
-| I cant stand still! | 19.00% | ~13 |
+| I cant stand still! | 21.00% | ~14 |
 | Master Butcher | 16.00% | ~11 |
 | Just wing it! | 16.00% | ~11 |
 | Deal with it | 15.00% | ~10 |
@@ -73,11 +73,11 @@
 | Ancient Ruins of Peekaboo | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~2 |
+| Ancient Ruins of Chilly Winds | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
 | Out of bounds | 3.00% | ~2 |
 | Ancient Ruins of Vitamin D Addition | 1.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 1.00% | ~1 |
-| Ancient Ruins of Chilly Winds | 1.00% | ~1 |
 | Consider it dealt with | 1.00% | ~1 |
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |

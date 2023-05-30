@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5688,
+  "EOS_Progressed": 5689,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2456,6 +2456,11 @@
       "Time": "2023-05-30T19:02:35.8187842+00:00",
       "NumProgressed": 5688,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-30T20:02:28.9413886+00:00",
+      "NumProgressed": 5689,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -2467,7 +2472,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "ACH02",
@@ -2489,9 +2494,9 @@
       "ID": "ACH04",
       "SetID": "552d41m",
       "Name": "Disposing of the Evidence",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2105
     },
     {
       "ID": "ACH05",
@@ -2698,7 +2703,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5688,
+      "Progressed": 5689,
       "Completed": 27
     }
   ],
@@ -2706,8 +2711,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-29T04:57:50.3282515+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:02:35.8187837+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:02:28.9413881+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:57:54.4210805+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:02:35.8188096+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:02.1636497+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:02:28.9414138+00:00"
 }

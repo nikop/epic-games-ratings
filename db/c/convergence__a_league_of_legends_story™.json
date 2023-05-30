@@ -723,9 +723,9 @@
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "ClockworkProgress1",
@@ -739,9 +739,9 @@
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "CosmeticCompletion1",
@@ -779,9 +779,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 161
     },
     {
       "ID": "FactorywoodChests1",
@@ -1035,9 +1035,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1051,9 +1051,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1083,9 +1083,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1114,8 +1114,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:05:07.4317144+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:04:58.2366716+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:59:28.4028597+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:05:07.4317539+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:59:21.4318056+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:04:58.2367119+00:00"
 }

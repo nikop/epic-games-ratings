@@ -7,7 +7,7 @@
 | Historian | 95.00% | ~187 |
 | Treasure hunter | 91.00% | ~179 |
 | Survivalist | 83.00% | ~164 |
-| Challenge seeker | 78.00% | ~154 |
+| Challenge seeker | 79.00% | ~156 |
 | Coin collector | 74.00% | ~146 |
 | Floater | 58.00% | ~114 |
 | Speedrunner | 43.00% | ~85 |

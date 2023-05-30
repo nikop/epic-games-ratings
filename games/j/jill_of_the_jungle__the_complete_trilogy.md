@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to the Jungle | 100.00% | ~931 |
 | Jill the Bold | 12.00% | ~112 |
-| Jill the Brave | 9.00% | ~84 |
+| Jill the Brave | 10.00% | ~93 |
 | Jill the Courageous | 9.00% | ~84 |
 | Jill the Champion | 8.00% | ~74 |
 ## Popularity (Based on EOS Achievements)

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 213,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 65,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 14.69,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 14.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -933,6 +933,11 @@
       "Time": "2023-05-30T18:05:31.9422417+00:00",
       "NumProgressed": 211,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-30T20:05:32.9289019+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 22,
@@ -944,7 +949,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 209
+      "UsersEstimate": 211
     },
     {
       "ID": "LEVEL_002",
@@ -952,7 +957,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 183
     },
     {
       "ID": "LEVEL_003",
@@ -960,7 +965,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_004",
@@ -968,7 +973,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_005",
@@ -976,7 +981,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_006",
@@ -992,23 +997,23 @@
       "Name": "Burger or pizza?",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "LEVEL_010",
@@ -1032,7 +1037,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_013",
@@ -1040,7 +1045,7 @@
       "Name": "Elevated ring",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_014",
@@ -1048,7 +1053,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_015",
@@ -1070,9 +1075,9 @@
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_018",
@@ -1119,7 +1124,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 213,
       "Completed": 31
     }
   ],
@@ -1127,8 +1132,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:05:49.2858658+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:32.9289013+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:58:02.1510687+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:05:49.285883+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:08.8528434+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:32.9289184+00:00"
 }

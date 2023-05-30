@@ -1,7 +1,7 @@
 # Never Alone (Kisima Ingitchuna)
 [Store](https://store.epicgames.com/en-US/p/never-alone-kisima-ingitchuna)  
 [View Rawdata](../../db/n/never_alone_(kisima_ingitchuna).json)  
-Rating: 4.15 (Ranked 850)  
+Rating: 4.14 (Ranked 855)  
 Number of Ratings: 174  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -87,3 +87,4 @@ Number of Ratings: 174  (23.09.2022)
 | 2023-04-27 | 4.13 | - | 0 | 0 |
 | 2023-05-07 | 4.14 | - | 0 | 0 |
 | 2023-05-15 | 4.15 | - | 0 | 0 |
+| 2023-05-30 | 4.14 | - | 0 | 0 |

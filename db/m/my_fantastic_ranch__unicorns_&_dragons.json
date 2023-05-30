@@ -2,7 +2,7 @@
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch: Unicorns \u0026 Dragons",
   "ProductSlug": "my-fantastic-ranch",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 90,
@@ -83,25 +83,25 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
       "SetID": "6ljhbe4",
       "Name": "Think Positive",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "12",
@@ -171,9 +171,9 @@
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "20",
@@ -275,9 +275,9 @@
       "ID": "9",
       "SetID": "6ljhbe4",
       "Name": "Prized Possession",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -292,8 +292,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:05:56.4095566+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:38.7799545+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.5944136+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:58:38.0640834+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:05:56.4095714+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:40.1679108+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:38.7799679+00:00"
 }

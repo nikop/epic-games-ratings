@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 67.00% | ~6 |
-| Think Positive | 44.00% | ~4 |
-| Spirit of competition | 44.00% | ~4 |
-| Creature Evolution | 33.00% | ~3 |
-| Prized Possession | 33.00% | ~3 |
+| Let the Adventure Begin! | 78.00% | ~7 |
+| Think Positive | 56.00% | ~5 |
+| Spirit of competition | 56.00% | ~5 |
+| Creature Evolution | 44.00% | ~4 |
+| Prized Possession | 44.00% | ~4 |
 | Landscaper | 11.00% | ~1 |
 | Dream Big | 11.00% | ~1 |
 | Kingdom Party Time | 11.00% | ~1 |
@@ -30,7 +30,7 @@
 | Neverending Story | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 351)  
+Progressed: 9 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

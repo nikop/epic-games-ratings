@@ -36,7 +36,7 @@ Rating: 4.67 (Ranked 257)
 | Awards unwarded | 1.00% | ~4 |
 | Entangled | 1.00% | ~4 |
 | Mushrooming enthusiast | 0.20% | ~1 |
-| Apex predator | 0.00% | ~0 |
+| Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 419 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 207)  

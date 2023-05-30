@@ -11,7 +11,7 @@ Number of Ratings: 98  (23.09.2022)
 | War Never Changes | 28.00% | ~269 |
 | Heroes Never Die | 25.00% | ~240 |
 | Mosquito bite | 25.00% | ~240 |
-| Spice It Up | 22.00% | ~211 |
+| Spice It Up | 23.00% | ~221 |
 | Agent 47 | 19.00% | ~182 |
 | You're Gonna Go Far, Kid | 19.00% | ~182 |
 | Bomberman | 19.00% | ~182 |

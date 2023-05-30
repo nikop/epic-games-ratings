@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -597,9 +597,9 @@
       "ID": "Chapter8",
       "SetID": "70l3651",
       "Name": "Her Eyes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "Chapter9",
@@ -757,9 +757,9 @@
       "ID": "Song",
       "SetID": "70l3651",
       "Name": "Made a Song",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "StealFood",
@@ -804,8 +804,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:05:46.6218434+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:30.6341064+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:57:44.7846297+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:05:46.6218685+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:57:54.3359726+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:30.6341346+00:00"
 }

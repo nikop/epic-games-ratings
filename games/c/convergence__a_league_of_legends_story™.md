@@ -24,10 +24,10 @@
 | Like Clockwork | 35.00% | ~182 |
 | The Wicked Twins | 34.00% | ~177 |
 | The Betrayer | 33.00% | ~172 |
-| Family Memories | 30.00% | ~156 |
+| Family Memories | 31.00% | ~161 |
 | Check Your Pulse | 30.00% | ~156 |
+| Good Neighbor | 29.00% | ~151 |
 | Street Style | 28.00% | ~146 |
-| Good Neighbor | 28.00% | ~146 |
 | The Loose Cannon | 27.00% | ~140 |
 | The Man Who Shattered Time | 22.00% | ~114 |
 | The Family Fortune | 22.00% | ~114 |
@@ -35,16 +35,16 @@
 | Sump Explorer | 21.00% | ~109 |
 | Ask Questions Later | 21.00% | ~109 |
 | Chaincrawler Explorer | 20.00% | ~104 |
+| Syron for Hope | 20.00% | ~104 |
 | Factorywood Explorer | 19.00% | ~99 |
-| Syron for Hope | 19.00% | ~99 |
 | Fairgrounds Explorer | 18.00% | ~94 |
+| Theater Explorer | 15.00% | ~78 |
 | Cultivair Explorer | 14.00% | ~73 |
-| Theater Explorer | 14.00% | ~73 |
+| Corin Goes Home | 12.00% | ~62 |
 | Entresol Explorer | 12.00% | ~62 |
 | Rungs Was Right | 12.00% | ~62 |
-| Corin Goes Home | 11.00% | ~57 |
 | Sartorialist | 11.00% | ~57 |
-| Clovemary for Remembering | 9.00% | ~47 |
+| Clovemary for Remembering | 10.00% | ~52 |
 | Hexlock for Protection | 9.00% | ~47 |
 | Golem Hunter | 8.00% | ~42 |
 | Thinking Two Steps Ahead | 4.00% | ~21 |

@@ -2,7 +2,7 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 90,
@@ -373,8 +373,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:05:45.2940695+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:29.4792785+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.8430665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:57:21.2111855+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:05:45.2940811+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:57:35.84614+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:29.479294+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.56,
+  "EOS_Completed_Percentage": 2.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-05-30T17:05:30.7236509+00:00",
       "NumProgressed": 78,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T20:05:46.0784373+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -80,7 +85,7 @@
       "ID": "AllCreditorsComplete",
       "SetID": "9e3d06k",
       "Name": "Full and Final Settlement",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -112,7 +117,7 @@
       "ID": "EnemyDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Unstoppable",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -138,13 +143,13 @@
       "Name": "Breaking Through",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -154,13 +159,13 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -168,7 +173,7 @@
       "ID": "Headshots_1",
       "SetID": "9e3d06k",
       "Name": "Veteran Sniper",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
       "UsersEstimate": 16
     },
@@ -176,7 +181,7 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -208,9 +213,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SecretEnding",
@@ -240,7 +245,7 @@
       "ID": "StoryEnd",
       "SetID": "9e3d06k",
       "Name": "One Click Away",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -248,7 +253,7 @@
       "ID": "TelekinesisThrow_0",
       "SetID": "9e3d06k",
       "Name": "Mind Over Matter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -264,7 +269,7 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 24
     }
@@ -273,7 +278,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 2
     }
   ],
@@ -281,8 +286,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:06:04.1755934+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:46.0784364+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.8111106+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:59:01.2239095+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:06:04.175611+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:59.7236663+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:46.0784512+00:00"
 }

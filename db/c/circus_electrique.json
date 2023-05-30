@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2023-05-30T11:05:22.7609576+00:00",
       "NumProgressed": 414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T20:05:54.1341545+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -208,9 +213,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -282,7 +287,7 @@
       "Name": "Time Travel!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -338,7 +343,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -522,7 +527,7 @@
       "Name": "Marketing Manager",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -609,7 +614,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 1
     }
   ],
@@ -617,8 +622,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-30T19:06:13.5771618+00:00",
+  "LastChanged_Achievements": "2023-05-30T20:05:54.1341541+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:58:56.6934514+00:00",
-  "LastUpdate_Achievements": "2023-05-30T19:06:13.5771961+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:58:56.2140869+00:00",
+  "LastUpdate_Achievements": "2023-05-30T20:05:54.1341874+00:00"
 }
