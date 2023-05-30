@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.69% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.55% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
@@ -34,17 +34,17 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.00% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.91% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 41 | [The Complex](games/t/the_complex.md) | 3.43% |
+| 41 | [The Complex](games/t/the_complex.md) | 3.42% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.21% |
-| 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
+| 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.14% |
 | 46 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
@@ -55,7 +55,7 @@
 | 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.74% |
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 56 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
+| 56 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
@@ -423,4 +423,4 @@
 | 207 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 207 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 207 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,700 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,701 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
