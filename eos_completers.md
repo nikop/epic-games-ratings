@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.98% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.90% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
@@ -43,12 +43,12 @@
 | 41 | [The Complex](games/t/the_complex.md) | 3.43% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
-| 44 | [ZZT!](games/z/zzt!.md) | 3.22% |
+| 44 | [ZZT!](games/z/zzt!.md) | 3.21% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 46 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
+| 49 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
@@ -61,7 +61,7 @@
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.21% |
 | 61 | [JARS](games/j/jars.md) | 2.17% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.94% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -85,12 +85,12 @@
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.06% |
-| 86 | [Five Dates](games/f/five_dates.md) | 1.03% |
+| 86 | [Five Dates](games/f/five_dates.md) | 1.02% |
 | 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.95% |
-| 87 | [Sable](games/s/sable.md) | 0.95% |
+| 88 | [Sable](games/s/sable.md) | 0.94% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
-| 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
-| 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
+| 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
+| 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.85% |
 | 93 | [Adios](games/a/adios.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
