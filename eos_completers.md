@@ -22,12 +22,12 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.95% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.88% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
 | 24 | [Scorn](games/s/scorn.md) | 6.89% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.03% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.01% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
@@ -49,8 +49,8 @@
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
-| 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.87% |
-| 51 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
+| 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
+| 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.82% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.74% |
