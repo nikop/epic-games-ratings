@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2671,
+  "EOS_Progressed": 2672,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1784,6 +1784,11 @@
       "Time": "2023-05-30T04:02:28.6386381+00:00",
       "NumProgressed": 2671,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T05:02:42.4895129+00:00",
+      "NumProgressed": 2672,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1795,7 +1800,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "AceDetective_9",
@@ -1851,7 +1856,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Eureka_23",
@@ -1987,7 +1992,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1995,7 +2000,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -2130,15 +2135,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2671,
+      "Progressed": 2672,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:02:28.6386376+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:02:42.4895119+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:57:38.5367314+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:02:28.6386784+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:57:46.0597215+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:02:42.4895595+00:00"
 }

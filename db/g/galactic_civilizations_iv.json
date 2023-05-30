@@ -786,9 +786,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5825,
+  "EOS_Progressed": 5826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2701,6 +2701,11 @@
       "Time": "2023-05-30T00:03:42.5817581+00:00",
       "NumProgressed": 5825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T05:03:48.0185962+00:00",
+      "NumProgressed": 5826,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2742,9 +2747,9 @@
       "ID": "Buy_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Trader",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1806
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2776,7 +2781,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2816,7 +2821,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4602
+      "UsersEstimate": 4603
     },
     {
       "ID": "First_Race_Met",
@@ -2824,7 +2829,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4252
+      "UsersEstimate": 4253
     },
     {
       "ID": "First_Ship_Designed",
@@ -2832,7 +2837,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "First_Stream_Travel",
@@ -3016,7 +3021,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -3040,7 +3045,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "War_With_5_Factions",
@@ -3064,7 +3069,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Win_As_Arcean",
@@ -3144,7 +3149,7 @@
       "Name": "Win as the Mimot",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Win_As_Navigators",
@@ -3192,7 +3197,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Win_Battle",
@@ -3248,7 +3253,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Win_Multiplayer",
@@ -3287,15 +3292,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5825,
+      "Progressed": 5826,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-29T13:02:30.5429033+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:03:36.3310916+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:03:48.0185956+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.5418964+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:57:21.5962053+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:03:36.331185+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:57:24.7412145+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:03:48.0187007+00:00"
 }

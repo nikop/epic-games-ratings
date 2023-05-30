@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 63,
+  "Ranking_Rating": 64,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
@@ -4290,9 +4290,9 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706276,
+  "EOS_Progressed": 706287,
   "EOS_Completed": 12747,
-  "EOS_NewPlayers": 1592,
+  "EOS_NewPlayers": 1591,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7745,6 +7745,11 @@
       "Time": "2023-05-30T04:05:37.9415915+00:00",
       "NumProgressed": 706276,
       "NumCompleted": 12747
+    },
+    {
+      "Time": "2023-05-30T05:06:14.3015259+00:00",
+      "NumProgressed": 706287,
+      "NumCompleted": 12747
     }
   ],
   "TotalAchievements": 50,
@@ -7788,7 +7793,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7796,7 +7801,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "07_Wude_H1",
@@ -7860,15 +7865,15 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "15_Detective_H1",
       "SetID": "adcm20g",
       "Name": "Detective Story",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2825
+      "UsersEstimate": 3531
     },
     {
       "ID": "16_Detective_H2",
@@ -7924,7 +7929,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7964,7 +7969,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -8092,7 +8097,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8100,7 +8105,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8124,7 +8129,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -8148,28 +8153,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15577,
+      "Progressed": 15588,
       "Completed": 10195
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706276,
+      "Progressed": 706287,
       "Completed": 12747
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-29T20:59:02.1691035+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:05:37.941591+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:06:14.3015254+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:58:41.6210521+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:05:37.9416518+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:59:06.3251187+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:06:14.3015994+00:00"
 }

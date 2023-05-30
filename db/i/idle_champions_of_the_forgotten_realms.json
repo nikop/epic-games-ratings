@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4012,10 +4012,10 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 89180,
+  "EOS_Progressed": 89182,
   "EOS_Completed": 1898,
-  "EOS_NewPlayers": 827,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 826,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -7942,6 +7942,11 @@
       "Time": "2023-05-30T04:05:48.7232525+00:00",
       "NumProgressed": 89180,
       "NumCompleted": 1898
+    },
+    {
+      "Time": "2023-05-30T05:06:26.095304+00:00",
+      "NumProgressed": 89182,
+      "NumCompleted": 1898
     }
   ],
   "TotalAchievements": 493,
@@ -9799,9 +9804,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_399",
@@ -11896,21 +11901,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55454,
-      "Completed": 2739
+      "Progressed": 55456,
+      "Completed": 2740
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89180,
+      "Progressed": 89182,
       "Completed": 1898
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-30T02:58:03.3677349+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:05:48.7232518+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:06:26.0953034+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:57:53.3460479+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:05:48.7259615+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:58:06.2886812+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:06:26.0983981+00:00"
 }

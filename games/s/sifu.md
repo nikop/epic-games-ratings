@@ -1,13 +1,13 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 63)  
+Rating: 4.82 (Ranked 64)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~623 |
-| Project Arena | 3.00% | ~467 |
+| Diligence as a goal | 4.00% | ~624 |
+| Project Arena | 3.00% | ~468 |
 | The Old Grandmaster | 1.00% | ~7,063 |
 | The Assault | 1.00% | ~7,063 |
 | The Hateful Pole Fighter | 1.00% | ~7,063 |
@@ -20,11 +20,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,063 |
 | Bloody Sport | 1.00% | ~156 |
 | The best strikes are the ones we avoid | 1.00% | ~156 |
-| Lady Wing Chun | 0.90% | ~6,356 |
-| Furious Fists | 0.90% | ~6,356 |
-| Kill Nil | 0.90% | ~6,356 |
-| Street Fighting | 0.90% | ~6,356 |
-| Qi Gong: Essence | 0.90% | ~6,356 |
+| Lady Wing Chun | 0.90% | ~6,357 |
+| Furious Fists | 0.90% | ~6,357 |
+| Kill Nil | 0.90% | ~6,357 |
+| Street Fighting | 0.90% | ~6,357 |
+| Qi Gong: Essence | 0.90% | ~6,357 |
 | Stuntmaster | 0.80% | ~5,650 |
 | Old Child | 0.80% | ~5,650 |
 | Take damage to save time | 0.80% | ~5,650 |
@@ -33,14 +33,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.60% | ~4,238 |
 | Qi Gong: Mind | 0.60% | ~4,238 |
 | I know Kung-Fu | 0.60% | ~4,238 |
-| Deadly Venom | 0.60% | ~93 |
-| A Touch of Acumen | 0.60% | ~93 |
+| Deadly Venom | 0.60% | ~94 |
+| A Touch of Acumen | 0.60% | ~94 |
 | Muk Yan Master | 0.50% | ~3,531 |
+| Detective Story | 0.50% | ~3,531 |
 | Tiger on Fire | 0.40% | ~2,825 |
 | Source of Flying Daggers | 0.40% | ~2,825 |
 | Iron Money | 0.40% | ~2,825 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,825 |
-| Detective Story | 0.40% | ~2,825 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,825 |
 | Sword Stained With Blood | 0.40% | ~2,825 |
 | Prodigal Child | 0.30% | ~2,119 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,276 (Ranked 15)  
+Progressed: 706,287 (Ranked 15)  
 Completed: 12,747 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 12,747 (1.80%) (Ranked 65)
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
 | 2023-05-29 | 706,246 | 12,745 |
-| 2023-05-30 | 706,276 | 12,747 |
+| 2023-05-30 | 706,287 | 12,747 |
 ## Awards
 Max (Great Boss Battles): 6,109  (Ranked 53)  
 Sum: 10,410 (Ranked 77)  

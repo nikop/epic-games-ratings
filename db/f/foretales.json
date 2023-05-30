@@ -113,9 +113,9 @@
       "ID": "chapter2",
       "SetID": "5bkacmp",
       "Name": "Aboard the Sea Bird",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "chapter3",
@@ -129,9 +129,9 @@
       "ID": "darkAndStinky",
       "SetID": "5bkacmp",
       "Name": "Dark and stinky",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "darkVolepain",
@@ -273,9 +273,9 @@
       "ID": "sayHelloToMyLittleFriends",
       "SetID": "5bkacmp",
       "Name": "Say hello to my little friends",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "sneakInSneakOut",
@@ -418,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:05:39.6004282+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:06:16.1201538+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.9100533+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:59:58.6522805+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:05:39.6004618+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:00:42.1891358+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:06:16.1201917+00:00"
 }

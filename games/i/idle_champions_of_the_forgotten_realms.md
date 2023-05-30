@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~178 |
 | Attack on the Manor | 0.20% | ~178 |
 | The Death Curse | 0.20% | ~178 |
+| Nimble Escape | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
 | Premature Betrayal | 0.20% | ~178 |
 | A Tale of Two Cities | 0.20% | ~178 |
@@ -266,7 +267,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~89 |
 | Late Game | 0.10% | ~89 |
 | Shadowfell Stalwarts | 0.10% | ~55 |
-| Nimble Escape | 0.10% | ~89 |
 | Nimblest Escape | 0.10% | ~89 |
 | Stumbling Escape | 0.10% | ~89 |
 | Distracted Escape | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,180 (Ranked 61)  
+Progressed: 89,182 (Ranked 61)  
 Completed: 1,898 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 1,898 (2.13%) (Ranked 63)
 | 2023-05-27 | 88,909 | 1,888 |
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
-| 2023-05-30 | 89,180 | 1,898 |
+| 2023-05-30 | 89,182 | 1,898 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,000 (Ranked 37)  

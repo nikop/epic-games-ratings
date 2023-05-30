@@ -8,14 +8,14 @@
 | Gorilla warfare | 57.00% | ~146 |
 | Isenburg's fall | 48.00% | ~123 |
 | Pieces of eight! | 41.00% | ~105 |
-| Aboard the Sea Bird | 30.00% | ~77 |
+| Aboard the Sea Bird | 31.00% | ~80 |
 | Elephant in the room | 30.00% | ~77 |
-| Dark and stinky | 28.00% | ~72 |
+| Dark and stinky | 29.00% | ~75 |
 | Sneak in, sneak out | 26.00% | ~67 |
 | Is this the end? | 24.00% | ~62 |
 | You sssaved me | 24.00% | ~62 |
 | A gift horse | 23.00% | ~59 |
-| Say hello to my little friends | 20.00% | ~51 |
+| Say hello to my little friends | 21.00% | ~54 |
 | Gotcha | 18.00% | ~46 |
 | Heal thyself | 18.00% | ~46 |
 | Double trouble | 16.00% | ~41 |

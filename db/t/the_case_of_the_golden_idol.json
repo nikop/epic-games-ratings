@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed_Percentage": 3.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -308,6 +308,11 @@
       "Time": "2023-05-30T03:02:11.0300533+00:00",
       "NumProgressed": 104,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-30T05:02:25.0435314+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -319,7 +324,7 @@
       "Name": "Solved first case",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "1",
@@ -327,7 +332,7 @@
       "Name": "Solved second case",
       "Percentage": 81,
       "XP": 90,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "10",
@@ -349,7 +354,7 @@
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
       "UsersEstimate": 54
     },
@@ -406,22 +411,22 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 4
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 51,
-      "Completed": 51
+      "Progressed": 52,
+      "Completed": 52
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:02:14.3006525+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:02:25.0435305+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:22.3252566+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:58:26.9897217+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:02:14.3006629+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:58:47.0126327+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:02:25.0435525+00:00"
 }

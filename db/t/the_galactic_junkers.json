@@ -4,7 +4,7 @@
   "ProductSlug": "the-galactic-junkers-7fef21",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "A_Extinguish_10_Fires",
       "SetID": "56632p4",
       "Name": "Expert Firefighter",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_Extinguish_1_Fire",
@@ -219,9 +219,9 @@
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "A_Mine_1_Asteroid",
@@ -300,8 +300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:05:21.7031635+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:05:55.5218339+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.6820927+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:58:37.3779078+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:05:21.7031773+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:59:00.5738824+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:05:55.5218522+00:00"
 }

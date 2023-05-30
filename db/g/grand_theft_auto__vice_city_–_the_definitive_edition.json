@@ -352,9 +352,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 7230,
+  "EOS_Progressed": 7234,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2847,6 +2847,11 @@
       "Time": "2023-05-30T04:03:15.3398913+00:00",
       "NumProgressed": 7230,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-30T05:03:22.6394657+00:00",
+      "NumProgressed": 7234,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 34,
@@ -2962,7 +2967,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "ACH15",
@@ -3018,7 +3023,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3111
     },
     {
       "ID": "ACH22",
@@ -3026,7 +3031,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH23",
@@ -3034,7 +3039,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ACH24",
@@ -3129,7 +3134,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7230,
+      "Progressed": 7234,
       "Completed": 24
     }
   ],
@@ -3137,8 +3142,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-29T13:03:24.3591761+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:03:15.3398909+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:03:22.639465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:58:04.9916947+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:03:15.3399294+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:58:21.0977188+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:03:22.6395139+00:00"
 }

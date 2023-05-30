@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 100,
@@ -140,7 +140,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14668,
+  "EOS_Progressed": 14669,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 2,
@@ -3280,6 +3280,11 @@
       "Time": "2023-05-30T04:05:32.4988144+00:00",
       "NumProgressed": 14668,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-30T05:06:07.834216+00:00",
+      "NumProgressed": 14669,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 14,
@@ -3291,7 +3296,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11588
+      "UsersEstimate": 11589
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -3347,7 +3352,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7774
+      "UsersEstimate": 7775
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -3402,15 +3407,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14668,
+      "Progressed": 14669,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:05:32.498814+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:06:07.8342151+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:44.1953463+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:59:52.6396819+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:05:32.4988443+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:00:33.9502536+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:06:07.8342642+00:00"
 }

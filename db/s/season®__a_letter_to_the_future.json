@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.95,
   "EosHistory": [
@@ -726,6 +726,11 @@
       "Time": "2023-05-30T04:05:16.678047+00:00",
       "NumProgressed": 885,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-30T05:05:49.6989237+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 16,
@@ -761,7 +766,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -825,7 +830,7 @@
       "Name": "Outside World Seer",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -839,9 +844,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_THEEND",
@@ -864,7 +869,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 35
     }
   ],
@@ -872,8 +877,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:05:16.6780465+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:05:49.6989232+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:58:22.8597937+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:05:16.6780614+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:58:42.0103384+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:05:49.6989484+00:00"
 }

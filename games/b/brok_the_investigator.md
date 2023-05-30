@@ -18,6 +18,7 @@
 | Ads Fan | 9.00% | ~1 |
 | Food Thief | 9.00% | ~1 |
 | Highway Survival | 9.00% | ~1 |
+| Tramp Saver | 9.00% | ~1 |
 | Hard To Wake Up | 9.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | Summary Filled | 0.00% | ~0 |
 | The World Is My Doormat | 0.00% | ~0 |
 | Toilets Tormentor | 0.00% | ~0 |
-| Tramp Saver | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 342)  

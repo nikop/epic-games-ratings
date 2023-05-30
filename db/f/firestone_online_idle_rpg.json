@@ -2815,9 +2815,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 85
     },
     {
       "ID": "silverwoodliberator",
@@ -2992,8 +2992,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:05:30.7664538+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:06:06.0029648+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:57:51.6084336+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:05:30.7665331+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:58:03.6057294+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:06:06.0030684+00:00"
 }

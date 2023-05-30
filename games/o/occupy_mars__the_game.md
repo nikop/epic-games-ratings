@@ -24,7 +24,7 @@ Rating: 3.80 (Ranked 917)
 | “Aliens” | 2.00% | ~20 |
 | DeDust | 2.00% | ~20 |
 | Plumber | 1.00% | ~10 |
-| To infinity and beyond! | 0.90% | ~9 |
+| To infinity and beyond! | 1.00% | ~10 |
 | Hard Landing | 0.70% | ~7 |
 | Driver's License | 0.60% | ~6 |
 | Caveman | 0.50% | ~5 |

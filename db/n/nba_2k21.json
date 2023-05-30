@@ -4732,10 +4732,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 88364,
       "NumberOfAwardsMax": 11674
+    },
+    {
+      "Time": "2023-05-30T05:00:18.0941341+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 88366,
+      "NumberOfAwardsMax": 11674
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88364,
+  "NumberOfAwards": 88366,
   "NumberOfAwardsMax": 11674,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4767,7 +4773,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10469
+      "Count": 10471
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4805,8 +4811,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2023-05-29T02:59:57.1281192+00:00",
+  "LastChanged": "2023-05-30T05:00:18.094134+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.9506767+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:59:40.1772436+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:04:45.3414123+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:00:18.0941347+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:05:12.0464324+00:00"
 }

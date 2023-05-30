@@ -1,40 +1,40 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 358)  
+Rating: 4.61 (Ranked 359)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~701,035 |
-| The Blues | 85.00% | ~601,899 |
-| Fast | 66.00% | ~467,357 |
-| Healthbar | 55.00% | ~389,464 |
-| Force Cube | 52.00% | ~368,220 |
-| Double Jump | 48.00% | ~339,896 |
-| Regeneration | 47.00% | ~332,815 |
-| Climb the hill | 42.00% | ~297,409 |
-| Triple Jump | 42.00% | ~297,409 |
-| Through the fire pipe | 38.00% | ~269,084 |
-| MacGuffin | 37.00% | ~262,003 |
-| Just once | 36.00% | ~254,922 |
-| Armor | 30.00% | ~212,435 |
-| True holy spirit | 27.00% | ~191,191 |
-| That's how electronics work obviously | 26.00% | ~184,110 |
-| Force Cube Catapult | 25.00% | ~177,029 |
-| Holy Sword | 23.00% | ~162,867 |
+| Out of bed | 99.00% | ~701,039 |
+| The Blues | 85.00% | ~601,902 |
+| Fast | 66.00% | ~467,359 |
+| Healthbar | 55.00% | ~389,466 |
+| Force Cube | 52.00% | ~368,222 |
+| Double Jump | 48.00% | ~339,898 |
+| Regeneration | 47.00% | ~332,816 |
+| Climb the hill | 42.00% | ~297,410 |
+| Triple Jump | 42.00% | ~297,410 |
+| Through the fire pipe | 38.00% | ~269,086 |
+| MacGuffin | 37.00% | ~262,004 |
+| Just once | 36.00% | ~254,923 |
+| Armor | 30.00% | ~212,436 |
+| True holy spirit | 27.00% | ~191,192 |
+| That's how electronics work obviously | 26.00% | ~184,111 |
+| Force Cube Catapult | 25.00% | ~177,030 |
+| Holy Sword | 23.00% | ~162,868 |
 | Telefrag | 22.00% | ~155,786 |
-| Freed from prison | 21.00% | ~148,704 |
-| Stomp | 21.00% | ~148,704 |
-| Double Health | 18.00% | ~127,461 |
+| Freed from prison | 21.00% | ~148,705 |
+| Stomp | 21.00% | ~148,705 |
+| Double Health | 18.00% | ~127,462 |
 | Buckle | 17.00% | ~120,380 |
 | Green Keycard | 17.00% | ~120,380 |
-| Rattle Hag | 15.00% | ~106,217 |
-| All Shells | 14.00% | ~99,136 |
-| Beam | 14.00% | ~99,136 |
-| 9 | 13.00% | ~92,055 |
-| Purple Cube | 13.00% | ~92,055 |
-| Supraball Noob | 13.00% | ~92,055 |
+| Rattle Hag | 15.00% | ~106,218 |
+| All Shells | 14.00% | ~99,137 |
+| Beam | 14.00% | ~99,137 |
+| 9 | 13.00% | ~92,056 |
+| Purple Cube | 13.00% | ~92,056 |
+| Supraball Noob | 13.00% | ~92,056 |
 | Health Drink | 12.00% | ~84,974 |
 | Helped a star | 12.00% | ~84,974 |
 | Strong | 12.00% | ~84,974 |
@@ -49,16 +49,16 @@ Number of Ratings: 25,175  (23.09.2022)
 | Gold Scam Uncovered | 10.00% | ~70,812 |
 | Translocator | 10.00% | ~70,812 |
 | Yellow Shot Button | 10.00% | ~70,812 |
-| Fire Flies | 9.00% | ~63,730 |
-| Moon Door | 9.00% | ~63,730 |
-| Momentum | 9.00% | ~63,730 |
-| Panic Lights | 9.00% | ~63,730 |
-| Through the tiny pipe | 8.00% | ~56,649 |
-| Win! | 8.00% | ~56,649 |
+| Fire Flies | 9.00% | ~63,731 |
+| Moon Door | 9.00% | ~63,731 |
+| Momentum | 9.00% | ~63,731 |
+| Panic Lights | 9.00% | ~63,731 |
+| Through the tiny pipe | 8.00% | ~56,650 |
+| Win! | 8.00% | ~56,650 |
 | The real real teleported man | 7.00% | ~49,568 |
 | Well deserved | 6.00% | ~42,487 |
-| Happiness | 3.00% | ~21,243 |
-| Super Sword | 3.00% | ~21,243 |
+| Happiness | 3.00% | ~21,244 |
+| Super Sword | 3.00% | ~21,244 |
 | All Chests | 2.00% | ~14,162 |
 | Poor ancestors | 2.00% | ~14,162 |
 | Shelf filled | 2.00% | ~14,162 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~708 |
 | DLC: Top of the world | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,116 (Ranked 14)  
+Progressed: 708,120 (Ranked 14)  
 Completed: 686 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 686 (0.10%) (Ranked 159)
 | 2023-05-27 | 707,590 | 684 |
 | 2023-05-28 | 707,868 | 685 |
 | 2023-05-29 | 708,081 | 686 |
-| 2023-05-30 | 708,116 | 686 |
+| 2023-05-30 | 708,120 | 686 |
 ## Awards
 Max (Challenging Puzzles): 7,615  (Ranked 40)  
 Sum: 9,910 (Ranked 79)  

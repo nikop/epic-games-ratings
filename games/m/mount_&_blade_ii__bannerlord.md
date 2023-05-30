@@ -17,7 +17,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Apple of my eye | 14.00% | ~7,200 |
 | I can do it | 14.00% | ~7,200 |
 | God of the Arena | 12.00% | ~6,171 |
-| Against all odds | 10.00% | ~5,142 |
+| Against all odds | 10.00% | ~5,143 |
 | Swordbearer | 9.00% | ~4,628 |
 | Duelist | 8.00% | ~4,114 |
 | Dynasty | 8.00% | ~4,114 |
@@ -32,9 +32,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | My way | 4.00% | ~2,057 |
 | Veni vidi vici | 4.00% | ~2,057 |
 | Freedom! | 3.00% | ~1,543 |
-| Entrepreneur | 2.00% | ~1,028 |
-| Long live the Empire! | 2.00% | ~1,028 |
-| Real Estate | 2.00% | ~1,028 |
+| Entrepreneur | 2.00% | ~1,029 |
+| Long live the Empire! | 2.00% | ~1,029 |
+| Real Estate | 2.00% | ~1,029 |
 | Supreme Emperor | 1.00% | ~514 |
 | Undercover | 0.80% | ~411 |
 | Crackshot | 0.70% | ~360 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,425 (Ranked 75)  
+Progressed: 51,426 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 51,148 | 0 |
 | 2023-05-28 | 51,285 | 0 |
 | 2023-05-29 | 51,414 | 0 |
-| 2023-05-30 | 51,425 | 0 |
+| 2023-05-30 | 51,426 | 0 |
 ## Awards
 Max (Character Customization): 6,594  (Ranked 49)  
 Sum: 13,200 (Ranked 67)  

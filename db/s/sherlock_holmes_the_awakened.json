@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -933,9 +933,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "MQ04_1",
@@ -949,9 +949,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "MQ04_3",
@@ -1086,8 +1086,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-30T04:03:34.6469794+00:00",
+  "LastChanged_Achievements": "2023-05-30T05:03:45.8817145+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-30T03:57:13.3669016+00:00",
-  "LastUpdate_Achievements": "2023-05-30T04:03:34.647012+00:00"
+  "LastUpdate_Ratings": "2023-05-30T04:57:14.7842846+00:00",
+  "LastUpdate_Achievements": "2023-05-30T05:03:45.8817415+00:00"
 }

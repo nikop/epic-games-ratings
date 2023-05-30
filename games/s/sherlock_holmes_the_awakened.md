@@ -9,8 +9,8 @@
 | High Profile | 52.00% | ~165 |
 | Whispers In The Dark | 50.00% | ~159 |
 | Fond Memories | 45.00% | ~143 |
+| A Method To His Madness | 45.00% | ~143 |
 | History Check | 44.00% | ~140 |
-| A Method To His Madness | 44.00% | ~140 |
 | Lock, Stock, And Barrel | 41.00% | ~130 |
 | Gaze Into The Abyss | 41.00% | ~130 |
 | The New World | 41.00% | ~130 |
@@ -24,8 +24,8 @@
 | Going Once... | 33.00% | ~105 |
 | Bookworm | 32.00% | ~102 |
 | Fhtagn! | 32.00% | ~102 |
+| Let Me Be Frank | 31.00% | ~99 |
 | Up In Flames | 31.00% | ~99 |
-| Let Me Be Frank | 30.00% | ~95 |
 | Brain Food | 28.00% | ~89 |
 | No Stone Unturned | 27.00% | ~86 |
 | Curiosity Killed The Cat | 18.00% | ~57 |

@@ -9,19 +9,20 @@
 | 5Gb HDD | 43.00% | ~9 |
 | Merchant Prince I | 38.00% | ~8 |
 | Dominating | 29.00% | ~6 |
+| Fighting Fit I | 24.00% | ~5 |
 | The Vette | 19.00% | ~4 |
-| Fighting Fit I | 19.00% | ~4 |
 | Rambo I | 14.00% | ~3 |
+| Mega Kill | 14.00% | ~3 |
+| 10Gb HDD | 14.00% | ~3 |
 | Almost There I | 14.00% | ~3 |
 | Bronze Prince of Ball-air | 10.00% | ~2 |
 | Omicron Alpha | 10.00% | ~2 |
 | Pacifist | 10.00% | ~2 |
-| Mega Kill | 10.00% | ~2 |
-| 10Gb HDD | 10.00% | ~2 |
+| Stoic | 10.00% | ~2 |
+| Collateral Damage I | 10.00% | ~2 |
+| Hoarder | 5.00% | ~1 |
 | Defrosted | 5.00% | ~1 |
 | Food Poisoning | 5.00% | ~1 |
-| Stoic | 5.00% | ~1 |
-| Collateral Damage I | 5.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -64,7 +65,6 @@
 | Omicron Theta | 0.00% | ~0 |
 | Omicron Gamma | 0.00% | ~0 |
 | Omicron Beta | 0.00% | ~0 |
-| Hoarder | 0.00% | ~0 |
 | No Peace | 0.00% | ~0 |
 | Bird of Prey | 0.00% | ~0 |
 | Unbalanced | 0.00% | ~0 |
