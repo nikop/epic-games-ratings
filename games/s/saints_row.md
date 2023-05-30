@@ -6,27 +6,27 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 21.00% | ~8,084 |
-| To The Nines | 19.00% | ~7,314 |
-| Optimized | 16.00% | ~6,160 |
-| Performance Review | 15.00% | ~5,775 |
-| Wet Work | 14.00% | ~5,390 |
-| Making a Name | 14.00% | ~5,390 |
-| The Side Job | 13.00% | ~5,005 |
-| Tune Up | 13.00% | ~5,005 |
-| Landlord | 13.00% | ~5,005 |
-| Food for Thought | 11.00% | ~4,235 |
-| Wrecking Ball | 10.00% | ~3,850 |
-| Finders Keepers | 9.00% | ~3,465 |
-| A Young Empire | 9.00% | ~3,465 |
-| Work Ethic | 9.00% | ~3,465 |
-| Quality Time | 6.00% | ~2,310 |
-| Power Players | 6.00% | ~2,310 |
-| Took It to The Limit | 6.00% | ~2,310 |
-| Picking Fights | 6.00% | ~2,310 |
-| Showdown | 5.00% | ~1,925 |
-| Kitted Out | 5.00% | ~1,925 |
-| Et tu? | 5.00% | ~1,925 |
+| First F#@!ing Day | 21.00% | ~8,088 |
+| To The Nines | 19.00% | ~7,317 |
+| Optimized | 16.00% | ~6,162 |
+| Performance Review | 15.00% | ~5,777 |
+| Wet Work | 14.00% | ~5,392 |
+| Making a Name | 14.00% | ~5,392 |
+| The Side Job | 13.00% | ~5,007 |
+| Tune Up | 13.00% | ~5,007 |
+| Landlord | 13.00% | ~5,007 |
+| Food for Thought | 11.00% | ~4,236 |
+| Wrecking Ball | 10.00% | ~3,851 |
+| Finders Keepers | 9.00% | ~3,466 |
+| A Young Empire | 9.00% | ~3,466 |
+| Work Ethic | 9.00% | ~3,466 |
+| Quality Time | 6.00% | ~2,311 |
+| Power Players | 6.00% | ~2,311 |
+| Took It to The Limit | 6.00% | ~2,311 |
+| Picking Fights | 6.00% | ~2,311 |
+| Showdown | 5.00% | ~1,926 |
+| Kitted Out | 5.00% | ~1,926 |
+| Et tu? | 5.00% | ~1,926 |
 | Hijacked | 4.00% | ~1,540 |
 | The Spins | 4.00% | ~1,540 |
 | Masters of Santo Ileso | 4.00% | ~1,540 |
@@ -49,18 +49,18 @@ Number of Ratings: 22,103  (23.09.2022)
 | Neighborly | 1.00% | ~385 |
 | Tourist | 1.00% | ~385 |
 | Community Outreach | 0.80% | ~308 |
-| Bonus Round | 0.70% | ~269 |
-| It's a Bird! | 0.50% | ~192 |
-| All Mine | 0.50% | ~192 |
+| Bonus Round | 0.70% | ~270 |
+| It's a Bird! | 0.50% | ~193 |
+| All Mine | 0.50% | ~193 |
 | The Collector | 0.40% | ~154 |
 | Armor Piercing | 0.40% | ~154 |
 | Jack of All Trades | 0.20% | ~77 |
 | Heard You Like Wheels | 0.20% | ~77 |
-| Statement Pieces | 0.10% | ~38 |
-| A Car Named Simone | 0.10% | ~38 |
-| Fiesta Time | 0.10% | ~38 |
+| Statement Pieces | 0.10% | ~39 |
+| A Car Named Simone | 0.10% | ~39 |
+| Fiesta Time | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,497 (Ranked 82)  
+Progressed: 38,512 (Ranked 82)  
 Completed: 20 (0.05%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 20 (0.05%) (Ranked 176)
 | 2023-05-27 | 36,798 | 20 |
 | 2023-05-28 | 37,609 | 20 |
 | 2023-05-29 | 38,337 | 20 |
-| 2023-05-30 | 38,497 | 20 |
+| 2023-05-30 | 38,512 | 20 |
 ## Awards
 Max (Extremely Fun): 1,031  (Ranked 135)  
 Sum: 8,380 (Ranked 90)  

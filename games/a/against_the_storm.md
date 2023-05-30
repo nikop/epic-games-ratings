@@ -6,14 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 2.00% | ~301 |
-| Overcoming Difficulty | 2.00% | ~301 |
-| Fertile Meadows | 2.00% | ~301 |
-| Coral Forest | 2.00% | ~301 |
-| The Marshlands | 2.00% | ~301 |
-| The Scarlet Orchard | 2.00% | ~301 |
-| Taking Action | 2.00% | ~301 |
-| No Deaths | 2.00% | ~301 |
+| First Real Expedition | 2.00% | ~302 |
+| Overcoming Difficulty | 2.00% | ~302 |
+| Fertile Meadows | 2.00% | ~302 |
+| Coral Forest | 2.00% | ~302 |
+| The Marshlands | 2.00% | ~302 |
+| The Scarlet Orchard | 2.00% | ~302 |
+| Taking Action | 2.00% | ~302 |
+| No Deaths | 2.00% | ~302 |
 | Homesick | 1.00% | ~151 |
 | Bandit Camp | 1.00% | ~151 |
 | Barren Lands | 1.00% | ~151 |
@@ -35,8 +35,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.90% | ~136 |
 | Against All Odds | 0.80% | ~121 |
 | Statue of the Forefathers | 0.80% | ~121 |
+| Forsaken Gods Temple | 0.80% | ~121 |
 | Serving Ale | 0.70% | ~106 |
-| Forsaken Gods Temple | 0.70% | ~106 |
 | Into the Forest | 0.70% | ~106 |
 | Ruined Armory | 0.60% | ~90 |
 | Forbidden Lands | 0.60% | ~90 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,074 (Ranked 99)  
+Progressed: 15,075 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 33 (0.22%) (Ranked 137)
 | 2023-05-27 | 15,040 | 33 |
 | 2023-05-28 | 15,062 | 33 |
 | 2023-05-29 | 15,071 | 33 |
-| 2023-05-30 | 15,074 | 33 |
+| 2023-05-30 | 15,075 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,033 (Ranked 152)  

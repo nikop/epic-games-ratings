@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 459403,
+  "EOS_Progressed": 459405,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4343,6 +4343,11 @@
       "Time": "2023-05-30T06:06:30.1253797+00:00",
       "NumProgressed": 459403,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-30T07:06:56.3708316+00:00",
+      "NumProgressed": 459405,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -4440,9 +4445,9 @@
       "ID": "achievement_story_event_bowie_ended",
       "SetID": "8cokdon",
       "Name": "The Shutdown",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 919
     },
     {
       "ID": "achievement_story_landa",
@@ -4985,21 +4990,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 3337,
+      "Progressed": 3339,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 459403,
+      "Progressed": 459405,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:06:30.1253785+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:06:56.3708311+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:47.654546+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:59:17.9416911+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:06:30.1254868+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:59:47.1723838+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:06:56.3709435+00:00"
 }

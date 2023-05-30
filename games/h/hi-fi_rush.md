@@ -7,24 +7,24 @@ Rating: 4.88 (Ranked 19)
 | ---- | ---------- | ----- |
 | Start with a bang! | 81.00% | ~1,955 |
 | Feeling the beat! | 81.00% | ~1,955 |
-| You can pet the cat! | 76.00% | ~1,834 |
-| Who put gears in there? | 69.00% | ~1,665 |
-| Cream of the Crop | 64.00% | ~1,544 |
-| Thanks for the free chip, Peppermint! | 63.00% | ~1,520 |
+| You can pet the cat! | 76.00% | ~1,835 |
+| Who put gears in there? | 69.00% | ~1,666 |
+| Cream of the Crop | 64.00% | ~1,545 |
+| Thanks for the free chip, Peppermint! | 63.00% | ~1,521 |
 | You got this, Peppermint? | 58.00% | ~1,400 |
-| Perfect Parry | 56.00% | ~1,351 |
-| Alright, that felt AWESOME! | 55.00% | ~1,327 |
+| Perfect Parry | 56.00% | ~1,352 |
+| Alright, that felt AWESOME! | 55.00% | ~1,328 |
 | I play my own way! | 51.00% | ~1,231 |
-| This will cost you big time | 48.00% | ~1,158 |
-| Uh, they were broken when I got here | 47.00% | ~1,134 |
+| This will cost you big time | 48.00% | ~1,159 |
+| Uh, they were broken when I got here | 48.00% | ~1,159 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,110 |
 | Kissing the sky! | 45.00% | ~1,086 |
 | Does that say weakpoint? | 43.00% | ~1,038 |
-| Whoa! There's ANOTHER health bar!? | 41.00% | ~989 |
-| The Negotiator | 39.00% | ~941 |
-| You must like calling me in, Chai | 34.00% | ~820 |
-| Out in a puff of smoke | 34.00% | ~820 |
-| Headliner | 33.00% | ~796 |
+| Whoa! There's ANOTHER health bar!? | 41.00% | ~990 |
+| The Negotiator | 40.00% | ~966 |
+| You must like calling me in, Chai | 34.00% | ~821 |
+| Out in a puff of smoke | 34.00% | ~821 |
+| Headliner | 33.00% | ~797 |
 | Time to pay up! | 31.00% | ~748 |
 | Perfecter Parry-er! | 30.00% | ~724 |
 | Who's the boss now? | 29.00% | ~700 |
@@ -32,12 +32,12 @@ Rating: 4.88 (Ranked 19)
 | I look cool. But I can look COOLER. | 28.00% | ~676 |
 | There's such a thing as TOO helpful | 22.00% | ~531 |
 | That's a lot of junk metal… | 20.00% | ~483 |
-| Beat-hit mania | 19.00% | ~458 |
-| I told you I'd be fine, Peppermint! | 18.00% | ~434 |
+| Beat-hit mania | 19.00% | ~459 |
+| I told you I'd be fine, Peppermint! | 18.00% | ~435 |
 | Well that was a rush! | 17.00% | ~410 |
 | Wanna hear my playlist? | 12.00% | ~290 |
 | Check out my moves! | 12.00% | ~290 |
-| Chip-tuned | 11.00% | ~265 |
+| Chip-tuned | 11.00% | ~266 |
 | We're Jammin' | 9.00% | ~217 |
 | I think I found your calling, Macaron | 8.00% | ~193 |
 | I'm not done with you yet | 8.00% | ~193 |
@@ -67,7 +67,7 @@ Rating: 4.88 (Ranked 19)
 | Didn't skip a beat! | 0.30% | ~7 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,413 (Ranked 142)  
+Progressed: 2,414 (Ranked 142)  
 Completed: 4 (0.17%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 4 (0.17%) (Ranked 145)
 | 2023-05-27 | 2,275 | 4 |
 | 2023-05-28 | 2,347 | 4 |
 | 2023-05-29 | 2,399 | 4 |
-| 2023-05-30 | 2,413 | 4 |
+| 2023-05-30 | 2,414 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

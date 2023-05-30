@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 211,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 6.08,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -826,6 +826,11 @@
       "Time": "2023-05-30T04:03:34.0979767+00:00",
       "NumProgressed": 362,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-30T07:04:00.1824875+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 30,
@@ -851,9 +856,9 @@
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 240
     },
     {
       "ID": "LEVEL_004",
@@ -861,7 +866,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "LEVEL_005",
@@ -869,7 +874,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_006",
@@ -893,7 +898,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_009",
@@ -901,7 +906,7 @@
       "Name": "Going zig zag",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "LEVEL_010",
@@ -909,7 +914,7 @@
       "Name": "Rocks around the island",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_011",
@@ -925,7 +930,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_013",
@@ -989,7 +994,7 @@
       "Name": "Go round and round",
       "Percentage": 12,
       "XP": 110,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_021",
@@ -1076,14 +1081,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:03:48.6455295+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:04:00.1824868+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:56:59.1166572+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:03:48.6455593+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:57:05.578415+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:04:00.1825212+00:00"
 }

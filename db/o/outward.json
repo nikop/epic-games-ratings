@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2672,
+  "EOS_Progressed": 2673,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1789,6 +1789,11 @@
       "Time": "2023-05-30T05:02:42.4895129+00:00",
       "NumProgressed": 2672,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T07:03:11.0730942+00:00",
+      "NumProgressed": 2673,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1864,7 +1869,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -1992,7 +1997,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2024,7 +2029,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2072,7 +2077,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "TheStuffOfLegends",
@@ -2120,7 +2125,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2135,15 +2140,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2672,
+      "Progressed": 2673,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:02:44.7546254+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:03:11.0730939+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:57:42.3033971+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:02:44.7546625+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:57:54.321164+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:03:11.0731459+00:00"
 }

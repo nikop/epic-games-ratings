@@ -14,10 +14,10 @@ Rating: 4.43 (Ranked 642)
 | Resourceful | 8.00% | ~148 |
 | Enemy at the Gates | 7.00% | ~130 |
 | Organ Grinder | 7.00% | ~130 |
+| As Quiet as a Mouse | 7.00% | ~130 |
 | Taking it back | 7.00% | ~130 |
 | Just a Flesh Wound | 6.00% | ~111 |
 | Explosive Efficiency | 6.00% | ~111 |
-| As Quiet as a Mouse | 6.00% | ~111 |
 | Target America | 6.00% | ~111 |
 | Gunslinger | 5.00% | ~93 |
 | Sharpshooter | 5.00% | ~93 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 642)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,855 (Ranked 152)  
+Progressed: 1,856 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
-| 2023-05-30 | 1,855 | 2 |
+| 2023-05-30 | 1,856 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1960,9 +1960,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 30390,
+  "EOS_Progressed": 30391,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5955,6 +5955,11 @@
       "Time": "2023-05-30T06:06:32.6659088+00:00",
       "NumProgressed": 30390,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-30T07:06:59.3011443+00:00",
+      "NumProgressed": 30391,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 75,
@@ -5998,7 +6003,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 17322
+      "UsersEstimate": 17323
     },
     {
       "ID": "achievements_14",
@@ -6006,7 +6011,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4862
+      "UsersEstimate": 4863
     },
     {
       "ID": "achievements_15",
@@ -6014,7 +6019,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 14283
+      "UsersEstimate": 14284
     },
     {
       "ID": "achievements_17",
@@ -6022,7 +6027,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "achievements_19",
@@ -6070,7 +6075,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 18234
+      "UsersEstimate": 18235
     },
     {
       "ID": "achievements_24",
@@ -6078,7 +6083,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 16714
+      "UsersEstimate": 16715
     },
     {
       "ID": "achievements_25",
@@ -6086,7 +6091,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 8205
+      "UsersEstimate": 8206
     },
     {
       "ID": "achievements_26",
@@ -6110,7 +6115,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "achievements_29",
@@ -6206,7 +6211,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4862
+      "UsersEstimate": 4863
     },
     {
       "ID": "achievements_4",
@@ -6254,7 +6259,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "achievements_45",
@@ -6334,7 +6339,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 17322
+      "UsersEstimate": 17323
     },
     {
       "ID": "achievements_54",
@@ -6348,9 +6353,9 @@
       "ID": "achievements_55",
       "SetID": "6hgbao0",
       "Name": "Calcination",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5774
+      "UsersEstimate": 6078
     },
     {
       "ID": "achievements_56",
@@ -6406,7 +6411,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8205
+      "UsersEstimate": 8206
     },
     {
       "ID": "achievements_63",
@@ -6414,7 +6419,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 7901
+      "UsersEstimate": 7902
     },
     {
       "ID": "achievements_64",
@@ -6470,7 +6475,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 11548
+      "UsersEstimate": 11549
     },
     {
       "ID": "achievements_70",
@@ -6565,15 +6570,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 30390,
+      "Progressed": 30391,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-05-29T13:59:00.2293029+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:06:32.6659083+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:06:59.3011436+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:27.8151184+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:58:51.6992892+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:06:32.6660266+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:59:16.1377791+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:06:59.3012585+00:00"
 }

@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -35,6 +35,11 @@
     {
       "Time": "2023-04-25T16:10:22.851725+00:00",
       "NumProgressed": 377,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T07:01:57.2223776+00:00",
+      "NumProgressed": 378,
       "NumCompleted": 0
     }
   ],
@@ -342,7 +347,7 @@
     {
       "ID": "cieb1c3",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 0
     }
   ],
@@ -350,8 +355,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:02:14.1598311+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:01:57.2223771+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:01.471147+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:59:36.880164+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:02:14.159862+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:00:09.8085143+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:01:57.2224083+00:00"
 }

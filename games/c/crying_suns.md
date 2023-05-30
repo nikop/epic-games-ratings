@@ -6,6 +6,7 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Shutdown | 0.20% | ~919 |
 | Knightmare Frames | 0.10% | ~459 |
 | May His passing cleanse the world | 0.10% | ~459 |
 | In space, no one can hear you scream | 0.10% | ~459 |
@@ -17,7 +18,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | A Rock in the Dark | 0.10% | ~459 |
 | Emperor of Misery | 0.10% | ~459 |
 | A Frozen Lady | 0.10% | ~459 |
-| The Shutdown | 0.10% | ~459 |
 | Kill the Doctor | 0.10% | ~459 |
 | Forsaken | 0.10% | ~459 |
 | Through the mirror | 0.10% | ~459 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,403 (Ranked 31)  
+Progressed: 459,405 (Ranked 31)  
 Completed: 14 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 14 (0.00%) (Ranked 207)
 | 2023-05-27 | 459,179 | 14 |
 | 2023-05-28 | 459,298 | 14 |
 | 2023-05-29 | 459,385 | 14 |
-| 2023-05-30 | 459,403 | 14 |
+| 2023-05-30 | 459,405 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

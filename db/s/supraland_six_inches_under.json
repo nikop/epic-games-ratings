@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -780,9 +780,9 @@
       "ID": "Area3",
       "SetID": "5lok9mm",
       "Name": "Banking District",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1762
     },
     {
       "ID": "Area4",
@@ -1188,8 +1188,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:06:34.9433613+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:07:01.5663323+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:27.193231+00:00",
-  "LastUpdate_Ratings": "2023-05-30T06:00:10.1219276+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:06:34.9434091+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:00:46.2678293+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:07:01.5663902+00:00"
 }

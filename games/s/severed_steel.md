@@ -5,23 +5,23 @@ Rating: 4.68 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~45,059 |
-| 50 HEADSHOTS | 11.00% | ~45,059 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,770 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,770 |
-| 200 HEADSHOTS | 7.00% | ~28,674 |
+| 100 KILLS | 11.00% | ~45,060 |
+| 50 HEADSHOTS | 11.00% | ~45,060 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,771 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,771 |
+| 200 HEADSHOTS | 7.00% | ~28,675 |
 | FINISHED CHAPTER 2 | 6.00% | ~24,578 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,481 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,481 |
-| 1000 KILLS | 4.00% | ~16,385 |
-| FINISH CHAPTER 5 | 4.00% | ~16,385 |
-| FINISH CHAPTER 6 | 4.00% | ~16,385 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,385 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~8,192 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,482 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,482 |
+| 1000 KILLS | 4.00% | ~16,386 |
+| FINISH CHAPTER 5 | 4.00% | ~16,386 |
+| FINISH CHAPTER 6 | 4.00% | ~16,386 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,386 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~8,193 |
 | FIREFIGHT LEVEL 20 | 0.60% | ~2,458 |
 | FIRST BLOOD | 0.60% | ~2,458 |
-| PACEMAKER | 0.40% | ~1,638 |
-| TIME PARADOX | 0.40% | ~1,638 |
+| PACEMAKER | 0.40% | ~1,639 |
+| TIME PARADOX | 0.40% | ~1,639 |
 | FIREFIGHT LEVEL 30 | 0.30% | ~1,229 |
 | OUT OF ORDER | 0.30% | ~1,229 |
 | PARTYHARD | 0.30% | ~1,229 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 236)
 | THE GAMBLER | 0.10% | ~410 |
 | WARRIOR IN A GARDEN | 0.10% | ~410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,625 (Ranked 35)  
+Progressed: 409,639 (Ranked 35)  
 Completed: 32 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 32 (0.01%) (Ranked 196)
 | 2023-05-27 | 408,716 | 31 |
 | 2023-05-28 | 409,142 | 32 |
 | 2023-05-29 | 409,541 | 32 |
-| 2023-05-30 | 409,625 | 32 |
+| 2023-05-30 | 409,639 | 32 |
 ## Awards
 Max (Great Boss Battles): 174  (Ranked 274)  
 Sum: 174 (Ranked 366)  

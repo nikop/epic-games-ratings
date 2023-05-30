@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5665,
+  "EOS_Progressed": 5666,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2396,6 +2396,11 @@
       "Time": "2023-05-30T06:02:37.790678+00:00",
       "NumProgressed": 5665,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-30T07:02:23.477256+00:00",
+      "NumProgressed": 5666,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -2407,7 +2412,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4703
     },
     {
       "ID": "ACH02",
@@ -2431,7 +2436,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "ACH05",
@@ -2511,7 +2516,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH15",
@@ -2638,7 +2643,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5665,
+      "Progressed": 5666,
       "Completed": 27
     }
   ],
@@ -2646,8 +2651,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-29T04:57:50.3282515+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:02:37.7906774+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:02:23.4772554+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:57:53.0040156+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:02:37.7907166+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:58:06.4220253+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:02:23.4772933+00:00"
 }

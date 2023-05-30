@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -482,7 +482,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14029,
+  "EOS_Progressed": 14032,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 1,
@@ -2092,6 +2092,11 @@
       "Time": "2023-05-30T06:03:57.2901882+00:00",
       "NumProgressed": 14029,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-30T07:04:09.9006085+00:00",
+      "NumProgressed": 14032,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2119,7 +2124,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2271,7 +2276,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2422,13 +2427,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14029,
+      "Progressed": 14032,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1955,
+      "Progressed": 1958,
       "Completed": 29
     }
   ],
@@ -2436,8 +2441,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-30T02:05:09.9313144+00:00",
-  "LastChanged_Achievements": "2023-05-30T06:03:57.2901873+00:00",
+  "LastChanged_Achievements": "2023-05-30T07:04:09.900608+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:57:49.8616377+00:00",
-  "LastUpdate_Achievements": "2023-05-30T06:03:57.290231+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:58:02.8662835+00:00",
+  "LastUpdate_Achievements": "2023-05-30T07:04:09.9006525+00:00"
 }
