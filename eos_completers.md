@@ -38,7 +38,7 @@
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.95% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
+| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 41 | [The Complex](games/t/the_complex.md) | 3.45% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
@@ -59,8 +59,8 @@
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.23% |
-| 60 | [JARS](games/j/jars.md) | 2.22% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
+| 61 | [JARS](games/j/jars.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.95% |
@@ -90,8 +90,8 @@
 | 88 | [Sable](games/s/sable.md) | 0.94% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
-| 91 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.87% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
+| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.86% |
 | 93 | [Adios](games/a/adios.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
@@ -110,8 +110,8 @@
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 109 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 109 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
-| 111 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
-| 112 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 111 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.39% |
 | 114 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
 | 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
