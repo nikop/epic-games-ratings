@@ -22,7 +22,7 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.96% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.88% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 24 | [Scorn](games/s/scorn.md) | 6.89% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -33,23 +33,23 @@
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
-| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.10% |
+| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.09% |
 | 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 40 | [The Complex](games/t/the_complex.md) | 3.45% |
-| 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
-| 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
-| 43 | [ZZT!](games/z/zzt!.md) | 3.22% |
-| 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
-| 45 | [The Bunker](games/t/the_bunker.md) | 3.09% |
-| 46 | [HordeCore](games/h/hordecore.md) | 2.99% |
-| 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
-| 49 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.89% |
-| 50 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.88% |
+| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
+| 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
+| 41 | [The Complex](games/t/the_complex.md) | 3.45% |
+| 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
+| 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
+| 44 | [ZZT!](games/z/zzt!.md) | 3.22% |
+| 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
+| 46 | [The Bunker](games/t/the_bunker.md) | 3.09% |
+| 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
+| 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
+| 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.87% |
 | 51 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.82% |
@@ -77,7 +77,7 @@
 | 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.41% |
 | 76 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
 | 77 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.30% |
-| 78 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
+| 78 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
 | 79 | [Chorus](games/c/chorus.md) | 1.22% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.22% |
 | 81 | [Trifox](games/t/trifox.md) | 1.20% |
@@ -112,7 +112,7 @@
 | 109 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
 | 111 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 112 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.40% |
+| 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.39% |
 | 114 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
 | 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
 | 114 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
