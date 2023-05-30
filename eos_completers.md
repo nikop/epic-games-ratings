@@ -12,14 +12,14 @@
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.98% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.95% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.94% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.88% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
@@ -35,8 +35,8 @@
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
-| 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.94% |
-| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.94% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
@@ -84,7 +84,7 @@
 | 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
-| 85 | [Late Shift](games/l/late_shift.md) | 1.07% |
+| 85 | [Late Shift](games/l/late_shift.md) | 1.06% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.03% |
 | 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.95% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |

@@ -99,7 +99,7 @@
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 491 |
 | 89 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 491 |
 | 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,096 | 37 |
-| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,286 | 97 |
+| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,288 | 97 |
 | 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,036 | 134 |
 | 99 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 133 | 294 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 910 | 142 |
@@ -242,7 +242,7 @@
 | 236 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,009 | 47 |
 | 236 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,776 | 78 |
 | 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,306 | 60 |
-| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 296,955 | 3 |
+| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 297,006 | 3 |
 | 236 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 176,003 | 5 |
 | 236 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.68 | 0 | 491 |
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
@@ -419,7 +419,7 @@
 | 406 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 446 |
 | 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.59 | 193 | 263 |
 | 406 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 693 | 156 |
-| 420 | [Among Us](games/a/among_us.md) | 4.58 | 2,434 | 93 |
+| 420 | [Among Us](games/a/among_us.md) | 4.58 | 2,437 | 93 |
 | 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 154 | 284 |
 | 420 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 491 |
 | 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,301 | 43 |
@@ -604,7 +604,7 @@
 | 596 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 29 | 450 |
 | 596 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 38 | 417 |
 | 596 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 491 |
-| 596 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 277 | 230 |
+| 596 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 278 | 230 |
 | 596 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 491 |
 | 607 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 0 | 491 |
 | 607 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 491 |
@@ -650,7 +650,7 @@
 | 642 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 491 |
 | 642 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.43 | 0 | 491 |
 | 642 | [Tunche](games/t/tunche.md) | 4.43 | 0 | 491 |
-| 642 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 230 |
+| 642 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 231 |
 | 652 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 491 |
 | 652 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 378 |
 | 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 188 | 265 |
@@ -867,7 +867,7 @@
 | 864 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 491 |
 | 864 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 491 |
 | 864 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 383 |
-| 864 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,326 | 96 |
+| 864 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,330 | 96 |
 | 864 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 491 |
 | 870 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 491 |
 | 870 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 491 |

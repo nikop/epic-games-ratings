@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,364,535 | 4.30 | 759 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 424,500 | 4.51 | 522 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,955 | 4.68 | 236 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,006 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,187 | 4.19 | 827 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 176,003 | 4.68 | 236 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 144,535 | 4.89 | 13 |
@@ -92,11 +92,11 @@
 | 90 | [Trackmania](games/t/trackmania.md) | 2,669 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,500 | 4.61 | 359 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,454 | 4.28 | 773 |
-| 93 | [Among Us](games/a/among_us.md) | 2,434 | 4.58 | 420 |
+| 93 | [Among Us](games/a/among_us.md) | 2,437 | 4.58 | 420 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,380 | 4.50 | 541 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,369 | 4.80 | 78 |
-| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,326 | 4.10 | 864 |
-| 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,286 | 4.78 | 99 |
+| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,330 | 4.10 | 864 |
+| 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,288 | 4.78 | 99 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,263 | 4.17 | 840 |
 | 99 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,220 | 4.67 | 257 |
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,167 | 4.41 | 664 |
@@ -229,8 +229,8 @@
 | 227 | [House Flipper](games/h/house_flipper.md) | 292 | 4.69 | 215 |
 | 228 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 285 | 4.52 | 506 |
 | 229 | [Railway Empire](games/r/railway_empire.md) | 279 | 4.51 | 522 |
-| 230 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 277 | 4.46 | 596 |
-| 230 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 277 | 4.43 | 642 |
+| 230 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 278 | 4.46 | 596 |
+| 231 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 277 | 4.43 | 642 |
 | 232 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 273 | 4.62 | 342 |
 | 233 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 272 | 4.49 | 558 |
 | 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 272 | 4.58 | 420 |
