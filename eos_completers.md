@@ -34,13 +34,13 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.06% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.94% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 41 | [The Complex](games/t/the_complex.md) | 3.44% |
+| 41 | [The Complex](games/t/the_complex.md) | 3.43% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.22% |
@@ -66,7 +66,7 @@
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.94% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 65 | [Sifu](games/s/sifu.md) | 1.80% |
-| 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.72% |
+| 67 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.69% |
 | 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.67% |
 | 69 | [Night Book](games/n/night_book.md) | 1.60% |
 | 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
@@ -86,7 +86,7 @@
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.07% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.03% |
-| 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.96% |
+| 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.95% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
@@ -423,4 +423,4 @@
 | 207 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 207 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 207 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,694 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,696 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

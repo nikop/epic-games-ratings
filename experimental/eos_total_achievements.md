@@ -129,6 +129,7 @@
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
+| [System Shock](../games/s/system_shock.md) | 46 | 1,000 |
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 |
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |

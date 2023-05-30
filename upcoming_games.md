@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 2023-05-30 | - |  | - | - |
-| [System Shock](games/s/system_shock.md) | 2023-05-30 | - |  | - | - |
+| [System Shock](games/s/system_shock.md) | 2023-05-30 | 46 (1,000 XP) | 0 | - | - |
 | [Everdream Valley](games/e/everdream_valley.md) | 2023-05-30 | - |  | - | - |
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-05-31 | - |  | - | - |
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-05-31 | - |  | - | - |
@@ -14,10 +14,11 @@
 | [To Hell With The Ugly](games/e/ee141714887d486a873a9a5a55fa4dfe.md) | 2023-05-31 | - |  | - | - |
 | [Worlds War 1](games/w/worlds_war_1.md) | 2023-05-31 | - |  | - | - |
 | [Barrett Foster - Chapter One](games/8/866ee32c061b4765b9c0ea3a72d2d17f.md) | 2023-06-01 | - |  | - | - |
+| [The Alchemist of Ars Magna](games/4/4c57fbae5dc34c44b63b82037d03dc00.md) | 2023-06-01 | - |  | - | - |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 1 | - | - |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 3 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 422,320 | - | - |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 423,463 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | - |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
 | [Brick Breaker Premium 2](games/3/342e32c0b4c74b909ff99a6aa8f1f075.md) | 2023-06-02 | - |  | - | - |
@@ -291,6 +292,7 @@
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2099-01-01 | - |  | - | - |
 | [POLYGOD](games/p/polygod.md) | 2099-01-01 | - |  | - | - |
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | - |  | - | - |
+| [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2099-01-01 | - |  | - | - |
 | [Project Chaos](games/p/project_chaos.md) | 2099-01-01 | - |  | - | - |
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2099-01-01 | - |  | - | - |
 | [Puzzles for Clef](games/p/puzzles_for_clef.md) | 2099-01-01 | - |  | - | - |
@@ -383,7 +385,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2099-02-01 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,625 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,626 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |

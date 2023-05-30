@@ -364,6 +364,7 @@
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [Switchball HD](../games/s/switchball_hd.md) | 9 | 1,000 |
 | [Swordship](../games/s/swordship.md) | 17 | 1,000 |
+| [System Shock](../games/s/system_shock.md) | 46 | 1,000 |
 | [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |
 | [Tad the Lost Explorer](../games/t/tad_the_lost_explorer.md) | 27 | 1,000 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
