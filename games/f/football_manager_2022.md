@@ -14,20 +14,20 @@ Number of Ratings: 19,160  (23.09.2022)
 | Hat-trick | 41.00% | ~189,317 |
 | Thumping | 37.00% | ~170,847 |
 | Scoring Streak | 37.00% | ~170,847 |
-| Unbeatable! | 36.00% | ~166,229 |
+| Unbeatable! | 36.00% | ~166,230 |
 | Superb Dressing Room Atmosphere | 35.00% | ~161,612 |
-| Total Support | 32.00% | ~147,759 |
+| Total Support | 32.00% | ~147,760 |
 | Record Signing | 31.00% | ~143,142 |
 | Millionaire's Club | 31.00% | ~143,142 |
-| Team Performance | 30.00% | ~138,524 |
-| He's a Natural | 30.00% | ~138,524 |
+| Team Performance | 30.00% | ~138,525 |
+| He's a Natural | 30.00% | ~138,525 |
 | Parked The Bus | 29.00% | ~133,907 |
 | Star Man | 29.00% | ~133,907 |
-| Shrewd Spender | 28.00% | ~129,289 |
+| Shrewd Spender | 28.00% | ~129,290 |
 | Attack! | 27.00% | ~124,672 |
-| You're On Fire | 26.00% | ~120,054 |
-| Tremendous Trio | 26.00% | ~120,054 |
-| Record Sale | 26.00% | ~120,054 |
+| You're On Fire | 26.00% | ~120,055 |
+| Tremendous Trio | 26.00% | ~120,055 |
+| Record Sale | 26.00% | ~120,055 |
 | On A Roll | 25.00% | ~115,437 |
 | Unstoppable Force | 25.00% | ~115,437 |
 | The Boss | 24.00% | ~110,820 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~462 |
 | Shoestring Budget | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,748 (Ranked 30)  
+Progressed: 461,749 (Ranked 30)  
 Completed: 18 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 18 (0.00%) (Ranked 207)
 | 2023-05-27 | 461,490 | 18 |
 | 2023-05-28 | 461,620 | 18 |
 | 2023-05-29 | 461,731 | 18 |
-| 2023-05-30 | 461,748 | 18 |
+| 2023-05-30 | 461,749 | 18 |
 ## Awards
 Max (Relaxing): 6,285  (Ranked 51)  
 Sum: 49,541 (Ranked 24)  

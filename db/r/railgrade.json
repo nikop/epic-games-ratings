@@ -428,7 +428,7 @@
   ],
   "EOS_Progressed": 18748,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2222,9 +2222,9 @@
       "ID": "ach.050.builder",
       "SetID": "384aaja",
       "Name": "Builder",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15373
+      "UsersEstimate": 15561
     },
     {
       "ID": "ach.060.goingdistance",
@@ -2495,8 +2495,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-27T17:59:22.3817223+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:06:44.8564485+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:24.5579591+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:52.3008567+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:59:36.2647449+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:06:44.8564796+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:59:00.876565+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:24.5580017+00:00"
 }

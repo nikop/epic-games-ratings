@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2420,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1703,6 +1703,11 @@
       "Time": "2023-05-30T09:06:50.5991418+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-30T10:05:29.4661468+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 61,
@@ -1714,7 +1719,7 @@
       "Name": "Start with a bang!",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "Ach002",
@@ -1728,9 +1733,9 @@
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1162
     },
     {
       "ID": "Ach004",
@@ -1754,7 +1759,7 @@
       "Name": "Time to pay up!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "Ach007",
@@ -1778,7 +1783,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "Ach010",
@@ -1842,7 +1847,7 @@
       "Name": "I play my own way!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "Ach018",
@@ -1850,7 +1855,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "Ach019",
@@ -1890,7 +1895,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "Ach024",
@@ -1922,7 +1927,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "Ach028",
@@ -1954,7 +1959,7 @@
       "Name": "Perfect Parry",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "Ach032",
@@ -2066,7 +2071,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "Ach046",
@@ -2090,7 +2095,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "Ach049",
@@ -2114,7 +2119,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "Ach052",
@@ -2122,7 +2127,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Ach053",
@@ -2186,7 +2191,7 @@
       "Name": "Check out my moves!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Ach061",
@@ -2201,22 +2206,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 4
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 941,
-      "Completed": 941
+      "Progressed": 942,
+      "Completed": 942
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-27T21:58:32.6719245+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:06:50.5991413+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:29.4661461+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:15.1250502+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:58:47.4856953+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:06:50.5991929+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:58:20.8142612+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:29.4662151+00:00"
 }

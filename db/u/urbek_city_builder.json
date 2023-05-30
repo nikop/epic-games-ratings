@@ -617,9 +617,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "FAITH_2",
@@ -705,9 +705,9 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "GRANJA_1",
@@ -921,9 +921,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "SPORTS_2",
@@ -1042,8 +1042,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:06:58.1959085+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:35.8478135+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:59:04.1537168+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:06:58.1959771+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:58:34.3287152+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:35.8479016+00:00"
 }

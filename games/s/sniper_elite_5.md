@@ -8,7 +8,7 @@ Rating: 4.43 (Ranked 642)
 | Meeting Resistance | 23.00% | ~428 |
 | Confirming Suspicions | 18.00% | ~335 |
 | The Kraken Wakes | 13.00% | ~242 |
-| It's Starting to Crack | 11.00% | ~204 |
+| It's Starting to Crack | 11.00% | ~205 |
 | Lord of War | 10.00% | ~186 |
 | Resourceful | 9.00% | ~167 |
 | Change the Channel | 9.00% | ~167 |
@@ -44,16 +44,16 @@ Rating: 4.43 (Ranked 642)
 | Operation Foxley | 0.80% | ~14 |
 | Road Rage | 0.70% | ~13 |
 | Ghost of Falaise | 0.70% | ~13 |
+| Tinkerer | 0.60% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~11 |
 | Siegebreaker | 0.60% | ~11 |
-| Tinkerer | 0.50% | ~9 |
+| From Paris with Love | 0.50% | ~9 |
 | Don't hold your breath | 0.50% | ~9 |
 | Last Resort | 0.50% | ~9 |
-| From Paris with Love | 0.40% | ~7 |
 | Burn after reading | 0.40% | ~7 |
+| Eagle Eyed | 0.40% | ~7 |
 | Up close and personal | 0.40% | ~7 |
 | Souvenir hunter | 0.30% | ~6 |
-| Eagle Eyed | 0.30% | ~6 |
 | Shoot for the Moon | 0.30% | ~6 |
 | Can't Outrun A Bullet | 0.30% | ~6 |
 | Sink or Swim | 0.30% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 642)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,859 (Ranked 152)  
+Progressed: 1,861 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
-| 2023-05-30 | 1,859 | 2 |
+| 2023-05-30 | 1,861 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

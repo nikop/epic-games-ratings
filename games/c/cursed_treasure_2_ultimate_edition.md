@@ -30,12 +30,12 @@
 | Combo Breaker | 61.00% | ~95 |
 | Thunderstorm | 61.00% | ~95 |
 | Brilliant: Holy Mountain | 60.00% | ~94 |
-| Clean Forests | 58.00% | ~90 |
+| Clean Forests | 59.00% | ~92 |
 | Starry: Meadowshire | 55.00% | ~86 |
 | Lieutenant of the Evil | 54.00% | ~84 |
 | Avada Kedavra | 53.00% | ~83 |
+| Brilliant: Tanglewood | 52.00% | ~81 |
 | Starry: Holy Mountain | 52.00% | ~81 |
-| Brilliant: Tanglewood | 51.00% | ~80 |
 | It's a Trap | 50.00% | ~78 |
 | Brilliant: Arcania | 48.00% | ~75 |
 | Deposition | 46.00% | ~72 |

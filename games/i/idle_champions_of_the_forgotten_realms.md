@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~268 |
 | Maddening | 0.20% | ~178 |
 | Tall Tales | 0.20% | ~111 |
+| Third Third Out | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~178 |
 | Supply Run | 0.20% | ~178 |
 | Keep Your Distance | 0.20% | ~111 |
@@ -69,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~178 |
 | Flying Monkey Skulls of Doom | 0.20% | ~178 |
 | Running of the Saurs | 0.20% | ~178 |
+| Dinosaur Racing | 0.20% | ~178 |
 | Hearts Aflame | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
@@ -116,7 +118,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.10% | ~55 |
 | First Third Out | 0.10% | ~55 |
 | Second Third Out | 0.10% | ~55 |
-| Third Third Out | 0.10% | ~55 |
 | Slack-jawed Lorna | 0.10% | ~55 |
 | I'm Sure I Saw It Move! | 0.10% | ~55 |
 | End of the Line | 0.10% | ~55 |
@@ -345,7 +346,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~89 |
 | The Nimble Grove | 0.10% | ~89 |
 | The Misty Grove | 0.10% | ~55 |
-| Dinosaur Racing | 0.10% | ~89 |
 | Elturel Has Fallen | 0.10% | ~89 |
 | Everything is Awful | 0.10% | ~89 |
 | Earthquake! | 0.10% | ~55 |

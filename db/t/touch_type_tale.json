@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2844,
+  "EOS_Progressed": 2845,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1554,6 +1554,11 @@
       "Time": "2023-05-30T06:06:30.4699545+00:00",
       "NumProgressed": 2844,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-30T10:05:37.9786676+00:00",
+      "NumProgressed": 2845,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1563,9 +1568,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 370
     },
     {
       "ID": "bonus2",
@@ -1701,7 +1706,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "campaign20",
@@ -1725,7 +1730,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "campaign5",
@@ -1749,7 +1754,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "campaign8",
@@ -1781,7 +1786,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "scenario3",
@@ -1828,7 +1833,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2844,
+      "Progressed": 2845,
       "Completed": 9
     }
   ],
@@ -1836,8 +1841,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:07:00.5512527+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:37.978667+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:00:31.6780226+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:07:00.5512785+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:59:43.8266095+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:37.9787004+00:00"
 }

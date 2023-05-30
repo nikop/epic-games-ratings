@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1859,
+  "EOS_Progressed": 1861,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1915,6 +1915,11 @@
       "Time": "2023-05-30T09:06:42.4974264+00:00",
       "NumProgressed": 1859,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T10:05:22.6424618+00:00",
+      "NumProgressed": 1861,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2196,9 +2201,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -2220,17 +2225,17 @@
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -2238,7 +2243,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2493,13 +2498,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1810,
+      "Progressed": 1812,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1859,
+      "Progressed": 1861,
       "Completed": 2
     }
   ],
@@ -2507,8 +2512,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-29T23:01:12.2037001+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:06:42.4974258+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:22.6424612+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:00:52.0463525+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:06:42.4975002+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:59:59.8832318+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:22.6425415+00:00"
 }

@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2218,
+  "EOS_Progressed": 2219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2046,6 +2046,11 @@
       "Time": "2023-05-30T05:05:59.751942+00:00",
       "NumProgressed": 2218,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T10:05:23.3567451+00:00",
+      "NumProgressed": 2219,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2065,7 +2070,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2097,7 +2102,7 @@
       "Name": "Hijack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2121,7 +2126,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2137,7 +2142,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2161,7 +2166,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2185,7 +2190,7 @@
       "Name": "Little light",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -2225,7 +2230,7 @@
       "Name": "Chains master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -2289,7 +2294,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2353,7 +2358,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "STB_PET_DOG",
@@ -2369,7 +2374,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "STB_PLATINUM",
@@ -2407,9 +2412,9 @@
       "ID": "STB_SECONDARY_ASSAULT_III",
       "SetID": "3pe2bac",
       "Name": "Iffighain Headquarters",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 422
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -2433,7 +2438,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2480,7 +2485,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2218,
+      "Progressed": 2219,
       "Completed": 1
     }
   ],
@@ -2488,8 +2493,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:06:43.4295253+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:23.3567444+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:57:49.2407644+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:06:43.4295678+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:57:34.4111921+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:23.3568046+00:00"
 }

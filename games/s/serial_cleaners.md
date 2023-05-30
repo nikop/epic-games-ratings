@@ -10,9 +10,9 @@
 | Off to a Good Start | 3.00% | ~5 |
 | Business as usual | 3.00% | ~5 |
 | A New Broom Sweeps Clean | 3.00% | ~5 |
-| Pride and Joy | 2.00% | ~3 |
-| Eyes Yet To Open | 2.00% | ~3 |
-| Hackathon | 2.00% | ~3 |
+| Pride and Joy | 2.00% | ~4 |
+| Eyes Yet To Open | 2.00% | ~4 |
+| Hackathon | 2.00% | ~4 |
 | All the Stories | 1.00% | ~2 |
 | Total Recall | 1.00% | ~2 |
 | Something Rotten | 1.00% | ~2 |
@@ -29,8 +29,8 @@
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 248)  
-Completed: 5 (2.87%) (Ranked 50)  
+Progressed: 175 (Ranked 248)  
+Completed: 5 (2.86%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -45,7 +45,7 @@ Completed: 5 (2.87%) (Ranked 50)
 | 2023-05-26 | 170 | 5 |
 | 2023-05-27 | 171 | 5 |
 | 2023-05-28 | 173 | 5 |
-| 2023-05-30 | 174 | 5 |
+| 2023-05-30 | 175 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

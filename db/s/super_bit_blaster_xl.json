@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 73,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -466,9 +466,9 @@
       "ID": "Bit Blaster V4",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V4",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Bit Blaster V5",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:06:27.3817832+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:10.0214718+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.223313+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:57:56.1560723+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:06:27.3817927+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:57:40.1848836+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:10.0214883+00:00"
 }

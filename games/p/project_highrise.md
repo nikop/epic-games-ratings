@@ -26,10 +26,10 @@
 | Emporium Empire | 22.00% | ~40 |
 | Leveled Up Shops | 22.00% | ~40 |
 | Get Electrified | 21.00% | ~38 |
+| Artfully Done | 20.00% | ~37 |
 | Rehab Expert | 20.00% | ~37 |
 | Don't Feel a Loan | 20.00% | ~37 |
 | Tasty Profits | 20.00% | ~37 |
-| Artfully Done | 19.00% | ~35 |
 | Cashflow Chief | 18.00% | ~33 |
 | We Don't Need No Education | 18.00% | ~33 |
 | Under One Roof | 17.00% | ~31 |
@@ -46,11 +46,11 @@
 | First 100 Days | 10.00% | ~18 |
 | Refined Palates | 10.00% | ~18 |
 | Revenue Royalty | 10.00% | ~18 |
+| Pipe Up | 10.00% | ~18 |
 | Meet Me at HQ | 9.00% | ~16 |
 | Profound Proceeds | 9.00% | ~16 |
 | Maximum Reuse | 9.00% | ~16 |
 | Phoning It In | 9.00% | ~16 |
-| Pipe Up | 9.00% | ~16 |
 | Aestheticly Pleased | 8.00% | ~15 |
 | Tuned In | 8.00% | ~15 |
 | It's a Gas | 8.00% | ~15 |
@@ -66,6 +66,7 @@
 | Luxury Boutiques | 4.00% | ~7 |
 | Plebs Are Needed | 4.00% | ~7 |
 | Three of a Kind | 4.00% | ~7 |
+| Four of a Kind | 4.00% | ~7 |
 | Sandbagger | 4.00% | ~7 |
 | Curated Class | 3.00% | ~5 |
 | Decorator's Touch | 3.00% | ~5 |
@@ -74,7 +75,6 @@
 | Glut of Gastronomy | 3.00% | ~5 |
 | Royal Flush | 3.00% | ~5 |
 | The King of Cool | 3.00% | ~5 |
-| Four of a Kind | 3.00% | ~5 |
 | In the Money | 3.00% | ~5 |
 | It is Payday | 3.00% | ~5 |
 | Full House | 2.00% | ~4 |

@@ -352,9 +352,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 7240,
+  "EOS_Progressed": 7243,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2862,6 +2862,11 @@
       "Time": "2023-05-30T09:01:00.4876516+00:00",
       "NumProgressed": 7240,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-30T10:00:07.7388021+00:00",
+      "NumProgressed": 7243,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 34,
@@ -2945,7 +2950,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH11",
@@ -2977,7 +2982,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ACH15",
@@ -3033,7 +3038,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "ACH22",
@@ -3049,7 +3054,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ACH24",
@@ -3073,7 +3078,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH27",
@@ -3144,7 +3149,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7240,
+      "Progressed": 7243,
       "Completed": 24
     }
   ],
@@ -3152,8 +3157,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-29T13:03:24.3591761+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:01:00.4876311+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:00:07.7388015+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:58:29.197558+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:01:00.4885969+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:58:07.362983+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:00:07.7388507+00:00"
 }

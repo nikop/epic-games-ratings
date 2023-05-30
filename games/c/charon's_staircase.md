@@ -16,17 +16,17 @@
 | Lights and shadows | 31.00% | ~22 |
 | The threshold of horror | 30.00% | ~21 |
 | Second document retrieved | 27.00% | ~19 |
+| Third document retrieved | 27.00% | ~19 |
 | Deadly chase | 27.00% | ~19 |
-| Third document retrieved | 26.00% | ~18 |
+| The lowest floor of the lift | 26.00% | ~18 |
 | Dara's home | 26.00% | ~18 |
-| The lowest floor of the lift | 24.00% | ~17 |
-| Charon's coin | 23.00% | ~16 |
+| Charon's coin | 24.00% | ~17 |
 | Until death do us part | 20.00% | ~14 |
 | The impatient one | 17.00% | ~12 |
 | Spectres from the past | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 70 (Ranked 288)  
-Completed: 2 (2.86%) (Ranked 51)  
+Completed: 2 (2.86%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

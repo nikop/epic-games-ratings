@@ -4,7 +4,7 @@
   "ProductSlug": "tiny-lands-527466",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-12-21T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.0825331+00:00",
   "LastChanged": "2023-03-31T05:58:12.0825332+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:09.9036406+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:00:00.2544334+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:05:51.6892455+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:59:19.5480068+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:04:42.023561+00:00"
 }

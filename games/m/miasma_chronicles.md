@@ -8,7 +8,7 @@ Rating: 4.22 (Ranked 807)
 | First Blood | 91.00% | ~764 |
 | Ranidaphobia | 70.00% | ~588 |
 | Aspiring Editor | 67.00% | ~563 |
-| Gun for Hire | 61.00% | ~512 |
+| Gun for Hire | 62.00% | ~521 |
 | I am the law! | 50.00% | ~420 |
 | Lumberjack | 31.00% | ~260 |
 | Limp Richard | 27.00% | ~227 |
@@ -25,13 +25,13 @@ Rating: 4.22 (Ranked 807)
 | Chain Killer | 11.00% | ~92 |
 | Hold The Line | 11.00% | ~92 |
 | Newtonian Knockout | 10.00% | ~84 |
+| Are you not entertained? | 9.00% | ~76 |
+| Jarhead | 9.00% | ~76 |
 | There Can Be Only One! | 9.00% | ~76 |
-| Are you not entertained? | 8.00% | ~67 |
 | Ganglord | 8.00% | ~67 |
-| Jarhead | 8.00% | ~67 |
 | Infiltrator | 8.00% | ~67 |
-| Pushing Daisy | 7.00% | ~59 |
-| Experienced | 6.00% | ~50 |
+| Pushing Daisy | 8.00% | ~67 |
+| Experienced | 7.00% | ~59 |
 | Ruthless | 6.00% | ~50 |
 | The Watchers | 5.00% | ~42 |
 | Chain Reaction | 4.00% | ~34 |

@@ -3,8 +3,8 @@
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -80,9 +80,9 @@
       "ID": "ACH_12",
       "SetID": "1g3d1lg",
       "Name": "Third document retrieved",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_13",
@@ -192,17 +192,17 @@
       "ID": "ACH_7",
       "SetID": "1g3d1lg",
       "Name": "The lowest floor of the lift",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_8",
       "SetID": "1g3d1lg",
       "Name": "Charon\u0027s coin",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_9",
@@ -225,8 +225,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:06:44.160022+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:05:23.9968165+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.6124871+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:59:24.1142761+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:06:44.160034+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:58:51.0506088+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:05:23.9968309+00:00"
 }

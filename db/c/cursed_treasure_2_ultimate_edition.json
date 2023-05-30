@@ -135,9 +135,9 @@
       "ID": "BADGE_BOSS_3_KILL",
       "SetID": "ak6pfjk",
       "Name": "Clean Forests",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "BADGE_BOSS_4_KILL",
@@ -207,9 +207,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Tanglewood",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-30T09:03:34.7065843+00:00",
+  "LastChanged_Achievements": "2023-05-30T10:02:11.746184+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:58:51.2847455+00:00",
-  "LastUpdate_Achievements": "2023-05-30T09:03:34.7066192+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:58:23.7370757+00:00",
+  "LastUpdate_Achievements": "2023-05-30T10:02:11.7462229+00:00"
 }
