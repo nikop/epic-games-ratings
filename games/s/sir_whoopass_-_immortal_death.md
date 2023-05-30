@@ -60,23 +60,23 @@
 | Timber! | 6.00% | ~4 |
 | Grumpy Immortal | 6.00% | ~4 |
 | Free Of Chains | 6.00% | ~4 |
+| Ancient Ruins of Misplaced Belongings | 4.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |
 | Ancient Ruins of Inadequate Opportunities | 4.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~3 |
 | My name is Whoopass, SIR Whoopass! | 4.00% | ~3 |
 | European karaoke king | 4.00% | ~3 |
+| Fifty Shades of Gruyere | 3.00% | ~2 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~2 |
-| Ancient Ruins of Misplaced Belongings | 3.00% | ~2 |
+| Ancient Ruins of Poor Intrusion Prevention | 3.00% | ~2 |
+| Ancient Ruins of Peekaboo | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
 | Out of bounds | 3.00% | ~2 |
-| Fifty Shades of Gruyere | 1.00% | ~1 |
 | Ancient Ruins of Vitamin D Addition | 1.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 1.00% | ~1 |
-| Ancient Ruins of Poor Intrusion Prevention | 1.00% | ~1 |
-| Ancient Ruins of Peekaboo | 1.00% | ~1 |
 | Ancient Ruins of Chilly Winds | 1.00% | ~1 |
 | Consider it dealt with | 1.00% | ~1 |
 | I'm getting full... | 0.00% | ~0 |

@@ -4030,10 +4030,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89230,
-  "EOS_Completed": 1898,
-  "EOS_NewPlayers": 817,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 89236,
+  "EOS_Completed": 1899,
+  "EOS_NewPlayers": 819,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8015,6 +8015,11 @@
       "Time": "2023-05-30T18:06:05.7724325+00:00",
       "NumProgressed": 89230,
       "NumCompleted": 1898
+    },
+    {
+      "Time": "2023-05-30T19:06:28.9259777+00:00",
+      "NumProgressed": 89236,
+      "NumCompleted": 1899
     }
   ],
   "TotalAchievements": 493,
@@ -10384,9 +10389,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_571",
@@ -11969,21 +11974,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55504,
-      "Completed": 2742
+      "Progressed": 55510,
+      "Completed": 2743
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89230,
-      "Completed": 1898
+      "Progressed": 89236,
+      "Completed": 1899
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-30T13:57:54.7211701+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:06:05.772432+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:06:28.9259771+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:58:05.3485477+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:06:05.7747975+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:58:02.9636563+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:06:28.9281269+00:00"
 }

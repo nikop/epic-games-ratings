@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 909,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.71,
   "EosHistory": [
@@ -2024,9 +2024,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 282
     },
     {
       "ID": "16",
@@ -2104,9 +2104,9 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 300
     },
     {
       "ID": "25",
@@ -2385,8 +2385,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:33.6571851+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:05:51.3375793+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:57:35.5517022+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:33.6572394+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:57:23.8435806+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:05:51.337625+00:00"
 }

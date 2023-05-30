@@ -11,7 +11,7 @@
 | Like Flying... | 30.00% | ~109 |
 | Memories | 27.00% | ~98 |
 | The Maggot | 22.00% | ~80 |
-| The Breeder | 16.00% | ~58 |
+| The Breeder | 17.00% | ~62 |
 | The Veteran | 13.00% | ~47 |
 | The Traitor | 9.00% | ~33 |
 | The Spider | 8.00% | ~29 |
@@ -22,9 +22,9 @@
 | Her Eyes | 3.00% | ~11 |
 | Gollum/Sméagol | 3.00% | ~11 |
 | The Friend | 2.00% | ~7 |
+| So Silly! | 2.00% | ~7 |
 | Sweet Darkness | 1.00% | ~4 |
 | Master of the Old Game | 1.00% | ~4 |
-| So Silly! | 1.00% | ~4 |
 | Made a Song | 1.00% | ~4 |
 | So Tasty! | 1.00% | ~4 |
 | Break a Leg! | 0.80% | ~3 |

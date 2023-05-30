@@ -39,15 +39,15 @@ Rating: 4.45 (Ranked 607)
 | The Long Game | 1.00% | ~19 |
 | My Little Friend | 1.00% | ~19 |
 | It'll Buff Right Out | 1.00% | ~19 |
-| Strategist | 0.80% | ~15 |
+| Strategist | 0.90% | ~17 |
 | Locomotion Commotion | 0.80% | ~15 |
 | Operation Foxley | 0.80% | ~15 |
 | Road Rage | 0.70% | ~13 |
 | Herr Today, Gone Tomorrow | 0.70% | ~13 |
 | Siegebreaker | 0.70% | ~13 |
 | Ghost of Falaise | 0.70% | ~13 |
+| From Paris with Love | 0.60% | ~11 |
 | Tinkerer | 0.60% | ~11 |
-| From Paris with Love | 0.50% | ~9 |
 | Don't hold your breath | 0.50% | ~9 |
 | Last Resort | 0.50% | ~9 |
 | Burn after reading | 0.40% | ~8 |

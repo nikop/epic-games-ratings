@@ -39,8 +39,8 @@ Rating: 4.56 (Ranked 452)
 | What the Ruins Teach Us | 0.80% | ~18 |
 | Pulsar Disciple | 0.80% | ~18 |
 | Mutual Loyalty | 0.70% | ~16 |
+| Sustainable Energy | 0.70% | ~16 |
 | Pedal to the Metal | 0.70% | ~16 |
-| Sustainable Energy | 0.60% | ~14 |
 | Catastrophe Avoided | 0.60% | ~14 |
 | Praise the Hull! | 0.60% | ~14 |
 | You Had One Job... | 0.60% | ~14 |
@@ -52,9 +52,9 @@ Rating: 4.56 (Ranked 452)
 | Tiqqun Contender | 0.30% | ~7 |
 | Scientifically Accurate | 0.30% | ~7 |
 | Remember the Dead | 0.20% | ~5 |
+| Soylent Green | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
-| Soylent Green | 0.10% | ~2 |
 | I Give You the Stars | 0.10% | ~0 |
 | Beyond Time and Space | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,296 (Ranked 144)  
+Progressed: 2,299 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 2,211 | 0 |
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
-| 2023-05-30 | 2,296 | 0 |
+| 2023-05-30 | 2,299 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -557,9 +557,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "Chapter4",
@@ -733,9 +733,9 @@
       "ID": "SIlly",
       "SetID": "70l3651",
       "Name": "So Silly!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "Scout",
@@ -804,8 +804,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:29.665947+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:05:46.6218434+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:57:50.949345+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:29.665976+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:57:44.7846297+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:05:46.6218685+00:00"
 }

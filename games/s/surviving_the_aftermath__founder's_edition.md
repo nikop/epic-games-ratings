@@ -7,7 +7,7 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~4,160 |
-| Leader | 60.00% | ~3,566 |
+| Leader | 61.00% | ~3,625 |
 | Explorer | 53.00% | ~3,150 |
 | Healer | 52.00% | ~3,090 |
 | Aspiring Inventor | 45.00% | ~2,674 |
@@ -56,9 +56,9 @@ Number of Ratings: 836  (23.09.2022)
 | Doomsday is canceled | 2.00% | ~119 |
 | Biggest Catastrofan | 2.00% | ~119 |
 | The Friendliest | 1.00% | ~59 |
+| Legendary Adventurer | 1.00% | ~59 |
 | A Closer Look | 1.00% | ~59 |
 | True Survivor | 1.00% | ~59 |
-| Legendary Adventurer | 0.90% | ~53 |
 | Feng Shui | 0.90% | ~53 |
 | Slimy yet Satisfying | 0.80% | ~48 |
 | Finnished | 0.30% | ~18 |

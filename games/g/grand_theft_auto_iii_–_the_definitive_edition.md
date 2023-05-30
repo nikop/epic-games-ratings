@@ -5,20 +5,20 @@ Rating: 4.14 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,717 |
-| Disposing of the Evidence | 36.00% | ~2,046 |
-| Without a Scratch | 32.00% | ~1,819 |
-| Wreckless Driving | 27.00% | ~1,534 |
-| A Marked Man | 24.00% | ~1,364 |
-| Street Sweeper | 17.00% | ~966 |
-| Liberty City Minute | 16.00% | ~909 |
-| Offshore Delivery | 12.00% | ~682 |
-| Dirty Money | 11.00% | ~625 |
-| By a Mile | 9.00% | ~511 |
-| Right-hand Man | 9.00% | ~511 |
+| First Day on the Job | 83.00% | ~4,721 |
+| Disposing of the Evidence | 36.00% | ~2,048 |
+| Without a Scratch | 32.00% | ~1,820 |
+| Wreckless Driving | 27.00% | ~1,536 |
+| A Marked Man | 24.00% | ~1,365 |
+| Street Sweeper | 17.00% | ~967 |
+| Liberty City Minute | 16.00% | ~910 |
+| Offshore Delivery | 12.00% | ~683 |
+| Dirty Money | 11.00% | ~626 |
+| By a Mile | 9.00% | ~512 |
+| Right-hand Man | 9.00% | ~512 |
 | Not So Fast | 8.00% | ~455 |
 | A Gift from the King | 6.00% | ~341 |
-| Full Artillery | 3.00% | ~170 |
+| Full Artillery | 3.00% | ~171 |
 | Mob Boss | 2.00% | ~114 |
 | Splish Splash | 2.00% | ~114 |
 | Escape Artist | 1.00% | ~57 |
@@ -30,13 +30,13 @@ Rating: 4.14 (Ranked 856)
 | Planned Ahead | 0.90% | ~51 |
 | Man Toyz | 0.90% | ~51 |
 | Going Rogue | 0.90% | ~51 |
-| Wheels Up | 0.80% | ~45 |
+| Wheels Up | 0.80% | ~46 |
 | Furious First Responder | 0.70% | ~40 |
 | Is That All You've Got? | 0.70% | ~40 |
 | King of Liberty City | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,683 (Ranked 123)  
-Completed: 27 (0.48%) (Ranked 109)  
+Progressed: 5,688 (Ranked 123)  
+Completed: 27 (0.47%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 27 (0.48%) (Ranked 109)
 | 2023-05-27 | 5,514 | 26 |
 | 2023-05-28 | 5,589 | 26 |
 | 2023-05-29 | 5,648 | 26 |
-| 2023-05-30 | 5,683 | 27 |
+| 2023-05-30 | 5,688 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

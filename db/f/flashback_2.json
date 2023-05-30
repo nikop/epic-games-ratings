@@ -4,7 +4,7 @@
   "ProductSlug": "flashback-2-9dc232",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:59.3566692+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:58:17.9061414+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:04:07.6546067+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:58:16.684463+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:04:04.1811067+00:00"
 }

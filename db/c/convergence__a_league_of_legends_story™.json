@@ -731,9 +731,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 182
     },
     {
       "ID": "ClovemaryGift",
@@ -787,9 +787,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "FairgroundsChests1",
@@ -819,9 +819,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 114
     },
     {
       "ID": "GadgetCompletion1",
@@ -875,9 +875,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     },
     {
       "ID": "MapCompletion1",
@@ -971,9 +971,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 489
     },
     {
       "ID": "RewindParry",
@@ -995,17 +995,17 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 187
     },
     {
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "SkillProgress1",
@@ -1027,9 +1027,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "SyronGift",
@@ -1059,25 +1059,25 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 338
     },
     {
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 244
     },
     {
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "WatcherSpared",
@@ -1091,9 +1091,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 296
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1114,8 +1114,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:04:58.3751823+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:05:07.4317144+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:59:22.3415694+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:04:58.3752326+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:59:28.4028597+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:05:07.4317539+00:00"
 }

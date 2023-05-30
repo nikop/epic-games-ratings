@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
@@ -5640,10 +5640,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 22656,
       "NumberOfAwardsMax": 7024
+    },
+    {
+      "Time": "2023-05-30T19:00:30.661468+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 22674,
+      "NumberOfAwardsMax": 7024
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22656,
+  "NumberOfAwards": 22674,
   "NumberOfAwardsMax": 7024,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5657,7 +5663,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5018
+      "Count": 5029
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5669,7 +5675,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1147
+      "Count": 1151
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5681,7 +5687,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1173
+      "Count": 1176
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5731,8 +5737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-05-30T18:00:17.1200449+00:00",
+  "LastChanged": "2023-05-30T19:00:30.6614679+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.5269383+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:00:17.1200457+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:16.4231899+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:00:30.6614685+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:05:30.2421992+00:00"
 }

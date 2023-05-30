@@ -2,9 +2,9 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.94,
+  "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -127,6 +127,11 @@
       "Time": "2023-05-30T08:05:27.6324457+00:00",
       "NumProgressed": 155,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-30T19:06:11.0034308+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -152,9 +157,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "deathlooper",
@@ -168,9 +173,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "leader_you_are_not",
@@ -178,15 +183,15 @@
       "Name": "A leader, you are not",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -208,9 +213,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "super_seducer",
@@ -218,7 +223,7 @@
       "Name": "Super Seducer",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -226,7 +231,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "thats_my_boy",
@@ -240,9 +245,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "tried_to_warn_you",
@@ -258,7 +263,7 @@
       "Name": "Um, ok...",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -273,7 +278,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 3
     }
   ],
@@ -281,8 +286,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:49.9062034+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:06:11.0034304+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.1546983+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:59:48.8346662+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:49.9062164+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:59:58.0503378+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:06:11.0034402+00:00"
 }

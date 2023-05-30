@@ -2,9 +2,9 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.2,
+  "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -56,6 +56,11 @@
     {
       "Time": "2023-05-28T20:06:58.3463514+00:00",
       "NumProgressed": 83,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T19:06:08.8726209+00:00",
+      "NumProgressed": 84,
       "NumCompleted": 1
     }
   ],
@@ -90,7 +95,7 @@
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -154,7 +159,7 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 59
     },
@@ -218,7 +223,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -226,7 +231,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -250,7 +255,7 @@
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -435,7 +440,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 1
     }
   ],
@@ -443,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:47.9854287+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:06:08.8726204+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.6602218+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:59:02.9484974+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:47.985464+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:59:06.885648+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:06:08.87265+00:00"
 }

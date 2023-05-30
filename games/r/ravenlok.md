@@ -37,9 +37,9 @@
 | Bird of Prey | 33.00% | ~300 |
 | Stardust | 33.00% | ~300 |
 | Heartbreaker | 33.00% | ~300 |
-| Kidnapped! | 32.00% | ~291 |
+| Kidnapped! | 33.00% | ~300 |
+| Pull the Plug | 31.00% | ~282 |
 | Trick Question! | 31.00% | ~282 |
-| Pull the Plug | 30.00% | ~273 |
 | Soul Slayer | 30.00% | ~273 |
 | The Downfall | 30.00% | ~273 |
 | All Heart | 30.00% | ~273 |

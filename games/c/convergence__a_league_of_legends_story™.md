@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~484 |
+| Time Heals All Wounds | 94.00% | ~489 |
 | Rail Rat | 77.00% | ~400 |
 | The Mysterious Stranger | 74.00% | ~385 |
-| Immaculate Aim | 64.00% | ~333 |
-| The Brass Boss | 56.00% | ~291 |
+| Immaculate Aim | 65.00% | ~338 |
+| The Brass Boss | 57.00% | ~296 |
 | Honest Mistake | 55.00% | ~286 |
 | No, Thanks! | 53.00% | ~276 |
 | Time Flies | 51.00% | ~265 |
@@ -16,12 +16,12 @@
 | The Harder They Fall | 49.00% | ~255 |
 | Right On Time | 48.00% | ~250 |
 | Fast Learner | 48.00% | ~250 |
-| Immaculate Aim | 46.00% | ~239 |
-| Make Up For Lost Time | 45.00% | ~234 |
+| Immaculate Aim | 47.00% | ~244 |
+| Make Up For Lost Time | 46.00% | ~239 |
 | Breaking Down Barriers | 43.00% | ~224 |
 | The Steel Shadow | 37.00% | ~192 |
-| Golem Chaser | 35.00% | ~182 |
-| Like Clockwork | 34.00% | ~177 |
+| Golem Chaser | 36.00% | ~187 |
+| Like Clockwork | 35.00% | ~182 |
 | The Wicked Twins | 34.00% | ~177 |
 | The Betrayer | 33.00% | ~172 |
 | Family Memories | 30.00% | ~156 |
@@ -29,21 +29,21 @@
 | Street Style | 28.00% | ~146 |
 | Good Neighbor | 28.00% | ~146 |
 | The Loose Cannon | 27.00% | ~140 |
+| The Man Who Shattered Time | 22.00% | ~114 |
 | The Family Fortune | 22.00% | ~114 |
-| The Man Who Shattered Time | 21.00% | ~109 |
 | Whiz Kid | 21.00% | ~109 |
+| Sump Explorer | 21.00% | ~109 |
+| Ask Questions Later | 21.00% | ~109 |
 | Chaincrawler Explorer | 20.00% | ~104 |
-| Sump Explorer | 20.00% | ~104 |
-| Ask Questions Later | 20.00% | ~104 |
+| Factorywood Explorer | 19.00% | ~99 |
 | Syron for Hope | 19.00% | ~99 |
-| Factorywood Explorer | 18.00% | ~94 |
 | Fairgrounds Explorer | 18.00% | ~94 |
 | Cultivair Explorer | 14.00% | ~73 |
 | Theater Explorer | 14.00% | ~73 |
 | Entresol Explorer | 12.00% | ~62 |
+| Rungs Was Right | 12.00% | ~62 |
 | Corin Goes Home | 11.00% | ~57 |
 | Sartorialist | 11.00% | ~57 |
-| Rungs Was Right | 11.00% | ~57 |
 | Clovemary for Remembering | 9.00% | ~47 |
 | Hexlock for Protection | 9.00% | ~47 |
 | Golem Hunter | 8.00% | ~42 |

@@ -6,8 +6,8 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Captain and Crew | 1.00% | ~219 |
 | Spells and Swords | 1.00% | ~219 |
-| Captain and Crew | 0.90% | ~197 |
 | Harvest and Home | 0.70% | ~154 |
 | Poise and Poisons | 0.60% | ~132 |
 | No Harm in Looking | 0.50% | ~110 |

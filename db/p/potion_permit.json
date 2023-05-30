@@ -306,7 +306,7 @@
   ],
   "EOS_Progressed": 1319,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -845,9 +845,9 @@
       "ID": "ACHIEVEMENTS_10",
       "SetID": "d4o538a",
       "Name": "Intermediate Chemist",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1086,8 +1086,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:57.2878333+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:06:19.4506411+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:43.6449908+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:00:14.9769193+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:57.2878638+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:00:27.8965+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:06:19.4506658+00:00"
 }

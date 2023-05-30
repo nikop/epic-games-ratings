@@ -11,7 +11,7 @@
 | This is Not Heavy Metal! | 21.00% | ~45 |
 | Welcome to the Garage | 20.00% | ~43 |
 | Truthseeker | 16.00% | ~34 |
-| 86's Nightmare | 11.00% | ~23 |
+| 86's Nightmare | 11.00% | ~24 |
 | Freedom | 10.00% | ~21 |
 | Friendzone | 10.00% | ~21 |
 | Partners in Crime | 9.00% | ~19 |
@@ -20,8 +20,8 @@
 | Song Harvester | 2.00% | ~4 |
 | Try Harder | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 236)  
-Completed: 2 (0.94%) (Ranked 88)  
+Progressed: 214 (Ranked 236)  
+Completed: 2 (0.93%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,7 +53,7 @@ Completed: 2 (0.94%) (Ranked 88)
 | 2023-05-27 | 199 | 2 |
 | 2023-05-28 | 203 | 2 |
 | 2023-05-29 | 209 | 2 |
-| 2023-05-30 | 213 | 2 |
+| 2023-05-30 | 214 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

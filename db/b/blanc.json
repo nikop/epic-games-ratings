@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1890,
+  "EOS_Progressed": 1891,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -508,6 +508,11 @@
       "Time": "2023-05-30T17:05:24.5239128+00:00",
       "NumProgressed": 1890,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-30T19:05:56.843207+00:00",
+      "NumProgressed": 1891,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -599,7 +604,7 @@
       "Name": "The end",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "TRANSMISSION",
@@ -615,14 +620,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1890,
+      "Progressed": 1891,
       "Completed": 4
     }
   ],
@@ -630,8 +635,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:38.0596359+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:05:56.8432066+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.2878475+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:59:12.8448936+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:38.0596485+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:59:17.4719014+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:05:56.8432183+00:00"
 }

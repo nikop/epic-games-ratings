@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,030 |
-| This is only the beginning | 19.00% | ~40,303 |
-| Knowledge is power | 12.00% | ~25,454 |
-| Power Ranger | 9.00% | ~19,091 |
-| Galvanic Rifle | 9.00% | ~19,091 |
-| Taser Goad | 9.00% | ~19,091 |
-| Radium Ready | 9.00% | ~19,091 |
-| Half a cog | 9.00% | ~19,091 |
-| Watch them crumble | 6.00% | ~12,727 |
+| No aid from the Omnissiah | 25.00% | ~53,033 |
+| This is only the beginning | 19.00% | ~40,305 |
+| Knowledge is power | 12.00% | ~25,456 |
+| Power Ranger | 9.00% | ~19,092 |
+| Galvanic Rifle | 9.00% | ~19,092 |
+| Taser Goad | 9.00% | ~19,092 |
+| Radium Ready | 9.00% | ~19,092 |
+| Half a cog | 9.00% | ~19,092 |
+| Watch them crumble | 6.00% | ~12,728 |
 | Competent Cohort | 4.00% | ~8,485 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,485 |
 | One with the Machine | 4.00% | ~8,485 |
 | Legio Cybernetica | 3.00% | ~6,364 |
 | Fleshy Disposal | 3.00% | ~6,364 |
-| Battle Servitor | 2.00% | ~4,242 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,242 |
-| Impatient destruction | 2.00% | ~4,242 |
-| Vivisected Vizier | 2.00% | ~4,242 |
-| Architect Abortion | 2.00% | ~4,242 |
+| Battle Servitor | 2.00% | ~4,243 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,243 |
+| Impatient destruction | 2.00% | ~4,243 |
+| Vivisected Vizier | 2.00% | ~4,243 |
+| Architect Abortion | 2.00% | ~4,243 |
 | Cohortus Maximus | 0.70% | ~1,485 |
-| Mother of Xenarites | 0.40% | ~848 |
+| Mother of Xenarites | 0.40% | ~849 |
 | False God | 0.30% | ~636 |
 | Hard | 0.20% | ~424 |
 | Sterile Perfection | 0.10% | ~212 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 643)
 | Perma-live | 0.10% | ~212 |
 | Purge the Heretek | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,120 (Ranked 48)  
+Progressed: 212,131 (Ranked 48)  
 Completed: 3 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,14 +80,14 @@ Completed: 3 (0.00%) (Ranked 207)
 | 2023-05-27 | 211,581 | 3 |
 | 2023-05-28 | 211,804 | 3 |
 | 2023-05-29 | 212,000 | 3 |
-| 2023-05-30 | 212,120 | 3 |
+| 2023-05-30 | 212,131 | 3 |
 ## Awards
-Max (Highly Recommended): 277  (Ranked 231)  
-Sum: 2,100 (Ranked 182)  
-Diff (max vs sum): 49  
+Max (Highly Recommended): 278  (Ranked 230)  
+Sum: 2,101 (Ranked 182)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 277 |
+| This game is Highly Recommended | 278 |
 | This game has Quickly Understood Controls | 271 |
 | This game is Extremely Fun | 268 |
 | This game has Amazing Characters | 256 |
@@ -130,3 +130,4 @@ Diff (max vs sum): 49
 | 2023-05-20 | 4.43 | 277 | 2,096 |
 | 2023-05-27 | 4.43 | 277 | 2,099 |
 | 2023-05-29 | 4.43 | 277 | 2,100 |
+| 2023-05-30 | 4.43 | 278 | 2,101 |

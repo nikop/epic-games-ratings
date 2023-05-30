@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,563 |
-| Flanked! | 80.00% | ~2,278 |
-| Economics 101 | 65.00% | ~1,851 |
-| Get Rich Quick | 48.00% | ~1,367 |
+| You and what Army? | 90.00% | ~2,565 |
+| Flanked! | 80.00% | ~2,280 |
+| Economics 101 | 65.00% | ~1,852 |
+| Get Rich Quick | 48.00% | ~1,368 |
 | Do the Splits | 41.00% | ~1,168 |
-| Maestro | 28.00% | ~797 |
-| Full Employment | 19.00% | ~541 |
+| Maestro | 28.00% | ~798 |
+| Full Employment | 19.00% | ~542 |
 | Clay Fighter | 18.00% | ~513 |
-| Nowhere left to Hide | 15.00% | ~427 |
+| Nowhere left to Hide | 15.00% | ~428 |
 | Boulder Clash | 14.00% | ~399 |
 | All Ovens Blazing | 13.00% | ~370 |
 | Held Back by the Roots | 12.00% | ~342 |
-| Well Supplied | 11.00% | ~313 |
+| Well Supplied | 11.00% | ~314 |
 | Damage Control | 8.00% | ~228 |
 | Master of the Brawl | 8.00% | ~228 |
-| Sniped | 7.00% | ~199 |
-| Leave Them no Cake | 7.00% | ~199 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~199 |
+| Sniped | 7.00% | ~200 |
+| Leave Them no Cake | 7.00% | ~200 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~200 |
 | A Secret Recipe | 6.00% | ~171 |
 | Your Biggest Fans | 5.00% | ~142 |
 | An Ally in Need | 5.00% | ~142 |
@@ -31,14 +31,14 @@
 | Sweet Revenge | 4.00% | ~114 |
 | We Have the Technology | 4.00% | ~114 |
 | Figure of Breach | 4.00% | ~114 |
-| Work It | 3.00% | ~85 |
-| The Handyman Can! | 3.00% | ~85 |
-| A Brief Moment of Respite | 3.00% | ~85 |
+| Work It | 3.00% | ~86 |
+| The Handyman Can! | 3.00% | ~86 |
+| A Brief Moment of Respite | 3.00% | ~86 |
 | Almost Like Winning | 2.00% | ~57 |
 | Untouchable | 1.00% | ~28 |
 | All Geared Up | 0.90% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,848 (Ranked 136)  
+Progressed: 2,850 (Ranked 136)  
 Completed: 9 (0.32%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 9 (0.32%) (Ranked 124)
 | 2023-05-27 | 2,801 | 9 |
 | 2023-05-28 | 2,822 | 9 |
 | 2023-05-29 | 2,838 | 9 |
-| 2023-05-30 | 2,848 | 9 |
+| 2023-05-30 | 2,850 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

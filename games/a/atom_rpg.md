@@ -7,8 +7,8 @@ Number of Ratings: 54  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Atom Agent | 99.00% | ~862 |
+| Wanderer | 35.00% | ~305 |
 | One HIT wonder | 34.00% | ~296 |
-| Wanderer | 34.00% | ~296 |
 | One shot, one kill | 28.00% | ~244 |
 | Traveler | 25.00% | ~218 |
 | Head Burst | 19.00% | ~165 |
@@ -16,7 +16,7 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 17.00% | ~148 |
 | Double agent | 15.00% | ~131 |
 | Paranoia | 14.00% | ~122 |
-| Kraina Grzybow | 9.00% | ~78 |
+| Kraina Grzybow | 10.00% | ~87 |
 | Love Guru | 9.00% | ~78 |
 | Savant | 9.00% | ~78 |
 | Not-so-private Eye | 8.00% | ~70 |

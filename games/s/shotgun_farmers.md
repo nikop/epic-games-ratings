@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 45.00% | ~7 |
+| Aspairagus | 47.00% | ~8 |
 | Survivor | 35.00% | ~6 |
-| No Diggity | 32.00% | ~5 |
+| No Diggity | 33.00% | ~5 |
 | Early Survivor | 30.00% | ~5 |
 | Seeds of War | 26.00% | ~17 |
+| Amateur Survivor | 23.00% | ~4 |
 | Bouncemato | 20.00% | ~3 |
-| Amateur Survivor | 20.00% | ~3 |
 | First Blood | 18.00% | ~12 |
 | Quick-Draw Pod | 18.00% | ~3 |
 | I Believe I Can Fly | 15.00% | ~10 |
@@ -19,16 +19,16 @@
 | Triple Kill | 12.00% | ~8 |
 | Cornivore | 12.00% | ~8 |
 | Grave Digger | 12.00% | ~2 |
+| 15K | 11.00% | ~7 |
+| 10K | 11.00% | ~7 |
+| Drinking Problem | 9.00% | ~6 |
 | Oh My Gourd | 9.00% | ~1 |
+| Perfect | 9.00% | ~1 |
 | Expert Survivor | 9.00% | ~1 |
 | Quadsparagus | 9.00% | ~1 |
-| 15K | 8.00% | ~5 |
-| Drinking Problem | 8.00% | ~5 |
 | Skin Of Your Teeth | 8.00% | ~5 |
 | Quit Horsin' Around | 8.00% | ~5 |
-| 10K | 8.00% | ~5 |
 | Master Survivor | 8.00% | ~1 |
-| Perfect | 6.00% | ~1 |
 | Summers Here | 6.00% | ~1 |
 | This Is My Boomstick | 5.00% | ~1 |
 | Easy Peasy | 5.00% | ~1 |

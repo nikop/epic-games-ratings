@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 420,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 298,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 121,
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2781,
+  "EOS_Progressed": 2782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1357,6 +1357,11 @@
       "Time": "2023-05-30T18:05:57.2791822+00:00",
       "NumProgressed": 2781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T19:06:19.4215511+00:00",
+      "NumProgressed": 2782,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1384,7 +1389,7 @@
       "Name": "Look Over There!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "BloodAndIron",
@@ -1542,9 +1547,9 @@
       "ID": "Kills_Bleed",
       "SetID": "3jha1np",
       "Name": "Blood for the Blood God!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 445
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1558,9 +1563,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 974
     },
     {
       "ID": "Kills_Exterminator",
@@ -1592,7 +1597,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "Kills_Streak",
@@ -1696,7 +1701,7 @@
       "Name": "Efficient Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1839,21 +1844,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2781,
+      "Progressed": 2782,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2781,
+      "Progressed": 2782,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:57.2791817+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:06:19.4215506+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T17:58:39.6256271+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:57.2792406+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:58:38.6997946+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:06:19.421596+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,091 |
-| Apprentice | 58.00% | ~381,101 |
-| Close Shave | 25.00% | ~164,268 |
-| Mercenary | 23.00% | ~151,126 |
-| Ninja | 23.00% | ~151,126 |
-| Northern Scourge | 17.00% | ~111,702 |
-| Thief Bane | 14.00% | ~91,990 |
+| The Fool | 72.00% | ~473,094 |
+| Apprentice | 58.00% | ~381,104 |
+| Close Shave | 25.00% | ~164,269 |
+| Mercenary | 23.00% | ~151,127 |
+| Ninja | 23.00% | ~151,127 |
+| Northern Scourge | 17.00% | ~111,703 |
+| Thief Bane | 14.00% | ~91,991 |
 | Master of Arms | 12.00% | ~78,849 |
-| Gambler | 10.00% | ~65,707 |
-| Dice Master | 10.00% | ~65,707 |
-| Swordsman | 9.00% | ~59,136 |
+| Gambler | 10.00% | ~65,708 |
+| Dice Master | 10.00% | ~65,708 |
+| Swordsman | 9.00% | ~59,137 |
 | Knight | 8.00% | ~52,566 |
 | Cure for Corruption | 8.00% | ~52,566 |
 | Focused | 8.00% | ~52,566 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~19,712 |
 | Combat Ready | 3.00% | ~19,712 |
 | Stuffed Potato | 3.00% | ~19,712 |
-| Card Sharp | 2.00% | ~13,141 |
-| Magician | 2.00% | ~13,141 |
-| Draknar's Bane | 2.00% | ~13,141 |
+| Card Sharp | 2.00% | ~13,142 |
+| Magician | 2.00% | ~13,142 |
+| Draknar's Bane | 2.00% | ~13,142 |
 | Protector of the Realm | 1.00% | ~6,571 |
 | Purgatorium | 1.00% | ~6,571 |
 | Cursed Soul | 1.00% | ~6,571 |
@@ -41,7 +41,7 @@ Number of Ratings: 780  (23.09.2022)
 | Final Death | 1.00% | ~6,571 |
 | Ally | 0.80% | ~5,257 |
 | Thomas' Bane | 0.80% | ~5,257 |
-| Gamester | 0.70% | ~4,599 |
+| Gamester | 0.70% | ~4,600 |
 | Hero | 0.60% | ~3,942 |
 | Rebel | 0.60% | ~3,942 |
 | Dungeon Master | 0.50% | ~3,285 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~657 |
 | Blood Pact | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,071 (Ranked 18)  
+Progressed: 657,075 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 165 (0.03%) (Ranked 185)
 | 2023-05-27 | 656,907 | 165 |
 | 2023-05-28 | 656,972 | 165 |
 | 2023-05-29 | 657,036 | 165 |
-| 2023-05-30 | 657,071 | 165 |
+| 2023-05-30 | 657,075 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 360)  

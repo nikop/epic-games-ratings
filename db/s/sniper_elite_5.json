@@ -238,7 +238,7 @@
   "Tags": [],
   "EOS_Progressed": 1885,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2042,9 +2042,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -2242,9 +2242,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -2553,8 +2553,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-30T18:05:42.4040555+00:00",
+  "LastChanged_Achievements": "2023-05-30T19:06:02.212112+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T18:00:21.4844733+00:00",
-  "LastUpdate_Achievements": "2023-05-30T18:05:42.4041343+00:00"
+  "LastUpdate_Ratings": "2023-05-30T19:00:35.7332097+00:00",
+  "LastUpdate_Achievements": "2023-05-30T19:06:02.2121794+00:00"
 }
