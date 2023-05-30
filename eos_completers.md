@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.11% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.00% |
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 25.00% |
 | 3 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 25.00% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.76% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.69% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
@@ -19,10 +19,10 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.92% |
-| 20 | [Time Loader](games/t/time_loader.md) | 7.92% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.99% |
+| 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.74% |
 | 24 | [Scorn](games/s/scorn.md) | 6.88% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -78,16 +78,16 @@
 | 76 | [Ten Dates](games/t/ten_dates.md) | 1.35% |
 | 77 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.30% |
 | 78 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
-| 79 | [Chorus](games/c/chorus.md) | 1.22% |
-| 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.21% |
+| 79 | [Chorus](games/c/chorus.md) | 1.21% |
+| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.21% |
 | 81 | [Trifox](games/t/trifox.md) | 1.20% |
 | 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.10% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.06% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.02% |
-| 87 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.94% |
-| 87 | [Sable](games/s/sable.md) | 0.94% |
+| 87 | [Sable](games/s/sable.md) | 0.95% |
+| 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.94% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
@@ -120,12 +120,12 @@
 | 117 | [Tchia](games/t/tchia.md) | 0.37% |
 | 119 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 120 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
+| 120 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 120 | [Godlike Burger](games/g/godlike_burger.md) | 0.33% |
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 123 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
-| 123 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
-| 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 123 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
+| 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 124 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 127 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 129 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
@@ -178,12 +178,12 @@
 | 176 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 176 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 176 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
-| 180 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 180 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 180 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 180 | [House Party](games/h/house_party.md) | 0.04% |
-| 180 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
+| 179 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 179 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 179 | [High On Life](games/h/high_on_life.md) | 0.04% |
+| 179 | [House Party](games/h/house_party.md) | 0.04% |
+| 179 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
+| 179 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
 | 185 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 185 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 185 | [Old World](games/o/old_world.md) | 0.03% |
