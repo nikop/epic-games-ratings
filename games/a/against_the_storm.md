@@ -37,12 +37,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.80% | ~121 |
 | Forsaken Gods Temple | 0.80% | ~121 |
 | Serving Ale | 0.70% | ~106 |
+| Defying the Crown | 0.70% | ~106 |
 | Into the Forest | 0.70% | ~106 |
 | Ruined Armory | 0.60% | ~90 |
 | Forbidden Lands | 0.60% | ~90 |
-| Defying the Crown | 0.60% | ~90 |
+| Fishmen Ritual Site | 0.50% | ~75 |
 | Efficient Explorer | 0.40% | ~60 |
-| Fishmen Ritual Site | 0.40% | ~60 |
 | Prestigious Expedition | 0.40% | ~60 |
 | Blood Flower Farmer | 0.40% | ~60 |
 | Beaver Utopia | 0.30% | ~45 |

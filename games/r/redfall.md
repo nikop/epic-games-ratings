@@ -31,12 +31,12 @@ Rating: 3.40 (Ranked 930)
 | Starve the Beast | 8.00% | ~132 |
 | From the Shadows | 5.00% | ~82 |
 | Bell-ringer | 4.00% | ~66 |
+| Right This Way | 4.00% | ~66 |
 | Nice Try | 4.00% | ~66 |
 | Enemy of My Enemy | 4.00% | ~66 |
 | Revelations | 3.00% | ~49 |
 | Silence Is Golden | 3.00% | ~49 |
 | Check, Please! | 3.00% | ~49 |
-| Right This Way | 3.00% | ~49 |
 | Contingency Plans | 2.00% | ~33 |
 | Scream Team | 2.00% | ~33 |
 | Blood Brother | 2.00% | ~33 |

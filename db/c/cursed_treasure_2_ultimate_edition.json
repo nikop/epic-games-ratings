@@ -231,9 +231,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_6",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Wasteland",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_7",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:10:14.9470783+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:02:31.3194483+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:06:04.5221716+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:10:14.9471225+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:58:24.6161949+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:02:31.3194944+00:00"
 }

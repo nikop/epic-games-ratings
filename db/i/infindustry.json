@@ -2,9 +2,9 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -231,6 +231,11 @@
       "Time": "2023-05-30T05:05:44.6328152+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T14:05:17.5405818+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -280,7 +285,7 @@
       "ID": "Harvester",
       "SetID": "82ojhod",
       "Name": "Harvester",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -337,14 +342,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:12:47.1627137+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:05:17.5405812+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:08.964692+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:04:53.7377019+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:12:47.1627236+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:57:14.7786859+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:05:17.5405939+00:00"
 }

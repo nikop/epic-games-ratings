@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -655,6 +655,11 @@
       "Time": "2023-05-30T03:06:09.2572292+00:00",
       "NumProgressed": 352,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T14:05:38.8938974+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -664,9 +669,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "cool-shirts",
@@ -682,7 +687,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "dont-miss-calls",
@@ -714,15 +719,15 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "pack-and-sell",
@@ -730,15 +735,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "product-profit",
@@ -754,7 +759,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "rename-lieutenant",
@@ -768,9 +773,9 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "sell-variety",
@@ -802,7 +807,7 @@
       "Name": "Take-Off",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "use-submarine",
@@ -817,15 +822,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:13:08.4922308+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:05:38.8938968+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.0374277+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:07:17.9561468+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:13:08.4922459+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:59:40.6673581+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:05:38.8939135+00:00"
 }

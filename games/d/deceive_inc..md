@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 293)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,128 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,129 |
 | Tomorrow Never Dyes | 47.00% | ~3,032 |
 | Mainframe Hacker | 46.00% | ~2,967 |
 | The Spy who eliminated me | 46.00% | ~2,967 |
-| Never Say Loser Again | 41.00% | ~2,644 |
+| Never Say Loser Again | 41.00% | ~2,645 |
 | For your Eyes only | 39.00% | ~2,516 |
-| From the Vault with Love | 37.00% | ~2,386 |
-| Tailor-Made | 37.00% | ~2,386 |
+| From the Vault with Love | 37.00% | ~2,387 |
+| Tailor-Made | 37.00% | ~2,387 |
 | Fully Decked Out | 36.00% | ~2,322 |
 | You Only Live Twice | 32.00% | ~2,064 |
 | A view to Win | 28.00% | ~1,806 |
-| Smells Like Trouble | 26.00% | ~1,677 |
-| Private Collection | 25.00% | ~1,612 |
-| Hostile Takeover | 25.00% | ~1,612 |
+| Private Collection | 25.00% | ~1,613 |
+| Hostile Takeover | 25.00% | ~1,613 |
+| Smells Like Trouble | 25.00% | ~1,613 |
 | Assistant Accountant | 24.00% | ~1,548 |
 | Dr. No Kill | 24.00% | ~1,548 |
 | The Living Portrait | 24.00% | ~1,548 |
@@ -30,19 +30,19 @@ Rating: 4.65 (Ranked 293)
 | License to Thrill | 8.00% | ~516 |
 | Social of Solace | 8.00% | ~516 |
 | Safe Withdrawal | 6.00% | ~387 |
-| Live and let lie | 5.00% | ~322 |
-| Call Me Maybe | 5.00% | ~322 |
+| Live and let lie | 5.00% | ~323 |
+| Call Me Maybe | 5.00% | ~323 |
 | PHD in VIP | 4.00% | ~258 |
 | Branch Manager | 3.00% | ~194 |
 | The terminals are not enough | 2.00% | ~129 |
 | Lose Another Day | 2.00% | ~129 |
 | Chairman of Deceive Inc. | 2.00% | ~129 |
-| Chief Information Officer | 1.00% | ~64 |
+| Chief Information Officer | 1.00% | ~65 |
 | Masteries Are Forever | 0.70% | ~45 |
 | Extraction Confusion | 0.30% | ~19 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,450 (Ranked 118)  
+Progressed: 6,451 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 6,343 | 0 |
 | 2023-05-28 | 6,411 | 0 |
 | 2023-05-29 | 6,439 | 0 |
-| 2023-05-30 | 6,450 | 0 |
+| 2023-05-30 | 6,451 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

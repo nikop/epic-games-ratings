@@ -5,27 +5,27 @@ Rating: 4.24 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,326 |
-| Don't I Know You...? | 77.00% | ~1,277 |
-| Jailbreak | 66.00% | ~1,094 |
-| Suited and Booted | 38.00% | ~630 |
-| HEADSHOT! | 37.00% | ~613 |
-| Sleeping With The Fishes | 35.00% | ~580 |
-| Overheated | 30.00% | ~497 |
-| High Performance | 30.00% | ~497 |
-| Powered Up | 28.00% | ~464 |
+| Rigged And Ready | 80.00% | ~1,328 |
+| Don't I Know You...? | 77.00% | ~1,278 |
+| Jailbreak | 65.00% | ~1,079 |
+| Suited and Booted | 38.00% | ~631 |
+| HEADSHOT! | 37.00% | ~614 |
+| Sleeping With The Fishes | 35.00% | ~581 |
+| Overheated | 30.00% | ~498 |
+| High Performance | 30.00% | ~498 |
+| Powered Up | 28.00% | ~465 |
 | Studied The Blade | 24.00% | ~398 |
 | Home Invasion | 22.00% | ~365 |
 | Luminary | 22.00% | ~365 |
 | It's a Trap | 22.00% | ~365 |
-| True Survivor | 21.00% | ~348 |
+| True Survivor | 21.00% | ~349 |
 | Shocking | 20.00% | ~332 |
 | Court Martial | 19.00% | ~315 |
 | Offensive Defense | 19.00% | ~315 |
 | Unforeseeable Consequences | 19.00% | ~315 |
-| Clean Cut | 18.00% | ~298 |
+| Clean Cut | 18.00% | ~299 |
 | Dead Again | 17.00% | ~282 |
-| Full Arsenal | 16.00% | ~265 |
+| Full Arsenal | 16.00% | ~266 |
 | Can't Trust Banks | 15.00% | ~249 |
 | Mommy Dearest | 13.00% | ~216 |
 | Bad Dog | 13.00% | ~216 |
@@ -34,7 +34,7 @@ Rating: 4.24 (Ranked 794)
 | Marked For Success | 12.00% | ~199 |
 | Where It All Began | 12.00% | ~199 |
 | Sorry, Didn't See You There | 12.00% | ~199 |
-| Corrupted Beauty | 11.00% | ~182 |
+| Corrupted Beauty | 11.00% | ~183 |
 | Triplets | 10.00% | ~166 |
 | Stimulating The Local Economy | 9.00% | ~149 |
 | A Little Banged Up | 8.00% | ~133 |
@@ -42,8 +42,8 @@ Rating: 4.24 (Ranked 794)
 | Defense in Depth | 8.00% | ~133 |
 | Reverse Engineering | 7.00% | ~116 |
 | Following In Their Footsteps | 7.00% | ~116 |
-| Turbo Booster | 6.00% | ~99 |
-| Squid Pro Quo | 6.00% | ~99 |
+| Turbo Booster | 6.00% | ~100 |
+| Squid Pro Quo | 6.00% | ~100 |
 | Reborn | 5.00% | ~83 |
 | Remote Surgery | 5.00% | ~83 |
 | Counter-Sniper | 5.00% | ~83 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 794)
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,658 (Ranked 153)  
+Progressed: 1,660 (Ranked 153)  
 Completed: 10 (0.60%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 10 (0.60%) (Ranked 106)
 | 2023-05-27 | 1,635 | 10 |
 | 2023-05-28 | 1,651 | 10 |
 | 2023-05-29 | 1,658 | 10 |
+| 2023-05-30 | 1,660 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

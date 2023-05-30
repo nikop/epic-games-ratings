@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 642,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -224,15 +224,21 @@
       "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-30T14:00:04.8929951+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1865,
+  "EOS_Progressed": 1871,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1930,6 +1936,11 @@
       "Time": "2023-05-30T13:12:59.1750966+00:00",
       "NumProgressed": 1865,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T14:05:29.5787803+00:00",
+      "NumProgressed": 1871,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2021,7 +2032,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2061,7 +2072,7 @@
       "Name": "Gunslinger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2077,7 +2088,7 @@
       "Name": "Sharpshooter",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2109,7 +2120,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2149,7 +2160,7 @@
       "Name": "Lord of War",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2189,7 +2200,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2253,7 +2264,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2349,7 +2360,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2411,9 +2422,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -2508,22 +2519,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1816,
+      "Progressed": 1822,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1865,
+      "Progressed": 1871,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-05-29T23:01:12.2037001+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:12:59.1750962+00:00",
+  "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:05:29.5787798+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:07:40.7649859+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:12:59.1751621+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:00:04.8929954+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:05:29.5788552+00:00"
 }

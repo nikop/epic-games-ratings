@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.04,
+  "EOS_Completed_Percentage": 4.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -859,6 +859,11 @@
       "Time": "2023-05-30T12:04:16.5274095+00:00",
       "NumProgressed": 322,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-30T14:03:40.1627387+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -870,7 +875,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "MQ01_2",
@@ -878,7 +883,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "MQ02_1",
@@ -886,7 +891,7 @@
       "Name": "High Profile",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "MQ02_2",
@@ -910,7 +915,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "MQ03_1",
@@ -918,7 +923,7 @@
       "Name": "Fond Memories",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MQ03_2",
@@ -958,15 +963,15 @@
       "Name": "Going Once...",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "MQ04_3",
@@ -988,9 +993,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "MQ05_3",
@@ -1006,7 +1011,7 @@
       "Name": "Knives Out",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "MQ06_1",
@@ -1030,7 +1035,7 @@
       "Name": "Land, Ho!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "MQ06_4",
@@ -1054,7 +1059,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MQ08_1",
@@ -1093,7 +1098,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 13
     }
   ],
@@ -1101,8 +1106,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:11:13.0187784+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:03:40.162738+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:04:54.1052729+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:11:13.0188024+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:57:15.2723585+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:03:40.1627608+00:00"
 }

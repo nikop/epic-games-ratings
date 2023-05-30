@@ -931,10 +931,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 655,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-05-30T13:59:33.9859738+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 656,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 655,
+  "NumberOfAwards": 656,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -990,7 +996,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has a Creative Community",
@@ -999,9 +1005,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5933,
+  "EOS_Progressed": 5934,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4279,6 +4285,11 @@
       "Time": "2023-05-30T12:06:50.2813563+00:00",
       "NumProgressed": 5933,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T14:05:45.2159785+00:00",
+      "NumProgressed": 5934,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4288,9 +4299,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3560
     },
     {
       "ID": "10",
@@ -4322,7 +4333,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "14",
@@ -4370,7 +4381,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "2",
@@ -4402,7 +4413,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4153
+      "UsersEstimate": 4154
     },
     {
       "ID": "23",
@@ -4410,7 +4421,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "24",
@@ -4426,7 +4437,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "26",
@@ -4554,7 +4565,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "40",
@@ -4738,7 +4749,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "8",
@@ -4761,15 +4772,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5933,
+      "Progressed": 5934,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-05-28T15:00:00.6697435+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:13:14.7950456+00:00",
+  "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:05:45.2159777+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:07:11.1096464+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:13:14.7951158+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:59:33.985974+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:05:45.2160501+00:00"
 }

@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33530,
+  "EOS_Progressed": 33531,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3707,6 +3707,11 @@
       "Time": "2023-05-30T13:08:11.4444592+00:00",
       "NumProgressed": 33530,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-05-30T14:02:18.7204576+00:00",
+      "NumProgressed": 33531,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 44,
@@ -3718,7 +3723,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19112
+      "UsersEstimate": 19113
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3734,7 +3739,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 7041
+      "UsersEstimate": 7042
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -3798,7 +3803,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -3838,7 +3843,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 27159
+      "UsersEstimate": 27160
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3918,7 +3923,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6036
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -3958,7 +3963,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 21124
+      "UsersEstimate": 21125
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3982,7 +3987,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20118
+      "UsersEstimate": 20119
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -3990,7 +3995,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22800
+      "UsersEstimate": 22801
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3998,7 +4003,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -4022,7 +4027,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 15088
+      "UsersEstimate": 15089
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -4054,7 +4059,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30848
+      "UsersEstimate": 30849
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -4062,14 +4067,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 17100
+      "UsersEstimate": 17101
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33530,
+      "Progressed": 33531,
       "Completed": 162
     }
   ],
@@ -4077,8 +4082,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:08:11.4444583+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:02:18.720457+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.3708529+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:05:52.6716635+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:08:11.4445182+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:58:12.7753822+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:02:18.7205136+00:00"
 }

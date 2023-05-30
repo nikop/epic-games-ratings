@@ -5,7 +5,7 @@ Rating: 4.14 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,709 |
+| First Day on the Job | 83.00% | ~4,710 |
 | Disposing of the Evidence | 36.00% | ~2,043 |
 | Without a Scratch | 32.00% | ~1,816 |
 | Wreckless Driving | 27.00% | ~1,532 |
@@ -19,8 +19,8 @@ Rating: 4.14 (Ranked 856)
 | Not So Fast | 8.00% | ~454 |
 | A Gift from the King | 6.00% | ~340 |
 | Full Artillery | 3.00% | ~170 |
-| Mob Boss | 2.00% | ~113 |
-| Splish Splash | 2.00% | ~113 |
+| Mob Boss | 2.00% | ~114 |
+| Splish Splash | 2.00% | ~114 |
 | Escape Artist | 1.00% | ~57 |
 | Got This Figured Out | 1.00% | ~57 |
 | Come Out to Play-y-y-y | 1.00% | ~57 |
@@ -35,7 +35,7 @@ Rating: 4.14 (Ranked 856)
 | Is That All You've Got? | 0.70% | ~40 |
 | King of Liberty City | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,674 (Ranked 123)  
+Progressed: 5,675 (Ranked 123)  
 Completed: 27 (0.48%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 27 (0.48%) (Ranked 109)
 | 2023-05-27 | 5,514 | 26 |
 | 2023-05-28 | 5,589 | 26 |
 | 2023-05-29 | 5,648 | 26 |
-| 2023-05-30 | 5,674 | 27 |
+| 2023-05-30 | 5,675 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

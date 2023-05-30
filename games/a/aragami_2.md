@@ -6,24 +6,24 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,848 |
-| First Steps | 81.00% | ~27,159 |
-| Control the Shadows | 68.00% | ~22,800 |
-| Tools of the Trade | 63.00% | ~21,124 |
-| Apprentice | 60.00% | ~20,118 |
-| Secret Seeker | 57.00% | ~19,112 |
+| Awakening | 92.00% | ~30,849 |
+| First Steps | 81.00% | ~27,160 |
+| Control the Shadows | 68.00% | ~22,801 |
+| Tools of the Trade | 63.00% | ~21,125 |
+| Apprentice | 60.00% | ~20,119 |
+| Secret Seeker | 57.00% | ~19,113 |
 | Forge of Assassins | 56.00% | ~18,777 |
-| Revenant | 51.00% | ~17,100 |
-| I don’t Care! | 45.00% | ~15,088 |
+| Revenant | 51.00% | ~17,101 |
+| I don’t Care! | 45.00% | ~15,089 |
 | Bird of Prey | 37.00% | ~12,406 |
 | Engraved with Power | 32.00% | ~10,730 |
 | Lady | 30.00% | ~10,059 |
 | Fashionable Assassin | 27.00% | ~9,053 |
 | Apex Predator | 24.00% | ~8,047 |
 | Soul Reaver | 22.00% | ~7,377 |
-| Embers | 21.00% | ~7,041 |
+| Embers | 21.00% | ~7,042 |
 | Wall Lizard | 20.00% | ~6,706 |
-| Clinging to Life | 18.00% | ~6,035 |
+| Clinging to Life | 18.00% | ~6,036 |
 | Burning | 17.00% | ~5,700 |
 | Look Behind You | 16.00% | ~5,365 |
 | Sleeping on the Job | 16.00% | ~5,365 |
@@ -39,8 +39,8 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 8.00% | ~2,682 |
 | A Pleasant Stay | 8.00% | ~2,682 |
 | Pilgrimage | 7.00% | ~2,347 |
-| The Lookout | 5.00% | ~1,676 |
-| The Spirit of Vengeance | 5.00% | ~1,676 |
+| The Lookout | 5.00% | ~1,677 |
+| The Spirit of Vengeance | 5.00% | ~1,677 |
 | Left Behind | 4.00% | ~1,341 |
 | Secrets of the Earth | 4.00% | ~1,341 |
 | Hollow | 4.00% | ~1,341 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~335 |
 | Anger Management | 1.00% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,530 (Ranked 84)  
+Progressed: 33,531 (Ranked 84)  
 Completed: 162 (0.48%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 162 (0.48%) (Ranked 109)
 | 2023-05-27 | 33,309 | 159 |
 | 2023-05-28 | 33,399 | 160 |
 | 2023-05-29 | 33,486 | 160 |
-| 2023-05-30 | 33,530 | 162 |
+| 2023-05-30 | 33,531 | 162 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

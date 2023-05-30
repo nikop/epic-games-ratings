@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Aspairagus | 45.00% | ~7 |
 | Survivor | 32.00% | ~5 |
-| No Diggity | 30.00% | ~5 |
+| No Diggity | 32.00% | ~5 |
 | Early Survivor | 27.00% | ~4 |
 | Seeds of War | 26.00% | ~17 |
 | Bouncemato | 20.00% | ~3 |
@@ -18,7 +18,7 @@
 | Professional Survivor | 14.00% | ~2 |
 | Triple Kill | 12.00% | ~8 |
 | Cornivore | 12.00% | ~8 |
-| Grave Digger | 11.00% | ~2 |
+| Grave Digger | 12.00% | ~2 |
 | Oh My Gourd | 9.00% | ~1 |
 | Expert Survivor | 9.00% | ~1 |
 | Quadsparagus | 9.00% | ~1 |

@@ -1764,9 +1764,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 64085,
+  "EOS_Progressed": 64087,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 1712,
+  "EOS_NewPlayers": 1692,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5779,6 +5779,11 @@
       "Time": "2023-05-30T13:13:12.754087+00:00",
       "NumProgressed": 64085,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-30T14:05:43.115341+00:00",
+      "NumProgressed": 64087,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 37,
@@ -5790,7 +5795,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 32042
+      "UsersEstimate": 32044
     },
     {
       "ID": "ACH_0011",
@@ -5886,7 +5891,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6408
+      "UsersEstimate": 6409
     },
     {
       "ID": "ACH_0061",
@@ -5934,7 +5939,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 41014
+      "UsersEstimate": 41016
     },
     {
       "ID": "ACH_0210",
@@ -5942,7 +5947,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 46782
+      "UsersEstimate": 46784
     },
     {
       "ID": "ACH_0211",
@@ -5958,7 +5963,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 30120
+      "UsersEstimate": 30121
     },
     {
       "ID": "ACH_0300",
@@ -6006,7 +6011,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21789
+      "UsersEstimate": 21790
     },
     {
       "ID": "ACH_0420",
@@ -6014,7 +6019,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21148
+      "UsersEstimate": 21149
     },
     {
       "ID": "ACH_0430",
@@ -6030,7 +6035,7 @@
       "Name": "Classy Joint",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6408
+      "UsersEstimate": 6409
     },
     {
       "ID": "ACH_0440",
@@ -6038,7 +6043,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12176
+      "UsersEstimate": 12177
     },
     {
       "ID": "ACH_0450",
@@ -6046,7 +6051,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12176
+      "UsersEstimate": 12177
     },
     {
       "ID": "ACH_0451",
@@ -6078,14 +6083,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 64085,
+      "Progressed": 64087,
       "Completed": 31
     }
   ],
@@ -6093,8 +6098,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-30T09:59:30.3418213+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:13:12.7540866+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:05:43.1153406+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.0197021+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:07:09.8941852+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:13:12.7541364+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:59:32.9236565+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:05:43.1153907+00:00"
 }

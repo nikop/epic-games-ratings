@@ -259,9 +259,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "ach-campaign-story2",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:13:18.0102096+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:05:48.2980259+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:07:42.8327422+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:13:18.0102782+00:00"
+  "LastUpdate_Ratings": "2023-05-30T14:00:06.9334517+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:05:48.2980766+00:00"
 }

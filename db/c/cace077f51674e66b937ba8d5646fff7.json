@@ -140,41 +140,41 @@
       "ID": "ENEMY_10",
       "SetID": "50pdlpn",
       "Name": "Captain Smithers the Anchor",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ENEMY_11",
       "SetID": "50pdlpn",
       "Name": "Kabeer, Lizardman God \u0026 Captain Smithers",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ENEMY_12",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph the Living Bullet Hell",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ENEMY_13",
       "SetID": "50pdlpn",
       "Name": "Ali Baba the Piece of Crap",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ENEMY_14",
       "SetID": "50pdlpn",
       "Name": "Pillows the Hobby Plane Armada Colonel",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ENEMY_15",
@@ -658,8 +658,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:07:45.9152698+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:00:12.6228199+00:00",
   "LastUpdate_AppInfo": "2023-05-29T10:57:01.6054594+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:04:49.4530271+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:07:45.9161293+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:57:10.5953312+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:00:12.6228961+00:00"
 }

@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5674,
+  "EOS_Progressed": 5675,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2431,6 +2431,11 @@
       "Time": "2023-05-30T13:10:16.819169+00:00",
       "NumProgressed": 5674,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-30T14:02:33.2885139+00:00",
+      "NumProgressed": 5675,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -2442,7 +2447,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "ACH02",
@@ -2474,7 +2479,7 @@
       "Name": "Mob Boss",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH06",
@@ -2602,7 +2607,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH22",
@@ -2673,7 +2678,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5674,
+      "Progressed": 5675,
       "Completed": 27
     }
   ],
@@ -2681,8 +2686,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-29T04:57:50.3282515+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:10:16.8191682+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:02:33.2885133+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:05:29.8520043+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:10:16.8192451+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:57:47.3395183+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:02:33.2885464+00:00"
 }

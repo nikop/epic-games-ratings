@@ -6,22 +6,22 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~4,153 |
-| Leader | 61.00% | ~3,619 |
-| Explorer | 53.00% | ~3,144 |
-| Healer | 52.00% | ~3,085 |
+| First Step | 70.00% | ~4,154 |
+| Leader | 60.00% | ~3,560 |
+| Explorer | 53.00% | ~3,145 |
+| Healer | 52.00% | ~3,086 |
 | Aspiring Inventor | 45.00% | ~2,670 |
 | Adventurer | 41.00% | ~2,433 |
 | Famous Healer | 38.00% | ~2,255 |
 | Local Leader | 35.00% | ~2,077 |
-| New Opportunities | 34.00% | ~2,017 |
+| New Opportunities | 34.00% | ~2,018 |
 | Famous Explorer | 33.00% | ~1,958 |
 | Energized | 33.00% | ~1,958 |
 | The Long Haul | 33.00% | ~1,958 |
-| Survivor | 31.00% | ~1,839 |
+| Survivor | 31.00% | ~1,840 |
 | The Great Healer | 30.00% | ~1,780 |
-| Cleaner | 28.00% | ~1,661 |
-| Catastrofan | 28.00% | ~1,661 |
+| Cleaner | 28.00% | ~1,662 |
+| Catastrofan | 28.00% | ~1,662 |
 | Legendary Explorer | 27.00% | ~1,602 |
 | Finders, Keepers | 26.00% | ~1,543 |
 | Top Notch | 24.00% | ~1,424 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~12 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,933 (Ranked 121)  
+Progressed: 5,934 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,10 +106,10 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 5,812 | 0 |
 | 2023-05-28 | 5,869 | 0 |
 | 2023-05-29 | 5,920 | 0 |
-| 2023-05-30 | 5,933 | 0 |
+| 2023-05-30 | 5,934 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
-Sum: 655 (Ranked 271)  
+Sum: 656 (Ranked 271)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -119,7 +119,7 @@ Diff (max vs sum): 54
 | This game is Relaxing | 80 |
 | This game has Quickly Understood Controls | 77 |
 | This game is Highly Recommended | 67 |
-| This game has Diverse Characters | 64 |
+| This game has Diverse Characters | 65 |
 | This game has Amazing Characters | 62 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 40 |
@@ -210,3 +210,4 @@ Diff (max vs sum): 54
 | 2023-05-13 | 4.47 | - | 99 | 652 |
 | 2023-05-26 | 4.47 | - | 99 | 654 |
 | 2023-05-28 | 4.47 | - | 99 | 655 |
+| 2023-05-30 | 4.47 | - | 99 | 656 |

@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2775,
+  "EOS_Progressed": 2776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1337,6 +1337,11 @@
       "Time": "2023-05-30T13:13:14.1576655+00:00",
       "NumProgressed": 2775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T14:05:44.5555075+00:00",
+      "NumProgressed": 2776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1508,7 +1513,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Kills_Auto",
@@ -1596,7 +1601,7 @@
       "Name": "An Ill Omen",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1819,21 +1824,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2775,
+      "Progressed": 2776,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2775,
+      "Progressed": 2776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T13:13:14.1576651+00:00",
+  "LastChanged_Achievements": "2023-05-30T14:05:44.5555069+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T13:06:05.6069991+00:00",
-  "LastUpdate_Achievements": "2023-05-30T13:13:14.1577246+00:00"
+  "LastUpdate_Ratings": "2023-05-30T13:58:25.740986+00:00",
+  "LastUpdate_Achievements": "2023-05-30T14:05:44.5555641+00:00"
 }
