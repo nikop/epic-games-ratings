@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_06",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Imperfectly Designed Walls",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_07",
@@ -487,9 +487,9 @@
       "ID": "COWBOY_1",
       "SetID": "9gfkh7c",
       "Name": "Yeehaw!!!",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DIE_1",
@@ -807,9 +807,9 @@
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MOUNT_1",
@@ -958,8 +958,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:29.6673423+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:43.1520596+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:57:04.8812212+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:29.6674114+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:57:21.2674011+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:43.1521496+00:00"
 }

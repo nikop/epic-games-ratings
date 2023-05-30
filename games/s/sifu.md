@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~627 |
+| Diligence as a goal | 4.00% | ~628 |
 | Project Arena | 3.00% | ~471 |
 | The Old Grandmaster | 1.00% | ~7,064 |
 | The Assault | 1.00% | ~7,064 |
@@ -20,11 +20,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,064 |
 | Bloody Sport | 1.00% | ~157 |
 | The best strikes are the ones we avoid | 1.00% | ~157 |
-| Lady Wing Chun | 0.90% | ~6,357 |
-| Furious Fists | 0.90% | ~6,357 |
-| Kill Nil | 0.90% | ~6,357 |
-| Street Fighting | 0.90% | ~6,357 |
-| Qi Gong: Essence | 0.90% | ~6,357 |
+| Lady Wing Chun | 0.90% | ~6,358 |
+| Furious Fists | 0.90% | ~6,358 |
+| Kill Nil | 0.90% | ~6,358 |
+| Street Fighting | 0.90% | ~6,358 |
+| Qi Gong: Essence | 0.90% | ~6,358 |
 | Stuntmaster | 0.80% | ~5,651 |
 | Old Child | 0.80% | ~5,651 |
 | Take damage to save time | 0.80% | ~5,651 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,383 (Ranked 15)  
+Progressed: 706,390 (Ranked 15)  
 Completed: 12,747 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 12,747 (1.80%) (Ranked 66)
 | 2023-05-27 | 705,813 | 12,738 |
 | 2023-05-28 | 706,072 | 12,742 |
 | 2023-05-29 | 706,246 | 12,745 |
-| 2023-05-30 | 706,383 | 12,747 |
+| 2023-05-30 | 706,390 | 12,747 |
 ## Awards
 Max (Great Boss Battles): 6,109  (Ranked 53)  
 Sum: 10,411 (Ranked 77)  

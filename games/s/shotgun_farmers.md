@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 45.00% | ~7 |
-| Survivor | 32.00% | ~5 |
+| Survivor | 35.00% | ~6 |
 | No Diggity | 32.00% | ~5 |
-| Early Survivor | 27.00% | ~4 |
+| Early Survivor | 30.00% | ~5 |
 | Seeds of War | 26.00% | ~17 |
 | Bouncemato | 20.00% | ~3 |
 | Amateur Survivor | 20.00% | ~3 |

@@ -43,7 +43,7 @@ Number of Ratings: 209  (23.09.2022)
 | Trickle Down Economy | 75.00% | ~1,538 |
 | Win | 75.00% | ~1,538 |
 | Greenhouse | 72.00% | ~1,476 |
-| Played with fire | 69.00% | ~1,414 |
+| Played with fire | 70.00% | ~1,435 |
 | You feel very sorry | 69.00% | ~1,414 |
 | No Match for you | 65.00% | ~1,332 |
 | Bouncy | 61.00% | ~1,250 |

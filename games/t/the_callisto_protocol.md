@@ -11,16 +11,16 @@ Rating: 4.18 (Ranked 834)
 | Chew 'Em Up | 6.00% | ~843 |
 | Paper Jams | 6.00% | ~843 |
 | Giving Back | 5.00% | ~703 |
+| Workplace Hazard | 5.00% | ~703 |
 | Reforged | 5.00% | ~703 |
 | Get a Grip | 4.00% | ~562 |
-| Workplace Hazard | 4.00% | ~562 |
 | If the SHU Fits... | 4.00% | ~562 |
 | Instigator | 4.00% | ~79 |
 | Big Game Hunter | 4.00% | ~79 |
 | Terminated | 3.00% | ~422 |
 | Float Like A Butterfly | 3.00% | ~422 |
 | Without A Paddle | 3.00% | ~422 |
-| Bear Trap | 3.00% | ~59 |
+| Bear Trap | 3.00% | ~60 |
 | You Need a Gun | 2.00% | ~281 |
 | Two Heads Are Better Than One | 2.00% | ~281 |
 | The Commonality | 2.00% | ~281 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,054 (Ranked 102)  
+Progressed: 14,058 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-27 | 13,841 | 53 |
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
-| 2023-05-30 | 14,054 | 53 |
+| 2023-05-30 | 14,058 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 276 (Ranked 332)  

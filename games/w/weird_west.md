@@ -14,7 +14,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dead or Alive | 56.00% | ~881 |
 | Full House | 37.00% | ~582 |
 | Off the Trail | 34.00% | ~535 |
-| Justice Served | 28.00% | ~441 |
+| Justice Served | 29.00% | ~456 |
 | Chain Reaction | 27.00% | ~425 |
 | Scholar | 25.00% | ~394 |
 | Through Their Eyes | 25.00% | ~394 |
@@ -27,13 +27,13 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~252 |
 | For Balance | 15.00% | ~236 |
 | Dog Days | 13.00% | ~205 |
+| Workers' Rights | 13.00% | ~205 |
 | Elusive Prey | 12.00% | ~189 |
 | Out on the Ebb Tide | 12.00% | ~189 |
 | Power Behind the Pulpit | 12.00% | ~189 |
 | Something Wicked This Way Comes… | 12.00% | ~189 |
 | There is Hope | 12.00% | ~189 |
 | Turning the Tables | 12.00% | ~189 |
-| Workers' Rights | 12.00% | ~189 |
 | Loyalty to the Pack | 9.00% | ~142 |
 | Eternity Can Wait | 9.00% | ~142 |
 | Mystery Machine | 9.00% | ~142 |

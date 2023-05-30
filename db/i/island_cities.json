@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 14.76,
+  "EOS_Completed_Percentage": 14.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -928,6 +928,11 @@
       "Time": "2023-05-30T16:06:23.5392401+00:00",
       "NumProgressed": 210,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-30T18:05:31.9422417+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 22,
@@ -939,7 +944,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "LEVEL_002",
@@ -953,25 +958,25 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 141
+      "UsersEstimate": 139
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_006",
@@ -979,7 +984,7 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_007",
@@ -995,7 +1000,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_009",
@@ -1019,23 +1024,23 @@
       "Name": "At the heart of the city",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_014",
@@ -1114,7 +1119,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 31
     }
   ],
@@ -1122,8 +1127,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:18.3259316+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:31.942241+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:57:51.3278199+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:18.3259476+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:58:04.6572275+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:31.9422632+00:00"
 }

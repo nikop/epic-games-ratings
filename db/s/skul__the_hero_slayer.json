@@ -800,9 +800,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7509,
+  "EOS_Progressed": 7510,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2023-05-30T17:05:18.5803757+00:00",
       "NumProgressed": 7509,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-30T18:05:32.3025084+00:00",
+      "NumProgressed": 7510,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1889,7 +1894,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1905,7 +1910,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -1921,7 +1926,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "HeroSlayer",
@@ -1929,7 +1934,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "LeoniasFall",
@@ -2001,7 +2006,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2009,7 +2014,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2025,22 +2030,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6233
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7509,
+      "Progressed": 7510,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-29T02:58:55.6613081+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:18.5803752+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:32.3025079+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:58:38.4232818+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:18.5803924+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:58:55.4278679+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:32.3025313+00:00"
 }

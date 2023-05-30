@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,984 |
-| Ready for Winter | 63.00% | ~1,689 |
-| Ready for Summer | 50.00% | ~1,340 |
-| Cordon Bleu | 43.00% | ~1,153 |
-| Tapped! | 35.00% | ~938 |
-| Eureka | 31.00% | ~831 |
-| Scourge Slayer | 25.00% | ~670 |
+| Venture Outward | 74.00% | ~1,986 |
+| Ready for Winter | 63.00% | ~1,691 |
+| Ready for Summer | 50.00% | ~1,342 |
+| Cordon Bleu | 43.00% | ~1,154 |
+| Tapped! | 35.00% | ~939 |
+| Eureka | 31.00% | ~832 |
+| Scourge Slayer | 25.00% | ~671 |
 | Science, Troglodyte! | 23.00% | ~617 |
 | Exceptional Skill | 22.00% | ~590 |
 | Home Sweet Home | 22.00% | ~590 |
-| Encyclopedic! | 19.00% | ~509 |
+| Encyclopedic! | 19.00% | ~510 |
 | A Fortress Toppled! | 16.00% | ~429 |
-| Apex Predator | 15.00% | ~402 |
-| The Power of Family | 15.00% | ~402 |
+| Apex Predator | 15.00% | ~403 |
+| The Power of Family | 15.00% | ~403 |
 | Strange amalgams | 12.00% | ~322 |
 | The Power of Faith | 12.00% | ~322 |
-| The Power of Freedom | 9.00% | ~241 |
-| Ace Detective | 8.00% | ~214 |
-| Gift from the Ancestors | 8.00% | ~214 |
-| Magic is a science | 8.00% | ~214 |
+| The Power of Freedom | 9.00% | ~242 |
+| Ace Detective | 8.00% | ~215 |
+| Gift from the Ancestors | 8.00% | ~215 |
+| Magic is a science | 8.00% | ~215 |
 | House of Cards | 7.00% | ~188 |
 | Let ‘em eat magma! | 7.00% | ~188 |
 | The power of ambition | 7.00% | ~188 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~107 |
 | For All Aurai | 4.00% | ~107 |
 | Memory of a legend | 4.00% | ~107 |
-| Light of Levant | 3.00% | ~80 |
-| This was a mistake... | 3.00% | ~80 |
+| Light of Levant | 3.00% | ~81 |
+| This was a mistake... | 3.00% | ~81 |
 | Crowd Pleaser. | 2.00% | ~54 |
 | Perfect Defense | 2.00% | ~54 |
 | Power! To! The People! | 2.00% | ~54 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,681 (Ranked 139)  
-Completed: 1 (0.04%) (Ranked 180)  
+Progressed: 2,684 (Ranked 139)  
+Completed: 1 (0.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 1 (0.04%) (Ranked 180)
 | 2023-05-27 | 2,618 | 1 |
 | 2023-05-28 | 2,645 | 1 |
 | 2023-05-29 | 2,669 | 1 |
-| 2023-05-30 | 2,681 | 1 |
+| 2023-05-30 | 2,684 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 344)  

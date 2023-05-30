@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -102,6 +102,11 @@
       "Time": "2023-05-27T00:04:29.4692077+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T18:04:18.0270581+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -137,23 +142,23 @@
       "Name": "Bull in a China Shop",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "dodgy_geezer",
@@ -169,7 +174,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "easy_listening",
@@ -352,7 +357,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
@@ -360,8 +365,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:03:52.4783875+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:04:18.0270571+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:45.6277849+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:58:51.1470889+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:03:52.4784047+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:59:08.914405+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:04:18.0270797+00:00"
 }

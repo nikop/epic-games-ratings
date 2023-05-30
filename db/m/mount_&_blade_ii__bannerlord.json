@@ -4419,9 +4419,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51478,
+  "EOS_Progressed": 51479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8319,6 +8319,11 @@
       "Time": "2023-05-30T17:05:46.632887+00:00",
       "NumProgressed": 51478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T18:05:59.4849418+00:00",
+      "NumProgressed": 51479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -8370,7 +8375,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "Catch",
@@ -8520,9 +8525,9 @@
       "ID": "King Solomon",
       "SetID": "den0lp1",
       "Name": "King Solomon",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7722
+      "UsersEstimate": 8237
     },
     {
       "ID": "Kingslayer",
@@ -8554,7 +8559,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15443
+      "UsersEstimate": 15444
     },
     {
       "ID": "Lawbringer",
@@ -8562,7 +8567,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18017
+      "UsersEstimate": 18018
     },
     {
       "ID": "Lawmaker",
@@ -8570,7 +8575,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10810
+      "UsersEstimate": 10811
     },
     {
       "ID": "Long live the Empire",
@@ -8682,7 +8687,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8236
+      "UsersEstimate": 8237
     },
     {
       "ID": "This Is Our Land",
@@ -8737,15 +8742,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51478,
+      "Progressed": 51479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-30T15:00:35.7204775+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:46.6328865+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:59.4849416+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:59:18.6288966+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:46.6329453+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:59:36.249388+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:59.4850052+00:00"
 }

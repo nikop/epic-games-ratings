@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12849,
+  "EOS_Progressed": 12850,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3049,6 +3049,11 @@
       "Time": "2023-05-30T17:05:18.0584414+00:00",
       "NumProgressed": 12849,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-05-30T18:05:31.6589329+00:00",
+      "NumProgressed": 12850,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 41,
@@ -3060,7 +3065,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "tpote_achievement_10",
@@ -3108,7 +3113,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "tpote_achievement_16",
@@ -3132,7 +3137,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "tpote_achievement_19",
@@ -3140,7 +3145,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "tpote_achievement_2",
@@ -3148,7 +3153,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "tpote_achievement_20",
@@ -3164,7 +3169,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "tpote_achievement_22",
@@ -3180,7 +3185,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "tpote_achievement_24",
@@ -3188,7 +3193,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "tpote_achievement_25",
@@ -3212,7 +3217,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "tpote_achievement_28",
@@ -3260,7 +3265,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "tpote_achievement_33",
@@ -3364,7 +3369,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "tpote_achievement_8",
@@ -3387,15 +3392,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12849,
+      "Progressed": 12850,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:18.0584409+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:31.6589324+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:59:31.8811661+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:18.0584776+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:59:51.8719866+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:31.6589815+00:00"
 }

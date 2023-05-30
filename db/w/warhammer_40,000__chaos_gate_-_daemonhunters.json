@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2779,
+  "EOS_Progressed": 2781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1352,6 +1352,11 @@
       "Time": "2023-05-30T16:06:55.7458451+00:00",
       "NumProgressed": 2779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T18:05:57.2791822+00:00",
+      "NumProgressed": 2781,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1531,15 +1536,15 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "Kills_Bleed",
       "SetID": "3jha1np",
       "Name": "Blood for the Blood God!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 473
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1555,7 +1560,7 @@
       "Name": "Executioner",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Kills_Exterminator",
@@ -1611,7 +1616,7 @@
       "Name": "An Ill Omen",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1834,21 +1839,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2779,
+      "Progressed": 2781,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2779,
+      "Progressed": 2781,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:44.1135007+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:57.2791817+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:58:23.1011521+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:44.1135481+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:58:39.6256271+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:57.2792406+00:00"
 }

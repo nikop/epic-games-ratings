@@ -36,7 +36,7 @@
 | Extinct Again! | 33.00% | ~300 |
 | Bird of Prey | 33.00% | ~300 |
 | Stardust | 33.00% | ~300 |
-| Heartbreaker | 32.00% | ~291 |
+| Heartbreaker | 33.00% | ~300 |
 | Kidnapped! | 32.00% | ~291 |
 | Trick Question! | 31.00% | ~282 |
 | Pull the Plug | 30.00% | ~273 |

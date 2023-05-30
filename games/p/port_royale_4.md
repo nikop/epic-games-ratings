@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~470 |
-| My little farm | 66.00% | ~388 |
-| Every beginning is difficult | 63.00% | ~370 |
-| 3, 2, 1, mine | 56.00% | ~329 |
-| Gofer | 56.00% | ~329 |
+| Cabin boy | 80.00% | ~471 |
+| My little farm | 66.00% | ~389 |
+| Every beginning is difficult | 63.00% | ~371 |
+| 3, 2, 1, mine | 56.00% | ~330 |
+| Gofer | 56.00% | ~330 |
 | Seafarer | 54.00% | ~318 |
 | O Captain! My Captain! | 54.00% | ~318 |
 | Greed for gold | 43.00% | ~253 |
 | Intangible | 41.00% | ~241 |
-| I'm out of here for a while | 40.00% | ~235 |
-| In a mint condition | 37.00% | ~218 |
+| I'm out of here for a while | 40.00% | ~236 |
+| In a mint condition | 38.00% | ~224 |
 | Licence to Kill | 35.00% | ~206 |
 | Pirates! | 34.00% | ~200 |
 | Collectionitis | 29.00% | ~171 |
 | Megalomania | 28.00% | ~165 |
 | Christening | 27.00% | ~159 |
 | Groundskeeper | 25.00% | ~147 |
-| Wholesale | 21.00% | ~123 |
+| Wholesale | 21.00% | ~124 |
 | Walk the plank | 20.00% | ~118 |
-| My precious! | 18.00% | ~106 |
+| My precious! | 17.00% | ~100 |
 | Pearly gates | 16.00% | ~94 |
-| Conquistador | 13.00% | ~76 |
+| Conquistador | 13.00% | ~77 |
 | Panic buying | 11.00% | ~65 |
 | Just a scratch | 9.00% | ~53 |
 | Your vessel, my vessel | 9.00% | ~53 |
@@ -53,11 +53,11 @@ Number of Ratings: 53  (23.09.2022)
 | Raiders of the Lost Ark | 1.00% | ~6 |
 | Traffic chaos | 1.00% | ~6 |
 | Parlay? | 1.00% | ~6 |
-| Capitalist | 0.90% | ~5 |
+| Capitalist | 0.80% | ~5 |
 | Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 192)  
+Progressed: 589 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 578 | 0 |
 | 2023-05-28 | 583 | 0 |
 | 2023-05-29 | 586 | 0 |
-| 2023-05-30 | 588 | 0 |
+| 2023-05-30 | 589 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

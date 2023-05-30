@@ -16,7 +16,7 @@
 | Butter Fingers | 44.00% | ~15 |
 | True Story! | 35.00% | ~12 |
 | Grand Slam! | 26.00% | ~9 |
-| Kick It | 24.00% | ~8 |
+| Kick It | 26.00% | ~9 |
 | Have Mercy | 24.00% | ~8 |
 | Bedroom Secret Spot | 21.00% | ~7 |
 | Save some water for the fishies | 21.00% | ~7 |

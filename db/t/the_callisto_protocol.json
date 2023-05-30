@@ -482,9 +482,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14054,
+  "EOS_Progressed": 14058,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2147,6 +2147,11 @@
       "Time": "2023-05-30T17:03:36.0559717+00:00",
       "NumProgressed": 14054,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-30T18:04:02.0539121+00:00",
+      "NumProgressed": 14058,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2300,9 +2305,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 703
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2446,7 +2451,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2477,13 +2482,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14054,
+      "Progressed": 14058,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1980,
+      "Progressed": 1984,
       "Completed": 29
     }
   ],
@@ -2491,8 +2496,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-30T02:05:09.9313144+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:03:36.0559712+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:04:02.0539117+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:57:41.5758077+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:03:36.0560041+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:57:55.9290994+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:04:02.0539525+00:00"
 }

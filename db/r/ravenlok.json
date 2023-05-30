@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 909,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.71,
   "EosHistory": [
@@ -2088,9 +2088,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 300
     },
     {
       "ID": "23",
@@ -2385,8 +2385,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:19.9472242+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:33.6571851+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:57:18.7266794+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:19.9472677+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:57:35.5517022+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:33.6572394+00:00"
 }

@@ -566,9 +566,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -662,9 +662,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -695,8 +695,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:18.5175285+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:32.1596697+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:11.1073335+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:58:14.2764104+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:18.5175473+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:58:28.4459294+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:32.1596939+00:00"
 }

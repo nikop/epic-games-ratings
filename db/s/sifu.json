@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4296,9 +4296,9 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706383,
+  "EOS_Progressed": 706390,
   "EOS_Completed": 12747,
-  "EOS_NewPlayers": 1549,
+  "EOS_NewPlayers": 1550,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7816,6 +7816,11 @@
       "Time": "2023-05-30T17:05:42.0783064+00:00",
       "NumProgressed": 706383,
       "NumCompleted": 12747
+    },
+    {
+      "Time": "2023-05-30T18:05:55.193414+00:00",
+      "NumProgressed": 706390,
+      "NumCompleted": 12747
     }
   ],
   "TotalAchievements": 50,
@@ -7859,7 +7864,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7867,7 +7872,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "07_Wude_H1",
@@ -7931,7 +7936,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "15_Detective_H1",
@@ -7995,7 +8000,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -8035,7 +8040,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -8171,7 +8176,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8226,21 +8231,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15684,
-      "Completed": 10198
+      "Progressed": 15691,
+      "Completed": 10199
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706383,
+      "Progressed": 706390,
       "Completed": 12747
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-30T16:58:42.3201116+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:42.0783059+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:55.1934136+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:58:42.3201121+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:42.0783557+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:58:59.1506123+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:55.1934755+00:00"
 }

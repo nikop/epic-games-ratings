@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -886,6 +886,11 @@
       "Time": "2023-05-30T17:02:42.1143217+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T18:03:30.3392336+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -929,7 +934,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -977,7 +982,7 @@
       "Name": "Novice",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "GLOVE_SLAP",
@@ -991,9 +996,9 @@
       "ID": "GONNA_FLY_NOW",
       "SetID": "8lhbnh7",
       "Name": "Gonna Fly Now",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 68
     },
     {
       "ID": "GRASSHOPPER",
@@ -1001,7 +1006,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 669
     },
     {
       "ID": "GUARD_MAKER",
@@ -1072,14 +1077,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:02:42.1143211+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:03:30.3392331+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:56:59.9345139+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:02:42.1143367+00:00"
+  "LastUpdate_Ratings": "2023-05-30T17:57:16.0738982+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:03:30.3392548+00:00"
 }

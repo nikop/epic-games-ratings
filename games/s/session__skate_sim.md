@@ -12,7 +12,7 @@ Number of Ratings: 111  (23.09.2022)
 | The finer things in life | 16.00% | ~346 |
 | Backpacker | 12.00% | ~259 |
 | Go with the Flow | 11.00% | ~238 |
-| Plastic Surgeon | 9.00% | ~194 |
+| Plastic Surgeon | 9.00% | ~195 |
 | Keep the dream alive | 8.00% | ~173 |
 | The flip trick crown jewel | 8.00% | ~173 |
 | The hard way | 8.00% | ~173 |
@@ -30,6 +30,7 @@ Number of Ratings: 111  (23.09.2022)
 | Sup widdit big dog! | 5.00% | ~108 |
 | Tight lipslides | 5.00% | ~108 |
 | Commence the Hijinx! | 4.00% | ~86 |
+| Cops called! | 4.00% | ~86 |
 | DIY Boss | 4.00% | ~86 |
 | Globetrotter | 4.00% | ~86 |
 | Laid back | 4.00% | ~86 |
@@ -39,7 +40,6 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~86 |
 | Tank commander | 4.00% | ~86 |
 | Trick shot marksman | 4.00% | ~86 |
-| Cops called! | 3.00% | ~65 |
 | G.O.A.T. status | 3.00% | ~65 |
 | Hoarder | 3.00% | ~65 |
 | We get it, you're good | 3.00% | ~65 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,161 (Ranked 147)  
+Progressed: 2,162 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 2,105 | 0 |
 | 2023-05-28 | 2,129 | 0 |
 | 2023-05-29 | 2,152 | 0 |
-| 2023-05-30 | 2,161 | 0 |
+| 2023-05-30 | 2,162 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 396)  
 Sum: 414 (Ranked 301)  

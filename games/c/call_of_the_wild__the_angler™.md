@@ -6,19 +6,19 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 73.00% | ~2,848 |
-| Hey Good Hookin | 63.00% | ~2,458 |
-| I'm on a Boat! | 53.00% | ~2,068 |
-| Can you smell what the Rod is Hooking | 47.00% | ~1,833 |
-| Scaling up | 47.00% | ~1,833 |
-| Ready to Rod and Roll | 38.00% | ~1,482 |
-| More Fish in the Sea | 38.00% | ~1,482 |
-| License to Gill | 31.00% | ~1,209 |
-| Fish Out of Water | 30.00% | ~1,170 |
-| Things that go Splash in the Night | 25.00% | ~975 |
-| Goldfish? | 25.00% | ~975 |
-| Going for Gold | 23.00% | ~897 |
-| I'm Hooked! | 17.00% | ~663 |
+| Fish Just Got Reel | 73.00% | ~2,850 |
+| Hey Good Hookin | 63.00% | ~2,460 |
+| I'm on a Boat! | 53.00% | ~2,069 |
+| Scaling up | 47.00% | ~1,835 |
+| Can you smell what the Rod is Hooking | 46.00% | ~1,796 |
+| Ready to Rod and Roll | 38.00% | ~1,484 |
+| More Fish in the Sea | 38.00% | ~1,484 |
+| License to Gill | 31.00% | ~1,210 |
+| Fish Out of Water | 30.00% | ~1,171 |
+| Things that go Splash in the Night | 25.00% | ~976 |
+| Goldfish? | 25.00% | ~976 |
+| Going for Gold | 23.00% | ~898 |
+| I'm Hooked! | 17.00% | ~664 |
 | More than a Tourist | 12.00% | ~468 |
 | Diamond in the Rough | 12.00% | ~468 |
 | Hook, Line and Sinker | 7.00% | ~273 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,901 (Ranked 131)  
+Progressed: 3,904 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,11 +82,11 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 3,806 | 0 |
 | 2023-05-28 | 3,850 | 0 |
 | 2023-05-29 | 3,888 | 0 |
-| 2023-05-30 | 3,901 | 0 |
+| 2023-05-30 | 3,904 | 0 |
 ## Awards
-Max (Relaxing): 32  (Ranked 436)  
+Max (Relaxing): 32  (Ranked 437)  
 Sum: 158 (Ranked 378)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |

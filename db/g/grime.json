@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -398,6 +398,11 @@
       "Time": "2023-05-30T15:07:18.5572651+00:00",
       "NumProgressed": 565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T18:05:58.0064347+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -473,7 +478,7 @@
       "Name": "Taste",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -599,17 +604,17 @@
       "ID": "DEFEAT_WHISPERERS",
       "SetID": "ccc0dlh",
       "Name": "Silenced Whispers",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "MISC_ABSORBMANY",
       "SetID": "ccc0dlh",
       "Name": "Devourer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 79
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -673,7 +678,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -744,21 +749,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-30T17:05:45.0065599+00:00",
+  "LastChanged_Achievements": "2023-05-30T18:05:58.006434+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-05-30T16:59:57.155662+00:00",
-  "LastUpdate_Achievements": "2023-05-30T17:05:45.0065915+00:00"
+  "LastUpdate_Ratings": "2023-05-30T18:00:16.9947908+00:00",
+  "LastUpdate_Achievements": "2023-05-30T18:05:58.006468+00:00"
 }

@@ -35,7 +35,7 @@
 | You are no match for me, Billy! | 34.00% | ~23 |
 | Catch the bus with me! | 34.00% | ~23 |
 | You can't stop me, bro! | 34.00% | ~23 |
-| Haemochromatosis | 33.00% | ~22 |
+| Haemochromatosis | 34.00% | ~23 |
 | Meatballs, coming up! | 30.00% | ~20 |
 | I'm going to get a concussion | 28.00% | ~19 |
 | Another one bites the iron | 28.00% | ~19 |
@@ -51,8 +51,8 @@
 | Deal with it | 15.00% | ~10 |
 | Slimy... yet satisfying | 15.00% | ~10 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~9 |
+| Yeehaw!!! | 12.00% | ~8 |
 | I drink, but I'm not a drunk! | 12.00% | ~8 |
-| Yeehaw!!! | 10.00% | ~7 |
 | Spoiler alert! | 9.00% | ~6 |
 | You're looking mozzare-hella good! | 9.00% | ~6 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~6 |
@@ -60,6 +60,7 @@
 | Timber! | 6.00% | ~4 |
 | Grumpy Immortal | 6.00% | ~4 |
 | Free Of Chains | 6.00% | ~4 |
+| Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |
 | Ancient Ruins of Inadequate Opportunities | 4.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~3 |
@@ -67,7 +68,6 @@
 | European karaoke king | 4.00% | ~3 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~2 |
 | Ancient Ruins of Misplaced Belongings | 3.00% | ~2 |
-| Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~2 |
 | I want to throw up! | 3.00% | ~2 |
