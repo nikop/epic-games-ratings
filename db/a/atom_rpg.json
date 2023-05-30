@@ -348,7 +348,7 @@
   ],
   "EOS_Progressed": 869,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1212,9 +1212,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 304
     },
     {
       "ID": "WISHMASTER_1",
@@ -1236,8 +1236,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-30T06:00:15.8196801+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:05:31.0700019+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:06:56.0523991+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:59:42.5268827+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:05:31.0700318+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:00:27.0904453+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:06:56.0524224+00:00"
 }

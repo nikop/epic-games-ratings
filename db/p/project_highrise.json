@@ -196,9 +196,9 @@
       "ID": "ach_100days",
       "SetID": "b8gh1fi",
       "Name": "First 100 Days",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_ada",
@@ -468,9 +468,9 @@
       "ID": "ach_ep1_reviews_1",
       "SetID": "b8gh1fi",
       "Name": "Three of a Kind",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_ep1_reviews_2",
@@ -628,9 +628,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_prestige_1",
@@ -684,9 +684,9 @@
       "ID": "ach_recycling_1",
       "SetID": "b8gh1fi",
       "Name": "Maximum Reuse",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_renters",
@@ -756,9 +756,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_retail_4",
@@ -772,9 +772,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_revs_2",
@@ -820,9 +820,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_trash_1",
@@ -844,17 +844,17 @@
       "ID": "ach_util_cable",
       "SetID": "b8gh1fi",
       "Name": "Tuned In",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_util_gas",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s a Gas",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_util_phone",
@@ -909,8 +909,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:05:39.8426839+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:07:06.200707+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:57:55.7294374+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:05:39.8427746+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:58:16.9257313+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:07:06.2007898+00:00"
 }

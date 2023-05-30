@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 25.00% | ~12,553 |
-| Let There Be Light | 20.00% | ~10,042 |
-| Float Like a Butterfly | 19.00% | ~9,540 |
+| Follow the Light | 25.00% | ~12,554 |
+| Let There Be Light | 20.00% | ~10,043 |
+| Float Like a Butterfly | 19.00% | ~9,541 |
 | Nordic Walking | 15.00% | ~7,532 |
 | Bright Falls' Finest | 15.00% | ~7,532 |
-| Under a Thin Layer of Skin | 13.00% | ~6,527 |
-| Paging Mr. Wake | 11.00% | ~5,523 |
-| Park Ranger | 10.00% | ~5,021 |
-| Back! Back, I Say! | 10.00% | ~5,021 |
-| Finders Keepers | 10.00% | ~5,021 |
+| Under a Thin Layer of Skin | 13.00% | ~6,528 |
+| Paging Mr. Wake | 11.00% | ~5,524 |
+| Park Ranger | 10.00% | ~5,022 |
+| Back! Back, I Say! | 10.00% | ~5,022 |
+| Finders Keepers | 10.00% | ~5,022 |
 | Sound and Fury | 9.00% | ~4,519 |
 | Missed by a Mile | 9.00% | ~4,519 |
 | Damn Good Cup of Coffee | 9.00% | ~4,519 |
@@ -25,7 +25,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 8.00% | ~4,017 |
 | Collateral Carnage | 8.00% | ~4,017 |
 | Come One, Come All | 8.00% | ~4,017 |
-| A Friend in Need | 8.00% | ~1,094 |
+| A Friend in Need | 8.00% | ~1,095 |
 | Heavy Metal | 7.00% | ~3,515 |
 | Perchance to Dream | 7.00% | ~3,515 |
 | It's Not Just a Typewriter Brand | 7.00% | ~3,515 |
@@ -39,15 +39,15 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,511 |
 | What Light Through Yonder Window | 5.00% | ~2,511 |
 | Ding! | 5.00% | ~684 |
-| Departure | 4.00% | ~2,008 |
-| Hardboiled Writer | 4.00% | ~2,008 |
+| Departure | 4.00% | ~2,009 |
+| Hardboiled Writer | 4.00% | ~2,009 |
 | Boob Tube | 3.00% | ~1,506 |
 | Children of the Elder God | 3.00% | ~1,506 |
 | Drink 'Em Both Up | 3.00% | ~1,506 |
 | If It Flies, It Burns | 3.00% | ~1,506 |
 | KBF-FM | 3.00% | ~1,506 |
-| Kill Your Darlings | 3.00% | ~410 |
-| Heartbreaker | 3.00% | ~410 |
+| Kill Your Darlings | 3.00% | ~411 |
+| Heartbreaker | 3.00% | ~411 |
 | Carny | 2.00% | ~1,004 |
 | Iron Will | 2.00% | ~274 |
 | Medical Opinions | 1.00% | ~502 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~50 |
 | No Punctuation | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,211 (Ranked 76)  
+Progressed: 50,216 (Ranked 76)  
 Completed: 48 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 48 (0.10%) (Ranked 159)
 | 2023-05-27 | 48,959 | 48 |
 | 2023-05-28 | 49,590 | 48 |
 | 2023-05-29 | 50,091 | 48 |
-| 2023-05-30 | 50,211 | 48 |
+| 2023-05-30 | 50,216 | 48 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

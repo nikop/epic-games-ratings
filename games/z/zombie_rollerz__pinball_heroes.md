@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 277)  
+Progressed: 79 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

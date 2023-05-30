@@ -17,23 +17,23 @@
 | Delegate Maintenance | 32.00% | ~59 |
 | Destination Destiny | 28.00% | ~51 |
 | Happy Tenants | 25.00% | ~46 |
+| Smooth Service | 24.00% | ~44 |
 | Your Prestige is Rising | 23.00% | ~42 |
 | Potent Potables | 23.00% | ~42 |
 | Retail Revenue | 23.00% | ~42 |
-| Smooth Service | 23.00% | ~42 |
 | Lux Living | 22.00% | ~40 |
 | People Mover | 22.00% | ~40 |
 | Emporium Empire | 22.00% | ~40 |
-| Leveled Up Shops | 21.00% | ~38 |
+| Leveled Up Shops | 22.00% | ~40 |
 | Get Electrified | 21.00% | ~38 |
 | Rehab Expert | 20.00% | ~37 |
 | Don't Feel a Loan | 20.00% | ~37 |
 | Tasty Profits | 20.00% | ~37 |
 | Artfully Done | 19.00% | ~35 |
+| Cashflow Chief | 18.00% | ~33 |
 | We Don't Need No Education | 18.00% | ~33 |
 | Under One Roof | 17.00% | ~31 |
 | Established Fame | 17.00% | ~31 |
-| Cashflow Chief | 17.00% | ~31 |
 | Boutique Benefits | 16.00% | ~29 |
 | Terrifically Trashed | 16.00% | ~29 |
 | Thrilled Tenants | 16.00% | ~29 |
@@ -42,22 +42,22 @@
 | Smooth Operator | 13.00% | ~24 |
 | 28 Days Later | 11.00% | ~20 |
 | Plaza Plan | 11.00% | ~20 |
-| Master of Puppets | 10.00% | ~18 |
+| Master of Puppets | 11.00% | ~20 |
+| First 100 Days | 10.00% | ~18 |
 | Refined Palates | 10.00% | ~18 |
 | Revenue Royalty | 10.00% | ~18 |
-| First 100 Days | 9.00% | ~16 |
 | Meet Me at HQ | 9.00% | ~16 |
 | Profound Proceeds | 9.00% | ~16 |
+| Maximum Reuse | 9.00% | ~16 |
 | Phoning It In | 9.00% | ~16 |
 | Pipe Up | 9.00% | ~16 |
 | Aestheticly Pleased | 8.00% | ~15 |
-| Maximum Reuse | 8.00% | ~15 |
+| Tuned In | 8.00% | ~15 |
+| It's a Gas | 8.00% | ~15 |
 | Penthouse in the Sky | 7.00% | ~13 |
 | I'm Busy Ruling | 7.00% | ~13 |
 | Careful Constructor | 7.00% | ~13 |
 | Sky High Stature | 7.00% | ~13 |
-| Tuned In | 7.00% | ~13 |
-| It's a Gas | 7.00% | ~13 |
 | Meet ADA/360 | 6.00% | ~11 |
 | Baron of Business | 6.00% | ~11 |
 | Water Features | 6.00% | ~11 |
@@ -65,6 +65,7 @@
 | Golden Opportunity | 5.00% | ~9 |
 | Luxury Boutiques | 4.00% | ~7 |
 | Plebs Are Needed | 4.00% | ~7 |
+| Three of a Kind | 4.00% | ~7 |
 | Sandbagger | 4.00% | ~7 |
 | Curated Class | 3.00% | ~5 |
 | Decorator's Touch | 3.00% | ~5 |
@@ -73,7 +74,6 @@
 | Glut of Gastronomy | 3.00% | ~5 |
 | Royal Flush | 3.00% | ~5 |
 | The King of Cool | 3.00% | ~5 |
-| Three of a Kind | 3.00% | ~5 |
 | Four of a Kind | 3.00% | ~5 |
 | In the Money | 3.00% | ~5 |
 | It is Payday | 3.00% | ~5 |

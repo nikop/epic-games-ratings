@@ -2,12 +2,12 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2582,9 +2582,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 9348,
+  "EOS_Progressed": 9350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4957,6 +4957,11 @@
       "Time": "2023-05-30T08:05:40.0720084+00:00",
       "NumProgressed": 9348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T09:07:06.235703+00:00",
+      "NumProgressed": 9350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4992,7 +4997,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -5032,7 +5037,7 @@
       "Name": "Path of the Demon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "10_PathOfAzata",
@@ -5048,7 +5053,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "12_PathOfTrickster",
@@ -5064,7 +5069,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "14_PathOfSwarm",
@@ -5168,7 +5173,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "28_GreatUpstart",
@@ -5216,7 +5221,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5224,7 +5229,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -5368,7 +5373,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -5895,21 +5900,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8130,
+      "Progressed": 8132,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9348,
+      "Progressed": 9350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-29T23:58:44.29734+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:05:40.0720077+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:07:06.2357026+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:58:07.5433691+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:05:40.0721898+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:58:31.5336416+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:07:06.2358407+00:00"
 }

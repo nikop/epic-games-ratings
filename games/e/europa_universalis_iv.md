@@ -46,15 +46,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.70% | ~327 |
 | Electable! | 0.60% | ~280 |
 | Time Bandit | 0.60% | ~280 |
-| All belongs to Mother Russia | 0.50% | ~233 |
-| At every continent | 0.50% | ~233 |
-| Early-Modern Warfare | 0.50% | ~233 |
-| One Family to Rule them All | 0.50% | ~233 |
-| Populists in Government | 0.50% | ~233 |
-| The pen is mightier than the sword | 0.50% | ~233 |
-| This is My Faith | 0.50% | ~233 |
-| Trophy Hunter | 0.50% | ~233 |
-| Voting Streak | 0.50% | ~233 |
+| All belongs to Mother Russia | 0.50% | ~234 |
+| At every continent | 0.50% | ~234 |
+| Early-Modern Warfare | 0.50% | ~234 |
+| One Family to Rule them All | 0.50% | ~234 |
+| Populists in Government | 0.50% | ~234 |
+| The pen is mightier than the sword | 0.50% | ~234 |
+| This is My Faith | 0.50% | ~234 |
+| Trophy Hunter | 0.50% | ~234 |
+| Voting Streak | 0.50% | ~234 |
 | Absolutely | 0.40% | ~187 |
 | Bleed Them Dry | 0.40% | ~187 |
 | Dude, Where's my Boat? | 0.40% | ~187 |
@@ -63,6 +63,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.40% | ~187 |
 | One Night in Paris | 0.40% | ~187 |
 | Ruina Imperii | 0.40% | ~187 |
+| Tear Down This Wall | 0.40% | ~187 |
 | The Continuation of Diplomacy | 0.40% | ~187 |
 | A Pile of Gold | 0.30% | ~140 |
 | All Your Trade Are Belong to Us | 0.30% | ~140 |
@@ -74,7 +75,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.30% | ~140 |
 | No Pirates in my Caribbean | 0.30% | ~140 |
 | Not so sad a state... | 0.30% | ~140 |
-| Tear Down This Wall | 0.30% | ~140 |
 | The Chrysanthemum Throne | 0.30% | ~140 |
 | Three Trivial Tributary Tribes | 0.30% | ~140 |
 | Traditional Player | 0.30% | ~140 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,695 (Ranked 78)  
+Progressed: 46,705 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 45,190 | 0 |
 | 2023-05-28 | 45,938 | 0 |
 | 2023-05-29 | 46,581 | 0 |
-| 2023-05-30 | 46,695 | 0 |
+| 2023-05-30 | 46,705 | 0 |
 ## Awards
 Max (Educational): 5,306  (Ranked 60)  
 Sum: 43,917 (Ranked 27)  

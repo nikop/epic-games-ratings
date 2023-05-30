@@ -2,7 +2,7 @@
   "ID": "ca0530b485754032be50cb6f27be0c2c",
   "Name": "Kerbal Space Program",
   "ProductSlug": "kerbal-space-program",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 89,
   "Ranking_Popularity": 170,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 425,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-01-06T04:57:07.6192795+00:00",
@@ -2068,6 +2068,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 3851,
       "NumberOfAwardsMax": 587
+    },
+    {
+      "Time": "2023-05-30T08:57:29.8934729+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3851,
+      "NumberOfAwardsMax": 587
     }
   ],
   "ReviewsDisabled": false,
@@ -2136,8 +2142,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-05-30T02:04:28.7817076+00:00",
+  "LastChanged": "2023-05-30T08:57:29.8934728+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.1224963+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:57:14.7938244+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:00:22.5706245+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:57:29.8934735+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:01:19.2169274+00:00"
 }

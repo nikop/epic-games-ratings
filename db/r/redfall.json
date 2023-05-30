@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1644,
+  "EOS_Progressed": 1645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1673,6 +1673,11 @@
       "Time": "2023-05-30T05:02:30.0228325+00:00",
       "NumProgressed": 1644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T09:03:32.4660951+00:00",
+      "NumProgressed": 1645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1700,15 +1705,15 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 510
     },
     {
       "ID": "Achievement_006",
@@ -1740,7 +1745,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "Achievement_010",
@@ -1748,7 +1753,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Achievement_011",
@@ -1818,9 +1823,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1250
     },
     {
       "ID": "Achievement_020",
@@ -1876,7 +1881,7 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "Achievement_027",
@@ -1916,7 +1921,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Achievement_032",
@@ -1932,7 +1937,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "Achievement_034",
@@ -1940,7 +1945,7 @@
       "Name": "Catch and Release",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "Achievement_035",
@@ -2204,14 +2209,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1644,
+      "Progressed": 1645,
       "Completed": 0
     }
   ],
@@ -2219,8 +2224,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-29T21:57:46.9258476+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:02:13.254833+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:03:32.4660946+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:37.8719634+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:57:43.0671435+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:02:13.2549113+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:58:02.2383506+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:03:32.4661553+00:00"
 }

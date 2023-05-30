@@ -24,9 +24,378 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ActivateRadShield",
+      "SetID": "bf8o3co",
+      "Name": "Shields Up!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BuyAmmoFromDepot",
+      "SetID": "bf8o3co",
+      "Name": "Load \u2018em Up!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectAllAchievements",
+      "SetID": "bf8o3co",
+      "Name": "I\u2019ll See You Again, Hacker",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectAllMedia",
+      "SetID": "bf8o3co",
+      "Name": "The Inside Scoop",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectBestHardware",
+      "SetID": "bf8o3co",
+      "Name": "Maxed Out",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectGuns",
+      "SetID": "bf8o3co",
+      "Name": "This Is My Boomstick!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectRapier",
+      "SetID": "bf8o3co",
+      "Name": "En Garde!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectWrench",
+      "SetID": "bf8o3co",
+      "Name": "Gut-Wrenching",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteCyberspaceLevels",
+      "SetID": "bf8o3co",
+      "Name": "Hacker? You Hardly Know\u2019er!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteGame",
+      "SetID": "bf8o3co",
+      "Name": "Look At You, Hacker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteMaxDifficulty",
+      "SetID": "bf8o3co",
+      "Name": "Don\u2019t Forget To Salt The Fries",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ConsumeJunkFood",
+      "SetID": "bf8o3co",
+      "Name": "Look At You, Snacker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DefeatCortexReavers",
+      "SetID": "bf8o3co",
+      "Name": "Get Ahead",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DefeatDiegoV1",
+      "SetID": "bf8o3co",
+      "Name": "I\u2019ll Be Back",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DefeatDiegoV2",
+      "SetID": "bf8o3co",
+      "Name": "D\u00E9j\u00E0 Vu",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DefeatDiegoV3",
+      "SetID": "bf8o3co",
+      "Name": "Edward DIEgo",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DefeatShodan",
+      "SetID": "bf8o3co",
+      "Name": "It\u2019s Over.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DestroyAntennaRelays",
+      "SetID": "bf8o3co",
+      "Name": "No Reception",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DestroyMedicalComputerNodes",
+      "SetID": "bf8o3co",
+      "Name": "Decrypted",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DestroyMiningLaser",
+      "SetID": "bf8o3co",
+      "Name": "Thermal BOOMing",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DisableSafetyOverride",
+      "SetID": "bf8o3co",
+      "Name": "Override Superposition",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FindHiddenDoor",
+      "SetID": "bf8o3co",
+      "Name": "Supersleuth",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FindHiddenSkulls",
+      "SetID": "bf8o3co",
+      "Name": "Head Hunter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FindRifftraxLog",
+      "SetID": "bf8o3co",
+      "Name": "In the Not Too Distant Future",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FragGrenadeMultiKill",
+      "SetID": "bf8o3co",
+      "Name": "Somebody Set Up Us The Bomb",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HackEnemies",
+      "SetID": "bf8o3co",
+      "Name": "Remote Control",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InsertIsolinearChipset",
+      "SetID": "bf8o3co",
+      "Name": "The Key To Vector Sigma",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InstallModkits",
+      "SetID": "bf8o3co",
+      "Name": "Not Even My Final Form",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IonBounceKill",
+      "SetID": "bf8o3co",
+      "Name": "Goldberg\u2019s Ricochet",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JettisonBetaGrove",
+      "SetID": "bf8o3co",
+      "Name": "Anti-Virus",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KillDiegoWithRapier",
+      "SetID": "bf8o3co",
+      "Name": "Finish Him!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KillWithBerserk",
+      "SetID": "bf8o3co",
+      "Name": "Asunder The Influence",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LeftHealingSuite",
+      "SetID": "bf8o3co",
+      "Name": "Through The Looking Glass",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MonitorDropKill",
+      "SetID": "bf8o3co",
+      "Name": "TV Dinner",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PlasmaCoreMultiKill",
+      "SetID": "bf8o3co",
+      "Name": "Neon Annihilation",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RailgunMultiKill",
+      "SetID": "bf8o3co",
+      "Name": "Zapper",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RepairSubsystemRelay",
+      "SetID": "bf8o3co",
+      "Name": "Jargon Cypher",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SalvageJunk",
+      "SetID": "bf8o3co",
+      "Name": "Garbage Collection",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SolveChess",
+      "SetID": "bf8o3co",
+      "Name": "En Passant",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SolvePuzzles",
+      "SetID": "bf8o3co",
+      "Name": "Hacking Skillz",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StartReactorCountdown",
+      "SetID": "bf8o3co",
+      "Name": "Can\u2019t Turn Back Now",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StorageJump",
+      "SetID": "bf8o3co",
+      "Name": "The Longest Jump",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UseAllPatches",
+      "SetID": "bf8o3co",
+      "Name": "All Patched Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UsePowerStation",
+      "SetID": "bf8o3co",
+      "Name": "System Shocked",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VendingMachineGrenade",
+      "SetID": "bf8o3co",
+      "Name": "Enjoy Your Purchase",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZeroSecurity",
+      "SetID": "bf8o3co",
+      "Name": "Off The Grid",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bf8o3co",
@@ -36,8 +405,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:04:06.3347594+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:05:13.1191583+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.2956308+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:57:45.0158372+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:04:06.3347628+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:58:04.5822382+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:05:13.1191865+00:00"
 }

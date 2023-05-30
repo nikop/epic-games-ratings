@@ -730,9 +730,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 144
     },
     {
       "ID": "CultivairChests1",
@@ -786,9 +786,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1089,8 +1089,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:04:34.0840093+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:05:46.9041302+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:59:05.8147621+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:04:34.0840672+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:59:42.0700277+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:05:46.9041884+00:00"
 }

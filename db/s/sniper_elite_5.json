@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1910,6 +1910,11 @@
       "Time": "2023-05-30T08:05:19.7410429+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T09:06:42.4974264+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1977,7 +1982,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2001,7 +2006,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2089,7 +2094,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2121,7 +2126,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2313,7 +2318,7 @@
       "Name": "Target America",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2488,13 +2493,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1809,
+      "Progressed": 1810,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 2
     }
   ],
@@ -2502,8 +2507,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-29T23:01:12.2037001+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:05:19.7410423+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:06:42.4974258+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T08:00:03.1513299+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:05:19.7411209+00:00"
+  "LastUpdate_Ratings": "2023-05-30T09:00:52.0463525+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:06:42.4975002+00:00"
 }

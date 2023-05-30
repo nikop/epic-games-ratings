@@ -911,9 +911,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -935,9 +935,9 @@
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -1055,8 +1055,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-05-30T08:00:09.7453775+00:00",
+  "LastChanged_Achievements": "2023-05-30T09:01:03.5992023+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.3542342+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:57:24.1409859+00:00",
-  "LastUpdate_Achievements": "2023-05-30T08:00:09.7454448+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:57:41.1132549+00:00",
+  "LastUpdate_Achievements": "2023-05-30T09:01:03.5992506+00:00"
 }

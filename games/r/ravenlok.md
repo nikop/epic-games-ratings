@@ -19,9 +19,9 @@
 | An Actor! | 43.00% | ~390 |
 | Curtain Call | 41.00% | ~372 |
 | Piece of Cake | 39.00% | ~354 |
+| Gooey Delight! | 39.00% | ~354 |
 | Glimmer of Hope | 39.00% | ~354 |
 | Well Rested | 39.00% | ~354 |
-| Gooey Delight! | 38.00% | ~345 |
 | Teacups for Toppy | 38.00% | ~345 |
 | Nightmare Fuel | 37.00% | ~336 |
 | Take Heart | 37.00% | ~336 |
@@ -30,9 +30,9 @@
 | Ancient Wisdom | 35.00% | ~317 |
 | Frog Facts! | 35.00% | ~317 |
 | All That Glistens | 35.00% | ~317 |
+| Spellbound | 34.00% | ~308 |
 | All Skilled Up! | 34.00% | ~308 |
 | It's Pointy! | 34.00% | ~308 |
-| Spellbound | 33.00% | ~299 |
 | Extinct Again! | 33.00% | ~299 |
 | Bird of Prey | 32.00% | ~290 |
 | Stardust | 32.00% | ~290 |
