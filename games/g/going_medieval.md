@@ -36,7 +36,7 @@ Number of Ratings: 706  (23.09.2022)
 | Don't Cry Wolf | 11.00% | ~300 |
 | Where Wolf? | 7.00% | ~191 |
 | Food Chain | 2.00% | ~54 |
-| Wabbit Season | 0.90% | ~25 |
+| Wabbit Season | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,724 (Ranked 138)  
 Completed: 6 (0.22%) (Ranked 137)  

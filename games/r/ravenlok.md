@@ -25,7 +25,7 @@
 | Teacups for Toppy | 38.00% | ~345 |
 | Nightmare Fuel | 37.00% | ~336 |
 | Take Heart | 37.00% | ~336 |
-| The Guardian | 36.00% | ~327 |
+| The Guardian | 37.00% | ~336 |
 | Stronger! | 36.00% | ~327 |
 | Ancient Wisdom | 35.00% | ~317 |
 | Frog Facts! | 35.00% | ~317 |

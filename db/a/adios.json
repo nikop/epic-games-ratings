@@ -48,9 +48,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58775,
+  "EOS_Progressed": 58777,
   "EOS_Completed": 489,
-  "EOS_NewPlayers": 1327,
+  "EOS_NewPlayers": 1326,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -4083,6 +4083,11 @@
       "Time": "2023-05-30T07:06:48.3728609+00:00",
       "NumProgressed": 58775,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-05-30T08:05:28.3576411+00:00",
+      "NumProgressed": 58777,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 25,
@@ -4166,7 +4171,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 11167
+      "UsersEstimate": 11168
     },
     {
       "ID": "Hearty",
@@ -4230,7 +4235,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "Piano Man",
@@ -4254,7 +4259,7 @@
       "Name": "Sniper",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "Spicy",
@@ -4293,7 +4298,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 58775,
+      "Progressed": 58777,
       "Completed": 489
     }
   ],
@@ -4301,8 +4306,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:06:48.3728604+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:05:28.3576395+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.4009733+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:01:19.7819843+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:06:48.3729031+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:00:01.1756919+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:05:28.3576842+00:00"
 }

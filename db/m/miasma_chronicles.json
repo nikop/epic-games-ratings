@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 838,
+  "EOS_Progressed": 839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -783,6 +783,11 @@
       "Time": "2023-05-30T07:02:24.3706873+00:00",
       "NumProgressed": 838,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T08:02:18.3187084+00:00",
+      "NumProgressed": 839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -810,7 +815,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ATTENBOROUGH",
@@ -906,7 +911,7 @@
       "Name": "Limp Richard",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -954,7 +959,7 @@
       "Name": "Exorcist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "EXPERIENCED",
@@ -970,7 +975,7 @@
       "Name": "Firestarter",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1002,7 +1007,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "GIANT_KILLER",
@@ -1026,7 +1031,7 @@
       "Name": "Gun for Hire",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1130,7 +1135,7 @@
       "Name": "Sensei",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1170,7 +1175,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1178,7 +1183,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "THE_WATCHERS",
@@ -1201,7 +1206,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 838,
+      "Progressed": 839,
       "Completed": 0
     }
   ],
@@ -1209,8 +1214,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-29T20:58:20.2954547+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:02:24.3706867+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:02:18.3187079+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-30T06:58:38.3167056+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:02:24.3707455+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:58:07.5423254+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:02:18.3187508+00:00"
 }

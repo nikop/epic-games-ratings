@@ -20,7 +20,7 @@ Rating: 4.33 (Ranked 741)
 | Truth from Within | 50.00% | ~182 |
 | The Major | 48.00% | ~174 |
 | Comtesse Margaux de Vos | 46.00% | ~167 |
-| Curious and Beautiful | 44.00% | ~160 |
+| Curious and Beautiful | 45.00% | ~163 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~160 |
 | The Interrogations | 44.00% | ~160 |
 | Well-acquainted | 42.00% | ~152 |
@@ -28,7 +28,7 @@ Rating: 4.33 (Ranked 741)
 | Well-read | 39.00% | ~142 |
 | Cassandra Van den Bosch | 38.00% | ~138 |
 | The Secret | 37.00% | ~134 |
-| Gedeon Demir | 35.00% | ~127 |
+| Gedeon Demir | 36.00% | ~131 |
 | Rehana Piette | 35.00% | ~127 |
 | Instinct is Marvellous | 33.00% | ~120 |
 | Ernesto da Silva | 33.00% | ~120 |
@@ -52,7 +52,7 @@ Rating: 4.33 (Ranked 741)
 | Room with a View | 7.00% | ~25 |
 | Work-life Balance | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 210)  
+Progressed: 363 (Ranked 211)  
 Completed: 4 (1.10%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |

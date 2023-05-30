@@ -7,25 +7,25 @@ Rating: 4.22 (Ranked 807)
 | ---- | ---------- | ----- |
 | First Blood | 91.00% | ~763 |
 | Ranidaphobia | 70.00% | ~587 |
-| Aspiring Editor | 67.00% | ~561 |
-| Gun for Hire | 61.00% | ~511 |
+| Aspiring Editor | 67.00% | ~562 |
+| Gun for Hire | 61.00% | ~512 |
 | I am the law! | 49.00% | ~411 |
 | Lumberjack | 31.00% | ~260 |
-| Limp Richard | 27.00% | ~226 |
-| Firestarter | 27.00% | ~226 |
-| From Darkness to Light | 27.00% | ~226 |
+| Limp Richard | 27.00% | ~227 |
+| Firestarter | 27.00% | ~227 |
+| From Darkness to Light | 27.00% | ~227 |
 | Croaked | 26.00% | ~218 |
-| Exorcist | 22.00% | ~184 |
+| Exorcist | 22.00% | ~185 |
 | Editor Adept | 21.00% | ~176 |
 | Giant Killer | 19.00% | ~159 |
-| Sensei | 17.00% | ~142 |
-| The meaning of Kain | 17.00% | ~142 |
+| Sensei | 17.00% | ~143 |
+| The meaning of Kain | 17.00% | ~143 |
 | Technophobe | 13.00% | ~109 |
 | Recycler | 12.00% | ~101 |
 | Chain Killer | 11.00% | ~92 |
 | Hold The Line | 11.00% | ~92 |
 | Newtonian Knockout | 10.00% | ~84 |
-| There Can Be Only One! | 9.00% | ~75 |
+| There Can Be Only One! | 9.00% | ~76 |
 | Are you not entertained? | 8.00% | ~67 |
 | Ganglord | 8.00% | ~67 |
 | Jarhead | 8.00% | ~67 |
@@ -57,7 +57,7 @@ Rating: 4.22 (Ranked 807)
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 838 (Ranked 179)  
+Progressed: 839 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 635 | 0 |
 | 2023-05-28 | 746 | 0 |
 | 2023-05-29 | 815 | 0 |
-| 2023-05-30 | 838 | 0 |
+| 2023-05-30 | 839 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

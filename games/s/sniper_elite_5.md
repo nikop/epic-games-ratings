@@ -7,11 +7,11 @@ Rating: 4.43 (Ranked 642)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 23.00% | ~427 |
 | Confirming Suspicions | 18.00% | ~334 |
-| The Kraken Wakes | 13.00% | ~241 |
+| The Kraken Wakes | 13.00% | ~242 |
 | It's Starting to Crack | 11.00% | ~204 |
 | Lord of War | 10.00% | ~186 |
+| Resourceful | 9.00% | ~167 |
 | Change the Channel | 9.00% | ~167 |
-| Resourceful | 8.00% | ~148 |
 | Enemy at the Gates | 7.00% | ~130 |
 | Organ Grinder | 7.00% | ~130 |
 | As Quiet as a Mouse | 7.00% | ~130 |
@@ -50,8 +50,8 @@ Rating: 4.43 (Ranked 642)
 | Don't hold your breath | 0.50% | ~9 |
 | Last Resort | 0.50% | ~9 |
 | From Paris with Love | 0.40% | ~7 |
+| Burn after reading | 0.40% | ~7 |
 | Up close and personal | 0.40% | ~7 |
-| Burn after reading | 0.30% | ~6 |
 | Souvenir hunter | 0.30% | ~6 |
 | Eagle Eyed | 0.30% | ~6 |
 | Shoot for the Moon | 0.30% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 642)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,856 (Ranked 152)  
+Progressed: 1,858 (Ranked 152)  
 Completed: 2 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-27 | 1,635 | 2 |
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
-| 2023-05-30 | 1,856 | 2 |
+| 2023-05-30 | 1,858 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

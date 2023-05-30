@@ -24,7 +24,7 @@
 | Sharpshooter | 68.00% | ~106 |
 | Architect of Darkness | 68.00% | ~106 |
 | Top of the World | 67.00% | ~105 |
-| The Apotheosis of War | 65.00% | ~101 |
+| The Apotheosis of War | 66.00% | ~103 |
 | Stasis Alcatraz | 65.00% | ~101 |
 | Tastes Like Chicken | 62.00% | ~97 |
 | Thunderstorm | 61.00% | ~95 |
@@ -36,7 +36,7 @@
 | Avada Kedavra | 53.00% | ~83 |
 | Starry: Holy Mountain | 52.00% | ~81 |
 | Brilliant: Tanglewood | 51.00% | ~80 |
-| It's a Trap | 49.00% | ~76 |
+| It's a Trap | 50.00% | ~78 |
 | Brilliant: Arcania | 48.00% | ~75 |
 | Deposition | 46.00% | ~72 |
 | Starry: Tanglewood | 46.00% | ~72 |

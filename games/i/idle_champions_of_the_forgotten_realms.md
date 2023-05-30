@@ -74,6 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.20% | ~111 |
 | Escort to Waterdeep | 0.20% | ~178 |
 | The Giant's Bane Tavern | 0.20% | ~111 |
+| Close Escort | 0.20% | ~178 |
 | Constant Banditry | 0.20% | ~178 |
 | Waterdeep Detours | 0.20% | ~178 |
 | Underdeep Cartography | 0.20% | ~178 |
@@ -413,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~55 |
 | Mirage Arcane | 0.10% | ~55 |
 | Only Human | 0.10% | ~55 |
-| Close Escort | 0.10% | ~89 |
 | The Long Haul | 0.10% | ~89 |
 | Lost in the Deep | 0.10% | ~89 |
 | Easily Distracted | 0.10% | ~89 |

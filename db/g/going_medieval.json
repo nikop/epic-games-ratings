@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -994,7 +994,7 @@
   ],
   "EOS_Progressed": 2724,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1471,9 +1471,9 @@
       "ID": "HUNT_RABBIT_20",
       "SetID": "5349c2e",
       "Name": "Wabbit Season",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "HUNT_RABBIT_5",
@@ -1647,8 +1647,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-26T20:02:37.4182915+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:06:44.1689085+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:05:25.307313+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.9974072+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:00:30.9159521+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:06:44.1689351+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:59:26.2191908+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:05:25.3073348+00:00"
 }

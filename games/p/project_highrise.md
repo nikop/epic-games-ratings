@@ -11,8 +11,8 @@
 | Dinner Dash | 40.00% | ~73 |
 | Floor Galore | 39.00% | ~71 |
 | It's Technical | 36.00% | ~66 |
+| Need a Consult | 35.00% | ~64 |
 | Upgrade Unlock | 35.00% | ~64 |
-| Need a Consult | 34.00% | ~62 |
 | Proper Walls | 32.00% | ~59 |
 | Delegate Maintenance | 32.00% | ~59 |
 | Destination Destiny | 28.00% | ~51 |

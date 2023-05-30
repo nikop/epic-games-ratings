@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3024,9 +3024,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 274279,
+  "EOS_Progressed": 274286,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 3097,
+  "EOS_NewPlayers": 3094,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6969,6 +6969,11 @@
       "Time": "2023-05-30T07:04:47.3804883+00:00",
       "NumProgressed": 274279,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-05-30T08:04:02.0742214+00:00",
+      "NumProgressed": 274286,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 45,
@@ -7116,7 +7121,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8228
+      "UsersEstimate": 8229
     },
     {
       "ID": "PFA_26",
@@ -7148,7 +7153,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8228
+      "UsersEstimate": 8229
     },
     {
       "ID": "PFA_3",
@@ -7180,7 +7185,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8228
+      "UsersEstimate": 8229
     },
     {
       "ID": "PFA_33",
@@ -7228,7 +7233,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8228
+      "UsersEstimate": 8229
     },
     {
       "ID": "PFA_39",
@@ -7260,7 +7265,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8228
+      "UsersEstimate": 8229
     },
     {
       "ID": "PFA_42",
@@ -7268,7 +7273,7 @@
       "Name": "Raising Expectations",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8228
+      "UsersEstimate": 8229
     },
     {
       "ID": "PFA_43",
@@ -7339,7 +7344,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 274279,
+      "Progressed": 274286,
       "Completed": 379
     }
   ],
@@ -7347,8 +7352,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-30T04:57:19.9300486+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:04:47.3804879+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:04:02.0742208+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:12.8623169+00:00",
-  "LastUpdate_Ratings": "2023-05-30T06:57:23.3885397+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:04:47.3805611+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:57:16.3518693+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:04:02.074276+00:00"
 }

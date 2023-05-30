@@ -94,9 +94,9 @@
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LC-03",
@@ -231,8 +231,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:06:51.7329424+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:05:31.0015824+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.2979054+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:00:47.9984914+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:06:51.7329579+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:59:38.8121566+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:05:31.001596+00:00"
 }

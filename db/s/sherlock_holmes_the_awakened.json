@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 320,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.06,
   "EosHistory": [
@@ -1058,9 +1058,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "MQ08_3",
@@ -1091,8 +1091,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:04:00.9102192+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:03:29.1421196+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-30T06:57:16.9710962+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:04:00.9102464+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:57:12.1571998+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:03:29.1421457+00:00"
 }

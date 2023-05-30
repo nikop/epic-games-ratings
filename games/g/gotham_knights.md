@@ -20,9 +20,9 @@ Rating: 4.17 (Ranked 840)
 | Whispered Words | 1.00% | ~628 |
 | Lock and Key | 1.00% | ~628 |
 | Bad Apples in Every Orchard | 1.00% | ~628 |
-| Protector of Gotham | 0.90% | ~565 |
-| The Show Mud Go On | 0.90% | ~565 |
-| From Inside Gotham's Walls | 0.90% | ~565 |
+| Protector of Gotham | 0.90% | ~566 |
+| The Show Mud Go On | 0.90% | ~566 |
+| From Inside Gotham's Walls | 0.90% | ~566 |
 | Rock and a Hard Place | 0.80% | ~503 |
 | Cooldown | 0.80% | ~503 |
 | Universal Health Scare | 0.80% | ~503 |
@@ -40,9 +40,9 @@ Rating: 4.17 (Ranked 840)
 | Fusion Expert | 0.40% | ~251 |
 | Family Meeting | 0.40% | ~251 |
 | Solid Alibi | 0.40% | ~251 |
-| Dressed to Impress | 0.30% | ~188 |
-| Expert Crime Fighter | 0.30% | ~188 |
-| A Worthy Successor | 0.30% | ~188 |
+| Dressed to Impress | 0.30% | ~189 |
+| Expert Crime Fighter | 0.30% | ~189 |
+| A Worthy Successor | 0.30% | ~189 |
 | Hammer and Icicle | 0.20% | ~66 |
 | Renewable Enemy Source | 0.20% | ~66 |
 | He'd Be So Proud of You | 0.20% | ~126 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,832 (Ranked 70)  
+Progressed: 62,837 (Ranked 70)  
 Completed: 91 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-27 | 62,420 | 91 |
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
-| 2023-05-30 | 62,832 | 91 |
+| 2023-05-30 | 62,837 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,263  (Ranked 98)  
 Sum: 3,749 (Ranked 138)  

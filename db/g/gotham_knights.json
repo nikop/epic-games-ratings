@@ -1298,9 +1298,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62832,
+  "EOS_Progressed": 62837,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1066,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4333,6 +4333,11 @@
       "Time": "2023-05-30T07:07:01.2266828+00:00",
       "NumProgressed": 62832,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-30T08:05:38.3940637+00:00",
+      "NumProgressed": 62837,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4440,7 +4445,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "CLAYFACE_1",
@@ -4456,7 +4461,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "CLAYFACE_3",
@@ -4480,7 +4485,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -4496,7 +4501,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -4728,7 +4733,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "MYSTERY_01",
@@ -4768,7 +4773,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "MYSTERY_06",
@@ -4831,13 +4836,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62832,
+      "Progressed": 62837,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33112,
+      "Progressed": 33117,
       "Completed": 2643
     }
   ],
@@ -4845,8 +4850,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-30T00:00:31.1469343+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:07:01.2266825+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:05:38.3940632+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:00:24.7442642+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:07:01.2267639+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:59:21.5478399+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:05:38.3941388+00:00"
 }

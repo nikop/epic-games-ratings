@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1856,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1905,6 +1905,11 @@
       "Time": "2023-05-30T07:06:36.5322951+00:00",
       "NumProgressed": 1856,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T08:05:19.7410429+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2138,9 +2143,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 167
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2164,7 +2169,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2194,9 +2199,9 @@
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -2483,13 +2488,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1807,
+      "Progressed": 1809,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1856,
+      "Progressed": 1858,
       "Completed": 2
     }
   ],
@@ -2497,8 +2502,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-29T23:01:12.2037001+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:06:36.5322947+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:05:19.7410423+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:01:21.9634565+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:06:36.5323784+00:00"
+  "LastUpdate_Ratings": "2023-05-30T08:00:03.1513299+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:05:19.7411209+00:00"
 }

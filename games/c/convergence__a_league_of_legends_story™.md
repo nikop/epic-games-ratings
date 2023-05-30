@@ -8,12 +8,12 @@
 | Rail Rat | 76.00% | ~391 |
 | The Mysterious Stranger | 74.00% | ~380 |
 | Immaculate Aim | 64.00% | ~329 |
+| Honest Mistake | 55.00% | ~283 |
 | The Brass Boss | 55.00% | ~283 |
-| Honest Mistake | 54.00% | ~278 |
 | No, Thanks! | 53.00% | ~272 |
 | Time Flies | 51.00% | ~262 |
 | The Prince in Heels | 50.00% | ~257 |
-| The Harder They Fall | 48.00% | ~247 |
+| The Harder They Fall | 49.00% | ~252 |
 | Right On Time | 47.00% | ~242 |
 | Fast Learner | 46.00% | ~236 |
 | Immaculate Aim | 46.00% | ~236 |

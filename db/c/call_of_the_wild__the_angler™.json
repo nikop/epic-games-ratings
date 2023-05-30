@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3897,
+  "EOS_Progressed": 3898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2158,6 +2158,11 @@
       "Time": "2023-05-30T06:02:24.2038239+00:00",
       "NumProgressed": 3897,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T08:00:36.9600834+00:00",
+      "NumProgressed": 3898,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2169,7 +2174,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2183,9 +2188,9 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2417
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2209,7 +2214,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2281,7 +2286,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -2329,7 +2334,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -2448,13 +2453,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3897,
+      "Progressed": 3898,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3269,
+      "Progressed": 3270,
       "Completed": 112
     }
   ],
@@ -2462,8 +2467,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:02:08.1993919+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:00:36.9600823+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-30T07:00:30.732386+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:02:08.1994387+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:59:26.1005964+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:00:36.9601257+00:00"
 }

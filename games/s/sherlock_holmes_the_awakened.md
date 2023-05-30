@@ -23,8 +23,8 @@
 | At Wits' End | 34.00% | ~109 |
 | Going Once... | 33.00% | ~106 |
 | Bookworm | 32.00% | ~102 |
+| Up In Flames | 32.00% | ~102 |
 | Fhtagn! | 32.00% | ~102 |
-| Up In Flames | 31.00% | ~99 |
 | Let Me Be Frank | 30.00% | ~96 |
 | Brain Food | 28.00% | ~90 |
 | No Stone Unturned | 27.00% | ~86 |

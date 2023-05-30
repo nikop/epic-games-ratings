@@ -6,38 +6,38 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~125,534 |
-| Titan's First Steps | 96.00% | ~124,240 |
-| Basic in Bulk | 91.00% | ~117,769 |
-| Tinkle of Coins | 87.00% | ~112,593 |
-| Disintermediation | 76.00% | ~98,357 |
-| Capitalism Ho! | 75.00% | ~97,063 |
-| It's Free Real Estate | 70.00% | ~90,592 |
-| Budding Merchant | 66.00% | ~85,415 |
-| Another Satisfied Customer | 61.00% | ~78,944 |
-| One Easy Payment | 60.00% | ~77,650 |
-| Own the Means of Production | 60.00% | ~77,650 |
+| Sponsored by Argon | 97.00% | ~125,535 |
+| Titan's First Steps | 96.00% | ~124,241 |
+| Basic in Bulk | 91.00% | ~117,770 |
+| Tinkle of Coins | 87.00% | ~112,594 |
+| Disintermediation | 76.00% | ~98,358 |
+| Capitalism Ho! | 75.00% | ~97,064 |
+| It's Free Real Estate | 70.00% | ~90,593 |
+| Budding Merchant | 66.00% | ~85,416 |
+| Another Satisfied Customer | 61.00% | ~78,945 |
+| One Easy Payment | 60.00% | ~77,651 |
+| Own the Means of Production | 60.00% | ~77,651 |
 | Some Assembly Required | 58.00% | ~75,062 |
 | Pretty Penny | 57.00% | ~73,768 |
-| One-Armed Bandit | 50.00% | ~64,708 |
+| One-Armed Bandit | 50.00% | ~64,709 |
 | Through Repetition, Perfection | 46.00% | ~59,532 |
 | The Daily Grind | 45.00% | ~58,238 |
-| Bounty Hunters | 44.00% | ~56,943 |
-| Where it Hurts | 43.00% | ~55,649 |
-| Dungeon Imports | 42.00% | ~54,355 |
+| Bounty Hunters | 44.00% | ~56,944 |
+| Where it Hurts | 43.00% | ~55,650 |
+| Dungeon Imports | 42.00% | ~54,356 |
 | Flooding the Market | 41.00% | ~53,061 |
-| Demand for Supplies | 38.00% | ~49,178 |
-| Gild-Gotten Goods | 37.00% | ~47,884 |
+| Demand for Supplies | 38.00% | ~49,179 |
+| Gild-Gotten Goods | 37.00% | ~47,885 |
 | Did we pack lunch? | 35.00% | ~45,296 |
 | Arcane Industries | 34.00% | ~44,002 |
-| Accomplished Merchant | 31.00% | ~40,119 |
+| Accomplished Merchant | 31.00% | ~40,120 |
 | Ascended | 28.00% | ~36,237 |
 | Gem Expert | 28.00% | ~36,237 |
 | Helping Hand | 28.00% | ~36,237 |
 | On the Path to Greatness | 27.00% | ~34,943 |
 | Blank Page Syndrome | 27.00% | ~34,943 |
 | Efficient Floor Space | 27.00% | ~34,943 |
-| Vanity, Verily | 26.00% | ~33,648 |
+| Vanity, Verily | 26.00% | ~33,649 |
 | Research & Development | 25.00% | ~32,354 |
 | Flawless Fusion | 24.00% | ~31,060 |
 | Power of Love | 23.00% | ~29,766 |
@@ -45,7 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 21.00% | ~27,178 |
 | Royal Ransom | 21.00% | ~27,178 |
 | Magical Harmony | 21.00% | ~27,178 |
-| Tax not Included | 20.00% | ~25,883 |
+| Tax not Included | 20.00% | ~25,884 |
 | Trash to Treasure | 18.00% | ~23,295 |
 | For the Hoard! | 17.00% | ~22,001 |
 | Special Ingredient | 17.00% | ~22,001 |
@@ -55,10 +55,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 15.00% | ~19,413 |
 | Seasoned Journeyman | 15.00% | ~19,413 |
 | Black Friday Special | 15.00% | ~19,413 |
-| Big Game Hunting | 14.00% | ~18,118 |
-| Locally Sourced | 14.00% | ~18,118 |
-| Flying off the Shelves | 14.00% | ~18,118 |
-| Laden with Loot | 14.00% | ~18,118 |
+| Big Game Hunting | 14.00% | ~18,119 |
+| Locally Sourced | 14.00% | ~18,119 |
+| Flying off the Shelves | 14.00% | ~18,119 |
+| Laden with Loot | 14.00% | ~18,119 |
 | Fat Cat Tag Team | 13.00% | ~16,824 |
 | Hidden Potential | 12.00% | ~15,530 |
 | Mammonite | 12.00% | ~15,530 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~518 |
 | Capitalist Camaraderie | 0.20% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,417 (Ranked 55)  
+Progressed: 129,418 (Ranked 55)  
 Completed: 88 (0.07%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 88 (0.07%) (Ranked 172)
 | 2023-05-27 | 129,227 | 85 |
 | 2023-05-28 | 129,324 | 86 |
 | 2023-05-29 | 129,397 | 88 |
-| 2023-05-30 | 129,417 | 88 |
+| 2023-05-30 | 129,418 | 88 |
 ## Awards
 Max (Great for Beginners): 4,595  (Ranked 66)  
 Sum: 26,655 (Ranked 44)  

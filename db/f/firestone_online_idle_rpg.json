@@ -106,7 +106,7 @@
   "Tags": [],
   "EOS_Progressed": 1222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2796,9 +2796,9 @@
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 73
     },
     {
       "ID": "sailor",
@@ -2997,8 +2997,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-30T07:06:45.0152733+00:00",
+  "LastChanged_Achievements": "2023-05-30T08:05:25.9119652+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T06:58:14.5035575+00:00",
-  "LastUpdate_Achievements": "2023-05-30T07:06:45.0153825+00:00"
+  "LastUpdate_Ratings": "2023-05-30T07:57:52.4369246+00:00",
+  "LastUpdate_Achievements": "2023-05-30T08:05:25.9120544+00:00"
 }
