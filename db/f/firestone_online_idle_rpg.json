@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2401,9 +2401,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 49
     },
     {
       "ID": "angelpower",
@@ -3002,8 +3002,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-30T10:05:28.8347113+00:00",
+  "LastChanged_Achievements": "2023-05-30T11:05:18.8739262+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:57:53.7746459+00:00",
-  "LastUpdate_Achievements": "2023-05-30T10:05:28.8348031+00:00"
+  "LastUpdate_Ratings": "2023-05-30T10:57:47.6876286+00:00",
+  "LastUpdate_Achievements": "2023-05-30T11:05:18.8739963+00:00"
 }

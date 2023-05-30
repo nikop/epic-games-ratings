@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -442,9 +442,9 @@
       "ID": "secret46",
       "SetID": "39f6ck8",
       "Name": "Target Practice",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "secret47",
@@ -555,8 +555,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-30T10:05:38.7498424+00:00",
+  "LastChanged_Achievements": "2023-05-30T11:05:28.9109139+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.5763347+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:59:32.0811134+00:00",
-  "LastUpdate_Achievements": "2023-05-30T10:05:38.7498898+00:00"
+  "LastUpdate_Ratings": "2023-05-30T10:59:27.8218827+00:00",
+  "LastUpdate_Achievements": "2023-05-30T11:05:28.9109541+00:00"
 }

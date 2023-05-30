@@ -3328,9 +3328,9 @@
       "ID": "MrAndMrsJantart",
       "SetID": "d0jo315",
       "Name": "Just Enough",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3633
     },
     {
       "ID": "Negotiator",
@@ -3408,8 +3408,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-29T20:00:30.370932+00:00",
-  "LastChanged_Achievements": "2023-05-30T10:05:23.8109622+00:00",
+  "LastChanged_Achievements": "2023-05-30T11:05:13.4004505+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:59:05.7930333+00:00",
-  "LastUpdate_Achievements": "2023-05-30T10:05:23.8109881+00:00"
+  "LastUpdate_Ratings": "2023-05-30T10:59:01.008733+00:00",
+  "LastUpdate_Achievements": "2023-05-30T11:05:13.4004717+00:00"
 }

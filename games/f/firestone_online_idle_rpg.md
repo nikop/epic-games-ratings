@@ -39,13 +39,13 @@ Rating: 3.91 (Ranked 908)
 | Doing My Part | 5.00% | ~61 |
 | Mastery | 5.00% | ~61 |
 | The Expeditioner | 5.00% | ~61 |
+| Ancient Knowledge | 4.00% | ~49 |
 | Here We Go Again | 4.00% | ~49 |
 | How Do You Turn This On? | 4.00% | ~49 |
 | Missions Dedication | 4.00% | ~49 |
 | The father of Dragons | 4.00% | ~49 |
 | Trader | 4.00% | ~49 |
 | Weekly Quest Completionist | 4.00% | ~49 |
-| Ancient Knowledge | 3.00% | ~37 |
 | Background Story | 3.00% | ~37 |
 | Four Leaf Clover | 3.00% | ~37 |
 | Lock And Load | 3.00% | ~37 |

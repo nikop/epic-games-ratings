@@ -20,8 +20,8 @@
 | Glorious Battle | 40.00% | ~52 |
 | Supreme Power | 39.00% | ~50 |
 | Diaper Time! | 39.00% | ~50 |
+| Target Practice | 38.00% | ~49 |
 | The Duelist | 37.00% | ~48 |
-| Target Practice | 37.00% | ~48 |
 | Meat Larder | 36.00% | ~46 |
 | Mutant And Proud | 35.00% | ~45 |
 | The Emperor's New Clothes | 29.00% | ~37 |

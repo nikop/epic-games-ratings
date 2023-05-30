@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-05-28T14:07:20.5586703+00:00",
       "NumProgressed": 413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T11:05:22.7609576+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -309,7 +314,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -525,7 +530,7 @@
       "Name": "Self Defense",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -604,7 +609,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 1
     }
   ],
@@ -612,8 +617,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-30T10:05:32.7755728+00:00",
+  "LastChanged_Achievements": "2023-05-30T11:05:22.7609571+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:58:38.8765785+00:00",
-  "LastUpdate_Achievements": "2023-05-30T10:05:32.775614+00:00"
+  "LastUpdate_Ratings": "2023-05-30T10:58:34.3825622+00:00",
+  "LastUpdate_Achievements": "2023-05-30T11:05:22.7610058+00:00"
 }

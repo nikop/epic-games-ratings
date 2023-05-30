@@ -16,9 +16,9 @@ Rating: 4.65 (Ranked 293)
 | Fully Decked Out | 36.00% | ~2,321 |
 | You Only Live Twice | 32.00% | ~2,063 |
 | A view to Win | 28.00% | ~1,805 |
+| Smells Like Trouble | 26.00% | ~1,676 |
 | Private Collection | 25.00% | ~1,612 |
 | Hostile Takeover | 25.00% | ~1,612 |
-| Smells Like Trouble | 25.00% | ~1,612 |
 | Assistant Accountant | 24.00% | ~1,548 |
 | Dr. No Kill | 24.00% | ~1,548 |
 | The Living Portrait | 24.00% | ~1,548 |

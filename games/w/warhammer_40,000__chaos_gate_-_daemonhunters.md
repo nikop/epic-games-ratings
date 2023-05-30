@@ -45,7 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 1.00% | ~28 |
 | Hands-On Research | 1.00% | ~28 |
 | Only in Death | 1.00% | ~28 |
-| Exercise in Restraint | 0.80% | ~22 |
+| Exercise in Restraint | 0.90% | ~25 |
 | True Mastery | 0.60% | ~17 |
 | The Flesh is Weak | 0.50% | ~14 |
 | Warp Flickers | 0.50% | ~14 |

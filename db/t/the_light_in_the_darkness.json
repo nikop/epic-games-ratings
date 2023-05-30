@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1485,
+  "EOS_Progressed": 1486,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.95,
+  "EOS_Completed_Percentage": 7.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1953,6 +1953,11 @@
       "Time": "2023-05-30T10:05:22.3089492+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-05-30T11:05:11.9045598+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 12,
@@ -2028,7 +2033,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2044,7 +2049,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Nuremberg Laws",
@@ -2059,7 +2064,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1485,
+      "Progressed": 1486,
       "Completed": 118
     }
   ],
@@ -2067,8 +2072,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-30T10:05:22.3089485+00:00",
+  "LastChanged_Achievements": "2023-05-30T11:05:11.904559+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-30T09:59:11.1757041+00:00",
-  "LastUpdate_Achievements": "2023-05-30T10:05:22.3089698+00:00"
+  "LastUpdate_Ratings": "2023-05-30T10:59:07.1375094+00:00",
+  "LastUpdate_Achievements": "2023-05-30T11:05:11.9045925+00:00"
 }

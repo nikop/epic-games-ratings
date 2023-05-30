@@ -6,21 +6,21 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 39.00% | ~23,435 |
-| Final touch | 38.00% | ~22,835 |
-| Prop-M Rover | 34.00% | ~20,431 |
-| Changing the Planet | 30.00% | ~18,027 |
-| Sojourner | 28.00% | ~16,825 |
-| New Home | 25.00% | ~15,023 |
-| Beagle 2 | 25.00% | ~15,023 |
-| Winner Winner Terraformer | 24.00% | ~14,422 |
-| Project Manager | 21.00% | ~12,619 |
-| Curiosity | 21.00% | ~12,619 |
-| Collector | 21.00% | ~12,619 |
-| No Longer Red | 20.00% | ~12,018 |
-| Self-sufficient | 20.00% | ~12,018 |
-| Master | 20.00% | ~12,018 |
-| Money money | 17.00% | ~10,215 |
+| It's a steal! | 39.00% | ~23,437 |
+| Final touch | 38.00% | ~22,836 |
+| Prop-M Rover | 34.00% | ~20,432 |
+| Changing the Planet | 30.00% | ~18,028 |
+| Sojourner | 28.00% | ~16,827 |
+| New Home | 25.00% | ~15,024 |
+| Beagle 2 | 25.00% | ~15,024 |
+| Winner Winner Terraformer | 24.00% | ~14,423 |
+| Project Manager | 21.00% | ~12,620 |
+| Curiosity | 21.00% | ~12,620 |
+| Collector | 21.00% | ~12,620 |
+| No Longer Red | 20.00% | ~12,019 |
+| Self-sufficient | 20.00% | ~12,019 |
+| Master | 20.00% | ~12,019 |
+| Money money | 17.00% | ~10,216 |
 | Biggest Reward | 15.00% | ~9,014 |
 | Acquired knowledge | 14.00% | ~8,413 |
 | Hellenic Elysium | 13.00% | ~7,812 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Grand champion | 12.00% | ~7,211 |
 | Spirit | 11.00% | ~6,610 |
 | Ultimate success | 11.00% | ~6,610 |
-| Variety Expert | 10.00% | ~6,009 |
-| Frequent tester | 9.00% | ~5,408 |
-| Determined | 8.00% | ~4,807 |
+| Variety Expert | 10.00% | ~6,010 |
+| Frequent tester | 9.00% | ~5,409 |
+| Determined | 8.00% | ~4,808 |
 | Terraformer | 5.00% | ~3,005 |
 | Team Effort | 3.00% | ~1,803 |
 | Opportunity | 3.00% | ~1,803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,091 (Ranked 71)  
+Progressed: 60,095 (Ranked 71)  
 Completed: 64 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 64 (0.11%) (Ranked 157)
 | 2023-05-27 | 59,571 | 64 |
 | 2023-05-28 | 59,824 | 64 |
 | 2023-05-29 | 60,032 | 64 |
-| 2023-05-30 | 60,091 | 64 |
+| 2023-05-30 | 60,095 | 64 |
 ## Awards
 Max (Relaxing): 498  (Ranked 186)  
 Sum: 3,067 (Ranked 149)  

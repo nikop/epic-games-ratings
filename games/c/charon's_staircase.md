@@ -18,8 +18,8 @@
 | Second document retrieved | 27.00% | ~19 |
 | Third document retrieved | 27.00% | ~19 |
 | Deadly chase | 27.00% | ~19 |
+| Dara's home | 27.00% | ~19 |
 | The lowest floor of the lift | 26.00% | ~18 |
-| Dara's home | 26.00% | ~18 |
 | Charon's coin | 24.00% | ~17 |
 | Until death do us part | 20.00% | ~14 |
 | The impatient one | 17.00% | ~12 |

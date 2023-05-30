@@ -6,37 +6,37 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,683,764 |
-| Easy to forget | 46.00% | ~1,613,607 |
-| Back in the black | 38.00% | ~1,332,980 |
-| That's what I'm talking about | 28.00% | ~982,196 |
-| The Best of Both Worlds | 24.00% | ~841,882 |
-| Get your wings | 20.00% | ~701,568 |
-| Double trouble | 15.00% | ~526,176 |
-| Smashing it | 10.00% | ~350,784 |
-| But can it run Crysis? | 9.00% | ~315,706 |
-| My favourite feature... | 9.00% | ~315,706 |
-| From humble beginnings... | 7.00% | ~245,549 |
-| Customer satisfaction | 7.00% | ~245,549 |
-| Keeping things neat | 4.00% | ~140,314 |
-| Seems you're pretty good at this | 4.00% | ~140,314 |
-| Triple threat | 3.00% | ~105,235 |
-| You rock at this! | 3.00% | ~105,235 |
-| Your music sucks | 3.00% | ~105,235 |
-| Bending over backwards | 3.00% | ~105,235 |
+| You need to plug it in... | 48.00% | ~1,683,776 |
+| Easy to forget | 46.00% | ~1,613,619 |
+| Back in the black | 38.00% | ~1,332,989 |
+| That's what I'm talking about | 28.00% | ~982,203 |
+| The Best of Both Worlds | 24.00% | ~841,888 |
+| Get your wings | 20.00% | ~701,573 |
+| Double trouble | 15.00% | ~526,180 |
+| Smashing it | 10.00% | ~350,787 |
+| But can it run Crysis? | 9.00% | ~315,708 |
+| My favourite feature... | 9.00% | ~315,708 |
+| From humble beginnings... | 7.00% | ~245,551 |
+| Customer satisfaction | 7.00% | ~245,551 |
+| Keeping things neat | 4.00% | ~140,315 |
+| Seems you're pretty good at this | 4.00% | ~140,315 |
+| Triple threat | 3.00% | ~105,236 |
+| You rock at this! | 3.00% | ~105,236 |
+| Your music sucks | 3.00% | ~105,236 |
+| Bending over backwards | 3.00% | ~105,236 |
 | I'm broke, Uncle! | 2.00% | ~70,157 |
 | Maybe you should try something else? | 2.00% | ~70,157 |
 | Taking care of business | 2.00% | ~70,157 |
 | Perfection | 2.00% | ~70,157 |
 | Calling in Sick | 2.00% | ~70,157 |
-| Overvolted | 1.00% | ~35,078 |
-| If you fail the first time... | 1.00% | ~35,078 |
-| Amazonian | 1.00% | ~35,078 |
-| Things are under control | 1.00% | ~35,078 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,078 |
-| Building isn't cheap! | 1.00% | ~35,078 |
-| Majority Shareholder | 1.00% | ~35,078 |
-| Owner | 1.00% | ~35,078 |
+| Overvolted | 1.00% | ~35,079 |
+| If you fail the first time... | 1.00% | ~35,079 |
+| Amazonian | 1.00% | ~35,079 |
+| Things are under control | 1.00% | ~35,079 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,079 |
+| Building isn't cheap! | 1.00% | ~35,079 |
+| Majority Shareholder | 1.00% | ~35,079 |
+| Owner | 1.00% | ~35,079 |
 | Show off | 0.90% | ~31,571 |
 | Work ethic 101 | 0.60% | ~21,047 |
 | Building momentum | 0.60% | ~21,047 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,508 |
 | Treat yourself - GPU | 0.10% | ~3,508 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,507,842 (Ranked 4)  
+Progressed: 3,507,867 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,10 +99,10 @@ Completed: 23 (0.00%) (Ranked 207)
 | 2023-05-27 | 3,506,149 | 23 |
 | 2023-05-28 | 3,506,922 | 23 |
 | 2023-05-29 | 3,507,626 | 23 |
-| 2023-05-30 | 3,507,842 | 23 |
+| 2023-05-30 | 3,507,867 | 23 |
 ## Awards
 Max (Great for Beginners): 1,043  (Ranked 133)  
-Sum: 7,782 (Ranked 94)  
+Sum: 7,783 (Ranked 94)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -111,7 +111,7 @@ Diff (max vs sum): 39
 | This game is Educational | 964 |
 | This game is Extremely Fun | 960 |
 | This game has Quickly Understood Controls | 926 |
-| This game is Highly Recommended | 868 |
+| This game is Highly Recommended | 869 |
 | This game has Amazing Storytelling | 793 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 637 |
@@ -232,3 +232,4 @@ Diff (max vs sum): 39
 | 2023-05-27 | 4.66 | - | 1,043 | 7,779 |
 | 2023-05-28 | 4.66 | - | 1,043 | 7,780 |
 | 2023-05-29 | 4.66 | - | 1,043 | 7,782 |
+| 2023-05-30 | 4.66 | - | 1,043 | 7,783 |
