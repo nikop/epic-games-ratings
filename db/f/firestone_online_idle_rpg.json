@@ -104,7 +104,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1221,
+  "EOS_Progressed": 1222,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -2374,6 +2374,11 @@
       "Time": "2023-05-30T02:13:54.0151747+00:00",
       "NumProgressed": 1221,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-30T06:06:19.6606695+00:00",
+      "NumProgressed": 1222,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2449,7 +2454,7 @@
       "Name": "Challenger",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "conqueror",
@@ -2489,7 +2494,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "dragonmaster",
@@ -2569,7 +2574,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "fourleafclover",
@@ -2721,7 +2726,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "missionsdedication",
@@ -2777,7 +2782,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "prestigiousx10",
@@ -2785,7 +2790,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "relicofthepast",
@@ -2817,7 +2822,7 @@
       "Name": "Scroll Master",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "silverwoodliberator",
@@ -2881,7 +2886,7 @@
       "Name": "The power of Awakening",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "theunstoppable",
@@ -2945,7 +2950,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "warmachinesarmy",
@@ -2977,14 +2982,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1221,
+      "Progressed": 1222,
       "Completed": 1
     }
   ],
@@ -2992,8 +2997,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:06:06.0029648+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:06:19.6606688+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T04:58:03.6057294+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:06:06.0030684+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:58:00.2858301+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:06:19.6607595+00:00"
 }

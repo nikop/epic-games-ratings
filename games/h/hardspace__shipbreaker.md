@@ -23,8 +23,8 @@ Number of Ratings: 36  (23.09.2022)
 | A successful procedure! | 17.00% | ~115 |
 | Bing Bang BOOM | 17.00% | ~115 |
 | Breaking the Ice | 15.00% | ~102 |
-| Solidarity Forever | 11.00% | ~75 |
-| A Tucked Tale | 9.00% | ~61 |
+| Solidarity Forever | 12.00% | ~81 |
+| A Tucked Tale | 10.00% | ~68 |
 | The best thing money can buy | 9.00% | ~61 |
 | Act III Complete | 5.00% | ~34 |
 | Fire and Brimstone | 5.00% | ~34 |

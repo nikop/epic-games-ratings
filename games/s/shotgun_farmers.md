@@ -27,8 +27,8 @@
 | Skin Of Your Teeth | 8.00% | ~5 |
 | Quit Horsin' Around | 8.00% | ~5 |
 | 10K | 8.00% | ~5 |
+| Master Survivor | 8.00% | ~1 |
 | Perfect | 6.00% | ~1 |
-| Master Survivor | 6.00% | ~1 |
 | Summers Here | 6.00% | ~1 |
 | This Is My Boomstick | 5.00% | ~1 |
 | Easy Peasy | 5.00% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 291)  
+Progressed: 66 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

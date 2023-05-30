@@ -7,14 +7,14 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,389 |
-| Man of politics | 36.00% | ~4,619 |
+| Man of politics | 36.00% | ~4,620 |
 | Yet another secret | 35.00% | ~4,491 |
 | Friends of sorts | 34.00% | ~4,363 |
-| Let there be darkness | 33.00% | ~4,234 |
+| Let there be darkness | 33.00% | ~4,235 |
 | End of Book One | 31.00% | ~3,978 |
 | Garden of Eden | 25.00% | ~3,208 |
-| Wannabe knight | 24.00% | ~3,079 |
-| Full house | 24.00% | ~3,079 |
+| Wannabe knight | 24.00% | ~3,080 |
+| Full house | 24.00% | ~3,080 |
 | Help an old friend | 22.00% | ~2,823 |
 | Two of us | 20.00% | ~2,566 |
 | Negotiation skills | 19.00% | ~2,438 |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~1,796 |
 | Exterminator | 14.00% | ~1,796 |
 | Whodunnit | 13.00% | ~1,668 |
-| Good midwife | 11.00% | ~1,411 |
-| Friar Tuck | 11.00% | ~1,411 |
-| First profit | 11.00% | ~1,411 |
+| Good midwife | 11.00% | ~1,412 |
+| Friar Tuck | 11.00% | ~1,412 |
+| First profit | 11.00% | ~1,412 |
 | Skilled merchant | 10.00% | ~1,283 |
 | Team player | 10.00% | ~1,283 |
 | Nothing but make-believe | 9.00% | ~1,155 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,155 |
 | The truth revealed | 9.00% | ~1,155 |
 | The End. | 9.00% | ~1,155 |
-| A cry for help | 8.00% | ~1,026 |
+| A cry for help | 8.00% | ~1,027 |
 | Silentium est aureum | 7.00% | ~898 |
 | Rebel without a cause | 6.00% | ~770 |
 | Staring contest champion | 5.00% | ~642 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~385 |
 | Boy of mystery | 2.00% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,831 (Ranked 104)  
+Progressed: 12,832 (Ranked 104)  
 Completed: 95 (0.74%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 95 (0.74%) (Ranked 99)
 | 2023-05-27 | 12,759 | 94 |
 | 2023-05-28 | 12,801 | 95 |
 | 2023-05-29 | 12,827 | 95 |
-| 2023-05-30 | 12,831 | 95 |
+| 2023-05-30 | 12,832 | 95 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 354)  

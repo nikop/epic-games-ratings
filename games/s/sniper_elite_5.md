@@ -18,9 +18,9 @@ Rating: 4.43 (Ranked 642)
 | Just a Flesh Wound | 6.00% | ~111 |
 | Explosive Efficiency | 6.00% | ~111 |
 | As Quiet as a Mouse | 6.00% | ~111 |
+| Target America | 6.00% | ~111 |
 | Gunslinger | 5.00% | ~93 |
 | Sharpshooter | 5.00% | ~93 |
-| Target America | 5.00% | ~93 |
 | Liberté | 4.00% | ~74 |
 | Opposing Force | 4.00% | ~74 |
 | Fields of Glory | 4.00% | ~74 |

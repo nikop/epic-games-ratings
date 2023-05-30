@@ -7,8 +7,8 @@ Rating: 4.56 (Ranked 451)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 11.00% | ~251 |
 | Sputnik 2049 | 10.00% | ~228 |
-| Without Breaking Some Eggs... | 9.00% | ~205 |
-| Infinite Growth... | 9.00% | ~205 |
+| Without Breaking Some Eggs... | 9.00% | ~206 |
+| Infinite Growth... | 9.00% | ~206 |
 | Ready for a New World | 6.00% | ~137 |
 | Space Society | 5.00% | ~114 |
 | A Thousand Strong | 5.00% | ~114 |
@@ -18,9 +18,9 @@ Rating: 4.56 (Ranked 451)
 | Ain't Nobody Got Time for That | 4.00% | ~91 |
 | The Ship of Theseus | 4.00% | ~91 |
 | Hope Seeker | 4.00% | ~91 |
-| A Hunk of Junk | 3.00% | ~68 |
-| Fully Recycled | 3.00% | ~68 |
-| Please Make it Stop! | 3.00% | ~68 |
+| A Hunk of Junk | 3.00% | ~69 |
+| Fully Recycled | 3.00% | ~69 |
+| Please Make it Stop! | 3.00% | ~69 |
 | Man's Best Friend | 2.00% | ~46 |
 | Sightseeing | 2.00% | ~46 |
 | Exceeding Capacity | 2.00% | ~46 |
@@ -48,9 +48,9 @@ Rating: 4.56 (Ranked 451)
 | Gregor Spinoza | 0.40% | ~9 |
 | Tiqqun Unchained | 0.40% | ~9 |
 | Help of the Forgotten Member | 0.40% | ~9 |
+| Better Him Than Me | 0.30% | ~7 |
 | Tiqqun Contender | 0.30% | ~7 |
 | Scientifically Accurate | 0.30% | ~7 |
-| Better Him Than Me | 0.20% | ~5 |
 | Remember the Dead | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,283 (Ranked 144)  
+Progressed: 2,284 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 2,211 | 0 |
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
-| 2023-05-30 | 2,283 | 0 |
+| 2023-05-30 | 2,284 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

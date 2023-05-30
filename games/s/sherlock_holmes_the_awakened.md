@@ -7,8 +7,8 @@
 | Read Between The Lines | 60.00% | ~191 |
 | To Hell In A Handcart | 60.00% | ~191 |
 | High Profile | 52.00% | ~165 |
-| Whispers In The Dark | 50.00% | ~159 |
-| Fond Memories | 45.00% | ~143 |
+| Whispers In The Dark | 51.00% | ~162 |
+| Fond Memories | 46.00% | ~146 |
 | A Method To His Madness | 45.00% | ~143 |
 | History Check | 44.00% | ~140 |
 | Lock, Stock, And Barrel | 41.00% | ~130 |

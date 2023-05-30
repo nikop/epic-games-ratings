@@ -24,6 +24,7 @@ Number of Ratings: 87  (23.09.2022)
 | Get out my way | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
 | Multilevel road | 3.00% | ~22 |
+| One way | 3.00% | ~22 |
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~22 |
@@ -34,7 +35,6 @@ Number of Ratings: 87  (23.09.2022)
 | Industrial Age | 2.00% | ~14 |
 | Jewelry accuracy | 2.00% | ~14 |
 | Living it large | 2.00% | ~14 |
-| One way | 2.00% | ~14 |
 | Overseer | 2.00% | ~14 |
 | Relocation | 2.00% | ~14 |
 | Squander | 2.00% | ~14 |

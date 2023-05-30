@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 564,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -388,6 +388,11 @@
       "Time": "2023-05-30T02:14:07.1515253+00:00",
       "NumProgressed": 563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T06:06:31.4707229+00:00",
+      "NumProgressed": 564,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -471,7 +476,7 @@
       "Name": "Weeper",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -485,9 +490,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 28
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -615,7 +620,7 @@
       "Name": "Imprint",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -734,21 +739,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 564,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:06:17.6523479+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:06:31.4707224+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:00:37.360948+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:06:17.6523859+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:00:36.7141743+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:06:31.470759+00:00"
 }

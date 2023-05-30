@@ -10,11 +10,11 @@
 | Onwards and Upwards | 19.00% | ~11 |
 | Like Phileas Fogg | 14.00% | ~8 |
 | Serial Winner | 10.00% | ~6 |
+| No Room for Improvement | 7.00% | ~4 |
 | Start Your Engines | 7.00% | ~4 |
 | Seven-League Boots | 5.00% | ~3 |
 | Nerd | 5.00% | ~3 |
 | Highly Qualified | 5.00% | ~3 |
-| No Room for Improvement | 5.00% | ~3 |
 | Upgradeaholic | 5.00% | ~3 |
 | Tailor-Made for Two | 5.00% | ~3 |
 | Lone Wolf | 5.00% | ~3 |

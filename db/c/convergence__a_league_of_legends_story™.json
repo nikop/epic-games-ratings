@@ -674,9 +674,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "ChestCompletion1",
@@ -914,9 +914,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 272
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1002,9 +1002,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "SyronGift",
@@ -1089,8 +1089,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:05:04.2565737+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:05:16.0479341+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-30T04:59:34.6026397+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:05:04.2566242+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:59:30.805011+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:05:16.0479836+00:00"
 }

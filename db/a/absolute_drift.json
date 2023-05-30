@@ -430,7 +430,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519642,
+  "EOS_Progressed": 1519647,
   "EOS_Completed": 616,
   "EOS_NewPlayers": 1607,
   "EOS_NewCompleters": 6,
@@ -4440,6 +4440,11 @@
       "Time": "2023-05-30T05:03:43.2117797+00:00",
       "NumProgressed": 1519642,
       "NumCompleted": 616
+    },
+    {
+      "Time": "2023-05-30T06:03:46.6237717+00:00",
+      "NumProgressed": 1519647,
+      "NumCompleted": 616
     }
   ],
   "TotalAchievements": 20,
@@ -4515,7 +4520,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10637
+      "UsersEstimate": 10638
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -4547,7 +4552,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151964
+      "UsersEstimate": 151965
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -4563,7 +4568,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121571
+      "UsersEstimate": 121572
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -4610,15 +4615,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1519642,
+      "Progressed": 1519647,
       "Completed": 616
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:03:43.211779+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:03:46.6237709+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:27.6569582+00:00",
-  "LastUpdate_Ratings": "2023-05-30T05:00:13.9160646+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:03:43.2118444+00:00"
+  "LastUpdate_Ratings": "2023-05-30T06:00:11.7879982+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:03:46.6238128+00:00"
 }

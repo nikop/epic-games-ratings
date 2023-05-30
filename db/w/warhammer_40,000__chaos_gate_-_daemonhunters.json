@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2768,
+  "EOS_Progressed": 2769,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1312,6 +1312,11 @@
       "Time": "2023-05-30T05:06:16.4044767+00:00",
       "NumProgressed": 2768,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T06:06:30.2246107+00:00",
+      "NumProgressed": 2769,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1411,7 +1416,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1571,7 +1576,7 @@
       "Name": "An Ill Omen",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1651,7 +1656,7 @@
       "Name": "Efficient Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1794,21 +1799,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2768,
+      "Progressed": 2769,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2768,
+      "Progressed": 2769,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:06:16.4044761+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:06:30.2246099+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T04:58:42.9848172+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:06:16.4045407+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:58:39.1920104+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:06:30.2246665+00:00"
 }

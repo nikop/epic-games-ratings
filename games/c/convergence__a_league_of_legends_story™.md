@@ -10,7 +10,7 @@
 | Immaculate Aim | 64.00% | ~329 |
 | The Brass Boss | 55.00% | ~283 |
 | Honest Mistake | 54.00% | ~278 |
-| No, Thanks! | 52.00% | ~267 |
+| No, Thanks! | 53.00% | ~272 |
 | Time Flies | 51.00% | ~262 |
 | The Prince in Heels | 50.00% | ~257 |
 | The Harder They Fall | 48.00% | ~247 |
@@ -32,10 +32,10 @@
 | Whiz Kid | 21.00% | ~108 |
 | The Family Fortune | 21.00% | ~108 |
 | The Man Who Shattered Time | 20.00% | ~103 |
+| Sump Explorer | 20.00% | ~103 |
 | Ask Questions Later | 20.00% | ~103 |
-| Sump Explorer | 19.00% | ~98 |
+| Chaincrawler Explorer | 19.00% | ~98 |
 | Syron for Hope | 19.00% | ~98 |
-| Chaincrawler Explorer | 18.00% | ~93 |
 | Factorywood Explorer | 18.00% | ~93 |
 | Fairgrounds Explorer | 17.00% | ~87 |
 | Theater Explorer | 14.00% | ~72 |

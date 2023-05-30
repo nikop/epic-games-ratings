@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -387,6 +387,11 @@
       "Time": "2023-05-30T00:06:54.4134688+00:00",
       "NumProgressed": 204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T06:06:28.0013176+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -612,9 +617,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "FAITH_2",
@@ -724,9 +729,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -830,7 +835,7 @@
       "Name": "Small town",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "POPULATION_2",
@@ -916,9 +921,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "SPORTS_2",
@@ -1029,7 +1034,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 0
     }
   ],
@@ -1037,8 +1042,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:06:14.1520195+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:06:28.001317+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-05-30T04:58:54.7925104+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:06:14.1521196+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:58:51.7472555+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:06:28.0013975+00:00"
 }

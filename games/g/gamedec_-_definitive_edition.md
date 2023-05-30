@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,041 |
-| Powergamer | 27.00% | ~61,754 |
-| Barely scratched the surface | 25.00% | ~57,180 |
-| Write that down | 24.00% | ~54,893 |
-| Guns, lots of guns | 12.00% | ~27,446 |
-| Collector | 11.00% | ~25,159 |
+| I will finish what you started | 28.00% | ~64,043 |
+| Powergamer | 27.00% | ~61,755 |
+| Barely scratched the surface | 25.00% | ~57,181 |
+| Write that down | 24.00% | ~54,894 |
+| Guns, lots of guns | 12.00% | ~27,447 |
+| Collector | 11.00% | ~25,160 |
 | Elementary! | 8.00% | ~18,298 |
 | Pumpkin Jack | 8.00% | ~18,298 |
 | Wake up! | 8.00% | ~18,298 |
-| It's honest work | 7.00% | ~16,010 |
-| Griever | 7.00% | ~16,010 |
+| It's honest work | 7.00% | ~16,011 |
+| Griever | 7.00% | ~16,011 |
 | Me smart | 6.00% | ~13,723 |
 | Good listener | 5.00% | ~11,436 |
 | Trash compactor | 5.00% | ~11,436 |
@@ -41,8 +41,8 @@ Number of Ratings: 33  (23.09.2022)
 | Random encounter | 1.00% | ~2,287 |
 | SysOp on duty | 1.00% | ~2,287 |
 | Take the blue pill | 1.00% | ~2,287 |
-| A true blacksmith | 0.90% | ~2,058 |
-| The power of three | 0.90% | ~2,058 |
+| A true blacksmith | 0.90% | ~2,059 |
+| The power of three | 0.90% | ~2,059 |
 | Let's try another | 0.80% | ~1,830 |
 | Home run | 0.80% | ~1,830 |
 | It's blue, always blue | 0.70% | ~1,601 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~457 |
 | Memory 5 | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,719 (Ranked 43)  
+Progressed: 228,724 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 5 (0.00%) (Ranked 207)
 | 2023-05-27 | 228,164 | 5 |
 | 2023-05-28 | 228,451 | 5 |
 | 2023-05-29 | 228,672 | 5 |
-| 2023-05-30 | 228,719 | 5 |
+| 2023-05-30 | 228,724 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 359)  
 Sum: 73 (Ranked 416)  

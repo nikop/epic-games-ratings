@@ -2,7 +2,7 @@
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
   "ProductSlug": "prehistoric-kingdom",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 558,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 425,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 40,
   "RatingHistory": [
     {
@@ -163,6 +163,12 @@
     {
       "Time": "2023-05-22T04:58:18.5217367+00:00",
       "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-30T05:58:20.0734589+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -367,9 +373,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.9430282+00:00",
-  "LastChanged": "2023-05-22T04:58:18.5217366+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:05:45.0524348+00:00",
+  "LastChanged": "2023-05-30T05:58:20.0734588+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:05:58.0406299+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:04.0947355+00:00",
-  "LastUpdate_Ratings": "2023-05-30T04:58:24.2085027+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:05:45.0524488+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:58:20.0734593+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:05:58.0406445+00:00"
 }

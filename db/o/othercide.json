@@ -2,7 +2,7 @@
   "ID": "325bbb62ea0d490793fd3d274ea74818",
   "Name": "Othercide",
   "ProductSlug": "othercide-19bfa0",
-  "Ranking_Rating": 664,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 425,
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.39,
   "NumberOfRatings": 40,
   "RatingHistory": [
     {
@@ -181,6 +181,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-30T05:58:54.5731324+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -206,9 +212,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:43.6994898+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.6694223+00:00",
-  "LastChanged": "2023-04-02T23:57:30.1297342+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:05:40.3553796+00:00",
+  "LastChanged": "2023-05-30T05:58:54.5731323+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:05:53.1586078+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:30.309959+00:00",
-  "LastUpdate_Ratings": "2023-05-30T04:58:57.7258526+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:05:40.3553827+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:58:54.5731328+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:05:53.1586105+00:00"
 }

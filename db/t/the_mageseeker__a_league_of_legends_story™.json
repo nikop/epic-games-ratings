@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -2239,9 +2239,9 @@
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2041
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2488,8 +2488,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-30T05:05:59.7519414+00:00",
+  "LastChanged_Achievements": "2023-05-30T06:06:13.050417+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T04:57:38.1963391+00:00",
-  "LastUpdate_Achievements": "2023-05-30T05:05:59.7520215+00:00"
+  "LastUpdate_Ratings": "2023-05-30T05:57:34.5035722+00:00",
+  "LastUpdate_Achievements": "2023-05-30T06:06:13.0504778+00:00"
 }
