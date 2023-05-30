@@ -21,9 +21,9 @@
 | 18 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.94% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.88% |
+| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
-| 24 | [Scorn](games/s/scorn.md) | 6.89% |
+| 24 | [Scorn](games/s/scorn.md) | 6.88% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -34,7 +34,7 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.12% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.94% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
@@ -144,10 +144,10 @@
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 143 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
 | 144 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
-| 145 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 146 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
-| 146 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 146 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 145 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
+| 145 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.16% |
+| 145 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 145 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 149 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 149 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 151 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
@@ -423,4 +423,4 @@
 | 207 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 207 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 207 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,696 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,697 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
