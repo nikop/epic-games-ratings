@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.34 (Ranked 729)  
+Rating: 4.34 (Ranked 728)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,9 +28,9 @@ Number of Ratings: 38  (23.09.2022)
 | Treasure Hunter | 16.00% | ~35 |
 | Mythical Smelter | 11.00% | ~24 |
 | Blacksmith | 10.00% | ~22 |
+| Forest Lord | 9.00% | ~20 |
 | Fuel | 9.00% | ~20 |
 | Master Of Management | 8.00% | ~18 |
-| Forest Lord | 8.00% | ~18 |
 | Smelting Master | 8.00% | ~18 |
 | Black Gold | 7.00% | ~15 |
 | Survival Master | 4.00% | ~9 |

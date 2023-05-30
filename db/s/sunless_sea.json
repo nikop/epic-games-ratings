@@ -655,9 +655,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 30232,
+  "EOS_Progressed": 30235,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4415,6 +4415,11 @@
       "Time": "2023-05-29T23:02:19.3717037+00:00",
       "NumProgressed": 30232,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-30T00:02:22.2220569+00:00",
+      "NumProgressed": 30235,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -4442,7 +4447,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "ach_antiquarian10",
@@ -4546,7 +4551,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10884
+      "UsersEstimate": 10885
     },
     {
       "ID": "ach_die10",
@@ -4634,7 +4639,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "ach_legacysalvager",
@@ -4857,15 +4862,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 30232,
+      "Progressed": 30235,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-27T21:59:24.6396174+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:02:19.3717032+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:02:22.2220565+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:05.2746817+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:00:04.5906797+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:02:19.371759+00:00"
+  "LastUpdate_Ratings": "2023-05-30T00:00:19.378429+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:02:22.2221323+00:00"
 }

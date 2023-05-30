@@ -11,14 +11,27 @@
 | Wannabe | 7.00% | ~8 |
 | First taste | 6.00% | ~6 |
 | Amateur hitchhiker | 6.00% | ~6 |
+| Loyalty | 2.00% | ~2 |
+| Hero | 2.00% | ~2 |
+| Drama queen | 2.00% | ~2 |
 | Mr. Whiting | 2.00% | ~2 |
+| Hattrick | 2.00% | ~2 |
 | Tutorial master | 2.00% | ~2 |
-| Loyalty | 0.90% | ~1 |
-| Hero | 0.90% | ~1 |
-| Drama queen | 0.90% | ~1 |
+| Weatherman | 2.00% | ~2 |
+| Amateur newbie | 0.90% | ~1 |
+| Pro newbie | 0.90% | ~1 |
+| Monster Amateur car | 0.90% | ~1 |
+| Pro hitchhiker | 0.90% | ~1 |
+| Amateur wannabe | 0.90% | ~1 |
+| Knockout Amateur | 0.90% | ~1 |
+| No brakes Amateur | 0.90% | ~1 |
+| First Amateur taste | 0.90% | ~1 |
+| Addict | 0.90% | ~1 |
 | Shepherd | 0.90% | ~1 |
-| Hattrick | 0.90% | ~1 |
-| Weatherman | 0.90% | ~1 |
+| Amateur hattrick | 0.90% | ~1 |
+| Untouchable | 0.90% | ~1 |
+| Amateur photo shoot | 0.90% | ~1 |
+| On the top | 0.90% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -26,15 +39,11 @@
 | Cheater | 0.00% | ~0 |
 | Master photo shoot | 0.00% | ~0 |
 | Elite photo shoot | 0.00% | ~0 |
-| Amateur newbie | 0.00% | ~0 |
-| Pro newbie | 0.00% | ~0 |
 | Master newbie | 0.00% | ~0 |
 | Elite newbie | 0.00% | ~0 |
-| Monster Amateur car | 0.00% | ~0 |
 | Monster Pro car | 0.00% | ~0 |
 | Monster Master car | 0.00% | ~0 |
 | Monster Elite car | 0.00% | ~0 |
-| Pro hitchhiker | 0.00% | ~0 |
 | Master hitchhiker | 0.00% | ~0 |
 | Elite hitchhiker | 0.00% | ~0 |
 | Amateur champion | 0.00% | ~0 |
@@ -49,7 +58,6 @@
 | Berserk Elite | 0.00% | ~0 |
 | Amateur executor | 0.00% | ~0 |
 | Pro executor | 0.00% | ~0 |
-| Amateur wannabe | 0.00% | ~0 |
 | Master executor | 0.00% | ~0 |
 | Elite executor | 0.00% | ~0 |
 | Amateur storm | 0.00% | ~0 |
@@ -67,13 +75,11 @@
 | Master wannabe | 0.00% | ~0 |
 | Endurance Elite | 0.00% | ~0 |
 | Favorite team | 0.00% | ~0 |
-| Knockout Amateur | 0.00% | ~0 |
 | Knockout Pro | 0.00% | ~0 |
 | Knockout Master | 0.00% | ~0 |
 | Knockout Elite | 0.00% | ~0 |
 | Elite wannabe | 0.00% | ~0 |
 | Relay | 0.00% | ~0 |
-| No brakes Amateur | 0.00% | ~0 |
 | No brakes Pro | 0.00% | ~0 |
 | Grand Chelem | 0.00% | ~0 |
 | Amateur Grand Chelem | 0.00% | ~0 |
@@ -88,13 +94,11 @@
 | Record breaker | 0.00% | ~0 |
 | Ladder climber | 0.00% | ~0 |
 | All over the place | 0.00% | ~0 |
-| First Amateur taste | 0.00% | ~0 |
 | No brakes Elite | 0.00% | ~0 |
 | Consistency | 0.00% | ~0 |
 | Giant killer | 0.00% | ~0 |
 | Tried and tested | 0.00% | ~0 |
 | Elit1st | 0.00% | ~0 |
-| Addict | 0.00% | ~0 |
 | Just don't scratch it | 0.00% | ~0 |
 | Reliability expert | 0.00% | ~0 |
 | Zero to hero | 0.00% | ~0 |
@@ -112,7 +116,6 @@
 | Pro top pit crew | 0.00% | ~0 |
 | Master top pit crew | 0.00% | ~0 |
 | Recovery expert | 0.00% | ~0 |
-| Amateur hattrick | 0.00% | ~0 |
 | Elite blue flag wonder | 0.00% | ~0 |
 | Master blue flag wonder | 0.00% | ~0 |
 | Pro blue flag wonder | 0.00% | ~0 |
@@ -153,13 +156,10 @@
 | Pro god | 0.00% | ~0 |
 | Master god | 0.00% | ~0 |
 | Elite god | 0.00% | ~0 |
-| Untouchable | 0.00% | ~0 |
 | Untouchable Amateur | 0.00% | ~0 |
 | Untouchable Pro | 0.00% | ~0 |
 | Untouchable Master | 0.00% | ~0 |
-| Amateur photo shoot | 0.00% | ~0 |
 | Untouchable Elite | 0.00% | ~0 |
-| On the top | 0.00% | ~0 |
 | Top Amateur | 0.00% | ~0 |
 | Top Pro | 0.00% | ~0 |
 | Top Master | 0.00% | ~0 |

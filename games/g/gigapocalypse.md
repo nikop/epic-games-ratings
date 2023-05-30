@@ -28,8 +28,8 @@
 | Godlike Power | 29.00% | ~37 |
 | Happy Little Home | 29.00% | ~37 |
 | Final Evolution | 28.00% | ~36 |
+| Animal Lover | 26.00% | ~34 |
 | You Shall Not Pass | 25.00% | ~32 |
-| Animal Lover | 25.00% | ~32 |
 | Undying Skin | 25.00% | ~32 |
 | Fight Me! | 25.00% | ~32 |
 | Supremacy | 25.00% | ~32 |

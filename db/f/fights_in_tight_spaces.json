@@ -2,12 +2,12 @@
   "ID": "2a5eb81d6f384099a5259413ee22baa4",
   "Name": "Fights in Tight Spaces",
   "ProductSlug": "fights-in-tight-spaces",
-  "Ranking_Rating": 294,
+  "Ranking_Rating": 293,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-02-24T18:00:00+00:00",
@@ -173,6 +173,6 @@
   "FirstSeen": "2022-07-22T20:25:17.7163905+00:00",
   "LastChanged": "2023-05-25T04:00:10.3894529+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.0370165+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:00:08.8077798+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:05:20.2376164+00:00"
+  "LastUpdate_Ratings": "2023-05-30T00:00:23.3588191+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:05:34.7889487+00:00"
 }

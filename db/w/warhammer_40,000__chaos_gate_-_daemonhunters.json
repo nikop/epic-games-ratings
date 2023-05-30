@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2765,
+  "EOS_Progressed": 2766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1297,6 +1297,11 @@
       "Time": "2023-05-29T22:05:46.8262338+00:00",
       "NumProgressed": 2765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T00:06:56.9696061+00:00",
+      "NumProgressed": 2766,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1484,7 +1489,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1572,7 +1577,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1580,7 +1585,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1588,7 +1593,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MasterOfTheForge",
@@ -1676,7 +1681,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1779,21 +1784,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2765,
+      "Progressed": 2766,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2765,
+      "Progressed": 2766,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:06:36.6385392+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:06:56.9696057+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-29T22:58:52.805639+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:06:36.6385834+00:00"
+  "LastUpdate_Ratings": "2023-05-29T23:59:08.3258071+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:06:56.969672+00:00"
 }

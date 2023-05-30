@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1842,
+  "EOS_Progressed": 1845,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2023-05-29T23:06:17.4366682+00:00",
       "NumProgressed": 1842,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T00:06:37.0835161+00:00",
+      "NumProgressed": 1845,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2059,7 +2064,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2115,7 +2120,7 @@
       "Name": "Resourceful",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2139,7 +2144,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2227,7 +2232,7 @@
       "Name": "Change the Channel",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2458,13 +2463,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1793,
+      "Progressed": 1796,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1842,
+      "Progressed": 1845,
       "Completed": 2
     }
   ],
@@ -2472,8 +2477,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-29T23:01:12.2037001+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:06:17.436668+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:06:37.0835155+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-29T23:01:12.2037009+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:06:17.4367264+00:00"
+  "LastUpdate_Ratings": "2023-05-30T00:01:29.9264945+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:06:37.0835901+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-05-29T23:01:25.5061275+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-30T00:01:45.1775353+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -58,9 +63,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "adventurous_2",
@@ -178,7 +183,7 @@
       "ID": "conqueror_1",
       "SetID": "53c1p3k",
       "Name": "Conqueror 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -226,9 +231,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 54,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "elemental_stones_2",
@@ -466,7 +471,7 @@
       "ID": "sophisticated_alchemist_1",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -587,13 +592,13 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:01:25.506127+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:01:45.1775348+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-05-29T22:56:51.9836037+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:01:25.5061789+00:00"
+  "LastUpdate_Ratings": "2023-05-29T23:57:03.9578355+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:01:45.1776028+00:00"
 }

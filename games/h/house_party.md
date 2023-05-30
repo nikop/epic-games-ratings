@@ -7,34 +7,34 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 2.00% | ~105 |
-| Smooth Operator: Madison | 1.00% | ~52 |
+| Smooth Operator: Madison | 1.00% | ~53 |
 | Katherine | 0.80% | ~42 |
 | Life Found a Way | 0.80% | ~18 |
 | Relentless | 0.80% | ~42 |
 | If at First You Don't Succeed... | 0.80% | ~42 |
 | The Brahdyssey | 0.70% | ~37 |
-| Caught in the Act | 0.60% | ~31 |
-| Drunk and Disorderly: Stephanie | 0.60% | ~31 |
+| Caught in the Act | 0.60% | ~32 |
+| Drunk and Disorderly: Stephanie | 0.60% | ~32 |
 | Drunk and Disorderly: Ashley | 0.30% | ~16 |
 | IRL Let's Player | 0.30% | ~16 |
 | Inspector | 0.30% | ~16 |
 | The Magic Number | 0.30% | ~16 |
-| Amy | 0.20% | ~10 |
-| Amy: Scavenger Hunt | 0.20% | ~10 |
-| Benedict Brahrnold | 0.20% | ~10 |
-| I'll Be Back | 0.20% | ~10 |
+| Amy | 0.20% | ~11 |
+| Amy: Scavenger Hunt | 0.20% | ~11 |
+| Benedict Brahrnold | 0.20% | ~11 |
+| I'll Be Back | 0.20% | ~11 |
 | It Smells Like Roses | 0.20% | ~5 |
-| Love Conquers All | 0.20% | ~10 |
-| Newcomer: Vickie | 0.20% | ~10 |
-| Rachael | 0.20% | ~10 |
-| Smooth Operator: Ashley | 0.20% | ~10 |
-| Social Butterfly | 0.20% | ~10 |
-| Stephanie | 0.20% | ~10 |
-| The Muse: Madison | 0.20% | ~10 |
-| The Crush | 0.20% | ~10 |
-| Vickie | 0.20% | ~10 |
-| Good Ol' Days | 0.20% | ~10 |
-| Te Amo Lety | 0.20% | ~10 |
+| Love Conquers All | 0.20% | ~11 |
+| Newcomer: Vickie | 0.20% | ~11 |
+| Rachael | 0.20% | ~11 |
+| Smooth Operator: Ashley | 0.20% | ~11 |
+| Social Butterfly | 0.20% | ~11 |
+| Stephanie | 0.20% | ~11 |
+| The Muse: Madison | 0.20% | ~11 |
+| The Crush | 0.20% | ~11 |
+| Vickie | 0.20% | ~11 |
+| Good Ol' Days | 0.20% | ~11 |
+| Te Amo Lety | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
 | Beyond the Call of Dude-y | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,248 (Ranked 124)  
+Progressed: 5,251 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 2 (0.04%) (Ranked 180)
 | 2023-05-27 | 5,186 | 2 |
 | 2023-05-28 | 5,222 | 2 |
 | 2023-05-29 | 5,248 | 2 |
+| 2023-05-30 | 5,251 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

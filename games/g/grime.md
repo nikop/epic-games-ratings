@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.60 (Ranked 387)  
+Rating: 4.60 (Ranked 386)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 22.00% | ~124 |
 | Ravenous | 20.00% | ~112 |
 | The Hunt | 19.00% | ~107 |
-| Weeper | 17.00% | ~96 |
+| Weeper | 18.00% | ~101 |
 | Devourer | 13.00% | ~73 |
 | Scion | 11.00% | ~16 |
 | Harmless | 11.00% | ~62 |

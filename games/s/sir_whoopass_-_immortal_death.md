@@ -16,18 +16,18 @@
 | Up and down | 75.00% | ~50 |
 | Rolling, Rolling, Rolling | 72.00% | ~48 |
 | Fire-fighter! | 61.00% | ~41 |
-| Make Love not War-Craft a Mistlefoe | 60.00% | ~40 |
-| Oh, you're up to no gouda! | 58.00% | ~39 |
+| Make Love not War-Craft a Mistlefoe | 61.00% | ~41 |
+| Oh, you're up to no gouda! | 60.00% | ~40 |
 | Meat grinder | 57.00% | ~38 |
+| You're not going to blow me up! | 51.00% | ~34 |
 | Butcher | 49.00% | ~33 |
-| You're not going to blow me up! | 49.00% | ~33 |
 | Mushroom soup of the day | 48.00% | ~32 |
 | Honk honk! | 46.00% | ~31 |
+| My pants squeak when I walk | 46.00% | ~31 |
 | Spare Ribs | 46.00% | ~31 |
-| My pants squeak when I walk | 45.00% | ~30 |
+| Surprise!! | 43.00% | ~29 |
 | Thats disgusting! | 43.00% | ~29 |
 | Cockadoodledoo! | 43.00% | ~29 |
-| Surprise!! | 42.00% | ~28 |
 | Make America Grate Again | 36.00% | ~24 |
 | Self assessed tax return | 36.00% | ~24 |
 | Karaoke king | 36.00% | ~24 |
@@ -50,13 +50,13 @@
 | Slimy... yet satisfying | 15.00% | ~10 |
 | Master Butcher | 13.00% | ~9 |
 | Deal with it | 13.00% | ~9 |
-| Ancient Ruins of Dirty Feet | 10.00% | ~7 |
+| Ancient Ruins of Dirty Feet | 12.00% | ~8 |
 | Yeehaw!!! | 10.00% | ~7 |
 | I drink, but I'm not a drunk! | 10.00% | ~7 |
 | Spoiler alert! | 9.00% | ~6 |
 | You're looking mozzare-hella good! | 9.00% | ~6 |
+| Scrambled Eggs | 7.00% | ~5 |
 | Ancient Ruins of Moist Overhangs | 6.00% | ~4 |
-| Scrambled Eggs | 6.00% | ~4 |
 | Timber! | 4.00% | ~3 |
 | Grumpy Immortal | 4.00% | ~3 |
 | Free Of Chains | 4.00% | ~3 |
@@ -76,9 +76,9 @@
 | Ancient Ruins of Vitamin D Addition | 1.00% | ~1 |
 | Ancient Ruins of Moldy Ceiling | 1.00% | ~1 |
 | Ancient Ruins of Poor Intrusion Prevention | 1.00% | ~1 |
+| Ancient Ruins of Peekaboo | 1.00% | ~1 |
 | Ancient Ruins of Chilly Winds | 1.00% | ~1 |
 | Consider it dealt with | 1.00% | ~1 |
-| Ancient Ruins of Peekaboo | 0.00% | ~0 |
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |

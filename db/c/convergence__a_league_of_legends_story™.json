@@ -675,9 +675,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     },
     {
       "ID": "ClockworkCompletion1",
@@ -763,9 +763,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 376
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -915,9 +915,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "PidgeDefeated",
@@ -1019,17 +1019,17 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 325
     },
     {
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 234
     },
     {
       "ID": "WatcherFought",
@@ -1074,8 +1074,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:05:18.4021798+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:05:32.865502+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-29T22:59:51.6591395+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:05:18.4022176+00:00"
+  "LastUpdate_Ratings": "2023-05-30T00:00:07.7390328+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:05:32.8655541+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.25 (Ranked 787)
 | ---- | ---------- | ----- |
 | MASTER CHEF | 83.00% | ~254 |
 | FIRST BLOOD | 78.00% | ~239 |
-| KEVIN! | 68.00% | ~208 |
+| KEVIN! | 69.00% | ~211 |
 | JACK OF ALL TRADES | 63.00% | ~193 |
 | CRIMINAL | 57.00% | ~174 |
 | GRANDMA WOULD BE PROUD | 47.00% | ~144 |

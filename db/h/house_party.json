@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5248,
+  "EOS_Progressed": 5251,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1516,6 +1516,11 @@
       "Time": "2023-05-29T23:03:22.9146956+00:00",
       "NumProgressed": 5248,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-30T00:02:58.1318058+00:00",
+      "NumProgressed": 5251,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 69,
@@ -1535,7 +1540,7 @@
       "Name": "Amy",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Amy_Scav",
@@ -1543,7 +1548,7 @@
       "Name": "Amy: Scavenger Hunt",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ashley",
@@ -1559,7 +1564,7 @@
       "Name": "Benedict Brahrnold",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BeBack",
@@ -1567,7 +1572,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BeyondTheCall",
@@ -1615,7 +1620,7 @@
       "Name": "Caught in the Act",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -1663,7 +1668,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "DoNotBurn",
@@ -1799,7 +1804,7 @@
       "Name": "Love Conquers All",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LifeFoundAWay",
@@ -1823,7 +1828,7 @@
       "Name": "Newcomer: Vickie",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NoticeMe",
@@ -1871,7 +1876,7 @@
       "Name": "Rachael",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ronin",
@@ -1887,7 +1892,7 @@
       "Name": "Smooth Operator: Ashley",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SO_Madison",
@@ -1895,7 +1900,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "SmellBlood",
@@ -1911,7 +1916,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Stephanie",
@@ -1919,7 +1924,7 @@
       "Name": "Stephanie",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "StrikingResemblance",
@@ -1967,7 +1972,7 @@
       "Name": "The Muse: Madison",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ThatsANiceBush",
@@ -1983,7 +1988,7 @@
       "Name": "The Crush",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TheCrushes",
@@ -2015,7 +2020,7 @@
       "Name": "Vickie",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "cooch",
@@ -2055,7 +2060,7 @@
       "Name": "Good Ol\u0027 Days",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "snapped",
@@ -2071,28 +2076,28 @@
       "Name": "Te Amo Lety",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2287,
+      "Progressed": 2290,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5248,
+      "Progressed": 5251,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:03:22.9146953+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:02:58.1318052+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-05-29T22:57:20.8371985+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:03:22.9147535+00:00"
+  "LastUpdate_Ratings": "2023-05-29T23:57:33.9423258+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:02:58.1318817+00:00"
 }

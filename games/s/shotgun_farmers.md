@@ -24,16 +24,16 @@
 | Quadsparagus | 9.00% | ~1 |
 | 15K | 8.00% | ~5 |
 | Skin Of Your Teeth | 8.00% | ~5 |
+| Quit Horsin' Around | 8.00% | ~5 |
 | 10K | 8.00% | ~5 |
 | Drinking Problem | 6.00% | ~4 |
-| Quit Horsin' Around | 6.00% | ~4 |
 | Perfect | 6.00% | ~1 |
 | Master Survivor | 6.00% | ~1 |
+| Summers Here | 6.00% | ~1 |
 | This Is My Boomstick | 5.00% | ~1 |
-| Summers Here | 5.00% | ~1 |
+| Easy Peasy | 5.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |
 | Pyromaniac | 3.00% | ~0 |
-| Easy Peasy | 3.00% | ~0 |
 | Chick Magnet | 2.00% | ~1 |
 | Getting Started | 2.00% | ~1 |
 | I Have The High Ground | 2.00% | ~1 |
@@ -41,6 +41,7 @@
 | Pro Pyromancer | 2.00% | ~1 |
 | Pork Chop Express | 2.00% | ~1 |
 | Eggtraordinary | 2.00% | ~1 |
+| Carrocketeer | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
 | Berry Loved | 2.00% | ~0 |
 | Carrocket From Above | 2.00% | ~0 |
@@ -72,7 +73,6 @@
 | Gnome Thief | 0.00% | ~0 |
 | Unstoppable | 0.00% | ~0 |
 | Pum-King | 0.00% | ~0 |
-| Carrocketeer | 0.00% | ~0 |
 | First Place | 0.00% | ~0 |
 | Prestige 2 - Country Bumpkin | 0.00% | ~0 |
 | Prestige 3 - Planter | 0.00% | ~0 |

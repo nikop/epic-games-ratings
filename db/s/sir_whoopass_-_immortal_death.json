@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -335,9 +335,9 @@
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CHEESE_3",
@@ -407,9 +407,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Dirty Feet",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_06",
@@ -439,9 +439,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_09",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Peekaboo",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_10",
@@ -663,9 +663,9 @@
       "ID": "GRENADIER_2",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not going to blow me up!",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "HIDDEN_1",
@@ -703,17 +703,17 @@
       "ID": "ITEM_2",
       "SetID": "9gfkh7c",
       "Name": "Scrambled Eggs",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "JOLLY_1",
@@ -743,9 +743,9 @@
       "ID": "JUMP_2",
       "SetID": "9gfkh7c",
       "Name": "My pants squeak when I walk",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "JUMP_3",
@@ -871,9 +871,9 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "OUTHOUSE_1",
@@ -958,8 +958,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:06:18.6445427+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:06:38.2561035+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-29T22:57:05.1474725+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:06:18.6446117+00:00"
+  "LastUpdate_Ratings": "2023-05-29T23:57:19.627675+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:06:38.2561888+00:00"
 }

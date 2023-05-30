@@ -6,23 +6,23 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 93.00% | ~472 |
 | Rail Rat | 76.00% | ~386 |
-| The Mysterious Stranger | 73.00% | ~371 |
-| Immaculate Aim | 63.00% | ~320 |
+| The Mysterious Stranger | 74.00% | ~376 |
+| Immaculate Aim | 64.00% | ~325 |
 | The Brass Boss | 55.00% | ~279 |
 | Honest Mistake | 54.00% | ~274 |
 | No, Thanks! | 52.00% | ~264 |
 | Time Flies | 50.00% | ~254 |
 | The Prince in Heels | 50.00% | ~254 |
 | The Harder They Fall | 48.00% | ~244 |
-| Right On Time | 46.00% | ~234 |
+| Right On Time | 47.00% | ~239 |
 | Fast Learner | 46.00% | ~234 |
-| Immaculate Aim | 45.00% | ~229 |
+| Immaculate Aim | 46.00% | ~234 |
 | Make Up For Lost Time | 44.00% | ~224 |
 | Breaking Down Barriers | 42.00% | ~213 |
 | The Steel Shadow | 36.00% | ~183 |
 | Golem Chaser | 34.00% | ~173 |
 | Like Clockwork | 33.00% | ~168 |
-| The Wicked Twins | 32.00% | ~163 |
+| The Wicked Twins | 33.00% | ~168 |
 | The Betrayer | 31.00% | ~157 |
 | Family Memories | 30.00% | ~152 |
 | Check Your Pulse | 29.00% | ~147 |

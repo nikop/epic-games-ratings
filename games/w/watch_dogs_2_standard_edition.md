@@ -1,7 +1,7 @@
 # Watch Dogs 2 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/watch-dogs-2)  
 [View Rawdata](../../db/w/watch_dogs_2_standard_edition.json)  
-Rating: 4.60 (Ranked 387)  
+Rating: 4.60 (Ranked 386)  
 Number of Ratings: 6,460  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 334  (Ranked 214)  

@@ -44,11 +44,11 @@ Rating: 3.91 (Ranked 908)
 | Missions Dedication | 4.00% | ~49 |
 | The father of Dragons | 4.00% | ~49 |
 | Trader | 4.00% | ~49 |
+| Weekly Quest Completionist | 4.00% | ~49 |
 | Ancient Knowledge | 3.00% | ~37 |
 | Background Story | 3.00% | ~37 |
 | Four Leaf Clover | 3.00% | ~37 |
 | Master Enchanter | 3.00% | ~37 |
-| Weekly Quest Completionist | 3.00% | ~37 |
 | Blueprint Upgrades | 2.00% | ~24 |
 | Dragon Slayer | 2.00% | ~24 |
 | Enchanting skill | 2.00% | ~24 |

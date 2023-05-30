@@ -498,9 +498,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 212
     },
     {
       "ID": "Chapter10",
@@ -578,9 +578,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "Collectibles2",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-29T23:06:02.01479+00:00",
+  "LastChanged_Achievements": "2023-05-30T00:06:20.5866267+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-29T22:57:49.5115678+00:00",
-  "LastUpdate_Achievements": "2023-05-29T23:06:02.0148146+00:00"
+  "LastUpdate_Ratings": "2023-05-29T23:58:02.3966753+00:00",
+  "LastUpdate_Achievements": "2023-05-30T00:06:20.5866547+00:00"
 }
