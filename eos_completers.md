@@ -10,9 +10,9 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.55% |
+| 11 | [Island Cities](games/i/island_cities.md) | 15.02% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.89% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
@@ -23,8 +23,8 @@
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.83% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
-| 24 | [Scorn](games/s/scorn.md) | 6.88% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
+| 24 | [Scorn](games/s/scorn.md) | 6.87% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.99% |
@@ -58,9 +58,9 @@
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
-| 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.22% |
-| 60 | [Iron Danger](games/i/iron_danger.md) | 2.21% |
-| 61 | [JARS](games/j/jars.md) | 2.17% |
+| 59 | [Iron Danger](games/i/iron_danger.md) | 2.21% |
+| 60 | [JARS](games/j/jars.md) | 2.17% |
+| 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
