@@ -229,7 +229,7 @@
 | 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 491 |
 | 216 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 44 | 405 |
 | 216 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 491 |
-| 216 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,550 | 113 |
+| 216 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,551 | 113 |
 | 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 38 | 418 |
 | 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 882 | 143 |
 | 216 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 491 |
@@ -293,7 +293,7 @@
 | 275 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 190 |
 | 275 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 491 |
 | 293 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 491 |
-| 293 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,581 | 67 |
+| 293 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,590 | 67 |
 | 293 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 280 |
 | 293 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 491 |
 | 293 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 324 | 219 |
@@ -510,7 +510,7 @@
 | 494 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 454 |
 | 509 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 20 | 485 |
 | 509 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 738 | 152 |
-| 509 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,844 | 16 |
+| 509 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,870 | 16 |
 | 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 480 |
 | 509 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 491 |
 | 509 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 506 | 185 |
