@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 2705,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3483,
+  "EOS_Progressed": 3484,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.83,
   "EosHistory": [
@@ -155,6 +155,11 @@
     {
       "Time": "2023-05-31T03:19:58.0441264+00:00",
       "NumProgressed": 3483,
+      "NumCompleted": -29
+    },
+    {
+      "Time": "2023-05-31T13:13:10.0754803+00:00",
+      "NumProgressed": 3484,
       "NumCompleted": -29
     }
   ],
@@ -343,7 +348,7 @@
       "Name": "Dreams Of Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "30",
@@ -351,7 +356,7 @@
       "Name": "Untouchable Legend",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "31",
@@ -446,7 +451,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3483,
+      "Progressed": 3484,
       "Completed": -29
     }
   ],
@@ -454,8 +459,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:05:44.0388364+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:10.0754789+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:06.9499659+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:57:25.2311778+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:05:44.0388637+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:04:50.1248321+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:10.0755086+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -745,9 +745,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 260
     },
     {
       "ID": "ClockworkCompletion1",
@@ -881,9 +881,9 @@
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "InxChromaInTheatre",
@@ -1144,8 +1144,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:05:07.5748472+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:12:34.0283369+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:59:18.2130085+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:05:07.5748956+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:06:47.7317054+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:12:34.0283874+00:00"
 }

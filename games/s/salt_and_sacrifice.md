@@ -33,7 +33,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Treeheart | 40.00% | ~25,749 |
 | Shroud Alliance | 39.00% | ~25,105 |
 | The Two Monks | 37.00% | ~23,818 |
-| The Neuromancer | 34.00% | ~21,886 |
+| The Neuromancer | 35.00% | ~22,530 |
 | Oathbound Watchers | 33.00% | ~21,243 |
 | The Chronomancer | 32.00% | ~20,599 |
 | The Mechanomancer | 32.00% | ~20,599 |

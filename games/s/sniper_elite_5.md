@@ -5,13 +5,13 @@ Rating: 4.45 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~462 |
+| Meeting Resistance | 24.00% | ~463 |
 | Confirming Suspicions | 19.00% | ~366 |
-| The Kraken Wakes | 14.00% | ~270 |
+| The Kraken Wakes | 15.00% | ~289 |
 | It's Starting to Crack | 12.00% | ~231 |
-| Lord of War | 10.00% | ~193 |
+| Lord of War | 11.00% | ~212 |
 | Change the Channel | 10.00% | ~193 |
-| Resourceful | 9.00% | ~173 |
+| Resourceful | 9.00% | ~174 |
 | Taking it back | 8.00% | ~154 |
 | Enemy at the Gates | 7.00% | ~135 |
 | Organ Grinder | 7.00% | ~135 |
@@ -40,7 +40,7 @@ Rating: 4.45 (Ranked 607)
 | My Little Friend | 1.00% | ~19 |
 | It'll Buff Right Out | 1.00% | ~19 |
 | Strategist | 0.90% | ~17 |
-| Locomotion Commotion | 0.80% | ~15 |
+| Locomotion Commotion | 0.90% | ~17 |
 | Operation Foxley | 0.80% | ~15 |
 | Road Rage | 0.70% | ~13 |
 | Herr Today, Gone Tomorrow | 0.70% | ~13 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 607)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,926 (Ranked 151)  
-Completed: 2 (0.10%) (Ranked 158)  
+Progressed: 1,928 (Ranked 151)  
+Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,7 +117,7 @@ Completed: 2 (0.10%) (Ranked 158)
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
-| 2023-05-31 | 1,926 | 2 |
+| 2023-05-31 | 1,928 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

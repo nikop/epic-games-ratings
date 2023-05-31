@@ -6,9 +6,9 @@
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -2404,9 +2404,9 @@
       "ID": "ACHIEVEMENT_020",
       "SetID": "1a05lfd",
       "Name": "Marathon",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:00:49.7811599+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:10:29.5761508+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:59:38.901251+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:00:49.7811968+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:07:07.3454337+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:10:29.5761928+00:00"
 }

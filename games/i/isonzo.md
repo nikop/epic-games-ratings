@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 438)  
+Rating: 4.56 (Ranked 452)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,966 (Ranked 120)  
-Completed: 8 (0.13%) (Ranked 154)  
+Completed: 8 (0.13%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,3 +183,4 @@ Diff (max vs sum): 98
 | 2023-05-26 | 4.57 | - | 31 | 240 |
 | 2023-05-29 | 4.56 | - | 31 | 240 |
 | 2023-05-30 | 4.57 | - | 31 | 240 |
+| 2023-05-31 | 4.56 | - | 31 | 240 |

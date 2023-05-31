@@ -20,31 +20,31 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,065 |
 | Bloody Sport | 1.00% | ~158 |
 | The best strikes are the ones we avoid | 1.00% | ~158 |
-| Lady Wing Chun | 0.90% | ~6,358 |
-| Furious Fists | 0.90% | ~6,358 |
-| Kill Nil | 0.90% | ~6,358 |
-| Street Fighting | 0.90% | ~6,358 |
-| Qi Gong: Essence | 0.90% | ~6,358 |
+| Lady Wing Chun | 0.90% | ~6,359 |
+| Furious Fists | 0.90% | ~6,359 |
+| Kill Nil | 0.90% | ~6,359 |
+| Street Fighting | 0.90% | ~6,359 |
+| Qi Gong: Essence | 0.90% | ~6,359 |
 | Stuntmaster | 0.80% | ~5,652 |
 | Old Child | 0.80% | ~5,652 |
 | Take damage to save time | 0.80% | ~5,652 |
-| Scareless | 0.70% | ~4,945 |
-| Kung-Fu Tussle | 0.70% | ~4,945 |
+| Scareless | 0.70% | ~4,946 |
+| Kung-Fu Tussle | 0.70% | ~4,946 |
 | Dance of the Praying Mantis | 0.60% | ~4,239 |
 | Qi Gong: Mind | 0.60% | ~4,239 |
 | I know Kung-Fu | 0.60% | ~4,239 |
 | Deadly Venom | 0.60% | ~95 |
 | A Touch of Acumen | 0.60% | ~95 |
-| Muk Yan Master | 0.50% | ~3,532 |
-| Tiger on Fire | 0.50% | ~3,532 |
-| Detective Story | 0.50% | ~3,532 |
+| Muk Yan Master | 0.50% | ~3,533 |
+| Tiger on Fire | 0.50% | ~3,533 |
+| Detective Story | 0.50% | ~3,533 |
 | Source of Flying Daggers | 0.40% | ~2,826 |
 | Iron Money | 0.40% | ~2,826 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,826 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,826 |
 | Sword Stained With Blood | 0.40% | ~2,826 |
 | Martial Hub | 0.40% | ~63 |
-| Prodigal Child | 0.30% | ~2,119 |
+| Prodigal Child | 0.30% | ~2,120 |
 | Secure, Protect, Leave | 0.30% | ~47 |
 | Drunken Fighter | 0.20% | ~1,413 |
 | Martial Artist | 0.20% | ~1,413 |
@@ -54,11 +54,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.20% | ~1,413 |
 | Be like water my friend | 0.20% | ~1,413 |
 | Come Snap With Me | 0.20% | ~1,413 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~706 |
-| Warriors from the Mountain | 0.10% | ~706 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~707 |
+| Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,493 (Ranked 15)  
-Completed: 12,748 (1.80%) (Ranked 66)  
+Progressed: 706,502 (Ranked 15)  
+Completed: 12,749 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 12,748 (1.80%) (Ranked 66)
 | 2023-05-28 | 706,072 | 12,742 |
 | 2023-05-29 | 706,246 | 12,745 |
 | 2023-05-30 | 706,411 | 12,748 |
-| 2023-05-31 | 706,493 | 12,748 |
+| 2023-05-31 | 706,502 | 12,749 |
 ## Awards
 Max (Great Boss Battles): 6,114  (Ranked 53)  
 Sum: 10,420 (Ranked 77)  

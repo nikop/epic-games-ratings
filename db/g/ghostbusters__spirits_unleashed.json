@@ -6,9 +6,9 @@
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1018,10 +1018,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2088,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-05-31T13:06:19.0224686+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2089,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2088,
+  "NumberOfAwards": 2089,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1029,7 +1035,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1100,7 +1106,7 @@
   ],
   "EOS_Progressed": 22470,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4568,9 +4574,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-05-30T23:58:54.1903472+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:06:01.2108691+00:00",
+  "LastChanged": "2023-05-31T13:06:19.0224683+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:27.227449+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:58:52.5998604+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:06:01.210924+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:06:19.022469+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:27.2275122+00:00"
 }

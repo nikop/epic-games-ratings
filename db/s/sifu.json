@@ -4314,10 +4314,10 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706493,
-  "EOS_Completed": 12748,
-  "EOS_NewPlayers": 1539,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 706502,
+  "EOS_Completed": 12749,
+  "EOS_NewPlayers": 1536,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -7924,6 +7924,11 @@
       "Time": "2023-05-31T12:06:04.9154455+00:00",
       "NumProgressed": 706493,
       "NumCompleted": 12748
+    },
+    {
+      "Time": "2023-05-31T13:13:30.9127441+00:00",
+      "NumProgressed": 706502,
+      "NumCompleted": 12749
     }
   ],
   "TotalAchievements": 50,
@@ -7967,7 +7972,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6358
+      "UsersEstimate": 6359
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7975,7 +7980,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6358
+      "UsersEstimate": 6359
     },
     {
       "ID": "07_Wude_H1",
@@ -7983,7 +7988,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "08_Wude_H2",
@@ -7991,7 +7996,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "09_Wude_H3",
@@ -8023,7 +8028,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "13_LowAge",
@@ -8031,7 +8036,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -8039,7 +8044,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6358
+      "UsersEstimate": 6359
     },
     {
       "ID": "15_Detective_H1",
@@ -8047,7 +8052,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "16_Detective_H2",
@@ -8103,7 +8108,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6358
+      "UsersEstimate": 6359
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -8143,7 +8148,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6358
+      "UsersEstimate": 6359
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -8175,7 +8180,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "32_ReachMaxAge",
@@ -8207,7 +8212,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -8255,7 +8260,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -8334,21 +8339,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15794,
-      "Completed": 10203
+      "Progressed": 15803,
+      "Completed": 10204
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706493,
-      "Completed": 12748
+      "Progressed": 706502,
+      "Completed": 12749
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-31T05:59:29.779342+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:06:04.9154446+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:30.9127435+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:58:56.5254784+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:06:04.9155066+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:06:23.7629031+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:30.9128062+00:00"
 }

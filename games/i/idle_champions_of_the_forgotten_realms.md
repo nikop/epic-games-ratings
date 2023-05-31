@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~893 |
 | The Cursed Farmer | 0.90% | ~804 |
-| The Court of Storms | 0.80% | ~444 |
+| The Court of Storms | 0.80% | ~445 |
 | The Mad Wizard | 0.70% | ~625 |
 | Beast Intentions | 0.60% | ~536 |
 | Beware the Jabberwock | 0.60% | ~333 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~111 |
 | Pin and Skewer | 0.20% | ~111 |
 | Bully for Vecna | 0.20% | ~111 |
+| Xanathaaaaaaar! | 0.20% | ~111 |
 | Homecoming | 0.20% | ~179 |
 | The Lost Heir of Omu | 0.20% | ~179 |
 | The Minions of Endelyn Moongrave | 0.20% | ~111 |
@@ -186,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~56 |
 | Who Lurks Below? | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
-| Xanathaaaaaaar! | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
 | Anti-Dexterous Explorers | 0.10% | ~89 |
 | Struggling Toward Omu | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,288 (Ranked 61)  
-Completed: 1,903 (2.13%) (Ranked 63)  
+Progressed: 89,294 (Ranked 61)  
+Completed: 1,903 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -541,14 +541,14 @@ Completed: 1,903 (2.13%) (Ranked 63)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,288 | 1,903 |
+| 2023-05-31 | 89,294 | 1,903 |
 ## Awards
-Max (Diverse Characters): 4,911  (Ranked 64)  
-Sum: 30,004 (Ranked 37)  
+Max (Diverse Characters): 4,913  (Ranked 64)  
+Sum: 30,006 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,911 |
+| This game has Diverse Characters | 4,913 |
 | This game is Great for Beginners | 4,846 |
 | This game has Quickly Understood Controls | 4,608 |
 | This game is Relaxing | 4,501 |
@@ -683,3 +683,4 @@ Diff (max vs sum): 27
 | 2023-05-28 | 4.06 | - | 4,910 | 29,993 |
 | 2023-05-29 | 4.06 | - | 4,910 | 29,997 |
 | 2023-05-30 | 4.06 | - | 4,911 | 30,004 |
+| 2023-05-31 | 4.06 | - | 4,913 | 30,006 |

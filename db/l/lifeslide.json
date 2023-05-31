@@ -3,9 +3,9 @@
   "Name": "Lifeslide",
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
       "Time": "2023-05-17T16:05:32.3704714+00:00",
       "NumProgressed": 317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T13:13:08.2458086+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -57,7 +62,7 @@
       "Name": "Turbulence",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ADULTHOOD_REACHED",
@@ -95,9 +100,9 @@
       "ID": "BIRTH_REACHED",
       "SetID": "b6f796g",
       "Name": "All Starts Here",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 302
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -127,17 +132,17 @@
       "ID": "CHILDHOOD_REACHED",
       "SetID": "b6f796g",
       "Name": "Wonderful World",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 188
     },
     {
       "ID": "COLLECT_MATTER_10000",
       "SetID": "b6f796g",
       "Name": "Tangibility",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 64
     },
     {
       "ID": "END_REACHED",
@@ -151,17 +156,17 @@
       "ID": "FIRST_IMPROVEMENT",
       "SetID": "b6f796g",
       "Name": "Road to Improvement",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 229
     },
     {
       "ID": "FULL_IMPROVEMENTS",
       "SetID": "b6f796g",
       "Name": "Best Self",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "IN_LOVE",
@@ -193,7 +198,7 @@
       "Name": "Endless Possibilities",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "LOVE_HIDDEN",
@@ -304,7 +309,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 0
     }
   ],
@@ -312,8 +317,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:05:42.1775119+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:08.2458082+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:57.8345895+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:58:16.2820034+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:05:42.1775302+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:05:43.6344086+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:08.2458288+00:00"
 }

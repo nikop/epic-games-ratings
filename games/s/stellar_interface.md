@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 82.00% | ~18 |
-| Killing Spree | 64.00% | ~14 |
-| 5Gb HDD | 45.00% | ~10 |
-| Merchant Prince I | 41.00% | ~9 |
-| Dominating | 32.00% | ~7 |
-| Fighting Fit I | 27.00% | ~6 |
-| The Vette | 23.00% | ~5 |
-| Rambo I | 18.00% | ~4 |
-| Mega Kill | 18.00% | ~4 |
-| 10Gb HDD | 18.00% | ~4 |
-| Stoic | 14.00% | ~3 |
-| Almost There I | 14.00% | ~3 |
+| First Blood | 83.00% | ~19 |
+| Killing Spree | 65.00% | ~15 |
+| 5Gb HDD | 43.00% | ~10 |
+| Merchant Prince I | 39.00% | ~9 |
+| Dominating | 30.00% | ~7 |
+| Fighting Fit I | 26.00% | ~6 |
+| The Vette | 22.00% | ~5 |
+| Rambo I | 17.00% | ~4 |
+| Mega Kill | 17.00% | ~4 |
+| 10Gb HDD | 17.00% | ~4 |
+| Stoic | 13.00% | ~3 |
+| Almost There I | 13.00% | ~3 |
 | Bronze Prince of Ball-air | 9.00% | ~2 |
 | Omicron Alpha | 9.00% | ~2 |
 | Pacifist | 9.00% | ~2 |
 | Collateral Damage I | 9.00% | ~2 |
-| Hoarder | 5.00% | ~1 |
-| Defrosted | 5.00% | ~1 |
-| Food Poisoning | 5.00% | ~1 |
+| Hoarder | 4.00% | ~1 |
+| Defrosted | 4.00% | ~1 |
+| Food Poisoning | 4.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -137,8 +137,8 @@
 | Fighting Fit II | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 326)  
-Completed: 0 (0.00%) (Ranked 207)  
+Progressed: 23 (Ranked 326)  
+Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -153,4 +153,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 17 | 0 |
 | 2023-05-27 | 20 | 0 |
 | 2023-05-30 | 21 | 0 |
-| 2023-05-31 | 22 | 0 |
+| 2023-05-31 | 23 | 0 |

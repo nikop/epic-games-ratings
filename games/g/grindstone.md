@@ -6,22 +6,22 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,982 |
-| The Journey Begins | 98.00% | ~4,982 |
+| Quinceañera Time | 98.00% | ~4,983 |
+| The Journey Begins | 98.00% | ~4,983 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~3,966 |
 | There is No Escape | 71.00% | ~3,610 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,152 |
-| Royal Flush | 62.00% | ~3,152 |
-| Timber! | 60.00% | ~3,050 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,153 |
+| Royal Flush | 62.00% | ~3,153 |
+| Timber! | 60.00% | ~3,051 |
 | Survive the Bombsequences | 59.00% | ~3,000 |
 | Killed 20 Jerks | 53.00% | ~2,695 |
 | Death Defied | 53.00% | ~2,695 |
-| Fortunate Soul | 49.00% | ~2,491 |
-| Jerk-Slayer | 43.00% | ~2,186 |
+| Fortunate Soul | 49.00% | ~2,492 |
+| Jerk-Slayer | 43.00% | ~2,187 |
 | Employee of the Month | 37.00% | ~1,881 |
 | I Believe I Can Fly | 37.00% | ~1,881 |
-| Bone Collector | 35.00% | ~1,779 |
-| Fe-Festival | 35.00% | ~1,779 |
+| Bone Collector | 35.00% | ~1,780 |
+| Fe-Festival | 35.00% | ~1,780 |
 | Top of the Food Chain | 32.00% | ~1,627 |
 | Pardon my Slob | 32.00% | ~1,627 |
 | Humerus Achievement | 31.00% | ~1,576 |
@@ -30,8 +30,8 @@ Number of Ratings: 63  (23.09.2022)
 | Royal Flush, Again | 19.00% | ~966 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~915 |
 | Can't Touch This | 18.00% | ~915 |
-| Yummy! | 16.00% | ~813 |
-| That Was Quick | 16.00% | ~813 |
+| Yummy! | 16.00% | ~814 |
+| That Was Quick | 16.00% | ~814 |
 | Goldrush Glory Days | 15.00% | ~763 |
 | Best Party Guest | 15.00% | ~763 |
 | Shrub it Off | 15.00% | ~763 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,084 (Ranked 125)  
+Progressed: 5,085 (Ranked 125)  
 Completed: 26 (0.51%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 26 (0.51%) (Ranked 107)
 | 2023-05-27 | 5,076 | 26 |
 | 2023-05-29 | 5,078 | 26 |
 | 2023-05-30 | 5,082 | 26 |
-| 2023-05-31 | 5,084 | 26 |
+| 2023-05-31 | 5,085 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

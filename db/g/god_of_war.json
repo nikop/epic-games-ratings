@@ -4,11 +4,11 @@
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 75,
-  "Ranking_PopularitySum": 95,
+  "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 426,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
     "PcReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -2406,18 +2406,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 7780,
       "NumberOfAwardsMax": 4018
+    },
+    {
+      "Time": "2023-05-31T13:07:00.3159561+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 7785,
+      "NumberOfAwardsMax": 4023
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7780,
-  "NumberOfAwardsMax": 4018,
+  "NumberOfAwards": 7785,
+  "NumberOfAwardsMax": 4023,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4018
+      "Count": 4023
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2515,8 +2521,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2023-05-31T06:59:50.3287967+00:00",
+  "LastChanged": "2023-05-31T13:07:00.3159553+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:09.6341809+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:59:32.1772184+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:04:17.2355272+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:07:00.3159566+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:11:44.9166513+00:00"
 }

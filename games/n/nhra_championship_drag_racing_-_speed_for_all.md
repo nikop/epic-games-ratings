@@ -11,8 +11,8 @@
 | I didn't know you where there! | 31.00% | ~212 |
 | Participation trophy | 24.00% | ~164 |
 | Whole again | 12.00% | ~82 |
+| Getting the job done | 8.00% | ~55 |
 | Cash Rules Everything Around Me | 8.00% | ~55 |
-| Getting the job done | 7.00% | ~48 |
 | Risky business | 6.00% | ~41 |
 | Ready to Mingle | 5.00% | ~34 |
 | First one tastes better | 4.00% | ~27 |
@@ -39,7 +39,7 @@
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 684 (Ranked 185)  
-Completed: 0 (0.00%) (Ranked 207)  
+Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

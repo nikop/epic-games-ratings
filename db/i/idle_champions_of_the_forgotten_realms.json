@@ -6,7 +6,7 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -3980,11 +3980,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 30004,
       "NumberOfAwardsMax": 4911
+    },
+    {
+      "Time": "2023-05-31T13:05:35.0837533+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30006,
+      "NumberOfAwardsMax": 4913
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30004,
-  "NumberOfAwardsMax": 4911,
+  "NumberOfAwards": 30006,
+  "NumberOfAwardsMax": 4913,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3997,7 +4003,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4911
+      "Count": 4913
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4030,9 +4036,9 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89288,
+  "EOS_Progressed": 89294,
   "EOS_Completed": 1903,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8100,6 +8106,11 @@
       "Time": "2023-05-31T12:06:15.0827887+00:00",
       "NumProgressed": 89288,
       "NumCompleted": 1903
+    },
+    {
+      "Time": "2023-05-31T13:13:41.2211128+00:00",
+      "NumProgressed": 89294,
+      "NumCompleted": 1903
     }
   ],
   "TotalAchievements": 493,
@@ -9029,9 +9040,9 @@
       "ID": "objective_completed_1218",
       "SetID": "415jc5c",
       "Name": "Xanathaaaaaaar!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1219",
@@ -12023,7 +12034,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "objective_completed_1356",
@@ -12054,21 +12065,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55562,
+      "Progressed": 55568,
       "Completed": 2748
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89288,
+      "Progressed": 89294,
       "Completed": 1903
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-30T13:57:54.7211701+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:06:15.0827881+00:00",
+  "LastChanged": "2023-05-31T13:05:35.0837529+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:41.2211123+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:58:07.9145407+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:06:15.0851409+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:05:35.0837538+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:41.2234734+00:00"
 }

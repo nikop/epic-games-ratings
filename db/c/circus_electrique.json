@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -204,6 +204,11 @@
       "Time": "2023-05-30T20:05:54.1341545+00:00",
       "NumProgressed": 415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T13:13:28.0279285+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -215,7 +220,7 @@
       "Name": "Grand Opening",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -263,7 +268,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -271,7 +276,7 @@
       "Name": "Built in a Day",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -279,7 +284,7 @@
       "Name": "Path of Learning",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -303,7 +308,7 @@
       "Name": "Fan Service",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -317,9 +322,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -373,9 +378,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "631ndc2",
       "Name": "Hundred Percent Second",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -614,7 +619,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 1
     }
   ],
@@ -622,8 +627,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:06:02.0047787+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:28.0279279+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:58:52.006416+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:06:02.0048252+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:06:18.3993236+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:28.0279743+00:00"
 }

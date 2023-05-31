@@ -13,9 +13,9 @@
 | No, Thanks! | 53.00% | ~281 |
 | Time Flies | 52.00% | ~276 |
 | The Prince in Heels | 52.00% | ~276 |
+| Right On Time | 49.00% | ~260 |
 | The Harder They Fall | 49.00% | ~260 |
 | Fast Learner | 49.00% | ~260 |
-| Right On Time | 48.00% | ~254 |
 | Immaculate Aim | 48.00% | ~254 |
 | Make Up For Lost Time | 47.00% | ~249 |
 | Breaking Down Barriers | 43.00% | ~228 |
@@ -45,7 +45,7 @@
 | Entresol Explorer | 12.00% | ~64 |
 | Rungs Was Right | 12.00% | ~64 |
 | Clovemary for Remembering | 10.00% | ~53 |
-| Hexlock for Protection | 9.00% | ~48 |
+| Hexlock for Protection | 10.00% | ~53 |
 | Golem Hunter | 8.00% | ~42 |
 | Thinking Two Steps Ahead | 4.00% | ~21 |
 | Wunderkind | 4.00% | ~21 |
@@ -58,8 +58,8 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 195)  
-Completed: 0 (0.00%) (Ranked 207)  
+Progressed: 530 (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

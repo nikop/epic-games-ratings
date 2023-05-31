@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 11.00% | ~255 |
+| Wakey Wakey | 12.00% | ~278 |
 | Sputnik 2049 | 10.00% | ~232 |
 | Without Breaking Some Eggs... | 9.00% | ~209 |
 | Infinite Growth... | 9.00% | ~209 |
@@ -38,19 +38,19 @@ Rating: 4.57 (Ranked 438)
 | What the Ruins Teach Us | 0.90% | ~21 |
 | Delivery! | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
+| Mutual Loyalty | 0.70% | ~16 |
 | Sustainable Energy | 0.70% | ~16 |
 | Praise the Hull! | 0.70% | ~16 |
 | Pedal to the Metal | 0.70% | ~16 |
-| Mutual Loyalty | 0.60% | ~14 |
 | Catastrophe Avoided | 0.60% | ~14 |
 | You Had One Job... | 0.60% | ~14 |
 | Space Greenhouse | 0.50% | ~12 |
+| Tiqqun Unchained | 0.50% | ~12 |
 | Gregor Spinoza | 0.40% | ~9 |
-| Tiqqun Unchained | 0.40% | ~9 |
+| Scientifically Accurate | 0.40% | ~9 |
 | Help of the Forgotten Member | 0.40% | ~9 |
 | Better Him Than Me | 0.30% | ~7 |
 | Tiqqun Contender | 0.30% | ~7 |
-| Scientifically Accurate | 0.30% | ~7 |
 | Remember the Dead | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
@@ -63,8 +63,8 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,317 (Ranked 144)  
-Completed: 0 (0.00%) (Ranked 207)  
+Progressed: 2,318 (Ranked 144)  
+Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,317 | 0 |
+| 2023-05-31 | 2,318 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -23,23 +23,23 @@ Rating: 4.67 (Ranked 257)
 | Baba Yaga | 4.00% | ~17 |
 | Extensive retelling | 3.00% | ~13 |
 | The word around is... | 3.00% | ~13 |
+| Both sides | 3.00% | ~13 |
 | Queen | 3.00% | ~13 |
 | Specialist | 3.00% | ~13 |
 | Witch's cookbook | 3.00% | ~13 |
 | Goal! | 2.00% | ~8 |
 | Gnowlledgeable | 2.00% | ~8 |
-| Both sides | 2.00% | ~8 |
 | Always worth a try | 2.00% | ~8 |
 | Toxic | 2.00% | ~8 |
 | Bad apple | 1.00% | ~4 |
 | Loremaster | 1.00% | ~4 |
 | Awards unwarded | 1.00% | ~4 |
 | Entangled | 1.00% | ~4 |
-| Mushrooming enthusiast | 0.20% | ~1 |
+| Mushrooming enthusiast | 0.50% | ~2 |
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 419 (Ranked 201)  
-Completed: 0 (0.00%) (Ranked 207)  
+Completed: 1 (0.24%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 406 | 0 |
 | 2023-05-29 | 416 | 0 |
 | 2023-05-30 | 419 | 0 |
+| 2023-05-31 | 419 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1926,
+  "EOS_Progressed": 1928,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
@@ -2021,6 +2021,11 @@
       "Time": "2023-05-31T12:05:51.3721802+00:00",
       "NumProgressed": 1926,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T13:13:17.3763781+00:00",
+      "NumProgressed": 1928,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2112,7 +2117,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2238,9 +2243,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2256,7 +2261,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2278,9 +2283,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 289
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2358,9 +2363,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -2599,13 +2604,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1877,
+      "Progressed": 1879,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1926,
+      "Progressed": 1928,
       "Completed": 2
     }
   ],
@@ -2613,8 +2618,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:05:51.3721795+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:17.3763775+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T12:00:15.2663149+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:05:51.3722542+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:07:44.5500059+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:17.3764584+00:00"
 }

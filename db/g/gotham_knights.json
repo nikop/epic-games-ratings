@@ -6,7 +6,7 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 149,
+  "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -1316,7 +1316,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62971,
+  "EOS_Progressed": 62975,
   "EOS_Completed": 92,
   "EOS_NewPlayers": 1081,
   "EOS_NewCompleters": 1,
@@ -4491,6 +4491,11 @@
       "Time": "2023-05-31T12:06:10.0811489+00:00",
       "NumProgressed": 62971,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-31T13:13:36.0210925+00:00",
+      "NumProgressed": 62975,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4806,7 +4811,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "HARLEY_2",
@@ -4878,7 +4883,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4894,7 +4899,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "MYSTERY_02",
@@ -4924,9 +4929,9 @@
       "ID": "MYSTERY_05",
       "SetID": "4eo5ebm",
       "Name": "From Inside Gotham\u0027s Walls",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 630
     },
     {
       "ID": "MYSTERY_06",
@@ -4989,13 +4994,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62971,
+      "Progressed": 62975,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33251,
+      "Progressed": 33255,
       "Completed": 2644
     }
   ],
@@ -5003,8 +5008,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-31T06:00:25.9069511+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:06:10.0811469+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:13:36.0210917+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:59:35.1747862+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:06:10.0812214+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:07:03.1363319+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:13:36.0211742+00:00"
 }

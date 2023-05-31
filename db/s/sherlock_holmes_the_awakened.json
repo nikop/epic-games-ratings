@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.94,
+  "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -889,6 +889,11 @@
       "Time": "2023-05-31T11:03:50.5151699+00:00",
       "NumProgressed": 330,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-31T13:11:31.2886216+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -900,7 +905,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "MQ01_2",
@@ -908,7 +913,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "MQ02_1",
@@ -938,9 +943,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 166
     },
     {
       "ID": "MQ03_1",
@@ -954,9 +959,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 132
     },
     {
       "ID": "MQ03_3",
@@ -964,7 +969,7 @@
       "Name": "History Check",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "MQ03_4",
@@ -972,23 +977,23 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ04_2",
@@ -996,15 +1001,15 @@
       "Name": "Let Me Be Frank",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 132
     },
     {
       "ID": "MQ05_1",
@@ -1018,9 +1023,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 122
     },
     {
       "ID": "MQ05_3",
@@ -1036,7 +1041,7 @@
       "Name": "Knives Out",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "MQ06_1",
@@ -1044,15 +1049,15 @@
       "Name": "Brain Food",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 103
     },
     {
       "ID": "MQ06_3",
@@ -1068,7 +1073,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ07_1",
@@ -1084,7 +1089,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ08_1",
@@ -1100,7 +1105,7 @@
       "Name": "Up In Flames",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MQ08_3",
@@ -1123,7 +1128,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 13
     }
   ],
@@ -1131,8 +1136,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-31T12:04:03.4637268+00:00",
+  "LastChanged_Achievements": "2023-05-31T13:11:31.2886201+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:57:27.3179047+00:00",
-  "LastUpdate_Achievements": "2023-05-31T12:04:03.4637512+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:04:52.338029+00:00",
+  "LastUpdate_Achievements": "2023-05-31T13:11:31.2886494+00:00"
 }
