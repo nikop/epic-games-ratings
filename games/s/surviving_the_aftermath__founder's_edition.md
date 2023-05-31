@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 585)  
+Rating: 4.47 (Ranked 586)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,9 +25,9 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~1,614 |
 | Finders, Keepers | 26.00% | ~1,554 |
 | Top Notch | 24.00% | ~1,435 |
+| Mentor | 23.00% | ~1,375 |
 | Great Leader | 22.00% | ~1,315 |
 | Ice Lakes | 22.00% | ~1,315 |
-| Mentor | 22.00% | ~1,315 |
 | Merchant | 21.00% | ~1,255 |
 | Real Survivor | 21.00% | ~1,255 |
 | War Never Changes | 19.00% | ~1,136 |

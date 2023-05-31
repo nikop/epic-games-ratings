@@ -1,24 +1,24 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 437)  
+Rating: 4.57 (Ranked 438)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 12.00% | ~279 |
+| Wakey Wakey | 12.00% | ~280 |
 | Sputnik 2049 | 11.00% | ~256 |
+| Without Breaking Some Eggs... | 10.00% | ~233 |
 | Infinite Growth... | 10.00% | ~233 |
-| Without Breaking Some Eggs... | 9.00% | ~210 |
 | Space Society | 6.00% | ~140 |
 | A Thousand Strong | 6.00% | ~140 |
 | Ready for a New World | 6.00% | ~140 |
-| Guy de Borderlands | 5.00% | ~116 |
-| Breaking Protocol | 5.00% | ~116 |
-| Ain't Nobody Got Time for That | 5.00% | ~116 |
+| Guy de Borderlands | 5.00% | ~117 |
+| Breaking Protocol | 5.00% | ~117 |
+| Ain't Nobody Got Time for That | 5.00% | ~117 |
+| Hope Seeker | 5.00% | ~117 |
 | Fully Recycled | 4.00% | ~93 |
 | Permanent Redesigns | 4.00% | ~93 |
 | The Ship of Theseus | 4.00% | ~93 |
-| Hope Seeker | 4.00% | ~93 |
 | A Hunk of Junk | 3.00% | ~70 |
 | Exceeding Capacity | 3.00% | ~70 |
 | Please Make it Stop! | 3.00% | ~70 |
@@ -35,11 +35,11 @@ Rating: 4.57 (Ranked 437)
 | In Dolos We Trust | 1.00% | ~23 |
 | BRAWL! | 1.00% | ~23 |
 | All in Good Health | 1.00% | ~23 |
+| Delivery! | 0.90% | ~21 |
 | What the Ruins Teach Us | 0.90% | ~21 |
-| Delivery! | 0.80% | ~19 |
+| Sustainable Energy | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~16 |
-| Sustainable Energy | 0.70% | ~16 |
 | Praise the Hull! | 0.70% | ~16 |
 | Pedal to the Metal | 0.70% | ~16 |
 | Catastrophe Avoided | 0.60% | ~14 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 437)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,329 (Ranked 144)  
+Progressed: 2,331 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,329 | 0 |
+| 2023-05-31 | 2,331 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

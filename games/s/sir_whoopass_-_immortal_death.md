@@ -19,12 +19,12 @@
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~42 |
 | Oh, you're up to no gouda! | 60.00% | ~41 |
 | Meat grinder | 57.00% | ~39 |
+| Butcher | 51.00% | ~35 |
 | You're not going to blow me up! | 51.00% | ~35 |
-| Butcher | 50.00% | ~34 |
+| Spare Ribs | 49.00% | ~33 |
 | Mushroom soup of the day | 47.00% | ~32 |
-| Spare Ribs | 47.00% | ~32 |
+| My pants squeak when I walk | 47.00% | ~32 |
 | Honk honk! | 46.00% | ~31 |
-| My pants squeak when I walk | 46.00% | ~31 |
 | Thats disgusting! | 44.00% | ~30 |
 | Surprise!! | 43.00% | ~29 |
 | Cockadoodledoo! | 43.00% | ~29 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1316,9 +1316,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63019,
+  "EOS_Progressed": 63027,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1088,
+  "EOS_NewPlayers": 1094,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4536,6 +4536,11 @@
       "Time": "2023-05-31T21:06:47.9182874+00:00",
       "NumProgressed": 63019,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-31T22:06:51.3316669+00:00",
+      "NumProgressed": 63027,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4641,9 +4646,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 630
     },
     {
       "ID": "CLAYFACE_1",
@@ -4771,7 +4776,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "FREEZE_1_5",
@@ -4851,7 +4856,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "HARLEY_2",
@@ -4923,7 +4928,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4939,7 +4944,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "MYSTERY_02",
@@ -5034,13 +5039,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63019,
+      "Progressed": 63027,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33299,
+      "Progressed": 33307,
       "Completed": 2644
     }
   ],
@@ -5048,8 +5053,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-31T06:00:25.9069511+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:47.918287+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:51.3316665+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:00:08.4093126+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:47.9183497+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:00:17.5032785+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:51.3317447+00:00"
 }

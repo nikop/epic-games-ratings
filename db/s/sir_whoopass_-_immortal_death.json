@@ -556,9 +556,9 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ENEMIES_2",
@@ -748,9 +748,9 @@
       "ID": "JUMP_2",
       "SetID": "9gfkh7c",
       "Name": "My pants squeak when I walk",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "JUMP_3",
@@ -908,9 +908,9 @@
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SVEN_OLOF_1",
@@ -963,8 +963,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:28.4738735+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:31.8319938+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:57:14.6035152+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:28.4739473+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:57:23.7537063+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:31.8320921+00:00"
 }

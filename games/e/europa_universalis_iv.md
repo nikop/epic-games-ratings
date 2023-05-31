@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,286 |
-| That's a Grand Army | 8.00% | ~3,810 |
-| That is mine! | 8.00% | ~3,810 |
-| Victorious! | 8.00% | ~3,810 |
-| Brothers in Arms | 6.00% | ~2,858 |
-| That's a Grand Navy | 6.00% | ~2,858 |
-| Seriously?! | 6.00% | ~2,858 |
-| For the Glory | 5.00% | ~2,381 |
-| Cold War | 4.00% | ~1,905 |
-| True Catholic | 4.00% | ~1,905 |
+| Until death do us apart | 9.00% | ~4,288 |
+| That's a Grand Army | 8.00% | ~3,811 |
+| That is mine! | 8.00% | ~3,811 |
+| Victorious! | 8.00% | ~3,811 |
+| Brothers in Arms | 6.00% | ~2,859 |
+| That's a Grand Navy | 6.00% | ~2,859 |
+| Seriously?! | 6.00% | ~2,859 |
+| For the Glory | 5.00% | ~2,382 |
+| Cold War | 4.00% | ~1,906 |
+| True Catholic | 4.00% | ~1,906 |
 | Defender of the Faith | 3.00% | ~1,429 |
 | It's all about the money | 3.00% | ~1,429 |
 | Respected | 3.00% | ~1,429 |
@@ -44,10 +44,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~381 |
 | Down Under | 0.70% | ~333 |
 | Trustworthy | 0.70% | ~333 |
-| At every continent | 0.60% | ~286 |
 | Electable! | 0.60% | ~286 |
 | Time Bandit | 0.60% | ~286 |
 | All belongs to Mother Russia | 0.50% | ~238 |
+| At every continent | 0.50% | ~238 |
 | Early-Modern Warfare | 0.50% | ~238 |
 | One Family to Rule them All | 0.50% | ~238 |
 | Populists in Government | 0.50% | ~238 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,626 (Ranked 78)  
+Progressed: 47,642 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,10 +402,10 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 45,938 | 0 |
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
-| 2023-05-31 | 47,626 | 0 |
+| 2023-05-31 | 47,642 | 0 |
 ## Awards
 Max (Educational): 5,322  (Ranked 60)  
-Sum: 43,980 (Ranked 27)  
+Sum: 43,985 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -415,7 +415,7 @@ Diff (max vs sum): 33
 | This game is Extremely Fun | 5,046 |
 | This game has Diverse Characters | 5,007 |
 | This game is Relaxing | 4,946 |
-| This game has Competitive Players | 4,789 |
+| This game has Competitive Players | 4,794 |
 | This game has Amazing Storytelling | 4,527 |
 | This game has Amazing Characters | 4,184 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -556,4 +556,4 @@ Diff (max vs sum): 33
 | 2023-05-28 | 4.68 | - | 5,302 | 43,881 |
 | 2023-05-29 | 4.68 | - | 5,306 | 43,917 |
 | 2023-05-30 | 4.68 | - | 5,313 | 43,955 |
-| 2023-05-31 | 4.68 | - | 5,322 | 43,980 |
+| 2023-05-31 | 4.68 | - | 5,322 | 43,985 |

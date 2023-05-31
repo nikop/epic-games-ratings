@@ -22,9 +22,9 @@ Number of Ratings: 398  (23.09.2022)
 | Of Seals And Men | 10.00% | ~326 |
 | Shackadelic | 10.00% | ~326 |
 | Double Trouble | 9.00% | ~293 |
-| Firestarter | 8.00% | ~260 |
-| Make Tropico Great Again! | 8.00% | ~260 |
-| French Connection | 8.00% | ~260 |
+| Firestarter | 8.00% | ~261 |
+| Make Tropico Great Again! | 8.00% | ~261 |
+| French Connection | 8.00% | ~261 |
 | Don't Panic! | 7.00% | ~228 |
 | I Owe You Nothing | 7.00% | ~228 |
 | Computer Says "No" | 6.00% | ~195 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~33 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,256 (Ranked 134)  
+Progressed: 3,257 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.03%) (Ranked 186)
 | 2023-05-28 | 3,194 | 1 |
 | 2023-05-29 | 3,213 | 1 |
 | 2023-05-30 | 3,234 | 1 |
-| 2023-05-31 | 3,256 | 1 |
+| 2023-05-31 | 3,257 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 316)  
 Sum: 752 (Ranked 255)  

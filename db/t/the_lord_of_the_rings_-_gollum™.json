@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 368,
+  "EOS_Progressed": 369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -530,6 +530,11 @@
       "Time": "2023-05-31T17:05:33.8055758+00:00",
       "NumProgressed": 368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T22:06:15.5864278+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -613,7 +618,7 @@
       "Name": "The Spider",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Chapter7",
@@ -717,7 +722,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Murderer",
@@ -821,21 +826,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 368,
+      "Progressed": 369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:12.399926+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:15.5864271+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:57:56.8438071+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:12.3999495+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:58:02.3073906+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:15.5864782+00:00"
 }

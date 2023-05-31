@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.47 (Ranked 585)  
+Rating: 4.47 (Ranked 586)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,8 +23,8 @@ Number of Ratings: 58  (23.09.2022)
 | Huntress | 53.00% | ~482 |
 | Relentless | 49.00% | ~446 |
 | The Path Forward | 46.00% | ~419 |
+| Phoenix | 45.00% | ~410 |
 | Disruption | 44.00% | ~400 |
-| Phoenix | 44.00% | ~400 |
 | Cult Slayer | 41.00% | ~373 |
 | Origin | 40.00% | ~364 |
 | It Was An Accident | 40.00% | ~364 |

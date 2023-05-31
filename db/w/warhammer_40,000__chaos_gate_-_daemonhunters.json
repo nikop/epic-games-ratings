@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2804,
+  "EOS_Progressed": 2805,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1438,6 +1438,11 @@
       "Time": "2023-05-31T21:06:44.8985403+00:00",
       "NumProgressed": 2804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T22:06:48.204609+00:00",
+      "NumProgressed": 2805,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1465,7 +1470,7 @@
       "Name": "Look Over There!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "BloodAndIron",
@@ -1537,7 +1542,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1641,7 +1646,7 @@
       "Name": "Executioner",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "Kills_Exterminator",
@@ -1695,9 +1700,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 785
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1920,21 +1925,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2804,
+      "Progressed": 2805,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2804,
+      "Progressed": 2805,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:44.8985398+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:48.2046082+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:58:58.4281836+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:44.8985891+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:59:02.2351214+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:48.2046729+00:00"
 }

@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1503,
+  "EOS_Progressed": 1504,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 8.12,
+  "EOS_Completed_Percentage": 8.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2038,6 +2038,11 @@
       "Time": "2023-05-31T21:06:26.1837822+00:00",
       "NumProgressed": 1503,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-05-31T22:06:29.4475542+00:00",
+      "NumProgressed": 1504,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 12,
@@ -2049,7 +2054,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Bernard",
@@ -2089,7 +2094,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Jude",
@@ -2105,7 +2110,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Little Helper",
@@ -2144,7 +2149,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1503,
+      "Progressed": 1504,
       "Completed": 122
     }
   ],
@@ -2152,8 +2157,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:26.1837816+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:29.4475535+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:59:55.3119266+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:26.1837994+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:00:03.8268227+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:29.4475922+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -288,6 +288,11 @@
       "Time": "2023-05-31T21:06:16.6376653+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T22:06:19.8863784+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -299,23 +304,23 @@
       "Name": "Wake Up",
       "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_ACT10",
       "SetID": "2310cb1",
       "Name": "So Close",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ACT11",
       "SetID": "2310cb1",
       "Name": "Transformers, cubes in disguise",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ACT12",
@@ -363,7 +368,7 @@
       "Name": "Time Gates",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_ACT3",
@@ -395,7 +400,7 @@
       "Name": "48 Attempts",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ACT7",
@@ -435,7 +440,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -459,7 +464,7 @@
       "Name": "Fashionista",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -475,7 +480,7 @@
       "Name": "Looper",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_REUINTED",
@@ -491,7 +496,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -514,7 +519,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
@@ -522,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:16.637665+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:19.8863774+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:57:36.8980797+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:16.63768+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:57:42.4942401+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:19.8864113+00:00"
 }

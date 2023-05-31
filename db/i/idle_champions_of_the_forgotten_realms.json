@@ -4042,9 +4042,9 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89332,
+  "EOS_Progressed": 89335,
   "EOS_Completed": 1904,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8157,6 +8157,11 @@
       "Time": "2023-05-31T21:06:53.7917904+00:00",
       "NumProgressed": 89332,
       "NumCompleted": 1904
+    },
+    {
+      "Time": "2023-05-31T22:06:57.0253619+00:00",
+      "NumProgressed": 89335,
+      "NumCompleted": 1904
     }
   ],
   "TotalAchievements": 493,
@@ -8182,9 +8187,9 @@
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 89
     },
     {
       "ID": "objective_completed_101",
@@ -9510,9 +9515,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 89
     },
     {
       "ID": "objective_completed_209",
@@ -11278,9 +11283,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_completed_696",
@@ -12111,21 +12116,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55606,
+      "Progressed": 55609,
       "Completed": 2748
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89332,
+      "Progressed": 89335,
       "Completed": 1904
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-31T15:57:47.7873175+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:53.7917898+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:57.0253613+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:58:18.2561554+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:53.7940035+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:58:20.7489535+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:57.0281731+00:00"
 }

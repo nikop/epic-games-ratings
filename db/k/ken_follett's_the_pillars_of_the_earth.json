@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12878,
+  "EOS_Progressed": 12879,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3129,6 +3129,11 @@
       "Time": "2023-05-31T19:05:22.9168651+00:00",
       "NumProgressed": 12878,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-05-31T22:06:17.8357429+00:00",
+      "NumProgressed": 12879,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 41,
@@ -3228,7 +3233,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4508
     },
     {
       "ID": "tpote_achievement_20",
@@ -3444,7 +3449,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "tpote_achievement_8",
@@ -3467,15 +3472,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12878,
+      "Progressed": 12879,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:14.6764243+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:17.8357422+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:00:23.9425069+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:14.6764636+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:00:32.1462449+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:17.835793+00:00"
 }

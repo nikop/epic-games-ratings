@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
@@ -162,6 +162,11 @@
       "Time": "2023-05-31T20:06:27.065271+00:00",
       "NumProgressed": 470,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-31T22:06:45.4526706+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -173,7 +178,7 @@
       "Name": "Beat It",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "blast_from_the_past",
@@ -181,7 +186,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "deadly_secret",
@@ -253,23 +258,23 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 212
     },
     {
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 221
+      "UsersEstimate": 217
     },
     {
       "ID": "kamikaze",
@@ -309,7 +314,7 @@
       "Name": "Storage Hunter",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -317,7 +322,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "tough_decision",
@@ -325,14 +330,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 16
     }
   ],
@@ -340,8 +345,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:41.972997+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:45.45267+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.7129622+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:57:17.681143+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:41.9730069+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:57:26.9421103+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:45.4526923+00:00"
 }

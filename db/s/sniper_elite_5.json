@@ -244,7 +244,7 @@
   "Tags": [],
   "EOS_Progressed": 1962,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2113,9 +2113,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 98
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2281,9 +2281,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 137
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2664,8 +2664,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:26.7943209+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:30.0824988+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:00:59.5898262+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:26.794393+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:01:08.6478255+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:30.082604+00:00"
 }

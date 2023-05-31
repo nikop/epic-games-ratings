@@ -15,15 +15,15 @@ Rating: 4.44 (Ranked 630)
 | Taking it back | 8.00% | ~157 |
 | Enemy at the Gates | 7.00% | ~137 |
 | Organ Grinder | 7.00% | ~137 |
+| Explosive Efficiency | 7.00% | ~137 |
 | As Quiet as a Mouse | 7.00% | ~137 |
 | Target America | 7.00% | ~137 |
 | Just a Flesh Wound | 6.00% | ~118 |
-| Explosive Efficiency | 6.00% | ~118 |
 | Liberté | 5.00% | ~98 |
+| Opposing Force | 5.00% | ~98 |
 | Gunslinger | 5.00% | ~98 |
 | Sharpshooter | 5.00% | ~98 |
 | The Kraken Sleeps | 5.00% | ~98 |
-| Opposing Force | 4.00% | ~78 |
 | Fields of Glory | 4.00% | ~78 |
 | Die Nussknacker Sweet! | 4.00% | ~78 |
 | Der Geist | 4.00% | ~78 |

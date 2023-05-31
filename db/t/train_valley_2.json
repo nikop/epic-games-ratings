@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -694,9 +694,9 @@
       "ID": "AchievementJuggler",
       "SetID": "76o014g",
       "Name": "Juggler",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 43
     },
     {
       "ID": "AchievementJustInTime",
@@ -1028,8 +1028,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:44.035166+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:47.5686749+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.0227175+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:57:40.3607698+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:44.0352298+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:57:46.4059022+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:47.5688109+00:00"
 }

@@ -14,10 +14,10 @@ Rating: 4.18 (Ranked 833)
 | Workplace Hazard | 5.00% | ~708 |
 | Reforged | 5.00% | ~708 |
 | If the SHU Fits... | 5.00% | ~708 |
-| Get a Grip | 4.00% | ~566 |
-| Without A Paddle | 4.00% | ~566 |
-| Instigator | 4.00% | ~83 |
-| Big Game Hunter | 4.00% | ~83 |
+| Get a Grip | 4.00% | ~567 |
+| Without A Paddle | 4.00% | ~567 |
+| Instigator | 4.00% | ~84 |
+| Big Game Hunter | 4.00% | ~84 |
 | Terminated | 3.00% | ~425 |
 | Float Like A Butterfly | 3.00% | ~425 |
 | In the Pipe, Five by Five | 3.00% | ~425 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 833)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,159 (Ranked 101)  
+Progressed: 14,164 (Ranked 101)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
-| 2023-05-31 | 14,159 | 53 |
+| 2023-05-31 | 14,164 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

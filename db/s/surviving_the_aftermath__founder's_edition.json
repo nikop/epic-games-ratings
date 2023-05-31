@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 586,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 120,
@@ -1007,7 +1007,7 @@
   ],
   "EOS_Progressed": 5978,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4748,9 +4748,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1375
     },
     {
       "ID": "5",
@@ -4884,8 +4884,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-05-31T21:06:44.3291234+00:00",
+  "LastChanged_Achievements": "2023-05-31T22:06:47.84459+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:00:22.4826665+00:00",
-  "LastUpdate_Achievements": "2023-05-31T21:06:44.3291851+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:00:30.7418954+00:00",
+  "LastUpdate_Achievements": "2023-05-31T22:06:47.8447212+00:00"
 }
