@@ -43,10 +43,10 @@ Rating: 4.17 (Ranked 840)
 | Family Meeting | 0.40% | ~252 |
 | A Worthy Successor | 0.40% | ~252 |
 | Dressed to Impress | 0.30% | ~189 |
+| A Momentum Occasion | 0.30% | ~189 |
 | Hammer and Icicle | 0.20% | ~66 |
 | Renewable Enemy Source | 0.20% | ~66 |
 | He'd Be So Proud of You | 0.20% | ~126 |
-| A Momentum Occasion | 0.20% | ~126 |
 | Bat Out of Hell | 0.20% | ~126 |
 | Element of Surprise | 0.10% | ~33 |
 | It's Nice to Be Wanted | 0.10% | ~33 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,953 (Ranked 70)  
+Progressed: 62,957 (Ranked 70)  
 Completed: 92 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 92 (0.15%) (Ranked 149)
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
 | 2023-05-30 | 62,912 | 91 |
-| 2023-05-31 | 62,953 | 92 |
+| 2023-05-31 | 62,957 | 92 |
 ## Awards
 Max (Great Boss Battles): 2,269  (Ranked 98)  
 Sum: 3,759 (Ranked 138)  

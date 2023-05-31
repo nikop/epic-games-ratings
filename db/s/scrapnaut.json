@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -523,9 +523,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -603,9 +603,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -700,8 +700,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:06:36.9874648+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:05:34.6572028+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:11.1073335+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:58:49.5621883+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:06:36.9874916+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:58:34.0589445+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:05:34.6572221+00:00"
 }

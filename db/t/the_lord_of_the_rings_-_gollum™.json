@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2023-05-31T05:06:27.8541953+00:00",
       "NumProgressed": 365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T07:05:32.178151+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -548,9 +553,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 220
     },
     {
       "ID": "Chapter10",
@@ -566,7 +571,7 @@
       "Name": "The Maggot",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Chapter3",
@@ -574,7 +579,7 @@
       "Name": "The Breeder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Chapter4",
@@ -582,7 +587,7 @@
       "Name": "The Veteran",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Chapter5",
@@ -590,7 +595,7 @@
       "Name": "The Traitor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Chapter6",
@@ -806,21 +811,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:06:33.9835214+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:05:32.1781503+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:57:54.3772804+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:06:33.9835532+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:57:47.149982+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:05:32.178174+00:00"
 }

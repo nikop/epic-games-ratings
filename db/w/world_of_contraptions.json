@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -201,6 +201,11 @@
       "Time": "2023-05-31T06:06:33.4608072+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T07:05:31.7192195+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -210,7 +215,7 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -442,23 +447,23 @@
       "ID": "TUTORIAL_FIRST",
       "SetID": "aemieak",
       "Name": "Starting to take notes",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:06:33.4608066+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:05:31.719219+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:56.7854741+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:58:27.7212642+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:06:33.4608372+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:58:16.1447702+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:05:31.7192369+00:00"
 }

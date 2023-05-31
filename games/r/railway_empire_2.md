@@ -7,21 +7,21 @@
 | Country Bumpkin | 73.00% | ~373 |
 | A new Journey | 72.00% | ~368 |
 | Departure | 71.00% | ~363 |
+| From X to Y | 70.00% | ~358 |
 | Way of Iron | 70.00% | ~358 |
-| From X to Y | 69.00% | ~353 |
 | Brainstorm | 67.00% | ~342 |
 | Mystery Tour | 67.00% | ~342 |
 | We brake for nobody | 65.00% | ~332 |
-| Mind the Gap | 64.00% | ~327 |
-| Travel Company | 63.00% | ~322 |
+| Mind the Gap | 65.00% | ~332 |
+| Travel Company | 64.00% | ~327 |
 | All around the World | 62.00% | ~317 |
 | Right through the middle | 56.00% | ~286 |
-| Poor Devil | 50.00% | ~256 |
+| Poor Devil | 51.00% | ~261 |
 | Apprentice | 48.00% | ~245 |
 | Facility Manager | 48.00% | ~245 |
 | Producer | 44.00% | ~225 |
 | Stoker | 40.00% | ~204 |
-| Bridge Builder | 39.00% | ~199 |
+| Bridge Builder | 40.00% | ~204 |
 | Access granted | 35.00% | ~179 |
 | Going once, going twice, sold | 29.00% | ~148 |
 | Full Steam ahead | 28.00% | ~143 |
@@ -42,10 +42,10 @@
 | Resistance is futile | 9.00% | ~46 |
 | Breaking Ground | 9.00% | ~46 |
 | Max Power | 5.00% | ~26 |
+| Bold and beautiful | 5.00% | ~26 |
+| Networker | 5.00% | ~26 |
 | Go West | 4.00% | ~20 |
-| Bold and beautiful | 4.00% | ~20 |
 | Settler | 4.00% | ~20 |
-| Networker | 4.00% | ~20 |
 | Tycoon | 3.00% | ~15 |
 | A new Hope | 1.00% | ~5 |
 | Accurate | 1.00% | ~5 |

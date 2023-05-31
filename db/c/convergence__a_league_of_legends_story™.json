@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,6 +694,11 @@
       "Time": "2023-05-31T06:05:48.383033+00:00",
       "NumProgressed": 528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T07:04:55.6189177+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -713,7 +718,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -737,7 +742,7 @@
       "Name": "Right On Time",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ClockworkCompletion1",
@@ -783,9 +788,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "EntresolChests1",
@@ -809,7 +814,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FairgroundsChests1",
@@ -833,7 +838,7 @@
       "Name": "The Betrayer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -897,7 +902,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "MapCompletion1",
@@ -943,9 +948,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 270
     },
     {
       "ID": "ParryBoss",
@@ -985,7 +990,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "RewindDamage1",
@@ -993,7 +998,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "RewindParry",
@@ -1001,7 +1006,7 @@
       "Name": "Honest Mistake",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1065,7 +1070,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TheaterChests1",
@@ -1079,9 +1084,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 339
     },
     {
       "ID": "WarwickDefeated",
@@ -1089,7 +1094,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "WatcherFought",
@@ -1113,7 +1118,7 @@
       "Name": "The Brass Boss",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1121,21 +1126,21 @@
       "Name": "The Family Fortune",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:05:48.3830326+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:04:55.6189173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:00:01.4193272+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:05:48.3830887+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:59:34.3255543+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:04:55.6189568+00:00"
 }

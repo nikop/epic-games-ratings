@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 216,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 14.81,
   "EosHistory": [
@@ -1090,9 +1090,9 @@
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_018",
@@ -1147,8 +1147,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:06:36.8427614+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:05:34.5547724+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:58:16.915165+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:06:36.8427844+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:58:06.4383094+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:05:34.5547909+00:00"
 }

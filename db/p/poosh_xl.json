@@ -4,7 +4,7 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -474,6 +474,11 @@
       "Time": "2023-05-31T00:03:24.8360054+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T07:03:17.9201988+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -603,7 +608,7 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 25,
       "UsersEstimate": 76
     },
@@ -644,13 +649,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:03:42.0353644+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:03:17.9201984+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.7217223+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:57:42.5302448+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:03:42.0353842+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:57:37.0979786+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:03:17.9202127+00:00"
 }

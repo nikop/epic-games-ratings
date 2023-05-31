@@ -2,12 +2,12 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 82,
   "RatingHistory": [
     {
@@ -280,6 +280,12 @@
     {
       "Time": "2023-03-31T05:58:15.665763+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-31T06:58:57.6348639+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1158,9 +1164,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
-  "LastChanged": "2023-03-31T05:58:15.6657628+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:02:19.7927753+00:00",
+  "LastChanged": "2023-05-31T06:58:57.6348638+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:01:24.7464479+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.3341436+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:59:17.2105849+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:02:19.792875+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:58:57.6348642+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:01:24.7465383+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 21,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1497,
-  "EOS_Completed": 120,
-  "EOS_NewPlayers": 104,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 8.02,
+  "EOS_Progressed": 1498,
+  "EOS_Completed": 121,
+  "EOS_NewPlayers": 105,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 8.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2003,6 +2003,11 @@
       "Time": "2023-05-31T05:06:43.4192504+00:00",
       "NumProgressed": 1497,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-05-31T07:05:45.5615624+00:00",
+      "NumProgressed": 1498,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 12,
@@ -2012,9 +2017,9 @@
       "ID": "Arranging Boxes",
       "SetID": "b40dflc",
       "Name": "Arranging Boxes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 195
+      "UsersEstimate": 210
     },
     {
       "ID": "Bernard",
@@ -2030,7 +2035,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Green Ticket Roundup",
@@ -2038,7 +2043,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Jacques a Dit",
@@ -2068,9 +2073,9 @@
       "ID": "Le Juif et la France",
       "SetID": "b40dflc",
       "Name": "Le Juif et la France",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 195
     },
     {
       "ID": "Little Helper",
@@ -2092,9 +2097,9 @@
       "ID": "Nazis in Paris",
       "SetID": "b40dflc",
       "Name": "Nazis in Paris",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 374
+      "UsersEstimate": 360
     },
     {
       "ID": "Nuremberg Laws",
@@ -2109,16 +2114,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1497,
-      "Completed": 120
+      "Progressed": 1498,
+      "Completed": 121
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:06:49.7320952+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:05:45.5615619+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:00:10.5819162+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:06:49.7321219+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:59:41.8018866+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:05:45.5615795+00:00"
 }

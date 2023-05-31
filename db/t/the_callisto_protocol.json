@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14097,
+  "EOS_Progressed": 14103,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2214,6 +2214,11 @@
       "Time": "2023-05-31T06:04:25.0365064+00:00",
       "NumProgressed": 14097,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-31T07:03:47.7437284+00:00",
+      "NumProgressed": 14103,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2439,9 +2444,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 423
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2463,9 +2468,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 423
     },
     {
       "ID": "STORY_TOWER",
@@ -2537,20 +2542,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14097,
+      "Progressed": 14103,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2023,
+      "Progressed": 2029,
       "Completed": 29
     }
   ],
@@ -2558,8 +2563,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T02:18:57.4894102+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:04:25.0365058+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:03:47.7437278+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:58:03.009757+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:04:25.0365565+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:57:54.6947958+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:03:47.7437614+00:00"
 }

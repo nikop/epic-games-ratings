@@ -15,9 +15,9 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Master | 39.00% | ~87 |
 | Smelter | 36.00% | ~81 |
 | Digger | 34.00% | ~76 |
-| Electro-Scrap Gatherer | 33.00% | ~74 |
+| Electro-Scrap Gatherer | 34.00% | ~76 |
+| Robot Destroyer | 32.00% | ~72 |
 | Survivor | 32.00% | ~72 |
-| Robot Destroyer | 31.00% | ~69 |
 | Herbalist | 27.00% | ~60 |
 | Lumberjack | 26.00% | ~58 |
 | Electro-Scrap Master | 25.00% | ~56 |

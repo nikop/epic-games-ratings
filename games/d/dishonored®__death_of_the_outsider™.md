@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 644)  
 ## Awards
-Max (Highly Recommended): 30  (Ranked 446)  
+Max (Highly Recommended): 30  (Ranked 447)  
 Sum: 180 (Ranked 360)  
-Diff (max vs sum): 86  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 30 |

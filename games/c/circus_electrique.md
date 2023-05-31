@@ -42,13 +42,13 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Fourth | 3.00% | ~12 |
 | City Savior | 3.00% | ~12 |
 | Unmatched Skills | 2.00% | ~8 |
+| Hundred Percent Fifth | 2.00% | ~8 |
 | Victorian Victor | 2.00% | ~8 |
 | King of District 6 | 2.00% | ~8 |
 | Grand Slam | 2.00% | ~8 |
 | The Greatest Show | 2.00% | ~8 |
 | Perfect Chemistry | 2.00% | ~8 |
 | Last Man Standing | 2.00% | ~8 |
-| Hundred Percent Fifth | 1.00% | ~4 |
 | Hundred Percent Sixth | 1.00% | ~4 |
 | London Liberator | 1.00% | ~4 |
 | Vicious Busters | 1.00% | ~4 |

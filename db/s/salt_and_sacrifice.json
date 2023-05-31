@@ -1374,7 +1374,7 @@
   ],
   "EOS_Progressed": 64372,
   "EOS_Completed": 1165,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -4020,9 +4020,9 @@
       "ID": "elfslayer",
       "SetID": "2jelldm",
       "Name": "The Champion",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 57935
+      "UsersEstimate": 58579
     },
     {
       "ID": "end_climb",
@@ -4308,8 +4308,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-05-30T06:58:31.8270974+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:04:20.0623162+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:03:44.4685304+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:58.3089816+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:58:31.0741555+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:04:20.0623796+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:58:18.5822499+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:03:44.4685793+00:00"
 }

@@ -735,9 +735,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 358
     },
     {
       "ID": "A11",
@@ -959,25 +959,25 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 332
     },
     {
       "ID": "A41",
@@ -991,9 +991,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 204
     },
     {
       "ID": "A43",
@@ -1031,9 +1031,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 327
     },
     {
       "ID": "A48",
@@ -1079,9 +1079,9 @@
       "ID": "A53",
       "SetID": "9b7p7eo",
       "Name": "Networker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "A54",
@@ -1102,8 +1102,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-31T06:07:01.8582994+00:00",
+  "LastChanged_Achievements": "2023-05-31T07:05:55.5807872+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:58:18.7238422+00:00",
-  "LastUpdate_Achievements": "2023-05-31T06:07:01.8583557+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:58:07.8715001+00:00",
+  "LastUpdate_Achievements": "2023-05-31T07:05:55.5808292+00:00"
 }

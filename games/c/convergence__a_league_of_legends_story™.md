@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~496 |
+| Time Heals All Wounds | 94.00% | ~497 |
 | Rail Rat | 77.00% | ~407 |
 | The Mysterious Stranger | 74.00% | ~391 |
-| Immaculate Aim | 65.00% | ~343 |
-| The Brass Boss | 57.00% | ~301 |
-| Honest Mistake | 55.00% | ~290 |
+| Immaculate Aim | 64.00% | ~339 |
+| The Brass Boss | 57.00% | ~302 |
+| Honest Mistake | 55.00% | ~291 |
 | No, Thanks! | 53.00% | ~280 |
-| Time Flies | 52.00% | ~275 |
-| The Prince in Heels | 51.00% | ~269 |
+| Time Flies | 51.00% | ~270 |
+| The Prince in Heels | 51.00% | ~270 |
 | The Harder They Fall | 49.00% | ~259 |
 | Fast Learner | 49.00% | ~259 |
-| Right On Time | 48.00% | ~253 |
-| Make Up For Lost Time | 47.00% | ~248 |
-| Immaculate Aim | 47.00% | ~248 |
+| Right On Time | 48.00% | ~254 |
+| Make Up For Lost Time | 47.00% | ~249 |
+| Immaculate Aim | 47.00% | ~249 |
 | Breaking Down Barriers | 43.00% | ~227 |
-| The Steel Shadow | 37.00% | ~195 |
+| The Steel Shadow | 37.00% | ~196 |
 | Golem Chaser | 36.00% | ~190 |
 | Like Clockwork | 35.00% | ~185 |
 | The Wicked Twins | 34.00% | ~180 |
-| The Betrayer | 33.00% | ~174 |
+| The Betrayer | 33.00% | ~175 |
 | Family Memories | 31.00% | ~164 |
-| Check Your Pulse | 30.00% | ~158 |
+| Check Your Pulse | 30.00% | ~159 |
 | Street Style | 29.00% | ~153 |
 | Good Neighbor | 29.00% | ~153 |
 | The Loose Cannon | 28.00% | ~148 |
-| The Family Fortune | 23.00% | ~121 |
+| The Family Fortune | 23.00% | ~122 |
 | The Man Who Shattered Time | 22.00% | ~116 |
 | Whiz Kid | 21.00% | ~111 |
 | Sump Explorer | 21.00% | ~111 |
 | Ask Questions Later | 21.00% | ~111 |
 | Chaincrawler Explorer | 20.00% | ~106 |
 | Syron for Hope | 20.00% | ~106 |
-| Factorywood Explorer | 19.00% | ~100 |
+| Factorywood Explorer | 19.00% | ~101 |
 | Fairgrounds Explorer | 18.00% | ~95 |
+| Cultivair Explorer | 15.00% | ~79 |
 | Theater Explorer | 15.00% | ~79 |
-| Cultivair Explorer | 14.00% | ~74 |
 | Corin Goes Home | 12.00% | ~63 |
 | Sartorialist | 12.00% | ~63 |
 | Entresol Explorer | 12.00% | ~63 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528 (Ranked 195)  
+Progressed: 529 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 474 | 0 |
 | 2023-05-29 | 508 | 0 |
 | 2023-05-30 | 521 | 0 |
-| 2023-05-31 | 528 | 0 |
+| 2023-05-31 | 529 | 0 |
