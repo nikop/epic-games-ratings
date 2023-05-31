@@ -145,7 +145,7 @@
 | 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 564 | 172 |
 | 142 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 459 |
 | 142 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 65 | 371 |
-| 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 772 | 148 |
+| 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 773 | 148 |
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 605 | 167 |
 | 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,599 | 49 |
 | 142 | [Outlast](games/o/outlast.md) | 4.74 | 0 | 491 |
@@ -418,7 +418,7 @@
 | 406 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,213 | 84 |
 | 406 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 447 |
 | 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.59 | 193 | 263 |
-| 406 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 272 | 234 |
+| 406 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 273 | 232 |
 | 406 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 693 | 156 |
 | 421 | [Among Us](games/a/among_us.md) | 4.58 | 2,437 | 93 |
 | 421 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 154 | 284 |
@@ -493,7 +493,7 @@
 | 485 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 491 |
 | 485 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 498 | 186 |
 | 485 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 491 |
-| 485 | [VALORANT](games/v/valorant.md) | 4.54 | 54,556 | 11 |
+| 485 | [VALORANT](games/v/valorant.md) | 4.54 | 54,681 | 11 |
 | 495 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.53 | 0 | 491 |
 | 495 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 491 |
 | 495 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |
@@ -709,7 +709,7 @@
 | 703 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 491 |
 | 703 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 397 |
 | 703 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 0 | 491 |
-| 703 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 91 | 339 |
+| 703 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 92 | 337 |
 | 711 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 491 |
 | 711 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 279 |
 | 711 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 491 |
