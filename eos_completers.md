@@ -10,13 +10,13 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
-| 11 | [Island Cities](games/i/island_cities.md) | 15.14% |
+| 11 | [Island Cities](games/i/island_cities.md) | 15.07% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.88% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
-| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
+| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.28% |
@@ -33,7 +33,7 @@
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
-| 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
+| 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.93% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
@@ -50,7 +50,7 @@
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
-| 50 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
+| 51 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.84% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -129,8 +129,8 @@
 | 126 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 129 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
-| 130 | [Dead Island 2](games/d/dead_island_2.md) | 0.28% |
+| 129 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
+| 131 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 132 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
 | 132 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 134 | [Despot's Game](games/d/despot's_game.md) | 0.26% |
