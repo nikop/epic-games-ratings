@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14118,
+  "EOS_Progressed": 14125,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2249,6 +2249,11 @@
       "Time": "2023-05-31T13:11:37.7656264+00:00",
       "NumProgressed": 14118,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-31T14:04:09.0314223+00:00",
+      "NumProgressed": 14125,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2356,7 +2361,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -2388,7 +2393,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "KILL_ROBOT",
@@ -2436,7 +2441,7 @@
       "Name": "Paper Jams",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2452,7 +2457,7 @@
       "Name": "The Outer Way",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2492,7 +2497,7 @@
       "Name": "Desperate Times",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2548,7 +2553,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2556,7 +2561,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -2579,13 +2584,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14118,
+      "Progressed": 14125,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2044,
+      "Progressed": 2051,
       "Completed": 29
     }
   ],
@@ -2593,8 +2598,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T02:18:57.4894102+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:11:37.7656256+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:04:09.0314217+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:05:22.9400413+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:11:37.7656747+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:57:51.2275792+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:04:09.0314551+00:00"
 }

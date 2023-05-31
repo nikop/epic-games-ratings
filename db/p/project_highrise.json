@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -243,9 +243,9 @@
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_area_1",
@@ -611,9 +611,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_office_2",
@@ -675,9 +675,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_profit_1",
@@ -731,9 +731,9 @@
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_restaurants_4",
@@ -924,8 +924,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:13:37.7810096+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:06:36.8783874+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:05:36.5991266+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:13:37.7811047+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:58:05.081219+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:06:36.8784773+00:00"
 }

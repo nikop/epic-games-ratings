@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 14.81,
+  "EOS_Completed_Percentage": 14.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -953,6 +953,11 @@
       "Time": "2023-05-31T06:06:36.8427619+00:00",
       "NumProgressed": 216,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-31T14:06:01.1074301+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 22,
@@ -964,7 +969,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "LEVEL_002",
@@ -972,7 +977,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "LEVEL_003",
@@ -988,7 +993,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_005",
@@ -1028,7 +1033,7 @@
       "Name": "Who loves trains?",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_010",
@@ -1050,17 +1055,17 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_014",
@@ -1108,7 +1113,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_020",
@@ -1116,7 +1121,7 @@
       "Name": "City of dreams",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_021",
@@ -1124,7 +1129,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_022",
@@ -1132,14 +1137,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 32
     }
   ],
@@ -1147,8 +1152,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:13:07.1027169+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:06:01.1074297+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:05:34.2412169+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:13:07.1027419+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:58:02.5116217+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:06:01.1074466+00:00"
 }

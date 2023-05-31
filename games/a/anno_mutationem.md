@@ -1,7 +1,7 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.55 (Ranked 471)  
+Rating: 4.55 (Ranked 470)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.55 (Ranked 471)
 | I just love stuff! | 40.00% | ~247 |
 | Keep 'em coming! | 40.00% | ~247 |
 | Big Spender | 37.00% | ~228 |
-| The things they print nowadays | 36.00% | ~222 |
+| The things they print nowadays | 37.00% | ~228 |
 | That's gotta hurt | 34.00% | ~210 |
 | I think it's broke | 25.00% | ~154 |
 | The Ann Flores Combo Experience | 25.00% | ~154 |

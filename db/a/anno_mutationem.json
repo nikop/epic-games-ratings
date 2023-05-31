@@ -2,7 +2,7 @@
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
   "ProductSlug": "anno-mutationem-ef8b9e",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 189,
@@ -444,9 +444,9 @@
       "ID": "The_things_they_print_nowadays",
       "SetID": "gl7plp",
       "Name": "The things they print nowadays",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 228
     },
     {
       "ID": "The_truth_is_out_there",
@@ -525,8 +525,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:10:16.1981587+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:01:11.673432+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.4161188+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:05:11.9555871+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:10:16.1981863+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:57:37.6939534+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:01:11.6734531+00:00"
 }

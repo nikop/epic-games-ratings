@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2594,9 +2594,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9386,
+  "EOS_Progressed": 9387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5069,6 +5069,11 @@
       "Time": "2023-05-31T13:13:37.9698596+00:00",
       "NumProgressed": 9386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T14:06:37.254692+00:00",
+      "NumProgressed": 9387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5448,7 +5453,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "49_Flame",
@@ -5950,9 +5955,9 @@
       "ID": "DLC4_22_Stay Underground",
       "SetID": "11go2ek",
       "Name": "Stay Underground",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 163
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -6007,21 +6012,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8168,
+      "Progressed": 8169,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9386,
+      "Progressed": 9387,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-31T05:58:37.1756671+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:13:37.969859+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:06:37.2546914+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:05:48.8840453+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:13:37.9700419+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:58:19.8758511+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:06:37.2548294+00:00"
 }

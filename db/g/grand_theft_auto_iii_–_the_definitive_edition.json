@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5724,
+  "EOS_Progressed": 5727,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2537,6 +2537,11 @@
       "Time": "2023-05-31T13:10:51.3001574+00:00",
       "NumProgressed": 5724,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-31T14:03:24.8739112+00:00",
+      "NumProgressed": 5727,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -2548,7 +2553,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4753
     },
     {
       "ID": "ACH02",
@@ -2556,7 +2561,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "ACH03",
@@ -2572,7 +2577,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "ACH05",
@@ -2580,7 +2585,7 @@
       "Name": "Mob Boss",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH06",
@@ -2588,7 +2593,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH07",
@@ -2620,7 +2625,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH11",
@@ -2692,7 +2697,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH20",
@@ -2708,7 +2713,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH22",
@@ -2779,7 +2784,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5724,
+      "Progressed": 5727,
       "Completed": 27
     }
   ],
@@ -2787,8 +2792,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-31T04:58:15.521775+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:10:51.3001567+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:03:24.8739108+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:05:24.9898518+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:10:51.3001945+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:57:54.0143028+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:03:24.8739387+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1566,9 +1566,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1663
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -1662,8 +1662,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-26T20:02:37.4182915+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:13:22.5859239+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:06:19.3699359+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.9974072+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:07:07.6075287+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:13:22.5859512+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:59:56.3904229+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:06:19.3699569+00:00"
 }

@@ -6,10 +6,10 @@ Rating: 4.18 (Ranked 834)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 9.00% | ~1,271 |
-| The Outer Way | 8.00% | ~1,129 |
-| Desperate Times | 7.00% | ~988 |
-| Chew 'Em Up | 6.00% | ~847 |
-| Paper Jams | 6.00% | ~847 |
+| The Outer Way | 8.00% | ~1,130 |
+| Desperate Times | 7.00% | ~989 |
+| Chew 'Em Up | 6.00% | ~848 |
+| Paper Jams | 6.00% | ~848 |
 | Giving Back | 5.00% | ~706 |
 | Workplace Hazard | 5.00% | ~706 |
 | Reforged | 5.00% | ~706 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 834)
 | Without A Paddle | 3.00% | ~424 |
 | In the Pipe, Five by Five | 3.00% | ~424 |
 | Crash Site | 3.00% | ~424 |
-| Bear Trap | 3.00% | ~61 |
+| Bear Trap | 3.00% | ~62 |
 | You Need a Gun | 2.00% | ~282 |
 | Two Heads Are Better Than One | 2.00% | ~282 |
 | The Commonality | 2.00% | ~282 |
@@ -32,9 +32,9 @@ Rating: 4.18 (Ranked 834)
 | Power Up | 2.00% | ~282 |
 | Big Spender | 2.00% | ~41 |
 | I Do Belong Here | 1.00% | ~141 |
-| Parole Denied | 1.00% | ~20 |
+| Parole Denied | 1.00% | ~21 |
 | In Striking Distance | 1.00% | ~141 |
-| Hoard Mode | 1.00% | ~20 |
+| Hoard Mode | 1.00% | ~21 |
 | Recidivist | 0.70% | ~14 |
 | Lifer | 0.70% | ~14 |
 | Grim Reaper | 0.50% | ~71 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,118 (Ranked 101)  
+Progressed: 14,125 (Ranked 101)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
-| 2023-05-31 | 14,118 | 53 |
+| 2023-05-31 | 14,125 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 280 (Ranked 329)  

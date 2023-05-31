@@ -41,7 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.70% | ~106 |
 | Ruined Armory | 0.60% | ~91 |
 | Forbidden Lands | 0.60% | ~91 |
-| Fishmen Ritual Site | 0.50% | ~75 |
+| Fishmen Ritual Site | 0.50% | ~76 |
 | Efficient Explorer | 0.40% | ~60 |
 | Prestigious Expedition | 0.40% | ~60 |
 | Blood Flower Farmer | 0.40% | ~60 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,098 (Ranked 99)  
+Progressed: 15,100 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 33 (0.22%) (Ranked 138)
 | 2023-05-28 | 15,062 | 33 |
 | 2023-05-29 | 15,071 | 33 |
 | 2023-05-30 | 15,089 | 33 |
-| 2023-05-31 | 15,098 | 33 |
+| 2023-05-31 | 15,100 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,033 (Ranked 152)  

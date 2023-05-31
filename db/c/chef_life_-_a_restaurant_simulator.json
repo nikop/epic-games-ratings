@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1039,6 +1039,11 @@
       "Time": "2023-05-31T09:03:28.6711638+00:00",
       "NumProgressed": 260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T14:03:34.4318136+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1226,15 +1231,15 @@
       "Name": "The Big Day",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "PerfectGrade25",
@@ -1304,9 +1309,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "TrattoriaSet",
@@ -1369,7 +1374,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 0
     }
   ],
@@ -1377,8 +1382,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:10:59.5698384+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:03:34.431813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:05:53.6870151+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:10:59.5698837+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:58:26.4660374+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:03:34.4318423+00:00"
 }

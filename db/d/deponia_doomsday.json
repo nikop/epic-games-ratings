@@ -290,9 +290,9 @@
       "ID": "dep4_achievement_3",
       "SetID": "5d32b60",
       "Name": "Burn, Elysium, burn!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 223
     },
     {
       "ID": "dep4_achievement_30",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:10:36.0001464+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:02:26.0596345+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:36.9055124+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:07:31.4206057+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:10:36.0001759+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:00:27.2540382+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:02:26.0596561+00:00"
 }

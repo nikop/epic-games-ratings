@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3248,
+  "EOS_Progressed": 3249,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3280,6 +3280,11 @@
       "Time": "2023-05-31T13:13:34.5889667+00:00",
       "NumProgressed": 3248,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T14:06:33.2897522+00:00",
+      "NumProgressed": 3249,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3387,7 +3392,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3441,9 +3446,9 @@
       "ID": "ACH_GOVERNATOR",
       "SetID": "1p8ab95",
       "Name": "The Governator",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3451,7 +3456,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3547,7 +3552,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3610,15 +3615,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3248,
+      "Progressed": 3249,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:13:34.5889661+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:06:33.2897518+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:07:25.4970696+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:13:34.5890134+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:00:18.8342493+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:06:33.2897885+00:00"
 }

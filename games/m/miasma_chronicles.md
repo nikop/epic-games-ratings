@@ -5,12 +5,12 @@ Rating: 4.23 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~820 |
+| First Blood | 92.00% | ~829 |
 | Ranidaphobia | 71.00% | ~640 |
 | Aspiring Editor | 68.00% | ~613 |
 | Gun for Hire | 63.00% | ~568 |
 | I am the law! | 52.00% | ~469 |
-| Lumberjack | 33.00% | ~297 |
+| Lumberjack | 34.00% | ~306 |
 | Croaked | 29.00% | ~261 |
 | Limp Richard | 29.00% | ~261 |
 | Firestarter | 29.00% | ~261 |
@@ -20,12 +20,12 @@ Rating: 4.23 (Ranked 803)
 | Giant Killer | 21.00% | ~189 |
 | Sensei | 20.00% | ~180 |
 | The meaning of Kain | 19.00% | ~171 |
-| Technophobe | 15.00% | ~135 |
+| Technophobe | 16.00% | ~144 |
 | Recycler | 14.00% | ~126 |
 | Chain Killer | 13.00% | ~117 |
 | Hold The Line | 12.00% | ~108 |
+| Are you not entertained? | 11.00% | ~99 |
 | There Can Be Only One! | 11.00% | ~99 |
-| Are you not entertained? | 10.00% | ~90 |
 | Ganglord | 10.00% | ~90 |
 | Jarhead | 10.00% | ~90 |
 | Newtonian Knockout | 10.00% | ~90 |

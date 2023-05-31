@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72853,
+  "EOS_Progressed": 72857,
   "EOS_Completed": 337,
-  "EOS_NewPlayers": 969,
+  "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -4533,6 +4533,11 @@
       "Time": "2023-05-31T13:13:21.7196093+00:00",
       "NumProgressed": 72853,
       "NumCompleted": 337
+    },
+    {
+      "Time": "2023-05-31T14:06:18.3806958+00:00",
+      "NumProgressed": 72857,
+      "NumCompleted": 337
     }
   ],
   "TotalAchievements": 10,
@@ -4600,7 +4605,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "Level00BowlingStrike",
@@ -4608,7 +4613,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 26227
+      "UsersEstimate": 26229
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -4623,15 +4628,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 72853,
+      "Progressed": 72857,
       "Completed": 337
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:13:21.7196088+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:06:18.3806953+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.412236+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:07:39.7153103+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:13:21.7196463+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:00:37.7856438+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:06:18.3807201+00:00"
 }

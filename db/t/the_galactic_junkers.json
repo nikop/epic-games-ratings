@@ -2,9 +2,9 @@
   "ID": "af216ef873a244c6b0c22ea798de1aef",
   "Name": "The Galactic Junkers",
   "ProductSlug": "the-galactic-junkers-7fef21",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -98,6 +98,11 @@
       "Time": "2023-05-28T18:05:15.654823+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T14:06:09.3984607+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -115,7 +120,7 @@
       "ID": "A_Board_1_Ship",
       "SetID": "56632p4",
       "Name": "Pirate",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -147,7 +152,7 @@
       "ID": "A_Extinguish_10_Fires",
       "SetID": "56632p4",
       "Name": "Expert Firefighter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -155,7 +160,7 @@
       "ID": "A_Extinguish_1_Fire",
       "SetID": "56632p4",
       "Name": "Firefighter",
-      "Percentage": 88,
+      "Percentage": 85,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -171,7 +176,7 @@
       "ID": "A_Fix_10_Systems",
       "SetID": "56632p4",
       "Name": "Expert Mechanic",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -179,7 +184,7 @@
       "ID": "A_Fix_1_System",
       "SetID": "56632p4",
       "Name": "Mechanic",
-      "Percentage": 91,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -187,7 +192,7 @@
       "ID": "A_Fix_50_Systems",
       "SetID": "56632p4",
       "Name": "Master Mechanic",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -195,7 +200,7 @@
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -203,7 +208,7 @@
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -219,7 +224,7 @@
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -227,7 +232,7 @@
       "ID": "A_Mine_1_Asteroid",
       "SetID": "56632p4",
       "Name": "Miner",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -243,7 +248,7 @@
       "ID": "A_Pancake_Day",
       "SetID": "56632p4",
       "Name": "Pancake Day",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -267,7 +272,7 @@
       "ID": "A_Salvage_1_Wreck",
       "SetID": "56632p4",
       "Name": "Salvager",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -292,7 +297,7 @@
     {
       "ID": "56632p4",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
@@ -300,8 +305,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-05-31T13:13:13.9102331+00:00",
+  "LastChanged_Achievements": "2023-05-31T14:06:09.3984602+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.6820927+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:06:18.1271762+00:00",
-  "LastUpdate_Achievements": "2023-05-31T13:13:13.9102531+00:00"
+  "LastUpdate_Ratings": "2023-05-31T13:58:59.425113+00:00",
+  "LastUpdate_Achievements": "2023-05-31T14:06:09.3984724+00:00"
 }

@@ -39,6 +39,7 @@ Rating: 3.94 (Ranked 902)
 | Relic Of The Past | 6.00% | ~74 |
 | Doing My Part | 5.00% | ~62 |
 | The Expeditioner | 5.00% | ~62 |
+| Background Story | 4.00% | ~49 |
 | Here We Go Again | 4.00% | ~49 |
 | How Do You Turn This On? | 4.00% | ~49 |
 | Missions Dedication | 4.00% | ~49 |
@@ -46,7 +47,6 @@ Rating: 3.94 (Ranked 902)
 | Trader | 4.00% | ~49 |
 | Weekly Quest Completionist | 4.00% | ~49 |
 | Ancient Knowledge | 3.00% | ~37 |
-| Background Story | 3.00% | ~37 |
 | Four Leaf Clover | 3.00% | ~37 |
 | Lock And Load | 3.00% | ~37 |
 | Master Enchanter | 3.00% | ~37 |
