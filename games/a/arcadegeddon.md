@@ -1,22 +1,22 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 558)  
+Rating: 4.49 (Ranked 559)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,279 |
-| Photogenic | 88.00% | ~6,072 |
-| Surge Gauntlet Jockey | 85.00% | ~5,865 |
-| Plug It In | 84.00% | ~5,796 |
-| Adventure Time | 80.00% | ~5,520 |
-| Playing With Power | 77.00% | ~5,313 |
-| Coup d'Etat | 58.00% | ~4,002 |
-| You're Fired | 58.00% | ~4,002 |
-| Get Furious | 55.00% | ~3,795 |
-| Gunplay And Cosplay | 55.00% | ~3,795 |
-| Hacks In Stacks | 54.00% | ~3,726 |
+| Let's Get This Party Started | 91.00% | ~6,280 |
+| Photogenic | 88.00% | ~6,073 |
+| Surge Gauntlet Jockey | 85.00% | ~5,866 |
+| Plug It In | 84.00% | ~5,797 |
+| Adventure Time | 80.00% | ~5,521 |
+| Playing With Power | 77.00% | ~5,314 |
+| Coup d'Etat | 58.00% | ~4,003 |
+| You're Fired | 58.00% | ~4,003 |
+| Get Furious | 55.00% | ~3,796 |
+| Gunplay And Cosplay | 55.00% | ~3,796 |
+| Hacks In Stacks | 54.00% | ~3,727 |
 | Meching Enemies | 48.00% | ~3,312 |
 | Ticket Toddler | 46.00% | ~3,174 |
 | Booty Bashing | 45.00% | ~3,105 |
@@ -53,11 +53,11 @@ Number of Ratings: 801  (23.09.2022)
 | Everybody Freeze | 0.90% | ~62 |
 | The Collector | 0.90% | ~62 |
 | Shield and Shred | 0.60% | ~41 |
-| I'm The Pluggernaut | 0.50% | ~34 |
-| Infinite Adventures! | 0.50% | ~34 |
+| I'm The Pluggernaut | 0.50% | ~35 |
+| Infinite Adventures! | 0.50% | ~35 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,900 (Ranked 115)  
+Progressed: 6,901 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 6,825 | 0 |
 | 2023-05-29 | 6,858 | 0 |
 | 2023-05-30 | 6,893 | 0 |
-| 2023-05-31 | 6,900 | 0 |
+| 2023-05-31 | 6,901 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 485 (Ranked 292)  

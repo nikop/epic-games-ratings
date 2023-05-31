@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -205,6 +205,11 @@
       "Time": "2023-05-30T21:06:17.0603133+00:00",
       "NumProgressed": 383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T10:05:29.589383+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -256,7 +261,7 @@
       "Name": "Shopaholic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "collect-sacrifices",
@@ -272,7 +277,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "different-items2",
@@ -288,7 +293,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "finished-quest-cube",
@@ -336,7 +341,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "finished-quest-reaper",
@@ -344,7 +349,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "finished-quest-sci",
@@ -400,7 +405,7 @@
       "Name": "Zombie Lover",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "unlock-chips",
@@ -440,7 +445,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "win-koth-fights1",
@@ -472,7 +477,7 @@
       "Name": "Through the Darkness",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "win-with-3-cultists",
@@ -495,7 +500,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 1
     }
   ],
@@ -503,8 +508,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:06:21.8279219+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:05:29.5893823+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:58:56.836821+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:06:21.8279503+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:58:27.5662248+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:05:29.5894096+00:00"
 }

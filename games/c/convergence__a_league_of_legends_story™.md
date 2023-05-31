@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 94.00% | ~498 |
-| Rail Rat | 77.00% | ~408 |
+| Rail Rat | 78.00% | ~413 |
 | The Mysterious Stranger | 75.00% | ~398 |
-| Immaculate Aim | 64.00% | ~339 |
+| Immaculate Aim | 65.00% | ~344 |
 | The Brass Boss | 57.00% | ~302 |
 | Honest Mistake | 55.00% | ~292 |
 | No, Thanks! | 53.00% | ~281 |

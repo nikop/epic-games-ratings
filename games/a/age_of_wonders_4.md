@@ -5,26 +5,26 @@ Rating: 4.53 (Ranked 495)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,158 |
-| Realm Estate | 75.00% | ~2,998 |
-| Secret Technique | 74.00% | ~2,959 |
-| Walls Cannot Stop Us | 73.00% | ~2,919 |
-| From Friends to Family | 69.00% | ~2,759 |
-| Magical Synergy | 64.00% | ~2,559 |
-| Bone Peddler | 60.00% | ~2,399 |
-| Stronger Together | 55.00% | ~2,199 |
-| Full Ascension | 53.00% | ~2,119 |
-| There Can Only Be One! | 46.00% | ~1,839 |
-| Seat of Power | 46.00% | ~1,839 |
-| My Final Form | 43.00% | ~1,719 |
-| Intimidation Tactics | 43.00% | ~1,719 |
-| Valley of Wonders | 41.00% | ~1,639 |
-| In a Liege of Your Own | 36.00% | ~1,439 |
-| Return of the Wizard King | 30.00% | ~1,199 |
-| Digging for Treasure | 30.00% | ~1,199 |
-| Against the Odds | 30.00% | ~1,199 |
-| Enchanted Archipelago | 26.00% | ~1,039 |
-| Impenetrable Fortress | 26.00% | ~1,039 |
+| A Wonderful Discovery | 79.00% | ~3,160 |
+| Realm Estate | 75.00% | ~3,000 |
+| Secret Technique | 74.00% | ~2,960 |
+| Walls Cannot Stop Us | 73.00% | ~2,920 |
+| From Friends to Family | 69.00% | ~2,760 |
+| Magical Synergy | 64.00% | ~2,560 |
+| Bone Peddler | 60.00% | ~2,400 |
+| Stronger Together | 55.00% | ~2,200 |
+| Full Ascension | 53.00% | ~2,120 |
+| There Can Only Be One! | 46.00% | ~1,840 |
+| Seat of Power | 46.00% | ~1,840 |
+| My Final Form | 43.00% | ~1,720 |
+| Intimidation Tactics | 43.00% | ~1,720 |
+| Valley of Wonders | 41.00% | ~1,640 |
+| In a Liege of Your Own | 37.00% | ~1,480 |
+| Return of the Wizard King | 30.00% | ~1,200 |
+| Digging for Treasure | 30.00% | ~1,200 |
+| Against the Odds | 30.00% | ~1,200 |
+| Enchanted Archipelago | 26.00% | ~1,040 |
+| Impenetrable Fortress | 26.00% | ~1,040 |
 | The Magic That Empowers Me! | 19.00% | ~760 |
 | Preparation Is Everything | 19.00% | ~760 |
 | Arch Mage | 18.00% | ~720 |
@@ -50,7 +50,7 @@ Rating: 4.53 (Ranked 495)
 | Returning Circle | 0.30% | ~12 |
 | Master of Evilness | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,998 (Ranked 130)  
+Progressed: 4,000 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 3,812 | 0 |
 | 2023-05-29 | 3,914 | 0 |
 | 2023-05-30 | 3,981 | 0 |
-| 2023-05-31 | 3,998 | 0 |
+| 2023-05-31 | 4,000 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

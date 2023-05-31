@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.20% | ~111 |
 | Look Out! | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
+| The Lost Hollyphant | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
 | Escort to Waterdeep | 0.20% | ~179 |
 | The Giant's Bane Tavern | 0.20% | ~111 |
@@ -383,7 +384,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.10% | ~56 |
 | The Path of Redcaps | 0.10% | ~56 |
 | The Path of Trials | 0.10% | ~56 |
-| The Lost Hollyphant | 0.10% | ~56 |
 | Zapper Overload | 0.10% | ~56 |
 | Best Friend Search Squad! | 0.10% | ~56 |
 | Alterdeep | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,283 (Ranked 61)  
-Completed: 1,902 (2.13%) (Ranked 63)  
+Progressed: 89,284 (Ranked 61)  
+Completed: 1,903 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -541,7 +541,7 @@ Completed: 1,902 (2.13%) (Ranked 63)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,283 | 1,902 |
+| 2023-05-31 | 89,284 | 1,903 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

@@ -84,7 +84,7 @@
   "Tags": [],
   "EOS_Progressed": 1039,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1268,9 +1268,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1412,9 +1412,9 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 291
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -1589,8 +1589,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-28T17:57:09.9383158+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:03:44.3858107+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:03:11.0631443+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:57:29.5856308+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:03:44.3858606+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:57:15.6803635+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:03:11.0631878+00:00"
 }

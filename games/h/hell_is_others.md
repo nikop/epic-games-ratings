@@ -1,11 +1,11 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.44 (Ranked 631)  
+Rating: 4.45 (Ranked 607)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,508 |
+| Survivor | 31.00% | ~77,509 |
 | Predator I | 22.00% | ~55,006 |
 | Fixer I | 10.00% | ~25,003 |
 | A week in Century City | 10.00% | ~25,003 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 631)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,027 (Ranked 40)  
+Progressed: 250,029 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,16 +103,16 @@ Completed: 1 (0.00%) (Ranked 207)
 | 2023-05-28 | 249,894 | 1 |
 | 2023-05-29 | 249,957 | 1 |
 | 2023-05-30 | 250,003 | 1 |
-| 2023-05-31 | 250,027 | 1 |
+| 2023-05-31 | 250,029 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 463)  
-Sum: 67 (Ranked 422)  
+Sum: 68 (Ranked 422)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 25 |
 | This game has Unique Visuals | 22 |
-| This game has Amazing Characters | 20 |
+| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -185,3 +185,4 @@ Diff (max vs sum): 41
 | 2023-05-28 | 4.44 | 25 | 67 |
 | 2023-05-29 | 4.45 | 25 | 67 |
 | 2023-05-30 | 4.44 | 25 | 67 |
+| 2023-05-31 | 4.45 | 25 | 68 |

@@ -577,9 +577,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "Chapter4",
@@ -824,8 +824,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:06:02.7651406+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:05:13.7767749+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:57:52.654241+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:06:02.7651751+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:57:32.2245442+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:05:13.7768036+00:00"
 }

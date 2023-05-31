@@ -5,17 +5,17 @@ Rating: 4.50 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 83.00% | ~318 |
+| Good start! | 83.00% | ~319 |
 | Vanquisher of Robots | 73.00% | ~280 |
-| Party | 45.00% | ~172 |
+| Party | 45.00% | ~173 |
 | Knowledge is Power | 44.00% | ~169 |
 | Impossible Cube | 42.00% | ~161 |
 | No Mercy | 41.00% | ~157 |
-| The Return of a Rat | 39.00% | ~149 |
-| Through the Darkness | 39.00% | ~149 |
-| Fat of the Earth | 33.00% | ~126 |
+| The Return of a Rat | 39.00% | ~150 |
+| Through the Darkness | 39.00% | ~150 |
+| Fat of the Earth | 33.00% | ~127 |
 | Last Man Standing | 31.00% | ~119 |
-| Catch Jonathan_tostar | 27.00% | ~103 |
+| Catch Jonathan_tostar | 27.00% | ~104 |
 | Assemble a Meganewbie | 25.00% | ~96 |
 | Great Hero | 25.00% | ~96 |
 | Campaigning | 24.00% | ~92 |
@@ -34,14 +34,14 @@ Rating: 4.50 (Ranked 542)
 | Experimentalist | 5.00% | ~19 |
 | Soldier | 5.00% | ~19 |
 | Android Power | 5.00% | ~19 |
-| Shopaholic | 3.00% | ~11 |
-| Zombie Lover | 3.00% | ~11 |
+| Shopaholic | 3.00% | ~12 |
+| Zombie Lover | 3.00% | ~12 |
 | Munchkin | 2.00% | ~8 |
 | Full House | 1.00% | ~4 |
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 205)  
+Progressed: 384 (Ranked 205)  
 Completed: 1 (0.26%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 1 (0.26%) (Ranked 134)
 | 2023-05-27 | 378 | 1 |
 | 2023-05-28 | 381 | 1 |
 | 2023-05-30 | 383 | 1 |
+| 2023-05-31 | 384 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

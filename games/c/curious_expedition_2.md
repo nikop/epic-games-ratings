@@ -7,7 +7,7 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 58.00% | ~175 |
-| Cartographer | 51.00% | ~154 |
+| Cartographer | 52.00% | ~157 |
 | A Strange Artefact | 48.00% | ~144 |
 | Insomnia | 44.00% | ~132 |
 | From Whence we Came | 39.00% | ~117 |
@@ -39,7 +39,7 @@ Number of Ratings: 20  (23.09.2022)
 | Discovery | 12.00% | ~36 |
 | Very Classy | 11.00% | ~33 |
 | And Here Is Your Statue | 10.00% | ~30 |
-| Under the Table | 9.00% | ~27 |
+| Under the Table | 10.00% | ~30 |
 | Errand Runner | 9.00% | ~27 |
 | SCHMETTERLING | 8.00% | ~24 |
 | It's Complicated | 8.00% | ~24 |

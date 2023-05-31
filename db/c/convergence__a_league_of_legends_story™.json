@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -873,9 +873,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 413
     },
     {
       "ID": "HexlockGift",
@@ -1089,9 +1089,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 344
     },
     {
       "ID": "WarwickDefeated",
@@ -1144,8 +1144,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:05:23.9020161+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:04:32.2020577+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:59:44.8781802+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:05:23.9020827+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:59:06.0277136+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:04:32.2021032+00:00"
 }

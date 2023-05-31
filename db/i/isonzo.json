@@ -5,7 +5,7 @@
   "Ranking_Rating": 438,
   "Ranking_Popularity": 441,
   "Ranking_PopularitySum": 343,
-  "Ranking_EOS_Progress": 121,
+  "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 90,
@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5963,
+  "EOS_Progressed": 5964,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1837,6 +1837,11 @@
       "Time": "2023-05-31T06:03:18.2550951+00:00",
       "NumProgressed": 5963,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-31T10:02:25.8166077+00:00",
+      "NumProgressed": 5964,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2040,7 +2045,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2144,7 +2149,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2160,7 +2165,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -2176,7 +2181,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2207,7 +2212,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5963,
+      "Progressed": 5964,
       "Completed": 8
     }
   ],
@@ -2215,8 +2220,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-30T13:05:00.9198627+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:03:12.9605877+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:02:25.8166071+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:57:27.5089766+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:03:12.9606309+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:57:12.9184292+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:02:25.81665+00:00"
 }

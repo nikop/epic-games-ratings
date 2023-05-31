@@ -5,16 +5,16 @@ Rating: 4.23 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~811 |
-| Ranidaphobia | 71.00% | ~633 |
+| First Blood | 91.00% | ~812 |
+| Ranidaphobia | 72.00% | ~642 |
 | Aspiring Editor | 69.00% | ~615 |
-| Gun for Hire | 63.00% | ~561 |
-| I am the law! | 51.00% | ~454 |
+| Gun for Hire | 63.00% | ~562 |
+| I am the law! | 51.00% | ~455 |
 | Lumberjack | 33.00% | ~294 |
-| Croaked | 29.00% | ~258 |
-| Firestarter | 29.00% | ~258 |
-| Limp Richard | 28.00% | ~249 |
-| From Darkness to Light | 28.00% | ~249 |
+| Croaked | 29.00% | ~259 |
+| Firestarter | 29.00% | ~259 |
+| Limp Richard | 28.00% | ~250 |
+| From Darkness to Light | 28.00% | ~250 |
 | Exorcist | 25.00% | ~223 |
 | Editor Adept | 24.00% | ~214 |
 | Giant Killer | 21.00% | ~187 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 803)
 | Pushing Daisy | 9.00% | ~80 |
 | Ruthless | 8.00% | ~71 |
 | Experienced | 7.00% | ~62 |
-| The Watchers | 6.00% | ~53 |
+| The Watchers | 6.00% | ~54 |
 | Endgame | 5.00% | ~45 |
 | Savior | 5.00% | ~45 |
 | Chain Reaction | 4.00% | ~36 |
@@ -51,13 +51,13 @@ Rating: 4.23 (Ranked 803)
 | Alpha Editor | 0.20% | ~2 |
 | Goaaaaal! | 0.20% | ~2 |
 | QA Has Suffered! (Redux) | 0.20% | ~2 |
-| Shadow Boxin' | 0.10% | ~1 |
+| Shadow Boxin' | 0.20% | ~2 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891 (Ranked 178)  
+Progressed: 892 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 746 | 0 |
 | 2023-05-29 | 815 | 0 |
 | 2023-05-30 | 875 | 0 |
-| 2023-05-31 | 891 | 0 |
+| 2023-05-31 | 892 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

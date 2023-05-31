@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10949,
+  "EOS_Progressed": 10950,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -4344,6 +4344,11 @@
       "Time": "2023-05-31T09:06:26.8648278+00:00",
       "NumProgressed": 10949,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2023-05-31T10:05:33.8836698+00:00",
+      "NumProgressed": 10950,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 20,
@@ -4353,9 +4358,9 @@
       "ID": "COMPLETED_MAP",
       "SetID": "b6m2mm5",
       "Name": "Cartographer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1971
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -4379,7 +4384,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -4427,7 +4432,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -4459,7 +4464,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "GAME_FINISHED",
@@ -4467,7 +4472,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "INTRO_FINISHED",
@@ -4475,7 +4480,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 8321
+      "UsersEstimate": 8322
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -4499,7 +4504,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "WEST_FINISHED",
@@ -4514,15 +4519,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10949,
+      "Progressed": 10950,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:06:26.8648268+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:05:33.8836691+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:00:34.8736617+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:06:26.8648661+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:59:43.4214501+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:05:33.8837063+00:00"
 }

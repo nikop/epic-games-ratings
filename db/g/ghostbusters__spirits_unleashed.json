@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 92,
@@ -1098,9 +1098,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22466,
+  "EOS_Progressed": 22467,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4128,6 +4128,11 @@
       "Time": "2023-05-31T07:05:56.7621788+00:00",
       "NumProgressed": 22466,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-31T10:05:35.4867397+00:00",
+      "NumProgressed": 22467,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4139,7 +4144,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16400
+      "UsersEstimate": 16401
     },
     {
       "ID": "Animated",
@@ -4147,7 +4152,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "Back_Off",
@@ -4187,7 +4192,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11682
+      "UsersEstimate": 11683
     },
     {
       "ID": "Collector",
@@ -4203,7 +4208,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11907
+      "UsersEstimate": 11908
     },
     {
       "ID": "Daily_Dose",
@@ -4227,7 +4232,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13929
+      "UsersEstimate": 13930
     },
     {
       "ID": "Dont_Need_These",
@@ -4251,7 +4256,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14378
+      "UsersEstimate": 14379
     },
     {
       "ID": "Escape_Artist",
@@ -4275,7 +4280,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12356
+      "UsersEstimate": 12357
     },
     {
       "ID": "GB_In_Training",
@@ -4283,7 +4288,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6964
+      "UsersEstimate": 6965
     },
     {
       "ID": "Ghost_Expert",
@@ -4411,7 +4416,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6290
+      "UsersEstimate": 6291
     },
     {
       "ID": "Skilled",
@@ -4419,7 +4424,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "Solo_Capture",
@@ -4443,7 +4448,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19321
+      "UsersEstimate": 19322
     },
     {
       "ID": "Summoner",
@@ -4467,7 +4472,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12581
+      "UsersEstimate": 12582
     },
     {
       "ID": "Teamwork",
@@ -4523,7 +4528,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11008
+      "UsersEstimate": 11009
     },
     {
       "ID": "Welcome_Crew",
@@ -4546,7 +4551,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22466,
+      "Progressed": 22467,
       "Completed": 40
     }
   ],
@@ -4554,8 +4559,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-30T23:58:54.1903472+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:06:28.7040956+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:05:35.4867391+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:59:12.7017413+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:06:28.7041594+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:58:40.7242729+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:05:35.4868013+00:00"
 }

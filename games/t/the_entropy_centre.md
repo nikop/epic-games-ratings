@@ -22,17 +22,17 @@
 | Looper | 8.00% | ~10 |
 | Cataclysm | 7.00% | ~9 |
 | So Close | 6.00% | ~8 |
+| Kaboom! | 6.00% | ~8 |
+| All Alone | 6.00% | ~8 |
 | Final Charge | 6.00% | ~8 |
+| Reunited | 6.00% | ~8 |
 | Transformers, cubes in disguise | 5.00% | ~6 |
-| Kaboom! | 5.00% | ~6 |
-| All Alone | 5.00% | ~6 |
-| Reunited | 5.00% | ~6 |
 | Summer Luvin' | 4.00% | ~5 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 261)  
+Progressed: 128 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

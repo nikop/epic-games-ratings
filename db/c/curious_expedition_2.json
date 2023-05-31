@@ -304,9 +304,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ach-discover-locations-high",
@@ -320,9 +320,9 @@
       "ID": "ach-drinkingContest",
       "SetID": "17ih7ma",
       "Name": "Under the Table",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ach-environmentKill",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-31T09:06:38.9021459+00:00",
+  "LastChanged_Achievements": "2023-05-31T10:05:44.5317336+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:01:02.5536733+00:00",
-  "LastUpdate_Achievements": "2023-05-31T09:06:38.9021997+00:00"
+  "LastUpdate_Ratings": "2023-05-31T10:00:06.9963155+00:00",
+  "LastUpdate_Achievements": "2023-05-31T10:05:44.5317923+00:00"
 }
