@@ -6,7 +6,7 @@
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2023-06-01 | - |  | - | - |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 3 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 469,323 | - | - |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 471,068 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | - |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
 | [Brick Breaker Premium 2](games/3/342e32c0b4c74b909ff99a6aa8f1f075.md) | 2023-06-02 | - |  | - | - |
@@ -31,6 +31,7 @@
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | 2023-06-16 | - |  | - | - |
 | [Retro Racers 2](games/e/e97ae982b9d349ecb979266acb98f26d.md) | 2023-06-16 | - |  | - | - |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | - |  | - | - |
+| [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
 | [SOULVARS](games/1/188fb42582e24d20b0a876ed817efd69.md) | 2023-06-26 | - |  | - | - |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | - |  | - | - |
 | [Journey to the West](games/j/journey_to_the_west.md) | 2023-06-29 | - |  | - | - |
@@ -379,7 +380,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2099-02-01 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,646 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,647 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
