@@ -2,6 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-05-31 | - |  | - | - |
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-05-31 | - |  | - | - |
+| [Cepheus Protocol](games/c/cepheus_protocol.md) | 2023-05-31 | - |  | - | - |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | - |  | - | - |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | - |  | - | - |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 10 (1,000 XP) | 2 | - | - |
@@ -18,7 +19,7 @@
 | [Scathe](games/s/scathe.md) | 2023-05-30 | - |  | - | 0 |
 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2023-05-29 | 18 (1,000 XP) | 17 | - | - |
 | [Shadows. Price For Our Sins](games/a/a34a8e91b1094d28b0c1b997e9f47b38.md) | 2023-05-29 | - |  | - | - |
-| [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 2023-05-29 | 66 (1,000 XP) | 159 | - | 0 |
+| [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 2023-05-29 | 66 (1,000 XP) | 160 | - | 0 |
 | [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-29 | 30 (1,000 XP) | 54 | - | 0 |
 | [International Basketball Manager 23](games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 2023-05-29 | - |  | - | - |
 | [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-29 | - |  | - | 0 |
@@ -36,7 +37,7 @@
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-05-26 | - |  | - | - |
 | [The Mystery Of Woolley Mountain](games/d/ddc07fbe88ba4c719c9f536cb5109d1f.md) | 2023-05-26 | - |  | - | - |
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 28 | - | - |
-| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 513 | - | 0 |
+| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 519 | - | 0 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | - |  | - | - |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 366 | - | 0 |
 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 2023-05-25 | - |  | - | 0 |
@@ -55,14 +56,14 @@
 | [Lost Station](games/c/c008c76e4c4946c7b9ad466bd02ad96c.md) | 2023-05-24 | - |  | - | - |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 53 (1,000 XP) | 530 | - | 0 |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 12 (1,000 XP) | 1 | - | - |
-| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 891 | 4.23 | 0 |
+| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 892 | 4.23 | 0 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | - |  | - | 0 |
 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2023-05-23 | - |  | 4.23 | 0 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | - |  | - | 0 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 18 (1,000 XP) | 2 | - | - |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-23 | - |  | - | 0 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,153 | - | 0 |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,155 | - | 0 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 24 (1,000 XP) | 0 | - | - |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | - |  | - | 0 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2023-05-21 | - |  | - | - |
@@ -100,7 +101,7 @@
 | [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 15 (1,000 XP) | 0 | - | 0 |
 | [ELEGIES Aya](games/e/elegies_aya.md) | 2023-05-12 | 13 (1,000 XP) | 8 | - | 0 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 9 (1,000 XP) | 84 | - | 0 |
-| [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 40 (1,000 XP) | 128 | - | 0 |
+| [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 40 (1,000 XP) | 129 | - | 0 |
 | [Mobilization](games/9/9df3ec873af34f9ab4e6e13fb4a17248.md) | 2023-05-12 | - |  | - | - |
 | [Vacation Adventures: Cruise Director 8 CE](games/v/vacation_adventures__cruise_director_8_ce.md) | 2023-05-12 | - |  | - | - |
 | [Infindustry](games/i/infindustry.md) | 2023-05-11 | 12 (1,000 XP) | 43 | - | 0 |
@@ -133,7 +134,7 @@
 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 2023-05-08 | 18 (1,000 XP) | 20 | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | - | 0 |
 | [Poosh XL](games/p/poosh_xl.md) | 2023-05-08 | 20 (1,000 XP) | 105 | - | - |
-| [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2023-05-08 | 17 (1,000 XP) | 74 | - | 0 |
+| [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2023-05-08 | 17 (1,000 XP) | 75 | - | 0 |
 | [Axolotl Kingdom](games/a/axolotl_kingdom.md) | 2023-05-08 | - |  | - | - |
 | [Emergency Crew 2 Global Warming](games/b/b1ff2bbe99664fb596cac00470bc64ac.md) | 2023-05-08 | - |  | - | 0 |
 | [SIMULACRA 3](games/s/simulacra_3.md) | 2023-05-08 | 24 (1,000 XP) | 1 | - | 0 |
@@ -158,7 +159,7 @@
 | [Dimensions Multiverse (Game Preview)](games/d/dimensions_multiverse_(game_preview).md) | 2023-05-03 | - |  | - | - |
 | [Sphere 3](games/s/sphere_3.md) | 2023-05-03 | - |  | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 46 (1,000 XP) | 3 | - | 0 |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 44 (1,000 XP) | 3,998 | 4.53 | 0 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 44 (1,000 XP) | 4,000 | 4.53 | 0 |
 | [Kakele Online - MMORPG](games/k/kakele_online_-_mmorpg.md) | 2023-05-02 | - |  | - | 0 |
 | [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 1,649 | 3.43 | 0 |
 | [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | 2023-05-01 | - |  | - | 0 |

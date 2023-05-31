@@ -54,7 +54,7 @@
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.83% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.70% |
+| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.67% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
@@ -91,7 +91,7 @@
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.85% |
+| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.84% |
 | 93 | [Adios](games/a/adios.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |

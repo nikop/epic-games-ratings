@@ -7,7 +7,7 @@
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2023-06-01 | - |  | - | - |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 3 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 459,818 | - | - |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 460,789 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | - |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
 | [Brick Breaker Premium 2](games/3/342e32c0b4c74b909ff99a6aa8f1f075.md) | 2023-06-02 | - |  | - | - |
@@ -21,6 +21,7 @@
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 7 (1,000 XP) | 4 | - | - |
 | [Bleak Sword DX](games/b/bleak_sword_dx.md) | 2023-06-08 | - |  | - | - |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | - |  | - | - |
+| [Indies Lies](games/i/indies_lies.md) | 2023-06-09 | - |  | - | - |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | - |  | - | - |
 | [Movie Actor Trivia](games/5/510e448ae26b474fadbc5e691c9c5750.md) | 2023-06-09 | - |  | - | - |
 | [Super Arcade Boy in Goodbye Greenies](games/f/f0ef89978ffb450cbeb974a01d8f7bbe.md) | 2023-06-10 | - |  | - | - |
@@ -44,7 +45,6 @@
 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-30 | - |  | - | - |
 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | - |  | - | - |
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | - |  | - | - |
-| [Indies Lies](games/i/indies_lies.md) | 2023-06-30 | - |  | - | - |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | - |  | - | - |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | - |  | - | - |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | - |  | - | - |
