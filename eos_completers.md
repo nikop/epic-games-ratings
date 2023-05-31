@@ -22,7 +22,7 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.78% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
 | 24 | [Scorn](games/s/scorn.md) | 6.87% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -30,7 +30,7 @@
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.98% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
-| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
+| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
@@ -156,15 +156,15 @@
 | 154 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 154 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 156 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 157 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.11% |
 | 157 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 159 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 159 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
-| 159 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 159 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
-| 159 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 159 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 159 | [Supraland](games/s/supraland.md) | 0.10% |
+| 158 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 158 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
+| 158 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 158 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
+| 158 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 158 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
+| 158 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.10% |
+| 158 | [Supraland](games/s/supraland.md) | 0.10% |
 | 166 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 167 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.08% |
 | 167 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
