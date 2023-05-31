@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~633 |
+| Diligence as a goal | 4.00% | ~634 |
 | Project Arena | 3.00% | ~475 |
 | The Old Grandmaster | 1.00% | ~7,065 |
 | The Assault | 1.00% | ~7,065 |
@@ -45,7 +45,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.40% | ~2,826 |
 | Martial Hub | 0.40% | ~63 |
 | Prodigal Child | 0.30% | ~2,120 |
-| Secure, Protect, Leave | 0.30% | ~47 |
+| Secure, Protect, Leave | 0.30% | ~48 |
 | Drunken Fighter | 0.20% | ~1,413 |
 | Martial Artist | 0.20% | ~1,413 |
 | Knowledge Greed | 0.20% | ~1,413 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,532 (Ranked 15)  
+Progressed: 706,543 (Ranked 15)  
 Completed: 12,749 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 12,749 (1.80%) (Ranked 66)
 | 2023-05-28 | 706,072 | 12,742 |
 | 2023-05-29 | 706,246 | 12,745 |
 | 2023-05-30 | 706,411 | 12,748 |
-| 2023-05-31 | 706,532 | 12,749 |
+| 2023-05-31 | 706,543 | 12,749 |
 ## Awards
 Max (Great Boss Battles): 6,114  (Ranked 53)  
-Sum: 10,420 (Ranked 77)  
+Sum: 10,422 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -113,7 +113,7 @@ Diff (max vs sum): -24
 | This game has Amazing Storytelling | 497 |
 | This game has Amazing Characters | 482 |
 | This game is Highly Recommended | 480 |
-| This game has Unique Visuals | 455 |
+| This game has Unique Visuals | 457 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 350 |
 | This game has Obsessive Gameplay | 293 |
@@ -254,4 +254,4 @@ Diff (max vs sum): -24
 | 2023-05-28 | 4.82 | - | 6,108 | 10,406 |
 | 2023-05-29 | 4.82 | - | 6,109 | 10,410 |
 | 2023-05-30 | 4.82 | - | 6,114 | 10,418 |
-| 2023-05-31 | 4.82 | - | 6,114 | 10,420 |
+| 2023-05-31 | 4.82 | - | 6,114 | 10,422 |

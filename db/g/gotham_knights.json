@@ -1316,9 +1316,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62991,
+  "EOS_Progressed": 62995,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4511,6 +4511,11 @@
       "Time": "2023-05-31T16:05:40.6951361+00:00",
       "NumProgressed": 62991,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-31T17:06:05.838613+00:00",
+      "NumProgressed": 62995,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4744,9 +4749,9 @@
       "ID": "FREEZE_1",
       "SetID": "4eo5ebm",
       "Name": "To the Victor Go the Spoils",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 1260
     },
     {
       "ID": "FREEZE_1_5",
@@ -5009,13 +5014,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62991,
+      "Progressed": 62995,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33271,
+      "Progressed": 33275,
       "Completed": 2644
     }
   ],
@@ -5023,8 +5028,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-31T06:00:25.9069511+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:40.6951358+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:06:05.8386127+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:59:18.3769628+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:40.6952081+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:59:45.9109394+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:06:05.8386728+00:00"
 }

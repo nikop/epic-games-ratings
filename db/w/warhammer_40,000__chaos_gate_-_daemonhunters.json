@@ -2,7 +2,7 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2800,
+  "EOS_Progressed": 2801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1418,6 +1418,11 @@
       "Time": "2023-05-31T15:06:42.5119241+00:00",
       "NumProgressed": 2800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T17:06:03.0010506+00:00",
+      "NumProgressed": 2801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1467,9 +1472,9 @@
       "ID": "CampaignVictory_GrandMaster",
       "SetID": "3jha1np",
       "Name": "Grand Master",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "CampaignVictory_Legendary",
@@ -1579,9 +1584,9 @@
       "ID": "KadexCaptured",
       "SetID": "3jha1np",
       "Name": "Daemonkeeper",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 84
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1779,9 +1784,9 @@
       "ID": "MissionVictory_Purgators",
       "SetID": "3jha1np",
       "Name": "Firing Squad",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "MissionVictory_WoundedKnights",
@@ -1900,21 +1905,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2800,
+      "Progressed": 2801,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2800,
+      "Progressed": 2801,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:38.0279312+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:06:03.0010503+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:58:19.898852+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:38.027986+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:58:43.576872+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:06:03.001097+00:00"
 }

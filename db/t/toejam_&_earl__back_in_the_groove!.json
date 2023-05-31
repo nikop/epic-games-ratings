@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54850,
+  "EOS_Progressed": 54853,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2812,6 +2812,11 @@
       "Time": "2023-05-31T16:05:38.9757512+00:00",
       "NumProgressed": 54850,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-31T17:06:04.1696566+00:00",
+      "NumProgressed": 54853,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -2871,7 +2876,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "Explorer",
@@ -2895,7 +2900,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "FlyingPresentMaster",
@@ -2911,7 +2916,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "FoolMeTwice",
@@ -2919,7 +2924,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "FoundAllBackers",
@@ -2967,7 +2972,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "HarshLove",
@@ -3055,7 +3060,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "PacifistVictory",
@@ -3191,7 +3196,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -3214,7 +3219,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54850,
+      "Progressed": 54853,
       "Completed": 4
     }
   ],
@@ -3222,8 +3227,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:38.975751+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:06:04.1696562+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.8065434+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:59:59.7164989+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:38.9758038+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:00:31.6366051+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:06:04.1697015+00:00"
 }

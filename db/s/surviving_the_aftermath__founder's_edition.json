@@ -1005,9 +1005,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5969,
+  "EOS_Progressed": 5970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4375,6 +4375,11 @@
       "Time": "2023-05-31T15:06:41.9651893+00:00",
       "NumProgressed": 5969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T17:06:02.7359088+00:00",
+      "NumProgressed": 5970,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4386,7 +4391,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "10",
@@ -4442,7 +4447,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "17",
@@ -4474,7 +4479,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "20",
@@ -4482,7 +4487,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "21",
@@ -4498,7 +4503,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "23",
@@ -4506,7 +4511,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "24",
@@ -4522,7 +4527,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "26",
@@ -4546,7 +4551,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "29",
@@ -4594,7 +4599,7 @@
       "Name": "Around the World",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "34",
@@ -4650,7 +4655,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "40",
@@ -4834,7 +4839,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "8",
@@ -4842,7 +4847,7 @@
       "Name": "Real Survivor",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "9",
@@ -4857,15 +4862,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5969,
+      "Progressed": 5970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:37.6719594+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:06:02.7359084+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:59:28.6220705+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:37.6720322+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:59:57.3168772+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:06:02.7359675+00:00"
 }

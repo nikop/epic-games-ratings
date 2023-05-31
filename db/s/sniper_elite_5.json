@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1945,
+  "EOS_Progressed": 1949,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
@@ -2047,6 +2047,11 @@
       "Time": "2023-05-31T16:05:21.6270002+00:00",
       "NumProgressed": 1945,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T17:05:46.8314801+00:00",
+      "NumProgressed": 1949,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2138,7 +2143,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2370,7 +2375,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2394,7 +2399,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2408,9 +2413,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -2546,7 +2551,7 @@
       "Name": "Last Resort",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -2625,13 +2630,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1896,
+      "Progressed": 1900,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1945,
+      "Progressed": 1949,
       "Completed": 2
     }
   ],
@@ -2639,8 +2644,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:21.6269996+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:05:46.8314797+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:59:58.2745465+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:21.6270761+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:00:30.084973+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:05:46.8315406+00:00"
 }

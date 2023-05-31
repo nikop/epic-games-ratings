@@ -1055,9 +1055,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "MQ06_3",
@@ -1071,9 +1071,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ07_1",
@@ -1136,8 +1136,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:03:29.0460892+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:03:32.6468798+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:57:04.7691715+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:03:29.0461115+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:57:23.4393697+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:03:32.6468999+00:00"
 }

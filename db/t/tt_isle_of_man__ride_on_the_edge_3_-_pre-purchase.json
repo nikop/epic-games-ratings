@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.64,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -304,6 +304,11 @@
       "Time": "2023-05-31T09:02:11.3758885+00:00",
       "NumProgressed": 61,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T17:01:06.7693221+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 39,
@@ -329,7 +334,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -449,7 +454,7 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "gagif7",
       "Name": "Highly Qualified",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -537,7 +542,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -545,7 +550,7 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -553,7 +558,7 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -569,7 +574,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -579,7 +584,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -626,14 +631,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:02:14.19285+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:01:06.7693215+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.0293662+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:57:24.5957622+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:02:14.1928814+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:57:44.7069644+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:01:06.769347+00:00"
 }

@@ -358,9 +358,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 213
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -455,8 +455,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:09.7624768+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:05:34.7649898+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:57:31.2964462+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:09.762491+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:57:50.3949074+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:05:34.7650069+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4234,10 +4234,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10420,
       "NumberOfAwardsMax": 6114
+    },
+    {
+      "Time": "2023-05-31T16:59:02.8356432+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10422,
+      "NumberOfAwardsMax": 6114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10420,
+  "NumberOfAwards": 10422,
   "NumberOfAwardsMax": 6114,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4299,7 +4305,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 455
+      "Count": 457
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4314,9 +4320,9 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706532,
+  "EOS_Progressed": 706543,
   "EOS_Completed": 12749,
-  "EOS_NewPlayers": 1512,
+  "EOS_NewPlayers": 1516,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7944,6 +7950,11 @@
       "Time": "2023-05-31T16:05:35.7203615+00:00",
       "NumProgressed": 706532,
       "NumCompleted": 12749
+    },
+    {
+      "Time": "2023-05-31T17:06:00.679061+00:00",
+      "NumProgressed": 706543,
+      "NumCompleted": 12749
     }
   ],
   "TotalAchievements": 50,
@@ -8299,7 +8310,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8331,7 +8342,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -8354,21 +8365,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15833,
-      "Completed": 10205
+      "Progressed": 15844,
+      "Completed": 10206
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706532,
+      "Progressed": 706543,
       "Completed": 12749
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-31T05:59:29.779342+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:35.7203609+00:00",
+  "LastChanged": "2023-05-31T16:59:02.8356431+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:06:00.6790603+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:58:39.8562056+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:35.7204223+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:59:02.8356436+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:06:00.6791159+00:00"
 }

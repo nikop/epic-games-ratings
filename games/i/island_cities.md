@@ -13,7 +13,7 @@
 | Burger or pizza? | 36.00% | ~78 |
 | Passion for sports | 33.00% | ~72 |
 | Who loves trains? | 28.00% | ~61 |
-| Easy and steady climb | 26.00% | ~57 |
+| Easy and steady climb | 27.00% | ~59 |
 | At the heart of the city | 23.00% | ~50 |
 | Calm neighborhood | 22.00% | ~48 |
 | Elevated ring | 22.00% | ~48 |
@@ -28,7 +28,7 @@
 | Night walk along the beach | 15.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 218 (Ranked 237)  
-Completed: 32 (14.68%) (Ranked 11)  
+Completed: 33 (15.14%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 32 (14.68%) (Ranked 11)
 | 2023-05-28 | 199 | 30 |
 | 2023-05-29 | 206 | 31 |
 | 2023-05-30 | 213 | 32 |
-| 2023-05-31 | 218 | 32 |
+| 2023-05-31 | 218 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

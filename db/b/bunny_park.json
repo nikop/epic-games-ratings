@@ -4,7 +4,7 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.83,
+  "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -77,6 +77,11 @@
       "Time": "2023-05-29T20:02:16.6070667+00:00",
       "NumProgressed": 283,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-31T17:02:21.5719315+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 18,
@@ -112,7 +117,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "BP-05",
@@ -158,9 +163,9 @@
       "ID": "BP-10",
       "SetID": "7fc93f2",
       "Name": "Bunny Cuddles",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "BP-11",
@@ -168,7 +173,7 @@
       "Name": "Tropical Summer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BP-12",
@@ -176,7 +181,7 @@
       "Name": "Cozy Autumn",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "BP-13",
@@ -198,9 +203,9 @@
       "ID": "BP-15",
       "SetID": "7fc93f2",
       "Name": "Helpful Bot-terfly",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 131
     },
     {
       "ID": "BP-16",
@@ -231,7 +236,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 8
     }
   ],
@@ -239,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:02:29.1429657+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:02:21.5719311+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.5356254+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:58:01.2602176+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:02:29.1429785+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:58:22.511636+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:02:21.5719412+00:00"
 }

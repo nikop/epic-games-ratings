@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 420)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,9 +25,9 @@ Number of Ratings: 371  (23.09.2022)
 | Opportunist | 7.00% | ~196 |
 | Just a Scratch | 7.00% | ~196 |
 | Hold Your Ground | 6.00% | ~168 |
-| Daemonkeeper | 4.00% | ~112 |
 | A Gift Spurned | 4.00% | ~112 |
 | Long Distance Call | 4.00% | ~112 |
+| Daemonkeeper | 3.00% | ~84 |
 | Corruption Cleanser | 3.00% | ~84 |
 | Mind Like a Fortress | 3.00% | ~84 |
 | Harvest No More | 3.00% | ~84 |
@@ -51,10 +51,10 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.50% | ~14 |
 | Strategic Command | 0.40% | ~11 |
 | Blood and Iron | 0.30% | ~8 |
-| Grand Master | 0.30% | ~8 |
-| Firing Squad | 0.30% | ~8 |
 | Crisis Management | 0.20% | ~6 |
+| Grand Master | 0.20% | ~6 |
 | Brothers in Arms | 0.20% | ~6 |
+| Firing Squad | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,800 (Ranked 137)  
+Progressed: 2,801 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 2,736 | 0 |
 | 2023-05-29 | 2,765 | 0 |
 | 2023-05-30 | 2,793 | 0 |
-| 2023-05-31 | 2,800 | 0 |
+| 2023-05-31 | 2,801 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 420 (Ranked 298)  

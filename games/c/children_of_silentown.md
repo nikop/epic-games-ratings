@@ -15,7 +15,7 @@
 | Glass shards | 45.00% | ~68 |
 | Mysterious footprints | 45.00% | ~68 |
 | Complicated padlock | 44.00% | ~67 |
-| Big metal ruler | 42.00% | ~64 |
+| Big metal ruler | 43.00% | ~65 |
 | Doll | 37.00% | ~56 |
 | Windmill | 37.00% | ~56 |
 | Cat | 33.00% | ~50 |

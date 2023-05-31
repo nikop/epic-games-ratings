@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 102.00% | ~53 |
-| A bottomless pit | 87.00% | ~45 |
-| Pigeon | 85.00% | ~44 |
-| Baited | 67.00% | ~35 |
-| "Swoosh" | 56.00% | ~29 |
-| The light at the end of the tunnel | 56.00% | ~29 |
-| Splash! | 54.00% | ~28 |
-| Masochistic | 48.00% | ~25 |
-| Soft skin | 44.00% | ~23 |
-| Squid game | 35.00% | ~18 |
-| Sensitive soul | 33.00% | ~17 |
-| Rock Solid | 29.00% | ~15 |
-| The beast within | 27.00% | ~14 |
-| Rooftop | 27.00% | ~14 |
-| It's getting dark | 27.00% | ~14 |
-| Hard Rock | 27.00% | ~14 |
+| A path of no return | 102.00% | ~54 |
+| A bottomless pit | 85.00% | ~45 |
+| Pigeon | 83.00% | ~44 |
+| Baited | 66.00% | ~35 |
+| "Swoosh" | 55.00% | ~29 |
+| The light at the end of the tunnel | 55.00% | ~29 |
+| Splash! | 53.00% | ~28 |
+| Masochistic | 47.00% | ~25 |
+| Soft skin | 43.00% | ~23 |
+| Squid game | 34.00% | ~18 |
+| Sensitive soul | 32.00% | ~17 |
+| Rock Solid | 28.00% | ~15 |
+| The beast within | 26.00% | ~14 |
+| Rooftop | 26.00% | ~14 |
+| It's getting dark | 26.00% | ~14 |
+| Hard Rock | 26.00% | ~14 |
 | Homeless | 25.00% | ~13 |
 | Big badaboom! | 25.00% | ~13 |
 | Nokron tower | 21.00% | ~11 |
@@ -30,8 +30,8 @@
 | "Ah sh*t... Here we go again!" | 17.00% | ~9 |
 | Compulsive hoarder | 17.00% | ~9 |
 | MayDay! MayDay! | 15.00% | ~8 |
-| GG EZ | 10.00% | ~5 |
-| Comeback | 10.00% | ~5 |
+| GG EZ | 9.00% | ~5 |
+| Comeback | 9.00% | ~5 |
 | Gooooooaaaaal!!! | 8.00% | ~4 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 297)  
+Progressed: 53 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 49 | 0 |
 | 2023-05-29 | 50 | 0 |
 | 2023-05-30 | 51 | 0 |
-| 2023-05-31 | 52 | 0 |
+| 2023-05-31 | 53 | 0 |

@@ -5,12 +5,12 @@ Rating: 4.44 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~467 |
+| Meeting Resistance | 24.00% | ~468 |
 | Confirming Suspicions | 19.00% | ~370 |
 | The Kraken Wakes | 15.00% | ~292 |
-| It's Starting to Crack | 12.00% | ~233 |
+| It's Starting to Crack | 12.00% | ~234 |
 | Lord of War | 11.00% | ~214 |
-| Change the Channel | 10.00% | ~194 |
+| Change the Channel | 10.00% | ~195 |
 | Resourceful | 9.00% | ~175 |
 | Taking it back | 8.00% | ~156 |
 | Enemy at the Gates | 7.00% | ~136 |
@@ -41,8 +41,8 @@ Rating: 4.44 (Ranked 630)
 | It'll Buff Right Out | 1.00% | ~19 |
 | Strategist | 0.90% | ~18 |
 | Locomotion Commotion | 0.90% | ~18 |
+| Road Rage | 0.80% | ~16 |
 | Operation Foxley | 0.80% | ~15 |
-| Road Rage | 0.70% | ~14 |
 | Herr Today, Gone Tomorrow | 0.70% | ~13 |
 | Siegebreaker | 0.70% | ~13 |
 | Ghost of Falaise | 0.70% | ~13 |
@@ -50,7 +50,7 @@ Rating: 4.44 (Ranked 630)
 | Tinkerer | 0.60% | ~12 |
 | Don't hold your breath | 0.60% | ~12 |
 | Up close and personal | 0.50% | ~10 |
-| Last Resort | 0.50% | ~9 |
+| Last Resort | 0.50% | ~10 |
 | Burn after reading | 0.40% | ~8 |
 | Souvenir hunter | 0.40% | ~8 |
 | Eagle Eyed | 0.40% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 630)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,945 (Ranked 151)  
+Progressed: 1,949 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
-| 2023-05-31 | 1,945 | 2 |
+| 2023-05-31 | 1,949 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

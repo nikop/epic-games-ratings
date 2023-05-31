@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -268,6 +268,11 @@
       "Time": "2023-05-30T02:13:52.9526507+00:00",
       "NumProgressed": 992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T17:05:53.0498153+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -463,7 +468,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -559,7 +564,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "LOSEONEONLINE",
@@ -631,7 +636,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "TENPLATINUM",
@@ -661,9 +666,9 @@
       "ID": "WINGRANDSLAM",
       "SetID": "3dh70f3",
       "Name": "Grandslam",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WINLAST",
@@ -694,7 +699,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 0
     }
   ],
@@ -702,8 +707,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:27.9865677+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:05:53.0498149+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.3827086+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:57:50.9526138+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:27.9866136+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:58:11.674091+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:05:53.0498511+00:00"
 }

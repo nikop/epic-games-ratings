@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~509,451 |
-| Every story has a beginning | 37.00% | ~229,874 |
-| The first of many | 32.00% | ~198,810 |
-| Positive word of mouth | 18.00% | ~111,831 |
-| Lawn in the U.S.A. | 15.00% | ~93,192 |
-| Blade Runner | 9.00% | ~55,915 |
-| Credible | 7.00% | ~43,490 |
-| Teamwork makes the dream work | 6.00% | ~37,277 |
-| Bigger and better | 4.00% | ~24,851 |
-| Aggressive expansion | 4.00% | ~24,851 |
-| Where there's muck there's brass | 3.00% | ~18,638 |
-| Size isn't everything | 3.00% | ~18,638 |
-| Close shave | 3.00% | ~18,638 |
-| Established | 3.00% | ~18,638 |
+| The dream begins | 82.00% | ~509,468 |
+| Every story has a beginning | 37.00% | ~229,882 |
+| The first of many | 32.00% | ~198,817 |
+| Positive word of mouth | 18.00% | ~111,834 |
+| Lawn in the U.S.A. | 15.00% | ~93,195 |
+| Blade Runner | 9.00% | ~55,917 |
+| Credible | 7.00% | ~43,491 |
+| Teamwork makes the dream work | 6.00% | ~37,278 |
+| Bigger and better | 4.00% | ~24,852 |
+| Aggressive expansion | 4.00% | ~24,852 |
+| Where there's muck there's brass | 3.00% | ~18,639 |
+| Size isn't everything | 3.00% | ~18,639 |
+| Close shave | 3.00% | ~18,639 |
+| Established | 3.00% | ~18,639 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,426 |
 | Every good deed… | 2.00% | ~12,426 |
 | Leaner and meaner | 2.00% | ~12,426 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~621 |
 | Mo mowers, mo problems | 0.10% | ~621 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 621,282 (Ranked 19)  
+Progressed: 621,302 (Ranked 19)  
 Completed: 11 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 11 (0.00%) (Ranked 208)
 | 2023-05-28 | 619,994 | 11 |
 | 2023-05-29 | 620,531 | 11 |
 | 2023-05-30 | 620,995 | 11 |
-| 2023-05-31 | 621,282 | 11 |
+| 2023-05-31 | 621,302 | 11 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 270)  
 Sum: 962 (Ranked 232)  

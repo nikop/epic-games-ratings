@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -719,6 +719,11 @@
       "Time": "2023-05-31T16:04:35.9302324+00:00",
       "NumProgressed": 533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T17:04:50.0775448+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -762,7 +767,7 @@
       "Name": "Right On Time",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ClockworkCompletion1",
@@ -826,7 +831,7 @@
       "Name": "Family Memories",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "FactorywoodChests1",
@@ -840,9 +845,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -890,7 +895,7 @@
       "Name": "Rail Rat",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "HexlockGift",
@@ -914,7 +919,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "LacunaCompleted",
@@ -960,7 +965,7 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 60,
       "UsersEstimate": 4
     },
@@ -970,7 +975,7 @@
       "Name": "Time Flies",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ParryBoss",
@@ -978,7 +983,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ParryRepeated1",
@@ -1002,7 +1007,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PidgeDefeated",
@@ -1018,7 +1023,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "RewindParry",
@@ -1026,7 +1031,7 @@
       "Name": "Honest Mistake",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1042,15 +1047,15 @@
       "Name": "Golem Chaser",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     },
     {
       "ID": "SkillProgress1",
@@ -1058,7 +1063,7 @@
       "Name": "Fast Learner",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "SpeedRun",
@@ -1080,9 +1085,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1106,7 +1111,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "WarwickDefeated",
@@ -1153,14 +1158,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:04:35.9302319+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:04:50.0775445+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:59:01.2584762+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:04:35.9302823+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:59:28.4071015+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:04:50.0775897+00:00"
 }

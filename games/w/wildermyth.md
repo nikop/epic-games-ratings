@@ -40,6 +40,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 3.00% | ~37 |
 | Grillmaster | 3.00% | ~37 |
 | Into Mulch | 3.00% | ~37 |
+| Astrology | 3.00% | ~37 |
 | No Time for Clawmonsters | 3.00% | ~37 |
 | Storied Past | 2.00% | ~25 |
 | The Power of Friendship | 2.00% | ~25 |
@@ -49,7 +50,6 @@ Number of Ratings: 45  (23.09.2022)
 | War-Ender | 2.00% | ~25 |
 | Fight Like a Bird | 2.00% | ~25 |
 | Some Say I'm Too Flashy | 2.00% | ~25 |
-| Astrology | 2.00% | ~25 |
 | Tempest | 2.00% | ~25 |
 | Lochias's Hunger | 2.00% | ~25 |
 | Back into the Sea | 1.00% | ~12 |

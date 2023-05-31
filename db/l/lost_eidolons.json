@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 927,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -538,6 +538,11 @@
       "Time": "2023-05-31T15:06:30.438131+00:00",
       "NumProgressed": 925,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T17:05:52.9365518+00:00",
+      "NumProgressed": 927,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -573,7 +578,7 @@
       "Name": "The Unvanquished",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "05",
@@ -581,7 +586,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "06",
@@ -589,7 +594,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 603
     },
     {
       "ID": "07",
@@ -597,7 +602,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "08",
@@ -605,7 +610,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "09",
@@ -621,7 +626,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "11",
@@ -645,7 +650,7 @@
       "Name": "Let Us Cling Together",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "14",
@@ -677,7 +682,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "18",
@@ -685,7 +690,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 464
     },
     {
       "ID": "19",
@@ -701,7 +706,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "21",
@@ -709,7 +714,7 @@
       "Name": "Arrow in the Wind",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "22",
@@ -717,7 +722,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "23",
@@ -725,14 +730,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 927,
       "Completed": 0
     }
   ],
@@ -740,8 +745,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:27.8614539+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:05:52.9365513+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:59:15.6507186+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:27.8614707+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:59:42.8999738+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:05:52.9365655+00:00"
 }

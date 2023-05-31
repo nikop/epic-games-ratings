@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 218,
-  "EOS_Completed": 32,
+  "EOS_Completed": 33,
   "EOS_NewPlayers": 66,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 14.68,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 15.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -963,6 +963,11 @@
       "Time": "2023-05-31T15:06:09.7827878+00:00",
       "NumProgressed": 218,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-31T17:05:35.8811312+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 22,
@@ -1044,9 +1049,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_011",
@@ -1150,15 +1155,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 218,
-      "Completed": 32
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:10.8958798+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:05:35.8811309+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:57:47.2775421+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:10.8959015+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:58:08.0349867+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:05:35.8811474+00:00"
 }

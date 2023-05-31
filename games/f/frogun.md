@@ -16,7 +16,7 @@
 | Hat lover | 34.00% | ~67 |
 | Perfectionist | 30.00% | ~59 |
 | Protected | 29.00% | ~57 |
-| Pragmatic | 23.00% | ~45 |
+| Pragmatic | 24.00% | ~47 |
 | Calory burner | 17.00% | ~33 |
 | Pacifist | 15.00% | ~30 |
 | Snow digger | 14.00% | ~28 |

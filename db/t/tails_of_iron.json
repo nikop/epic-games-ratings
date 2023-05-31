@@ -950,9 +950,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1084
     },
     {
       "ID": "Collect20Gold",
@@ -1205,8 +1205,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:00:15.9668527+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:00:49.506397+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:58:05.1602815+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:00:15.9668833+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:58:26.7355947+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:00:49.5064238+00:00"
 }

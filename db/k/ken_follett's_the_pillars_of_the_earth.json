@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12870,
+  "EOS_Progressed": 12871,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3114,6 +3114,11 @@
       "Time": "2023-05-31T14:06:00.9167902+00:00",
       "NumProgressed": 12870,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-05-31T17:05:35.6981213+00:00",
+      "NumProgressed": 12871,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 41,
@@ -3213,7 +3218,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     },
     {
       "ID": "tpote_achievement_20",
@@ -3325,7 +3330,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "tpote_achievement_33",
@@ -3389,7 +3394,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5405
+      "UsersEstimate": 5406
     },
     {
       "ID": "tpote_achievement_40",
@@ -3437,7 +3442,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "tpote_achievement_9",
@@ -3445,22 +3450,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4633
+      "UsersEstimate": 4634
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12870,
+      "Progressed": 12871,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-31T16:05:10.742623+00:00",
+  "LastChanged_Achievements": "2023-05-31T17:05:35.698121+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:59:29.7071949+00:00",
-  "LastUpdate_Achievements": "2023-05-31T16:05:10.74267+00:00"
+  "LastUpdate_Ratings": "2023-05-31T16:59:58.5578282+00:00",
+  "LastUpdate_Achievements": "2023-05-31T17:05:35.6981587+00:00"
 }

@@ -1,17 +1,17 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 438)  
+Rating: 4.57 (Ranked 437)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 12.00% | ~278 |
+| Wakey Wakey | 12.00% | ~279 |
 | Infinite Growth... | 10.00% | ~232 |
 | Sputnik 2049 | 10.00% | ~232 |
 | Without Breaking Some Eggs... | 9.00% | ~209 |
+| Space Society | 6.00% | ~139 |
 | A Thousand Strong | 6.00% | ~139 |
 | Ready for a New World | 6.00% | ~139 |
-| Space Society | 5.00% | ~116 |
 | Breaking Protocol | 5.00% | ~116 |
 | Ain't Nobody Got Time for That | 5.00% | ~116 |
 | Guy de Borderlands | 4.00% | ~93 |
@@ -55,7 +55,7 @@ Rating: 4.57 (Ranked 438)
 | Soylent Green | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
-| I Give You the Stars | 0.10% | ~0 |
+| I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Suburban Perfection | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,319 (Ranked 144)  
+Progressed: 2,321 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,319 | 0 |
+| 2023-05-31 | 2,321 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
