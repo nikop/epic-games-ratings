@@ -811,9 +811,9 @@
       "ID": "TriggerHappy",
       "SetID": "70l3651",
       "Name": "Trigger-Happy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "WelcomeToMordor",
@@ -834,8 +834,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:05:20.966844+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:05:57.3619828+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:57:41.2342395+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:05:20.9668753+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:57:42.2464503+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:05:57.3620059+00:00"
 }

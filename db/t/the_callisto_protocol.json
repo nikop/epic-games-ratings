@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 101,
@@ -500,9 +500,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14147,
+  "EOS_Progressed": 14155,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2285,6 +2285,11 @@
       "Time": "2023-05-31T19:03:50.348873+00:00",
       "NumProgressed": 14147,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-31T20:04:07.8341334+00:00",
+      "NumProgressed": 14155,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2312,7 +2317,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2328,7 +2333,7 @@
       "Name": "Flesh Wound",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2360,7 +2365,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -2408,7 +2413,7 @@
       "Name": "In Striking Distance",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "KILL_2HEAD",
@@ -2432,7 +2437,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2440,7 +2445,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2456,7 +2461,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2464,7 +2469,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2496,7 +2501,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "STORY_HABITAT",
@@ -2512,7 +2517,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2528,7 +2533,7 @@
       "Name": "Desperate Times",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2536,7 +2541,7 @@
       "Name": "Crash Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "STORY_TOWER",
@@ -2608,20 +2613,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14147,
+      "Progressed": 14155,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2073,
+      "Progressed": 2081,
       "Completed": 29
     }
   ],
@@ -2629,8 +2634,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:03:50.348872+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:04:07.8341331+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:57:46.816584+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:03:50.3489174+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:57:48.2856714+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:04:07.8341694+00:00"
 }

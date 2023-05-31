@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 94,
@@ -1518,7 +1518,7 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19151,
+  "EOS_Progressed": 19152,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
@@ -3303,6 +3303,11 @@
       "Time": "2023-05-31T18:06:10.1733883+00:00",
       "NumProgressed": 19151,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-31T20:06:12.3947108+00:00",
+      "NumProgressed": 19152,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3362,7 +3367,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18002
+      "UsersEstimate": 18003
     },
     {
       "ID": "GameOver",
@@ -3497,15 +3502,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19151,
+      "Progressed": 19152,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-31T16:59:28.9447472+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:05:34.3860379+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:06:12.3947104+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:59:14.2402726+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:05:34.3860669+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:59:36.5069878+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:06:12.3947325+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -118,6 +118,11 @@
     {
       "Time": "2023-05-31T09:06:38.9021467+00:00",
       "NumProgressed": 301,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T20:06:33.1326224+00:00",
+      "NumProgressed": 302,
       "NumCompleted": 1
     }
   ],
@@ -266,7 +271,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach-campaign-story2",
@@ -274,7 +279,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach-campaign-story3",
@@ -282,7 +287,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-cartography-complete",
@@ -330,7 +335,7 @@
       "Name": "Fire and Flood",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach-find-treasure",
@@ -394,7 +399,7 @@
       "Name": "Taxonomist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach-kill-hyenas",
@@ -418,7 +423,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -458,7 +463,7 @@
       "Name": "Spooky!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach-noEquipment",
@@ -474,7 +479,7 @@
       "Name": "Insomnia",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ach-pacifist-goals",
@@ -506,7 +511,7 @@
       "Name": "From Whence we Came",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach-promotion",
@@ -522,7 +527,7 @@
       "Name": "Good Mama",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach-redElk",
@@ -544,9 +549,9 @@
       "ID": "ach-rob-shrines",
       "SetID": "17ih7ma",
       "Name": "Plunderer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "ach-salamanderPrince",
@@ -578,7 +583,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -609,7 +614,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 1
     }
   ],
@@ -617,8 +622,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:05:52.9096493+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:06:33.1326219+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:00:16.0760642+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:05:52.9096999+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:00:54.9444267+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:06:33.1326666+00:00"
 }

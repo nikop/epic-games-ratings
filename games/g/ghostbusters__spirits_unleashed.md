@@ -5,25 +5,25 @@ Rating: 4.49 (Ranked 559)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,329 |
-| Advancement | 73.00% | ~16,407 |
+| Stylish | 86.00% | ~19,330 |
+| Advancement | 73.00% | ~16,408 |
 | Meticulously Efficient | 64.00% | ~14,385 |
-| Discovery | 62.00% | ~13,935 |
+| Discovery | 62.00% | ~13,936 |
 | Swift Rift Removers | 56.00% | ~12,587 |
 | Fully Upgraded | 55.00% | ~12,362 |
-| Cultured | 53.00% | ~11,912 |
+| Cultured | 53.00% | ~11,913 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,688 |
-| Vaporous Expansion | 49.00% | ~11,013 |
-| Teamwork | 45.00% | ~10,114 |
-| There you are! | 44.00% | ~9,889 |
-| Clutch Capture | 41.00% | ~9,215 |
-| Back Off | 36.00% | ~8,091 |
+| Vaporous Expansion | 49.00% | ~11,014 |
+| Teamwork | 45.00% | ~10,115 |
+| There you are! | 44.00% | ~9,890 |
+| Clutch Capture | 41.00% | ~9,216 |
+| Back Off | 36.00% | ~8,092 |
 | Daily Dose | 35.00% | ~7,867 |
 | Welcome to the Crew | 33.00% | ~7,417 |
-| Solo Capture | 32.00% | ~7,192 |
+| Solo Capture | 32.00% | ~7,193 |
 | Ghostbuster In Training | 31.00% | ~6,968 |
 | Icing on the Cake | 30.00% | ~6,743 |
-| Side Hustle | 28.00% | ~6,293 |
+| Side Hustle | 28.00% | ~6,294 |
 | We have the best insurance | 27.00% | ~6,069 |
 | Legions | 27.00% | ~6,069 |
 | Stunner | 27.00% | ~6,069 |
@@ -35,7 +35,7 @@ Rating: 4.49 (Ranked 559)
 | Collector | 24.00% | ~5,394 |
 | Ectoplasmic Entity | 24.00% | ~5,394 |
 | Rift Destroyer | 20.00% | ~4,495 |
-| Tobin's Prodigy | 19.00% | ~4,270 |
+| Tobin's Prodigy | 19.00% | ~4,271 |
 | Reckless | 18.00% | ~4,046 |
 | Terrifying | 17.00% | ~3,821 |
 | Diabolical | 16.00% | ~3,596 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 559)
 | I don't need these | 1.00% | ~225 |
 | Mycophile | 1.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,476 (Ranked 92)  
+Progressed: 22,477 (Ranked 92)  
 Completed: 40 (0.18%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 40 (0.18%) (Ranked 145)
 | 2023-05-28 | 22,376 | 40 |
 | 2023-05-29 | 22,425 | 40 |
 | 2023-05-30 | 22,454 | 40 |
-| 2023-05-31 | 22,476 | 40 |
+| 2023-05-31 | 22,477 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,089 (Ranked 183)  

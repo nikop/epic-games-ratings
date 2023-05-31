@@ -8,18 +8,18 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 58.00% | ~175 |
 | Cartographer | 52.00% | ~157 |
-| A Strange Artefact | 48.00% | ~144 |
-| Insomnia | 44.00% | ~132 |
-| From Whence we Came | 39.00% | ~117 |
-| Lost & Found & Lost Again | 37.00% | ~111 |
-| Fire and Flood | 35.00% | ~105 |
-| Spooky! | 34.00% | ~102 |
-| Shennong Herbalist | 31.00% | ~93 |
-| Treasure Hunt | 30.00% | ~90 |
-| Good Mama | 29.00% | ~87 |
-| O Captain My Captain | 27.00% | ~81 |
-| Plunderer | 26.00% | ~78 |
-| Taxonomist | 25.00% | ~75 |
+| A Strange Artefact | 48.00% | ~145 |
+| Insomnia | 44.00% | ~133 |
+| From Whence we Came | 39.00% | ~118 |
+| Lost & Found & Lost Again | 37.00% | ~112 |
+| Fire and Flood | 35.00% | ~106 |
+| Spooky! | 34.00% | ~103 |
+| Shennong Herbalist | 31.00% | ~94 |
+| Treasure Hunt | 30.00% | ~91 |
+| Good Mama | 29.00% | ~88 |
+| O Captain My Captain | 27.00% | ~82 |
+| Taxonomist | 25.00% | ~76 |
+| Plunderer | 25.00% | ~76 |
 | Uncertain Loyalties | 23.00% | ~69 |
 | Traveller | 22.00% | ~66 |
 | Nahua Seeker | 22.00% | ~66 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 221)  
+Progressed: 302 (Ranked 221)  
 Completed: 1 (0.33%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.33%) (Ranked 121)
 | 2023-05-27 | 298 | 1 |
 | 2023-05-28 | 299 | 1 |
 | 2023-05-29 | 300 | 1 |
-| 2023-05-31 | 301 | 1 |
+| 2023-05-31 | 302 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

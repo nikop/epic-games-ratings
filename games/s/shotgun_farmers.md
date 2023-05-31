@@ -7,10 +7,10 @@
 | Aspairagus | 49.00% | ~8 |
 | Survivor | 37.00% | ~6 |
 | No Diggity | 34.00% | ~6 |
-| Early Survivor | 30.00% | ~5 |
+| Early Survivor | 31.00% | ~5 |
 | Seeds of War | 27.00% | ~18 |
 | Bouncemato | 24.00% | ~4 |
-| Amateur Survivor | 22.00% | ~4 |
+| Amateur Survivor | 24.00% | ~4 |
 | First Blood | 19.00% | ~13 |
 | Quick-Draw Pod | 19.00% | ~3 |
 | I Believe I Can Fly | 18.00% | ~12 |
@@ -19,10 +19,10 @@
 | Triple Kill | 13.00% | ~9 |
 | Professional Survivor | 13.00% | ~2 |
 | Grave Digger | 13.00% | ~2 |
-| 15K | 10.00% | ~7 |
-| 10K | 10.00% | ~7 |
+| 15K | 12.00% | ~8 |
+| 10K | 12.00% | ~8 |
+| Drinking Problem | 10.00% | ~7 |
 | Perfect | 10.00% | ~2 |
-| Drinking Problem | 9.00% | ~6 |
 | Oh My Gourd | 9.00% | ~2 |
 | Expert Survivor | 9.00% | ~2 |
 | Quadsparagus | 9.00% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 291)  
+Progressed: 67 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

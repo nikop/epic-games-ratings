@@ -2,12 +2,12 @@
   "ID": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
-  "Ranking_Rating": 141,
+  "Ranking_Rating": 157,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "NumberOfRatings": 5157,
   "RatingHistory": [
     {
@@ -2145,6 +2145,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 2156,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-05-31T19:59:58.8663549+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2156,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
@@ -2242,8 +2248,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2023-05-30T13:07:01.4489473+00:00",
+  "LastChanged": "2023-05-31T19:59:58.8663547+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.6829061+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:59:30.2130208+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:03:31.1261259+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:59:58.8663553+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:03:45.0875539+00:00"
 }

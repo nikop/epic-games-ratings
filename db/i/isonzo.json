@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5973,
+  "EOS_Progressed": 5975,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -1878,6 +1878,11 @@
       "Time": "2023-05-31T18:03:36.2114915+00:00",
       "NumProgressed": 5973,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-31T20:03:19.7075965+00:00",
+      "NumProgressed": 5975,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1937,7 +1942,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1969,7 +1974,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -1993,7 +1998,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -2001,7 +2006,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -2033,7 +2038,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -2057,7 +2062,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -2081,7 +2086,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2097,7 +2102,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -2137,7 +2142,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2145,7 +2150,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -2153,7 +2158,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -2185,7 +2190,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2217,7 +2222,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2225,7 +2230,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -2233,7 +2238,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2241,14 +2246,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5973,
+      "Progressed": 5975,
       "Completed": 8
     }
   ],
@@ -2256,8 +2261,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-31T13:04:59.5463809+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:02:39.8057375+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:03:19.7075961+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:57:22.1941788+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:02:39.8057799+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:57:17.7948726+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:03:19.70763+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -324,7 +324,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2398,
+  "EOS_Progressed": 2399,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
@@ -1029,6 +1029,11 @@
       "Time": "2023-05-31T02:27:37.8037554+00:00",
       "NumProgressed": 2398,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-31T20:06:21.4760436+00:00",
+      "NumProgressed": 2399,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 14,
@@ -1040,7 +1045,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1048,7 +1053,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -1080,7 +1085,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -1088,7 +1093,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -1128,7 +1133,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -1136,7 +1141,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1144,14 +1149,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2398,
+      "Progressed": 2399,
       "Completed": 95
     }
   ],
@@ -1159,8 +1164,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:05:42.4918527+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:06:21.4760431+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:40.3998585+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:00:02.8501611+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:05:42.4918691+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:00:38.6142586+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:06:21.4760558+00:00"
 }

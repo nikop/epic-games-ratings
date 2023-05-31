@@ -12,8 +12,8 @@ Number of Ratings: 58  (23.09.2022)
 | Demigod | 77.00% | ~701 |
 | The Great Destroyer | 75.00% | ~682 |
 | Shields Down | 73.00% | ~664 |
+| Helping Hand | 68.00% | ~619 |
 | Safe Home | 68.00% | ~619 |
-| Helping Hand | 67.00% | ~610 |
 | Paragon | 64.00% | ~582 |
 | Old Days Born Anew | 62.00% | ~564 |
 | Full Arsenal | 57.00% | ~519 |
@@ -29,7 +29,7 @@ Number of Ratings: 58  (23.09.2022)
 | Origin | 40.00% | ~364 |
 | It Was An Accident | 40.00% | ~364 |
 | Set in Motion | 39.00% | ~355 |
-| In the Eye of the Storm | 37.00% | ~337 |
+| In the Eye of the Storm | 38.00% | ~346 |
 | The Crimson Void | 35.00% | ~318 |
 | The Nameless Dread | 34.00% | ~309 |
 | Time to Spear | 30.00% | ~273 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 9.00% | ~82 |
 | At Least You Tried | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 910 (Ranked 176)  
+Progressed: 910 (Ranked 177)  
 Completed: 11 (1.21%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |

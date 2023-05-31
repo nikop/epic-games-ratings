@@ -1,27 +1,27 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 834)  
+Rating: 4.18 (Ranked 833)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,415 |
+| Flesh Wound | 10.00% | ~1,416 |
 | The Outer Way | 8.00% | ~1,132 |
-| Desperate Times | 7.00% | ~990 |
+| Desperate Times | 7.00% | ~991 |
 | Chew 'Em Up | 6.00% | ~849 |
 | Paper Jams | 6.00% | ~849 |
-| Giving Back | 5.00% | ~707 |
-| Workplace Hazard | 5.00% | ~707 |
-| Reforged | 5.00% | ~707 |
-| If the SHU Fits... | 5.00% | ~707 |
+| Giving Back | 5.00% | ~708 |
+| Workplace Hazard | 5.00% | ~708 |
+| Reforged | 5.00% | ~708 |
+| If the SHU Fits... | 5.00% | ~708 |
 | Get a Grip | 4.00% | ~566 |
 | Without A Paddle | 4.00% | ~566 |
 | Instigator | 4.00% | ~83 |
 | Big Game Hunter | 4.00% | ~83 |
-| Terminated | 3.00% | ~424 |
-| Float Like A Butterfly | 3.00% | ~424 |
-| In the Pipe, Five by Five | 3.00% | ~424 |
-| Crash Site | 3.00% | ~424 |
+| Terminated | 3.00% | ~425 |
+| Float Like A Butterfly | 3.00% | ~425 |
+| In the Pipe, Five by Five | 3.00% | ~425 |
+| Crash Site | 3.00% | ~425 |
 | Bear Trap | 3.00% | ~62 |
 | You Need a Gun | 2.00% | ~283 |
 | Two Heads Are Better Than One | 2.00% | ~283 |
@@ -30,10 +30,10 @@ Rating: 4.18 (Ranked 834)
 | What Lies Beneath | 2.00% | ~283 |
 | Full Circle | 2.00% | ~283 |
 | Power Up | 2.00% | ~283 |
-| Big Spender | 2.00% | ~41 |
-| I Do Belong Here | 1.00% | ~141 |
+| Big Spender | 2.00% | ~42 |
+| I Do Belong Here | 1.00% | ~142 |
 | Parole Denied | 1.00% | ~21 |
-| In Striking Distance | 1.00% | ~141 |
+| In Striking Distance | 1.00% | ~142 |
 | Hoard Mode | 1.00% | ~21 |
 | Recidivist | 0.70% | ~15 |
 | Lifer | 0.70% | ~15 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,147 (Ranked 101)  
+Progressed: 14,155 (Ranked 101)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
-| 2023-05-31 | 14,147 | 53 |
+| 2023-05-31 | 14,155 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

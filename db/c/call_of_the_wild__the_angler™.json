@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3947,
+  "EOS_Progressed": 3949,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2268,6 +2268,11 @@
       "Time": "2023-05-31T19:00:20.5205818+00:00",
       "NumProgressed": 3947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T20:01:03.1452799+00:00",
+      "NumProgressed": 3949,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2279,7 +2284,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2883
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2287,7 +2292,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2295,7 +2300,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2303,7 +2308,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -2311,15 +2316,15 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2093
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2327,7 +2332,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -2335,7 +2340,7 @@
       "Name": "Scaling up",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2558,13 +2563,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3947,
+      "Progressed": 3949,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3319,
+      "Progressed": 3321,
       "Completed": 112
     }
   ],
@@ -2572,8 +2577,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:00:20.5205804+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:01:03.1452795+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:59:33.6506755+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:00:20.5206471+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:00:04.2678186+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:01:03.1453173+00:00"
 }

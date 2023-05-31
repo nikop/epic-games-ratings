@@ -262,9 +262,9 @@
       "ID": "pacificProtest",
       "SetID": "5bkacmp",
       "Name": "Peaceful protest",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "pacifistFanatic",
@@ -423,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:05:48.6613863+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:06:28.5430614+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.9100533+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:00:12.4162778+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:05:48.6614189+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:00:50.5872892+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:06:28.5430856+00:00"
 }

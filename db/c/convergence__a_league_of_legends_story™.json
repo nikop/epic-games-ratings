@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -871,17 +871,17 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 178
     },
     {
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "GadgetCompletion1",
@@ -1007,9 +1007,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 237
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1174,8 +1174,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:04:48.6244522+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:05:18.2205978+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:59:13.7145581+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:04:48.6245012+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:59:35.7081052+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:05:18.2206374+00:00"
 }

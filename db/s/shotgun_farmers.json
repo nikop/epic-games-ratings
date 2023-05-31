@@ -2,7 +2,7 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 89,
@@ -377,9 +377,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_first_first_blood",
@@ -409,9 +409,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -641,9 +641,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_tripleKill",
@@ -801,7 +801,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -809,7 +809,7 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -944,8 +944,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:04:28.2772831+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:04:53.3533065+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:02.3637507+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:58:12.2551817+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:04:28.277365+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:58:19.9690941+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:04:53.3533658+00:00"
 }

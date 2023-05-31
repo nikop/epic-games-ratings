@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -332,6 +332,11 @@
       "Time": "2023-05-30T23:03:26.6077159+00:00",
       "NumProgressed": 393,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-31T20:03:45.3179917+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -343,7 +348,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "booty_call",
@@ -367,7 +372,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "hold_my_beer",
@@ -439,7 +444,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "sore_loser",
@@ -447,22 +452,22 @@
       "Name": "Sore Loser",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 4
     }
   ],
@@ -470,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-31T19:03:31.3051499+00:00",
+  "LastChanged_Achievements": "2023-05-31T20:03:45.317991+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:53.6921193+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:58:02.5362261+00:00",
-  "LastUpdate_Achievements": "2023-05-31T19:03:31.3051652+00:00"
+  "LastUpdate_Ratings": "2023-05-31T19:58:08.0057546+00:00",
+  "LastUpdate_Achievements": "2023-05-31T20:03:45.3180019+00:00"
 }

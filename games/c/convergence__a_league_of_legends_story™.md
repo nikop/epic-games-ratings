@@ -18,19 +18,19 @@
 | Fast Learner | 49.00% | ~264 |
 | Immaculate Aim | 48.00% | ~258 |
 | Make Up For Lost Time | 47.00% | ~253 |
-| Breaking Down Barriers | 43.00% | ~231 |
+| Breaking Down Barriers | 44.00% | ~237 |
 | The Steel Shadow | 38.00% | ~204 |
 | Golem Chaser | 37.00% | ~199 |
 | Like Clockwork | 35.00% | ~188 |
 | The Wicked Twins | 34.00% | ~183 |
-| The Betrayer | 32.00% | ~172 |
+| The Betrayer | 33.00% | ~178 |
 | Family Memories | 31.00% | ~167 |
 | Check Your Pulse | 30.00% | ~161 |
 | Street Style | 29.00% | ~156 |
 | Good Neighbor | 29.00% | ~156 |
 | The Loose Cannon | 28.00% | ~151 |
+| The Man Who Shattered Time | 23.00% | ~124 |
 | The Family Fortune | 23.00% | ~124 |
-| The Man Who Shattered Time | 22.00% | ~118 |
 | Whiz Kid | 22.00% | ~118 |
 | Ask Questions Later | 22.00% | ~118 |
 | Sump Explorer | 21.00% | ~113 |
