@@ -8,7 +8,7 @@ Rating: 4.45 (Ranked 607)
 | Meeting Resistance | 23.00% | ~438 |
 | Confirming Suspicions | 18.00% | ~343 |
 | The Kraken Wakes | 14.00% | ~267 |
-| It's Starting to Crack | 11.00% | ~209 |
+| It's Starting to Crack | 11.00% | ~210 |
 | Lord of War | 10.00% | ~190 |
 | Resourceful | 9.00% | ~171 |
 | Change the Channel | 9.00% | ~171 |
@@ -48,7 +48,7 @@ Rating: 4.45 (Ranked 607)
 | Ghost of Falaise | 0.70% | ~13 |
 | From Paris with Love | 0.60% | ~11 |
 | Tinkerer | 0.60% | ~11 |
-| Don't hold your breath | 0.50% | ~10 |
+| Don't hold your breath | 0.60% | ~11 |
 | Last Resort | 0.50% | ~9 |
 | Burn after reading | 0.40% | ~8 |
 | Souvenir hunter | 0.40% | ~8 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 607)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,904 (Ranked 151)  
-Completed: 2 (0.11%) (Ranked 157)  
+Progressed: 1,905 (Ranked 151)  
+Completed: 2 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,6 +117,7 @@ Completed: 2 (0.11%) (Ranked 157)
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
+| 2023-05-31 | 1,905 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

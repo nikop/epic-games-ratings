@@ -1298,9 +1298,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62912,
+  "EOS_Progressed": 62919,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1069,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4413,6 +4413,11 @@
       "Time": "2023-05-30T23:06:29.106872+00:00",
       "NumProgressed": 62912,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-31T00:06:20.2762551+00:00",
+      "NumProgressed": 62919,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4640,7 +4645,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "FREEZE_1",
@@ -4768,7 +4773,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4880,7 +4885,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -4911,13 +4916,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62912,
+      "Progressed": 62919,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33192,
+      "Progressed": 33199,
       "Completed": 2643
     }
   ],
@@ -4925,8 +4930,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-30T00:00:31.1469343+00:00",
-  "LastChanged_Achievements": "2023-05-30T23:06:29.1068714+00:00",
+  "LastChanged_Achievements": "2023-05-31T00:06:20.2762547+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-30T22:59:53.8382007+00:00",
-  "LastUpdate_Achievements": "2023-05-30T23:06:29.106966+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:59:46.2301931+00:00",
+  "LastUpdate_Achievements": "2023-05-31T00:06:20.2763319+00:00"
 }

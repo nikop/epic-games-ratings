@@ -296,9 +296,9 @@
       "ID": "25",
       "SetID": "39djiaj",
       "Name": "Kitchen Secret Spot",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "26",
@@ -464,9 +464,9 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "9",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-30T23:06:02.3447251+00:00",
+  "LastChanged_Achievements": "2023-05-31T00:05:54.1794171+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-30T22:59:14.5398908+00:00",
-  "LastUpdate_Achievements": "2023-05-30T23:06:02.3447576+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:59:07.6479632+00:00",
+  "LastUpdate_Achievements": "2023-05-31T00:05:54.1794496+00:00"
 }

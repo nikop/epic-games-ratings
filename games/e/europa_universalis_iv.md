@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,244 |
-| That's a Grand Army | 8.00% | ~3,772 |
-| That is mine! | 8.00% | ~3,772 |
-| Victorious! | 8.00% | ~3,772 |
-| Brothers in Arms | 6.00% | ~2,829 |
-| That's a Grand Navy | 6.00% | ~2,829 |
-| Seriously?! | 6.00% | ~2,829 |
-| For the Glory | 5.00% | ~2,358 |
-| Cold War | 4.00% | ~1,886 |
-| True Catholic | 4.00% | ~1,886 |
+| Until death do us apart | 9.00% | ~4,246 |
+| That's a Grand Army | 8.00% | ~3,774 |
+| That is mine! | 8.00% | ~3,774 |
+| Victorious! | 8.00% | ~3,774 |
+| Brothers in Arms | 6.00% | ~2,830 |
+| That's a Grand Navy | 6.00% | ~2,830 |
+| Seriously?! | 6.00% | ~2,830 |
+| For the Glory | 5.00% | ~2,359 |
+| Cold War | 4.00% | ~1,887 |
+| True Catholic | 4.00% | ~1,887 |
 | Defender of the Faith | 3.00% | ~1,415 |
 | It's all about the money | 3.00% | ~1,415 |
 | Respected | 3.00% | ~1,415 |
@@ -37,8 +37,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~472 |
 | A Golden Empire | 1.00% | ~472 |
 | My armies are invincible! | 1.00% | ~472 |
-| The Five Colonies | 0.90% | ~424 |
-| This navy can take it all | 0.90% | ~424 |
+| The Five Colonies | 0.90% | ~425 |
+| This navy can take it all | 0.90% | ~425 |
 | The Emperors new clothes | 0.80% | ~377 |
 | Isn't this the way to India? | 0.80% | ~377 |
 | Market Control | 0.80% | ~377 |
@@ -65,22 +65,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.40% | ~189 |
 | Tear Down This Wall | 0.40% | ~189 |
 | The Continuation of Diplomacy | 0.40% | ~189 |
-| A Decent Reserve | 0.30% | ~141 |
-| A Pile of Gold | 0.30% | ~141 |
-| All Your Trade Are Belong to Us | 0.30% | ~141 |
-| Four For Trade | 0.30% | ~141 |
-| Global Hegemony | 0.30% | ~141 |
-| Grand Duchy | 0.30% | ~141 |
-| Italian Ambition | 0.30% | ~141 |
-| Just a Little Patience | 0.30% | ~141 |
-| Multiculturalism | 0.30% | ~141 |
-| No Pirates in my Caribbean | 0.30% | ~141 |
-| Not so sad a state... | 0.30% | ~141 |
-| The Chrysanthemum Throne | 0.30% | ~141 |
-| Three Trivial Tributary Tribes | 0.30% | ~141 |
-| Traditional Player | 0.30% | ~141 |
-| Vasa or Wettin? | 0.30% | ~141 |
-| Wonderful | 0.30% | ~141 |
+| A Decent Reserve | 0.30% | ~142 |
+| A Pile of Gold | 0.30% | ~142 |
+| All Your Trade Are Belong to Us | 0.30% | ~142 |
+| Four For Trade | 0.30% | ~142 |
+| Global Hegemony | 0.30% | ~142 |
+| Grand Duchy | 0.30% | ~142 |
+| Italian Ambition | 0.30% | ~142 |
+| Just a Little Patience | 0.30% | ~142 |
+| Multiculturalism | 0.30% | ~142 |
+| No Pirates in my Caribbean | 0.30% | ~142 |
+| Not so sad a state... | 0.30% | ~142 |
+| The Chrysanthemum Throne | 0.30% | ~142 |
+| Three Trivial Tributary Tribes | 0.30% | ~142 |
+| Traditional Player | 0.30% | ~142 |
+| Vasa or Wettin? | 0.30% | ~142 |
+| Wonderful | 0.30% | ~142 |
 | A Protected Market | 0.20% | ~94 |
 | AAA Credit | 0.20% | ~94 |
 | Fine Financials | 0.20% | ~94 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,151 (Ranked 78)  
+Progressed: 47,174 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,6 +402,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 45,938 | 0 |
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
+| 2023-05-31 | 47,174 | 0 |
 ## Awards
 Max (Educational): 5,313  (Ranked 60)  
 Sum: 43,955 (Ranked 27)  

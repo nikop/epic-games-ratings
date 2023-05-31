@@ -11,8 +11,8 @@
 | Homer | 66.00% | ~23 |
 | First Win | 60.00% | ~21 |
 | Have a good trip! | 60.00% | ~21 |
+| Stay Hydrated | 51.00% | ~18 |
 | Settle Down | 49.00% | ~17 |
-| Stay Hydrated | 49.00% | ~17 |
 | Butter Fingers | 43.00% | ~15 |
 | True Story! | 34.00% | ~12 |
 | Grand Slam! | 26.00% | ~9 |
@@ -23,9 +23,9 @@
 | Spooky | 17.00% | ~6 |
 | Bathroom Secret Spot | 14.00% | ~5 |
 | Classroom Secret Spot | 9.00% | ~3 |
+| Kitchen Secret Spot | 9.00% | ~3 |
 | Just how we drew it up | 9.00% | ~3 |
 | Basement Secret Spot | 6.00% | ~2 |
-| Kitchen Secret Spot | 6.00% | ~2 |
 | Living Room Secret Spot | 6.00% | ~2 |
 | Angry Dad | 6.00% | ~2 |
 | At least everyone still had fun | 6.00% | ~2 |

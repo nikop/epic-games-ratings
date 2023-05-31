@@ -13,10 +13,10 @@
 | Conciliator | 4.00% | ~3 |
 | Fight Another Day | 4.00% | ~3 |
 | Tactician | 3.00% | ~2 |
+| The More the Merrier | 3.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
-| The More the Merrier | 1.00% | ~1 |
 | Breached | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |

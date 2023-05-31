@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223368,
+  "EOS_Progressed": 223370,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4233,6 +4233,11 @@
       "Time": "2023-05-30T23:05:53.37509+00:00",
       "NumProgressed": 223368,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-31T00:05:45.5039638+00:00",
+      "NumProgressed": 223370,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -4260,7 +4265,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62543
+      "UsersEstimate": 62544
     },
     {
       "ID": "CENTAUR",
@@ -4268,7 +4273,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17869
+      "UsersEstimate": 17870
     },
     {
       "ID": "CHALLENGER",
@@ -4276,7 +4281,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24570
+      "UsersEstimate": 24571
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -4308,7 +4313,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 17869
+      "UsersEstimate": 17870
     },
     {
       "ID": "FLAWLESS",
@@ -4508,22 +4513,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91581
+      "UsersEstimate": 91582
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223368,
+      "Progressed": 223370,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-30T23:05:53.3750893+00:00",
+  "LastChanged_Achievements": "2023-05-31T00:05:45.5039634+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-30T22:58:18.5503605+00:00",
-  "LastUpdate_Achievements": "2023-05-30T23:05:53.3751392+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:58:12.7336794+00:00",
+  "LastUpdate_Achievements": "2023-05-31T00:05:45.5040248+00:00"
 }

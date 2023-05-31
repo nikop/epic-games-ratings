@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-05-30T23:06:04.1183753+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-31T00:05:56.0712561+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -715,7 +720,7 @@
       "Name": "Storied Past",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_5petsReceived",
@@ -771,7 +776,7 @@
       "Name": "The Power of Friendship",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_fullTransformation",
@@ -787,7 +792,7 @@
       "Name": "Empty the Caves",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -795,7 +800,7 @@
       "Name": "Drauvenslayers",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_kill1000Gorgons",
@@ -819,7 +824,7 @@
       "Name": "Bonebreakers",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -851,7 +856,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -867,7 +872,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_mythwalker",
@@ -1003,7 +1008,7 @@
       "Name": "War-Ender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -1027,7 +1032,7 @@
       "Name": "Fight Like a Bird",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
@@ -1051,7 +1056,7 @@
       "Name": "Some Say I\u0027m Too Flashy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "theme_green_kill3Enemies",
@@ -1091,7 +1096,7 @@
       "Name": "Astrology",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "theme_storm_kill3Enemies",
@@ -1099,7 +1104,7 @@
       "Name": "Tempest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -1123,7 +1128,7 @@
       "Name": "Lochias\u0027s Hunger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -1138,15 +1143,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-30T23:06:04.1183746+00:00",
+  "LastChanged_Achievements": "2023-05-31T00:05:56.0712557+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:00:49.7710155+00:00",
-  "LastUpdate_Achievements": "2023-05-30T23:06:04.118426+00:00"
+  "LastUpdate_Ratings": "2023-05-31T00:00:39.6802845+00:00",
+  "LastUpdate_Achievements": "2023-05-31T00:05:56.0713074+00:00"
 }

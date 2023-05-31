@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2226,
+  "EOS_Progressed": 2227,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2081,6 +2081,11 @@
       "Time": "2023-05-30T23:06:08.2596174+00:00",
       "NumProgressed": 2226,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T00:05:59.9257938+00:00",
+      "NumProgressed": 2227,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2100,7 +2105,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2132,7 +2137,7 @@
       "Name": "Hijack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2156,7 +2161,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2164,7 +2169,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -2172,7 +2177,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2188,7 +2193,7 @@
       "Name": "Friendly fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -2236,15 +2241,15 @@
       "Name": "True power",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
       "SetID": "3pe2bac",
       "Name": "Do you trust me?",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 178
+      "UsersEstimate": 156
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -2276,7 +2281,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2284,7 +2289,7 @@
       "Name": "Meltridge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -2308,7 +2313,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2340,7 +2345,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2372,7 +2377,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -2460,7 +2465,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -2515,7 +2520,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2226,
+      "Progressed": 2227,
       "Completed": 1
     }
   ],
@@ -2523,8 +2528,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-30T23:06:08.2596163+00:00",
+  "LastChanged_Achievements": "2023-05-31T00:05:59.9257933+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T22:57:36.9044904+00:00",
-  "LastUpdate_Achievements": "2023-05-30T23:06:08.2597159+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:57:31.7935909+00:00",
+  "LastUpdate_Achievements": "2023-05-31T00:05:59.9258533+00:00"
 }

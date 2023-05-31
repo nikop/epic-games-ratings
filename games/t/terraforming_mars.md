@@ -10,24 +10,24 @@ Number of Ratings: 2,731  (23.09.2022)
 | Final touch | 38.00% | ~22,881 |
 | Prop-M Rover | 34.00% | ~20,472 |
 | Changing the Planet | 30.00% | ~18,064 |
-| Sojourner | 28.00% | ~16,859 |
+| Sojourner | 28.00% | ~16,860 |
 | New Home | 25.00% | ~15,053 |
 | Beagle 2 | 25.00% | ~15,053 |
 | Winner Winner Terraformer | 24.00% | ~14,451 |
 | Project Manager | 21.00% | ~12,645 |
 | Curiosity | 21.00% | ~12,645 |
 | Collector | 21.00% | ~12,645 |
-| No Longer Red | 20.00% | ~12,042 |
-| Self-sufficient | 20.00% | ~12,042 |
-| Master | 20.00% | ~12,042 |
+| No Longer Red | 20.00% | ~12,043 |
+| Self-sufficient | 20.00% | ~12,043 |
+| Master | 20.00% | ~12,043 |
 | Money money | 17.00% | ~10,236 |
 | Biggest Reward | 15.00% | ~9,032 |
 | Acquired knowledge | 14.00% | ~8,430 |
 | Hellenic Elysium | 13.00% | ~7,828 |
-| First Journey | 12.00% | ~7,225 |
-| Landlord | 12.00% | ~7,225 |
-| Most Achievements | 12.00% | ~7,225 |
-| Grand champion | 12.00% | ~7,225 |
+| First Journey | 12.00% | ~7,226 |
+| Landlord | 12.00% | ~7,226 |
+| Most Achievements | 12.00% | ~7,226 |
+| Grand champion | 12.00% | ~7,226 |
 | Spirit | 11.00% | ~6,623 |
 | Ultimate success | 11.00% | ~6,623 |
 | Variety Expert | 10.00% | ~6,021 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~1,806 |
 | Opportunity | 3.00% | ~1,806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,212 (Ranked 71)  
+Progressed: 60,213 (Ranked 71)  
 Completed: 64 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 64 (0.11%) (Ranked 157)
 | 2023-05-28 | 59,824 | 64 |
 | 2023-05-29 | 60,032 | 64 |
 | 2023-05-30 | 60,212 | 64 |
+| 2023-05-31 | 60,213 | 64 |
 ## Awards
 Max (Relaxing): 498  (Ranked 186)  
 Sum: 3,069 (Ranked 149)  

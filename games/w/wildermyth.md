@@ -6,9 +6,9 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 33.00% | ~404 |
+| The Cost of Heroism | 33.00% | ~405 |
 | Me and My Familiar | 31.00% | ~380 |
-| This Too Shall Pass | 26.00% | ~318 |
+| This Too Shall Pass | 26.00% | ~319 |
 | Passing Shadow | 24.00% | ~294 |
 | Cutthroat Competitors | 24.00% | ~294 |
 | How Romantic! | 23.00% | ~282 |
@@ -41,17 +41,17 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 3.00% | ~37 |
 | Into Mulch | 3.00% | ~37 |
 | No Time for Clawmonsters | 3.00% | ~37 |
-| Storied Past | 2.00% | ~24 |
-| The Power of Friendship | 2.00% | ~24 |
-| Empty the Caves | 2.00% | ~24 |
-| Drauvenslayers | 2.00% | ~24 |
-| Bonebreakers | 2.00% | ~24 |
-| War-Ender | 2.00% | ~24 |
-| Fight Like a Bird | 2.00% | ~24 |
-| Some Say I'm Too Flashy | 2.00% | ~24 |
-| Astrology | 2.00% | ~24 |
-| Tempest | 2.00% | ~24 |
-| Lochias's Hunger | 2.00% | ~24 |
+| Storied Past | 2.00% | ~25 |
+| The Power of Friendship | 2.00% | ~25 |
+| Empty the Caves | 2.00% | ~25 |
+| Drauvenslayers | 2.00% | ~25 |
+| Bonebreakers | 2.00% | ~25 |
+| War-Ender | 2.00% | ~25 |
+| Fight Like a Bird | 2.00% | ~25 |
+| Some Say I'm Too Flashy | 2.00% | ~25 |
+| Astrology | 2.00% | ~25 |
+| Tempest | 2.00% | ~25 |
+| Lochias's Hunger | 2.00% | ~25 |
 | Back into the Sea | 1.00% | ~12 |
 | Solid as the Hills | 1.00% | ~12 |
 | Symbiosis | 1.00% | ~12 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.50% | ~6 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,225 (Ranked 161)  
+Progressed: 1,226 (Ranked 161)  
 Completed: 3 (0.24%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 3 (0.24%) (Ranked 135)
 | 2023-05-28 | 1,218 | 3 |
 | 2023-05-29 | 1,223 | 3 |
 | 2023-05-30 | 1,225 | 3 |
+| 2023-05-31 | 1,226 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 465)  

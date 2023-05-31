@@ -4222,18 +4222,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10412,
       "NumberOfAwardsMax": 6109
+    },
+    {
+      "Time": "2023-05-30T23:58:58.4924798+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10418,
+      "NumberOfAwardsMax": 6114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10412,
-  "NumberOfAwardsMax": 6109,
+  "NumberOfAwards": 10418,
+  "NumberOfAwardsMax": 6114,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6109
+      "Count": 6114
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4275,7 +4281,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 515
+      "Count": 516
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4302,9 +4308,9 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706411,
+  "EOS_Progressed": 706414,
   "EOS_Completed": 12748,
-  "EOS_NewPlayers": 1547,
+  "EOS_NewPlayers": 1549,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7852,6 +7858,11 @@
       "Time": "2023-05-30T23:06:23.0027694+00:00",
       "NumProgressed": 706411,
       "NumCompleted": 12748
+    },
+    {
+      "Time": "2023-05-31T00:06:14.5244535+00:00",
+      "NumProgressed": 706414,
+      "NumCompleted": 12748
     }
   ],
   "TotalAchievements": 50,
@@ -8207,7 +8218,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8262,21 +8273,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15712,
+      "Progressed": 15715,
       "Completed": 10199
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706411,
+      "Progressed": 706414,
       "Completed": 12748
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-30T19:59:00.245679+00:00",
-  "LastChanged_Achievements": "2023-05-30T23:06:23.0027684+00:00",
+  "LastChanged": "2023-05-30T23:58:58.4924796+00:00",
+  "LastChanged_Achievements": "2023-05-31T00:06:14.5244531+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-30T22:59:05.0866149+00:00",
-  "LastUpdate_Achievements": "2023-05-30T23:06:23.0028331+00:00"
+  "LastUpdate_Ratings": "2023-05-30T23:58:58.4924808+00:00",
+  "LastUpdate_Achievements": "2023-05-31T00:06:14.5245348+00:00"
 }

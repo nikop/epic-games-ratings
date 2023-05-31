@@ -8,6 +8,7 @@
 | Master Of The Arts | 73.00% | ~19 |
 | Close Call | 31.00% | ~8 |
 | Getting Good At This | 12.00% | ~3 |
+| Ender Ender | 4.00% | ~1 |
 | Evolution Revolution | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
@@ -17,7 +18,6 @@
 | Brave Younglings | 0.00% | ~0 |
 | Catch 'em All | 0.00% | ~0 |
 | Challenger, Ready! | 0.00% | ~0 |
-| Ender Ender | 0.00% | ~0 |
 | Expert Summoner | 0.00% | ~0 |
 | Fair Fight | 0.00% | ~0 |
 | Five Of A Kind | 0.00% | ~0 |
