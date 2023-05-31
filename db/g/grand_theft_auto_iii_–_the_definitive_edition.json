@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5735,
+  "EOS_Progressed": 5736,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2562,6 +2562,11 @@
       "Time": "2023-05-31T18:03:41.2432204+00:00",
       "NumProgressed": 5735,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-31T19:03:14.8243395+00:00",
+      "NumProgressed": 5736,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -2573,7 +2578,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4760
+      "UsersEstimate": 4761
     },
     {
       "ID": "ACH02",
@@ -2581,7 +2586,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH03",
@@ -2645,7 +2650,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ACH11",
@@ -2693,7 +2698,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "ACH17",
@@ -2804,7 +2809,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5735,
+      "Progressed": 5736,
       "Completed": 27
     }
   ],
@@ -2812,8 +2817,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-31T04:58:15.521775+00:00",
-  "LastChanged_Achievements": "2023-05-31T18:03:41.2432197+00:00",
+  "LastChanged_Achievements": "2023-05-31T19:03:14.8243389+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-31T17:58:19.5725369+00:00",
-  "LastUpdate_Achievements": "2023-05-31T18:03:41.2432577+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:57:49.8340888+00:00",
+  "LastUpdate_Achievements": "2023-05-31T19:03:14.8243737+00:00"
 }

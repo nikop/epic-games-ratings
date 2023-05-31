@@ -7,7 +7,7 @@
 | Welcome! | 99.00% | ~217 |
 | A tiny town | 85.00% | ~186 |
 | Buildings, roads, cars, ...and people | 66.00% | ~145 |
-| Great view from the beach and from the hill | 55.00% | ~120 |
+| Great view from the beach and from the hill | 56.00% | ~123 |
 | Bridges to come and go | 49.00% | ~107 |
 | Found an oasis | 41.00% | ~90 |
 | Burger or pizza? | 36.00% | ~79 |
@@ -16,8 +16,8 @@
 | Easy and steady climb | 26.00% | ~57 |
 | At the heart of the city | 23.00% | ~50 |
 | Calm neighborhood | 22.00% | ~48 |
-| Elevated ring | 21.00% | ~46 |
-| Not lonely anymore | 19.00% | ~42 |
+| Elevated ring | 22.00% | ~48 |
+| Not lonely anymore | 20.00% | ~44 |
 | Monumental tribute | 18.00% | ~39 |
 | The beach is right there | 18.00% | ~39 |
 | Commuting | 17.00% | ~37 |

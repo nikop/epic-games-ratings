@@ -13,7 +13,7 @@
 | I like books | 19.00% | ~40 |
 | I like my life | 18.00% | ~37 |
 | Clean energy | 17.00% | ~35 |
-| Soviet town | 15.00% | ~31 |
+| Soviet town | 16.00% | ~33 |
 | Bucolic city | 13.00% | ~27 |
 | I love books! | 9.00% | ~19 |
 | King of fish | 9.00% | ~19 |
@@ -23,10 +23,10 @@
 | Metropolurbek | 6.00% | ~12 |
 | I am very happy! | 4.00% | ~8 |
 | Sport is the best thing | 4.00% | ~8 |
+| Little Mayor | 3.00% | ~6 |
 | Banking city | 2.00% | ~4 |
 | Read! Everyone should read! | 2.00% | ~4 |
 | Oh, I love parks, listening to birds! | 2.00% | ~4 |
-| Little Mayor | 2.00% | ~4 |
 | Rebel city | 2.00% | ~4 |
 | Temperate builder | 2.00% | ~4 |
 | Anarchist Utopia | 1.00% | ~2 |
@@ -40,6 +40,7 @@
 | Farming Frenzy | 1.00% | ~2 |
 | Freedom to go to the mall! | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
+| Restorer | 1.00% | ~2 |
 | Temperate urban planner | 1.00% | ~2 |
 | Welfare state | 1.00% | ~2 |
 | Anarchist paradise | 0.50% | ~1 |
@@ -52,7 +53,7 @@
 | I don't feel well, I have to drink a coffe | 0.50% | ~1 |
 | Metropolurbek Plus | 0.50% | ~1 |
 | City in flames | 0.50% | ~1 |
-| Restorer | 0.50% | ~1 |
+| Restorer Plus | 0.50% | ~1 |
 | Full temperate | 0.50% | ~1 |
 | Temperate master | 0.50% | ~1 |
 | Full archipelago | 0.00% | ~0 |
@@ -74,7 +75,6 @@
 | Only freedom to go to the mall! | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
 | Full restorer | 0.00% | ~0 |
-| Restorer Plus | 0.00% | ~0 |
 | Restorer master | 0.00% | ~0 |
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |

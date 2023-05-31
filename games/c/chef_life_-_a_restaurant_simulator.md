@@ -11,13 +11,13 @@
 | French Flair | 18.00% | ~47 |
 | S is for Scrumptious | 16.00% | ~42 |
 | Next Level Cuisine | 11.00% | ~29 |
+| Haute Cuisine | 8.00% | ~21 |
 | Italian Style | 8.00% | ~21 |
 | Sous-Chef | 7.00% | ~18 |
-| Haute Cuisine | 7.00% | ~18 |
 | Well-Stocked Kitchen | 5.00% | ~13 |
 | Perfectionist | 4.00% | ~10 |
+| Rolling in Dough | 4.00% | ~10 |
 | Culinary Arts | 3.00% | ~8 |
-| Rolling in Dough | 3.00% | ~8 |
 | Leaning Tower of Pizza | 3.00% | ~8 |
 | Chef, Yes Chef! | 0.80% | ~2 |
 | Eco Warrior | 0.40% | ~1 |

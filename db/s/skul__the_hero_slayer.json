@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -806,7 +806,7 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 7523,
+  "EOS_Progressed": 7524,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
@@ -1886,6 +1886,11 @@
       "Time": "2023-05-31T15:06:10.2711167+00:00",
       "NumProgressed": 7523,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-31T19:05:23.3346708+00:00",
+      "NumProgressed": 7524,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1921,7 +1926,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1953,7 +1958,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -2025,7 +2030,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2057,15 +2062,15 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6996
+      "UsersEstimate": 6997
     },
     {
       "ID": "TheendofGoldManeKnights",
       "SetID": "97dk767",
       "Name": "The End of the Gold Mane Knights",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3461
+      "UsersEstimate": 3536
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2081,22 +2086,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7523,
+      "Progressed": 7524,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-30T21:58:38.6183325+00:00",
-  "LastChanged_Achievements": "2023-05-31T18:05:59.6379106+00:00",
+  "LastChanged_Achievements": "2023-05-31T19:05:23.3346702+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-05-31T17:59:14.5354025+00:00",
-  "LastUpdate_Achievements": "2023-05-31T18:05:59.6379368+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:58:44.9824653+00:00",
+  "LastUpdate_Achievements": "2023-05-31T19:05:23.3346977+00:00"
 }

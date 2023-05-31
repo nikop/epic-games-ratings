@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 49.00% | ~8 |
-| Survivor | 36.00% | ~6 |
+| Survivor | 37.00% | ~6 |
 | No Diggity | 34.00% | ~6 |
 | Early Survivor | 30.00% | ~5 |
 | Seeds of War | 27.00% | ~18 |
-| Bouncemato | 22.00% | ~4 |
+| Bouncemato | 24.00% | ~4 |
 | Amateur Survivor | 22.00% | ~4 |
 | First Blood | 19.00% | ~13 |
 | Quick-Draw Pod | 19.00% | ~3 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.93,
+  "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -894,6 +894,11 @@
       "Time": "2023-05-31T13:11:31.2886216+00:00",
       "NumProgressed": 331,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-31T19:03:43.5971087+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -921,7 +926,7 @@
       "Name": "High Profile",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "MQ02_2",
@@ -951,33 +956,33 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 153
     },
     {
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "MQ03_5",
@@ -991,17 +996,17 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 110
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 100
     },
     {
       "ID": "MQ04_3",
@@ -1065,7 +1070,7 @@
       "Name": "Land, Ho!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "MQ06_4",
@@ -1073,7 +1078,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "MQ07_1",
@@ -1097,7 +1102,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MQ08_2",
@@ -1128,7 +1133,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 13
     }
   ],
@@ -1136,8 +1141,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-31T18:04:20.0694047+00:00",
+  "LastChanged_Achievements": "2023-05-31T19:03:43.5971075+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-31T17:57:46.1703218+00:00",
-  "LastUpdate_Achievements": "2023-05-31T18:04:20.0694324+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:57:13.6022188+00:00",
+  "LastUpdate_Achievements": "2023-05-31T19:03:43.5971343+00:00"
 }

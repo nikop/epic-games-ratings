@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1501,
+  "EOS_Progressed": 1502,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 8.13,
+  "EOS_Completed_Percentage": 8.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2028,6 +2028,11 @@
       "Time": "2023-05-31T17:05:46.3544234+00:00",
       "NumProgressed": 1501,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-05-31T19:05:33.3566095+00:00",
+      "NumProgressed": 1502,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 12,
@@ -2071,7 +2076,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Jakob",
@@ -2103,7 +2108,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2119,7 +2124,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "Nuremberg Laws",
@@ -2134,7 +2139,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1501,
+      "Progressed": 1502,
       "Completed": 122
     }
   ],
@@ -2142,8 +2147,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-31T18:06:09.208922+00:00",
+  "LastChanged_Achievements": "2023-05-31T19:05:33.3566084+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-31T17:59:47.4146679+00:00",
-  "LastUpdate_Achievements": "2023-05-31T18:06:09.2089526+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:59:20.1226155+00:00",
+  "LastUpdate_Achievements": "2023-05-31T19:05:33.3566336+00:00"
 }

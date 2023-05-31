@@ -8,7 +8,7 @@
 | Collectibles Part 1 | 50.00% | ~184 |
 | Welcome to Mordor! | 49.00% | ~180 |
 | Wait! Wait! Not yet! | 34.00% | ~125 |
-| Like Flying... | 30.00% | ~110 |
+| Like Flying... | 31.00% | ~114 |
 | Memories | 27.00% | ~99 |
 | The Maggot | 22.00% | ~81 |
 | The Breeder | 17.00% | ~63 |
@@ -18,9 +18,9 @@
 | Good as Fish | 5.00% | ~18 |
 | He's so Annoying | 4.00% | ~15 |
 | Her Eyes | 4.00% | ~15 |
+| Gollum/Sméagol | 4.00% | ~15 |
 | Murderer | 4.00% | ~15 |
 | Trigger-Happy | 4.00% | ~15 |
-| Gollum/Sméagol | 3.00% | ~11 |
 | The Friend | 2.00% | ~7 |
 | Master of the Old Game | 2.00% | ~7 |
 | So Silly! | 2.00% | ~7 |

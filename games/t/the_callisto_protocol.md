@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,414 |
-| The Outer Way | 8.00% | ~1,131 |
+| Flesh Wound | 10.00% | ~1,415 |
+| The Outer Way | 8.00% | ~1,132 |
 | Desperate Times | 7.00% | ~990 |
 | Chew 'Em Up | 6.00% | ~849 |
 | Paper Jams | 6.00% | ~849 |
@@ -35,8 +35,8 @@ Rating: 4.18 (Ranked 834)
 | Parole Denied | 1.00% | ~21 |
 | In Striking Distance | 1.00% | ~141 |
 | Hoard Mode | 1.00% | ~21 |
-| Recidivist | 0.70% | ~14 |
-| Lifer | 0.70% | ~14 |
+| Recidivist | 0.70% | ~15 |
+| Lifer | 0.70% | ~15 |
 | Grim Reaper | 0.50% | ~71 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,143 (Ranked 101)  
+Progressed: 14,147 (Ranked 101)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
-| 2023-05-31 | 14,143 | 53 |
+| 2023-05-31 | 14,147 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

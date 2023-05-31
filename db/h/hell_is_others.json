@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -454,9 +454,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 250055,
+  "EOS_Progressed": 250057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4479,6 +4479,11 @@
       "Time": "2023-05-31T18:06:26.6680515+00:00",
       "NumProgressed": 250055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T19:05:51.0998692+00:00",
+      "NumProgressed": 250057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -4538,7 +4543,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77517
+      "UsersEstimate": 77518
     },
     {
       "ID": "BackHomeNTimes",
@@ -4778,7 +4783,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55012
+      "UsersEstimate": 55013
     },
     {
       "ID": "KillOthers2",
@@ -4937,7 +4942,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250055,
+      "Progressed": 250057,
       "Completed": 1
     }
   ],
@@ -4945,8 +4950,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-31T09:59:49.4410725+00:00",
-  "LastChanged_Achievements": "2023-05-31T18:06:26.6680508+00:00",
+  "LastChanged_Achievements": "2023-05-31T19:05:51.0998685+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.4496251+00:00",
-  "LastUpdate_Ratings": "2023-05-31T18:00:25.5623498+00:00",
-  "LastUpdate_Achievements": "2023-05-31T18:06:26.6681496+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:59:58.5800451+00:00",
+  "LastUpdate_Achievements": "2023-05-31T19:05:51.0999437+00:00"
 }

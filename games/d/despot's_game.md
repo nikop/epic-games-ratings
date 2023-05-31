@@ -22,7 +22,7 @@ Rating: 4.50 (Ranked 542)
 | He's Seen It All | 24.00% | ~92 |
 | Rookie | 24.00% | ~92 |
 | Frugal | 21.00% | ~81 |
-| Feed a God | 19.00% | ~73 |
+| Feed a God | 20.00% | ~77 |
 | To the Moon and Back | 19.00% | ~73 |
 | Great Flight | 17.00% | ~65 |
 | Holy Vengeance | 14.00% | ~54 |

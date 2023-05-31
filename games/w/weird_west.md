@@ -6,26 +6,26 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,373 |
-| Self-Improvement | 71.00% | ~1,120 |
-| Perky | 66.00% | ~1,041 |
+| Unforgiven | 87.00% | ~1,374 |
+| Self-Improvement | 71.00% | ~1,121 |
+| Perky | 66.00% | ~1,042 |
 | Let’s Ride | 60.00% | ~947 |
-| Welcome to the Weird West | 58.00% | ~915 |
+| Welcome to the Weird West | 58.00% | ~916 |
 | Dead or Alive | 56.00% | ~884 |
 | Full House | 37.00% | ~584 |
 | Off the Trail | 34.00% | ~537 |
 | Justice Served | 29.00% | ~458 |
 | Chain Reaction | 27.00% | ~426 |
-| Scholar | 25.00% | ~394 |
-| Through Their Eyes | 25.00% | ~394 |
+| Scholar | 25.00% | ~395 |
+| Through Their Eyes | 25.00% | ~395 |
 | Dishonored | 24.00% | ~379 |
 | Rain of Death | 24.00% | ~379 |
 | The Great Escape | 23.00% | ~363 |
 | That’s All, Folks | 18.00% | ~284 |
-| Fallen Star | 16.00% | ~252 |
-| Winds of War | 16.00% | ~252 |
+| Fallen Star | 16.00% | ~253 |
+| Here Comes Santa Claus | 16.00% | ~253 |
+| Winds of War | 16.00% | ~253 |
 | For Balance | 15.00% | ~237 |
-| Here Comes Santa Claus | 15.00% | ~237 |
 | Dog Days | 13.00% | ~205 |
 | Elusive Prey | 12.00% | ~189 |
 | Out on the Ebb Tide | 12.00% | ~189 |
@@ -39,10 +39,10 @@ Number of Ratings: 125  (23.09.2022)
 | Mystery Machine | 9.00% | ~142 |
 | The Philosopher’s Stone | 9.00% | ~142 |
 | Gold Digger | 8.00% | ~126 |
-| Do Not Pass Go… | 7.00% | ~110 |
-| Getting the Gang Back Together | 7.00% | ~110 |
-| Monster Hunter | 7.00% | ~110 |
-| Knuckle Sandwich | 7.00% | ~110 |
+| Do Not Pass Go… | 7.00% | ~111 |
+| Getting the Gang Back Together | 7.00% | ~111 |
+| Monster Hunter | 7.00% | ~111 |
+| Knuckle Sandwich | 7.00% | ~111 |
 | Who You Gonna Call? | 6.00% | ~95 |
 | Healing Old Wounds | 5.00% | ~79 |
 | This Is Sparta | 5.00% | ~79 |
@@ -51,8 +51,8 @@ Number of Ratings: 125  (23.09.2022)
 | Moondrunk | 3.00% | ~47 |
 | Lord Inut Sends His Regards | 2.00% | ~32 |
 | I Kicked a Bird and I Liked it | 1.00% | ~16 |
-| Hog Wild | 1.00% | ~16 |
 | 'Ma Barker | 1.00% | ~16 |
+| Hog Wild | 0.90% | ~14 |
 | Explorer | 0.40% | ~6 |
 | End the world | 0.40% | ~6 |
 | Moon Hunter | 0.40% | ~6 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,578 (Ranked 155)  
+Progressed: 1,579 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.13%) (Ranked 155)
 | 2023-05-28 | 1,562 | 2 |
 | 2023-05-29 | 1,571 | 2 |
 | 2023-05-30 | 1,575 | 2 |
-| 2023-05-31 | 1,578 | 2 |
+| 2023-05-31 | 1,579 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 471)  

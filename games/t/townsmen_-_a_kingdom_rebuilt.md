@@ -49,6 +49,7 @@ Number of Ratings: 37  (23.09.2022)
 | My precious... II | 2.00% | ~83 |
 | Cosmas and Damian | 2.00% | ~83 |
 | Builder III | 2.00% | ~83 |
+| Completionist II | 2.00% | ~83 |
 | Genius | 2.00% | ~83 |
 | A time consuming game IV | 2.00% | ~83 |
 | Tools of the trade III | 2.00% | ~83 |
@@ -60,7 +61,6 @@ Number of Ratings: 37  (23.09.2022)
 | Lord of War | 1.00% | ~42 |
 | Plague strikes! | 1.00% | ~42 |
 | Builder IV | 1.00% | ~42 |
-| Completionist II | 1.00% | ~42 |
 | Completionist III | 1.00% | ~42 |
 | Only the sausage has two ends. | 1.00% | ~42 |
 | I've been everywhere I | 1.00% | ~42 |
