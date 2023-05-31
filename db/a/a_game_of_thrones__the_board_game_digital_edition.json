@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14035,
+  "EOS_Progressed": 14039,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 870,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5254,6 +5254,11 @@
       "Time": "2023-05-31T04:05:24.8515575+00:00",
       "NumProgressed": 14035,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-31T05:06:51.7568912+00:00",
+      "NumProgressed": 14039,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -5273,7 +5278,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "1017",
@@ -5281,7 +5286,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "1018",
@@ -5297,7 +5302,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "1020",
@@ -5377,7 +5382,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "1030",
@@ -5385,7 +5390,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "1031",
@@ -5401,7 +5406,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5616
     },
     {
       "ID": "1033",
@@ -5440,15 +5445,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14035,
+      "Progressed": 14039,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:05:24.8515571+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:06:51.7568903+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:34.7168998+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:59:44.2373997+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:05:24.8515982+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:01:05.8195314+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:06:51.7569392+00:00"
 }

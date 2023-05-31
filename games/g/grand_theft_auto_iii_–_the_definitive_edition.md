@@ -1,24 +1,24 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.14 (Ranked 855)  
+Rating: 4.16 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,738 |
-| Disposing of the Evidence | 36.00% | ~2,055 |
+| First Day on the Job | 83.00% | ~4,739 |
+| Disposing of the Evidence | 36.00% | ~2,056 |
 | Without a Scratch | 32.00% | ~1,827 |
-| Wreckless Driving | 27.00% | ~1,541 |
+| Wreckless Driving | 27.00% | ~1,542 |
 | A Marked Man | 24.00% | ~1,370 |
 | Street Sweeper | 17.00% | ~971 |
-| Liberty City Minute | 16.00% | ~913 |
+| Liberty City Minute | 16.00% | ~914 |
 | Offshore Delivery | 12.00% | ~685 |
 | Dirty Money | 11.00% | ~628 |
 | By a Mile | 9.00% | ~514 |
 | Right-hand Man | 9.00% | ~514 |
 | Not So Fast | 8.00% | ~457 |
 | A Gift from the King | 6.00% | ~343 |
-| Full Artillery | 3.00% | ~171 |
+| Full Artillery | 4.00% | ~228 |
 | Mob Boss | 2.00% | ~114 |
 | Splish Splash | 2.00% | ~114 |
 | Escape Artist | 1.00% | ~57 |
@@ -35,7 +35,7 @@ Rating: 4.14 (Ranked 855)
 | Is That All You've Got? | 0.70% | ~40 |
 | King of Liberty City | 0.50% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,709 (Ranked 123)  
+Progressed: 5,710 (Ranked 123)  
 Completed: 27 (0.47%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 27 (0.47%) (Ranked 110)
 | 2023-05-28 | 5,589 | 26 |
 | 2023-05-29 | 5,648 | 26 |
 | 2023-05-30 | 5,695 | 27 |
-| 2023-05-31 | 5,709 | 27 |
+| 2023-05-31 | 5,710 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -124,3 +124,4 @@ Completed: 27 (0.47%) (Ranked 110)
 | 2023-05-22 | 4.15 | 0 | 0 |
 | 2023-05-28 | 4.18 | 0 | 0 |
 | 2023-05-29 | 4.14 | 0 | 0 |
+| 2023-05-31 | 4.16 | 0 | 0 |

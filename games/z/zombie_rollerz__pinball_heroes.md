@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Level Up! | 90.00% | ~72 |
 | Bullseye! | 84.00% | ~67 |
-| Villfir Forest | 79.00% | ~63 |
+| Villfir Forest | 80.00% | ~64 |
 | Graduation! | 78.00% | ~62 |
 | Right in the kisser! | 65.00% | ~52 |
 | The Shaman | 55.00% | ~44 |
@@ -20,9 +20,9 @@
 | Kill-streak | 36.00% | ~29 |
 | The Bird | 31.00% | ~25 |
 | The Idol | 29.00% | ~23 |
+| The Ninja | 29.00% | ~23 |
 | Inferno Ruins | 29.00% | ~23 |
 | Topped up | 28.00% | ~22 |
-| The Ninja | 28.00% | ~22 |
 | I'm Rich | 25.00% | ~20 |
 | Untouchable | 24.00% | ~19 |
 | The Slime | 23.00% | ~18 |

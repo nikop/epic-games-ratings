@@ -5,8 +5,8 @@ Rating: 4.23 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~803 |
-| Ranidaphobia | 72.00% | ~635 |
+| First Blood | 91.00% | ~804 |
+| Ranidaphobia | 72.00% | ~636 |
 | Aspiring Editor | 69.00% | ~609 |
 | Gun for Hire | 63.00% | ~556 |
 | I am the law! | 51.00% | ~450 |
@@ -15,7 +15,7 @@ Rating: 4.23 (Ranked 803)
 | Croaked | 28.00% | ~247 |
 | Limp Richard | 28.00% | ~247 |
 | From Darkness to Light | 28.00% | ~247 |
-| Exorcist | 25.00% | ~220 |
+| Exorcist | 25.00% | ~221 |
 | Editor Adept | 24.00% | ~212 |
 | Giant Killer | 21.00% | ~185 |
 | Sensei | 19.00% | ~168 |
@@ -45,7 +45,7 @@ Rating: 4.23 (Ranked 803)
 | Side Order | 3.00% | ~26 |
 | Bot Whisperer | 2.00% | ~18 |
 | Cruelty | 1.00% | ~9 |
-| Dressed To Kill | 0.90% | ~8 |
+| Dressed To Kill | 1.00% | ~9 |
 | Five Finger Deathcount | 0.50% | ~4 |
 | Fratricide | 0.30% | ~3 |
 | Alpha Editor | 0.20% | ~2 |
@@ -57,7 +57,7 @@ Rating: 4.23 (Ranked 803)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882 (Ranked 178)  
+Progressed: 883 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 746 | 0 |
 | 2023-05-29 | 815 | 0 |
 | 2023-05-30 | 875 | 0 |
-| 2023-05-31 | 882 | 0 |
+| 2023-05-31 | 883 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

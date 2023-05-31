@@ -6,7 +6,7 @@ Rating: 4.18 (Ranked 834)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 9.00% | ~1,268 |
-| The Outer Way | 7.00% | ~987 |
+| The Outer Way | 8.00% | ~1,127 |
 | Desperate Times | 7.00% | ~987 |
 | Chew 'Em Up | 6.00% | ~846 |
 | Paper Jams | 6.00% | ~846 |

@@ -1760,11 +1760,17 @@
       "Rating": 3.98,
       "NumberOfAwards": 8660,
       "NumberOfAwardsMax": 2075
+    },
+    {
+      "Time": "2023-05-31T04:59:04.6770908+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 8669,
+      "NumberOfAwardsMax": 2084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8660,
-  "NumberOfAwardsMax": 2075,
+  "NumberOfAwards": 8669,
+  "NumberOfAwardsMax": 2084,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -1795,7 +1801,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2075
+      "Count": 2084
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1822,9 +1828,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 378763,
+  "EOS_Progressed": 378769,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 7250,
+  "EOS_NewPlayers": 7221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5972,6 +5978,11 @@
       "Time": "2023-05-31T04:05:16.299867+00:00",
       "NumProgressed": 378763,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-31T05:06:40.893338+00:00",
+      "NumProgressed": 378769,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 37,
@@ -6007,7 +6018,7 @@
       "Name": "Marksman Novice",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 75753
+      "UsersEstimate": 75754
     },
     {
       "ID": "13",
@@ -6047,7 +6058,7 @@
       "Name": "Collateral Damage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 26513
+      "UsersEstimate": 26514
     },
     {
       "ID": "18",
@@ -6055,7 +6066,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 117417
+      "UsersEstimate": 117418
     },
     {
       "ID": "19",
@@ -6063,7 +6074,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 284072
+      "UsersEstimate": 284077
     },
     {
       "ID": "2",
@@ -6087,7 +6098,7 @@
       "Name": "Killing Spree",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 83328
+      "UsersEstimate": 83329
     },
     {
       "ID": "22",
@@ -6111,7 +6122,7 @@
       "Name": "First Blood",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 49239
+      "UsersEstimate": 49240
     },
     {
       "ID": "25",
@@ -6175,7 +6186,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 147718
+      "UsersEstimate": 147720
     },
     {
       "ID": "32",
@@ -6207,7 +6218,7 @@
       "Name": "You Complete Me",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 155293
+      "UsersEstimate": 155295
     },
     {
       "ID": "36",
@@ -6223,7 +6234,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 170443
+      "UsersEstimate": 170446
     },
     {
       "ID": "4",
@@ -6231,7 +6242,7 @@
       "Name": "Fantastic Four",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 79540
+      "UsersEstimate": 79541
     },
     {
       "ID": "5",
@@ -6239,7 +6250,7 @@
       "Name": "Top 10",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 53027
+      "UsersEstimate": 53028
     },
     {
       "ID": "6",
@@ -6271,23 +6282,23 @@
       "Name": "CQB Novice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 30301
+      "UsersEstimate": 30302
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 378763,
+      "Progressed": 378769,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2023-05-31T02:19:52.3165288+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:05:16.2998666+00:00",
+  "LastChanged": "2023-05-31T04:59:04.6770906+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:06:40.8933372+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:15.7510251+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:58:18.9868244+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:05:16.2999197+00:00"
+  "LastUpdate_Ratings": "2023-05-31T04:59:04.6770913+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:06:40.8934029+00:00"
 }

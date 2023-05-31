@@ -13,11 +13,11 @@
 | History Check | 44.00% | ~143 |
 | Lock, Stock, And Barrel | 41.00% | ~134 |
 | Gaze Into The Abyss | 41.00% | ~134 |
-| The New World | 40.00% | ~130 |
+| The New World | 41.00% | ~134 |
 | Open Sesame | 39.00% | ~127 |
 | Sticky Fingers | 39.00% | ~127 |
+| Back In The Saddle | 38.00% | ~124 |
 | Knives Out | 38.00% | ~124 |
-| Back In The Saddle | 37.00% | ~121 |
 | Land, Ho! | 37.00% | ~121 |
 | No Man Is An Island | 36.00% | ~117 |
 | Going Once... | 34.00% | ~111 |

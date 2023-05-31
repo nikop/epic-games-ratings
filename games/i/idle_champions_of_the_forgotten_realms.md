@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.20% | ~111 |
 | Bully for Vecna | 0.20% | ~111 |
 | Homecoming | 0.20% | ~179 |
+| The Lost Heir of Omu | 0.20% | ~179 |
 | The Minions of Endelyn Moongrave | 0.20% | ~111 |
 | No One Can Hear You Scream | 0.20% | ~111 |
 | Welcome to the Rock | 0.20% | ~111 |
@@ -186,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.10% | ~89 |
 | Struggling Toward Omu | 0.10% | ~89 |
 | Wagon Train | 0.10% | ~89 |
-| The Lost Heir of Omu | 0.10% | ~89 |
 | Not Very Charming | 0.10% | ~89 |
 | Lobsterfolk Assault | 0.10% | ~89 |
 | Taking Responsibility | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,272 (Ranked 61)  
+Progressed: 89,274 (Ranked 61)  
 Completed: 1,900 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1,900 (2.13%) (Ranked 63)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,272 | 1,900 |
+| 2023-05-31 | 89,274 | 1,900 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

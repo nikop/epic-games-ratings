@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 56255,
+  "EOS_Progressed": 56256,
   "EOS_Completed": 275,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -4426,6 +4426,11 @@
       "Time": "2023-05-31T04:05:17.8670645+00:00",
       "NumProgressed": 56255,
       "NumCompleted": 275
+    },
+    {
+      "Time": "2023-05-31T05:06:42.9124756+00:00",
+      "NumProgressed": 56256,
+      "NumCompleted": 275
     }
   ],
   "TotalAchievements": 24,
@@ -4453,7 +4458,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 37691
+      "UsersEstimate": 37692
     },
     {
       "ID": "BEST_FRIENDS",
@@ -4469,7 +4474,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 14626
+      "UsersEstimate": 14627
     },
     {
       "ID": "ERADICATE",
@@ -4493,7 +4498,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 15751
+      "UsersEstimate": 15752
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -4628,7 +4633,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 56255,
+      "Progressed": 56256,
       "Completed": 275
     }
   ],
@@ -4636,8 +4641,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:05:17.867064+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:06:42.9124749+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.8210195+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:59:04.0179277+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:05:17.8671061+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:00:07.7239318+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:06:42.912528+00:00"
 }

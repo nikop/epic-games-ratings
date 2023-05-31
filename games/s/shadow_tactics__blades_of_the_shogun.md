@@ -6,8 +6,8 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,256 |
-| Thorough | 9.00% | ~15,531 |
+| Genin | 10.00% | ~17,258 |
+| Thorough | 9.00% | ~15,532 |
 | A thief's beginning | 7.00% | ~12,080 |
 | Tanuki Time | 7.00% | ~12,080 |
 | Disguised | 6.00% | ~10,354 |
@@ -15,11 +15,11 @@ Number of Ratings: 495  (23.09.2022)
 | Rescue Takuma | 6.00% | ~10,354 |
 | Rollin' | 6.00% | ~10,354 |
 | Stoned Ox | 6.00% | ~10,354 |
-| Chunin | 5.00% | ~8,628 |
-| Happy Planning | 5.00% | ~8,628 |
-| Ice Ice Yuki | 5.00% | ~8,628 |
-| Mugen Unchained | 5.00% | ~8,628 |
-| Yabu | 5.00% | ~8,628 |
+| Chunin | 5.00% | ~8,629 |
+| Happy Planning | 5.00% | ~8,629 |
+| Ice Ice Yuki | 5.00% | ~8,629 |
+| Mugen Unchained | 5.00% | ~8,629 |
+| Yabu | 5.00% | ~8,629 |
 | Flying Rocks | 4.00% | ~6,903 |
 | Okkoto | 4.00% | ~6,903 |
 | Prisoners | 4.00% | ~6,903 |
@@ -30,10 +30,10 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,177 |
 | Still Rollin' | 3.00% | ~5,177 |
 | Stoned | 3.00% | ~5,177 |
-| Atheist Ox | 2.00% | ~3,451 |
-| It's raining men | 2.00% | ~3,451 |
-| The Old Way | 2.00% | ~3,451 |
-| Winner Winner | 2.00% | ~3,451 |
+| Atheist Ox | 2.00% | ~3,452 |
+| It's raining men | 2.00% | ~3,452 |
+| The Old Way | 2.00% | ~3,452 |
+| Winner Winner | 2.00% | ~3,452 |
 | Meticulous | 1.00% | ~1,726 |
 | No Gimmicks | 1.00% | ~1,726 |
 | Old Man | 1.00% | ~1,726 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~173 |
 | Release the Kraken | 0.10% | ~173 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172,565 (Ranked 53)  
+Progressed: 172,575 (Ranked 53)  
 Completed: 47 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 47 (0.03%) (Ranked 185)
 | 2023-05-28 | 171,914 | 47 |
 | 2023-05-29 | 172,222 | 47 |
 | 2023-05-30 | 172,521 | 47 |
-| 2023-05-31 | 172,565 | 47 |
+| 2023-05-31 | 172,575 | 47 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,673 (Ranked 126)  

@@ -20,7 +20,7 @@
 | Have Mercy | 23.00% | ~8 |
 | Bedroom Secret Spot | 20.00% | ~7 |
 | Save some water for the fishies | 20.00% | ~7 |
-| Spooky | 17.00% | ~6 |
+| Spooky | 20.00% | ~7 |
 | Bathroom Secret Spot | 14.00% | ~5 |
 | Classroom Secret Spot | 9.00% | ~3 |
 | Kitchen Secret Spot | 9.00% | ~3 |

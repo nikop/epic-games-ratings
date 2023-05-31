@@ -7,8 +7,8 @@
 | Country Bumpkin | 73.00% | ~372 |
 | A new Journey | 72.00% | ~366 |
 | Departure | 71.00% | ~361 |
+| From X to Y | 70.00% | ~356 |
 | Way of Iron | 70.00% | ~356 |
-| From X to Y | 69.00% | ~351 |
 | Brainstorm | 67.00% | ~341 |
 | Mystery Tour | 67.00% | ~341 |
 | We brake for nobody | 65.00% | ~331 |
@@ -25,13 +25,13 @@
 | Access granted | 35.00% | ~178 |
 | Going once, going twice, sold | 29.00% | ~148 |
 | Full Steam ahead | 28.00% | ~143 |
+| Seven at one stroke | 24.00% | ~122 |
 | Bull and bear | 24.00% | ~122 |
-| Seven at one stroke | 23.00% | ~117 |
 | Mole | 23.00% | ~117 |
 | All mine | 20.00% | ~102 |
 | Financial Shark | 20.00% | ~102 |
+| Hostile Takeover | 18.00% | ~92 |
 | Trailblazer | 17.00% | ~87 |
-| Hostile Takeover | 17.00% | ~87 |
 | General Manager | 16.00% | ~81 |
 | Country Life | 16.00% | ~81 |
 | Traffic Junction | 13.00% | ~66 |

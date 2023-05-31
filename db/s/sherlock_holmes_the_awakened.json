@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -992,9 +992,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "MQ05_1",
@@ -1008,9 +1008,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ05_3",
@@ -1121,8 +1121,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:03:29.6168029+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:04:12.6832691+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:57:10.371659+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:03:29.6168308+00:00"
+  "LastUpdate_Ratings": "2023-05-31T04:57:26.1719452+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:04:12.683297+00:00"
 }

@@ -496,7 +496,7 @@
   ],
   "EOS_Progressed": 14093,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2410,9 +2410,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 1127
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2553,8 +2553,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T02:18:57.4894102+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:03:35.8682289+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:04:21.7020311+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:57:42.9999915+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:03:35.8682726+00:00"
+  "LastUpdate_Ratings": "2023-05-31T04:58:12.0131232+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:04:21.7020776+00:00"
 }

@@ -1310,9 +1310,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62945,
+  "EOS_Progressed": 62950,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1073,
+  "EOS_NewPlayers": 1076,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4445,6 +4445,11 @@
       "Time": "2023-05-31T04:05:37.7322655+00:00",
       "NumProgressed": 62945,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-31T05:07:07.8868629+00:00",
+      "NumProgressed": 62950,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4504,7 +4509,7 @@
       "Name": "The Batman Family",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -4560,7 +4565,7 @@
       "Name": "Something in the Clay",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "CLAYFACE_2",
@@ -4568,7 +4573,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "CLAYFACE_3",
@@ -4680,7 +4685,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "FREEZE_1_5",
@@ -4688,7 +4693,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "FREEZE_2",
@@ -4696,7 +4701,7 @@
       "Name": "Snow Problem",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "FREEZE_3",
@@ -4768,7 +4773,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "HARLEY_3",
@@ -4776,7 +4781,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "HARLEY_4",
@@ -4824,7 +4829,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -4832,7 +4837,7 @@
       "Name": "Knighthood",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4856,7 +4861,7 @@
       "Name": "Whispered Words",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "MYSTERY_03",
@@ -4864,7 +4869,7 @@
       "Name": "Lock and Key",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "MYSTERY_04",
@@ -4872,7 +4877,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "MYSTERY_05",
@@ -4943,13 +4948,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62945,
+      "Progressed": 62950,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33225,
+      "Progressed": 33230,
       "Completed": 2644
     }
   ],
@@ -4957,8 +4962,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-31T03:59:21.37352+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:05:37.7322651+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:07:07.8868621+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:59:21.3735208+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:05:37.7323445+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:00:33.3904506+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:07:07.8869603+00:00"
 }

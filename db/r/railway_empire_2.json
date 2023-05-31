@@ -730,9 +730,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 356
     },
     {
       "ID": "A11",
@@ -754,9 +754,9 @@
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "A14",
@@ -898,9 +898,9 @@
       "ID": "A31",
       "SetID": "9b7p7eo",
       "Name": "Hostile Takeover",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "A32",
@@ -1097,8 +1097,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:05:28.0321153+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:06:55.4480816+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:57:53.3177704+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:05:28.0321673+00:00"
+  "LastUpdate_Ratings": "2023-05-31T04:58:27.4650823+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:06:55.4481402+00:00"
 }

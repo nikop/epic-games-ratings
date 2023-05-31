@@ -2296,7 +2296,7 @@
   ],
   "EOS_Progressed": 47908,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 883,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -5636,9 +5636,9 @@
       "ID": "COMPLETE_EPISODE_3",
       "SetID": "3fcpmbm",
       "Name": "Revenge of the Sith",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 18684
+      "UsersEstimate": 19163
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -5876,8 +5876,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-30T10:59:59.3615062+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:05:37.4600744+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:07:07.5693846+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.3477834+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:00:05.4026658+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:05:37.4601282+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:01:33.6843721+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:07:07.5694526+00:00"
 }

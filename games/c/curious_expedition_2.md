@@ -21,14 +21,14 @@ Number of Ratings: 20  (23.09.2022)
 | Plunderer | 26.00% | ~78 |
 | Taxonomist | 25.00% | ~75 |
 | Uncertain Loyalties | 23.00% | ~69 |
+| Traveller | 22.00% | ~66 |
 | Nahua Seeker | 22.00% | ~66 |
-| Traveller | 21.00% | ~63 |
 | Roll to Save | 20.00% | ~60 |
 | Red Flag Pirate | 17.00% | ~51 |
 | Veteran Explorer | 17.00% | ~51 |
+| Iron Man | 15.00% | ~45 |
 | For the Club! | 15.00% | ~45 |
 | Practical Palaeontology | 15.00% | ~45 |
-| Iron Man | 14.00% | ~42 |
 | Shortening of the Way | 14.00% | ~42 |
 | A Gentle Beast | 14.00% | ~42 |
 | Dapper | 14.00% | ~42 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 300 (Ranked 221)  
-Completed: 1 (0.33%) (Ranked 120)  
+Completed: 1 (0.33%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

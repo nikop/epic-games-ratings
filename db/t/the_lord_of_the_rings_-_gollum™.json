@@ -2,7 +2,7 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 91,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -510,6 +510,11 @@
       "Time": "2023-05-30T23:05:52.7131+00:00",
       "NumProgressed": 364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T05:06:27.8541953+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -599,9 +604,9 @@
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Chapter8",
@@ -625,7 +630,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Collectibles2",
@@ -673,7 +678,7 @@
       "Name": "Like Flying...",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "GollumChoices",
@@ -697,7 +702,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Murderer",
@@ -808,14 +813,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-31T04:05:06.4894185+00:00",
+  "LastChanged_Achievements": "2023-05-31T05:06:27.8541945+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:57:37.6313519+00:00",
-  "LastUpdate_Achievements": "2023-05-31T04:05:06.4894503+00:00"
+  "LastUpdate_Ratings": "2023-05-31T04:58:04.1923614+00:00",
+  "LastUpdate_Achievements": "2023-05-31T05:06:27.8542261+00:00"
 }
