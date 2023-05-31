@@ -17,9 +17,9 @@
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.56% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.38% |
-| 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 19 | [Remains](games/r/remains.md) | 8.33% |
+| 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 18 | [Remains](games/r/remains.md) | 8.33% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.08% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
@@ -125,8 +125,8 @@
 | 121 | [Godlike Burger](games/g/godlike_burger.md) | 0.33% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 124 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 127 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 126 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 126 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 129 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
