@@ -1,18 +1,18 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 773)  
+Rating: 4.28 (Ranked 774)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,675 |
-| A Good Day To Die | 16.00% | ~3,740 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,402 |
-| Right Back Atcha | 6.00% | ~1,402 |
+| Man 'O War | 20.00% | ~4,676 |
+| A Good Day To Die | 16.00% | ~3,741 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,403 |
+| Right Back Atcha | 6.00% | ~1,403 |
 | Killed by Death | 5.00% | ~1,169 |
 | Kill 'Em All | 4.00% | ~935 |
-| Down Boy! | 2.00% | ~467 |
-| A Snowball's Chance in Hell | 2.00% | ~467 |
+| Down Boy! | 2.00% | ~468 |
+| A Snowball's Chance in Hell | 2.00% | ~468 |
 | Enjoy The Silence | 1.00% | ~234 |
 | Sure Footed As A Goat | 0.90% | ~210 |
 | Thorn in My Herbicide | 0.80% | ~187 |
@@ -25,9 +25,9 @@ Rating: 4.28 (Ranked 773)
 | Hail the Great Horned Metal God! | 0.60% | ~140 |
 | That'll Come In Handy... | 0.60% | ~140 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~117 |
-| Four Legged Friend | 0.40% | ~93 |
-| Ice To See You | 0.40% | ~93 |
-| Smack My Imp Up | 0.40% | ~93 |
+| Four Legged Friend | 0.40% | ~94 |
+| Ice To See You | 0.40% | ~94 |
+| Smack My Imp Up | 0.40% | ~94 |
 | Vroll With It | 0.30% | ~70 |
 | Swift of Foot, Keen of Blade | 0.30% | ~70 |
 | Flame Retardant | 0.20% | ~47 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 773)
 | Too Metal For Magic | 0.10% | ~23 |
 | Heart Of Steel | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,374 (Ranked 90)  
+Progressed: 23,379 (Ranked 90)  
 Completed: 18 (0.08%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 18 (0.08%) (Ranked 168)
 | 2023-05-28 | 22,926 | 18 |
 | 2023-05-29 | 23,067 | 18 |
 | 2023-05-30 | 23,231 | 18 |
-| 2023-05-31 | 23,374 | 18 |
+| 2023-05-31 | 23,379 | 18 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 301)  
 Sum: 125 (Ranked 388)  

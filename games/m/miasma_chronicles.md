@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.23 (Ranked 803)  
+Rating: 4.29 (Ranked 765)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,10 +10,10 @@ Rating: 4.23 (Ranked 803)
 | Aspiring Editor | 69.00% | ~630 |
 | Gun for Hire | 64.00% | ~584 |
 | I am the law! | 53.00% | ~484 |
-| Lumberjack | 34.00% | ~310 |
+| Lumberjack | 35.00% | ~320 |
 | Croaked | 30.00% | ~274 |
 | Limp Richard | 30.00% | ~274 |
-| Firestarter | 29.00% | ~265 |
+| Firestarter | 30.00% | ~274 |
 | From Darkness to Light | 29.00% | ~265 |
 | Exorcist | 26.00% | ~237 |
 | Editor Adept | 25.00% | ~228 |
@@ -33,9 +33,9 @@ Rating: 4.23 (Ranked 803)
 | Pushing Daisy | 10.00% | ~91 |
 | Experienced | 8.00% | ~73 |
 | Ruthless | 8.00% | ~73 |
+| The Watchers | 7.00% | ~64 |
 | Endgame | 6.00% | ~55 |
 | Savior | 6.00% | ~55 |
-| The Watchers | 6.00% | ~55 |
 | Chain Reaction | 4.00% | ~37 |
 | Chaos Theory | 4.00% | ~37 |
 | Commando | 4.00% | ~37 |
@@ -76,3 +76,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-05-29 | 4.22 | 0 | 0 |
 | 2023-05-30 | 4.23 | 0 | 0 |
+| 2023-05-31 | 4.29 | 0 | 0 |

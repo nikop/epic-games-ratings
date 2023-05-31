@@ -13,19 +13,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.60% | ~536 |
 | Beware the Jabberwock | 0.60% | ~334 |
 | The Ring of Regeneration | 0.50% | ~447 |
+| Are Ya Chicken? | 0.50% | ~447 |
 | Coasting to the Finish | 0.50% | ~278 |
 | Were-verpowered | 0.40% | ~357 |
 | Checkmate | 0.40% | ~222 |
+| A Persistent Buzzing | 0.40% | ~357 |
 | Seeking Allies | 0.40% | ~357 |
-| Are Ya Chicken? | 0.40% | ~357 |
 | Mad Cow Disease | 0.40% | ~357 |
 | Friendly Imps | 0.40% | ~357 |
+| Pure Energy | 0.40% | ~357 |
 | Quick or Quack | 0.40% | ~222 |
 | Maddening | 0.30% | ~268 |
 | Owlbear Necessities | 0.30% | ~167 |
 | Best Thay Ever | 0.30% | ~167 |
 | Vecna Out! | 0.30% | ~167 |
-| A Persistent Buzzing | 0.30% | ~268 |
 | Beast Mode | 0.30% | ~268 |
 | Terror in the Dark | 0.30% | ~268 |
 | A Mysterious Summons | 0.30% | ~268 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~268 |
 | Exploring Port Nyanzaru | 0.30% | ~268 |
 | The Contagious Curse | 0.30% | ~268 |
-| Pure Energy | 0.30% | ~268 |
 | Pros and CONs | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
@@ -67,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~179 |
 | Wisdom Check | 0.20% | ~179 |
 | No Time To Rest | 0.20% | ~179 |
+| The Mists of Ravenloft | 0.20% | ~179 |
 | Invisible Shadows | 0.20% | ~179 |
 | The Dinner Party | 0.20% | ~179 |
 | The Botched Kidnapping | 0.20% | ~179 |
@@ -223,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~89 |
 | Azaka's Procession - Part 2 | 0.10% | ~89 |
 | Acererak's Puzzle | 0.10% | ~56 |
-| The Mists of Ravenloft | 0.10% | ~89 |
 | The Hunt for Owl-y | 0.10% | ~89 |
 | Werewolves in the Mist | 0.10% | ~89 |
 | We're not in Faerûn Anymore | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,326 (Ranked 61)  
-Completed: 1,904 (2.13%) (Ranked 61)  
+Progressed: 89,332 (Ranked 61)  
+Completed: 1,904 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -541,7 +541,7 @@ Completed: 1,904 (2.13%) (Ranked 61)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,326 | 1,904 |
+| 2023-05-31 | 89,332 | 1,904 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,007 (Ranked 37)  

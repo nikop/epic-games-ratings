@@ -571,9 +571,9 @@
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "Chapter2",
@@ -595,9 +595,9 @@
       "ID": "Chapter4",
       "SetID": "70l3651",
       "Name": "The Veteran",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "Chapter5",
@@ -723,9 +723,9 @@
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "NoDamage",
@@ -834,8 +834,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:05:57.3619828+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:12.399926+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:57:42.2464503+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:05:57.3620059+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:57:56.8438071+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:12.3999495+00:00"
 }

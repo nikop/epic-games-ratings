@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Aspairagus | 49.00% | ~8 |
 | Survivor | 37.00% | ~6 |
-| No Diggity | 34.00% | ~6 |
+| No Diggity | 36.00% | ~6 |
 | Early Survivor | 31.00% | ~5 |
 | Seeds of War | 27.00% | ~18 |
 | Bouncemato | 24.00% | ~4 |
@@ -16,9 +16,9 @@
 | I Believe I Can Fly | 18.00% | ~12 |
 | No Asperascope | 15.00% | ~10 |
 | Cornivore | 15.00% | ~10 |
+| Grave Digger | 15.00% | ~3 |
 | Triple Kill | 13.00% | ~9 |
 | Professional Survivor | 13.00% | ~2 |
-| Grave Digger | 13.00% | ~2 |
 | 15K | 12.00% | ~8 |
 | 10K | 12.00% | ~8 |
 | Drinking Problem | 10.00% | ~7 |

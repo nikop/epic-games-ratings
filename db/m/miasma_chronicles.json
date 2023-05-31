@@ -2,7 +2,7 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 765,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 175,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2023-05-29T20:58:20.2954549+00:00",
@@ -28,6 +28,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-31T20:58:35.247409+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -36,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 913,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1124,9 +1130,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 274
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1212,9 +1218,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 320
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1340,9 +1346,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 64
     },
     {
       "ID": "WIPE_OUT",
@@ -1364,9 +1370,9 @@
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged": "2023-05-30T20:58:55.5657959+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:02:28.0214518+00:00",
+  "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:02:15.8709125+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:58:20.6018297+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:02:28.0214902+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:58:35.2474093+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:02:15.8709498+00:00"
 }

@@ -12,7 +12,7 @@
 | The child of the night | 68.00% | ~32 |
 | Sticky fingers | 45.00% | ~21 |
 | A horrible thing will happen... | 40.00% | ~19 |
-| Vampires | 34.00% | ~16 |
+| Vampires | 36.00% | ~17 |
 | Bloody stream | 34.00% | ~16 |
 | Fangs | 19.00% | ~9 |
 | Mirrors | 13.00% | ~6 |
@@ -26,7 +26,7 @@
 | Master of puppets | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47 (Ranked 301)  
-Completed: 1 (2.13%) (Ranked 61)  
+Completed: 1 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

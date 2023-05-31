@@ -403,9 +403,9 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -459,9 +459,9 @@
       "ID": "ACHIEVEMENT_SPYGLASS_ID",
       "SetID": "2h9pc72",
       "Name": "Spyglass",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -474,8 +474,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:00:59.0128339+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:01:07.5603906+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.7005248+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:57:10.4464709+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:00:59.0128589+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:57:23.4162437+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:01:07.5604081+00:00"
 }

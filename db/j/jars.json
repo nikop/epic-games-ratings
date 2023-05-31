@@ -3,7 +3,7 @@
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -127,9 +127,9 @@
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_CHAPTER_2_DONE",
@@ -264,8 +264,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:01:13.367195+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:01:21.9370454+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.0235396+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:58:01.8675792+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:01:13.3673947+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:58:17.2262095+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:01:21.9370604+00:00"
 }

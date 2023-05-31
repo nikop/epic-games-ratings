@@ -8,35 +8,35 @@
 | MLG 360 no scope kill! | 91.00% | ~62 |
 | Are you ready to rumble? | 90.00% | ~61 |
 | That's what cheese said! | 84.00% | ~57 |
-| I like you...but I have to kill you... | 81.00% | ~55 |
+| I like you...but I have to kill you... | 82.00% | ~56 |
+| AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~55 |
+| Not so hip anymore! | 81.00% | ~55 |
 | Nerd | 81.00% | ~55 |
-| AHHHHHH.....I'M ON FIRE!!! | 79.00% | ~54 |
-| Not so hip anymore! | 79.00% | ~54 |
-| Blurry depth perception | 76.00% | ~52 |
-| Up and down | 74.00% | ~50 |
-| Rolling, Rolling, Rolling | 71.00% | ~48 |
-| Fire-fighter! | 62.00% | ~42 |
-| Make Love not War-Craft a Mistlefoe | 60.00% | ~41 |
-| Oh, you're up to no gouda! | 59.00% | ~40 |
-| Meat grinder | 56.00% | ~38 |
+| Blurry depth perception | 78.00% | ~53 |
+| Up and down | 75.00% | ~51 |
+| Rolling, Rolling, Rolling | 72.00% | ~49 |
+| Fire-fighter! | 63.00% | ~43 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~42 |
+| Oh, you're up to no gouda! | 60.00% | ~41 |
+| Meat grinder | 57.00% | ~39 |
+| You're not going to blow me up! | 51.00% | ~35 |
 | Butcher | 50.00% | ~34 |
-| You're not going to blow me up! | 50.00% | ~34 |
 | Mushroom soup of the day | 47.00% | ~32 |
 | Spare Ribs | 47.00% | ~32 |
 | Honk honk! | 46.00% | ~31 |
 | My pants squeak when I walk | 46.00% | ~31 |
+| Thats disgusting! | 44.00% | ~30 |
 | Surprise!! | 43.00% | ~29 |
-| Thats disgusting! | 43.00% | ~29 |
 | Cockadoodledoo! | 43.00% | ~29 |
-| Make America Grate Again | 35.00% | ~24 |
-| Self assessed tax return | 35.00% | ~24 |
+| Make America Grate Again | 37.00% | ~25 |
+| Self assessed tax return | 37.00% | ~25 |
 | Karaoke king | 35.00% | ~24 |
 | Pasta Bolognese | 35.00% | ~24 |
 | You are no match for me, Billy! | 34.00% | ~23 |
 | Catch the bus with me! | 34.00% | ~23 |
 | You can't stop me, bro! | 34.00% | ~23 |
 | Haemochromatosis | 34.00% | ~23 |
-| Meatballs, coming up! | 29.00% | ~20 |
+| Meatballs, coming up! | 31.00% | ~21 |
 | I'm going to get a concussion | 28.00% | ~19 |
 | Another one bites the iron | 28.00% | ~19 |
 | A Megapint...? | 26.00% | ~18 |

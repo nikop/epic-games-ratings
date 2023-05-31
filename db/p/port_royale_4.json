@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,6 +694,11 @@
       "Time": "2023-05-31T10:05:28.3579206+00:00",
       "NumProgressed": 592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T21:06:30.0214842+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -769,7 +774,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH009",
@@ -791,9 +796,9 @@
       "ID": "ACH011",
       "SetID": "69nfp41",
       "Name": "Intangible",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH012",
@@ -871,9 +876,9 @@
       "ID": "ACH021",
       "SetID": "69nfp41",
       "Name": "Collectionitis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH022",
@@ -919,9 +924,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH028",
@@ -937,7 +942,7 @@
       "Name": "Licence to Kill",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH030",
@@ -945,7 +950,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH031",
@@ -961,7 +966,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH033",
@@ -993,7 +998,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH037",
@@ -1055,9 +1060,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH045",
@@ -1097,22 +1102,22 @@
       "Name": "Wholesale",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:15.1334534+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:30.0214839+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:10.2461574+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:58:32.1340134+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:15.1334886+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:58:46.7693741+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:30.0215206+00:00"
 }

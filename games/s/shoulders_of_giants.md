@@ -20,7 +20,7 @@ Rating: 4.35 (Ranked 720)
 | The Second Law of Thermodynamics | 15.00% | ~314 |
 | Do you trust me? | 15.00% | ~314 |
 | The Third Law of Thermodynamics | 9.00% | ~188 |
-| Say "Cheese!" | 8.00% | ~168 |
+| Say "Cheese!" | 9.00% | ~188 |
 | Taking Out the Trash | 8.00% | ~168 |
 | Better Than the Devs | 4.00% | ~84 |
 | So do we just stay up here, or?... | 2.00% | ~42 |

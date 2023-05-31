@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "ACH_UNLOCK_SUCC_KIND_1",
       "SetID": "ajki3eh",
       "Name": "The Hobbyist",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
@@ -450,8 +450,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:01.1940502+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:16.3280776+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.1888334+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:58:06.716375+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:01.1940689+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:58:21.7524697+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:16.3280963+00:00"
 }

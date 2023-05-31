@@ -2,7 +2,7 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 89,
@@ -184,9 +184,9 @@
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -367,8 +367,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:15.3772333+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:30.3128468+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:46.9856284+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:59:21.2040592+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:15.3772483+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:59:33.2921334+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:30.3128623+00:00"
 }

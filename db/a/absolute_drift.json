@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519969,
+  "EOS_Progressed": 1519979,
   "EOS_Completed": 616,
-  "EOS_NewPlayers": 1615,
+  "EOS_NewPlayers": 1613,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4630,6 +4630,11 @@
       "Time": "2023-05-31T20:03:57.7691816+00:00",
       "NumProgressed": 1519969,
       "NumCompleted": 616
+    },
+    {
+      "Time": "2023-05-31T21:03:44.6135625+00:00",
+      "NumProgressed": 1519979,
+      "NumCompleted": 616
     }
   ],
   "TotalAchievements": 20,
@@ -4649,7 +4654,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106398
+      "UsersEstimate": 106399
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -4657,7 +4662,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30399
+      "UsersEstimate": 30400
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -4689,7 +4694,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136797
+      "UsersEstimate": 136798
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -4713,7 +4718,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30399
+      "UsersEstimate": 30400
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -4729,7 +4734,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30399
+      "UsersEstimate": 30400
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -4737,7 +4742,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151997
+      "UsersEstimate": 151998
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -4785,7 +4790,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75998
+      "UsersEstimate": 75999
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -4800,15 +4805,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1519969,
+      "Progressed": 1519979,
       "Completed": 616
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:03:57.7691805+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:03:44.6135622+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:27.6569582+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:00:20.6620458+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:03:57.7692156+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:00:29.4502838+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:03:44.6135956+00:00"
 }

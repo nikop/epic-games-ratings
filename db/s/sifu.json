@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4320,9 +4320,9 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706559,
+  "EOS_Progressed": 706565,
   "EOS_Completed": 12749,
-  "EOS_NewPlayers": 1522,
+  "EOS_NewPlayers": 1524,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7970,6 +7970,11 @@
       "Time": "2023-05-31T20:06:27.3530029+00:00",
       "NumProgressed": 706559,
       "NumCompleted": 12749
+    },
+    {
+      "Time": "2023-05-31T21:06:42.2428037+00:00",
+      "NumProgressed": 706565,
+      "NumCompleted": 12749
     }
   ],
   "TotalAchievements": 50,
@@ -8133,7 +8138,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8229,7 +8234,7 @@
       "Name": "Old Child",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "33_BladeOneShot",
@@ -8293,7 +8298,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8325,7 +8330,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8380,21 +8385,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15860,
+      "Progressed": 15866,
       "Completed": 10207
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706559,
+      "Progressed": 706565,
       "Completed": 12749
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-31T16:59:02.8356431+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:27.3530024+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:42.2428034+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:59:07.1482187+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:27.3530553+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:59:19.971467+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:42.2428575+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2223,10 +2223,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 522876,
-  "EOS_Completed": 1430,
-  "EOS_NewPlayers": 875,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 522877,
+  "EOS_Completed": 1431,
+  "EOS_NewPlayers": 874,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -6373,6 +6373,11 @@
       "Time": "2023-05-31T20:06:08.6143552+00:00",
       "NumProgressed": 522876,
       "NumCompleted": 1430
+    },
+    {
+      "Time": "2023-05-31T21:06:23.5390751+00:00",
+      "NumProgressed": 522877,
+      "NumCompleted": 1431
     }
   ],
   "TotalAchievements": 37,
@@ -6440,7 +6445,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 433987
+      "UsersEstimate": 433988
     },
     {
       "ID": "HONED",
@@ -6496,7 +6501,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209150
+      "UsersEstimate": 209151
     },
     {
       "ID": "THE_CASTLE",
@@ -6679,15 +6684,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 522876,
-      "Completed": 1430
+      "Progressed": 522877,
+      "Completed": 1431
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-27T13:58:57.1768614+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:08.6143548+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:23.5390747+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:51.7080988+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:59:28.7155958+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:08.614398+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:59:40.9890152+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:23.5391176+00:00"
 }

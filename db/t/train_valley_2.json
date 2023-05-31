@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -400,6 +400,11 @@
       "Time": "2023-05-31T18:06:24.8224428+00:00",
       "NumProgressed": 721,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T21:06:44.0351663+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -467,7 +472,7 @@
       "Name": "Atomic Age",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchievementBbq",
@@ -547,7 +552,7 @@
       "Name": "Digital Age",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchievementElectricalAge",
@@ -595,7 +600,7 @@
       "Name": "Full garage",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -651,7 +656,7 @@
       "Name": "Information Age",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchievementInnovator",
@@ -913,9 +918,9 @@
       "ID": "AchievementTheTortoise",
       "SetID": "76o014g",
       "Name": "The Tortoise",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 22
     },
     {
       "ID": "AchievementToTheEyeballs",
@@ -1010,21 +1015,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:29.1534847+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:44.035166+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.0227175+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:57:25.9353653+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:29.1535484+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:57:40.3607698+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:44.0352298+00:00"
 }

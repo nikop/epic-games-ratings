@@ -11,8 +11,8 @@ Number of Ratings: 54  (23.09.2022)
 | One HIT wonder | 33.00% | ~290 |
 | One shot, one kill | 28.00% | ~246 |
 | Traveler | 25.00% | ~220 |
+| Head Burst | 19.00% | ~167 |
 | Explorer | 18.00% | ~158 |
-| Head Burst | 18.00% | ~158 |
 | Grave Robber | 17.00% | ~149 |
 | Double agent | 15.00% | ~132 |
 | Paranoia | 14.00% | ~123 |

@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1958,
+  "EOS_Progressed": 1962,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
@@ -2067,6 +2067,11 @@
       "Time": "2023-05-31T20:06:11.7284694+00:00",
       "NumProgressed": 1958,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T21:06:26.7943212+00:00",
+      "NumProgressed": 1962,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2134,7 +2139,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2158,7 +2163,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2246,7 +2251,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2278,7 +2283,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2286,7 +2291,7 @@
       "Name": "Lord of War",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2302,7 +2307,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2645,13 +2650,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1909,
+      "Progressed": 1913,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1958,
+      "Progressed": 1962,
       "Completed": 2
     }
   ],
@@ -2659,8 +2664,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:11.7284687+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:26.7943209+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:00:51.6916093+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:11.7285305+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:00:59.5898262+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:26.794393+00:00"
 }

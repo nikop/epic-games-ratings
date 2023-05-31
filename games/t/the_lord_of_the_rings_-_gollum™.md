@@ -12,16 +12,16 @@
 | Memories | 27.00% | ~99 |
 | The Maggot | 22.00% | ~81 |
 | The Breeder | 17.00% | ~63 |
-| The Veteran | 13.00% | ~48 |
+| The Veteran | 14.00% | ~52 |
 | The Traitor | 10.00% | ~37 |
 | The Spider | 8.00% | ~29 |
 | Good as Fish | 5.00% | ~18 |
+| Murderer | 5.00% | ~18 |
 | Trigger-Happy | 5.00% | ~18 |
 | He's so Annoying | 4.00% | ~15 |
 | Her Eyes | 4.00% | ~15 |
 | Gollum/Sméagol | 4.00% | ~15 |
-| Murderer | 4.00% | ~15 |
-| The Friend | 2.00% | ~7 |
+| The Friend | 3.00% | ~11 |
 | Master of the Old Game | 2.00% | ~7 |
 | So Silly! | 2.00% | ~7 |
 | Made a Song | 2.00% | ~7 |

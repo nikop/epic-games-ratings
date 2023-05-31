@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2803,
+  "EOS_Progressed": 2804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1433,6 +1433,11 @@
       "Time": "2023-05-31T20:06:29.9305155+00:00",
       "NumProgressed": 2803,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T21:06:44.8985403+00:00",
+      "NumProgressed": 2804,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1540,7 +1545,7 @@
       "Name": "Surgical Excision",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1652,7 +1657,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "Kills_Interactable",
@@ -1780,7 +1785,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1915,21 +1920,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2803,
+      "Progressed": 2804,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2803,
+      "Progressed": 2804,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:29.9305151+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:44.8985398+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-31T19:58:44.2811137+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:29.9305627+00:00"
+  "LastUpdate_Ratings": "2023-05-31T20:58:58.4281836+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:44.8985891+00:00"
 }

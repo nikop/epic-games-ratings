@@ -6,7 +6,7 @@ Rating: 4.33 (Ranked 740)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 90.00% | ~330 |
-| Luc Piette | 76.00% | ~279 |
+| Luc Piette | 77.00% | ~283 |
 | Angeline Van den Bosch | 74.00% | ~272 |
 | Elizabeth Padget | 71.00% | ~261 |
 | Little Grey Cells | 69.00% | ~253 |

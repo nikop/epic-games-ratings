@@ -1,19 +1,19 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 793)  
+Rating: 4.24 (Ranked 794)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,333 |
-| Don't I Know You...? | 77.00% | ~1,283 |
-| Jailbreak | 65.00% | ~1,083 |
+| Rigged And Ready | 80.00% | ~1,334 |
+| Don't I Know You...? | 77.00% | ~1,284 |
+| Jailbreak | 65.00% | ~1,084 |
 | Suited and Booted | 38.00% | ~633 |
-| HEADSHOT! | 37.00% | ~616 |
+| HEADSHOT! | 37.00% | ~617 |
 | Sleeping With The Fishes | 35.00% | ~583 |
 | Overheated | 30.00% | ~500 |
 | High Performance | 30.00% | ~500 |
-| Powered Up | 28.00% | ~466 |
+| Powered Up | 28.00% | ~467 |
 | Studied The Blade | 24.00% | ~400 |
 | Home Invasion | 22.00% | ~367 |
 | Luminary | 22.00% | ~367 |
@@ -57,13 +57,13 @@ Rating: 4.24 (Ranked 793)
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~33 |
 | Box Office Smash | 2.00% | ~33 |
 | Going Postal | 2.00% | ~33 |
-| The Easy Way Out | 2.00% | ~33 |
 | Loot, Pillage & Craft | 2.00% | ~33 |
 | Own Medicine | 1.00% | ~17 |
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
+| The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,666 (Ranked 153)  
+Progressed: 1,667 (Ranked 153)  
 Completed: 10 (0.60%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 10 (0.60%) (Ranked 106)
 | 2023-05-28 | 1,651 | 10 |
 | 2023-05-29 | 1,658 | 10 |
 | 2023-05-30 | 1,661 | 10 |
-| 2023-05-31 | 1,666 | 10 |
+| 2023-05-31 | 1,667 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

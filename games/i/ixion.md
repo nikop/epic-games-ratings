@@ -6,9 +6,9 @@ Rating: 4.57 (Ranked 437)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 12.00% | ~279 |
-| Infinite Growth... | 10.00% | ~232 |
-| Sputnik 2049 | 10.00% | ~232 |
-| Without Breaking Some Eggs... | 9.00% | ~209 |
+| Sputnik 2049 | 11.00% | ~256 |
+| Infinite Growth... | 10.00% | ~233 |
+| Without Breaking Some Eggs... | 9.00% | ~210 |
 | Space Society | 6.00% | ~140 |
 | A Thousand Strong | 6.00% | ~140 |
 | Ready for a New World | 6.00% | ~140 |
@@ -22,19 +22,19 @@ Rating: 4.57 (Ranked 437)
 | A Hunk of Junk | 3.00% | ~70 |
 | Exceeding Capacity | 3.00% | ~70 |
 | Please Make it Stop! | 3.00% | ~70 |
-| Man's Best Friend | 2.00% | ~46 |
-| Sightseeing | 2.00% | ~46 |
-| Power Outage | 2.00% | ~46 |
-| Access Granted | 2.00% | ~46 |
-| Necessary Enhancement | 2.00% | ~46 |
-| Convenient Transport | 2.00% | ~46 |
-| From the Past | 2.00% | ~46 |
+| Man's Best Friend | 2.00% | ~47 |
+| Sightseeing | 2.00% | ~47 |
+| Power Outage | 2.00% | ~47 |
+| Access Granted | 2.00% | ~47 |
+| Necessary Enhancement | 2.00% | ~47 |
+| Convenient Transport | 2.00% | ~47 |
+| From the Past | 2.00% | ~47 |
 | Oats | 1.00% | ~23 |
 | What They Hide From Us | 1.00% | ~23 |
+| ...  in a finite world | 1.00% | ~23 |
 | In Dolos We Trust | 1.00% | ~23 |
 | BRAWL! | 1.00% | ~23 |
 | All in Good Health | 1.00% | ~23 |
-| ...  in a finite world | 0.90% | ~21 |
 | What the Ruins Teach Us | 0.90% | ~21 |
 | Delivery! | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 437)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,325 (Ranked 144)  
+Progressed: 2,329 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,325 | 0 |
+| 2023-05-31 | 2,329 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

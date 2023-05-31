@@ -7,7 +7,7 @@ Number of Ratings: 87  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dealmaker | 8.00% | ~58 |
-| Full garage | 7.00% | ~50 |
+| Full garage | 7.00% | ~51 |
 | Individual delivery | 6.00% | ~43 |
 | To the eyeballs! | 6.00% | ~43 |
 | Juggler | 5.00% | ~36 |
@@ -28,6 +28,7 @@ Number of Ratings: 87  (23.09.2022)
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~22 |
+| The Tortoise | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
@@ -37,7 +38,6 @@ Number of Ratings: 87  (23.09.2022)
 | Overseer | 2.00% | ~14 |
 | Relocation | 2.00% | ~14 |
 | Squander | 2.00% | ~14 |
-| The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
 | At the last moment! | 1.00% | ~7 |
 | Bridge builder | 1.00% | ~7 |
@@ -54,9 +54,9 @@ Number of Ratings: 87  (23.09.2022)
 | Stargazer | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Astronomer | 0.80% | ~6 |
-| Atomic Age | 0.80% | ~0 |
-| Digital Age | 0.80% | ~0 |
-| Information Age | 0.80% | ~0 |
+| Atomic Age | 0.80% | ~1 |
+| Digital Age | 0.80% | ~1 |
+| Information Age | 0.80% | ~1 |
 | Innovator | 0.80% | ~6 |
 | Woodcutter | 0.80% | ~6 |
 | Miscalculation | 0.70% | ~5 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721 (Ranked 183)  
+Progressed: 722 (Ranked 183)  
 Completed: 1 (0.14%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.14%) (Ranked 153)
 | 2023-05-25 | 717 | 1 |
 | 2023-05-28 | 719 | 1 |
 | 2023-05-29 | 720 | 1 |
-| 2023-05-31 | 721 | 1 |
+| 2023-05-31 | 722 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 364)  
 Sum: 71 (Ranked 418)  

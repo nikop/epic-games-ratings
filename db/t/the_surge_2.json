@@ -2,7 +2,7 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 153,
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1666,
+  "EOS_Progressed": 1667,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-05-31T18:06:28.915659+00:00",
       "NumProgressed": 1666,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-31T21:06:48.8945788+00:00",
+      "NumProgressed": 1667,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -819,7 +824,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACHV_03",
@@ -987,7 +992,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACHV_24",
@@ -1011,7 +1016,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACHV_27",
@@ -1043,7 +1048,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHV_31",
@@ -1115,7 +1120,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "ACHV_40",
@@ -1233,9 +1238,9 @@
       "ID": "ACHV_54",
       "SetID": "8p5mlmc",
       "Name": "The Easy Way Out",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHV_55",
@@ -1266,7 +1271,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1666,
+      "Progressed": 1667,
       "Completed": 10
     }
   ],
@@ -1274,8 +1279,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-31T20:06:33.7760485+00:00",
+  "LastChanged_Achievements": "2023-05-31T21:06:48.8945783+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-05-31T20:00:47.3157284+00:00",
-  "LastUpdate_Achievements": "2023-05-31T20:06:33.7760911+00:00"
+  "LastUpdate_Ratings": "2023-05-31T21:00:54.8367582+00:00",
+  "LastUpdate_Achievements": "2023-05-31T21:06:48.8946196+00:00"
 }
