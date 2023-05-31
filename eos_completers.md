@@ -54,7 +54,7 @@
 | 52 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.63% |
+| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.60% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
@@ -85,7 +85,7 @@
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.09% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.05% |
-| 86 | [Five Dates](games/f/five_dates.md) | 1.02% |
+| 86 | [Five Dates](games/f/five_dates.md) | 1.01% |
 | 87 | [Sable](games/s/sable.md) | 0.95% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
 | 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.89% |
@@ -96,8 +96,8 @@
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
-| 97 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.77% |
 | 97 | [Them and Us](games/t/them_and_us.md) | 0.77% |
+| 98 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.76% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
