@@ -30,7 +30,7 @@
 | 26 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,446 | 31 |
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,008 | 137 |
 | 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 491 |
-| 30 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 690 | 157 |
+| 30 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 691 | 157 |
 | 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 331 | 216 |
 | 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 96 | 330 |
 | 30 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 119 | 305 |
@@ -91,7 +91,7 @@
 | 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,447 | 116 |
 | 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 359 | 210 |
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 491 |
-| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 587 | 170 |
+| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 589 | 169 |
 | 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 724 | 154 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,861 | 55 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 368 | 208 |
@@ -231,7 +231,7 @@
 | 216 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 491 |
 | 216 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,551 | 113 |
 | 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 38 | 418 |
-| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 882 | 143 |
+| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 883 | 143 |
 | 216 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 491 |
 | 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 491 |
 | 216 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 491 |
@@ -349,7 +349,7 @@
 | 343 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,271 | 121 |
 | 343 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 539 | 179 |
 | 343 | [Little Inferno](games/l/little_inferno.md) | 4.62 | 0 | 491 |
-| 343 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 588 | 169 |
+| 343 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 588 | 170 |
 | 343 | [MudRunner](games/m/mudrunner.md) | 4.62 | 237 | 244 |
 | 343 | [NORCO](games/n/norco.md) | 4.62 | 0 | 491 |
 | 343 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 491 |
@@ -503,7 +503,7 @@
 | 495 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 471 |
 | 495 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 337 |
 | 495 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.53 | 0 | 491 |
-| 495 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 285 | 228 |
+| 495 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 286 | 228 |
 | 495 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 491 |
 | 495 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 334 |
 | 495 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 0 | 491 |
@@ -713,7 +713,7 @@
 | 711 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 491 |
 | 711 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 279 |
 | 711 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 491 |
-| 711 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,452 | 27 |
+| 711 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,461 | 27 |
 | 711 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 491 |
 | 711 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 491 |
 | 711 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 463 |
@@ -920,8 +920,8 @@
 | 917 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 66 | 368 |
 | 919 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 491 |
 | 919 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 491 |
-| 921 | [Poker Club](games/p/poker_club.md) | 3.78 | 0 | 491 |
-| 921 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,031 | 135 |
+| 919 | [Poker Club](games/p/poker_club.md) | 3.79 | 0 | 491 |
+| 922 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,031 | 135 |
 | 923 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 491 |
 | 923 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 58 | 381 |
 | 925 | [To The Rescue](games/t/to_the_rescue.md) | 3.76 | 0 | 491 |
