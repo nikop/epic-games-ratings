@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3249,
+  "EOS_Progressed": 3251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3285,6 +3285,11 @@
       "Time": "2023-05-31T14:06:33.2897522+00:00",
       "NumProgressed": 3249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T15:06:44.0781587+00:00",
+      "NumProgressed": 3251,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3304,7 +3309,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -3312,7 +3317,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -3320,7 +3325,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -3328,7 +3333,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -3344,7 +3349,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -3352,7 +3357,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3400,7 +3405,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3416,7 +3421,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3456,7 +3461,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2471
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3488,7 +3493,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_MYWAYS",
@@ -3504,7 +3509,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -3512,7 +3517,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -3528,7 +3533,7 @@
       "Name": "Survivor",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -3560,7 +3565,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -3568,7 +3573,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3615,15 +3620,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3249,
+      "Progressed": 3251,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:33.2897518+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:44.0781585+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:00:18.8342493+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:33.2897885+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:00:37.2893446+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:44.0781918+00:00"
 }

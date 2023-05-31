@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2300,9 +2300,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 47932,
+  "EOS_Progressed": 47933,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -5550,6 +5550,11 @@
       "Time": "2023-05-31T14:06:34.4026923+00:00",
       "NumProgressed": 47932,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-05-31T15:06:45.2794156+00:00",
+      "NumProgressed": 47933,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 45,
@@ -5585,7 +5590,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 37866
+      "UsersEstimate": 37867
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -5687,9 +5692,9 @@
       "ID": "COMPLETE_EPISODE_3",
       "SetID": "3fcpmbm",
       "Name": "Revenge of the Sith",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 18693
+      "UsersEstimate": 19173
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -5697,7 +5702,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 22528
+      "UsersEstimate": 22529
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -5721,7 +5726,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12462
+      "UsersEstimate": 12463
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -5753,7 +5758,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 27321
+      "UsersEstimate": 27322
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -5825,7 +5830,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 46494
+      "UsersEstimate": 46495
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -5913,22 +5918,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 34511
+      "UsersEstimate": 34512
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 47932,
+      "Progressed": 47933,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-31T14:00:47.7688474+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:34.4026918+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:45.2794153+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.3477834+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:00:47.7688478+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:34.4027342+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:01:07.4574635+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:45.2794568+00:00"
 }

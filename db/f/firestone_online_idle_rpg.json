@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -110,9 +110,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1232,
+  "EOS_Progressed": 1233,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2425,6 +2425,11 @@
       "Time": "2023-05-31T11:05:45.7066962+00:00",
       "NumProgressed": 1232,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T15:06:30.7204147+00:00",
+      "NumProgressed": 1233,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2522,9 +2527,9 @@
       "ID": "dailyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Daily Quest Completionist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 99
     },
     {
       "ID": "doingmypart",
@@ -2612,7 +2617,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "fellowshippower",
@@ -2644,7 +2649,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "gearenchanting",
@@ -2996,7 +3001,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "warmachinesarmy",
@@ -3035,7 +3040,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1232,
+      "Progressed": 1233,
       "Completed": 1
     }
   ],
@@ -3043,8 +3048,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-31T02:19:10.2971852+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:20.6701816+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:30.7204144+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:58:01.0959694+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:20.6702528+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:58:08.5046044+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:30.7204859+00:00"
 }

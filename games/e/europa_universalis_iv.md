@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,265 |
-| That's a Grand Army | 8.00% | ~3,791 |
-| That is mine! | 8.00% | ~3,791 |
-| Victorious! | 8.00% | ~3,791 |
-| Brothers in Arms | 6.00% | ~2,844 |
-| That's a Grand Navy | 6.00% | ~2,844 |
-| Seriously?! | 6.00% | ~2,844 |
-| For the Glory | 5.00% | ~2,370 |
-| Cold War | 4.00% | ~1,896 |
-| True Catholic | 4.00% | ~1,896 |
-| Defender of the Faith | 3.00% | ~1,422 |
-| It's all about the money | 3.00% | ~1,422 |
-| Respected | 3.00% | ~1,422 |
-| Truly Divine Ruler | 3.00% | ~1,422 |
+| Until death do us apart | 9.00% | ~4,268 |
+| That's a Grand Army | 8.00% | ~3,794 |
+| That is mine! | 8.00% | ~3,794 |
+| Victorious! | 8.00% | ~3,794 |
+| Brothers in Arms | 6.00% | ~2,845 |
+| That's a Grand Navy | 6.00% | ~2,845 |
+| Seriously?! | 6.00% | ~2,845 |
+| For the Glory | 5.00% | ~2,371 |
+| Cold War | 4.00% | ~1,897 |
+| True Catholic | 4.00% | ~1,897 |
+| Defender of the Faith | 3.00% | ~1,423 |
+| It's all about the money | 3.00% | ~1,423 |
+| Respected | 3.00% | ~1,423 |
+| Truly Divine Ruler | 3.00% | ~1,423 |
 | Agressive Expander | 2.00% | ~948 |
 | Blockader | 2.00% | ~948 |
 | Combined Arms | 2.00% | ~948 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~379 |
 | Down Under | 0.70% | ~332 |
 | Trustworthy | 0.70% | ~332 |
-| Electable! | 0.60% | ~284 |
-| Time Bandit | 0.60% | ~284 |
+| Electable! | 0.60% | ~285 |
+| Time Bandit | 0.60% | ~285 |
 | All belongs to Mother Russia | 0.50% | ~237 |
 | At every continent | 0.50% | ~237 |
 | Early-Modern Warfare | 0.50% | ~237 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,392 (Ranked 78)  
+Progressed: 47,422 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,15 +402,15 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 45,938 | 0 |
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
-| 2023-05-31 | 47,392 | 0 |
+| 2023-05-31 | 47,422 | 0 |
 ## Awards
 Max (Educational): 5,313  (Ranked 60)  
-Sum: 43,959 (Ranked 27)  
+Sum: 43,961 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,313 |
-| This game is Highly Recommended | 5,089 |
+| This game is Highly Recommended | 5,091 |
 | This game has Challenging Combat | 5,068 |
 | This game is Extremely Fun | 5,046 |
 | This game has Diverse Characters | 5,007 |
@@ -556,4 +556,4 @@ Diff (max vs sum): 33
 | 2023-05-28 | 4.68 | - | 5,302 | 43,881 |
 | 2023-05-29 | 4.68 | - | 5,306 | 43,917 |
 | 2023-05-30 | 4.68 | - | 5,313 | 43,955 |
-| 2023-05-31 | 4.68 | - | 5,313 | 43,959 |
+| 2023-05-31 | 4.68 | - | 5,313 | 43,961 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,7 +148,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6469,
+  "EOS_Progressed": 6470,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
@@ -3358,6 +3358,11 @@
       "Time": "2023-05-31T13:13:28.0733911+00:00",
       "NumProgressed": 6469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T15:06:36.1533558+00:00",
+      "NumProgressed": 6470,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3369,7 +3374,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "0002",
@@ -3489,7 +3494,7 @@
       "Name": "Live and let lie",
       "Percentage": 5,
       "XP": 115,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "0017",
@@ -3497,7 +3502,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "0018",
@@ -3529,7 +3534,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "0022",
@@ -3553,7 +3558,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "0025",
@@ -3561,7 +3566,7 @@
       "Name": "Tailor-Made",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "0026",
@@ -3593,7 +3598,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "0030",
@@ -3609,7 +3614,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "0032",
@@ -3625,7 +3630,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "0034",
@@ -3656,7 +3661,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6469,
+      "Progressed": 6470,
       "Completed": 0
     }
   ],
@@ -3664,8 +3669,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:25.8318567+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:36.1533555+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:59:44.9609233+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:25.8319139+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:00:03.6211713+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:36.1533927+00:00"
 }

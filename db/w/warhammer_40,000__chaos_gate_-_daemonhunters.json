@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2798,
+  "EOS_Progressed": 2800,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1413,6 +1413,11 @@
       "Time": "2023-05-31T13:13:33.232123+00:00",
       "NumProgressed": 2798,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T15:06:42.5119241+00:00",
+      "NumProgressed": 2800,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1440,7 +1445,7 @@
       "Name": "Look Over There!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "BloodAndIron",
@@ -1592,7 +1597,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "Kills_Bleed",
@@ -1616,7 +1621,7 @@
       "Name": "Executioner",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "Kills_Exterminator",
@@ -1648,7 +1653,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "Kills_Streak",
@@ -1672,7 +1677,7 @@
       "Name": "An Ill Omen",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1895,21 +1900,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2798,
+      "Progressed": 2800,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2798,
+      "Progressed": 2800,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:31.8313647+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:42.5119237+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:58:41.5754084+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:31.8314128+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:58:53.198113+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:42.5119706+00:00"
 }

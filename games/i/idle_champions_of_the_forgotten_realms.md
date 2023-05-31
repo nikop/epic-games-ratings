@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.70% | ~625 |
 | Beast Intentions | 0.60% | ~536 |
 | Beware the Jabberwock | 0.60% | ~333 |
-| The Ring of Regeneration | 0.50% | ~446 |
+| The Ring of Regeneration | 0.50% | ~447 |
 | Coasting to the Finish | 0.50% | ~278 |
 | Were-verpowered | 0.40% | ~357 |
 | Seeking Allies | 0.40% | ~357 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~179 |
 | The Lutes of Loomlurch | 0.20% | ~111 |
 | Supply Run | 0.20% | ~179 |
+| Best Laid Plans | 0.20% | ~111 |
 | Return to the Tomb | 0.20% | ~111 |
 | Keep Your Distance | 0.20% | ~111 |
 | Heatwave | 0.20% | ~111 |
@@ -87,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.20% | ~111 |
 | Escort to Waterdeep | 0.20% | ~179 |
 | The Giant's Bane Tavern | 0.20% | ~111 |
+| The Everlasting Rime | 0.20% | ~111 |
 | Close Escort | 0.20% | ~179 |
 | Constant Banditry | 0.20% | ~179 |
 | Waterdeep Detours | 0.20% | ~179 |
@@ -160,7 +162,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Frozen Feywild | 0.10% | ~56 |
 | The Roots of Loomlurch | 0.10% | ~56 |
 | The Loots of Loomlurch | 0.10% | ~56 |
-| Best Laid Plans | 0.10% | ~56 |
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
 | The Howling Peaks of Yon | 0.10% | ~56 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~56 |
 | Giant-Size Adventure | 0.10% | ~56 |
 | Power of Three | 0.10% | ~56 |
-| The Everlasting Rime | 0.10% | ~56 |
 | Enemy Summit | 0.10% | ~56 |
 | Mirage Arcane | 0.10% | ~56 |
 | Only Human | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,299 (Ranked 61)  
+Progressed: 89,304 (Ranked 61)  
 Completed: 1,903 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1,903 (2.13%) (Ranked 61)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,299 | 1,903 |
+| 2023-05-31 | 89,304 | 1,903 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,006 (Ranked 37)  

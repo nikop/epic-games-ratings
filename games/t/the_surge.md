@@ -24,9 +24,9 @@ Number of Ratings: 62  (23.09.2022)
 | Big Sister | 15.00% | ~645 |
 | Gear Up | 15.00% | ~645 |
 | SENTINEL | 15.00% | ~645 |
+| Core Power | 13.00% | ~559 |
 | The Black Cerberus | 12.00% | ~516 |
 | Watchman | 12.00% | ~516 |
-| Core Power | 12.00% | ~516 |
 | CREO Killed the Video Star | 11.00% | ~473 |
 | Who's in Charge Here? | 11.00% | ~473 |
 | Shall Not Pass | 11.00% | ~473 |

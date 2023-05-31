@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanic | 88.00% | ~29 |
-| Firefighter | 85.00% | ~28 |
-| Pirate | 73.00% | ~24 |
-| Miner | 58.00% | ~19 |
+| Mechanic | 91.00% | ~30 |
+| Firefighter | 88.00% | ~29 |
+| Pirate | 76.00% | ~25 |
+| Miner | 61.00% | ~20 |
 | Expert Mechanic | 55.00% | ~18 |
-| Cookie Addict | 45.00% | ~15 |
+| Cookie Addict | 48.00% | ~16 |
 | Salvager | 39.00% | ~13 |
 | You're Hired! | 24.00% | ~8 |
 | Expert Miner | 21.00% | ~7 |

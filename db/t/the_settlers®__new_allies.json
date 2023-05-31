@@ -2,20 +2,20 @@
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
   "ProductSlug": "the-settlers",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-17T09:00:00+00:00",
     "PcReleaseDate": "2023-02-17T09:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.76,
+  "Rating": 3.77,
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -664,10 +664,16 @@
       "Rating": 3.76,
       "NumberOfAwards": 165,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-05-31T14:57:35.8865376+00:00",
+      "Rating": 3.77,
+      "NumberOfAwards": 167,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 165,
+  "NumberOfAwards": 167,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -687,7 +693,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 55
+      "Count": 57
     }
   ],
   "EOS_Progressed": 0,
@@ -702,8 +708,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-05-30T18:57:33.8212041+00:00",
+  "LastChanged": "2023-05-31T14:57:35.8865375+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.9687709+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:57:34.7380224+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:01:01.1731414+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:57:35.8865379+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:01:23.9418842+00:00"
 }

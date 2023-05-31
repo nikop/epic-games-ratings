@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.72,
+  "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -311,6 +311,11 @@
       "Time": "2023-05-28T17:02:23.0399268+00:00",
       "NumProgressed": 419,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-31T15:02:13.8764183+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -360,9 +365,9 @@
       "ID": "TROP005",
       "SetID": "9n0dl35",
       "Name": "A Friend in Need",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 252
     },
     {
       "ID": "TROP006",
@@ -376,9 +381,9 @@
       "ID": "TROP007",
       "SetID": "9n0dl35",
       "Name": "Family Reunion",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "TROP008",
@@ -386,7 +391,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "TROP009",
@@ -394,7 +399,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "TROP010",
@@ -418,7 +423,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TROP013",
@@ -482,7 +487,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TROP021",
@@ -490,7 +495,7 @@
       "Name": "Tasty",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "TROP022",
@@ -545,7 +550,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 3
     }
   ],
@@ -553,8 +558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:02:10.5998185+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:02:13.8764178+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.6373889+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:58:58.3224247+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:02:10.5998381+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:59:10.7843266+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:02:13.8765914+00:00"
 }

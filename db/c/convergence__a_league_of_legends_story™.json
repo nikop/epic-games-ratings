@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-05-31T14:05:20.2390587+00:00",
       "NumProgressed": 531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T15:05:24.0237143+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -728,7 +733,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -752,7 +757,7 @@
       "Name": "Right On Time",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ClockworkCompletion1",
@@ -840,7 +845,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -848,7 +853,7 @@
       "Name": "The Betrayer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -880,7 +885,7 @@
       "Name": "Rail Rat",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "HexlockGift",
@@ -960,7 +965,7 @@
       "Name": "Time Flies",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ParryBoss",
@@ -968,7 +973,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ParryRepeated1",
@@ -984,7 +989,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -998,9 +1003,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 277
     },
     {
       "ID": "RewindDamage1",
@@ -1008,7 +1013,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "RewindParry",
@@ -1016,7 +1021,7 @@
       "Name": "Honest Mistake",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1024,7 +1029,7 @@
       "Name": "Golem Hunter",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ScrambotProgress1",
@@ -1032,7 +1037,7 @@
       "Name": "Golem Chaser",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "SkillCompletion1",
@@ -1048,7 +1053,7 @@
       "Name": "Fast Learner",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "SpeedRun",
@@ -1080,7 +1085,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "TheaterChests1",
@@ -1096,7 +1101,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "WarwickDefeated",
@@ -1143,14 +1148,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:05:20.2390581+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:05:24.0237136+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:59:31.1372644+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:05:20.2391023+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:59:47.2761251+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:05:24.0237512+00:00"
 }

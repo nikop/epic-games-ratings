@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 293)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,140 |
-| Tomorrow Never Dyes | 47.00% | ~3,040 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,141 |
+| Tomorrow Never Dyes | 47.00% | ~3,041 |
 | Mainframe Hacker | 46.00% | ~2,976 |
 | The Spy who eliminated me | 46.00% | ~2,976 |
-| Never Say Loser Again | 41.00% | ~2,652 |
+| Never Say Loser Again | 41.00% | ~2,653 |
 | For your Eyes only | 39.00% | ~2,523 |
-| Tailor-Made | 38.00% | ~2,458 |
+| Tailor-Made | 38.00% | ~2,459 |
 | From the Vault with Love | 37.00% | ~2,394 |
 | Fully Decked Out | 36.00% | ~2,329 |
 | You Only Live Twice | 32.00% | ~2,070 |
-| A view to Win | 28.00% | ~1,811 |
+| A view to Win | 28.00% | ~1,812 |
 | Smells Like Trouble | 26.00% | ~1,682 |
-| Private Collection | 25.00% | ~1,617 |
-| Hostile Takeover | 25.00% | ~1,617 |
+| Private Collection | 25.00% | ~1,618 |
+| Hostile Takeover | 25.00% | ~1,618 |
 | Assistant Accountant | 24.00% | ~1,553 |
 | Dr. No Kill | 24.00% | ~1,553 |
 | The Living Portrait | 24.00% | ~1,553 |
@@ -30,8 +30,8 @@ Rating: 4.65 (Ranked 293)
 | License to Thrill | 8.00% | ~518 |
 | Social of Solace | 8.00% | ~518 |
 | Safe Withdrawal | 6.00% | ~388 |
-| Live and let lie | 5.00% | ~323 |
-| Call Me Maybe | 5.00% | ~323 |
+| Live and let lie | 5.00% | ~324 |
+| Call Me Maybe | 5.00% | ~324 |
 | PHD in VIP | 4.00% | ~259 |
 | Branch Manager | 3.00% | ~194 |
 | The terminals are not enough | 2.00% | ~129 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 293)
 | Extraction Confusion | 0.30% | ~19 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,469 (Ranked 118)  
+Progressed: 6,470 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 6,411 | 0 |
 | 2023-05-29 | 6,439 | 0 |
 | 2023-05-30 | 6,461 | 0 |
-| 2023-05-31 | 6,469 | 0 |
+| 2023-05-31 | 6,470 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

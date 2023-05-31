@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3060,9 +3060,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 274631,
+  "EOS_Progressed": 274650,
   "EOS_Completed": 382,
-  "EOS_NewPlayers": 2851,
+  "EOS_NewPlayers": 2843,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7155,6 +7155,11 @@
       "Time": "2023-05-31T14:04:41.7856085+00:00",
       "NumProgressed": 274631,
       "NumCompleted": 382
+    },
+    {
+      "Time": "2023-05-31T15:04:42.5576873+00:00",
+      "NumProgressed": 274650,
+      "NumCompleted": 382
     }
   ],
   "TotalAchievements": 45,
@@ -7164,9 +7169,9 @@
       "ID": "PFA_1",
       "SetID": "1hf4dep",
       "Name": "The Sort Who Makes an Entrance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19224
+      "UsersEstimate": 21972
     },
     {
       "ID": "PFA_10",
@@ -7174,7 +7179,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_11",
@@ -7182,7 +7187,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_12",
@@ -7190,7 +7195,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_13",
@@ -7198,7 +7203,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_14",
@@ -7206,7 +7211,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 10985
+      "UsersEstimate": 10986
     },
     {
       "ID": "PFA_15",
@@ -7222,7 +7227,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_17",
@@ -7270,7 +7275,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_22",
@@ -7286,7 +7291,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_24",
@@ -7294,7 +7299,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_25",
@@ -7302,7 +7307,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8239
+      "UsersEstimate": 8240
     },
     {
       "ID": "PFA_26",
@@ -7334,7 +7339,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8239
+      "UsersEstimate": 8240
     },
     {
       "ID": "PFA_3",
@@ -7350,7 +7355,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_31",
@@ -7366,7 +7371,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8239
+      "UsersEstimate": 8240
     },
     {
       "ID": "PFA_33",
@@ -7414,7 +7419,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8239
+      "UsersEstimate": 8240
     },
     {
       "ID": "PFA_39",
@@ -7422,7 +7427,7 @@
       "Name": "Coasting Along",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_4",
@@ -7446,7 +7451,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8239
+      "UsersEstimate": 8240
     },
     {
       "ID": "PFA_42",
@@ -7454,7 +7459,7 @@
       "Name": "Raising Expectations",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8239
+      "UsersEstimate": 8240
     },
     {
       "ID": "PFA_43",
@@ -7494,7 +7499,7 @@
       "Name": "First Class Student",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19224
+      "UsersEstimate": 19226
     },
     {
       "ID": "PFA_7",
@@ -7502,7 +7507,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_8",
@@ -7510,7 +7515,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     },
     {
       "ID": "PFA_9",
@@ -7518,14 +7523,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16478
+      "UsersEstimate": 16479
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 274631,
+      "Progressed": 274650,
       "Completed": 382
     }
   ],
@@ -7533,8 +7538,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-31T02:18:19.4395849+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:04:41.7856081+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:04:42.5576869+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:12.8623169+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:57:18.4048129+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:04:41.7856578+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:57:17.8461769+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:04:42.5577348+00:00"
 }

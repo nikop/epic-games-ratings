@@ -4036,9 +4036,9 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89299,
+  "EOS_Progressed": 89304,
   "EOS_Completed": 1903,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8116,6 +8116,11 @@
       "Time": "2023-05-31T14:06:40.947503+00:00",
       "NumProgressed": 89299,
       "NumCompleted": 1903
+    },
+    {
+      "Time": "2023-05-31T15:06:51.6715486+00:00",
+      "NumProgressed": 89304,
+      "NumCompleted": 1903
     }
   ],
   "TotalAchievements": 493,
@@ -8693,9 +8698,9 @@
       "ID": "objective_completed_1142",
       "SetID": "415jc5c",
       "Name": "Best Laid Plans",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1143",
@@ -9807,7 +9812,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_35",
@@ -11237,9 +11242,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_696",
@@ -12070,21 +12075,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55573,
+      "Progressed": 55578,
       "Completed": 2748
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89299,
+      "Progressed": 89304,
       "Completed": 1903
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-31T13:05:35.0837529+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:40.9475025+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:51.6715482+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:58:03.2557251+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:40.9496759+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:58:11.3713628+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:51.6736778+00:00"
 }

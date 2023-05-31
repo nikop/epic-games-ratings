@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1933,
+  "EOS_Progressed": 1941,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2037,6 +2037,11 @@
       "Time": "2023-05-31T14:06:13.349229+00:00",
       "NumProgressed": 1933,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T15:06:23.0974977+00:00",
+      "NumProgressed": 1941,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2054,9 +2059,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2078,9 +2083,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2088,7 +2093,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2096,7 +2101,7 @@
       "Name": "Fields of Glory",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2112,7 +2117,7 @@
       "Name": "Organ Grinder",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2128,7 +2133,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 466
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2216,7 +2221,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 369
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2256,15 +2261,15 @@
       "Name": "Lord of War",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2272,7 +2277,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2280,7 +2285,7 @@
       "Name": "Der Geist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2288,7 +2293,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2296,7 +2301,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2304,7 +2309,7 @@
       "Name": "Close Quarters",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2312,7 +2317,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2360,7 +2365,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2384,7 +2389,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2615,13 +2620,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1884,
+      "Progressed": 1892,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1933,
+      "Progressed": 1941,
       "Completed": 2
     }
   ],
@@ -2629,8 +2634,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:13.3492285+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:23.0974973+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:00:44.2402611+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:13.3492939+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:01:03.515176+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:23.0975576+00:00"
 }

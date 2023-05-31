@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 924,
+  "EOS_Progressed": 925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -533,6 +533,11 @@
       "Time": "2023-05-30T06:06:20.511661+00:00",
       "NumProgressed": 924,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T15:06:30.438131+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -544,7 +549,7 @@
       "Name": "Way of the King",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "02",
@@ -576,7 +581,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "06",
@@ -606,9 +611,9 @@
       "ID": "09",
       "SetID": "73ikgfc",
       "Name": "Awakening",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 204
     },
     {
       "ID": "10",
@@ -672,7 +677,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "18",
@@ -727,7 +732,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 924,
+      "Progressed": 925,
       "Completed": 0
     }
   ],
@@ -735,8 +740,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:20.3928353+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:30.4381307+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:59:47.9691208+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:20.3928487+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:00:06.2157845+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:30.4381456+00:00"
 }

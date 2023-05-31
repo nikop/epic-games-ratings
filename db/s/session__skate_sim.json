@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2174,
+  "EOS_Progressed": 2175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1682,6 +1682,11 @@
       "Time": "2023-05-31T12:05:46.6702038+00:00",
       "NumProgressed": 2174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T15:06:17.2351016+00:00",
+      "NumProgressed": 2175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1733,7 +1738,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_DIPPED",
@@ -1885,7 +1890,7 @@
       "Name": "Many plys later...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_NAHELL",
@@ -1901,7 +1906,7 @@
       "Name": "Pew-Pew",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -2061,7 +2066,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -2069,22 +2074,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2174,
+      "Progressed": 2175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:07.8757244+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:17.235101+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.7904558+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:59:07.5614251+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:07.8757588+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:59:20.9205876+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:17.2351359+00:00"
 }

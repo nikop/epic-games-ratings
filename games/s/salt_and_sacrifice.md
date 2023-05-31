@@ -6,7 +6,7 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~57,938 |
+| The Champion | 91.00% | ~58,582 |
 | The Pyromancer | 86.00% | ~55,363 |
 | The Wastes | 83.00% | ~53,432 |
 | Waste Not | 80.00% | ~51,501 |

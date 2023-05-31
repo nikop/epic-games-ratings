@@ -4041,9 +4041,9 @@
       "ID": "elfslayer",
       "SetID": "2jelldm",
       "Name": "The Champion",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 57938
+      "UsersEstimate": 58582
     },
     {
       "ID": "end_climb",
@@ -4329,8 +4329,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-05-31T11:58:17.5027367+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:04:05.6836503+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:04:04.2676255+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:58.3089816+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:58:14.5950571+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:04:05.6836983+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:58:23.6981257+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:04:04.2676752+00:00"
 }

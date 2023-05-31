@@ -4,8 +4,8 @@
   "ProductSlug": "futuregrind-f390c1",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T14:00:00+00:00",
     "PcReleaseDate": "2019-01-22T18:00:00+00:00",
@@ -193,8 +193,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.232544+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:03:46.3544055+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:03:43.6194135+00:00",
   "LastUpdate_AppInfo": "2023-05-29T16:57:18.8544615+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:57:05.9922733+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:03:46.354415+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:57:02.8302417+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:03:43.6194375+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1577,
+  "EOS_Progressed": 1578,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -780,6 +780,11 @@
       "Time": "2023-05-31T03:20:03.3390056+00:00",
       "NumProgressed": 1577,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T15:06:19.2049586+00:00",
+      "NumProgressed": 1578,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -799,7 +804,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -815,7 +820,7 @@
       "Name": "Dishonored",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -871,7 +876,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -943,7 +948,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1023,7 +1028,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1063,7 +1068,7 @@
       "Name": "Rain of Death",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_REVENANT",
@@ -1167,7 +1172,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1214,15 +1219,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1577,
+      "Progressed": 1578,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-31T14:06:09.8706147+00:00",
+  "LastChanged_Achievements": "2023-05-31T15:06:19.2049581+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:09.3843779+00:00",
-  "LastUpdate_Ratings": "2023-05-31T13:58:28.0832979+00:00",
-  "LastUpdate_Achievements": "2023-05-31T14:06:09.8706566+00:00"
+  "LastUpdate_Ratings": "2023-05-31T14:58:38.3112507+00:00",
+  "LastUpdate_Achievements": "2023-05-31T15:06:19.2049961+00:00"
 }
