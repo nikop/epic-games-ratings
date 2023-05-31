@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223396,
+  "EOS_Progressed": 223398,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4283,6 +4283,11 @@
       "Time": "2023-05-31T11:05:27.2986424+00:00",
       "NumProgressed": 223396,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-31T12:05:39.6016006+00:00",
+      "NumProgressed": 223398,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -4382,7 +4387,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44679
+      "UsersEstimate": 44680
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -4518,7 +4523,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49147
+      "UsersEstimate": 49148
     },
     {
       "ID": "TACTICIAN",
@@ -4542,7 +4547,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49147
+      "UsersEstimate": 49148
     },
     {
       "ID": "TUNINGMANIAC",
@@ -4558,22 +4563,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91592
+      "UsersEstimate": 91593
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223396,
+      "Progressed": 223398,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:27.2986418+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:05:39.6015998+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:58:18.5316662+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:27.2986835+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:58:19.1445337+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:05:39.6016474+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4005,
+  "EOS_Progressed": 4006,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2569,6 +2569,11 @@
       "Time": "2023-05-31T11:04:14.5510907+00:00",
       "NumProgressed": 4005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T12:04:26.929818+00:00",
+      "NumProgressed": 4006,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2596,7 +2601,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "12",
@@ -2668,7 +2673,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "20",
@@ -2700,7 +2705,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "24",
@@ -2724,7 +2729,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "27",
@@ -2740,7 +2745,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "29",
@@ -2772,7 +2777,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "32",
@@ -2780,7 +2785,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "33",
@@ -2788,7 +2793,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "34",
@@ -2836,7 +2841,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "4",
@@ -2852,7 +2857,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "41",
@@ -2884,7 +2889,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "5",
@@ -2931,13 +2936,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4005,
-      "Completed": 4005
+      "Progressed": 4006,
+      "Completed": 4006
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4005,
+      "Progressed": 4006,
       "Completed": 0
     }
   ],
@@ -2945,8 +2950,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-28T10:59:16.0669024+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:04:14.5510902+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:04:26.9298174+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:59:27.9144434+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:04:14.5511445+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:59:19.6533429+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:04:26.9298676+00:00"
 }

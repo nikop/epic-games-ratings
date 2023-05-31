@@ -2,13 +2,13 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Ranking_Rating": 753,
+  "Ranking_Rating": 754,
   "Ranking_Popularity": 141,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1298,10 +1298,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 1883,
       "NumberOfAwardsMax": 942
+    },
+    {
+      "Time": "2023-05-31T11:58:17.5027368+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1884,
+      "NumberOfAwardsMax": 942
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1883,
+  "NumberOfAwards": 1884,
   "NumberOfAwardsMax": 942,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1315,7 +1321,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 544
+      "Count": 545
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1373,9 +1379,9 @@
     }
   ],
   "EOS_Progressed": 64372,
-  "EOS_Completed": 1166,
-  "EOS_NewPlayers": 196,
-  "EOS_NewCompleters": 9,
+  "EOS_Completed": 1167,
+  "EOS_NewPlayers": 195,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -3872,6 +3878,11 @@
       "Time": "2023-05-31T11:03:54.5993489+00:00",
       "NumProgressed": 64372,
       "NumCompleted": 1166
+    },
+    {
+      "Time": "2023-05-31T12:04:07.4101139+00:00",
+      "NumProgressed": 64372,
+      "NumCompleted": 1167
     }
   ],
   "TotalAchievements": 53,
@@ -4307,14 +4318,14 @@
       "ID": "2jelldm",
       "IsBase": true,
       "Progressed": 64372,
-      "Completed": 1166
+      "Completed": 1167
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2023-05-30T06:58:31.8270974+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:03:54.5993484+00:00",
+  "LastChanged": "2023-05-31T11:58:17.5027367+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:04:07.4101132+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:58.3089816+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:58:16.8135094+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:03:54.5993959+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:58:17.5027373+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:04:07.4101745+00:00"
 }

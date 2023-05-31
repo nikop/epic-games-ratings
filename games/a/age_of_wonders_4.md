@@ -5,26 +5,26 @@ Rating: 4.53 (Ranked 495)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,164 |
+| A Wonderful Discovery | 79.00% | ~3,165 |
 | Realm Estate | 75.00% | ~3,004 |
 | Secret Technique | 74.00% | ~2,964 |
 | Walls Cannot Stop Us | 72.00% | ~2,884 |
-| From Friends to Family | 69.00% | ~2,763 |
-| Magical Synergy | 64.00% | ~2,563 |
-| Bone Peddler | 60.00% | ~2,403 |
+| From Friends to Family | 69.00% | ~2,764 |
+| Magical Synergy | 64.00% | ~2,564 |
+| Bone Peddler | 60.00% | ~2,404 |
 | Stronger Together | 55.00% | ~2,203 |
 | Full Ascension | 53.00% | ~2,123 |
-| There Can Only Be One! | 46.00% | ~1,842 |
-| Seat of Power | 46.00% | ~1,842 |
-| My Final Form | 43.00% | ~1,722 |
-| Intimidation Tactics | 43.00% | ~1,722 |
+| There Can Only Be One! | 46.00% | ~1,843 |
+| Seat of Power | 46.00% | ~1,843 |
+| My Final Form | 43.00% | ~1,723 |
+| Intimidation Tactics | 43.00% | ~1,723 |
 | Valley of Wonders | 41.00% | ~1,642 |
 | In a Liege of Your Own | 36.00% | ~1,442 |
 | Return of the Wizard King | 30.00% | ~1,202 |
 | Digging for Treasure | 30.00% | ~1,202 |
 | Against the Odds | 30.00% | ~1,202 |
-| Enchanted Archipelago | 26.00% | ~1,041 |
-| Impenetrable Fortress | 26.00% | ~1,041 |
+| Enchanted Archipelago | 26.00% | ~1,042 |
+| Impenetrable Fortress | 26.00% | ~1,042 |
 | The Magic That Empowers Me! | 19.00% | ~761 |
 | Preparation Is Everything | 19.00% | ~761 |
 | Arch Mage | 18.00% | ~721 |
@@ -35,7 +35,7 @@ Rating: 4.53 (Ranked 495)
 | Lord of Chaos | 13.00% | ~521 |
 | The Creator | 13.00% | ~521 |
 | The Goddess of Nature | 13.00% | ~521 |
-| Pruning for Progress | 9.00% | ~360 |
+| Pruning for Progress | 9.00% | ~361 |
 | The Eternal Court | 8.00% | ~320 |
 | Jack of All Tomes | 8.00% | ~320 |
 | I've Got Everything I Need Right Here | 6.00% | ~240 |
@@ -50,7 +50,7 @@ Rating: 4.53 (Ranked 495)
 | Returning Circle | 0.30% | ~12 |
 | Master of Evilness | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,005 (Ranked 130)  
+Progressed: 4,006 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 3,812 | 0 |
 | 2023-05-29 | 3,914 | 0 |
 | 2023-05-30 | 3,981 | 0 |
-| 2023-05-31 | 4,005 | 0 |
+| 2023-05-31 | 4,006 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

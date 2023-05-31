@@ -1098,9 +1098,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22469,
+  "EOS_Progressed": 22470,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4138,6 +4138,11 @@
       "Time": "2023-05-31T11:05:48.9792566+00:00",
       "NumProgressed": 22469,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-31T12:06:01.21087+00:00",
+      "NumProgressed": 22470,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4149,7 +4154,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16402
+      "UsersEstimate": 16403
     },
     {
       "ID": "Animated",
@@ -4157,7 +4162,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5617
+      "UsersEstimate": 5618
     },
     {
       "ID": "Back_Off",
@@ -4189,7 +4194,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9212
+      "UsersEstimate": 9213
     },
     {
       "ID": "Collect_Spores",
@@ -4261,7 +4266,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14380
+      "UsersEstimate": 14381
     },
     {
       "ID": "Escape_Artist",
@@ -4285,7 +4290,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12358
+      "UsersEstimate": 12359
     },
     {
       "ID": "GB_In_Training",
@@ -4293,7 +4298,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6965
+      "UsersEstimate": 6966
     },
     {
       "ID": "Ghost_Expert",
@@ -4373,7 +4378,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4045
     },
     {
       "ID": "Rift_Destroyer",
@@ -4421,7 +4426,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6292
     },
     {
       "ID": "Skilled",
@@ -4429,7 +4434,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5617
+      "UsersEstimate": 5618
     },
     {
       "ID": "Solo_Capture",
@@ -4453,7 +4458,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19323
+      "UsersEstimate": 19324
     },
     {
       "ID": "Summoner",
@@ -4485,7 +4490,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 10111
+      "UsersEstimate": 10112
     },
     {
       "ID": "Terrifying",
@@ -4509,7 +4514,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9886
+      "UsersEstimate": 9887
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4556,7 +4561,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22469,
+      "Progressed": 22470,
       "Completed": 40
     }
   ],
@@ -4564,8 +4569,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-30T23:58:54.1903472+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:48.979256+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:06:01.2108691+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:58:56.736973+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:48.9793052+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:58:52.5998604+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:06:01.210924+00:00"
 }

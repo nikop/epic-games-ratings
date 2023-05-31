@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 753)  
+Rating: 4.31 (Ranked 754)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,219 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64,372 (Ranked 66)  
-Completed: 1,166 (1.81%) (Ranked 65)  
+Completed: 1,167 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,15 +101,15 @@ Completed: 1,166 (1.81%) (Ranked 65)
 | 2023-05-28 | 64,305 | 1,159 |
 | 2023-05-29 | 64,341 | 1,161 |
 | 2023-05-30 | 64,367 | 1,164 |
-| 2023-05-31 | 64,372 | 1,166 |
+| 2023-05-31 | 64,372 | 1,167 |
 ## Awards
 Max (Character Customization): 942  (Ranked 141)  
-Sum: 1,883 (Ranked 191)  
-Diff (max vs sum): -50  
+Sum: 1,884 (Ranked 190)  
+Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 942 |
-| This game has Great Boss Battles | 544 |
+| This game has Great Boss Battles | 545 |
 | This game is Extremely Fun | 65 |
 | This game has Challenging Combat | 63 |
 | This game has Unique Visuals | 57 |
@@ -222,3 +222,4 @@ Diff (max vs sum): -50
 | 2023-05-28 | 4.31 | - | 942 | 1,879 |
 | 2023-05-29 | 4.31 | - | 942 | 1,882 |
 | 2023-05-30 | 4.31 | - | 942 | 1,883 |
+| 2023-05-31 | 4.31 | - | 942 | 1,884 |

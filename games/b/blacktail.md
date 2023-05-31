@@ -27,12 +27,12 @@ Rating: 4.67 (Ranked 257)
 | Specialist | 3.00% | ~13 |
 | Witch's cookbook | 3.00% | ~13 |
 | Goal! | 2.00% | ~8 |
+| Gnowlledgeable | 2.00% | ~8 |
 | Both sides | 2.00% | ~8 |
 | Always worth a try | 2.00% | ~8 |
 | Toxic | 2.00% | ~8 |
 | Bad apple | 1.00% | ~4 |
 | Loremaster | 1.00% | ~4 |
-| Gnowlledgeable | 1.00% | ~4 |
 | Awards unwarded | 1.00% | ~4 |
 | Entangled | 1.00% | ~4 |
 | Mushrooming enthusiast | 0.20% | ~1 |

@@ -6,9 +6,9 @@ Rating: 4.57 (Ranked 438)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 11.00% | ~255 |
-| Sputnik 2049 | 10.00% | ~231 |
-| Without Breaking Some Eggs... | 9.00% | ~208 |
-| Infinite Growth... | 9.00% | ~208 |
+| Sputnik 2049 | 10.00% | ~232 |
+| Without Breaking Some Eggs... | 9.00% | ~209 |
+| Infinite Growth... | 9.00% | ~209 |
 | A Thousand Strong | 6.00% | ~139 |
 | Ready for a New World | 6.00% | ~139 |
 | Space Society | 5.00% | ~116 |
@@ -19,9 +19,9 @@ Rating: 4.57 (Ranked 438)
 | Permanent Redesigns | 4.00% | ~93 |
 | The Ship of Theseus | 4.00% | ~93 |
 | Hope Seeker | 4.00% | ~93 |
-| A Hunk of Junk | 3.00% | ~69 |
-| Exceeding Capacity | 3.00% | ~69 |
-| Please Make it Stop! | 3.00% | ~69 |
+| A Hunk of Junk | 3.00% | ~70 |
+| Exceeding Capacity | 3.00% | ~70 |
+| Please Make it Stop! | 3.00% | ~70 |
 | Man's Best Friend | 2.00% | ~46 |
 | Sightseeing | 2.00% | ~46 |
 | Power Outage | 2.00% | ~46 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,314 (Ranked 144)  
+Progressed: 2,317 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,314 | 0 |
+| 2023-05-31 | 2,317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

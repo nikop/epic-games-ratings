@@ -220,9 +220,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -420,9 +420,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:26.4399591+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:05:38.5774163+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:56.7854741+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:58:14.8106873+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:26.4399767+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:58:15.298828+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:05:38.5774393+00:00"
 }

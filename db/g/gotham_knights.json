@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1316,9 +1316,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62968,
+  "EOS_Progressed": 62971,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1081,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4486,6 +4486,11 @@
       "Time": "2023-05-31T11:05:57.8902102+00:00",
       "NumProgressed": 62968,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-31T12:06:10.0811489+00:00",
+      "NumProgressed": 62971,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4497,7 +4502,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -4521,7 +4526,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -4984,13 +4989,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62968,
+      "Progressed": 62971,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33248,
+      "Progressed": 33251,
       "Completed": 2644
     }
   ],
@@ -4998,8 +5003,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-31T06:00:25.9069511+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:57.8902095+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:06:10.0811469+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:59:44.7576165+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:57.8902698+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:59:35.1747862+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:06:10.0812214+00:00"
 }

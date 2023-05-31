@@ -5,7 +5,7 @@
   "Ranking_Rating": 585,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 271,
-  "Ranking_EOS_Progress": 120,
+  "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 90,
@@ -1007,7 +1007,7 @@
   ],
   "EOS_Progressed": 5964,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4713,9 +4713,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1372
     },
     {
       "ID": "5",
@@ -4849,8 +4849,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:54.7403592+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:06:06.9352783+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:59:55.7918559+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:54.7404201+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:59:45.0928348+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:06:06.9353529+00:00"
 }

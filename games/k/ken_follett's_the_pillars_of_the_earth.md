@@ -6,30 +6,30 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,403 |
-| Man of politics | 36.00% | ~4,631 |
+| Tattletale | 42.00% | ~5,404 |
+| Man of politics | 36.00% | ~4,632 |
 | Yet another secret | 35.00% | ~4,503 |
-| Friends of sorts | 34.00% | ~4,374 |
-| Let there be darkness | 33.00% | ~4,245 |
-| End of Book One | 31.00% | ~3,988 |
-| Garden of Eden | 25.00% | ~3,216 |
+| Friends of sorts | 34.00% | ~4,375 |
+| Let there be darkness | 33.00% | ~4,246 |
+| End of Book One | 31.00% | ~3,989 |
+| Garden of Eden | 25.00% | ~3,217 |
 | Wannabe knight | 24.00% | ~3,088 |
 | Full house | 24.00% | ~3,088 |
-| Help an old friend | 22.00% | ~2,830 |
+| Help an old friend | 22.00% | ~2,831 |
 | Two of us | 20.00% | ~2,573 |
-| Negotiation skills | 19.00% | ~2,444 |
-| Workers' union | 19.00% | ~2,444 |
+| Negotiation skills | 19.00% | ~2,445 |
+| Workers' union | 19.00% | ~2,445 |
 | End of Book Two | 18.00% | ~2,316 |
 | Everything's in order | 17.00% | ~2,187 |
 | Jack was here! | 15.00% | ~1,930 |
 | Twist of Fate | 14.00% | ~1,801 |
 | Exterminator | 14.00% | ~1,801 |
-| Whodunnit | 13.00% | ~1,672 |
+| Whodunnit | 13.00% | ~1,673 |
 | Good midwife | 11.00% | ~1,415 |
 | Friar Tuck | 11.00% | ~1,415 |
 | First profit | 11.00% | ~1,415 |
-| Team player | 10.00% | ~1,286 |
-| Skilled merchant | 9.00% | ~1,158 |
+| Skilled merchant | 10.00% | ~1,287 |
+| Team player | 10.00% | ~1,287 |
 | Nothing but make-believe | 9.00% | ~1,158 |
 | Brother Marcus | 9.00% | ~1,158 |
 | The oath | 9.00% | ~1,158 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~386 |
 | Boy of mystery | 2.00% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,865 (Ranked 104)  
+Progressed: 12,867 (Ranked 104)  
 Completed: 96 (0.75%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 96 (0.75%) (Ranked 99)
 | 2023-05-28 | 12,801 | 95 |
 | 2023-05-29 | 12,827 | 95 |
 | 2023-05-30 | 12,859 | 96 |
-| 2023-05-31 | 12,865 | 96 |
+| 2023-05-31 | 12,867 | 96 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 354)  

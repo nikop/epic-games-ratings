@@ -30,7 +30,7 @@ Number of Ratings: 48  (23.09.2022)
 | Adept, for an Acting Mayor | 34.00% | ~226 |
 | Rune Wall Master | 33.00% | ~220 |
 | The Quarry...On Foot! | 31.00% | ~206 |
-| The Runebarrows...On Foot! | 28.00% | ~186 |
+| The Runebarrows...On Foot! | 29.00% | ~193 |
 | The Snowpeak...On Foot! | 27.00% | ~180 |
 | The Lava Ruins...On Foot! | 27.00% | ~180 |
 | Meat Master | 26.00% | ~173 |
@@ -50,9 +50,9 @@ Number of Ratings: 48  (23.09.2022)
 | Champion of the Quarry | 10.00% | ~67 |
 | Champion of the Lava Ruins | 10.00% | ~67 |
 | No One Better | 9.00% | ~60 |
+| Full Force - CJ | 9.00% | ~60 |
 | Accessorizer | 9.00% | ~60 |
 | Champion of the Snowpeak | 9.00% | ~60 |
-| Full Force - CJ | 8.00% | ~53 |
 | Full Force - Garoo | 8.00% | ~53 |
 | Full Force - Isha | 8.00% | ~53 |
 | Rising Champion | 7.00% | ~47 |

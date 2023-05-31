@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1923,
+  "EOS_Progressed": 1926,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2016,6 +2016,11 @@
       "Time": "2023-05-31T11:05:39.3067664+00:00",
       "NumProgressed": 1923,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T12:05:51.3721802+00:00",
+      "NumProgressed": 1926,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2083,7 +2088,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2195,7 +2200,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2211,7 +2216,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -2227,15 +2232,15 @@
       "Name": "Explosive Efficiency",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2275,7 +2280,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2361,9 +2366,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2419,7 +2424,7 @@
       "Name": "Target America",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2594,13 +2599,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1874,
+      "Progressed": 1877,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1923,
+      "Progressed": 1926,
       "Completed": 2
     }
   ],
@@ -2608,8 +2613,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:39.3067657+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:05:51.3721795+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T11:00:32.9984181+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:39.3068277+00:00"
+  "LastUpdate_Ratings": "2023-05-31T12:00:15.2663149+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:05:51.3722542+00:00"
 }

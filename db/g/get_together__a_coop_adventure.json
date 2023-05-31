@@ -4,7 +4,7 @@
   "ProductSlug": "get-together-176532",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -191,8 +191,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:37.166673+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:05:49.2163968+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:59.2883255+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:59:28.5838788+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:37.1666803+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:59:20.1590723+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:05:49.2164069+00:00"
 }

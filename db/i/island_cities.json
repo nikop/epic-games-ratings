@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 216,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 14.81,
   "EosHistory": [
@@ -1018,17 +1018,17 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_010",
@@ -1147,8 +1147,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:28.7895371+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:05:41.0310442+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:58:06.6850818+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:28.7895553+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:58:07.2916422+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:05:41.0310645+00:00"
 }

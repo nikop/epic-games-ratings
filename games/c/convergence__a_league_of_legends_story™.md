@@ -16,8 +16,8 @@
 | The Harder They Fall | 49.00% | ~260 |
 | Fast Learner | 49.00% | ~260 |
 | Right On Time | 48.00% | ~254 |
+| Immaculate Aim | 48.00% | ~254 |
 | Make Up For Lost Time | 47.00% | ~249 |
-| Immaculate Aim | 47.00% | ~249 |
 | Breaking Down Barriers | 43.00% | ~228 |
 | The Steel Shadow | 37.00% | ~196 |
 | Golem Chaser | 36.00% | ~191 |

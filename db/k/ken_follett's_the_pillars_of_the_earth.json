@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12865,
+  "EOS_Progressed": 12867,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3099,6 +3099,11 @@
       "Time": "2023-05-31T08:05:48.670495+00:00",
       "NumProgressed": 12865,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-05-31T12:05:40.8566602+00:00",
+      "NumProgressed": 12867,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 41,
@@ -3150,7 +3155,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "tpote_achievement_15",
@@ -3190,7 +3195,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "tpote_achievement_2",
@@ -3214,7 +3219,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3988
+      "UsersEstimate": 3989
     },
     {
       "ID": "tpote_achievement_22",
@@ -3262,7 +3267,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "tpote_achievement_28",
@@ -3270,15 +3275,15 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "tpote_achievement_29",
       "SetID": "3jcf6c3",
       "Name": "Skilled merchant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1287
     },
     {
       "ID": "tpote_achievement_3",
@@ -3286,7 +3291,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4246
     },
     {
       "ID": "tpote_achievement_30",
@@ -3294,7 +3299,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "tpote_achievement_31",
@@ -3374,7 +3379,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5403
+      "UsersEstimate": 5404
     },
     {
       "ID": "tpote_achievement_40",
@@ -3398,7 +3403,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     },
     {
       "ID": "tpote_achievement_6",
@@ -3422,7 +3427,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "tpote_achievement_9",
@@ -3430,22 +3435,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4631
+      "UsersEstimate": 4632
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12865,
+      "Progressed": 12867,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:05:28.6051132+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:05:40.8566593+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.774983+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:59:56.8846431+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:05:28.605152+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:59:46.2883394+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:05:40.8567019+00:00"
 }

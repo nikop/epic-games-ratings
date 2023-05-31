@@ -6,25 +6,25 @@ Rating: 3.83 (Ranked 915)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eeligally Ambitious | 95.00% | ~14,678 |
-| No Half Measures | 88.00% | ~13,596 |
+| No Half Measures | 88.00% | ~13,597 |
 | Personal Matter | 87.00% | ~13,442 |
-| But You Have Heard of Me | 72.00% | ~11,124 |
+| But You Have Heard of Me | 72.00% | ~11,125 |
 | Double the Barrels, double the Fun | 55.00% | ~8,498 |
 | Pimp My Glide | 46.00% | ~7,107 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,334 |
-| House Party! | 33.00% | ~5,098 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,335 |
+| House Party! | 33.00% | ~5,099 |
 | Make It Rain | 24.00% | ~3,708 |
-| Curse of the Seven Seas | 21.00% | ~3,244 |
+| Curse of the Seven Seas | 21.00% | ~3,245 |
 | Head First | 15.00% | ~2,318 |
 | To the World's End | 12.00% | ~1,854 |
 | Table for Six | 11.00% | ~1,700 |
-| Sharing Is Caring | 9.00% | ~1,390 |
+| Sharing Is Caring | 9.00% | ~1,391 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,236 |
 | Morally Flexible | 6.00% | ~927 |
-| Fishing for Compliments | 5.00% | ~772 |
+| Fishing for Compliments | 5.00% | ~773 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~309 |
 | A True Dandy | 2.00% | ~309 |
-| A New Legend Awaits | 1.00% | ~154 |
+| A New Legend Awaits | 1.00% | ~155 |
 | Pirate King | 0.80% | ~124 |
 | Oooh, We're Half Way There | 0.80% | ~124 |
 | Devilishly Talented | 0.10% | ~15 |
@@ -32,7 +32,7 @@ Rating: 3.83 (Ranked 915)
 | Pufferfish | 0.10% | ~15 |
 | O Captain! My Captain! | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,450 (Ranked 98)  
+Progressed: 15,451 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 15,424 | 0 |
 | 2023-05-29 | 15,431 | 0 |
 | 2023-05-30 | 15,445 | 0 |
-| 2023-05-31 | 15,450 | 0 |
+| 2023-05-31 | 15,451 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

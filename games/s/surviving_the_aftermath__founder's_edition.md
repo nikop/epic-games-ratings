@@ -25,9 +25,9 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~1,610 |
 | Finders, Keepers | 26.00% | ~1,551 |
 | Top Notch | 24.00% | ~1,431 |
+| Mentor | 23.00% | ~1,372 |
 | Great Leader | 22.00% | ~1,312 |
 | Ice Lakes | 22.00% | ~1,312 |
-| Mentor | 22.00% | ~1,312 |
 | Merchant | 21.00% | ~1,252 |
 | Real Survivor | 21.00% | ~1,252 |
 | War Never Changes | 19.00% | ~1,133 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~12 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,964 (Ranked 120)  
+Progressed: 5,964 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

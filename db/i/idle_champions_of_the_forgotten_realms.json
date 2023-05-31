@@ -4030,9 +4030,9 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89285,
+  "EOS_Progressed": 89288,
   "EOS_Completed": 1903,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8095,6 +8095,11 @@
       "Time": "2023-05-31T11:06:02.6420771+00:00",
       "NumProgressed": 89285,
       "NumCompleted": 1903
+    },
+    {
+      "Time": "2023-05-31T12:06:15.0827887+00:00",
+      "NumProgressed": 89288,
+      "NumCompleted": 1903
     }
   ],
   "TotalAchievements": 493,
@@ -11600,9 +11605,9 @@
       "ID": "objective_completed_850",
       "SetID": "415jc5c",
       "Name": "Witty Riposting",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_852",
@@ -12049,21 +12054,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55559,
-      "Completed": 2747
+      "Progressed": 55562,
+      "Completed": 2748
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89285,
+      "Progressed": 89288,
       "Completed": 1903
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-30T13:57:54.7211701+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:06:02.6420766+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:06:15.0827881+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:58:07.3204594+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:06:02.6443001+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:58:07.9145407+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:06:15.0851409+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63915,
+  "EOS_Progressed": 63917,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3080,6 +3080,11 @@
       "Time": "2023-05-31T11:00:45.197749+00:00",
       "NumProgressed": 63915,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-31T12:00:28.7358668+00:00",
+      "NumProgressed": 63917,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -3099,7 +3104,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -3147,7 +3152,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -3211,7 +3216,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -3243,14 +3248,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63915,
+      "Progressed": 63917,
       "Completed": 11
     }
   ],
@@ -3258,8 +3263,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-05-31T11:00:45.1977485+00:00",
+  "LastChanged_Achievements": "2023-05-31T12:00:28.7358661+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.6644554+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:57:36.3824728+00:00",
-  "LastUpdate_Achievements": "2023-05-31T11:00:45.1977798+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:57:39.8854649+00:00",
+  "LastUpdate_Achievements": "2023-05-31T12:00:28.7359029+00:00"
 }

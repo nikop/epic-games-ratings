@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Character Unlocked | 77.00% | ~27 |
-| Hat Unlocked | 77.00% | ~27 |
-| Accessory Unlocked | 77.00% | ~27 |
-| Kickball Unlocked | 66.00% | ~23 |
-| Homer | 66.00% | ~23 |
-| First Win | 60.00% | ~21 |
-| Have a good trip! | 60.00% | ~21 |
-| Stay Hydrated | 51.00% | ~18 |
-| Settle Down | 49.00% | ~17 |
-| Butter Fingers | 43.00% | ~15 |
-| True Story! | 34.00% | ~12 |
-| Kick It | 29.00% | ~10 |
-| Grand Slam! | 26.00% | ~9 |
-| Have Mercy | 23.00% | ~8 |
-| Bedroom Secret Spot | 20.00% | ~7 |
-| Save some water for the fishies | 20.00% | ~7 |
-| Spooky | 20.00% | ~7 |
+| Hat Unlocked | 78.00% | ~28 |
+| Accessory Unlocked | 78.00% | ~28 |
+| Character Unlocked | 75.00% | ~27 |
+| Kickball Unlocked | 67.00% | ~24 |
+| Homer | 67.00% | ~24 |
+| Have a good trip! | 61.00% | ~22 |
+| First Win | 58.00% | ~21 |
+| Stay Hydrated | 53.00% | ~19 |
+| Settle Down | 50.00% | ~18 |
+| Butter Fingers | 42.00% | ~15 |
+| True Story! | 33.00% | ~12 |
+| Kick It | 28.00% | ~10 |
+| Grand Slam! | 25.00% | ~9 |
+| Have Mercy | 22.00% | ~8 |
+| Bedroom Secret Spot | 19.00% | ~7 |
+| Save some water for the fishies | 19.00% | ~7 |
+| Spooky | 19.00% | ~7 |
 | Bathroom Secret Spot | 14.00% | ~5 |
-| Classroom Secret Spot | 9.00% | ~3 |
-| Kitchen Secret Spot | 9.00% | ~3 |
-| Just how we drew it up | 9.00% | ~3 |
+| Classroom Secret Spot | 8.00% | ~3 |
+| Kitchen Secret Spot | 8.00% | ~3 |
+| Just how we drew it up | 8.00% | ~3 |
 | Basement Secret Spot | 6.00% | ~2 |
 | Living Room Secret Spot | 6.00% | ~2 |
 | Angry Dad | 6.00% | ~2 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 311)  
+Progressed: 36 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,3 +57,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 21 | 0 |
 | 2023-05-29 | 31 | 0 |
 | 2023-05-30 | 35 | 0 |
+| 2023-05-31 | 36 | 0 |

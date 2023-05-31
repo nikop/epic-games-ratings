@@ -14,9 +14,9 @@ Rating: 4.18 (Ranked 834)
 | Workplace Hazard | 5.00% | ~706 |
 | Reforged | 5.00% | ~706 |
 | If the SHU Fits... | 5.00% | ~706 |
-| Get a Grip | 4.00% | ~564 |
-| Instigator | 4.00% | ~81 |
-| Big Game Hunter | 4.00% | ~81 |
+| Get a Grip | 4.00% | ~565 |
+| Instigator | 4.00% | ~82 |
+| Big Game Hunter | 4.00% | ~82 |
 | Terminated | 3.00% | ~423 |
 | Float Like A Butterfly | 3.00% | ~423 |
 | Without A Paddle | 3.00% | ~423 |
@@ -37,7 +37,7 @@ Rating: 4.18 (Ranked 834)
 | Hoard Mode | 1.00% | ~20 |
 | Recidivist | 0.70% | ~14 |
 | Lifer | 0.70% | ~14 |
-| Grim Reaper | 0.40% | ~56 |
+| Grim Reaper | 0.50% | ~71 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
 | Glutton for Punishment | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,110 (Ranked 102)  
+Progressed: 14,115 (Ranked 101)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
-| 2023-05-31 | 14,110 | 53 |
+| 2023-05-31 | 14,115 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 280 (Ranked 329)  

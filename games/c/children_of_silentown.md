@@ -22,7 +22,7 @@
 | Mysterious paintings | 31.00% | ~47 |
 | Depths of the well | 24.00% | ~36 |
 | Children | 21.00% | ~32 |
-| Huge Snail | 16.00% | ~24 |
+| Huge Snail | 17.00% | ~26 |
 | Flower of hope | 14.00% | ~21 |
 | Back Home | 12.00% | ~18 |
 | Friend | 11.00% | ~17 |

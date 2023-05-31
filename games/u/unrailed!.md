@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,569 |
-| Incurious | 14.00% | ~83,569 |
+| Advanced Stroller | 14.00% | ~83,570 |
+| Incurious | 14.00% | ~83,570 |
 | Stroller | 12.00% | ~71,631 |
 | Climate Change | 12.00% | ~71,631 |
-| Advanced Hiker | 10.00% | ~59,692 |
-| Toy Train | 10.00% | ~59,692 |
-| Hiker | 9.00% | ~53,723 |
+| Advanced Hiker | 10.00% | ~59,693 |
+| Toy Train | 10.00% | ~59,693 |
+| Hiker | 9.00% | ~53,724 |
 | Mojave Courier | 4.00% | ~23,877 |
 | Voyager | 3.00% | ~17,908 |
 | Advanced Voyager | 3.00% | ~17,908 |
 | Expert Stroller | 3.00% | ~17,908 |
 | Orient Express | 3.00% | ~17,908 |
-| Expert Hiker | 2.00% | ~11,938 |
-| Marathon | 2.00% | ~11,938 |
-| Destructionist | 2.00% | ~11,938 |
-| Saved by Nausicaä | 2.00% | ~11,938 |
+| Expert Hiker | 2.00% | ~11,939 |
+| Marathon | 2.00% | ~11,939 |
+| Destructionist | 2.00% | ~11,939 |
+| Saved by Nausicaä | 2.00% | ~11,939 |
 | Lost | 1.00% | ~5,969 |
 | Rocketman | 0.60% | ~3,582 |
 | Expert Voyager | 0.50% | ~2,985 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~597 |
 | 20 Miles under the Sea | 0.10% | ~597 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596,921 (Ranked 20)  
+Progressed: 596,929 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,10 +100,10 @@ Completed: 7 (0.00%) (Ranked 207)
 | 2023-05-28 | 595,945 | 7 |
 | 2023-05-29 | 596,417 | 7 |
 | 2023-05-30 | 596,783 | 7 |
-| 2023-05-31 | 596,921 | 7 |
+| 2023-05-31 | 596,929 | 7 |
 ## Awards
 Max (Diverse Characters): 186  (Ranked 267)  
-Sum: 1,508 (Ranked 209)  
+Sum: 1,509 (Ranked 209)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -113,7 +113,7 @@ Diff (max vs sum): 58
 | This game is Extremely Fun | 180 |
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 157 |
-| This game is Highly Recommended | 152 |
+| This game is Highly Recommended | 153 |
 | This game has Playful Visuals | 147 |
 | This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 138 |
@@ -199,3 +199,4 @@ Diff (max vs sum): 58
 | 2023-05-20 | 4.64 | - | 185 | 1,505 |
 | 2023-05-27 | 4.64 | - | 185 | 1,506 |
 | 2023-05-28 | 4.64 | - | 186 | 1,508 |
+| 2023-05-31 | 4.64 | - | 186 | 1,509 |
