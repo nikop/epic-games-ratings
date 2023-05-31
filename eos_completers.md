@@ -12,7 +12,7 @@
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 11 | [Island Cities](games/i/island_cities.md) | 15.07% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.88% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
@@ -20,9 +20,9 @@
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.28% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.13% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.12% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.90% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.89% |
 | 24 | [Scorn](games/s/scorn.md) | 6.85% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -35,7 +35,7 @@
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.93% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
@@ -91,8 +91,8 @@
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.84% |
-| 93 | [Adios](games/a/adios.md) | 0.83% |
+| 92 | [Adios](games/a/adios.md) | 0.83% |
+| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
