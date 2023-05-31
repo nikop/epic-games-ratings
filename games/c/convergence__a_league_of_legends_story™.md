@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 94.00% | ~497 |
-| Rail Rat | 77.00% | ~407 |
-| The Mysterious Stranger | 74.00% | ~391 |
+| Rail Rat | 78.00% | ~413 |
+| The Mysterious Stranger | 75.00% | ~397 |
 | Immaculate Aim | 64.00% | ~339 |
 | The Brass Boss | 57.00% | ~302 |
 | Honest Mistake | 55.00% | ~291 |
@@ -37,7 +37,7 @@
 | Chaincrawler Explorer | 20.00% | ~106 |
 | Syron for Hope | 20.00% | ~106 |
 | Factorywood Explorer | 19.00% | ~101 |
-| Fairgrounds Explorer | 18.00% | ~95 |
+| Fairgrounds Explorer | 19.00% | ~101 |
 | Cultivair Explorer | 15.00% | ~79 |
 | Theater Explorer | 15.00% | ~79 |
 | Corin Goes Home | 12.00% | ~63 |

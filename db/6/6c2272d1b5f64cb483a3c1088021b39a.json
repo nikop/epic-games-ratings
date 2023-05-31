@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -191,6 +191,11 @@
       "Time": "2023-05-31T07:01:28.3297871+00:00",
       "NumProgressed": 157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T08:01:51.3732509+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -200,9 +205,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "adventurous_2",
@@ -370,7 +375,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "elemental_stones_2",
@@ -729,14 +734,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:01:28.3297868+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:01:51.3732501+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:57:01.2950639+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:01:28.3298375+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:57:02.339517+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:01:51.3733121+00:00"
 }

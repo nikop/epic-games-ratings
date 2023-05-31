@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4030,10 +4030,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89278,
-  "EOS_Completed": 1900,
-  "EOS_NewPlayers": 823,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 89280,
+  "EOS_Completed": 1901,
+  "EOS_NewPlayers": 820,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8075,6 +8075,11 @@
       "Time": "2023-05-31T07:06:11.9287566+00:00",
       "NumProgressed": 89278,
       "NumCompleted": 1900
+    },
+    {
+      "Time": "2023-05-31T08:06:27.4831758+00:00",
+      "NumProgressed": 89280,
+      "NumCompleted": 1901
     }
   ],
   "TotalAchievements": 493,
@@ -8092,9 +8097,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_100",
@@ -9628,9 +9633,9 @@
       "ID": "objective_completed_262",
       "SetID": "cc37lbc",
       "Name": "Tower on the Lake",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_263",
@@ -9756,9 +9761,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 714
+      "UsersEstimate": 804
     },
     {
       "ID": "objective_completed_34",
@@ -12029,21 +12034,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55552,
+      "Progressed": 55554,
       "Completed": 2745
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89278,
-      "Completed": 1900
+      "Progressed": 89280,
+      "Completed": 1901
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-30T13:57:54.7211701+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:06:11.928756+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:06:27.4831753+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:58:07.1879676+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:06:11.9308871+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:58:14.2802174+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:06:27.4858908+00:00"
 }

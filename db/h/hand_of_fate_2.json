@@ -844,9 +844,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657099,
+  "EOS_Progressed": 657100,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4494,6 +4494,11 @@
       "Time": "2023-05-31T07:05:43.8559342+00:00",
       "NumProgressed": 657099,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-31T08:05:58.585292+00:00",
+      "NumProgressed": 657100,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4505,7 +4510,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473111
+      "UsersEstimate": 473112
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4513,7 +4518,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381117
+      "UsersEstimate": 381118
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4553,7 +4558,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3286
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -4888,15 +4893,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657099,
+      "Progressed": 657100,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-31T03:57:28.8493971+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:05:43.8559337+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:05:58.5852914+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:27.8583755+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:57:38.5653294+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:05:43.8559835+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:57:45.1902605+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:05:58.5853499+00:00"
 }

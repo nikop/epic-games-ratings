@@ -8,13 +8,13 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,403 |
 | Man of politics | 36.00% | ~4,631 |
-| Yet another secret | 35.00% | ~4,502 |
+| Yet another secret | 35.00% | ~4,503 |
 | Friends of sorts | 34.00% | ~4,374 |
 | Let there be darkness | 33.00% | ~4,245 |
 | End of Book One | 31.00% | ~3,988 |
 | Garden of Eden | 25.00% | ~3,216 |
-| Wannabe knight | 24.00% | ~3,087 |
-| Full house | 24.00% | ~3,087 |
+| Wannabe knight | 24.00% | ~3,088 |
+| Full house | 24.00% | ~3,088 |
 | Help an old friend | 22.00% | ~2,830 |
 | Two of us | 20.00% | ~2,573 |
 | Negotiation skills | 19.00% | ~2,444 |
@@ -36,7 +36,7 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,158 |
 | The End. | 9.00% | ~1,158 |
 | A cry for help | 8.00% | ~1,029 |
-| Silentium est aureum | 7.00% | ~900 |
+| Silentium est aureum | 7.00% | ~901 |
 | Rebel without a cause | 6.00% | ~772 |
 | Staring contest champion | 5.00% | ~643 |
 | Lone wolf | 5.00% | ~643 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~386 |
 | Boy of mystery | 2.00% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,864 (Ranked 104)  
+Progressed: 12,865 (Ranked 104)  
 Completed: 96 (0.75%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 96 (0.75%) (Ranked 99)
 | 2023-05-28 | 12,801 | 95 |
 | 2023-05-29 | 12,827 | 95 |
 | 2023-05-30 | 12,859 | 96 |
-| 2023-05-31 | 12,864 | 96 |
+| 2023-05-31 | 12,865 | 96 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 354)  

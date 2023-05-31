@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5715,
+  "EOS_Progressed": 5718,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2517,6 +2517,11 @@
       "Time": "2023-05-31T07:02:23.9131631+00:00",
       "NumProgressed": 5715,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-31T08:02:17.3383171+00:00",
+      "NumProgressed": 5718,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -2528,7 +2533,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4746
     },
     {
       "ID": "ACH02",
@@ -2536,7 +2541,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ACH03",
@@ -2552,7 +2557,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "ACH05",
@@ -2592,7 +2597,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH10",
@@ -2600,7 +2605,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH11",
@@ -2632,7 +2637,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH15",
@@ -2640,7 +2645,7 @@
       "Name": "Full Artillery",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH16",
@@ -2720,7 +2725,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH26",
@@ -2759,7 +2764,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5715,
+      "Progressed": 5718,
       "Completed": 27
     }
   ],
@@ -2767,8 +2772,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-31T04:58:15.521775+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:02:23.9131627+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:02:17.3383166+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:57:57.6079338+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:02:23.9131886+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:58:03.6982745+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:02:17.3383513+00:00"
 }

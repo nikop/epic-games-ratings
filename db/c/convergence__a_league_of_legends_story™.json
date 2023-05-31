@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -820,17 +820,17 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 101
     },
     {
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 397
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -868,9 +868,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 413
     },
     {
       "ID": "HexlockGift",
@@ -1139,8 +1139,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:04:55.6189173+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:05:07.6077826+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:59:34.3255543+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:04:55.6189568+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:59:45.1576601+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:05:07.6078321+00:00"
 }

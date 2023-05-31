@@ -8,18 +8,18 @@ Rating: 4.88 (Ranked 19)
 | Start with a bang! | 81.00% | ~1,997 |
 | Feeling the beat! | 81.00% | ~1,997 |
 | You can pet the cat! | 75.00% | ~1,850 |
-| Who put gears in there? | 68.00% | ~1,677 |
-| Cream of the Crop | 63.00% | ~1,554 |
+| Who put gears in there? | 69.00% | ~1,702 |
+| Cream of the Crop | 64.00% | ~1,578 |
 | Thanks for the free chip, Peppermint! | 63.00% | ~1,554 |
 | You got this, Peppermint? | 58.00% | ~1,430 |
-| Perfect Parry | 55.00% | ~1,356 |
+| Perfect Parry | 56.00% | ~1,381 |
 | Alright, that felt AWESOME! | 55.00% | ~1,356 |
 | I play my own way! | 51.00% | ~1,258 |
 | This will cost you big time | 48.00% | ~1,184 |
 | Uh, they were broken when I got here | 47.00% | ~1,159 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,134 |
 | Kissing the sky! | 45.00% | ~1,110 |
-| Does that say weakpoint? | 42.00% | ~1,036 |
+| Does that say weakpoint? | 43.00% | ~1,060 |
 | Whoa! There's ANOTHER health bar!? | 41.00% | ~1,011 |
 | The Negotiator | 39.00% | ~962 |
 | You must like calling me in, Chai | 34.00% | ~838 |

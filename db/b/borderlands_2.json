@@ -5316,10 +5316,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 36025,
       "NumberOfAwardsMax": 14353
+    },
+    {
+      "Time": "2023-05-31T08:00:46.3994194+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 36027,
+      "NumberOfAwardsMax": 14353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36025,
+  "NumberOfAwards": 36027,
   "NumberOfAwardsMax": 14353,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5357,7 +5363,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2439
+      "Count": 2441
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5407,8 +5413,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2023-05-31T03:14:29.3686333+00:00",
+  "LastChanged": "2023-05-31T08:00:46.3994192+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:41.72034+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:00:30.4319275+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:05:13.3776873+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:00:46.3994198+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:05:26.7073909+00:00"
 }

@@ -32,9 +32,9 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Second | 7.00% | ~29 |
 | Spirits High | 7.00% | ~29 |
 | King of District 4 | 6.00% | ~25 |
+| Mobile Infantry | 6.00% | ~25 |
 | Around the Clock | 5.00% | ~21 |
 | Club Champion | 5.00% | ~21 |
-| Mobile Infantry | 5.00% | ~21 |
 | Circus Maximus | 4.00% | ~17 |
 | King of District 5 | 4.00% | ~17 |
 | Accomplished Veteran | 3.00% | ~12 |

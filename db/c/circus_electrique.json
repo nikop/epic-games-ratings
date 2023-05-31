@@ -581,9 +581,9 @@
       "ID": "ACHIEVEMENT_47",
       "SetID": "631ndc2",
       "Name": "Mobile Infantry",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -622,8 +622,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:05:57.4572541+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:06:12.971777+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:59:02.6600995+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:05:57.4572892+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:59:11.4214334+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:06:12.9718213+00:00"
 }

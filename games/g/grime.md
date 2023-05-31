@@ -12,9 +12,9 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 20.00% | ~113 |
 | Weeper | 18.00% | ~102 |
 | Devourer | 14.00% | ~79 |
+| Silenced Whispers | 12.00% | ~68 |
 | Scion | 11.00% | ~16 |
 | Harmless | 11.00% | ~62 |
-| Silenced Whispers | 11.00% | ~62 |
 | Yank | 11.00% | ~62 |
 | Glare | 10.00% | ~15 |
 | Sharpened Vessel | 10.00% | ~57 |

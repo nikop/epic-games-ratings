@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 511,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -703,17 +703,17 @@
       "ID": "A06",
       "SetID": "9b7p7eo",
       "Name": "Unstoppable",
-      "Percentage": 0.2,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "A07",
       "SetID": "9b7p7eo",
       "Name": "Track to the Future",
-      "Percentage": 0.2,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "A08",
@@ -751,9 +751,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 368
     },
     {
       "ID": "A13",
@@ -879,9 +879,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "A29",
@@ -943,17 +943,17 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 363
     },
     {
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 322
     },
     {
       "ID": "A38",
@@ -1023,9 +1023,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 347
     },
     {
       "ID": "A47",
@@ -1102,8 +1102,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:05:55.5807872+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:06:10.9026555+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:58:07.8715001+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:05:55.5808292+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:58:14.9762745+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:06:10.9027069+00:00"
 }

@@ -346,9 +346,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 875,
+  "EOS_Progressed": 876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -956,6 +956,11 @@
       "Time": "2023-05-31T02:27:41.1453036+00:00",
       "NumProgressed": 875,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T08:06:13.644659+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1023,7 +1028,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "EXPERT_1",
@@ -1061,9 +1066,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 158
     },
     {
       "ID": "INDY_1",
@@ -1231,7 +1236,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "WANDERER_1",
@@ -1254,15 +1259,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 875,
+      "Progressed": 876,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-30T06:00:15.8196801+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:05:58.1807923+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:06:13.6446584+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:00:17.0113661+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:05:58.1808161+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:00:31.7707366+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:06:13.6446877+00:00"
 }

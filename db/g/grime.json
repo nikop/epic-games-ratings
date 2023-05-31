@@ -604,9 +604,9 @@
       "ID": "DEFEAT_WHISPERERS",
       "SetID": "ccc0dlh",
       "Name": "Silenced Whispers",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 68
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -762,8 +762,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:06:03.3610173+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:06:18.9808529+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:00:35.3331164+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:06:03.3610454+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:00:51.6161218+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:06:18.9809031+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2230,
+  "EOS_Progressed": 2231,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2023-05-31T07:05:46.6543887+00:00",
       "NumProgressed": 2230,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T08:06:01.4380194+00:00",
+      "NumProgressed": 2231,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2160,7 +2165,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2176,7 +2181,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2192,7 +2197,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2216,7 +2221,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2288,7 +2293,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2296,7 +2301,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2328,7 +2333,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2344,7 +2349,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2360,7 +2365,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2368,7 +2373,7 @@
       "Name": "Glyndemere",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -2416,7 +2421,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2456,7 +2461,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2472,7 +2477,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -2504,7 +2509,7 @@
       "Name": "Full equipped",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2535,7 +2540,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2230,
+      "Progressed": 2231,
       "Completed": 1
     }
   ],
@@ -2543,8 +2548,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:05:46.6543882+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:06:01.4380188+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:57:38.7538315+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:05:46.6544336+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:57:45.3631664+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:06:01.4380765+00:00"
 }

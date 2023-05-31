@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~893 |
-| The Cursed Farmer | 0.80% | ~714 |
+| The Cursed Farmer | 0.90% | ~804 |
 | The Court of Storms | 0.80% | ~444 |
 | The Mad Wizard | 0.70% | ~625 |
 | Beast Intentions | 0.60% | ~536 |
@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~357 |
 | Friendly Imps | 0.40% | ~357 |
 | Quick or Quack | 0.40% | ~222 |
+| Maddening | 0.30% | ~268 |
 | Owlbear Necessities | 0.30% | ~167 |
 | Best Thay Ever | 0.30% | ~167 |
 | Checkmate | 0.30% | ~167 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~268 |
 | The Contagious Curse | 0.30% | ~268 |
 | Pure Energy | 0.30% | ~268 |
-| Maddening | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~179 |
@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~179 |
 | The Dinner Party | 0.20% | ~179 |
 | The Botched Kidnapping | 0.20% | ~179 |
+| Tower on the Lake | 0.20% | ~179 |
 | Trollskull Manor | 0.20% | ~179 |
 | Attack on the Manor | 0.20% | ~179 |
 | The Death Curse | 0.20% | ~179 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | They Who Smelt It | 0.10% | ~89 |
 | Distribute Your Weight | 0.10% | ~89 |
 | Mongrelfolk Incursion | 0.10% | ~56 |
-| Tower on the Lake | 0.10% | ~89 |
 | Only the Strong Survive | 0.10% | ~89 |
 | Shorty's Day Off | 0.10% | ~89 |
 | Intelligence Hunt | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,278 (Ranked 61)  
-Completed: 1,900 (2.13%) (Ranked 63)  
+Progressed: 89,280 (Ranked 61)  
+Completed: 1,901 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -541,7 +541,7 @@ Completed: 1,900 (2.13%) (Ranked 63)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,278 | 1,900 |
+| 2023-05-31 | 89,280 | 1,901 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

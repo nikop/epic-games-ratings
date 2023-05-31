@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223389,
+  "EOS_Progressed": 223390,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4263,6 +4263,11 @@
       "Time": "2023-05-31T06:06:34.702305+00:00",
       "NumProgressed": 223389,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-31T08:05:47.1348039+00:00",
+      "NumProgressed": 223390,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -4410,7 +4415,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71484
+      "UsersEstimate": 71485
     },
     {
       "ID": "NOBUNAGA",
@@ -4466,7 +4471,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11169
+      "UsersEstimate": 11170
     },
     {
       "ID": "RESPWND",
@@ -4538,22 +4543,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91589
+      "UsersEstimate": 91590
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223389,
+      "Progressed": 223390,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:05:32.7861262+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:05:47.1348035+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:58:20.8767246+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:05:32.7861647+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:58:28.0310406+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:05:47.134844+00:00"
 }

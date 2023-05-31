@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~373 |
+| Departure | 72.00% | ~368 |
 | A new Journey | 72.00% | ~368 |
-| Departure | 71.00% | ~363 |
+| Way of Iron | 71.00% | ~363 |
 | From X to Y | 70.00% | ~358 |
-| Way of Iron | 70.00% | ~358 |
+| Mystery Tour | 68.00% | ~347 |
 | Brainstorm | 67.00% | ~342 |
-| Mystery Tour | 67.00% | ~342 |
-| We brake for nobody | 65.00% | ~332 |
+| We brake for nobody | 66.00% | ~337 |
 | Mind the Gap | 65.00% | ~332 |
 | Travel Company | 64.00% | ~327 |
-| All around the World | 62.00% | ~317 |
+| All around the World | 63.00% | ~322 |
 | Right through the middle | 56.00% | ~286 |
 | Poor Devil | 51.00% | ~261 |
 | Apprentice | 48.00% | ~245 |
@@ -50,9 +50,9 @@
 | A new Hope | 1.00% | ~5 |
 | Accurate | 1.00% | ~5 |
 | Conductor | 0.80% | ~4 |
+| Unstoppable | 0.60% | ~3 |
+| Track to the Future | 0.60% | ~3 |
 | Let off some steam | 0.40% | ~2 |
-| Unstoppable | 0.20% | ~1 |
-| Track to the Future | 0.20% | ~1 |
 | European Union | 0.20% | ~1 |
 | Three Cheers for Progress | 0.20% | ~1 |
 | Engineer | 0.00% | ~0 |

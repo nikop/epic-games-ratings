@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 889,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -879,6 +879,11 @@
       "Time": "2023-05-31T07:01:08.1777852+00:00",
       "NumProgressed": 888,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T08:01:29.8390666+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -904,9 +909,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 613
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1064,9 +1069,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 258
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1074,13 +1079,13 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
       "SetID": "9a4jnji",
       "Name": "Five Finger Deathcount",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -1106,7 +1111,7 @@
       "Name": "Giant Killer",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "GOAL",
@@ -1122,7 +1127,7 @@
       "Name": "Gun for Hire",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1168,9 +1173,9 @@
       "ID": "NEWTONIAN_KNOCKOUT",
       "SetID": "9a4jnji",
       "Name": "Newtonian Knockout",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 98
     },
     {
       "ID": "PUSHING_DAISY",
@@ -1194,7 +1199,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "RECYCLER",
@@ -1202,7 +1207,7 @@
       "Name": "Recycler",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "RUTHLESS",
@@ -1264,9 +1269,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 98
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1297,7 +1302,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 889,
       "Completed": 0
     }
   ],
@@ -1305,8 +1310,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-30T20:58:55.5657959+00:00",
-  "LastChanged_Achievements": "2023-05-31T07:01:08.1777847+00:00",
+  "LastChanged_Achievements": "2023-05-31T08:01:29.8390661+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-31T06:58:23.71027+00:00",
-  "LastUpdate_Achievements": "2023-05-31T07:01:08.1778221+00:00"
+  "LastUpdate_Ratings": "2023-05-31T07:58:32.0219553+00:00",
+  "LastUpdate_Achievements": "2023-05-31T08:01:29.8391158+00:00"
 }
