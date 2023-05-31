@@ -12,7 +12,7 @@
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 11 | [Island Cities](games/i/island_cities.md) | 15.07% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
@@ -36,11 +36,11 @@
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.64% |
-| 41 | [The Complex](games/t/the_complex.md) | 3.41% |
+| 41 | [The Complex](games/t/the_complex.md) | 3.40% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.20% |
@@ -58,7 +58,7 @@
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
-| 59 | [Iron Danger](games/i/iron_danger.md) | 2.20% |
+| 59 | [Iron Danger](games/i/iron_danger.md) | 2.19% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
@@ -120,11 +120,11 @@
 | 116 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 119 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
+| 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.33% |
 | 121 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
 | 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 123 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
-| 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 123 | [Godlike Burger](games/g/godlike_burger.md) | 0.32% |
+| 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 124 | [Godlike Burger](games/g/godlike_burger.md) | 0.32% |
 | 126 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 126 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
