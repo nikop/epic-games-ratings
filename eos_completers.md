@@ -10,9 +10,9 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.75% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.68% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.89% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.88% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
@@ -22,7 +22,7 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.07% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.91% |
 | 24 | [Scorn](games/s/scorn.md) | 6.85% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -100,7 +100,7 @@
 | 98 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.77% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
-| 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |
+| 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 102 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 103 | [Haven](games/h/haven.md) | 0.68% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
