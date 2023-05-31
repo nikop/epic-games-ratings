@@ -30,10 +30,10 @@
 | Final Evolution | 28.00% | ~36 |
 | You Shall Not Pass | 27.00% | ~35 |
 | Fight Me! | 27.00% | ~35 |
+| Animal Lover | 26.00% | ~34 |
 | Undying Skin | 26.00% | ~34 |
 | Supremacy | 26.00% | ~34 |
 | Mommy's Very Angry | 25.00% | ~32 |
-| Animal Lover | 25.00% | ~32 |
 | Immortal Skin | 22.00% | ~29 |
 | Loyal Companion | 21.00% | ~27 |
 | Back To The Future | 20.00% | ~26 |

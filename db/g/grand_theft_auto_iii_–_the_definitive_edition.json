@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -262,7 +262,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5721,
+  "EOS_Progressed": 5722,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
@@ -2527,6 +2527,11 @@
       "Time": "2023-05-31T10:02:30.7498354+00:00",
       "NumProgressed": 5721,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-31T11:03:21.3927425+00:00",
+      "NumProgressed": 5722,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -2538,7 +2543,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ACH02",
@@ -2642,7 +2647,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACH15",
@@ -2769,7 +2774,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5721,
+      "Progressed": 5722,
       "Completed": 27
     }
   ],
@@ -2777,8 +2782,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-31T04:58:15.521775+00:00",
-  "LastChanged_Achievements": "2023-05-31T10:02:30.7498348+00:00",
+  "LastChanged_Achievements": "2023-05-31T11:03:21.392742+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:57:40.9564989+00:00",
-  "LastUpdate_Achievements": "2023-05-31T10:02:30.7498685+00:00"
+  "LastUpdate_Ratings": "2023-05-31T10:57:59.9478176+00:00",
+  "LastUpdate_Achievements": "2023-05-31T11:03:21.3927685+00:00"
 }

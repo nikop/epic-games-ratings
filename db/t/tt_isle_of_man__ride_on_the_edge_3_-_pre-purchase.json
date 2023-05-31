@@ -329,9 +329,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-31T10:00:30.9052918+00:00",
+  "LastChanged_Achievements": "2023-05-31T11:01:02.8072191+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.0293662+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:57:25.5716802+00:00",
-  "LastUpdate_Achievements": "2023-05-31T10:00:30.9053417+00:00"
+  "LastUpdate_Ratings": "2023-05-31T10:57:42.6637269+00:00",
+  "LastUpdate_Achievements": "2023-05-31T11:01:02.8074263+00:00"
 }

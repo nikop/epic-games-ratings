@@ -23,8 +23,8 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 10.00% | ~324 |
 | Double Trouble | 9.00% | ~292 |
 | Firestarter | 9.00% | ~292 |
-| Make Tropico Great Again! | 8.00% | ~259 |
-| French Connection | 8.00% | ~259 |
+| Make Tropico Great Again! | 8.00% | ~260 |
+| French Connection | 8.00% | ~260 |
 | Don't Panic! | 7.00% | ~227 |
 | I Owe You Nothing | 7.00% | ~227 |
 | Computer Says "No" | 6.00% | ~195 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~32 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,243 (Ranked 134)  
+Progressed: 3,244 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.03%) (Ranked 185)
 | 2023-05-28 | 3,194 | 1 |
 | 2023-05-29 | 3,213 | 1 |
 | 2023-05-30 | 3,234 | 1 |
-| 2023-05-31 | 3,243 | 1 |
+| 2023-05-31 | 3,244 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 316)  
 Sum: 752 (Ranked 255)  

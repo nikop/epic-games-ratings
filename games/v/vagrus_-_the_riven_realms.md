@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 51.00% | ~41 |
-| Press-ganged | 39.00% | ~31 |
+| Press-ganged | 38.00% | ~31 |
 | The Package | 20.00% | ~16 |
 | Randomized | 11.00% | ~9 |
 | Conquered | 10.00% | ~8 |
 | Scribe | 5.00% | ~4 |
 | Conciliator | 4.00% | ~3 |
 | Fight Another Day | 4.00% | ~3 |
-| Tactician | 3.00% | ~2 |
-| The More the Merrier | 3.00% | ~2 |
-| Breached | 3.00% | ~2 |
+| Tactician | 2.00% | ~2 |
+| The More the Merrier | 2.00% | ~2 |
+| Breached | 2.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 277)  
+Progressed: 81 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-26 | 73 | 0 |
 | 2023-05-27 | 77 | 0 |
 | 2023-05-29 | 80 | 0 |
+| 2023-05-31 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,11 +11,11 @@
 | Egghead Lucy | 76.00% | ~116 |
 | Puppy | 62.00% | ~94 |
 | Coal's fur | 59.00% | ~90 |
-| Blue's drawing | 54.00% | ~82 |
+| Blue's drawing | 55.00% | ~84 |
 | Glass shards | 45.00% | ~68 |
 | Mysterious footprints | 45.00% | ~68 |
 | Complicated padlock | 43.00% | ~65 |
-| Big metal ruler | 41.00% | ~62 |
+| Big metal ruler | 42.00% | ~64 |
 | Doll | 36.00% | ~55 |
 | Windmill | 36.00% | ~55 |
 | Cat | 33.00% | ~50 |

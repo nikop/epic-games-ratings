@@ -25,18 +25,18 @@
 | People Mover | 22.00% | ~41 |
 | Emporium Empire | 22.00% | ~41 |
 | Leveled Up Shops | 22.00% | ~41 |
-| Get Electrified | 21.00% | ~39 |
+| Get Electrified | 22.00% | ~41 |
+| Artfully Done | 20.00% | ~37 |
 | Rehab Expert | 20.00% | ~37 |
 | Don't Feel a Loan | 20.00% | ~37 |
 | Tasty Profits | 20.00% | ~37 |
-| Artfully Done | 19.00% | ~35 |
 | Under One Roof | 18.00% | ~33 |
+| Established Fame | 18.00% | ~33 |
 | Cashflow Chief | 18.00% | ~33 |
 | We Don't Need No Education | 18.00% | ~33 |
-| Established Fame | 17.00% | ~32 |
+| Thrilled Tenants | 17.00% | ~32 |
 | Boutique Benefits | 16.00% | ~30 |
 | Terrifically Trashed | 16.00% | ~30 |
-| Thrilled Tenants | 16.00% | ~30 |
 | Swimming in Surplus | 15.00% | ~28 |
 | Starred Dining | 15.00% | ~28 |
 | Smooth Operator | 13.00% | ~24 |
@@ -47,11 +47,11 @@
 | Refined Palates | 10.00% | ~19 |
 | Revenue Royalty | 10.00% | ~19 |
 | Pipe Up | 10.00% | ~19 |
+| Aestheticly Pleased | 9.00% | ~17 |
 | Meet Me at HQ | 9.00% | ~17 |
 | Profound Proceeds | 9.00% | ~17 |
 | Maximum Reuse | 9.00% | ~17 |
 | Phoning It In | 9.00% | ~17 |
-| Aestheticly Pleased | 8.00% | ~15 |
 | Tuned In | 8.00% | ~15 |
 | It's a Gas | 8.00% | ~15 |
 | Penthouse in the Sky | 7.00% | ~13 |

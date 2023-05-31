@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 6.5,
+  "EOS_Completed_Percentage": 6.49,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -861,6 +861,11 @@
       "Time": "2023-05-31T09:03:54.3234111+00:00",
       "NumProgressed": 369,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-31T11:03:49.6733641+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 30,
@@ -872,7 +877,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "LEVEL_002",
@@ -880,7 +885,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "LEVEL_003",
@@ -896,7 +901,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "LEVEL_005",
@@ -904,15 +909,15 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_007",
@@ -920,15 +925,15 @@
       "Name": "Animals in the farm",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "LEVEL_009",
@@ -936,7 +941,7 @@
       "Name": "Going zig zag",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_010",
@@ -958,9 +963,9 @@
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_013",
@@ -968,7 +973,7 @@
       "Name": "Higher ground",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_014",
@@ -992,7 +997,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_017",
@@ -1102,23 +1107,23 @@
       "ID": "LEVEL_030",
       "SetID": "212bg48",
       "Name": "Celebration with Cake and Balloons",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-31T10:03:19.2804767+00:00",
+  "LastChanged_Achievements": "2023-05-31T11:03:49.6733636+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:56:56.8891817+00:00",
-  "LastUpdate_Achievements": "2023-05-31T10:03:19.2805043+00:00"
+  "LastUpdate_Ratings": "2023-05-31T10:57:15.3176291+00:00",
+  "LastUpdate_Achievements": "2023-05-31T11:03:49.6733844+00:00"
 }

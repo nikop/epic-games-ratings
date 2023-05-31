@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14109,
+  "EOS_Progressed": 14110,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2234,6 +2234,11 @@
       "Time": "2023-05-31T10:03:26.2517088+00:00",
       "NumProgressed": 14109,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-31T11:03:57.179126+00:00",
+      "NumProgressed": 14110,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2261,7 +2266,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2389,7 +2394,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2413,7 +2418,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2445,7 +2450,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "STORY_HABITAT",
@@ -2564,13 +2569,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14109,
+      "Progressed": 14110,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2035,
+      "Progressed": 2036,
       "Completed": 29
     }
   ],
@@ -2578,8 +2583,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T02:18:57.4894102+00:00",
-  "LastChanged_Achievements": "2023-05-31T10:03:26.2517082+00:00",
+  "LastChanged_Achievements": "2023-05-31T11:03:57.1791251+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:57:38.0309458+00:00",
-  "LastUpdate_Achievements": "2023-05-31T10:03:26.2517473+00:00"
+  "LastUpdate_Ratings": "2023-05-31T10:57:57.1582019+00:00",
+  "LastUpdate_Achievements": "2023-05-31T11:03:57.1791598+00:00"
 }

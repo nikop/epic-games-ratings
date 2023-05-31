@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1922,
+  "EOS_Progressed": 1923,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2011,6 +2011,11 @@
       "Time": "2023-05-31T09:06:17.2366404+00:00",
       "NumProgressed": 1922,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T11:05:39.3067664+00:00",
+      "NumProgressed": 1923,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2102,7 +2107,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2228,9 +2233,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2589,13 +2594,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1873,
+      "Progressed": 1874,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1922,
+      "Progressed": 1923,
       "Completed": 2
     }
   ],
@@ -2603,8 +2608,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-31T10:05:25.8784838+00:00",
+  "LastChanged_Achievements": "2023-05-31T11:05:39.3067657+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T10:00:04.9774981+00:00",
-  "LastUpdate_Achievements": "2023-05-31T10:05:25.8785597+00:00"
+  "LastUpdate_Ratings": "2023-05-31T11:00:32.9984181+00:00",
+  "LastUpdate_Achievements": "2023-05-31T11:05:39.3068277+00:00"
 }

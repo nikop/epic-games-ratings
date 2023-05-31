@@ -210,9 +210,9 @@
       "ID": "ACH_ASSIGN_RUIN_1",
       "SetID": "ajki3eh",
       "Name": "Devout",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_ASSIGN_RUIN_2",
@@ -322,9 +322,9 @@
       "ID": "ACH_SUMMON_SUCC_1",
       "SetID": "ajki3eh",
       "Name": "I did it!",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_SUMMON_SUCC_2",
@@ -450,8 +450,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-31T10:05:17.1924657+00:00",
+  "LastChanged_Achievements": "2023-05-31T11:05:30.3669316+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.1888334+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:57:51.9096746+00:00",
-  "LastUpdate_Achievements": "2023-05-31T10:05:17.1924915+00:00"
+  "LastUpdate_Ratings": "2023-05-31T10:58:10.3861984+00:00",
+  "LastUpdate_Achievements": "2023-05-31T11:05:30.3669518+00:00"
 }

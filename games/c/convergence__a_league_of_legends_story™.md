@@ -12,7 +12,7 @@
 | Honest Mistake | 55.00% | ~292 |
 | No, Thanks! | 53.00% | ~281 |
 | Time Flies | 52.00% | ~276 |
-| The Prince in Heels | 51.00% | ~270 |
+| The Prince in Heels | 52.00% | ~276 |
 | The Harder They Fall | 49.00% | ~260 |
 | Fast Learner | 49.00% | ~260 |
 | Right On Time | 48.00% | ~254 |

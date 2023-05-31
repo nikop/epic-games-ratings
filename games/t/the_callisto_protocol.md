@@ -10,10 +10,10 @@ Rating: 4.18 (Ranked 834)
 | Desperate Times | 7.00% | ~988 |
 | Chew 'Em Up | 6.00% | ~847 |
 | Paper Jams | 6.00% | ~847 |
-| Giving Back | 5.00% | ~705 |
-| Workplace Hazard | 5.00% | ~705 |
-| Reforged | 5.00% | ~705 |
-| If the SHU Fits... | 5.00% | ~705 |
+| Giving Back | 5.00% | ~706 |
+| Workplace Hazard | 5.00% | ~706 |
+| Reforged | 5.00% | ~706 |
+| If the SHU Fits... | 5.00% | ~706 |
 | Get a Grip | 4.00% | ~564 |
 | Instigator | 4.00% | ~81 |
 | Big Game Hunter | 4.00% | ~81 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,109 (Ranked 102)  
+Progressed: 14,110 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
-| 2023-05-31 | 14,109 | 53 |
+| 2023-05-31 | 14,110 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 280 (Ranked 329)  

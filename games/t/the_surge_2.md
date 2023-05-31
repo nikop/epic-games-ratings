@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,330 |
+| Rigged And Ready | 80.00% | ~1,331 |
 | Don't I Know You...? | 77.00% | ~1,281 |
-| Jailbreak | 65.00% | ~1,081 |
+| Jailbreak | 65.00% | ~1,082 |
 | Suited and Booted | 38.00% | ~632 |
-| HEADSHOT! | 37.00% | ~615 |
+| HEADSHOT! | 37.00% | ~616 |
 | Sleeping With The Fishes | 35.00% | ~582 |
 | Overheated | 30.00% | ~499 |
 | High Performance | 30.00% | ~499 |
@@ -19,14 +19,14 @@ Rating: 4.24 (Ranked 793)
 | Luminary | 22.00% | ~366 |
 | It's a Trap | 22.00% | ~366 |
 | True Survivor | 21.00% | ~349 |
+| Shocking | 20.00% | ~333 |
 | Court Martial | 19.00% | ~316 |
 | Offensive Defense | 19.00% | ~316 |
-| Shocking | 19.00% | ~316 |
 | Unforeseeable Consequences | 19.00% | ~316 |
-| Clean Cut | 18.00% | ~299 |
+| Clean Cut | 18.00% | ~300 |
 | Dead Again | 17.00% | ~283 |
 | Full Arsenal | 16.00% | ~266 |
-| Can't Trust Banks | 15.00% | ~249 |
+| Can't Trust Banks | 15.00% | ~250 |
 | Mommy Dearest | 13.00% | ~216 |
 | Bad Dog | 13.00% | ~216 |
 | Where It All Began | 13.00% | ~216 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 793)
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,663 (Ranked 153)  
+Progressed: 1,664 (Ranked 153)  
 Completed: 10 (0.60%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 10 (0.60%) (Ranked 106)
 | 2023-05-28 | 1,651 | 10 |
 | 2023-05-29 | 1,658 | 10 |
 | 2023-05-30 | 1,661 | 10 |
-| 2023-05-31 | 1,663 | 10 |
+| 2023-05-31 | 1,664 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

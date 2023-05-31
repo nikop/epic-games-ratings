@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~32,882 |
-| I read Shakespeare and stuff | 64.00% | ~27,690 |
+| Own use | 76.00% | ~32,883 |
+| I read Shakespeare and stuff | 64.00% | ~27,691 |
 | Just a sprinkle | 63.00% | ~27,258 |
-| I'm stumped | 61.00% | ~26,392 |
-| Plant get enough | 61.00% | ~26,392 |
-| It's just the beginning | 59.00% | ~25,527 |
-| This is just my weekend vehicle | 58.00% | ~25,094 |
-| Hard work pays off | 53.00% | ~22,931 |
+| I'm stumped | 61.00% | ~26,393 |
+| Plant get enough | 61.00% | ~26,393 |
+| It's just the beginning | 59.00% | ~25,528 |
+| This is just my weekend vehicle | 58.00% | ~25,095 |
+| Hard work pays off | 53.00% | ~22,932 |
 | It's never too late to farm | 47.00% | ~20,335 |
 | All out of Land | 44.00% | ~19,037 |
-| Field Trip | 43.00% | ~18,604 |
-| I like to switch it up | 40.00% | ~17,306 |
+| Field Trip | 43.00% | ~18,605 |
+| I like to switch it up | 40.00% | ~17,307 |
 | Help me to help you | 38.00% | ~16,441 |
-| Ultimutt Pawesomeness | 28.00% | ~12,114 |
+| Ultimutt Pawesomeness | 28.00% | ~12,115 |
 | Van Gogh | 26.00% | ~11,249 |
 | You wood not believe it | 21.00% | ~9,086 |
 | Vehicle fleet | 21.00% | ~9,086 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~173 |
 | Raisin the stakes | 0.30% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,266 (Ranked 80)  
+Progressed: 43,267 (Ranked 80)  
 Completed: 5 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,17 +91,17 @@ Completed: 5 (0.01%) (Ranked 196)
 | 2023-05-28 | 43,144 | 5 |
 | 2023-05-29 | 43,200 | 5 |
 | 2023-05-30 | 43,257 | 5 |
-| 2023-05-31 | 43,266 | 5 |
+| 2023-05-31 | 43,267 | 5 |
 ## Awards
 Max (Great for Beginners): 4,291  (Ranked 70)  
-Sum: 36,763 (Ranked 31)  
+Sum: 36,764 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,291 |
 | This game is Relaxing | 3,915 |
 | This game is Educational | 3,867 |
-| This game has Quickly Understood Controls | 3,836 |
+| This game has Quickly Understood Controls | 3,837 |
 | This game is Extremely Fun | 3,706 |
 | This game is Highly Recommended | 3,685 |
 | This game has Diverse Characters | 3,648 |
@@ -247,4 +247,4 @@ Diff (max vs sum): 39
 | 2023-05-28 | 4.70 | - | 4,280 | 36,719 |
 | 2023-05-29 | 4.70 | - | 4,280 | 36,732 |
 | 2023-05-30 | 4.70 | - | 4,291 | 36,758 |
-| 2023-05-31 | 4.70 | - | 4,291 | 36,763 |
+| 2023-05-31 | 4.70 | - | 4,291 | 36,764 |

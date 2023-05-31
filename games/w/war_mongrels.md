@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~185 |
-| Cowardice | 54.00% | ~161 |
+| Explorer | 62.00% | ~186 |
+| Cowardice | 54.00% | ~162 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~147 |
 | Eat Lead! | 48.00% | ~144 |
 | Here Comes the Boom | 44.00% | ~132 |
@@ -45,11 +45,11 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter VIII | 5.00% | ~15 |
 | Collectibles of Chapter X | 4.00% | ~12 |
 | Collectibles of Chapter XI | 4.00% | ~12 |
+| Not Spill a Drop | 4.00% | ~12 |
 | Collectibles of Chapter VI | 3.00% | ~9 |
 | Collectibles of Chapter IX | 3.00% | ~9 |
 | The Good Samaritan | 3.00% | ~9 |
 | It Will Rain | 3.00% | ~9 |
-| Not Spill a Drop | 3.00% | ~9 |
 | Daddy Would Be Proud | 2.00% | ~6 |
 | Hold a Door | 1.00% | ~3 |
 | Warm Up | 0.30% | ~1 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 222)  
+Progressed: 300 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 290 | 0 |
 | 2023-05-28 | 296 | 0 |
 | 2023-05-30 | 297 | 0 |
-| 2023-05-31 | 299 | 0 |
+| 2023-05-31 | 300 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

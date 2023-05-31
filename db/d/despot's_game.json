@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 385,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -210,6 +210,11 @@
       "Time": "2023-05-31T10:05:29.589383+00:00",
       "NumProgressed": 384,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T11:05:43.1844196+00:00",
+      "NumProgressed": 385,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -269,7 +274,7 @@
       "Name": "No Mercy",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "different-items1",
@@ -291,17 +296,17 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 166
     },
     {
       "ID": "finished-quest-flight",
@@ -323,9 +328,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "finished-quest-pit",
@@ -347,9 +352,9 @@
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "finished-quest-sci",
@@ -363,9 +368,9 @@
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "finished-quest-sword",
@@ -437,7 +442,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "win-first-level",
@@ -445,7 +450,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "win-koth-fights1",
@@ -500,7 +505,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 385,
       "Completed": 1
     }
   ],
@@ -508,8 +513,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-31T10:05:29.5893823+00:00",
+  "LastChanged_Achievements": "2023-05-31T11:05:43.1844183+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-31T09:58:27.5662248+00:00",
-  "LastUpdate_Achievements": "2023-05-31T10:05:29.5894096+00:00"
+  "LastUpdate_Ratings": "2023-05-31T10:58:41.4079712+00:00",
+  "LastUpdate_Achievements": "2023-05-31T11:05:43.1844405+00:00"
 }
