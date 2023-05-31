@@ -18,9 +18,9 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 8.00% | ~174 |
 | Upfront shredder | 8.00% | ~174 |
 | Good vibes | 7.00% | ~152 |
-| Fashionista | 6.00% | ~130 |
-| Finally he zips it | 6.00% | ~130 |
-| That pinch! | 6.00% | ~130 |
+| Fashionista | 6.00% | ~131 |
+| Finally he zips it | 6.00% | ~131 |
+| That pinch! | 6.00% | ~131 |
 | Bottom ply killer | 5.00% | ~109 |
 | Fulfilled the dream | 5.00% | ~109 |
 | G'Day Mate! | 5.00% | ~109 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,175 (Ranked 147)  
+Progressed: 2,176 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 2,129 | 0 |
 | 2023-05-29 | 2,152 | 0 |
 | 2023-05-30 | 2,167 | 0 |
-| 2023-05-31 | 2,175 | 0 |
+| 2023-05-31 | 2,176 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 396)  
 Sum: 414 (Ranked 301)  

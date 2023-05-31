@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 21,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1500,
-  "EOS_Completed": 121,
+  "EOS_Completed": 122,
   "EOS_NewPlayers": 100,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 8.07,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 8.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2018,6 +2018,11 @@
       "Time": "2023-05-31T13:13:16.9200567+00:00",
       "NumProgressed": 1500,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-05-31T16:05:21.1119687+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 12,
@@ -2035,9 +2040,9 @@
       "ID": "Bernard",
       "SetID": "b40dflc",
       "Name": "Bernard",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 180
     },
     {
       "ID": "Building the Fox",
@@ -2125,15 +2130,15 @@
       "ID": "b40dflc",
       "IsBase": true,
       "Progressed": 1500,
-      "Completed": 121
+      "Completed": 122
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-31T15:06:22.5483413+00:00",
+  "LastChanged_Achievements": "2023-05-31T16:05:21.1119682+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:59:56.3150527+00:00",
-  "LastUpdate_Achievements": "2023-05-31T15:06:22.5483577+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:59:07.2246851+00:00",
+  "LastUpdate_Achievements": "2023-05-31T16:05:21.1119875+00:00"
 }

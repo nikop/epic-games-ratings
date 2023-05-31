@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.80% | ~445 |
 | The Mad Wizard | 0.70% | ~625 |
 | Beast Intentions | 0.60% | ~536 |
-| Beware the Jabberwock | 0.60% | ~333 |
+| Beware the Jabberwock | 0.60% | ~334 |
 | The Ring of Regeneration | 0.50% | ~447 |
 | Coasting to the Finish | 0.50% | ~278 |
 | Were-verpowered | 0.40% | ~357 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,304 (Ranked 61)  
+Progressed: 89,310 (Ranked 61)  
 Completed: 1,903 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,17 +541,17 @@ Completed: 1,903 (2.13%) (Ranked 61)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,304 | 1,903 |
+| 2023-05-31 | 89,310 | 1,903 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
-Sum: 30,006 (Ranked 37)  
+Sum: 30,007 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,913 |
 | This game is Great for Beginners | 4,846 |
 | This game has Quickly Understood Controls | 4,608 |
-| This game is Relaxing | 4,501 |
+| This game is Relaxing | 4,502 |
 | This game is Highly Recommended | 3,951 |
 | This game has Amazing Characters | 3,945 |
 | This game has Playful Visuals | 3,242 |
@@ -683,4 +683,4 @@ Diff (max vs sum): 27
 | 2023-05-28 | 4.06 | - | 4,910 | 29,993 |
 | 2023-05-29 | 4.06 | - | 4,910 | 29,997 |
 | 2023-05-30 | 4.06 | - | 4,911 | 30,004 |
-| 2023-05-31 | 4.06 | - | 4,913 | 30,006 |
+| 2023-05-31 | 4.06 | - | 4,913 | 30,007 |

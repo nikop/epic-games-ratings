@@ -7,26 +7,26 @@ Number of Ratings: 56  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | light attack | 96.00% | ~9,660 |
-| keep it tidy | 77.00% | ~7,748 |
+| keep it tidy | 77.00% | ~7,749 |
 | podium | 72.00% | ~7,245 |
 | medium attack | 59.00% | ~5,937 |
 | brail | 56.00% | ~5,635 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,025 |
-| grocery-getter | 39.00% | ~3,924 |
+| grocery-getter | 39.00% | ~3,925 |
 | rwd only | 26.00% | ~2,616 |
 | food tour: pasta | 26.00% | ~2,616 |
 | to finish first, first you must finish | 21.00% | ~2,113 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,113 |
-| autopilot | 20.00% | ~2,012 |
-| turbo | 20.00% | ~2,012 |
+| autopilot | 20.00% | ~2,013 |
+| turbo | 20.00% | ~2,013 |
 | food tour: pretzel | 19.00% | ~1,912 |
 | bicycle race | 15.00% | ~1,509 |
 | monster | 14.00% | ~1,409 |
 | car wash | 13.00% | ~1,308 |
 | perkele | 13.00% | ~1,308 |
 | the artist | 13.00% | ~1,308 |
-| night ride | 12.00% | ~1,207 |
-| snorkel | 12.00% | ~1,207 |
+| night ride | 12.00% | ~1,208 |
+| snorkel | 12.00% | ~1,208 |
 | where is the stage? | 11.00% | ~1,107 |
 | maximum attack | 11.00% | ~1,107 |
 | espresso | 10.00% | ~1,006 |
@@ -45,12 +45,12 @@ Number of Ratings: 56  (23.09.2022)
 | comfy seats | 3.00% | ~302 |
 | simulator | 3.00% | ~302 |
 | real roads, real fast | 2.00% | ~201 |
-| absolute drift | 0.80% | ~80 |
+| absolute drift | 0.80% | ~81 |
 | you're here for a good time, not a long time | 0.70% | ~70 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,062 (Ranked 108)  
+Progressed: 10,063 (Ranked 108)  
 Completed: 9 (0.09%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 9 (0.09%) (Ranked 166)
 | 2023-05-28 | 10,051 | 9 |
 | 2023-05-29 | 10,058 | 9 |
 | 2023-05-30 | 10,062 | 9 |
+| 2023-05-31 | 10,063 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -51,13 +51,13 @@ Rating: 3.94 (Ranked 902)
 | Lock And Load | 3.00% | ~37 |
 | Master Enchanter | 3.00% | ~37 |
 | Blueprint Upgrades | 2.00% | ~25 |
+| Crystal Mining | 2.00% | ~25 |
 | Dragon Slayer | 2.00% | ~25 |
 | Enchanting skill | 2.00% | ~25 |
 | Engineer Mastery | 2.00% | ~25 |
 | Sailor | 2.00% | ~25 |
 | What lies behind the bush | 2.00% | ~25 |
 | Active Member | 1.00% | ~12 |
-| Crystal Mining | 1.00% | ~12 |
 | Ebony Jungle Liberator | 1.00% | ~12 |
 | The Alchemist | 1.00% | ~12 |
 | Legendary | 0.80% | ~10 |

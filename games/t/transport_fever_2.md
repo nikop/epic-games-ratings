@@ -48,9 +48,9 @@ Number of Ratings: 180  (23.09.2022)
 | Truck Fever | 10.00% | ~118 |
 | Back to the future | 9.00% | ~106 |
 | Transport belt | 9.00% | ~106 |
+| E.P.E.C. | 6.00% | ~71 |
 | Antique | 5.00% | ~59 |
 | Campaign shark | 5.00% | ~59 |
-| E.P.E.C. | 5.00% | ~59 |
 | Transport shark (Hard mode) | 4.00% | ~47 |
 | Transport corporation | 4.00% | ~47 |
 | Cannot get enough | 3.00% | ~35 |

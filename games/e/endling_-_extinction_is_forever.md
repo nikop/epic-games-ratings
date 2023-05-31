@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 95.00% | ~399 |
-| A Friend in Need | 60.00% | ~252 |
+| A Friend in Need | 61.00% | ~256 |
 | Surviving | 43.00% | ~181 |
 | Detox diet | 40.00% | ~168 |
 | Never Give Up | 39.00% | ~164 |
 | Tasty | 38.00% | ~160 |
-| Lullaby | 32.00% | ~134 |
+| Lullaby | 33.00% | ~139 |
 | You Can Pet The Fox | 30.00% | ~126 |
 | Hard Fox Life | 24.00% | ~101 |
 | Never Let Down | 24.00% | ~101 |

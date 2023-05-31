@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -444,10 +444,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 280,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-31T15:57:38.2134075+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280,
+  "NumberOfAwards": 281,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -467,7 +473,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
@@ -494,9 +500,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14129,
+  "EOS_Progressed": 14131,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2259,6 +2265,11 @@
       "Time": "2023-05-31T15:04:07.7732754+00:00",
       "NumProgressed": 14129,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-31T16:03:36.4296263+00:00",
+      "NumProgressed": 14131,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2286,7 +2297,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2300,9 +2311,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1413
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2414,7 +2425,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2438,7 +2449,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2470,7 +2481,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "STORY_HABITAT",
@@ -2589,22 +2600,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14129,
+      "Progressed": 14131,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2055,
+      "Progressed": 2057,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-31T02:18:57.4894102+00:00",
-  "LastChanged_Achievements": "2023-05-31T15:04:07.773275+00:00",
+  "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
+  "LastChanged_Achievements": "2023-05-31T16:03:36.4296258+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:57:56.3566329+00:00",
-  "LastUpdate_Achievements": "2023-05-31T15:04:07.7733089+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:57:38.2134079+00:00",
+  "LastUpdate_Achievements": "2023-05-31T16:03:36.429667+00:00"
 }

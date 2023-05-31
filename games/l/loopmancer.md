@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Black Cat's Warning | 103.00% | ~92 |
+| Every little bit counts | 97.00% | ~86 |
 | Break no Sweat | 96.00% | ~85 |
-| Every little bit counts | 96.00% | ~85 |
 | Growth | 87.00% | ~77 |
 | Targeting the Enemy | 69.00% | ~61 |
 | Unavoidable | 63.00% | ~56 |
@@ -17,7 +17,7 @@
 | Elimination | 33.00% | ~29 |
 | Memento | 30.00% | ~27 |
 | Excellent Driving Skills | 29.00% | ~26 |
-| Once Bitten, Twice Shy | 28.00% | ~25 |
+| Once Bitten, Twice Shy | 29.00% | ~26 |
 | Defeat the AI | 26.00% | ~23 |
 | Unsalvageable | 26.00% | ~23 |
 | Fleet-footed | 26.00% | ~23 |

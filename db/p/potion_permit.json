@@ -312,7 +312,7 @@
   ],
   "EOS_Progressed": 1321,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -853,9 +853,9 @@
       "ID": "ACHIEVEMENTS_09",
       "SetID": "d4o538a",
       "Name": "Rookie Chemist",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 819
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1102,8 +1102,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-05-31T15:06:41.6130466+00:00",
+  "LastChanged_Achievements": "2023-05-31T16:05:37.2622782+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:43.6449908+00:00",
-  "LastUpdate_Ratings": "2023-05-31T15:00:54.0322476+00:00",
-  "LastUpdate_Achievements": "2023-05-31T15:06:41.6130724+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:59:51.6288156+00:00",
+  "LastUpdate_Achievements": "2023-05-31T16:05:37.2623095+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -297,10 +297,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 14117,
-  "EOS_Completed": 89,
-  "EOS_NewPlayers": 243,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed": 90,
+  "EOS_NewPlayers": 242,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.2496506+00:00",
@@ -3406,6 +3406,11 @@
       "Time": "2023-05-31T15:03:49.5625147+00:00",
       "NumProgressed": 14117,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-31T16:03:21.5796742+00:00",
+      "NumProgressed": 14117,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 16,
@@ -3455,9 +3460,9 @@
       "ID": "Feel_The_Thunder",
       "SetID": "96f13ae",
       "Name": "Feel The Thunder",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 847
+      "UsersEstimate": 988
     },
     {
       "ID": "Fireworks",
@@ -3545,14 +3550,14 @@
       "ID": "96f13ae",
       "IsBase": true,
       "Progressed": 14117,
-      "Completed": 89
+      "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-05-31T15:03:49.5625143+00:00",
+  "LastChanged_Achievements": "2023-05-31T16:03:21.5796738+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:37.8656226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:59:19.6146987+00:00",
-  "LastUpdate_Achievements": "2023-05-31T15:03:49.562538+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:58:41.3194697+00:00",
+  "LastUpdate_Achievements": "2023-05-31T16:03:21.5797021+00:00"
 }

@@ -2362,17 +2362,17 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 564
     },
     {
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 482
     },
     {
       "ID": "9",
@@ -2395,8 +2395,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-31T15:06:11.5620178+00:00",
+  "LastChanged_Achievements": "2023-05-31T16:05:12.3145489+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:57:25.1325809+00:00",
-  "LastUpdate_Achievements": "2023-05-31T15:06:11.5620603+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:57:15.911872+00:00",
+  "LastUpdate_Achievements": "2023-05-31T16:05:12.314602+00:00"
 }

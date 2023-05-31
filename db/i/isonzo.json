@@ -5,7 +5,7 @@
   "Ranking_Rating": 452,
   "Ranking_Popularity": 441,
   "Ranking_PopularitySum": 343,
-  "Ranking_EOS_Progress": 121,
+  "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 89,
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5968,
+  "EOS_Progressed": 5970,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1863,6 +1863,11 @@
       "Time": "2023-05-31T15:03:13.6358639+00:00",
       "NumProgressed": 5968,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-31T16:02:34.3394146+00:00",
+      "NumProgressed": 5970,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1890,7 +1895,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1922,7 +1927,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1930,7 +1935,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -1946,7 +1951,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -2042,7 +2047,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -2066,7 +2071,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2122,7 +2127,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2146,7 +2151,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -2170,7 +2175,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2178,7 +2183,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -2186,7 +2191,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -2194,7 +2199,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -2202,7 +2207,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2218,7 +2223,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2226,14 +2231,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5968,
+      "Progressed": 5970,
       "Completed": 8
     }
   ],
@@ -2241,8 +2246,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-31T13:04:59.5463809+00:00",
-  "LastChanged_Achievements": "2023-05-31T15:03:13.6358633+00:00",
+  "LastChanged_Achievements": "2023-05-31T16:02:34.339414+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:57:21.1941046+00:00",
-  "LastUpdate_Achievements": "2023-05-31T15:03:13.6358983+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:57:13.2821405+00:00",
+  "LastUpdate_Achievements": "2023-05-31T16:02:34.3394544+00:00"
 }

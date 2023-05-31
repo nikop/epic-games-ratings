@@ -12,7 +12,7 @@ Rating: 3.80 (Ranked 917)
 | Zero Waste | 27.00% | ~281 |
 | I am the greatest botanist on this planet. | 27.00% | ~281 |
 | Miner | 23.00% | ~240 |
-| Gardener | 21.00% | ~219 |
+| Gardener | 22.00% | ~229 |
 | Houston we have a problem | 19.00% | ~198 |
 | Occupy Mars! | 18.00% | ~188 |
 | Detective | 15.00% | ~156 |
@@ -32,9 +32,9 @@ Rating: 3.80 (Ranked 917)
 | Explosive Miner | 0.40% | ~4 |
 | Rocket Jump | 0.40% | ~4 |
 | Bull’s eye | 0.30% | ~3 |
+| Korolev crater | 0.30% | ~3 |
 | Hot Repairs | 0.20% | ~2 |
 | 5G Network | 0.20% | ~2 |
-| Korolev crater | 0.20% | ~2 |
 | One does not simply... | 0.20% | ~2 |
 | Rover Mechanic | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |

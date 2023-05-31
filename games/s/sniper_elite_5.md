@@ -5,20 +5,20 @@ Rating: 4.44 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~466 |
-| Confirming Suspicions | 19.00% | ~369 |
-| The Kraken Wakes | 15.00% | ~291 |
+| Meeting Resistance | 24.00% | ~467 |
+| Confirming Suspicions | 19.00% | ~370 |
+| The Kraken Wakes | 15.00% | ~292 |
 | It's Starting to Crack | 12.00% | ~233 |
 | Lord of War | 11.00% | ~214 |
 | Change the Channel | 10.00% | ~194 |
 | Resourceful | 9.00% | ~175 |
-| Taking it back | 8.00% | ~155 |
+| Taking it back | 8.00% | ~156 |
 | Enemy at the Gates | 7.00% | ~136 |
 | Organ Grinder | 7.00% | ~136 |
 | As Quiet as a Mouse | 7.00% | ~136 |
-| Just a Flesh Wound | 6.00% | ~116 |
-| Explosive Efficiency | 6.00% | ~116 |
-| Target America | 6.00% | ~116 |
+| Just a Flesh Wound | 6.00% | ~117 |
+| Explosive Efficiency | 6.00% | ~117 |
+| Target America | 6.00% | ~117 |
 | Liberté | 5.00% | ~97 |
 | Gunslinger | 5.00% | ~97 |
 | Sharpshooter | 5.00% | ~97 |
@@ -39,8 +39,8 @@ Rating: 4.44 (Ranked 630)
 | The Long Game | 1.00% | ~19 |
 | My Little Friend | 1.00% | ~19 |
 | It'll Buff Right Out | 1.00% | ~19 |
-| Strategist | 0.90% | ~17 |
-| Locomotion Commotion | 0.90% | ~17 |
+| Strategist | 0.90% | ~18 |
+| Locomotion Commotion | 0.90% | ~18 |
 | Operation Foxley | 0.80% | ~15 |
 | Road Rage | 0.70% | ~14 |
 | Herr Today, Gone Tomorrow | 0.70% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 630)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,941 (Ranked 151)  
+Progressed: 1,945 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
-| 2023-05-31 | 1,941 | 2 |
+| 2023-05-31 | 1,945 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

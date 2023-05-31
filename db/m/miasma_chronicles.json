@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 902,
+  "EOS_Progressed": 904,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2023-05-31T15:02:17.9828407+00:00",
       "NumProgressed": 902,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T16:02:14.5156083+00:00",
+      "NumProgressed": 904,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -941,7 +946,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 624
     },
     {
       "ID": "ATTENBOROUGH",
@@ -973,7 +978,7 @@
       "Name": "Chain Killer",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1109,7 +1114,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 832
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1141,7 +1146,7 @@
       "Name": "Giant Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "GOAL",
@@ -1157,7 +1162,7 @@
       "Name": "Gun for Hire",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 570
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1173,7 +1178,7 @@
       "Name": "I am the law!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "INFILTRATOR",
@@ -1227,9 +1232,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 651
     },
     {
       "ID": "RECYCLER",
@@ -1237,7 +1242,7 @@
       "Name": "Recycler",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "RUTHLESS",
@@ -1261,7 +1266,7 @@
       "Name": "Sensei",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1293,7 +1298,7 @@
       "Name": "Technophobe",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1309,7 +1314,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "THE_WATCHERS",
@@ -1332,7 +1337,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 902,
+      "Progressed": 904,
       "Completed": 0
     }
   ],
@@ -1340,8 +1345,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-30T20:58:55.5657959+00:00",
-  "LastChanged_Achievements": "2023-05-31T15:02:17.9828402+00:00",
+  "LastChanged_Achievements": "2023-05-31T16:02:14.5156079+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-31T14:58:29.4300013+00:00",
-  "LastUpdate_Achievements": "2023-05-31T15:02:17.982877+00:00"
+  "LastUpdate_Ratings": "2023-05-31T15:58:02.81454+00:00",
+  "LastUpdate_Achievements": "2023-05-31T16:02:14.5156539+00:00"
 }
