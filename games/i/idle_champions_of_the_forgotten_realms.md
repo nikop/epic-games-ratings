@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~268 |
 | Exploring Port Nyanzaru | 0.30% | ~268 |
 | The Contagious Curse | 0.30% | ~268 |
+| Pros and CONs | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~179 |
@@ -89,6 +90,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.20% | ~111 |
 | Escort to Waterdeep | 0.20% | ~179 |
 | The Giant's Bane Tavern | 0.20% | ~111 |
+| The Everlasting Rime | 0.20% | ~111 |
 | Close Escort | 0.20% | ~179 |
 | Constant Banditry | 0.20% | ~179 |
 | Waterdeep Detours | 0.20% | ~179 |
@@ -99,7 +101,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.20% | ~111 |
 | The Templar's Camp | 0.20% | ~179 |
 | Rescue in the Jungle | 0.20% | ~179 |
-| Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
 | Starving in the Jungle | 0.10% | ~89 |
 | Cold as Ice | 0.10% | ~56 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~56 |
 | Giant-Size Adventure | 0.10% | ~56 |
 | Power of Three | 0.10% | ~56 |
-| The Everlasting Rime | 0.10% | ~56 |
 | Enemy Summit | 0.10% | ~56 |
 | Mirage Arcane | 0.10% | ~56 |
 | Only Human | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,335 (Ranked 61)  
+Progressed: 89,339 (Ranked 61)  
 Completed: 1,904 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1,904 (2.13%) (Ranked 62)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,335 | 1,904 |
+| 2023-05-31 | 89,339 | 1,904 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,007 (Ranked 37)  

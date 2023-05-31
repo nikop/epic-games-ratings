@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -665,6 +665,11 @@
       "Time": "2023-05-31T18:06:18.4239456+00:00",
       "NumProgressed": 354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T23:06:57.3388465+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -674,9 +679,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "cool-shirts",
@@ -692,7 +697,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "dont-miss-calls",
@@ -724,7 +729,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "kill-lieutenants",
@@ -738,9 +743,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 256
     },
     {
       "ID": "play-at-night",
@@ -764,7 +769,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "rename-lieutenant",
@@ -778,9 +783,9 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "sell-variety",
@@ -804,7 +809,7 @@
       "Name": "Pampered Life",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "upgrade-building",
@@ -827,15 +832,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:06:40.2038712+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:06:57.3388461+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.0374277+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:00:38.4653329+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:06:40.2038952+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:00:54.7066357+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:06:57.3388701+00:00"
 }

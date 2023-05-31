@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5976,
+  "EOS_Progressed": 5977,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1888,6 +1888,11 @@
       "Time": "2023-05-31T21:02:37.2900568+00:00",
       "NumProgressed": 5976,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-31T23:03:20.3166905+00:00",
+      "NumProgressed": 5977,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1947,7 +1952,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -2011,7 +2016,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -2027,7 +2032,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -2067,7 +2072,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -2091,7 +2096,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2147,7 +2152,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2187,7 +2192,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -2211,7 +2216,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -2227,7 +2232,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2258,7 +2263,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5976,
+      "Progressed": 5977,
       "Completed": 8
     }
   ],
@@ -2266,8 +2271,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-31T13:04:59.5463809+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:03:37.9797833+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:03:20.3166899+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:57:38.3705884+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:03:37.979866+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:57:31.030125+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:03:20.3167637+00:00"
 }

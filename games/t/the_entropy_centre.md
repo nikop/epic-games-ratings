@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | It's Rewind Time | 90.00% | ~119 |
 | Wake Up | 82.00% | ~108 |
-| Time Gates | 62.00% | ~82 |
+| Time Gates | 63.00% | ~83 |
 | Command Centre | 48.00% | ~63 |
 | This is a Wall | 41.00% | ~54 |
 | Extendable Bridges | 34.00% | ~45 |
@@ -21,12 +21,12 @@
 | Archivist | 10.00% | ~13 |
 | Looper | 8.00% | ~11 |
 | So Close | 7.00% | ~9 |
+| Kaboom! | 7.00% | ~9 |
+| All Alone | 7.00% | ~9 |
 | Cataclysm | 7.00% | ~9 |
+| Reunited | 7.00% | ~9 |
 | Transformers, cubes in disguise | 6.00% | ~8 |
-| Kaboom! | 6.00% | ~8 |
-| All Alone | 6.00% | ~8 |
 | Final Charge | 6.00% | ~8 |
-| Reunited | 6.00% | ~8 |
 | Summer Luvin' | 4.00% | ~5 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |

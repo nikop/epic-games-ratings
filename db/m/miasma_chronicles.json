@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1207,9 +1207,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 487
     },
     {
       "ID": "INFILTRATOR",
@@ -1223,9 +1223,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 322
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1376,8 +1376,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:03:15.7801333+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:02:25.6366961+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:58:37.2444551+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:03:15.7802148+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:58:39.1393708+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:02:25.6367807+00:00"
 }

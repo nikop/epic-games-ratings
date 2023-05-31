@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -1079,9 +1079,9 @@
       "ID": "LEVEL_024",
       "SetID": "212bg48",
       "Name": "Beach or mountain?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_025",
@@ -1142,8 +1142,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:04:17.3118744+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:04:04.909046+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:57:16.1968664+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:04:17.3119196+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:57:08.7443587+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:04:04.9090927+00:00"
 }

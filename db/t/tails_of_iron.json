@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1528,
+  "EOS_Progressed": 1529,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -946,6 +946,11 @@
       "Time": "2023-05-31T20:02:11.4003714+00:00",
       "NumProgressed": 1528,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-31T23:02:09.1980602+00:00",
+      "NumProgressed": 1529,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -957,7 +962,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "Collect20Gold",
@@ -1021,7 +1026,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "CompleteElderFaction",
@@ -1061,7 +1066,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "DefeatMoziQueen",
@@ -1107,9 +1112,9 @@
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 826
     },
     {
       "ID": "Kill25Bugs",
@@ -1117,7 +1122,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "Kill25Frogs",
@@ -1133,7 +1138,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "MeetTheMoles",
@@ -1196,22 +1201,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1528,
+      "Progressed": 1529,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 169,
-      "Completed": 169
+      "Progressed": 170,
+      "Completed": 170
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:01:40.3326051+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:02:09.1980594+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:58:41.2348209+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:01:40.3326411+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:58:43.9073723+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:02:09.1981003+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 754,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 174,
+  "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 89,
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -543,6 +543,11 @@
       "Time": "2023-05-31T17:05:52.9365518+00:00",
       "NumProgressed": 927,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T23:06:53.5255671+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -586,7 +591,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "06",
@@ -602,7 +607,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "08",
@@ -737,7 +742,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 0
     }
   ],
@@ -745,8 +750,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:06:36.7453683+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:06:53.5255664+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:00:13.5843434+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:06:36.7453889+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:00:25.7587171+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:06:53.5255954+00:00"
 }

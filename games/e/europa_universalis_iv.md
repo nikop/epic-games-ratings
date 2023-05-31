@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,288 |
-| That's a Grand Army | 8.00% | ~3,811 |
-| That is mine! | 8.00% | ~3,811 |
-| Victorious! | 8.00% | ~3,811 |
+| Until death do us apart | 9.00% | ~4,289 |
+| That's a Grand Army | 8.00% | ~3,812 |
+| That is mine! | 8.00% | ~3,812 |
+| Victorious! | 8.00% | ~3,812 |
 | Brothers in Arms | 6.00% | ~2,859 |
 | That's a Grand Navy | 6.00% | ~2,859 |
 | Seriously?! | 6.00% | ~2,859 |
-| For the Glory | 5.00% | ~2,382 |
+| For the Glory | 5.00% | ~2,383 |
 | Cold War | 4.00% | ~1,906 |
 | True Catholic | 4.00% | ~1,906 |
-| Defender of the Faith | 3.00% | ~1,429 |
-| It's all about the money | 3.00% | ~1,429 |
-| Respected | 3.00% | ~1,429 |
-| Truly Divine Ruler | 3.00% | ~1,429 |
+| Defender of the Faith | 3.00% | ~1,430 |
+| It's all about the money | 3.00% | ~1,430 |
+| Respected | 3.00% | ~1,430 |
+| Truly Divine Ruler | 3.00% | ~1,430 |
 | Agressive Expander | 2.00% | ~953 |
 | Blockader | 2.00% | ~953 |
 | Combined Arms | 2.00% | ~953 |
@@ -31,19 +31,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~953 |
 | The Princess is in this Castle | 2.00% | ~953 |
 | Total Control | 2.00% | ~953 |
-| All That's Thine Shall Be Mine | 1.00% | ~476 |
-| Azur semé de lis or | 1.00% | ~476 |
-| Bright Spark | 1.00% | ~476 |
-| City of Cities | 1.00% | ~476 |
-| Factionalism | 1.00% | ~476 |
-| A Golden Empire | 1.00% | ~476 |
+| All That's Thine Shall Be Mine | 1.00% | ~477 |
+| Azur semé de lis or | 1.00% | ~477 |
+| Bright Spark | 1.00% | ~477 |
+| City of Cities | 1.00% | ~477 |
+| Factionalism | 1.00% | ~477 |
+| A Golden Empire | 1.00% | ~477 |
 | The Five Colonies | 0.90% | ~429 |
 | This navy can take it all | 0.90% | ~429 |
 | The Emperors new clothes | 0.80% | ~381 |
 | Isn't this the way to India? | 0.80% | ~381 |
 | Market Control | 0.80% | ~381 |
-| Down Under | 0.70% | ~333 |
-| Trustworthy | 0.70% | ~333 |
+| Down Under | 0.70% | ~334 |
+| Trustworthy | 0.70% | ~334 |
 | Electable! | 0.60% | ~286 |
 | Time Bandit | 0.60% | ~286 |
 | All belongs to Mother Russia | 0.50% | ~238 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,642 (Ranked 78)  
+Progressed: 47,652 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 45,938 | 0 |
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
-| 2023-05-31 | 47,642 | 0 |
+| 2023-05-31 | 47,652 | 0 |
 ## Awards
 Max (Educational): 5,322  (Ranked 60)  
 Sum: 43,985 (Ranked 27)  

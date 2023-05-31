@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 314)  
+Progressed: 34 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

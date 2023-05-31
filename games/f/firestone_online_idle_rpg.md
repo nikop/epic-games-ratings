@@ -5,29 +5,29 @@ Rating: 3.94 (Ranked 902)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,163 |
-| World Map | 80.00% | ~990 |
-| Temple of Eternals | 56.00% | ~693 |
-| Prestigious | 53.00% | ~656 |
-| Fellowship Power | 40.00% | ~495 |
+| Victor | 94.00% | ~1,165 |
+| World Map | 80.00% | ~991 |
+| Temple of Eternals | 56.00% | ~694 |
+| Prestigious | 53.00% | ~657 |
+| Fellowship Power | 40.00% | ~496 |
 | Guild Power | 24.00% | ~297 |
 | Prestigious x10 | 21.00% | ~260 |
-| The game is on | 19.00% | ~235 |
-| Exotic Merchant | 17.00% | ~210 |
+| The game is on | 18.00% | ~223 |
+| Exotic Merchant | 17.00% | ~211 |
 | Dragon Clicker | 16.00% | ~198 |
 | Miner Clicker | 16.00% | ~198 |
 | Inspection | 15.00% | ~186 |
 | Full Party | 14.00% | ~173 |
 | Hero inspection | 13.00% | ~161 |
-| Dragon Master | 12.00% | ~148 |
-| Enlightenment | 12.00% | ~148 |
-| Lieutenant | 12.00% | ~148 |
-| Milestone collector | 12.00% | ~148 |
+| Dragon Master | 12.00% | ~149 |
+| Enlightenment | 12.00% | ~149 |
+| Lieutenant | 12.00% | ~149 |
+| Milestone collector | 12.00% | ~149 |
 | Mysterious Rock | 11.00% | ~136 |
 | Natural Talent | 11.00% | ~136 |
 | Superior | 11.00% | ~136 |
 | The Unstoppable | 11.00% | ~136 |
-| Scientist | 9.00% | ~111 |
+| Scientist | 9.00% | ~112 |
 | Daily Quest Completionist | 8.00% | ~99 |
 | Challenger | 7.00% | ~87 |
 | Scroll Master | 7.00% | ~87 |
@@ -39,14 +39,14 @@ Rating: 3.94 (Ranked 902)
 | Relic Of The Past | 6.00% | ~74 |
 | Doing My Part | 5.00% | ~62 |
 | The Expeditioner | 5.00% | ~62 |
-| Ancient Knowledge | 4.00% | ~49 |
-| Background Story | 4.00% | ~49 |
-| Here We Go Again | 4.00% | ~49 |
-| How Do You Turn This On? | 4.00% | ~49 |
-| Missions Dedication | 4.00% | ~49 |
-| The father of Dragons | 4.00% | ~49 |
-| Trader | 4.00% | ~49 |
-| Weekly Quest Completionist | 4.00% | ~49 |
+| Ancient Knowledge | 4.00% | ~50 |
+| Background Story | 4.00% | ~50 |
+| Here We Go Again | 4.00% | ~50 |
+| How Do You Turn This On? | 4.00% | ~50 |
+| Missions Dedication | 4.00% | ~50 |
+| The father of Dragons | 4.00% | ~50 |
+| Trader | 4.00% | ~50 |
+| Weekly Quest Completionist | 4.00% | ~50 |
 | Four Leaf Clover | 3.00% | ~37 |
 | Lock And Load | 3.00% | ~37 |
 | Master Enchanter | 3.00% | ~37 |
@@ -81,7 +81,7 @@ Rating: 3.94 (Ranked 902)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,237 (Ranked 160)  
+Progressed: 1,239 (Ranked 160)  
 Completed: 1 (0.08%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.08%) (Ranked 168)
 | 2023-05-28 | 1,207 | 1 |
 | 2023-05-29 | 1,220 | 1 |
 | 2023-05-30 | 1,227 | 1 |
-| 2023-05-31 | 1,237 | 1 |
+| 2023-05-31 | 1,239 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

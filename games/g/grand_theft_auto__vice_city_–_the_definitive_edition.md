@@ -5,19 +5,19 @@ Rating: 4.63 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,162 |
-| Greasy Palms | 39.00% | ~2,868 |
-| South American Connection | 23.00% | ~1,691 |
-| Life of the Party | 17.00% | ~1,250 |
-| Tommy Two-Wheels | 13.00% | ~956 |
-| Big Heat from Little Havana | 12.00% | ~882 |
-| Chauffeur | 12.00% | ~882 |
+| Legal Counsel | 43.00% | ~3,164 |
+| Greasy Palms | 39.00% | ~2,870 |
+| South American Connection | 23.00% | ~1,693 |
+| Life of the Party | 17.00% | ~1,251 |
+| Tommy Two-Wheels | 13.00% | ~957 |
+| Big Heat from Little Havana | 12.00% | ~883 |
+| Chauffeur | 12.00% | ~883 |
 | Iron-y | 9.00% | ~662 |
 | Salutations My Little Friend | 9.00% | ~662 |
 | Gun for Hire | 7.00% | ~515 |
 | Mischief Managed | 7.00% | ~515 |
-| Vice City Mogul | 6.00% | ~441 |
-| Bloodstained Hands | 6.00% | ~441 |
+| Vice City Mogul | 6.00% | ~442 |
+| Bloodstained Hands | 6.00% | ~442 |
 | Catch Me if You Can | 5.00% | ~368 |
 | Not my First Time | 4.00% | ~294 |
 | Grand Theft Auto | 4.00% | ~294 |
@@ -34,13 +34,13 @@ Rating: 4.63 (Ranked 327)
 | One is Better Than Two | 1.00% | ~74 |
 | Chopper’d Up | 1.00% | ~74 |
 | Daredevil | 0.80% | ~59 |
-| Born in the 80’s | 0.70% | ~51 |
-| Keepie-Uppy Okie Dokie | 0.70% | ~51 |
-| I'm Famous! | 0.70% | ~51 |
+| Born in the 80’s | 0.70% | ~52 |
+| Keepie-Uppy Okie Dokie | 0.70% | ~52 |
+| I'm Famous! | 0.70% | ~52 |
 | Done it All | 0.60% | ~44 |
 | Kingpin | 0.30% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,354 (Ranked 113)  
+Progressed: 7,359 (Ranked 113)  
 Completed: 25 (0.34%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 25 (0.34%) (Ranked 120)
 | 2023-05-28 | 7,140 | 24 |
 | 2023-05-29 | 7,217 | 24 |
 | 2023-05-30 | 7,284 | 24 |
-| 2023-05-31 | 7,354 | 25 |
+| 2023-05-31 | 7,359 | 25 |
 ## Awards
 Max (Great Boss Battles): 41  (Ranked 408)  
 Sum: 41 (Ranked 444)  

@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 386,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -215,6 +215,11 @@
       "Time": "2023-05-31T11:05:43.1844196+00:00",
       "NumProgressed": 385,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T23:06:50.9749609+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -226,7 +231,7 @@
       "Name": "Strength and Sorcery",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "assemble-team2",
@@ -234,7 +239,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "assemble-team3",
@@ -282,7 +287,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "different-items2",
@@ -304,9 +309,9 @@
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "finished-quest-flight",
@@ -314,7 +319,7 @@
       "Name": "Great Flight",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "finished-quest-monster",
@@ -322,7 +327,7 @@
       "Name": "Campaigning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "finished-quest-nurgle",
@@ -346,7 +351,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "finished-quest-reaper",
@@ -362,7 +367,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "finished-quest-secret",
@@ -394,7 +399,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "last-hero",
@@ -402,7 +407,7 @@
       "Name": "Last Man Standing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "save-zombie",
@@ -442,7 +447,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "win-first-level",
@@ -482,7 +487,7 @@
       "Name": "Through the Darkness",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "win-with-3-cultists",
@@ -505,7 +510,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 386,
       "Completed": 1
     }
   ],
@@ -513,8 +518,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:06:34.4866685+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:06:50.9749601+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:59:05.64345+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:06:34.486696+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:59:09.2791515+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:06:50.9750054+00:00"
 }

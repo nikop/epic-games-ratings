@@ -22,11 +22,11 @@
 | Her Eyes | 4.00% | ~15 |
 | Gollum/Sméagol | 4.00% | ~15 |
 | The Friend | 3.00% | ~11 |
+| Sweet Darkness | 2.00% | ~7 |
 | Master of the Old Game | 2.00% | ~7 |
 | So Silly! | 2.00% | ~7 |
 | Made a Song | 2.00% | ~7 |
 | Break a Leg! | 1.00% | ~4 |
-| Sweet Darkness | 1.00% | ~4 |
 | So Tasty! | 1.00% | ~4 |
 | And now we wish... | 0.80% | ~3 |
 | Nervous Hands | 0.50% | ~2 |

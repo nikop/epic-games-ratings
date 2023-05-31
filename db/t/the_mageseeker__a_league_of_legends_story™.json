@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 2234,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2354,9 +2354,9 @@
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 737
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2563,8 +2563,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:06:30.8901132+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:06:47.0079063+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:57:53.1320028+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:06:30.8902111+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:57:47.085854+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:06:47.0080197+00:00"
 }

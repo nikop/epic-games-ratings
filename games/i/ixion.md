@@ -6,7 +6,7 @@ Rating: 4.57 (Ranked 438)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 12.00% | ~280 |
-| Sputnik 2049 | 11.00% | ~256 |
+| Sputnik 2049 | 11.00% | ~257 |
 | Without Breaking Some Eggs... | 10.00% | ~233 |
 | Infinite Growth... | 10.00% | ~233 |
 | Space Society | 6.00% | ~140 |
@@ -16,10 +16,10 @@ Rating: 4.57 (Ranked 438)
 | Breaking Protocol | 5.00% | ~117 |
 | Ain't Nobody Got Time for That | 5.00% | ~117 |
 | Hope Seeker | 5.00% | ~117 |
+| A Hunk of Junk | 4.00% | ~93 |
 | Fully Recycled | 4.00% | ~93 |
 | Permanent Redesigns | 4.00% | ~93 |
 | The Ship of Theseus | 4.00% | ~93 |
-| A Hunk of Junk | 3.00% | ~70 |
 | Exceeding Capacity | 3.00% | ~70 |
 | Please Make it Stop! | 3.00% | ~70 |
 | Man's Best Friend | 2.00% | ~47 |
@@ -51,8 +51,8 @@ Rating: 4.57 (Ranked 438)
 | Scientifically Accurate | 0.40% | ~9 |
 | Better Him Than Me | 0.30% | ~7 |
 | Tiqqun Contender | 0.30% | ~7 |
+| Soylent Green | 0.30% | ~7 |
 | Remember the Dead | 0.20% | ~5 |
-| Soylent Green | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
 | I Give You the Stars | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,331 (Ranked 144)  
+Progressed: 2,333 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,331 | 0 |
+| 2023-05-31 | 2,333 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

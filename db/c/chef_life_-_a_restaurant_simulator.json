@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1054,6 +1054,11 @@
       "Time": "2023-05-31T20:01:04.0676268+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T23:01:49.5025299+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1113,7 +1118,7 @@
       "Name": "French Flair",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -1241,7 +1246,7 @@
       "Name": "The Big Day",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Packing20",
@@ -1263,9 +1268,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "RecipeDifferent30",
@@ -1384,7 +1389,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
@@ -1392,8 +1397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:01:23.4882887+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:01:49.5025293+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:58:45.0556513+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:01:23.4883507+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:58:48.381243+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:01:49.5025989+00:00"
 }

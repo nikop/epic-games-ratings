@@ -10,11 +10,11 @@
 | Off to a Good Start | 4.00% | ~7 |
 | Business as usual | 3.00% | ~5 |
 | A New Broom Sweeps Clean | 3.00% | ~5 |
+| Total Recall | 2.00% | ~4 |
 | Pride and Joy | 2.00% | ~4 |
 | Eyes Yet To Open | 2.00% | ~4 |
 | Hackathon | 2.00% | ~4 |
 | All the Stories | 1.00% | ~2 |
-| Total Recall | 1.00% | ~2 |
 | Something Rotten | 1.00% | ~2 |
 | Witness Protection | 1.00% | ~2 |
 | Mr. Hygeni | 1.00% | ~2 |

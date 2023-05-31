@@ -6,27 +6,27 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,886 |
-| Wallbanger | 5.00% | ~18,886 |
+| Point Shooting | 5.00% | ~18,887 |
+| Wallbanger | 5.00% | ~18,887 |
 | Exploitative | 4.00% | ~15,109 |
 | High Speed Low Drag | 4.00% | ~15,109 |
 | Wet Feet | 4.00% | ~15,109 |
-| Checkpoint Victory | 3.00% | ~11,331 |
-| Lucky | 3.00% | ~11,331 |
-| Stylin' | 3.00% | ~11,331 |
-| Turf War | 3.00% | ~11,331 |
-| Banged | 2.00% | ~7,554 |
-| First Blood | 2.00% | ~7,554 |
-| Flaccid Paralysis | 2.00% | ~7,554 |
-| Push Victory | 2.00% | ~7,554 |
-| Self-destructive | 2.00% | ~7,554 |
+| Checkpoint Victory | 3.00% | ~11,332 |
+| Lucky | 3.00% | ~11,332 |
+| Stylin' | 3.00% | ~11,332 |
+| Turf War | 3.00% | ~11,332 |
+| Banged | 2.00% | ~7,555 |
+| First Blood | 2.00% | ~7,555 |
+| Flaccid Paralysis | 2.00% | ~7,555 |
+| Push Victory | 2.00% | ~7,555 |
+| Self-destructive | 2.00% | ~7,555 |
 | Blindfire | 1.00% | ~3,777 |
 | Efficient | 1.00% | ~3,777 |
 | Ruthless | 1.00% | ~3,777 |
 | Semper Paratus | 1.00% | ~3,777 |
-| Carrying | 0.90% | ~3,399 |
-| Mount & Gun | 0.90% | ~3,399 |
-| Personal | 0.90% | ~3,399 |
+| Carrying | 0.90% | ~3,400 |
+| Mount & Gun | 0.90% | ~3,400 |
+| Personal | 0.90% | ~3,400 |
 | Grounded | 0.80% | ~3,022 |
 | Play to Win | 0.80% | ~3,022 |
 | #1 | 0.70% | ~2,644 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~378 |
 | Road Hazard | 0.10% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,714 (Ranked 37)  
+Progressed: 377,737 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 2 (0.00%) (Ranked 208)
 | 2023-05-28 | 376,041 | 2 |
 | 2023-05-29 | 376,702 | 2 |
 | 2023-05-30 | 377,224 | 2 |
-| 2023-05-31 | 377,714 | 2 |
+| 2023-05-31 | 377,737 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 355  (Ranked 211)  
 Sum: 2,687 (Ranked 162)  

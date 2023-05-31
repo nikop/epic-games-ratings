@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1962,
+  "EOS_Progressed": 1964,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2072,6 +2072,11 @@
       "Time": "2023-05-31T21:06:26.7943212+00:00",
       "NumProgressed": 1962,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T23:06:46.1210349+00:00",
+      "NumProgressed": 1964,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2131,7 +2136,7 @@
       "Name": "Fields of Glory",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2299,7 +2304,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2315,7 +2320,7 @@
       "Name": "Der Geist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2331,7 +2336,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2339,7 +2344,7 @@
       "Name": "Close Quarters",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2347,7 +2352,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2395,7 +2400,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2545,9 +2550,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -2650,13 +2655,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1913,
+      "Progressed": 1915,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1962,
+      "Progressed": 1964,
       "Completed": 2
     }
   ],
@@ -2664,8 +2669,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-05-31T22:06:30.0824988+00:00",
+  "LastChanged_Achievements": "2023-05-31T23:06:46.1210346+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:01:08.6478255+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:06:30.082604+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:01:31.0704238+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:06:46.1211196+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
   "Ranking_Rating": 30,
-  "Ranking_Popularity": 122,
+  "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 208,
@@ -1124,6 +1124,6 @@
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
   "LastChanged": "2023-05-31T18:57:22.9794175+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.4443129+00:00",
-  "LastUpdate_Ratings": "2023-05-31T21:57:39.4912917+00:00",
-  "LastUpdate_Achievements": "2023-05-31T22:01:28.8999845+00:00"
+  "LastUpdate_Ratings": "2023-05-31T22:57:32.3779176+00:00",
+  "LastUpdate_Achievements": "2023-05-31T23:01:55.7136294+00:00"
 }
