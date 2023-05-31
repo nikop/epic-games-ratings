@@ -4,8 +4,8 @@
   "ProductSlug": "discord",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.4748253+00:00",
   "LastChanged": "2023-03-31T05:57:45.4748254+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.088165+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:49.3204997+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:00:41.4663503+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:19:01.4462826+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:22:27.7719354+00:00"
 }

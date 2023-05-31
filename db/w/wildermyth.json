@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1226,
+  "EOS_Progressed": 1227,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -685,6 +685,11 @@
       "Time": "2023-05-31T00:05:56.0712561+00:00",
       "NumProgressed": 1226,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-31T02:27:22.4434242+00:00",
+      "NumProgressed": 1227,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -758,9 +763,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -886,9 +891,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -918,9 +923,9 @@
       "ID": "completedStory_cvawn",
       "SetID": "95dc8p",
       "Name": "In Soil, In Smoke",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 61
     },
     {
       "ID": "completedStory_ecthis",
@@ -1143,15 +1148,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1226,
+      "Progressed": 1227,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:05:56.0712557+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:27:22.4434233+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-31T00:00:39.6802845+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:05:56.0713074+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:22:22.6616757+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:27:22.443513+00:00"
 }

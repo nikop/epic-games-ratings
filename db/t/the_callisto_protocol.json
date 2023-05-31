@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 834,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 332,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 80,
@@ -438,10 +438,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 277,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-31T02:18:57.4894105+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 280,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 277,
+  "NumberOfAwards": 280,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -455,7 +461,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -473,7 +479,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 49
     },
     {
       "Text": "This game has Challenging Combat",
@@ -488,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14082,
+  "EOS_Progressed": 14087,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2188,6 +2194,11 @@
       "Time": "2023-05-31T00:03:57.2836984+00:00",
       "NumProgressed": 14082,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-31T02:25:00.8761775+00:00",
+      "NumProgressed": 14087,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2231,7 +2242,7 @@
       "Name": "Flesh Wound",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2335,7 +2346,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2359,7 +2370,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2407,7 +2418,7 @@
       "Name": "Without A Paddle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "STORY_HANGAR",
@@ -2471,7 +2482,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2479,7 +2490,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2518,22 +2529,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14082,
+      "Progressed": 14087,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2008,
+      "Progressed": 2013,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-30T21:57:41.790701+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:03:57.2836979+00:00",
+  "LastChanged": "2023-05-31T02:18:57.4894102+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:25:00.8761769+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:46.9458303+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:03:57.2837371+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:18:57.4894112+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:25:00.8762567+00:00"
 }

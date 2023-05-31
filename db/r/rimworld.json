@@ -4,11 +4,11 @@
   "ProductSlug": "rimworld",
   "Ranking_Rating": 13,
   "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-06-09T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1556,10 +1556,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 3669,
       "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-05-31T02:18:57.2974613+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 3670,
+      "NumberOfAwardsMax": 409
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3669,
+  "NumberOfAwards": 3670,
   "NumberOfAwardsMax": 409,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1621,7 +1627,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 332
+      "Count": 333
     },
     {
       "Text": "This game has a Creative Community",
@@ -1641,8 +1647,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2023-05-29T13:02:58.078856+00:00",
+  "LastChanged": "2023-05-31T02:18:57.2974611+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.952563+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:46.7919122+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:04:32.6821488+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:18:57.2974617+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:25:42.8054811+00:00"
 }

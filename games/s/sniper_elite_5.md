@@ -5,25 +5,25 @@ Rating: 4.45 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 23.00% | ~438 |
-| Confirming Suspicions | 18.00% | ~343 |
+| Meeting Resistance | 23.00% | ~439 |
+| Confirming Suspicions | 18.00% | ~344 |
 | The Kraken Wakes | 14.00% | ~267 |
 | It's Starting to Crack | 11.00% | ~210 |
-| Lord of War | 10.00% | ~190 |
-| Resourceful | 9.00% | ~171 |
-| Change the Channel | 9.00% | ~171 |
-| Taking it back | 8.00% | ~152 |
-| Enemy at the Gates | 7.00% | ~133 |
-| Organ Grinder | 7.00% | ~133 |
-| As Quiet as a Mouse | 7.00% | ~133 |
-| Just a Flesh Wound | 6.00% | ~114 |
-| Explosive Efficiency | 6.00% | ~114 |
-| Target America | 6.00% | ~114 |
+| Lord of War | 10.00% | ~191 |
+| Resourceful | 9.00% | ~172 |
+| Change the Channel | 9.00% | ~172 |
+| Taking it back | 8.00% | ~153 |
+| Enemy at the Gates | 7.00% | ~134 |
+| Organ Grinder | 7.00% | ~134 |
+| As Quiet as a Mouse | 7.00% | ~134 |
+| Just a Flesh Wound | 6.00% | ~115 |
+| Explosive Efficiency | 6.00% | ~115 |
+| Target America | 6.00% | ~115 |
+| Opposing Force | 5.00% | ~95 |
 | Gunslinger | 5.00% | ~95 |
 | Sharpshooter | 5.00% | ~95 |
 | The Kraken Sleeps | 5.00% | ~95 |
 | Liberté | 4.00% | ~76 |
-| Opposing Force | 4.00% | ~76 |
 | Fields of Glory | 4.00% | ~76 |
 | Die Nussknacker Sweet! | 4.00% | ~76 |
 | Der Geist | 4.00% | ~76 |
@@ -49,18 +49,18 @@ Rating: 4.45 (Ranked 607)
 | From Paris with Love | 0.60% | ~11 |
 | Tinkerer | 0.60% | ~11 |
 | Don't hold your breath | 0.60% | ~11 |
+| Up close and personal | 0.50% | ~10 |
 | Last Resort | 0.50% | ~9 |
 | Burn after reading | 0.40% | ~8 |
 | Souvenir hunter | 0.40% | ~8 |
 | Eagle Eyed | 0.40% | ~8 |
-| Up close and personal | 0.40% | ~8 |
 | Shoot for the Moon | 0.30% | ~6 |
 | Can't Outrun A Bullet | 0.30% | ~6 |
+| Reich To The Point | 0.30% | ~6 |
 | If You Go Down To The Woods Today | 0.30% | ~6 |
 | Fight Another Day | 0.30% | ~6 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~4 |
-| Reich To The Point | 0.20% | ~4 |
 | Covert Elimination | 0.20% | ~4 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 607)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,905 (Ranked 151)  
+Progressed: 1,909 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 2 (0.10%) (Ranked 158)
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
-| 2023-05-31 | 1,905 | 2 |
+| 2023-05-31 | 1,909 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

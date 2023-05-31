@@ -15,8 +15,8 @@
 | Settle Down | 49.00% | ~17 |
 | Butter Fingers | 43.00% | ~15 |
 | True Story! | 34.00% | ~12 |
+| Kick It | 29.00% | ~10 |
 | Grand Slam! | 26.00% | ~9 |
-| Kick It | 26.00% | ~9 |
 | Have Mercy | 23.00% | ~8 |
 | Bedroom Secret Spot | 20.00% | ~7 |
 | Save some water for the fishies | 20.00% | ~7 |
@@ -29,13 +29,13 @@
 | Living Room Secret Spot | 6.00% | ~2 |
 | Angry Dad | 6.00% | ~2 |
 | At least everyone still had fun | 6.00% | ~2 |
+| Garage Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
 | Found the Secret Formula! | 3.00% | ~1 |
 | Goooooooooal! | 3.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
-| Garage Secret Spot | 0.00% | ~0 |
 | You broke it, you bought it | 0.00% | ~0 |
 | Hi Hungry, I'm Dad | 0.00% | ~0 |
 | Nice! | 0.00% | ~0 |

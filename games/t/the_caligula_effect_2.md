@@ -6,17 +6,17 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 97.00% | ~223 |
-| Daily Life Begins Anew | 81.00% | ~186 |
-| Our World Now | 81.00% | ~186 |
-| Never Saw It Coming | 66.00% | ~152 |
-| Coup de Grace | 58.00% | ~133 |
-| Go-Home Club Activities START! | 49.00% | ~113 |
+| Welcome to Redo | 97.00% | ~224 |
+| Daily Life Begins Anew | 81.00% | ~187 |
+| Our World Now | 81.00% | ~187 |
+| Never Saw It Coming | 65.00% | ~150 |
+| Coup de Grace | 58.00% | ~134 |
+| Go-Home Club Activities START! | 48.00% | ~111 |
 | Philanthropist | 40.00% | ~92 |
-| Test Your Luck | 34.00% | ~78 |
+| Test Your Luck | 34.00% | ~79 |
 | Behind the Curtain | 32.00% | ~74 |
 | Master of Surprise | 30.00% | ~69 |
-| Be Who You Wanna Be | 27.00% | ~62 |
+| Be Who You Wanna Be | 26.00% | ~60 |
 | Counter Champion | 26.00% | ~60 |
 | Friendly Neighborhood | 24.00% | ~55 |
 | Nice Doing Business | 24.00% | ~55 |
@@ -24,16 +24,16 @@ Number of Ratings: 32  (23.09.2022)
 | Combo Commando | 24.00% | ~55 |
 | One-Track Mind | 23.00% | ~53 |
 | Stay Winning | 23.00% | ~53 |
-| WIRE Guru | 21.00% | ~48 |
-| Depths of the Heart | 20.00% | ~46 |
+| WIRE Guru | 21.00% | ~49 |
 | The Greater Good | 19.00% | ~44 |
 | Selfish Decisions | 19.00% | ~44 |
+| Depths of the Heart | 19.00% | ~44 |
 | Extracurricular Affair | 19.00% | ~44 |
 | Lost Souls For Sale | 19.00% | ~44 |
-| Pulling Heartstrings | 18.00% | ~41 |
-| Trigger Finger | 18.00% | ~41 |
-| Hopes Rewarded | 17.00% | ~39 |
+| Pulling Heartstrings | 18.00% | ~42 |
+| Trigger Finger | 18.00% | ~42 |
 | Guarding Guru | 17.00% | ~39 |
+| Hopes Rewarded | 16.00% | ~37 |
 | Hustled and Bustled | 12.00% | ~28 |
 | To Each Their Own | 11.00% | ~25 |
 | Eat Your Heart Out | 10.00% | ~23 |
@@ -42,8 +42,8 @@ Number of Ratings: 32  (23.09.2022)
 | Prince of Lettuce | 8.00% | ~18 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~18 |
 | Redo Redone | 7.00% | ~16 |
-| Songstress Unleashed | 7.00% | ~16 |
-| Executive Privilege | 7.00% | ~16 |
+| Songstress Unleashed | 6.00% | ~14 |
+| Executive Privilege | 6.00% | ~14 |
 | For the Love of Regret | 4.00% | ~9 |
 | Building Bridges | 3.00% | ~7 |
 | Birth of a Salesman | 3.00% | ~7 |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 232)  
+Progressed: 231 (Ranked 232)  
 Completed: 2 (0.87%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 2 (0.87%) (Ranked 91)
 | 2023-04-25 | 228 | 2 |
 | 2023-05-22 | 229 | 2 |
 | 2023-05-26 | 230 | 2 |
+| 2023-05-31 | 231 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

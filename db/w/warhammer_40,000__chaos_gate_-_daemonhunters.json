@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 420,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -460,10 +460,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 419,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-05-31T02:19:57.8956229+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 420,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 419,
+  "NumberOfAwards": 420,
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -477,7 +483,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -522,7 +528,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2793,
+  "EOS_Progressed": 2794,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -1382,6 +1388,11 @@
       "Time": "2023-05-30T23:06:25.6790814+00:00",
       "NumProgressed": 2793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T02:27:46.8757963+00:00",
+      "NumProgressed": 2794,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1721,7 +1732,7 @@
       "Name": "Efficient Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1864,21 +1875,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2793,
+      "Progressed": 2794,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2793,
+      "Progressed": 2794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:06:17.0463622+00:00",
+  "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:27:46.8757955+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:58:36.2427162+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:06:17.0464308+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:19:57.8956234+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:27:46.8759018+00:00"
 }

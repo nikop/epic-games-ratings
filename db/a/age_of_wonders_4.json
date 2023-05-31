@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3984,
+  "EOS_Progressed": 3985,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2524,6 +2524,11 @@
       "Time": "2023-05-31T00:04:17.7854655+00:00",
       "NumProgressed": 3984,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T02:25:25.3048478+00:00",
+      "NumProgressed": 3985,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2535,7 +2540,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "10",
@@ -2583,7 +2588,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "16",
@@ -2639,7 +2644,7 @@
       "Name": "Eternal Lord",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "22",
@@ -2647,7 +2652,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "23",
@@ -2655,23 +2660,23 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2989
     },
     {
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2909
     },
     {
       "ID": "26",
@@ -2679,7 +2684,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "27",
@@ -2687,7 +2692,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "28",
@@ -2695,7 +2700,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "29",
@@ -2703,7 +2708,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "3",
@@ -2711,7 +2716,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "30",
@@ -2733,9 +2738,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1714
     },
     {
       "ID": "33",
@@ -2751,7 +2756,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "35",
@@ -2775,7 +2780,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "38",
@@ -2789,9 +2794,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 1036
     },
     {
       "ID": "4",
@@ -2807,7 +2812,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "41",
@@ -2886,13 +2891,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3984,
-      "Completed": 3984
+      "Progressed": 3985,
+      "Completed": 3985
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3984,
+      "Progressed": 3985,
       "Completed": 0
     }
   ],
@@ -2900,8 +2905,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-28T10:59:16.0669024+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:04:17.7854651+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:25:25.3048473+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:59:25.8364493+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:04:17.7855175+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:20:57.1081758+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:25:25.3049005+00:00"
 }

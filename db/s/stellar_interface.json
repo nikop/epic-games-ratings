@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -121,6 +121,11 @@
       "Time": "2023-05-30T04:05:46.2934336+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T02:27:54.2906578+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -154,7 +159,7 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -466,7 +471,7 @@
       "ID": "ConsumableUsed10TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Alpha",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -498,9 +503,9 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DoveSpacecraftUnlockAchievement",
@@ -690,7 +695,7 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -738,9 +743,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -754,9 +759,9 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -794,9 +799,9 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Killed50BossesAchievement",
@@ -826,9 +831,9 @@
       "ID": "NoHealthLostIn3LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Stoic",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PerksUnlocked10Achievement",
@@ -858,9 +863,9 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1082,7 +1087,7 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1114,9 +1119,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1170,7 +1175,7 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1187,14 +1192,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:06:23.927981+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:27:54.2906571+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.465604+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:58:41.6291851+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:06:23.9281741+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:20:04.4534569+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:27:54.2910072+00:00"
 }

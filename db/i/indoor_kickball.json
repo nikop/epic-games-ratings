@@ -4,8 +4,8 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "16",
       "SetID": "39djiaj",
       "Name": "Kick It",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "17",
@@ -288,9 +288,9 @@
       "ID": "24",
       "SetID": "39djiaj",
       "Name": "Garage Secret Spot",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "25",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:05:54.1794171+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:27:20.2734722+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:59:07.6479632+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:05:54.1794496+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:20:35.9491194+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:27:20.2735154+00:00"
 }

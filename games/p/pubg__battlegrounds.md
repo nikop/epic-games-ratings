@@ -5,22 +5,22 @@ Rating: 3.98 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 75.00% | ~284,060 |
-| Health Junkie | 45.00% | ~170,436 |
-| You Complete Me | 41.00% | ~155,286 |
-| Guardian Angel | 39.00% | ~147,711 |
-| Devil Inside Me | 31.00% | ~117,412 |
-| Killing Spree | 22.00% | ~83,324 |
-| Fantastic Four | 21.00% | ~79,537 |
-| Marksman Novice | 20.00% | ~75,749 |
-| Top 10 | 14.00% | ~53,025 |
-| First Blood | 13.00% | ~49,237 |
-| Now You See Me, Now You Don't | 12.00% | ~45,450 |
-| Marksman Expert | 9.00% | ~34,087 |
-| CQB Novice | 8.00% | ~30,300 |
-| Collateral Damage | 7.00% | ~26,512 |
-| Airborne | 6.00% | ~22,725 |
-| Pacifist | 6.00% | ~22,725 |
+| Blood on My Hands | 75.00% | ~284,069 |
+| Health Junkie | 45.00% | ~170,442 |
+| You Complete Me | 41.00% | ~155,291 |
+| Guardian Angel | 39.00% | ~147,716 |
+| Devil Inside Me | 31.00% | ~117,415 |
+| Killing Spree | 22.00% | ~83,327 |
+| Fantastic Four | 21.00% | ~79,539 |
+| Marksman Novice | 20.00% | ~75,752 |
+| Top 10 | 14.00% | ~53,026 |
+| First Blood | 13.00% | ~49,239 |
+| Now You See Me, Now You Don't | 12.00% | ~45,451 |
+| Marksman Expert | 9.00% | ~34,088 |
+| CQB Novice | 8.00% | ~30,301 |
+| Collateral Damage | 7.00% | ~26,513 |
+| Airborne | 6.00% | ~22,726 |
+| Pacifist | 6.00% | ~22,726 |
 | Last Survivor | 4.00% | ~15,150 |
 | Marksman Master | 4.00% | ~15,150 |
 | Trigonometry Novice | 4.00% | ~15,150 |
@@ -32,18 +32,18 @@ Rating: 3.98 (Ranked 896)
 | Don't Pan Me Bro! | 2.00% | ~7,575 |
 | Fast and Furious | 2.00% | ~7,575 |
 | CQB Expert | 2.00% | ~7,575 |
-| Fury Road | 1.00% | ~3,787 |
-| Ghost | 1.00% | ~3,787 |
-| Cruising with the Enemy | 1.00% | ~3,787 |
+| Fury Road | 1.00% | ~3,788 |
+| Ghost | 1.00% | ~3,788 |
+| Cruising with the Enemy | 1.00% | ~3,788 |
 | Nade King Novice | 0.70% | ~2,651 |
-| Master Assassin | 0.60% | ~2,272 |
+| Master Assassin | 0.60% | ~2,273 |
 | CQB Master | 0.30% | ~1,136 |
 | Nade King Master | 0.10% | ~379 |
 | Nade King Expert | 0.10% | ~379 |
 | The First Rule Is… | 0.10% | ~379 |
 | Shoot the Knee | 0.10% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378,747 (Ranked 36)  
+Progressed: 378,759 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,17 +84,17 @@ Completed: 8 (0.00%) (Ranked 207)
 | 2023-05-28 | 376,784 | 8 |
 | 2023-05-29 | 377,782 | 8 |
 | 2023-05-30 | 378,725 | 8 |
-| 2023-05-31 | 378,747 | 8 |
+| 2023-05-31 | 378,759 | 8 |
 ## Awards
 Max (Competitive Players): 2,075  (Ranked 103)  
-Sum: 8,648 (Ranked 85)  
-Diff (max vs sum): 18  
+Sum: 8,660 (Ranked 84)  
+Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 2,075 |
 | This game has Quickly Understood Controls | 1,916 |
 | This game has Challenging Combat | 1,815 |
-| This game is Highly Recommended | 1,669 |
+| This game is Highly Recommended | 1,681 |
 | This game has a Competitive Community | 1,173 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -195,3 +195,4 @@ Diff (max vs sum): 18
 | 2023-05-28 | 3.98 | 2,066 | 8,578 |
 | 2023-05-29 | 3.98 | 2,066 | 8,617 |
 | 2023-05-30 | 3.98 | 2,075 | 8,648 |
+| 2023-05-31 | 3.98 | 2,075 | 8,660 |

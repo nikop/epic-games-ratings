@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364 (Ranked 211)  
+Progressed: 364 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -874,6 +874,11 @@
       "Time": "2023-05-30T20:03:34.0340302+00:00",
       "NumProgressed": 325,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-31T02:24:51.6892381+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -885,7 +890,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "MQ01_2",
@@ -893,7 +898,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MQ02_1",
@@ -901,7 +906,7 @@
       "Name": "High Profile",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "MQ02_2",
@@ -941,15 +946,15 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 143
     },
     {
       "ID": "MQ03_4",
@@ -957,7 +962,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "MQ03_5",
@@ -965,15 +970,15 @@
       "Name": "A Method To His Madness",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 108
     },
     {
       "ID": "MQ04_2",
@@ -1003,9 +1008,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 121
     },
     {
       "ID": "MQ05_3",
@@ -1045,7 +1050,7 @@
       "Name": "Land, Ho!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "MQ06_4",
@@ -1108,7 +1113,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 13
     }
   ],
@@ -1116,8 +1121,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:03:49.4153735+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:24:51.6892373+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:08.8162779+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:03:49.4153965+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:18:12.4196881+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:24:51.6892786+00:00"
 }

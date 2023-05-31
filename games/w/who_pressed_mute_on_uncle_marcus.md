@@ -9,17 +9,17 @@
 | Job one. DONE! | 57.00% | ~95 |
 | You are Carol Vorderman | 54.00% | ~90 |
 | Toby foolery | 49.00% | ~82 |
-| Don't fear the baldness | 36.00% | ~60 |
-| Instinct | 35.00% | ~58 |
-| Blow | 30.00% | ~50 |
-| Just like me | 29.00% | ~48 |
-| I bless the rain down in London | 27.00% | ~45 |
+| Don't fear the baldness | 37.00% | ~62 |
+| Instinct | 36.00% | ~60 |
+| Blow | 31.00% | ~52 |
+| Just like me | 30.00% | ~50 |
+| I bless the rain down in London | 28.00% | ~47 |
 | Brown nosing | 26.00% | ~43 |
 | Delusions | 26.00% | ~43 |
 | Cheat | 25.00% | ~42 |
 | Prove it | 22.00% | ~37 |
 | The truth | 22.00% | ~37 |
-| Making a murderer | 15.00% | ~25 |
+| Making a murderer | 16.00% | ~27 |
 | The whole truth | 11.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 167 (Ranked 251)  

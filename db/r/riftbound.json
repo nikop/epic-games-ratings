@@ -2,10 +2,10 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "ProductSlug": "riftbound-db891d",
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
     "PcReleaseDate": "2022-05-12T13:00:00+00:00",
@@ -252,9 +252,9 @@
       "ID": "ACH_GettingGoodAtThis",
       "SetID": "1od64h3",
       "Name": "Getting Good At This",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HoldTheLine",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:04:27.4990168+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:25:36.6938319+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.3148737+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:08.0446921+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:04:27.4990386+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:18:11.5307649+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:25:36.6938646+00:00"
 }

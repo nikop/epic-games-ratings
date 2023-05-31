@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 9.00% | ~1,267 |
+| Flesh Wound | 9.00% | ~1,268 |
 | The Outer Way | 7.00% | ~986 |
 | Desperate Times | 7.00% | ~986 |
 | Chew 'Em Up | 6.00% | ~845 |
@@ -15,11 +15,11 @@ Rating: 4.18 (Ranked 834)
 | Reforged | 5.00% | ~704 |
 | Get a Grip | 4.00% | ~563 |
 | If the SHU Fits... | 4.00% | ~563 |
-| Instigator | 4.00% | ~80 |
-| Big Game Hunter | 4.00% | ~80 |
-| Terminated | 3.00% | ~422 |
-| Float Like A Butterfly | 3.00% | ~422 |
-| Without A Paddle | 3.00% | ~422 |
+| Instigator | 4.00% | ~81 |
+| Big Game Hunter | 4.00% | ~81 |
+| Terminated | 3.00% | ~423 |
+| Float Like A Butterfly | 3.00% | ~423 |
+| Without A Paddle | 3.00% | ~423 |
 | Bear Trap | 3.00% | ~60 |
 | You Need a Gun | 2.00% | ~282 |
 | Two Heads Are Better Than One | 2.00% | ~282 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 834)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,082 (Ranked 102)  
+Progressed: 14,087 (Ranked 102)  
 Completed: 53 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,17 +86,17 @@ Completed: 53 (0.38%) (Ranked 114)
 | 2023-05-28 | 13,925 | 53 |
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
-| 2023-05-31 | 14,082 | 53 |
+| 2023-05-31 | 14,087 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
-Sum: 277 (Ranked 332)  
-Diff (max vs sum): 56  
+Sum: 280 (Ranked 329)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
-| This game has Amazing Storytelling | 47 |
+| This game has Amazing Storytelling | 49 |
 | This game has Amazing Characters | 45 |
-| This game is Extremely Fun | 42 |
+| This game is Extremely Fun | 43 |
 | This game has Quickly Understood Controls | 41 |
 | This game has Challenging Combat | 32 |
 | This game has a Creative Community | 20 |
@@ -156,3 +156,4 @@ Diff (max vs sum): 56
 | 2023-05-28 | 4.19 | 47 | 272 |
 | 2023-05-29 | 4.18 | 47 | 273 |
 | 2023-05-30 | 4.18 | 50 | 277 |
+| 2023-05-31 | 4.18 | 50 | 280 |

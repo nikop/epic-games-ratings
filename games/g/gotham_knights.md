@@ -6,8 +6,8 @@ Rating: 4.17 (Ranked 840)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 3.00% | ~1,888 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,258 |
-| Loose Ends | 2.00% | ~1,258 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,259 |
+| Loose Ends | 2.00% | ~1,259 |
 | The Batman Family | 1.00% | ~629 |
 | Something in the Clay | 1.00% | ~629 |
 | The Show Mud Go On | 1.00% | ~629 |
@@ -24,16 +24,16 @@ Rating: 4.17 (Ranked 840)
 | Protector of Gotham | 0.90% | ~566 |
 | Universal Health Scare | 0.90% | ~566 |
 | From Inside Gotham's Walls | 0.90% | ~566 |
-| Rock and a Hard Place | 0.80% | ~503 |
-| Not On My Watch | 0.80% | ~503 |
-| Shock Til They Drop | 0.80% | ~503 |
-| Cooldown | 0.80% | ~503 |
-| Voiceless | 0.80% | ~503 |
-| Seeking Asylum | 0.80% | ~503 |
-| Gotham Knight | 0.80% | ~503 |
-| End of an Era | 0.70% | ~440 |
-| In Your Element | 0.70% | ~440 |
-| Bulldozed | 0.70% | ~440 |
+| Rock and a Hard Place | 0.80% | ~504 |
+| Not On My Watch | 0.80% | ~504 |
+| Shock Til They Drop | 0.80% | ~504 |
+| Cooldown | 0.80% | ~504 |
+| Voiceless | 0.80% | ~504 |
+| Seeking Asylum | 0.80% | ~504 |
+| Gotham Knight | 0.80% | ~504 |
+| End of an Era | 0.70% | ~441 |
+| In Your Element | 0.70% | ~441 |
+| Bulldozed | 0.70% | ~441 |
 | Drone You Out | 0.60% | ~378 |
 | Gotham City Confidential | 0.60% | ~378 |
 | Out of Their League | 0.50% | ~315 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,919 (Ranked 70)  
-Completed: 91 (0.14%) (Ranked 151)  
+Progressed: 62,938 (Ranked 70)  
+Completed: 92 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,18 +108,18 @@ Completed: 91 (0.14%) (Ranked 151)
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
 | 2023-05-30 | 62,912 | 91 |
-| 2023-05-31 | 62,919 | 91 |
+| 2023-05-31 | 62,938 | 92 |
 ## Awards
 Max (Great Boss Battles): 2,263  (Ranked 98)  
-Sum: 3,749 (Ranked 138)  
+Sum: 3,752 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,263 |
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
-| This game has Quickly Understood Controls | 191 |
-| This game has Amazing Characters | 189 |
+| This game has Quickly Understood Controls | 192 |
+| This game has Amazing Characters | 191 |
 | This game has Diverse Characters | 183 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 180 |
@@ -227,3 +227,4 @@ Diff (max vs sum): -40
 | 2023-05-28 | 4.17 | 2,254 | 3,737 |
 | 2023-05-29 | 4.17 | 2,254 | 3,740 |
 | 2023-05-30 | 4.17 | 2,263 | 3,749 |
+| 2023-05-31 | 4.17 | 2,263 | 3,752 |

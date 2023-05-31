@@ -6,9 +6,9 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,910 |
-| Sweet Sorrow | 18.00% | ~5,455 |
-| Rules the Waves | 17.00% | ~5,152 |
+| Sink Beneath the Waves | 36.00% | ~10,912 |
+| Sweet Sorrow | 18.00% | ~5,456 |
+| Rules the Waves | 17.00% | ~5,153 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,546 |
 | Rival | 14.00% | ~4,243 |
 | Correspondent | 12.00% | ~3,637 |
@@ -18,13 +18,13 @@ Number of Ratings: 401  (23.09.2022)
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,334 |
 | The Fall of the House | 11.00% | ~3,334 |
 | Shipmate | 11.00% | ~3,334 |
-| One Year at Zee | 8.00% | ~2,424 |
-| Pupil | 7.00% | ~2,121 |
-| Salvager | 7.00% | ~2,121 |
-| Open Your Ears | 7.00% | ~2,121 |
-| The Ascent of Man | 7.00% | ~2,121 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,515 |
-| Zee Fever | 5.00% | ~1,515 |
+| One Year at Zee | 8.00% | ~2,425 |
+| Pupil | 7.00% | ~2,122 |
+| Salvager | 7.00% | ~2,122 |
+| Open Your Ears | 7.00% | ~2,122 |
+| The Ascent of Man | 7.00% | ~2,122 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,516 |
+| Zee Fever | 5.00% | ~1,516 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,212 |
 | Storm's Curse | 3.00% | ~909 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~909 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~30 |
 | Ten Years at Zee | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,305 (Ranked 87)  
+Progressed: 30,310 (Ranked 87)  
 Completed: 3 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,11 +102,11 @@ Completed: 3 (0.01%) (Ranked 196)
 | 2023-05-28 | 30,148 | 3 |
 | 2023-05-29 | 30,232 | 3 |
 | 2023-05-30 | 30,301 | 3 |
-| 2023-05-31 | 30,305 | 3 |
+| 2023-05-31 | 30,310 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
-Sum: 278 (Ranked 330)  
-Diff (max vs sum): -76  
+Sum: 278 (Ranked 331)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |

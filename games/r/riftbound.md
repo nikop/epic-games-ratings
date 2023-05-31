@@ -7,7 +7,7 @@
 | Adventure Time | 92.00% | ~24 |
 | Master Of The Arts | 73.00% | ~19 |
 | Close Call | 31.00% | ~8 |
-| Getting Good At This | 12.00% | ~3 |
+| Getting Good At This | 15.00% | ~4 |
 | Ender Ender | 4.00% | ~1 |
 | Evolution Revolution | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
@@ -32,7 +32,7 @@
 | Who's The Boss? | 0.00% | ~0 |
 | Worker Wisp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 321)  
+Progressed: 26 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

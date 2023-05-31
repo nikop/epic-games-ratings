@@ -6,24 +6,24 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,370 |
-| Self-Improvement | 71.00% | ~1,118 |
+| Unforgiven | 87.00% | ~1,371 |
+| Self-Improvement | 71.00% | ~1,119 |
 | Perky | 66.00% | ~1,040 |
-| Let’s Ride | 60.00% | ~945 |
-| Welcome to the Weird West | 58.00% | ~913 |
-| Dead or Alive | 56.00% | ~882 |
+| Let’s Ride | 60.00% | ~946 |
+| Welcome to the Weird West | 58.00% | ~914 |
+| Dead or Alive | 56.00% | ~883 |
 | Full House | 37.00% | ~583 |
 | Off the Trail | 34.00% | ~536 |
-| Justice Served | 29.00% | ~457 |
-| Chain Reaction | 27.00% | ~425 |
+| Justice Served | 28.00% | ~441 |
+| Chain Reaction | 27.00% | ~426 |
 | Scholar | 25.00% | ~394 |
 | Through Their Eyes | 25.00% | ~394 |
 | Dishonored | 24.00% | ~378 |
 | Rain of Death | 24.00% | ~378 |
 | The Great Escape | 23.00% | ~362 |
 | That’s All, Folks | 18.00% | ~284 |
+| Fallen Star | 16.00% | ~252 |
 | Winds of War | 16.00% | ~252 |
-| Fallen Star | 15.00% | ~236 |
 | For Balance | 15.00% | ~236 |
 | Here Comes Santa Claus | 15.00% | ~236 |
 | Dog Days | 13.00% | ~205 |
@@ -43,7 +43,7 @@ Number of Ratings: 125  (23.09.2022)
 | Getting the Gang Back Together | 7.00% | ~110 |
 | Monster Hunter | 7.00% | ~110 |
 | Knuckle Sandwich | 7.00% | ~110 |
-| Who You Gonna Call? | 6.00% | ~94 |
+| Who You Gonna Call? | 6.00% | ~95 |
 | Healing Old Wounds | 5.00% | ~79 |
 | This Is Sparta | 5.00% | ~79 |
 | What’s in the Box? | 5.00% | ~79 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,575 (Ranked 155)  
+Progressed: 1,576 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-28 | 1,562 | 2 |
 | 2023-05-29 | 1,571 | 2 |
 | 2023-05-30 | 1,575 | 2 |
+| 2023-05-31 | 1,576 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 471)  

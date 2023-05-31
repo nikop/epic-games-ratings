@@ -21,7 +21,7 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 10.00% | ~279 |
 | Gunmaster | 10.00% | ~279 |
 | A Foul Creche | 10.00% | ~279 |
-| Efficient Killer | 8.00% | ~223 |
+| Efficient Killer | 8.00% | ~224 |
 | Opportunist | 7.00% | ~196 |
 | Just a Scratch | 7.00% | ~196 |
 | Hold Your Ground | 6.00% | ~168 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,793 (Ranked 137)  
+Progressed: 2,794 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,14 +102,15 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 2,736 | 0 |
 | 2023-05-29 | 2,765 | 0 |
 | 2023-05-30 | 2,793 | 0 |
+| 2023-05-31 | 2,794 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
-Sum: 419 (Ranked 299)  
-Diff (max vs sum): -45  
+Sum: 420 (Ranked 298)  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |
-| This game is Extremely Fun | 30 |
+| This game is Extremely Fun | 31 |
 | This game has Amazing Storytelling | 29 |
 | This game is Highly Recommended | 28 |
 | This game has Amazing Characters | 27 |
@@ -195,3 +196,4 @@ Diff (max vs sum): -45
 | 2023-05-08 | 4.58 | - | 208 | 417 |
 | 2023-05-17 | 4.58 | - | 209 | 418 |
 | 2023-05-25 | 4.58 | - | 209 | 419 |
+| 2023-05-31 | 4.58 | - | 209 | 420 |

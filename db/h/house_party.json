@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 5273,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1925,9 +1925,9 @@
       "ID": "Pat_Relentless",
       "SetID": "bmkn7o4",
       "Name": "Relentless",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "Penguinfucker",
@@ -2171,8 +2171,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:03:26.0158129+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:24:23.7041411+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:15.461695+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:03:26.0158923+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:18:21.3456837+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:24:23.7042768+00:00"
 }

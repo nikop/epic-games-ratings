@@ -4,8 +4,8 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -147,17 +147,17 @@
       "ID": "ACH_BIDING_MY_TIME",
       "SetID": "5kae3ip",
       "Name": "Biding My Time",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_BURNING_BRIDGES",
       "SetID": "5kae3ip",
       "Name": "Burning Bridges",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_CLUSTER_ONE",
@@ -219,9 +219,9 @@
       "ID": "ACH_LAST_FEW_BRICK",
       "SetID": "5kae3ip",
       "Name": "The Last Few Bricks",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_WHAT_DO",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:05:42.3728976+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:27:05.9896654+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.2941182+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:20.1948176+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:05:42.3729122+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:18:26.5084579+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:27:05.9896795+00:00"
 }

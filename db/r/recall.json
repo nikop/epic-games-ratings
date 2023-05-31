@@ -4,8 +4,8 @@
   "ProductSlug": "recall-113630",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-17T17:00:00+00:00",
     "PcReleaseDate": "2023-01-17T17:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:59:13.8200149+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:59:48.0102151+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:03:58.0549171+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:21:21.3030877+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:25:01.8926974+00:00"
 }

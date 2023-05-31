@@ -2,13 +2,13 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 908,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.91,
+  "Rating": 3.94,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -98,15 +98,21 @@
       "Rating": 3.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-31T02:19:10.2971856+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1228,
+  "EOS_Progressed": 1230,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2404,6 +2410,11 @@
       "Time": "2023-05-31T00:06:06.7618901+00:00",
       "NumProgressed": 1228,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T02:27:35.0053798+00:00",
+      "NumProgressed": 1230,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2421,9 +2432,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 37
     },
     {
       "ID": "angelpower",
@@ -2445,9 +2456,9 @@
       "ID": "backgroundstory",
       "SetID": "3nl4bcg",
       "Name": "Background Story",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 37
     },
     {
       "ID": "beastwarmachines",
@@ -2511,7 +2522,7 @@
       "Name": "Doing My Part",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "dragonclicker",
@@ -2519,7 +2530,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "dragonmaster",
@@ -2527,7 +2538,7 @@
       "Name": "Dragon Master",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "dragonslayer",
@@ -2583,7 +2594,7 @@
       "Name": "Enlightenment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "exoticmerchant",
@@ -2599,7 +2610,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "fourleafclover",
@@ -2711,7 +2722,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "lockandload",
@@ -2735,7 +2746,7 @@
       "Name": "Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "milestonecollector",
@@ -2743,7 +2754,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "minerclicker",
@@ -2751,7 +2762,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "missionsdedication",
@@ -2781,9 +2792,9 @@
       "ID": "mythicpower",
       "SetID": "3nl4bcg",
       "Name": "Mythic Power",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "naturaltalent",
@@ -2807,7 +2818,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "prestigiousx10",
@@ -2871,7 +2882,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "thealchemist",
@@ -2887,7 +2898,7 @@
       "Name": "The Expeditioner",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "thefatherofdragons",
@@ -2975,7 +2986,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1156
     },
     {
       "ID": "warmachinesarmy",
@@ -3007,23 +3018,23 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 984
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1228,
+      "Progressed": 1230,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-05-28T02:10:19.8788844+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:06:06.7618896+00:00",
+  "LastChanged": "2023-05-31T02:19:10.2971852+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:27:35.005379+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:57.2228198+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:06:06.7619797+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:19:10.2971861+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:27:35.0055366+00:00"
 }

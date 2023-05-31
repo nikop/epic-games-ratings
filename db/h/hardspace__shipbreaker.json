@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -272,7 +272,7 @@
   "Tags": [],
   "EOS_Progressed": 680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -799,9 +799,9 @@
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -864,8 +864,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:02:32.3473601+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:23:27.1191477+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.5926021+00:00",
-  "LastUpdate_Ratings": "2023-05-30T23:57:24.9495174+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:02:32.3473805+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:18:31.910313+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:23:27.1191823+00:00"
 }

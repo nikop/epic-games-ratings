@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1905,
+  "EOS_Progressed": 1909,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1981,6 +1981,11 @@
       "Time": "2023-05-31T00:05:59.5881621+00:00",
       "NumProgressed": 1905,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T02:27:26.665318+00:00",
+      "NumProgressed": 1909,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2022,9 +2027,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 95
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2032,7 +2037,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2048,7 +2053,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2056,7 +2061,7 @@
       "Name": "Organ Grinder",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2072,7 +2077,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2160,7 +2165,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2192,7 +2197,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2200,7 +2205,7 @@
       "Name": "Lord of War",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2216,7 +2221,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2232,7 +2237,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2328,15 +2333,15 @@
       "Name": "Change the Channel",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -2360,7 +2365,7 @@
       "Name": "Taking it back",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2384,7 +2389,7 @@
       "Name": "Target America",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2422,9 +2427,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -2559,13 +2564,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1856,
+      "Progressed": 1860,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1905,
+      "Progressed": 1909,
       "Completed": 2
     }
   ],
@@ -2573,8 +2578,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-31T00:05:59.5881617+00:00",
+  "LastChanged_Achievements": "2023-05-31T02:27:26.6653176+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T00:00:35.5370652+00:00",
-  "LastUpdate_Achievements": "2023-05-31T00:05:59.5882393+00:00"
+  "LastUpdate_Ratings": "2023-05-31T02:22:17.6755302+00:00",
+  "LastUpdate_Achievements": "2023-05-31T02:27:26.6653999+00:00"
 }

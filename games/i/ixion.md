@@ -9,11 +9,11 @@ Rating: 4.57 (Ranked 438)
 | Sputnik 2049 | 10.00% | ~231 |
 | Without Breaking Some Eggs... | 9.00% | ~208 |
 | Infinite Growth... | 9.00% | ~208 |
-| A Thousand Strong | 6.00% | ~138 |
-| Ready for a New World | 6.00% | ~138 |
-| Space Society | 5.00% | ~115 |
-| Breaking Protocol | 5.00% | ~115 |
-| Ain't Nobody Got Time for That | 5.00% | ~115 |
+| A Thousand Strong | 6.00% | ~139 |
+| Ready for a New World | 6.00% | ~139 |
+| Space Society | 5.00% | ~116 |
+| Breaking Protocol | 5.00% | ~116 |
+| Ain't Nobody Got Time for That | 5.00% | ~116 |
 | Guy de Borderlands | 4.00% | ~92 |
 | Permanent Redesigns | 4.00% | ~92 |
 | The Ship of Theseus | 4.00% | ~92 |
@@ -38,11 +38,11 @@ Rating: 4.57 (Ranked 438)
 | Delivery! | 0.80% | ~18 |
 | What the Ruins Teach Us | 0.80% | ~18 |
 | Pulsar Disciple | 0.80% | ~18 |
-| Mutual Loyalty | 0.70% | ~16 |
-| Sustainable Energy | 0.70% | ~16 |
-| Praise the Hull! | 0.70% | ~16 |
 | Pedal to the Metal | 0.70% | ~16 |
+| Mutual Loyalty | 0.60% | ~14 |
+| Sustainable Energy | 0.60% | ~14 |
 | Catastrophe Avoided | 0.60% | ~14 |
+| Praise the Hull! | 0.60% | ~14 |
 | You Had One Job... | 0.60% | ~14 |
 | Space Greenhouse | 0.50% | ~12 |
 | Gregor Spinoza | 0.40% | ~9 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,307 (Ranked 144)  
+Progressed: 2,311 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,307 | 0 |
+| 2023-05-31 | 2,311 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

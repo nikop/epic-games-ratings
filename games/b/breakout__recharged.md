@@ -11,11 +11,11 @@
 | Comfortably Numb | 57.00% | ~47 |
 | Another Brick in the Wall (Part 2) | 49.00% | ~40 |
 | Echoes | 49.00% | ~40 |
-| Biding My Time | 44.00% | ~36 |
+| Biding My Time | 45.00% | ~37 |
 | The Gunner's Dream | 40.00% | ~33 |
 | Another Brick in the Wall (Part 3) | 37.00% | ~30 |
-| Burning Bridges | 27.00% | ~22 |
-| The Last Few Bricks | 27.00% | ~22 |
+| Burning Bridges | 28.00% | ~23 |
+| The Last Few Bricks | 28.00% | ~23 |
 | The Dogs of War | 11.00% | ~9 |
 | I'm a King Bee | 7.00% | ~6 |
 | What Shall We Do Now? | 2.00% | ~2 |
