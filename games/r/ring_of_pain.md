@@ -1,41 +1,41 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 420)  
+Rating: 4.58 (Ranked 421)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~220,553 |
-| Uncharted Territory | 89.00% | ~204,471 |
-| Getting A Glimpse | 73.00% | ~167,712 |
-| A Quick Escape | 65.00% | ~149,333 |
+| First Steps | 96.00% | ~220,554 |
+| Uncharted Territory | 89.00% | ~204,472 |
+| Getting A Glimpse | 73.00% | ~167,713 |
+| A Quick Escape | 65.00% | ~149,334 |
 | Explorer | 62.00% | ~142,441 |
-| Defeat The Dark | 61.00% | ~140,143 |
-| An Offering | 61.00% | ~140,143 |
-| Colorful Corpse | 58.00% | ~133,251 |
-| That Was Quick | 56.00% | ~128,656 |
-| A Donation | 56.00% | ~128,656 |
-| Goodbye, Frog Friend | 54.00% | ~124,061 |
+| Defeat The Dark | 61.00% | ~140,144 |
+| An Offering | 61.00% | ~140,144 |
+| Colorful Corpse | 58.00% | ~133,252 |
+| That Was Quick | 56.00% | ~128,657 |
+| A Donation | 56.00% | ~128,657 |
+| Goodbye, Frog Friend | 54.00% | ~124,062 |
 | Heavy Hitter | 53.00% | ~121,764 |
 | Heartless | 46.00% | ~105,682 |
 | Spine Breaker | 46.00% | ~105,682 |
-| Deflection | 45.00% | ~103,384 |
-| Sneaky | 43.00% | ~98,789 |
+| Deflection | 45.00% | ~103,385 |
+| Sneaky | 43.00% | ~98,790 |
 | Delving Deeper | 42.00% | ~96,492 |
 | Ambitious Intent | 41.00% | ~94,195 |
 | C-C-Combo | 41.00% | ~94,195 |
-| The Bestiary | 40.00% | ~91,897 |
+| The Bestiary | 40.00% | ~91,898 |
 | Nothing To Lose | 39.00% | ~89,600 |
-| What's Yours Is Mine | 38.00% | ~87,302 |
-| R.I.P | 36.00% | ~82,707 |
+| What's Yours Is Mine | 38.00% | ~87,303 |
+| R.I.P | 36.00% | ~82,708 |
 | Shootout | 35.00% | ~80,410 |
 | Cold Hearted | 34.00% | ~78,113 |
 | I Am Overburdened | 34.00% | ~78,113 |
-| Dig Your Own Grave | 33.00% | ~75,815 |
+| Dig Your Own Grave | 33.00% | ~75,816 |
 | Toxic | 32.00% | ~73,518 |
-| Who To Trust? | 31.00% | ~71,220 |
-| Flesh Wound | 29.00% | ~66,625 |
+| Who To Trust? | 31.00% | ~71,221 |
+| Flesh Wound | 29.00% | ~66,626 |
 | Walk It Off | 27.00% | ~62,031 |
 | Stone Touch | 27.00% | ~62,031 |
 | Acid Bath | 27.00% | ~62,031 |
@@ -44,7 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 26.00% | ~59,733 |
 | New Perspectives | 26.00% | ~59,733 |
 | Shapeshifting | 26.00% | ~59,733 |
-| Save Our Souls | 24.00% | ~55,138 |
+| Save Our Souls | 24.00% | ~55,139 |
 | To The Death! | 19.00% | ~43,651 |
 | Well Prepared | 19.00% | ~43,651 |
 | Just Chilling | 19.00% | ~43,651 |
@@ -64,13 +64,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 10.00% | ~22,974 |
 | Barbecue | 10.00% | ~22,974 |
 | Snake Sneak | 9.00% | ~20,677 |
-| Challenge Increases | 8.00% | ~18,379 |
-| New Game+ | 8.00% | ~18,379 |
-| Clearing The Room | 8.00% | ~18,379 |
-| Decisions, Decisions | 8.00% | ~18,379 |
-| Fragile Mortality | 8.00% | ~18,379 |
-| Defuser | 8.00% | ~18,379 |
-| Precious | 8.00% | ~18,379 |
+| Challenge Increases | 8.00% | ~18,380 |
+| New Game+ | 8.00% | ~18,380 |
+| Clearing The Room | 8.00% | ~18,380 |
+| Decisions, Decisions | 8.00% | ~18,380 |
+| Fragile Mortality | 8.00% | ~18,380 |
+| Defuser | 8.00% | ~18,380 |
+| Precious | 8.00% | ~18,380 |
 | Friend of Vermin | 7.00% | ~16,082 |
 | Juggernaut | 7.00% | ~16,082 |
 | Path To Enlightenment | 7.00% | ~16,082 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~919 |
 | Near Death Experience | 0.30% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,743 (Ranked 42)  
+Progressed: 229,744 (Ranked 42)  
 Completed: 235 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 235 (0.10%) (Ranked 158)
 | 2023-05-28 | 229,593 | 230 |
 | 2023-05-29 | 229,664 | 231 |
 | 2023-05-30 | 229,736 | 235 |
-| 2023-05-31 | 229,743 | 235 |
+| 2023-05-31 | 229,744 | 235 |
 ## Awards
 Max (Quickly Understood Controls): 1,473  (Ranked 114)  
 Sum: 12,899 (Ranked 69)  

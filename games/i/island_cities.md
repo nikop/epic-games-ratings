@@ -9,8 +9,8 @@
 | Buildings, roads, cars, ...and people | 66.00% | ~142 |
 | Great view from the beach and from the hill | 55.00% | ~118 |
 | Bridges to come and go | 49.00% | ~105 |
-| Found an oasis | 40.00% | ~86 |
-| Burger or pizza? | 35.00% | ~75 |
+| Found an oasis | 41.00% | ~88 |
+| Burger or pizza? | 36.00% | ~77 |
 | Passion for sports | 31.00% | ~67 |
 | Who loves trains? | 27.00% | ~58 |
 | Easy and steady climb | 26.00% | ~56 |

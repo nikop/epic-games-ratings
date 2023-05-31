@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3916,
+  "EOS_Progressed": 3917,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -2208,6 +2208,11 @@
       "Time": "2023-05-31T02:22:50.634237+00:00",
       "NumProgressed": 3916,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T04:00:27.1096376+00:00",
+      "NumProgressed": 3917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2235,15 +2240,15 @@
       "Name": "Hey Good Hookin",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -2347,7 +2352,7 @@
       "Name": "Head for Heights",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_018",
@@ -2451,7 +2456,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -2498,13 +2503,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3916,
+      "Progressed": 3917,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3288,
+      "Progressed": 3289,
       "Completed": 112
     }
   ],
@@ -2512,8 +2517,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:15:14.4263899+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:00:27.109637+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:13:48.9647861+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:15:14.4264325+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:59:25.0927064+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:00:27.1096893+00:00"
 }

@@ -21,9 +21,9 @@ Rating: 4.17 (Ranked 840)
 | Whispered Words | 1.00% | ~629 |
 | Lock and Key | 1.00% | ~629 |
 | Bad Apples in Every Orchard | 1.00% | ~629 |
-| Protector of Gotham | 0.90% | ~566 |
-| Universal Health Scare | 0.90% | ~566 |
-| From Inside Gotham's Walls | 0.90% | ~566 |
+| Protector of Gotham | 0.90% | ~567 |
+| Universal Health Scare | 0.90% | ~567 |
+| From Inside Gotham's Walls | 0.90% | ~567 |
 | Rock and a Hard Place | 0.80% | ~504 |
 | Not On My Watch | 0.80% | ~504 |
 | Shock Til They Drop | 0.80% | ~504 |
@@ -41,8 +41,8 @@ Rating: 4.17 (Ranked 840)
 | Fusion Expert | 0.40% | ~252 |
 | Expert Crime Fighter | 0.40% | ~252 |
 | Family Meeting | 0.40% | ~252 |
+| A Worthy Successor | 0.40% | ~252 |
 | Dressed to Impress | 0.30% | ~189 |
-| A Worthy Successor | 0.30% | ~189 |
 | Hammer and Icicle | 0.20% | ~66 |
 | Renewable Enemy Source | 0.20% | ~66 |
 | He'd Be So Proud of You | 0.20% | ~126 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,939 (Ranked 70)  
+Progressed: 62,945 (Ranked 70)  
 Completed: 92 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,14 +108,14 @@ Completed: 92 (0.15%) (Ranked 149)
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
 | 2023-05-30 | 62,912 | 91 |
-| 2023-05-31 | 62,939 | 92 |
+| 2023-05-31 | 62,945 | 92 |
 ## Awards
-Max (Great Boss Battles): 2,263  (Ranked 98)  
-Sum: 3,752 (Ranked 138)  
+Max (Great Boss Battles): 2,269  (Ranked 98)  
+Sum: 3,758 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,263 |
+| This game has Great Boss Battles | 2,269 |
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 192 |
@@ -227,4 +227,4 @@ Diff (max vs sum): -40
 | 2023-05-28 | 4.17 | 2,254 | 3,737 |
 | 2023-05-29 | 4.17 | 2,254 | 3,740 |
 | 2023-05-30 | 4.17 | 2,263 | 3,749 |
-| 2023-05-31 | 4.17 | 2,263 | 3,752 |
+| 2023-05-31 | 4.17 | 2,269 | 3,758 |

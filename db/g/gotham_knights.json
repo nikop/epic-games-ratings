@@ -1236,18 +1236,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3752,
       "NumberOfAwardsMax": 2263
+    },
+    {
+      "Time": "2023-05-31T03:59:21.3735201+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3758,
+      "NumberOfAwardsMax": 2269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3752,
-  "NumberOfAwardsMax": 2263,
+  "NumberOfAwards": 3758,
+  "NumberOfAwardsMax": 2269,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2263
+      "Count": 2269
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1304,9 +1310,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62939,
+  "EOS_Progressed": 62945,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1073,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4434,6 +4440,11 @@
       "Time": "2023-05-31T03:20:31.4338174+00:00",
       "NumProgressed": 62939,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-31T04:05:37.7322655+00:00",
+      "NumProgressed": 62945,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4541,7 +4552,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "CLAYFACE_1",
@@ -4773,7 +4784,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -4827,9 +4838,9 @@
       "ID": "KNIGHTHOOD_2",
       "SetID": "4eo5ebm",
       "Name": "A Worthy Successor",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 252
     },
     {
       "ID": "MYSTERY_01",
@@ -4869,7 +4880,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "MYSTERY_06",
@@ -4932,22 +4943,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62939,
+      "Progressed": 62945,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33219,
+      "Progressed": 33225,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-31T02:21:19.1922267+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:20:31.4338168+00:00",
+  "LastChanged": "2023-05-31T03:59:21.37352+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:05:37.7322651+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:13:43.155547+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:20:31.4338907+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:59:21.3735208+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:05:37.7323445+00:00"
 }

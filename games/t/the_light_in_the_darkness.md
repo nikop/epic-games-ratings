@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Jacques a Dit | 36.00% | ~539 |
 | Little Helper | 32.00% | ~479 |
-| Nazis in Paris | 24.00% | ~359 |
+| Nazis in Paris | 25.00% | ~374 |
 | Building the Fox | 21.00% | ~314 |
 | Green Ticket Roundup | 18.00% | ~269 |
 | Arranging Boxes | 13.00% | ~195 |
@@ -18,7 +18,7 @@
 | May Their Memories be a Blessing | 8.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,497 (Ranked 158)  
-Completed: 119 (7.95%) (Ranked 20)  
+Completed: 119 (7.95%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

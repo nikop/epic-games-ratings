@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -413,9 +413,9 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -437,17 +437,17 @@
       "ID": "ACH_FASHION",
       "SetID": "2310cb1",
       "Name": "Fashionista",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_LOOPER",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:19:56.5004519+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:05:10.2569758+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:10:49.635254+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:19:56.5004744+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:57:20.0334801+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:05:10.2569953+00:00"
 }

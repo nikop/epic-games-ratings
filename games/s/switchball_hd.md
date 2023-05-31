@@ -9,9 +9,9 @@
 | Metalball Badge | 17.00% | ~14 |
 | Powerball Badge | 10.00% | ~8 |
 | Airball Badge | 1.00% | ~1 |
+| Speedroller Trainee | 1.00% | ~1 |
 | Speedroller Expert | 0.00% | ~0 |
 | Speedroller Master | 0.00% | ~0 |
-| Speedroller Trainee | 0.00% | ~0 |
 | Spyglass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84 (Ranked 274)  

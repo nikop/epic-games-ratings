@@ -20,12 +20,12 @@
 | Back In The Saddle | 37.00% | ~121 |
 | Land, Ho! | 37.00% | ~121 |
 | No Man Is An Island | 36.00% | ~117 |
+| Going Once... | 34.00% | ~111 |
 | At Wits' End | 34.00% | ~111 |
-| Going Once... | 33.00% | ~108 |
 | Bookworm | 32.00% | ~104 |
 | Fhtagn! | 32.00% | ~104 |
+| Let Me Be Frank | 31.00% | ~101 |
 | Up In Flames | 31.00% | ~101 |
-| Let Me Be Frank | 30.00% | ~98 |
 | Brain Food | 28.00% | ~91 |
 | No Stone Unturned | 27.00% | ~88 |
 | Curiosity Killed The Cat | 17.00% | ~55 |

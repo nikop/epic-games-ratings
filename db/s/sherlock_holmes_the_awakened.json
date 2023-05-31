@@ -976,17 +976,17 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "MQ04_3",
@@ -1121,8 +1121,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:17:34.1941977+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:03:29.6168029+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:10:35.0501312+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:17:34.1942307+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:57:10.371659+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:03:29.6168308+00:00"
 }

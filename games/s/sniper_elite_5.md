@@ -5,7 +5,7 @@ Rating: 4.45 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 23.00% | ~440 |
+| Meeting Resistance | 24.00% | ~459 |
 | Confirming Suspicions | 18.00% | ~345 |
 | The Kraken Wakes | 14.00% | ~268 |
 | It's Starting to Crack | 11.00% | ~211 |

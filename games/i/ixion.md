@@ -35,12 +35,12 @@ Rating: 4.57 (Ranked 438)
 | BRAWL! | 1.00% | ~23 |
 | All in Good Health | 1.00% | ~23 |
 | ...  in a finite world | 0.90% | ~21 |
+| What the Ruins Teach Us | 0.90% | ~21 |
 | Delivery! | 0.80% | ~18 |
-| What the Ruins Teach Us | 0.80% | ~18 |
 | Pulsar Disciple | 0.80% | ~18 |
+| Sustainable Energy | 0.70% | ~16 |
 | Pedal to the Metal | 0.70% | ~16 |
 | Mutual Loyalty | 0.60% | ~14 |
-| Sustainable Energy | 0.60% | ~14 |
 | Catastrophe Avoided | 0.60% | ~14 |
 | Praise the Hull! | 0.60% | ~14 |
 | You Had One Job... | 0.60% | ~14 |

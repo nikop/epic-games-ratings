@@ -6,35 +6,35 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~701,205 |
-| The Blues | 85.00% | ~602,045 |
-| Fast | 66.00% | ~467,470 |
-| Healthbar | 55.00% | ~389,558 |
-| Force Cube | 52.00% | ~368,310 |
-| Double Jump | 48.00% | ~339,978 |
-| Regeneration | 47.00% | ~332,895 |
-| Climb the hill | 42.00% | ~297,481 |
-| Triple Jump | 42.00% | ~297,481 |
-| Through the fire pipe | 38.00% | ~269,149 |
-| MacGuffin | 37.00% | ~262,067 |
-| Just once | 36.00% | ~254,984 |
-| Armor | 30.00% | ~212,486 |
-| True holy spirit | 27.00% | ~191,238 |
-| That's how electronics work obviously | 26.00% | ~184,155 |
-| Force Cube Catapult | 25.00% | ~177,072 |
-| Holy Sword | 23.00% | ~162,906 |
-| Telefrag | 22.00% | ~155,823 |
-| Freed from prison | 21.00% | ~148,740 |
-| Stomp | 21.00% | ~148,740 |
-| Double Health | 18.00% | ~127,492 |
-| Buckle | 17.00% | ~120,409 |
-| Green Keycard | 17.00% | ~120,409 |
-| Rattle Hag | 15.00% | ~106,243 |
-| All Shells | 14.00% | ~99,160 |
-| Beam | 14.00% | ~99,160 |
-| 9 | 13.00% | ~92,077 |
-| Purple Cube | 13.00% | ~92,077 |
-| Supraball Noob | 13.00% | ~92,077 |
+| Out of bed | 99.00% | ~701,210 |
+| The Blues | 85.00% | ~602,049 |
+| Fast | 66.00% | ~467,473 |
+| Healthbar | 55.00% | ~389,561 |
+| Force Cube | 52.00% | ~368,312 |
+| Double Jump | 48.00% | ~339,981 |
+| Regeneration | 47.00% | ~332,898 |
+| Climb the hill | 42.00% | ~297,483 |
+| Triple Jump | 42.00% | ~297,483 |
+| Through the fire pipe | 38.00% | ~269,151 |
+| MacGuffin | 37.00% | ~262,068 |
+| Just once | 36.00% | ~254,985 |
+| Armor | 30.00% | ~212,488 |
+| True holy spirit | 27.00% | ~191,239 |
+| That's how electronics work obviously | 26.00% | ~184,156 |
+| Force Cube Catapult | 25.00% | ~177,073 |
+| Holy Sword | 23.00% | ~162,907 |
+| Telefrag | 22.00% | ~155,824 |
+| Freed from prison | 21.00% | ~148,742 |
+| Stomp | 21.00% | ~148,742 |
+| Double Health | 18.00% | ~127,493 |
+| Buckle | 17.00% | ~120,410 |
+| Green Keycard | 17.00% | ~120,410 |
+| Rattle Hag | 15.00% | ~106,244 |
+| All Shells | 14.00% | ~99,161 |
+| Beam | 14.00% | ~99,161 |
+| 9 | 13.00% | ~92,078 |
+| Purple Cube | 13.00% | ~92,078 |
+| Supraball Noob | 13.00% | ~92,078 |
 | Health Drink | 12.00% | ~84,995 |
 | Helped a star | 12.00% | ~84,995 |
 | Strong | 12.00% | ~84,995 |
@@ -55,8 +55,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 9.00% | ~63,746 |
 | Through the tiny pipe | 8.00% | ~56,663 |
 | Win! | 8.00% | ~56,663 |
-| The real real teleported man | 7.00% | ~49,580 |
-| Well deserved | 6.00% | ~42,497 |
+| The real real teleported man | 7.00% | ~49,581 |
+| Well deserved | 6.00% | ~42,498 |
 | Happiness | 3.00% | ~21,249 |
 | Super Sword | 3.00% | ~21,249 |
 | All Chests | 2.00% | ~14,166 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~708 |
 | DLC: Top of the world | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,288 (Ranked 14)  
+Progressed: 708,293 (Ranked 14)  
 Completed: 690 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,10 +146,10 @@ Completed: 690 (0.10%) (Ranked 158)
 | 2023-05-28 | 707,868 | 685 |
 | 2023-05-29 | 708,081 | 686 |
 | 2023-05-30 | 708,265 | 690 |
-| 2023-05-31 | 708,288 | 690 |
+| 2023-05-31 | 708,293 | 690 |
 ## Awards
 Max (Challenging Puzzles): 7,615  (Ranked 40)  
-Sum: 9,910 (Ranked 79)  
+Sum: 9,912 (Ranked 79)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -159,8 +159,8 @@ Diff (max vs sum): -39
 | This game has Amazing Characters | 273 |
 | This game has Amazing Storytelling | 270 |
 | This game is Great for Beginners | 262 |
-| This game has Quickly Understood Controls | 261 |
-| This game is Extremely Fun | 256 |
+| This game has Quickly Understood Controls | 262 |
+| This game is Extremely Fun | 257 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 233 |
 | This game has a Creative Community | 187 |
@@ -265,3 +265,4 @@ Diff (max vs sum): -39
 | 2023-05-24 | 4.61 | - | 7,613 | 9,906 |
 | 2023-05-27 | 4.61 | - | 7,615 | 9,909 |
 | 2023-05-30 | 4.61 | - | 7,615 | 9,910 |
+| 2023-05-31 | 4.61 | - | 7,615 | 9,912 |

@@ -4,8 +4,8 @@
   "ProductSlug": "broken-pieces-b1c349",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-04T16:00:00+00:00",
     "PcReleaseDate": "2022-10-04T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.3337959+00:00",
   "LastChanged": "2023-03-31T05:57:40.333796+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:30.4430777+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:12:39.3690677+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:16:42.0499469+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:58:36.6744867+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:02:37.2341896+00:00"
 }

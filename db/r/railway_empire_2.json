@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-05-31T03:20:19.0516014+00:00",
       "NumProgressed": 508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T04:05:28.032116+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -655,15 +660,15 @@
       "Name": "Stoker",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "A02",
       "SetID": "9b7p7eo",
       "Name": "Trailblazer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "A03",
@@ -767,7 +772,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "A16",
@@ -807,7 +812,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "A21",
@@ -823,7 +828,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "A23",
@@ -871,7 +876,7 @@
       "Name": "We brake for nobody",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "A29",
@@ -879,7 +884,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "A30",
@@ -893,9 +898,9 @@
       "ID": "A31",
       "SetID": "9b7p7eo",
       "Name": "Hostile Takeover",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "A32",
@@ -943,7 +948,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "A38",
@@ -967,7 +972,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "A41",
@@ -975,15 +980,15 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 199
     },
     {
       "ID": "A43",
@@ -1015,7 +1020,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "A47",
@@ -1023,7 +1028,7 @@
       "Name": "Travel Company",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "A48",
@@ -1086,14 +1091,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:20:19.0516007+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:05:28.0321153+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.0201434+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:11:35.8106215+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:20:19.0516504+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:57:53.3177704+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:05:28.0321673+00:00"
 }

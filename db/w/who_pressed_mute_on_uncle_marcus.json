@@ -3,9 +3,9 @@
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 167,
-  "EOS_Completed": 13,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.78,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 8.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -142,6 +142,11 @@
       "Time": "2023-05-30T22:05:34.6760349+00:00",
       "NumProgressed": 167,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-31T04:05:25.9563201+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 17,
@@ -263,9 +268,9 @@
       "ID": "the_whole_truth",
       "SetID": "202dmm8",
       "Name": "The whole truth",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "toby_foolery",
@@ -289,15 +294,15 @@
       "ID": "202dmm8",
       "IsBase": true,
       "Progressed": 167,
-      "Completed": 13
+      "Completed": 14
     }
   ],
   "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:20:16.924935+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:05:25.9563197+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.1098258+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:14:09.3986219+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:20:16.9249538+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:59:38.9247483+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:05:25.9563348+00:00"
 }

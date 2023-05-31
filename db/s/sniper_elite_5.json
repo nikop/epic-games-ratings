@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -238,7 +238,7 @@
   "Tags": [],
   "EOS_Progressed": 1914,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2080,9 +2080,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 459
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2583,8 +2583,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:20:07.9762404+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:05:19.0176031+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:14:41.5342951+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:20:07.9763191+00:00"
+  "LastUpdate_Ratings": "2023-05-31T04:00:02.3414008+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:05:19.0177014+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -5406,9 +5406,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 47209,
+  "EOS_Progressed": 47215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4579,
+  "EOS_NewPlayers": 4578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9546,6 +9546,11 @@
       "Time": "2023-05-31T03:20:37.1140063+00:00",
       "NumProgressed": 47209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T04:05:42.4414675+00:00",
+      "NumProgressed": 47215,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -10077,7 +10082,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "achievement_colonial_management",
@@ -10229,7 +10234,7 @@
       "Name": "Down Under",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -10389,7 +10394,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "achievement_forever_golden",
@@ -12149,7 +12154,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -12173,7 +12178,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_turkish_delight",
@@ -12388,21 +12393,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 47209,
+      "Progressed": 47215,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 47209,
+      "Progressed": 47215,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-31T02:18:17.2304769+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:20:37.1140055+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:05:42.441467+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.5359105+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:10:39.517887+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:20:37.1152956+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:57:12.9946819+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:05:42.4425719+00:00"
 }

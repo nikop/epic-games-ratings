@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~371 |
+| Country Bumpkin | 73.00% | ~372 |
 | A new Journey | 72.00% | ~366 |
 | Departure | 71.00% | ~361 |
 | Way of Iron | 70.00% | ~356 |
 | From X to Y | 69.00% | ~351 |
-| Brainstorm | 67.00% | ~340 |
-| Mystery Tour | 67.00% | ~340 |
-| We brake for nobody | 65.00% | ~330 |
-| Mind the Gap | 64.00% | ~325 |
-| Travel Company | 63.00% | ~320 |
-| All around the World | 62.00% | ~315 |
-| Right through the middle | 56.00% | ~284 |
+| Brainstorm | 67.00% | ~341 |
+| Mystery Tour | 67.00% | ~341 |
+| We brake for nobody | 65.00% | ~331 |
+| Mind the Gap | 64.00% | ~326 |
+| Travel Company | 63.00% | ~321 |
+| All around the World | 62.00% | ~316 |
+| Right through the middle | 56.00% | ~285 |
 | Poor Devil | 50.00% | ~254 |
 | Apprentice | 48.00% | ~244 |
 | Facility Manager | 48.00% | ~244 |
 | Producer | 44.00% | ~224 |
-| Stoker | 40.00% | ~203 |
-| Bridge Builder | 40.00% | ~203 |
+| Stoker | 40.00% | ~204 |
+| Bridge Builder | 39.00% | ~199 |
 | Access granted | 35.00% | ~178 |
-| Going once, going twice, sold | 29.00% | ~147 |
-| Full Steam ahead | 28.00% | ~142 |
+| Going once, going twice, sold | 29.00% | ~148 |
+| Full Steam ahead | 28.00% | ~143 |
 | Bull and bear | 24.00% | ~122 |
 | Seven at one stroke | 23.00% | ~117 |
 | Mole | 23.00% | ~117 |
 | All mine | 20.00% | ~102 |
 | Financial Shark | 20.00% | ~102 |
-| Trailblazer | 18.00% | ~91 |
-| Hostile Takeover | 18.00% | ~91 |
+| Trailblazer | 17.00% | ~87 |
+| Hostile Takeover | 17.00% | ~87 |
 | General Manager | 16.00% | ~81 |
 | Country Life | 16.00% | ~81 |
 | Traffic Junction | 13.00% | ~66 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 508 (Ranked 196)  
+Progressed: 509 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 331 | 0 |
 | 2023-05-29 | 397 | 0 |
 | 2023-05-30 | 501 | 0 |
-| 2023-05-31 | 508 | 0 |
+| 2023-05-31 | 509 | 0 |

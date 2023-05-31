@@ -12,13 +12,13 @@
 | Extendable Bridges | 34.00% | ~43 |
 | 48 Attempts | 34.00% | ~43 |
 | Chain Reaction | 31.00% | ~39 |
-| Man's Best Friend | 29.00% | ~37 |
-| Handyman | 22.00% | ~28 |
+| Man's Best Friend | 30.00% | ~38 |
+| Handyman | 23.00% | ~29 |
 | No Time To Relax | 15.00% | ~19 |
 | Bad Robots | 13.00% | ~17 |
 | Running Boots | 12.00% | ~15 |
+| Fashionista | 11.00% | ~14 |
 | Archivist | 10.00% | ~13 |
-| Fashionista | 10.00% | ~13 |
 | Looper | 8.00% | ~10 |
 | Cataclysm | 7.00% | ~9 |
 | So Close | 6.00% | ~8 |

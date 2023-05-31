@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "Chapter6",
@@ -814,8 +814,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:19:51.2149465+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:05:06.4894185+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:11:12.0421608+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:19:51.214974+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:57:37.6313519+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:05:06.4894503+00:00"
 }

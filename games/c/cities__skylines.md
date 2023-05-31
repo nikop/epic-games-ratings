@@ -6,32 +6,32 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~550,114 |
-| Green Energy | 60.00% | ~464,885 |
-| Foggy Weather | 59.00% | ~457,137 |
-| Singing In The- | 59.00% | ~457,137 |
-| Unpopular Mayor | 41.00% | ~317,671 |
-| Power at Your Fingertips | 33.00% | ~255,687 |
-| City Planner | 23.00% | ~178,206 |
-| Rolling in Dough | 20.00% | ~154,962 |
-| Does My Bum Look Big In This? | 18.00% | ~139,465 |
-| Climbing the Social Ladder | 16.00% | ~123,969 |
-| Safe City | 14.00% | ~108,473 |
-| Quay-King | 11.00% | ~85,229 |
-| Lawmaker | 10.00% | ~77,481 |
-| With Canals You Can! | 10.00% | ~77,481 |
-| Nomen Est Omen | 7.00% | ~54,237 |
-| Well Informed | 6.00% | ~46,488 |
-| Fire Watch | 5.00% | ~38,740 |
-| Greenest City | 4.00% | ~30,992 |
-| Reporting! | 4.00% | ~30,992 |
-| Heavenly City | 3.00% | ~23,244 |
-| SIMulated City | 3.00% | ~23,244 |
-| The Safest Town | 3.00% | ~23,244 |
-| City in Motion | 2.00% | ~15,496 |
-| Professional Dumper | 2.00% | ~15,496 |
-| Earthloving City | 1.00% | ~7,748 |
-| Metropolis | 1.00% | ~7,748 |
+| Pioneer | 71.00% | ~550,164 |
+| Green Energy | 60.00% | ~464,927 |
+| Foggy Weather | 59.00% | ~457,179 |
+| Singing In The- | 59.00% | ~457,179 |
+| Unpopular Mayor | 41.00% | ~317,700 |
+| Power at Your Fingertips | 33.00% | ~255,710 |
+| City Planner | 23.00% | ~178,222 |
+| Rolling in Dough | 20.00% | ~154,976 |
+| Does My Bum Look Big In This? | 18.00% | ~139,478 |
+| Climbing the Social Ladder | 16.00% | ~123,981 |
+| Safe City | 14.00% | ~108,483 |
+| Quay-King | 11.00% | ~85,237 |
+| Lawmaker | 10.00% | ~77,488 |
+| With Canals You Can! | 10.00% | ~77,488 |
+| Nomen Est Omen | 7.00% | ~54,242 |
+| Well Informed | 6.00% | ~46,493 |
+| Fire Watch | 5.00% | ~38,744 |
+| Greenest City | 4.00% | ~30,995 |
+| Reporting! | 4.00% | ~30,995 |
+| Heavenly City | 3.00% | ~23,246 |
+| SIMulated City | 3.00% | ~23,246 |
+| The Safest Town | 3.00% | ~23,246 |
+| City in Motion | 2.00% | ~15,498 |
+| Professional Dumper | 2.00% | ~15,498 |
+| Earthloving City | 1.00% | ~7,749 |
+| Metropolis | 1.00% | ~7,749 |
 | Beam Me Up | 0.70% | ~5,424 |
 | Higher Education | 0.70% | ~5,424 |
 | Terraformer | 0.70% | ~5,424 |
@@ -46,19 +46,19 @@ Number of Ratings: 25,248  (23.09.2022)
 | Speed up! | 0.50% | ~3,874 |
 | Thunder and Lightning | 0.50% | ~3,874 |
 | Twist and shout | 0.50% | ~3,874 |
-| Airlifter | 0.40% | ~3,099 |
-| Airport Architect | 0.40% | ~3,099 |
-| Are They Naked In There? | 0.40% | ~3,099 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,099 |
-| Happy Town | 0.40% | ~3,099 |
-| I Want It All | 0.40% | ~3,099 |
-| Just Tolling | 0.40% | ~3,099 |
-| A Huge Hadron | 0.30% | ~2,324 |
-| Friendly Teaching | 0.30% | ~2,324 |
-| Here's A Tram | 0.30% | ~2,324 |
-| Run, Bambi! | 0.30% | ~2,324 |
-| Short Fuse | 0.30% | ~2,324 |
-| We need snorkels! | 0.30% | ~2,324 |
+| Airlifter | 0.40% | ~3,100 |
+| Airport Architect | 0.40% | ~3,100 |
+| Are They Naked In There? | 0.40% | ~3,100 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,100 |
+| Happy Town | 0.40% | ~3,100 |
+| I Want It All | 0.40% | ~3,100 |
+| Just Tolling | 0.40% | ~3,100 |
+| A Huge Hadron | 0.30% | ~2,325 |
+| Friendly Teaching | 0.30% | ~2,325 |
+| Here's A Tram | 0.30% | ~2,325 |
+| Run, Bambi! | 0.30% | ~2,325 |
+| Short Fuse | 0.30% | ~2,325 |
+| We need snorkels! | 0.30% | ~2,325 |
 | City in Motion 2 | 0.20% | ~1,550 |
 | Eternal City | 0.20% | ~1,550 |
 | It's Wintertime! | 0.20% | ~1,550 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~775 |
 | Z00 | 0.10% | ~775 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774,808 (Ranked 13)  
+Progressed: 774,879 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 6 (0.00%) (Ranked 207)
 | 2023-05-28 | 767,654 | 6 |
 | 2023-05-29 | 771,208 | 6 |
 | 2023-05-30 | 774,394 | 6 |
-| 2023-05-31 | 774,808 | 6 |
+| 2023-05-31 | 774,879 | 6 |
 ## Awards
 Max (Relaxing): 4,581  (Ranked 67)  
 Sum: 34,975 (Ranked 34)  

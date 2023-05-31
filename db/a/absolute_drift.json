@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519832,
+  "EOS_Progressed": 1519837,
   "EOS_Completed": 616,
-  "EOS_NewPlayers": 1629,
+  "EOS_NewPlayers": 1625,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4545,6 +4545,11 @@
       "Time": "2023-05-31T03:17:31.2387603+00:00",
       "NumProgressed": 1519832,
       "NumCompleted": 616
+    },
+    {
+      "Time": "2023-05-31T04:03:27.5594171+00:00",
+      "NumProgressed": 1519837,
+      "NumCompleted": 616
     }
   ],
   "TotalAchievements": 20,
@@ -4564,7 +4569,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106388
+      "UsersEstimate": 106389
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -4652,7 +4657,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151983
+      "UsersEstimate": 151984
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -4676,7 +4681,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13678
+      "UsersEstimate": 13679
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -4708,22 +4713,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4559
+      "UsersEstimate": 4560
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1519832,
+      "Progressed": 1519837,
       "Completed": 616
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-31T03:17:31.2387599+00:00",
+  "LastChanged_Achievements": "2023-05-31T04:03:27.5594167+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:27.6569582+00:00",
-  "LastUpdate_Ratings": "2023-05-31T03:14:07.435468+00:00",
-  "LastUpdate_Achievements": "2023-05-31T03:17:31.2388093+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:59:37.3480378+00:00",
+  "LastUpdate_Achievements": "2023-05-31T04:03:27.5594792+00:00"
 }
