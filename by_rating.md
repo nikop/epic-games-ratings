@@ -22,7 +22,7 @@
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 255 | 240 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,018 | 75 |
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 491 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,546 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,554 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 473 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 491 |
 | 26 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 480 |
@@ -142,7 +142,7 @@
 | 131 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 408 |
 | 131 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 491 |
 | 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 491 |
-| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 562 | 172 |
+| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 564 | 172 |
 | 142 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 459 |
 | 142 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 65 | 371 |
 | 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 772 | 148 |
@@ -407,7 +407,7 @@
 | 386 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 491 |
 | 406 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 405 |
 | 406 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 0 | 491 |
-| 406 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 57,256 | 10 |
+| 406 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 57,294 | 10 |
 | 406 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 612 | 165 |
 | 406 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 131 | 297 |
 | 406 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 491 |
@@ -848,16 +848,16 @@
 | 845 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 607 | 166 |
 | 845 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 491 |
 | 845 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 491 |
+| 845 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 491 |
 | 845 | [Space Punks](games/s/space_punks.md) | 4.16 | 173 | 275 |
-| 850 | [Forspoken](games/f/forspoken.md) | 4.15 | 0 | 491 |
-| 850 | [Pine](games/p/pine.md) | 4.15 | 0 | 491 |
-| 850 | [Relicta](games/r/relicta.md) | 4.15 | 195 | 261 |
-| 850 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 364 |
-| 850 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 491 |
-| 855 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.14 | 0 | 491 |
-| 855 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 491 |
-| 855 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 491 |
-| 855 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 491 |
+| 851 | [Forspoken](games/f/forspoken.md) | 4.15 | 0 | 491 |
+| 851 | [Pine](games/p/pine.md) | 4.15 | 0 | 491 |
+| 851 | [Relicta](games/r/relicta.md) | 4.15 | 195 | 261 |
+| 851 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 364 |
+| 851 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 491 |
+| 856 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 491 |
+| 856 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 491 |
+| 856 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 491 |
 | 859 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 491 |
 | 859 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 32 | 437 |
 | 861 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 491 |
@@ -896,7 +896,7 @@
 | 894 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 369 | 207 |
 | 894 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 491 |
 | 896 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 491 |
-| 896 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,075 | 103 |
+| 896 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,084 | 103 |
 | 896 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,598 | 66 |
 | 899 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 491 |
 | 900 | [Chimeraland](games/c/chimeraland.md) | 3.96 | 22 | 473 |

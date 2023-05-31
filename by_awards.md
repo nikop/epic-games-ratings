@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 139,673 | 4.53 | 494 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 110,230 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 65,830 | 4.62 | 342 |
-| 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,256 | 4.59 | 406 |
+| 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,294 | 4.59 | 406 |
 | 11 | [VALORANT](games/v/valorant.md) | 54,556 | 4.54 | 485 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 36,089 | 4.60 | 386 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,406 | 4.50 | 542 |
@@ -34,7 +34,7 @@
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,239 | 4.69 | 216 |
 | 33 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 11,162 | 4.24 | 793 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,414 | 4.45 | 607 |
-| 35 | [Satisfactory](games/s/satisfactory.md) | 9,546 | 4.88 | 19 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 9,554 | 4.88 | 19 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,157 | 4.61 | 359 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,108 | 4.78 | 99 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,322 | 4.76 | 119 |
@@ -102,7 +102,7 @@
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,169 | 4.41 | 664 |
 | 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,134 | 4.37 | 703 |
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,131 | 4.63 | 327 |
-| 103 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,075 | 3.98 | 896 |
+| 103 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,084 | 3.98 | 896 |
 | 104 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,975 | 4.49 | 558 |
 | 105 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,879 | 4.65 | 293 |
 | 106 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,827 | 4.70 | 194 |
@@ -171,7 +171,7 @@
 | 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 588 | 4.62 | 342 |
 | 170 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 587 | 4.79 | 89 |
 | 171 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 572 | 4.60 | 386 |
-| 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 562 | 4.74 | 142 |
+| 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 564 | 4.74 | 142 |
 | 173 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 559 | 4.72 | 167 |
 | 173 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 237 |
 | 175 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 555 | 4.38 | 696 |
@@ -261,7 +261,7 @@
 | 259 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 720 |
 | 260 | [HITMAN](games/h/hitman.md) | 197 | 4.64 | 313 |
 | 261 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 195 | 4.80 | 78 |
-| 261 | [Relicta](games/r/relicta.md) | 195 | 4.15 | 850 |
+| 261 | [Relicta](games/r/relicta.md) | 195 | 4.15 | 851 |
 | 263 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 193 | 4.59 | 406 |
 | 264 | [Crashlands](games/c/crashlands.md) | 190 | 4.66 | 275 |
 | 265 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 188 | 4.42 | 652 |
@@ -363,7 +363,7 @@
 | 360 | [Carcassonne](games/c/carcassonne.md) | 72 | 4.66 | 275 |
 | 360 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.40 | 675 |
 | 360 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 72 | 4.62 | 342 |
-| 364 | [Train Valley 2](games/t/train_valley_2.md) | 71 | 4.15 | 850 |
+| 364 | [Train Valley 2](games/t/train_valley_2.md) | 71 | 4.15 | 851 |
 | 365 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 70 | 4.55 | 471 |
 | 365 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 70 | 4.72 | 167 |
 | 367 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.67 | 257 |

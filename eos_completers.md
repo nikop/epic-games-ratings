@@ -20,10 +20,10 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.38% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [Remains](games/r/remains.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.95% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.02% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
-| 24 | [Scorn](games/s/scorn.md) | 6.86% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
+| 24 | [Scorn](games/s/scorn.md) | 6.85% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -119,10 +119,10 @@
 | 117 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 117 | [Tchia](games/t/tchia.md) | 0.37% |
 | 119 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 120 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
-| 120 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 120 | [Godlike Burger](games/g/godlike_burger.md) | 0.33% |
-| 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
+| 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
+| 121 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
+| 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 121 | [Godlike Burger](games/g/godlike_burger.md) | 0.33% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
