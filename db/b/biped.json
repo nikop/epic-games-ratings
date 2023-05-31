@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2305,
+  "EOS_Progressed": 2306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2626,6 +2626,11 @@
       "Time": "2023-05-31T16:05:07.2850267+00:00",
       "NumProgressed": 2305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T18:05:55.6494381+00:00",
+      "NumProgressed": 2306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2637,7 +2642,7 @@
       "Name": "First Step",
       "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "10",
@@ -2701,7 +2706,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "4",
@@ -2717,7 +2722,7 @@
       "Name": "Snowy Peak",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "6",
@@ -2756,7 +2761,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 2305,
+      "Progressed": 2306,
       "Completed": 0
     }
   ],
@@ -2764,8 +2769,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:05:32.2549067+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:05:55.6494376+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.8518043+00:00",
-  "LastUpdate_Ratings": "2023-05-31T16:58:08.9933285+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:05:32.2549259+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:58:29.1533206+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:05:55.6494639+00:00"
 }

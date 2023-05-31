@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -500,9 +500,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14137,
+  "EOS_Progressed": 14143,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2275,6 +2275,11 @@
       "Time": "2023-05-31T17:03:39.6665561+00:00",
       "NumProgressed": 14137,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-31T18:04:26.8816511+00:00",
+      "NumProgressed": 14143,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2390,7 +2395,7 @@
       "Name": "Get a Grip",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2414,7 +2419,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "KILL_ROBOT",
@@ -2462,7 +2467,7 @@
       "Name": "Paper Jams",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2492,9 +2497,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 566
     },
     {
       "ID": "STORY_HANGAR",
@@ -2605,13 +2610,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14137,
+      "Progressed": 14143,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2063,
+      "Progressed": 2069,
       "Completed": 29
     }
   ],
@@ -2619,8 +2624,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:03:39.6665552+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:04:26.8816506+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-31T16:57:57.4035346+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:03:39.6665886+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:58:17.4509917+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:04:26.8816985+00:00"
 }

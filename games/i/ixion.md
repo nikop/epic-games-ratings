@@ -46,9 +46,9 @@ Rating: 4.57 (Ranked 437)
 | You Had One Job... | 0.60% | ~14 |
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |
+| Help of the Forgotten Member | 0.50% | ~12 |
 | Gregor Spinoza | 0.40% | ~9 |
 | Scientifically Accurate | 0.40% | ~9 |
-| Help of the Forgotten Member | 0.40% | ~9 |
 | Better Him Than Me | 0.30% | ~7 |
 | Tiqqun Contender | 0.30% | ~7 |
 | Remember the Dead | 0.20% | ~5 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 437)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,321 (Ranked 144)  
+Progressed: 2,322 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 2,248 | 0 |
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
-| 2023-05-31 | 2,321 | 0 |
+| 2023-05-31 | 2,322 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

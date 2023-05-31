@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1949,
+  "EOS_Progressed": 1953,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2052,6 +2052,11 @@
       "Time": "2023-05-31T17:05:46.8314801+00:00",
       "NumProgressed": 1949,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T18:06:09.6987567+00:00",
+      "NumProgressed": 1953,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2063,7 +2068,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2071,7 +2076,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2087,7 +2092,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -2103,7 +2108,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2127,7 +2132,7 @@
       "Name": "Organ Grinder",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2143,7 +2148,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2183,7 +2188,7 @@
       "Name": "Gunslinger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2191,7 +2196,7 @@
       "Name": "Skirmisher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -2199,7 +2204,7 @@
       "Name": "Sharpshooter",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2207,7 +2212,7 @@
       "Name": "The Long Game",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -2215,7 +2220,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -2223,7 +2228,7 @@
       "Name": "Precision Is Key",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -2231,7 +2236,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2255,7 +2260,7 @@
       "Name": "My Little Friend",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -2271,7 +2276,7 @@
       "Name": "Lord of War",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2287,7 +2292,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2303,7 +2308,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2311,7 +2316,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2383,7 +2388,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -2439,7 +2444,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2471,7 +2476,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2630,13 +2635,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1900,
+      "Progressed": 1904,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1949,
+      "Progressed": 1953,
       "Completed": 2
     }
   ],
@@ -2644,8 +2649,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:05:46.8314797+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:06:09.6987561+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T17:00:30.084973+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:05:46.8315406+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:00:40.1623587+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:06:09.6988362+00:00"
 }

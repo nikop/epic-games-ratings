@@ -8,30 +8,30 @@ Number of Ratings: 38  (23.09.2022)
 | ---- | ---------- | ----- |
 | My New Home | 59.00% | ~132 |
 | Scrap Gatherer | 58.00% | ~130 |
-| Mushroom Picker | 56.00% | ~125 |
+| Mushroom Picker | 57.00% | ~128 |
 | Scrapper | 50.00% | ~112 |
 | Cook | 42.00% | ~94 |
-| Teleport | 40.00% | ~90 |
+| Teleport | 41.00% | ~92 |
 | Scrap Master | 39.00% | ~87 |
 | Smelter | 36.00% | ~81 |
 | Digger | 34.00% | ~76 |
 | Electro-Scrap Gatherer | 34.00% | ~76 |
+| Survivor | 33.00% | ~74 |
 | Robot Destroyer | 32.00% | ~72 |
-| Survivor | 32.00% | ~72 |
 | Herbalist | 27.00% | ~60 |
 | Lumberjack | 26.00% | ~58 |
+| Prepper | 26.00% | ~58 |
 | Electro-Scrap Master | 25.00% | ~56 |
-| Prepper | 25.00% | ~56 |
-| Robot Hunter | 21.00% | ~47 |
+| Robot Hunter | 22.00% | ~49 |
 | Advanced Survivalist | 20.00% | ~45 |
-| Master Of Technology | 18.00% | ~40 |
+| Master Of Technology | 19.00% | ~43 |
 | Treasure Hunter | 17.00% | ~38 |
 | Blacksmith | 12.00% | ~27 |
+| Fuel | 12.00% | ~27 |
 | Mythical Smelter | 12.00% | ~27 |
-| Fuel | 11.00% | ~25 |
+| Smelting Master | 10.00% | ~22 |
 | Master Of Management | 9.00% | ~20 |
 | Forest Lord | 9.00% | ~20 |
-| Smelting Master | 9.00% | ~20 |
 | Black Gold | 8.00% | ~18 |
 | Traveler | 4.00% | ~9 |
 | Survival Master | 4.00% | ~9 |

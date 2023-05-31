@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 61.00% | ~157 |
-| Gorilla warfare | 57.00% | ~146 |
-| Isenburg's fall | 48.00% | ~123 |
-| Pieces of eight! | 41.00% | ~105 |
+| Gorilla warfare | 57.00% | ~147 |
+| Isenburg's fall | 48.00% | ~124 |
+| Pieces of eight! | 41.00% | ~106 |
 | Aboard the Sea Bird | 31.00% | ~80 |
-| Elephant in the room | 30.00% | ~77 |
 | Dark and stinky | 29.00% | ~75 |
+| Elephant in the room | 29.00% | ~75 |
 | Sneak in, sneak out | 26.00% | ~67 |
 | Is this the end? | 24.00% | ~62 |
 | You sssaved me | 24.00% | ~62 |
@@ -21,7 +21,7 @@
 | Double trouble | 16.00% | ~41 |
 | It's not cheating | 16.00% | ~41 |
 | Stronk | 15.00% | ~39 |
-| Welcome to Forte Ailes | 13.00% | ~33 |
+| Welcome to Forte Ailes | 13.00% | ~34 |
 | Super Moth Boy | 12.00% | ~31 |
 | Meet your maker | 9.00% | ~23 |
 | The Bad Place | 9.00% | ~23 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 229)  
+Progressed: 258 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-20 | 255 | 0 |
 | 2023-05-21 | 256 | 0 |
 | 2023-05-23 | 257 | 0 |
+| 2023-05-31 | 258 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

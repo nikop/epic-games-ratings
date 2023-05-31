@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~179 |
 | Building Trust | 0.20% | ~179 |
 | March of the Undead | 0.20% | ~179 |
+| Wisdom Check | 0.20% | ~179 |
 | No Time To Rest | 0.20% | ~179 |
 | Invisible Shadows | 0.20% | ~179 |
 | The Dinner Party | 0.20% | ~179 |
@@ -212,7 +213,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~89 |
 | Force Grey Unleashed | 0.10% | ~89 |
 | Vajra's Guards | 0.10% | ~89 |
-| Wisdom Check | 0.10% | ~89 |
 | Sleuth It Out | 0.10% | ~89 |
 | The Newcomers of Notoriety | 0.10% | ~56 |
 | A Grand Puzzle | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,314 (Ranked 61)  
+Progressed: 89,321 (Ranked 61)  
 Completed: 1,903 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1,903 (2.13%) (Ranked 61)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,314 | 1,903 |
+| 2023-05-31 | 89,321 | 1,903 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,007 (Ranked 37)  

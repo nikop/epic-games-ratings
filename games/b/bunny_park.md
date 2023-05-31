@@ -8,7 +8,7 @@
 | Debris Finder | 84.00% | ~239 |
 | Debris Gatherer | 60.00% | ~170 |
 | Beginner Decorator | 50.00% | ~142 |
-| Helpful Bot-terfly | 46.00% | ~131 |
+| Helpful Bot-terfly | 47.00% | ~133 |
 | Cozy Autumn | 40.00% | ~114 |
 | Bunny Party | 36.00% | ~102 |
 | Stylish Decorator | 32.00% | ~91 |

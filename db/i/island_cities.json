@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 15.14,
+  "EOS_Completed_Percentage": 15.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -968,6 +968,11 @@
       "Time": "2023-05-31T17:05:35.8811312+00:00",
       "NumProgressed": 218,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-31T18:05:59.2802395+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 22,
@@ -979,7 +984,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "LEVEL_002",
@@ -987,7 +992,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "LEVEL_003",
@@ -995,15 +1000,15 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_005",
@@ -1019,7 +1024,7 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_007",
@@ -1027,15 +1032,15 @@
       "Name": "Burger or pizza?",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_009",
@@ -1049,9 +1054,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_011",
@@ -1073,9 +1078,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_014",
@@ -1083,7 +1088,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_015",
@@ -1154,7 +1159,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 33
     }
   ],
@@ -1162,8 +1167,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:05:35.8811309+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:05:59.2802385+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-05-31T16:58:08.0349867+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:05:35.8811474+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:58:27.9343671+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:05:59.2802606+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brute force | 92.00% | ~23 |
-| What's going on here? | 88.00% | ~22 |
-| Nimble fingers | 72.00% | ~18 |
-| Room 104 | 72.00% | ~18 |
-| Face to face | 72.00% | ~18 |
-| Let's play a game… | 68.00% | ~17 |
-| Now or never | 64.00% | ~16 |
-| First aid | 56.00% | ~14 |
-| Antidote | 48.00% | ~12 |
-| Soundtrack | 48.00% | ~12 |
-| Pick the right door | 24.00% | ~6 |
-| On the right path | 20.00% | ~5 |
-| I'm close now | 20.00% | ~5 |
-| Failed attempt | 20.00% | ~5 |
-| The real escape | 20.00% | ~5 |
-| Nightmare in the kitchen | 20.00% | ~5 |
-| Good choice | 20.00% | ~5 |
-| It can't be true | 20.00% | ~5 |
-| Take the long way round | 20.00% | ~5 |
-| One-way | 20.00% | ~5 |
-| The third floor | 20.00% | ~5 |
-| Born again | 16.00% | ~4 |
+| Brute force | 92.00% | ~24 |
+| What's going on here? | 85.00% | ~22 |
+| Nimble fingers | 69.00% | ~18 |
+| Room 104 | 69.00% | ~18 |
+| Face to face | 69.00% | ~18 |
+| Let's play a game… | 65.00% | ~17 |
+| Now or never | 62.00% | ~16 |
+| First aid | 54.00% | ~14 |
+| Soundtrack | 50.00% | ~13 |
+| Antidote | 46.00% | ~12 |
+| Pick the right door | 23.00% | ~6 |
+| On the right path | 19.00% | ~5 |
+| I'm close now | 19.00% | ~5 |
+| Failed attempt | 19.00% | ~5 |
+| The real escape | 19.00% | ~5 |
+| Nightmare in the kitchen | 19.00% | ~5 |
+| Good choice | 19.00% | ~5 |
+| It can't be true | 19.00% | ~5 |
+| Take the long way round | 19.00% | ~5 |
+| One-way | 19.00% | ~5 |
+| The third floor | 19.00% | ~5 |
+| Born again | 15.00% | ~4 |
 | 373 | 12.00% | ~3 |
 | He who seeks, finds! | 12.00% | ~3 |
 | The experiment | 8.00% | ~2 |
@@ -36,7 +36,7 @@
 | A dark past | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 323)  
+Progressed: 26 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,3 +56,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-26 | 23 | 0 |
 | 2023-05-28 | 24 | 0 |
 | 2023-05-29 | 25 | 0 |
+| 2023-05-31 | 26 | 0 |

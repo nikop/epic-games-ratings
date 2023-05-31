@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,050 |
-| Landlord | 30.00% | ~15,471 |
-| Lawmaker | 21.00% | ~10,830 |
-| Bannerlord | 20.00% | ~10,314 |
-| Horde breaker | 20.00% | ~10,314 |
-| Trained | 20.00% | ~10,314 |
-| King Solomon | 16.00% | ~8,251 |
-| The king is pleased | 16.00% | ~8,251 |
+| Lawbringer | 35.00% | ~18,051 |
+| Landlord | 30.00% | ~15,472 |
+| Lawmaker | 21.00% | ~10,831 |
+| Bannerlord | 20.00% | ~10,315 |
+| Horde breaker | 20.00% | ~10,315 |
+| Trained | 20.00% | ~10,315 |
+| King Solomon | 16.00% | ~8,252 |
+| The king is pleased | 16.00% | ~8,252 |
 | Apple of my eye | 14.00% | ~7,220 |
 | I can do it | 14.00% | ~7,220 |
 | God of the Arena | 12.00% | ~6,189 |
 | Against all odds | 10.00% | ~5,157 |
-| Swordbearer | 9.00% | ~4,641 |
+| Swordbearer | 9.00% | ~4,642 |
 | Duelist | 8.00% | ~4,126 |
 | Dynasty | 8.00% | ~4,126 |
 | I spit on your grave | 8.00% | ~4,126 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,571 (Ranked 75)  
+Progressed: 51,574 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,16 +99,16 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 51,285 | 0 |
 | 2023-05-29 | 51,414 | 0 |
 | 2023-05-30 | 51,499 | 0 |
-| 2023-05-31 | 51,571 | 0 |
+| 2023-05-31 | 51,574 | 0 |
 ## Awards
 Max (Character Customization): 6,609  (Ranked 49)  
-Sum: 13,225 (Ranked 67)  
+Sum: 13,227 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,609 |
 | This game is Great for Beginners | 835 |
-| This game has Diverse Characters | 809 |
+| This game has Diverse Characters | 811 |
 | This game is Highly Recommended | 783 |
 | This game is Extremely Fun | 750 |
 | This game has Amazing Storytelling | 737 |
@@ -257,4 +257,4 @@ Diff (max vs sum): -18
 | 2023-05-28 | 4.74 | - | 6,589 | 13,182 |
 | 2023-05-29 | 4.74 | - | 6,594 | 13,199 |
 | 2023-05-30 | 4.74 | - | 6,599 | 13,210 |
-| 2023-05-31 | 4.74 | - | 6,609 | 13,225 |
+| 2023-05-31 | 4.74 | - | 6,609 | 13,227 |

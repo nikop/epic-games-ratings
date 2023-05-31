@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -820,6 +820,11 @@
       "Time": "2023-05-31T12:06:00.3392354+00:00",
       "NumProgressed": 961,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T18:06:18.4034816+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -855,7 +860,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Boy",
@@ -1007,7 +1012,7 @@
       "Name": "One by One",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Miner",
@@ -1070,15 +1075,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:05:55.7682451+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:06:18.403481+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-05-31T16:59:16.8139367+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:05:55.7682609+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:59:31.8181629+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:06:18.4035104+00:00"
 }

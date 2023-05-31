@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 353,
+  "EOS_Progressed": 354,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -660,6 +660,11 @@
       "Time": "2023-05-30T14:05:38.8938974+00:00",
       "NumProgressed": 353,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T18:06:18.4239456+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -685,9 +690,9 @@
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "dont-miss-calls",
@@ -695,7 +700,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "female-conqueror",
@@ -709,9 +714,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 135
     },
     {
       "ID": "hire-lieutenant",
@@ -719,7 +724,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "kill-lieutenants",
@@ -773,17 +778,17 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 142
     },
     {
       "ID": "send-smuggling",
@@ -791,7 +796,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "unlock-residences",
@@ -807,7 +812,7 @@
       "Name": "Take-Off",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "use-submarine",
@@ -822,15 +827,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 353,
+      "Progressed": 354,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:05:55.9354279+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:06:18.4239448+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.0374277+00:00",
-  "LastUpdate_Ratings": "2023-05-31T17:00:04.873694+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:05:55.935441+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:00:16.3663998+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:06:18.4239626+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -72,6 +72,11 @@
       "Time": "2023-05-23T23:06:52.5014203+00:00",
       "NumProgressed": 257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T18:06:24.3591285+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -107,7 +112,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "chapter2",
@@ -355,15 +360,15 @@
       "Name": "Pieces of eight!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "thePolitician",
       "SetID": "5bkacmp",
       "Name": "Elephant in the room",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "theRanger",
@@ -379,7 +384,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "trialByCombat",
@@ -395,7 +400,7 @@
       "Name": "Welcome to Forte Ailes",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "youSssavedMe",
@@ -410,7 +415,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 0
     }
   ],
@@ -418,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:06:01.8759065+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:06:24.3591279+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.9100533+00:00",
-  "LastUpdate_Ratings": "2023-05-31T17:00:28.5968308+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:06:01.8759308+00:00"
+  "LastUpdate_Ratings": "2023-05-31T18:00:38.9642593+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:06:24.3591629+00:00"
 }

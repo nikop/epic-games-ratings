@@ -2,13 +2,13 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 327,
+  "Ranking_Rating": 313,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
     "PcReleaseDate": "2015-04-02T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 6856,
   "RatingHistory": [
     {
@@ -4298,10 +4298,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 12248,
       "NumberOfAwardsMax": 2131
+    },
+    {
+      "Time": "2023-05-31T17:57:57.8232666+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 12253,
+      "NumberOfAwardsMax": 2131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12248,
+  "NumberOfAwards": 12253,
   "NumberOfAwardsMax": 2131,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4339,7 +4345,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2036
+      "Count": 2041
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4359,8 +4365,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-05-31T13:57:27.1642706+00:00",
+  "LastChanged": "2023-05-31T17:57:57.8232663+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:20.4970936+00:00",
-  "LastUpdate_Ratings": "2023-05-31T16:57:36.6207361+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:04:22.297946+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:57:57.8232671+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:04:58.3378805+00:00"
 }

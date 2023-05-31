@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -938,9 +938,9 @@
       "ID": "ACH_JUSTICE_SERVED",
       "SetID": "8j30i9k",
       "Name": "Justice Served",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1226,8 +1226,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-31T17:05:43.7500559+00:00",
+  "LastChanged_Achievements": "2023-05-31T18:06:06.5980733+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:09.3843779+00:00",
-  "LastUpdate_Ratings": "2023-05-31T16:58:31.1161481+00:00",
-  "LastUpdate_Achievements": "2023-05-31T17:05:43.7500959+00:00"
+  "LastUpdate_Ratings": "2023-05-31T17:58:49.4073181+00:00",
+  "LastUpdate_Achievements": "2023-05-31T18:06:06.5981266+00:00"
 }

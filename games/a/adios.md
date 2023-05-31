@@ -5,33 +5,33 @@ Rating: 3.41 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,385 |
-| Hard Worker | 20.00% | ~11,795 |
-| Master, Commander | 20.00% | ~11,795 |
-| Mechanic | 19.00% | ~11,205 |
-| Adios, Friendo | 18.00% | ~10,616 |
-| Bottom's Up | 17.00% | ~10,026 |
-| Nice Try | 16.00% | ~9,436 |
-| Right On Target | 13.00% | ~7,667 |
-| Piano Man | 10.00% | ~5,898 |
-| Lazy Bones | 9.00% | ~5,308 |
-| Vinyl Vibes | 7.00% | ~4,128 |
+| Be Seeing You | 21.00% | ~12,388 |
+| Hard Worker | 20.00% | ~11,798 |
+| Master, Commander | 20.00% | ~11,798 |
+| Mechanic | 19.00% | ~11,208 |
+| Adios, Friendo | 18.00% | ~10,618 |
+| Bottom's Up | 17.00% | ~10,028 |
+| Nice Try | 16.00% | ~9,438 |
+| Right On Target | 13.00% | ~7,669 |
+| Piano Man | 10.00% | ~5,899 |
+| Lazy Bones | 9.00% | ~5,309 |
+| Vinyl Vibes | 7.00% | ~4,129 |
 | Nothing Left to Say | 6.00% | ~3,539 |
 | Sniper | 6.00% | ~3,539 |
-| Cut Call | 5.00% | ~2,949 |
-| Butcher | 4.00% | ~2,359 |
-| Magnetic Miracles | 4.00% | ~2,359 |
-| Spicy | 4.00% | ~2,359 |
-| A Man Of Taste | 3.00% | ~1,769 |
-| Ace in the Hole | 3.00% | ~1,769 |
-| Fair's Fair | 3.00% | ~1,769 |
-| Hearty | 3.00% | ~1,769 |
-| Meaty | 3.00% | ~1,769 |
-| Taco Toto | 3.00% | ~1,769 |
+| Cut Call | 5.00% | ~2,950 |
+| Butcher | 4.00% | ~2,360 |
+| Magnetic Miracles | 4.00% | ~2,360 |
+| Spicy | 4.00% | ~2,360 |
+| A Man Of Taste | 3.00% | ~1,770 |
+| Ace in the Hole | 3.00% | ~1,770 |
+| Fair's Fair | 3.00% | ~1,770 |
+| Hearty | 3.00% | ~1,770 |
+| Meaty | 3.00% | ~1,770 |
+| Taco Toto | 3.00% | ~1,770 |
 | Audiophile | 2.00% | ~1,180 |
 | Tape Head | 1.00% | ~590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,976 (Ranked 72)  
+Progressed: 58,990 (Ranked 72)  
 Completed: 492 (0.83%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 492 (0.83%) (Ranked 93)
 | 2023-05-28 | 58,558 | 487 |
 | 2023-05-29 | 58,741 | 488 |
 | 2023-05-30 | 58,884 | 491 |
-| 2023-05-31 | 58,976 | 492 |
+| 2023-05-31 | 58,990 | 492 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

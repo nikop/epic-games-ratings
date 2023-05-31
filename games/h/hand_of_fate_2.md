@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,130 |
-| Apprentice | 58.00% | ~381,132 |
-| Close Shave | 25.00% | ~164,281 |
+| The Fool | 72.00% | ~473,132 |
+| Apprentice | 58.00% | ~381,134 |
+| Close Shave | 25.00% | ~164,282 |
 | Mercenary | 23.00% | ~151,139 |
 | Ninja | 23.00% | ~151,139 |
-| Northern Scourge | 17.00% | ~111,711 |
+| Northern Scourge | 17.00% | ~111,712 |
 | Thief Bane | 14.00% | ~91,998 |
 | Master of Arms | 12.00% | ~78,855 |
-| Gambler | 10.00% | ~65,712 |
-| Dice Master | 10.00% | ~65,712 |
-| Swordsman | 9.00% | ~59,141 |
+| Gambler | 10.00% | ~65,713 |
+| Dice Master | 10.00% | ~65,713 |
+| Swordsman | 9.00% | ~59,142 |
 | Knight | 8.00% | ~52,570 |
 | Cure for Corruption | 8.00% | ~52,570 |
 | Focused | 8.00% | ~52,570 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~19,714 |
 | Combat Ready | 3.00% | ~19,714 |
 | Stuffed Potato | 3.00% | ~19,714 |
-| Card Sharp | 2.00% | ~13,142 |
-| Magician | 2.00% | ~13,142 |
-| Draknar's Bane | 2.00% | ~13,142 |
+| Card Sharp | 2.00% | ~13,143 |
+| Magician | 2.00% | ~13,143 |
+| Draknar's Bane | 2.00% | ~13,143 |
 | Protector of the Realm | 1.00% | ~6,571 |
 | Purgatorium | 1.00% | ~6,571 |
 | Cursed Soul | 1.00% | ~6,571 |
@@ -45,8 +45,8 @@ Number of Ratings: 780  (23.09.2022)
 | Hero | 0.60% | ~3,943 |
 | Rebel | 0.60% | ~3,943 |
 | Dungeon Master | 0.50% | ~3,286 |
-| Pilgrim | 0.40% | ~2,628 |
-| Smiths Honour | 0.40% | ~2,628 |
+| Pilgrim | 0.40% | ~2,629 |
+| Smiths Honour | 0.40% | ~2,629 |
 | Peaceful Coast | 0.30% | ~1,971 |
 | Money Bags | 0.20% | ~1,314 |
 | Grifter | 0.10% | ~657 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~657 |
 | Blood Pact | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,125 (Ranked 18)  
+Progressed: 657,128 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 165 (0.03%) (Ranked 186)
 | 2023-05-28 | 656,972 | 165 |
 | 2023-05-29 | 657,036 | 165 |
 | 2023-05-30 | 657,088 | 165 |
-| 2023-05-31 | 657,125 | 165 |
+| 2023-05-31 | 657,128 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 360)  

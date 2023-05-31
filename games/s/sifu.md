@@ -7,19 +7,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~634 |
-| Project Arena | 3.00% | ~475 |
-| The Old Grandmaster | 1.00% | ~7,065 |
-| The Assault | 1.00% | ~7,065 |
-| The Hateful Pole Fighter | 1.00% | ~7,065 |
-| A Lady's Blood in the Snow | 1.00% | ~7,065 |
-| Life is your teacher | 1.00% | ~7,065 |
-| State of constant learning | 1.00% | ~7,065 |
-| Qi Gong: Breath | 1.00% | ~7,065 |
-| Lightning Hands | 1.00% | ~7,065 |
-| Path of the Prospect | 1.00% | ~7,065 |
-| Rumble in the Hangar | 1.00% | ~7,065 |
-| Bloody Sport | 1.00% | ~158 |
-| The best strikes are the ones we avoid | 1.00% | ~158 |
+| Project Arena | 3.00% | ~476 |
+| The Old Grandmaster | 1.00% | ~7,066 |
+| The Assault | 1.00% | ~7,066 |
+| The Hateful Pole Fighter | 1.00% | ~7,066 |
+| A Lady's Blood in the Snow | 1.00% | ~7,066 |
+| Life is your teacher | 1.00% | ~7,066 |
+| State of constant learning | 1.00% | ~7,066 |
+| Qi Gong: Breath | 1.00% | ~7,066 |
+| Lightning Hands | 1.00% | ~7,066 |
+| Path of the Prospect | 1.00% | ~7,066 |
+| Rumble in the Hangar | 1.00% | ~7,066 |
+| Bloody Sport | 1.00% | ~159 |
+| The best strikes are the ones we avoid | 1.00% | ~159 |
 | Lady Wing Chun | 0.90% | ~6,359 |
 | Furious Fists | 0.90% | ~6,359 |
 | Kill Nil | 0.90% | ~6,359 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,543 (Ranked 15)  
+Progressed: 706,551 (Ranked 15)  
 Completed: 12,749 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 12,749 (1.80%) (Ranked 66)
 | 2023-05-28 | 706,072 | 12,742 |
 | 2023-05-29 | 706,246 | 12,745 |
 | 2023-05-30 | 706,411 | 12,748 |
-| 2023-05-31 | 706,543 | 12,749 |
+| 2023-05-31 | 706,551 | 12,749 |
 ## Awards
 Max (Great Boss Battles): 6,114  (Ranked 53)  
 Sum: 10,422 (Ranked 77)  

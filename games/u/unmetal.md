@@ -1,7 +1,7 @@
 # UnMetal
 [Store](https://store.epicgames.com/en-US/p/unmetal)  
 [View Rawdata](../../db/u/unmetal.json)  
-Rating: 4.53 (Ranked 495)  
+Rating: 4.53 (Ranked 496)  
 Number of Ratings: 35  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
