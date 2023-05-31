@@ -13,7 +13,7 @@ Number of Ratings: 62  (23.09.2022)
 | Butcher's Bill | 55.00% | ~2,366 |
 | P.A.X | 37.00% | ~1,591 |
 | Hey Listen | 36.00% | ~1,548 |
-| OPERATOR | 35.00% | ~1,505 |
+| OPERATOR | 36.00% | ~1,548 |
 | It's Blue Light | 33.00% | ~1,419 |
 | Most Wanted | 26.00% | ~1,118 |
 | Infidel | 23.00% | ~989 |

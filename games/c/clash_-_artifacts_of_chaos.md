@@ -8,7 +8,7 @@
 | Target Practice | 38.00% | ~30 |
 | Over the Moon | 32.00% | ~25 |
 | The Bigger They Are | 29.00% | ~23 |
-| Enemies of Fate | 28.00% | ~22 |
+| Enemies of Fate | 29.00% | ~23 |
 | Amokuali Tower | 27.00% | ~21 |
 | Armored | 26.00% | ~20 |
 | Your Training Continues | 24.00% | ~19 |

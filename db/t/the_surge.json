@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -1171,9 +1171,9 @@
       "ID": "ID_ACHIEV_45",
       "SetID": "98bke8c",
       "Name": "OPERATOR",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1548
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1371,8 +1371,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-23T01:58:51.2287865+00:00",
-  "LastChanged_Achievements": "2023-05-31T02:23:23.1116943+00:00",
+  "LastChanged_Achievements": "2023-05-31T03:16:16.5817971+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:44.8329823+00:00",
-  "LastUpdate_Ratings": "2023-05-31T02:19:07.9532602+00:00",
-  "LastUpdate_Achievements": "2023-05-31T02:23:23.1118247+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:11:30.049122+00:00",
+  "LastUpdate_Achievements": "2023-05-31T03:16:16.5820348+00:00"
 }

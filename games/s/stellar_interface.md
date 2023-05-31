@@ -9,12 +9,12 @@
 | 5Gb HDD | 45.00% | ~10 |
 | Merchant Prince I | 41.00% | ~9 |
 | Dominating | 32.00% | ~7 |
+| Fighting Fit I | 27.00% | ~6 |
 | The Vette | 23.00% | ~5 |
-| Fighting Fit I | 23.00% | ~5 |
-| Rambo I | 14.00% | ~3 |
-| Mega Kill | 14.00% | ~3 |
+| Rambo I | 18.00% | ~4 |
+| Mega Kill | 18.00% | ~4 |
+| 10Gb HDD | 18.00% | ~4 |
 | Stoic | 14.00% | ~3 |
-| 10Gb HDD | 14.00% | ~3 |
 | Almost There I | 14.00% | ~3 |
 | Bronze Prince of Ball-air | 9.00% | ~2 |
 | Omicron Alpha | 9.00% | ~2 |

@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~35,267 |
-| Worth it | 63.00% | ~28,855 |
-| Eagle Eye | 55.00% | ~25,191 |
-| Corpseman I | 40.00% | ~18,320 |
-| Blast fishing | 37.00% | ~16,946 |
-| Not alone | 32.00% | ~14,656 |
-| Headhunter I | 26.00% | ~11,908 |
-| Manual Labour I | 25.00% | ~11,450 |
-| Developers, Developers, Developers | 24.00% | ~10,992 |
-| Basic Training | 24.00% | ~10,992 |
+| Setting an example | 77.00% | ~35,268 |
+| Worth it | 63.00% | ~28,856 |
+| Eagle Eye | 55.00% | ~25,192 |
+| Corpseman I | 40.00% | ~18,321 |
+| Blast fishing | 37.00% | ~16,947 |
+| Not alone | 32.00% | ~14,657 |
+| Headhunter I | 26.00% | ~11,909 |
+| Manual Labour I | 25.00% | ~11,451 |
+| Developers, Developers, Developers | 24.00% | ~10,993 |
+| Basic Training | 24.00% | ~10,993 |
 | Furchtlos und Treu | 13.00% | ~5,954 |
 | Gott Mit Uns | 12.00% | ~5,496 |
 | This We'll Defend! | 9.00% | ~4,122 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~46 |
 | Blood Brother | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,801 (Ranked 79)  
+Progressed: 45,803 (Ranked 79)  
 Completed: 3 (0.01%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,17 +107,17 @@ Completed: 3 (0.01%) (Ranked 196)
 | 2023-05-28 | 45,518 | 3 |
 | 2023-05-29 | 45,651 | 3 |
 | 2023-05-30 | 45,790 | 3 |
-| 2023-05-31 | 45,801 | 3 |
+| 2023-05-31 | 45,803 | 3 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 334)  
-Sum: 738 (Ranked 256)  
+Sum: 739 (Ranked 256)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 93 |
 | This game is Great for Beginners | 88 |
 | This game is Extremely Fun | 87 |
-| This game has Diverse Characters | 83 |
+| This game has Diverse Characters | 84 |
 | This game has Quickly Understood Controls | 82 |
 | This game is Educational | 76 |
 | This game is Relaxing | 73 |
@@ -234,3 +234,4 @@ Diff (max vs sum): 78
 | 2023-05-21 | 4.53 | - | 93 | 736 |
 | 2023-05-24 | 4.53 | - | 93 | 737 |
 | 2023-05-28 | 4.53 | - | 93 | 738 |
+| 2023-05-31 | 4.53 | - | 93 | 739 |

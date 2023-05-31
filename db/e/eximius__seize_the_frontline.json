@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187123,
+  "EOS_Progressed": 187128,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4320,6 +4320,11 @@
       "Time": "2023-05-31T02:27:24.4822426+00:00",
       "NumProgressed": 187123,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-31T03:20:05.8844443+00:00",
+      "NumProgressed": 187128,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -4339,7 +4344,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 132857
+      "UsersEstimate": 132861
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -4363,7 +4368,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33682
+      "UsersEstimate": 33683
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -4435,7 +4440,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -4458,7 +4463,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 187123,
+      "Progressed": 187128,
       "Completed": 4
     }
   ],
@@ -4466,8 +4471,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-23T23:59:55.4037275+00:00",
-  "LastChanged_Achievements": "2023-05-31T02:27:24.4822418+00:00",
+  "LastChanged_Achievements": "2023-05-31T03:20:05.8844438+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:11.5140683+00:00",
-  "LastUpdate_Ratings": "2023-05-31T02:21:17.1028326+00:00",
-  "LastUpdate_Achievements": "2023-05-31T02:27:24.4822989+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:13:40.6106449+00:00",
+  "LastUpdate_Achievements": "2023-05-31T03:20:05.8844866+00:00"
 }

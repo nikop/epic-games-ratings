@@ -34,10 +34,10 @@ Rating: 3.94 (Ranked 902)
 | The power of Awakening | 7.00% | ~86 |
 | Frostfire Liberator | 6.00% | ~74 |
 | Hunter | 6.00% | ~74 |
+| Mastery | 6.00% | ~74 |
 | Moving Up The Ladder | 6.00% | ~74 |
 | Relic Of The Past | 6.00% | ~74 |
 | Doing My Part | 5.00% | ~62 |
-| Mastery | 5.00% | ~62 |
 | The Expeditioner | 5.00% | ~62 |
 | Here We Go Again | 4.00% | ~49 |
 | How Do You Turn This On? | 4.00% | ~49 |

@@ -271,9 +271,9 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Cleared2001LevelsAchievement",
@@ -727,9 +727,9 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed100BossesAchievement",
@@ -839,9 +839,9 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PerksUnlocked25Achievement",
@@ -1175,9 +1175,9 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "VisitRegular2000TimeAchievement",
@@ -1198,8 +1198,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-31T02:27:54.2906571+00:00",
+  "LastChanged_Achievements": "2023-05-31T03:20:35.4472533+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.465604+00:00",
-  "LastUpdate_Ratings": "2023-05-31T02:20:04.4534569+00:00",
-  "LastUpdate_Achievements": "2023-05-31T02:27:54.2910072+00:00"
+  "LastUpdate_Ratings": "2023-05-31T03:12:27.6399959+00:00",
+  "LastUpdate_Achievements": "2023-05-31T03:20:35.4474674+00:00"
 }

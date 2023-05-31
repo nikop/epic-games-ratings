@@ -6,14 +6,14 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,556 |
-| Incurious | 14.00% | ~83,556 |
-| Stroller | 12.00% | ~71,619 |
-| Climate Change | 12.00% | ~71,619 |
-| Advanced Hiker | 10.00% | ~59,683 |
-| Toy Train | 10.00% | ~59,683 |
-| Hiker | 9.00% | ~53,714 |
-| Mojave Courier | 4.00% | ~23,873 |
+| Advanced Stroller | 14.00% | ~83,557 |
+| Incurious | 14.00% | ~83,557 |
+| Stroller | 12.00% | ~71,621 |
+| Climate Change | 12.00% | ~71,621 |
+| Advanced Hiker | 10.00% | ~59,684 |
+| Toy Train | 10.00% | ~59,684 |
+| Hiker | 9.00% | ~53,716 |
+| Mojave Courier | 4.00% | ~23,874 |
 | Voyager | 3.00% | ~17,905 |
 | Advanced Voyager | 3.00% | ~17,905 |
 | Expert Stroller | 3.00% | ~17,905 |
@@ -28,12 +28,12 @@ Number of Ratings: 21,990  (23.09.2022)
 | Nanuk | 0.50% | ~2,984 |
 | Shopaholic | 0.50% | ~2,984 |
 | Terminal Station | 0.40% | ~2,387 |
-| Wayfarer | 0.30% | ~1,790 |
-| Advanced Wayfarer | 0.30% | ~1,790 |
-| Scrooge | 0.30% | ~1,790 |
-| Snowman's Land | 0.30% | ~1,790 |
-| Tough Nut! | 0.30% | ~1,790 |
-| Dynamite Fishing | 0.30% | ~1,790 |
+| Wayfarer | 0.30% | ~1,791 |
+| Advanced Wayfarer | 0.30% | ~1,791 |
+| Scrooge | 0.30% | ~1,791 |
+| Snowman's Land | 0.30% | ~1,791 |
+| Tough Nut! | 0.30% | ~1,791 |
+| Dynamite Fishing | 0.30% | ~1,791 |
 | Trans-Siberian Railway | 0.20% | ~1,194 |
 | Engineer | 0.20% | ~1,194 |
 | Satan's Minion | 0.20% | ~1,194 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~597 |
 | 20 Miles under the Sea | 0.10% | ~597 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596,826 (Ranked 20)  
+Progressed: 596,839 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 7 (0.00%) (Ranked 207)
 | 2023-05-28 | 595,945 | 7 |
 | 2023-05-29 | 596,417 | 7 |
 | 2023-05-30 | 596,783 | 7 |
-| 2023-05-31 | 596,826 | 7 |
+| 2023-05-31 | 596,839 | 7 |
 ## Awards
 Max (Diverse Characters): 186  (Ranked 267)  
 Sum: 1,508 (Ranked 209)  

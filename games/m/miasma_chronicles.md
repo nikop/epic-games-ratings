@@ -5,23 +5,23 @@ Rating: 4.23 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~801 |
-| Ranidaphobia | 72.00% | ~634 |
-| Aspiring Editor | 68.00% | ~598 |
-| Gun for Hire | 63.00% | ~554 |
-| I am the law! | 51.00% | ~449 |
-| Lumberjack | 33.00% | ~290 |
-| Firestarter | 29.00% | ~255 |
-| Croaked | 28.00% | ~246 |
-| Limp Richard | 28.00% | ~246 |
-| From Darkness to Light | 28.00% | ~246 |
+| First Blood | 91.00% | ~803 |
+| Ranidaphobia | 72.00% | ~635 |
+| Aspiring Editor | 69.00% | ~609 |
+| Gun for Hire | 63.00% | ~556 |
+| I am the law! | 51.00% | ~450 |
+| Lumberjack | 33.00% | ~291 |
+| Firestarter | 29.00% | ~256 |
+| Croaked | 28.00% | ~247 |
+| Limp Richard | 28.00% | ~247 |
+| From Darkness to Light | 28.00% | ~247 |
 | Exorcist | 25.00% | ~220 |
-| Editor Adept | 24.00% | ~211 |
+| Editor Adept | 24.00% | ~212 |
 | Giant Killer | 21.00% | ~185 |
-| Sensei | 19.00% | ~167 |
-| The meaning of Kain | 19.00% | ~167 |
+| Sensei | 19.00% | ~168 |
+| The meaning of Kain | 19.00% | ~168 |
 | Technophobe | 15.00% | ~132 |
-| Recycler | 13.00% | ~114 |
+| Recycler | 13.00% | ~115 |
 | Chain Killer | 12.00% | ~106 |
 | Hold The Line | 12.00% | ~106 |
 | Are you not entertained? | 10.00% | ~88 |
@@ -57,7 +57,7 @@ Rating: 4.23 (Ranked 803)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 880 (Ranked 178)  
+Progressed: 882 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 746 | 0 |
 | 2023-05-29 | 815 | 0 |
 | 2023-05-30 | 875 | 0 |
-| 2023-05-31 | 880 | 0 |
+| 2023-05-31 | 882 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

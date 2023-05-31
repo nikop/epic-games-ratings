@@ -14,11 +14,11 @@
 | Blow | 31.00% | ~52 |
 | Just like me | 30.00% | ~50 |
 | I bless the rain down in London | 28.00% | ~47 |
+| Delusions | 27.00% | ~45 |
 | Brown nosing | 26.00% | ~43 |
-| Delusions | 26.00% | ~43 |
-| Cheat | 25.00% | ~42 |
-| Prove it | 22.00% | ~37 |
-| The truth | 22.00% | ~37 |
+| Cheat | 26.00% | ~43 |
+| Prove it | 23.00% | ~38 |
+| The truth | 23.00% | ~38 |
 | Making a murderer | 16.00% | ~27 |
 | The whole truth | 11.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
