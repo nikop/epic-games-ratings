@@ -20,7 +20,7 @@
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.38% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [Remains](games/r/remains.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.02% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.08% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 24 | [Scorn](games/s/scorn.md) | 6.85% |
@@ -34,12 +34,12 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.08% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.99% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.96% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.89% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.74% |
+| 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
 | 41 | [The Complex](games/t/the_complex.md) | 3.42% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
