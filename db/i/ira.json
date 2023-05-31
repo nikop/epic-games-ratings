@@ -2,7 +2,7 @@
   "ID": "0d5a986ba8e94cccbf633ee244aec017",
   "Name": "IRA",
   "ProductSlug": "ira-9709d2",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 90,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.3047182+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:57:11.9144258+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:03:36.2744408+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:57:09.2487025+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:03:42.3669505+00:00"
 }

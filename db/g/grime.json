@@ -548,9 +548,9 @@
       "ID": "DEFEAT_HARMLESSROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Harmless",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 68
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -660,9 +660,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -762,8 +762,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:06:18.9808529+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:06:35.538396+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:00:51.6161218+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:06:18.9809031+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:00:54.2649048+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:06:35.5384415+00:00"
 }

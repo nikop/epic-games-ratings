@@ -4030,10 +4030,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89280,
-  "EOS_Completed": 1901,
-  "EOS_NewPlayers": 820,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 89283,
+  "EOS_Completed": 1902,
+  "EOS_NewPlayers": 823,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8080,6 +8080,11 @@
       "Time": "2023-05-31T08:06:27.4831758+00:00",
       "NumProgressed": 89280,
       "NumCompleted": 1901
+    },
+    {
+      "Time": "2023-05-31T09:06:43.8208863+00:00",
+      "NumProgressed": 89283,
+      "NumCompleted": 1902
     }
   ],
   "TotalAchievements": 493,
@@ -8825,9 +8830,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1174",
@@ -9241,9 +9246,9 @@
       "ID": "objective_completed_154",
       "SetID": "cc37lbc",
       "Name": "Captured!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_155",
@@ -12034,21 +12039,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55554,
-      "Completed": 2745
+      "Progressed": 55557,
+      "Completed": 2746
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89280,
-      "Completed": 1901
+      "Progressed": 89283,
+      "Completed": 1902
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-30T13:57:54.7211701+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:06:27.4831753+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:06:43.8208858+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:58:14.2802174+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:06:27.4858908+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:58:12.3715871+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:06:43.8237053+00:00"
 }

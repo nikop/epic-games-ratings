@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5083,
+  "EOS_Progressed": 5084,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -405,6 +405,11 @@
       "Time": "2023-05-31T02:27:49.5556415+00:00",
       "NumProgressed": 5083,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-31T09:06:37.636664+00:00",
+      "NumProgressed": 5084,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -424,7 +429,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -456,7 +461,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -464,7 +469,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -480,7 +485,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -544,7 +549,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4981
+      "UsersEstimate": 4982
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -552,7 +557,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -576,7 +581,7 @@
       "Name": "The Fellowship",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVE_FIREMAN",
@@ -584,7 +589,7 @@
       "Name": "Backdraft",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVE_FORTUNE_GRIND_WIN",
@@ -624,7 +629,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3965
+      "UsersEstimate": 3966
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -632,7 +637,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -640,7 +645,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -656,7 +661,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -688,7 +693,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -696,7 +701,7 @@
       "Name": "Eternal Frenemies",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVE_LVL_1_COMPLETE",
@@ -704,7 +709,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4981
+      "UsersEstimate": 4982
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -720,7 +725,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -728,7 +733,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -736,7 +741,7 @@
       "Name": "The Midas Touch",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVE_MINERSET_MINING",
@@ -744,7 +749,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -760,7 +765,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -800,22 +805,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3609
+      "UsersEstimate": 3610
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5083,
+      "Progressed": 5084,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:06:20.9917662+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:06:37.6366633+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:26.530118+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:00:26.5858019+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:06:20.9918046+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:00:27.2310447+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:06:37.6367348+00:00"
 }

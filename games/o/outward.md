@@ -8,7 +8,7 @@ Number of Ratings: 266  (23.09.2022)
 | ---- | ---------- | ----- |
 | Venture Outward | 74.00% | ~1,994 |
 | Ready for Winter | 63.00% | ~1,698 |
-| Ready for Summer | 50.00% | ~1,348 |
+| Ready for Summer | 51.00% | ~1,374 |
 | Cordon Bleu | 43.00% | ~1,159 |
 | Tapped! | 35.00% | ~943 |
 | Eureka | 31.00% | ~835 |

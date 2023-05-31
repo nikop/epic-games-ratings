@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -113,6 +113,11 @@
     {
       "Time": "2023-05-29T10:05:50.3419769+00:00",
       "NumProgressed": 300,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T09:06:38.9021467+00:00",
+      "NumProgressed": 301,
       "NumCompleted": 1
     }
   ],
@@ -299,9 +304,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 154
     },
     {
       "ID": "ach-discover-locations-high",
@@ -349,7 +354,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach-hardExpeditions",
@@ -604,7 +609,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 1
     }
   ],
@@ -612,8 +617,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:06:22.442544+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:06:38.9021459+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-31T08:00:59.546112+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:06:22.4425919+00:00"
+  "LastUpdate_Ratings": "2023-05-31T09:01:02.5536733+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:06:38.9021997+00:00"
 }

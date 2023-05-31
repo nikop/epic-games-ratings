@@ -2128,9 +2128,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 18375,
+  "EOS_Progressed": 18376,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -6178,6 +6178,11 @@
       "Time": "2023-05-31T08:04:21.8676533+00:00",
       "NumProgressed": 18375,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-05-31T09:04:38.1178324+00:00",
+      "NumProgressed": 18376,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 60,
@@ -6189,7 +6194,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10841
+      "UsersEstimate": 10842
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -6197,7 +6202,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8636
+      "UsersEstimate": 8637
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -6301,7 +6306,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9371
+      "UsersEstimate": 9372
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -6349,7 +6354,7 @@
       "Name": "The last burger",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 7166
+      "UsersEstimate": 7167
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -6381,7 +6386,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 6982
+      "UsersEstimate": 6983
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -6469,7 +6474,7 @@
       "Name": "Destroy the thing",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 4961
+      "UsersEstimate": 4962
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -6517,7 +6522,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5512
+      "UsersEstimate": 5513
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -6541,7 +6546,7 @@
       "Name": "The Force disturbed",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -6573,7 +6578,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 8452
+      "UsersEstimate": 8453
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -6589,7 +6594,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12862
+      "UsersEstimate": 12863
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -6597,7 +6602,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -6637,7 +6642,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5696
+      "UsersEstimate": 5697
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -6668,15 +6673,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 18375,
+      "Progressed": 18376,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-30T21:58:49.155571+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:04:21.8676521+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:04:38.1178317+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.7478417+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:59:25.0878132+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:04:21.8677299+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:59:26.3249729+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:04:38.1179677+00:00"
 }

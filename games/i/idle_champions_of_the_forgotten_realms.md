@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~179 |
 | The Lutes of Loomlurch | 0.20% | ~111 |
 | Supply Run | 0.20% | ~179 |
+| Return to the Tomb | 0.20% | ~111 |
 | Keep Your Distance | 0.20% | ~111 |
 | Heatwave | 0.20% | ~111 |
 | Hands Off! | 0.20% | ~111 |
@@ -56,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~111 |
 | Welcome to the Rock | 0.20% | ~111 |
 | The Forbidden City | 0.20% | ~179 |
+| Captured! | 0.20% | ~179 |
 | Low Initiative | 0.20% | ~179 |
 | Street War | 0.20% | ~179 |
 | Building Trust | 0.20% | ~179 |
@@ -174,7 +176,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.10% | ~56 |
 | Friends of the Forest | 0.10% | ~89 |
 | More Than Well Equipped | 0.10% | ~56 |
-| Return to the Tomb | 0.10% | ~56 |
 | Arcane Efforts | 0.10% | ~56 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
 | Weak Doesn't Mean Feeble | 0.10% | ~56 |
@@ -203,7 +204,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~89 |
 | No Good at All | 0.10% | ~89 |
 | Fall From Grace | 0.10% | ~89 |
-| Captured! | 0.10% | ~89 |
 | Home Field Advantage | 0.10% | ~89 |
 | Double Vision | 0.10% | ~89 |
 | Underground Railroad | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,280 (Ranked 61)  
-Completed: 1,901 (2.13%) (Ranked 63)  
+Progressed: 89,283 (Ranked 61)  
+Completed: 1,902 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -541,7 +541,7 @@ Completed: 1,901 (2.13%) (Ranked 63)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,280 | 1,901 |
+| 2023-05-31 | 89,283 | 1,902 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

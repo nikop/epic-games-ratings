@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2643,
+  "EOS_Progressed": 2644,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2100,6 +2100,11 @@
       "Time": "2023-05-31T08:03:36.9239+00:00",
       "NumProgressed": 2643,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T09:03:43.0486651+00:00",
+      "NumProgressed": 2644,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2207,7 +2212,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "21",
@@ -2215,7 +2220,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "22",
@@ -2223,7 +2228,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "23",
@@ -2231,7 +2236,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "24",
@@ -2255,7 +2260,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "5",
@@ -2263,7 +2268,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "6",
@@ -2271,7 +2276,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "7",
@@ -2302,13 +2307,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2643,
+      "Progressed": 2644,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:03:36.9238993+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:03:43.0486643+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:59:13.211067+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:03:36.9239301+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:59:13.8416274+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:03:43.0487131+00:00"
 }

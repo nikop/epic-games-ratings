@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 909,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
@@ -2245,9 +2245,9 @@
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 773
     },
     {
       "ID": "40",
@@ -2317,9 +2317,9 @@
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 791
     },
     {
       "ID": "49",
@@ -2390,8 +2390,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:05:50.7737844+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:06:06.888872+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:57:33.083902+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:05:50.7738382+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:57:31.4441293+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:06:06.8889293+00:00"
 }

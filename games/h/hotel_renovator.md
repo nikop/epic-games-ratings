@@ -5,36 +5,36 @@ Rating: 4.52 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~594 |
-| And so it begins | 72.00% | ~563 |
+| Good start | 76.00% | ~595 |
+| And so it begins | 72.00% | ~564 |
 | No pressure | 69.00% | ~540 |
-| Memento | 61.00% | ~477 |
+| Memento | 61.00% | ~478 |
 | Let there be light | 58.00% | ~454 |
-| I think you dropped this | 54.00% | ~422 |
+| I think you dropped this | 54.00% | ~423 |
 | Soulmate? | 52.00% | ~407 |
-| Excellent service | 48.00% | ~375 |
+| Excellent service | 48.00% | ~376 |
 | Roll with it | 45.00% | ~352 |
-| Humble beginnings | 43.00% | ~336 |
-| Love is in the air | 43.00% | ~336 |
+| Humble beginnings | 43.00% | ~337 |
+| Love is in the air | 43.00% | ~337 |
 | Moving up | 41.00% | ~321 |
 | Fine, I'll do it myself | 40.00% | ~313 |
-| No need to call anyone | 38.00% | ~297 |
-| Big fortune | 32.00% | ~250 |
+| No need to call anyone | 38.00% | ~298 |
+| Big fortune | 32.00% | ~251 |
 | Still more work ahead | 28.00% | ~219 |
 | Hotel sleuthing | 27.00% | ~211 |
-| Aesop's fable | 26.00% | ~203 |
+| Aesop's fable | 26.00% | ~204 |
 | Kaboom | 25.00% | ~196 |
 | Nearly there | 24.00% | ~188 |
 | Broken heart | 21.00% | ~164 |
-| Island boy | 20.00% | ~156 |
-| Unstoppable | 18.00% | ~141 |
+| Island boy | 20.00% | ~157 |
 | You're a star | 18.00% | ~141 |
+| Unstoppable | 17.00% | ~133 |
 | Reunited | 16.00% | ~125 |
 | King of hospitality | 10.00% | ~78 |
 | Top spot in town | 2.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 782 (Ranked 181)  
-Completed: 11 (1.41%) (Ranked 74)  
+Progressed: 783 (Ranked 181)  
+Completed: 11 (1.40%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 11 (1.41%) (Ranked 74)
 | 2023-05-28 | 774 | 11 |
 | 2023-05-29 | 778 | 11 |
 | 2023-05-30 | 781 | 11 |
-| 2023-05-31 | 782 | 11 |
+| 2023-05-31 | 783 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~184 |
-| Cowardice | 54.00% | ~160 |
+| Explorer | 62.00% | ~185 |
+| Cowardice | 54.00% | ~161 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~146 |
 | Eat Lead! | 48.00% | ~143 |
 | Here Comes the Boom | 44.00% | ~131 |
@@ -23,13 +23,13 @@ Number of Ratings: 34  (23.09.2022)
 | Consequences | 29.00% | ~86 |
 | Opportunities | 28.00% | ~83 |
 | The Horror | 26.00% | ~77 |
-| Collectibles of Chapter II | 24.00% | ~71 |
-| The Difference | 23.00% | ~68 |
-| Vengeance | 22.00% | ~65 |
-| Food Massacre | 20.00% | ~59 |
-| Broken Hopes | 19.00% | ~56 |
-| It's Just an Accident | 19.00% | ~56 |
-| Bullseye! | 19.00% | ~56 |
+| Collectibles of Chapter II | 23.00% | ~69 |
+| The Difference | 23.00% | ~69 |
+| Vengeance | 22.00% | ~66 |
+| Broken Hopes | 19.00% | ~57 |
+| It's Just an Accident | 19.00% | ~57 |
+| Food Massacre | 19.00% | ~57 |
+| Bullseye! | 19.00% | ~57 |
 | Collectibles of Chapter III | 16.00% | ~48 |
 | Sorrow | 16.00% | ~48 |
 | Collectibles of Chapter IV | 14.00% | ~42 |
@@ -38,9 +38,9 @@ Number of Ratings: 34  (23.09.2022)
 | Helping Hand | 12.00% | ~36 |
 | Collectibles of Chapter V | 9.00% | ~27 |
 | Such is War! | 8.00% | ~24 |
+| Tiptoe Around | 8.00% | ~24 |
 | Collectibles of Chapter VII | 7.00% | ~21 |
 | Piece of Cake | 7.00% | ~21 |
-| Tiptoe Around | 7.00% | ~21 |
 | Collectibles of Chapter XII | 6.00% | ~18 |
 | Collectibles of Chapter VIII | 5.00% | ~15 |
 | Collectibles of Chapter X | 4.00% | ~12 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 222)  
+Progressed: 298 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-27 | 290 | 0 |
 | 2023-05-28 | 296 | 0 |
 | 2023-05-30 | 297 | 0 |
+| 2023-05-31 | 298 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

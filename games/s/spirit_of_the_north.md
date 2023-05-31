@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~37,696 |
-| INFUSED WITH LIGHT | 52.00% | ~29,257 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~37,698 |
+| INFUSED WITH LIGHT | 52.00% | ~29,258 |
 | FOXIN' AROUND | 28.00% | ~15,754 |
-| FETCH | 27.00% | ~15,191 |
-| BLOOMS OF LIGHT | 26.00% | ~14,628 |
-| BEST FRIENDS | 22.00% | ~12,378 |
-| AWAKEN | 21.00% | ~11,815 |
+| FETCH | 27.00% | ~15,192 |
+| BLOOMS OF LIGHT | 26.00% | ~14,629 |
+| BEST FRIENDS | 22.00% | ~12,379 |
+| AWAKEN | 21.00% | ~11,816 |
 | ERADICATE | 20.00% | ~11,253 |
 | SPIRIT BARK | 20.00% | ~11,253 |
-| GARDEN OF LIGHT | 18.00% | ~10,127 |
-| SPIRIT FORM | 16.00% | ~9,002 |
-| UPROOTING DARKNESS | 15.00% | ~8,439 |
-| WRITTEN IN STONE | 15.00% | ~8,439 |
+| GARDEN OF LIGHT | 18.00% | ~10,128 |
+| SPIRIT FORM | 16.00% | ~9,003 |
+| UPROOTING DARKNESS | 15.00% | ~8,440 |
+| WRITTEN IN STONE | 15.00% | ~8,440 |
 | WEIGHTLESS | 11.00% | ~6,189 |
-| SPIRIT DASH | 10.00% | ~5,626 |
+| SPIRIT DASH | 10.00% | ~5,627 |
 | OLD COMPANION | 8.00% | ~4,501 |
 | PLAGUE DOCTOR | 8.00% | ~4,501 |
-| MATCH MAKER | 7.00% | ~3,938 |
-| NORTHERN LIGHTS | 7.00% | ~3,938 |
-| SPIRITED AWAY | 7.00% | ~3,938 |
+| MATCH MAKER | 7.00% | ~3,939 |
+| NORTHERN LIGHTS | 7.00% | ~3,939 |
+| SPIRITED AWAY | 7.00% | ~3,939 |
 | FOX? OR FLYING SQUIRREL? | 3.00% | ~1,688 |
 | ANCIENT HISTORY | 2.00% | ~1,125 |
 | NONE FORGOTTEN | 2.00% | ~1,125 |
 | KINDRED SPIRITS | 0.60% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,263 (Ranked 73)  
+Progressed: 56,266 (Ranked 73)  
 Completed: 276 (0.49%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 276 (0.49%) (Ranked 108)
 | 2023-05-28 | 55,983 | 271 |
 | 2023-05-29 | 56,114 | 274 |
 | 2023-05-30 | 56,243 | 275 |
-| 2023-05-31 | 56,263 | 276 |
+| 2023-05-31 | 56,266 | 276 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 463)  
 Sum: 93 (Ranked 402)  

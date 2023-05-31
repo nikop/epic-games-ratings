@@ -6,7 +6,7 @@ Number of Ratings: 71  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| "Nice" to meet you | 76.00% | ~830 |
+| "Nice" to meet you | 77.00% | ~841 |
 | Freeze to death | 57.00% | ~622 |
 | Is she really dead? | 46.00% | ~502 |
 | Screwdriver | 44.00% | ~480 |

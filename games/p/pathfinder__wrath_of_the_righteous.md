@@ -24,6 +24,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 3.00% | ~281 |
 | All Paths Open | 3.00% | ~281 |
 | Next-Door Play | 3.00% | ~281 |
+| Get the Toad | 3.00% | ~281 |
 | Heart of the Fallen Land | 2.00% | ~188 |
 | Path of the Trickster | 2.00% | ~188 |
 | Heroic Victory | 2.00% | ~188 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~188 |
 | A Flame | 2.00% | ~188 |
 | Hey, I Know You! | 2.00% | ~188 |
-| Get the Toad | 2.00% | ~188 |
 | Hanged Man's Notes | 2.00% | ~163 |
 | The Lady of the Forest | 2.00% | ~163 |
 | Beware Still Water | 2.00% | ~163 |

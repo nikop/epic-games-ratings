@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2023-05-31T02:24:18.7801377+00:00",
       "NumProgressed": 219,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T09:03:28.2490922+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -450,7 +455,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "completeact2",
@@ -466,7 +471,7 @@
       "Name": "On the Road",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "findalltapes",
@@ -520,17 +525,17 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "scoreminrankrp2",
@@ -569,7 +574,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 2
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:03:22.4420536+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:03:28.2490915+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:59:03.1355732+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:03:22.4420836+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:59:02.5403145+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:03:28.2491131+00:00"
 }

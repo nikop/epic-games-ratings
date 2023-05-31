@@ -5,13 +5,13 @@ Rating: 4.63 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,144 |
-| Greasy Palms | 39.00% | ~2,851 |
+| Legal Counsel | 43.00% | ~3,145 |
+| Greasy Palms | 39.00% | ~2,852 |
 | South American Connection | 23.00% | ~1,682 |
 | Life of the Party | 17.00% | ~1,243 |
-| Tommy Two-Wheels | 13.00% | ~950 |
-| Big Heat from Little Havana | 12.00% | ~877 |
-| Chauffeur | 12.00% | ~877 |
+| Tommy Two-Wheels | 13.00% | ~951 |
+| Big Heat from Little Havana | 12.00% | ~878 |
+| Chauffeur | 12.00% | ~878 |
 | Iron-y | 9.00% | ~658 |
 | Salutations My Little Friend | 9.00% | ~658 |
 | Gun for Hire | 7.00% | ~512 |
@@ -19,8 +19,8 @@ Rating: 4.63 (Ranked 327)
 | Vice City Mogul | 6.00% | ~439 |
 | Catch Me if You Can | 5.00% | ~366 |
 | Bloodstained Hands | 5.00% | ~366 |
-| Not my First Time | 4.00% | ~292 |
-| Grand Theft Auto | 4.00% | ~292 |
+| Not my First Time | 4.00% | ~293 |
+| Grand Theft Auto | 4.00% | ~293 |
 | High Quality H2O | 3.00% | ~219 |
 | Pie Guy | 3.00% | ~219 |
 | Running Rampant | 2.00% | ~146 |
@@ -33,14 +33,14 @@ Rating: 4.63 (Ranked 327)
 | City Sleuth | 2.00% | ~146 |
 | One is Better Than Two | 1.00% | ~73 |
 | Chopper’d Up | 1.00% | ~73 |
-| Daredevil | 0.80% | ~58 |
+| Daredevil | 0.80% | ~59 |
 | Born in the 80’s | 0.70% | ~51 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~51 |
 | I'm Famous! | 0.70% | ~51 |
 | Done it All | 0.60% | ~44 |
 | Kingpin | 0.30% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,311 (Ranked 113)  
+Progressed: 7,313 (Ranked 113)  
 Completed: 25 (0.34%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 25 (0.34%) (Ranked 120)
 | 2023-05-28 | 7,140 | 24 |
 | 2023-05-29 | 7,217 | 24 |
 | 2023-05-30 | 7,284 | 24 |
-| 2023-05-31 | 7,311 | 25 |
+| 2023-05-31 | 7,313 | 25 |
 ## Awards
 Max (Great Boss Battles): 41  (Ranked 408)  
 Sum: 41 (Ranked 444)  

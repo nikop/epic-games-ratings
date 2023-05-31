@@ -3,7 +3,7 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 369,
-  "EOS_Completed": 23,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 81,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 6.23,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 6.5,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -856,6 +856,11 @@
       "Time": "2023-05-31T03:17:33.0165616+00:00",
       "NumProgressed": 369,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-31T09:03:54.3234111+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 30,
@@ -1097,9 +1102,9 @@
       "ID": "LEVEL_030",
       "SetID": "212bg48",
       "Name": "Celebration with Cake and Balloons",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
@@ -1107,13 +1112,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 369,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:03:48.4008953+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:03:54.3234102+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:57:09.6354086+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:03:48.4009235+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:57:06.9573089+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:03:54.3234661+00:00"
 }

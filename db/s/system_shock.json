@@ -2,7 +2,7 @@
   "ID": "e49aaa31c1324e398e0b1029a0c6d390",
   "Name": "System Shock",
   "ProductSlug": "system-shock",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 90,
@@ -17,12 +17,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-05-31T09:04:50.0295819+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "TotalAchievements": 46,
   "TotalAchievementsXP": 1000,
   "Achievements": [
@@ -399,14 +405,14 @@
     {
       "ID": "bf8o3co",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T18:57:52.7596476+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
-  "LastChanged_Achievements": "2023-05-31T08:04:33.8073213+00:00",
+  "LastChanged_Achievements": "2023-05-31T09:04:50.0295813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.2956308+00:00",
-  "LastUpdate_Ratings": "2023-05-31T07:58:01.9397384+00:00",
-  "LastUpdate_Achievements": "2023-05-31T08:04:33.8073585+00:00"
+  "LastUpdate_Ratings": "2023-05-31T08:58:00.5710339+00:00",
+  "LastUpdate_Achievements": "2023-05-31T09:04:50.029631+00:00"
 }

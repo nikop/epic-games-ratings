@@ -12,9 +12,9 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 20.00% | ~113 |
 | Weeper | 18.00% | ~102 |
 | Devourer | 14.00% | ~79 |
+| Harmless | 12.00% | ~68 |
 | Silenced Whispers | 12.00% | ~68 |
 | Scion | 11.00% | ~16 |
-| Harmless | 11.00% | ~62 |
 | Yank | 11.00% | ~62 |
 | Glare | 10.00% | ~15 |
 | Sharpened Vessel | 10.00% | ~57 |
@@ -36,10 +36,10 @@ Number of Ratings: 46  (23.09.2022)
 | Passage | 5.00% | ~28 |
 | Kin | 5.00% | ~7 |
 | Kinship | 4.00% | ~23 |
+| Breathsmith | 4.00% | ~23 |
 | Unwrap the Gift | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Weakness | 3.00% | ~17 |
-| Breathsmith | 3.00% | ~17 |
 | Listen | 3.00% | ~4 |
 | Bloodhunter | 2.00% | ~11 |
 | Breath | 2.00% | ~11 |
