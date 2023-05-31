@@ -5,13 +5,13 @@ Rating: 4.45 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~459 |
-| Confirming Suspicions | 18.00% | ~345 |
+| Meeting Resistance | 24.00% | ~460 |
+| Confirming Suspicions | 19.00% | ~364 |
 | The Kraken Wakes | 14.00% | ~268 |
 | It's Starting to Crack | 11.00% | ~211 |
-| Lord of War | 10.00% | ~191 |
-| Resourceful | 9.00% | ~172 |
-| Change the Channel | 9.00% | ~172 |
+| Lord of War | 10.00% | ~192 |
+| Resourceful | 9.00% | ~173 |
+| Change the Channel | 9.00% | ~173 |
 | Taking it back | 8.00% | ~153 |
 | Enemy at the Gates | 7.00% | ~134 |
 | Organ Grinder | 7.00% | ~134 |
@@ -19,22 +19,22 @@ Rating: 4.45 (Ranked 607)
 | Just a Flesh Wound | 6.00% | ~115 |
 | Explosive Efficiency | 6.00% | ~115 |
 | Target America | 6.00% | ~115 |
+| Opposing Force | 5.00% | ~96 |
 | Gunslinger | 5.00% | ~96 |
 | Sharpshooter | 5.00% | ~96 |
 | The Kraken Sleeps | 5.00% | ~96 |
 | Liberté | 4.00% | ~77 |
-| Opposing Force | 4.00% | ~77 |
 | Fields of Glory | 4.00% | ~77 |
 | Die Nussknacker Sweet! | 4.00% | ~77 |
 | Der Geist | 4.00% | ~77 |
 | Close Quarters | 4.00% | ~77 |
 | Snake in the Grass | 4.00% | ~77 |
-| Climbing the Ladder | 3.00% | ~57 |
-| No Stone Unturned | 3.00% | ~57 |
-| Skirmisher | 3.00% | ~57 |
-| Set Europe Ablaze | 3.00% | ~57 |
-| Precision Is Key | 3.00% | ~57 |
-| Brains of the Operation | 3.00% | ~57 |
+| Climbing the Ladder | 3.00% | ~58 |
+| No Stone Unturned | 3.00% | ~58 |
+| Skirmisher | 3.00% | ~58 |
+| Set Europe Ablaze | 3.00% | ~58 |
+| Precision Is Key | 3.00% | ~58 |
+| Brains of the Operation | 3.00% | ~58 |
 | Rigged to Blow | 2.00% | ~38 |
 | The Long Game | 1.00% | ~19 |
 | My Little Friend | 1.00% | ~19 |
@@ -46,9 +46,9 @@ Rating: 4.45 (Ranked 607)
 | Herr Today, Gone Tomorrow | 0.70% | ~13 |
 | Siegebreaker | 0.70% | ~13 |
 | Ghost of Falaise | 0.70% | ~13 |
-| From Paris with Love | 0.60% | ~11 |
-| Tinkerer | 0.60% | ~11 |
-| Don't hold your breath | 0.60% | ~11 |
+| From Paris with Love | 0.60% | ~12 |
+| Tinkerer | 0.60% | ~12 |
+| Don't hold your breath | 0.60% | ~12 |
 | Up close and personal | 0.50% | ~10 |
 | Last Resort | 0.50% | ~9 |
 | Burn after reading | 0.40% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 607)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,914 (Ranked 151)  
+Progressed: 1,917 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 2 (0.10%) (Ranked 158)
 | 2023-05-28 | 1,760 | 2 |
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
-| 2023-05-31 | 1,914 | 2 |
+| 2023-05-31 | 1,917 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

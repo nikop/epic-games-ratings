@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -56,7 +56,7 @@
   "Tags": [],
   "EOS_Progressed": 419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -675,9 +675,9 @@
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "Devoted",
@@ -908,8 +908,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:40.7522622+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:06:47.0143707+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:58:13.9573258+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:40.7522952+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:58:04.9131177+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:06:47.0144033+00:00"
 }

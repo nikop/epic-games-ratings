@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2262,
+  "EOS_Progressed": 2264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2571,6 +2571,11 @@
       "Time": "2023-05-31T05:06:26.6118468+00:00",
       "NumProgressed": 2262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T06:06:32.6999232+00:00",
+      "NumProgressed": 2264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2646,7 +2651,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "4",
@@ -2686,7 +2691,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "9",
@@ -2701,7 +2706,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 2262,
+      "Progressed": 2264,
       "Completed": 0
     }
   ],
@@ -2709,8 +2714,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:26.6118461+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:06:32.6999226+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.8518043+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:58:26.9294102+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:26.6118803+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:58:18.3040163+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:06:32.699949+00:00"
 }

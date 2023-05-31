@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,027 |
-| Landlord | 30.00% | ~15,452 |
-| Lawmaker | 21.00% | ~10,816 |
-| Bannerlord | 20.00% | ~10,301 |
-| Horde breaker | 20.00% | ~10,301 |
-| Trained | 20.00% | ~10,301 |
-| King Solomon | 16.00% | ~8,241 |
-| The king is pleased | 16.00% | ~8,241 |
-| Apple of my eye | 14.00% | ~7,211 |
-| I can do it | 14.00% | ~7,211 |
+| Lawbringer | 35.00% | ~18,029 |
+| Landlord | 30.00% | ~15,454 |
+| Lawmaker | 21.00% | ~10,818 |
+| Bannerlord | 20.00% | ~10,302 |
+| Horde breaker | 20.00% | ~10,302 |
+| Trained | 20.00% | ~10,302 |
+| King Solomon | 16.00% | ~8,242 |
+| The king is pleased | 16.00% | ~8,242 |
+| Apple of my eye | 14.00% | ~7,212 |
+| I can do it | 14.00% | ~7,212 |
 | God of the Arena | 12.00% | ~6,181 |
 | Against all odds | 10.00% | ~5,151 |
 | Swordbearer | 9.00% | ~4,636 |
@@ -23,10 +23,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 8.00% | ~4,121 |
 | I spit on your grave | 8.00% | ~4,121 |
 | What have the Romans ever done for us? | 8.00% | ~4,121 |
-| Butterlord | 7.00% | ~3,605 |
-| Mastery | 6.00% | ~3,090 |
-| This Is Our Land | 6.00% | ~3,090 |
-| Know your enemy | 5.00% | ~2,575 |
+| Butterlord | 7.00% | ~3,606 |
+| Mastery | 6.00% | ~3,091 |
+| This Is Our Land | 6.00% | ~3,091 |
+| Know your enemy | 5.00% | ~2,576 |
 | Crowdfunded | 4.00% | ~2,060 |
 | Crush your enemies | 4.00% | ~2,060 |
 | My way | 4.00% | ~2,060 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,507 (Ranked 75)  
+Progressed: 51,512 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 207)
 | 2023-05-28 | 51,285 | 0 |
 | 2023-05-29 | 51,414 | 0 |
 | 2023-05-30 | 51,499 | 0 |
-| 2023-05-31 | 51,507 | 0 |
+| 2023-05-31 | 51,512 | 0 |
 ## Awards
 Max (Character Customization): 6,599  (Ranked 49)  
 Sum: 13,210 (Ranked 67)  

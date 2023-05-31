@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -596,9 +596,9 @@
       "ID": "STARTING_DUO",
       "SetID": "1a29mp6",
       "Name": "Starting as a duo",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 265
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -645,8 +645,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:38.392698+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:06:44.6025797+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.2878475+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:59:55.2113602+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:38.3927126+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:59:49.1038272+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:06:44.6025952+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223388,
+  "EOS_Progressed": 223389,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4258,6 +4258,11 @@
       "Time": "2023-05-31T05:06:28.5193556+00:00",
       "NumProgressed": 223388,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-31T06:06:34.702305+00:00",
+      "NumProgressed": 223389,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -4493,7 +4498,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49145
+      "UsersEstimate": 49146
     },
     {
       "ID": "TACTICIAN",
@@ -4517,7 +4522,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49145
+      "UsersEstimate": 49146
     },
     {
       "ID": "TUNINGMANIAC",
@@ -4540,15 +4545,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223388,
+      "Progressed": 223389,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:28.5193545+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:06:34.7023044+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:58:42.7579635+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:28.5194104+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:58:33.7185351+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:06:34.7023554+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~433,926 |
-| The Three | 64.00% | ~334,593 |
-| The Banquet | 40.00% | ~209,121 |
-| Devara's Light | 30.00% | ~156,841 |
-| The Iron Ones | 18.00% | ~94,104 |
-| The Village | 16.00% | ~83,648 |
-| The Forest | 14.00% | ~73,192 |
-| Branded | 13.00% | ~67,964 |
-| The Imposter | 13.00% | ~67,964 |
-| The Keep | 13.00% | ~67,964 |
-| The Castle | 11.00% | ~57,508 |
-| The Dome | 9.00% | ~47,052 |
-| The Red Hall | 9.00% | ~47,052 |
-| The Sacrifice | 8.00% | ~41,824 |
-| The Cave | 7.00% | ~36,596 |
-| The Stone Roots | 7.00% | ~36,596 |
-| The Ziggurat | 7.00% | ~36,596 |
+| Find Sanctuary | 83.00% | ~433,931 |
+| The Three | 64.00% | ~334,597 |
+| The Banquet | 40.00% | ~209,123 |
+| Devara's Light | 30.00% | ~156,842 |
+| The Iron Ones | 18.00% | ~94,105 |
+| The Village | 16.00% | ~83,649 |
+| The Forest | 14.00% | ~73,193 |
+| Branded | 13.00% | ~67,965 |
+| The Imposter | 13.00% | ~67,965 |
+| The Keep | 13.00% | ~67,965 |
+| The Castle | 11.00% | ~57,509 |
+| The Dome | 9.00% | ~47,053 |
+| The Red Hall | 9.00% | ~47,053 |
+| The Sacrifice | 8.00% | ~41,825 |
+| The Cave | 7.00% | ~36,597 |
+| The Stone Roots | 7.00% | ~36,597 |
+| The Ziggurat | 7.00% | ~36,597 |
 | Storied | 6.00% | ~31,368 |
 | The Construct | 6.00% | ~31,368 |
 | The Mire | 6.00% | ~31,368 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,456 |
 | Fading Fast | 1.00% | ~5,228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,802 (Ranked 24)  
+Progressed: 522,808 (Ranked 24)  
 Completed: 1,430 (0.27%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1,430 (0.27%) (Ranked 132)
 | 2023-05-28 | 522,538 | 1,428 |
 | 2023-05-29 | 522,668 | 1,429 |
 | 2023-05-30 | 522,785 | 1,430 |
-| 2023-05-31 | 522,802 | 1,430 |
+| 2023-05-31 | 522,808 | 1,430 |
 ## Awards
 Max (Challenging Combat): 270  (Ranked 235)  
 Sum: 1,884 (Ranked 190)  

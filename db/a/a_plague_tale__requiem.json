@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -2280,9 +2280,9 @@
       "ID": "ACH_04",
       "SetID": "9d4cf4c",
       "Name": "Protector\u0027s Duty",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 7426
+      "UsersEstimate": 7535
     },
     {
       "ID": "ACH_05",
@@ -2545,8 +2545,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:55.0555934+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:07:01.4129683+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.0368466+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:00:02.5561195+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:55.0556433+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:59:56.4571119+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:07:01.4130128+00:00"
 }

@@ -1526,9 +1526,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 45806,
+  "EOS_Progressed": 45807,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 970,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5586,6 +5586,11 @@
       "Time": "2023-05-31T05:06:44.5667139+00:00",
       "NumProgressed": 45806,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-31T06:06:50.9088932+00:00",
+      "NumProgressed": 45807,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 59,
@@ -5597,7 +5602,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 25193
+      "UsersEstimate": 25194
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -5717,7 +5722,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10993
+      "UsersEstimate": 10994
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -5861,7 +5866,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 18322
+      "UsersEstimate": 18323
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -5909,7 +5914,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10993
+      "UsersEstimate": 10994
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -5917,7 +5922,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -6061,22 +6066,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16948
+      "UsersEstimate": 16949
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 45806,
+      "Progressed": 45807,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-31T03:11:57.3698903+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:44.5667132+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:06:50.9088925+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:04.3187729+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:58:48.467562+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:44.5668135+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:58:40.469932+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:06:50.9090264+00:00"
 }

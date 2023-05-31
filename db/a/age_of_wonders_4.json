@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3989,
+  "EOS_Progressed": 3990,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2539,6 +2539,11 @@
       "Time": "2023-05-31T05:04:45.8295219+00:00",
       "NumProgressed": 3989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-31T06:04:49.4159512+00:00",
+      "NumProgressed": 3990,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2550,7 +2555,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "10",
@@ -2590,7 +2595,7 @@
       "Name": "Full Ascension",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "15",
@@ -2670,7 +2675,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "24",
@@ -2686,7 +2691,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "26",
@@ -2694,7 +2699,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "27",
@@ -2710,7 +2715,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 2752
+      "UsersEstimate": 2753
     },
     {
       "ID": "29",
@@ -2742,7 +2747,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "32",
@@ -2750,7 +2755,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "33",
@@ -2782,7 +2787,7 @@
       "Name": "Fiery Friend",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "37",
@@ -2822,7 +2827,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "41",
@@ -2886,7 +2891,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "9",
@@ -2901,13 +2906,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3989,
-      "Completed": 3989
+      "Progressed": 3990,
+      "Completed": 3990
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3989,
+      "Progressed": 3990,
       "Completed": 0
     }
   ],
@@ -2915,8 +2920,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-28T10:59:16.0669024+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:04:45.8295211+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:04:49.4159506+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:00:10.2296985+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:04:45.829577+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:00:03.8301635+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:04:49.4160043+00:00"
 }

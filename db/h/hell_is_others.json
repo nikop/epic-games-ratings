@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -448,9 +448,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 250018,
+  "EOS_Progressed": 250021,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4413,6 +4413,11 @@
       "Time": "2023-05-31T05:07:06.1803454+00:00",
       "NumProgressed": 250018,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-31T06:07:12.6323526+00:00",
+      "NumProgressed": 250021,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -4472,7 +4477,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77506
+      "UsersEstimate": 77507
     },
     {
       "ID": "BackHomeNTimes",
@@ -4712,7 +4717,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55004
+      "UsersEstimate": 55005
     },
     {
       "ID": "KillOthers2",
@@ -4871,7 +4876,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250018,
+      "Progressed": 250021,
       "Completed": 1
     }
   ],
@@ -4879,8 +4884,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-30T13:07:26.1170835+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:07:06.1803447+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:07:12.632352+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.4496251+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:01:09.8366192+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:07:06.180424+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:01:04.9588263+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:07:12.6324292+00:00"
 }

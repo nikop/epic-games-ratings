@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~179 |
+| The Lutes of Loomlurch | 0.20% | ~111 |
 | Supply Run | 0.20% | ~179 |
 | Keep Your Distance | 0.20% | ~111 |
 | Heatwave | 0.20% | ~111 |
@@ -153,7 +154,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Frozen Feywild | 0.10% | ~56 |
 | The Roots of Loomlurch | 0.10% | ~56 |
 | The Loots of Loomlurch | 0.10% | ~56 |
-| The Lutes of Loomlurch | 0.10% | ~56 |
 | Best Laid Plans | 0.10% | ~56 |
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,274 (Ranked 61)  
+Progressed: 89,275 (Ranked 61)  
 Completed: 1,900 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1,900 (2.13%) (Ranked 63)
 | 2023-05-28 | 89,056 | 1,892 |
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
-| 2023-05-31 | 89,274 | 1,900 |
+| 2023-05-31 | 89,275 | 1,900 |
 ## Awards
 Max (Diverse Characters): 4,911  (Ranked 64)  
 Sum: 30,004 (Ranked 37)  

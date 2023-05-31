@@ -6,35 +6,35 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~701,213 |
-| The Blues | 85.00% | ~602,052 |
-| Fast | 66.00% | ~467,475 |
-| Healthbar | 55.00% | ~389,563 |
-| Force Cube | 52.00% | ~368,314 |
-| Double Jump | 48.00% | ~339,982 |
-| Regeneration | 47.00% | ~332,899 |
-| Climb the hill | 42.00% | ~297,484 |
-| Triple Jump | 42.00% | ~297,484 |
-| Through the fire pipe | 38.00% | ~269,152 |
-| MacGuffin | 37.00% | ~262,070 |
-| Just once | 36.00% | ~254,987 |
-| Armor | 30.00% | ~212,489 |
-| True holy spirit | 27.00% | ~191,240 |
-| That's how electronics work obviously | 26.00% | ~184,157 |
-| Force Cube Catapult | 25.00% | ~177,074 |
-| Holy Sword | 23.00% | ~162,908 |
-| Telefrag | 22.00% | ~155,825 |
-| Freed from prison | 21.00% | ~148,742 |
-| Stomp | 21.00% | ~148,742 |
-| Double Health | 18.00% | ~127,493 |
-| Buckle | 17.00% | ~120,410 |
-| Green Keycard | 17.00% | ~120,410 |
-| Rattle Hag | 15.00% | ~106,244 |
-| All Shells | 14.00% | ~99,161 |
-| Beam | 14.00% | ~99,161 |
-| 9 | 13.00% | ~92,078 |
-| Purple Cube | 13.00% | ~92,078 |
-| Supraball Noob | 13.00% | ~92,078 |
+| Out of bed | 99.00% | ~701,216 |
+| The Blues | 85.00% | ~602,054 |
+| Fast | 66.00% | ~467,477 |
+| Healthbar | 55.00% | ~389,564 |
+| Force Cube | 52.00% | ~368,315 |
+| Double Jump | 48.00% | ~339,984 |
+| Regeneration | 47.00% | ~332,901 |
+| Climb the hill | 42.00% | ~297,486 |
+| Triple Jump | 42.00% | ~297,486 |
+| Through the fire pipe | 38.00% | ~269,154 |
+| MacGuffin | 37.00% | ~262,071 |
+| Just once | 36.00% | ~254,988 |
+| Armor | 30.00% | ~212,490 |
+| True holy spirit | 27.00% | ~191,241 |
+| That's how electronics work obviously | 26.00% | ~184,158 |
+| Force Cube Catapult | 25.00% | ~177,075 |
+| Holy Sword | 23.00% | ~162,909 |
+| Telefrag | 22.00% | ~155,826 |
+| Freed from prison | 21.00% | ~148,743 |
+| Stomp | 21.00% | ~148,743 |
+| Double Health | 18.00% | ~127,494 |
+| Buckle | 17.00% | ~120,411 |
+| Green Keycard | 17.00% | ~120,411 |
+| Rattle Hag | 15.00% | ~106,245 |
+| All Shells | 14.00% | ~99,162 |
+| Beam | 14.00% | ~99,162 |
+| 9 | 13.00% | ~92,079 |
+| Purple Cube | 13.00% | ~92,079 |
+| Supraball Noob | 13.00% | ~92,079 |
 | Health Drink | 12.00% | ~84,996 |
 | Helped a star | 12.00% | ~84,996 |
 | Strong | 12.00% | ~84,996 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~708 |
 | DLC: Top of the world | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,296 (Ranked 14)  
+Progressed: 708,299 (Ranked 14)  
 Completed: 690 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 690 (0.10%) (Ranked 158)
 | 2023-05-28 | 707,868 | 685 |
 | 2023-05-29 | 708,081 | 686 |
 | 2023-05-30 | 708,265 | 690 |
-| 2023-05-31 | 708,296 | 690 |
+| 2023-05-31 | 708,299 | 690 |
 ## Awards
 Max (Challenging Puzzles): 7,615  (Ranked 40)  
 Sum: 9,912 (Ranked 79)  

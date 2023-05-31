@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1914,
+  "EOS_Progressed": 1917,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1991,6 +1991,11 @@
       "Time": "2023-05-31T03:20:07.9762409+00:00",
       "NumProgressed": 1914,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-31T06:06:50.4988036+00:00",
+      "NumProgressed": 1917,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2002,7 +2007,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2026,15 +2031,15 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 96
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2082,7 +2087,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2130,7 +2135,7 @@
       "Name": "Skirmisher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -2154,7 +2159,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -2162,15 +2167,15 @@
       "Name": "Precision Is Key",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 364
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2210,7 +2215,7 @@
       "Name": "Lord of War",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2226,7 +2231,7 @@
       "Name": "Resourceful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2274,7 +2279,7 @@
       "Name": "From Paris with Love",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -2306,7 +2311,7 @@
       "Name": "Tinkerer",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -2338,7 +2343,7 @@
       "Name": "Change the Channel",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2362,7 +2367,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -2378,7 +2383,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2569,13 +2574,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1865,
+      "Progressed": 1868,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1914,
+      "Progressed": 1917,
       "Completed": 2
     }
   ],
@@ -2583,8 +2588,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-30T14:00:04.8929948+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:44.2360352+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:06:50.4988031+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:01:29.7600623+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:44.2361194+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:01:26.0794805+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:06:50.4988841+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~630 |
-| Project Arena | 3.00% | ~472 |
+| Project Arena | 3.00% | ~473 |
 | The Old Grandmaster | 1.00% | ~7,064 |
 | The Assault | 1.00% | ~7,064 |
 | The Hateful Pole Fighter | 1.00% | ~7,064 |
@@ -18,8 +18,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 1.00% | ~7,064 |
 | Path of the Prospect | 1.00% | ~7,064 |
 | Rumble in the Hangar | 1.00% | ~7,064 |
-| Bloody Sport | 1.00% | ~157 |
-| The best strikes are the ones we avoid | 1.00% | ~157 |
+| Bloody Sport | 1.00% | ~158 |
+| The best strikes are the ones we avoid | 1.00% | ~158 |
 | Lady Wing Chun | 0.90% | ~6,358 |
 | Furious Fists | 0.90% | ~6,358 |
 | Kill Nil | 0.90% | ~6,358 |
@@ -33,8 +33,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.60% | ~4,239 |
 | Qi Gong: Mind | 0.60% | ~4,239 |
 | I know Kung-Fu | 0.60% | ~4,239 |
-| Deadly Venom | 0.60% | ~94 |
-| A Touch of Acumen | 0.60% | ~94 |
+| Deadly Venom | 0.60% | ~95 |
+| A Touch of Acumen | 0.60% | ~95 |
 | Muk Yan Master | 0.50% | ~3,532 |
 | Tiger on Fire | 0.50% | ~3,532 |
 | Detective Story | 0.50% | ~3,532 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~706 |
 | Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,441 (Ranked 15)  
+Progressed: 706,450 (Ranked 15)  
 Completed: 12,748 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 12,748 (1.80%) (Ranked 66)
 | 2023-05-28 | 706,072 | 12,742 |
 | 2023-05-29 | 706,246 | 12,745 |
 | 2023-05-30 | 706,411 | 12,748 |
-| 2023-05-31 | 706,441 | 12,748 |
+| 2023-05-31 | 706,450 | 12,748 |
 ## Awards
 Max (Great Boss Battles): 6,114  (Ranked 53)  
-Sum: 10,418 (Ranked 77)  
+Sum: 10,420 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -110,7 +110,7 @@ Diff (max vs sum): -24
 | This game has Challenging Combat | 516 |
 | This game has Quickly Understood Controls | 505 |
 | This game is Extremely Fun | 501 |
-| This game has Amazing Storytelling | 495 |
+| This game has Amazing Storytelling | 497 |
 | This game has Amazing Characters | 482 |
 | This game is Highly Recommended | 480 |
 | This game has Unique Visuals | 455 |
@@ -254,3 +254,4 @@ Diff (max vs sum): -24
 | 2023-05-28 | 4.82 | - | 6,108 | 10,406 |
 | 2023-05-29 | 4.82 | - | 6,109 | 10,410 |
 | 2023-05-30 | 4.82 | - | 6,114 | 10,418 |
+| 2023-05-31 | 4.82 | - | 6,114 | 10,420 |

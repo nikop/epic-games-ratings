@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 7302,
+  "EOS_Progressed": 7305,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2969,6 +2969,11 @@
       "Time": "2023-05-31T05:02:19.7855882+00:00",
       "NumProgressed": 7302,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-31T06:02:17.3800355+00:00",
+      "NumProgressed": 7305,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3084,7 +3089,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "ACH15",
@@ -3140,7 +3145,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "ACH22",
@@ -3148,7 +3153,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ACH23",
@@ -3156,7 +3161,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH24",
@@ -3164,7 +3169,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH25",
@@ -3172,7 +3177,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH26",
@@ -3180,7 +3185,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH27",
@@ -3251,7 +3256,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7302,
+      "Progressed": 7305,
       "Completed": 25
     }
   ],
@@ -3259,8 +3264,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-30T16:58:04.5721402+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:02:19.7855874+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:02:17.3800348+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:58:43.7010991+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:02:19.7856406+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:58:34.6631842+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:02:17.3800829+00:00"
 }

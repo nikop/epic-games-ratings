@@ -5,8 +5,9 @@ Rating: 4.17 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 3.00% | ~1,888 |
+| First Step Into the Knight | 3.00% | ~1,889 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,259 |
+| Knighthood | 2.00% | ~1,259 |
 | Loose Ends | 2.00% | ~1,259 |
 | The Batman Family | 1.00% | ~630 |
 | Something in the Clay | 1.00% | ~630 |
@@ -17,7 +18,6 @@ Rating: 4.17 (Ranked 840)
 | Get ReQ'd | 1.00% | ~630 |
 | Working Hard or Harley Working? | 1.00% | ~630 |
 | Unstoppable Force | 1.00% | ~630 |
-| Knighthood | 1.00% | ~630 |
 | Whispered Words | 1.00% | ~630 |
 | Lock and Key | 1.00% | ~630 |
 | Bad Apples in Every Orchard | 1.00% | ~630 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,950 (Ranked 70)  
+Progressed: 62,953 (Ranked 70)  
 Completed: 92 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,16 +108,16 @@ Completed: 92 (0.15%) (Ranked 149)
 | 2023-05-28 | 62,616 | 91 |
 | 2023-05-29 | 62,796 | 91 |
 | 2023-05-30 | 62,912 | 91 |
-| 2023-05-31 | 62,950 | 92 |
+| 2023-05-31 | 62,953 | 92 |
 ## Awards
 Max (Great Boss Battles): 2,269  (Ranked 98)  
-Sum: 3,758 (Ranked 138)  
+Sum: 3,759 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,269 |
+| This game is Extremely Fun | 194 |
 | This game is Relaxing | 193 |
-| This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 192 |
 | This game has Amazing Characters | 191 |
 | This game has Diverse Characters | 183 |
@@ -227,4 +227,4 @@ Diff (max vs sum): -40
 | 2023-05-28 | 4.17 | 2,254 | 3,737 |
 | 2023-05-29 | 4.17 | 2,254 | 3,740 |
 | 2023-05-30 | 4.17 | 2,263 | 3,749 |
-| 2023-05-31 | 4.17 | 2,269 | 3,758 |
+| 2023-05-31 | 4.17 | 2,269 | 3,759 |

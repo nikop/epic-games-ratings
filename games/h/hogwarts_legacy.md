@@ -7,26 +7,26 @@ Rating: 4.77 (Ranked 105)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 7.00% | ~19,219 |
 | First Class Student | 7.00% | ~19,219 |
-| Grappling with a Graphorn | 6.00% | ~16,473 |
-| The One Who Mastered Memories | 6.00% | ~16,473 |
-| The Hallowed Hero | 6.00% | ~16,473 |
-| The Hero of Hogwarts | 6.00% | ~16,473 |
-| The Defender of Dragons | 6.00% | ~16,473 |
-| Challenge Accepted | 6.00% | ~16,473 |
-| A Keen Sense of Spell | 6.00% | ~16,473 |
-| Loom for Improvement | 6.00% | ~16,473 |
-| A Talent for Spending | 6.00% | ~16,473 |
-| Coasting Along | 6.00% | ~16,473 |
-| Troll with the Punches | 6.00% | ~16,473 |
-| That's a Keeper | 6.00% | ~16,473 |
-| Rising From the Ashes | 6.00% | ~16,473 |
+| Grappling with a Graphorn | 6.00% | ~16,474 |
+| The One Who Mastered Memories | 6.00% | ~16,474 |
+| The Hallowed Hero | 6.00% | ~16,474 |
+| The Hero of Hogwarts | 6.00% | ~16,474 |
+| The Defender of Dragons | 6.00% | ~16,474 |
+| Challenge Accepted | 6.00% | ~16,474 |
+| A Keen Sense of Spell | 6.00% | ~16,474 |
+| Loom for Improvement | 6.00% | ~16,474 |
+| A Talent for Spending | 6.00% | ~16,474 |
+| Coasting Along | 6.00% | ~16,474 |
+| Troll with the Punches | 6.00% | ~16,474 |
+| That's a Keeper | 6.00% | ~16,474 |
+| Rising From the Ashes | 6.00% | ~16,474 |
 | The Avenging Gazelle | 5.00% | ~13,728 |
 | Beast Friends | 5.00% | ~13,728 |
 | A Sallow Grave | 5.00% | ~13,728 |
 | Flight the Good Flight | 5.00% | ~13,728 |
 | Followed the Butterflies | 5.00% | ~13,728 |
 | The Spell Master | 5.00% | ~13,728 |
-| The Seeker of Knowledge | 4.00% | ~10,982 |
+| The Seeker of Knowledge | 4.00% | ~10,983 |
 | The Root of the Problem | 3.00% | ~8,237 |
 | Third Time's a Charm | 3.00% | ~8,237 |
 | Room with a View | 3.00% | ~8,237 |
@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 105)
 | Finishing Touches | 1.00% | ~2,746 |
 | Demiguise Dread | 0.90% | ~2,471 |
 | A Forte for Achievement | 0.90% | ~2,471 |
-| Savvy Spender | 0.80% | ~2,196 |
+| Savvy Spender | 0.80% | ~2,197 |
 | Merlin's Beard! | 0.60% | ~1,647 |
 | Spilled Milk | 0.50% | ~1,373 |
 | The Nature of the Beast | 0.40% | ~1,098 |
 | Collector's Edition | 0.20% | ~549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,554 (Ranked 39)  
+Progressed: 274,563 (Ranked 39)  
 Completed: 382 (0.14%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 382 (0.14%) (Ranked 152)
 | 2023-05-28 | 273,796 | 377 |
 | 2023-05-29 | 274,189 | 378 |
 | 2023-05-30 | 274,486 | 382 |
-| 2023-05-31 | 274,554 | 382 |
+| 2023-05-31 | 274,563 | 382 |
 ## Awards
 Max (Character Customization): 19,354  (Ranked 18)  
 Sum: 35,725 (Ranked 33)  

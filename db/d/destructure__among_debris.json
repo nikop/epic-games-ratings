@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -814,8 +814,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:01:44.7074874+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:01:41.6344463+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:00:48.9705864+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:01:44.707521+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:00:41.6952688+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:01:41.634475+00:00"
 }

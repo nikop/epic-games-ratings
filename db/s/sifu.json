@@ -4228,10 +4228,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10418,
       "NumberOfAwardsMax": 6114
+    },
+    {
+      "Time": "2023-05-31T05:59:29.7793421+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10420,
+      "NumberOfAwardsMax": 6114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10418,
+  "NumberOfAwards": 10420,
   "NumberOfAwardsMax": 6114,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4257,7 +4263,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 495
+      "Count": 497
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4308,9 +4314,9 @@
       "Count": 350
     }
   ],
-  "EOS_Progressed": 706441,
+  "EOS_Progressed": 706450,
   "EOS_Completed": 12748,
-  "EOS_NewPlayers": 1553,
+  "EOS_NewPlayers": 1552,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -7883,6 +7889,11 @@
       "Time": "2023-05-31T05:07:01.5940042+00:00",
       "NumProgressed": 706441,
       "NumCompleted": 12748
+    },
+    {
+      "Time": "2023-05-31T06:07:08.0324295+00:00",
+      "NumProgressed": 706450,
+      "NumCompleted": 12748
     }
   ],
   "TotalAchievements": 50,
@@ -8230,7 +8241,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8246,7 +8257,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -8262,7 +8273,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -8278,7 +8289,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -8286,28 +8297,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15742,
+      "Progressed": 15751,
       "Completed": 10200
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706441,
+      "Progressed": 706450,
       "Completed": 12748
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-30T23:58:58.4924796+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:07:01.5940029+00:00",
+  "LastChanged": "2023-05-31T05:59:29.779342+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:07:08.0324289+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:59:37.060977+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:07:01.5940746+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:59:29.7793426+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:07:08.0325048+00:00"
 }

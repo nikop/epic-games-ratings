@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 99.00% | ~213 |
-| A tiny town | 86.00% | ~185 |
-| Buildings, roads, cars, ...and people | 66.00% | ~142 |
-| Great view from the beach and from the hill | 55.00% | ~118 |
-| Bridges to come and go | 49.00% | ~105 |
-| Found an oasis | 41.00% | ~88 |
-| Burger or pizza? | 36.00% | ~77 |
+| Welcome! | 99.00% | ~214 |
+| A tiny town | 86.00% | ~186 |
+| Buildings, roads, cars, ...and people | 66.00% | ~143 |
+| Great view from the beach and from the hill | 56.00% | ~121 |
+| Bridges to come and go | 49.00% | ~106 |
+| Found an oasis | 41.00% | ~89 |
+| Burger or pizza? | 36.00% | ~78 |
 | Passion for sports | 31.00% | ~67 |
-| Who loves trains? | 27.00% | ~58 |
-| Easy and steady climb | 26.00% | ~56 |
-| At the heart of the city | 23.00% | ~49 |
+| Who loves trains? | 26.00% | ~56 |
+| Easy and steady climb | 25.00% | ~54 |
+| At the heart of the city | 23.00% | ~50 |
 | Calm neighborhood | 21.00% | ~45 |
 | Elevated ring | 21.00% | ~45 |
-| Not lonely anymore | 20.00% | ~43 |
+| Not lonely anymore | 19.00% | ~41 |
 | Monumental tribute | 18.00% | ~39 |
 | The beach is right there | 18.00% | ~39 |
 | Commuting | 17.00% | ~37 |
-| Le jardin magnifique | 16.00% | ~34 |
+| Le jardin magnifique | 16.00% | ~35 |
 | Aiming for a living and human city | 15.00% | ~32 |
 | City of dreams | 15.00% | ~32 |
 | Happy Christmas night! | 15.00% | ~32 |
 | Night walk along the beach | 15.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 237)  
-Completed: 32 (14.88%) (Ranked 11)  
+Progressed: 216 (Ranked 237)  
+Completed: 32 (14.81%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 32 (14.88%) (Ranked 11)
 | 2023-05-28 | 199 | 30 |
 | 2023-05-29 | 206 | 31 |
 | 2023-05-30 | 213 | 32 |
-| 2023-05-31 | 215 | 32 |
+| 2023-05-31 | 216 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14039,
+  "EOS_Progressed": 14042,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5259,6 +5259,11 @@
       "Time": "2023-05-31T05:06:51.7568912+00:00",
       "NumProgressed": 14039,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-31T06:06:57.9123759+00:00",
+      "NumProgressed": 14042,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -5294,7 +5299,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "1019",
@@ -5318,7 +5323,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "1022",
@@ -5326,7 +5331,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "1023",
@@ -5374,7 +5379,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "1029",
@@ -5398,7 +5403,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "1032",
@@ -5406,7 +5411,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "1033",
@@ -5430,7 +5435,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "1036",
@@ -5445,15 +5450,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14039,
+      "Progressed": 14042,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:06:51.7568903+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:06:57.9123752+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:34.7168998+00:00",
-  "LastUpdate_Ratings": "2023-05-31T05:01:05.8195314+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:06:51.7569392+00:00"
+  "LastUpdate_Ratings": "2023-05-31T06:01:00.2859337+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:06:57.9124285+00:00"
 }

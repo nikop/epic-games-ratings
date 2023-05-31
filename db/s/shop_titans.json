@@ -4294,9 +4294,9 @@
       "Count": 3678
     }
   ],
-  "EOS_Progressed": 129481,
+  "EOS_Progressed": 129482,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8129,6 +8129,11 @@
       "Time": "2023-05-31T05:07:09.2147589+00:00",
       "NumProgressed": 129481,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-31T06:07:15.716002+00:00",
+      "NumProgressed": 129482,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 112,
@@ -8140,7 +8145,7 @@
       "Name": "The Daily Grind",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 58266
+      "UsersEstimate": 58267
     },
     {
       "ID": "advlevel02",
@@ -8164,7 +8169,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10358
+      "UsersEstimate": 10359
     },
     {
       "ID": "advlevel05",
@@ -8236,7 +8241,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10358
+      "UsersEstimate": 10359
     },
     {
       "ID": "blueprint01",
@@ -8244,7 +8249,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 75099
+      "UsersEstimate": 75100
     },
     {
       "ID": "blueprint02",
@@ -8308,7 +8313,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 125597
+      "UsersEstimate": 125598
     },
     {
       "ID": "chest02",
@@ -8372,7 +8377,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 117828
+      "UsersEstimate": 117829
     },
     {
       "ID": "commonres02",
@@ -8412,7 +8417,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 53087
+      "UsersEstimate": 53088
     },
     {
       "ID": "craft03",
@@ -8492,7 +8497,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 78983
+      "UsersEstimate": 78984
     },
     {
       "ID": "energy02",
@@ -8580,7 +8585,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 31075
+      "UsersEstimate": 31076
     },
     {
       "ID": "fuselegendary",
@@ -8612,7 +8617,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 112648
+      "UsersEstimate": 112649
     },
     {
       "ID": "gold02",
@@ -8620,7 +8625,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 73804
+      "UsersEstimate": 73805
     },
     {
       "ID": "gold03",
@@ -8692,7 +8697,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 64740
+      "UsersEstimate": 64741
     },
     {
       "ID": "jackslot02",
@@ -8716,7 +8721,7 @@
       "Name": "Item of Renown",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10358
+      "UsersEstimate": 10359
     },
     {
       "ID": "level01",
@@ -8724,7 +8729,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 85457
+      "UsersEstimate": 85458
     },
     {
       "ID": "level02",
@@ -8796,7 +8801,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 59561
+      "UsersEstimate": 59562
     },
     {
       "ID": "master02",
@@ -8852,7 +8857,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 45318
+      "UsersEstimate": 45319
     },
     {
       "ID": "quest02",
@@ -8916,7 +8921,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 97111
+      "UsersEstimate": 97112
     },
     {
       "ID": "sell02",
@@ -8956,7 +8961,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 124302
+      "UsersEstimate": 124303
     },
     {
       "ID": "twinenchant01",
@@ -9035,15 +9040,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 129481,
+      "Progressed": 129482,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-30T23:58:18.2479636+00:00",
-  "LastChanged_Achievements": "2023-05-31T05:07:09.2147583+00:00",
+  "LastChanged_Achievements": "2023-05-31T06:07:15.7160015+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.2820378+00:00",
-  "LastUpdate_Ratings": "2023-05-31T04:58:49.2241184+00:00",
-  "LastUpdate_Achievements": "2023-05-31T05:07:09.214952+00:00"
+  "LastUpdate_Ratings": "2023-05-31T05:58:41.4343318+00:00",
+  "LastUpdate_Achievements": "2023-05-31T06:07:15.7161797+00:00"
 }
