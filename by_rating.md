@@ -142,7 +142,7 @@
 | 132 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 491 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 491 |
 | 141 | [Dead Space](games/d/dead_space.md) | 4.74 | 49 | 394 |
-| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 564 | 172 |
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 566 | 172 |
 | 141 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 459 |
 | 141 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 65 | 371 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 773 | 148 |
@@ -294,7 +294,7 @@
 | 276 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 190 |
 | 276 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 491 |
 | 294 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 491 |
-| 294 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,590 | 67 |
+| 294 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,596 | 67 |
 | 294 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 280 |
 | 294 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 491 |
 | 294 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 324 | 219 |
@@ -373,7 +373,7 @@
 | 360 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,101 | 129 |
 | 360 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 491 |
 | 360 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,501 | 91 |
-| 360 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 619 | 163 |
+| 360 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 620 | 163 |
 | 360 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 429 | 194 |
 | 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,163 | 36 |
 | 360 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,061 | 132 |
@@ -896,7 +896,7 @@
 | 894 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 369 | 207 |
 | 894 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 491 |
 | 896 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 491 |
-| 896 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,084 | 103 |
+| 896 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,105 | 103 |
 | 896 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,601 | 66 |
 | 899 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 491 |
 | 900 | [Chimeraland](games/c/chimeraland.md) | 3.96 | 22 | 473 |

@@ -10,7 +10,7 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
-| 11 | [Island Cities](games/i/island_cities.md) | 15.00% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.86% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.18% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
