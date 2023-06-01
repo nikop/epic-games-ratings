@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,421 |
-| The Outer Way | 8.00% | ~1,137 |
-| Desperate Times | 8.00% | ~1,137 |
+| Flesh Wound | 10.00% | ~1,422 |
+| The Outer Way | 8.00% | ~1,138 |
+| Desperate Times | 8.00% | ~1,138 |
 | Chew 'Em Up | 7.00% | ~995 |
 | Giving Back | 6.00% | ~853 |
 | Reforged | 6.00% | ~853 |
@@ -18,11 +18,11 @@ Rating: 4.18 (Ranked 833)
 | Without A Paddle | 4.00% | ~569 |
 | Instigator | 4.00% | ~86 |
 | Big Game Hunter | 4.00% | ~86 |
-| Two Heads Are Better Than One | 3.00% | ~426 |
-| Terminated | 3.00% | ~426 |
-| Float Like A Butterfly | 3.00% | ~426 |
-| In the Pipe, Five by Five | 3.00% | ~426 |
-| Crash Site | 3.00% | ~426 |
+| Two Heads Are Better Than One | 3.00% | ~427 |
+| Terminated | 3.00% | ~427 |
+| Float Like A Butterfly | 3.00% | ~427 |
+| In the Pipe, Five by Five | 3.00% | ~427 |
+| Crash Site | 3.00% | ~427 |
 | Bear Trap | 3.00% | ~64 |
 | You Need a Gun | 2.00% | ~284 |
 | The Commonality | 2.00% | ~284 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 833)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,213 (Ranked 101)  
+Progressed: 14,219 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
-| 2023-06-01 | 14,213 | 53 |
+| 2023-06-01 | 14,219 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -107,6 +107,11 @@
       "Time": "2023-05-30T18:04:18.0270581+00:00",
       "NumProgressed": 142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T17:04:03.0485749+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -116,9 +121,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "axe_of_kindness",
@@ -182,7 +187,7 @@
       "Name": "Easy Listening",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ending_on_a_high_note",
@@ -357,7 +362,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 0
     }
   ],
@@ -365,8 +370,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:04:36.3373577+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:04:03.0485745+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:45.6277849+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:59:08.3840589+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:04:36.3373814+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:58:43.3235062+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:04:03.0485961+00:00"
 }

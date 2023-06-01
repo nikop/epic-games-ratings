@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5088,
+  "EOS_Progressed": 5089,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2023-06-01T14:05:43.7778659+00:00",
       "NumProgressed": 5088,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-01T17:05:39.8632784+00:00",
+      "NumProgressed": 5089,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -569,7 +574,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -617,7 +622,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -633,7 +638,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -657,7 +662,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -673,7 +678,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -713,7 +718,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -729,7 +734,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -737,7 +742,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -825,22 +830,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3612
+      "UsersEstimate": 3613
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5088,
+      "Progressed": 5089,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:06:17.0285163+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:39.8632777+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:26.530118+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:59:53.498138+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:06:17.0285503+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:59:26.1961377+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:39.8633205+00:00"
 }

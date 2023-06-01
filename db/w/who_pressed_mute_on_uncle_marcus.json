@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.28,
+  "EOS_Completed_Percentage": 8.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -157,6 +157,11 @@
       "Time": "2023-05-31T16:05:28.4073084+00:00",
       "NumProgressed": 169,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-01T17:05:29.4283676+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 17,
@@ -166,9 +171,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 146
     },
     {
       "ID": "bless_the_rain",
@@ -184,7 +189,7 @@
       "Name": "Blow",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "brown_nosing",
@@ -206,41 +211,41 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "making_a_murderer",
@@ -248,7 +253,7 @@
       "Name": "Making a murderer",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "prove_it",
@@ -264,7 +269,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "the_truth",
@@ -296,14 +301,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 14
     }
   ],
@@ -311,8 +316,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:06:06.5815803+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:29.4283672+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.1098258+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:59:55.4209711+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:06:06.5815916+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:59:27.9520077+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:29.428381+00:00"
 }

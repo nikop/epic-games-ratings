@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -755,9 +755,9 @@
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "Murderer",
@@ -874,8 +874,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:05:48.4870614+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:11.694837+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:57:56.7722024+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:05:48.4870864+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:57:30.7148784+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:11.6948671+00:00"
 }

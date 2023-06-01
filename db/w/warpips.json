@@ -2,13 +2,13 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -370,10 +370,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-06-01T16:57:12.0106565+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66,
+  "NumberOfAwards": 86,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Playful Visuals",
   "Tags": [
@@ -394,6 +400,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 22
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -416,9 +428,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-05-26T15:57:38.8852717+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:05:44.3008087+00:00",
+  "LastChanged": "2023-06-01T16:57:12.0106564+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:07.6859966+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:13.4511228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:57:37.2820656+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:05:44.3008109+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:57:12.0106567+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:07.6859996+00:00"
 }

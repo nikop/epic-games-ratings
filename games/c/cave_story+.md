@@ -1,12 +1,12 @@
 # Cave Story+
 [Store](https://store.epicgames.com/en-US/p/cave-story-plus)  
 [View Rawdata](../../db/c/cave_story+.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 278  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 85  (Ranked 345)  
-Sum: 85 (Ranked 408)  
-Diff (max vs sum): -63  
+Sum: 85 (Ranked 409)  
+Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 85 |

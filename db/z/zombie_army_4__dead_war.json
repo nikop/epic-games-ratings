@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1551,9 +1551,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42529,
+  "EOS_Progressed": 42530,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2941,6 +2941,11 @@
       "Time": "2023-06-01T16:06:18.9988215+00:00",
       "NumProgressed": 42529,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-01T17:05:41.7455952+00:00",
+      "NumProgressed": 42530,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2984,7 +2989,7 @@
       "Name": "Well equipped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -3120,7 +3125,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -3144,7 +3149,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26368
+      "UsersEstimate": 26369
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3224,7 +3229,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -3240,7 +3245,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15310
+      "UsersEstimate": 15311
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3256,7 +3261,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21264
+      "UsersEstimate": 21265
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3272,7 +3277,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15310
+      "UsersEstimate": 15311
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -3304,7 +3309,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19563
+      "UsersEstimate": 19564
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -3312,7 +3317,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23816
+      "UsersEstimate": 23817
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -3320,7 +3325,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19563
+      "UsersEstimate": 19564
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -3328,7 +3333,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15310
+      "UsersEstimate": 15311
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -3448,7 +3453,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -3456,7 +3461,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6379
+      "UsersEstimate": 6380
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -3472,22 +3477,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15310
+      "UsersEstimate": 15311
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42529,
+      "Progressed": 42530,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-01T06:00:27.8836731+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:06:18.9988211+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:41.7455947+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:59:42.1198677+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:06:18.9988759+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:59:14.557306+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:41.7456632+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3277,
+  "EOS_Progressed": 3279,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3360,6 +3360,11 @@
       "Time": "2023-06-01T16:00:37.6625124+00:00",
       "NumProgressed": 3277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T17:00:09.3108993+00:00",
+      "NumProgressed": 3279,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3379,7 +3384,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -3395,7 +3400,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -3409,9 +3414,9 @@
       "ID": "ACH_EP_BALLGAME",
       "SetID": "1p8ab95",
       "Name": "Go Sovereigns!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -3443,7 +3448,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -3467,7 +3472,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3491,7 +3496,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3531,7 +3536,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3555,7 +3560,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -3563,7 +3568,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_MYWAYS",
@@ -3627,7 +3632,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3643,7 +3648,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3690,15 +3695,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3277,
+      "Progressed": 3279,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:00:37.6625119+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:00:09.3108989+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:59:57.9658457+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:00:37.6625479+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:59:30.0810423+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:00:09.3109443+00:00"
 }

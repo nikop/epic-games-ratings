@@ -5,60 +5,60 @@ Rating: 4.68 (Ranked 237)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 12.00% | ~49,258 |
-| 50 HEADSHOTS | 11.00% | ~45,154 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,839 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,839 |
-| 200 HEADSHOTS | 7.00% | ~28,734 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,629 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,524 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,524 |
-| 1000 KILLS | 4.00% | ~16,419 |
-| FINISH CHAPTER 5 | 4.00% | ~16,419 |
-| FINISH CHAPTER 6 | 4.00% | ~16,419 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,419 |
+| 100 KILLS | 12.00% | ~49,261 |
+| 50 HEADSHOTS | 11.00% | ~45,156 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,841 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,841 |
+| 200 HEADSHOTS | 7.00% | ~28,736 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,631 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,526 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,526 |
+| 1000 KILLS | 4.00% | ~16,420 |
+| FINISH CHAPTER 5 | 4.00% | ~16,420 |
+| FINISH CHAPTER 6 | 4.00% | ~16,420 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,420 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,210 |
-| FIREFIGHT LEVEL 20 | 0.70% | ~2,873 |
+| FIREFIGHT LEVEL 20 | 0.70% | ~2,874 |
 | FIRST BLOOD | 0.60% | ~2,463 |
 | PACEMAKER | 0.40% | ~1,642 |
 | TIME PARADOX | 0.40% | ~1,642 |
-| FIREFIGHT LEVEL 30 | 0.30% | ~1,231 |
-| OUT OF ORDER | 0.30% | ~1,231 |
-| PARTYHARD | 0.30% | ~1,231 |
+| FIREFIGHT LEVEL 30 | 0.30% | ~1,232 |
+| OUT OF ORDER | 0.30% | ~1,232 |
+| PARTYHARD | 0.30% | ~1,232 |
 | CHURCH | 0.20% | ~821 |
 | FIREFIGHT LEVEL 40 | 0.20% | ~821 |
 | NEW GAME PLUS | 0.20% | ~821 |
-| HEY THATS CHEATING | 0.10% | ~410 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~410 |
-| BUT WHY? | 0.10% | ~410 |
-| CHALET | 0.10% | ~410 |
-| COMMAND - [EXIST] | 0.10% | ~410 |
-| FIREFIGHT LEVEL 50 | 0.10% | ~410 |
-| FIREFIGHT LEVEL 60 | 0.10% | ~410 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~410 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~410 |
-| FIRE IN THE HOLE | 0.10% | ~410 |
-| FRESH | 0.10% | ~410 |
-| HUGE SUCCESS | 0.10% | ~410 |
-| ICARUS | 0.10% | ~410 |
-| INPUT - [QUERY] | 0.10% | ~410 |
-| KITTED OUT | 0.10% | ~410 |
-| HOLOGRAM SUMMER | 0.10% | ~410 |
-| OFF THE HINGES | 0.10% | ~410 |
-| ON THE EDGE | 0.10% | ~410 |
-| OVERCLOCKED | 0.10% | ~410 |
-| PAIN TRAIN | 0.10% | ~410 |
-| REMEMBER THE ARMORY | 0.10% | ~410 |
-| 10 RUNS | 0.10% | ~410 |
-| 20 RUNS | 0.10% | ~410 |
-| 5 RUNS | 0.10% | ~410 |
-| SAVOR THE MOMENT | 0.10% | ~410 |
-| SOUL - HORIZONS | 0.10% | ~410 |
-| THE COLLECTOR | 0.10% | ~410 |
-| THE GAMBLER | 0.10% | ~410 |
-| WARRIOR IN A GARDEN | 0.10% | ~410 |
+| HEY THATS CHEATING | 0.10% | ~411 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~411 |
+| BUT WHY? | 0.10% | ~411 |
+| CHALET | 0.10% | ~411 |
+| COMMAND - [EXIST] | 0.10% | ~411 |
+| FIREFIGHT LEVEL 50 | 0.10% | ~411 |
+| FIREFIGHT LEVEL 60 | 0.10% | ~411 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~411 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~411 |
+| FIRE IN THE HOLE | 0.10% | ~411 |
+| FRESH | 0.10% | ~411 |
+| HUGE SUCCESS | 0.10% | ~411 |
+| ICARUS | 0.10% | ~411 |
+| INPUT - [QUERY] | 0.10% | ~411 |
+| KITTED OUT | 0.10% | ~411 |
+| HOLOGRAM SUMMER | 0.10% | ~411 |
+| OFF THE HINGES | 0.10% | ~411 |
+| ON THE EDGE | 0.10% | ~411 |
+| OVERCLOCKED | 0.10% | ~411 |
+| PAIN TRAIN | 0.10% | ~411 |
+| REMEMBER THE ARMORY | 0.10% | ~411 |
+| 10 RUNS | 0.10% | ~411 |
+| 20 RUNS | 0.10% | ~411 |
+| 5 RUNS | 0.10% | ~411 |
+| SAVOR THE MOMENT | 0.10% | ~411 |
+| SOUL - HORIZONS | 0.10% | ~411 |
+| THE COLLECTOR | 0.10% | ~411 |
+| THE GAMBLER | 0.10% | ~411 |
+| WARRIOR IN A GARDEN | 0.10% | ~411 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410,487 (Ranked 35)  
+Progressed: 410,512 (Ranked 35)  
 Completed: 32 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 32 (0.01%) (Ranked 197)
 | 2023-05-29 | 409,541 | 32 |
 | 2023-05-30 | 409,903 | 32 |
 | 2023-05-31 | 410,258 | 32 |
-| 2023-06-01 | 410,487 | 32 |
+| 2023-06-01 | 410,512 | 32 |
 ## Awards
 Max (Great Boss Battles): 174  (Ranked 274)  
 Sum: 174 (Ranked 366)  

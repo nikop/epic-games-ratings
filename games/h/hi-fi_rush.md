@@ -5,28 +5,28 @@ Rating: 4.88 (Ranked 19)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,017 |
-| Feeling the beat! | 80.00% | ~2,017 |
-| You can pet the cat! | 75.00% | ~1,891 |
-| Who put gears in there? | 69.00% | ~1,739 |
-| Cream of the Crop | 63.00% | ~1,588 |
-| Thanks for the free chip, Peppermint! | 63.00% | ~1,588 |
-| You got this, Peppermint? | 57.00% | ~1,437 |
+| Start with a bang! | 80.00% | ~2,018 |
+| Feeling the beat! | 80.00% | ~2,018 |
+| You can pet the cat! | 75.00% | ~1,892 |
+| Who put gears in there? | 69.00% | ~1,740 |
+| Cream of the Crop | 63.00% | ~1,589 |
+| Thanks for the free chip, Peppermint! | 63.00% | ~1,589 |
+| You got this, Peppermint? | 57.00% | ~1,438 |
 | Perfect Parry | 55.00% | ~1,387 |
 | Alright, that felt AWESOME! | 55.00% | ~1,387 |
 | I play my own way! | 51.00% | ~1,286 |
-| This will cost you big time | 49.00% | ~1,235 |
+| This will cost you big time | 48.00% | ~1,211 |
 | Uh, they were broken when I got here | 47.00% | ~1,185 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,160 |
-| Kissing the sky! | 45.00% | ~1,134 |
+| Kissing the sky! | 45.00% | ~1,135 |
 | Does that say weakpoint? | 42.00% | ~1,059 |
 | Whoa! There's ANOTHER health bar!? | 41.00% | ~1,034 |
-| The Negotiator | 39.00% | ~983 |
+| The Negotiator | 39.00% | ~984 |
 | You must like calling me in, Chai | 34.00% | ~857 |
 | Out in a puff of smoke | 34.00% | ~857 |
 | Headliner | 33.00% | ~832 |
 | Time to pay up! | 31.00% | ~782 |
-| Perfecter Parry-er! | 30.00% | ~756 |
+| Perfecter Parry-er! | 30.00% | ~757 |
 | Who's the boss now? | 29.00% | ~731 |
 | I have to read these things? | 29.00% | ~731 |
 | I look cool. But I can look COOLER. | 28.00% | ~706 |
@@ -43,7 +43,7 @@ Rating: 4.88 (Ranked 19)
 | I'm not done with you yet | 8.00% | ~202 |
 | First we parry, then we counter | 8.00% | ~202 |
 | I hit things with a guitar really well. | 8.00% | ~202 |
-| I think I deserve some praise, here! | 7.00% | ~176 |
+| I think I deserve some praise, here! | 7.00% | ~177 |
 | You ever parry a volcano? | 6.00% | ~151 |
 | This is a breeze! | 5.00% | ~126 |
 | OK, well THEY came after ME! | 4.00% | ~101 |
@@ -67,7 +67,7 @@ Rating: 4.88 (Ranked 19)
 | Didn't skip a beat! | 0.30% | ~8 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,521 (Ranked 143)  
+Progressed: 2,522 (Ranked 143)  
 Completed: 4 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 4 (0.16%) (Ranked 146)
 | 2023-05-29 | 2,399 | 4 |
 | 2023-05-30 | 2,453 | 4 |
 | 2023-05-31 | 2,489 | 4 |
-| 2023-06-01 | 2,521 | 4 |
+| 2023-06-01 | 2,522 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

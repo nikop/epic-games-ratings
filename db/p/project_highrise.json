@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -222,6 +222,11 @@
       "Time": "2023-06-01T15:06:32.0977795+00:00",
       "NumProgressed": 191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T17:05:42.6884496+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -241,7 +246,7 @@
       "Name": "Meet ADA/360",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_apartments_1",
@@ -273,7 +278,7 @@
       "Name": "Under One Roof",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_art",
@@ -321,7 +326,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_campaigns_1",
@@ -361,7 +366,7 @@
       "Name": "Baron of Business",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_consultant",
@@ -537,7 +542,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ach_floors_1",
@@ -561,23 +566,23 @@
       "Name": "Water Features",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_grime_2",
@@ -591,9 +596,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_loan",
@@ -623,17 +628,17 @@
       "ID": "ach_nomoveout",
       "SetID": "b8gh1fi",
       "Name": "28 Days Later",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_office_2",
@@ -671,9 +676,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_prestige_2",
@@ -681,7 +686,7 @@
       "Name": "Established Fame",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_prestige_3",
@@ -695,9 +700,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_profit_1",
@@ -753,15 +758,15 @@
       "Name": "Dinner Dash",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_restaurants_5",
@@ -809,7 +814,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_revs_2",
@@ -855,9 +860,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_trash_1",
@@ -873,7 +878,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_util_cable",
@@ -929,14 +934,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 0
     }
   ],
@@ -944,8 +949,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:06:20.0227744+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:42.6884494+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:58:13.5895938+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:06:20.0228583+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:57:47.9857423+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:42.6885493+00:00"
 }

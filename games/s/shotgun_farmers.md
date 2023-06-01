@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 48.00% | ~10 |
+| Aspairagus | 49.00% | ~10 |
 | Survivor | 37.00% | ~8 |
 | No Diggity | 35.00% | ~7 |
 | Seeds of War | 31.00% | ~22 |

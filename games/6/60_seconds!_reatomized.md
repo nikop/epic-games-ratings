@@ -5,27 +5,27 @@ Rating: 4.64 (Ranked 312)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,790 |
-| All thumbs | 91.00% | ~3,749 |
-| I will survive! | 91.00% | ~3,749 |
-| Home, sweet home | 89.00% | ~3,667 |
-| Survivalist | 87.00% | ~3,584 |
+| Prepper | 92.00% | ~3,791 |
+| All thumbs | 91.00% | ~3,750 |
+| I will survive! | 91.00% | ~3,750 |
+| Home, sweet home | 89.00% | ~3,668 |
+| Survivalist | 87.00% | ~3,585 |
 | One way ticket | 83.00% | ~3,420 |
-| Last man standing | 77.00% | ~3,172 |
-| Family guy | 75.00% | ~3,090 |
-| Out of the Bag | 72.00% | ~2,966 |
-| The Dark Side | 67.00% | ~2,760 |
-| Duck and cover! | 62.00% | ~2,554 |
-| Souper! | 61.00% | ~2,513 |
-| Pacifist | 56.00% | ~2,307 |
+| Last man standing | 77.00% | ~3,173 |
+| Family guy | 75.00% | ~3,091 |
+| Out of the Bag | 72.00% | ~2,967 |
+| The Dark Side | 67.00% | ~2,761 |
+| Duck and cover! | 62.00% | ~2,555 |
+| Souper! | 61.00% | ~2,514 |
+| Pacifist | 56.00% | ~2,308 |
 | 2-1-6 | 54.00% | ~2,225 |
 | A gift | 50.00% | ~2,060 |
 | Girl Power | 44.00% | ~1,813 |
 | What goes around... | 40.00% | ~1,648 |
 | Be Prepared | 35.00% | ~1,442 |
 | Unbreakable | 34.00% | ~1,401 |
-| Atomic drill | 32.00% | ~1,318 |
-| This is the end | 32.00% | ~1,318 |
+| Atomic drill | 32.00% | ~1,319 |
+| This is the end | 32.00% | ~1,319 |
 | Gotta get 'em all | 29.00% | ~1,195 |
 | Disco Roach | 26.00% | ~1,071 |
 | Dawkins Residence | 19.00% | ~783 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 312)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,120 (Ranked 130)  
+Progressed: 4,121 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 4,104 | 0 |
 | 2023-05-30 | 4,111 | 0 |
 | 2023-05-31 | 4,118 | 0 |
-| 2023-06-01 | 4,120 | 0 |
+| 2023-06-01 | 4,121 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

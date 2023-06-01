@@ -1,22 +1,22 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 15.00% | ~1,412 |
-| A Spark | 11.00% | ~1,035 |
+| A Spark | 11.00% | ~1,036 |
 | Burning City | 10.00% | ~941 |
 | Mythic Choices | 9.00% | ~847 |
 | Defender's Heart | 9.00% | ~847 |
 | Banner over the Citadel | 8.00% | ~753 |
 | Queen's Gratitude | 7.00% | ~659 |
 | Fifth Crusade | 5.00% | ~471 |
-| Embrace of the Abyss | 4.00% | ~376 |
-| Path of the Angel | 4.00% | ~376 |
-| Demonic and Divine | 4.00% | ~376 |
+| Embrace of the Abyss | 4.00% | ~377 |
+| Path of the Angel | 4.00% | ~377 |
+| Demonic and Divine | 4.00% | ~377 |
 | Path of the Azata | 3.00% | ~282 |
 | Transformation | 3.00% | ~282 |
 | The Legacy | 3.00% | ~282 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,412 (Ranked 110)  
+Progressed: 9,414 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,10 +165,10 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 9,338 | 0 |
 | 2023-05-30 | 9,373 | 0 |
 | 2023-05-31 | 9,396 | 0 |
-| 2023-06-01 | 9,412 | 0 |
+| 2023-06-01 | 9,414 | 0 |
 ## Awards
 Max (Character Customization): 1,645  (Ranked 111)  
-Sum: 6,673 (Ranked 110)  
+Sum: 6,675 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -177,9 +177,9 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 610 |
 | This game is Highly Recommended | 610 |
 | This game has Diverse Characters | 594 |
-| This game has Amazing Storytelling | 589 |
+| This game has Amazing Storytelling | 590 |
+| This game has Quickly Understood Controls | 549 |
 | This game has Challenging Combat | 549 |
-| This game has Quickly Understood Controls | 548 |
 | This game is Relaxing | 525 |
 | This game has a Creative Community | 373 |
 | This game has Obsessive Gameplay | 364 |
@@ -311,4 +311,4 @@ Diff (max vs sum): 1
 | 2023-05-29 | 4.76 | - | 1,642 | 6,668 |
 | 2023-05-30 | 4.76 | - | 1,645 | 6,671 |
 | 2023-05-31 | 4.76 | - | 1,645 | 6,672 |
-| 2023-06-01 | 4.76 | - | 1,645 | 6,673 |
+| 2023-06-01 | 4.76 | - | 1,645 | 6,675 |

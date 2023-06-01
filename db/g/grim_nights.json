@@ -2,10 +2,10 @@
   "ID": "9d5393fd5460430e80d2bfe9fcd55d6a",
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -206,9 +206,9 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_level2",
@@ -222,9 +222,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_lose",
@@ -271,8 +271,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:05:48.8506466+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:12.0488434+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.660453+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:59:02.5900418+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:05:48.8506566+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:58:37.5172594+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:12.0488545+00:00"
 }

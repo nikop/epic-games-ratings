@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -759,9 +759,9 @@
       "ID": "ticking_clock",
       "SetID": "jig50d",
       "Name": "Ticking Clock",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "total_walrus",
@@ -824,8 +824,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:00:22.2486368+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:59:54.5228152+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:59:48.4724255+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:00:22.2494295+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:59:20.7652394+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:59:54.5228519+00:00"
 }

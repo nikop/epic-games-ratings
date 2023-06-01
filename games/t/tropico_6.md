@@ -6,27 +6,27 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,491 |
-| Un-Lonely Island | 48.00% | ~1,573 |
-| The Beginning of a Servantship | 46.00% | ~1,507 |
-| Trade Is My Trait | 37.00% | ~1,212 |
-| Number 18 | 25.00% | ~819 |
-| We Don't Have Time For That | 20.00% | ~655 |
+| Just One...More...Term... | 76.00% | ~2,492 |
+| Un-Lonely Island | 48.00% | ~1,574 |
+| The Beginning of a Servantship | 46.00% | ~1,508 |
+| Trade Is My Trait | 37.00% | ~1,213 |
+| Number 18 | 25.00% | ~820 |
+| We Don't Have Time For That | 20.00% | ~656 |
 | The Governator | 18.00% | ~590 |
 | Caribbean Comrade | 17.00% | ~557 |
 | The Legend of Langostino | 17.00% | ~557 |
-| The Dreamer of Dreams | 16.00% | ~524 |
-| Go Sovereigns! | 12.00% | ~393 |
+| The Dreamer of Dreams | 16.00% | ~525 |
 | For Science! | 12.00% | ~393 |
-| Happy Ending? | 11.00% | ~360 |
+| Happy Ending? | 11.00% | ~361 |
+| Go Sovereigns! | 11.00% | ~361 |
 | Of Seals And Men | 10.00% | ~328 |
 | Shackadelic | 10.00% | ~328 |
 | Double Trouble | 9.00% | ~295 |
 | Firestarter | 8.00% | ~262 |
 | Make Tropico Great Again! | 8.00% | ~262 |
 | French Connection | 8.00% | ~262 |
-| Don't Panic! | 7.00% | ~229 |
-| I Owe You Nothing | 7.00% | ~229 |
+| Don't Panic! | 7.00% | ~230 |
+| I Owe You Nothing | 7.00% | ~230 |
 | Computer Says "No" | 6.00% | ~197 |
 | Beware The Betman | 6.00% | ~197 |
 | Watch The World Burn | 6.00% | ~197 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~33 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,277 (Ranked 135)  
+Progressed: 3,279 (Ranked 135)  
 Completed: 1 (0.03%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.03%) (Ranked 186)
 | 2023-05-29 | 3,213 | 1 |
 | 2023-05-30 | 3,234 | 1 |
 | 2023-05-31 | 3,257 | 1 |
-| 2023-06-01 | 3,277 | 1 |
+| 2023-06-01 | 3,279 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 316)  
 Sum: 752 (Ranked 255)  

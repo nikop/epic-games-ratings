@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 48.00% | ~87 |
+| Earth Shattering | 49.00% | ~89 |
 | Das Ist Endgültig! | 20.00% | ~36 |
 | La Der des Ders | 14.00% | ~25 |
 | From the Pages of History | 8.00% | ~15 |

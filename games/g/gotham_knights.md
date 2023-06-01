@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 3.00% | ~1,893 |
+| First Step Into the Knight | 3.00% | ~1,894 |
 | To the Victor Go the Spoils | 2.00% | ~1,262 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,262 |
 | Knighthood | 2.00% | ~1,262 |
@@ -24,13 +24,13 @@ Rating: 4.17 (Ranked 840)
 | Bad Apples in Every Orchard | 1.00% | ~631 |
 | From Inside Gotham's Walls | 1.00% | ~631 |
 | Rock and a Hard Place | 0.90% | ~568 |
+| Cooldown | 0.90% | ~568 |
 | Universal Health Scare | 0.90% | ~568 |
 | Voiceless | 0.90% | ~568 |
 | End of an Era | 0.80% | ~505 |
 | In Your Element | 0.80% | ~505 |
 | Not On My Watch | 0.80% | ~505 |
 | Shock Til They Drop | 0.80% | ~505 |
-| Cooldown | 0.80% | ~505 |
 | Seeking Asylum | 0.80% | ~505 |
 | Gotham Knight | 0.80% | ~505 |
 | Bulldozed | 0.70% | ~442 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,112 (Ranked 70)  
-Completed: 92 (0.15%) (Ranked 150)  
+Progressed: 63,117 (Ranked 70)  
+Completed: 93 (0.15%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 92 (0.15%) (Ranked 150)
 | 2023-05-29 | 62,796 | 91 |
 | 2023-05-30 | 62,912 | 91 |
 | 2023-05-31 | 63,037 | 92 |
-| 2023-06-01 | 63,112 | 92 |
+| 2023-06-01 | 63,117 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,269  (Ranked 98)  
 Sum: 3,763 (Ranked 138)  

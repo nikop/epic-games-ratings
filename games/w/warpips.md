@@ -1,17 +1,18 @@
 # Warpips
 [Store](https://store.epicgames.com/en-US/p/warpips-57e2c4)  
 [View Rawdata](../../db/w/warpips.json)  
-Rating: 4.41 (Ranked 663)  
+Rating: 4.41 (Ranked 662)  
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
 Max (Playful Visuals): 22  (Ranked 473)  
-Sum: 66 (Ranked 423)  
-Diff (max vs sum): 50  
+Sum: 86 (Ranked 408)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Playful Visuals | 22 |
 | This game has Quickly Understood Controls | 22 |
 | This game is Great for Beginners | 22 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -78,3 +79,4 @@ Diff (max vs sum): 50
 | 2023-05-17 | 4.41 | - | 22 | 64 |
 | 2023-05-20 | 4.41 | - | 22 | 65 |
 | 2023-05-26 | 4.41 | - | 22 | 66 |
+| 2023-06-01 | 4.41 | - | 22 | 86 |

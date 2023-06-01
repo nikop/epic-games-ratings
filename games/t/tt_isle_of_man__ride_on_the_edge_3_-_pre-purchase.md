@@ -35,13 +35,13 @@
 | Checklist | 3.00% | ~2 |
 | Time Lord | 3.00% | ~2 |
 | Time Is of the Essence | 3.00% | ~2 |
+| Playing Favourites | 3.00% | ~2 |
 | Tailor-Made | 3.00% | ~2 |
 | First Things First | 2.00% | ~1 |
 | Made Father Proud | 2.00% | ~1 |
 | Win-Win! | 2.00% | ~1 |
 | Supersport Superfan | 2.00% | ~1 |
 | Superbike Superfan | 2.00% | ~1 |
-| Playing Favourites | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 63 (Ranked 295)  

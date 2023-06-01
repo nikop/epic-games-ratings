@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.80% | ~445 |
 | Beast Intentions | 0.70% | ~626 |
 | The Mad Wizard | 0.70% | ~626 |
-| Beware the Jabberwock | 0.60% | ~334 |
+| Beware the Jabberwock | 0.70% | ~390 |
 | The Ring of Regeneration | 0.50% | ~447 |
 | Are Ya Chicken? | 0.50% | ~447 |
 | Coasting to the Finish | 0.50% | ~278 |
@@ -95,6 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.20% | ~111 |
 | The Lost Hollyphant | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
+| Ulkoria's Escape from Alterdeep | 0.20% | ~111 |
 | The Giant's Bane Tavern | 0.20% | ~111 |
 | The Everlasting Rime | 0.20% | ~111 |
 | Close Escort | 0.20% | ~179 |
@@ -392,7 +393,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.10% | ~56 |
 | Elder Rune Attack | 0.10% | ~56 |
 | The Gargoyle | 0.10% | ~56 |
-| Ulkoria's Escape from Alterdeep | 0.10% | ~56 |
 | The Wandering Emporium | 0.10% | ~56 |
 | Madcap Adventures Redux | 0.10% | ~56 |
 | When the Going Gets Tough | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,408 (Ranked 61)  
+Progressed: 89,413 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,408 | 1,905 |
+| 2023-06-01 | 89,413 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,011 (Ranked 37)  

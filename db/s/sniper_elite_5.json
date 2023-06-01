@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2006,
+  "EOS_Progressed": 2008,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2158,6 +2158,11 @@
       "Time": "2023-06-01T16:06:01.6056244+00:00",
       "NumProgressed": 2006,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T17:05:24.5224652+00:00",
+      "NumProgressed": 2008,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2209,7 +2214,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2233,7 +2238,7 @@
       "Name": "Organ Grinder",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2249,7 +2254,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2337,7 +2342,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2409,7 +2414,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2537,15 +2542,15 @@
       "Name": "Taking it back",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 80
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2561,7 +2566,7 @@
       "Name": "Target America",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2663,9 +2668,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2736,13 +2741,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1957,
+      "Progressed": 1959,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2006,
+      "Progressed": 2008,
       "Completed": 2
     }
   ],
@@ -2750,8 +2755,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:06:01.6056239+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:24.5224647+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T16:00:16.7566735+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:06:01.6056864+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:59:47.3509458+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:24.5225423+00:00"
 }

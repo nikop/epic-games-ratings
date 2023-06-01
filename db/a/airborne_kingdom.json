@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,11 +313,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6496,
+  "EOS_Progressed": 6497,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.79,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:43.6429949+00:00",
@@ -1418,6 +1418,11 @@
       "Time": "2023-06-01T16:05:57.1839478+00:00",
       "NumProgressed": 6496,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-01T17:05:20.032227+00:00",
+      "NumProgressed": 6497,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1445,7 +1450,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -1533,7 +1538,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -1541,7 +1546,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -1565,7 +1570,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1573,7 +1578,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -1629,7 +1634,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1644,15 +1649,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6496,
+      "Progressed": 6497,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-01T16:05:57.1839474+00:00",
+  "LastChanged_Achievements": "2023-06-01T17:05:20.0322264+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.6752069+00:00",
-  "LastUpdate_Ratings": "2023-06-01T15:57:40.750679+00:00",
-  "LastUpdate_Achievements": "2023-06-01T16:05:57.1839687+00:00"
+  "LastUpdate_Ratings": "2023-06-01T16:57:15.3360858+00:00",
+  "LastUpdate_Achievements": "2023-06-01T17:05:20.0322535+00:00"
 }

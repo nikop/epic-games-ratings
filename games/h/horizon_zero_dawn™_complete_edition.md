@@ -1,16 +1,16 @@
 # Horizon Zero Dawn™ Complete Edition
 [Store](https://store.epicgames.com/en-US/p/horizon-zero-dawn-complete-edition)  
 [View Rawdata](../../db/h/horizon_zero_dawn™_complete_edition.json)  
-Rating: 4.77 (Ranked 105)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 7,175  (23.09.2022)  
 ## Awards
 Max (Character Customization): 4,057  (Ranked 74)  
-Sum: 8,575 (Ranked 86)  
+Sum: 8,580 (Ranked 86)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 4,057 |
-| This game has Great Boss Battles | 2,484 |
+| This game has Great Boss Battles | 2,488 |
 | This game is Extremely Fun | 225 |
 | This game has Amazing Storytelling | 223 |
 | This game has Beautiful Visuals | 221 |
@@ -20,7 +20,7 @@ Diff (max vs sum): -12
 | This game has Quickly Understood Controls | 207 |
 | This game has Amazing Characters | 206 |
 | This game is Great for Beginners | 206 |
-| This game has a Creative Community | 103 |
+| This game has a Creative Community | 104 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -150,4 +150,4 @@ Diff (max vs sum): -12
 | 2023-05-29 | 4.77 | - | 4,047 | 8,548 |
 | 2023-05-30 | 4.77 | - | 4,053 | 8,564 |
 | 2023-05-31 | 4.77 | - | 4,057 | 8,574 |
-| 2023-06-01 | 4.77 | - | 4,057 | 8,575 |
+| 2023-06-01 | 4.77 | - | 4,057 | 8,580 |
