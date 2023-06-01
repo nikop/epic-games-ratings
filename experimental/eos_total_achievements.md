@@ -422,6 +422,7 @@
 | [The Great War: Western Front™](../games/t/the_great_war__western_front™.md) | 12 | 1,000 |
 | [The Inheritance of Crimson Manor](../games/t/the_inheritance_of_crimson_manor.md) | 12 | 1,000 |
 | [The Light in the Darkness](../games/t/the_light_in_the_darkness.md) | 12 | 1,000 |
+| [Dolmenjord - Viking Islands](../games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 11 | 1,000 |
 | [Lichenvale](../games/l/lichenvale.md) | 11 | 1,000 |
 | [My Friend Peppa Pig](../games/m/my_friend_peppa_pig.md) | 11 | 1,000 |
 | [Puzzle Compound](../games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 11 | 1,000 |

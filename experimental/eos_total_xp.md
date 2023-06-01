@@ -130,6 +130,7 @@
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |
 | [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 40 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |
+| [Dolmenjord - Viking Islands](../games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 11 | 1,000 |
 | [Don't Byte Your Tongue](../games/d/don't_byte_your_tongue.md) | 31 | 1,000 |
 | [Doodle Devil](../games/d/doodle_devil.md) | 9 | 1,000 |
 | [Doodle God](../games/d/doodle_god.md) | 22 | 1,000 |
