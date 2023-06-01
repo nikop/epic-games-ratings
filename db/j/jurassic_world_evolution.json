@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-31T16:00:00+00:00",
@@ -3170,10 +3170,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 4859,
       "NumberOfAwardsMax": 540
+    },
+    {
+      "Time": "2023-06-01T02:42:20.3748224+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 4861,
+      "NumberOfAwardsMax": 540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4859,
+  "NumberOfAwards": 4861,
   "NumberOfAwardsMax": 540,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3223,7 +3229,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 493
+      "Count": 494
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3235,7 +3241,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 473
+      "Count": 474
     },
     {
       "Text": "This game has a Creative Community",
@@ -3255,8 +3261,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2023-05-31T22:58:03.9481925+00:00",
+  "LastChanged": "2023-06-01T02:42:20.3748222+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:36.5830284+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:58:03.2594471+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:02:24.4812897+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:42:20.3748228+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:45:46.4715843+00:00"
 }

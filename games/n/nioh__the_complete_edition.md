@@ -1,18 +1,18 @@
 # Nioh: The Complete Edition
 [Store](https://store.epicgames.com/en-US/p/nioh-the-complete-edition)  
 [View Rawdata](../../db/n/nioh__the_complete_edition.json)  
-Rating: 4.56 (Ranked 451)  
+Rating: 4.57 (Ranked 438)  
 Number of Ratings: 10,807  (23.09.2022)  
 ## Awards
 Max (Character Customization): 7,379  (Ranked 42)  
-Sum: 17,153 (Ranked 57)  
+Sum: 17,154 (Ranked 57)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,379 |
 | This game has Great Boss Battles | 5,113 |
 | This game has Challenging Combat | 797 |
-| This game is Highly Recommended | 795 |
+| This game is Highly Recommended | 796 |
 | This game is Extremely Fun | 785 |
 | This game has Amazing Storytelling | 774 |
 | This game has Diverse Characters | 768 |
@@ -150,3 +150,4 @@ Diff (max vs sum): -15
 | 2023-05-29 | 4.57 | - | 7,367 | 17,778 |
 | 2023-05-30 | 4.57 | - | 7,374 | 17,137 |
 | 2023-05-31 | 4.57 | - | 7,379 | 17,153 |
+| 2023-06-01 | 4.57 | - | 7,379 | 17,154 |

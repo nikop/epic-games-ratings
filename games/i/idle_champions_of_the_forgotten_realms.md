@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~893 |
+| A Brief Tour of the Realms | 1.00% | ~894 |
 | The Cursed Farmer | 0.90% | ~804 |
 | The Court of Storms | 0.80% | ~445 |
+| Beast Intentions | 0.70% | ~625 |
 | The Mad Wizard | 0.70% | ~625 |
-| Beast Intentions | 0.60% | ~536 |
 | Beware the Jabberwock | 0.60% | ~334 |
 | The Ring of Regeneration | 0.50% | ~447 |
 | Are Ya Chicken? | 0.50% | ~447 |
@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~268 |
 | Exploring Port Nyanzaru | 0.30% | ~268 |
 | The Contagious Curse | 0.30% | ~268 |
+| Escort to Waterdeep | 0.30% | ~268 |
 | Pros and CONs | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
@@ -66,7 +67,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.20% | ~179 |
 | March of the Undead | 0.20% | ~179 |
 | Wisdom Check | 0.20% | ~179 |
+| Sleuth It Out | 0.20% | ~179 |
 | No Time To Rest | 0.20% | ~179 |
+| The Mists of Ravenloft | 0.20% | ~179 |
 | Invisible Shadows | 0.20% | ~179 |
 | The Dinner Party | 0.20% | ~179 |
 | The Botched Kidnapping | 0.20% | ~179 |
@@ -88,7 +91,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.20% | ~111 |
 | The Lost Hollyphant | 0.20% | ~111 |
 | An Even Worse Time in Avernus | 0.20% | ~111 |
-| Escort to Waterdeep | 0.20% | ~179 |
 | The Giant's Bane Tavern | 0.20% | ~111 |
 | The Everlasting Rime | 0.20% | ~111 |
 | Close Escort | 0.20% | ~179 |
@@ -213,7 +215,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~89 |
 | Force Grey Unleashed | 0.10% | ~89 |
 | Vajra's Guards | 0.10% | ~89 |
-| Sleuth It Out | 0.10% | ~89 |
 | The Newcomers of Notoriety | 0.10% | ~56 |
 | A Grand Puzzle | 0.10% | ~89 |
 | Never Split the Party | 0.10% | ~89 |
@@ -223,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~89 |
 | Azaka's Procession - Part 2 | 0.10% | ~89 |
 | Acererak's Puzzle | 0.10% | ~56 |
-| The Mists of Ravenloft | 0.10% | ~89 |
 | The Hunt for Owl-y | 0.10% | ~89 |
 | Werewolves in the Mist | 0.10% | ~89 |
 | We're not in Faerûn Anymore | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,344 (Ranked 61)  
-Completed: 1,904 (2.13%) (Ranked 61)  
+Progressed: 89,350 (Ranked 61)  
+Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -542,7 +542,7 @@ Completed: 1,904 (2.13%) (Ranked 61)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,344 | 1,904 |
+| 2023-06-01 | 89,350 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,007 (Ranked 37)  

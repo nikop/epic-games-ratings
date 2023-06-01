@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-05-31T23:03:53.3223403+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T02:47:46.1345603+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1255,9 +1260,9 @@
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
       "SetID": "l546gc",
       "Name": "Explosive Miner",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_HARD_LANDING",
@@ -1353,7 +1358,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1457,7 +1462,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -1481,7 +1486,7 @@
       "Name": "Miner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1616,7 +1621,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 0
     }
   ],
@@ -1624,8 +1629,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-28T17:57:09.9383158+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:03:50.3218748+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:47:46.1345599+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:57:33.7968801+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:03:50.3219117+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:41:54.2497505+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:47:46.1346062+00:00"
 }

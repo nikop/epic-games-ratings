@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -540,6 +540,11 @@
       "Time": "2023-06-01T00:06:21.5961594+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T02:49:58.8836248+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -575,7 +580,7 @@
       "Name": "The Wraith",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Chapter10",
@@ -591,15 +596,15 @@
       "Name": "The Maggot",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "Chapter4",
@@ -631,7 +636,7 @@
       "Name": "Good as Fish",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Chapter8",
@@ -653,9 +658,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 182
     },
     {
       "ID": "Collectibles2",
@@ -735,7 +740,7 @@
       "Name": "Murderer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NoDamage",
@@ -823,7 +828,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WelcomeToMordor",
@@ -831,21 +836,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:21.5961589+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:49:58.8836243+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:57:58.0969281+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:21.5961829+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:42:14.3194346+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:49:58.8836562+00:00"
 }

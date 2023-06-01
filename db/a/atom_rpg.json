@@ -346,7 +346,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 882,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -986,6 +986,11 @@
       "Time": "2023-06-01T00:06:50.9472697+00:00",
       "NumProgressed": 881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T02:50:21.8439206+00:00",
+      "NumProgressed": 882,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1053,7 +1058,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "EXPERT_1",
@@ -1091,9 +1096,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 159
     },
     {
       "ID": "INDY_1",
@@ -1251,9 +1256,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 212
     },
     {
       "ID": "VVE",
@@ -1284,15 +1289,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 882,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-30T06:00:15.8196801+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:50.9472694+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:21.8439202+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-06-01T00:00:59.47487+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:50.9472928+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:44:40.2942013+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:21.8439522+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 962,
+  "EOS_Progressed": 963,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-05-31T18:06:18.4034816+00:00",
       "NumProgressed": 962,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T02:50:19.8390633+00:00",
+      "NumProgressed": 963,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -882,9 +887,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 125
     },
     {
       "ID": "Defense_Common",
@@ -948,7 +953,7 @@
       "Name": "Grenadier",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Hard_Serpent",
@@ -964,7 +969,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "High_noon",
@@ -996,7 +1001,7 @@
       "Name": "No Witness",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Kultprosvet",
@@ -1028,7 +1033,7 @@
       "Name": "Mosquito bite",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Scout",
@@ -1075,15 +1080,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:48.4916895+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:19.839063+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:59:52.2077447+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:48.4917102+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:43:47.0222608+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:19.8390874+00:00"
 }

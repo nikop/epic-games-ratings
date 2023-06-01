@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-09-24T15:00:00+00:00",
@@ -881,10 +881,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 420,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-06-01T02:44:30.5872044+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 421,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 420,
+  "NumberOfAwards": 421,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -904,7 +910,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -972,8 +978,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-05-30T18:59:59.9259495+00:00",
+  "LastChanged": "2023-06-01T02:44:30.5872043+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.6259091+00:00",
-  "LastUpdate_Ratings": "2023-06-01T00:00:45.7701299+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:04:10.5349419+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:44:30.5872048+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:48:13.3959059+00:00"
 }

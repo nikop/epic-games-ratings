@@ -6,8 +6,8 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 58.00% | ~175 |
-| Cartographer | 52.00% | ~157 |
+| The Adventure Begins | 58.00% | ~176 |
+| Cartographer | 52.00% | ~158 |
 | A Strange Artefact | 48.00% | ~145 |
 | Insomnia | 44.00% | ~133 |
 | From Whence we Came | 39.00% | ~118 |
@@ -18,14 +18,14 @@ Number of Ratings: 20  (23.09.2022)
 | Treasure Hunt | 30.00% | ~91 |
 | Good Mama | 29.00% | ~88 |
 | O Captain My Captain | 27.00% | ~82 |
-| Taxonomist | 25.00% | ~76 |
 | Plunderer | 25.00% | ~76 |
-| Uncertain Loyalties | 23.00% | ~69 |
-| Traveller | 22.00% | ~66 |
-| Nahua Seeker | 22.00% | ~66 |
-| Roll to Save | 20.00% | ~60 |
-| Red Flag Pirate | 17.00% | ~51 |
-| Veteran Explorer | 17.00% | ~51 |
+| Taxonomist | 24.00% | ~73 |
+| Traveller | 22.00% | ~67 |
+| Nahua Seeker | 22.00% | ~67 |
+| Uncertain Loyalties | 22.00% | ~67 |
+| Roll to Save | 19.00% | ~58 |
+| Red Flag Pirate | 17.00% | ~52 |
+| Veteran Explorer | 17.00% | ~52 |
 | Iron Man | 15.00% | ~45 |
 | For the Club! | 15.00% | ~45 |
 | Practical Palaeontology | 15.00% | ~45 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 221)  
+Progressed: 303 (Ranked 221)  
 Completed: 1 (0.33%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 1 (0.33%) (Ranked 121)
 | 2023-05-28 | 299 | 1 |
 | 2023-05-29 | 300 | 1 |
 | 2023-05-31 | 302 | 1 |
+| 2023-06-01 | 303 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

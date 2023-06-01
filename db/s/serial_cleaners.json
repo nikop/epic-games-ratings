@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.84,
+  "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -150,6 +150,11 @@
     {
       "Time": "2023-05-31T18:06:12.7809302+00:00",
       "NumProgressed": 176,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-01T02:50:14.2434381+00:00",
+      "NumProgressed": 177,
       "NumCompleted": 5
     }
   ],
@@ -336,9 +341,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "VIPER_HACKING",
@@ -353,13 +358,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 5
     }
   ],
@@ -367,8 +372,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:41.4558583+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:14.2434376+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:46.9856284+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:59:47.6859643+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:41.4558729+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:43:43.7121129+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:14.2434559+00:00"
 }

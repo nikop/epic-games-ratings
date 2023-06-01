@@ -20,6 +20,7 @@
 | Ball Collector | 2.00% | ~2 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
+| Ice Breaker | 2.00% | ~2 |
 | Medium Rare | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Nomad | 2.00% | ~2 |
@@ -27,7 +28,6 @@
 | Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
 | Bullet Hell | 0.80% | ~1 |
-| Ice Breaker | 0.80% | ~1 |
 | Machine Man | 0.80% | ~1 |
 | Mushroom Man | 0.80% | ~1 |
 | Scrap Collector | 0.80% | ~1 |
@@ -37,7 +37,7 @@
 | What Even Are You? | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 120 (Ranked 265)  
-Completed: 1 (0.83%) (Ranked 92)  
+Completed: 1 (0.83%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

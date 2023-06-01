@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -261,6 +261,11 @@
       "Time": "2023-06-01T00:03:11.0037486+00:00",
       "NumProgressed": 184,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T02:47:17.9131887+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -272,7 +277,7 @@
       "Name": "Adventurous 1",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "adventurous_2",
@@ -294,9 +299,9 @@
       "ID": "archmage_1",
       "SetID": "53c1p3k",
       "Name": "Archmage 1",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "archmage_2",
@@ -318,9 +323,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "call_of_mana_2",
@@ -440,7 +445,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "elemental_stones_2",
@@ -510,9 +515,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "glitter_of_gold_2",
@@ -799,14 +804,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:03:11.0037481+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:47:17.9131878+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:57:01.0455309+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:03:11.0038077+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:41:23.9772921+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:47:17.9132519+00:00"
 }

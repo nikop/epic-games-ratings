@@ -3,12 +3,12 @@
 [View Rawdata](../../db/b/brawlhalla.json)  
 Rating: 4.59 (Ranked 404)  
 ## Awards
-Max (Great for Beginners): 131  (Ranked 297)  
-Sum: 1,308 (Ranked 219)  
-Diff (max vs sum): 78  
+Max (Great for Beginners): 134  (Ranked 294)  
+Sum: 1,311 (Ranked 219)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 131 |
+| This game is Great for Beginners | 134 |
 | This game has Competitive Players | 122 |
 | This game has Diverse Characters | 121 |
 | This game is Relaxing | 121 |
@@ -151,4 +151,4 @@ Diff (max vs sum): 78
 | 2023-05-29 | 4.59 | 129 | 1,281 |
 | 2023-05-30 | 4.59 | 131 | 1,293 |
 | 2023-05-31 | 4.59 | 131 | 1,307 |
-| 2023-06-01 | 4.59 | 131 | 1,308 |
+| 2023-06-01 | 4.59 | 134 | 1,311 |

@@ -1,30 +1,30 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.45 (Ranked 607)  
+Rating: 4.46 (Ranked 596)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,044 |
-| I'll Be Back | 84.00% | ~3,614 |
-| Sorry, I Dropped This | 77.00% | ~3,313 |
-| First Day on the Job | 76.00% | ~3,270 |
-| Butcher's Bill | 55.00% | ~2,366 |
+| On My Own Two Feet | 94.00% | ~4,046 |
+| I'll Be Back | 84.00% | ~3,615 |
+| Sorry, I Dropped This | 77.00% | ~3,314 |
+| First Day on the Job | 76.00% | ~3,271 |
+| Butcher's Bill | 55.00% | ~2,367 |
 | P.A.X | 37.00% | ~1,592 |
 | Hey Listen | 36.00% | ~1,549 |
 | OPERATOR | 35.00% | ~1,506 |
 | It's Blue Light | 33.00% | ~1,420 |
 | Most Wanted | 26.00% | ~1,119 |
-| Infidel | 23.00% | ~989 |
-| GOLIATH | 21.00% | ~903 |
-| Firebug | 20.00% | ~860 |
-| I Choose You | 17.00% | ~731 |
-| Nothing to Lose | 17.00% | ~731 |
-| Big Sister | 15.00% | ~645 |
-| Gear Up | 15.00% | ~645 |
-| SENTINEL | 15.00% | ~645 |
-| Core Power | 13.00% | ~559 |
+| Infidel | 23.00% | ~990 |
+| GOLIATH | 21.00% | ~904 |
+| Firebug | 20.00% | ~861 |
+| I Choose You | 17.00% | ~732 |
+| Nothing to Lose | 17.00% | ~732 |
+| Big Sister | 15.00% | ~646 |
+| Gear Up | 15.00% | ~646 |
+| SENTINEL | 15.00% | ~646 |
+| Core Power | 13.00% | ~560 |
 | The Black Cerberus | 12.00% | ~516 |
 | Watchman | 12.00% | ~516 |
 | CREO Killed the Video Star | 11.00% | ~473 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,302 (Ranked 127)  
+Progressed: 4,304 (Ranked 127)  
 Completed: 13 (0.30%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 13 (0.30%) (Ranked 128)
 | 2023-05-29 | 4,292 | 13 |
 | 2023-05-30 | 4,301 | 13 |
 | 2023-05-31 | 4,302 | 13 |
+| 2023-06-01 | 4,304 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 467)  
@@ -176,3 +177,4 @@ Diff (max vs sum): -8
 | 2023-05-13 | 4.47 | - | 26 | 26 |
 | 2023-05-22 | 4.47 | - | 26 | 26 |
 | 2023-05-23 | 4.45 | - | 26 | 26 |
+| 2023-06-01 | 4.46 | - | 26 | 26 |

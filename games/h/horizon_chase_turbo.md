@@ -1,50 +1,50 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.56 (Ranked 451)  
+Rating: 4.56 (Ranked 452)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~853,571 |
-| I Need a Bigger Garage | 62.00% | ~594,623 |
-| Pump my Ride | 46.00% | ~441,172 |
-| Ghostbuster | 31.00% | ~297,311 |
-| Call Roadside Assistance | 17.00% | ~163,042 |
-| That Was Close | 17.00% | ~163,042 |
-| Quickie | 10.00% | ~95,907 |
-| California Dreamer | 7.00% | ~67,135 |
-| Can't Touch This | 4.00% | ~38,363 |
-| Carménère Taster | 3.00% | ~28,772 |
-| Comeback | 3.00% | ~28,772 |
-| Marathonist | 3.00% | ~28,772 |
-| Living Legend | 3.00% | ~28,772 |
-| Driver from Ipanema | 2.00% | ~19,181 |
-| Pathfinder | 2.00% | ~19,181 |
-| Go-Kart Champion | 2.00% | ~19,181 |
-| Completionist | 2.00% | ~19,181 |
-| Supersonic | 2.00% | ~19,181 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,181 |
-| God of Roads | 1.00% | ~9,591 |
-| The Iceman | 1.00% | ~9,591 |
-| Oil Tycoon | 1.00% | ~9,591 |
-| Round the Globe | 1.00% | ~9,591 |
-| Golden Passport | 1.00% | ~9,591 |
-| Bollywood Star | 0.90% | ~8,632 |
-| Brave and Bold | 0.90% | ~8,632 |
-| Crocodile Hunter | 0.80% | ~7,673 |
-| Old Master | 0.80% | ~7,673 |
-| Volcano Surfer | 0.70% | ~6,713 |
-| Otaku | 0.70% | ~6,713 |
-| Survivor | 0.50% | ~4,795 |
-| King of the World | 0.50% | ~4,795 |
-| Getting Famous | 0.40% | ~3,836 |
+| The First of Many | 89.00% | ~853,682 |
+| I Need a Bigger Garage | 62.00% | ~594,700 |
+| Pump my Ride | 46.00% | ~441,229 |
+| Ghostbuster | 31.00% | ~297,350 |
+| Call Roadside Assistance | 17.00% | ~163,063 |
+| That Was Close | 17.00% | ~163,063 |
+| Quickie | 10.00% | ~95,919 |
+| California Dreamer | 7.00% | ~67,144 |
+| Can't Touch This | 4.00% | ~38,368 |
+| Carménère Taster | 3.00% | ~28,776 |
+| Comeback | 3.00% | ~28,776 |
+| Marathonist | 3.00% | ~28,776 |
+| Living Legend | 3.00% | ~28,776 |
+| Driver from Ipanema | 2.00% | ~19,184 |
+| Pathfinder | 2.00% | ~19,184 |
+| Go-Kart Champion | 2.00% | ~19,184 |
+| Completionist | 2.00% | ~19,184 |
+| Supersonic | 2.00% | ~19,184 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,184 |
+| God of Roads | 1.00% | ~9,592 |
+| The Iceman | 1.00% | ~9,592 |
+| Oil Tycoon | 1.00% | ~9,592 |
+| Round the Globe | 1.00% | ~9,592 |
+| Golden Passport | 1.00% | ~9,592 |
+| Bollywood Star | 0.90% | ~8,633 |
+| Brave and Bold | 0.90% | ~8,633 |
+| Crocodile Hunter | 0.80% | ~7,674 |
+| Old Master | 0.80% | ~7,674 |
+| Volcano Surfer | 0.70% | ~6,714 |
+| Otaku | 0.70% | ~6,714 |
+| Survivor | 0.50% | ~4,796 |
+| King of the World | 0.50% | ~4,796 |
+| Getting Famous | 0.40% | ~3,837 |
 | Master of the Racetrack | 0.20% | ~1,918 |
 | Now Go Play Outside | 0.20% | ~1,918 |
 | Transporter | 0.10% | ~959 |
 | Look Mom, No Hands! | 0.10% | ~959 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 959,069 (Ranked 10)  
+Progressed: 959,193 (Ranked 10)  
 Completed: 278 (0.03%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 278 (0.03%) (Ranked 186)
 | 2023-05-29 | 956,563 | 275 |
 | 2023-05-30 | 957,848 | 276 |
 | 2023-05-31 | 959,021 | 278 |
-| 2023-06-01 | 959,069 | 278 |
+| 2023-06-01 | 959,193 | 278 |
 ## Awards
 Max (Great for Beginners): 141  (Ranked 289)  
 Sum: 1,130 (Ranked 226)  

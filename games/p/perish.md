@@ -28,6 +28,7 @@
 | Comedy and Tragedy | 2.00% | ~58 |
 | Wayward Son of Hephaestus | 2.00% | ~58 |
 | Forged in Fire | 2.00% | ~58 |
+| Rock and a Hard Place | 2.00% | ~58 |
 | Chthonic Investor | 2.00% | ~58 |
 | First Fragment | 2.00% | ~58 |
 | Hapax Legomenon | 2.00% | ~58 |
@@ -42,7 +43,6 @@
 | The Nameless One | 1.00% | ~29 |
 | Lament of the Constellations | 1.00% | ~29 |
 | Rule of Thirds | 1.00% | ~29 |
-| Rock and a Hard Place | 1.00% | ~29 |
 | The Midas Touch | 1.00% | ~29 |
 | Pyr Demon | 1.00% | ~29 |
 | Don't Pay the Ferryman | 1.00% | ~29 |

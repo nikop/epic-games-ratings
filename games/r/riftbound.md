@@ -10,6 +10,7 @@
 | Getting Good At This | 15.00% | ~4 |
 | Ender Ender | 4.00% | ~1 |
 | Evolution Revolution | 4.00% | ~1 |
+| Five Of A Kind | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
 | I'm A Wizard | 4.00% | ~1 |
@@ -20,7 +21,6 @@
 | Challenger, Ready! | 0.00% | ~0 |
 | Expert Summoner | 0.00% | ~0 |
 | Fair Fight | 0.00% | ~0 |
-| Five Of A Kind | 0.00% | ~0 |
 | Fries With That? | 0.00% | ~0 |
 | One Hand Tied | 0.00% | ~0 |
 | Over 9000 | 0.00% | ~0 |

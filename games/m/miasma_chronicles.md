@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~848 |
-| Ranidaphobia | 71.00% | ~655 |
-| Aspiring Editor | 69.00% | ~636 |
-| Gun for Hire | 63.00% | ~581 |
-| I am the law! | 53.00% | ~489 |
+| First Blood | 92.00% | ~850 |
+| Ranidaphobia | 71.00% | ~656 |
+| Aspiring Editor | 69.00% | ~638 |
+| Gun for Hire | 63.00% | ~582 |
+| I am the law! | 53.00% | ~490 |
 | Lumberjack | 35.00% | ~323 |
 | Croaked | 30.00% | ~277 |
 | Limp Richard | 30.00% | ~277 |
-| Firestarter | 29.00% | ~267 |
-| From Darkness to Light | 29.00% | ~267 |
+| Firestarter | 29.00% | ~268 |
+| From Darkness to Light | 29.00% | ~268 |
 | Exorcist | 26.00% | ~240 |
-| Editor Adept | 25.00% | ~230 |
+| Editor Adept | 25.00% | ~231 |
 | Giant Killer | 22.00% | ~203 |
-| Sensei | 20.00% | ~184 |
-| The meaning of Kain | 20.00% | ~184 |
+| Sensei | 20.00% | ~185 |
+| The meaning of Kain | 20.00% | ~185 |
 | Technophobe | 17.00% | ~157 |
-| Recycler | 15.00% | ~138 |
+| Recycler | 15.00% | ~139 |
 | Chain Killer | 13.00% | ~120 |
 | Hold The Line | 13.00% | ~120 |
-| Are you not entertained? | 11.00% | ~101 |
-| Ganglord | 11.00% | ~101 |
-| Jarhead | 11.00% | ~101 |
-| Newtonian Knockout | 11.00% | ~101 |
-| There Can Be Only One! | 11.00% | ~101 |
+| Are you not entertained? | 11.00% | ~102 |
+| Ganglord | 11.00% | ~102 |
+| Jarhead | 11.00% | ~102 |
+| Newtonian Knockout | 11.00% | ~102 |
+| There Can Be Only One! | 11.00% | ~102 |
 | Infiltrator | 10.00% | ~92 |
 | Pushing Daisy | 10.00% | ~92 |
 | Experienced | 8.00% | ~74 |
@@ -38,9 +38,9 @@ Rating: 4.29 (Ranked 765)
 | Savior | 6.00% | ~55 |
 | Chain Reaction | 5.00% | ~46 |
 | Commando | 5.00% | ~46 |
+| Dr Jones | 5.00% | ~46 |
 | Chaos Theory | 4.00% | ~37 |
 | Curveball | 4.00% | ~37 |
-| Dr Jones | 4.00% | ~37 |
 | Wipe Out | 4.00% | ~37 |
 | Side Order | 3.00% | ~28 |
 | Bot Whisperer | 2.00% | ~18 |
@@ -57,7 +57,7 @@ Rating: 4.29 (Ranked 765)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922 (Ranked 175)  
+Progressed: 924 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 815 | 0 |
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
-| 2023-06-01 | 922 | 0 |
+| 2023-06-01 | 924 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

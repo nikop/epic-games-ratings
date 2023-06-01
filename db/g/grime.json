@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -403,6 +403,11 @@
       "Time": "2023-05-30T18:05:58.0064347+00:00",
       "NumProgressed": 566,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T02:50:26.3247666+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -454,7 +459,7 @@
       "Name": "Zygote",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -476,9 +481,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 130
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -534,7 +539,7 @@
       "Name": "Host",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -726,7 +731,7 @@
       "Name": "Kin",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "QUEST_LISTENER",
@@ -749,21 +754,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:56.6520497+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:26.3247662+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.875008+00:00",
-  "LastUpdate_Ratings": "2023-06-01T00:01:24.1320376+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:56.6520771+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:45:00.109315+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:26.324802+00:00"
 }

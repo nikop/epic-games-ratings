@@ -1316,9 +1316,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63039,
+  "EOS_Progressed": 63047,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1089,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4551,6 +4551,11 @@
       "Time": "2023-06-01T00:07:00.2521744+00:00",
       "NumProgressed": 63039,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-06-01T02:50:29.4425387+00:00",
+      "NumProgressed": 63047,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4592,9 +4597,9 @@
       "ID": "AC1_HA_RESERVOIR",
       "SetID": "18c818l",
       "Name": "Crime Is a Terrible Thing to Waste",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 67
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -4744,9 +4749,9 @@
       "ID": "DEFEAT_LOS_1",
       "SetID": "4eo5ebm",
       "Name": "Out of Their League",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 378
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -5049,13 +5054,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63039,
+      "Progressed": 63047,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33319,
+      "Progressed": 33327,
       "Completed": 2644
     }
   ],
@@ -5063,8 +5068,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-31T06:00:25.9069511+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:07:00.2521738+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:29.4425378+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-01T00:00:31.1868184+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:07:00.2522347+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:44:16.7910237+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:29.4426162+00:00"
 }

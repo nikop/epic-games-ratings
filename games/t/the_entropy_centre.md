@@ -8,7 +8,7 @@
 | Wake Up | 82.00% | ~108 |
 | Time Gates | 63.00% | ~83 |
 | Command Centre | 48.00% | ~63 |
-| This is a Wall | 41.00% | ~54 |
+| This is a Wall | 42.00% | ~55 |
 | Extendable Bridges | 34.00% | ~45 |
 | 48 Attempts | 33.00% | ~44 |
 | Chain Reaction | 31.00% | ~41 |
@@ -19,12 +19,12 @@
 | Running Boots | 13.00% | ~17 |
 | Fashionista | 11.00% | ~15 |
 | Archivist | 10.00% | ~13 |
+| Looper | 9.00% | ~12 |
 | Kaboom! | 8.00% | ~11 |
 | All Alone | 8.00% | ~11 |
-| Looper | 8.00% | ~11 |
+| Cataclysm | 8.00% | ~11 |
 | Reunited | 8.00% | ~11 |
 | So Close | 7.00% | ~9 |
-| Cataclysm | 7.00% | ~9 |
 | Transformers, cubes in disguise | 6.00% | ~8 |
 | Final Charge | 6.00% | ~8 |
 | Summer Luvin' | 4.00% | ~5 |

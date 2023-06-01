@@ -2,12 +2,12 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -736,10 +736,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1588,
       "NumberOfAwardsMax": 1251
+    },
+    {
+      "Time": "2023-06-01T02:45:05.1252377+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1590,
+      "NumberOfAwardsMax": 1251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1588,
+  "NumberOfAwards": 1590,
   "NumberOfAwardsMax": 1251,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -783,7 +789,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Challenging Combat",
@@ -810,8 +816,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "LastChanged": "2023-05-31T23:01:30.0656776+00:00",
+  "LastChanged": "2023-06-01T02:45:05.1252376+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:50.4818657+00:00",
-  "LastUpdate_Ratings": "2023-06-01T00:01:29.6483316+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:05.4356029+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:45:05.1252381+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:49:47.2201766+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 120,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -671,9 +671,9 @@
       "ID": "ice_breaker",
       "SetID": "jig50d",
       "Name": "Ice Breaker",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "legendary_destructor",
@@ -824,8 +824,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:02:17.1749252+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:45:41.4851569+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.4267473+00:00",
-  "LastUpdate_Ratings": "2023-06-01T00:00:46.9944952+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:02:17.1749451+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:44:31.3975341+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:45:41.4852098+00:00"
 }

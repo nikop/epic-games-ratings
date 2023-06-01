@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 2234,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2306,9 +2306,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1698
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2563,8 +2563,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:38.415852+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:12.0089285+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:57:48.2661811+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:38.4158955+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:42:06.8838986+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:12.0089894+00:00"
 }

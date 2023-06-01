@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 420,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 118,
@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2805,
+  "EOS_Progressed": 2807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1443,6 +1443,11 @@
       "Time": "2023-05-31T22:06:48.204609+00:00",
       "NumProgressed": 2805,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T02:50:26.6551818+00:00",
+      "NumProgressed": 2807,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1622,7 +1627,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "Kills_Bleed",
@@ -1678,7 +1683,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "Kills_Streak",
@@ -1702,7 +1707,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1718,7 +1723,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1726,7 +1731,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1734,7 +1739,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MasterOfTheForge",
@@ -1782,7 +1787,7 @@
       "Name": "Efficient Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1822,7 +1827,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1925,21 +1930,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2805,
+      "Progressed": 2807,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2805,
+      "Progressed": 2807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:57.0569197+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:26.6551816+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:59:06.4628968+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:57.0569737+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:43:12.6247775+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:26.6552386+00:00"
 }

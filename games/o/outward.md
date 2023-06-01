@@ -6,11 +6,11 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,007 |
+| Venture Outward | 74.00% | ~2,008 |
 | Ready for Winter | 63.00% | ~1,709 |
 | Ready for Summer | 50.00% | ~1,356 |
-| Cordon Bleu | 43.00% | ~1,166 |
-| Tapped! | 35.00% | ~949 |
+| Cordon Bleu | 43.00% | ~1,167 |
+| Tapped! | 35.00% | ~950 |
 | Eureka | 31.00% | ~841 |
 | Scourge Slayer | 25.00% | ~678 |
 | Science, Troglodyte! | 23.00% | ~624 |
@@ -20,8 +20,8 @@ Number of Ratings: 266  (23.09.2022)
 | A Fortress Toppled! | 16.00% | ~434 |
 | The Power of Family | 16.00% | ~434 |
 | Apex Predator | 15.00% | ~407 |
-| Strange amalgams | 12.00% | ~325 |
-| The Power of Faith | 12.00% | ~325 |
+| Strange amalgams | 12.00% | ~326 |
+| The Power of Faith | 12.00% | ~326 |
 | The Power of Freedom | 9.00% | ~244 |
 | Ace Detective | 8.00% | ~217 |
 | Gift from the Ancestors | 8.00% | ~217 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | Blood and justice | 6.00% | ~163 |
 | Hold my Mead and Watch This | 6.00% | ~163 |
 | The stuff of legends. | 6.00% | ~163 |
-| Ancestor's Pride | 4.00% | ~108 |
-| For All Aurai | 4.00% | ~108 |
-| Memory of a legend | 4.00% | ~108 |
+| Ancestor's Pride | 4.00% | ~109 |
+| For All Aurai | 4.00% | ~109 |
+| Memory of a legend | 4.00% | ~109 |
 | Light of Levant | 3.00% | ~81 |
 | This was a mistake... | 3.00% | ~81 |
 | Crowd Pleaser. | 2.00% | ~54 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,712 (Ranked 139)  
+Progressed: 2,713 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.04%) (Ranked 180)
 | 2023-05-29 | 2,669 | 1 |
 | 2023-05-30 | 2,690 | 1 |
 | 2023-05-31 | 2,709 | 1 |
-| 2023-06-01 | 2,712 | 1 |
+| 2023-06-01 | 2,713 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 344)  

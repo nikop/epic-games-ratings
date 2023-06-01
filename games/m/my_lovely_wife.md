@@ -7,7 +7,7 @@ Number of Ratings: 25  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Objective Complete | 97.00% | ~549 |
-| I did it! | 93.00% | ~526 |
+| I did it! | 94.00% | ~532 |
 | Learner | 91.00% | ~515 |
 | Economical | 91.00% | ~515 |
 | Devout | 89.00% | ~504 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 566 (Ranked 194)  
+Progressed: 566 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -274,7 +274,7 @@
   ],
   "EOS_Progressed": 10952,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2355,9 +2355,9 @@
       "ID": "ACH_04",
       "SetID": "9d4cf4c",
       "Name": "Protector\u0027s Duty",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 7447
+      "UsersEstimate": 7557
     },
     {
       "ID": "ACH_05",
@@ -2620,8 +2620,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:06:47.7421308+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:19.2960811+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.0368466+00:00",
-  "LastUpdate_Ratings": "2023-06-01T00:00:01.3632559+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:06:47.7421606+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:43:53.9160918+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:19.2961184+00:00"
 }

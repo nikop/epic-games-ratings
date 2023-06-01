@@ -6,7 +6,7 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -4042,10 +4042,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89344,
-  "EOS_Completed": 1904,
-  "EOS_NewPlayers": 807,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 89350,
+  "EOS_Completed": 1905,
+  "EOS_NewPlayers": 801,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8172,6 +8172,11 @@
       "Time": "2023-06-01T00:07:06.4419746+00:00",
       "NumProgressed": 89344,
       "NumCompleted": 1904
+    },
+    {
+      "Time": "2023-06-01T02:50:34.2303454+00:00",
+      "NumProgressed": 89350,
+      "NumCompleted": 1905
     }
   ],
   "TotalAchievements": 493,
@@ -8183,7 +8188,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "objective_completed_10",
@@ -8549,9 +8554,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_110",
@@ -9429,9 +9434,9 @@
       "ID": "objective_completed_171",
       "SetID": "cc37lbc",
       "Name": "Sleuth It Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_172",
@@ -9525,9 +9530,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_209",
@@ -11253,9 +11258,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_690",
@@ -12126,21 +12131,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55618,
+      "Progressed": 55624,
       "Completed": 2748
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89344,
-      "Completed": 1904
+      "Progressed": 89350,
+      "Completed": 1905
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-31T15:57:47.7873175+00:00",
-  "LastChanged_Achievements": "2023-06-01T00:07:06.4419741+00:00",
+  "LastChanged_Achievements": "2023-06-01T02:50:34.2303448+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:58:21.9029229+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:07:06.4442183+00:00"
+  "LastUpdate_Ratings": "2023-06-01T02:42:35.026937+00:00",
+  "LastUpdate_Achievements": "2023-06-01T02:50:34.2330415+00:00"
 }
