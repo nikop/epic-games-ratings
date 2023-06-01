@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~110 |
-| Starting Skyward | 52.00% | ~98 |
+| Starting Skyward | 52.00% | ~99 |
 | Grime is Not Good | 46.00% | ~87 |
 | Campaign Launch | 40.00% | ~76 |
 | Dinner Dash | 39.00% | ~74 |
 | Floor Galore | 38.00% | ~72 |
 | It's Technical | 35.00% | ~66 |
-| Need a Consult | 34.00% | ~64 |
-| Upgrade Unlock | 34.00% | ~64 |
-| Proper Walls | 32.00% | ~60 |
-| Delegate Maintenance | 32.00% | ~60 |
+| Need a Consult | 34.00% | ~65 |
+| Upgrade Unlock | 34.00% | ~65 |
+| Proper Walls | 32.00% | ~61 |
+| Delegate Maintenance | 32.00% | ~61 |
 | Destination Destiny | 28.00% | ~53 |
-| Happy Tenants | 25.00% | ~47 |
-| Smooth Service | 24.00% | ~45 |
-| Your Prestige is Rising | 23.00% | ~43 |
-| Potent Potables | 23.00% | ~43 |
+| Happy Tenants | 25.00% | ~48 |
+| Smooth Service | 24.00% | ~46 |
+| Your Prestige is Rising | 23.00% | ~44 |
+| Potent Potables | 23.00% | ~44 |
 | Lux Living | 22.00% | ~42 |
 | People Mover | 22.00% | ~42 |
 | Retail Revenue | 22.00% | ~42 |
@@ -27,9 +27,9 @@
 | Emporium Empire | 21.00% | ~40 |
 | Leveled Up Shops | 21.00% | ~40 |
 | Get Electrified | 21.00% | ~40 |
-| Artfully Done | 20.00% | ~38 |
 | Rehab Expert | 20.00% | ~38 |
-| Tasty Profits | 20.00% | ~38 |
+| Artfully Done | 19.00% | ~36 |
+| Tasty Profits | 19.00% | ~36 |
 | Cashflow Chief | 18.00% | ~34 |
 | Under One Roof | 17.00% | ~32 |
 | Established Fame | 17.00% | ~32 |
@@ -43,11 +43,11 @@
 | 28 Days Later | 11.00% | ~21 |
 | Plaza Plan | 11.00% | ~21 |
 | Master of Puppets | 11.00% | ~21 |
-| First 100 Days | 10.00% | ~19 |
 | Refined Palates | 10.00% | ~19 |
 | Revenue Royalty | 10.00% | ~19 |
-| Pipe Up | 10.00% | ~19 |
+| First 100 Days | 9.00% | ~17 |
 | Phoning It In | 9.00% | ~17 |
+| Pipe Up | 9.00% | ~17 |
 | Aestheticly Pleased | 8.00% | ~15 |
 | Meet Me at HQ | 8.00% | ~15 |
 | Profound Proceeds | 8.00% | ~15 |
@@ -61,8 +61,8 @@
 | Meet ADA/360 | 6.00% | ~11 |
 | Baron of Business | 6.00% | ~11 |
 | Water Features | 6.00% | ~11 |
-| Office Bigwigs | 5.00% | ~9 |
-| Golden Opportunity | 5.00% | ~9 |
+| Office Bigwigs | 5.00% | ~10 |
+| Golden Opportunity | 5.00% | ~10 |
 | Luxury Boutiques | 4.00% | ~8 |
 | Plebs Are Needed | 4.00% | ~8 |
 | Three of a Kind | 4.00% | ~8 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189 (Ranked 242)  
+Progressed: 190 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 183 | 0 |
 | 2023-05-30 | 185 | 0 |
 | 2023-05-31 | 189 | 0 |
+| 2023-06-01 | 190 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -397,9 +397,9 @@
       "ID": "37",
       "SetID": "39djiaj",
       "Name": "Found the Secret Formula!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "38",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:06.8905455+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:33:55.1841512+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:41.5512864+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:06.8905783+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:27:13.4906608+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:33:55.1841845+00:00"
 }

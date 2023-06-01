@@ -2,10 +2,10 @@
   "ID": "d1ff0ce670d94500aef95ca74a08a4e7",
   "Name": "Alliance of the Sacred Suns",
   "ProductSlug": "alliance-of-the-sacred-suns-d3fd98",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:35.4448503+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:17.4917463+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:47:28.5069736+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:24.4206075+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:30:37.3670614+00:00"
 }

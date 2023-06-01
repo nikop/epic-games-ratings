@@ -38,10 +38,10 @@ Rating: 3.94 (Ranked 902)
 | Moving Up The Ladder | 6.00% | ~74 |
 | Relic Of The Past | 6.00% | ~74 |
 | Doing My Part | 5.00% | ~62 |
+| Here We Go Again | 5.00% | ~62 |
 | The Expeditioner | 5.00% | ~62 |
 | Ancient Knowledge | 4.00% | ~50 |
 | Background Story | 4.00% | ~50 |
-| Here We Go Again | 4.00% | ~50 |
 | How Do You Turn This On? | 4.00% | ~50 |
 | Missions Dedication | 4.00% | ~50 |
 | The father of Dragons | 4.00% | ~50 |

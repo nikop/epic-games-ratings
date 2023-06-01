@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,893 |
-| Wallbanger | 5.00% | ~18,893 |
-| Exploitative | 4.00% | ~15,114 |
-| High Speed Low Drag | 4.00% | ~15,114 |
-| Wet Feet | 4.00% | ~15,114 |
+| Point Shooting | 5.00% | ~18,894 |
+| Wallbanger | 5.00% | ~18,894 |
+| Exploitative | 4.00% | ~15,115 |
+| High Speed Low Drag | 4.00% | ~15,115 |
+| Wet Feet | 4.00% | ~15,115 |
 | Checkpoint Victory | 3.00% | ~11,336 |
 | Lucky | 3.00% | ~11,336 |
 | Stylin' | 3.00% | ~11,336 |
 | Turf War | 3.00% | ~11,336 |
-| Banged | 2.00% | ~7,557 |
-| First Blood | 2.00% | ~7,557 |
-| Flaccid Paralysis | 2.00% | ~7,557 |
-| Push Victory | 2.00% | ~7,557 |
-| Self-destructive | 2.00% | ~7,557 |
+| Banged | 2.00% | ~7,558 |
+| First Blood | 2.00% | ~7,558 |
+| Flaccid Paralysis | 2.00% | ~7,558 |
+| Push Victory | 2.00% | ~7,558 |
+| Self-destructive | 2.00% | ~7,558 |
 | Blindfire | 1.00% | ~3,779 |
 | Efficient | 1.00% | ~3,779 |
 | Ruthless | 1.00% | ~3,779 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~2,645 |
 | Firefight Victory | 0.60% | ~2,267 |
 | Cinematic | 0.50% | ~1,889 |
-| Thanks Station! | 0.40% | ~1,511 |
+| Thanks Station! | 0.40% | ~1,512 |
 | Knock Knock | 0.30% | ~1,134 |
 | There For You | 0.30% | ~1,134 |
 | Hit and Run | 0.20% | ~756 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~378 |
 | Road Hazard | 0.10% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,858 (Ranked 37)  
+Progressed: 377,877 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 2 (0.00%) (Ranked 208)
 | 2023-05-29 | 376,702 | 2 |
 | 2023-05-30 | 377,224 | 2 |
 | 2023-05-31 | 377,737 | 2 |
-| 2023-06-01 | 377,858 | 2 |
+| 2023-06-01 | 377,877 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 355  (Ranked 211)  
 Sum: 2,687 (Ranked 162)  

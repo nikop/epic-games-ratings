@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "ACH_GUNNERS_DREAM",
       "SetID": "5kae3ip",
       "Name": "The Gunner\u0027s Dream",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_HIGH_HOPES",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:49:56.5551084+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:33:41.9070666+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.2941182+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:41:54.5017583+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:49:56.5551204+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:24:52.6368307+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:33:41.9070779+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -1966,9 +1966,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 30572,
+  "EOS_Progressed": 30573,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 865,
+  "EOS_NewPlayers": 866,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6151,6 +6151,11 @@
       "Time": "2023-06-01T02:50:28.6483508+00:00",
       "NumProgressed": 30572,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-01T03:34:21.9154587+00:00",
+      "NumProgressed": 30573,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 75,
@@ -6162,7 +6167,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "achievements_10",
@@ -6170,7 +6175,7 @@
       "Name": "Unholy Bones",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7337
+      "UsersEstimate": 7338
     },
     {
       "ID": "achievements_11",
@@ -6186,7 +6191,7 @@
       "Name": "Blood Elemental",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7337
+      "UsersEstimate": 7338
     },
     {
       "ID": "achievements_13",
@@ -6194,7 +6199,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 17426
+      "UsersEstimate": 17427
     },
     {
       "ID": "achievements_14",
@@ -6218,7 +6223,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 10700
+      "UsersEstimate": 10701
     },
     {
       "ID": "achievements_19",
@@ -6234,7 +6239,7 @@
       "Name": "More Mortal Suffering!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "achievements_20",
@@ -6266,7 +6271,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 18343
+      "UsersEstimate": 18344
     },
     {
       "ID": "achievements_24",
@@ -6282,7 +6287,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8255
     },
     {
       "ID": "achievements_26",
@@ -6290,7 +6295,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     },
     {
       "ID": "achievements_27",
@@ -6330,7 +6335,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 9477
+      "UsersEstimate": 9478
     },
     {
       "ID": "achievements_31",
@@ -6346,7 +6351,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10394
+      "UsersEstimate": 10395
     },
     {
       "ID": "achievements_33",
@@ -6418,7 +6423,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "achievements_41",
@@ -6434,7 +6439,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "achievements_43",
@@ -6466,7 +6471,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "achievements_47",
@@ -6522,7 +6527,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     },
     {
       "ID": "achievements_53",
@@ -6530,7 +6535,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 17426
+      "UsersEstimate": 17427
     },
     {
       "ID": "achievements_54",
@@ -6546,7 +6551,7 @@
       "Name": "Calcination",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "achievements_56",
@@ -6586,7 +6591,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10394
+      "UsersEstimate": 10395
     },
     {
       "ID": "achievements_61",
@@ -6594,7 +6599,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "achievements_62",
@@ -6602,7 +6607,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8255
     },
     {
       "ID": "achievements_63",
@@ -6666,7 +6671,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 11617
+      "UsersEstimate": 11618
     },
     {
       "ID": "achievements_70",
@@ -6698,7 +6703,7 @@
       "Name": "Live Operation",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "achievements_74",
@@ -6761,15 +6766,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 30572,
+      "Progressed": 30573,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-05-31T17:59:09.1799863+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:28.6483504+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:21.9154584+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:27.8151184+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:21.7801546+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:28.6484657+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:26:47.6471394+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:21.9155519+00:00"
 }

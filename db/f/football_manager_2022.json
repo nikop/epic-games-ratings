@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -4683,10 +4683,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 49552,
       "NumberOfAwardsMax": 6285
+    },
+    {
+      "Time": "2023-06-01T03:28:36.7319934+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 49554,
+      "NumberOfAwardsMax": 6285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49552,
+  "NumberOfAwards": 49554,
   "NumberOfAwardsMax": 6285,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4748,7 +4754,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4298
+      "Count": 4300
     },
     {
       "Text": "This game has a Creative Community",
@@ -4757,9 +4763,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 461911,
+  "EOS_Progressed": 461912,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8782,6 +8788,11 @@
       "Time": "2023-06-01T02:50:32.1834488+00:00",
       "NumProgressed": 461911,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-01T03:34:25.9581581+00:00",
+      "NumProgressed": 461912,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -8905,7 +8916,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 138573
+      "UsersEstimate": 138574
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -8953,7 +8964,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 97001
+      "UsersEstimate": 97002
     },
     {
       "ID": "achievement_childhood_dream",
@@ -8969,7 +8980,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 97001
+      "UsersEstimate": 97002
     },
     {
       "ID": "achievement_clean_sheet",
@@ -8977,7 +8988,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 226336
+      "UsersEstimate": 226337
     },
     {
       "ID": "achievement_club_world_cup",
@@ -9065,7 +9076,7 @@
       "Name": "What A Goal!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 97001
+      "UsersEstimate": 97002
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -9137,7 +9148,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 138573
+      "UsersEstimate": 138574
     },
     {
       "ID": "achievement_impervious",
@@ -9169,7 +9180,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101620
+      "UsersEstimate": 101621
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -9297,7 +9308,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 143192
+      "UsersEstimate": 143193
     },
     {
       "ID": "achievement_rushed_signing",
@@ -9337,7 +9348,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 217098
+      "UsersEstimate": 217099
     },
     {
       "ID": "achievement_signed_a_player",
@@ -9353,7 +9364,7 @@
       "Name": "Goal Machine",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101620
+      "UsersEstimate": 101621
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -9393,7 +9404,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60048
+      "UsersEstimate": 60049
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -9433,7 +9444,7 @@
       "Name": "Cup Glory!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 97001
+      "UsersEstimate": 97002
     },
     {
       "ID": "achievement_won_international_championship",
@@ -9489,7 +9500,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 143192
+      "UsersEstimate": 143193
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -9576,15 +9587,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 461911,
+      "Progressed": 461912,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-05-31T18:59:54.6491547+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:32.1834485+00:00",
+  "LastChanged": "2023-06-01T03:28:36.7319933+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:25.9581576+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.0804853+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:44:42.8636267+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:32.1835852+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:28:36.7319945+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:25.9582989+00:00"
 }

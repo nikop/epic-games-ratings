@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6484,
+  "EOS_Progressed": 6485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3398,6 +3398,11 @@
       "Time": "2023-06-01T02:50:21.5569444+00:00",
       "NumProgressed": 6484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T03:34:13.4010751+00:00",
+      "NumProgressed": 6485,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3505,7 +3510,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "0014",
@@ -3513,7 +3518,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "0015",
@@ -3537,7 +3542,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "0018",
@@ -3545,7 +3550,7 @@
       "Name": "In It to Win It",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "0019",
@@ -3593,7 +3598,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "0025",
@@ -3696,7 +3701,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6484,
+      "Progressed": 6485,
       "Completed": 0
     }
   ],
@@ -3704,8 +3709,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:21.556944+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:13.4010747+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:44:11.3173633+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:21.5569906+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:27:54.3307934+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:13.4011198+00:00"
 }

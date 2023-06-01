@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -5442,9 +5442,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 47688,
+  "EOS_Progressed": 47691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4500,
+  "EOS_NewPlayers": 4503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9692,6 +9692,11 @@
       "Time": "2023-06-01T02:50:34.1595614+00:00",
       "NumProgressed": 47688,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T03:34:27.9821669+00:00",
+      "NumProgressed": 47691,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -10535,7 +10540,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "achievement_forever_golden",
@@ -12534,21 +12539,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 47688,
+      "Progressed": 47691,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 47688,
+      "Progressed": 47691,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-31T21:57:32.7166634+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:34.1595609+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:27.9821662+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.5359105+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:41:45.3326543+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:34.1608043+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:24:42.2536493+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:27.9834079+00:00"
 }

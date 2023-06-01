@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "ALLMODULESB",
       "SetID": "3dh70f3",
       "Name": "B-asic!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 60
     },
     {
       "ID": "ALLMODULESS",
@@ -717,8 +717,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:17.040204+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:07.9133678+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.3827086+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:37.4142362+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:17.0402497+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:48.9058085+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:07.9134174+00:00"
 }

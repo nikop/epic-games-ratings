@@ -12,7 +12,7 @@
 | Another Brick in the Wall (Part 2) | 49.00% | ~40 |
 | Echoes | 49.00% | ~40 |
 | Biding My Time | 45.00% | ~37 |
-| The Gunner's Dream | 40.00% | ~33 |
+| The Gunner's Dream | 41.00% | ~34 |
 | Another Brick in the Wall (Part 3) | 37.00% | ~30 |
 | Burning Bridges | 28.00% | ~23 |
 | The Last Few Bricks | 28.00% | ~23 |

@@ -22,11 +22,11 @@ Rating: 4.45 (Ranked 608)
 | Blurred photofinish | 9.00% | ~90 |
 | EZ game EZ life | 7.00% | ~70 |
 | First step into a larger world | 7.00% | ~70 |
+| B-asic! | 6.00% | ~60 |
 | Over the clouds | 6.00% | ~60 |
 | Under the sea, under the sea | 6.00% | ~60 |
 | Even Faster! | 6.00% | ~60 |
 | Longshot | 6.00% | ~60 |
-| B-asic! | 5.00% | ~50 |
 | Under the neon lights | 4.00% | ~40 |
 | All Power to Engines! | 4.00% | ~40 |
 | Almost broke the game | 4.00% | ~40 |

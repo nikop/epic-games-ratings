@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~179 |
+| A Steadfast Love | 0.20% | ~111 |
 | The Lutes of Loomlurch | 0.20% | ~111 |
 | Supply Run | 0.20% | ~179 |
 | Best Laid Plans | 0.20% | ~111 |
@@ -139,7 +140,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slack-jawed Lorna | 0.10% | ~56 |
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
-| A Steadfast Love | 0.10% | ~56 |
 | The Fairy Rings of Thither | 0.10% | ~56 |
 | Zarak's Revenge | 0.10% | ~56 |
 | Bully for You! | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,350 (Ranked 61)  
+Progressed: 89,351 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,350 | 1,905 |
+| 2023-06-01 | 89,351 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,007 (Ranked 37)  

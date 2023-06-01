@@ -2,10 +2,10 @@
   "ID": "ba4b5cef8c374fcab8b4a7f31b1b8e60",
   "Name": "Dream of Tiny Snow",
   "ProductSlug": "dream-of-tiny-snow-36f018",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-07T01:00:00+00:00",
     "PcReleaseDate": "2023-02-13T15:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-04-22T15:58:14.1740796+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.2096296+00:00",
   "LastChanged": "2023-04-22T15:58:14.1740796+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:47:22.3394003+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:30:29.1967263+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:14.8604584+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:41:50.1497274+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:47:22.3394046+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:24:47.1450247+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:30:29.1967291+00:00"
 }

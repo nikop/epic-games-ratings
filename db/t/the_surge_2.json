@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1668,
+  "EOS_Progressed": 1669,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -810,6 +810,11 @@
       "Time": "2023-06-01T02:50:30.2166336+00:00",
       "NumProgressed": 1668,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-01T03:34:23.7958908+00:00",
+      "NumProgressed": 1669,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -821,7 +826,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHV_02",
@@ -829,7 +834,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACHV_03",
@@ -845,7 +850,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHV_05",
@@ -853,7 +858,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHV_06",
@@ -893,7 +898,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHV_11",
@@ -901,7 +906,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHV_12",
@@ -965,7 +970,7 @@
       "Name": "Defense in Depth",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHV_20",
@@ -997,7 +1002,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHV_24",
@@ -1021,7 +1026,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACHV_27",
@@ -1029,7 +1034,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHV_28",
@@ -1125,7 +1130,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACHV_40",
@@ -1276,7 +1281,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1668,
+      "Progressed": 1669,
       "Completed": 10
     }
   ],
@@ -1284,8 +1289,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:30.2166325+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:23.7958902+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:45:01.2760462+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:30.2166879+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:29:00.4527754+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:23.7959468+00:00"
 }

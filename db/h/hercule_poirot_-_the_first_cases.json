@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -395,9 +395,9 @@
       "ID": "ACH_03",
       "SetID": "72imik0",
       "Name": "The Altercation",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_030",
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:16.4192008+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:07.0938519+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:36.382287+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:17.996005+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:16.4192386+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:25.1098731+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:07.0939046+00:00"
 }

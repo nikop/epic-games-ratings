@@ -7,10 +7,10 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 33.00% | ~405 |
-| Me and My Familiar | 31.00% | ~380 |
+| Me and My Familiar | 31.00% | ~381 |
 | This Too Shall Pass | 26.00% | ~319 |
+| Passing Shadow | 25.00% | ~307 |
 | Cutthroat Competitors | 25.00% | ~307 |
-| Passing Shadow | 24.00% | ~294 |
 | How Romantic! | 23.00% | ~282 |
 | Daybreak | 23.00% | ~282 |
 | Gotta Ca... Must Collect All of Them | 21.00% | ~258 |
@@ -19,15 +19,15 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 12.00% | ~147 |
 | A Mythic Menagerie | 11.00% | ~135 |
 | Core Failure | 11.00% | ~135 |
-| Pyrrhic Victory | 9.00% | ~110 |
+| Pyrrhic Victory | 9.00% | ~111 |
 | Echoes Die | 8.00% | ~98 |
 | Thematic Divergence | 7.00% | ~86 |
 | Chain Reaction | 7.00% | ~86 |
 | Everfading | 7.00% | ~86 |
+| Plague Doctor | 6.00% | ~74 |
 | Another Tale to Tell | 6.00% | ~74 |
 | A Story of Heroes | 6.00% | ~74 |
 | Let Me Get My Chisel | 5.00% | ~61 |
-| Plague Doctor | 5.00% | ~61 |
 | In Soil, In Smoke | 5.00% | ~61 |
 | Wingknight's Prowess | 5.00% | ~61 |
 | All My Birds, Safely Home | 5.00% | ~61 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.50% | ~6 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,227 (Ranked 161)  
+Progressed: 1,228 (Ranked 161)  
 Completed: 3 (0.24%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 3 (0.24%) (Ranked 135)
 | 2023-05-29 | 1,223 | 3 |
 | 2023-05-30 | 1,225 | 3 |
 | 2023-05-31 | 1,227 | 3 |
+| 2023-06-01 | 1,228 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 465)  

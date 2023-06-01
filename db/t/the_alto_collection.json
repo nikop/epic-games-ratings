@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 24018,
+  "EOS_Progressed": 24020,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4855,6 +4855,11 @@
       "Time": "2023-06-01T02:50:12.505178+00:00",
       "NumProgressed": 24018,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-01T03:34:02.1205004+00:00",
+      "NumProgressed": 24020,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -4906,7 +4911,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6004
+      "UsersEstimate": 6005
     },
     {
       "ID": "goals180",
@@ -4986,7 +4991,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "novice",
@@ -5138,7 +5143,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "vandal",
@@ -5177,15 +5182,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 24018,
+      "Progressed": 24020,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-21T02:05:22.6886845+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:12.5051776+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:02.1205001+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.4156588+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:47.1637469+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:12.5052276+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:27:21.3501322+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:02.1205477+00:00"
 }

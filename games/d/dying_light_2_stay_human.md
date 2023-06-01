@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,307 |
-| Into the Unknown | 9.00% | ~50,676 |
-| First Shot | 9.00% | ~50,676 |
-| Herzlich Wilkommen! | 8.00% | ~45,046 |
-| Good Night & Good Luck | 8.00% | ~45,046 |
-| Sancho Panza | 7.00% | ~39,415 |
-| Oh, So This Is How It Works! | 7.00% | ~39,415 |
-| Under Pressure | 6.00% | ~33,784 |
-| On the Trail of the Enemy | 6.00% | ~33,784 |
-| Light in the Darkness | 6.00% | ~33,784 |
-| It Wasn't That Hard, Was It? | 6.00% | ~33,784 |
-| Flag Burning | 6.00% | ~33,784 |
-| Night Hunter | 6.00% | ~33,784 |
-| Get Outta My House! | 5.00% | ~28,153 |
-| Being All Social | 5.00% | ~28,153 |
-| Debris and Ashes | 4.00% | ~22,523 |
-| We Will Be Heard! | 4.00% | ~22,523 |
-| Known Associate | 4.00% | ~22,523 |
-| Brush with Death | 4.00% | ~22,523 |
-| Going Down | 4.00% | ~22,523 |
-| Family First | 4.00% | ~22,523 |
-| Your World, Your Rules | 4.00% | ~22,523 |
-| Tunnel Entrance | 4.00% | ~22,523 |
-| After the Fall | 4.00% | ~22,523 |
-| Can't Touch This! | 4.00% | ~22,523 |
-| Death From Afar | 4.00% | ~22,523 |
-| Terminal Headache | 4.00% | ~22,523 |
-| Slowpoke! | 4.00% | ~22,523 |
-| You're Going Down! | 3.00% | ~16,892 |
-| Tickets, Please! | 2.00% | ~11,261 |
-| Parkour Master | 2.00% | ~11,261 |
-| Combat Master | 2.00% | ~11,261 |
+| You Never Forget Your First... | 10.00% | ~56,309 |
+| Into the Unknown | 9.00% | ~50,678 |
+| First Shot | 9.00% | ~50,678 |
+| Herzlich Wilkommen! | 8.00% | ~45,047 |
+| Good Night & Good Luck | 8.00% | ~45,047 |
+| Sancho Panza | 7.00% | ~39,416 |
+| Oh, So This Is How It Works! | 7.00% | ~39,416 |
+| Under Pressure | 6.00% | ~33,786 |
+| On the Trail of the Enemy | 6.00% | ~33,786 |
+| Light in the Darkness | 6.00% | ~33,786 |
+| It Wasn't That Hard, Was It? | 6.00% | ~33,786 |
+| Flag Burning | 6.00% | ~33,786 |
+| Night Hunter | 6.00% | ~33,786 |
+| Get Outta My House! | 5.00% | ~28,155 |
+| Being All Social | 5.00% | ~28,155 |
+| Debris and Ashes | 4.00% | ~22,524 |
+| We Will Be Heard! | 4.00% | ~22,524 |
+| Known Associate | 4.00% | ~22,524 |
+| Brush with Death | 4.00% | ~22,524 |
+| Going Down | 4.00% | ~22,524 |
+| Family First | 4.00% | ~22,524 |
+| Your World, Your Rules | 4.00% | ~22,524 |
+| Tunnel Entrance | 4.00% | ~22,524 |
+| After the Fall | 4.00% | ~22,524 |
+| Can't Touch This! | 4.00% | ~22,524 |
+| Death From Afar | 4.00% | ~22,524 |
+| Terminal Headache | 4.00% | ~22,524 |
+| Slowpoke! | 4.00% | ~22,524 |
+| You're Going Down! | 3.00% | ~16,893 |
+| Tickets, Please! | 2.00% | ~11,262 |
+| Parkour Master | 2.00% | ~11,262 |
+| Combat Master | 2.00% | ~11,262 |
 | Municipal Services | 1.00% | ~5,631 |
 | Tube Map | 1.00% | ~5,631 |
 | Don Quixote | 1.00% | ~5,631 |
@@ -50,10 +50,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Fit as a Fiddle | 0.90% | ~5,068 |
 | Enter the Hall | 0.90% | ~1,877 |
 | Night of Terrors | 0.80% | ~1,668 |
-| Find Anything Interesting? | 0.70% | ~3,941 |
-| Boot Licker | 0.70% | ~3,941 |
-| Who Wants To Be a... | 0.60% | ~3,378 |
-| Get the Point? | 0.60% | ~3,378 |
+| Find Anything Interesting? | 0.70% | ~3,942 |
+| Boot Licker | 0.70% | ~3,942 |
+| Who Wants To Be a... | 0.60% | ~3,379 |
+| Get the Point? | 0.60% | ~3,379 |
 | My Friend, Ciro | 0.60% | ~1,251 |
 | Skullcrusher | 0.60% | ~1,251 |
 | Revenants | 0.50% | ~2,815 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~209 |
 | Connoisseur | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563,069 (Ranked 22)  
+Progressed: 563,092 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 49 (0.01%) (Ranked 197)
 | 2023-05-29 | 561,271 | 49 |
 | 2023-05-30 | 562,168 | 49 |
 | 2023-05-31 | 562,978 | 49 |
-| 2023-06-01 | 563,069 | 49 |
+| 2023-06-01 | 563,092 | 49 |
 ## Awards
 Max (Character Customization): 7,354  (Ranked 43)  
 Sum: 16,621 (Ranked 59)  

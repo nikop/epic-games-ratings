@@ -2,10 +2,10 @@
   "ID": "89d646389bb544b4866e338426aefd41",
   "Name": "UNFOLLOW",
   "ProductSlug": "unfollow-5ebfc0",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.5216272+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:51.3600155+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:47:34.1206464+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:26:07.9389861+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:30:44.7880214+00:00"
 }

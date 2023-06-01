@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -212,6 +212,11 @@
       "Time": "2023-05-31T19:05:54.7297998+00:00",
       "NumProgressed": 189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T03:34:25.220994+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -221,9 +226,9 @@
       "ID": "ach_100days",
       "SetID": "b8gh1fi",
       "Name": "First 100 Days",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_ada",
@@ -269,9 +274,9 @@
       "ID": "ach_art",
       "SetID": "b8gh1fi",
       "Name": "Artfully Done",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_art_large",
@@ -359,7 +364,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_consultant_1",
@@ -367,7 +372,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_consultants_a",
@@ -399,7 +404,7 @@
       "Name": "Office Bigwigs",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_contracts_2",
@@ -431,7 +436,7 @@
       "Name": "Proper Walls",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_drones",
@@ -527,7 +532,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_floors_1",
@@ -567,7 +572,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_grime_2",
@@ -583,7 +588,7 @@
       "Name": "Happy Tenants",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_loan",
@@ -663,7 +668,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_prestige_2",
@@ -733,9 +738,9 @@
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_restaurants_3",
@@ -751,7 +756,7 @@
       "Name": "Potent Potables",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_restaurants_5",
@@ -823,7 +828,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_scenarios_2",
@@ -847,7 +852,7 @@
       "Name": "Smooth Service",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_trash_1",
@@ -901,9 +906,9 @@
       "ID": "ach_util_water",
       "SetID": "b8gh1fi",
       "Name": "Pipe Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_veryhappy",
@@ -926,7 +931,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 0
     }
   ],
@@ -934,8 +939,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:31.4764108+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:25.2209923+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.2924874+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:35.7805109+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:31.4765139+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:46.2834769+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:25.2210977+00:00"
 }

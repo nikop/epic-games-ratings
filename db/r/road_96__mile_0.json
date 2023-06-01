@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224,
+  "EOS_Progressed": 225,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2023-05-31T21:03:21.3976849+00:00",
       "NumProgressed": 224,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T03:30:45.23835+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -468,9 +473,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "completeact2",
@@ -542,15 +547,15 @@
       "Name": "Souvenirs",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "scoreminrankrp2",
@@ -589,7 +594,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 224,
+      "Progressed": 225,
       "Completed": 2
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:47:34.4272045+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:30:45.2383483+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:20.4747828+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:47:34.4272203+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:26:44.9704749+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:30:45.2383648+00:00"
 }

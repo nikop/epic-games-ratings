@@ -27,11 +27,11 @@
 | Just how we drew it up | 8.00% | ~3 |
 | Basement Secret Spot | 6.00% | ~2 |
 | Living Room Secret Spot | 6.00% | ~2 |
+| Found the Secret Formula! | 6.00% | ~2 |
 | Angry Dad | 6.00% | ~2 |
 | At least everyone still had fun | 6.00% | ~2 |
 | Garage Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
-| Found the Secret Formula! | 3.00% | ~1 |
 | Goooooooooal! | 3.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |

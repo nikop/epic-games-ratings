@@ -2,10 +2,10 @@
   "ID": "0b58915428ea49a7a8d9c1cf098e1e72",
   "Name": "Angry Video Game Nerd 1 and 2 Deluxe",
   "ProductSlug": "angry-video-game-nerd-1-and-2-deluxe-1eea79",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-21T00:00:00+00:00",
     "PcReleaseDate": "2020-10-29T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.0150464+00:00",
   "LastChanged": "2023-03-31T05:58:32.0150465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.3249158+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:44:59.1994142+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:49:49.9976005+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:28:56.7483704+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:33:33.2493465+00:00"
 }

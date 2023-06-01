@@ -2,10 +2,10 @@
   "ID": "f0ef89978ffb450cbeb974a01d8f7bbe",
   "Name": "Super Arcade Boy in Goodbye Greenies",
   "ProductSlug": "super-arcade-boy-in-goodbye-greenies-d8a255",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-10T22:00:00+00:00",
     "PcReleaseDate": "2020-02-22T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-25T15:57:02.5068319+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:41:26.0428369+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:47:39.9740676+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:24:17.090924+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:31:12.705019+00:00"
 }

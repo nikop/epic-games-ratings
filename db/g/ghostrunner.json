@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -906,9 +906,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7192,
+  "EOS_Progressed": 7193,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4996,6 +4996,11 @@
       "Time": "2023-06-01T02:50:11.7656996+00:00",
       "NumProgressed": 7192,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-01T03:34:01.3609893+00:00",
+      "NumProgressed": 7193,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 45,
@@ -5095,7 +5100,7 @@
       "Name": "Homerunner",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "ICallItLuck",
@@ -5103,7 +5108,7 @@
       "Name": "I call it luck",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -5143,7 +5148,7 @@
       "Name": "Longrunner",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "MoreThanHuman",
@@ -5183,7 +5188,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "OutOfOrder",
@@ -5191,7 +5196,7 @@
       "Name": "Out of order",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "Perfection",
@@ -5199,7 +5204,7 @@
       "Name": "Perfection",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "PreempativeStrike",
@@ -5279,7 +5284,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "SwordToAGunfight",
@@ -5327,7 +5332,7 @@
       "Name": "Wallrunner",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "WaveOfMutilation",
@@ -5366,21 +5371,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 7192,
+      "Progressed": 7193,
       "Completed": 18
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 7192,
+      "Progressed": 7193,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-05-30T23:57:53.0213028+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:11.7656991+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:01.3609888+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.5233025+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:28.1341274+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:11.7657556+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:37.6019451+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:01.3610503+00:00"
 }

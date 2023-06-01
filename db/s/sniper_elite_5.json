@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1970,
+  "EOS_Progressed": 1971,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2087,6 +2087,11 @@
       "Time": "2023-06-01T02:50:11.3438429+00:00",
       "NumProgressed": 1970,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T03:34:00.8398193+00:00",
+      "NumProgressed": 1971,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2106,7 +2111,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2130,7 +2135,7 @@
       "Name": "Opposing Force",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2218,7 +2223,7 @@
       "Name": "Gunslinger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2234,7 +2239,7 @@
       "Name": "Sharpshooter",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2410,7 +2415,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2506,7 +2511,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2665,13 +2670,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1921,
+      "Progressed": 1922,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1970,
+      "Progressed": 1971,
       "Completed": 2
     }
   ],
@@ -2679,8 +2684,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:11.3438423+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:00.8398186+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:45:05.9677766+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:11.343924+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:29:04.8783582+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:00.839903+00:00"
 }

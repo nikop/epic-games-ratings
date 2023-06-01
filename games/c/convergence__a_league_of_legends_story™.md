@@ -7,14 +7,14 @@
 | Time Heals All Wounds | 93.00% | ~512 |
 | Rail Rat | 77.00% | ~424 |
 | The Mysterious Stranger | 74.00% | ~408 |
-| Immaculate Aim | 63.00% | ~347 |
+| Immaculate Aim | 64.00% | ~353 |
 | The Brass Boss | 56.00% | ~309 |
 | Honest Mistake | 54.00% | ~298 |
 | No, Thanks! | 53.00% | ~292 |
 | Time Flies | 51.00% | ~281 |
 | The Prince in Heels | 51.00% | ~281 |
 | Right On Time | 49.00% | ~270 |
-| The Harder They Fall | 48.00% | ~264 |
+| The Harder They Fall | 49.00% | ~270 |
 | Fast Learner | 48.00% | ~264 |
 | Make Up For Lost Time | 47.00% | ~259 |
 | Immaculate Aim | 47.00% | ~259 |
@@ -31,7 +31,7 @@
 | The Loose Cannon | 27.00% | ~149 |
 | The Man Who Shattered Time | 23.00% | ~127 |
 | The Family Fortune | 23.00% | ~127 |
-| Whiz Kid | 21.00% | ~116 |
+| Whiz Kid | 22.00% | ~121 |
 | Sump Explorer | 21.00% | ~116 |
 | Syron for Hope | 21.00% | ~116 |
 | Ask Questions Later | 21.00% | ~116 |

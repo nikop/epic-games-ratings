@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:45.114737+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:30.9447938+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:48:49.7604151+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:39.4928201+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:32:27.6702828+00:00"
 }

@@ -1,10 +1,10 @@
 {
   "ID": "aa7b6599b4144f348d1ffec80615ac0d",
   "Name": "Far Cry New Dawn - Complete",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:13.5042741+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:32.0299038+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:48:11.3460623+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:27:00.2277819+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:31:27.3665772+00:00"
 }

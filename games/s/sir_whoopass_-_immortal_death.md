@@ -12,25 +12,25 @@
 | AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~56 |
 | Not so hip anymore! | 81.00% | ~56 |
 | Nerd | 81.00% | ~56 |
-| Blurry depth perception | 77.00% | ~53 |
-| Up and down | 74.00% | ~51 |
-| Rolling, Rolling, Rolling | 71.00% | ~49 |
-| Fire-fighter! | 62.00% | ~43 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~42 |
-| Oh, you're up to no gouda! | 59.00% | ~41 |
-| Meat grinder | 57.00% | ~39 |
+| Blurry depth perception | 78.00% | ~54 |
+| Up and down | 75.00% | ~52 |
+| Rolling, Rolling, Rolling | 72.00% | ~50 |
+| Fire-fighter! | 64.00% | ~44 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~43 |
+| Oh, you're up to no gouda! | 61.00% | ~42 |
+| Meat grinder | 58.00% | ~40 |
 | Butcher | 51.00% | ~35 |
 | You're not going to blow me up! | 51.00% | ~35 |
 | Spare Ribs | 48.00% | ~33 |
 | Mushroom soup of the day | 46.00% | ~32 |
 | My pants squeak when I walk | 46.00% | ~32 |
 | Honk honk! | 45.00% | ~31 |
+| Surprise!! | 43.00% | ~30 |
 | Thats disgusting! | 43.00% | ~30 |
-| Surprise!! | 42.00% | ~29 |
-| Cockadoodledoo! | 42.00% | ~29 |
+| Cockadoodledoo! | 43.00% | ~30 |
 | Make America Grate Again | 36.00% | ~25 |
 | Self assessed tax return | 36.00% | ~25 |
-| Karaoke king | 35.00% | ~24 |
+| Karaoke king | 36.00% | ~25 |
 | Pasta Bolognese | 35.00% | ~24 |
 | You are no match for me, Billy! | 33.00% | ~23 |
 | Catch the bus with me! | 33.00% | ~23 |

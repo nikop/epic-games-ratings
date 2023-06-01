@@ -2,10 +2,10 @@
   "ID": "cc08314b20054744b09b062efc0f268f",
   "Name": "Homebody",
   "ProductSlug": "homebody-569576",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.4978895+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:44:30.1413402+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:45:37.1930576+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:28:19.1084563+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:29:47.3222113+00:00"
 }

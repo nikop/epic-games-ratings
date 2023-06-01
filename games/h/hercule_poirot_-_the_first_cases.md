@@ -16,7 +16,7 @@ Rating: 4.33 (Ranked 740)
 | Major Felix Hagen | 56.00% | ~206 |
 | Fine-toothed Comb | 54.00% | ~199 |
 | Order and Method | 53.00% | ~195 |
-| The Altercation | 50.00% | ~184 |
+| The Altercation | 51.00% | ~188 |
 | Truth from Within | 49.00% | ~180 |
 | The Major | 48.00% | ~177 |
 | Comtesse Margaux de Vos | 45.00% | ~166 |

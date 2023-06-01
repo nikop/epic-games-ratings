@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2704,9 +2704,9 @@
       "ID": "herewegoagain",
       "SetID": "3nl4bcg",
       "Name": "Here We Go Again",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 62
     },
     {
       "ID": "heroinspection",
@@ -3073,8 +3073,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-31T02:19:10.2971852+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:17.3135467+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:08.4604464+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:32.7480544+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:17.3136367+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:42.4502433+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:08.4605512+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:58:47.5211729+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:45.5675843+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:49:16.2955868+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:27:17.9658555+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:32:49.1702782+00:00"
 }

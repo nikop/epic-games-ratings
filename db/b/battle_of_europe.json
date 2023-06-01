@@ -2,10 +2,10 @@
   "ID": "635f1c9d477a4bf6b68b57091018bf47",
   "Name": "Battle Of Europe",
   "ProductSlug": "battle-of-europe-00b917",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-16T05:00:00+00:00",
     "PcReleaseDate": "2006-03-23T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.2937265+00:00",
   "LastChanged": "2023-03-31T05:57:08.2937265+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.8575569+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:19.8319075+00:00",
-  "LastUpdate_Achievements": "2023-06-01T00:02:30.9458129+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:26:44.0926105+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:29:12.8171474+00:00"
 }

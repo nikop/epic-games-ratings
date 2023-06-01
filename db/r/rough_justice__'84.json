@@ -2,10 +2,10 @@
   "ID": "5841d0fb7b7b4764a958cd9c95fbbe33",
   "Name": "Rough Justice: \u002784",
   "ProductSlug": "rough-justice-84-89dd7a",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-13T18:00:00+00:00",
     "PcReleaseDate": "2023-03-13T18:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-05-22T21:58:24.5146258+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:18.4419289+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:49:59.9682641+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:33:46.2019626+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.1052259+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:24.9369649+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:49:59.9682683+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:26:52.8081833+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:33:46.2019644+00:00"
 }

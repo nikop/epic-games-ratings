@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4073,
+  "EOS_Progressed": 4074,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2645,6 +2645,11 @@
       "Time": "2023-06-01T02:48:37.9260155+00:00",
       "NumProgressed": 4073,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T03:32:12.5450777+00:00",
+      "NumProgressed": 4074,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2712,7 +2717,7 @@
       "Name": "God Emperor",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "17",
@@ -2720,7 +2725,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "18",
@@ -2736,7 +2741,7 @@
       "Name": "The Creator",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "2",
@@ -2752,7 +2757,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "21",
@@ -2768,7 +2773,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "23",
@@ -2776,7 +2781,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "24",
@@ -2784,7 +2789,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     },
     {
       "ID": "25",
@@ -2824,7 +2829,7 @@
       "Name": "Stronger Together",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "3",
@@ -2872,7 +2877,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "35",
@@ -2910,9 +2915,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1059
     },
     {
       "ID": "4",
@@ -2928,7 +2933,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "41",
@@ -3007,13 +3012,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4073,
-      "Completed": 4073
+      "Progressed": 4074,
+      "Completed": 4074
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4073,
+      "Progressed": 4074,
       "Completed": 0
     }
   ],
@@ -3021,8 +3026,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:48:37.926015+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:32:12.5450771+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:43:58.504968+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:48:37.9260676+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:27:38.5863569+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:32:12.5451239+00:00"
 }

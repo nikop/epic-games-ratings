@@ -4042,9 +4042,9 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89350,
+  "EOS_Progressed": 89351,
   "EOS_Completed": 1905,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8177,6 +8177,11 @@
       "Time": "2023-06-01T02:50:34.2303454+00:00",
       "NumProgressed": 89350,
       "NumCompleted": 1905
+    },
+    {
+      "Time": "2023-06-01T03:34:28.6271939+00:00",
+      "NumProgressed": 89351,
+      "NumCompleted": 1905
     }
   ],
   "TotalAchievements": 493,
@@ -8522,9 +8527,9 @@
       "ID": "objective_completed_1093",
       "SetID": "415jc5c",
       "Name": "A Steadfast Love",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1095",
@@ -12131,21 +12136,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55624,
+      "Progressed": 55625,
       "Completed": 2748
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89350,
+      "Progressed": 89351,
       "Completed": 1905
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-31T15:57:47.7873175+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:50:34.2303448+00:00",
+  "LastChanged_Achievements": "2023-06-01T03:34:28.6271933+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-01T02:42:35.026937+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:50:34.2330415+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:25:45.1039247+00:00",
+  "LastUpdate_Achievements": "2023-06-01T03:34:28.6299183+00:00"
 }
