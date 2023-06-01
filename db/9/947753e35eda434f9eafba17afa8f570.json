@@ -4,8 +4,8 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2021-06-12T17:00:00+00:00",
@@ -333,9 +333,9 @@
       "ID": "ACH_5_LEVEL_WINTER",
       "SetID": "2k150c1",
       "Name": "Snowdrop Slopes",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_6_LEVEL_FOREST",
@@ -379,8 +379,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:04:54.9792965+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:04:52.2524422+00:00",
   "LastUpdate_AppInfo": "2023-05-27T14:56:56.8528775+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:57:14.6788112+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:04:54.9793212+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:57:28.5678173+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:04:52.2524683+00:00"
 }

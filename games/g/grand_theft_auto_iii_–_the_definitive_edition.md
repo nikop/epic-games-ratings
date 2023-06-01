@@ -35,7 +35,7 @@ Rating: 4.15 (Ranked 850)
 | Is That All You've Got? | 0.70% | ~40 |
 | King of Liberty City | 0.50% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,780 (Ranked 123)  
+Progressed: 5,780 (Ranked 124)  
 Completed: 28 (0.48%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |

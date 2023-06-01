@@ -7,12 +7,12 @@
 | Hat Unlocked | 78.00% | ~29 |
 | Accessory Unlocked | 78.00% | ~29 |
 | Character Unlocked | 76.00% | ~28 |
-| Kickball Unlocked | 65.00% | ~24 |
-| Homer | 65.00% | ~24 |
+| Kickball Unlocked | 68.00% | ~25 |
+| Homer | 68.00% | ~25 |
 | Have a good trip! | 62.00% | ~23 |
 | First Win | 57.00% | ~21 |
 | Stay Hydrated | 54.00% | ~20 |
-| Settle Down | 49.00% | ~18 |
+| Settle Down | 51.00% | ~19 |
 | Butter Fingers | 43.00% | ~16 |
 | True Story! | 32.00% | ~12 |
 | Kick It | 27.00% | ~10 |
@@ -24,12 +24,12 @@
 | Bathroom Secret Spot | 14.00% | ~5 |
 | Classroom Secret Spot | 8.00% | ~3 |
 | Kitchen Secret Spot | 8.00% | ~3 |
+| At least everyone still had fun | 8.00% | ~3 |
 | Just how we drew it up | 8.00% | ~3 |
 | Basement Secret Spot | 5.00% | ~2 |
 | Living Room Secret Spot | 5.00% | ~2 |
 | Found the Secret Formula! | 5.00% | ~2 |
 | Angry Dad | 5.00% | ~2 |
-| At least everyone still had fun | 5.00% | ~2 |
 | Garage Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
 | Goooooooooal! | 3.00% | ~1 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 309)  
+Progressed: 37 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

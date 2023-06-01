@@ -89,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~179 |
 | Running of the Saurs | 0.20% | ~179 |
 | Dinosaur Racing | 0.20% | ~179 |
+| Elturel Has Fallen | 0.20% | ~179 |
 | Hearts Aflame | 0.20% | ~111 |
 | Look Out! | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
@@ -99,6 +100,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~179 |
 | Constant Banditry | 0.20% | ~179 |
 | Waterdeep Detours | 0.20% | ~179 |
+| Lost in the Deep | 0.20% | ~179 |
 | Easily Distracted | 0.20% | ~179 |
 | Underdeep Cartography | 0.20% | ~179 |
 | Overdue Rendezvous | 0.20% | ~179 |
@@ -351,7 +353,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~89 |
 | The Nimble Grove | 0.10% | ~89 |
 | The Misty Grove | 0.10% | ~56 |
-| Elturel Has Fallen | 0.10% | ~89 |
 | Everything is Awful | 0.10% | ~89 |
 | Earthquake! | 0.10% | ~56 |
 | Hailstorm! | 0.10% | ~56 |
@@ -417,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~56 |
 | Only Human | 0.10% | ~56 |
 | The Long Haul | 0.10% | ~89 |
-| Lost in the Deep | 0.10% | ~89 |
 | Rude Welcome | 0.10% | ~89 |
 | Moose Tracks | 0.10% | ~56 |
 | An Awakened Axe | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,404 (Ranked 61)  
+Progressed: 89,408 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,404 | 1,905 |
+| 2023-06-01 | 89,408 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,011 (Ranked 37)  

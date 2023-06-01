@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -426,7 +426,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18775,
+  "EOS_Progressed": 18776,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -2296,6 +2296,11 @@
       "Time": "2023-06-01T15:06:13.2876053+00:00",
       "NumProgressed": 18775,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-01T16:06:02.607025+00:00",
+      "NumProgressed": 18776,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -2315,7 +2320,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "ach.030.deertastic",
@@ -2339,7 +2344,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15583
+      "UsersEstimate": 15584
     },
     {
       "ID": "ach.060.goingdistance",
@@ -2347,7 +2352,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10138
+      "UsersEstimate": 10139
     },
     {
       "ID": "ach.070.8kenough",
@@ -2355,7 +2360,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "ach.080.eraser",
@@ -2363,7 +2368,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13142
+      "UsersEstimate": 13143
     },
     {
       "ID": "ach.090.perfectionist",
@@ -2443,7 +2448,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11077
+      "UsersEstimate": 11078
     },
     {
       "ID": "ach.190.scenic",
@@ -2451,7 +2456,7 @@
       "Name": "The scenic route",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     },
     {
       "ID": "ach.200.light",
@@ -2475,7 +2480,7 @@
       "Name": "Hot Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5632
+      "UsersEstimate": 5633
     },
     {
       "ID": "ach.230.infinity",
@@ -2499,7 +2504,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17461
+      "UsersEstimate": 17462
     },
     {
       "ID": "ach.260.investor",
@@ -2563,7 +2568,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17085
+      "UsersEstimate": 17086
     },
     {
       "ID": "ach.340.steel",
@@ -2602,7 +2607,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18775,
+      "Progressed": 18776,
       "Completed": 29
     }
   ],
@@ -2610,8 +2615,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-27T17:59:22.3817223+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:06:13.2876047+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:06:02.6070245+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:52.3008567+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:59:23.007538+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:06:13.2876395+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:59:17.0590621+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:06:02.6070571+00:00"
 }

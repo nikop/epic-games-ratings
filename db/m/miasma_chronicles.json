@@ -5,10 +5,10 @@
   "Ranking_Rating": 765,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1025,9 +1025,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 654
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1057,9 +1057,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 131
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1113,9 +1113,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 112
     },
     {
       "ID": "DEAD_DICK",
@@ -1313,9 +1313,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 683
     },
     {
       "ID": "RECYCLER",
@@ -1361,9 +1361,9 @@
       "ID": "SIDE_ORDER",
       "SetID": "9a4jnji",
       "Name": "Side Order",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 37
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -1385,9 +1385,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 122
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1426,8 +1426,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:02:12.5754519+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:00:41.6583383+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:58:21.2298337+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:02:12.575491+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:58:24.509563+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:00:41.6583763+00:00"
 }

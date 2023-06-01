@@ -5,10 +5,10 @@
   "Ranking_Rating": 99,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2238,
+  "EOS_Progressed": 2239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2141,6 +2141,11 @@
       "Time": "2023-06-01T13:14:01.6032389+00:00",
       "NumProgressed": 2238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T16:06:02.1572517+00:00",
+      "NumProgressed": 2239,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2198,9 +2203,9 @@
       "ID": "STB_CRITICAL_HITS",
       "SetID": "3pe2bac",
       "Name": "Elemental master",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 716
+      "UsersEstimate": 694
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2216,7 +2221,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2232,7 +2237,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2256,7 +2261,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2264,7 +2269,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -2288,7 +2293,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2328,7 +2333,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2336,7 +2341,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2352,7 +2357,7 @@
       "Name": "The end of the experiments",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -2368,7 +2373,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2384,7 +2389,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2440,7 +2445,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -2448,7 +2453,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "STB_PET_DOG",
@@ -2480,7 +2485,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -2528,7 +2533,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2552,7 +2557,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -2568,14 +2573,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2238,
+      "Progressed": 2239,
       "Completed": 1
     }
   ],
@@ -2583,8 +2588,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:06:12.8061194+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:06:02.1572513+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:57:39.793427+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:06:12.8061689+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:57:49.8336762+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:06:02.1572979+00:00"
 }

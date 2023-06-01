@@ -17,7 +17,7 @@ Number of Ratings: 36  (23.09.2022)
 | No Niños | 27.00% | ~185 |
 | The Weight of the World | 27.00% | ~185 |
 | Act I Complete | 26.00% | ~178 |
-| A drop in the Ocean | 25.00% | ~171 |
+| A drop in the Ocean | 26.00% | ~178 |
 | I ain’t afraid of no Ghost | 23.00% | ~157 |
 | Act II Complete | 19.00% | ~130 |
 | A successful procedure! | 17.00% | ~116 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684 (Ranked 186)  
+Progressed: 684 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

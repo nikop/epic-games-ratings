@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,340 (Ranked 145)  
+Progressed: 2,340 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 198,
+  "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.4,
+  "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -167,6 +167,11 @@
       "Time": "2023-05-31T22:06:45.4526706+00:00",
       "NumProgressed": 471,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-01T16:06:13.6646258+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -178,7 +183,7 @@
       "Name": "Beat It",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "blast_from_the_past",
@@ -186,7 +191,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "deadly_secret",
@@ -250,7 +255,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ending_8",
@@ -274,7 +279,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "kamikaze",
@@ -282,7 +287,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "kindar_surprise",
@@ -290,7 +295,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "not_a_people_person",
@@ -322,7 +327,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "tough_decision",
@@ -330,14 +335,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 16
     }
   ],
@@ -345,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:06:25.3492868+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:06:13.6646255+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.7129622+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:57:16.8274544+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:06:25.3492984+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:57:30.3248698+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:06:13.6646361+00:00"
 }

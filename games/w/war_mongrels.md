@@ -13,7 +13,7 @@ Number of Ratings: 34  (23.09.2022)
 | Prospector | 43.00% | ~130 |
 | Here Comes the Boom | 43.00% | ~130 |
 | Treasure Hunter | 41.00% | ~124 |
-| The Breaking Point | 39.00% | ~118 |
+| The Breaking Point | 40.00% | ~121 |
 | Sniper Wolf | 37.00% | ~112 |
 | Missing in Action | 36.00% | ~109 |
 | The Motivation | 35.00% | ~106 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 222)  
+Progressed: 302 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -9,15 +9,15 @@ Rating: 4.18 (Ranked 833)
 | The Outer Way | 8.00% | ~1,137 |
 | Desperate Times | 8.00% | ~1,137 |
 | Chew 'Em Up | 7.00% | ~995 |
-| Giving Back | 6.00% | ~852 |
-| Reforged | 6.00% | ~852 |
-| Paper Jams | 6.00% | ~852 |
-| Workplace Hazard | 5.00% | ~710 |
-| If the SHU Fits... | 5.00% | ~710 |
-| Get a Grip | 4.00% | ~568 |
-| Without A Paddle | 4.00% | ~568 |
-| Instigator | 4.00% | ~85 |
-| Big Game Hunter | 4.00% | ~85 |
+| Giving Back | 6.00% | ~853 |
+| Reforged | 6.00% | ~853 |
+| Paper Jams | 6.00% | ~853 |
+| Workplace Hazard | 5.00% | ~711 |
+| If the SHU Fits... | 5.00% | ~711 |
+| Get a Grip | 4.00% | ~569 |
+| Without A Paddle | 4.00% | ~569 |
+| Instigator | 4.00% | ~86 |
+| Big Game Hunter | 4.00% | ~86 |
 | Two Heads Are Better Than One | 3.00% | ~426 |
 | Terminated | 3.00% | ~426 |
 | Float Like A Butterfly | 3.00% | ~426 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 833)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,208 (Ranked 101)  
+Progressed: 14,213 (Ranked 101)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
-| 2023-06-01 | 14,208 | 53 |
+| 2023-06-01 | 14,213 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

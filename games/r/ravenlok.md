@@ -51,11 +51,11 @@
 | Flower Power | 25.00% | ~228 |
 | Shopping Spree! | 23.00% | ~210 |
 | Crowned | 21.00% | ~192 |
-| Max Level! | 13.00% | ~119 |
+| Max Level! | 14.00% | ~128 |
 | Dance Master | 8.00% | ~73 |
 | Bombs Away! | 8.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 912 (Ranked 176)  
+Progressed: 912 (Ranked 177)  
 Completed: 63 (6.91%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |

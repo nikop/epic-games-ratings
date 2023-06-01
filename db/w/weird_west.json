@@ -2,13 +2,13 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 472,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1051,9 +1051,9 @@
       "ID": "ACH_OFF_THE_TRAIL",
       "SetID": "8j30i9k",
       "Name": "Off the Trail",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1251,8 +1251,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:06:08.5786703+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:05:58.4177064+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:09.3843779+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:58:28.5032043+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:06:08.5787078+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:58:31.0556458+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:05:58.4177513+00:00"
 }

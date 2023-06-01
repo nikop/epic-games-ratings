@@ -53,7 +53,7 @@
 | Abolish Edict | 0.00% | ~0 |
 | Compliance Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 354)  
+Progressed: 9 (Ranked 355)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

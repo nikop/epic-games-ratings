@@ -6,8 +6,8 @@ Rating: 4.29 (Ranked 765)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~860 |
-| Ranidaphobia | 72.00% | ~673 |
-| Aspiring Editor | 69.00% | ~645 |
+| Ranidaphobia | 73.00% | ~683 |
+| Aspiring Editor | 70.00% | ~654 |
 | Gun for Hire | 64.00% | ~598 |
 | I am the law! | 53.00% | ~496 |
 | Lumberjack | 36.00% | ~337 |
@@ -22,12 +22,12 @@ Rating: 4.29 (Ranked 765)
 | The meaning of Kain | 21.00% | ~196 |
 | Technophobe | 17.00% | ~159 |
 | Recycler | 16.00% | ~150 |
-| Chain Killer | 13.00% | ~122 |
+| Chain Killer | 14.00% | ~131 |
 | Hold The Line | 13.00% | ~122 |
+| There Can Be Only One! | 13.00% | ~122 |
 | Are you not entertained? | 12.00% | ~112 |
+| Ganglord | 12.00% | ~112 |
 | Jarhead | 12.00% | ~112 |
-| There Can Be Only One! | 12.00% | ~112 |
-| Ganglord | 11.00% | ~103 |
 | Infiltrator | 11.00% | ~103 |
 | Newtonian Knockout | 11.00% | ~103 |
 | Pushing Daisy | 11.00% | ~103 |
@@ -42,7 +42,7 @@ Rating: 4.29 (Ranked 765)
 | Dr Jones | 5.00% | ~47 |
 | Wipe Out | 5.00% | ~47 |
 | Chaos Theory | 4.00% | ~37 |
-| Side Order | 3.00% | ~28 |
+| Side Order | 4.00% | ~37 |
 | Bot Whisperer | 2.00% | ~19 |
 | Cruelty | 1.00% | ~9 |
 | Dressed To Kill | 1.00% | ~9 |
@@ -57,7 +57,7 @@ Rating: 4.29 (Ranked 765)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935 (Ranked 173)  
+Progressed: 935 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

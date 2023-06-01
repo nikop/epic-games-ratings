@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 608)  
+Rating: 4.45 (Ranked 609)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 125  (23.09.2022)
 | Welcome to the Weird West | 58.00% | ~918 |
 | Dead or Alive | 56.00% | ~886 |
 | Full House | 37.00% | ~586 |
-| Off the Trail | 33.00% | ~522 |
+| Off the Trail | 34.00% | ~538 |
 | Justice Served | 28.00% | ~443 |
 | Chain Reaction | 27.00% | ~427 |
 | Scholar | 25.00% | ~396 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,583 (Ranked 155)  
+Progressed: 1,583 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |

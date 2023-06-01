@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~279 |
-| Buckle up | 60.00% | ~275 |
+| I can do a thing or two | 61.00% | ~280 |
 | Quick charge | 60.00% | ~275 |
-| Now you know | 54.00% | ~247 |
+| Buckle up | 59.00% | ~271 |
+| Now you know | 54.00% | ~248 |
 | Hands up! | 53.00% | ~243 |
 | Short circuit | 53.00% | ~243 |
 | Curious | 41.00% | ~188 |
 | Everybody lies | 36.00% | ~165 |
 | Trick or Treat? | 24.00% | ~110 |
-| There is another way | 23.00% | ~105 |
+| There is another way | 23.00% | ~106 |
 | Sysadmin | 22.00% | ~101 |
 | Annoying | 20.00% | ~92 |
 | Every little helps | 20.00% | ~92 |
@@ -31,14 +31,14 @@
 | That's much better! | 15.00% | ~69 |
 | Not as clumsy or random | 13.00% | ~60 |
 | Blade Runner | 10.00% | ~46 |
-| Meticulous | 9.00% | ~41 |
 | Perfect hearing | 9.00% | ~41 |
+| Meticulous | 8.00% | ~37 |
 | Lucky dog | 5.00% | ~23 |
 | Accurate | 5.00% | ~23 |
 | Silent | 4.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458 (Ranked 199)  
-Completed: 15 (3.28%) (Ranked 42)  
+Progressed: 459 (Ranked 200)  
+Completed: 15 (3.27%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 15 (3.28%) (Ranked 42)
 | 2023-05-28 | 456 | 15 |
 | 2023-05-29 | 457 | 15 |
 | 2023-05-30 | 458 | 15 |
+| 2023-06-01 | 459 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

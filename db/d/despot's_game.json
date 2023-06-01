@@ -5,10 +5,10 @@
   "Ranking_Rating": 542,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -220,6 +220,11 @@
       "Time": "2023-05-31T23:06:50.9749609+00:00",
       "NumProgressed": 386,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T16:06:04.3527625+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -279,7 +284,7 @@
       "Name": "No Mercy",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "different-items1",
@@ -303,7 +308,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "finished-quest-cube",
@@ -343,15 +348,15 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "finished-quest-reaper",
@@ -375,15 +380,15 @@
       "Name": "To the Moon and Back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "get-all",
@@ -439,7 +444,7 @@
       "Name": "Great Hero",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "win-first-biom",
@@ -447,7 +452,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "win-first-level",
@@ -455,7 +460,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "win-koth-fights1",
@@ -463,7 +468,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "win-koth-fights2",
@@ -495,7 +500,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "win-with-mrakus",
@@ -510,7 +515,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 1
     }
   ],
@@ -518,8 +523,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:06:15.262043+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:06:04.352762+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:58:44.5429643+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:06:15.2620684+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:58:44.293393+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:06:04.3527837+00:00"
 }

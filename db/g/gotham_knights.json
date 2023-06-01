@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1328,9 +1328,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63103,
+  "EOS_Progressed": 63112,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1099,
+  "EOS_NewPlayers": 1103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4633,6 +4633,11 @@
       "Time": "2023-06-01T15:06:29.7008218+00:00",
       "NumProgressed": 63103,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-06-01T16:06:17.7887192+00:00",
+      "NumProgressed": 63112,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4722,9 +4727,9 @@
       "ID": "ALL_VILLAIN",
       "SetID": "4eo5ebm",
       "Name": "End of an Era",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 505
     },
     {
       "ID": "APPLY_STATUS",
@@ -5074,9 +5079,9 @@
       "ID": "MYSTERY_06",
       "SetID": "4eo5ebm",
       "Name": "Voiceless",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 568
     },
     {
       "ID": "MYSTERY_07",
@@ -5131,13 +5136,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63103,
+      "Progressed": 63112,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33383,
+      "Progressed": 33392,
       "Completed": 2644
     }
   ],
@@ -5145,8 +5150,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-01T13:07:43.8627268+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:06:29.7008211+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:06:17.7887187+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:59:48.0987706+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:06:29.7008856+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:59:38.0246381+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:06:17.7887821+00:00"
 }

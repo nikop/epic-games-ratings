@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4054,10 +4054,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89404,
+  "EOS_Progressed": 89408,
   "EOS_Completed": 1905,
-  "EOS_NewPlayers": 806,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 801,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8254,6 +8254,11 @@
       "Time": "2023-06-01T15:06:35.3439509+00:00",
       "NumProgressed": 89404,
       "NumCompleted": 1905
+    },
+    {
+      "Time": "2023-06-01T16:06:23.5864018+00:00",
+      "NumProgressed": 89408,
+      "NumCompleted": 1905
     }
   ],
   "TotalAchievements": 493,
@@ -10823,9 +10828,9 @@
       "ID": "objective_completed_600",
       "SetID": "cc37lbc",
       "Name": "Elturel Has Fallen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_601",
@@ -11447,9 +11452,9 @@
       "ID": "objective_completed_75",
       "SetID": "cc37lbc",
       "Name": "Lost in the Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_76",
@@ -12208,21 +12213,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55678,
+      "Progressed": 55682,
       "Completed": 2753
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89404,
+      "Progressed": 89408,
       "Completed": 1905
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-01T10:57:50.633616+00:00",
-  "LastChanged_Achievements": "2023-06-01T15:06:35.34395+00:00",
+  "LastChanged_Achievements": "2023-06-01T16:06:23.5864014+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:58:07.2628715+00:00",
-  "LastUpdate_Achievements": "2023-06-01T15:06:35.3462487+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:58:12.444339+00:00",
+  "LastUpdate_Achievements": "2023-06-01T16:06:23.5887016+00:00"
 }
