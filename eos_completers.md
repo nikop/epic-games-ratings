@@ -4,10 +4,10 @@
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.00% |
 | 3 | [Volley Pals](games/v/volley_pals.md) | 28.57% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 25.00% |
-| 4 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 25.00% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
-| 7 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
-| 8 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
+| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
+| 7 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
+| 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.73% |
@@ -99,7 +99,7 @@
 | 97 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.76% |
 | 97 | [Them and Us](games/t/them_and_us.md) | 0.76% |
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
-| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
+| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 102 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 103 | [Haven](games/h/haven.md) | 0.67% |

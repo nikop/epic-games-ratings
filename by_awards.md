@@ -13,8 +13,8 @@
 | 11 | [VALORANT](games/v/valorant.md) | 54,792 | 4.54 | 485 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 36,212 | 4.60 | 385 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,428 | 4.50 | 542 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 32,196 | 4.74 | 142 |
-| 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,504 | 4.65 | 294 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 32,235 | 4.74 | 142 |
+| 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,509 | 4.65 | 294 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,904 | 4.52 | 509 |
 | 17 | [Dauntless](games/d/dauntless.md) | 20,035 | 4.53 | 497 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 19,395 | 4.77 | 105 |
@@ -39,7 +39,7 @@
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,117 | 4.78 | 99 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,342 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,313 | 4.60 | 385 |
-| 40 | [Supraland](games/s/supraland.md) | 7,616 | 4.61 | 360 |
+| 40 | [Supraland](games/s/supraland.md) | 7,618 | 4.61 | 360 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,585 | 4.85 | 38 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,379 | 4.56 | 450 |
 | 43 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,354 | 4.58 | 420 |
@@ -88,7 +88,7 @@
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,103 | 4.57 | 438 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,098 | 4.68 | 237 |
 | 88 | [Hades](games/h/hades.md) | 3,087 | 4.92 | 4 |
-| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,976 | 4.77 | 105 |
+| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,985 | 4.77 | 105 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,684 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,501 | 4.61 | 360 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,459 | 4.28 | 774 |
