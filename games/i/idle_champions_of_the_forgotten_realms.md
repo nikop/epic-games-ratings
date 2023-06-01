@@ -83,6 +83,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~179 |
 | Fugitives | 0.20% | ~179 |
 | Premature Betrayal | 0.20% | ~179 |
+| Hopelessly Lost | 0.20% | ~179 |
 | A Tale of Two Cities | 0.20% | ~179 |
 | The Dead Three | 0.20% | ~179 |
 | Flying Monkey Skulls of Doom | 0.20% | ~179 |
@@ -293,7 +294,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.10% | ~89 |
 | Careful Consideration | 0.10% | ~89 |
 | Tanking Expectations | 0.10% | ~56 |
-| Hopelessly Lost | 0.10% | ~89 |
 | Bazaar Exploits | 0.10% | ~89 |
 | Cramped Quarters | 0.10% | ~89 |
 | Flame(skull) War | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,420 (Ranked 61)  
+Progressed: 89,425 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,420 | 1,905 |
+| 2023-06-01 | 89,425 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,013 (Ranked 37)  

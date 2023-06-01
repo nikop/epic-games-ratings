@@ -13,7 +13,7 @@ Rating: 3.86 (Ranked 911)
 | Bob The Builder | 28.00% | ~297 |
 | Miner | 23.00% | ~244 |
 | Gardener | 22.00% | ~233 |
-| Houston we have a problem | 19.00% | ~201 |
+| Houston we have a problem | 19.00% | ~202 |
 | Occupy Mars! | 18.00% | ~191 |
 | Detective | 16.00% | ~170 |
 | The Collector | 12.00% | ~127 |
@@ -26,7 +26,7 @@ Rating: 3.86 (Ranked 911)
 | Plumber | 2.00% | ~21 |
 | To infinity and beyond! | 0.90% | ~10 |
 | Hard Landing | 0.80% | ~8 |
-| Driver's License | 0.60% | ~6 |
+| Driver's License | 0.70% | ~7 |
 | Explosive Miner | 0.50% | ~5 |
 | Caveman | 0.50% | ~5 |
 | Thunderstruck | 0.50% | ~5 |
@@ -54,7 +54,7 @@ Rating: 3.86 (Ranked 911)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060 (Ranked 170)  
+Progressed: 1,061 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 1,020 | 0 |
 | 2023-05-30 | 1,038 | 0 |
 | 2023-05-31 | 1,049 | 0 |
-| 2023-06-01 | 1,060 | 0 |
+| 2023-06-01 | 1,061 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

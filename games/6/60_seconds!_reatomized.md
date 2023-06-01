@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 312)
 | Not Alone | 2.00% | ~82 |
 | Raining Cats and Dogs | 1.00% | ~41 |
 | Konrad style! | 1.00% | ~41 |
-| Cuckoo's nest | 0.70% | ~29 |
+| Cuckoo's nest | 0.80% | ~33 |
 | Cat Lady | 0.70% | ~29 |
 | Bughunter | 0.60% | ~25 |
 | Pro gamer | 0.60% | ~25 |

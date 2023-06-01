@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1334,9 +1334,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63120,
+  "EOS_Progressed": 63127,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4654,6 +4654,11 @@
       "Time": "2023-06-01T18:06:41.958354+00:00",
       "NumProgressed": 63120,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-01T19:05:59.6164222+00:00",
+      "NumProgressed": 63127,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -4809,7 +4814,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -4817,7 +4822,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -4839,9 +4844,9 @@
       "ID": "DEFEAT_FREAKS_1",
       "SetID": "4eo5ebm",
       "Name": "Bulldozed",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 505
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -4865,7 +4870,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -4889,7 +4894,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "FREEZE_1_5",
@@ -4969,7 +4974,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "HARLEY_2",
@@ -5041,7 +5046,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -5049,7 +5054,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MYSTERY_01",
@@ -5057,7 +5062,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "MYSTERY_02",
@@ -5152,13 +5157,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63120,
+      "Progressed": 63127,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33400,
+      "Progressed": 33407,
       "Completed": 2644
     }
   ],
@@ -5166,8 +5171,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-01T17:59:50.170147+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:06:41.9583533+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:05:59.6164215+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-01T17:59:50.1701477+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:06:41.9584339+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:59:19.0999388+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:05:59.6165925+00:00"
 }

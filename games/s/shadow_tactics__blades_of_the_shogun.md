@@ -6,10 +6,10 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,301 |
-| Thorough | 9.00% | ~15,571 |
-| A thief's beginning | 7.00% | ~12,111 |
-| Tanuki Time | 7.00% | ~12,111 |
+| Genin | 10.00% | ~17,302 |
+| Thorough | 9.00% | ~15,572 |
+| A thief's beginning | 7.00% | ~12,112 |
+| Tanuki Time | 7.00% | ~12,112 |
 | Disguised | 6.00% | ~10,381 |
 | Jonin | 6.00% | ~10,381 |
 | Rescue Takuma | 6.00% | ~10,381 |
@@ -20,16 +20,16 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 5.00% | ~8,651 |
 | Mugen Unchained | 5.00% | ~8,651 |
 | Yabu | 5.00% | ~8,651 |
-| Flying Rocks | 4.00% | ~6,920 |
-| Okkoto | 4.00% | ~6,920 |
-| Prisoners | 4.00% | ~6,920 |
-| Too Early | 4.00% | ~6,920 |
-| Warzone | 4.00% | ~6,920 |
-| Gear up | 3.00% | ~5,190 |
-| Happy little accidents | 3.00% | ~5,190 |
-| Noboru | 3.00% | ~5,190 |
-| Still Rollin' | 3.00% | ~5,190 |
-| Stoned | 3.00% | ~5,190 |
+| Flying Rocks | 4.00% | ~6,921 |
+| Okkoto | 4.00% | ~6,921 |
+| Prisoners | 4.00% | ~6,921 |
+| Too Early | 4.00% | ~6,921 |
+| Warzone | 4.00% | ~6,921 |
+| Gear up | 3.00% | ~5,191 |
+| Happy little accidents | 3.00% | ~5,191 |
+| Noboru | 3.00% | ~5,191 |
+| Still Rollin' | 3.00% | ~5,191 |
+| Stoned | 3.00% | ~5,191 |
 | Atheist Ox | 2.00% | ~3,460 |
 | It's raining men | 2.00% | ~3,460 |
 | The Old Way | 2.00% | ~3,460 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~173 |
 | Release the Kraken | 0.10% | ~173 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173,012 (Ranked 54)  
+Progressed: 173,022 (Ranked 54)  
 Completed: 47 (0.03%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 47 (0.03%) (Ranked 186)
 | 2023-05-29 | 172,222 | 47 |
 | 2023-05-30 | 172,521 | 47 |
 | 2023-05-31 | 172,811 | 47 |
-| 2023-06-01 | 173,012 | 47 |
+| 2023-06-01 | 173,022 | 47 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,675 (Ranked 126)  

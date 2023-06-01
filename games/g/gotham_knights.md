@@ -6,10 +6,10 @@ Rating: 4.17 (Ranked 840)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 3.00% | ~1,894 |
-| To the Victor Go the Spoils | 2.00% | ~1,262 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,262 |
-| Knighthood | 2.00% | ~1,262 |
-| Loose Ends | 2.00% | ~1,262 |
+| To the Victor Go the Spoils | 2.00% | ~1,263 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,263 |
+| Knighthood | 2.00% | ~1,263 |
+| Loose Ends | 2.00% | ~1,263 |
 | The Batman Family | 1.00% | ~631 |
 | Protector of Gotham | 1.00% | ~631 |
 | Something in the Clay | 1.00% | ~631 |
@@ -30,18 +30,18 @@ Rating: 4.17 (Ranked 840)
 | End of an Era | 0.80% | ~505 |
 | In Your Element | 0.80% | ~505 |
 | Not On My Watch | 0.80% | ~505 |
+| Bulldozed | 0.80% | ~505 |
 | Shock Til They Drop | 0.80% | ~505 |
 | Seeking Asylum | 0.80% | ~505 |
 | Gotham Knight | 0.80% | ~505 |
-| Bulldozed | 0.70% | ~442 |
 | Gotham City Confidential | 0.70% | ~442 |
 | Out of Their League | 0.60% | ~379 |
 | Drone You Out | 0.60% | ~379 |
 | Solid Alibi | 0.50% | ~316 |
-| Fusion Expert | 0.40% | ~252 |
-| Expert Crime Fighter | 0.40% | ~252 |
-| Family Meeting | 0.40% | ~252 |
-| A Worthy Successor | 0.40% | ~252 |
+| Fusion Expert | 0.40% | ~253 |
+| Expert Crime Fighter | 0.40% | ~253 |
+| Family Meeting | 0.40% | ~253 |
+| A Worthy Successor | 0.40% | ~253 |
 | Dressed to Impress | 0.30% | ~189 |
 | A Momentum Occasion | 0.30% | ~189 |
 | Hammer and Icicle | 0.20% | ~67 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,120 (Ranked 70)  
+Progressed: 63,127 (Ranked 70)  
 Completed: 93 (0.15%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 93 (0.15%) (Ranked 150)
 | 2023-05-29 | 62,796 | 91 |
 | 2023-05-30 | 62,912 | 91 |
 | 2023-05-31 | 63,037 | 92 |
-| 2023-06-01 | 63,120 | 93 |
+| 2023-06-01 | 63,127 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,275  (Ranked 98)  
 Sum: 3,769 (Ranked 138)  

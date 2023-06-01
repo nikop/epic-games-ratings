@@ -20,10 +20,10 @@
 | Rooftop | 29.00% | ~16 |
 | It's getting dark | 29.00% | ~16 |
 | Homeless | 27.00% | ~15 |
+| Big badaboom! | 27.00% | ~15 |
 | Hard Rock | 27.00% | ~15 |
-| Big badaboom! | 25.00% | ~14 |
+| Bookworm | 22.00% | ~12 |
 | Nokron tower | 20.00% | ~11 |
-| Bookworm | 20.00% | ~11 |
 | Magnitude 5 | 18.00% | ~10 |
 | Payback | 18.00% | ~10 |
 | Full power | 16.00% | ~9 |

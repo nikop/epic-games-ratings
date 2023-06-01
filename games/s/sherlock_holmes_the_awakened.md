@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 60.00% | ~203 |
-| To Hell In A Handcart | 59.00% | ~199 |
+| To Hell In A Handcart | 60.00% | ~203 |
 | High Profile | 51.00% | ~172 |
 | Whispers In The Dark | 50.00% | ~169 |
 | Fond Memories | 46.00% | ~155 |
@@ -16,8 +16,8 @@
 | The New World | 41.00% | ~139 |
 | Open Sesame | 40.00% | ~135 |
 | Sticky Fingers | 39.00% | ~132 |
+| Knives Out | 39.00% | ~132 |
 | Back In The Saddle | 38.00% | ~128 |
-| Knives Out | 38.00% | ~128 |
 | Land, Ho! | 38.00% | ~128 |
 | No Man Is An Island | 36.00% | ~122 |
 | At Wits' End | 35.00% | ~118 |
@@ -26,7 +26,7 @@
 | Up In Flames | 32.00% | ~108 |
 | Fhtagn! | 32.00% | ~108 |
 | Let Me Be Frank | 31.00% | ~105 |
-| Brain Food | 28.00% | ~95 |
+| Brain Food | 29.00% | ~98 |
 | No Stone Unturned | 27.00% | ~91 |
 | Curiosity Killed The Cat | 17.00% | ~57 |
 | Read It And Weep | 17.00% | ~57 |

@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 361,
+  "Ranking_Rating": 360,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 112,
@@ -344,9 +344,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9122,
+  "EOS_Progressed": 9126,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3244,6 +3244,11 @@
       "Time": "2023-06-01T18:06:39.515826+00:00",
       "NumProgressed": 9122,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-01T19:05:57.5520418+00:00",
+      "NumProgressed": 9126,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3255,7 +3260,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7301
     },
     {
       "ID": "ACH02",
@@ -3263,7 +3268,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH03",
@@ -3271,7 +3276,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH04",
@@ -3295,7 +3300,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH07",
@@ -3311,7 +3316,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "ACH09",
@@ -3319,7 +3324,7 @@
       "Name": "Bike or Biker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH10",
@@ -3351,7 +3356,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH14",
@@ -3375,7 +3380,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH17",
@@ -3383,7 +3388,7 @@
       "Name": "What the City Needs",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH18",
@@ -3407,7 +3412,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH21",
@@ -3431,7 +3436,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "ACH24",
@@ -3455,7 +3460,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH27",
@@ -3471,7 +3476,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH29",
@@ -3487,7 +3492,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH31",
@@ -3534,7 +3539,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9122,
+      "Progressed": 9126,
       "Completed": 17
     }
   ],
@@ -3542,8 +3547,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-01T18:00:22.6176113+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:06:39.5158255+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:05:57.552041+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.6877714+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:00:22.6176119+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:06:39.5158706+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:59:43.7061694+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:05:57.552118+00:00"
 }

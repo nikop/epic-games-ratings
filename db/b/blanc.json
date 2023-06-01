@@ -570,9 +570,9 @@
       "ID": "BIG_LEAP",
       "SetID": "1a29mp6",
       "Name": "A big leap for wolfkind",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 171
     },
     {
       "ID": "FALLEN_TREE",
@@ -586,9 +586,9 @@
       "ID": "HELPING_LITTLE_ONES",
       "SetID": "1a29mp6",
       "Name": "Helping the little ones",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 190
     },
     {
       "ID": "MOVE_ON",
@@ -675,8 +675,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:06:17.0269091+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:05:38.4385787+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.2878475+00:00",
-  "LastUpdate_Ratings": "2023-06-01T17:59:20.5252131+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:06:17.0269235+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:58:56.0683212+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:05:38.4385991+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 12.00% | ~282 |
+| Wakey Wakey | 13.00% | ~305 |
 | Sputnik 2049 | 11.00% | ~258 |
 | Without Breaking Some Eggs... | 10.00% | ~235 |
 | Infinite Growth... | 10.00% | ~235 |
@@ -36,8 +36,8 @@ Rating: 4.57 (Ranked 438)
 | Delivery! | 1.00% | ~23 |
 | BRAWL! | 1.00% | ~23 |
 | All in Good Health | 1.00% | ~23 |
+| Sustainable Energy | 0.90% | ~21 |
 | What the Ruins Teach Us | 0.90% | ~21 |
-| Sustainable Energy | 0.80% | ~19 |
 | Pedal to the Metal | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~16 |
@@ -51,8 +51,8 @@ Rating: 4.57 (Ranked 438)
 | Gregor Spinoza | 0.40% | ~9 |
 | Scientifically Accurate | 0.40% | ~9 |
 | Better Him Than Me | 0.30% | ~7 |
+| Remember the Dead | 0.30% | ~7 |
 | Soylent Green | 0.30% | ~7 |
-| Remember the Dead | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
 | I Give You the Stars | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,346 (Ranked 146)  
+Progressed: 2,348 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
 | 2023-05-31 | 2,333 | 0 |
-| 2023-06-01 | 2,346 | 0 |
+| 2023-06-01 | 2,348 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -941,9 +941,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "MQ02_1",
@@ -1069,17 +1069,17 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "MQ06_2",
@@ -1166,8 +1166,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:04:14.8240486+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:03:59.4728068+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-06-01T17:57:17.7917965+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:04:14.8240754+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:57:17.5196671+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:03:59.4728412+00:00"
 }

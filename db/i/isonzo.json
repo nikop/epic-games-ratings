@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6000,
+  "EOS_Progressed": 6002,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -1953,6 +1953,11 @@
       "Time": "2023-06-01T18:03:27.6070897+00:00",
       "NumProgressed": 6000,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-01T19:03:29.890845+00:00",
+      "NumProgressed": 6002,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1980,7 +1985,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2012,7 +2017,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -2076,7 +2081,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -2132,7 +2137,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -2156,7 +2161,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2212,7 +2217,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2292,7 +2297,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2316,14 +2321,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6000,
+      "Progressed": 6002,
       "Completed": 8
     }
   ],
@@ -2331,8 +2336,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-31T13:04:59.5463809+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:03:27.6070892+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:03:29.8908443+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-06-01T17:57:25.9187329+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:03:27.6071403+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:57:23.4897952+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:03:29.890921+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -729,7 +729,7 @@
   ],
   "EOS_Progressed": 6933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3409,9 +3409,9 @@
       "ID": "ACH_MECHING_ENEMIES",
       "SetID": "97mcd7i",
       "Name": "Meching Enemies",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3397
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -3649,8 +3649,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:03:27.3376995+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:03:29.6185483+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.2765007+00:00",
-  "LastUpdate_Ratings": "2023-06-01T17:58:23.5040933+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:03:27.3378047+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:58:11.3242807+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:03:29.6186487+00:00"
 }

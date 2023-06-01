@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2825,
+  "EOS_Progressed": 2826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1493,6 +1493,11 @@
       "Time": "2023-06-01T17:05:38.9494096+00:00",
       "NumProgressed": 2825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T19:05:57.9945939+00:00",
+      "NumProgressed": 2826,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1568,7 +1573,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Dominus",
@@ -1672,7 +1677,7 @@
       "Name": "Not So Fast...",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Kills_Bleed",
@@ -1704,7 +1709,7 @@
       "Name": "Exterminator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -1768,7 +1773,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1776,7 +1781,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1784,7 +1789,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MasterOfTheForge",
@@ -1872,7 +1877,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1896,7 +1901,7 @@
       "Name": "Preservationist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -1904,7 +1909,7 @@
       "Name": "Engine Kill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -1936,7 +1941,7 @@
       "Name": "Death Comes For All",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "SacristaCompleted",
@@ -1975,21 +1980,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2825,
+      "Progressed": 2826,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2825,
+      "Progressed": 2826,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:06:40.063911+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:05:57.9945931+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-01T17:58:43.2878528+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:06:40.0639737+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:58:26.9296022+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:05:57.9946976+00:00"
 }

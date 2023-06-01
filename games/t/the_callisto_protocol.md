@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,422 |
-| The Outer Way | 8.00% | ~1,138 |
-| Desperate Times | 8.00% | ~1,138 |
-| Chew 'Em Up | 7.00% | ~996 |
-| Paper Jams | 7.00% | ~996 |
-| Giving Back | 6.00% | ~853 |
-| Reforged | 6.00% | ~853 |
-| Workplace Hazard | 5.00% | ~711 |
-| If the SHU Fits... | 5.00% | ~711 |
+| Flesh Wound | 10.00% | ~1,424 |
+| The Outer Way | 8.00% | ~1,139 |
+| Desperate Times | 8.00% | ~1,139 |
+| Chew 'Em Up | 7.00% | ~997 |
+| Paper Jams | 7.00% | ~997 |
+| Giving Back | 6.00% | ~854 |
+| Reforged | 6.00% | ~854 |
+| Workplace Hazard | 5.00% | ~712 |
+| If the SHU Fits... | 5.00% | ~712 |
 | Get a Grip | 4.00% | ~569 |
 | Without A Paddle | 4.00% | ~569 |
 | Instigator | 4.00% | ~86 |
@@ -23,13 +23,13 @@ Rating: 4.18 (Ranked 833)
 | Float Like A Butterfly | 3.00% | ~427 |
 | In the Pipe, Five by Five | 3.00% | ~427 |
 | Crash Site | 3.00% | ~427 |
-| Bear Trap | 3.00% | ~64 |
-| You Need a Gun | 2.00% | ~284 |
-| The Commonality | 2.00% | ~284 |
-| Mugshot | 2.00% | ~284 |
-| What Lies Beneath | 2.00% | ~284 |
-| Full Circle | 2.00% | ~284 |
-| Power Up | 2.00% | ~284 |
+| Bear Trap | 3.00% | ~65 |
+| You Need a Gun | 2.00% | ~285 |
+| The Commonality | 2.00% | ~285 |
+| Mugshot | 2.00% | ~285 |
+| What Lies Beneath | 2.00% | ~285 |
+| Full Circle | 2.00% | ~285 |
+| Power Up | 2.00% | ~285 |
 | Big Spender | 2.00% | ~43 |
 | I Do Belong Here | 1.00% | ~142 |
 | Parole Denied | 1.00% | ~22 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 833)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,224 (Ranked 102)  
+Progressed: 14,236 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
-| 2023-06-01 | 14,224 | 53 |
+| 2023-06-01 | 14,236 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

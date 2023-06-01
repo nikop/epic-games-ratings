@@ -5,8 +5,8 @@ Rating: 4.28 (Ranked 774)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,700 |
-| A Good Day To Die | 16.00% | ~3,760 |
+| Man 'O War | 20.00% | ~4,701 |
+| A Good Day To Die | 16.00% | ~3,761 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,410 |
 | Right Back Atcha | 6.00% | ~1,410 |
 | Killed by Death | 5.00% | ~1,175 |
@@ -19,8 +19,8 @@ Rating: 4.28 (Ranked 774)
 | Backdoor Man | 0.80% | ~188 |
 | Death Becomes Her | 0.80% | ~188 |
 | Schadenfreude | 0.80% | ~188 |
-| Red In Tooth And Claw | 0.70% | ~164 |
-| The Sky Is Falling | 0.70% | ~164 |
+| Red In Tooth And Claw | 0.70% | ~165 |
+| The Sky Is Falling | 0.70% | ~165 |
 | Start As You Mean To Go On | 0.60% | ~141 |
 | Hail the Great Horned Metal God! | 0.60% | ~141 |
 | That'll Come In Handy... | 0.60% | ~141 |
@@ -28,14 +28,14 @@ Rating: 4.28 (Ranked 774)
 | Four Legged Friend | 0.40% | ~94 |
 | Ice To See You | 0.40% | ~94 |
 | Smack My Imp Up | 0.40% | ~94 |
-| Vroll With It | 0.30% | ~70 |
-| Swift of Foot, Keen of Blade | 0.30% | ~70 |
+| Vroll With It | 0.30% | ~71 |
+| Swift of Foot, Keen of Blade | 0.30% | ~71 |
 | Flame Retardant | 0.20% | ~47 |
 | Death or Glory | 0.20% | ~47 |
 | Too Metal For Magic | 0.10% | ~24 |
 | Heart Of Steel | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,500 (Ranked 91)  
+Progressed: 23,506 (Ranked 91)  
 Completed: 18 (0.08%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 18 (0.08%) (Ranked 168)
 | 2023-05-29 | 23,067 | 18 |
 | 2023-05-30 | 23,231 | 18 |
 | 2023-05-31 | 23,393 | 18 |
-| 2023-06-01 | 23,500 | 18 |
+| 2023-06-01 | 23,506 | 18 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 301)  
 Sum: 125 (Ranked 388)  

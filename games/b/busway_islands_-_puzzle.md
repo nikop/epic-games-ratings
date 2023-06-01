@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Island | 92.00% | ~34 |
-| Island 2 | 89.00% | ~33 |
-| Island 3 | 86.00% | ~32 |
-| Island 4 | 78.00% | ~29 |
-| Island 5 | 73.00% | ~27 |
-| Island 6 | 54.00% | ~20 |
+| Island 2 | 92.00% | ~34 |
+| Island 3 | 89.00% | ~33 |
+| Island 4 | 81.00% | ~30 |
+| Island 5 | 76.00% | ~28 |
+| Island 6 | 57.00% | ~21 |
 | Island 10 | 51.00% | ~19 |
 | Island 7 | 51.00% | ~19 |
 | Island 8 | 51.00% | ~19 |

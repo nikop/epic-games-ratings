@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,096 |
-| Landlord | 30.00% | ~15,511 |
-| Lawmaker | 21.00% | ~10,857 |
-| Bannerlord | 20.00% | ~10,340 |
-| Horde breaker | 20.00% | ~10,340 |
-| Trained | 20.00% | ~10,340 |
-| King Solomon | 16.00% | ~8,272 |
-| The king is pleased | 16.00% | ~8,272 |
-| Apple of my eye | 14.00% | ~7,238 |
-| I can do it | 14.00% | ~7,238 |
-| God of the Arena | 12.00% | ~6,204 |
+| Lawbringer | 35.00% | ~18,097 |
+| Landlord | 30.00% | ~15,512 |
+| Lawmaker | 21.00% | ~10,858 |
+| Bannerlord | 20.00% | ~10,341 |
+| Horde breaker | 20.00% | ~10,341 |
+| Trained | 20.00% | ~10,341 |
+| King Solomon | 16.00% | ~8,273 |
+| The king is pleased | 16.00% | ~8,273 |
+| Apple of my eye | 14.00% | ~7,239 |
+| I can do it | 14.00% | ~7,239 |
+| God of the Arena | 12.00% | ~6,205 |
 | Against all odds | 10.00% | ~5,170 |
 | Swordbearer | 9.00% | ~4,653 |
 | Duelist | 8.00% | ~4,136 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,702 (Ranked 75)  
+Progressed: 51,705 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,10 +100,10 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 51,414 | 0 |
 | 2023-05-30 | 51,499 | 0 |
 | 2023-05-31 | 51,598 | 0 |
-| 2023-06-01 | 51,702 | 0 |
+| 2023-06-01 | 51,705 | 0 |
 ## Awards
 Max (Character Customization): 6,612  (Ranked 49)  
-Sum: 13,235 (Ranked 67)  
+Sum: 13,236 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
@@ -115,7 +115,7 @@ Diff (max vs sum): -18
 | This game has Amazing Storytelling | 737 |
 | This game has Quickly Understood Controls | 731 |
 | This game has Amazing Characters | 725 |
-| This game is Relaxing | 723 |
+| This game is Relaxing | 724 |
 | This game has a Creative Community | 527 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -259,4 +259,4 @@ Diff (max vs sum): -18
 | 2023-05-29 | 4.74 | - | 6,594 | 13,199 |
 | 2023-05-30 | 4.74 | - | 6,599 | 13,210 |
 | 2023-05-31 | 4.74 | - | 6,609 | 13,230 |
-| 2023-06-01 | 4.74 | - | 6,612 | 13,235 |
+| 2023-06-01 | 4.74 | - | 6,612 | 13,236 |

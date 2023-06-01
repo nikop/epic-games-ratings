@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2723,
+  "EOS_Progressed": 2725,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1959,6 +1959,11 @@
       "Time": "2023-06-01T18:02:31.7300975+00:00",
       "NumProgressed": 2723,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T19:02:19.6700409+00:00",
+      "NumProgressed": 2725,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1994,7 +1999,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "BloodAndJustice_50",
@@ -2002,7 +2007,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "CordonBleu_28",
@@ -2010,7 +2015,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "CrowdPleaser",
@@ -2026,7 +2031,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Eureka_23",
@@ -2034,7 +2039,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2042,7 +2047,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ForAllAurai_8",
@@ -2066,7 +2071,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "HomeSweetHome_25",
@@ -2162,7 +2167,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1717
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2170,7 +2175,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -2194,7 +2199,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2250,7 +2255,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -2288,9 +2293,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2016
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2305,15 +2310,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2723,
+      "Progressed": 2725,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-01T18:02:31.7300968+00:00",
+  "LastChanged_Achievements": "2023-06-01T19:02:19.6700403+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-06-01T17:57:48.0959792+00:00",
-  "LastUpdate_Achievements": "2023-06-01T18:02:31.7301593+00:00"
+  "LastUpdate_Ratings": "2023-06-01T18:57:41.2870046+00:00",
+  "LastUpdate_Achievements": "2023-06-01T19:02:19.6700924+00:00"
 }
