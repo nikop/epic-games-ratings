@@ -135,7 +135,7 @@
 | 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,080 | 62 |
 | 132 | [Dead Space](games/d/dead_space.md) | 4.75 | 49 | 394 |
 | 132 | [Diabotical](games/d/diabotical.md) | 4.75 | 268 | 237 |
-| 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 456 | 191 |
+| 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 457 | 191 |
 | 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 467 | 187 |
 | 132 | [Tchia](games/t/tchia.md) | 4.75 | 0 | 491 |
 | 132 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 39 | 414 |
@@ -621,6 +621,7 @@
 | 608 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 491 |
 | 608 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 491 |
 | 608 | [SMITE](games/s/smite.md) | 4.45 | 3,840 | 77 |
+| 608 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 491 |
 | 608 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 491 |
 | 608 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.45 | 1,251 | 122 |
 | 608 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 412 |
@@ -628,22 +629,21 @@
 | 608 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 312 |
 | 608 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 466 |
 | 608 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 491 |
-| 629 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 491 |
-| 629 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 491 |
-| 629 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 491 |
-| 629 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 856 | 144 |
-| 629 | [Predecessor](games/p/predecessor.md) | 4.44 | 100 | 324 |
-| 629 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 50 | 388 |
-| 629 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 491 |
-| 629 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
-| 629 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
-| 629 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.44 | 0 | 491 |
-| 629 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 537 | 181 |
-| 629 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 491 |
-| 629 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 328 |
-| 629 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
-| 629 | [Tunche](games/t/tunche.md) | 4.44 | 0 | 491 |
-| 629 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
+| 630 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 491 |
+| 630 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 491 |
+| 630 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 491 |
+| 630 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 856 | 144 |
+| 630 | [Predecessor](games/p/predecessor.md) | 4.44 | 100 | 324 |
+| 630 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 50 | 388 |
+| 630 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 491 |
+| 630 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
+| 630 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
+| 630 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 537 | 181 |
+| 630 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 491 |
+| 630 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 328 |
+| 630 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
+| 630 | [Tunche](games/t/tunche.md) | 4.44 | 0 | 491 |
+| 630 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
 | 645 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 0 | 491 |
 | 645 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 30 | 447 |
 | 645 | [ELEX](games/e/elex.md) | 4.43 | 24 | 466 |
@@ -703,7 +703,7 @@
 | 696 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 491 |
 | 696 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 441 |
 | 703 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.37 | 0 | 491 |
-| 703 | [Core](games/c/core.md) | 4.37 | 732 | 153 |
+| 703 | [Core](games/c/core.md) | 4.37 | 734 | 153 |
 | 703 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 0 | 491 |
 | 703 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,135 | 101 |
 | 703 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 491 |
