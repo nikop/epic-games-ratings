@@ -6,26 +6,26 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 23.00% | ~9,074 |
-| To The Nines | 20.00% | ~7,891 |
-| Optimized | 17.00% | ~6,707 |
-| Performance Review | 16.00% | ~6,313 |
-| Wet Work | 15.00% | ~5,918 |
-| Tune Up | 15.00% | ~5,918 |
-| Making a Name | 15.00% | ~5,918 |
+| First F#@!ing Day | 23.00% | ~9,076 |
+| To The Nines | 20.00% | ~7,892 |
+| Optimized | 17.00% | ~6,708 |
+| Performance Review | 16.00% | ~6,314 |
+| Wet Work | 15.00% | ~5,919 |
+| Tune Up | 15.00% | ~5,919 |
+| Making a Name | 15.00% | ~5,919 |
 | The Side Job | 14.00% | ~5,524 |
 | Landlord | 14.00% | ~5,524 |
-| Food for Thought | 12.00% | ~4,734 |
-| Wrecking Ball | 11.00% | ~4,340 |
-| Finders Keepers | 10.00% | ~3,945 |
-| A Young Empire | 10.00% | ~3,945 |
+| Food for Thought | 12.00% | ~4,735 |
+| Wrecking Ball | 11.00% | ~4,341 |
+| Finders Keepers | 10.00% | ~3,946 |
+| A Young Empire | 10.00% | ~3,946 |
 | Work Ethic | 9.00% | ~3,551 |
 | Quality Time | 7.00% | ~2,762 |
 | Power Players | 7.00% | ~2,762 |
 | Picking Fights | 7.00% | ~2,762 |
-| Showdown | 6.00% | ~2,367 |
-| Et tu? | 6.00% | ~2,367 |
-| Took It to The Limit | 6.00% | ~2,367 |
+| Showdown | 6.00% | ~2,368 |
+| Et tu? | 6.00% | ~2,368 |
+| Took It to The Limit | 6.00% | ~2,368 |
 | Kitted Out | 5.00% | ~1,973 |
 | Hijacked | 4.00% | ~1,578 |
 | The Spins | 4.00% | ~1,578 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~39 |
 | Fiesta Time | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,454 (Ranked 82)  
+Progressed: 39,460 (Ranked 82)  
 Completed: 21 (0.05%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 21 (0.05%) (Ranked 177)
 | 2023-05-29 | 38,337 | 20 |
 | 2023-05-30 | 38,882 | 21 |
 | 2023-05-31 | 39,375 | 21 |
-| 2023-06-01 | 39,454 | 21 |
+| 2023-06-01 | 39,460 | 21 |
 ## Awards
 Max (Extremely Fun): 1,031  (Ranked 135)  
-Sum: 8,383 (Ranked 90)  
+Sum: 8,384 (Ranked 90)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -115,7 +115,7 @@ Diff (max vs sum): 45
 | This game has Diverse Characters | 962 |
 | This game is Great for Beginners | 960 |
 | This game has Amazing Characters | 960 |
-| This game is Relaxing | 956 |
+| This game is Relaxing | 957 |
 | This game has Amazing Storytelling | 952 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 581 |
@@ -207,4 +207,4 @@ Diff (max vs sum): 45
 | 2023-05-29 | 3.78 | - | 1,030 | 8,379 |
 | 2023-05-30 | 3.78 | - | 1,031 | 8,381 |
 | 2023-05-31 | 3.78 | - | 1,031 | 8,382 |
-| 2023-06-01 | 3.78 | - | 1,031 | 8,383 |
+| 2023-06-01 | 3.78 | - | 1,031 | 8,384 |

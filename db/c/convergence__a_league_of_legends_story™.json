@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -800,9 +800,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 276
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1152,9 +1152,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "WatcherFought",
@@ -1199,8 +1199,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:33:04.5376655+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:05:43.4620162+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:27:35.3772786+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:33:04.5377174+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:00:20.0550183+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:05:43.4620545+00:00"
 }

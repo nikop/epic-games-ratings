@@ -6,13 +6,13 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,309 |
-| Into the Unknown | 9.00% | ~50,678 |
-| First Shot | 9.00% | ~50,678 |
-| Herzlich Wilkommen! | 8.00% | ~45,047 |
-| Good Night & Good Luck | 8.00% | ~45,047 |
-| Sancho Panza | 7.00% | ~39,416 |
-| Oh, So This Is How It Works! | 7.00% | ~39,416 |
+| You Never Forget Your First... | 10.00% | ~56,310 |
+| Into the Unknown | 9.00% | ~50,679 |
+| First Shot | 9.00% | ~50,679 |
+| Herzlich Wilkommen! | 8.00% | ~45,048 |
+| Good Night & Good Luck | 8.00% | ~45,048 |
+| Sancho Panza | 7.00% | ~39,417 |
+| Oh, So This Is How It Works! | 7.00% | ~39,417 |
 | Under Pressure | 6.00% | ~33,786 |
 | On the Trail of the Enemy | 6.00% | ~33,786 |
 | Light in the Darkness | 6.00% | ~33,786 |
@@ -56,8 +56,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Get the Point? | 0.60% | ~3,379 |
 | My Friend, Ciro | 0.60% | ~1,251 |
 | Skullcrusher | 0.60% | ~1,251 |
-| Revenants | 0.50% | ~2,815 |
-| Tanning Salon | 0.50% | ~2,815 |
+| Revenants | 0.50% | ~2,816 |
+| Tanning Salon | 0.50% | ~2,816 |
 | Lightning Reflexes | 0.40% | ~2,252 |
 | A Friend in Need... | 0.20% | ~1,126 |
 | Man On a Mission | 0.20% | ~1,126 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~209 |
 | Connoisseur | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563,092 (Ranked 22)  
+Progressed: 563,104 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 49 (0.01%) (Ranked 197)
 | 2023-05-29 | 561,271 | 49 |
 | 2023-05-30 | 562,168 | 49 |
 | 2023-05-31 | 562,978 | 49 |
-| 2023-06-01 | 563,092 | 49 |
+| 2023-06-01 | 563,104 | 49 |
 ## Awards
 Max (Character Customization): 7,354  (Ranked 43)  
 Sum: 16,621 (Ranked 59)  

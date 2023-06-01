@@ -19,14 +19,14 @@
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~43 |
 | Oh, you're up to no gouda! | 61.00% | ~42 |
 | Meat grinder | 58.00% | ~40 |
-| Butcher | 51.00% | ~35 |
+| Butcher | 52.00% | ~36 |
 | You're not going to blow me up! | 51.00% | ~35 |
-| Spare Ribs | 48.00% | ~33 |
+| Spare Ribs | 49.00% | ~34 |
+| My pants squeak when I walk | 48.00% | ~33 |
 | Mushroom soup of the day | 46.00% | ~32 |
-| My pants squeak when I walk | 46.00% | ~32 |
 | Honk honk! | 45.00% | ~31 |
+| Thats disgusting! | 45.00% | ~31 |
 | Surprise!! | 43.00% | ~30 |
-| Thats disgusting! | 43.00% | ~30 |
 | Cockadoodledoo! | 43.00% | ~30 |
 | Make America Grate Again | 36.00% | ~25 |
 | Self assessed tax return | 36.00% | ~25 |
@@ -37,7 +37,7 @@
 | You can't stop me, bro! | 33.00% | ~23 |
 | Haemochromatosis | 33.00% | ~23 |
 | Meatballs, coming up! | 30.00% | ~21 |
-| I'm going to get a concussion | 28.00% | ~19 |
+| I'm going to get a concussion | 29.00% | ~20 |
 | Another one bites the iron | 28.00% | ~19 |
 | A Megapint...? | 26.00% | ~18 |
 | Ripe Meat Off The Bone! | 23.00% | ~16 |

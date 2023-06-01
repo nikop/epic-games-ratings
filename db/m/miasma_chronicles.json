@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 924,
+  "EOS_Progressed": 925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -960,6 +960,11 @@
       "Time": "2023-06-01T02:45:47.069659+00:00",
       "NumProgressed": 924,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T04:01:50.5785263+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1051,7 +1056,7 @@
       "Name": "Croaked",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "CRUELTY",
@@ -1083,7 +1088,7 @@
       "Name": "Limp Richard",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1123,7 +1128,7 @@
       "Name": "Endgame",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "EXORCIST",
@@ -1155,7 +1160,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1187,7 +1192,7 @@
       "Name": "Giant Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "GOAL",
@@ -1203,7 +1208,7 @@
       "Name": "Gun for Hire",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1235,7 +1240,7 @@
       "Name": "Lumberjack",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1275,7 +1280,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "RECYCLER",
@@ -1299,7 +1304,7 @@
       "Name": "Savior",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "SENSEI",
@@ -1378,7 +1383,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 924,
+      "Progressed": 925,
       "Completed": 0
     }
   ],
@@ -1386,8 +1391,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-06-01T02:45:47.0696585+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:01:50.5785255+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:26:06.1390306+00:00",
-  "LastUpdate_Achievements": "2023-06-01T02:45:47.0697065+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:58:52.7371281+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:01:50.5786039+00:00"
 }

@@ -5251,9 +5251,9 @@
       "Count": 465
     }
   ],
-  "EOS_Progressed": 563092,
+  "EOS_Progressed": 563104,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 6982,
+  "EOS_NewPlayers": 6970,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9511,6 +9511,11 @@
       "Time": "2023-06-01T03:34:23.4874649+00:00",
       "NumProgressed": 563092,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-06-01T04:07:14.1990718+00:00",
+      "NumProgressed": 563104,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 65,
@@ -9522,7 +9527,7 @@
       "Name": "Into the Unknown",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 50678
+      "UsersEstimate": 50679
     },
     {
       "ID": "achievement_02",
@@ -9530,7 +9535,7 @@
       "Name": "First Shot",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 50678
+      "UsersEstimate": 50679
     },
     {
       "ID": "achievement_03",
@@ -9538,7 +9543,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 45047
+      "UsersEstimate": 45048
     },
     {
       "ID": "achievement_04",
@@ -9658,7 +9663,7 @@
       "Name": "Sancho Panza",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 39416
+      "UsersEstimate": 39417
     },
     {
       "ID": "achievement_19",
@@ -9706,7 +9711,7 @@
       "Name": "Revenants",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "achievement_25",
@@ -9730,7 +9735,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 56309
+      "UsersEstimate": 56310
     },
     {
       "ID": "achievement_28",
@@ -9738,7 +9743,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 39416
+      "UsersEstimate": 39417
     },
     {
       "ID": "achievement_29",
@@ -9810,7 +9815,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 45047
+      "UsersEstimate": 45048
     },
     {
       "ID": "achievement_38",
@@ -9842,7 +9847,7 @@
       "Name": "Tanning Salon",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "achievement_42",
@@ -10041,21 +10046,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 563092,
+      "Progressed": 563104,
       "Completed": 49
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 208536,
+      "Progressed": 208548,
       "Completed": 1414
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-01T02:44:27.0749544+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:34:23.4874645+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:07:14.1990712+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:19.1626949+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:28:15.8334896+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:34:23.4875564+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:00:52.0871568+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:07:14.1991418+00:00"
 }

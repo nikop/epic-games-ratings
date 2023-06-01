@@ -28,7 +28,7 @@ Rating: 4.88 (Ranked 19)
 | Time to pay up! | 31.00% | ~773 |
 | Perfecter Parry-er! | 30.00% | ~748 |
 | Who's the boss now? | 29.00% | ~723 |
-| I have to read these things? | 28.00% | ~698 |
+| I have to read these things? | 29.00% | ~723 |
 | I look cool. But I can look COOLER. | 28.00% | ~698 |
 | There's such a thing as TOO helpful | 22.00% | ~549 |
 | That's a lot of junk metal… | 20.00% | ~499 |

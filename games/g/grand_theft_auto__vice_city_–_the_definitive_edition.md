@@ -5,20 +5,20 @@ Rating: 4.63 (Ranked 326)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,169 |
-| Greasy Palms | 39.00% | ~2,874 |
+| Legal Counsel | 43.00% | ~3,170 |
+| Greasy Palms | 39.00% | ~2,875 |
 | South American Connection | 23.00% | ~1,695 |
 | Life of the Party | 17.00% | ~1,253 |
 | Tommy Two-Wheels | 13.00% | ~958 |
-| Big Heat from Little Havana | 12.00% | ~884 |
-| Chauffeur | 12.00% | ~884 |
+| Big Heat from Little Havana | 12.00% | ~885 |
+| Chauffeur | 12.00% | ~885 |
 | Salutations My Little Friend | 10.00% | ~737 |
 | Iron-y | 9.00% | ~663 |
 | Gun for Hire | 7.00% | ~516 |
 | Mischief Managed | 7.00% | ~516 |
 | Vice City Mogul | 6.00% | ~442 |
 | Bloodstained Hands | 6.00% | ~442 |
-| Catch Me if You Can | 5.00% | ~368 |
+| Catch Me if You Can | 5.00% | ~369 |
 | Not my First Time | 4.00% | ~295 |
 | Grand Theft Auto | 4.00% | ~295 |
 | High Quality H2O | 3.00% | ~221 |
@@ -40,7 +40,7 @@ Rating: 4.63 (Ranked 326)
 | Done it All | 0.60% | ~44 |
 | Kingpin | 0.30% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,370 (Ranked 113)  
+Progressed: 7,371 (Ranked 113)  
 Completed: 25 (0.34%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,14 +82,14 @@ Completed: 25 (0.34%) (Ranked 120)
 | 2023-05-29 | 7,217 | 24 |
 | 2023-05-30 | 7,284 | 24 |
 | 2023-05-31 | 7,359 | 25 |
-| 2023-06-01 | 7,370 | 25 |
+| 2023-06-01 | 7,371 | 25 |
 ## Awards
-Max (Great Boss Battles): 41  (Ranked 408)  
-Sum: 41 (Ranked 444)  
-Diff (max vs sum): -36  
+Max (Great Boss Battles): 42  (Ranked 408)  
+Sum: 42 (Ranked 443)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 41 |
+| This game has Great Boss Battles | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -151,3 +151,4 @@ Diff (max vs sum): -36
 | 2023-05-26 | 4.65 | 40 | 40 |
 | 2023-05-29 | 4.64 | 40 | 40 |
 | 2023-05-30 | 4.63 | 41 | 41 |
+| 2023-06-01 | 4.63 | 42 | 42 |

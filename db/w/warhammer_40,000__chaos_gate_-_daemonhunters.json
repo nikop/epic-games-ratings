@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2807,
+  "EOS_Progressed": 2808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2023-06-01T02:50:26.6551818+00:00",
       "NumProgressed": 2807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T04:07:10.6364059+00:00",
+      "NumProgressed": 2808,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1651,7 +1656,7 @@
       "Name": "Executioner",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "Kills_Exterminator",
@@ -1675,7 +1680,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Kills_Knockback",
@@ -1691,7 +1696,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "Kills_Vakir",
@@ -1819,7 +1824,7 @@
       "Name": "Just a Scratch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "NexusCompleted",
@@ -1930,21 +1935,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2807,
+      "Progressed": 2808,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2807,
+      "Progressed": 2808,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:34:19.6051521+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:07:10.6364055+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:26:34.0250708+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:34:19.6052037+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:59:20.5660271+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:07:10.6364507+00:00"
 }

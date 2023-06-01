@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9071,
+  "EOS_Progressed": 9072,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3163,6 +3163,11 @@
       "Time": "2023-06-01T03:34:18.7612118+00:00",
       "NumProgressed": 9071,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-01T04:06:50.063058+00:00",
+      "NumProgressed": 9072,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3174,7 +3179,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7257
+      "UsersEstimate": 7258
     },
     {
       "ID": "ACH02",
@@ -3198,7 +3203,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH05",
@@ -3230,7 +3235,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "ACH09",
@@ -3453,7 +3458,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9071,
+      "Progressed": 9072,
       "Completed": 17
     }
   ],
@@ -3461,8 +3466,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-31T13:07:30.7651993+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:34:18.7612108+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:06:50.0630562+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.6877714+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:28:43.3149616+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:34:18.7612555+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:01:23.4817981+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:06:50.0630896+00:00"
 }

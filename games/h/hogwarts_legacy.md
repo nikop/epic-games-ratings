@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~21,987 |
-| First Class Student | 7.00% | ~19,239 |
+| The Sort Who Makes an Entrance | 8.00% | ~21,988 |
+| First Class Student | 7.00% | ~19,240 |
 | Grappling with a Graphorn | 6.00% | ~16,491 |
 | The One Who Mastered Memories | 6.00% | ~16,491 |
 | The Hallowed Hero | 6.00% | ~16,491 |
@@ -27,12 +27,12 @@ Rating: 4.77 (Ranked 105)
 | Followed the Butterflies | 5.00% | ~13,742 |
 | The Spell Master | 5.00% | ~13,742 |
 | The Seeker of Knowledge | 4.00% | ~10,994 |
-| The Root of the Problem | 3.00% | ~8,245 |
-| Third Time's a Charm | 3.00% | ~8,245 |
-| Room with a View | 3.00% | ~8,245 |
-| The Intrepid Explorer | 3.00% | ~8,245 |
-| The Ends Petrify the Means | 3.00% | ~8,245 |
-| Raising Expectations | 3.00% | ~8,245 |
+| The Root of the Problem | 3.00% | ~8,246 |
+| Third Time's a Charm | 3.00% | ~8,246 |
+| Room with a View | 3.00% | ~8,246 |
+| The Intrepid Explorer | 3.00% | ~8,246 |
+| The Ends Petrify the Means | 3.00% | ~8,246 |
+| Raising Expectations | 3.00% | ~8,246 |
 | The Toast of the Town | 2.00% | ~5,497 |
 | Going Through the Potions | 2.00% | ~5,497 |
 | Put Down Roots | 2.00% | ~5,497 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,099 |
 | Collector's Edition | 0.20% | ~550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,843 (Ranked 39)  
+Progressed: 274,850 (Ranked 39)  
 Completed: 384 (0.14%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 384 (0.14%) (Ranked 153)
 | 2023-05-29 | 274,189 | 378 |
 | 2023-05-30 | 274,486 | 382 |
 | 2023-05-31 | 274,775 | 383 |
-| 2023-06-01 | 274,843 | 384 |
+| 2023-06-01 | 274,850 | 384 |
 ## Awards
 Max (Character Customization): 19,395  (Ranked 18)  
 Sum: 35,804 (Ranked 33)  

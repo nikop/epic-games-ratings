@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 911,
+  "EOS_Progressed": 912,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 6.92,
+  "EOS_Completed_Percentage": 6.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1987,6 +1987,11 @@
       "Time": "2023-06-01T02:50:02.3759515+00:00",
       "NumProgressed": 911,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-06-01T04:06:23.5501375+00:00",
+      "NumProgressed": 912,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 50,
@@ -1998,7 +2003,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "10",
@@ -2006,7 +2011,7 @@
       "Name": "Piece of Cake",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "11",
@@ -2046,7 +2051,7 @@
       "Name": "Pull the Plug",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "16",
@@ -2054,7 +2059,7 @@
       "Name": "Soul Slayer",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "17",
@@ -2062,7 +2067,7 @@
       "Name": "The Downfall",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "18",
@@ -2078,7 +2083,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "2",
@@ -2086,7 +2091,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "20",
@@ -2118,7 +2123,7 @@
       "Name": "All Heart",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "24",
@@ -2134,7 +2139,7 @@
       "Name": "Trick Question!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "26",
@@ -2158,7 +2163,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "29",
@@ -2182,7 +2187,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "31",
@@ -2190,7 +2195,7 @@
       "Name": "Little Shop",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "32",
@@ -2206,7 +2211,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "34",
@@ -2214,7 +2219,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "35",
@@ -2222,7 +2227,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "36",
@@ -2244,9 +2249,9 @@
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 119
     },
     {
       "ID": "39",
@@ -2262,7 +2267,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "40",
@@ -2310,7 +2315,7 @@
       "Name": "Extraordinary!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "46",
@@ -2326,7 +2331,7 @@
       "Name": "Crowned",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "48",
@@ -2342,7 +2347,7 @@
       "Name": "Final Showdown",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "5",
@@ -2350,7 +2355,7 @@
       "Name": "Well Rested",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "50",
@@ -2358,7 +2363,7 @@
       "Name": "Spot of Tea?",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "6",
@@ -2366,7 +2371,7 @@
       "Name": "Going Home",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "7",
@@ -2397,7 +2402,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 911,
+      "Progressed": 912,
       "Completed": 63
     }
   ],
@@ -2405,8 +2410,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:33:49.2786351+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:06:23.5501367+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:24:53.1481027+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:33:49.2786894+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:57:44.9940409+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:06:23.5501795+00:00"
 }

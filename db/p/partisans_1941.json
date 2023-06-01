@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 963,
+  "EOS_Progressed": 964,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2023-06-01T02:50:19.8390633+00:00",
       "NumProgressed": 963,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T04:06:43.2818498+00:00",
+      "NumProgressed": 964,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -921,7 +926,7 @@
       "Name": "E1M1",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Everyone_is_here",
@@ -969,7 +974,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "High_noon",
@@ -993,7 +998,7 @@
       "Name": "Spice It Up",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "KillAllM2",
@@ -1057,7 +1062,7 @@
       "Name": "War Never Changes",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "We_were_not_here",
@@ -1080,15 +1085,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 963,
+      "Progressed": 964,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:34:11.3680772+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:06:43.2818492+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:27:21.2669446+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:34:11.3681027+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:00:04.5281583+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:06:43.2818691+00:00"
 }

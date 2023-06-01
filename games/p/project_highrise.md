@@ -13,8 +13,8 @@
 | It's Technical | 35.00% | ~66 |
 | Need a Consult | 34.00% | ~65 |
 | Upgrade Unlock | 34.00% | ~65 |
+| Delegate Maintenance | 33.00% | ~63 |
 | Proper Walls | 32.00% | ~61 |
-| Delegate Maintenance | 32.00% | ~61 |
 | Destination Destiny | 28.00% | ~53 |
 | Happy Tenants | 25.00% | ~48 |
 | Smooth Service | 24.00% | ~46 |

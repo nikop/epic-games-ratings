@@ -4042,10 +4042,10 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89351,
+  "EOS_Progressed": 89352,
   "EOS_Completed": 1905,
-  "EOS_NewPlayers": 802,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 798,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8182,6 +8182,11 @@
       "Time": "2023-06-01T03:34:28.6271939+00:00",
       "NumProgressed": 89351,
       "NumCompleted": 1905
+    },
+    {
+      "Time": "2023-06-01T04:07:18.9026591+00:00",
+      "NumProgressed": 89352,
+      "NumCompleted": 1905
     }
   ],
   "TotalAchievements": 493,
@@ -9065,7 +9070,7 @@
       "Name": "Checkmate",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_completed_1204",
@@ -12129,28 +12134,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55625,
+      "Progressed": 55626,
       "Completed": 2748
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89351,
+      "Progressed": 89352,
       "Completed": 1905
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-31T15:57:47.7873175+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:34:28.6271933+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:07:18.9026586+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:25:45.1039247+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:34:28.6299183+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:58:34.1927145+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:07:18.9048801+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 780,
   "RatingHistory": [
     {
@@ -786,6 +786,12 @@
     {
       "Time": "2023-05-31T03:57:28.8493973+00:00",
       "Rating": 4.57,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-06-01T03:57:59.7796688+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 35
     }
@@ -4984,9 +4990,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2023-05-31T03:57:28.8493971+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:33:58.3960017+00:00",
+  "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:06:31.5661465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:27.8583755+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:25:08.498314+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:33:58.3960624+00:00"
+  "LastUpdate_Ratings": "2023-06-01T03:57:59.7796691+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:06:31.5661932+00:00"
 }

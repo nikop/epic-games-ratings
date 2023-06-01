@@ -13,11 +13,11 @@
 | No, Thanks! | 53.00% | ~292 |
 | Time Flies | 51.00% | ~281 |
 | The Prince in Heels | 51.00% | ~281 |
-| Right On Time | 49.00% | ~270 |
+| Right On Time | 50.00% | ~276 |
 | The Harder They Fall | 49.00% | ~270 |
 | Fast Learner | 48.00% | ~264 |
+| Immaculate Aim | 48.00% | ~264 |
 | Make Up For Lost Time | 47.00% | ~259 |
-| Immaculate Aim | 47.00% | ~259 |
 | Breaking Down Barriers | 43.00% | ~237 |
 | The Steel Shadow | 37.00% | ~204 |
 | Golem Chaser | 36.00% | ~198 |

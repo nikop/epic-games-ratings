@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1971,
+  "EOS_Progressed": 1972,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2092,6 +2092,11 @@
       "Time": "2023-06-01T03:34:00.8398193+00:00",
       "NumProgressed": 1971,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T04:06:33.6623754+00:00",
+      "NumProgressed": 1972,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2271,7 +2276,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2670,13 +2675,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1922,
+      "Progressed": 1923,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1971,
+      "Progressed": 1972,
       "Completed": 2
     }
   ],
@@ -2684,8 +2689,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-06-01T03:34:00.8398186+00:00",
+  "LastChanged_Achievements": "2023-06-01T04:06:33.6623745+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:29:04.8783582+00:00",
-  "LastUpdate_Achievements": "2023-06-01T03:34:00.839903+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:01:45.0757161+00:00",
+  "LastUpdate_Achievements": "2023-06-01T04:06:33.6624363+00:00"
 }

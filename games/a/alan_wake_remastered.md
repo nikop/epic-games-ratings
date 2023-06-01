@@ -1,32 +1,32 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.56 (Ranked 451)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 26.00% | ~13,232 |
-| Let There Be Light | 21.00% | ~10,688 |
-| Float Like a Butterfly | 20.00% | ~10,179 |
-| Nordic Walking | 16.00% | ~8,143 |
-| Bright Falls' Finest | 15.00% | ~7,634 |
-| Under a Thin Layer of Skin | 13.00% | ~6,616 |
-| Park Ranger | 11.00% | ~5,598 |
-| Paging Mr. Wake | 11.00% | ~5,598 |
-| Back! Back, I Say! | 10.00% | ~5,089 |
-| Finders Keepers | 10.00% | ~5,089 |
-| Wheels Within Wheels | 9.00% | ~4,580 |
-| They're Heeeeeere! | 9.00% | ~4,580 |
-| Sound and Fury | 9.00% | ~4,580 |
-| Missed by a Mile | 9.00% | ~4,580 |
-| Damn Good Cup of Coffee | 9.00% | ~4,580 |
+| Follow the Light | 26.00% | ~13,235 |
+| Let There Be Light | 21.00% | ~10,690 |
+| Float Like a Butterfly | 20.00% | ~10,181 |
+| Nordic Walking | 16.00% | ~8,144 |
+| Bright Falls' Finest | 15.00% | ~7,635 |
+| Under a Thin Layer of Skin | 13.00% | ~6,617 |
+| Park Ranger | 11.00% | ~5,599 |
+| Paging Mr. Wake | 11.00% | ~5,599 |
+| Back! Back, I Say! | 10.00% | ~5,090 |
+| Finders Keepers | 10.00% | ~5,090 |
+| Wheels Within Wheels | 9.00% | ~4,581 |
+| They're Heeeeeere! | 9.00% | ~4,581 |
+| Sound and Fury | 9.00% | ~4,581 |
+| Missed by a Mile | 9.00% | ~4,581 |
+| Damn Good Cup of Coffee | 9.00% | ~4,581 |
 | Heavy Metal | 8.00% | ~4,072 |
 | Iron Horse | 8.00% | ~4,072 |
 | The Six-Gun Scribe | 8.00% | ~4,072 |
 | Collateral Carnage | 8.00% | ~4,072 |
 | Come One, Come All | 8.00% | ~4,072 |
-| A Friend in Need | 8.00% | ~1,149 |
+| A Friend in Need | 8.00% | ~1,150 |
 | Perchance to Dream | 7.00% | ~3,563 |
 | Gatekeeper | 7.00% | ~3,563 |
 | It's Not Just a Typewriter Brand | 7.00% | ~3,563 |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~862 |
 | Tornado Wrangler | 5.00% | ~2,545 |
 | What Light Through Yonder Window | 5.00% | ~2,545 |
-| Ding! | 5.00% | ~718 |
+| Ding! | 5.00% | ~719 |
 | Drink 'Em Both Up | 4.00% | ~2,036 |
 | Departure | 4.00% | ~2,036 |
 | Hardboiled Writer | 4.00% | ~2,036 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~51 |
 | No Punctuation | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,894 (Ranked 76)  
+Progressed: 50,903 (Ranked 76)  
 Completed: 48 (0.09%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 48 (0.09%) (Ranked 166)
 | 2023-05-29 | 50,091 | 48 |
 | 2023-05-30 | 50,452 | 48 |
 | 2023-05-31 | 50,829 | 48 |
-| 2023-06-01 | 50,894 | 48 |
+| 2023-06-01 | 50,903 | 48 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
