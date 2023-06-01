@@ -32,12 +32,12 @@
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.95% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
-| 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
-| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
+| 34 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.92% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.80% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 41 | [The Complex](games/t/the_complex.md) | 3.38% |
@@ -58,9 +58,9 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.53% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.17% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.17% |
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 62 | [JARS](games/j/jars.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
@@ -70,7 +70,7 @@
 | 68 | [Night Book](games/n/night_book.md) | 1.60% |
 | 69 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
 | 69 | [Somerville](games/s/somerville.md) | 1.59% |
-| 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.59% |
+| 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
 | 72 | [Frogun](games/f/frogun.md) | 1.52% |
 | 73 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 74 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
