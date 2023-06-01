@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -30,9 +30,154 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 18,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "combat_slammer_friendly_fire",
+      "SetID": "7e96e7l",
+      "Name": "Slam-KABAM",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "combat_thought_block_friendly_fire",
+      "SetID": "7e96e7l",
+      "Name": "Heavy Thoughts",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fluff_arguing_opinions_conviction_lane",
+      "SetID": "7e96e7l",
+      "Name": "Patient Listener",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fluff_cerebrum_cider_priciple_square",
+      "SetID": "7e96e7l",
+      "Name": "A heavy thinker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fluff_hit_by_coco_bulb",
+      "SetID": "7e96e7l",
+      "Name": "Ouch, that hurt!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fluff_hit_worker_priciple_square",
+      "SetID": "7e96e7l",
+      "Name": "Whac-a-worker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fluff_no_wrong_turns_ethics_maze",
+      "SetID": "7e96e7l",
+      "Name": "You\u0027re a-MAZE-ing!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fluff_score_goal",
+      "SetID": "7e96e7l",
+      "Name": "GOAAAAAAAAAL!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "shards_all_remembranes",
+      "SetID": "7e96e7l",
+      "Name": "Come full circle",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "shards_all_shards_all_levels",
+      "SetID": "7e96e7l",
+      "Name": "Memory Completionist",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "shards_one_remembrane",
+      "SetID": "7e96e7l",
+      "Name": "Remembering of the past",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_conviction_lane",
+      "SetID": "7e96e7l",
+      "Name": "Fight like an idiot",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_dance_off",
+      "SetID": "7e96e7l",
+      "Name": "Dance like an idiot",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_end_credits",
+      "SetID": "7e96e7l",
+      "Name": "I\u0027m Back at the Surface now",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_ethics_maze",
+      "SetID": "7e96e7l",
+      "Name": "Repair the Mind Validation Machine",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_jester_land",
+      "SetID": "7e96e7l",
+      "Name": "Flee like an idiot",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_outer_cerebrum",
+      "SetID": "7e96e7l",
+      "Name": "Black Hog Down",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_principle_square",
+      "SetID": "7e96e7l",
+      "Name": "Elementary, My Dear Dusty",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7e96e7l",
@@ -45,8 +190,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-06-01T08:04:11.5428116+00:00",
+  "LastChanged_Achievements": "2023-06-01T09:03:54.9178065+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.0282022+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:00:42.8893136+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:04:11.5428168+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:59:43.8739815+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:03:54.9178192+00:00"
 }

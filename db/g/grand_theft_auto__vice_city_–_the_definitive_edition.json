@@ -370,7 +370,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7377,
+  "EOS_Progressed": 7380,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 2,
@@ -3100,6 +3100,11 @@
       "Time": "2023-06-01T08:03:12.9222993+00:00",
       "NumProgressed": 7377,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-01T09:02:26.5041488+00:00",
+      "NumProgressed": 7380,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3215,7 +3220,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2878
     },
     {
       "ID": "ACH15",
@@ -3239,7 +3244,7 @@
       "Name": "Gun for Hire",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH18",
@@ -3271,15 +3276,15 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "ACH22",
       "SetID": "9llo822",
       "Name": "Life of the Party",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH23",
@@ -3295,7 +3300,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH25",
@@ -3303,7 +3308,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH26",
@@ -3343,7 +3348,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH31",
@@ -3382,7 +3387,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7377,
+      "Progressed": 7380,
       "Completed": 25
     }
   ],
@@ -3390,8 +3395,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-01T03:58:50.7566533+00:00",
-  "LastChanged_Achievements": "2023-06-01T08:03:12.9222986+00:00",
+  "LastChanged_Achievements": "2023-06-01T09:02:26.5041484+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-06-01T07:58:41.9625405+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:03:12.9223469+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:58:09.749592+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:02:26.5041895+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "apico-f6e18b",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-20T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.0701447+00:00",
   "LastChanged": "2023-03-31T05:57:50.0701448+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.077021+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:01:15.7914084+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:03:22.4581725+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:00:10.2724988+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:03:16.0389757+00:00"
 }

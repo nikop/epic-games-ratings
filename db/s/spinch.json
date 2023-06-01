@@ -4,7 +4,7 @@
   "ProductSlug": "spinch-239b03",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-07T03:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.6589612+00:00",
   "LastChanged": "2023-03-31T05:58:17.6589613+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:46.747234+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:01:14.1929624+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:01:29.6514925+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:00:08.4450993+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:00:23.4068505+00:00"
 }

@@ -23,7 +23,7 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 23.00% | ~70 |
 | Traveller | 22.00% | ~67 |
 | Nahua Seeker | 22.00% | ~67 |
-| Roll to Save | 19.00% | ~58 |
+| Roll to Save | 20.00% | ~61 |
 | Red Flag Pirate | 17.00% | ~52 |
 | Veteran Explorer | 17.00% | ~52 |
 | Iron Man | 15.00% | ~45 |

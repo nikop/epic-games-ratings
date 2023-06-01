@@ -25,8 +25,8 @@
 | Cataclysm | 8.00% | ~11 |
 | Reunited | 8.00% | ~11 |
 | So Close | 7.00% | ~9 |
+| Final Charge | 7.00% | ~9 |
 | Transformers, cubes in disguise | 6.00% | ~8 |
-| Final Charge | 6.00% | ~8 |
 | Summer Luvin' | 4.00% | ~5 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |

@@ -5,7 +5,7 @@ Rating: 4.15 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,783 |
+| First Day on the Job | 83.00% | ~4,784 |
 | Disposing of the Evidence | 36.00% | ~2,075 |
 | Without a Scratch | 32.00% | ~1,844 |
 | Wreckless Driving | 27.00% | ~1,556 |
@@ -31,11 +31,11 @@ Rating: 4.15 (Ranked 850)
 | Man Toyz | 0.90% | ~52 |
 | Going Rogue | 0.90% | ~52 |
 | Wheels Up | 0.80% | ~46 |
-| Furious First Responder | 0.70% | ~40 |
+| Furious First Responder | 0.80% | ~46 |
 | Is That All You've Got? | 0.70% | ~40 |
 | King of Liberty City | 0.50% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,763 (Ranked 123)  
+Progressed: 5,764 (Ranked 123)  
 Completed: 28 (0.49%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 28 (0.49%) (Ranked 108)
 | 2023-05-29 | 5,648 | 26 |
 | 2023-05-30 | 5,695 | 27 |
 | 2023-05-31 | 5,743 | 27 |
-| 2023-06-01 | 5,763 | 28 |
+| 2023-06-01 | 5,764 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

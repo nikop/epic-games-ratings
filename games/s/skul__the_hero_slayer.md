@@ -6,19 +6,19 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,003 |
-| What should I buy? | 83.00% | ~6,250 |
+| The Legend Begins | 93.00% | ~7,004 |
+| What should I buy? | 83.00% | ~6,251 |
 | Focus! | 62.00% | ~4,669 |
 | Rescued Elder Ent | 62.00% | ~4,669 |
-| The End of the Gold Mane Knights | 47.00% | ~3,539 |
+| The End of the Gold Mane Knights | 47.00% | ~3,540 |
 | Rules of Etiquette | 39.00% | ~2,937 |
-| False Goddess, Disappear | 38.00% | ~2,861 |
+| False Goddess, Disappear | 38.00% | ~2,862 |
 | Quick Movements | 33.00% | ~2,485 |
 | Inventory Management | 33.00% | ~2,485 |
 | The Fall of the Leonia Order | 29.00% | ~2,184 |
 | The Hero Killer | 27.00% | ~2,033 |
 | Go Home... | 26.00% | ~1,958 |
-| The Final Battle of the First Hero | 25.00% | ~1,882 |
+| The Final Battle of the First Hero | 25.00% | ~1,883 |
 | Brain at Full Throttle | 22.00% | ~1,657 |
 | Rookies Welcome | 20.00% | ~1,506 |
 | Deadly Power | 15.00% | ~1,130 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~75 |
 | Cold-Blooded | 0.80% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,530 (Ranked 112)  
+Progressed: 7,531 (Ranked 112)  
 Completed: 11 (0.15%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,14 +69,14 @@ Completed: 11 (0.15%) (Ranked 150)
 | 2023-05-29 | 7,495 | 11 |
 | 2023-05-30 | 7,512 | 11 |
 | 2023-05-31 | 7,526 | 11 |
-| 2023-06-01 | 7,530 | 11 |
+| 2023-06-01 | 7,531 | 11 |
 ## Awards
-Max (Great for Beginners): 118  (Ranked 307)  
-Sum: 873 (Ranked 243)  
-Diff (max vs sum): 64  
+Max (Great for Beginners): 119  (Ranked 305)  
+Sum: 874 (Ranked 242)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 118 |
+| This game is Great for Beginners | 119 |
 | This game has Diverse Characters | 113 |
 | This game is Highly Recommended | 107 |
 | This game is Extremely Fun | 106 |
@@ -187,3 +187,4 @@ Diff (max vs sum): 64
 | 2023-05-27 | 4.71 | - | 113 | 754 |
 | 2023-05-29 | 4.71 | - | 113 | 755 |
 | 2023-05-30 | 4.71 | - | 118 | 873 |
+| 2023-06-01 | 4.71 | - | 119 | 874 |

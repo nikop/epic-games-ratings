@@ -1128,9 +1128,9 @@
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_019",
@@ -1177,8 +1177,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-01T08:05:52.5430893+00:00",
+  "LastChanged_Achievements": "2023-06-01T09:05:26.0851848+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-06-01T07:58:25.7039295+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:05:52.5431135+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:57:55.4055383+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:05:26.0852044+00:00"
 }

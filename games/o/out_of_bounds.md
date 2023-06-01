@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noisy saturation | 44.00% | ~12 |
-| Compiling (15)... | 41.00% | ~11 |
-| Almost there! | 41.00% | ~11 |
-| EnergyBackup >= 15 | 37.00% | ~10 |
-| Package ready! | 37.00% | ~10 |
-| Errors found you | 37.00% | ~10 |
-| No AI, only humans | 33.00% | ~9 |
-| Gamedev level 15 | 33.00% | ~9 |
-| SoundsFun = 15; | 33.00% | ~9 |
-| The dev life | 33.00% | ~9 |
-| 64 bugs fixed | 30.00% | ~8 |
-| Pro-dev | 26.00% | ~7 |
-| Two thirds is all I need | 26.00% | ~7 |
-| Half the time, half the fun | 26.00% | ~7 |
-| SoundsFun = 30; | 26.00% | ~7 |
-| 128 bugs fixed | 22.00% | ~6 |
-| Double-double | 22.00% | ~6 |
-| Going nuts! | 22.00% | ~6 |
-| Compiling (30)... | 19.00% | ~5 |
-| Compiling (45)... | 19.00% | ~5 |
-| Gamedev level 30 | 19.00% | ~5 |
-| Graphics outdated | 19.00% | ~5 |
-| SoundsFun = 45; | 19.00% | ~5 |
-| 192 bugs fixed | 15.00% | ~4 |
-| Guru-dev | 15.00% | ~4 |
-| Going under... | 15.00% | ~4 |
-| What am I doing?! | 15.00% | ~4 |
-| Gamedev level 45 | 15.00% | ~4 |
-| EnergyBackup >= 30 | 15.00% | ~4 |
-| EnergyBackup >= 45 | 15.00% | ~4 |
+| Noisy saturation | 43.00% | ~12 |
+| Compiling (15)... | 39.00% | ~11 |
+| Almost there! | 39.00% | ~11 |
+| No AI, only humans | 36.00% | ~10 |
+| EnergyBackup >= 15 | 36.00% | ~10 |
+| Package ready! | 36.00% | ~10 |
+| Errors found you | 36.00% | ~10 |
+| Gamedev level 15 | 32.00% | ~9 |
+| SoundsFun = 15; | 32.00% | ~9 |
+| The dev life | 32.00% | ~9 |
+| 64 bugs fixed | 29.00% | ~8 |
+| Pro-dev | 25.00% | ~7 |
+| Two thirds is all I need | 25.00% | ~7 |
+| Half the time, half the fun | 25.00% | ~7 |
+| SoundsFun = 30; | 25.00% | ~7 |
+| 128 bugs fixed | 21.00% | ~6 |
+| Double-double | 21.00% | ~6 |
+| Going nuts! | 21.00% | ~6 |
+| Compiling (30)... | 18.00% | ~5 |
+| Compiling (45)... | 18.00% | ~5 |
+| Gamedev level 30 | 18.00% | ~5 |
+| Graphics outdated | 18.00% | ~5 |
+| SoundsFun = 45; | 18.00% | ~5 |
+| 192 bugs fixed | 14.00% | ~4 |
+| Guru-dev | 14.00% | ~4 |
+| Going under... | 14.00% | ~4 |
+| What am I doing?! | 14.00% | ~4 |
+| Gamedev level 45 | 14.00% | ~4 |
+| EnergyBackup >= 30 | 14.00% | ~4 |
+| EnergyBackup >= 45 | 14.00% | ~4 |
 | Damn, I'm GOOD! | 11.00% | ~3 |
 | Just in time! | 11.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 321)  
-Completed: 3 (11.11%) (Ranked 14)  
+Progressed: 28 (Ranked 320)  
+Completed: 3 (10.71%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,3 +47,4 @@ Completed: 3 (11.11%) (Ranked 14)
 | 2023-05-17 | 25 | 2 |
 | 2023-05-21 | 26 | 2 |
 | 2023-05-28 | 27 | 3 |
+| 2023-06-01 | 28 | 3 |

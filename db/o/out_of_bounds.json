@@ -2,9 +2,9 @@
   "ID": "9d471a5b5e574d0abc9358c92e836d5d",
   "Name": "Out of Bounds",
   "ProductSlug": "out-of-bounds-ade206",
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-13T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.11,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:55.9543072+00:00",
@@ -59,6 +59,11 @@
       "Time": "2023-05-28T16:05:43.8569775+00:00",
       "NumProgressed": 27,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-01T09:05:51.9543614+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 32,
@@ -76,7 +81,7 @@
       "ID": "BugsFixed_NoMiss",
       "SetID": "94h12fn",
       "Name": "Pro-dev",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -84,7 +89,7 @@
       "ID": "BugsFixed_Total_1",
       "SetID": "94h12fn",
       "Name": "64 bugs fixed",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -92,7 +97,7 @@
       "ID": "BugsFixed_Total_2",
       "SetID": "94h12fn",
       "Name": "128 bugs fixed",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -100,7 +105,7 @@
       "ID": "BugsFixed_Total_3",
       "SetID": "94h12fn",
       "Name": "192 bugs fixed",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -108,7 +113,7 @@
       "ID": "BugsFixed_UpDown",
       "SetID": "94h12fn",
       "Name": "Guru-dev",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -116,15 +121,15 @@
       "ID": "CheckCredits",
       "SetID": "94h12fn",
       "Name": "No AI, only humans",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CoffeeDouble",
       "SetID": "94h12fn",
       "Name": "Double-double",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -132,7 +137,7 @@
       "ID": "CoffeeHighPitch",
       "SetID": "94h12fn",
       "Name": "Going nuts!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -140,7 +145,7 @@
       "ID": "CoffeeLowPitch",
       "SetID": "94h12fn",
       "Name": "Going under...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -148,7 +153,7 @@
       "ID": "CoffeePitchShaders",
       "SetID": "94h12fn",
       "Name": "What am I doing?!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -156,7 +161,7 @@
       "ID": "Compilations_1",
       "SetID": "94h12fn",
       "Name": "Compiling (15)...",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -164,7 +169,7 @@
       "ID": "Compilations_2",
       "SetID": "94h12fn",
       "Name": "Compiling (30)...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -172,7 +177,7 @@
       "ID": "Compilations_3",
       "SetID": "94h12fn",
       "Name": "Compiling (45)...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -180,7 +185,7 @@
       "ID": "DevTime_1",
       "SetID": "94h12fn",
       "Name": "Gamedev level 15",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -188,7 +193,7 @@
       "ID": "DevTime_2",
       "SetID": "94h12fn",
       "Name": "Gamedev level 30",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -196,7 +201,7 @@
       "ID": "DevTime_3",
       "SetID": "94h12fn",
       "Name": "Gamedev level 45",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -204,7 +209,7 @@
       "ID": "EatFood_1",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 15",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -212,7 +217,7 @@
       "ID": "EatFood_2",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 30",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -220,7 +225,7 @@
       "ID": "EatFood_3",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 45",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -228,7 +233,7 @@
       "ID": "FinishGame_FirstTime",
       "SetID": "94h12fn",
       "Name": "Package ready!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -236,7 +241,7 @@
       "ID": "FinishGame_LessTime_1",
       "SetID": "94h12fn",
       "Name": "Two thirds is all I need",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -244,7 +249,7 @@
       "ID": "FinishGame_LessTime_2",
       "SetID": "94h12fn",
       "Name": "Half the time, half the fun",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 75,
       "UsersEstimate": 7
     },
@@ -260,7 +265,7 @@
       "ID": "LoseBy_Audio",
       "SetID": "94h12fn",
       "Name": "Noisy saturation",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -268,7 +273,7 @@
       "ID": "LoseBy_Graphics",
       "SetID": "94h12fn",
       "Name": "Graphics outdated",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -276,7 +281,7 @@
       "ID": "LoseBy_Mechanics",
       "SetID": "94h12fn",
       "Name": "Errors found you",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -284,7 +289,7 @@
       "ID": "LoseBy_Time",
       "SetID": "94h12fn",
       "Name": "Almost there!",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -292,7 +297,7 @@
       "ID": "SpeakerJumps_1",
       "SetID": "94h12fn",
       "Name": "SoundsFun = 15;",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -300,7 +305,7 @@
       "ID": "SpeakerJumps_2",
       "SetID": "94h12fn",
       "Name": "SoundsFun = 30;",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -308,7 +313,7 @@
       "ID": "SpeakerJumps_3",
       "SetID": "94h12fn",
       "Name": "SoundsFun = 45;",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -316,7 +321,7 @@
       "ID": "WatchEnding",
       "SetID": "94h12fn",
       "Name": "The dev life",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 9
     }
@@ -325,13 +330,13 @@
     {
       "ID": "94h12fn",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00",
-  "LastChanged_Achievements": "2023-06-01T08:06:27.7901268+00:00",
+  "LastChanged_Achievements": "2023-06-01T09:05:51.9543609+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:33.0253322+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:00:53.1554484+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:06:27.7901527+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:59:54.15102+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:05:51.954385+00:00"
 }

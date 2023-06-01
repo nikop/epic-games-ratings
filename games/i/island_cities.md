@@ -21,7 +21,7 @@
 | Monumental tribute | 19.00% | ~42 |
 | The beach is right there | 18.00% | ~40 |
 | Commuting | 18.00% | ~40 |
-| Le jardin magnifique | 16.00% | ~36 |
+| Le jardin magnifique | 17.00% | ~38 |
 | Aiming for a living and human city | 15.00% | ~33 |
 | City of dreams | 15.00% | ~33 |
 | Happy Christmas night! | 15.00% | ~33 |

@@ -4,7 +4,7 @@
   "ProductSlug": "battle-of-europe-00b917",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-16T05:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.2937265+00:00",
   "LastChanged": "2023-03-31T05:57:08.2937265+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.8575569+00:00",
-  "LastUpdate_Ratings": "2023-06-01T07:59:16.6893828+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:01:33.1497148+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:58:35.7415847+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:00:27.0601328+00:00"
 }

@@ -5,40 +5,40 @@ Rating: 4.29 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~856 |
-| Ranidaphobia | 72.00% | ~670 |
-| Aspiring Editor | 69.00% | ~642 |
-| Gun for Hire | 63.00% | ~586 |
-| I am the law! | 53.00% | ~493 |
+| First Blood | 92.00% | ~857 |
+| Ranidaphobia | 72.00% | ~671 |
+| Aspiring Editor | 69.00% | ~643 |
+| Gun for Hire | 63.00% | ~587 |
+| I am the law! | 53.00% | ~494 |
 | Lumberjack | 35.00% | ~326 |
-| Croaked | 31.00% | ~288 |
-| Limp Richard | 30.00% | ~279 |
-| Firestarter | 30.00% | ~279 |
-| From Darkness to Light | 29.00% | ~270 |
-| Exorcist | 27.00% | ~251 |
+| Croaked | 31.00% | ~289 |
+| Limp Richard | 30.00% | ~280 |
+| Firestarter | 30.00% | ~280 |
+| From Darkness to Light | 30.00% | ~280 |
+| Exorcist | 27.00% | ~252 |
 | Editor Adept | 26.00% | ~242 |
 | Giant Killer | 22.00% | ~205 |
-| The meaning of Kain | 21.00% | ~195 |
 | Sensei | 20.00% | ~186 |
+| The meaning of Kain | 20.00% | ~186 |
 | Technophobe | 17.00% | ~158 |
 | Recycler | 15.00% | ~140 |
 | Chain Killer | 13.00% | ~121 |
 | Hold The Line | 13.00% | ~121 |
-| Are you not entertained? | 12.00% | ~112 |
-| There Can Be Only One! | 12.00% | ~112 |
-| Ganglord | 11.00% | ~102 |
-| Jarhead | 11.00% | ~102 |
-| Newtonian Knockout | 11.00% | ~102 |
+| Are you not entertained? | 11.00% | ~103 |
+| Ganglord | 11.00% | ~103 |
+| Jarhead | 11.00% | ~103 |
+| Newtonian Knockout | 11.00% | ~103 |
+| Pushing Daisy | 11.00% | ~103 |
+| There Can Be Only One! | 11.00% | ~103 |
 | Infiltrator | 10.00% | ~93 |
-| Pushing Daisy | 10.00% | ~93 |
-| Experienced | 8.00% | ~74 |
-| Ruthless | 8.00% | ~74 |
+| Experienced | 8.00% | ~75 |
+| Ruthless | 8.00% | ~75 |
+| Endgame | 7.00% | ~65 |
 | The Watchers | 7.00% | ~65 |
-| Endgame | 6.00% | ~56 |
 | Savior | 6.00% | ~56 |
-| Chain Reaction | 5.00% | ~46 |
-| Commando | 5.00% | ~46 |
-| Dr Jones | 5.00% | ~46 |
+| Chain Reaction | 5.00% | ~47 |
+| Commando | 5.00% | ~47 |
+| Dr Jones | 5.00% | ~47 |
 | Chaos Theory | 4.00% | ~37 |
 | Curveball | 4.00% | ~37 |
 | Wipe Out | 4.00% | ~37 |
@@ -57,7 +57,7 @@ Rating: 4.29 (Ranked 765)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930 (Ranked 173)  
+Progressed: 932 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 815 | 0 |
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
-| 2023-06-01 | 930 | 0 |
+| 2023-06-01 | 932 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

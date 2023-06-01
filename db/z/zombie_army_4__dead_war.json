@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1551,7 +1551,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42526,
+  "EOS_Progressed": 42527,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -2931,6 +2931,11 @@
       "Time": "2023-06-01T03:34:24.1546354+00:00",
       "NumProgressed": 42526,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-01T09:05:54.0999796+00:00",
+      "NumProgressed": 42527,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2998,7 +3003,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11907
+      "UsersEstimate": 11908
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -3134,7 +3139,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26366
+      "UsersEstimate": 26367
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3158,7 +3163,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18711
+      "UsersEstimate": 18712
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3190,7 +3195,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20412
+      "UsersEstimate": 20413
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -3228,9 +3233,9 @@
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
       "SetID": "49kdhbg",
       "Name": "Double tap",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15310
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3246,7 +3251,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21263
+      "UsersEstimate": 21264
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3262,7 +3267,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15309
+      "UsersEstimate": 15310
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -3318,7 +3323,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15309
+      "UsersEstimate": 15310
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -3334,7 +3339,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18711
+      "UsersEstimate": 18712
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3342,7 +3347,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27642
+      "UsersEstimate": 27643
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3358,7 +3363,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7229
+      "UsersEstimate": 7230
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -3398,7 +3403,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27642
+      "UsersEstimate": 27643
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3462,22 +3467,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15309
+      "UsersEstimate": 15310
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42526,
+      "Progressed": 42527,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-01T06:00:27.8836731+00:00",
-  "LastChanged_Achievements": "2023-06-01T08:06:30.4160699+00:00",
+  "LastChanged_Achievements": "2023-06-01T09:05:54.0999794+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:00:32.7151805+00:00",
-  "LastUpdate_Achievements": "2023-06-01T08:06:30.4161396+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:59:36.4010177+00:00",
+  "LastUpdate_Achievements": "2023-06-01T09:05:54.1000457+00:00"
 }

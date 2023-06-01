@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 60.00% | ~200 |
-| To Hell In A Handcart | 60.00% | ~200 |
+| Read Between The Lines | 60.00% | ~201 |
+| To Hell In A Handcart | 60.00% | ~201 |
 | High Profile | 52.00% | ~174 |
-| Whispers In The Dark | 50.00% | ~167 |
+| Whispers In The Dark | 50.00% | ~168 |
 | Fond Memories | 46.00% | ~154 |
-| History Check | 45.00% | ~150 |
-| A Method To His Madness | 45.00% | ~150 |
-| Lock, Stock, And Barrel | 42.00% | ~140 |
+| A Method To His Madness | 45.00% | ~151 |
+| History Check | 44.00% | ~147 |
+| Lock, Stock, And Barrel | 41.00% | ~137 |
 | Gaze Into The Abyss | 41.00% | ~137 |
 | The New World | 40.00% | ~134 |
-| Open Sesame | 39.00% | ~130 |
-| Sticky Fingers | 39.00% | ~130 |
+| Open Sesame | 39.00% | ~131 |
+| Sticky Fingers | 39.00% | ~131 |
 | Knives Out | 38.00% | ~127 |
 | Land, Ho! | 38.00% | ~127 |
 | Back In The Saddle | 37.00% | ~124 |
-| No Man Is An Island | 36.00% | ~120 |
+| No Man Is An Island | 36.00% | ~121 |
 | At Wits' End | 35.00% | ~117 |
-| Going Once... | 33.00% | ~110 |
+| Going Once... | 33.00% | ~111 |
 | Bookworm | 32.00% | ~107 |
 | Up In Flames | 32.00% | ~107 |
 | Fhtagn! | 32.00% | ~107 |
@@ -30,11 +30,11 @@
 | No Stone Unturned | 27.00% | ~90 |
 | Curiosity Killed The Cat | 17.00% | ~57 |
 | Read It And Weep | 17.00% | ~57 |
-| Big Breakthrough | 16.00% | ~53 |
+| Big Breakthrough | 16.00% | ~54 |
 | Reawakened | 6.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334 (Ranked 217)  
-Completed: 13 (3.89%) (Ranked 36)  
+Progressed: 335 (Ranked 216)  
+Completed: 13 (3.88%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 13 (3.89%) (Ranked 36)
 | 2023-05-29 | 314 | 13 |
 | 2023-05-30 | 325 | 13 |
 | 2023-05-31 | 333 | 13 |
-| 2023-06-01 | 334 | 13 |
+| 2023-06-01 | 335 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

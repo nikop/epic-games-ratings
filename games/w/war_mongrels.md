@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter I | 31.00% | ~93 |
 | Consequences | 29.00% | ~87 |
 | Opportunities | 28.00% | ~84 |
-| The Horror | 26.00% | ~78 |
+| The Horror | 27.00% | ~81 |
 | Collectibles of Chapter II | 24.00% | ~72 |
 | The Difference | 23.00% | ~69 |
 | Vengeance | 22.00% | ~66 |
