@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -110,7 +110,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -2455,6 +2455,11 @@
       "Time": "2023-05-31T23:06:54.0604814+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T08:06:18.8575143+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2674,7 +2679,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "gearenchanting",
@@ -2698,7 +2703,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "herewegoagain",
@@ -3026,7 +3031,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "warmachinesarmy",
@@ -3058,14 +3063,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 1
     }
   ],
@@ -3073,8 +3078,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-31T02:19:10.2971852+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:06:41.3447738+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:06:18.8575139+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:58:25.405129+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:06:41.3448632+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:58:23.7301832+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:06:18.8576032+00:00"
 }

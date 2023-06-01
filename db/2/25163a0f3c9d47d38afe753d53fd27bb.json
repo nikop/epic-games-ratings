@@ -2,7 +2,7 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 23,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 6.37,
+  "EOS_Completed_Percentage": 6.35,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -896,6 +896,11 @@
       "Time": "2023-06-01T05:04:35.4535304+00:00",
       "NumProgressed": 377,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-01T08:03:50.819603+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 30,
@@ -907,7 +912,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "LEVEL_002",
@@ -931,7 +936,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "LEVEL_005",
@@ -979,7 +984,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_011",
@@ -995,7 +1000,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_013",
@@ -1009,9 +1014,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_015",
@@ -1146,14 +1151,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:04:14.4752222+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:03:50.8196022+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:57:15.6749382+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:04:14.4752453+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:57:14.5285354+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:03:50.81963+00:00"
 }

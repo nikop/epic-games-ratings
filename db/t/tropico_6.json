@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3264,
+  "EOS_Progressed": 3268,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3335,6 +3335,11 @@
       "Time": "2023-06-01T06:06:48.49592+00:00",
       "NumProgressed": 3264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T08:01:27.5683557+00:00",
+      "NumProgressed": 3268,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3354,7 +3359,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -3402,7 +3407,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3418,7 +3423,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -3426,7 +3431,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -3442,7 +3447,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1503
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3450,7 +3455,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3458,7 +3463,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -3466,7 +3471,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3496,9 +3501,9 @@
       "ID": "ACH_GOVERNATOR",
       "SetID": "1p8ab95",
       "Name": "The Governator",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3506,7 +3511,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3530,7 +3535,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -3538,7 +3543,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_MYWAYS",
@@ -3602,7 +3607,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1569
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3618,7 +3623,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3665,15 +3670,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3264,
+      "Progressed": 3268,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:48.4959196+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:01:27.568355+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-06-01T07:01:13.0849459+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:48.4959553+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:00:52.1848743+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:01:27.5684066+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -188,9 +188,9 @@
       "ID": "BADGE_BRILLIANT_DAY",
       "SetID": "ak6pfjk",
       "Name": "Brilliant Day",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
@@ -340,9 +340,9 @@
       "ID": "BADGE_CHAMPIONS_KILL",
       "SetID": "ak6pfjk",
       "Name": "On the Crest of a Wave",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL_2",
@@ -524,9 +524,9 @@
       "ID": "BADGE_TOWER_UPGRADE",
       "SetID": "ak6pfjk",
       "Name": "Foreman of Darkness",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "BADGE_TOWER_UPGRADE_2",
@@ -549,8 +549,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:02:27.9098681+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:02:13.5661634+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:17.2443176+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:59:15.057614+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:02:27.9099068+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:59:04.5849547+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:02:13.5662106+00:00"
 }

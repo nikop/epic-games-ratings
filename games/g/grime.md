@@ -6,15 +6,15 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 23.00% | ~130 |
-| Imprint | 23.00% | ~130 |
-| The Hunt | 20.00% | ~113 |
-| Ravenous | 20.00% | ~113 |
+| Taste | 23.00% | ~131 |
+| Imprint | 23.00% | ~131 |
+| The Hunt | 20.00% | ~114 |
+| Ravenous | 20.00% | ~114 |
 | Weeper | 18.00% | ~102 |
-| Devourer | 14.00% | ~79 |
+| Devourer | 14.00% | ~80 |
 | Harmless | 12.00% | ~68 |
 | Silenced Whispers | 12.00% | ~68 |
-| Scion | 11.00% | ~16 |
+| Scion | 11.00% | ~17 |
 | Yank | 11.00% | ~62 |
 | Glare | 10.00% | ~15 |
 | Sharpened Vessel | 10.00% | ~57 |
@@ -40,7 +40,7 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Weakness | 3.00% | ~17 |
-| Listen | 3.00% | ~4 |
+| Listen | 3.00% | ~5 |
 | Bloodhunter | 2.00% | ~11 |
 | Breath | 2.00% | ~11 |
 | Generous | 2.00% | ~11 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 567 (Ranked 194)  
+Progressed: 568 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-27 | 559 | 0 |
 | 2023-05-29 | 562 | 0 |
 | 2023-05-30 | 566 | 0 |
-| 2023-06-01 | 567 | 0 |
+| 2023-06-01 | 568 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

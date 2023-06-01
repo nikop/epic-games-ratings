@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1248,10 +1248,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3759,
       "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-06-01T08:00:26.5853282+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3761,
+      "NumberOfAwardsMax": 2269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3759,
+  "NumberOfAwards": 3761,
   "NumberOfAwardsMax": 2269,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1277,7 +1283,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 176
+      "Count": 178
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1316,9 +1322,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63070,
+  "EOS_Progressed": 63076,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4581,6 +4587,11 @@
       "Time": "2023-06-01T07:07:11.5162895+00:00",
       "NumProgressed": 63070,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-06-01T08:06:28.9576384+00:00",
+      "NumProgressed": 63076,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -4672,7 +4683,7 @@
       "Name": "End of an Era",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "APPLY_STATUS",
@@ -4768,7 +4779,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -4816,7 +4827,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "FREEZE_1_5",
@@ -4896,7 +4907,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "HARLEY_2",
@@ -4968,7 +4979,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4984,7 +4995,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "MYSTERY_02",
@@ -5048,7 +5059,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -5079,22 +5090,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63070,
+      "Progressed": 63076,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33350,
+      "Progressed": 33356,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-31T06:00:25.9069511+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:07:11.5162889+00:00",
+  "LastChanged": "2023-06-01T08:00:26.5853279+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:06:28.9576379+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-01T07:00:38.8269719+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:07:11.516358+00:00"
+  "LastUpdate_Ratings": "2023-06-01T08:00:26.5853291+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:06:28.9577165+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2812,
+  "EOS_Progressed": 2814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1463,6 +1463,11 @@
       "Time": "2023-06-01T07:06:49.3043012+00:00",
       "NumProgressed": 2812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T08:06:26.984291+00:00",
+      "NumProgressed": 2814,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1562,7 +1567,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1642,7 +1647,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "Kills_Bleed",
@@ -1666,7 +1671,7 @@
       "Name": "Executioner",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Kills_Exterminator",
@@ -1698,7 +1703,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "Kills_Streak",
@@ -1722,7 +1727,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1898,7 +1903,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1914,7 +1919,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "SkilledKnight",
@@ -1945,21 +1950,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2812,
+      "Progressed": 2814,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2812,
+      "Progressed": 2814,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:06:49.3043007+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:06:26.9842907+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:59:19.2250133+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:06:49.3043602+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:59:06.7332717+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:06:26.9843547+00:00"
 }

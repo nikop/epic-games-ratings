@@ -30,6 +30,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.30% | ~268 |
 | Terror in the Dark | 0.30% | ~268 |
 | A Mysterious Summons | 0.30% | ~268 |
+| Building Trust | 0.30% | ~268 |
 | Unearthed Evil | 0.30% | ~268 |
 | The Crumbling Temple | 0.30% | ~268 |
 | Exploring Port Nyanzaru | 0.30% | ~268 |
@@ -65,7 +66,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.20% | ~179 |
 | Low Initiative | 0.20% | ~179 |
 | Street War | 0.20% | ~179 |
-| Building Trust | 0.20% | ~179 |
 | March of the Undead | 0.20% | ~179 |
 | Wisdom Check | 0.20% | ~179 |
 | Sleuth It Out | 0.20% | ~179 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,360 (Ranked 61)  
+Progressed: 89,364 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,360 | 1,905 |
+| 2023-06-01 | 89,364 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,008 (Ranked 37)  

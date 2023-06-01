@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -268,11 +268,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5759,
-  "EOS_Completed": 27,
-  "EOS_NewPlayers": 442,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Progressed": 5763,
+  "EOS_Completed": 28,
+  "EOS_NewPlayers": 443,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -2618,6 +2618,11 @@
       "Time": "2023-06-01T07:03:29.6455714+00:00",
       "NumProgressed": 5759,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-01T08:03:25.1155404+00:00",
+      "NumProgressed": 5763,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -2629,7 +2634,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4780
+      "UsersEstimate": 4783
     },
     {
       "ID": "ACH02",
@@ -2637,7 +2642,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH03",
@@ -2653,7 +2658,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2075
     },
     {
       "ID": "ACH05",
@@ -2669,7 +2674,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH07",
@@ -2693,7 +2698,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH10",
@@ -2701,7 +2706,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "ACH11",
@@ -2733,7 +2738,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH15",
@@ -2741,7 +2746,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH16",
@@ -2749,7 +2754,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH17",
@@ -2757,7 +2762,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACH18",
@@ -2813,7 +2818,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH25",
@@ -2821,7 +2826,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH26",
@@ -2860,16 +2865,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5759,
-      "Completed": 27
+      "Progressed": 5763,
+      "Completed": 28
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-01T04:58:26.2683164+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:03:29.6455707+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:03:25.1155394+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:58:16.9614461+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:03:29.6456051+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:58:16.3182385+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:03:25.1155741+00:00"
 }

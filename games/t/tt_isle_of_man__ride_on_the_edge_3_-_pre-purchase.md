@@ -20,6 +20,7 @@
 | Tailor-Made for Two | 5.00% | ~3 |
 | Lone Wolf | 5.00% | ~3 |
 | Déjà-Vu | 3.00% | ~2 |
+| Golden Ratio | 3.00% | ~2 |
 | POI Hunter | 3.00% | ~2 |
 | The Joy of Discovery | 3.00% | ~2 |
 | Gotta Go Fast! | 3.00% | ~2 |
@@ -35,7 +36,6 @@
 | Made Mother Proud | 3.00% | ~2 |
 | Winner Winner Chicken Dinner | 3.00% | ~2 |
 | Tailor-Made | 3.00% | ~2 |
-| Golden Ratio | 2.00% | ~1 |
 | First Things First | 2.00% | ~1 |
 | Made Father Proud | 2.00% | ~1 |
 | Win-Win! | 2.00% | ~1 |

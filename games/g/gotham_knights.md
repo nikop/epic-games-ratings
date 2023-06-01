@@ -6,10 +6,10 @@ Rating: 4.17 (Ranked 840)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 3.00% | ~1,892 |
-| To the Victor Go the Spoils | 2.00% | ~1,261 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,261 |
-| Knighthood | 2.00% | ~1,261 |
-| Loose Ends | 2.00% | ~1,261 |
+| To the Victor Go the Spoils | 2.00% | ~1,262 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,262 |
+| Knighthood | 2.00% | ~1,262 |
+| Loose Ends | 2.00% | ~1,262 |
 | The Batman Family | 1.00% | ~631 |
 | Protector of Gotham | 1.00% | ~631 |
 | Something in the Clay | 1.00% | ~631 |
@@ -32,9 +32,9 @@ Rating: 4.17 (Ranked 840)
 | Voiceless | 0.80% | ~505 |
 | Seeking Asylum | 0.80% | ~505 |
 | Gotham Knight | 0.80% | ~505 |
-| End of an Era | 0.70% | ~441 |
-| Bulldozed | 0.70% | ~441 |
-| Gotham City Confidential | 0.70% | ~441 |
+| End of an Era | 0.70% | ~442 |
+| Bulldozed | 0.70% | ~442 |
+| Gotham City Confidential | 0.70% | ~442 |
 | Out of Their League | 0.60% | ~378 |
 | Drone You Out | 0.60% | ~378 |
 | Solid Alibi | 0.50% | ~315 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 840)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,070 (Ranked 70)  
+Progressed: 63,076 (Ranked 70)  
 Completed: 92 (0.15%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,10 +109,10 @@ Completed: 92 (0.15%) (Ranked 150)
 | 2023-05-29 | 62,796 | 91 |
 | 2023-05-30 | 62,912 | 91 |
 | 2023-05-31 | 63,037 | 92 |
-| 2023-06-01 | 63,070 | 92 |
+| 2023-06-01 | 63,076 | 92 |
 ## Awards
 Max (Great Boss Battles): 2,269  (Ranked 98)  
-Sum: 3,759 (Ranked 138)  
+Sum: 3,761 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -124,7 +124,7 @@ Diff (max vs sum): -40
 | This game has Diverse Characters | 183 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 180 |
-| This game is Great for Beginners | 176 |
+| This game is Great for Beginners | 178 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -229,3 +229,4 @@ Diff (max vs sum): -40
 | 2023-05-29 | 4.17 | 2,254 | 3,740 |
 | 2023-05-30 | 4.17 | 2,263 | 3,749 |
 | 2023-05-31 | 4.17 | 2,269 | 3,759 |
+| 2023-06-01 | 4.17 | 2,269 | 3,761 |

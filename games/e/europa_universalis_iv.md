@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,295 |
+| Until death do us apart | 9.00% | ~4,296 |
 | That's a Grand Army | 8.00% | ~3,818 |
 | That is mine! | 8.00% | ~3,818 |
 | Victorious! | 8.00% | ~3,818 |
-| Brothers in Arms | 6.00% | ~2,863 |
-| That's a Grand Navy | 6.00% | ~2,863 |
-| Seriously?! | 6.00% | ~2,863 |
+| Brothers in Arms | 6.00% | ~2,864 |
+| That's a Grand Navy | 6.00% | ~2,864 |
+| Seriously?! | 6.00% | ~2,864 |
 | For the Glory | 5.00% | ~2,386 |
 | Cold War | 4.00% | ~1,909 |
 | True Catholic | 4.00% | ~1,909 |
@@ -20,25 +20,25 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 3.00% | ~1,432 |
 | Respected | 3.00% | ~1,432 |
 | Truly Divine Ruler | 3.00% | ~1,432 |
-| Agressive Expander | 2.00% | ~954 |
-| Blockader | 2.00% | ~954 |
-| Combined Arms | 2.00% | ~954 |
-| Double the Love | 2.00% | ~954 |
-| Gentle Persuasion | 2.00% | ~954 |
-| It's all about luck | 2.00% | ~954 |
-| My armies are invincible! | 2.00% | ~954 |
-| Queen of Conquest | 2.00% | ~954 |
-| Royal Authority | 2.00% | ~954 |
-| The Princess is in this Castle | 2.00% | ~954 |
-| Total Control | 2.00% | ~954 |
+| Agressive Expander | 2.00% | ~955 |
+| Blockader | 2.00% | ~955 |
+| Combined Arms | 2.00% | ~955 |
+| Double the Love | 2.00% | ~955 |
+| Gentle Persuasion | 2.00% | ~955 |
+| It's all about luck | 2.00% | ~955 |
+| My armies are invincible! | 2.00% | ~955 |
+| Queen of Conquest | 2.00% | ~955 |
+| Royal Authority | 2.00% | ~955 |
+| The Princess is in this Castle | 2.00% | ~955 |
+| Total Control | 2.00% | ~955 |
 | All That's Thine Shall Be Mine | 1.00% | ~477 |
 | Azur semé de lis or | 1.00% | ~477 |
 | Bright Spark | 1.00% | ~477 |
 | City of Cities | 1.00% | ~477 |
 | Factionalism | 1.00% | ~477 |
 | A Golden Empire | 1.00% | ~477 |
-| The Five Colonies | 0.90% | ~429 |
-| This navy can take it all | 0.90% | ~429 |
+| The Five Colonies | 0.90% | ~430 |
+| This navy can take it all | 0.90% | ~430 |
 | The Emperors new clothes | 0.80% | ~382 |
 | Isn't this the way to India? | 0.80% | ~382 |
 | Market Control | 0.80% | ~382 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,721 (Ranked 78)  
+Progressed: 47,730 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
 | 2023-05-31 | 47,652 | 0 |
-| 2023-06-01 | 47,721 | 0 |
+| 2023-06-01 | 47,730 | 0 |
 ## Awards
 Max (Educational): 5,322  (Ranked 60)  
 Sum: 43,985 (Ranked 27)  

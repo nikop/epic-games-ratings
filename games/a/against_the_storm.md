@@ -30,10 +30,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~151 |
 | Trade Baron | 1.00% | ~151 |
 | Refinery | 0.90% | ~136 |
+| Against All Odds | 0.90% | ~136 |
 | Haunted Forest | 0.90% | ~136 |
 | Levitating Monument | 0.90% | ~136 |
 | Monastery of the Holy Flame | 0.90% | ~136 |
-| Against All Odds | 0.80% | ~121 |
 | Statue of the Forefathers | 0.80% | ~121 |
 | Forsaken Gods Temple | 0.80% | ~121 |
 | Serving Ale | 0.70% | ~106 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,107 (Ranked 99)  
+Progressed: 15,108 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 33 (0.22%) (Ranked 138)
 | 2023-05-29 | 15,071 | 33 |
 | 2023-05-30 | 15,089 | 33 |
 | 2023-05-31 | 15,102 | 33 |
-| 2023-06-01 | 15,107 | 33 |
+| 2023-06-01 | 15,108 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,033 (Ranked 152)  

@@ -4048,9 +4048,9 @@
       "Count": 3242
     }
   ],
-  "EOS_Progressed": 89360,
+  "EOS_Progressed": 89364,
   "EOS_Completed": 1905,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8208,6 +8208,11 @@
       "Time": "2023-06-01T07:07:16.8060445+00:00",
       "NumProgressed": 89360,
       "NumCompleted": 1905
+    },
+    {
+      "Time": "2023-06-01T08:06:34.4885009+00:00",
+      "NumProgressed": 89364,
+      "NumCompleted": 1905
     }
   ],
   "TotalAchievements": 493,
@@ -9441,9 +9446,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 268
     },
     {
       "ID": "objective_completed_17",
@@ -12162,21 +12167,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55634,
-      "Completed": 2749
+      "Progressed": 55638,
+      "Completed": 2750
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89360,
+      "Progressed": 89364,
       "Completed": 1905
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-01T06:58:27.5824419+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:07:16.806044+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:06:34.4885005+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:58:27.5824426+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:07:16.8087723+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:58:26.662343+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:06:34.4908779+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 3.93 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~46,942 |
-| First One’s Free | 64.00% | ~41,155 |
-| Neophyte Ninja | 50.00% | ~32,152 |
-| Too Old for This | 47.00% | ~30,223 |
-| Fancy Pants | 35.00% | ~22,506 |
-| Case Closed | 34.00% | ~21,863 |
-| King of the Hill | 33.00% | ~21,220 |
-| Underworld Initiate | 29.00% | ~18,648 |
-| Roid Ranger | 21.00% | ~13,504 |
-| True Player | 19.00% | ~12,218 |
-| Off the Rocks | 19.00% | ~12,218 |
+| Downed but Not Outed | 73.00% | ~46,945 |
+| First One’s Free | 64.00% | ~41,157 |
+| Neophyte Ninja | 50.00% | ~32,154 |
+| Too Old for This | 47.00% | ~30,225 |
+| Fancy Pants | 35.00% | ~22,508 |
+| Case Closed | 34.00% | ~21,865 |
+| King of the Hill | 33.00% | ~21,222 |
+| Underworld Initiate | 29.00% | ~18,649 |
+| Roid Ranger | 21.00% | ~13,505 |
+| True Player | 19.00% | ~12,219 |
+| Off the Rocks | 19.00% | ~12,219 |
 | Raider’s Ruin | 16.00% | ~10,289 |
 | Dragonslayer | 16.00% | ~10,289 |
 | Hidden Sonata | 13.00% | ~8,360 |
-| Rockay Rex | 11.00% | ~7,073 |
-| Freebooter | 10.00% | ~6,430 |
-| Classy Joint | 10.00% | ~6,430 |
-| Track Star | 9.00% | ~5,787 |
-| I Like Trains | 8.00% | ~5,144 |
-| Headhunter | 8.00% | ~5,144 |
-| Ding Dong | 8.00% | ~5,144 |
-| Foo Finder | 7.00% | ~4,501 |
+| Rockay Rex | 11.00% | ~7,074 |
+| Freebooter | 10.00% | ~6,431 |
+| Classy Joint | 10.00% | ~6,431 |
+| Track Star | 9.00% | ~5,788 |
+| I Like Trains | 8.00% | ~5,145 |
+| Headhunter | 8.00% | ~5,145 |
+| Ding Dong | 8.00% | ~5,145 |
+| Foo Finder | 7.00% | ~4,502 |
 | Legend Looter | 5.00% | ~3,215 |
 | Savvy Seeker | 5.00% | ~3,215 |
 | Imports and Exports | 4.00% | ~2,572 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 905)
 | Geek Out | 0.50% | ~322 |
 | Full House | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,304 (Ranked 68)  
+Progressed: 64,308 (Ranked 68)  
 Completed: 31 (0.05%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 31 (0.05%) (Ranked 177)
 | 2023-05-29 | 64,018 | 31 |
 | 2023-05-30 | 64,145 | 31 |
 | 2023-05-31 | 64,285 | 31 |
-| 2023-06-01 | 64,304 | 31 |
+| 2023-06-01 | 64,308 | 31 |
 ## Awards
 Max (Diverse Characters): 303  (Ranked 225)  
 Sum: 1,444 (Ranked 212)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2236,
+  "EOS_Progressed": 2237,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -2131,6 +2131,11 @@
       "Time": "2023-06-01T07:06:36.0544233+00:00",
       "NumProgressed": 2236,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T08:06:13.5611046+00:00",
+      "NumProgressed": 2237,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2206,7 +2211,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2318,7 +2323,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2326,7 +2331,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2358,7 +2363,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2382,7 +2387,7 @@
       "Name": "Devineur",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2398,7 +2403,7 @@
       "Name": "Glyndemere",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -2502,7 +2507,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -2518,7 +2523,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2534,7 +2539,7 @@
       "Name": "Full equipped",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2550,7 +2555,7 @@
       "Name": "Ancient power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -2565,7 +2570,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2236,
+      "Progressed": 2237,
       "Completed": 1
     }
   ],
@@ -2573,8 +2578,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:06:36.0544227+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:06:13.5611036+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:57:57.8337969+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:06:36.0544811+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:57:57.3348986+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:06:13.5611607+00:00"
 }

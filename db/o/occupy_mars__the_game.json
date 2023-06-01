@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1053,
+  "EOS_Progressed": 1054,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1242,6 +1242,11 @@
       "Time": "2023-06-01T07:03:47.4591989+00:00",
       "NumProgressed": 1053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T08:03:44.0325077+00:00",
+      "NumProgressed": 1054,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1323,9 +1328,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1339,9 +1344,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -1373,7 +1378,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1405,7 +1410,7 @@
       "Name": "Detective",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -1429,7 +1434,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1636,7 +1641,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1053,
+      "Progressed": 1054,
       "Completed": 0
     }
   ],
@@ -1644,8 +1649,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-28T17:57:09.9383158+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:03:47.4591983+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:03:44.032507+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:57:44.552176+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:03:47.4592465+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:57:41.3802747+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:03:44.0325561+00:00"
 }

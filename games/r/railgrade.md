@@ -5,30 +5,30 @@ Rating: 4.54 (Ranked 485)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,395 |
-| Before the Downfall | 93.00% | ~17,456 |
-| Money like Water | 91.00% | ~17,081 |
-| Minimalist | 90.00% | ~16,893 |
-| Builder | 83.00% | ~15,579 |
-| Eraser | 70.00% | ~13,139 |
-| Pocket of Trains | 65.00% | ~12,200 |
-| Inspector | 59.00% | ~11,074 |
+| Trevithick's Legacy | 98.00% | ~18,396 |
+| Before the Downfall | 93.00% | ~17,457 |
+| Money like Water | 91.00% | ~17,082 |
+| Minimalist | 90.00% | ~16,894 |
+| Builder | 83.00% | ~15,580 |
+| Eraser | 70.00% | ~13,140 |
+| Pocket of Trains | 65.00% | ~12,201 |
+| Inspector | 59.00% | ~11,075 |
 | Going the Distance | 54.00% | ~10,136 |
-| Oil Baron | 42.00% | ~7,883 |
-| Loads-a-Money | 42.00% | ~7,883 |
-| Helper of the People | 39.00% | ~7,320 |
+| Oil Baron | 42.00% | ~7,884 |
+| Loads-a-Money | 42.00% | ~7,884 |
+| Helper of the People | 39.00% | ~7,321 |
 | Simplification | 34.00% | ~6,382 |
 | Box of Trains | 33.00% | ~6,194 |
-| Let There be Light | 32.00% | ~6,006 |
+| Let There be Light | 32.00% | ~6,007 |
 | Hot Water | 30.00% | ~5,631 |
-| Indecisive | 29.00% | ~5,443 |
+| Indecisive | 29.00% | ~5,444 |
 | The scenic route | 27.00% | ~5,068 |
-| Industrialist | 25.00% | ~4,692 |
+| Industrialist | 25.00% | ~4,693 |
 | Perfectionist | 23.00% | ~4,317 |
 | Trains over Pipes | 23.00% | ~4,317 |
-| 8K is Enough for Everyone | 22.00% | ~4,129 |
+| 8K is Enough for Everyone | 22.00% | ~4,130 |
 | Man of Steel | 16.00% | ~3,003 |
-| Room Full of Trains | 12.00% | ~2,252 |
+| Room Full of Trains | 12.00% | ~2,253 |
 | Investor | 9.00% | ~1,689 |
 | Multiverse | 7.00% | ~1,314 |
 | The poor groundwater levels | 7.00% | ~1,314 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 485)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,770 (Ranked 96)  
+Progressed: 18,771 (Ranked 96)  
 Completed: 29 (0.15%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 29 (0.15%) (Ranked 150)
 | 2023-05-29 | 18,741 | 29 |
 | 2023-05-30 | 18,757 | 29 |
 | 2023-05-31 | 18,770 | 29 |
+| 2023-06-01 | 18,771 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 343)  
 Sum: 648 (Ranked 275)  

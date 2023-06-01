@@ -5,18 +5,18 @@ Rating: 4.88 (Ranked 19)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 81.00% | ~2,024 |
-| Feeling the beat! | 81.00% | ~2,024 |
-| You can pet the cat! | 75.00% | ~1,874 |
-| Who put gears in there? | 69.00% | ~1,724 |
-| Cream of the Crop | 64.00% | ~1,599 |
-| Thanks for the free chip, Peppermint! | 63.00% | ~1,574 |
-| You got this, Peppermint? | 58.00% | ~1,449 |
-| Perfect Parry | 56.00% | ~1,399 |
-| Alright, that felt AWESOME! | 55.00% | ~1,374 |
-| I play my own way! | 51.00% | ~1,274 |
+| Start with a bang! | 81.00% | ~2,026 |
+| Feeling the beat! | 81.00% | ~2,026 |
+| You can pet the cat! | 75.00% | ~1,876 |
+| Who put gears in there? | 69.00% | ~1,726 |
+| Cream of the Crop | 64.00% | ~1,601 |
+| Thanks for the free chip, Peppermint! | 63.00% | ~1,576 |
+| You got this, Peppermint? | 58.00% | ~1,451 |
+| Perfect Parry | 56.00% | ~1,401 |
+| Alright, that felt AWESOME! | 55.00% | ~1,376 |
+| I play my own way! | 51.00% | ~1,276 |
 | This will cost you big time | 49.00% | ~1,225 |
-| Uh, they were broken when I got here | 47.00% | ~1,175 |
+| Uh, they were broken when I got here | 48.00% | ~1,200 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,150 |
 | Kissing the sky! | 45.00% | ~1,125 |
 | Does that say weakpoint? | 42.00% | ~1,050 |
@@ -55,19 +55,19 @@ Rating: 4.88 (Ranked 19)
 | I am a good person who likes to help | 2.00% | ~50 |
 | With our powers combined…and to the rhythm… | 2.00% | ~50 |
 | And the crowd goes wild! | 1.00% | ~25 |
-| This was... not what I expected. | 0.90% | ~22 |
-| I saw all those hits coming a measure away! | 0.90% | ~22 |
+| This was... not what I expected. | 0.90% | ~23 |
+| I saw all those hits coming a measure away! | 0.90% | ~23 |
 | My Ultimate Setlist | 0.80% | ~20 |
 | Have we met before? | 0.80% | ~20 |
-| OK, I THINK I know what I'm doing now | 0.70% | ~17 |
+| OK, I THINK I know what I'm doing now | 0.70% | ~18 |
 | I think that's enough health for now | 0.60% | ~15 |
 | I have to read ALL of these things? | 0.60% | ~15 |
 | I'm untouchable! | 0.60% | ~15 |
 | I'm trying to FOCUS HERE! | 0.40% | ~10 |
-| Didn't skip a beat! | 0.30% | ~7 |
+| Didn't skip a beat! | 0.30% | ~8 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,499 (Ranked 142)  
+Progressed: 2,501 (Ranked 142)  
 Completed: 4 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 4 (0.16%) (Ranked 146)
 | 2023-05-29 | 2,399 | 4 |
 | 2023-05-30 | 2,453 | 4 |
 | 2023-05-31 | 2,489 | 4 |
-| 2023-06-01 | 2,499 | 4 |
+| 2023-06-01 | 2,501 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

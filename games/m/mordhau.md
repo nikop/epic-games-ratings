@@ -5,46 +5,46 @@ Rating: 4.42 (Ranked 652)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~697,719 |
-| The ABCs | 43.00% | ~600,038 |
-| Home Run | 42.00% | ~586,084 |
-| Keeps Coming Off | 40.00% | ~558,175 |
-| Guts | 20.00% | ~279,088 |
-| Meat Grinder | 20.00% | ~279,088 |
-| Burning Man | 16.00% | ~223,270 |
-| Lived to Tell the Tale | 12.00% | ~167,453 |
-| Highlander | 10.00% | ~139,544 |
-| Unstoppable | 10.00% | ~139,544 |
-| Just a Scratch | 9.00% | ~125,589 |
-| Tough Nut to Crack | 6.00% | ~83,726 |
-| Yoink | 6.00% | ~83,726 |
-| Long List of Names | 4.00% | ~55,818 |
-| Pyromaniac | 4.00% | ~55,818 |
-| The Queen of Weapons | 4.00% | ~55,818 |
-| Eagle Eye | 2.00% | ~27,909 |
-| This isn’t Sparta | 2.00% | ~27,909 |
-| Poacher | 2.00% | ~27,909 |
-| Put That Away | 2.00% | ~27,909 |
-| You’re Welcome | 2.00% | ~27,909 |
-| Crybaby | 1.00% | ~13,954 |
-| I Know Kung Fu | 1.00% | ~13,954 |
-| Coming Through | 0.90% | ~12,559 |
+| Justice from the Grave | 50.00% | ~697,770 |
+| The ABCs | 43.00% | ~600,082 |
+| Home Run | 42.00% | ~586,126 |
+| Keeps Coming Off | 40.00% | ~558,216 |
+| Guts | 20.00% | ~279,108 |
+| Meat Grinder | 20.00% | ~279,108 |
+| Burning Man | 16.00% | ~223,286 |
+| Lived to Tell the Tale | 12.00% | ~167,465 |
+| Highlander | 10.00% | ~139,554 |
+| Unstoppable | 10.00% | ~139,554 |
+| Just a Scratch | 9.00% | ~125,599 |
+| Tough Nut to Crack | 6.00% | ~83,732 |
+| Yoink | 6.00% | ~83,732 |
+| Long List of Names | 4.00% | ~55,822 |
+| Pyromaniac | 4.00% | ~55,822 |
+| The Queen of Weapons | 4.00% | ~55,822 |
+| Eagle Eye | 2.00% | ~27,911 |
+| This isn’t Sparta | 2.00% | ~27,911 |
+| Poacher | 2.00% | ~27,911 |
+| Put That Away | 2.00% | ~27,911 |
+| You’re Welcome | 2.00% | ~27,911 |
+| Crybaby | 1.00% | ~13,955 |
+| I Know Kung Fu | 1.00% | ~13,955 |
+| Coming Through | 0.90% | ~12,560 |
 | Chambermaid | 0.80% | ~11,164 |
-| Training Accident | 0.70% | ~9,768 |
+| Training Accident | 0.70% | ~9,769 |
 | Boxer | 0.60% | ~8,373 |
 | Virtuoso | 0.60% | ~8,373 |
-| Rock’n’Roll | 0.50% | ~6,977 |
+| Rock’n’Roll | 0.50% | ~6,978 |
 | Flyswatter | 0.40% | ~5,582 |
 | Friend Indeed | 0.40% | ~5,582 |
 | Whack-A-Mole | 0.40% | ~5,582 |
-| Vlad the Impaler | 0.30% | ~4,186 |
-| Clobbered | 0.10% | ~1,395 |
-| Ended Rightly | 0.10% | ~1,395 |
-| Living Sculpture | 0.10% | ~1,395 |
-| That’s No Ordinary Cold | 0.10% | ~1,395 |
-| Stairway to Hell | 0.10% | ~1,395 |
+| Vlad the Impaler | 0.30% | ~4,187 |
+| Clobbered | 0.10% | ~1,396 |
+| Ended Rightly | 0.10% | ~1,396 |
+| Living Sculpture | 0.10% | ~1,396 |
+| That’s No Ordinary Cold | 0.10% | ~1,396 |
+| Stairway to Hell | 0.10% | ~1,396 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,395,438 (Ranked 7)  
+Progressed: 1,395,539 (Ranked 7)  
 Completed: 21 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,11 +86,11 @@ Completed: 21 (0.00%) (Ranked 208)
 | 2023-05-29 | 1,390,689 | 20 |
 | 2023-05-30 | 1,392,893 | 20 |
 | 2023-05-31 | 1,395,019 | 20 |
-| 2023-06-01 | 1,395,438 | 21 |
+| 2023-06-01 | 1,395,539 | 21 |
 ## Awards
 Max (Highly Recommended): 192  (Ranked 264)  
-Sum: 998 (Ranked 231)  
-Diff (max vs sum): 33  
+Sum: 1,124 (Ranked 227)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 192 |
@@ -98,9 +98,9 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 169 |
 | This game has Amazing Characters | 164 |
 | This game has Competitive Players | 153 |
-| This game is Extremely Fun | 144 |
+| This game is Extremely Fun | 148 |
 | This game has Quickly Understood Controls | 132 |
-| This game has Amazing Storytelling | 95 |
+| This game has Amazing Storytelling | 122 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -152,4 +152,4 @@ Diff (max vs sum): 33
 | 2023-05-29 | 4.42 | 184 | 1,090 |
 | 2023-05-30 | 4.42 | 187 | 1,110 |
 | 2023-05-31 | 4.42 | 192 | 1,112 |
-| 2023-06-01 | 4.42 | 192 | 998 |
+| 2023-06-01 | 4.42 | 192 | 1,124 |

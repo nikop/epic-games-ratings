@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -482,9 +482,9 @@
       "ID": "TUTORIAL_FIRST",
       "SetID": "aemieak",
       "Name": "Starting to take notes",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:06:22.3492616+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:05:49.9449932+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:56.7854741+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:58:40.3444969+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:06:22.349285+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:58:35.5555754+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:05:49.9450168+00:00"
 }

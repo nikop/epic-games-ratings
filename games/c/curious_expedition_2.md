@@ -11,7 +11,7 @@ Number of Ratings: 20  (23.09.2022)
 | A Strange Artefact | 48.00% | ~145 |
 | Insomnia | 44.00% | ~133 |
 | From Whence we Came | 39.00% | ~118 |
-| Lost & Found & Lost Again | 37.00% | ~112 |
+| Lost & Found & Lost Again | 38.00% | ~115 |
 | Fire and Flood | 36.00% | ~109 |
 | Spooky! | 34.00% | ~103 |
 | Shennong Herbalist | 31.00% | ~94 |
@@ -20,9 +20,9 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 27.00% | ~82 |
 | Plunderer | 25.00% | ~76 |
 | Taxonomist | 24.00% | ~73 |
+| Uncertain Loyalties | 23.00% | ~70 |
 | Traveller | 22.00% | ~67 |
 | Nahua Seeker | 22.00% | ~67 |
-| Uncertain Loyalties | 22.00% | ~67 |
 | Roll to Save | 19.00% | ~58 |
 | Red Flag Pirate | 17.00% | ~52 |
 | Veteran Explorer | 17.00% | ~52 |

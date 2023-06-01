@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -1927,9 +1927,9 @@
       "ID": "IRLLetsPlay",
       "SetID": "bmkn7o4",
       "Name": "IRL Let\u0027s Player",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "IceBath",
@@ -2261,8 +2261,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:03:39.151995+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:03:34.8077003+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:57:41.4782956+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:03:39.1520723+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:57:36.3644327+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:03:34.8077787+00:00"
 }

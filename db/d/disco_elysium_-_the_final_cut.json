@@ -4,11 +4,11 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 157,
-  "Ranking_PopularitySum": 229,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1091,9 +1091,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 119845,
+  "EOS_Progressed": 119850,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4811,6 +4811,11 @@
       "Time": "2023-06-01T07:06:39.9227116+00:00",
       "NumProgressed": 119845,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-01T08:06:17.5081667+00:00",
+      "NumProgressed": 119850,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -4846,7 +4851,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ACH_COP_ART",
@@ -4854,7 +4859,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21572
+      "UsersEstimate": 21573
     },
     {
       "ID": "ACH_COP_BAD",
@@ -4878,7 +4883,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28763
+      "UsersEstimate": 28764
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -4902,7 +4907,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33557
+      "UsersEstimate": 33558
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -4926,7 +4931,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19175
+      "UsersEstimate": 19176
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -4934,7 +4939,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23969
+      "UsersEstimate": 23970
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -4958,7 +4963,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17977
+      "UsersEstimate": 17978
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -4966,7 +4971,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13183
+      "UsersEstimate": 13184
     },
     {
       "ID": "ACH_CUNO",
@@ -5038,7 +5043,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16778
+      "UsersEstimate": 16779
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -5046,7 +5051,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -5141,15 +5146,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 119845,
+      "Progressed": 119850,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-31T15:58:44.1451339+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:06:39.9227109+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:06:17.5081662+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:41.5073294+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:59:48.2368709+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:06:39.9227634+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:59:37.7412657+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:06:17.50822+00:00"
 }

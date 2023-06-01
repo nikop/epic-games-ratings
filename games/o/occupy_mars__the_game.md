@@ -6,8 +6,8 @@ Rating: 3.80 (Ranked 917)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 41.00% | ~432 |
-| Electrician | 33.00% | ~347 |
-| Fear my botany powers, Mars | 31.00% | ~326 |
+| Electrician | 33.00% | ~348 |
+| Fear my botany powers, Mars | 31.00% | ~327 |
 | Zero Waste | 28.00% | ~295 |
 | I am the greatest botanist on this planet. | 28.00% | ~295 |
 | Bob The Builder | 28.00% | ~295 |
@@ -15,8 +15,8 @@ Rating: 3.80 (Ranked 917)
 | Gardener | 22.00% | ~232 |
 | Houston we have a problem | 19.00% | ~200 |
 | Occupy Mars! | 18.00% | ~190 |
-| Detective | 16.00% | ~168 |
-| The Collector | 11.00% | ~116 |
+| Detective | 16.00% | ~169 |
+| The Collector | 12.00% | ~126 |
 | Get your hands dirty | 9.00% | ~95 |
 | All Wheel Trouble | 5.00% | ~53 |
 | ITS crash site | 4.00% | ~42 |
@@ -31,10 +31,10 @@ Rating: 3.80 (Ranked 917)
 | Caveman | 0.50% | ~5 |
 | Thunderstruck | 0.50% | ~5 |
 | Rocket Jump | 0.40% | ~4 |
+| 5G Network | 0.30% | ~3 |
 | Bull’s eye | 0.30% | ~3 |
 | Korolev crater | 0.30% | ~3 |
 | Hot Repairs | 0.20% | ~2 |
-| 5G Network | 0.20% | ~2 |
 | One does not simply... | 0.20% | ~2 |
 | Rover Mechanic | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.80 (Ranked 917)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053 (Ranked 169)  
+Progressed: 1,054 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 1,020 | 0 |
 | 2023-05-30 | 1,038 | 0 |
 | 2023-05-31 | 1,049 | 0 |
-| 2023-06-01 | 1,053 | 0 |
+| 2023-06-01 | 1,054 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

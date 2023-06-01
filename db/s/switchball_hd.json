@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Powerball Badge",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_EXPERT_ID",
@@ -474,8 +474,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-06-01T07:02:03.8355682+00:00",
+  "LastChanged_Achievements": "2023-06-01T08:01:39.4430015+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.7005248+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:57:32.9442328+00:00",
-  "LastUpdate_Achievements": "2023-06-01T07:02:03.8355822+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:57:31.2132468+00:00",
+  "LastUpdate_Achievements": "2023-06-01T08:01:39.4430755+00:00"
 }
