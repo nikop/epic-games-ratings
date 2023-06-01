@@ -5,12 +5,12 @@
 | 3 | [Volley Pals](games/v/volley_pals.md) | 28.57% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
+| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.98% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.91% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -23,8 +23,8 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.17% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.95% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.89% |
-| 25 | [Scorn](games/s/scorn.md) | 6.83% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.88% |
+| 25 | [Scorn](games/s/scorn.md) | 6.82% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.28% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -37,10 +37,10 @@
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
-| 41 | [The Complex](games/t/the_complex.md) | 3.39% |
+| 41 | [The Complex](games/t/the_complex.md) | 3.38% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.26% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.19% |
@@ -48,14 +48,14 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.06% |
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 49 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
+| 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
 | 52 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 52 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.81% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.56% |
-| 56 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.53% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.17% |
