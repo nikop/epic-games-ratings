@@ -1,20 +1,20 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~33,584 |
-| Get Busy Living | 17.00% | ~21,959 |
-| Samuel Norton | 10.00% | ~12,917 |
-| Spare The Rod | 5.00% | ~6,458 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,167 |
-| Don't Put Me In The Dark | 3.00% | ~3,875 |
-| Wait and Hope | 3.00% | ~3,875 |
-| Iron Bars | 3.00% | ~3,875 |
-| Throw The Book At Them | 2.00% | ~2,583 |
+| Stone Walls | 26.00% | ~33,589 |
+| Get Busy Living | 17.00% | ~21,962 |
+| Samuel Norton | 10.00% | ~12,919 |
+| Spare The Rod | 5.00% | ~6,459 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,168 |
+| Don't Put Me In The Dark | 3.00% | ~3,876 |
+| Wait and Hope | 3.00% | ~3,876 |
+| Iron Bars | 3.00% | ~3,876 |
+| Throw The Book At Them | 2.00% | ~2,584 |
 | D.B. Cooper | 1.00% | ~1,292 |
 | Reformation | 0.60% | ~775 |
 | Crowd Control | 0.50% | ~646 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~129 |
 | ... It's What You Can Prove | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,169 (Ranked 56)  
+Progressed: 129,188 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,10 +65,10 @@ Completed: 5 (0.00%) (Ranked 208)
 | 2023-05-29 | 128,057 | 5 |
 | 2023-05-30 | 128,515 | 5 |
 | 2023-05-31 | 128,914 | 5 |
-| 2023-06-01 | 129,169 | 5 |
+| 2023-06-01 | 129,188 | 5 |
 ## Awards
 Max (Extremely Fun): 429  (Ranked 194)  
-Sum: 3,369 (Ranked 144)  
+Sum: 3,370 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -78,7 +78,7 @@ Diff (max vs sum): 50
 | This game has Quickly Understood Controls | 398 |
 | This game is Relaxing | 376 |
 | This game has Diverse Characters | 369 |
-| This game has Amazing Storytelling | 360 |
+| This game has Amazing Storytelling | 361 |
 | This game has Amazing Characters | 339 |
 | This game has a Creative Community | 266 |
 | This game has Obsessive Gameplay | 234 |
@@ -218,3 +218,4 @@ Diff (max vs sum): 50
 | 2023-05-29 | 4.61 | - | 426 | 3,357 |
 | 2023-05-30 | 4.61 | - | 429 | 3,364 |
 | 2023-05-31 | 4.61 | - | 429 | 3,369 |
+| 2023-06-01 | 4.61 | - | 429 | 3,370 |

@@ -12,7 +12,7 @@
 | Memories | 28.00% | ~106 |
 | The Maggot | 23.00% | ~87 |
 | The Breeder | 18.00% | ~68 |
-| The Veteran | 14.00% | ~53 |
+| The Veteran | 15.00% | ~57 |
 | The Traitor | 10.00% | ~38 |
 | The Spider | 8.00% | ~30 |
 | He's so Annoying | 5.00% | ~19 |

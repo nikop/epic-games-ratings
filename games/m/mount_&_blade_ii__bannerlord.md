@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,093 |
-| Landlord | 30.00% | ~15,508 |
-| Lawmaker | 21.00% | ~10,856 |
-| Bannerlord | 20.00% | ~10,339 |
-| Horde breaker | 20.00% | ~10,339 |
-| Trained | 20.00% | ~10,339 |
-| King Solomon | 16.00% | ~8,271 |
-| The king is pleased | 16.00% | ~8,271 |
-| Apple of my eye | 14.00% | ~7,237 |
-| I can do it | 14.00% | ~7,237 |
-| God of the Arena | 12.00% | ~6,203 |
+| Lawbringer | 35.00% | ~18,096 |
+| Landlord | 30.00% | ~15,511 |
+| Lawmaker | 21.00% | ~10,857 |
+| Bannerlord | 20.00% | ~10,340 |
+| Horde breaker | 20.00% | ~10,340 |
+| Trained | 20.00% | ~10,340 |
+| King Solomon | 16.00% | ~8,272 |
+| The king is pleased | 16.00% | ~8,272 |
+| Apple of my eye | 14.00% | ~7,238 |
+| I can do it | 14.00% | ~7,238 |
+| God of the Arena | 12.00% | ~6,204 |
 | Against all odds | 10.00% | ~5,170 |
 | Swordbearer | 9.00% | ~4,653 |
 | Duelist | 8.00% | ~4,136 |
@@ -39,7 +39,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~414 |
 | Crackshot | 0.70% | ~362 |
 | Fat Cat | 0.60% | ~310 |
-| Catch | 0.50% | ~258 |
+| Catch | 0.50% | ~259 |
 | Slice 'n dice | 0.40% | ~207 |
 | Mounted Archery | 0.30% | ~155 |
 | Ride it like you stole it | 0.30% | ~155 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,695 (Ranked 75)  
+Progressed: 51,702 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 51,414 | 0 |
 | 2023-05-30 | 51,499 | 0 |
 | 2023-05-31 | 51,598 | 0 |
-| 2023-06-01 | 51,695 | 0 |
+| 2023-06-01 | 51,702 | 0 |
 ## Awards
 Max (Character Customization): 6,612  (Ranked 49)  
 Sum: 13,235 (Ranked 67)  

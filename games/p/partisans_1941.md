@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,8 +26,8 @@ Number of Ratings: 98  (23.09.2022)
 | No Witness | 4.00% | ~39 |
 | Strategist | 2.00% | ~19 |
 | Unbreakable Wall | 1.00% | ~10 |
+| Experienced Strategist | 0.90% | ~9 |
 | Do a Barrel Roll! | 0.80% | ~8 |
-| Experienced Strategist | 0.80% | ~8 |
 | How?! | 0.50% | ~5 |
 | Tough as Nails | 0.30% | ~3 |
 | We Weren't There | 0.20% | ~2 |

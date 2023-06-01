@@ -10,11 +10,11 @@
 | Onwards and Upwards | 19.00% | ~12 |
 | Serial Winner | 14.00% | ~9 |
 | Like Phileas Fogg | 13.00% | ~8 |
+| Seven-League Boots | 6.00% | ~4 |
 | Highly Qualified | 6.00% | ~4 |
 | No Room for Improvement | 6.00% | ~4 |
 | Start Your Engines | 6.00% | ~4 |
 | Playing God | 6.00% | ~4 |
-| Seven-League Boots | 5.00% | ~3 |
 | Nerd | 5.00% | ~3 |
 | First and Foremost | 5.00% | ~3 |
 | Made Mother Proud | 5.00% | ~3 |

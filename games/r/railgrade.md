@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 485)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,404 |
-| Before the Downfall | 93.00% | ~17,465 |
-| Money like Water | 91.00% | ~17,090 |
-| Minimalist | 90.00% | ~16,902 |
-| Builder | 83.00% | ~15,587 |
-| Eraser | 70.00% | ~13,146 |
-| Pocket of Trains | 65.00% | ~12,207 |
-| Inspector | 59.00% | ~11,080 |
-| Going the Distance | 54.00% | ~10,141 |
+| Trevithick's Legacy | 98.00% | ~18,405 |
+| Before the Downfall | 93.00% | ~17,466 |
+| Money like Water | 91.00% | ~17,091 |
+| Minimalist | 90.00% | ~16,903 |
+| Builder | 83.00% | ~15,588 |
+| Eraser | 70.00% | ~13,147 |
+| Pocket of Trains | 65.00% | ~12,208 |
+| Inspector | 59.00% | ~11,081 |
+| Going the Distance | 54.00% | ~10,142 |
 | Oil Baron | 42.00% | ~7,888 |
 | Loads-a-Money | 42.00% | ~7,888 |
-| Helper of the People | 39.00% | ~7,324 |
-| Simplification | 34.00% | ~6,385 |
-| Box of Trains | 33.00% | ~6,197 |
+| Helper of the People | 39.00% | ~7,325 |
+| Simplification | 34.00% | ~6,386 |
+| Box of Trains | 33.00% | ~6,198 |
 | Let There be Light | 32.00% | ~6,010 |
 | Hot Water | 30.00% | ~5,634 |
 | Indecisive | 29.00% | ~5,446 |
 | The scenic route | 27.00% | ~5,071 |
 | Industrialist | 25.00% | ~4,695 |
-| Perfectionist | 23.00% | ~4,319 |
-| Trains over Pipes | 23.00% | ~4,319 |
+| Perfectionist | 23.00% | ~4,320 |
+| Trains over Pipes | 23.00% | ~4,320 |
 | 8K is Enough for Everyone | 22.00% | ~4,132 |
 | Man of Steel | 16.00% | ~3,005 |
 | Room Full of Trains | 12.00% | ~2,254 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 485)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,780 (Ranked 96)  
+Progressed: 18,781 (Ranked 97)  
 Completed: 29 (0.15%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,16 +85,16 @@ Completed: 29 (0.15%) (Ranked 150)
 | 2023-05-29 | 18,741 | 29 |
 | 2023-05-30 | 18,757 | 29 |
 | 2023-05-31 | 18,770 | 29 |
-| 2023-06-01 | 18,780 | 29 |
+| 2023-06-01 | 18,781 | 29 |
 ## Awards
-Max (Highly Recommended): 87  (Ranked 343)  
-Sum: 648 (Ranked 275)  
+Max (Quickly Understood Controls): 87  (Ranked 343)  
+Sum: 649 (Ranked 275)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 87 |
 | This game is Highly Recommended | 87 |
 | This game is Great for Beginners | 86 |
-| This game has Quickly Understood Controls | 86 |
 | This game is Relaxing | 85 |
 | This game is Extremely Fun | 84 |
 | This game has Amazing Storytelling | 78 |
@@ -148,3 +148,4 @@ Diff (max vs sum): 68
 | 2023-05-18 | 4.54 | 87 | 646 |
 | 2023-05-26 | 4.54 | 87 | 647 |
 | 2023-05-27 | 4.54 | 87 | 648 |
+| 2023-06-01 | 4.54 | 87 | 649 |

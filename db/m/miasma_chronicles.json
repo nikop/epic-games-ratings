@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 936,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1134,9 +1134,9 @@
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 122
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1158,9 +1158,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 262
     },
     {
       "ID": "ENDGAME",
@@ -1174,9 +1174,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 271
     },
     {
       "ID": "EXPERIENCED",
@@ -1222,9 +1222,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 300
     },
     {
       "ID": "GIANT_KILLER",
@@ -1318,9 +1318,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 683
     },
     {
       "ID": "RECYCLER",
@@ -1398,9 +1398,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 206
     },
     {
       "ID": "THE_WATCHERS",
@@ -1431,8 +1431,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-06-01T17:02:12.8024904+00:00",
+  "LastChanged_Achievements": "2023-06-01T18:02:11.4742488+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T16:58:00.2160072+00:00",
-  "LastUpdate_Achievements": "2023-06-01T17:02:12.8025397+00:00"
+  "LastUpdate_Ratings": "2023-06-01T17:58:21.5808114+00:00",
+  "LastUpdate_Achievements": "2023-06-01T18:02:11.4743306+00:00"
 }

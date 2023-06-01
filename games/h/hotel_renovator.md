@@ -29,7 +29,7 @@ Rating: 4.52 (Ranked 509)
 | Island boy | 20.00% | ~157 |
 | Unstoppable | 18.00% | ~141 |
 | You're a star | 18.00% | ~141 |
-| Reunited | 16.00% | ~125 |
+| Reunited | 17.00% | ~133 |
 | King of hospitality | 10.00% | ~78 |
 | Top spot in town | 2.00% | ~16 |
 ## Popularity (Based on EOS Achievements)

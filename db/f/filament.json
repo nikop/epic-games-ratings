@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 191832,
+  "EOS_Progressed": 191836,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4440,6 +4440,11 @@
       "Time": "2023-06-01T17:05:17.705819+00:00",
       "NumProgressed": 191832,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-06-01T18:06:15.423974+00:00",
+      "NumProgressed": 191836,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 29,
@@ -4475,7 +4480,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 180322
+      "UsersEstimate": 180326
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -4539,7 +4544,7 @@
       "Name": "Corrupted \u002B",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHIEVEMENT_CREW",
@@ -4635,7 +4640,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19183
+      "UsersEstimate": 19184
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -4651,7 +4656,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13428
+      "UsersEstimate": 13429
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -4682,7 +4687,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 191832,
+      "Progressed": 191836,
       "Completed": 429
     }
   ],
@@ -4690,8 +4695,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-06-01T17:05:17.7058185+00:00",
+  "LastChanged_Achievements": "2023-06-01T18:06:15.4239734+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9907258+00:00",
-  "LastUpdate_Ratings": "2023-06-01T16:58:25.1563791+00:00",
-  "LastUpdate_Achievements": "2023-06-01T17:05:17.7058644+00:00"
+  "LastUpdate_Ratings": "2023-06-01T17:58:53.0298345+00:00",
+  "LastUpdate_Achievements": "2023-06-01T18:06:15.4240191+00:00"
 }

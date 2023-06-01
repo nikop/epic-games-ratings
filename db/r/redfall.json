@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1715,6 +1715,11 @@
       "Time": "2023-06-01T16:03:19.1467316+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T18:02:30.8161143+00:00",
+      "NumProgressed": 1653,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1742,7 +1747,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "Achievement_004",
@@ -1774,7 +1779,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "Achievement_009",
@@ -1790,7 +1795,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "Achievement_011",
@@ -1846,7 +1851,7 @@
       "Name": "Bad Wiring",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Achievement_018",
@@ -1926,7 +1931,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "Achievement_028",
@@ -1950,7 +1955,7 @@
       "Name": "ICU",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "Achievement_031",
@@ -1982,7 +1987,7 @@
       "Name": "Catch and Release",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "Achievement_035",
@@ -2253,7 +2258,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1653,
       "Completed": 0
     }
   ],
@@ -2261,8 +2266,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-31T19:57:47.4503842+00:00",
-  "LastChanged_Achievements": "2023-06-01T17:02:28.5694371+00:00",
+  "LastChanged_Achievements": "2023-06-01T18:02:30.8161136+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:37.8719634+00:00",
-  "LastUpdate_Ratings": "2023-06-01T16:57:36.0133238+00:00",
-  "LastUpdate_Achievements": "2023-06-01T17:02:28.569515+00:00"
+  "LastUpdate_Ratings": "2023-06-01T17:57:53.8755071+00:00",
+  "LastUpdate_Achievements": "2023-06-01T18:02:30.8162537+00:00"
 }

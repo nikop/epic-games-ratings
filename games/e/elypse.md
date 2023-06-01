@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A path of no return | 102.00% | ~56 |
+| A bottomless pit | 85.00% | ~47 |
 | Pigeon | 84.00% | ~46 |
-| A bottomless pit | 84.00% | ~46 |
 | Baited | 69.00% | ~38 |
 | "Swoosh" | 56.00% | ~31 |
 | The light at the end of the tunnel | 55.00% | ~30 |
@@ -21,7 +21,7 @@
 | It's getting dark | 29.00% | ~16 |
 | Homeless | 27.00% | ~15 |
 | Hard Rock | 27.00% | ~15 |
-| Big badaboom! | 24.00% | ~13 |
+| Big badaboom! | 25.00% | ~14 |
 | Nokron tower | 20.00% | ~11 |
 | Bookworm | 20.00% | ~11 |
 | Magnitude 5 | 18.00% | ~10 |

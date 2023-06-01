@@ -10,28 +10,28 @@ Rating: 4.50 (Ranked 542)
 | Party | 45.00% | ~174 |
 | Knowledge is Power | 44.00% | ~170 |
 | Impossible Cube | 43.00% | ~166 |
-| No Mercy | 41.00% | ~159 |
+| No Mercy | 42.00% | ~163 |
 | The Return of a Rat | 40.00% | ~155 |
-| Through the Darkness | 39.00% | ~151 |
+| Through the Darkness | 40.00% | ~155 |
 | Fat of the Earth | 33.00% | ~128 |
 | Last Man Standing | 31.00% | ~120 |
 | Catch Jonathan_tostar | 27.00% | ~104 |
 | Assemble a Meganewbie | 25.00% | ~97 |
+| He's Seen It All | 25.00% | ~97 |
 | Great Hero | 25.00% | ~97 |
 | Rookie | 25.00% | ~97 |
 | Campaigning | 24.00% | ~93 |
-| He's Seen It All | 24.00% | ~93 |
 | Frugal | 21.00% | ~81 |
 | Feed a God | 20.00% | ~77 |
 | To the Moon and Back | 19.00% | ~74 |
 | Great Flight | 17.00% | ~66 |
-| Holy Vengeance | 14.00% | ~54 |
+| Holy Vengeance | 15.00% | ~58 |
 | Honorary Cultist | 11.00% | ~43 |
 | Strength and Sorcery | 10.00% | ~39 |
 | Brain and Brawn | 10.00% | ~39 |
 | Omae Wa Mou Shindeiru | 7.00% | ~27 |
+| Experimentalist | 6.00% | ~23 |
 | Wide Selection | 6.00% | ~23 |
-| Experimentalist | 5.00% | ~19 |
 | Soldier | 5.00% | ~19 |
 | Android Power | 5.00% | ~19 |
 | Shopaholic | 3.00% | ~12 |

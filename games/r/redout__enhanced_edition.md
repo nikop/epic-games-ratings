@@ -6,13 +6,13 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,633 |
-| NATURAL BORN WINNER | 32.00% | ~71,519 |
-| CALLING HOUSTON | 28.00% | ~62,579 |
-| SNEAKY SNEAKY | 22.00% | ~49,169 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,169 |
-| GT9STRADALE | 20.00% | ~44,699 |
-| CHALLENGER | 11.00% | ~24,585 |
+| VANGUARD | 41.00% | ~91,637 |
+| NATURAL BORN WINNER | 32.00% | ~71,522 |
+| CALLING HOUSTON | 28.00% | ~62,581 |
+| SNEAKY SNEAKY | 22.00% | ~49,171 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,171 |
+| GT9STRADALE | 20.00% | ~44,701 |
+| CHALLENGER | 11.00% | ~24,586 |
 | ON A ROLL | 9.00% | ~20,115 |
 | CENTAUR | 8.00% | ~17,880 |
 | FASTER THAN EVER | 8.00% | ~17,880 |
@@ -26,11 +26,11 @@ Number of Ratings: 274  (23.09.2022)
 | RESPWND | 2.00% | ~4,470 |
 | SHINY SHINY GOLD | 2.00% | ~4,470 |
 | HARDCORE | 1.00% | ~2,235 |
-| ACE | 0.70% | ~1,564 |
+| ACE | 0.70% | ~1,565 |
 | TACTICIAN | 0.60% | ~1,341 |
-| GTX COMPETIZIONE | 0.50% | ~1,117 |
-| HIDDEN POWER | 0.50% | ~1,117 |
-| TUNING MANIAC | 0.50% | ~1,117 |
+| GTX COMPETIZIONE | 0.50% | ~1,118 |
+| HIDDEN POWER | 0.50% | ~1,118 |
+| TUNING MANIAC | 0.50% | ~1,118 |
 | DRAGOON | 0.40% | ~894 |
 | FLAWLESS | 0.40% | ~894 |
 | BETTER THAN EVER | 0.20% | ~447 |
@@ -39,9 +39,9 @@ Number of Ratings: 274  (23.09.2022)
 | NOBUNAGA | 0.20% | ~447 |
 | ODIN | 0.20% | ~447 |
 | PILE UP TROPHIES | 0.20% | ~447 |
-| ENLIGHTENED | 0.10% | ~223 |
+| ENLIGHTENED | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,496 (Ranked 45)  
+Progressed: 223,505 (Ranked 45)  
 Completed: 45 (0.02%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 45 (0.02%) (Ranked 191)
 | 2023-05-29 | 223,284 | 43 |
 | 2023-05-30 | 223,368 | 43 |
 | 2023-05-31 | 223,438 | 43 |
-| 2023-06-01 | 223,496 | 45 |
+| 2023-06-01 | 223,505 | 45 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

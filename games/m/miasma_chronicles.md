@@ -6,28 +6,28 @@ Rating: 4.29 (Ranked 765)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~861 |
-| Ranidaphobia | 72.00% | ~674 |
+| Ranidaphobia | 73.00% | ~683 |
 | Aspiring Editor | 70.00% | ~655 |
 | Gun for Hire | 64.00% | ~599 |
 | I am the law! | 54.00% | ~505 |
 | Lumberjack | 37.00% | ~346 |
 | Croaked | 32.00% | ~300 |
+| From Darkness to Light | 32.00% | ~300 |
 | Limp Richard | 31.00% | ~290 |
 | Firestarter | 31.00% | ~290 |
-| From Darkness to Light | 31.00% | ~290 |
-| Exorcist | 28.00% | ~262 |
-| Editor Adept | 27.00% | ~253 |
+| Exorcist | 29.00% | ~271 |
+| Editor Adept | 28.00% | ~262 |
 | Giant Killer | 24.00% | ~225 |
 | Sensei | 22.00% | ~206 |
-| The meaning of Kain | 21.00% | ~197 |
+| The meaning of Kain | 22.00% | ~206 |
 | Technophobe | 18.00% | ~168 |
 | Recycler | 16.00% | ~150 |
 | Chain Killer | 14.00% | ~131 |
 | Are you not entertained? | 13.00% | ~122 |
+| Jarhead | 13.00% | ~122 |
 | Hold The Line | 13.00% | ~122 |
 | There Can Be Only One! | 13.00% | ~122 |
 | Ganglord | 12.00% | ~112 |
-| Jarhead | 12.00% | ~112 |
 | Infiltrator | 11.00% | ~103 |
 | Newtonian Knockout | 11.00% | ~103 |
 | Pushing Daisy | 11.00% | ~103 |

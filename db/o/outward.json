@@ -484,7 +484,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2722,
+  "EOS_Progressed": 2723,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
@@ -1954,6 +1954,11 @@
       "Time": "2023-06-01T17:02:29.2962359+00:00",
       "NumProgressed": 2722,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T18:02:31.7300975+00:00",
+      "NumProgressed": 2723,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2005,7 +2010,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "CrowdPleaser",
@@ -2147,9 +2152,9 @@
       "ID": "ReadyforSummer_41",
       "SetID": "c4hee28",
       "Name": "Ready for Summer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1362
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2173,7 +2178,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2253,7 +2258,7 @@
       "Name": "They\u0027ll Tell Stories About This",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ThisWasAMistake",
@@ -2300,15 +2305,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2722,
+      "Progressed": 2723,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-01T17:02:29.2962355+00:00",
+  "LastChanged_Achievements": "2023-06-01T18:02:31.7300968+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-06-01T16:57:30.3677126+00:00",
-  "LastUpdate_Achievements": "2023-06-01T17:02:29.2962763+00:00"
+  "LastUpdate_Ratings": "2023-06-01T17:57:48.0959792+00:00",
+  "LastUpdate_Achievements": "2023-06-01T18:02:31.7301593+00:00"
 }

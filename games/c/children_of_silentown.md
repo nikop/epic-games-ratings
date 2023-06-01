@@ -22,12 +22,12 @@
 | Mysterious paintings | 31.00% | ~47 |
 | Depths of the well | 24.00% | ~37 |
 | Children | 22.00% | ~34 |
-| Huge Snail | 17.00% | ~26 |
+| Huge Snail | 18.00% | ~28 |
 | Flower of hope | 14.00% | ~21 |
 | Back Home | 12.00% | ~18 |
 | Friend | 11.00% | ~17 |
 | Forest Howl | 10.00% | ~15 |
-| Old kettle | 9.00% | ~14 |
+| Old kettle | 10.00% | ~15 |
 | Hope | 5.00% | ~8 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

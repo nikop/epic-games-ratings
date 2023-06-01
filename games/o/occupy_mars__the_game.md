@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.80 (Ranked 917)  
+Rating: 3.86 (Ranked 911)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 3.80 (Ranked 917)
 | Electrician | 33.00% | ~350 |
 | Fear my botany powers, Mars | 31.00% | ~329 |
 | Zero Waste | 28.00% | ~297 |
+| I am the greatest botanist on this planet. | 28.00% | ~297 |
 | Bob The Builder | 28.00% | ~297 |
-| I am the greatest botanist on this planet. | 27.00% | ~286 |
 | Miner | 23.00% | ~244 |
 | Gardener | 22.00% | ~233 |
 | Houston we have a problem | 19.00% | ~201 |
@@ -18,12 +18,12 @@ Rating: 3.80 (Ranked 917)
 | Detective | 16.00% | ~170 |
 | The Collector | 12.00% | ~127 |
 | Get your hands dirty | 9.00% | ~95 |
-| All Wheel Trouble | 5.00% | ~53 |
+| All Wheel Trouble | 6.00% | ~64 |
 | ITS crash site | 4.00% | ~42 |
 | Space Forest | 4.00% | ~42 |
 | DeDust | 3.00% | ~32 |
 | “Aliens” | 2.00% | ~21 |
-| Plumber | 1.00% | ~11 |
+| Plumber | 2.00% | ~21 |
 | To infinity and beyond! | 0.90% | ~10 |
 | Hard Landing | 0.80% | ~8 |
 | Driver's License | 0.60% | ~6 |
@@ -93,3 +93,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-26 | 3.79 | 0 | 0 |
 | 2023-05-27 | 3.77 | 0 | 0 |
 | 2023-05-28 | 3.80 | 0 | 0 |
+| 2023-06-01 | 3.86 | 0 | 0 |

@@ -13,17 +13,17 @@
 | No, Thanks! | 54.00% | ~303 |
 | Time Flies | 52.00% | ~292 |
 | The Prince in Heels | 51.00% | ~286 |
+| Right On Time | 50.00% | ~280 |
 | The Harder They Fall | 50.00% | ~280 |
-| Right On Time | 49.00% | ~275 |
 | Fast Learner | 48.00% | ~269 |
 | Immaculate Aim | 48.00% | ~269 |
 | Make Up For Lost Time | 47.00% | ~264 |
 | Breaking Down Barriers | 43.00% | ~241 |
-| The Steel Shadow | 37.00% | ~208 |
+| The Steel Shadow | 38.00% | ~213 |
 | Golem Chaser | 37.00% | ~208 |
 | Like Clockwork | 35.00% | ~196 |
 | The Wicked Twins | 34.00% | ~191 |
-| The Betrayer | 32.00% | ~180 |
+| The Betrayer | 33.00% | ~185 |
 | Family Memories | 31.00% | ~174 |
 | Check Your Pulse | 30.00% | ~168 |
 | Good Neighbor | 30.00% | ~168 |
@@ -36,7 +36,7 @@
 | Syron for Hope | 21.00% | ~118 |
 | Ask Questions Later | 21.00% | ~118 |
 | Chaincrawler Explorer | 20.00% | ~112 |
-| Factorywood Explorer | 19.00% | ~107 |
+| Factorywood Explorer | 20.00% | ~112 |
 | Fairgrounds Explorer | 19.00% | ~107 |
 | Cultivair Explorer | 15.00% | ~84 |
 | Theater Explorer | 15.00% | ~84 |

@@ -258,9 +258,9 @@
       "ID": "collect-combos",
       "SetID": "799afm0",
       "Name": "Experimentalist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "collect-discounted-items1",
@@ -282,9 +282,9 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 163
     },
     {
       "ID": "different-items1",
@@ -386,9 +386,9 @@
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "get-all",
@@ -402,9 +402,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "last-hero",
@@ -490,9 +490,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "win-with-3-cultists",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-01T17:05:27.2954726+00:00",
+  "LastChanged_Achievements": "2023-06-01T18:06:26.7493341+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-06-01T16:58:19.0817345+00:00",
-  "LastUpdate_Achievements": "2023-06-01T17:05:27.2954992+00:00"
+  "LastUpdate_Ratings": "2023-06-01T17:58:46.1767761+00:00",
+  "LastUpdate_Achievements": "2023-06-01T18:06:26.7493628+00:00"
 }

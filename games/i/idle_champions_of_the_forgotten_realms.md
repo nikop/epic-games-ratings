@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~894 |
 | The Cursed Farmer | 0.90% | ~805 |
-| The Court of Storms | 0.80% | ~445 |
+| The Court of Storms | 0.80% | ~446 |
 | Beast Intentions | 0.70% | ~626 |
 | The Mad Wizard | 0.70% | ~626 |
 | Beware the Jabberwock | 0.70% | ~390 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,413 (Ranked 61)  
+Progressed: 89,420 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,20 +542,20 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,413 | 1,905 |
+| 2023-06-01 | 89,420 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
-Sum: 30,011 (Ranked 37)  
+Sum: 30,013 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,913 |
 | This game is Great for Beginners | 4,849 |
-| This game has Quickly Understood Controls | 4,608 |
+| This game has Quickly Understood Controls | 4,609 |
 | This game is Relaxing | 4,502 |
 | This game is Highly Recommended | 3,952 |
 | This game has Amazing Characters | 3,945 |
-| This game has Playful Visuals | 3,242 |
+| This game has Playful Visuals | 3,243 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -685,4 +685,4 @@ Diff (max vs sum): 27
 | 2023-05-29 | 4.06 | - | 4,910 | 29,997 |
 | 2023-05-30 | 4.06 | - | 4,911 | 30,004 |
 | 2023-05-31 | 4.06 | - | 4,913 | 30,007 |
-| 2023-06-01 | 4.06 | - | 4,913 | 30,011 |
+| 2023-06-01 | 4.06 | - | 4,913 | 30,013 |

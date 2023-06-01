@@ -41,9 +41,9 @@
 | A Megapint...? | 28.00% | ~19 |
 | Another one bites the iron | 28.00% | ~19 |
 | Ripe Meat Off The Bone! | 25.00% | ~17 |
-| Hovering around | 23.00% | ~16 |
+| Hovering around | 25.00% | ~17 |
+| Your daily dose of Vitamin C. | 23.00% | ~16 |
 | You're not so Big anymore, Boi! | 22.00% | ~15 |
-| Your daily dose of Vitamin C. | 22.00% | ~15 |
 | Kleptomaniac | 22.00% | ~15 |
 | I cant stand still! | 20.00% | ~14 |
 | Just wing it! | 17.00% | ~12 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 292)  
+Progressed: 69 (Ranked 293)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
