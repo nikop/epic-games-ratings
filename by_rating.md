@@ -70,7 +70,7 @@
 | 64 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 491 |
 | 64 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 512 | 184 |
 | 64 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 20 | 485 |
-| 64 | [Sifu](games/s/sifu.md) | 4.82 | 6,114 | 53 |
+| 64 | [Sifu](games/s/sifu.md) | 4.82 | 6,119 | 53 |
 | 64 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
 | 73 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 0 | 491 |
 | 73 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 196 |
@@ -385,7 +385,7 @@
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 491 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,137 | 21 |
 | 385 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,066 | 28 |
-| 385 | [Control](games/c/control.md) | 4.60 | 8,309 | 39 |
+| 385 | [Control](games/c/control.md) | 4.60 | 8,313 | 39 |
 | 385 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 356 |
 | 385 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 36,212 | 12 |
 | 385 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,337 | 26 |
@@ -568,7 +568,7 @@
 | 559 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 231 | 246 |
 | 559 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 491 |
 | 559 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 491 |
-| 559 | [Maneater](games/m/maneater.md) | 4.49 | 13,482 | 25 |
+| 559 | [Maneater](games/m/maneater.md) | 4.49 | 13,483 | 25 |
 | 559 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 616 | 164 |
 | 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 491 |
 | 559 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 0 | 491 |
@@ -597,7 +597,7 @@
 | 586 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 491 |
 | 596 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 491 |
 | 596 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 47 | 397 |
-| 596 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,320 | 82 |
+| 596 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,323 | 82 |
 | 596 | [Figment](games/f/figment.md) | 4.46 | 20 | 485 |
 | 596 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 316 |
 | 596 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.46 | 0 | 491 |
@@ -737,27 +737,27 @@
 | 726 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 491 |
 | 726 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,973 | 63 |
 | 726 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 243 |
-| 726 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 491 |
 | 726 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 0 | 491 |
-| 740 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 491 |
-| 740 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 311 |
-| 740 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 491 |
-| 740 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.33 | 0 | 491 |
-| 740 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 491 |
-| 740 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 0 | 491 |
-| 740 | [ZOMBI](games/z/zombi.md) | 4.33 | 0 | 491 |
-| 747 | [Filament](games/f/filament.md) | 4.32 | 552 | 176 |
-| 747 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 73 | 359 |
-| 747 | [House Party](games/h/house_party.md) | 4.32 | 0 | 491 |
-| 747 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 450 |
-| 747 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 491 |
-| 747 | [Torchlight](games/t/torchlight.md) | 4.32 | 21 | 480 |
-| 747 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 178 |
-| 754 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 491 |
-| 754 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 345 | 213 |
-| 754 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 491 |
-| 754 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 942 | 141 |
-| 754 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 0 | 491 |
+| 739 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 491 |
+| 739 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 311 |
+| 739 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 491 |
+| 739 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.33 | 0 | 491 |
+| 739 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 491 |
+| 739 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 0 | 491 |
+| 739 | [ZOMBI](games/z/zombi.md) | 4.33 | 0 | 491 |
+| 746 | [Filament](games/f/filament.md) | 4.32 | 552 | 176 |
+| 746 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 73 | 359 |
+| 746 | [House Party](games/h/house_party.md) | 4.32 | 0 | 491 |
+| 746 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 450 |
+| 746 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 491 |
+| 746 | [Torchlight](games/t/torchlight.md) | 4.32 | 21 | 480 |
+| 746 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 178 |
+| 753 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 491 |
+| 753 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 345 | 213 |
+| 753 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 491 |
+| 753 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 942 | 141 |
+| 753 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 491 |
+| 753 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 0 | 491 |
 | 759 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 491 |
 | 759 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 491 |
 | 759 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,369,675 | 1 |
