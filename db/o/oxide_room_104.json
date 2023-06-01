@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BATHROOM",
@@ -395,9 +395,9 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
@@ -410,8 +410,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:05:20.8642994+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:06:20.7753277+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:08.2504111+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:57:08.2968325+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:05:20.8643163+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:57:35.197928+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:06:20.7753499+00:00"
 }

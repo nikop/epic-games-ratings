@@ -16,9 +16,9 @@
 | The New World | 41.00% | ~137 |
 | Open Sesame | 39.00% | ~131 |
 | Sticky Fingers | 39.00% | ~131 |
+| Back In The Saddle | 38.00% | ~127 |
 | Knives Out | 38.00% | ~127 |
 | Land, Ho! | 38.00% | ~127 |
-| Back In The Saddle | 37.00% | ~124 |
 | No Man Is An Island | 36.00% | ~121 |
 | At Wits' End | 35.00% | ~117 |
 | Going Once... | 33.00% | ~111 |

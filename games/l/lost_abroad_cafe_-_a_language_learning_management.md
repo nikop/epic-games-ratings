@@ -13,7 +13,7 @@
 | Tea Guru | 0.00% | ~0 |
 | Tea Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 309)  
+Progressed: 37 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -26,4 +26,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 25 | 0 |
 | 2023-05-30 | 29 | 0 |
 | 2023-05-31 | 35 | 0 |
-| 2023-06-01 | 36 | 0 |
+| 2023-06-01 | 37 | 0 |

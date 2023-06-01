@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2594,9 +2594,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9405,
+  "EOS_Progressed": 9406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5129,6 +5129,11 @@
       "Time": "2023-06-01T11:05:49.850051+00:00",
       "NumProgressed": 9405,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T12:06:53.6948049+00:00",
+      "NumProgressed": 9406,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5148,7 +5153,7 @@
       "Name": "Burning City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -5276,7 +5281,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "19_EqualToAroden",
@@ -5388,7 +5393,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6036,7 +6041,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -6067,21 +6072,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8187,
+      "Progressed": 8188,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9405,
+      "Progressed": 9406,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-31T05:58:37.1756671+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:05:49.8500506+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:06:53.6948039+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:58:03.1782795+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:05:49.8501856+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:58:45.2598585+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:06:53.6949608+00:00"
 }

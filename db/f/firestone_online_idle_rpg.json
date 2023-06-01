@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.94,
+  "Rating": 3.91,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -104,15 +104,21 @@
       "Rating": 3.94,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-01T11:58:24.5619647+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1242,
+  "EOS_Progressed": 1243,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2470,6 +2476,11 @@
       "Time": "2023-06-01T10:05:58.71781+00:00",
       "NumProgressed": 1242,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T12:06:39.4453288+00:00",
+      "NumProgressed": 1243,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2729,7 +2740,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "howdoyouturnthison",
@@ -2873,7 +2884,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "prestigiousx10",
@@ -2967,9 +2978,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 236
     },
     {
       "ID": "thepowerofawakening",
@@ -3041,7 +3052,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "warmachinesarmy",
@@ -3080,16 +3091,16 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1242,
+      "Progressed": 1243,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-05-31T02:19:10.2971852+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:05:36.9459549+00:00",
+  "LastChanged": "2023-06-01T11:58:24.5619645+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:06:39.4453281+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:57:48.7361427+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:05:36.9460227+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:58:24.5619651+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:06:39.4454232+00:00"
 }

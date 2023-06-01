@@ -1,9 +1,9 @@
 {
   "ID": "920fd14e9d90478ba2e9b5a5ae987b02",
   "Name": "Sora",
-  "Ranking_EOS_Progress": 428,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:33.2736307+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:58:56.226964+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:04:38.2079935+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:59:50.4750425+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:05:28.8872738+00:00"
 }

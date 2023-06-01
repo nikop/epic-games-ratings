@@ -5,11 +5,11 @@ Rating: 4.44 (Ranked 629)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~477 |
-| Confirming Suspicions | 19.00% | ~377 |
+| Meeting Resistance | 25.00% | ~497 |
+| Confirming Suspicions | 19.00% | ~378 |
 | The Kraken Wakes | 15.00% | ~298 |
 | It's Starting to Crack | 12.00% | ~238 |
-| Lord of War | 11.00% | ~218 |
+| Lord of War | 11.00% | ~219 |
 | Resourceful | 10.00% | ~199 |
 | Change the Channel | 10.00% | ~199 |
 | As Quiet as a Mouse | 8.00% | ~159 |
@@ -22,8 +22,8 @@ Rating: 4.44 (Ranked 629)
 | Explosive Efficiency | 6.00% | ~119 |
 | The Kraken Sleeps | 6.00% | ~119 |
 | Liberté | 5.00% | ~99 |
+| Opposing Force | 5.00% | ~99 |
 | Gunslinger | 5.00% | ~99 |
-| Opposing Force | 4.00% | ~79 |
 | Fields of Glory | 4.00% | ~79 |
 | Die Nussknacker Sweet! | 4.00% | ~79 |
 | Der Geist | 4.00% | ~79 |
@@ -41,9 +41,9 @@ Rating: 4.44 (Ranked 629)
 | The Long Game | 1.00% | ~20 |
 | It'll Buff Right Out | 1.00% | ~20 |
 | Locomotion Commotion | 0.90% | ~18 |
-| Road Rage | 0.80% | ~16 |
-| Herr Today, Gone Tomorrow | 0.80% | ~15 |
-| Operation Foxley | 0.80% | ~15 |
+| Road Rage | 0.90% | ~18 |
+| Herr Today, Gone Tomorrow | 0.80% | ~16 |
+| Operation Foxley | 0.80% | ~16 |
 | Siegebreaker | 0.70% | ~14 |
 | Ghost of Falaise | 0.70% | ~14 |
 | From Paris with Love | 0.60% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 629)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,986 (Ranked 151)  
+Progressed: 1,987 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
-| 2023-06-01 | 1,986 | 2 |
+| 2023-06-01 | 1,987 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

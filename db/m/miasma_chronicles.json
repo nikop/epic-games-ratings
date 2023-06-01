@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1114,9 +1114,9 @@
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 112
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1258,9 +1258,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 336
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1322,9 +1322,9 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 65
     },
     {
       "ID": "SENSEI",
@@ -1411,8 +1411,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:00:15.5942266+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:01:30.3305556+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:58:03.0313583+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:00:15.5942644+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:58:45.0920868+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:01:30.3306169+00:00"
 }

@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Remembering of the past | 100.00% | ~1 |
 | Slam-KABAM | 0.00% | ~0 |
 | Heavy Thoughts | 0.00% | ~0 |
 | Patient Listener | 0.00% | ~0 |
@@ -14,7 +15,6 @@
 | GOAAAAAAAAAL! | 0.00% | ~0 |
 | Come full circle | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
-| Remembering of the past | 0.00% | ~0 |
 | Fight like an idiot | 0.00% | ~0 |
 | Dance like an idiot | 0.00% | ~0 |
 | I'm Back at the Surface now | 0.00% | ~0 |
@@ -22,6 +22,13 @@
 | Flee like an idiot | 0.00% | ~0 |
 | Black Hog Down | 0.00% | ~0 |
 | Elementary, My Dear Dusty | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 405)  
+Completed: 0 (0.00%) (Ranked 208)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-06-01 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

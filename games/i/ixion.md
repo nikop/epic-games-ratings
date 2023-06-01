@@ -15,11 +15,11 @@ Rating: 4.57 (Ranked 438)
 | Guy de Borderlands | 5.00% | ~117 |
 | Breaking Protocol | 5.00% | ~117 |
 | Ain't Nobody Got Time for That | 5.00% | ~117 |
+| Hope Seeker | 5.00% | ~117 |
 | A Hunk of Junk | 4.00% | ~94 |
 | Fully Recycled | 4.00% | ~94 |
 | Permanent Redesigns | 4.00% | ~94 |
 | The Ship of Theseus | 4.00% | ~94 |
-| Hope Seeker | 4.00% | ~94 |
 | Exceeding Capacity | 3.00% | ~70 |
 | Please Make it Stop! | 3.00% | ~70 |
 | Man's Best Friend | 2.00% | ~47 |

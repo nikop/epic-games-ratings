@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,375 |
+| Unforgiven | 87.00% | ~1,376 |
 | Self-Improvement | 71.00% | ~1,123 |
-| Perky | 66.00% | ~1,043 |
+| Perky | 66.00% | ~1,044 |
 | Let’s Ride | 60.00% | ~949 |
-| Welcome to the Weird West | 58.00% | ~917 |
-| Dead or Alive | 56.00% | ~885 |
+| Welcome to the Weird West | 58.00% | ~918 |
+| Dead or Alive | 56.00% | ~886 |
 | Full House | 37.00% | ~585 |
 | Off the Trail | 34.00% | ~538 |
-| Justice Served | 29.00% | ~458 |
+| Justice Served | 29.00% | ~459 |
 | Chain Reaction | 27.00% | ~427 |
-| Scholar | 25.00% | ~395 |
-| Through Their Eyes | 25.00% | ~395 |
-| Dishonored | 24.00% | ~379 |
-| Rain of Death | 24.00% | ~379 |
+| Scholar | 25.00% | ~396 |
+| Through Their Eyes | 25.00% | ~396 |
+| Dishonored | 24.00% | ~380 |
+| Rain of Death | 24.00% | ~380 |
 | The Great Escape | 23.00% | ~364 |
 | That’s All, Folks | 18.00% | ~285 |
 | Fallen Star | 16.00% | ~253 |
@@ -38,7 +38,7 @@ Number of Ratings: 125  (23.09.2022)
 | Eternity Can Wait | 9.00% | ~142 |
 | Mystery Machine | 9.00% | ~142 |
 | The Philosopher’s Stone | 9.00% | ~142 |
-| Gold Digger | 8.00% | ~126 |
+| Gold Digger | 8.00% | ~127 |
 | Do Not Pass Go… | 7.00% | ~111 |
 | Getting the Gang Back Together | 7.00% | ~111 |
 | Monster Hunter | 7.00% | ~111 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,581 (Ranked 155)  
+Progressed: 1,582 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.13%) (Ranked 155)
 | 2023-05-29 | 1,571 | 2 |
 | 2023-05-30 | 1,575 | 2 |
 | 2023-05-31 | 1,580 | 2 |
-| 2023-06-01 | 1,581 | 2 |
+| 2023-06-01 | 1,582 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 466)  
 Sum: 24 (Ranked 472)  

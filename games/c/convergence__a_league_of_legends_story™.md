@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 93.00% | ~517 |
 | Rail Rat | 78.00% | ~434 |
-| The Mysterious Stranger | 75.00% | ~417 |
+| The Mysterious Stranger | 76.00% | ~423 |
 | Immaculate Aim | 64.00% | ~356 |
 | The Brass Boss | 57.00% | ~317 |
 | Honest Mistake | 55.00% | ~306 |
@@ -28,7 +28,7 @@
 | Check Your Pulse | 30.00% | ~167 |
 | Good Neighbor | 29.00% | ~161 |
 | Street Style | 28.00% | ~156 |
-| The Loose Cannon | 27.00% | ~150 |
+| The Loose Cannon | 28.00% | ~156 |
 | The Man Who Shattered Time | 23.00% | ~128 |
 | The Family Fortune | 23.00% | ~128 |
 | Whiz Kid | 22.00% | ~122 |

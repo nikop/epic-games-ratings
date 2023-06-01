@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1057,
+  "EOS_Progressed": 1058,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1257,6 +1257,11 @@
       "Time": "2023-06-01T11:03:36.4713249+00:00",
       "NumProgressed": 1057,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T12:04:13.6002536+00:00",
+      "NumProgressed": 1058,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1426,9 +1431,9 @@
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 32
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -1484,7 +1489,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -1524,7 +1529,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1651,7 +1656,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1057,
+      "Progressed": 1058,
       "Completed": 0
     }
   ],
@@ -1659,8 +1664,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-28T17:57:09.9383158+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:03:36.4713244+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:04:13.6002528+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:57:16.8566273+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:03:36.4713594+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:57:47.3301457+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:04:13.6003032+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,234 |
-| Tutti Eroi! | 54.00% | ~3,234 |
-| You Shall Not Pass | 52.00% | ~3,114 |
-| Avanti Savoia! | 46.00% | ~2,755 |
-| Conrad von Hotzensocks | 36.00% | ~2,156 |
-| Mamma Mia! | 36.00% | ~2,156 |
-| Gabriele D'Annunzio | 32.00% | ~1,916 |
+| Peak Performance | 54.00% | ~3,235 |
+| Tutti Eroi! | 54.00% | ~3,235 |
+| You Shall Not Pass | 52.00% | ~3,115 |
+| Avanti Savoia! | 46.00% | ~2,756 |
+| Conrad von Hotzensocks | 36.00% | ~2,157 |
+| Mamma Mia! | 36.00% | ~2,157 |
+| Gabriele D'Annunzio | 32.00% | ~1,917 |
 | Silver Lining | 28.00% | ~1,677 |
 | Aurelio Baruzzi | 22.00% | ~1,318 |
 | Veni Vidi Vici | 21.00% | ~1,258 |
@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,138 |
 | Ragazzi del '99 | 17.00% | ~1,018 |
 | The Lion of the Isonzo | 17.00% | ~1,018 |
-| Thus With A Kiss | 15.00% | ~898 |
+| Thus With A Kiss | 15.00% | ~899 |
 | Dirty Dozen | 13.00% | ~779 |
 | Luigi Cadorna | 13.00% | ~779 |
 | Uomo Universale | 13.00% | ~779 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 6.00% | ~359 |
 | Generalissimo | 6.00% | ~359 |
 | The Enlightment | 6.00% | ~359 |
-| Cercatore d'Oro | 5.00% | ~299 |
+| Cercatore d'Oro | 5.00% | ~300 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~240 |
 | Ponte of No Return | 3.00% | ~180 |
 | Seeing Red | 3.00% | ~180 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~24 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,989 (Ranked 121)  
+Progressed: 5,991 (Ranked 121)  
 Completed: 8 (0.13%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 8 (0.13%) (Ranked 155)
 | 2023-05-29 | 5,952 | 8 |
 | 2023-05-30 | 5,961 | 8 |
 | 2023-05-31 | 5,977 | 8 |
-| 2023-06-01 | 5,989 | 8 |
+| 2023-06-01 | 5,991 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 441)  
 Sum: 240 (Ranked 343)  

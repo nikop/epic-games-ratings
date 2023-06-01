@@ -272,9 +272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10962,
+  "EOS_Progressed": 10963,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2352,6 +2352,11 @@
       "Time": "2023-06-01T09:05:44.359535+00:00",
       "NumProgressed": 10962,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-01T12:06:41.4363555+00:00",
+      "NumProgressed": 10963,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -2363,7 +2368,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10085
+      "UsersEstimate": 10086
     },
     {
       "ID": "ACH_02",
@@ -2371,7 +2376,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 8550
+      "UsersEstimate": 8551
     },
     {
       "ID": "ACH_03",
@@ -2395,7 +2400,7 @@
       "Name": "In our Wake",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 7235
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_06",
@@ -2403,7 +2408,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "ACH_07",
@@ -2411,7 +2416,7 @@
       "Name": "Felons",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6577
+      "UsersEstimate": 6578
     },
     {
       "ID": "ACH_08",
@@ -2419,7 +2424,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 6358
+      "UsersEstimate": 6359
     },
     {
       "ID": "ACH_09",
@@ -2427,7 +2432,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 6029
+      "UsersEstimate": 6030
     },
     {
       "ID": "ACH_10",
@@ -2435,7 +2440,7 @@
       "Name": "Bloodline",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "ACH_11",
@@ -2451,7 +2456,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "ACH_13",
@@ -2475,7 +2480,7 @@
       "Name": "Dying Sun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3398
+      "UsersEstimate": 3399
     },
     {
       "ID": "ACH_16",
@@ -2587,7 +2592,7 @@
       "Name": "Sneaky",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_30",
@@ -2642,7 +2647,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10962,
+      "Progressed": 10963,
       "Completed": 32
     }
   ],
@@ -2650,8 +2655,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:05:38.7211428+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:06:41.436355+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.0368466+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:58:58.751904+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:05:38.7211681+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:59:53.995499+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:06:41.4363937+00:00"
 }

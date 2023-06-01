@@ -2,12 +2,12 @@
   "ID": "4817ba5c11504724ba4d5817c8995dff",
   "Name": "Jurassic World Evolution 2",
   "ProductSlug": "jurassic-world-evolution-2",
-  "Ranking_Rating": 141,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 119,
-  "Ranking_EOS_Progress": 428,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-11-09T14:00:00+00:00",
@@ -3278,10 +3278,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 5543,
       "NumberOfAwardsMax": 605
+    },
+    {
+      "Time": "2023-06-01T11:58:15.4650519+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5544,
+      "NumberOfAwardsMax": 605
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5543,
+  "NumberOfAwards": 5544,
   "NumberOfAwardsMax": 605,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3289,7 +3295,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 561
+      "Count": 562
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3363,8 +3369,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-05-30T18:57:52.0443879+00:00",
+  "LastChanged": "2023-06-01T11:58:15.4650517+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:39.8972753+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:57:40.731447+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:04:11.1408805+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:58:15.4650524+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:04:55.8110379+00:00"
 }

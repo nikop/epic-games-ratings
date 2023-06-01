@@ -10,8 +10,8 @@
 | Room 104 | 73.00% | ~19 |
 | Face to face | 73.00% | ~19 |
 | Let's play a game… | 69.00% | ~18 |
-| Now or never | 62.00% | ~16 |
-| First aid | 54.00% | ~14 |
+| Now or never | 65.00% | ~17 |
+| First aid | 58.00% | ~15 |
 | Soundtrack | 50.00% | ~13 |
 | Antidote | 46.00% | ~12 |
 | Pick the right door | 23.00% | ~6 |

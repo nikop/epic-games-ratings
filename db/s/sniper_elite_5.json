@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1986,
+  "EOS_Progressed": 1987,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
@@ -2127,6 +2127,11 @@
       "Time": "2023-06-01T11:05:30.6618364+00:00",
       "NumProgressed": 1986,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T12:06:32.2477055+00:00",
+      "NumProgressed": 1987,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2168,9 +2173,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2216,9 +2221,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 497
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2306,7 +2311,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2346,7 +2351,7 @@
       "Name": "Lord of War",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2488,9 +2493,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -2602,7 +2607,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -2610,7 +2615,7 @@
       "Name": "Operation Foxley",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -2705,13 +2710,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1937,
+      "Progressed": 1938,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1986,
+      "Progressed": 1987,
       "Completed": 2
     }
   ],
@@ -2719,8 +2724,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:05:30.6618359+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:06:32.2477045+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:59:58.0167094+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:05:30.6618967+00:00"
+  "LastUpdate_Ratings": "2023-06-01T12:01:06.563098+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:06:32.2477901+00:00"
 }

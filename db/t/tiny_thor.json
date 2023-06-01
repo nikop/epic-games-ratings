@@ -2,9 +2,9 @@
   "ID": "ac3484af21da4de2bde43959a14a465c",
   "Name": "Tiny Thor",
   "ProductSlug": "tiny-thor-76de1f",
-  "Ranking_EOS_Progress": 428,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-05T12:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-22T08:02:13.999598+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:03:10.8284114+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:03:43.2221092+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:20.2885984+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:58:22.9121395+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:03:10.8284138+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:59:08.798569+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:03:43.2221119+00:00"
 }

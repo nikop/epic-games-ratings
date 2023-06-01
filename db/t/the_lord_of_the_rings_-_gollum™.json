@@ -2,7 +2,7 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 87,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -555,6 +555,11 @@
       "Time": "2023-06-01T11:05:17.9264323+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T12:06:17.3104671+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -590,7 +595,7 @@
       "Name": "The Wraith",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Chapter10",
@@ -614,7 +619,7 @@
       "Name": "The Breeder",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Chapter4",
@@ -622,7 +627,7 @@
       "Name": "The Veteran",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Chapter5",
@@ -630,7 +635,7 @@
       "Name": "The Traitor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Chapter6",
@@ -670,7 +675,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Collectibles2",
@@ -694,7 +699,7 @@
       "Name": "Sweet Darkness",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ElfFriend",
@@ -734,7 +739,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Memories",
@@ -774,7 +779,7 @@
       "Name": "Master of the Old Game",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RiverHobbit",
@@ -790,7 +795,7 @@
       "Name": "So Silly!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Scout",
@@ -814,7 +819,7 @@
       "Name": "Made a Song",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "StealFood",
@@ -846,21 +851,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:05:17.9264318+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:06:17.3104665+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:57:34.5993406+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:05:17.9264557+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:58:08.2197482+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:06:17.3104976+00:00"
 }

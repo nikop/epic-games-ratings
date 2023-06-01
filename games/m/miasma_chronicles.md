@@ -10,7 +10,7 @@ Rating: 4.29 (Ranked 765)
 | Aspiring Editor | 69.00% | ~643 |
 | Gun for Hire | 64.00% | ~596 |
 | I am the law! | 53.00% | ~494 |
-| Lumberjack | 35.00% | ~326 |
+| Lumberjack | 36.00% | ~336 |
 | Croaked | 31.00% | ~289 |
 | Limp Richard | 31.00% | ~289 |
 | Firestarter | 30.00% | ~280 |
@@ -25,17 +25,17 @@ Rating: 4.29 (Ranked 765)
 | Chain Killer | 13.00% | ~121 |
 | Hold The Line | 13.00% | ~121 |
 | Are you not entertained? | 12.00% | ~112 |
+| Jarhead | 12.00% | ~112 |
 | There Can Be Only One! | 12.00% | ~112 |
 | Ganglord | 11.00% | ~103 |
-| Jarhead | 11.00% | ~103 |
 | Newtonian Knockout | 11.00% | ~103 |
 | Pushing Daisy | 11.00% | ~103 |
 | Infiltrator | 10.00% | ~93 |
 | Experienced | 8.00% | ~75 |
 | Ruthless | 8.00% | ~75 |
 | Endgame | 7.00% | ~65 |
+| Savior | 7.00% | ~65 |
 | The Watchers | 7.00% | ~65 |
-| Savior | 6.00% | ~56 |
 | Chain Reaction | 5.00% | ~47 |
 | Commando | 5.00% | ~47 |
 | Curveball | 5.00% | ~47 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3414,
+  "EOS_Progressed": 3415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -448,6 +448,11 @@
       "Time": "2023-06-01T10:05:55.3668752+00:00",
       "NumProgressed": 3414,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T12:06:35.5299016+00:00",
+      "NumProgressed": 3415,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -515,7 +520,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -539,7 +544,7 @@
       "Name": "...To Heroes",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -571,7 +576,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -659,14 +664,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3414,
+      "Progressed": 3415,
       "Completed": 0
     }
   ],
@@ -674,8 +679,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:05:33.4886605+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:06:35.5299009+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:59.8325789+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:59:04.5177956+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:05:33.4886732+00:00"
+  "LastUpdate_Ratings": "2023-06-01T12:00:00.9485097+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:06:35.5299204+00:00"
 }

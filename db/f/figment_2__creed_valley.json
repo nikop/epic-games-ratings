@@ -2,9 +2,9 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 428,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -24,12 +24,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-06-01T12:04:36.1784746+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "TotalAchievements": 18,
   "TotalAchievementsXP": 1000,
   "Achievements": [
@@ -117,9 +123,9 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story_conviction_lane",
@@ -182,7 +188,7 @@
     {
       "ID": "7e96e7l",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
@@ -190,8 +196,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:03:54.7108949+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:04:36.178474+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.0282022+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:59:30.4743437+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:03:54.7109034+00:00"
+  "LastUpdate_Ratings": "2023-06-01T12:00:33.5797474+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:04:36.1784863+00:00"
 }

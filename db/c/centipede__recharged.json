@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14134,
+  "EOS_Progressed": 14135,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2023-06-01T10:04:00.9206939+00:00",
       "NumProgressed": 14134,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-06-01T12:04:14.8150616+00:00",
+      "NumProgressed": 14135,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 16,
@@ -3501,7 +3506,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "Eyes_On_Fire",
@@ -3509,7 +3514,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "Feel_The_Thunder",
@@ -3525,7 +3530,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -3573,7 +3578,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7208
+      "UsersEstimate": 7209
     },
     {
       "ID": "Sole_Survivor",
@@ -3604,15 +3609,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14134,
+      "Progressed": 14135,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-01T11:03:37.4172801+00:00",
+  "LastChanged_Achievements": "2023-06-01T12:04:14.815061+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:37.8656226+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:58:41.2856838+00:00",
-  "LastUpdate_Achievements": "2023-06-01T11:03:37.4173032+00:00"
+  "LastUpdate_Ratings": "2023-06-01T11:59:32.3431217+00:00",
+  "LastUpdate_Achievements": "2023-06-01T12:04:14.8150948+00:00"
 }

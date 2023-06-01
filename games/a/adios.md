@@ -5,20 +5,20 @@ Rating: 3.41 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,409 |
-| Hard Worker | 20.00% | ~11,818 |
-| Master, Commander | 20.00% | ~11,818 |
-| Mechanic | 19.00% | ~11,227 |
-| Adios, Friendo | 18.00% | ~10,636 |
-| Bottom's Up | 17.00% | ~10,045 |
-| Nice Try | 16.00% | ~9,454 |
+| Be Seeing You | 21.00% | ~12,410 |
+| Hard Worker | 20.00% | ~11,819 |
+| Master, Commander | 20.00% | ~11,819 |
+| Mechanic | 19.00% | ~11,228 |
+| Adios, Friendo | 18.00% | ~10,637 |
+| Bottom's Up | 17.00% | ~10,046 |
+| Nice Try | 16.00% | ~9,455 |
 | Right On Target | 13.00% | ~7,682 |
 | Piano Man | 10.00% | ~5,909 |
 | Lazy Bones | 9.00% | ~5,318 |
-| Vinyl Vibes | 7.00% | ~4,136 |
-| Nothing Left to Say | 6.00% | ~3,545 |
-| Sniper | 6.00% | ~3,545 |
-| Cut Call | 5.00% | ~2,954 |
+| Vinyl Vibes | 7.00% | ~4,137 |
+| Nothing Left to Say | 6.00% | ~3,546 |
+| Sniper | 6.00% | ~3,546 |
+| Cut Call | 5.00% | ~2,955 |
 | Butcher | 4.00% | ~2,364 |
 | Magnetic Miracles | 4.00% | ~2,364 |
 | Spicy | 4.00% | ~2,364 |
@@ -31,7 +31,7 @@ Rating: 3.41 (Ranked 930)
 | Audiophile | 2.00% | ~1,182 |
 | Tape Head | 1.00% | ~591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,089 (Ranked 72)  
+Progressed: 59,094 (Ranked 72)  
 Completed: 494 (0.84%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 494 (0.84%) (Ranked 92)
 | 2023-05-29 | 58,741 | 488 |
 | 2023-05-30 | 58,884 | 491 |
 | 2023-05-31 | 59,036 | 492 |
-| 2023-06-01 | 59,089 | 494 |
+| 2023-06-01 | 59,094 | 494 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
