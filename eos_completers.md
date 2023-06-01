@@ -21,16 +21,16 @@
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [Remains](games/r/remains.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.95% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.94% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.86% |
-| 25 | [Scorn](games/s/scorn.md) | 6.82% |
+| 24 | [Scorn](games/s/scorn.md) | 6.87% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.86% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.27% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
-| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
+| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.95% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
@@ -45,14 +45,14 @@
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.18% |
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.09% |
-| 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.06% |
+| 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.04% |
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
 | 52 | [Lamentum](games/l/lamentum.md) | 2.80% |
-| 53 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.79% |
+| 53 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.78% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.53% |
@@ -84,15 +84,15 @@
 | 82 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.09% |
-| 85 | [Late Shift](games/l/late_shift.md) | 1.05% |
+| 85 | [Late Shift](games/l/late_shift.md) | 1.04% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.01% |
 | 87 | [Sable](games/s/sable.md) | 0.95% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
 | 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 92 | [Adios](games/a/adios.md) | 0.83% |
-| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
+| 92 | [Adios](games/a/adios.md) | 0.84% |
+| 93 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
