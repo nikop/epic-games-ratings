@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2654,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 2,
@@ -2140,6 +2140,11 @@
       "Time": "2023-06-01T05:04:24.3102893+00:00",
       "NumProgressed": 2654,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T07:03:46.6697227+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2157,9 +2162,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1062
     },
     {
       "ID": "11",
@@ -2191,7 +2196,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "15",
@@ -2207,7 +2212,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "17",
@@ -2223,7 +2228,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "19",
@@ -2239,7 +2244,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "20",
@@ -2303,7 +2308,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "6",
@@ -2319,7 +2324,7 @@
       "Name": "MASTER",
       "Percentage": 10,
       "XP": 65,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "8",
@@ -2335,20 +2340,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:03:50.7203775+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:03:46.6697221+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:59:21.2510101+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:03:50.7204004+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:59:40.0843148+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:03:46.6697498+00:00"
 }

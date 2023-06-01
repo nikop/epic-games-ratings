@@ -20,7 +20,7 @@
 | Land, Ho! | 38.00% | ~127 |
 | Back In The Saddle | 37.00% | ~124 |
 | No Man Is An Island | 36.00% | ~120 |
-| At Wits' End | 34.00% | ~114 |
+| At Wits' End | 35.00% | ~117 |
 | Going Once... | 33.00% | ~110 |
 | Bookworm | 32.00% | ~107 |
 | Up In Flames | 32.00% | ~107 |

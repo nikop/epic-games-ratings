@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -3228,9 +3228,9 @@
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
       "SetID": "49kdhbg",
       "Name": "Double tap",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15309
+      "UsersEstimate": 15735
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3476,8 +3476,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-01T06:00:27.8836731+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:50.9542026+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:07:12.8074373+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:00:27.8836735+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:50.9542605+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:00:45.8879334+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:07:12.8075065+00:00"
 }

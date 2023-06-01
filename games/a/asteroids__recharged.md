@@ -9,7 +9,7 @@
 | The Hitman | 56.00% | ~40 |
 | Keep Yourself Alive | 54.00% | ~38 |
 | Misfire | 45.00% | ~32 |
-| All Dead, All Dead | 39.00% | ~28 |
+| All Dead, All Dead | 41.00% | ~29 |
 | The Miracle | 38.00% | ~27 |
 | The Invisible Man | 35.00% | ~25 |
 | We Will Rock You | 30.00% | ~21 |

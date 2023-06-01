@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.33 (Ranked 740)  
+Rating: 4.33 (Ranked 739)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 4.33 (Ranked 740)
 | Inge Frank | 31.00% | ~114 |
 | The Search | 30.00% | ~110 |
 | Hugo Beckers | 29.00% | ~107 |
-| The Family | 26.00% | ~96 |
+| The Family | 27.00% | ~99 |
 | Well-travelled | 25.00% | ~92 |
 | Thinking of Everything | 25.00% | ~92 |
 | Exquisite Artwork | 25.00% | ~92 |

@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1053,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1237,6 +1237,11 @@
       "Time": "2023-06-01T05:04:25.2759422+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T07:03:47.4591989+00:00",
+      "NumProgressed": 1053,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1318,9 +1323,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1440,7 +1445,7 @@
       "Name": "Gardener",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1504,7 +1509,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1520,7 +1525,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -1622,16 +1627,16 @@
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
       "SetID": "l546gc",
       "Name": "To infinity and beyond!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 0
     }
   ],
@@ -1639,8 +1644,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-28T17:57:09.9383158+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:03:51.4526027+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:03:47.4591983+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:57:26.1767601+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:03:51.45264+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:57:44.552176+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:03:47.4592465+00:00"
 }

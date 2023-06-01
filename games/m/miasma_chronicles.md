@@ -5,21 +5,21 @@ Rating: 4.29 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~853 |
-| Ranidaphobia | 72.00% | ~667 |
+| First Blood | 92.00% | ~854 |
+| Ranidaphobia | 72.00% | ~668 |
 | Aspiring Editor | 69.00% | ~640 |
-| Gun for Hire | 63.00% | ~584 |
-| I am the law! | 53.00% | ~491 |
-| Lumberjack | 35.00% | ~324 |
-| Croaked | 31.00% | ~287 |
+| Gun for Hire | 63.00% | ~585 |
+| I am the law! | 53.00% | ~492 |
+| Lumberjack | 35.00% | ~325 |
+| Croaked | 31.00% | ~288 |
 | Limp Richard | 30.00% | ~278 |
-| Firestarter | 29.00% | ~269 |
-| From Darkness to Light | 29.00% | ~269 |
-| Exorcist | 27.00% | ~250 |
+| Firestarter | 30.00% | ~278 |
+| From Darkness to Light | 30.00% | ~278 |
+| Exorcist | 27.00% | ~251 |
 | Editor Adept | 26.00% | ~241 |
 | Giant Killer | 22.00% | ~204 |
-| Sensei | 20.00% | ~185 |
-| The meaning of Kain | 20.00% | ~185 |
+| Sensei | 20.00% | ~186 |
+| The meaning of Kain | 20.00% | ~186 |
 | Technophobe | 17.00% | ~158 |
 | Recycler | 15.00% | ~139 |
 | Chain Killer | 13.00% | ~121 |
@@ -57,7 +57,7 @@ Rating: 4.29 (Ranked 765)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927 (Ranked 175)  
+Progressed: 928 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 815 | 0 |
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
-| 2023-06-01 | 927 | 0 |
+| 2023-06-01 | 928 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

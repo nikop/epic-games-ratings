@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2230,9 +2230,9 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 60374,
+  "EOS_Progressed": 60375,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6445,6 +6445,11 @@
       "Time": "2023-06-01T06:06:19.9286838+00:00",
       "NumProgressed": 60374,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-06-01T07:06:22.6949468+00:00",
+      "NumProgressed": 60375,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 30,
@@ -6520,7 +6525,7 @@
       "Name": "Variety Expert",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -6552,7 +6557,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 20527
+      "UsersEstimate": 20528
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -6695,15 +6700,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 60374,
+      "Progressed": 60375,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-05-31T23:58:35.9834206+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:19.9286834+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:06:22.6949462+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:59.6615182+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:58:29.6272352+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:19.9287182+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:58:46.4899313+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:06:22.6949926+00:00"
 }

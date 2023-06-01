@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 93.00% | ~514 |
-| Rail Rat | 77.00% | ~426 |
+| Rail Rat | 78.00% | ~431 |
 | The Mysterious Stranger | 75.00% | ~415 |
 | Immaculate Aim | 64.00% | ~354 |
-| The Brass Boss | 56.00% | ~310 |
+| The Brass Boss | 57.00% | ~315 |
 | No, Thanks! | 54.00% | ~299 |
 | Honest Mistake | 54.00% | ~299 |
 | Time Flies | 52.00% | ~288 |
@@ -41,9 +41,9 @@
 | Cultivair Explorer | 15.00% | ~83 |
 | Theater Explorer | 15.00% | ~83 |
 | Corin Goes Home | 12.00% | ~66 |
+| Sartorialist | 12.00% | ~66 |
 | Entresol Explorer | 12.00% | ~66 |
 | Rungs Was Right | 12.00% | ~66 |
-| Sartorialist | 11.00% | ~61 |
 | Clovemary for Remembering | 10.00% | ~55 |
 | Hexlock for Protection | 9.00% | ~50 |
 | Golem Hunter | 8.00% | ~44 |

@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-05-31T22:03:55.2437998+00:00",
       "NumProgressed": 106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T07:03:38.0920244+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -589,9 +594,9 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Obtain 50 PowerUps",
@@ -613,7 +618,7 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 25,
       "UsersEstimate": 76
     },
@@ -623,7 +628,7 @@
       "Name": "Pooshed Past 5000",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Poosh Past 7500",
@@ -654,13 +659,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:03:41.817655+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:03:38.0920238+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.7217223+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:57:41.2096241+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:03:41.817669+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:57:56.3388349+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:03:38.0920412+00:00"
 }

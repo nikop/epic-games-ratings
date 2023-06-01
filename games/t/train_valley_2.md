@@ -65,8 +65,8 @@ Number of Ratings: 87  (23.09.2022)
 | Will work | 0.70% | ~5 |
 | Achiever | 0.60% | ~4 |
 | Astrochemist | 0.60% | ~0 |
+| Metro builder | 0.60% | ~4 |
 | BBQ | 0.40% | ~3 |
-| Metro builder | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Arcturus | 0.30% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -786,9 +786,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5835,
+  "EOS_Progressed": 5836,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2751,6 +2751,11 @@
       "Time": "2023-06-01T06:04:12.4206304+00:00",
       "NumProgressed": 5835,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T07:04:18.1667002+00:00",
+      "NumProgressed": 5836,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2802,7 +2807,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3676
+      "UsersEstimate": 3677
     },
     {
       "ID": "Control_All_Relics",
@@ -2842,7 +2847,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "First_Major_Ally",
@@ -2898,7 +2903,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2978,7 +2983,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "Play_1000_Hours",
@@ -3218,7 +3223,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "Win_As_Torian",
@@ -3250,7 +3255,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3337,15 +3342,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5835,
+      "Progressed": 5836,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-29T13:02:30.5429033+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:04:12.4206297+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:04:18.1666996+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.5418964+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:57:26.5110039+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:04:12.4206966+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:57:44.8095545+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:04:18.1667906+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.88 (Ranked 19)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 81.00% | ~2,023 |
-| Feeling the beat! | 81.00% | ~2,023 |
+| Start with a bang! | 81.00% | ~2,024 |
+| Feeling the beat! | 81.00% | ~2,024 |
 | You can pet the cat! | 75.00% | ~1,874 |
 | Who put gears in there? | 69.00% | ~1,724 |
 | Cream of the Crop | 64.00% | ~1,599 |
@@ -15,21 +15,21 @@ Rating: 4.88 (Ranked 19)
 | Perfect Parry | 56.00% | ~1,399 |
 | Alright, that felt AWESOME! | 55.00% | ~1,374 |
 | I play my own way! | 51.00% | ~1,274 |
-| This will cost you big time | 49.00% | ~1,224 |
-| Uh, they were broken when I got here | 48.00% | ~1,199 |
-| Z-shielding's got nothing on us! | 46.00% | ~1,149 |
-| Kissing the sky! | 45.00% | ~1,124 |
-| Does that say weakpoint? | 42.00% | ~1,049 |
-| Whoa! There's ANOTHER health bar!? | 41.00% | ~1,024 |
-| The Negotiator | 39.00% | ~974 |
-| You must like calling me in, Chai | 34.00% | ~849 |
-| Out in a puff of smoke | 34.00% | ~849 |
-| Headliner | 33.00% | ~824 |
-| Time to pay up! | 31.00% | ~774 |
-| Perfecter Parry-er! | 30.00% | ~749 |
-| Who's the boss now? | 29.00% | ~724 |
-| I have to read these things? | 29.00% | ~724 |
-| I look cool. But I can look COOLER. | 28.00% | ~699 |
+| This will cost you big time | 49.00% | ~1,225 |
+| Uh, they were broken when I got here | 47.00% | ~1,175 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,150 |
+| Kissing the sky! | 45.00% | ~1,125 |
+| Does that say weakpoint? | 42.00% | ~1,050 |
+| Whoa! There's ANOTHER health bar!? | 41.00% | ~1,025 |
+| The Negotiator | 39.00% | ~975 |
+| You must like calling me in, Chai | 34.00% | ~850 |
+| Out in a puff of smoke | 34.00% | ~850 |
+| Headliner | 33.00% | ~825 |
+| Time to pay up! | 31.00% | ~775 |
+| Perfecter Parry-er! | 30.00% | ~750 |
+| Who's the boss now? | 29.00% | ~725 |
+| I have to read these things? | 29.00% | ~725 |
+| I look cool. But I can look COOLER. | 28.00% | ~700 |
 | There's such a thing as TOO helpful | 22.00% | ~550 |
 | That's a lot of junk metal… | 20.00% | ~500 |
 | Beat-hit mania | 19.00% | ~475 |
@@ -67,7 +67,7 @@ Rating: 4.88 (Ranked 19)
 | Didn't skip a beat! | 0.30% | ~7 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,498 (Ranked 142)  
+Progressed: 2,499 (Ranked 142)  
 Completed: 4 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 4 (0.16%) (Ranked 146)
 | 2023-05-29 | 2,399 | 4 |
 | 2023-05-30 | 2,453 | 4 |
 | 2023-05-31 | 2,489 | 4 |
-| 2023-06-01 | 2,498 | 4 |
+| 2023-06-01 | 2,499 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

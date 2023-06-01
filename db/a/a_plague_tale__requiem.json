@@ -272,7 +272,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10957,
+  "EOS_Progressed": 10958,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
@@ -2337,6 +2337,11 @@
       "Time": "2023-06-01T06:06:40.5169952+00:00",
       "NumProgressed": 10957,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-01T07:06:42.85161+00:00",
+      "NumProgressed": 10958,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -2348,7 +2353,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "ACH_02",
@@ -2356,7 +2361,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 8546
+      "UsersEstimate": 8547
     },
     {
       "ID": "ACH_03",
@@ -2364,15 +2369,15 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "ACH_04",
       "SetID": "9d4cf4c",
       "Name": "Protector\u0027s Duty",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 7451
+      "UsersEstimate": 7561
     },
     {
       "ID": "ACH_05",
@@ -2388,7 +2393,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 6903
+      "UsersEstimate": 6904
     },
     {
       "ID": "ACH_07",
@@ -2396,7 +2401,7 @@
       "Name": "Felons",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "ACH_08",
@@ -2404,7 +2409,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "ACH_09",
@@ -2412,7 +2417,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 6026
+      "UsersEstimate": 6027
     },
     {
       "ID": "ACH_10",
@@ -2420,7 +2425,7 @@
       "Name": "Bloodline",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5478
+      "UsersEstimate": 5479
     },
     {
       "ID": "ACH_11",
@@ -2428,7 +2433,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     },
     {
       "ID": "ACH_12",
@@ -2436,7 +2441,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4822
     },
     {
       "ID": "ACH_13",
@@ -2532,7 +2537,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACH_25",
@@ -2564,7 +2569,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "ACH_29",
@@ -2627,7 +2632,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10957,
+      "Progressed": 10958,
       "Completed": 32
     }
   ],
@@ -2635,8 +2640,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:40.5169946+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:06:42.8516092+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.0368466+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:59:52.3520279+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:40.5170297+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:00:12.6910884+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:06:42.8516468+00:00"
 }

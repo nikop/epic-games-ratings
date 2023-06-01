@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 222,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 14.86,
   "EosHistory": [
@@ -1072,33 +1072,33 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_015",
@@ -1177,8 +1177,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:22.3367365+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:06:24.9098257+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:58:14.6932918+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:22.3367526+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:58:26.7109126+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:06:24.9098487+00:00"
 }

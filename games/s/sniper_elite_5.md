@@ -36,9 +36,9 @@ Rating: 4.44 (Ranked 629)
 | Precision Is Key | 3.00% | ~59 |
 | Brains of the Operation | 3.00% | ~59 |
 | Rigged to Blow | 2.00% | ~40 |
+| My Little Friend | 2.00% | ~40 |
 | Strategist | 1.00% | ~20 |
 | The Long Game | 1.00% | ~20 |
-| My Little Friend | 1.00% | ~20 |
 | It'll Buff Right Out | 1.00% | ~20 |
 | Locomotion Commotion | 0.90% | ~18 |
 | Road Rage | 0.80% | ~16 |

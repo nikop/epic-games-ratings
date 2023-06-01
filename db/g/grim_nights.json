@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -266,8 +266,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:20.8275282+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:06:23.5099307+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.660453+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:59:29.9277939+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:20.8275359+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:59:46.7882554+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:06:23.5099422+00:00"
 }

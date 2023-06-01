@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1228,
+  "EOS_Progressed": 1229,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -695,6 +695,11 @@
       "Time": "2023-06-01T03:33:56.5205703+00:00",
       "NumProgressed": 1228,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-01T07:06:31.9477375+00:00",
+      "NumProgressed": 1229,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -776,9 +781,9 @@
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -866,7 +871,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -874,7 +879,7 @@
       "Name": "How Romantic!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_maimedHero",
@@ -882,7 +887,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_mythwalker",
@@ -978,7 +983,7 @@
       "Name": "Daybreak",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1153,15 +1158,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1228,
+      "Progressed": 1229,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:29.3978194+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:06:31.9477368+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-06-01T06:01:24.5526291+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:29.3978597+00:00"
+  "LastUpdate_Ratings": "2023-06-01T07:01:49.455079+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:06:31.9477881+00:00"
 }

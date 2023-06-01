@@ -6,13 +6,13 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 33.00% | ~405 |
+| The Cost of Heroism | 33.00% | ~406 |
 | Me and My Familiar | 31.00% | ~381 |
-| This Too Shall Pass | 26.00% | ~319 |
-| Passing Shadow | 25.00% | ~307 |
+| This Too Shall Pass | 26.00% | ~320 |
 | Cutthroat Competitors | 25.00% | ~307 |
-| How Romantic! | 23.00% | ~282 |
-| Daybreak | 23.00% | ~282 |
+| Passing Shadow | 24.00% | ~295 |
+| How Romantic! | 23.00% | ~283 |
+| Daybreak | 23.00% | ~283 |
 | Gotta Ca... Must Collect All of Them | 21.00% | ~258 |
 | Completing the Look | 12.00% | ~147 |
 | Who's Counting? | 12.00% | ~147 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.50% | ~6 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,228 (Ranked 161)  
+Progressed: 1,229 (Ranked 161)  
 Completed: 3 (0.24%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 3 (0.24%) (Ranked 135)
 | 2023-05-29 | 1,223 | 3 |
 | 2023-05-30 | 1,225 | 3 |
 | 2023-05-31 | 1,227 | 3 |
-| 2023-06-01 | 1,228 | 3 |
+| 2023-06-01 | 1,229 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 465)  

@@ -25,7 +25,7 @@ Rating: 4.29 (Ranked 765)
 | The First King | 1.00% | ~8 |
 | The great fire | 1.00% | ~8 |
 | The Unruly Ones | 1.00% | ~8 |
-| The Council | 0.90% | ~7 |
+| The Council | 0.80% | ~7 |
 | The Mad | 0.70% | ~6 |
 | Like the dream | 0.50% | ~4 |
 | Charismatic Leader | 0.40% | ~3 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 765)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 823 (Ranked 180)  
+Progressed: 824 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 820 | 0 |
 | 2023-05-30 | 821 | 0 |
 | 2023-05-31 | 823 | 0 |
+| 2023-06-01 | 824 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

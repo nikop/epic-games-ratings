@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -500,7 +500,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14187,
+  "EOS_Progressed": 14188,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 1,
@@ -2335,6 +2335,11 @@
       "Time": "2023-06-01T06:04:15.5262409+00:00",
       "NumProgressed": 14187,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-01T07:04:21.1971047+00:00",
+      "NumProgressed": 14188,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2450,7 +2455,7 @@
       "Name": "Get a Grip",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2554,7 +2559,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "STORY_HANGAR",
@@ -2665,13 +2670,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14187,
+      "Progressed": 14188,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2113,
+      "Progressed": 2114,
       "Completed": 29
     }
   ],
@@ -2679,8 +2684,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:04:15.5262404+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:04:21.1971038+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:57:59.8085722+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:04:15.5262735+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:58:13.6781852+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:04:21.1971506+00:00"
 }

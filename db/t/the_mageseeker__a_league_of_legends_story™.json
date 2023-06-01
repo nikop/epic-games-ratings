@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2235,
+  "EOS_Progressed": 2236,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2126,6 +2126,11 @@
       "Time": "2023-06-01T05:07:43.1608339+00:00",
       "NumProgressed": 2235,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T07:06:36.0544233+00:00",
+      "NumProgressed": 2236,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2201,7 +2206,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2217,7 +2222,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2241,7 +2246,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2273,7 +2278,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2321,7 +2326,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2345,7 +2350,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -2369,7 +2374,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2385,7 +2390,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2441,7 +2446,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2513,15 +2518,15 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
       "SetID": "3pe2bac",
       "Name": "Spellcrafting",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 156
+      "UsersEstimate": 179
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -2553,14 +2558,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2235,
+      "Progressed": 2236,
       "Completed": 1
     }
   ],
@@ -2568,8 +2573,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-01T06:06:33.4695352+00:00",
+  "LastChanged_Achievements": "2023-06-01T07:06:36.0544227+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:57:44.6278535+00:00",
-  "LastUpdate_Achievements": "2023-06-01T06:06:33.4695792+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:57:57.8337969+00:00",
+  "LastUpdate_Achievements": "2023-06-01T07:06:36.0544811+00:00"
 }

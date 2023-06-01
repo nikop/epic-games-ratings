@@ -7,15 +7,15 @@
 | Country Bumpkin | 74.00% | ~444 |
 | Departure | 72.00% | ~432 |
 | A new Journey | 72.00% | ~432 |
+| Way of Iron | 71.00% | ~426 |
 | From X to Y | 70.00% | ~420 |
-| Way of Iron | 70.00% | ~420 |
 | Brainstorm | 67.00% | ~402 |
 | Mystery Tour | 67.00% | ~402 |
 | We brake for nobody | 66.00% | ~396 |
 | Travel Company | 64.00% | ~384 |
 | Mind the Gap | 63.00% | ~378 |
 | All around the World | 62.00% | ~372 |
-| Right through the middle | 55.00% | ~330 |
+| Right through the middle | 56.00% | ~336 |
 | Poor Devil | 50.00% | ~300 |
 | Facility Manager | 47.00% | ~282 |
 | Apprentice | 45.00% | ~270 |
@@ -32,8 +32,8 @@
 | All mine | 20.00% | ~120 |
 | Hostile Takeover | 18.00% | ~108 |
 | Trailblazer | 17.00% | ~102 |
+| Country Life | 17.00% | ~102 |
 | General Manager | 16.00% | ~96 |
-| Country Life | 16.00% | ~96 |
 | Socializer | 13.00% | ~78 |
 | Traffic Junction | 12.00% | ~72 |
 | Traffic Jam | 11.00% | ~66 |
