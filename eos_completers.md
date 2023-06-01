@@ -34,7 +34,7 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.07% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
-| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
@@ -51,8 +51,8 @@
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
-| 51 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.82% |
-| 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
+| 52 | [Lamentum](games/l/lamentum.md) | 2.81% |
+| 52 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.81% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.56% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
@@ -60,7 +60,7 @@
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.19% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 62 | [JARS](games/j/jars.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
@@ -271,6 +271,7 @@
 | 208 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.00% |
 | 208 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
 | 208 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.00% |
+| 208 | [Figment 2: Creed Valley](games/f/figment_2__creed_valley.md) | 0.00% |
 | 208 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
 | 208 | [Flat Heroes](games/f/flat_heroes.md) | 0.00% |
 | 208 | [Football Manager 2022](games/f/football_manager_2022.md) | 0.00% |
@@ -426,4 +427,4 @@
 | 208 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 208 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 208 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,711 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,712 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
