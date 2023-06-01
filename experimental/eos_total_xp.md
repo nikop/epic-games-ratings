@@ -304,6 +304,7 @@
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
+| [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 122 | 1,000 |
 | [Rise of Industry](../games/r/rise_of_industry.md) | 27 | 1,000 |

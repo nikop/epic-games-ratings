@@ -24,7 +24,7 @@
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.87% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.92% |
-| 25 | [Scorn](games/s/scorn.md) | 6.84% |
+| 25 | [Scorn](games/s/scorn.md) | 6.83% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.38% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -354,6 +354,7 @@
 | 208 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
 | 208 | [Redfall](games/r/redfall.md) | 0.00% |
 | 208 | [Redout 2](games/r/redout_2.md) | 0.00% |
+| 208 | [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 0.00% |
 | 208 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 208 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
 | 208 | [Road 96](games/r/road_96.md) | 0.00% |
@@ -424,4 +425,4 @@
 | 208 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 208 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 208 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,708 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,709 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
