@@ -5,19 +5,19 @@ Rating: 4.45 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,527 |
-| Predator I | 22.00% | ~55,019 |
+| Survivor | 31.00% | ~77,529 |
+| Predator I | 22.00% | ~55,020 |
 | Fixer I | 10.00% | ~25,009 |
 | A week in Century City | 10.00% | ~25,009 |
-| The Wait | 7.00% | ~17,506 |
-| Green thumb I | 6.00% | ~15,005 |
-| Well-oiled machine | 5.00% | ~12,504 |
-| Saver I | 5.00% | ~12,504 |
-| Cleaning Company | 5.00% | ~12,504 |
-| The Ascent | 4.00% | ~10,003 |
-| Pacifist | 4.00% | ~10,003 |
-| Vandalism | 4.00% | ~10,003 |
-| Capitalist I | 4.00% | ~10,003 |
+| The Wait | 7.00% | ~17,507 |
+| Green thumb I | 6.00% | ~15,006 |
+| Well-oiled machine | 5.00% | ~12,505 |
+| Saver I | 5.00% | ~12,505 |
+| Cleaning Company | 5.00% | ~12,505 |
+| The Ascent | 4.00% | ~10,004 |
+| Pacifist | 4.00% | ~10,004 |
+| Vandalism | 4.00% | ~10,004 |
+| Capitalist I | 4.00% | ~10,004 |
 | Adrenaline | 3.00% | ~7,503 |
 | By a hair | 2.00% | ~5,002 |
 | Fixer II | 2.00% | ~5,002 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 608)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,087 (Ranked 40)  
+Progressed: 250,093 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,15 +104,15 @@ Completed: 1 (0.00%) (Ranked 208)
 | 2023-05-29 | 249,957 | 1 |
 | 2023-05-30 | 250,003 | 1 |
 | 2023-05-31 | 250,071 | 1 |
-| 2023-06-01 | 250,087 | 1 |
+| 2023-06-01 | 250,093 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 463)  
-Sum: 68 (Ranked 422)  
-Diff (max vs sum): 41  
+Sum: 70 (Ranked 419)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 25 |
-| This game has Unique Visuals | 22 |
+| This game has Unique Visuals | 24 |
 | This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -187,3 +187,4 @@ Diff (max vs sum): 41
 | 2023-05-29 | 4.45 | 25 | 67 |
 | 2023-05-30 | 4.44 | 25 | 67 |
 | 2023-05-31 | 4.45 | 25 | 68 |
+| 2023-06-01 | 4.45 | 25 | 70 |

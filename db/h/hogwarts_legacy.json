@@ -3108,9 +3108,9 @@
       "Count": 491
     }
   ],
-  "EOS_Progressed": 274862,
+  "EOS_Progressed": 274869,
   "EOS_Completed": 384,
-  "EOS_NewPlayers": 2789,
+  "EOS_NewPlayers": 2783,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7273,6 +7273,11 @@
       "Time": "2023-06-01T05:05:20.152286+00:00",
       "NumProgressed": 274862,
       "NumCompleted": 384
+    },
+    {
+      "Time": "2023-06-01T06:04:40.536943+00:00",
+      "NumProgressed": 274869,
+      "NumCompleted": 384
     }
   ],
   "TotalAchievements": 45,
@@ -7284,7 +7289,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 21989
+      "UsersEstimate": 21990
     },
     {
       "ID": "PFA_10",
@@ -7324,7 +7329,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 10994
+      "UsersEstimate": 10995
     },
     {
       "ID": "PFA_15",
@@ -7612,7 +7617,7 @@
       "Name": "First Class Student",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19240
+      "UsersEstimate": 19241
     },
     {
       "ID": "PFA_7",
@@ -7643,7 +7648,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 274862,
+      "Progressed": 274869,
       "Completed": 384
     }
   ],
@@ -7651,8 +7656,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-01T04:57:32.458378+00:00",
-  "LastChanged_Achievements": "2023-06-01T05:05:20.1522854+00:00",
+  "LastChanged_Achievements": "2023-06-01T06:04:40.5369425+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:12.8623169+00:00",
-  "LastUpdate_Ratings": "2023-06-01T04:57:32.4583786+00:00",
-  "LastUpdate_Achievements": "2023-06-01T05:05:20.1523544+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:57:17.4329306+00:00",
+  "LastUpdate_Achievements": "2023-06-01T06:04:40.5369915+00:00"
 }

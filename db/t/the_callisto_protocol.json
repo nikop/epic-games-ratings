@@ -500,7 +500,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14185,
+  "EOS_Progressed": 14187,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 1,
@@ -2330,6 +2330,11 @@
       "Time": "2023-06-01T05:04:45.1096024+00:00",
       "NumProgressed": 14185,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-01T06:04:15.5262409+00:00",
+      "NumProgressed": 14187,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2373,7 +2378,7 @@
       "Name": "Flesh Wound",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2459,9 +2464,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 426
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2613,7 +2618,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2621,7 +2626,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2660,13 +2665,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14185,
+      "Progressed": 14187,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2111,
+      "Progressed": 2113,
       "Completed": 29
     }
   ],
@@ -2674,8 +2679,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
-  "LastChanged_Achievements": "2023-06-01T05:04:45.1096018+00:00",
+  "LastChanged_Achievements": "2023-06-01T06:04:15.5262404+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-01T04:58:21.821046+00:00",
-  "LastUpdate_Achievements": "2023-06-01T05:04:45.1096489+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:57:59.8085722+00:00",
+  "LastUpdate_Achievements": "2023-06-01T06:04:15.5262735+00:00"
 }

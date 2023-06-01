@@ -7,16 +7,16 @@ Rating: 4.88 (Ranked 19)
 | ---- | ---------- | ----- |
 | Start with a bang! | 81.00% | ~2,023 |
 | Feeling the beat! | 81.00% | ~2,023 |
-| You can pet the cat! | 75.00% | ~1,873 |
-| Who put gears in there? | 69.00% | ~1,723 |
-| Cream of the Crop | 64.00% | ~1,598 |
-| Thanks for the free chip, Peppermint! | 63.00% | ~1,573 |
-| You got this, Peppermint? | 58.00% | ~1,448 |
-| Perfect Parry | 56.00% | ~1,398 |
-| Alright, that felt AWESOME! | 55.00% | ~1,373 |
-| I play my own way! | 51.00% | ~1,273 |
+| You can pet the cat! | 75.00% | ~1,874 |
+| Who put gears in there? | 69.00% | ~1,724 |
+| Cream of the Crop | 64.00% | ~1,599 |
+| Thanks for the free chip, Peppermint! | 63.00% | ~1,574 |
+| You got this, Peppermint? | 58.00% | ~1,449 |
+| Perfect Parry | 56.00% | ~1,399 |
+| Alright, that felt AWESOME! | 55.00% | ~1,374 |
+| I play my own way! | 51.00% | ~1,274 |
 | This will cost you big time | 49.00% | ~1,224 |
-| Uh, they were broken when I got here | 47.00% | ~1,174 |
+| Uh, they were broken when I got here | 48.00% | ~1,199 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,149 |
 | Kissing the sky! | 45.00% | ~1,124 |
 | Does that say weakpoint? | 42.00% | ~1,049 |
@@ -30,11 +30,11 @@ Rating: 4.88 (Ranked 19)
 | Who's the boss now? | 29.00% | ~724 |
 | I have to read these things? | 29.00% | ~724 |
 | I look cool. But I can look COOLER. | 28.00% | ~699 |
-| There's such a thing as TOO helpful | 22.00% | ~549 |
-| That's a lot of junk metal… | 20.00% | ~499 |
-| Beat-hit mania | 19.00% | ~474 |
-| I told you I'd be fine, Peppermint! | 18.00% | ~449 |
-| Well that was a rush! | 17.00% | ~424 |
+| There's such a thing as TOO helpful | 22.00% | ~550 |
+| That's a lot of junk metal… | 20.00% | ~500 |
+| Beat-hit mania | 19.00% | ~475 |
+| I told you I'd be fine, Peppermint! | 18.00% | ~450 |
+| Well that was a rush! | 17.00% | ~425 |
 | Wanna hear my playlist? | 12.00% | ~300 |
 | Check out my moves! | 12.00% | ~300 |
 | Chip-tuned | 11.00% | ~275 |
@@ -67,7 +67,7 @@ Rating: 4.88 (Ranked 19)
 | Didn't skip a beat! | 0.30% | ~7 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,497 (Ranked 142)  
+Progressed: 2,498 (Ranked 142)  
 Completed: 4 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 4 (0.16%) (Ranked 146)
 | 2023-05-29 | 2,399 | 4 |
 | 2023-05-30 | 2,453 | 4 |
 | 2023-05-31 | 2,489 | 4 |
-| 2023-06-01 | 2,497 | 4 |
+| 2023-06-01 | 2,498 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

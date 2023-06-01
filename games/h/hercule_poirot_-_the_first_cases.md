@@ -33,8 +33,8 @@ Rating: 4.33 (Ranked 740)
 | Instinct is Marvellous | 33.00% | ~121 |
 | Ernesto da Silva | 33.00% | ~121 |
 | Inge Frank | 31.00% | ~114 |
+| The Search | 30.00% | ~110 |
 | Hugo Beckers | 29.00% | ~107 |
-| The Search | 29.00% | ~107 |
 | The Family | 26.00% | ~96 |
 | Well-travelled | 25.00% | ~92 |
 | Thinking of Everything | 25.00% | ~92 |

@@ -6,15 +6,15 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,143 |
-| Powergamer | 27.00% | ~61,852 |
-| Barely scratched the surface | 25.00% | ~57,270 |
-| Write that down | 24.00% | ~54,979 |
+| I will finish what you started | 28.00% | ~64,144 |
+| Powergamer | 27.00% | ~61,853 |
+| Barely scratched the surface | 25.00% | ~57,271 |
+| Write that down | 24.00% | ~54,980 |
 | Guns, lots of guns | 12.00% | ~27,490 |
 | Collector | 11.00% | ~25,199 |
-| Elementary! | 8.00% | ~18,326 |
-| Pumpkin Jack | 8.00% | ~18,326 |
-| Wake up! | 8.00% | ~18,326 |
+| Elementary! | 8.00% | ~18,327 |
+| Pumpkin Jack | 8.00% | ~18,327 |
+| Wake up! | 8.00% | ~18,327 |
 | It's honest work | 7.00% | ~16,036 |
 | Griever | 7.00% | ~16,036 |
 | Me smart | 6.00% | ~13,745 |
@@ -23,9 +23,9 @@ Number of Ratings: 33  (23.09.2022)
 | Valedictorian | 5.00% | ~11,454 |
 | BOY! | 4.00% | ~9,163 |
 | Ka-ching! | 4.00% | ~9,163 |
-| I like to sniff around | 3.00% | ~6,872 |
-| Mind reader | 3.00% | ~6,872 |
-| So you like to read? | 3.00% | ~6,872 |
+| I like to sniff around | 3.00% | ~6,873 |
+| Mind reader | 3.00% | ~6,873 |
+| So you like to read? | 3.00% | ~6,873 |
 | Gentleman's classic | 2.00% | ~4,582 |
 | Hoarder | 2.00% | ~4,582 |
 | Is that a rift? | 2.00% | ~4,582 |
@@ -46,7 +46,7 @@ Number of Ratings: 33  (23.09.2022)
 | Let's try another | 0.80% | ~1,833 |
 | Home run | 0.80% | ~1,833 |
 | It's blue, always blue | 0.70% | ~1,604 |
-| I have the high ground | 0.60% | ~1,374 |
+| I have the high ground | 0.60% | ~1,375 |
 | Who wouldn't love a troll? | 0.50% | ~1,145 |
 | Enjoy these little moments | 0.40% | ~916 |
 | Irondec | 0.40% | ~916 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~458 |
 | Memory 5 | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,081 (Ranked 43)  
+Progressed: 229,084 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 5 (0.00%) (Ranked 208)
 | 2023-05-29 | 228,672 | 5 |
 | 2023-05-30 | 228,877 | 5 |
 | 2023-05-31 | 229,049 | 5 |
-| 2023-06-01 | 229,081 | 5 |
+| 2023-06-01 | 229,084 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 359)  
 Sum: 73 (Ranked 416)  

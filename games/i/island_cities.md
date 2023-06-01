@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 99.00% | ~218 |
-| A tiny town | 85.00% | ~187 |
-| Buildings, roads, cars, ...and people | 66.00% | ~145 |
-| Great view from the beach and from the hill | 56.00% | ~123 |
-| Bridges to come and go | 49.00% | ~108 |
-| Found an oasis | 41.00% | ~90 |
-| Burger or pizza? | 36.00% | ~79 |
-| Passion for sports | 32.00% | ~70 |
-| Who loves trains? | 28.00% | ~62 |
-| Easy and steady climb | 26.00% | ~57 |
+| Welcome! | 98.00% | ~218 |
+| A tiny town | 85.00% | ~189 |
+| Buildings, roads, cars, ...and people | 66.00% | ~147 |
+| Great view from the beach and from the hill | 55.00% | ~122 |
+| Bridges to come and go | 49.00% | ~109 |
+| Found an oasis | 41.00% | ~91 |
+| Burger or pizza? | 36.00% | ~80 |
+| Passion for sports | 32.00% | ~71 |
+| Who loves trains? | 27.00% | ~60 |
+| Easy and steady climb | 27.00% | ~60 |
 | At the heart of the city | 23.00% | ~51 |
-| Calm neighborhood | 22.00% | ~48 |
-| Elevated ring | 22.00% | ~48 |
-| Not lonely anymore | 20.00% | ~44 |
-| Monumental tribute | 19.00% | ~42 |
+| Calm neighborhood | 22.00% | ~49 |
+| Elevated ring | 22.00% | ~49 |
+| Not lonely anymore | 19.00% | ~42 |
+| Monumental tribute | 18.00% | ~40 |
 | The beach is right there | 18.00% | ~40 |
 | Commuting | 18.00% | ~40 |
-| Le jardin magnifique | 16.00% | ~35 |
+| Le jardin magnifique | 16.00% | ~36 |
 | Aiming for a living and human city | 15.00% | ~33 |
 | City of dreams | 15.00% | ~33 |
 | Happy Christmas night! | 15.00% | ~33 |
 | Night walk along the beach | 15.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 237)  
-Completed: 33 (15.00%) (Ranked 11)  
+Progressed: 222 (Ranked 236)  
+Completed: 33 (14.86%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 33 (15.00%) (Ranked 11)
 | 2023-05-29 | 206 | 31 |
 | 2023-05-30 | 213 | 32 |
 | 2023-05-31 | 220 | 33 |
+| 2023-06-01 | 222 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

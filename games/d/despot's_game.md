@@ -15,7 +15,7 @@ Rating: 4.50 (Ranked 542)
 | Through the Darkness | 39.00% | ~151 |
 | Fat of the Earth | 33.00% | ~127 |
 | Last Man Standing | 31.00% | ~120 |
-| Catch Jonathan_tostar | 26.00% | ~100 |
+| Catch Jonathan_tostar | 27.00% | ~104 |
 | Assemble a Meganewbie | 25.00% | ~96 |
 | Great Hero | 25.00% | ~96 |
 | Rookie | 25.00% | ~96 |

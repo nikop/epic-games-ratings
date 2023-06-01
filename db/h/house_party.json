@@ -1954,9 +1954,9 @@
       "ID": "Katherine",
       "SetID": "bmkn7o4",
       "Name": "Katherine",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "LCA",
@@ -2256,8 +2256,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-01T05:04:13.421043+00:00",
+  "LastChanged_Achievements": "2023-06-01T06:03:42.9046392+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-06-01T04:57:34.7080293+00:00",
-  "LastUpdate_Achievements": "2023-06-01T05:04:13.4211143+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:57:20.4300832+00:00",
+  "LastUpdate_Achievements": "2023-06-01T06:03:42.9047953+00:00"
 }

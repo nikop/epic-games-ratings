@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,418 |
+| Flesh Wound | 10.00% | ~1,419 |
 | The Outer Way | 8.00% | ~1,135 |
 | Desperate Times | 8.00% | ~1,135 |
 | Chew 'Em Up | 6.00% | ~851 |
@@ -16,15 +16,15 @@ Rating: 4.18 (Ranked 833)
 | If the SHU Fits... | 5.00% | ~709 |
 | Get a Grip | 4.00% | ~567 |
 | Without A Paddle | 4.00% | ~567 |
-| Instigator | 4.00% | ~84 |
-| Big Game Hunter | 4.00% | ~84 |
+| Instigator | 4.00% | ~85 |
+| Big Game Hunter | 4.00% | ~85 |
+| Two Heads Are Better Than One | 3.00% | ~426 |
 | Terminated | 3.00% | ~426 |
 | Float Like A Butterfly | 3.00% | ~426 |
 | In the Pipe, Five by Five | 3.00% | ~426 |
 | Crash Site | 3.00% | ~426 |
 | Bear Trap | 3.00% | ~63 |
 | You Need a Gun | 2.00% | ~284 |
-| Two Heads Are Better Than One | 2.00% | ~284 |
 | The Commonality | 2.00% | ~284 |
 | Mugshot | 2.00% | ~284 |
 | What Lies Beneath | 2.00% | ~284 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 833)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,185 (Ranked 101)  
+Progressed: 14,187 (Ranked 101)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
-| 2023-06-01 | 14,185 | 53 |
+| 2023-06-01 | 14,187 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

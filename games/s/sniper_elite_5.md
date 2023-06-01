@@ -10,8 +10,8 @@ Rating: 4.44 (Ranked 629)
 | The Kraken Wakes | 15.00% | ~296 |
 | It's Starting to Crack | 12.00% | ~237 |
 | Lord of War | 11.00% | ~217 |
-| Resourceful | 10.00% | ~197 |
-| Change the Channel | 10.00% | ~197 |
+| Resourceful | 10.00% | ~198 |
+| Change the Channel | 10.00% | ~198 |
 | Taking it back | 8.00% | ~158 |
 | Enemy at the Gates | 7.00% | ~138 |
 | Just a Flesh Wound | 7.00% | ~138 |
@@ -35,7 +35,7 @@ Rating: 4.44 (Ranked 629)
 | Set Europe Ablaze | 3.00% | ~59 |
 | Precision Is Key | 3.00% | ~59 |
 | Brains of the Operation | 3.00% | ~59 |
-| Rigged to Blow | 2.00% | ~39 |
+| Rigged to Blow | 2.00% | ~40 |
 | Strategist | 1.00% | ~20 |
 | The Long Game | 1.00% | ~20 |
 | My Little Friend | 1.00% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 629)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,973 (Ranked 151)  
+Progressed: 1,975 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
-| 2023-06-01 | 1,973 | 2 |
+| 2023-06-01 | 1,975 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

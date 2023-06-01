@@ -48,7 +48,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59063,
+  "EOS_Progressed": 59065,
   "EOS_Completed": 494,
   "EOS_NewPlayers": 1324,
   "EOS_NewCompleters": 21,
@@ -4303,6 +4303,11 @@
       "Time": "2023-06-01T05:07:52.3383001+00:00",
       "NumProgressed": 59063,
       "NumCompleted": 494
+    },
+    {
+      "Time": "2023-06-01T06:06:40.2143759+00:00",
+      "NumProgressed": 59065,
+      "NumCompleted": 494
     }
   ],
   "TotalAchievements": 25,
@@ -4330,7 +4335,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "Audiophile",
@@ -4346,7 +4351,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12403
+      "UsersEstimate": 12404
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -4506,14 +4511,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4134
+      "UsersEstimate": 4135
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 59063,
+      "Progressed": 59065,
       "Completed": 494
     }
   ],
@@ -4521,8 +4526,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-06-01T05:07:52.3382995+00:00",
+  "LastChanged_Achievements": "2023-06-01T06:06:40.2143755+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.4009733+00:00",
-  "LastUpdate_Ratings": "2023-06-01T05:02:28.8446653+00:00",
-  "LastUpdate_Achievements": "2023-06-01T05:07:52.3383476+00:00"
+  "LastUpdate_Ratings": "2023-06-01T06:01:18.6738996+00:00",
+  "LastUpdate_Achievements": "2023-06-01T06:06:40.2144469+00:00"
 }
