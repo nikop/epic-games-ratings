@@ -22,14 +22,14 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.28% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.88% |
-| 24 | [Scorn](games/s/scorn.md) | 6.84% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.87% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.92% |
+| 25 | [Scorn](games/s/scorn.md) | 6.84% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.40% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.38% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
@@ -43,15 +43,15 @@
 | 41 | [The Complex](games/t/the_complex.md) | 3.40% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
-| 44 | [ZZT!](games/z/zzt!.md) | 3.20% |
+| 44 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 3.10% |
 | 46 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
-| 51 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.84% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
+| 51 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
+| 51 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.82% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.81% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.60% |
@@ -60,9 +60,9 @@
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.19% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
-| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 61 | [JARS](games/j/jars.md) | 2.13% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
+| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
+| 62 | [JARS](games/j/jars.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 66 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -91,8 +91,8 @@
 | 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 92 | [Adios](games/a/adios.md) | 0.83% |
-| 92 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
+| 92 | [Adios](games/a/adios.md) | 0.84% |
+| 93 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
@@ -111,7 +111,7 @@
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 110 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.47% |
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 112 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
+| 112 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 113 | [Tails of Iron](games/t/tails_of_iron.md) | 0.39% |
 | 114 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
 | 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
