@@ -152,6 +152,7 @@
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
 | [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
+| [Midnight Ghost Hunt](../games/9/964f58c4c2074404bf9c359483ab1a48.md) | 42 | 1,000 |
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |
 | [Shadow Gangs](../games/s/shadow_gangs.md) | 42 | 1,000 |
 | [Danger Scavenger](../games/d/danger_scavenger.md) | 41 | 1,000 |
