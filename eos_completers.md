@@ -20,16 +20,16 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [Remains](games/r/remains.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.17% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.95% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.88% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.86% |
 | 25 | [Scorn](games/s/scorn.md) | 6.82% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.28% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.27% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
@@ -37,22 +37,22 @@
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 41 | [The Complex](games/t/the_complex.md) | 3.38% |
 | 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.26% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
-| 44 | [ZZT!](games/z/zzt!.md) | 3.19% |
+| 44 | [ZZT!](games/z/zzt!.md) | 3.18% |
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.06% |
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
+| 49 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
-| 52 | [Lamentum](games/l/lamentum.md) | 2.81% |
-| 52 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.81% |
+| 52 | [Lamentum](games/l/lamentum.md) | 2.80% |
+| 53 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.79% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.53% |
@@ -167,13 +167,13 @@
 | 159 | [Supraland](games/s/supraland.md) | 0.10% |
 | 166 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
 | 166 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 168 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.08% |
 | 168 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 168 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 168 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 168 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 173 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
-| 173 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 172 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.07% |
+| 172 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
+| 172 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 175 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 175 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 177 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
@@ -428,4 +428,4 @@
 | 208 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 208 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 208 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,715 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,716 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
