@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2658,
+  "EOS_Progressed": 2659,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2160,6 +2160,11 @@
       "Time": "2023-06-01T12:04:12.2077098+00:00",
       "NumProgressed": 2658,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T14:03:35.7845541+00:00",
+      "NumProgressed": 2659,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2179,7 +2184,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "11",
@@ -2211,7 +2216,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "15",
@@ -2235,7 +2240,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "18",
@@ -2291,7 +2296,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "24",
@@ -2299,7 +2304,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "3",
@@ -2323,7 +2328,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "6",
@@ -2362,13 +2367,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2658,
+      "Progressed": 2659,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-01T13:11:17.6601555+00:00",
+  "LastChanged_Achievements": "2023-06-01T14:03:35.7845536+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:06:39.6262996+00:00",
-  "LastUpdate_Achievements": "2023-06-01T13:11:17.6601886+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:58:41.8881503+00:00",
+  "LastUpdate_Achievements": "2023-06-01T14:03:35.7845855+00:00"
 }

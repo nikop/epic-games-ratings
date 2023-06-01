@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5994,
+  "EOS_Progressed": 5995,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1933,6 +1933,11 @@
       "Time": "2023-06-01T13:10:35.8912722+00:00",
       "NumProgressed": 5994,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-01T14:03:14.1720455+00:00",
+      "NumProgressed": 5995,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1960,7 +1965,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2080,7 +2085,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2120,7 +2125,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -2192,7 +2197,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2303,7 +2308,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5994,
+      "Progressed": 5995,
       "Completed": 8
     }
   ],
@@ -2311,8 +2316,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-31T13:04:59.5463809+00:00",
-  "LastChanged_Achievements": "2023-06-01T13:10:35.8912715+00:00",
+  "LastChanged_Achievements": "2023-06-01T14:03:14.1720449+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:04:41.2421506+00:00",
-  "LastUpdate_Achievements": "2023-06-01T13:10:35.8913179+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:57:24.2124176+00:00",
+  "LastUpdate_Achievements": "2023-06-01T14:03:14.1720889+00:00"
 }

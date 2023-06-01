@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2097,
+  "EOS_Progressed": 2098,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-06-01T13:14:10.9700508+00:00",
       "NumProgressed": 2097,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-01T14:05:36.2589159+00:00",
+      "NumProgressed": 2098,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -1022,7 +1027,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "deal_damage",
@@ -1030,7 +1035,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "defeat_enemies",
@@ -1086,7 +1091,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1118,7 +1123,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "trash_truck",
@@ -1133,7 +1138,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2097,
+      "Progressed": 2098,
       "Completed": 8
     }
   ],
@@ -1141,8 +1146,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-01T13:14:10.9700502+00:00",
+  "LastChanged_Achievements": "2023-06-01T14:05:36.2589151+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:38.8014549+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:08:24.6098175+00:00",
-  "LastUpdate_Achievements": "2023-06-01T13:14:10.9700725+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:59:48.292037+00:00",
+  "LastUpdate_Achievements": "2023-06-01T14:05:36.258937+00:00"
 }

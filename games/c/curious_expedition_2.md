@@ -41,10 +41,10 @@ Number of Ratings: 20  (23.09.2022)
 | And Here Is Your Statue | 10.00% | ~30 |
 | Under the Table | 10.00% | ~30 |
 | It's Complicated | 9.00% | ~27 |
+| Cold Blood, Warm Heart | 9.00% | ~27 |
 | Errand Runner | 9.00% | ~27 |
 | SCHMETTERLING | 8.00% | ~24 |
 | The Great Library | 8.00% | ~24 |
-| Cold Blood, Warm Heart | 8.00% | ~24 |
 | No Laughing Matter | 7.00% | ~21 |
 | Level Up | 7.00% | ~21 |
 | Zookeeper | 6.00% | ~18 |

@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1105,9 +1105,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "SkillCompletion1",
@@ -1209,9 +1209,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
@@ -1224,8 +1224,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-01T13:13:00.3514516+00:00",
+  "LastChanged_Achievements": "2023-06-01T14:04:45.314751+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:07:19.8843563+00:00",
-  "LastUpdate_Achievements": "2023-06-01T13:13:00.3515368+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:59:05.2829083+00:00",
+  "LastUpdate_Achievements": "2023-06-01T14:04:45.3148072+00:00"
 }

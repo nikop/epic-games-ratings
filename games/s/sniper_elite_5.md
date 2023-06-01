@@ -5,22 +5,22 @@ Rating: 4.45 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~478 |
-| Confirming Suspicions | 19.00% | ~378 |
-| The Kraken Wakes | 15.00% | ~298 |
+| Meeting Resistance | 25.00% | ~498 |
+| Confirming Suspicions | 19.00% | ~379 |
+| The Kraken Wakes | 15.00% | ~299 |
 | It's Starting to Crack | 12.00% | ~239 |
 | Lord of War | 11.00% | ~219 |
 | Resourceful | 10.00% | ~199 |
 | Change the Channel | 10.00% | ~199 |
-| As Quiet as a Mouse | 8.00% | ~159 |
-| Taking it back | 8.00% | ~159 |
-| Enemy at the Gates | 7.00% | ~139 |
-| Just a Flesh Wound | 7.00% | ~139 |
-| Organ Grinder | 7.00% | ~139 |
-| Target America | 7.00% | ~139 |
-| Sharpshooter | 6.00% | ~119 |
-| Explosive Efficiency | 6.00% | ~119 |
-| The Kraken Sleeps | 6.00% | ~119 |
+| As Quiet as a Mouse | 8.00% | ~160 |
+| Taking it back | 8.00% | ~160 |
+| Enemy at the Gates | 7.00% | ~140 |
+| Just a Flesh Wound | 7.00% | ~140 |
+| Organ Grinder | 7.00% | ~140 |
+| Target America | 7.00% | ~140 |
+| Sharpshooter | 6.00% | ~120 |
+| Explosive Efficiency | 6.00% | ~120 |
+| The Kraken Sleeps | 6.00% | ~120 |
 | Liberté | 5.00% | ~100 |
 | Opposing Force | 5.00% | ~100 |
 | Gunslinger | 5.00% | ~100 |
@@ -29,12 +29,12 @@ Rating: 4.45 (Ranked 608)
 | Der Geist | 4.00% | ~80 |
 | Close Quarters | 4.00% | ~80 |
 | Snake in the Grass | 4.00% | ~80 |
+| Brains of the Operation | 4.00% | ~80 |
 | Climbing the Ladder | 3.00% | ~60 |
 | No Stone Unturned | 3.00% | ~60 |
 | Skirmisher | 3.00% | ~60 |
 | Set Europe Ablaze | 3.00% | ~60 |
 | Precision Is Key | 3.00% | ~60 |
-| Brains of the Operation | 3.00% | ~60 |
 | Rigged to Blow | 2.00% | ~40 |
 | My Little Friend | 2.00% | ~40 |
 | Strategist | 1.00% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 608)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,990 (Ranked 151)  
+Progressed: 1,994 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
-| 2023-06-01 | 1,990 | 2 |
+| 2023-06-01 | 1,994 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,7 +20,7 @@
 | Make Up For Lost Time | 47.00% | ~262 |
 | Breaking Down Barriers | 43.00% | ~240 |
 | The Steel Shadow | 37.00% | ~206 |
-| Golem Chaser | 36.00% | ~201 |
+| Golem Chaser | 37.00% | ~206 |
 | Like Clockwork | 35.00% | ~195 |
 | The Wicked Twins | 33.00% | ~184 |
 | The Betrayer | 32.00% | ~178 |
@@ -29,8 +29,8 @@
 | Good Neighbor | 29.00% | ~162 |
 | Street Style | 28.00% | ~156 |
 | The Loose Cannon | 27.00% | ~150 |
+| The Family Fortune | 24.00% | ~134 |
 | The Man Who Shattered Time | 23.00% | ~128 |
-| The Family Fortune | 23.00% | ~128 |
 | Whiz Kid | 22.00% | ~123 |
 | Sump Explorer | 21.00% | ~117 |
 | Syron for Hope | 21.00% | ~117 |

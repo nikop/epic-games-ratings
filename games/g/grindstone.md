@@ -6,26 +6,26 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,985 |
-| The Journey Begins | 98.00% | ~4,985 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,968 |
+| Quinceañera Time | 98.00% | ~4,986 |
+| The Journey Begins | 98.00% | ~4,986 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,969 |
 | There is No Escape | 71.00% | ~3,612 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,154 |
-| Royal Flush | 62.00% | ~3,154 |
-| Timber! | 60.00% | ~3,052 |
-| Survive the Bombsequences | 59.00% | ~3,001 |
-| Killed 20 Jerks | 53.00% | ~2,696 |
-| Death Defied | 53.00% | ~2,696 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,155 |
+| Royal Flush | 62.00% | ~3,155 |
+| Timber! | 60.00% | ~3,053 |
+| Survive the Bombsequences | 59.00% | ~3,002 |
+| Killed 20 Jerks | 53.00% | ~2,697 |
+| Death Defied | 53.00% | ~2,697 |
 | Fortunate Soul | 49.00% | ~2,493 |
-| Jerk-Slayer | 43.00% | ~2,187 |
-| Employee of the Month | 37.00% | ~1,882 |
-| I Believe I Can Fly | 37.00% | ~1,882 |
-| Bone Collector | 35.00% | ~1,780 |
-| Fe-Festival | 35.00% | ~1,780 |
+| Jerk-Slayer | 43.00% | ~2,188 |
+| Employee of the Month | 37.00% | ~1,883 |
+| I Believe I Can Fly | 37.00% | ~1,883 |
+| Bone Collector | 35.00% | ~1,781 |
+| Fe-Festival | 35.00% | ~1,781 |
 | Top of the Food Chain | 32.00% | ~1,628 |
 | Pardon my Slob | 32.00% | ~1,628 |
 | Humerus Achievement | 31.00% | ~1,577 |
-| Ghost Facers! | 27.00% | ~1,373 |
+| Ghost Facers! | 27.00% | ~1,374 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,068 |
 | Royal Flush, Again | 19.00% | ~967 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~916 |
@@ -45,8 +45,8 @@ Number of Ratings: 63  (23.09.2022)
 | For Rock and Stone! | 9.00% | ~458 |
 | Don't Get Too Greedy | 7.00% | ~356 |
 | You're In a Cult, Call Your Dad | 6.00% | ~305 |
-| The Poison You Just Drank | 4.00% | ~203 |
-| Survived The Slaughter | 4.00% | ~203 |
+| The Poison You Just Drank | 4.00% | ~204 |
+| Survived The Slaughter | 4.00% | ~204 |
 | The Fellowship | 3.00% | ~153 |
 | Eternal Frenemies | 3.00% | ~153 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~51 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,087 (Ranked 125)  
+Progressed: 5,088 (Ranked 125)  
 Completed: 26 (0.51%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 26 (0.51%) (Ranked 107)
 | 2023-05-29 | 5,078 | 26 |
 | 2023-05-30 | 5,082 | 26 |
 | 2023-05-31 | 5,087 | 26 |
+| 2023-06-01 | 5,088 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -30,7 +30,7 @@ Rating: 4.18 (Ranked 833)
 | What Lies Beneath | 2.00% | ~284 |
 | Full Circle | 2.00% | ~284 |
 | Power Up | 2.00% | ~284 |
-| Big Spender | 2.00% | ~42 |
+| Big Spender | 2.00% | ~43 |
 | I Do Belong Here | 1.00% | ~142 |
 | Parole Denied | 1.00% | ~21 |
 | In Striking Distance | 1.00% | ~142 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 833)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,199 (Ranked 101)  
+Progressed: 14,202 (Ranked 101)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
-| 2023-06-01 | 14,199 | 53 |
+| 2023-06-01 | 14,202 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

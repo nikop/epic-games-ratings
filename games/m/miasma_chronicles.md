@@ -5,18 +5,18 @@ Rating: 4.29 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~858 |
+| First Blood | 92.00% | ~859 |
 | Ranidaphobia | 72.00% | ~672 |
 | Aspiring Editor | 69.00% | ~644 |
-| Gun for Hire | 64.00% | ~597 |
-| I am the law! | 53.00% | ~494 |
+| Gun for Hire | 64.00% | ~598 |
+| I am the law! | 53.00% | ~495 |
 | Lumberjack | 36.00% | ~336 |
-| Croaked | 31.00% | ~289 |
-| Limp Richard | 31.00% | ~289 |
+| Croaked | 31.00% | ~290 |
+| Limp Richard | 31.00% | ~290 |
+| From Darkness to Light | 31.00% | ~290 |
 | Firestarter | 30.00% | ~280 |
-| From Darkness to Light | 30.00% | ~280 |
-| Exorcist | 28.00% | ~261 |
-| Editor Adept | 26.00% | ~243 |
+| Exorcist | 28.00% | ~262 |
+| Editor Adept | 27.00% | ~252 |
 | Giant Killer | 23.00% | ~215 |
 | Sensei | 21.00% | ~196 |
 | The meaning of Kain | 21.00% | ~196 |
@@ -31,7 +31,7 @@ Rating: 4.29 (Ranked 765)
 | Newtonian Knockout | 11.00% | ~103 |
 | Pushing Daisy | 11.00% | ~103 |
 | Infiltrator | 10.00% | ~93 |
-| Experienced | 8.00% | ~75 |
+| Experienced | 9.00% | ~84 |
 | Ruthless | 8.00% | ~75 |
 | Endgame | 7.00% | ~65 |
 | Savior | 7.00% | ~65 |
@@ -39,9 +39,9 @@ Rating: 4.29 (Ranked 765)
 | Chain Reaction | 5.00% | ~47 |
 | Commando | 5.00% | ~47 |
 | Curveball | 5.00% | ~47 |
-| Dr Jones | 5.00% | ~47 |
 | Wipe Out | 5.00% | ~47 |
 | Chaos Theory | 4.00% | ~37 |
+| Dr Jones | 4.00% | ~37 |
 | Side Order | 3.00% | ~28 |
 | Bot Whisperer | 2.00% | ~19 |
 | Cruelty | 1.00% | ~9 |
@@ -57,7 +57,7 @@ Rating: 4.29 (Ranked 765)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933 (Ranked 173)  
+Progressed: 934 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 815 | 0 |
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
-| 2023-06-01 | 933 | 0 |
+| 2023-06-01 | 934 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

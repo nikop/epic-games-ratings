@@ -4344,7 +4344,7 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706649,
+  "EOS_Progressed": 706663,
   "EOS_Completed": 12749,
   "EOS_NewPlayers": 1513,
   "EOS_NewCompleters": 15,
@@ -8074,6 +8074,11 @@
       "Time": "2023-06-01T13:14:17.5585102+00:00",
       "NumProgressed": 706649,
       "NumCompleted": 12749
+    },
+    {
+      "Time": "2023-06-01T14:05:41.1408834+00:00",
+      "NumProgressed": 706663,
+      "NumCompleted": 12749
     }
   ],
   "TotalAchievements": 50,
@@ -8085,7 +8090,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "02_Vengeance_H1",
@@ -8093,7 +8098,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "03_Vengeance_H2",
@@ -8101,7 +8106,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "04_Vengeance_H3",
@@ -8109,7 +8114,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "05_Vengeance_H4",
@@ -8261,7 +8266,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -8269,7 +8274,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "25_ShrineMind",
@@ -8285,7 +8290,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "27_ShrineBody",
@@ -8293,7 +8298,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -8349,7 +8354,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "35_WideStrike",
@@ -8365,7 +8370,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -8373,7 +8378,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -8421,7 +8426,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8429,7 +8434,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8484,21 +8489,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15950,
+      "Progressed": 15964,
       "Completed": 10209
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706649,
+      "Progressed": 706663,
       "Completed": 12749
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-01T11:59:30.5210884+00:00",
-  "LastChanged_Achievements": "2023-06-01T13:14:17.5585096+00:00",
+  "LastChanged_Achievements": "2023-06-01T14:05:41.1408829+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:06:43.4919394+00:00",
-  "LastUpdate_Achievements": "2023-06-01T13:14:17.5585892+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:58:44.3351321+00:00",
+  "LastUpdate_Achievements": "2023-06-01T14:05:41.1409522+00:00"
 }

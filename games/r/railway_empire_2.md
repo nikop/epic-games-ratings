@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~451 |
-| A new Journey | 72.00% | ~445 |
+| Country Bumpkin | 73.00% | ~452 |
+| A new Journey | 72.00% | ~446 |
 | Departure | 71.00% | ~439 |
 | Way of Iron | 70.00% | ~433 |
-| From X to Y | 69.00% | ~426 |
-| Mystery Tour | 67.00% | ~414 |
-| Brainstorm | 66.00% | ~408 |
+| From X to Y | 69.00% | ~427 |
+| Brainstorm | 66.00% | ~409 |
+| Mystery Tour | 66.00% | ~409 |
 | We brake for nobody | 65.00% | ~402 |
 | Travel Company | 64.00% | ~396 |
-| Mind the Gap | 63.00% | ~389 |
-| All around the World | 61.00% | ~377 |
+| Mind the Gap | 63.00% | ~390 |
+| All around the World | 61.00% | ~378 |
 | Right through the middle | 55.00% | ~340 |
-| Poor Devil | 50.00% | ~309 |
-| Facility Manager | 47.00% | ~290 |
-| Apprentice | 45.00% | ~278 |
+| Poor Devil | 50.00% | ~310 |
+| Facility Manager | 47.00% | ~291 |
+| Apprentice | 45.00% | ~279 |
 | Producer | 43.00% | ~266 |
 | Bridge Builder | 38.00% | ~235 |
 | Stoker | 37.00% | ~229 |
-| Access granted | 35.00% | ~216 |
+| Access granted | 35.00% | ~217 |
 | Going once, going twice, sold | 28.00% | ~173 |
 | Full Steam ahead | 27.00% | ~167 |
-| Mole | 24.00% | ~148 |
-| Bull and bear | 24.00% | ~148 |
+| Mole | 24.00% | ~149 |
+| Bull and bear | 24.00% | ~149 |
 | Seven at one stroke | 22.00% | ~136 |
 | Financial Shark | 21.00% | ~130 |
 | All mine | 20.00% | ~124 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 618 (Ranked 189)  
+Progressed: 619 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 397 | 0 |
 | 2023-05-30 | 501 | 0 |
 | 2023-05-31 | 588 | 0 |
-| 2023-06-01 | 618 | 0 |
+| 2023-06-01 | 619 | 0 |

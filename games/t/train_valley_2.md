@@ -12,6 +12,7 @@ Number of Ratings: 87  (23.09.2022)
 | Juggler | 6.00% | ~43 |
 | To the eyeballs! | 6.00% | ~43 |
 | Builder | 4.00% | ~29 |
+| Close call! | 4.00% | ~29 |
 | Common cause | 4.00% | ~29 |
 | Forgot something | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
@@ -19,7 +20,6 @@ Number of Ratings: 87  (23.09.2022)
 | Need to think | 4.00% | ~29 |
 | Non-Stop | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
-| Close call! | 3.00% | ~22 |
 | Critical care | 3.00% | ~22 |
 | Get out my way | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |

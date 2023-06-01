@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1085,10 +1085,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4673,
       "NumberOfAwardsMax": 551
+    },
+    {
+      "Time": "2023-06-01T13:58:43.2135874+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4674,
+      "NumberOfAwardsMax": 551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4673,
+  "NumberOfAwards": 4674,
   "NumberOfAwardsMax": 551,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1132,7 +1138,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 521
+      "Count": 522
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1159,9 +1165,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 172951,
+  "EOS_Progressed": 172964,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 2366,
+  "EOS_NewPlayers": 2358,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5469,6 +5475,11 @@
       "Time": "2023-06-01T13:14:08.5080207+00:00",
       "NumProgressed": 172951,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-06-01T14:05:34.5046207+00:00",
+      "NumProgressed": 172964,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 44,
@@ -5520,7 +5531,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10377
+      "UsersEstimate": 10378
     },
     {
       "ID": "FiveShadows",
@@ -5536,7 +5547,7 @@
       "Name": "Flying Rocks",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6918
+      "UsersEstimate": 6919
     },
     {
       "ID": "GearUp",
@@ -5552,7 +5563,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 17295
+      "UsersEstimate": 17296
     },
     {
       "ID": "HappyLittleAccidents",
@@ -5600,7 +5611,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10377
+      "UsersEstimate": 10378
     },
     {
       "ID": "Mercyful",
@@ -5656,7 +5667,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 6918
+      "UsersEstimate": 6919
     },
     {
       "ID": "OldMan",
@@ -5680,7 +5691,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6918
+      "UsersEstimate": 6919
     },
     {
       "ID": "ReleaseTheKraken",
@@ -5696,7 +5707,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10377
+      "UsersEstimate": 10378
     },
     {
       "ID": "Rollin",
@@ -5704,7 +5715,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10377
+      "UsersEstimate": 10378
     },
     {
       "ID": "StillRollin",
@@ -5728,7 +5739,7 @@
       "Name": "Stoned Ox",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10377
+      "UsersEstimate": 10378
     },
     {
       "ID": "TanukiTime",
@@ -5768,7 +5779,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 15566
+      "UsersEstimate": 15567
     },
     {
       "ID": "TimeParadox",
@@ -5792,7 +5803,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6918
+      "UsersEstimate": 6919
     },
     {
       "ID": "Warzone",
@@ -5800,7 +5811,7 @@
       "Name": "Warzone",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6918
+      "UsersEstimate": 6919
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -5831,15 +5842,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 172951,
+      "Progressed": 172964,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-05-28T10:58:50.596903+00:00",
-  "LastChanged_Achievements": "2023-06-01T13:14:08.5080201+00:00",
+  "LastChanged": "2023-06-01T13:58:43.2135872+00:00",
+  "LastChanged_Achievements": "2023-06-01T14:05:34.5046204+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.2684479+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:06:41.7364012+00:00",
-  "LastUpdate_Achievements": "2023-06-01T13:14:08.5080827+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:58:43.2135879+00:00",
+  "LastUpdate_Achievements": "2023-06-01T14:05:34.5046837+00:00"
 }

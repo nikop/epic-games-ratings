@@ -5,23 +5,23 @@ Rating: 3.93 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~46,976 |
-| First One’s Free | 64.00% | ~41,185 |
-| Neophyte Ninja | 50.00% | ~32,176 |
-| Too Old for This | 47.00% | ~30,245 |
-| Fancy Pants | 35.00% | ~22,523 |
-| Case Closed | 34.00% | ~21,879 |
-| King of the Hill | 33.00% | ~21,236 |
-| Underworld Initiate | 29.00% | ~18,662 |
-| Roid Ranger | 21.00% | ~13,514 |
-| True Player | 19.00% | ~12,227 |
-| Off the Rocks | 19.00% | ~12,227 |
-| Raider’s Ruin | 16.00% | ~10,296 |
-| Dragonslayer | 16.00% | ~10,296 |
+| Downed but Not Outed | 73.00% | ~46,980 |
+| First One’s Free | 64.00% | ~41,188 |
+| Neophyte Ninja | 50.00% | ~32,178 |
+| Too Old for This | 47.00% | ~30,247 |
+| Fancy Pants | 35.00% | ~22,525 |
+| Case Closed | 34.00% | ~21,881 |
+| King of the Hill | 33.00% | ~21,237 |
+| Underworld Initiate | 29.00% | ~18,663 |
+| Roid Ranger | 21.00% | ~13,515 |
+| True Player | 19.00% | ~12,228 |
+| Off the Rocks | 19.00% | ~12,228 |
+| Raider’s Ruin | 16.00% | ~10,297 |
+| Dragonslayer | 16.00% | ~10,297 |
 | Hidden Sonata | 13.00% | ~8,366 |
 | Rockay Rex | 11.00% | ~7,079 |
-| Freebooter | 10.00% | ~6,435 |
-| Classy Joint | 10.00% | ~6,435 |
+| Freebooter | 10.00% | ~6,436 |
+| Classy Joint | 10.00% | ~6,436 |
 | Track Star | 9.00% | ~5,792 |
 | I Like Trains | 8.00% | ~5,148 |
 | Headhunter | 8.00% | ~5,148 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 904)
 | Geek Out | 0.50% | ~322 |
 | Full House | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,351 (Ranked 68)  
+Progressed: 64,356 (Ranked 68)  
 Completed: 31 (0.05%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 31 (0.05%) (Ranked 177)
 | 2023-05-29 | 64,018 | 31 |
 | 2023-05-30 | 64,145 | 31 |
 | 2023-05-31 | 64,285 | 31 |
-| 2023-06-01 | 64,351 | 31 |
+| 2023-06-01 | 64,356 | 31 |
 ## Awards
 Max (Diverse Characters): 303  (Ranked 225)  
 Sum: 1,445 (Ranked 212)  

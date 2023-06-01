@@ -5,8 +5,8 @@ Rating: 4.60 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,278 |
-| Pay 'n' Spray | 48.00% | ~4,367 |
+| Getting Started | 80.00% | ~7,280 |
+| Pay 'n' Spray | 48.00% | ~4,368 |
 | All Dressed Up for San Fierro | 22.00% | ~2,002 |
 | The American Dream | 17.00% | ~1,547 |
 | School's Out | 15.00% | ~1,365 |
@@ -36,12 +36,12 @@ Rating: 4.60 (Ranked 385)
 | Chick Magnet | 0.90% | ~82 |
 | Lucky Spinner | 0.80% | ~73 |
 | Hoopin' it Up | 0.70% | ~64 |
-| Not a Player | 0.50% | ~45 |
-| Remastered | 0.50% | ~45 |
+| Not a Player | 0.50% | ~46 |
+| Remastered | 0.50% | ~46 |
 | ...Here we go again | 0.20% | ~18 |
 | I Ain't No Buster | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,098 (Ranked 111)  
+Progressed: 9,100 (Ranked 111)  
 Completed: 17 (0.19%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 17 (0.19%) (Ranked 144)
 | 2023-05-29 | 8,878 | 17 |
 | 2023-05-30 | 8,958 | 17 |
 | 2023-05-31 | 9,054 | 17 |
-| 2023-06-01 | 9,098 | 17 |
+| 2023-06-01 | 9,100 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

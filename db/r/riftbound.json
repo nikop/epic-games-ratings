@@ -4,7 +4,7 @@
   "ProductSlug": "riftbound-db891d",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -131,6 +131,11 @@
       "Time": "2023-05-30T04:04:06.6822313+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T14:04:14.9126225+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -148,9 +153,9 @@
       "ID": "ACH_AdventureTime",
       "SetID": "1od64h3",
       "Name": "Adventure Time",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ApprenticeSummoner",
@@ -188,7 +193,7 @@
       "ID": "ACH_CloseCall",
       "SetID": "1od64h3",
       "Name": "Close Call",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -204,7 +209,7 @@
       "ID": "ACH_EvolutionRevolution",
       "SetID": "1od64h3",
       "Name": "Evolution Revolution",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -228,7 +233,7 @@
       "ID": "ACH_FiveOfAKind",
       "SetID": "1od64h3",
       "Name": "Five Of A Kind",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 73,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -357,14 +362,14 @@
     {
       "ID": "1od64h3",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-06-01T13:12:15.1712254+00:00",
+  "LastChanged_Achievements": "2023-06-01T14:04:14.9126219+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.3148737+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:04:29.5114955+00:00",
-  "LastUpdate_Achievements": "2023-06-01T13:12:15.1712454+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:57:16.8517269+00:00",
+  "LastUpdate_Achievements": "2023-06-01T14:04:14.9126419+00:00"
 }
