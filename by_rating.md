@@ -41,7 +41,7 @@
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 418 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,585 | 41 |
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,479 | 59 |
-| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 330 | 217 |
+| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 331 | 216 |
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 491 |
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 249 |
 | 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 491 |
@@ -361,7 +361,7 @@
 | 343 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 63 | 373 |
 | 360 | [20XX](games/2/20xx.md) | 4.61 | 36 | 422 |
 | 360 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 128 | 300 |
-| 360 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,151 | 71 |
+| 360 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,155 | 71 |
 | 360 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 491 |
 | 360 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 213 | 252 |
 | 360 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 206 |
@@ -510,7 +510,7 @@
 | 497 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 454 |
 | 509 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 20 | 485 |
 | 509 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 739 | 152 |
-| 509 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,870 | 16 |
+| 509 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,904 | 16 |
 | 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 480 |
 | 509 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 491 |
 | 509 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 506 | 185 |
@@ -593,7 +593,7 @@
 | 586 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 491 |
 | 586 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 491 |
 | 586 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 326 |
-| 586 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 7,037 | 46 |
+| 586 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 7,046 | 46 |
 | 586 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 491 |
 | 596 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 491 |
 | 596 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 47 | 397 |
