@@ -4,7 +4,7 @@
   "ProductSlug": "spelldrifter",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-19T17:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.3460946+00:00",
   "LastChanged": "2023-03-31T05:58:19.3460948+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:39.7079694+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:59:47.0041825+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:05:01.5838446+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:59:47.7970908+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:05:13.118007+00:00"
 }

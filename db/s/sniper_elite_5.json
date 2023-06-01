@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2017,
+  "EOS_Progressed": 2021,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2178,6 +2178,11 @@
       "Time": "2023-06-01T20:05:28.4708122+00:00",
       "NumProgressed": 2017,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T21:05:39.5262188+00:00",
+      "NumProgressed": 2021,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2187,9 +2192,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2253,7 +2258,7 @@
       "Name": "Organ Grinder",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2269,7 +2274,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2357,7 +2362,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2429,7 +2434,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2443,9 +2448,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2501,7 +2506,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2756,13 +2761,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1968,
+      "Progressed": 1972,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2017,
+      "Progressed": 2021,
       "Completed": 2
     }
   ],
@@ -2770,8 +2775,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:05:28.4708118+00:00",
+  "LastChanged_Achievements": "2023-06-01T21:05:39.5262183+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:59:57.4473152+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:05:28.4708897+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:59:58.3408409+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:05:39.526298+00:00"
 }

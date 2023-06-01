@@ -5,16 +5,16 @@ Rating: 4.45 (Ranked 610)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~484 |
-| Confirming Suspicions | 19.00% | ~383 |
+| Meeting Resistance | 24.00% | ~485 |
+| Confirming Suspicions | 19.00% | ~384 |
 | The Kraken Wakes | 15.00% | ~303 |
-| It's Starting to Crack | 12.00% | ~242 |
+| It's Starting to Crack | 12.00% | ~243 |
 | Lord of War | 11.00% | ~222 |
 | Resourceful | 10.00% | ~202 |
 | Change the Channel | 10.00% | ~202 |
 | Taking it back | 9.00% | ~182 |
-| Organ Grinder | 8.00% | ~161 |
-| As Quiet as a Mouse | 8.00% | ~161 |
+| Organ Grinder | 8.00% | ~162 |
+| As Quiet as a Mouse | 8.00% | ~162 |
 | Enemy at the Gates | 7.00% | ~141 |
 | Target America | 7.00% | ~141 |
 | Just a Flesh Wound | 6.00% | ~121 |
@@ -26,11 +26,11 @@ Rating: 4.45 (Ranked 610)
 | Gunslinger | 5.00% | ~101 |
 | Die Nussknacker Sweet! | 5.00% | ~101 |
 | Der Geist | 5.00% | ~101 |
+| Close Quarters | 5.00% | ~101 |
+| Climbing the Ladder | 4.00% | ~81 |
 | Fields of Glory | 4.00% | ~81 |
-| Close Quarters | 4.00% | ~81 |
 | Snake in the Grass | 4.00% | ~81 |
 | Brains of the Operation | 4.00% | ~81 |
-| Climbing the Ladder | 3.00% | ~61 |
 | No Stone Unturned | 3.00% | ~61 |
 | Skirmisher | 3.00% | ~61 |
 | Set Europe Ablaze | 3.00% | ~61 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 610)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,017 (Ranked 151)  
+Progressed: 2,021 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
-| 2023-06-01 | 2,017 | 2 |
+| 2023-06-01 | 2,021 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

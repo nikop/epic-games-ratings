@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -277,6 +277,11 @@
       "Time": "2023-05-31T16:05:09.7624772+00:00",
       "NumProgressed": 381,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-01T21:05:27.886991+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -288,7 +293,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "CHOICES_MATTER",
@@ -358,9 +363,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 210
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -440,14 +445,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 4
     }
   ],
@@ -455,8 +460,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:05:16.3388413+00:00",
+  "LastChanged_Achievements": "2023-06-01T21:05:27.8869903+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:57:36.3227855+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:05:16.3388572+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:57:39.4665659+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:05:27.8870042+00:00"
 }

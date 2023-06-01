@@ -116,7 +116,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1247,
+  "EOS_Progressed": 1248,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -2501,6 +2501,11 @@
       "Time": "2023-06-01T20:05:34.5397228+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T21:05:45.8570673+00:00",
+      "NumProgressed": 1248,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2622,9 +2627,9 @@
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 162
     },
     {
       "ID": "dragonslayer",
@@ -2744,7 +2749,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "herewegoagain",
@@ -2968,7 +2973,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "thealchemist",
@@ -3072,7 +3077,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "warmachinesarmy",
@@ -3111,7 +3116,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1247,
+      "Progressed": 1248,
       "Completed": 1
     }
   ],
@@ -3119,8 +3124,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-01T11:58:24.5619645+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:05:34.5397222+00:00",
+  "LastChanged_Achievements": "2023-06-01T21:05:45.8570667+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:57:50.2522858+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:05:34.5398126+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:57:53.6521716+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:05:45.8571604+00:00"
 }

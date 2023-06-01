@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.81,
+  "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -173,6 +173,11 @@
       "Time": "2023-05-30T13:11:30.5967418+00:00",
       "NumProgressed": 285,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-01T21:04:11.2100315+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -264,15 +269,15 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_11",
       "SetID": "7881h0d",
       "Name": "A forgotten language",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_12",
@@ -335,7 +340,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 8
     }
   ],
@@ -343,8 +348,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:04:00.1286608+00:00",
+  "LastChanged_Achievements": "2023-06-01T21:04:11.2100304+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:35.252453+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:57:38.120736+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:04:00.128676+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:57:41.2711443+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:04:11.2100448+00:00"
 }

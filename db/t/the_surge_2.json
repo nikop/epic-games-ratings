@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -835,6 +835,11 @@
       "Time": "2023-06-01T20:05:46.1277861+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-01T21:05:57.1963579+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -852,9 +857,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1088
     },
     {
       "ID": "ACHV_03",
@@ -862,7 +867,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACHV_04",
@@ -902,7 +907,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHV_09",
@@ -910,7 +915,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHV_10",
@@ -982,7 +987,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACHV_19",
@@ -1046,7 +1051,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ACHV_27",
@@ -1078,7 +1083,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHV_31",
@@ -1142,7 +1147,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHV_39",
@@ -1150,7 +1155,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACHV_40",
@@ -1182,7 +1187,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHV_44",
@@ -1301,7 +1306,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 10
     }
   ],
@@ -1309,8 +1314,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:05:46.1277857+00:00",
+  "LastChanged_Achievements": "2023-06-01T21:05:57.1963574+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.5368103+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:59:53.8752546+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:05:46.1278397+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:59:54.8789955+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:05:57.1964111+00:00"
 }

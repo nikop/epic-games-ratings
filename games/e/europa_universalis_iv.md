@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,329 |
-| That's a Grand Army | 8.00% | ~3,848 |
-| That is mine! | 8.00% | ~3,848 |
-| Victorious! | 8.00% | ~3,848 |
-| Brothers in Arms | 6.00% | ~2,886 |
-| That's a Grand Navy | 6.00% | ~2,886 |
-| Seriously?! | 6.00% | ~2,886 |
-| For the Glory | 5.00% | ~2,405 |
-| Cold War | 4.00% | ~1,924 |
-| True Catholic | 4.00% | ~1,924 |
-| Defender of the Faith | 3.00% | ~1,443 |
-| It's all about the money | 3.00% | ~1,443 |
-| Respected | 3.00% | ~1,443 |
-| Truly Divine Ruler | 3.00% | ~1,443 |
-| Agressive Expander | 2.00% | ~962 |
-| Blockader | 2.00% | ~962 |
-| Combined Arms | 2.00% | ~962 |
-| Double the Love | 2.00% | ~962 |
-| Gentle Persuasion | 2.00% | ~962 |
-| It's all about luck | 2.00% | ~962 |
-| My armies are invincible! | 2.00% | ~962 |
-| Queen of Conquest | 2.00% | ~962 |
-| Royal Authority | 2.00% | ~962 |
-| The Princess is in this Castle | 2.00% | ~962 |
-| Total Control | 2.00% | ~962 |
+| Until death do us apart | 9.00% | ~4,333 |
+| That's a Grand Army | 8.00% | ~3,851 |
+| That is mine! | 8.00% | ~3,851 |
+| Victorious! | 8.00% | ~3,851 |
+| Brothers in Arms | 6.00% | ~2,889 |
+| That's a Grand Navy | 6.00% | ~2,889 |
+| Seriously?! | 6.00% | ~2,889 |
+| For the Glory | 5.00% | ~2,407 |
+| Cold War | 4.00% | ~1,926 |
+| True Catholic | 4.00% | ~1,926 |
+| Defender of the Faith | 3.00% | ~1,444 |
+| It's all about the money | 3.00% | ~1,444 |
+| Respected | 3.00% | ~1,444 |
+| Truly Divine Ruler | 3.00% | ~1,444 |
+| Agressive Expander | 2.00% | ~963 |
+| Blockader | 2.00% | ~963 |
+| Combined Arms | 2.00% | ~963 |
+| Double the Love | 2.00% | ~963 |
+| Gentle Persuasion | 2.00% | ~963 |
+| It's all about luck | 2.00% | ~963 |
+| My armies are invincible! | 2.00% | ~963 |
+| Queen of Conquest | 2.00% | ~963 |
+| Royal Authority | 2.00% | ~963 |
+| The Princess is in this Castle | 2.00% | ~963 |
+| Total Control | 2.00% | ~963 |
 | All That's Thine Shall Be Mine | 1.00% | ~481 |
 | Azur semé de lis or | 1.00% | ~481 |
 | Bright Spark | 1.00% | ~481 |
@@ -46,25 +46,25 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.70% | ~337 |
 | Electable! | 0.60% | ~289 |
 | Time Bandit | 0.60% | ~289 |
-| All belongs to Mother Russia | 0.50% | ~240 |
-| At every continent | 0.50% | ~240 |
-| Early-Modern Warfare | 0.50% | ~240 |
-| One Family to Rule them All | 0.50% | ~240 |
-| Populists in Government | 0.50% | ~240 |
-| The pen is mightier than the sword | 0.50% | ~240 |
-| This is My Faith | 0.50% | ~240 |
-| Trophy Hunter | 0.50% | ~240 |
-| Voting Streak | 0.50% | ~240 |
-| Absolutely | 0.40% | ~192 |
-| Bleed Them Dry | 0.40% | ~192 |
-| Dude, Where's my Boat? | 0.40% | ~192 |
-| Grand Coalition | 0.40% | ~192 |
-| In the Name of the Father | 0.40% | ~192 |
-| Live Long and Prosper | 0.40% | ~192 |
-| One Night in Paris | 0.40% | ~192 |
-| Ruina Imperii | 0.40% | ~192 |
-| Tear Down This Wall | 0.40% | ~192 |
-| The Continuation of Diplomacy | 0.40% | ~192 |
+| All belongs to Mother Russia | 0.50% | ~241 |
+| At every continent | 0.50% | ~241 |
+| Early-Modern Warfare | 0.50% | ~241 |
+| One Family to Rule them All | 0.50% | ~241 |
+| Populists in Government | 0.50% | ~241 |
+| The pen is mightier than the sword | 0.50% | ~241 |
+| This is My Faith | 0.50% | ~241 |
+| Trophy Hunter | 0.50% | ~241 |
+| Voting Streak | 0.50% | ~241 |
+| Absolutely | 0.40% | ~193 |
+| Bleed Them Dry | 0.40% | ~193 |
+| Dude, Where's my Boat? | 0.40% | ~193 |
+| Grand Coalition | 0.40% | ~193 |
+| In the Name of the Father | 0.40% | ~193 |
+| Live Long and Prosper | 0.40% | ~193 |
+| One Night in Paris | 0.40% | ~193 |
+| Ruina Imperii | 0.40% | ~193 |
+| Tear Down This Wall | 0.40% | ~193 |
+| The Continuation of Diplomacy | 0.40% | ~193 |
 | A Decent Reserve | 0.30% | ~144 |
 | A Pile of Gold | 0.30% | ~144 |
 | All Your Trade Are Belong to Us | 0.30% | ~144 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,096 (Ranked 77)  
+Progressed: 48,142 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,14 +403,14 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
 | 2023-05-31 | 47,652 | 0 |
-| 2023-06-01 | 48,096 | 0 |
+| 2023-06-01 | 48,142 | 0 |
 ## Awards
-Max (Educational): 5,322  (Ranked 60)  
-Sum: 44,013 (Ranked 27)  
+Max (Educational): 5,330  (Ranked 60)  
+Sum: 44,021 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,322 |
+| This game is Educational | 5,330 |
 | This game is Highly Recommended | 5,099 |
 | This game has Challenging Combat | 5,073 |
 | This game is Extremely Fun | 5,050 |
@@ -558,4 +558,4 @@ Diff (max vs sum): 33
 | 2023-05-29 | 4.68 | - | 5,306 | 43,917 |
 | 2023-05-30 | 4.68 | - | 5,313 | 43,955 |
 | 2023-05-31 | 4.68 | - | 5,322 | 43,985 |
-| 2023-06-01 | 4.68 | - | 5,322 | 44,013 |
+| 2023-06-01 | 4.68 | - | 5,330 | 44,021 |

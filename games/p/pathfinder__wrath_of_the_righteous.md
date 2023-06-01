@@ -6,25 +6,25 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 15.00% | ~1,412 |
+| Devoured by Darkness | 16.00% | ~1,507 |
 | A Spark | 11.00% | ~1,036 |
 | Burning City | 10.00% | ~942 |
-| Mythic Choices | 9.00% | ~847 |
-| Defender's Heart | 9.00% | ~847 |
+| Mythic Choices | 9.00% | ~848 |
+| Defender's Heart | 9.00% | ~848 |
 | Banner over the Citadel | 8.00% | ~753 |
 | Queen's Gratitude | 7.00% | ~659 |
 | Fifth Crusade | 5.00% | ~471 |
 | Embrace of the Abyss | 4.00% | ~377 |
 | Path of the Angel | 4.00% | ~377 |
 | Demonic and Divine | 4.00% | ~377 |
-| Path of the Azata | 3.00% | ~282 |
-| Transformation | 3.00% | ~282 |
-| The Legacy | 3.00% | ~282 |
-| Great Upstart | 3.00% | ~282 |
-| Voice from Your Dreams | 3.00% | ~282 |
-| All Paths Open | 3.00% | ~282 |
-| Next-Door Play | 3.00% | ~282 |
-| Get the Toad | 3.00% | ~282 |
+| Path of the Azata | 3.00% | ~283 |
+| Transformation | 3.00% | ~283 |
+| The Legacy | 3.00% | ~283 |
+| Great Upstart | 3.00% | ~283 |
+| Voice from Your Dreams | 3.00% | ~283 |
+| All Paths Open | 3.00% | ~283 |
+| Next-Door Play | 3.00% | ~283 |
+| Get the Toad | 3.00% | ~283 |
 | Heart of the Fallen Land | 2.00% | ~188 |
 | Path of the Trickster | 2.00% | ~188 |
 | Heroic Victory | 2.00% | ~188 |
@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 0.70% | ~66 |
 | End of Eternal Guard | 0.70% | ~66 |
 | Not the Last Sarkorian | 0.70% | ~57 |
-| Path of the Dragon | 0.60% | ~56 |
-| Path of the Legend | 0.60% | ~56 |
-| Playful Mood | 0.60% | ~56 |
+| Path of the Dragon | 0.60% | ~57 |
+| Path of the Legend | 0.60% | ~57 |
+| Playful Mood | 0.60% | ~57 |
 | Dreadful Dragon | 0.50% | ~47 |
 | Truly Profane Gift | 0.50% | ~47 |
 | Masterful Charge | 0.40% | ~38 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,415 (Ranked 111)  
+Progressed: 9,417 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 9,338 | 0 |
 | 2023-05-30 | 9,373 | 0 |
 | 2023-05-31 | 9,396 | 0 |
-| 2023-06-01 | 9,415 | 0 |
+| 2023-06-01 | 9,417 | 0 |
 ## Awards
 Max (Character Customization): 1,645  (Ranked 111)  
 Sum: 6,675 (Ranked 110)  

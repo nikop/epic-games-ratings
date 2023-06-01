@@ -6,31 +6,31 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 93.00% | ~525 |
 | Rail Rat | 78.00% | ~441 |
-| The Mysterious Stranger | 75.00% | ~424 |
-| Immaculate Aim | 64.00% | ~362 |
-| The Brass Boss | 56.00% | ~316 |
+| The Mysterious Stranger | 76.00% | ~429 |
+| Immaculate Aim | 65.00% | ~367 |
+| The Brass Boss | 57.00% | ~322 |
 | Honest Mistake | 55.00% | ~311 |
 | No, Thanks! | 54.00% | ~305 |
 | Time Flies | 52.00% | ~294 |
 | The Prince in Heels | 51.00% | ~288 |
 | Right On Time | 50.00% | ~282 |
-| The Harder They Fall | 49.00% | ~277 |
+| The Harder They Fall | 50.00% | ~282 |
 | Fast Learner | 48.00% | ~271 |
 | Immaculate Aim | 48.00% | ~271 |
 | Make Up For Lost Time | 47.00% | ~266 |
-| Breaking Down Barriers | 43.00% | ~243 |
+| Breaking Down Barriers | 44.00% | ~249 |
 | The Steel Shadow | 38.00% | ~215 |
 | Golem Chaser | 37.00% | ~209 |
 | Like Clockwork | 35.00% | ~198 |
 | The Wicked Twins | 34.00% | ~192 |
-| The Betrayer | 32.00% | ~181 |
+| The Betrayer | 33.00% | ~186 |
 | Family Memories | 30.00% | ~170 |
 | Check Your Pulse | 30.00% | ~170 |
 | Good Neighbor | 29.00% | ~164 |
 | Street Style | 28.00% | ~158 |
 | The Loose Cannon | 28.00% | ~158 |
+| The Family Fortune | 24.00% | ~136 |
 | The Man Who Shattered Time | 23.00% | ~130 |
-| The Family Fortune | 23.00% | ~130 |
 | Whiz Kid | 21.00% | ~119 |
 | Sump Explorer | 21.00% | ~119 |
 | Syron for Hope | 21.00% | ~119 |
@@ -41,9 +41,9 @@
 | Cultivair Explorer | 15.00% | ~85 |
 | Theater Explorer | 15.00% | ~85 |
 | Corin Goes Home | 12.00% | ~68 |
+| Sartorialist | 12.00% | ~68 |
 | Entresol Explorer | 12.00% | ~68 |
 | Rungs Was Right | 12.00% | ~68 |
-| Sartorialist | 11.00% | ~62 |
 | Clovemary for Remembering | 10.00% | ~56 |
 | Hexlock for Protection | 9.00% | ~51 |
 | Golem Hunter | 8.00% | ~45 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-06-01T20:05:42.3902694+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-01T21:05:53.5226745+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -811,7 +816,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -819,7 +824,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -827,7 +832,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -859,7 +864,7 @@
       "Name": "K.O.!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -867,7 +872,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -907,7 +912,7 @@
       "Name": "Line Cook",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -971,7 +976,7 @@
       "Name": "Fishing Guru",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -979,7 +984,7 @@
       "Name": "The Capitalist",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -987,7 +992,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -1011,7 +1016,7 @@
       "Name": "Community Advisor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENTS_27",
@@ -1027,7 +1032,7 @@
       "Name": "Rock Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENTS_29",
@@ -1035,7 +1040,7 @@
       "Name": "Tree Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENTS_30",
@@ -1114,7 +1119,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1326,
       "Completed": 5
     }
   ],
@@ -1122,8 +1127,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:05:42.3902689+00:00",
+  "LastChanged_Achievements": "2023-06-01T21:05:53.5226739+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:43.6449908+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:59:52.2176253+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:05:42.3903021+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:59:53.2263819+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:05:53.5227077+00:00"
 }

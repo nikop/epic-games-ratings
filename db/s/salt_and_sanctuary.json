@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2223,9 +2223,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 522971,
+  "EOS_Progressed": 522978,
   "EOS_Completed": 1433,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -6488,6 +6488,11 @@
       "Time": "2023-06-01T20:05:24.9598536+00:00",
       "NumProgressed": 522971,
       "NumCompleted": 1433
+    },
+    {
+      "Time": "2023-06-01T21:05:36.1531709+00:00",
+      "NumProgressed": 522978,
+      "NumCompleted": 1433
     }
   ],
   "TotalAchievements": 37,
@@ -6499,7 +6504,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67986
+      "UsersEstimate": 67987
     },
     {
       "ID": "COASTROCK",
@@ -6507,7 +6512,7 @@
       "Name": "Coastrock",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     },
     {
       "ID": "DEVARAS_LIGHT",
@@ -6515,7 +6520,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 156891
+      "UsersEstimate": 156893
     },
     {
       "ID": "DEVOTED",
@@ -6523,7 +6528,7 @@
       "Name": "Devoted",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     },
     {
       "ID": "DOMINION",
@@ -6531,7 +6536,7 @@
       "Name": "Dominion",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     },
     {
       "ID": "FADING_FAST",
@@ -6555,7 +6560,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 434066
+      "UsersEstimate": 434072
     },
     {
       "ID": "HONED",
@@ -6579,7 +6584,7 @@
       "Name": "Keepers of Fire and Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     },
     {
       "ID": "ORDER_OF_BETRAYER",
@@ -6587,7 +6592,7 @@
       "Name": "Order of the Betrayer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     },
     {
       "ID": "STORIED",
@@ -6595,7 +6600,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 31378
+      "UsersEstimate": 31379
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -6611,7 +6616,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209188
+      "UsersEstimate": 209191
     },
     {
       "ID": "THE_CASTLE",
@@ -6619,7 +6624,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57527
+      "UsersEstimate": 57528
     },
     {
       "ID": "THE_CAVE",
@@ -6635,7 +6640,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31378
+      "UsersEstimate": 31379
     },
     {
       "ID": "THE_CRYPT",
@@ -6651,7 +6656,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47067
+      "UsersEstimate": 47068
     },
     {
       "ID": "THE_FOREST",
@@ -6659,7 +6664,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73216
+      "UsersEstimate": 73217
     },
     {
       "ID": "THE_IMPOSTER",
@@ -6667,7 +6672,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67986
+      "UsersEstimate": 67987
     },
     {
       "ID": "THE_IRON_ONES",
@@ -6675,7 +6680,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94135
+      "UsersEstimate": 94136
     },
     {
       "ID": "THE_KEEP",
@@ -6683,7 +6688,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67986
+      "UsersEstimate": 67987
     },
     {
       "ID": "THE_LAKE",
@@ -6699,7 +6704,7 @@
       "Name": "The Mire",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31378
+      "UsersEstimate": 31379
     },
     {
       "ID": "THE_PALACE",
@@ -6723,7 +6728,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47067
+      "UsersEstimate": 47068
     },
     {
       "ID": "THE_RUINS",
@@ -6731,7 +6736,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31378
+      "UsersEstimate": 31379
     },
     {
       "ID": "THE_SACRIFICE",
@@ -6755,7 +6760,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 334701
+      "UsersEstimate": 334706
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -6771,7 +6776,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83675
+      "UsersEstimate": 83676
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -6787,22 +6792,22 @@
       "Name": "Wise Words",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     }
   ],
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 522971,
+      "Progressed": 522978,
       "Completed": 1433
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-27T13:58:57.1768614+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:05:24.9598531+00:00",
+  "LastChanged_Achievements": "2023-06-01T21:05:36.1531705+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:51.7080988+00:00",
-  "LastUpdate_Ratings": "2023-06-01T19:58:54.5147719+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:05:24.9599077+00:00"
+  "LastUpdate_Ratings": "2023-06-01T20:58:59.3177461+00:00",
+  "LastUpdate_Achievements": "2023-06-01T21:05:36.1532273+00:00"
 }

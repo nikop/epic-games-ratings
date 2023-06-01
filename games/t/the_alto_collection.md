@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,513 |
-| Rookie | 25.00% | ~6,031 |
-| Nomad | 19.00% | ~4,584 |
-| Picking Up Speed | 17.00% | ~4,101 |
-| Welcome Maya | 16.00% | ~3,860 |
-| Sightseer | 12.00% | ~2,895 |
-| Scout | 10.00% | ~2,412 |
-| Amateur | 9.00% | ~2,171 |
-| Wanderer | 9.00% | ~2,171 |
-| Enter Paz | 8.00% | ~1,930 |
+| Finding Your Footing | 27.00% | ~6,516 |
+| Rookie | 25.00% | ~6,033 |
+| Nomad | 19.00% | ~4,585 |
+| Picking Up Speed | 17.00% | ~4,103 |
+| Welcome Maya | 16.00% | ~3,861 |
+| Sightseer | 12.00% | ~2,896 |
+| Scout | 10.00% | ~2,413 |
+| Amateur | 9.00% | ~2,172 |
+| Wanderer | 9.00% | ~2,172 |
+| Enter Paz | 8.00% | ~1,931 |
 | Unlock Maya | 7.00% | ~1,689 |
-| Aviator | 6.00% | ~1,447 |
-| One With The Board | 6.00% | ~1,447 |
-| Voyager | 6.00% | ~1,447 |
-| My Little Friend | 5.00% | ~1,206 |
+| Aviator | 6.00% | ~1,448 |
+| One With The Board | 6.00% | ~1,448 |
+| Voyager | 6.00% | ~1,448 |
+| My Little Friend | 5.00% | ~1,207 |
 | Sandboarder | 4.00% | ~965 |
 | Izel Has Arrived | 4.00% | ~965 |
 | Junkie | 3.00% | ~724 |
@@ -28,8 +28,8 @@ Number of Ratings: 332  (23.09.2022)
 | Journeyer | 3.00% | ~724 |
 | Unlock Paz | 3.00% | ~724 |
 | Here Comes Felipe | 3.00% | ~724 |
-| Pro | 2.00% | ~482 |
-| Human Flight | 2.00% | ~482 |
+| Pro | 2.00% | ~483 |
+| Human Flight | 2.00% | ~483 |
 | Explorer | 1.00% | ~241 |
 | Hoist the Mainsail | 1.00% | ~241 |
 | Unlock Izel | 1.00% | ~241 |
@@ -38,7 +38,7 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 0.90% | ~217 |
 | Unlock Felipe | 0.70% | ~169 |
 | Adventurer | 0.60% | ~145 |
-| Unlock Tupa | 0.40% | ~96 |
+| Unlock Tupa | 0.40% | ~97 |
 | Master Of The Sands | 0.30% | ~72 |
 | Master | 0.10% | ~24 |
 | Life Aquatic | 0.10% | ~24 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~24 |
 | Windswept | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,124 (Ranked 90)  
+Progressed: 24,133 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 3 (0.01%) (Ranked 197)
 | 2023-05-29 | 23,669 | 3 |
 | 2023-05-30 | 23,817 | 3 |
 | 2023-05-31 | 23,985 | 3 |
-| 2023-06-01 | 24,124 | 3 |
+| 2023-06-01 | 24,133 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 316)  
