@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 51.00% | ~12 |
-| Survivor | 36.00% | ~8 |
+| Aspairagus | 50.00% | ~12 |
+| Survivor | 38.00% | ~9 |
 | No Diggity | 34.00% | ~8 |
-| Seeds of War | 33.00% | ~24 |
-| Early Survivor | 30.00% | ~7 |
-| Bouncemato | 23.00% | ~5 |
-| First Blood | 22.00% | ~16 |
-| Amateur Survivor | 22.00% | ~5 |
-| No Asperascope | 21.00% | ~15 |
+| Seeds of War | 32.00% | ~24 |
+| Early Survivor | 31.00% | ~7 |
+| First Blood | 23.00% | ~17 |
+| Bouncemato | 23.00% | ~6 |
+| Amateur Survivor | 23.00% | ~6 |
+| No Asperascope | 20.00% | ~15 |
+| Cornivore | 19.00% | ~14 |
 | I Believe I Can Fly | 18.00% | ~13 |
 | Triple Kill | 18.00% | ~13 |
 | Quick-Draw Pod | 18.00% | ~4 |
-| Cornivore | 16.00% | ~12 |
 | Grave Digger | 14.00% | ~3 |
+| 15K | 12.00% | ~9 |
+| 10K | 12.00% | ~9 |
 | Professional Survivor | 12.00% | ~3 |
-| 15K | 11.00% | ~8 |
-| 10K | 11.00% | ~8 |
-| Drinking Problem | 10.00% | ~7 |
-| Perfect | 10.00% | ~2 |
+| Drinking Problem | 9.00% | ~7 |
+| Perfect | 9.00% | ~2 |
 | Oh My Gourd | 8.00% | ~2 |
 | Expert Survivor | 8.00% | ~2 |
 | Quadsparagus | 8.00% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 287)  
+Progressed: 74 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 65 | 0 |
 | 2023-05-29 | 66 | 0 |
 | 2023-05-30 | 67 | 0 |
-| 2023-06-01 | 73 | 0 |
+| 2023-06-01 | 74 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

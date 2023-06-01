@@ -4060,10 +4060,10 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89442,
-  "EOS_Completed": 1905,
-  "EOS_NewPlayers": 794,
-  "EOS_NewCompleters": 26,
+  "EOS_Progressed": 89444,
+  "EOS_Completed": 1906,
+  "EOS_NewPlayers": 791,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8290,6 +8290,11 @@
       "Time": "2023-06-01T21:06:01.723332+00:00",
       "NumProgressed": 89442,
       "NumCompleted": 1905
+    },
+    {
+      "Time": "2023-06-01T22:07:12.9702893+00:00",
+      "NumProgressed": 89444,
+      "NumCompleted": 1906
     }
   ],
   "TotalAchievements": 493,
@@ -9683,9 +9688,9 @@
       "ID": "objective_completed_213",
       "SetID": "cc37lbc",
       "Name": "Family Entanglements",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_214",
@@ -9979,9 +9984,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 537
     },
     {
       "ID": "objective_completed_35",
@@ -12244,21 +12249,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55716,
+      "Progressed": 55718,
       "Completed": 2756
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89442,
-      "Completed": 1905
+      "Progressed": 89444,
+      "Completed": 1906
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-01T17:58:06.5991215+00:00",
-  "LastChanged_Achievements": "2023-06-01T21:06:01.7233313+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:07:12.9702888+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:57:55.3666815+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:06:01.7258908+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:58:16.6349408+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:07:12.9737108+00:00"
 }

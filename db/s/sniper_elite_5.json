@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2021,
+  "EOS_Progressed": 2025,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2183,6 +2183,11 @@
       "Time": "2023-06-01T21:05:39.5262188+00:00",
       "NumProgressed": 2021,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T22:06:45.6516422+00:00",
+      "NumProgressed": 2025,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2234,7 +2239,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2250,7 +2255,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2274,7 +2279,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2330,7 +2335,7 @@
       "Name": "Sharpshooter",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2362,7 +2367,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2384,9 +2389,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -2394,7 +2399,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2402,7 +2407,7 @@
       "Name": "Lord of War",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2442,7 +2447,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2586,15 +2591,15 @@
       "Name": "Target America",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -2602,7 +2607,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2761,13 +2766,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1972,
+      "Progressed": 1976,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2021,
+      "Progressed": 2025,
       "Completed": 2
     }
   ],
@@ -2775,8 +2780,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-01T21:05:39.5262183+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:06:45.6516417+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:59:58.3408409+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:05:39.526298+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:01:18.9242055+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:06:45.6517312+00:00"
 }

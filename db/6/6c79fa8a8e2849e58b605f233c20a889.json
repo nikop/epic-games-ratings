@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1199,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1056,6 +1056,11 @@
       "Time": "2023-06-01T20:03:21.2640311+00:00",
       "NumProgressed": 1199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T22:03:44.5965114+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1145,9 +1150,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 456
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1169,9 +1174,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 707
+      "UsersEstimate": 721
     },
     {
       "ID": "GUARD_MAKER",
@@ -1225,9 +1230,9 @@
       "ID": "SMARTER_THAN_A_BEAR",
       "SetID": "8lhbnh7",
       "Name": "Smarter than a Bear",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "WIZARD_MASTERY",
@@ -1242,14 +1247,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1199,
+      "Progressed": 1201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-01T21:03:32.7088727+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:03:44.5965109+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:57:06.3846295+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:03:32.7088951+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:57:03.8559149+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:03:44.596551+00:00"
 }

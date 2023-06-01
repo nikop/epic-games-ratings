@@ -2,7 +2,7 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 206,
@@ -410,9 +410,9 @@
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "save-zombie",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-01T21:05:42.7569044+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:06:49.5295275+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.5518333+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:58:28.3261609+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:05:42.7569299+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:59:04.6960106+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:06:49.5295677+00:00"
 }

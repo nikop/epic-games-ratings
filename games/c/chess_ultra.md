@@ -5,32 +5,32 @@ Rating: 4.27 (Ranked 779)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 67.00% | ~117,433 |
-| Doubled Pawn | 54.00% | ~94,647 |
-| Check | 53.00% | ~92,895 |
-| Absolute pin | 45.00% | ~78,873 |
-| Checkmate | 29.00% | ~50,829 |
-| Promotion | 29.00% | ~50,829 |
-| O-O | 23.00% | ~40,313 |
-| Spanish Bishop | 20.00% | ~35,055 |
-| Queen Sacrifice | 19.00% | ~33,302 |
-| Stalemate | 17.00% | ~29,796 |
-| O-O-O | 12.00% | ~21,033 |
-| Octopus | 12.00% | ~21,033 |
-| Stranger Danger | 12.00% | ~21,033 |
-| En Passant | 8.00% | ~14,022 |
-| Double Check | 7.00% | ~12,269 |
-| Family Fork | 5.00% | ~8,764 |
-| Friendly Fire | 5.00% | ~8,764 |
-| Piece Collector | 5.00% | ~8,764 |
-| ELO | 4.00% | ~7,011 |
-| Underpromote | 4.00% | ~7,011 |
-| ELO ELO | 3.00% | ~5,258 |
-| Blind Pigs | 2.00% | ~3,505 |
-| ELO ELO ELO | 2.00% | ~3,505 |
-| Learner | 2.00% | ~3,505 |
+| Chop Wood | 67.00% | ~117,450 |
+| Doubled Pawn | 54.00% | ~94,661 |
+| Check | 53.00% | ~92,908 |
+| Absolute pin | 45.00% | ~78,884 |
+| Checkmate | 29.00% | ~50,836 |
+| Promotion | 29.00% | ~50,836 |
+| O-O | 23.00% | ~40,319 |
+| Spanish Bishop | 20.00% | ~35,060 |
+| Queen Sacrifice | 19.00% | ~33,307 |
+| Stalemate | 17.00% | ~29,801 |
+| O-O-O | 12.00% | ~21,036 |
+| Octopus | 12.00% | ~21,036 |
+| Stranger Danger | 12.00% | ~21,036 |
+| En Passant | 8.00% | ~14,024 |
+| Double Check | 7.00% | ~12,271 |
+| Family Fork | 5.00% | ~8,765 |
+| Friendly Fire | 5.00% | ~8,765 |
+| Piece Collector | 5.00% | ~8,765 |
+| ELO | 4.00% | ~7,012 |
+| Underpromote | 4.00% | ~7,012 |
+| ELO ELO | 3.00% | ~5,259 |
+| Blind Pigs | 2.00% | ~3,506 |
+| ELO ELO ELO | 2.00% | ~3,506 |
+| Learner | 2.00% | ~3,506 |
 | Bobby Time | 1.00% | ~1,753 |
-| Back-rank Mate | 0.90% | ~1,577 |
+| Back-rank Mate | 0.90% | ~1,578 |
 | Chess Champion | 0.30% | ~526 |
 | Alekhine’s gun | 0.10% | ~175 |
 | Boden’s Mate | 0.10% | ~175 |
@@ -44,7 +44,7 @@ Rating: 4.27 (Ranked 779)
 | Tournament Master | 0.10% | ~175 |
 | Tournament Pro | 0.10% | ~175 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,273 (Ranked 52)  
+Progressed: 175,298 (Ranked 52)  
 Completed: 1 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.00%) (Ranked 208)
 | 2023-05-29 | 173,813 | 0 |
 | 2023-05-30 | 174,318 | 1 |
 | 2023-05-31 | 174,817 | 1 |
-| 2023-06-01 | 175,273 | 1 |
+| 2023-06-01 | 175,298 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

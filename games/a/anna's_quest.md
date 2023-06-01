@@ -44,7 +44,7 @@
 | What a mess | 17.00% | ~4 |
 | Clever reference #451 | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 328)  
+Progressed: 23 (Ranked 329)  
 Completed: 4 (17.39%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |

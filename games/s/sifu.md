@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 64)  
+Rating: 4.82 (Ranked 63)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,11 +21,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,067 |
 | Bloody Sport | 1.00% | ~160 |
 | The best strikes are the ones we avoid | 1.00% | ~160 |
-| Lady Wing Chun | 0.90% | ~6,360 |
-| Furious Fists | 0.90% | ~6,360 |
-| Kill Nil | 0.90% | ~6,360 |
-| Stuntmaster | 0.90% | ~6,360 |
-| Street Fighting | 0.90% | ~6,360 |
+| Lady Wing Chun | 0.90% | ~6,361 |
+| Furious Fists | 0.90% | ~6,361 |
+| Kill Nil | 0.90% | ~6,361 |
+| Stuntmaster | 0.90% | ~6,361 |
+| Street Fighting | 0.90% | ~6,361 |
 | Old Child | 0.80% | ~5,654 |
 | Take damage to save time | 0.80% | ~5,654 |
 | Scareless | 0.70% | ~4,947 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,721 (Ranked 15)  
-Completed: 12,749 (1.80%) (Ranked 66)  
+Progressed: 706,730 (Ranked 15)  
+Completed: 12,750 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 12,749 (1.80%) (Ranked 66)
 | 2023-05-29 | 706,246 | 12,745 |
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
-| 2023-06-01 | 706,721 | 12,749 |
+| 2023-06-01 | 706,730 | 12,750 |
 ## Awards
 Max (Great Boss Battles): 6,119  (Ranked 53)  
 Sum: 10,432 (Ranked 78)  

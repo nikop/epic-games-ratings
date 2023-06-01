@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 60.00% | ~227 |
-| Collectibles Part 1 | 49.00% | ~186 |
-| Welcome to Mordor! | 49.00% | ~186 |
-| Wait! Wait! Not yet! | 34.00% | ~129 |
-| Like Flying... | 31.00% | ~117 |
-| Memories | 27.00% | ~102 |
-| The Maggot | 23.00% | ~87 |
-| The Breeder | 18.00% | ~68 |
-| The Veteran | 15.00% | ~57 |
+| The Wraith | 60.00% | ~229 |
+| Collectibles Part 1 | 49.00% | ~187 |
+| Welcome to Mordor! | 49.00% | ~187 |
+| Wait! Wait! Not yet! | 34.00% | ~130 |
+| Like Flying... | 31.00% | ~118 |
+| Memories | 28.00% | ~107 |
+| The Maggot | 23.00% | ~88 |
+| The Breeder | 18.00% | ~69 |
+| The Veteran | 14.00% | ~53 |
 | The Traitor | 10.00% | ~38 |
-| The Spider | 8.00% | ~30 |
+| The Spider | 9.00% | ~34 |
+| He's so Annoying | 5.00% | ~19 |
 | Good as Fish | 5.00% | ~19 |
 | Murderer | 5.00% | ~19 |
 | Trigger-Happy | 5.00% | ~19 |
-| He's so Annoying | 4.00% | ~15 |
 | Her Eyes | 4.00% | ~15 |
 | Gollum/Sméagol | 4.00% | ~15 |
 | The Friend | 3.00% | ~11 |
@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379 (Ranked 209)  
+Progressed: 381 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,4 +56,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 354 | 0 |
 | 2023-05-30 | 364 | 0 |
 | 2023-05-31 | 369 | 0 |
-| 2023-06-01 | 379 | 0 |
+| 2023-06-01 | 381 | 0 |

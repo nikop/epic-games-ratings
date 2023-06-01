@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.50 (Ranked 542)  
+Rating: 4.50 (Ranked 541)  
 Number of Ratings: 116  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 89  (Ranked 340)  

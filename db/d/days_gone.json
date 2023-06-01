@@ -2,12 +2,12 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 237,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 3949,
   "RatingHistory": [
     {
@@ -2552,10 +2552,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 6685,
       "NumberOfAwardsMax": 3781
+    },
+    {
+      "Time": "2023-06-01T21:57:29.6882139+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 6687,
+      "NumberOfAwardsMax": 3781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6685,
+  "NumberOfAwards": 6687,
   "NumberOfAwardsMax": 3781,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2605,7 +2611,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 351
+      "Count": 352
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2617,7 +2623,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 324
+      "Count": 325
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2643,8 +2649,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2023-06-01T08:57:23.1197633+00:00",
+  "LastChanged": "2023-06-01T21:57:29.6882137+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.7081056+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:57:23.6898158+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:03:56.4196772+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:57:29.6882144+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:04:19.2166465+00:00"
 }

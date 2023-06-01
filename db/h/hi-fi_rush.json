@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 2529,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1960,17 +1960,17 @@
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1619
     },
     {
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1239
     },
     {
       "ID": "Ach004",
@@ -2128,9 +2128,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2048
     },
     {
       "ID": "Ach024",
@@ -2455,8 +2455,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-27T21:58:32.6719245+00:00",
-  "LastChanged_Achievements": "2023-06-01T21:05:47.572184+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:06:55.587452+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:15.1250502+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:58:20.4824886+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:05:47.572345+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:58:53.2291781+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:06:55.5875263+00:00"
 }

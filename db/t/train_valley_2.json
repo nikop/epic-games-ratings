@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -502,9 +502,9 @@
       "ID": "AchievementBridgemania",
       "SetID": "76o014g",
       "Name": "Bridgemania",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 22
     },
     {
       "ID": "AchievementBuilder",
@@ -886,9 +886,9 @@
       "ID": "AchievementStargazer",
       "SetID": "76o014g",
       "Name": "Stargazer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "AchievementSteamAge",
@@ -1028,8 +1028,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-06-01T20:00:27.5564939+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:01:26.8419024+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.0227175+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:57:27.3396667+00:00",
-  "LastUpdate_Achievements": "2023-06-01T20:00:27.5565728+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:57:34.9547688+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:01:26.8420682+00:00"
 }

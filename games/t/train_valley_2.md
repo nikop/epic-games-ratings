@@ -20,6 +20,7 @@ Number of Ratings: 87  (23.09.2022)
 | Need to think | 4.00% | ~29 |
 | Non-Stop | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
+| Bridgemania | 3.00% | ~22 |
 | Critical care | 3.00% | ~22 |
 | Get out my way | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
@@ -31,7 +32,6 @@ Number of Ratings: 87  (23.09.2022)
 | The Tortoise | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Beginner | 2.00% | ~14 |
-| Bridgemania | 2.00% | ~14 |
 | Industrial Age | 2.00% | ~14 |
 | Jewelry accuracy | 2.00% | ~14 |
 | Living it large | 2.00% | ~14 |
@@ -39,6 +39,7 @@ Number of Ratings: 87  (23.09.2022)
 | Relocation | 2.00% | ~14 |
 | Sabotage | 2.00% | ~14 |
 | Squander | 2.00% | ~14 |
+| Stargazer | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
 | At the last moment! | 1.00% | ~7 |
 | Bridge builder | 1.00% | ~7 |
@@ -51,7 +52,6 @@ Number of Ratings: 87  (23.09.2022)
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
 | Prick of conscience | 1.00% | ~7 |
-| Stargazer | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Astronomer | 0.80% | ~6 |
 | Atomic Age | 0.80% | ~1 |

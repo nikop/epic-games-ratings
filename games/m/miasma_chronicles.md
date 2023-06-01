@@ -10,36 +10,36 @@ Rating: 4.30 (Ranked 759)
 | Aspiring Editor | 70.00% | ~657 |
 | Gun for Hire | 64.00% | ~600 |
 | I am the law! | 54.00% | ~507 |
-| Lumberjack | 37.00% | ~347 |
+| Lumberjack | 38.00% | ~356 |
 | Croaked | 32.00% | ~300 |
 | Limp Richard | 32.00% | ~300 |
+| Firestarter | 32.00% | ~300 |
 | From Darkness to Light | 32.00% | ~300 |
-| Firestarter | 31.00% | ~291 |
 | Exorcist | 29.00% | ~272 |
 | Editor Adept | 28.00% | ~263 |
 | Giant Killer | 24.00% | ~225 |
-| Sensei | 22.00% | ~206 |
+| Sensei | 23.00% | ~216 |
 | The meaning of Kain | 22.00% | ~206 |
 | Technophobe | 18.00% | ~169 |
 | Recycler | 16.00% | ~150 |
 | Chain Killer | 14.00% | ~131 |
 | Hold The Line | 14.00% | ~131 |
 | Are you not entertained? | 13.00% | ~122 |
+| Ganglord | 13.00% | ~122 |
 | Jarhead | 13.00% | ~122 |
 | There Can Be Only One! | 13.00% | ~122 |
-| Ganglord | 12.00% | ~113 |
+| Infiltrator | 12.00% | ~113 |
+| Newtonian Knockout | 12.00% | ~113 |
 | Pushing Daisy | 12.00% | ~113 |
-| Infiltrator | 11.00% | ~103 |
-| Newtonian Knockout | 11.00% | ~103 |
-| Experienced | 9.00% | ~84 |
+| Experienced | 10.00% | ~94 |
 | Ruthless | 9.00% | ~84 |
 | The Watchers | 8.00% | ~75 |
 | Endgame | 7.00% | ~66 |
 | Savior | 7.00% | ~66 |
+| Dr Jones | 6.00% | ~56 |
 | Chain Reaction | 5.00% | ~47 |
 | Commando | 5.00% | ~47 |
 | Curveball | 5.00% | ~47 |
-| Dr Jones | 5.00% | ~47 |
 | Wipe Out | 5.00% | ~47 |
 | Chaos Theory | 4.00% | ~38 |
 | Side Order | 4.00% | ~38 |
@@ -47,7 +47,7 @@ Rating: 4.30 (Ranked 759)
 | Cruelty | 1.00% | ~9 |
 | Dressed To Kill | 1.00% | ~9 |
 | Five Finger Deathcount | 0.50% | ~5 |
-| Fratricide | 0.30% | ~3 |
+| Fratricide | 0.40% | ~4 |
 | Shadow Boxin' | 0.30% | ~3 |
 | Alpha Editor | 0.20% | ~2 |
 | Goaaaaal! | 0.20% | ~2 |

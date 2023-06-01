@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 15,
@@ -4344,10 +4344,10 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706721,
-  "EOS_Completed": 12749,
-  "EOS_NewPlayers": 1500,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 706730,
+  "EOS_Completed": 12750,
+  "EOS_NewPlayers": 1501,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8114,6 +8114,11 @@
       "Time": "2023-06-01T21:05:52.8416449+00:00",
       "NumProgressed": 706721,
       "NumCompleted": 12749
+    },
+    {
+      "Time": "2023-06-01T22:07:02.4312445+00:00",
+      "NumProgressed": 706730,
+      "NumCompleted": 12750
     }
   ],
   "TotalAchievements": 50,
@@ -8157,7 +8162,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "06_Vengeance_H5",
@@ -8165,7 +8170,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "07_Wude_H1",
@@ -8229,7 +8234,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "15_Detective_H1",
@@ -8277,7 +8282,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8293,7 +8298,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -8524,21 +8529,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16022,
-      "Completed": 10209
+      "Progressed": 16031,
+      "Completed": 10210
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706721,
-      "Completed": 12749
+      "Progressed": 706730,
+      "Completed": 12750
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-01T11:59:30.5210884+00:00",
-  "LastChanged_Achievements": "2023-06-01T21:05:52.8416441+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:07:02.4312439+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:58:43.5380567+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:05:52.8417994+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:59:27.3435165+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:07:02.4313051+00:00"
 }

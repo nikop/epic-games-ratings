@@ -5,17 +5,17 @@ Rating: 4.88 (Ranked 19)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 81.00% | ~2,048 |
 | Start with a bang! | 80.00% | ~2,023 |
-| Feeling the beat! | 80.00% | ~2,023 |
 | You can pet the cat! | 75.00% | ~1,897 |
 | Who put gears in there? | 68.00% | ~1,720 |
-| Cream of the Crop | 63.00% | ~1,593 |
+| Cream of the Crop | 64.00% | ~1,619 |
 | Thanks for the free chip, Peppermint! | 63.00% | ~1,593 |
 | You got this, Peppermint? | 57.00% | ~1,442 |
 | Perfect Parry | 55.00% | ~1,391 |
 | Alright, that felt AWESOME! | 55.00% | ~1,391 |
 | I play my own way! | 51.00% | ~1,290 |
-| This will cost you big time | 48.00% | ~1,214 |
+| This will cost you big time | 49.00% | ~1,239 |
 | Uh, they were broken when I got here | 47.00% | ~1,189 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,163 |
 | Kissing the sky! | 45.00% | ~1,138 |

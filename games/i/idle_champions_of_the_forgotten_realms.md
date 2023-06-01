@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.70% | ~626 |
 | The Mad Wizard | 0.70% | ~626 |
 | Beware the Jabberwock | 0.70% | ~390 |
-| The Ring of Regeneration | 0.50% | ~447 |
+| The Ring of Regeneration | 0.60% | ~537 |
 | Are Ya Chicken? | 0.50% | ~447 |
 | Coasting to the Finish | 0.50% | ~279 |
 | Were-verpowered | 0.40% | ~358 |
@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.20% | ~179 |
 | The Mists of Ravenloft | 0.20% | ~179 |
 | Invisible Shadows | 0.20% | ~179 |
+| Family Entanglements | 0.20% | ~179 |
 | The Dinner Party | 0.20% | ~179 |
 | The Botched Kidnapping | 0.20% | ~179 |
 | Tower on the Lake | 0.20% | ~179 |
@@ -233,7 +234,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.10% | ~89 |
 | Werewolves in the Mist | 0.10% | ~89 |
 | We're not in Faerûn Anymore | 0.10% | ~89 |
-| Family Entanglements | 0.10% | ~89 |
 | Haunted Fortunes | 0.10% | ~89 |
 | Poor Fortune | 0.10% | ~89 |
 | Relentless Misfortune | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,442 (Ranked 61)  
-Completed: 1,905 (2.13%) (Ranked 62)  
+Progressed: 89,444 (Ranked 61)  
+Completed: 1,906 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,442 | 1,905 |
+| 2023-06-01 | 89,444 | 1,906 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,013 (Ranked 37)  

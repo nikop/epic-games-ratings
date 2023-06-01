@@ -11,11 +11,11 @@ Rating: 4.32 (Ranked 745)
 | Flying Present Catcher | 5.00% | ~2,744 |
 | HFZ Goober | 5.00% | ~2,744 |
 | Sunflower Master | 4.00% | ~2,195 |
-| Backer Visitor | 2.00% | ~1,097 |
-| Hi Fiver | 2.00% | ~1,097 |
-| Hate That Randomizer | 2.00% | ~1,097 |
-| Feet on Funkotron | 2.00% | ~1,097 |
-| A Timely Splash | 2.00% | ~1,097 |
+| Backer Visitor | 2.00% | ~1,098 |
+| Hi Fiver | 2.00% | ~1,098 |
+| Hate That Randomizer | 2.00% | ~1,098 |
+| Feet on Funkotron | 2.00% | ~1,098 |
+| A Timely Splash | 2.00% | ~1,098 |
 | Elf Chaser | 1.00% | ~549 |
 | Fool Me Twice | 1.00% | ~549 |
 | Old School Jammin' | 1.00% | ~549 |
@@ -27,10 +27,10 @@ Rating: 4.32 (Ranked 745)
 | Teamwork Rules | 0.60% | ~329 |
 | Totally Bummed Again | 0.60% | ~329 |
 | Piece O' Cake | 0.50% | ~274 |
-| Boom Box Baby | 0.40% | ~219 |
-| I Can't Believe I've Done This | 0.40% | ~219 |
-| Harsh Love | 0.40% | ~219 |
-| Made It Through | 0.40% | ~219 |
+| Boom Box Baby | 0.40% | ~220 |
+| I Can't Believe I've Done This | 0.40% | ~220 |
+| Harsh Love | 0.40% | ~220 |
+| Made It Through | 0.40% | ~220 |
 | Map Explorer | 0.30% | ~165 |
 | Flying Present Ultimate Master | 0.30% | ~165 |
 | Ridiculously Generous | 0.30% | ~165 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 745)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,874 (Ranked 74)  
+Progressed: 54,875 (Ranked 75)  
 Completed: 4 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 4 (0.01%) (Ranked 197)
 | 2023-05-29 | 54,817 | 4 |
 | 2023-05-30 | 54,841 | 4 |
 | 2023-05-31 | 54,859 | 4 |
-| 2023-06-01 | 54,874 | 4 |
+| 2023-06-01 | 54,875 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

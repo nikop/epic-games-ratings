@@ -728,9 +728,9 @@
       "ID": "ACH_BING_BANG_BOOM",
       "SetID": "108h92c",
       "Name": "Bing Bang BOOM",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -889,8 +889,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-06-01T21:02:25.1353691+00:00",
+  "LastChanged_Achievements": "2023-06-01T22:02:26.3456581+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.5926021+00:00",
-  "LastUpdate_Ratings": "2023-06-01T20:57:28.8077266+00:00",
-  "LastUpdate_Achievements": "2023-06-01T21:02:25.1353907+00:00"
+  "LastUpdate_Ratings": "2023-06-01T21:57:37.6430815+00:00",
+  "LastUpdate_Achievements": "2023-06-01T22:02:26.345695+00:00"
 }

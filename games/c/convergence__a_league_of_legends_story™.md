@@ -31,7 +31,7 @@
 | The Loose Cannon | 28.00% | ~158 |
 | The Family Fortune | 24.00% | ~136 |
 | The Man Who Shattered Time | 23.00% | ~130 |
-| Whiz Kid | 21.00% | ~119 |
+| Whiz Kid | 22.00% | ~124 |
 | Sump Explorer | 21.00% | ~119 |
 | Syron for Hope | 21.00% | ~119 |
 | Ask Questions Later | 21.00% | ~119 |
