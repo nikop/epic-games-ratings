@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 34.00% | ~107 |
+| Brace for impact! | 34.00% | ~108 |
 | Baby's First Car | 32.00% | ~101 |
 | Amateur Mechanic | 32.00% | ~101 |
 | Pushover | 32.00% | ~101 |
 | A Forest Walk | 32.00% | ~101 |
 | C-C-C-Combo! | 30.00% | ~95 |
 | Multiply that! | 30.00% | ~95 |
-| Fore! | 27.00% | ~85 |
-| Insurance fraud | 27.00% | ~85 |
-| Snow Fun! | 27.00% | ~85 |
+| Insurance fraud | 27.00% | ~86 |
+| Snow Fun! | 27.00% | ~86 |
+| Fore! | 26.00% | ~82 |
 | The Collector | 26.00% | ~82 |
 | The Wild West | 26.00% | ~82 |
 | Bag of Tricks | 26.00% | ~82 |
@@ -30,21 +30,21 @@
 | Anger Issues | 23.00% | ~73 |
 | Your Highness | 23.00% | ~73 |
 | Event Amateur | 22.00% | ~70 |
-| Feeling Dizzy? | 21.00% | ~66 |
+| Feeling Dizzy? | 21.00% | ~67 |
 | Drift King! | 20.00% | ~63 |
 | Feeling Hot Hot Hot! | 20.00% | ~63 |
 | Ferry Good! | 19.00% | ~60 |
 | Assert Dominance | 19.00% | ~60 |
 | Speed of light | 19.00% | ~60 |
-| Special Forces | 16.00% | ~51 |
 | Out of this League | 16.00% | ~51 |
+| Special Forces | 15.00% | ~48 |
 | Toot Toot! | 14.00% | ~44 |
 | Blasting away! | 14.00% | ~44 |
 | High Roller | 13.00% | ~41 |
 | Earth Defense Force | 13.00% | ~41 |
 | Rocketman | 13.00% | ~41 |
 | Event Pro | 11.00% | ~35 |
-| Space Crash | 9.00% | ~28 |
+| Space Crash | 9.00% | ~29 |
 | To war! | 8.00% | ~25 |
 | Hoarder | 7.00% | ~22 |
 | Event Master | 6.00% | ~19 |
@@ -54,13 +54,13 @@
 | 433 Eros | 4.00% | ~13 |
 | Best Friends! | 4.00% | ~13 |
 | One Million Dollars! | 4.00% | ~13 |
-| M2H was Here! | 3.00% | ~9 |
+| M2H was Here! | 3.00% | ~10 |
 | Monkey Madness | 2.00% | ~6 |
 | Ultimate Car Collector | 1.00% | ~3 |
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 220)  
+Progressed: 317 (Ranked 220)  
 Completed: 2 (0.63%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 2 (0.63%) (Ranked 105)
 | 2023-05-26 | 313 | 2 |
 | 2023-05-28 | 314 | 2 |
 | 2023-05-29 | 315 | 2 |
-| 2023-06-01 | 316 | 2 |
+| 2023-06-01 | 317 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

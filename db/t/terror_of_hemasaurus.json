@@ -3,9 +3,9 @@
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -122,6 +122,11 @@
       "Time": "2023-05-31T18:04:14.5613718+00:00",
       "NumProgressed": 50,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T23:01:08.732319+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -131,7 +136,7 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -139,7 +144,7 @@
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -171,7 +176,7 @@
       "ID": "ACH_10_SHEPHERDS_KILLED",
       "SetID": "aio76gp",
       "Name": "Test of Faith",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 20
     },
@@ -195,7 +200,7 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -227,7 +232,7 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -243,7 +248,7 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -259,7 +264,7 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -331,7 +336,7 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -339,7 +344,7 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -372,7 +377,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 2
     }
   ],
@@ -380,8 +385,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:02:04.7392322+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:01:08.7323185+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:06.7621564+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:58:42.8809553+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:02:04.7392572+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:58:19.6157982+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:01:08.7323402+00:00"
 }

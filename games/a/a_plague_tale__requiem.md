@@ -1,27 +1,27 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 156)  
+Rating: 4.74 (Ranked 142)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,106 |
-| Newcomers | 78.00% | ~8,568 |
-| A Burden of Blood | 72.00% | ~7,909 |
+| Under a New Sun | 92.00% | ~10,107 |
+| Newcomers | 78.00% | ~8,569 |
+| A Burden of Blood | 72.00% | ~7,910 |
 | Protector's Duty | 69.00% | ~7,580 |
-| Alchemist | 67.00% | ~7,360 |
-| In our Wake | 66.00% | ~7,250 |
+| Alchemist | 67.00% | ~7,361 |
+| In our Wake | 66.00% | ~7,251 |
 | Leaving all Behind | 63.00% | ~6,921 |
-| Felons | 60.00% | ~6,591 |
-| A Sea of Promises | 58.00% | ~6,371 |
+| Felons | 60.00% | ~6,592 |
+| A Sea of Promises | 58.00% | ~6,372 |
 | Tales and Revelations | 55.00% | ~6,042 |
-| Bloodline | 50.00% | ~5,492 |
-| The Cradle of Centuries | 46.00% | ~5,053 |
-| The Life We Deserve | 44.00% | ~4,833 |
+| Bloodline | 50.00% | ~5,493 |
+| The Cradle of Centuries | 46.00% | ~5,054 |
+| The Life We Deserve | 44.00% | ~4,834 |
 | Night guard | 42.00% | ~4,614 |
-| Nothing Left | 37.00% | ~4,064 |
+| Nothing Left | 37.00% | ~4,065 |
 | Healing our Wounds | 35.00% | ~3,845 |
-| Dying Sun | 31.00% | ~3,405 |
+| Dying Sun | 31.00% | ~3,406 |
 | Improved crossbow | 26.00% | ~2,856 |
 | King Hugo | 23.00% | ~2,527 |
 | Mercy | 23.00% | ~2,527 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 156)
 | Explorer | 1.00% | ~110 |
 | Malignant | 1.00% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,985 (Ranked 108)  
+Progressed: 10,986 (Ranked 108)  
 Completed: 32 (0.29%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 32 (0.29%) (Ranked 129)
 | 2023-05-29 | 10,878 | 32 |
 | 2023-05-30 | 10,915 | 32 |
 | 2023-05-31 | 10,951 | 32 |
-| 2023-06-01 | 10,985 | 32 |
+| 2023-06-01 | 10,986 | 32 |
 ## Awards
 Max (Great Boss Battles): 401  (Ranked 202)  
 Sum: 577 (Ranked 287)  
@@ -133,3 +133,4 @@ Diff (max vs sum): -85
 | 2023-05-18 | 4.74 | 401 | 557 |
 | 2023-05-19 | 4.73 | 401 | 557 |
 | 2023-05-20 | 4.73 | 401 | 577 |
+| 2023-06-01 | 4.74 | 401 | 577 |

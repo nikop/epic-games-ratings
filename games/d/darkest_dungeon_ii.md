@@ -6,73 +6,73 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~91,892 |
-| Don't Make Me Turn This Coach Around | 68.00% | ~67,190 |
-| A Clear Conscience | 68.00% | ~67,190 |
-| Unleash Hell | 67.00% | ~66,202 |
-| Unfulfilled Desires | 67.00% | ~66,202 |
-| Funny Guy | 66.00% | ~65,214 |
-| Unshackled | 66.00% | ~65,214 |
-| Long Live the King | 65.00% | ~64,226 |
-| Resurrection | 61.00% | ~60,273 |
-| Wyrdly Reconstructed | 61.00% | ~60,273 |
-| Boxcar Kid | 59.00% | ~58,297 |
-| Rush Hour | 58.00% | ~57,309 |
-| To Grandmother's House | 58.00% | ~57,309 |
-| Serenity Now! | 49.00% | ~48,416 |
-| Hope Rekindled | 49.00% | ~48,416 |
-| Ramble On | 45.00% | ~44,464 |
-| Nope | 44.00% | ~43,476 |
-| This Looks Familiar | 36.00% | ~35,571 |
-| Hot Air | 34.00% | ~33,595 |
-| Harvest Festival | 33.00% | ~32,607 |
-| Now Stay Dead | 32.00% | ~31,619 |
-| Merry Time | 32.00% | ~31,619 |
-| Creep and Sleep | 30.00% | ~29,643 |
-| Overdue Notice | 28.00% | ~27,667 |
-| Whale | 28.00% | ~27,667 |
-| Banishment | 26.00% | ~25,690 |
-| FNG | 26.00% | ~25,690 |
-| Autodidact | 21.00% | ~20,750 |
-| Predator | 19.00% | ~18,774 |
-| Meat and Greet | 19.00% | ~18,774 |
-| Reverse Banditry | 19.00% | ~18,774 |
-| Spelunker | 18.00% | ~17,786 |
-| Eyes Up | 18.00% | ~17,786 |
-| Road Trip | 18.00% | ~17,786 |
-| It Rings a Bell | 16.00% | ~15,809 |
-| Escape from the Black Hole | 15.00% | ~14,821 |
-| It Happens | 15.00% | ~14,821 |
-| This Belongs in a Museum | 13.00% | ~12,845 |
-| Handled | 12.00% | ~11,857 |
-| Dissector | 11.00% | ~10,869 |
-| Not Today! | 11.00% | ~10,869 |
-| Catch and Decease | 11.00% | ~10,869 |
-| Shrine of Reflection | 10.00% | ~9,881 |
-| When You Want Something Done Right | 9.00% | ~8,893 |
-| Deprogramming | 8.00% | ~7,905 |
-| Body of Work | 7.00% | ~6,917 |
-| Utopia | 6.00% | ~5,929 |
-| Hat Trick | 5.00% | ~4,940 |
-| The World As It Was | 3.00% | ~2,964 |
-| Ichthyophobic | 3.00% | ~2,964 |
-| No More Mouths to Feed | 3.00% | ~2,964 |
-| Triage | 2.00% | ~1,976 |
+| A Place to Lay Your Head | 93.00% | ~91,919 |
+| Don't Make Me Turn This Coach Around | 68.00% | ~67,210 |
+| A Clear Conscience | 68.00% | ~67,210 |
+| Unleash Hell | 67.00% | ~66,221 |
+| Unfulfilled Desires | 67.00% | ~66,221 |
+| Funny Guy | 66.00% | ~65,233 |
+| Unshackled | 66.00% | ~65,233 |
+| Long Live the King | 65.00% | ~64,245 |
+| Resurrection | 61.00% | ~60,291 |
+| Wyrdly Reconstructed | 61.00% | ~60,291 |
+| Boxcar Kid | 59.00% | ~58,314 |
+| Rush Hour | 58.00% | ~57,326 |
+| To Grandmother's House | 58.00% | ~57,326 |
+| Serenity Now! | 49.00% | ~48,431 |
+| Hope Rekindled | 49.00% | ~48,431 |
+| Ramble On | 45.00% | ~44,477 |
+| Nope | 44.00% | ~43,489 |
+| This Looks Familiar | 36.00% | ~35,582 |
+| Hot Air | 34.00% | ~33,605 |
+| Harvest Festival | 33.00% | ~32,617 |
+| Now Stay Dead | 32.00% | ~31,628 |
+| Merry Time | 32.00% | ~31,628 |
+| Creep and Sleep | 30.00% | ~29,651 |
+| Overdue Notice | 28.00% | ~27,675 |
+| Whale | 28.00% | ~27,675 |
+| Banishment | 26.00% | ~25,698 |
+| FNG | 26.00% | ~25,698 |
+| Autodidact | 21.00% | ~20,756 |
+| Predator | 19.00% | ~18,779 |
+| Meat and Greet | 19.00% | ~18,779 |
+| Reverse Banditry | 19.00% | ~18,779 |
+| Spelunker | 18.00% | ~17,791 |
+| Eyes Up | 18.00% | ~17,791 |
+| Road Trip | 18.00% | ~17,791 |
+| It Rings a Bell | 16.00% | ~15,814 |
+| Escape from the Black Hole | 15.00% | ~14,826 |
+| It Happens | 15.00% | ~14,826 |
+| This Belongs in a Museum | 13.00% | ~12,849 |
+| Handled | 12.00% | ~11,861 |
+| Dissector | 11.00% | ~10,872 |
+| Not Today! | 11.00% | ~10,872 |
+| Catch and Decease | 11.00% | ~10,872 |
+| Shrine of Reflection | 10.00% | ~9,884 |
+| When You Want Something Done Right | 9.00% | ~8,895 |
+| Deprogramming | 8.00% | ~7,907 |
+| Body of Work | 7.00% | ~6,919 |
+| Utopia | 6.00% | ~5,930 |
+| Hat Trick | 5.00% | ~4,942 |
+| The World As It Was | 3.00% | ~2,965 |
+| Ichthyophobic | 3.00% | ~2,965 |
+| No More Mouths to Feed | 3.00% | ~2,965 |
+| Triage | 2.00% | ~1,977 |
 | A Life Well Lived | 1.00% | ~988 |
 | Clearing the Ledger | 1.00% | ~988 |
-| Eidetic | 0.80% | ~790 |
+| Eidetic | 0.80% | ~791 |
 | Pub Crawl | 0.50% | ~494 |
 | Grand Slam | 0.50% | ~494 |
 | Circle of Life | 0.40% | ~395 |
-| Bacon Bits | 0.30% | ~296 |
-| Tears in the Rain | 0.30% | ~296 |
+| Bacon Bits | 0.30% | ~297 |
+| Tears in the Rain | 0.30% | ~297 |
 | Loop Year | 0.10% | ~99 |
 | No Gravestone Left Unturned | 0.10% | ~99 |
 | 20,000 Leagues Above the Sea | 0.10% | ~99 |
 | The Clash | 0.10% | ~99 |
 | Hard Mode | 0.10% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,809 (Ranked 60)  
+Progressed: 98,838 (Ranked 60)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,21 +104,21 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 96,900 | 0 |
 | 2023-05-30 | 97,619 | 0 |
 | 2023-05-31 | 98,243 | 0 |
-| 2023-06-01 | 98,809 | 0 |
+| 2023-06-01 | 98,838 | 0 |
 ## Awards
 Max (Character Customization): 7,046  (Ranked 46)  
-Sum: 18,140 (Ranked 54)  
+Sum: 18,151 (Ranked 54)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,046 |
-| This game has Diverse Characters | 1,402 |
-| This game has Challenging Combat | 1,365 |
+| This game has Diverse Characters | 1,409 |
+| This game has Challenging Combat | 1,368 |
 | This game is Highly Recommended | 1,329 |
 | This game has Amazing Characters | 1,288 |
 | This game is Extremely Fun | 1,284 |
 | This game has Amazing Storytelling | 1,212 |
-| This game has Quickly Understood Controls | 1,207 |
+| This game has Quickly Understood Controls | 1,208 |
 | This game has Unique Visuals | 1,154 |
 | This game has a Creative Community | 853 |
 | This game has Obsessive Gameplay | 585 |
@@ -252,4 +252,4 @@ Diff (max vs sum): -8
 | 2023-05-29 | 4.68 | - | 7,009 | 18,046 |
 | 2023-05-30 | 4.68 | - | 7,020 | 18,083 |
 | 2023-05-31 | 4.68 | - | 7,030 | 18,119 |
-| 2023-06-01 | 4.68 | - | 7,046 | 18,140 |
+| 2023-06-01 | 4.68 | - | 7,046 | 18,151 |

@@ -380,33 +380,33 @@
       "ID": "level_24",
       "SetID": "dlpjnee",
       "Name": "Island 24",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "level_25",
       "SetID": "dlpjnee",
       "Name": "Island 25",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "level_26",
       "SetID": "dlpjnee",
       "Name": "Island 26",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "level_27",
       "SetID": "dlpjnee",
       "Name": "Island 27",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "level_28",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:06:38.3320597+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:05:49.5680898+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.818593+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:57:45.0007237+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:06:38.3320891+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:57:34.3454646+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:05:49.5681167+00:00"
 }

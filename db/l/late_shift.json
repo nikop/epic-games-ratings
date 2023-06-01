@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -465,8 +465,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:06:29.9343018+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:05:42.5146877+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:57:52.6815481+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:06:29.934336+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:57:40.2030518+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:05:42.5147006+00:00"
 }

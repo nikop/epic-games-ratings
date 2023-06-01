@@ -16,8 +16,8 @@ Rating: 4.51 (Ranked 524)
 | Collect Iron Ore | 46.00% | ~707 |
 | Defeat 25 Mozis | 45.00% | ~692 |
 | Kitchen Ready To Cook | 45.00% | ~692 |
+| Collect Gold | 44.00% | ~676 |
 | Smithy Ready to Craft | 44.00% | ~676 |
-| Collect Gold | 43.00% | ~661 |
 | Fix the Travellers Wagon | 42.00% | ~646 |
 | Complete Elder Faction | 39.00% | ~599 |
 | End of the Mozis | 36.00% | ~553 |

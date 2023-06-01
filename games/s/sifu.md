@@ -12,6 +12,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 1.00% | ~7,067 |
 | The Hateful Pole Fighter | 1.00% | ~7,067 |
 | A Lady's Blood in the Snow | 1.00% | ~7,067 |
+| Lady Wing Chun | 1.00% | ~7,067 |
 | Life is your teacher | 1.00% | ~7,067 |
 | State of constant learning | 1.00% | ~7,067 |
 | Qi Gong: Breath | 1.00% | ~7,067 |
@@ -21,13 +22,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,067 |
 | Bloody Sport | 1.00% | ~160 |
 | The best strikes are the ones we avoid | 1.00% | ~160 |
-| Lady Wing Chun | 0.90% | ~6,361 |
 | Furious Fists | 0.90% | ~6,361 |
 | Kill Nil | 0.90% | ~6,361 |
 | Stuntmaster | 0.90% | ~6,361 |
 | Street Fighting | 0.90% | ~6,361 |
+| Take damage to save time | 0.90% | ~6,361 |
 | Old Child | 0.80% | ~5,654 |
-| Take damage to save time | 0.80% | ~5,654 |
 | Scareless | 0.70% | ~4,947 |
 | Kung-Fu Tussle | 0.70% | ~4,947 |
 | Dance of the Praying Mantis | 0.60% | ~4,240 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,730 (Ranked 15)  
+Progressed: 706,734 (Ranked 15)  
 Completed: 12,750 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,15 +99,15 @@ Completed: 12,750 (1.80%) (Ranked 66)
 | 2023-05-29 | 706,246 | 12,745 |
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
-| 2023-06-01 | 706,730 | 12,750 |
+| 2023-06-01 | 706,734 | 12,750 |
 ## Awards
 Max (Great Boss Battles): 6,119  (Ranked 53)  
-Sum: 10,432 (Ranked 78)  
-Diff (max vs sum): -25  
+Sum: 10,434 (Ranked 77)  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,119 |
-| This game has Diverse Characters | 520 |
+| This game has Diverse Characters | 522 |
 | This game has Challenging Combat | 516 |
 | This game has Quickly Understood Controls | 506 |
 | This game is Extremely Fun | 501 |
@@ -256,4 +256,4 @@ Diff (max vs sum): -25
 | 2023-05-29 | 4.82 | - | 6,109 | 10,410 |
 | 2023-05-30 | 4.82 | - | 6,114 | 10,418 |
 | 2023-05-31 | 4.82 | - | 6,114 | 10,422 |
-| 2023-06-01 | 4.82 | - | 6,119 | 10,432 |
+| 2023-06-01 | 4.82 | - | 6,119 | 10,434 |

@@ -1,34 +1,34 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.73 (Ranked 156)  
+Rating: 4.73 (Ranked 157)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~939 |
-| Lovebirds | 51.00% | ~606 |
-| Life’s short, ride long | 46.00% | ~546 |
-| Hug therapy | 45.00% | ~535 |
-| Over my dead body | 42.00% | ~499 |
-| Shake the rust off their feet | 22.00% | ~261 |
+| Balding bloot! | 79.00% | ~940 |
+| Lovebirds | 51.00% | ~607 |
+| Life’s short, ride long | 46.00% | ~547 |
+| Hug therapy | 45.00% | ~536 |
+| Over my dead body | 42.00% | ~500 |
+| Shake the rust off their feet | 22.00% | ~262 |
 | Strike! | 20.00% | ~238 |
 | My little pony | 20.00% | ~238 |
 | A love supreme | 19.00% | ~226 |
 | In my shoes | 18.00% | ~214 |
 | Like new! | 15.00% | ~178 |
-| Heartstrings | 14.00% | ~166 |
-| Head in the clouds | 14.00% | ~166 |
-| Don't look back | 13.00% | ~154 |
+| Heartstrings | 14.00% | ~167 |
+| Head in the clouds | 14.00% | ~167 |
+| Don't look back | 13.00% | ~155 |
 | Back to rust | 12.00% | ~143 |
 | Flower Powered | 12.00% | ~143 |
 | Perfect timing | 10.00% | ~119 |
 | Unstoppable | 10.00% | ~119 |
 | Ain't no mountain high enough | 9.00% | ~107 |
 | Self-sustainability | 8.00% | ~95 |
-| Can't get wetter... | 5.00% | ~59 |
-| Spring cleaning | 5.00% | ~59 |
-| An eye for an eye | 5.00% | ~59 |
+| Can't get wetter... | 5.00% | ~60 |
+| Spring cleaning | 5.00% | ~60 |
+| An eye for an eye | 5.00% | ~60 |
 | Second thoughts | 4.00% | ~48 |
 | Mooning the moon | 4.00% | ~48 |
 | Strip-a-bobble | 4.00% | ~48 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~24 |
 | À la carte | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,188 (Ranked 165)  
+Progressed: 1,190 (Ranked 165)  
 Completed: 8 (0.67%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 8 (0.67%) (Ranked 103)
 | 2023-05-29 | 1,178 | 8 |
 | 2023-05-30 | 1,183 | 8 |
 | 2023-05-31 | 1,185 | 8 |
-| 2023-06-01 | 1,188 | 8 |
+| 2023-06-01 | 1,190 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -153,6 +153,11 @@
       "Time": "2023-06-01T02:50:03.0145974+00:00",
       "NumProgressed": 685,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T23:05:46.202538+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -164,7 +169,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "11",
@@ -260,7 +265,7 @@
       "Name": "Participation trophy",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "22",
@@ -412,7 +417,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "9",
@@ -427,7 +432,7 @@
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 0
     }
   ],
@@ -435,8 +440,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:06:34.4579313+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:05:46.2025378+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:07.3409219+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:58:42.4598491+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:06:34.4579552+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:58:19.2986048+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:05:46.2025573+00:00"
 }

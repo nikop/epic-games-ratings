@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2245,
+  "EOS_Progressed": 2246,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2166,6 +2166,11 @@
       "Time": "2023-06-01T22:06:46.4938893+00:00",
       "NumProgressed": 2245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T23:05:56.5283027+00:00",
+      "NumProgressed": 2246,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2177,7 +2182,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 10,
       "XP": 120,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -2185,7 +2190,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2217,7 +2222,7 @@
       "Name": "Hijack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2241,7 +2246,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2265,7 +2270,7 @@
       "Name": "I smell fear",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -2351,9 +2356,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1684
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2361,7 +2366,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2393,7 +2398,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2401,7 +2406,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2425,7 +2430,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2481,7 +2486,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2553,7 +2558,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2585,7 +2590,7 @@
       "Name": "Ancient power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -2600,7 +2605,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2245,
+      "Progressed": 2246,
       "Completed": 1
     }
   ],
@@ -2608,8 +2613,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:06:46.4938887+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:05:56.5283024+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:57:43.8212971+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:06:46.4939469+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:57:33.3624948+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:05:56.5283599+00:00"
 }

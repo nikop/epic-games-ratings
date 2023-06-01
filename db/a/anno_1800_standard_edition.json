@@ -4,11 +4,11 @@
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 63,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 77,
+  "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5031,6 +5031,6 @@
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
   "LastChanged": "2023-06-01T19:57:31.1181945+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:29.265348+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:57:45.5567623+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:03:33.1400391+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:57:34.8152193+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:03:17.512998+00:00"
 }

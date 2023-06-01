@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "ACH_ASSIGN_PLAZA_1",
       "SetID": "ajki3eh",
       "Name": "Adored",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_2",
@@ -321,9 +321,9 @@
       "ID": "ACH_KILL_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "Mandatory Sacrifice",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_KILL_SUCC_3",
@@ -345,9 +345,9 @@
       "ID": "ACH_SUMMON_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "The Farmer",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_SUMMON_SUCC_3",
@@ -433,17 +433,17 @@
       "ID": "ACH_UNLOCK_SUCC_KIND_1",
       "SetID": "ajki3eh",
       "Name": "The Hobbyist",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
       "SetID": "ajki3eh",
       "Name": "The Admirer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_3",
@@ -465,8 +465,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:06:33.4650697+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:05:45.5235222+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.1888334+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:58:19.9631441+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:06:33.465092+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:58:01.6928224+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:05:45.5235439+00:00"
 }

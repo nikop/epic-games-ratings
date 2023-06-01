@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.81,
+  "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -934,6 +934,11 @@
       "Time": "2023-06-01T21:03:54.3012436+00:00",
       "NumProgressed": 341,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-01T23:03:52.8013432+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -961,7 +966,7 @@
       "Name": "High Profile",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "MQ02_2",
@@ -985,7 +990,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "MQ03_1",
@@ -1023,9 +1028,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 150
     },
     {
       "ID": "MQ04_1",
@@ -1041,7 +1046,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MQ04_3",
@@ -1057,7 +1062,7 @@
       "Name": "Open Sesame",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "MQ05_2",
@@ -1071,9 +1076,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 133
     },
     {
       "ID": "MQ05_4",
@@ -1095,9 +1100,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "MQ06_3",
@@ -1129,7 +1134,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "MQ08_1",
@@ -1161,14 +1166,14 @@
       "Name": "Reawakened",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 13
     }
   ],
@@ -1176,8 +1181,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:04:16.2409552+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:03:52.8013428+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:57:17.4457124+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:04:16.2409961+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:57:11.7868081+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:03:52.8013667+00:00"
 }

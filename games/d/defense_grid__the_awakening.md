@@ -6,30 +6,30 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~387,351 |
+| First Blood | 81.00% | ~387,352 |
 | Hey! That's mine! | 78.00% | ~373,005 |
-| Happy Returns | 77.00% | ~368,222 |
-| Field Promotion | 74.00% | ~353,876 |
-| Leadhead | 71.00% | ~339,530 |
-| Eradicator | 67.00% | ~320,401 |
-| Surplus | 65.00% | ~310,837 |
-| I Spy | 64.00% | ~306,055 |
-| Burn Baby Burn | 59.00% | ~282,144 |
-| Yellow Beats Green | 55.00% | ~263,016 |
+| Happy Returns | 77.00% | ~368,223 |
+| Field Promotion | 74.00% | ~353,877 |
+| Leadhead | 71.00% | ~339,531 |
+| Eradicator | 67.00% | ~320,402 |
+| Surplus | 65.00% | ~310,838 |
+| I Spy | 64.00% | ~306,056 |
+| Burn Baby Burn | 59.00% | ~282,145 |
+| Yellow Beats Green | 55.00% | ~263,017 |
 | Salvage Rights | 53.00% | ~253,452 |
 | Pew Pew | 50.00% | ~239,106 |
 | What IS that? | 50.00% | ~239,106 |
-| Close Call | 49.00% | ~234,323 |
-| Penny Pincher | 49.00% | ~234,323 |
-| Arsenal | 46.00% | ~219,977 |
+| Close Call | 49.00% | ~234,324 |
+| Penny Pincher | 49.00% | ~234,324 |
+| Arsenal | 46.00% | ~219,978 |
 | Boot Camp | 45.00% | ~215,195 |
 | Flawless Victory | 42.00% | ~200,849 |
-| Confident | 40.00% | ~191,284 |
+| Confident | 40.00% | ~191,285 |
 | Exterminator | 36.00% | ~172,156 |
 | Sharpshooter | 33.00% | ~157,810 |
 | Great Ball of Fire | 32.00% | ~153,028 |
 | Not So Fast | 32.00% | ~153,028 |
-| No Sale | 30.00% | ~143,463 |
+| No Sale | 30.00% | ~143,464 |
 | Kaboom! | 29.00% | ~138,681 |
 | Liquidator | 29.00% | ~138,681 |
 | High Voltage | 24.00% | ~114,771 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~478 |
 | You Monster | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,211 (Ranked 29)  
+Progressed: 478,212 (Ranked 29)  
 Completed: 4 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 4 (0.00%) (Ranked 208)
 | 2023-05-29 | 477,982 | 4 |
 | 2023-05-30 | 478,073 | 4 |
 | 2023-05-31 | 478,142 | 4 |
-| 2023-06-01 | 478,211 | 4 |
+| 2023-06-01 | 478,212 | 4 |
 ## Awards
 Max (Great for Beginners): 232  (Ranked 245)  
 Sum: 1,643 (Ranked 201)  

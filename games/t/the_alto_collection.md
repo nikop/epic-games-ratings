@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,517 |
-| Rookie | 25.00% | ~6,034 |
-| Nomad | 19.00% | ~4,586 |
-| Picking Up Speed | 17.00% | ~4,103 |
-| Welcome Maya | 16.00% | ~3,862 |
-| Sightseer | 12.00% | ~2,896 |
-| Scout | 10.00% | ~2,414 |
-| Amateur | 9.00% | ~2,172 |
-| Wanderer | 9.00% | ~2,172 |
-| Enter Paz | 8.00% | ~1,931 |
+| Finding Your Footing | 27.00% | ~6,519 |
+| Rookie | 25.00% | ~6,036 |
+| Nomad | 19.00% | ~4,588 |
+| Picking Up Speed | 17.00% | ~4,105 |
+| Welcome Maya | 16.00% | ~3,863 |
+| Sightseer | 12.00% | ~2,898 |
+| Scout | 10.00% | ~2,415 |
+| Amateur | 9.00% | ~2,173 |
+| Wanderer | 9.00% | ~2,173 |
+| Enter Paz | 8.00% | ~1,932 |
 | Unlock Maya | 7.00% | ~1,690 |
-| Aviator | 6.00% | ~1,448 |
-| One With The Board | 6.00% | ~1,448 |
-| Voyager | 6.00% | ~1,448 |
+| Aviator | 6.00% | ~1,449 |
+| One With The Board | 6.00% | ~1,449 |
+| Voyager | 6.00% | ~1,449 |
 | My Little Friend | 5.00% | ~1,207 |
-| Sandboarder | 4.00% | ~965 |
-| Izel Has Arrived | 4.00% | ~965 |
+| Sandboarder | 4.00% | ~966 |
+| Izel Has Arrived | 4.00% | ~966 |
 | Junkie | 3.00% | ~724 |
 | Traveler | 3.00% | ~724 |
 | Journeyer | 3.00% | ~724 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~24 |
 | Windswept | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,137 (Ranked 90)  
+Progressed: 24,146 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,10 @@ Completed: 3 (0.01%) (Ranked 197)
 | 2023-05-29 | 23,669 | 3 |
 | 2023-05-30 | 23,817 | 3 |
 | 2023-05-31 | 23,985 | 3 |
-| 2023-06-01 | 24,137 | 3 |
+| 2023-06-01 | 24,146 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
-Sum: 344 (Ranked 316)  
+Sum: 345 (Ranked 316)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
@@ -103,8 +103,8 @@ Diff (max vs sum): 89
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 34 |
 | This game has Amazing Storytelling | 26 |
+| This game has Diverse Characters | 25 |
 | This game has Amazing Characters | 25 |
-| This game has Diverse Characters | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -192,3 +192,4 @@ Diff (max vs sum): 89
 | 2023-04-29 | 4.70 | - | 44 | 343 |
 | 2023-05-02 | 4.70 | - | 44 | 344 |
 | 2023-05-21 | 4.69 | - | 44 | 344 |
+| 2023-06-01 | 4.69 | - | 44 | 345 |

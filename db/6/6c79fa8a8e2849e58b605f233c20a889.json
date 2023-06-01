@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1201,
+  "EOS_Progressed": 1202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1061,6 +1061,11 @@
       "Time": "2023-06-01T22:03:44.5965114+00:00",
       "NumProgressed": 1201,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T23:03:27.0268777+00:00",
+      "NumProgressed": 1202,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1104,7 +1109,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -1150,9 +1155,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 469
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1247,14 +1252,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1201,
+      "Progressed": 1202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:03:44.5965109+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:03:27.0268773+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:57:03.8559149+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:03:44.596551+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:57:00.6017429+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:03:27.0268967+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -2244,9 +2244,9 @@
       "ID": "14",
       "SetID": "9p3jgda",
       "Name": "IT MAKES BOOM!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1095
     },
     {
       "ID": "15",
@@ -2324,9 +2324,9 @@
       "ID": "23",
       "SetID": "9p3jgda",
       "Name": "A TIGER\u0027S FEAR",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 748
+      "UsersEstimate": 774
     },
     {
       "ID": "24",
@@ -2348,9 +2348,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 748
+      "UsersEstimate": 774
     },
     {
       "ID": "5",
@@ -2402,8 +2402,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:04:02.7111825+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:03:42.0877735+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:59:22.7818201+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:04:02.7112487+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:58:53.1686288+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:03:42.0878034+00:00"
 }

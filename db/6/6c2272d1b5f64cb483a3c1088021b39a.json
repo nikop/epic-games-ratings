@@ -2,10 +2,10 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-06-01T22:03:27.4591221+00:00",
       "NumProgressed": 223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T23:03:13.0462404+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -518,9 +523,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "elemental_stones_2",
@@ -879,14 +884,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:03:27.4591216+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:03:13.0462399+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-01T21:56:55.4150403+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:03:27.459183+00:00"
+  "LastUpdate_Ratings": "2023-06-01T22:56:54.0217719+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:03:13.0463033+00:00"
 }

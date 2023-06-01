@@ -2,10 +2,10 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
       "Time": "2023-05-24T22:06:03.6843271+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T23:06:12.2939354+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -70,7 +75,7 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -142,7 +147,7 @@
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -206,7 +211,7 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -278,7 +283,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -334,7 +339,7 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -431,7 +436,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
@@ -439,8 +444,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-06-01T22:07:04.6628368+00:00",
+  "LastChanged_Achievements": "2023-06-01T23:06:12.293935+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:33.8833471+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:00:53.9565225+00:00",
-  "LastUpdate_Achievements": "2023-06-01T22:07:04.6629033+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:00:08.8089589+00:00",
+  "LastUpdate_Achievements": "2023-06-01T23:06:12.2939737+00:00"
 }

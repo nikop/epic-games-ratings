@@ -29,8 +29,8 @@
 | Good Neighbor | 29.00% | ~164 |
 | Street Style | 28.00% | ~158 |
 | The Loose Cannon | 28.00% | ~158 |
+| The Man Who Shattered Time | 24.00% | ~136 |
 | The Family Fortune | 24.00% | ~136 |
-| The Man Who Shattered Time | 23.00% | ~130 |
 | Whiz Kid | 22.00% | ~124 |
 | Sump Explorer | 21.00% | ~119 |
 | Syron for Hope | 21.00% | ~119 |
@@ -40,10 +40,10 @@
 | Fairgrounds Explorer | 19.00% | ~107 |
 | Cultivair Explorer | 15.00% | ~85 |
 | Theater Explorer | 15.00% | ~85 |
+| Rungs Was Right | 13.00% | ~73 |
 | Corin Goes Home | 12.00% | ~68 |
 | Sartorialist | 12.00% | ~68 |
 | Entresol Explorer | 12.00% | ~68 |
-| Rungs Was Right | 12.00% | ~68 |
 | Clovemary for Remembering | 10.00% | ~56 |
 | Hexlock for Protection | 9.00% | ~51 |
 | Golem Hunter | 8.00% | ~45 |

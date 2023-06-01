@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 97.00% | ~61 |
-| To Each Their Own | 49.00% | ~31 |
+| You're Going Down! | 95.00% | ~61 |
+| To Each Their Own | 48.00% | ~31 |
 | You Get An Upgrade, You Get An Upgrade! | 19.00% | ~12 |
 | Onwards and Upwards | 19.00% | ~12 |
 | Serial Winner | 14.00% | ~9 |
@@ -35,17 +35,17 @@
 | Checklist | 3.00% | ~2 |
 | Time Lord | 3.00% | ~2 |
 | Time Is of the Essence | 3.00% | ~2 |
+| Supersport Superfan | 3.00% | ~2 |
 | Playing Favourites | 3.00% | ~2 |
 | Tailor-Made | 3.00% | ~2 |
 | First Things First | 2.00% | ~1 |
 | Made Father Proud | 2.00% | ~1 |
 | Win-Win! | 2.00% | ~1 |
-| Supersport Superfan | 2.00% | ~1 |
 | Superbike Superfan | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 295)  
-Completed: 1 (1.59%) (Ranked 69)  
+Progressed: 64 (Ranked 295)  
+Completed: 1 (1.56%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,3 +71,4 @@ Completed: 1 (1.59%) (Ranked 69)
 | 2023-05-29 | 58 | 1 |
 | 2023-05-30 | 60 | 1 |
 | 2023-05-31 | 63 | 1 |
+| 2023-06-01 | 64 | 1 |

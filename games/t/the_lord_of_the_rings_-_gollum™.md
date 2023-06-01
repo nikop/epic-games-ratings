@@ -9,7 +9,7 @@
 | Welcome to Mordor! | 49.00% | ~187 |
 | Wait! Wait! Not yet! | 34.00% | ~130 |
 | Like Flying... | 31.00% | ~118 |
-| Memories | 28.00% | ~107 |
+| Memories | 27.00% | ~103 |
 | The Maggot | 23.00% | ~88 |
 | The Breeder | 18.00% | ~69 |
 | The Veteran | 14.00% | ~53 |
@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381 (Ranked 209)  
+Progressed: 382 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,4 +56,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 354 | 0 |
 | 2023-05-30 | 364 | 0 |
 | 2023-05-31 | 369 | 0 |
-| 2023-06-01 | 381 | 0 |
+| 2023-06-01 | 382 | 0 |

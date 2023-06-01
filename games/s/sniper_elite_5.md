@@ -6,7 +6,7 @@ Rating: 4.45 (Ranked 610)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 24.00% | ~486 |
-| Confirming Suspicions | 19.00% | ~385 |
+| Confirming Suspicions | 20.00% | ~405 |
 | The Kraken Wakes | 15.00% | ~304 |
 | It's Starting to Crack | 12.00% | ~243 |
 | Lord of War | 11.00% | ~223 |
@@ -27,9 +27,9 @@ Rating: 4.45 (Ranked 610)
 | Die Nussknacker Sweet! | 5.00% | ~101 |
 | Der Geist | 5.00% | ~101 |
 | Close Quarters | 5.00% | ~101 |
+| Snake in the Grass | 5.00% | ~101 |
 | Climbing the Ladder | 4.00% | ~81 |
 | Fields of Glory | 4.00% | ~81 |
-| Snake in the Grass | 4.00% | ~81 |
 | Brains of the Operation | 4.00% | ~81 |
 | No Stone Unturned | 3.00% | ~61 |
 | Skirmisher | 3.00% | ~61 |
@@ -43,11 +43,11 @@ Rating: 4.45 (Ranked 610)
 | Locomotion Commotion | 0.90% | ~18 |
 | Road Rage | 0.90% | ~18 |
 | Operation Foxley | 0.80% | ~16 |
+| Don't hold your breath | 0.70% | ~14 |
 | Herr Today, Gone Tomorrow | 0.70% | ~14 |
 | Siegebreaker | 0.70% | ~14 |
 | Ghost of Falaise | 0.70% | ~14 |
 | Tinkerer | 0.60% | ~12 |
-| Don't hold your breath | 0.60% | ~12 |
 | From Paris with Love | 0.50% | ~10 |
 | Last Resort | 0.50% | ~10 |
 | Burn after reading | 0.40% | ~8 |
