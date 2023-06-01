@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| That's the spirit | 100.00% | ~3 |
 | Rascal | 67.00% | ~2 |
-| That's the spirit | 67.00% | ~2 |
 | Scholar | 67.00% | ~2 |
 | Welcome to the Tower | 67.00% | ~2 |
 | The Preacher's fate | 33.00% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 964,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1036,9 +1036,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 251
     },
     {
       "ID": "Scout",
@@ -1092,8 +1092,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:44.9493813+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:06:00.9993217+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:59:02.4505901+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:44.9494036+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:58:57.3162278+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:06:00.9993427+00:00"
 }

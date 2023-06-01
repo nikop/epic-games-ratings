@@ -110,9 +110,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1242,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2465,6 +2465,11 @@
       "Time": "2023-06-01T09:05:42.4550926+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T10:05:58.71781+00:00",
+      "NumProgressed": 1242,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2572,7 +2577,7 @@
       "Name": "Doing My Part",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "dragonclicker",
@@ -2660,15 +2665,15 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "fourleafclover",
       "SetID": "3nl4bcg",
       "Name": "Four Leaf Clover",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 50
     },
     {
       "ID": "frostfireliberator",
@@ -2676,7 +2681,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "fullparty",
@@ -2740,7 +2745,7 @@
       "Name": "Hunter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "inspection",
@@ -2796,7 +2801,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "milestonecollector",
@@ -2828,7 +2833,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "mysteriousrock",
@@ -2884,7 +2889,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "sailor",
@@ -2932,7 +2937,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "thealchemist",
@@ -2964,7 +2969,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "thepowerofawakening",
@@ -3068,14 +3073,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1242,
       "Completed": 1
     }
   ],
@@ -3083,8 +3088,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-31T02:19:10.2971852+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:42.4550922+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:05:58.7178095+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:57:54.522928+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:42.4551891+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:57:53.2374569+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:05:58.7178823+00:00"
 }

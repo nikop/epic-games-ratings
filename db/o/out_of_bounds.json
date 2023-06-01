@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-04-13T17:00:00+00:00",
     "PcReleaseDate": "2023-04-13T17:00:00+00:00",
@@ -89,17 +89,17 @@
       "ID": "BugsFixed_Total_1",
       "SetID": "94h12fn",
       "Name": "64 bugs fixed",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BugsFixed_Total_2",
       "SetID": "94h12fn",
       "Name": "128 bugs fixed",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BugsFixed_Total_3",
@@ -161,17 +161,17 @@
       "ID": "Compilations_1",
       "SetID": "94h12fn",
       "Name": "Compiling (15)...",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Compilations_2",
       "SetID": "94h12fn",
       "Name": "Compiling (30)...",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Compilations_3",
@@ -185,9 +185,9 @@
       "ID": "DevTime_1",
       "SetID": "94h12fn",
       "Name": "Gamedev level 15",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DevTime_2",
@@ -209,17 +209,17 @@
       "ID": "EatFood_1",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 15",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "EatFood_2",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 30",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EatFood_3",
@@ -233,9 +233,9 @@
       "ID": "FinishGame_FirstTime",
       "SetID": "94h12fn",
       "Name": "Package ready!",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FinishGame_LessTime_1",
@@ -273,33 +273,33 @@
       "ID": "LoseBy_Graphics",
       "SetID": "94h12fn",
       "Name": "Graphics outdated",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LoseBy_Mechanics",
       "SetID": "94h12fn",
       "Name": "Errors found you",
-      "Percentage": 36,
-      "XP": 10,
-      "UsersEstimate": 10
-    },
-    {
-      "ID": "LoseBy_Time",
-      "SetID": "94h12fn",
-      "Name": "Almost there!",
       "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 11
     },
     {
+      "ID": "LoseBy_Time",
+      "SetID": "94h12fn",
+      "Name": "Almost there!",
+      "Percentage": 43,
+      "XP": 10,
+      "UsersEstimate": 12
+    },
+    {
       "ID": "SpeakerJumps_1",
       "SetID": "94h12fn",
       "Name": "SoundsFun = 15;",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SpeakerJumps_2",
@@ -321,9 +321,9 @@
       "ID": "WatchEnding",
       "SetID": "94h12fn",
       "Name": "The dev life",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -335,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:51.9543609+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:06:08.040359+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:33.0253322+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:59:54.15102+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:51.954385+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:59:44.7928992+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:06:08.0403773+00:00"
 }

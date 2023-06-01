@@ -190,7 +190,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4088,
+  "EOS_Progressed": 4089,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 0,
@@ -2675,6 +2675,11 @@
       "Time": "2023-06-01T09:04:17.4699586+00:00",
       "NumProgressed": 4088,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T10:04:30.8088648+00:00",
+      "NumProgressed": 4089,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2702,7 +2707,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "12",
@@ -2734,7 +2739,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "16",
@@ -2750,7 +2755,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "18",
@@ -2766,7 +2771,7 @@
       "Name": "The Creator",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "2",
@@ -2782,7 +2787,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "21",
@@ -2798,7 +2803,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "23",
@@ -2814,7 +2819,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "25",
@@ -2822,7 +2827,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "26",
@@ -2838,7 +2843,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "28",
@@ -2846,7 +2851,7 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "29",
@@ -2878,7 +2883,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "32",
@@ -2894,7 +2899,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "34",
@@ -2926,7 +2931,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "38",
@@ -3037,13 +3042,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4088,
-      "Completed": 4088
+      "Progressed": 4089,
+      "Completed": 4089
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4088,
+      "Progressed": 4089,
       "Completed": 0
     }
   ],
@@ -3051,8 +3056,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:04:17.4699582+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:04:30.8088643+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:59:15.3761096+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:04:17.4700099+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:59:08.8306314+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:04:30.8089093+00:00"
 }

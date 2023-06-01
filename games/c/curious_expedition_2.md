@@ -18,8 +18,8 @@ Number of Ratings: 20  (23.09.2022)
 | Treasure Hunt | 30.00% | ~91 |
 | Good Mama | 29.00% | ~88 |
 | O Captain My Captain | 27.00% | ~82 |
+| Taxonomist | 25.00% | ~76 |
 | Plunderer | 25.00% | ~76 |
-| Taxonomist | 24.00% | ~73 |
 | Uncertain Loyalties | 23.00% | ~70 |
 | Traveller | 22.00% | ~67 |
 | Nahua Seeker | 22.00% | ~67 |
@@ -28,9 +28,9 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 17.00% | ~52 |
 | Iron Man | 15.00% | ~45 |
 | For the Club! | 15.00% | ~45 |
+| A Gentle Beast | 15.00% | ~45 |
 | Practical Palaeontology | 15.00% | ~45 |
 | Shortening of the Way | 14.00% | ~42 |
-| A Gentle Beast | 14.00% | ~42 |
 | Dapper | 14.00% | ~42 |
 | The New Director | 13.00% | ~39 |
 | The Director is Dead | 13.00% | ~39 |

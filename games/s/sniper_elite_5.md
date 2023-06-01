@@ -5,15 +5,15 @@ Rating: 4.44 (Ranked 629)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 24.00% | ~475 |
-| Confirming Suspicions | 19.00% | ~376 |
-| The Kraken Wakes | 15.00% | ~297 |
+| Meeting Resistance | 24.00% | ~476 |
+| Confirming Suspicions | 19.00% | ~377 |
+| The Kraken Wakes | 15.00% | ~298 |
 | It's Starting to Crack | 12.00% | ~238 |
 | Lord of War | 11.00% | ~218 |
 | Resourceful | 10.00% | ~198 |
 | Change the Channel | 10.00% | ~198 |
-| As Quiet as a Mouse | 8.00% | ~158 |
-| Taking it back | 8.00% | ~158 |
+| As Quiet as a Mouse | 8.00% | ~159 |
+| Taking it back | 8.00% | ~159 |
 | Enemy at the Gates | 7.00% | ~139 |
 | Just a Flesh Wound | 7.00% | ~139 |
 | Organ Grinder | 7.00% | ~139 |
@@ -29,12 +29,12 @@ Rating: 4.44 (Ranked 629)
 | Der Geist | 4.00% | ~79 |
 | Close Quarters | 4.00% | ~79 |
 | Snake in the Grass | 4.00% | ~79 |
-| Climbing the Ladder | 3.00% | ~59 |
-| No Stone Unturned | 3.00% | ~59 |
-| Skirmisher | 3.00% | ~59 |
-| Set Europe Ablaze | 3.00% | ~59 |
-| Precision Is Key | 3.00% | ~59 |
-| Brains of the Operation | 3.00% | ~59 |
+| Climbing the Ladder | 3.00% | ~60 |
+| No Stone Unturned | 3.00% | ~60 |
+| Skirmisher | 3.00% | ~60 |
+| Set Europe Ablaze | 3.00% | ~60 |
+| Precision Is Key | 3.00% | ~60 |
+| Brains of the Operation | 3.00% | ~60 |
 | Rigged to Blow | 2.00% | ~40 |
 | My Little Friend | 2.00% | ~40 |
 | Strategist | 1.00% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 629)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,980 (Ranked 151)  
+Progressed: 1,984 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
-| 2023-06-01 | 1,980 | 2 |
+| 2023-06-01 | 1,984 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

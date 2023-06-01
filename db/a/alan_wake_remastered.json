@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 450,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 76,
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 50951,
+  "EOS_Progressed": 50959,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 3764,
+  "EOS_NewPlayers": 3756,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3336,6 +3336,11 @@
       "Time": "2023-06-01T09:05:35.9786258+00:00",
       "NumProgressed": 50951,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-06-01T10:05:51.8140519+00:00",
+      "NumProgressed": 50959,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 67,
@@ -3347,7 +3352,7 @@
       "Name": "Follow the Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13247
+      "UsersEstimate": 13249
     },
     {
       "ID": "02",
@@ -3355,7 +3360,7 @@
       "Name": "Nordic Walking",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8152
+      "UsersEstimate": 8153
     },
     {
       "ID": "03",
@@ -3363,7 +3368,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7643
+      "UsersEstimate": 7644
     },
     {
       "ID": "04",
@@ -3379,7 +3384,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6624
+      "UsersEstimate": 6625
     },
     {
       "ID": "06",
@@ -3395,7 +3400,7 @@
       "Name": "Heavy Metal",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "08",
@@ -3403,7 +3408,7 @@
       "Name": "Iron Horse",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "09",
@@ -3459,7 +3464,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "16",
@@ -3515,7 +3520,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "23",
@@ -3555,7 +3560,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "28",
@@ -3563,7 +3568,7 @@
       "Name": "Come One, Come All",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "29",
@@ -3587,7 +3592,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "32",
@@ -3595,7 +3600,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10190
+      "UsersEstimate": 10192
     },
     {
       "ID": "33",
@@ -3611,7 +3616,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "35",
@@ -3619,7 +3624,7 @@
       "Name": "Let There Be Light",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 10700
+      "UsersEstimate": 10701
     },
     {
       "ID": "36",
@@ -3659,7 +3664,7 @@
       "Name": "Right of Way",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "41",
@@ -3667,7 +3672,7 @@
       "Name": "Finders Keepers",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "42",
@@ -3755,7 +3760,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "53",
@@ -3843,7 +3848,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "64",
@@ -3882,21 +3887,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 50951,
+      "Progressed": 50959,
       "Completed": 48
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 14419,
+      "Progressed": 14427,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:35.9786254+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:05:51.8140512+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2744707+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:57:35.6526058+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:35.9787068+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:57:36.0125893+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:05:51.8141306+00:00"
 }

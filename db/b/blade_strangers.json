@@ -2,7 +2,7 @@
   "ID": "266c5badcfd144cbbeedd44499d85a62",
   "Name": "Blade Strangers",
   "ProductSlug": "blade-strangers",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 87,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.3740801+00:00",
   "LastChanged": "2023-03-31T05:58:05.3740803+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.092678+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:57:11.2581317+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:04:11.0264158+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:57:11.4965536+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:04:24.2794563+00:00"
 }

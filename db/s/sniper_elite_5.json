@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1980,
+  "EOS_Progressed": 1984,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2117,6 +2117,11 @@
       "Time": "2023-06-01T09:05:36.5964633+00:00",
       "NumProgressed": 1980,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T10:05:52.5285616+00:00",
+      "NumProgressed": 1984,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2128,7 +2133,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2152,7 +2157,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -2208,7 +2213,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2256,7 +2261,7 @@
       "Name": "Skirmisher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -2280,7 +2285,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -2288,7 +2293,7 @@
       "Name": "Precision Is Key",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -2296,7 +2301,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2368,7 +2373,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2376,7 +2381,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2496,7 +2501,7 @@
       "Name": "Taking it back",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2504,7 +2509,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2695,13 +2700,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1931,
+      "Progressed": 1935,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1980,
+      "Progressed": 1984,
       "Completed": 2
     }
   ],
@@ -2709,8 +2714,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:36.5964631+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:05:52.5285612+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:00:13.2043819+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:36.5965366+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:00:03.2800404+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:05:52.5286331+00:00"
 }

@@ -17,6 +17,8 @@
 | Seven-League Boots | 5.00% | ~3 |
 | Nerd | 5.00% | ~3 |
 | First and Foremost | 5.00% | ~3 |
+| Made Mother Proud | 5.00% | ~3 |
+| Winner Winner Chicken Dinner | 5.00% | ~3 |
 | Upgradeaholic | 5.00% | ~3 |
 | Tailor-Made for Two | 5.00% | ~3 |
 | Lone Wolf | 5.00% | ~3 |
@@ -33,8 +35,6 @@
 | Checklist | 3.00% | ~2 |
 | Time Lord | 3.00% | ~2 |
 | Time Is of the Essence | 3.00% | ~2 |
-| Made Mother Proud | 3.00% | ~2 |
-| Winner Winner Chicken Dinner | 3.00% | ~2 |
 | Tailor-Made | 3.00% | ~2 |
 | First Things First | 2.00% | ~1 |
 | Made Father Proud | 2.00% | ~1 |

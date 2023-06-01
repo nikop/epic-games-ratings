@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -500,9 +500,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14189,
+  "EOS_Progressed": 14191,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2345,6 +2345,11 @@
       "Time": "2023-06-01T09:03:50.9523857+00:00",
       "NumProgressed": 14189,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-01T10:04:14.0768952+00:00",
+      "NumProgressed": 14191,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2500,7 +2505,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2524,7 +2529,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2556,7 +2561,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "STORY_HABITAT",
@@ -2644,7 +2649,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2675,13 +2680,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14189,
+      "Progressed": 14191,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2115,
+      "Progressed": 2117,
       "Completed": 29
     }
   ],
@@ -2689,8 +2694,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:03:50.9523854+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:04:14.0768945+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:57:46.0091456+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:03:50.9524282+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:57:44.9056588+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:04:14.0769286+00:00"
 }

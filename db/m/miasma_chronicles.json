@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1002,9 +1002,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 112
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1090,9 +1090,9 @@
       "ID": "CURVEBALL",
       "SetID": "9a4jnji",
       "Name": "Curveball",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 47
     },
     {
       "ID": "DEAD_DD",
@@ -1226,9 +1226,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 596
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1370,17 +1370,17 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 112
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 196
     },
     {
       "ID": "THE_WATCHERS",
@@ -1394,9 +1394,9 @@
       "ID": "WIPE_OUT",
       "SetID": "9a4jnji",
       "Name": "Wipe Out",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
@@ -1411,8 +1411,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:00:25.8752631+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:00:18.0719719+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:58:11.0145857+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:00:25.875329+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:58:08.6702498+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:00:18.0720213+00:00"
 }

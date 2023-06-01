@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 60.00% | ~201 |
+| Read Between The Lines | 61.00% | ~204 |
 | To Hell In A Handcart | 60.00% | ~201 |
 | High Profile | 52.00% | ~174 |
 | Whispers In The Dark | 50.00% | ~168 |

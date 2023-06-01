@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~21,991 |
-| First Class Student | 7.00% | ~19,242 |
+| The Sort Who Makes an Entrance | 8.00% | ~21,992 |
+| First Class Student | 7.00% | ~19,243 |
 | Grappling with a Graphorn | 6.00% | ~16,494 |
 | The One Who Mastered Memories | 6.00% | ~16,494 |
 | The Hallowed Hero | 6.00% | ~16,494 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,100 |
 | Collector's Edition | 0.20% | ~550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,892 (Ranked 39)  
+Progressed: 274,900 (Ranked 39)  
 Completed: 384 (0.14%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 384 (0.14%) (Ranked 153)
 | 2023-05-29 | 274,189 | 378 |
 | 2023-05-30 | 274,486 | 382 |
 | 2023-05-31 | 274,775 | 383 |
-| 2023-06-01 | 274,892 | 384 |
+| 2023-06-01 | 274,900 | 384 |
 ## Awards
 Max (Character Customization): 19,395  (Ranked 18)  
-Sum: 35,811 (Ranked 33)  
+Sum: 35,812 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -105,7 +105,7 @@ Diff (max vs sum): -15
 | This game is Great for Beginners | 801 |
 | This game is Relaxing | 797 |
 | This game is Extremely Fun | 795 |
-| This game has Amazing Storytelling | 776 |
+| This game has Amazing Storytelling | 777 |
 | This game has Diverse Characters | 767 |
 | This game has Amazing Characters | 758 |
 | This game is Highly Recommended | 737 |
@@ -184,4 +184,4 @@ Diff (max vs sum): -15
 | 2023-05-29 | 4.77 | 19,315 | 35,638 |
 | 2023-05-30 | 4.77 | 19,354 | 35,722 |
 | 2023-05-31 | 4.77 | 19,354 | 35,763 |
-| 2023-06-01 | 4.77 | 19,395 | 35,811 |
+| 2023-06-01 | 4.77 | 19,395 | 35,812 |

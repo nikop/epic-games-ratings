@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Compiling (15)... | 43.00% | ~12 |
 | Noisy saturation | 43.00% | ~12 |
-| Compiling (15)... | 39.00% | ~11 |
-| Almost there! | 39.00% | ~11 |
+| Almost there! | 43.00% | ~12 |
+| EnergyBackup >= 15 | 39.00% | ~11 |
+| Package ready! | 39.00% | ~11 |
+| Errors found you | 39.00% | ~11 |
 | No AI, only humans | 36.00% | ~10 |
-| EnergyBackup >= 15 | 36.00% | ~10 |
-| Package ready! | 36.00% | ~10 |
-| Errors found you | 36.00% | ~10 |
-| Gamedev level 15 | 32.00% | ~9 |
-| SoundsFun = 15; | 32.00% | ~9 |
-| The dev life | 32.00% | ~9 |
-| 64 bugs fixed | 29.00% | ~8 |
+| Gamedev level 15 | 36.00% | ~10 |
+| SoundsFun = 15; | 36.00% | ~10 |
+| The dev life | 36.00% | ~10 |
+| 64 bugs fixed | 32.00% | ~9 |
 | Pro-dev | 25.00% | ~7 |
+| 128 bugs fixed | 25.00% | ~7 |
 | Two thirds is all I need | 25.00% | ~7 |
 | Half the time, half the fun | 25.00% | ~7 |
 | SoundsFun = 30; | 25.00% | ~7 |
-| 128 bugs fixed | 21.00% | ~6 |
 | Double-double | 21.00% | ~6 |
 | Going nuts! | 21.00% | ~6 |
-| Compiling (30)... | 18.00% | ~5 |
+| Compiling (30)... | 21.00% | ~6 |
+| Graphics outdated | 21.00% | ~6 |
 | Compiling (45)... | 18.00% | ~5 |
 | Gamedev level 30 | 18.00% | ~5 |
-| Graphics outdated | 18.00% | ~5 |
+| EnergyBackup >= 30 | 18.00% | ~5 |
 | SoundsFun = 45; | 18.00% | ~5 |
 | 192 bugs fixed | 14.00% | ~4 |
 | Guru-dev | 14.00% | ~4 |
 | Going under... | 14.00% | ~4 |
 | What am I doing?! | 14.00% | ~4 |
 | Gamedev level 45 | 14.00% | ~4 |
-| EnergyBackup >= 30 | 14.00% | ~4 |
 | EnergyBackup >= 45 | 14.00% | ~4 |
 | Damn, I'm GOOD! | 11.00% | ~3 |
 | Just in time! | 11.00% | ~3 |

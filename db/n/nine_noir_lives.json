@@ -2,7 +2,7 @@
   "ID": "3fbf0de441534808846c545ddf42252c",
   "Name": "Nine Noir Lives",
   "ProductSlug": "nine-noir-lives-496bf4",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 87,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.5511112+00:00",
   "LastChanged": "2023-03-31T05:58:10.5511113+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:16.6948827+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:58:25.5511053+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:04:15.490635+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:58:23.6917443+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:04:28.7064588+00:00"
 }

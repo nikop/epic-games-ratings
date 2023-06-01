@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -178,6 +178,11 @@
       "Time": "2023-05-30T12:06:27.1734669+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T10:05:48.796805+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -203,7 +208,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -211,7 +216,7 @@
       "ID": "InnkeeperQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Braving Miasma",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -219,7 +224,7 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -243,7 +248,7 @@
       "ID": "MGR_complete",
       "SetID": "3b8n56h",
       "Name": "Ancient Nemesis",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -251,7 +256,7 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -275,7 +280,7 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -299,7 +304,7 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -315,7 +320,7 @@
       "ID": "MasterTravelerQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Traveler Mastery",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -323,7 +328,7 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -363,7 +368,7 @@
       "ID": "StrangerQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "The Plot Thickens",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -379,7 +384,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 15
     },
@@ -395,7 +400,7 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -483,7 +488,7 @@
       "ID": "scavanger_curios",
       "SetID": "3b8n56h",
       "Name": "No Stone Unturned",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -508,7 +513,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
@@ -516,8 +521,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:33.1908584+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:05:48.7968043+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.9841997+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:57:15.2647218+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:33.1908896+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:57:15.4555882+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:05:48.7968295+00:00"
 }

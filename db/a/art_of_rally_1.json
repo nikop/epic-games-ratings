@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10065,
+  "EOS_Progressed": 10066,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2023-06-01T05:07:29.5547581+00:00",
       "NumProgressed": 10065,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-01T10:05:42.964321+00:00",
+      "NumProgressed": 10066,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -735,7 +740,7 @@
       "Name": "car wash",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -743,7 +748,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -775,7 +780,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -791,7 +796,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -847,7 +852,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7750
+      "UsersEstimate": 7751
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -895,7 +900,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -911,7 +916,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9662
+      "UsersEstimate": 9663
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -927,7 +932,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5939
     },
     {
       "ID": "ACH_NIGHT",
@@ -943,7 +948,7 @@
       "Name": "the artist",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "ACH_RAIN",
@@ -999,7 +1004,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1023,22 +1028,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7247
+      "UsersEstimate": 7248
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10065,
+      "Progressed": 10066,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:27.2770469+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:05:42.9643206+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.9775265+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:57:21.4965821+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:27.2770809+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:57:21.9090668+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:05:42.9643498+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -991,6 +991,11 @@
       "Time": "2023-06-01T02:50:21.8439206+00:00",
       "NumProgressed": 882,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T10:06:02.9910264+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1058,7 +1063,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "EXPERT_1",
@@ -1178,7 +1183,7 @@
       "Name": "Paranoia",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "PRIVATE_EYE",
@@ -1289,15 +1294,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-30T06:00:15.8196801+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:46.9303126+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:06:02.991026+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:59:52.9898986+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:46.9303404+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:59:43.6077302+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:06:02.9910505+00:00"
 }

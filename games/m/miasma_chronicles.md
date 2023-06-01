@@ -8,7 +8,7 @@ Rating: 4.29 (Ranked 765)
 | First Blood | 92.00% | ~857 |
 | Ranidaphobia | 72.00% | ~671 |
 | Aspiring Editor | 69.00% | ~643 |
-| Gun for Hire | 63.00% | ~587 |
+| Gun for Hire | 64.00% | ~596 |
 | I am the law! | 53.00% | ~494 |
 | Lumberjack | 35.00% | ~326 |
 | Croaked | 31.00% | ~289 |
@@ -18,18 +18,18 @@ Rating: 4.29 (Ranked 765)
 | Exorcist | 27.00% | ~252 |
 | Editor Adept | 26.00% | ~242 |
 | Giant Killer | 22.00% | ~205 |
+| The meaning of Kain | 21.00% | ~196 |
 | Sensei | 20.00% | ~186 |
-| The meaning of Kain | 20.00% | ~186 |
 | Technophobe | 17.00% | ~158 |
 | Recycler | 15.00% | ~140 |
 | Chain Killer | 13.00% | ~121 |
 | Hold The Line | 13.00% | ~121 |
-| Are you not entertained? | 11.00% | ~103 |
+| Are you not entertained? | 12.00% | ~112 |
+| There Can Be Only One! | 12.00% | ~112 |
 | Ganglord | 11.00% | ~103 |
 | Jarhead | 11.00% | ~103 |
 | Newtonian Knockout | 11.00% | ~103 |
 | Pushing Daisy | 11.00% | ~103 |
-| There Can Be Only One! | 11.00% | ~103 |
 | Infiltrator | 10.00% | ~93 |
 | Experienced | 8.00% | ~75 |
 | Ruthless | 8.00% | ~75 |
@@ -38,10 +38,10 @@ Rating: 4.29 (Ranked 765)
 | Savior | 6.00% | ~56 |
 | Chain Reaction | 5.00% | ~47 |
 | Commando | 5.00% | ~47 |
+| Curveball | 5.00% | ~47 |
 | Dr Jones | 5.00% | ~47 |
+| Wipe Out | 5.00% | ~47 |
 | Chaos Theory | 4.00% | ~37 |
-| Curveball | 4.00% | ~37 |
-| Wipe Out | 4.00% | ~37 |
 | Side Order | 3.00% | ~28 |
 | Bot Whisperer | 2.00% | ~19 |
 | Cruelty | 1.00% | ~9 |

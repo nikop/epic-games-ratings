@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -491,9 +491,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "gagif7",
       "Name": "Made Mother Proud",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -507,9 +507,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "gagif7",
       "Name": "Winner Winner Chicken Dinner",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:02:20.8488526+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:03:22.3728889+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.0293662+00:00",
-  "LastUpdate_Ratings": "2023-06-01T08:57:33.1430172+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:02:20.8488839+00:00"
+  "LastUpdate_Ratings": "2023-06-01T09:57:33.135581+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:03:22.3729156+00:00"
 }

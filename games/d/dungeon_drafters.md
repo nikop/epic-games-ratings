@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 43.00% | ~15 |
-| Might be useful… | 43.00% | ~15 |
-| Friend! | 34.00% | ~12 |
-| Setting Off | 34.00% | ~12 |
-| Uncut Gem | 34.00% | ~12 |
+| Treasure Hunting | 42.00% | ~15 |
+| Might be useful… | 42.00% | ~15 |
+| Friend! | 33.00% | ~12 |
+| Setting Off | 33.00% | ~12 |
+| Uncut Gem | 33.00% | ~12 |
 | Shine! | 31.00% | ~11 |
-| Clear as Water | 26.00% | ~9 |
-| Riddlesolver | 23.00% | ~8 |
-| Dungeon Mastery | 20.00% | ~7 |
+| Clear as Water | 25.00% | ~9 |
+| Riddlesolver | 22.00% | ~8 |
+| Dungeon Mastery | 19.00% | ~7 |
 | Card Collector | 17.00% | ~6 |
 | The Steed | 14.00% | ~5 |
 | A Strange Proposition | 14.00% | ~5 |
 | The Bodyguard | 11.00% | ~4 |
 | The Apprentice | 11.00% | ~4 |
 | The Familiar | 11.00% | ~4 |
-| Braving Miasma | 9.00% | ~3 |
-| Ancient Nemesis | 9.00% | ~3 |
-| Traveler Mastery | 9.00% | ~3 |
-| The Plot Thickens | 9.00% | ~3 |
-| No Stone Unturned | 9.00% | ~3 |
+| Braving Miasma | 8.00% | ~3 |
+| Ancient Nemesis | 8.00% | ~3 |
+| Traveler Mastery | 8.00% | ~3 |
+| The Plot Thickens | 8.00% | ~3 |
+| No Stone Unturned | 8.00% | ~3 |
 | Best Pupil | 6.00% | ~2 |
 | Oracle Mastery | 6.00% | ~2 |
 | FOR JUSTICE! | 6.00% | ~2 |
@@ -45,7 +45,7 @@
 | Gladiator | 3.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 312)  
+Progressed: 36 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-27 | 32 | 0 |
 | 2023-05-28 | 34 | 0 |
 | 2023-05-30 | 35 | 0 |
+| 2023-06-01 | 36 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

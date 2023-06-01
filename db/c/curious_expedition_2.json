@@ -402,9 +402,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "ach-kill-hyenas",
@@ -538,9 +538,9 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-rideDinosaur",
@@ -627,8 +627,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-01T09:05:53.301071+00:00",
+  "LastChanged_Achievements": "2023-06-01T10:06:09.4919173+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:00:15.6602452+00:00",
-  "LastUpdate_Achievements": "2023-06-01T09:05:53.3011219+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:00:05.7345959+00:00",
+  "LastUpdate_Achievements": "2023-06-01T10:06:09.4919607+00:00"
 }
