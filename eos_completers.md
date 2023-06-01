@@ -35,7 +35,7 @@
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
@@ -60,9 +60,9 @@
 | 58 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.19% |
 | 60 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
-| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 62 | [JARS](games/j/jars.md) | 2.13% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
+| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
+| 61 | [JARS](games/j/jars.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 66 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -102,7 +102,7 @@
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 102 | [Train Valley](games/t/train_valley.md) | 0.69% |
-| 103 | [Haven](games/h/haven.md) | 0.68% |
+| 103 | [Haven](games/h/haven.md) | 0.67% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 105 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
 | 106 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
