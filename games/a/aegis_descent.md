@@ -18,8 +18,8 @@
 | Hazardous Duty | 18.00% | ~66 |
 | Splash Damage | 18.00% | ~66 |
 | Perky | 16.00% | ~59 |
+| Salvage | 12.00% | ~44 |
 | Perk King | 11.00% | ~40 |
-| Salvage | 11.00% | ~40 |
 | Shocking | 11.00% | ~40 |
 | Perfect Timing | 10.00% | ~37 |
 | Sixty Seconds | 10.00% | ~37 |

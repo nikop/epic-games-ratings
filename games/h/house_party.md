@@ -30,6 +30,7 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.20% | ~11 |
 | Smooth Operator: Ashley | 0.20% | ~11 |
 | Stephanie | 0.20% | ~11 |
+| The Muse: Derek | 0.20% | ~11 |
 | The Muse: Madison | 0.20% | ~11 |
 | The Crush | 0.20% | ~11 |
 | Vickie | 0.20% | ~11 |
@@ -62,7 +63,6 @@ Number of Ratings: 177  (23.09.2022)
 | Ronin | 0.10% | ~5 |
 | Do You Smell Blood? | 0.10% | ~5 |
 | A Striking Resemblance | 0.10% | ~5 |
-| The Muse: Derek | 0.10% | ~5 |
 | Howz It Goin Dood | 0.10% | ~5 |
 | The Crush(es) | 0.10% | ~5 |
 | La Coochadora | 0.10% | ~5 |

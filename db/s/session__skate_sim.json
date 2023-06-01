@@ -652,7 +652,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2181,
+  "EOS_Progressed": 2182,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -1712,6 +1712,11 @@
       "Time": "2023-05-31T23:06:40.2199763+00:00",
       "NumProgressed": 2181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T00:06:31.7455488+00:00",
+      "NumProgressed": 2182,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1785,9 +1790,9 @@
       "ID": "ACH_FASHIONISTA",
       "SetID": "72olkc5",
       "Name": "Fashionista",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -1867,7 +1872,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -1875,7 +1880,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2043,15 +2048,15 @@
       "Name": "The hard way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
       "SetID": "72olkc5",
       "Name": "Tight lipslides",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -2075,7 +2080,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -2106,15 +2111,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2181,
+      "Progressed": 2182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:06:40.2199758+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:06:31.7455482+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.7904558+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:59:35.7983937+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:06:40.2200551+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:59:35.0949401+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:06:31.7455849+00:00"
 }

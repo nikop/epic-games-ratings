@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1104,9 +1104,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22486,
+  "EOS_Progressed": 22487,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4184,6 +4184,11 @@
       "Time": "2023-05-31T23:06:58.7405419+00:00",
       "NumProgressed": 22486,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-01T00:06:49.8833519+00:00",
+      "NumProgressed": 22487,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4195,7 +4200,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16415
+      "UsersEstimate": 16416
     },
     {
       "ID": "Animated",
@@ -4235,7 +4240,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9219
+      "UsersEstimate": 9220
     },
     {
       "ID": "Collect_Spores",
@@ -4283,7 +4288,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "Dont_Need_These",
@@ -4307,7 +4312,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "Escape_Artist",
@@ -4331,7 +4336,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12367
+      "UsersEstimate": 12368
     },
     {
       "ID": "GB_In_Training",
@@ -4411,7 +4416,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "Reckless",
@@ -4419,7 +4424,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4048
     },
     {
       "ID": "Rift_Destroyer",
@@ -4443,7 +4448,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "Rivalry",
@@ -4499,7 +4504,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19338
+      "UsersEstimate": 19339
     },
     {
       "ID": "Summoner",
@@ -4523,7 +4528,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12592
+      "UsersEstimate": 12593
     },
     {
       "ID": "Teamwork",
@@ -4563,7 +4568,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "Ultimate_Defense",
@@ -4579,7 +4584,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11018
+      "UsersEstimate": 11019
     },
     {
       "ID": "Welcome_Crew",
@@ -4587,7 +4592,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7420
+      "UsersEstimate": 7421
     },
     {
       "ID": "Whoopsie",
@@ -4602,7 +4607,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22486,
+      "Progressed": 22487,
       "Completed": 40
     }
   ],
@@ -4610,8 +4615,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-31T13:06:19.0224683+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:06:58.7405415+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:06:49.8833514+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:59:26.6626123+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:06:58.740622+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:59:27.2028678+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:06:49.8834025+00:00"
 }

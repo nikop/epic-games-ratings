@@ -1518,9 +1518,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19158,
+  "EOS_Progressed": 19159,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3323,6 +3323,11 @@
       "Time": "2023-05-31T23:06:46.5762099+00:00",
       "NumProgressed": 19158,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-01T00:06:37.8127445+00:00",
+      "NumProgressed": 19159,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3486,7 +3491,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3448
+      "UsersEstimate": 3449
     },
     {
       "ID": "Strongman",
@@ -3517,15 +3522,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19158,
+      "Progressed": 19159,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-31T16:59:28.9447472+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:06:46.5762093+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:06:37.8127442+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:00:05.9681412+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:06:46.5762553+00:00"
+  "LastUpdate_Ratings": "2023-06-01T00:00:07.2239092+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:06:37.8127661+00:00"
 }

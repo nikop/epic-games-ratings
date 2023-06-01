@@ -2,13 +2,13 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 484,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 186,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2162,10 +2162,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 3069,
       "NumberOfAwardsMax": 498
+    },
+    {
+      "Time": "2023-05-31T23:58:35.9834207+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3070,
+      "NumberOfAwardsMax": 498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3069,
+  "NumberOfAwards": 3070,
   "NumberOfAwardsMax": 498,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2221,12 +2227,12 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 230
+      "Count": 231
     }
   ],
-  "EOS_Progressed": 60351,
+  "EOS_Progressed": 60352,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1370,
+  "EOS_NewPlayers": 1368,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6409,6 +6415,11 @@
       "Time": "2023-05-31T23:06:28.8429807+00:00",
       "NumProgressed": 60351,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-06-01T00:06:20.7302108+00:00",
+      "NumProgressed": 60352,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 30,
@@ -6508,7 +6519,7 @@
       "Name": "Changing the Planet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 18105
+      "UsersEstimate": 18106
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -6516,7 +6527,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 20519
+      "UsersEstimate": 20520
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -6556,7 +6567,7 @@
       "Name": "Sojourner",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 16898
+      "UsersEstimate": 16899
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -6596,7 +6607,7 @@
       "Name": "Final touch",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 22933
+      "UsersEstimate": 22934
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -6659,15 +6670,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 60351,
+      "Progressed": 60352,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2023-05-30T20:58:52.3821367+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:06:28.8429801+00:00",
+  "LastChanged": "2023-05-31T23:58:35.9834206+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:06:20.7302104+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:59.6615182+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:58:35.0730943+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:06:28.8430629+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:58:35.9834212+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:06:20.7302476+00:00"
 }

@@ -1,16 +1,16 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 484)  
+Rating: 4.54 (Ranked 485)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 39.00% | ~23,537 |
-| Final touch | 38.00% | ~22,933 |
-| Prop-M Rover | 34.00% | ~20,519 |
-| Changing the Planet | 30.00% | ~18,105 |
-| Sojourner | 28.00% | ~16,898 |
+| Final touch | 38.00% | ~22,934 |
+| Prop-M Rover | 34.00% | ~20,520 |
+| Changing the Planet | 30.00% | ~18,106 |
+| Sojourner | 28.00% | ~16,899 |
 | New Home | 25.00% | ~15,088 |
 | Beagle 2 | 25.00% | ~15,088 |
 | Winner Winner Terraformer | 24.00% | ~14,484 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~1,811 |
 | Opportunity | 3.00% | ~1,811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,351 (Ranked 71)  
+Progressed: 60,352 (Ranked 71)  
 Completed: 65 (0.11%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,9 +79,10 @@ Completed: 65 (0.11%) (Ranked 158)
 | 2023-05-29 | 60,032 | 64 |
 | 2023-05-30 | 60,212 | 64 |
 | 2023-05-31 | 60,351 | 65 |
+| 2023-06-01 | 60,352 | 65 |
 ## Awards
 Max (Relaxing): 498  (Ranked 186)  
-Sum: 3,069 (Ranked 150)  
+Sum: 3,070 (Ranked 150)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +93,7 @@ Diff (max vs sum): 36
 | This game has Competitive Players | 434 |
 | This game has Amazing Storytelling | 351 |
 | This game has Obsessive Gameplay | 334 |
-| This game has a Competitive Community | 230 |
+| This game has a Competitive Community | 231 |
 | This game has Amazing Characters | 191 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -203,3 +204,4 @@ Diff (max vs sum): 36
 | 2023-05-25 | 4.54 | - | 497 | 3,064 |
 | 2023-05-27 | 4.54 | - | 498 | 3,067 |
 | 2023-05-30 | 4.54 | - | 498 | 3,069 |
+| 2023-05-31 | 4.54 | - | 498 | 3,070 |

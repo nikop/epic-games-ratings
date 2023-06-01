@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 85.00% | ~111 |
-| Caretaker | 82.00% | ~107 |
-| Feng Shui | 70.00% | ~92 |
-| Who's A Good Boy | 68.00% | ~89 |
-| Power Up | 67.00% | ~88 |
-| Thick Skin | 65.00% | ~85 |
-| Math Wizard | 62.00% | ~81 |
+| Too Cool For School | 86.00% | ~113 |
+| Caretaker | 83.00% | ~109 |
+| Feng Shui | 71.00% | ~93 |
+| Who's A Good Boy | 69.00% | ~90 |
+| Power Up | 68.00% | ~89 |
+| Thick Skin | 66.00% | ~86 |
+| Math Wizard | 63.00% | ~83 |
+| Destroy Erase Improve | 62.00% | ~81 |
 | Power Overload | 61.00% | ~80 |
-| Destroy Erase Improve | 61.00% | ~80 |
 | Quite A Snack | 56.00% | ~73 |
 | Overwhelming Power | 53.00% | ~69 |
 | Impenetrable Skin | 50.00% | ~66 |
@@ -23,18 +23,18 @@
 | The Duelist | 37.00% | ~48 |
 | Target Practice | 37.00% | ~48 |
 | Meat Larder | 36.00% | ~47 |
-| Mutant And Proud | 34.00% | ~45 |
-| The Emperor's New Clothes | 29.00% | ~38 |
+| Mutant And Proud | 35.00% | ~46 |
+| The Emperor's New Clothes | 30.00% | ~39 |
 | Happy Little Home | 29.00% | ~38 |
+| Final Evolution | 29.00% | ~38 |
 | Godlike Power | 28.00% | ~37 |
-| Final Evolution | 28.00% | ~37 |
 | You Shall Not Pass | 27.00% | ~35 |
 | Fight Me! | 27.00% | ~35 |
+| Supremacy | 27.00% | ~35 |
+| Mommy's Very Angry | 26.00% | ~34 |
 | Animal Lover | 26.00% | ~34 |
 | Undying Skin | 26.00% | ~34 |
-| Supremacy | 26.00% | ~34 |
-| Mommy's Very Angry | 25.00% | ~33 |
-| Immortal Skin | 21.00% | ~28 |
+| Immortal Skin | 22.00% | ~29 |
 | Loyal Companion | 21.00% | ~28 |
 | Back To The Future | 20.00% | ~26 |
 | Fire Beacon | 20.00% | ~26 |

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 375,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 6.4,
   "EosHistory": [
@@ -1007,9 +1007,9 @@
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_016",
@@ -1055,9 +1055,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_022",
@@ -1142,8 +1142,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:04:04.909046+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:04:11.3517791+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:57:08.7443587+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:04:04.9090927+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:57:08.8536802+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:04:11.351801+00:00"
 }

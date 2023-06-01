@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 98.00% | ~84 |
+| So it begins | 99.00% | ~85 |
 | Good to grow | 64.00% | ~55 |
-| Fashionista | 44.00% | ~38 |
+| Fashionista | 45.00% | ~39 |
 | Irrigation not irritation | 41.00% | ~35 |
 | Graduated | 38.00% | ~33 |
 | Night Shift | 26.00% | ~22 |

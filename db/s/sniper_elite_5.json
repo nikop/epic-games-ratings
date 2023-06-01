@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 630,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1964,
+  "EOS_Progressed": 1966,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2077,6 +2077,11 @@
       "Time": "2023-05-31T23:06:46.1210349+00:00",
       "NumProgressed": 1964,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T00:06:37.5732265+00:00",
+      "NumProgressed": 1966,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2128,7 +2133,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2142,9 +2147,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2152,7 +2157,7 @@
       "Name": "Organ Grinder",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2168,7 +2173,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2256,7 +2261,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2288,7 +2293,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2310,9 +2315,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2328,7 +2333,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2424,7 +2429,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2480,7 +2485,7 @@
       "Name": "Target America",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2655,13 +2660,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1915,
+      "Progressed": 1917,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1964,
+      "Progressed": 1966,
       "Completed": 2
     }
   ],
@@ -2669,8 +2674,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:06:46.1210346+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:06:37.573226+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:01:31.0704238+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:06:46.1211196+00:00"
+  "LastUpdate_Ratings": "2023-06-01T00:01:31.3766788+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:06:37.5732873+00:00"
 }

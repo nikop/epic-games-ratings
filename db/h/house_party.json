@@ -2104,9 +2104,9 @@
       "ID": "TM_Derek",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Derek",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "TM_Frank",
@@ -2246,8 +2246,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:03:40.1704106+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:03:37.7013959+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.1207832+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:57:29.3018733+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:03:40.17055+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:57:28.5848189+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:03:37.7014591+00:00"
 }

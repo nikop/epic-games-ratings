@@ -386,9 +386,9 @@
       "ID": "Award_Salvage",
       "SetID": "9ojec6n",
       "Name": "Salvage",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "Award_Scavenger",
@@ -507,8 +507,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:01:56.1986441+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:01:56.6135844+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:58:36.1427531+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:01:56.1988146+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:58:36.9192001+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:01:56.6136319+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,048 |
-| No Escape | 86.00% | ~67,424 |
-| Seeker of Power | 85.00% | ~66,640 |
-| Hopes and Dreams | 82.00% | ~64,288 |
-| Lantern Smasher | 78.00% | ~61,152 |
-| The Pirate's Way | 73.00% | ~57,232 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,664 |
-| The King of the Dark Elves | 68.00% | ~53,312 |
-| Memories of the Distant Past | 66.00% | ~51,744 |
-| Distortion's Progeny | 63.00% | ~49,392 |
-| Savant | 62.00% | ~48,608 |
-| A Landscape of Memory | 58.00% | ~45,472 |
-| The Wind's Light | 54.00% | ~42,336 |
+| Manifestation of the Soul | 97.00% | ~76,049 |
+| No Escape | 86.00% | ~67,425 |
+| Seeker of Power | 85.00% | ~66,641 |
+| Hopes and Dreams | 82.00% | ~64,289 |
+| Lantern Smasher | 78.00% | ~61,153 |
+| The Pirate's Way | 73.00% | ~57,233 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,665 |
+| The King of the Dark Elves | 68.00% | ~53,313 |
+| Memories of the Distant Past | 66.00% | ~51,745 |
+| Distortion's Progeny | 63.00% | ~49,393 |
+| Savant | 62.00% | ~48,609 |
+| A Landscape of Memory | 58.00% | ~45,473 |
+| The Wind's Light | 54.00% | ~42,337 |
 | Vague Remembrances | 49.00% | ~38,416 |
 | The Fire's Light | 47.00% | ~36,848 |
 | Phantom Memories | 46.00% | ~36,064 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,352 |
 | A Tale of Origins and Endings | 2.00% | ~1,568 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,400 (Ranked 63)  
+Progressed: 78,401 (Ranked 63)  
 Completed: 2,131 (2.72%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 2,131 (2.72%) (Ranked 54)
 | 2023-05-29 | 78,379 | 2,131 |
 | 2023-05-30 | 78,391 | 2,131 |
 | 2023-05-31 | 78,400 | 2,131 |
+| 2023-06-01 | 78,401 | 2,131 |
 ## Awards
 Max (Great Boss Battles): 753  (Ranked 151)  
 Sum: 1,552 (Ranked 206)  

@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.40% | ~2,826 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,826 |
 | Sword Stained With Blood | 0.40% | ~2,826 |
-| Martial Hub | 0.40% | ~63 |
+| Martial Hub | 0.40% | ~64 |
 | Prodigal Child | 0.30% | ~2,120 |
 | Secure, Protect, Leave | 0.30% | ~48 |
 | Drunken Fighter | 0.20% | ~1,413 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,570 (Ranked 15)  
+Progressed: 706,574 (Ranked 15)  
 Completed: 12,749 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 12,749 (1.80%) (Ranked 66)
 | 2023-05-29 | 706,246 | 12,745 |
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
+| 2023-06-01 | 706,574 | 12,749 |
 ## Awards
 Max (Great Boss Battles): 6,114  (Ranked 53)  
 Sum: 10,422 (Ranked 77)  

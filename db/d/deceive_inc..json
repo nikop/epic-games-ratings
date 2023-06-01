@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 118,
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6482,
+  "EOS_Progressed": 6483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3388,6 +3388,11 @@
       "Time": "2023-05-31T20:06:23.8545515+00:00",
       "NumProgressed": 6482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T00:06:50.6597328+00:00",
+      "NumProgressed": 6483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3399,7 +3404,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "0002",
@@ -3455,7 +3460,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "0009",
@@ -3487,7 +3492,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "0013",
@@ -3591,7 +3596,7 @@
       "Name": "Tailor-Made",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "0026",
@@ -3639,7 +3644,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "0032",
@@ -3655,7 +3660,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "0034",
@@ -3663,7 +3668,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "0035",
@@ -3686,7 +3691,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6482,
+      "Progressed": 6483,
       "Completed": 0
     }
   ],
@@ -3694,8 +3699,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:06:59.5582982+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:06:50.6597323+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:00:23.0474124+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:06:59.5583789+00:00"
+  "LastUpdate_Ratings": "2023-06-01T00:00:25.121366+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:06:50.6597658+00:00"
 }

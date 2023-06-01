@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.9,
+  "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -904,6 +904,11 @@
       "Time": "2023-05-31T22:04:18.3128681+00:00",
       "NumProgressed": 333,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-01T00:04:12.5170915+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 28,
@@ -931,7 +936,7 @@
       "Name": "High Profile",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "MQ02_2",
@@ -955,7 +960,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MQ03_1",
@@ -963,7 +968,7 @@
       "Name": "Fond Memories",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ03_2",
@@ -1017,9 +1022,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 134
     },
     {
       "ID": "MQ05_1",
@@ -1033,9 +1038,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ05_3",
@@ -1059,7 +1064,7 @@
       "Name": "Brain Food",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MQ06_2",
@@ -1073,9 +1078,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ06_4",
@@ -1099,7 +1104,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "MQ08_1",
@@ -1113,9 +1118,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 104
     },
     {
       "ID": "MQ08_3",
@@ -1138,7 +1143,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 13
     }
   ],
@@ -1146,8 +1151,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:04:06.0684266+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:04:12.517091+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-05-31T22:57:21.0830475+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:04:06.0684522+00:00"
+  "LastUpdate_Ratings": "2023-05-31T23:57:20.5780426+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:04:12.5171113+00:00"
 }

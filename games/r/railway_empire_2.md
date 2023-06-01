@@ -13,8 +13,8 @@
 | Brainstorm | 66.00% | ~388 |
 | We brake for nobody | 66.00% | ~388 |
 | Travel Company | 64.00% | ~376 |
-| Mind the Gap | 62.00% | ~365 |
-| All around the World | 61.00% | ~359 |
+| Mind the Gap | 63.00% | ~370 |
+| All around the World | 62.00% | ~365 |
 | Right through the middle | 55.00% | ~323 |
 | Poor Devil | 50.00% | ~294 |
 | Facility Manager | 47.00% | ~276 |
@@ -28,8 +28,8 @@
 | Mole | 24.00% | ~141 |
 | Bull and bear | 24.00% | ~141 |
 | Seven at one stroke | 23.00% | ~135 |
+| All mine | 20.00% | ~118 |
 | Financial Shark | 20.00% | ~118 |
-| All mine | 19.00% | ~112 |
 | Hostile Takeover | 18.00% | ~106 |
 | Trailblazer | 17.00% | ~100 |
 | Country Life | 16.00% | ~94 |

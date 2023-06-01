@@ -6,28 +6,28 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~125,663 |
-| Titan's First Steps | 96.00% | ~124,367 |
+| Sponsored by Argon | 97.00% | ~125,664 |
+| Titan's First Steps | 96.00% | ~124,368 |
 | Basic in Bulk | 91.00% | ~117,890 |
 | Tinkle of Coins | 87.00% | ~112,708 |
-| Disintermediation | 76.00% | ~98,457 |
+| Disintermediation | 76.00% | ~98,458 |
 | Capitalism Ho! | 75.00% | ~97,162 |
-| It's Free Real Estate | 70.00% | ~90,684 |
-| Budding Merchant | 66.00% | ~85,502 |
-| Another Satisfied Customer | 61.00% | ~79,025 |
-| One Easy Payment | 60.00% | ~77,729 |
-| Own the Means of Production | 60.00% | ~77,729 |
-| Some Assembly Required | 58.00% | ~75,138 |
-| Pretty Penny | 57.00% | ~73,843 |
-| One-Armed Bandit | 50.00% | ~64,774 |
+| It's Free Real Estate | 70.00% | ~90,685 |
+| Budding Merchant | 66.00% | ~85,503 |
+| Another Satisfied Customer | 61.00% | ~79,026 |
+| One Easy Payment | 60.00% | ~77,730 |
+| Own the Means of Production | 60.00% | ~77,730 |
+| Some Assembly Required | 58.00% | ~75,139 |
+| Pretty Penny | 57.00% | ~73,844 |
+| One-Armed Bandit | 50.00% | ~64,775 |
 | Through Repetition, Perfection | 46.00% | ~59,593 |
-| The Daily Grind | 45.00% | ~58,297 |
+| The Daily Grind | 45.00% | ~58,298 |
 | Bounty Hunters | 44.00% | ~57,002 |
 | Where it Hurts | 43.00% | ~55,706 |
 | Dungeon Imports | 42.00% | ~54,411 |
-| Flooding the Market | 41.00% | ~53,115 |
+| Flooding the Market | 41.00% | ~53,116 |
 | Demand for Supplies | 38.00% | ~49,229 |
-| Gild-Gotten Goods | 37.00% | ~47,933 |
+| Gild-Gotten Goods | 37.00% | ~47,934 |
 | Did we pack lunch? | 35.00% | ~45,342 |
 | Arcane Industries | 34.00% | ~44,047 |
 | Accomplished Merchant | 31.00% | ~40,160 |
@@ -38,17 +38,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 27.00% | ~34,978 |
 | Efficient Floor Space | 27.00% | ~34,978 |
 | Vanity, Verily | 26.00% | ~33,683 |
-| Research & Development | 25.00% | ~32,387 |
+| Research & Development | 25.00% | ~32,388 |
 | Flawless Fusion | 24.00% | ~31,092 |
 | Power of Love | 23.00% | ~29,796 |
 | Natural 20 | 23.00% | ~29,796 |
-| Fated Encounters | 21.00% | ~27,205 |
-| Royal Ransom | 21.00% | ~27,205 |
-| Magical Harmony | 21.00% | ~27,205 |
+| Fated Encounters | 21.00% | ~27,206 |
+| Royal Ransom | 21.00% | ~27,206 |
+| Magical Harmony | 21.00% | ~27,206 |
 | Tax not Included | 20.00% | ~25,910 |
 | Trash to Treasure | 18.00% | ~23,319 |
-| For the Hoard! | 17.00% | ~22,023 |
-| Special Ingredient | 17.00% | ~22,023 |
+| For the Hoard! | 17.00% | ~22,024 |
+| Special Ingredient | 17.00% | ~22,024 |
 | A Notch Above the Rest | 15.00% | ~19,432 |
 | Scrapbooker | 15.00% | ~19,432 |
 | This Power Level...! | 15.00% | ~19,432 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 14.00% | ~18,137 |
 | Flying off the Shelves | 14.00% | ~18,137 |
 | Laden with Loot | 14.00% | ~18,137 |
-| Fat Cat Tag Team | 13.00% | ~16,841 |
+| Fat Cat Tag Team | 13.00% | ~16,842 |
 | Hidden Potential | 12.00% | ~15,546 |
 | Mammonite | 12.00% | ~15,546 |
 | Attrition Mission | 12.00% | ~15,546 |
@@ -69,11 +69,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 11.00% | ~14,250 |
 | Exotic Commodities | 11.00% | ~14,250 |
 | Complete Monopoly | 11.00% | ~14,250 |
-| Supercharged | 9.00% | ~11,659 |
-| Ritualist | 9.00% | ~11,659 |
-| Master Merchant | 9.00% | ~11,659 |
-| Glittering Collection | 9.00% | ~11,659 |
-| Master Recycler | 9.00% | ~11,659 |
+| Supercharged | 9.00% | ~11,660 |
+| Ritualist | 9.00% | ~11,660 |
+| Master Merchant | 9.00% | ~11,660 |
+| Glittering Collection | 9.00% | ~11,660 |
+| Master Recycler | 9.00% | ~11,660 |
 | Cream of the Crop | 8.00% | ~10,364 |
 | The King's Caprice | 8.00% | ~10,364 |
 | Item of Renown | 8.00% | ~10,364 |
@@ -83,9 +83,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 6.00% | ~7,773 |
 | Treasure Trove | 6.00% | ~7,773 |
 | All Accounted For | 6.00% | ~7,773 |
-| Archivist | 5.00% | ~6,477 |
-| Bountiful Harvest | 5.00% | ~6,477 |
-| Precision Engineering | 5.00% | ~6,477 |
+| Archivist | 5.00% | ~6,478 |
+| Bountiful Harvest | 5.00% | ~6,478 |
+| Precision Engineering | 5.00% | ~6,478 |
 | Proud Paladin | 4.00% | ~5,182 |
 | Industrial Evolution | 4.00% | ~5,182 |
 | Thank You Tom Nook | 4.00% | ~5,182 |
@@ -104,11 +104,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 2.00% | ~2,591 |
 | Eternal Crusade | 2.00% | ~2,591 |
 | Moment of Respite | 2.00% | ~2,591 |
-| Bane of Legends | 1.00% | ~1,295 |
-| The Free Encyclopedia | 1.00% | ~1,295 |
-| Unleashed Potential | 1.00% | ~1,295 |
-| Anything not Nailed Down | 1.00% | ~1,295 |
-| The Greatest Grind | 1.00% | ~1,295 |
+| Bane of Legends | 1.00% | ~1,296 |
+| The Free Encyclopedia | 1.00% | ~1,296 |
+| Unleashed Potential | 1.00% | ~1,296 |
+| Anything not Nailed Down | 1.00% | ~1,296 |
+| The Greatest Grind | 1.00% | ~1,296 |
 | Oligarch Monarch | 0.90% | ~1,166 |
 | Marvels from the World Over | 0.90% | ~1,166 |
 | A Ronin Reborn | 0.80% | ~1,036 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~518 |
 | Capitalist Camaraderie | 0.20% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,549 (Ranked 55)  
+Progressed: 129,550 (Ranked 55)  
 Completed: 90 (0.07%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,13 +161,14 @@ Completed: 90 (0.07%) (Ranked 173)
 | 2023-05-29 | 129,397 | 88 |
 | 2023-05-30 | 129,470 | 89 |
 | 2023-05-31 | 129,549 | 90 |
+| 2023-06-01 | 129,550 | 90 |
 ## Awards
-Max (Great for Beginners): 4,598  (Ranked 66)  
-Sum: 26,662 (Ranked 44)  
+Max (Great for Beginners): 4,601  (Ranked 66)  
+Sum: 26,665 (Ranked 44)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,598 |
+| This game is Great for Beginners | 4,601 |
 | This game is Relaxing | 3,956 |
 | This game has Quickly Understood Controls | 3,942 |
 | This game has Diverse Characters | 3,765 |
@@ -305,4 +306,4 @@ Diff (max vs sum): 22
 | 2023-05-28 | 3.98 | - | 4,592 | 26,645 |
 | 2023-05-29 | 3.98 | - | 4,595 | 26,655 |
 | 2023-05-30 | 3.98 | - | 4,598 | 26,660 |
-| 2023-05-31 | 3.98 | - | 4,598 | 26,662 |
+| 2023-05-31 | 3.98 | - | 4,601 | 26,665 |

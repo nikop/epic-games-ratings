@@ -7,28 +7,28 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 53.00% | ~1,156 |
-| Keeping it classy | 25.00% | ~545 |
+| Keeping it classy | 25.00% | ~546 |
 | Welcome to the family | 18.00% | ~393 |
 | The finer things in life | 16.00% | ~349 |
 | Backpacker | 12.00% | ~262 |
 | Go with the Flow | 11.00% | ~240 |
 | Plastic Surgeon | 9.00% | ~196 |
 | The flip trick crown jewel | 9.00% | ~196 |
-| Keep the dream alive | 8.00% | ~174 |
-| The hard way | 8.00% | ~174 |
-| Upfront shredder | 8.00% | ~174 |
+| Keep the dream alive | 8.00% | ~175 |
+| The hard way | 8.00% | ~175 |
+| Upfront shredder | 8.00% | ~175 |
 | Good vibes | 7.00% | ~153 |
-| Fashionista | 6.00% | ~131 |
 | Finally he zips it | 6.00% | ~131 |
 | That pinch! | 6.00% | ~131 |
-| Tight lipslides | 6.00% | ~131 |
 | Bottom ply killer | 5.00% | ~109 |
+| Fashionista | 5.00% | ~109 |
 | Fulfilled the dream | 5.00% | ~109 |
 | G'Day Mate! | 5.00% | ~109 |
 | NAHELL! | 5.00% | ~109 |
 | Purple passion | 5.00% | ~109 |
 | Squad goals | 5.00% | ~109 |
 | Sup widdit big dog! | 5.00% | ~109 |
+| Tight lipslides | 5.00% | ~109 |
 | Commence the Hijinx! | 4.00% | ~87 |
 | Cops called! | 4.00% | ~87 |
 | DIY Boss | 4.00% | ~87 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,181 (Ranked 147)  
+Progressed: 2,182 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 2,152 | 0 |
 | 2023-05-30 | 2,167 | 0 |
 | 2023-05-31 | 2,181 | 0 |
+| 2023-06-01 | 2,182 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 396)  
 Sum: 414 (Ranked 302)  

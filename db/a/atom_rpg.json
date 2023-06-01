@@ -346,7 +346,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 880,
+  "EOS_Progressed": 881,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -981,6 +981,11 @@
       "Time": "2023-05-31T23:07:00.0192962+00:00",
       "NumProgressed": 880,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T00:06:50.9472697+00:00",
+      "NumProgressed": 881,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1048,7 +1053,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "EXPERT_1",
@@ -1064,7 +1069,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1144,7 +1149,7 @@
       "Name": "One HIT wonder",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1152,7 +1157,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "PACIFIST",
@@ -1174,9 +1179,9 @@
       "ID": "PRIVATE_EYE",
       "SetID": "bf13m8j",
       "Name": "Not-so-private Eye",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 62
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -1264,7 +1269,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "WISHMASTER_1",
@@ -1279,15 +1284,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 880,
+      "Progressed": 881,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-30T06:00:15.8196801+00:00",
-  "LastChanged_Achievements": "2023-05-31T23:07:00.0192956+00:00",
+  "LastChanged_Achievements": "2023-06-01T00:06:50.9472694+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-31T23:01:00.7675917+00:00",
-  "LastUpdate_Achievements": "2023-05-31T23:07:00.0193282+00:00"
+  "LastUpdate_Ratings": "2023-06-01T00:00:59.47487+00:00",
+  "LastUpdate_Achievements": "2023-06-01T00:06:50.9472928+00:00"
 }

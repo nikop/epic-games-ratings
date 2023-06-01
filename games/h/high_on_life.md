@@ -5,16 +5,16 @@ Rating: 4.67 (Ranked 257)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,893 |
+| Eye Scream, You Scream | 83.00% | ~18,894 |
 | Mods Please Ban | 77.00% | ~17,528 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,300 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,617 |
-| First Bounty Down | 59.00% | ~13,430 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,301 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,618 |
+| First Bounty Down | 59.00% | ~13,431 |
 | We're All Very Impressed, Trust Me | 57.00% | ~12,975 |
-| Luglox Genocide | 43.00% | ~9,788 |
+| Luglox Genocide | 43.00% | ~9,789 |
 | Playing Card To Get | 33.00% | ~7,512 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,512 |
-| Creature Feature | 29.00% | ~6,601 |
+| Creature Feature | 29.00% | ~6,602 |
 | Satisfied Gus-tomer | 28.00% | ~6,374 |
 | Cold-Blooded Driller | 28.00% | ~6,374 |
 | Are You Packin'? | 25.00% | ~5,691 |
@@ -27,7 +27,7 @@ Rating: 4.67 (Ranked 257)
 | Who's The Boss? | 20.00% | ~4,553 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,553 |
 | Self-Actualization | 19.00% | ~4,325 |
-| Legendary Bounty Hunter | 18.00% | ~4,097 |
+| Legendary Bounty Hunter | 18.00% | ~4,098 |
 | Seeing All The Sights | 16.00% | ~3,642 |
 | Carried Stan's Load To Completion | 13.00% | ~2,959 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,732 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,763 (Ranked 91)  
+Progressed: 22,764 (Ranked 91)  
 Completed: 8 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 8 (0.04%) (Ranked 180)
 | 2023-05-29 | 22,751 | 8 |
 | 2023-05-30 | 22,756 | 8 |
 | 2023-05-31 | 22,763 | 8 |
+| 2023-06-01 | 22,764 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

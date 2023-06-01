@@ -5,33 +5,33 @@ Rating: 3.79 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~358,616 |
-| Handy | 40.00% | ~188,745 |
-| Cold Caller | 38.00% | ~179,308 |
-| A Bit On The Side | 26.00% | ~122,684 |
-| Backdoor | 24.00% | ~113,247 |
-| Rank Amateur | 20.00% | ~94,373 |
-| Three Way | 17.00% | ~80,217 |
-| Deadly Assassin | 15.00% | ~70,779 |
-| Gutshot | 13.00% | ~61,342 |
-| Risk It For A Biscuit | 13.00% | ~61,342 |
-| Showoff | 12.00% | ~56,624 |
-| W.H.I.P. | 11.00% | ~51,905 |
-| Bet Bet Bet | 8.00% | ~37,749 |
-| Blindman's Bluff | 8.00% | ~37,749 |
-| Poker Joker | 8.00% | ~37,749 |
-| Dog Eat Dog | 7.00% | ~33,030 |
-| Never Give Up | 7.00% | ~33,030 |
-| Quack Quack | 7.00% | ~33,030 |
-| Total Knock Out | 7.00% | ~33,030 |
-| The Bigger They Are | 6.00% | ~28,312 |
-| Give Your Regards To Broadway | 5.00% | ~23,593 |
-| Check Yourself | 4.00% | ~18,875 |
-| In The Gang | 3.00% | ~14,156 |
-| Moneymaker | 3.00% | ~14,156 |
-| On The Button | 3.00% | ~14,156 |
-| Before You Wreck Yourself | 2.00% | ~9,437 |
-| Keep Your Heads Up | 2.00% | ~9,437 |
+| Pro Creation | 76.00% | ~358,641 |
+| Handy | 40.00% | ~188,758 |
+| Cold Caller | 38.00% | ~179,320 |
+| A Bit On The Side | 26.00% | ~122,693 |
+| Backdoor | 24.00% | ~113,255 |
+| Rank Amateur | 20.00% | ~94,379 |
+| Three Way | 17.00% | ~80,222 |
+| Deadly Assassin | 15.00% | ~70,784 |
+| Gutshot | 13.00% | ~61,346 |
+| Risk It For A Biscuit | 13.00% | ~61,346 |
+| Showoff | 12.00% | ~56,628 |
+| W.H.I.P. | 11.00% | ~51,909 |
+| Bet Bet Bet | 8.00% | ~37,752 |
+| Blindman's Bluff | 8.00% | ~37,752 |
+| Poker Joker | 8.00% | ~37,752 |
+| Dog Eat Dog | 7.00% | ~33,033 |
+| Never Give Up | 7.00% | ~33,033 |
+| Quack Quack | 7.00% | ~33,033 |
+| Total Knock Out | 7.00% | ~33,033 |
+| The Bigger They Are | 6.00% | ~28,314 |
+| Give Your Regards To Broadway | 5.00% | ~23,595 |
+| Check Yourself | 4.00% | ~18,876 |
+| In The Gang | 3.00% | ~14,157 |
+| Moneymaker | 3.00% | ~14,157 |
+| On The Button | 3.00% | ~14,157 |
+| Before You Wreck Yourself | 2.00% | ~9,438 |
+| Keep Your Heads Up | 2.00% | ~9,438 |
 | Holding Your Own | 1.00% | ~4,719 |
 | Bluffing Eh? | 0.90% | ~4,247 |
 | Go For It | 0.80% | ~3,775 |
@@ -51,7 +51,7 @@ Rating: 3.79 (Ranked 919)
 | Rounder | 0.10% | ~472 |
 | Top Dog | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,863 (Ranked 30)  
+Progressed: 471,896 (Ranked 30)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 469,949 | 0 |
 | 2023-05-30 | 470,926 | 0 |
 | 2023-05-31 | 471,863 | 0 |
+| 2023-06-01 | 471,896 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

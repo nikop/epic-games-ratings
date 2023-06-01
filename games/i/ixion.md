@@ -14,11 +14,11 @@ Rating: 4.57 (Ranked 438)
 | Ready for a New World | 6.00% | ~140 |
 | Guy de Borderlands | 5.00% | ~117 |
 | Breaking Protocol | 5.00% | ~117 |
+| Permanent Redesigns | 5.00% | ~117 |
 | Ain't Nobody Got Time for That | 5.00% | ~117 |
 | Hope Seeker | 5.00% | ~117 |
 | A Hunk of Junk | 4.00% | ~93 |
 | Fully Recycled | 4.00% | ~93 |
-| Permanent Redesigns | 4.00% | ~93 |
 | The Ship of Theseus | 4.00% | ~93 |
 | Exceeding Capacity | 3.00% | ~70 |
 | Please Make it Stop! | 3.00% | ~70 |
@@ -38,10 +38,10 @@ Rating: 4.57 (Ranked 438)
 | Delivery! | 0.90% | ~21 |
 | What the Ruins Teach Us | 0.90% | ~21 |
 | Sustainable Energy | 0.80% | ~19 |
+| Pedal to the Metal | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~16 |
 | Praise the Hull! | 0.70% | ~16 |
-| Pedal to the Metal | 0.70% | ~16 |
 | Catastrophe Avoided | 0.60% | ~14 |
 | You Had One Job... | 0.60% | ~14 |
 | Space Greenhouse | 0.50% | ~12 |
