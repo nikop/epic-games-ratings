@@ -23,8 +23,8 @@ Number of Ratings: 101  (23.09.2022)
 | Follow the Money | 7.00% | ~25 |
 | I'm Going To Call You Kitty | 7.00% | ~25 |
 | Operation Odessa | 1.00% | ~4 |
+| Iron Lady | 0.80% | ~3 |
 | Sense Of Style | 0.60% | ~2 |
-| Iron Lady | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 357 (Ranked 214)  
 Completed: 1 (0.28%) (Ranked 131)  

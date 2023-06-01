@@ -2,7 +2,7 @@
   "ID": "3840e423f39f45eab96aac124a46492a",
   "Name": "MONOPOLY MADNESS",
   "ProductSlug": "monopoly-madness",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 86,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.8580822+00:00",
   "LastChanged": "2023-03-31T05:58:17.8580823+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:52.6698549+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:00:02.9271379+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:07.2916914+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:00:58.3212941+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:05:49.0894884+00:00"
 }

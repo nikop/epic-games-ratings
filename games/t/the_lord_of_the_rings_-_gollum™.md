@@ -10,7 +10,7 @@
 | Wait! Wait! Not yet! | 34.00% | ~128 |
 | Like Flying... | 31.00% | ~117 |
 | Memories | 27.00% | ~102 |
-| The Maggot | 22.00% | ~83 |
+| The Maggot | 23.00% | ~86 |
 | The Breeder | 18.00% | ~68 |
 | The Veteran | 14.00% | ~53 |
 | The Traitor | 10.00% | ~38 |

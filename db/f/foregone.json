@@ -2,7 +2,7 @@
   "ID": "a40f6c03e1374358809ec38c999059c0",
   "Name": "Foregone",
   "ProductSlug": "foregone",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 86,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:53.3098683+00:00",
   "LastChanged": "2023-03-31T05:57:53.3098684+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.1606766+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:59:35.8821015+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:04:12.6042708+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:00:07.7091068+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:04:44.8282056+00:00"
 }

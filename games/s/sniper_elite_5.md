@@ -5,19 +5,19 @@ Rating: 4.45 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~498 |
-| Confirming Suspicions | 19.00% | ~379 |
-| The Kraken Wakes | 15.00% | ~299 |
-| It's Starting to Crack | 12.00% | ~239 |
-| Lord of War | 11.00% | ~219 |
-| Resourceful | 10.00% | ~199 |
-| Change the Channel | 10.00% | ~199 |
+| Meeting Resistance | 24.00% | ~480 |
+| Confirming Suspicions | 19.00% | ~380 |
+| The Kraken Wakes | 15.00% | ~300 |
+| It's Starting to Crack | 12.00% | ~240 |
+| Lord of War | 11.00% | ~220 |
+| Resourceful | 10.00% | ~200 |
+| Change the Channel | 10.00% | ~200 |
 | As Quiet as a Mouse | 8.00% | ~160 |
 | Taking it back | 8.00% | ~160 |
 | Enemy at the Gates | 7.00% | ~140 |
-| Just a Flesh Wound | 7.00% | ~140 |
 | Organ Grinder | 7.00% | ~140 |
 | Target America | 7.00% | ~140 |
+| Just a Flesh Wound | 6.00% | ~120 |
 | Sharpshooter | 6.00% | ~120 |
 | Explosive Efficiency | 6.00% | ~120 |
 | The Kraken Sleeps | 6.00% | ~120 |
@@ -29,38 +29,38 @@ Rating: 4.45 (Ranked 608)
 | Der Geist | 4.00% | ~80 |
 | Close Quarters | 4.00% | ~80 |
 | Snake in the Grass | 4.00% | ~80 |
-| Brains of the Operation | 4.00% | ~80 |
 | Climbing the Ladder | 3.00% | ~60 |
 | No Stone Unturned | 3.00% | ~60 |
 | Skirmisher | 3.00% | ~60 |
 | Set Europe Ablaze | 3.00% | ~60 |
 | Precision Is Key | 3.00% | ~60 |
+| Brains of the Operation | 3.00% | ~60 |
 | Rigged to Blow | 2.00% | ~40 |
-| My Little Friend | 2.00% | ~40 |
 | Strategist | 1.00% | ~20 |
 | The Long Game | 1.00% | ~20 |
+| My Little Friend | 1.00% | ~20 |
 | It'll Buff Right Out | 1.00% | ~20 |
 | Locomotion Commotion | 0.90% | ~18 |
 | Road Rage | 0.90% | ~18 |
-| Herr Today, Gone Tomorrow | 0.80% | ~16 |
 | Operation Foxley | 0.80% | ~16 |
-| Tinkerer | 0.70% | ~14 |
-| Siegebreaker | 0.70% | ~14 |
+| Herr Today, Gone Tomorrow | 0.70% | ~14 |
 | Ghost of Falaise | 0.70% | ~14 |
-| From Paris with Love | 0.60% | ~12 |
+| Tinkerer | 0.60% | ~12 |
 | Don't hold your breath | 0.60% | ~12 |
-| Up close and personal | 0.50% | ~10 |
+| Siegebreaker | 0.60% | ~12 |
+| From Paris with Love | 0.50% | ~10 |
 | Last Resort | 0.50% | ~10 |
 | Burn after reading | 0.40% | ~8 |
 | Souvenir hunter | 0.40% | ~8 |
 | Eagle Eyed | 0.40% | ~8 |
-| Can't Outrun A Bullet | 0.40% | ~8 |
+| Up close and personal | 0.40% | ~8 |
 | Shoot for the Moon | 0.30% | ~6 |
-| Reich To The Point | 0.30% | ~6 |
+| Can't Outrun A Bullet | 0.30% | ~6 |
 | If You Go Down To The Woods Today | 0.30% | ~6 |
 | Fight Another Day | 0.30% | ~6 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~4 |
+| Reich To The Point | 0.20% | ~4 |
 | Covert Elimination | 0.20% | ~4 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 608)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,994 (Ranked 151)  
+Progressed: 2,002 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
-| 2023-06-01 | 1,994 | 2 |
+| 2023-06-01 | 2,002 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

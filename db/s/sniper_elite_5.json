@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1994,
+  "EOS_Progressed": 2002,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2148,6 +2148,11 @@
       "Time": "2023-06-01T14:05:28.7993632+00:00",
       "NumProgressed": 1994,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T15:06:12.2127051+00:00",
+      "NumProgressed": 2002,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2213,9 +2218,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 120
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2237,9 +2242,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 480
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2327,7 +2332,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2349,9 +2354,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -2367,7 +2372,7 @@
       "Name": "Lord of War",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2383,7 +2388,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2407,7 +2412,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2429,9 +2434,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -2461,9 +2466,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -2471,7 +2476,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2495,15 +2500,15 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -2533,9 +2538,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2573,9 +2578,9 @@
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -2589,9 +2594,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -2621,9 +2626,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -2653,9 +2658,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2726,13 +2731,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1945,
+      "Progressed": 1953,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1994,
+      "Progressed": 2002,
       "Completed": 2
     }
   ],
@@ -2740,8 +2745,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:05:28.7993626+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:06:12.2127045+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T14:00:00.5711741+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:28.7994415+00:00"
+  "LastUpdate_Ratings": "2023-06-01T15:00:55.8224242+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:06:12.2127732+00:00"
 }

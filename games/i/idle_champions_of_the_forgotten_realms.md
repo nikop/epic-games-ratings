@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~179 |
 | Wisdom Check | 0.20% | ~179 |
 | Sleuth It Out | 0.20% | ~179 |
+| A Grand Puzzle | 0.20% | ~179 |
 | No Time To Rest | 0.20% | ~179 |
 | The Mists of Ravenloft | 0.20% | ~179 |
 | Invisible Shadows | 0.20% | ~179 |
@@ -80,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~179 |
 | The Death Curse | 0.20% | ~179 |
 | Nimble Escape | 0.20% | ~179 |
+| Fugitives | 0.20% | ~179 |
 | Premature Betrayal | 0.20% | ~179 |
 | A Tale of Two Cities | 0.20% | ~179 |
 | The Dead Three | 0.20% | ~179 |
@@ -216,7 +218,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.10% | ~89 |
 | Vajra's Guards | 0.10% | ~89 |
 | The Newcomers of Notoriety | 0.10% | ~56 |
-| A Grand Puzzle | 0.10% | ~89 |
 | Never Split the Party | 0.10% | ~89 |
 | Azaka's Procession - Part 1 | 0.10% | ~89 |
 | Snakes on our Plane | 0.10% | ~56 |
@@ -278,7 +279,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.10% | ~89 |
 | Stumbling Escape | 0.10% | ~89 |
 | Distracted Escape | 0.10% | ~56 |
-| Fugitives | 0.10% | ~89 |
 | From The Shadows | 0.10% | ~89 |
 | Spined Nuisances | 0.10% | ~89 |
 | Twilight Twist | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,398 (Ranked 61)  
+Progressed: 89,404 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,398 | 1,905 |
+| 2023-06-01 | 89,404 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,011 (Ranked 37)  

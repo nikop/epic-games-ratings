@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 995,
+  "EOS_Progressed": 996,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -283,6 +283,11 @@
       "Time": "2023-05-31T20:06:18.8464706+00:00",
       "NumProgressed": 995,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T15:06:17.84763+00:00",
+      "NumProgressed": 996,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -390,7 +395,7 @@
       "Name": "Martian explorer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -430,7 +435,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CAREERCLASSA",
@@ -526,7 +531,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FLYLONG",
@@ -709,7 +714,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 995,
+      "Progressed": 996,
       "Completed": 0
     }
   ],
@@ -717,8 +722,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:05:33.8441033+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:06:17.8476294+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.3827086+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:58:00.6982528+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:33.8441522+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:58:10.2601951+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:06:17.8476667+00:00"
 }

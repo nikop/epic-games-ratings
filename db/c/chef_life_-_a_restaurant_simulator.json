@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1307,9 +1307,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ServiceMaxClient",
@@ -1412,8 +1412,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:02:11.955863+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:02:23.1862361+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:58:15.1346858+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:02:11.9559011+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:58:26.9512593+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:02:23.1862649+00:00"
 }

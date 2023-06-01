@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 459563,
+  "EOS_Progressed": 459568,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4588,6 +4588,11 @@
       "Time": "2023-06-01T14:05:42.6618879+00:00",
       "NumProgressed": 459563,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-01T15:06:27.5279652+00:00",
+      "NumProgressed": 459568,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -5119,7 +5124,7 @@
       "Name": "The Blade",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_unlock_officer_phalanx_2",
@@ -5127,7 +5132,7 @@
       "Name": "The Ghost",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_unlock_officer_pragmah_1",
@@ -5135,7 +5140,7 @@
       "Name": "The Extractor",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_unlock_officer_pragmah_2",
@@ -5143,7 +5148,7 @@
       "Name": "The Executioner",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_unlock_phalanx_battleship",
@@ -5151,7 +5156,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -5159,7 +5164,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -5167,7 +5172,7 @@
       "Name": "Savior",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_hard",
@@ -5175,7 +5180,7 @@
       "Name": "The God of War",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_easy_normal",
@@ -5183,7 +5188,7 @@
       "Name": "Horus Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_hard",
@@ -5191,7 +5196,7 @@
       "Name": "Horus Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_easy_normal",
@@ -5199,7 +5204,7 @@
       "Name": "Kronos Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_hard",
@@ -5207,7 +5212,7 @@
       "Name": "Kronos Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_run_with_phalanx",
@@ -5215,7 +5220,7 @@
       "Name": "Horus Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_win_run_with_pragmah",
@@ -5223,28 +5228,28 @@
       "Name": "Kronos Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 3497,
+      "Progressed": 3502,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 459563,
+      "Progressed": 459568,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:05:42.6618874+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:06:27.5279648+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:47.654546+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:58:56.3722416+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:42.6620015+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:59:16.0615632+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:06:27.5280634+00:00"
 }

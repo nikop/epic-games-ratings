@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -801,9 +801,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 212
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -977,9 +977,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     },
     {
       "ID": "LacunaCompleted",
@@ -1224,8 +1224,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:04:45.314751+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:05:23.890456+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:59:05.2829083+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:04:45.3148072+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:59:27.2101922+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:05:23.8904942+00:00"
 }

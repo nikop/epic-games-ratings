@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 78.00% | ~28 |
-| Accessory Unlocked | 78.00% | ~28 |
-| Character Unlocked | 75.00% | ~27 |
-| Kickball Unlocked | 67.00% | ~24 |
-| Homer | 67.00% | ~24 |
-| Have a good trip! | 61.00% | ~22 |
-| First Win | 58.00% | ~21 |
-| Stay Hydrated | 53.00% | ~19 |
-| Settle Down | 50.00% | ~18 |
-| Butter Fingers | 42.00% | ~15 |
-| True Story! | 33.00% | ~12 |
-| Kick It | 28.00% | ~10 |
-| Grand Slam! | 25.00% | ~9 |
+| Hat Unlocked | 78.00% | ~29 |
+| Accessory Unlocked | 78.00% | ~29 |
+| Character Unlocked | 76.00% | ~28 |
+| Kickball Unlocked | 65.00% | ~24 |
+| Homer | 65.00% | ~24 |
+| Have a good trip! | 62.00% | ~23 |
+| First Win | 57.00% | ~21 |
+| Stay Hydrated | 54.00% | ~20 |
+| Settle Down | 49.00% | ~18 |
+| Butter Fingers | 43.00% | ~16 |
+| True Story! | 32.00% | ~12 |
+| Kick It | 27.00% | ~10 |
+| Grand Slam! | 24.00% | ~9 |
 | Have Mercy | 22.00% | ~8 |
 | Bedroom Secret Spot | 19.00% | ~7 |
 | Save some water for the fishies | 19.00% | ~7 |
@@ -25,11 +25,11 @@
 | Classroom Secret Spot | 8.00% | ~3 |
 | Kitchen Secret Spot | 8.00% | ~3 |
 | Just how we drew it up | 8.00% | ~3 |
-| Basement Secret Spot | 6.00% | ~2 |
-| Living Room Secret Spot | 6.00% | ~2 |
-| Found the Secret Formula! | 6.00% | ~2 |
-| Angry Dad | 6.00% | ~2 |
-| At least everyone still had fun | 6.00% | ~2 |
+| Basement Secret Spot | 5.00% | ~2 |
+| Living Room Secret Spot | 5.00% | ~2 |
+| Found the Secret Formula! | 5.00% | ~2 |
+| Angry Dad | 5.00% | ~2 |
+| At least everyone still had fun | 5.00% | ~2 |
 | Garage Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
 | Goooooooooal! | 3.00% | ~1 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 310)  
+Progressed: 37 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,3 +58,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 31 | 0 |
 | 2023-05-30 | 35 | 0 |
 | 2023-05-31 | 36 | 0 |
+| 2023-06-01 | 37 | 0 |

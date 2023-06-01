@@ -15,9 +15,9 @@ Rating: 4.45 (Ranked 608)
 | Ride in the rising sun | 16.00% | ~159 |
 | Suit up | 16.00% | ~159 |
 | Walked like an Egyptian | 15.00% | ~149 |
-| Martian explorer | 12.00% | ~119 |
-| Rookie No-No More | 12.00% | ~119 |
-| Running at the speed of sound | 12.00% | ~119 |
+| Martian explorer | 12.00% | ~120 |
+| Rookie No-No More | 12.00% | ~120 |
+| Running at the speed of sound | 12.00% | ~120 |
 | To the core | 9.00% | ~90 |
 | Blurred photofinish | 9.00% | ~90 |
 | EZ game EZ life | 7.00% | ~70 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 608)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 995 (Ranked 170)  
+Progressed: 996 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 991 | 0 |
 | 2023-05-30 | 992 | 0 |
 | 2023-05-31 | 995 | 0 |
+| 2023-06-01 | 996 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

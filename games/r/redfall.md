@@ -5,16 +5,16 @@ Rating: 3.46 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 76.00% | ~1,254 |
-| Home Is Where the Heart Is | 60.00% | ~990 |
+| I Like My Stakes Rare! | 76.00% | ~1,255 |
+| Home Is Where the Heart Is | 60.00% | ~991 |
 | Ne Plus Ultra | 59.00% | ~974 |
 | Wounded Whispers | 59.00% | ~974 |
-| Blood Will Have Blood | 49.00% | ~808 |
-| ICU | 45.00% | ~742 |
+| Blood Will Have Blood | 49.00% | ~809 |
+| ICU | 45.00% | ~743 |
 | Peek-a-boo | 43.00% | ~710 |
 | Catch and Release | 43.00% | ~710 |
 | Sucks To Be You | 42.00% | ~693 |
-| Welcome to the Neighborhood | 37.00% | ~610 |
+| Welcome to the Neighborhood | 37.00% | ~611 |
 | Fly Fisher | 34.00% | ~561 |
 | Throw The First Stone | 34.00% | ~561 |
 | Enter of Your Own Free Will | 31.00% | ~512 |
@@ -29,7 +29,7 @@ Rating: 3.46 (Ranked 929)
 | You Clean It Up | 11.00% | ~182 |
 | Block Party | 8.00% | ~132 |
 | Starve the Beast | 8.00% | ~132 |
-| From the Shadows | 5.00% | ~82 |
+| From the Shadows | 5.00% | ~83 |
 | Bell-ringer | 4.00% | ~66 |
 | Right This Way | 4.00% | ~66 |
 | Nice Try | 4.00% | ~66 |
@@ -48,11 +48,11 @@ Rating: 3.46 (Ranked 929)
 | Dexterity Save | 2.00% | ~33 |
 | Curious Finch | 2.00% | ~33 |
 | Friends 'Til The End | 2.00% | ~33 |
-| Neighborhood Watch | 1.00% | ~16 |
-| Monster Hunters Club | 1.00% | ~16 |
-| Friendgineering | 1.00% | ~16 |
-| Bloody Initiate | 1.00% | ~16 |
-| Under a Bushel | 1.00% | ~16 |
+| Neighborhood Watch | 1.00% | ~17 |
+| Monster Hunters Club | 1.00% | ~17 |
+| Friendgineering | 1.00% | ~17 |
+| Bloody Initiate | 1.00% | ~17 |
+| Under a Bushel | 1.00% | ~17 |
 | Ask Not For Whom The Horns Blow | 0.80% | ~13 |
 | Sisterhood | 0.70% | ~12 |
 | What Lies Below | 0.70% | ~12 |
@@ -72,7 +72,7 @@ Rating: 3.46 (Ranked 929)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,650 (Ranked 154)  
+Progressed: 1,651 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 1,640 | 0 |
 | 2023-05-30 | 1,647 | 0 |
 | 2023-05-31 | 1,650 | 0 |
+| 2023-06-01 | 1,651 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

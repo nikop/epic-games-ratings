@@ -1328,9 +1328,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63098,
+  "EOS_Progressed": 63103,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1098,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4628,6 +4628,11 @@
       "Time": "2023-06-01T14:05:44.5211936+00:00",
       "NumProgressed": 63098,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-06-01T15:06:29.7008218+00:00",
+      "NumProgressed": 63103,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 61,
@@ -5103,7 +5108,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -5126,13 +5131,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63098,
+      "Progressed": 63103,
       "Completed": 92
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33378,
+      "Progressed": 33383,
       "Completed": 2644
     }
   ],
@@ -5140,8 +5145,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-01T13:07:43.8627268+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:05:44.5211929+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:06:29.7008211+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:59:21.0135192+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:44.5212771+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:59:48.0987706+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:06:29.7008856+00:00"
 }

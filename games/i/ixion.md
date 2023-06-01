@@ -47,10 +47,10 @@ Rating: 4.57 (Ranked 438)
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |
 | Help of the Forgotten Member | 0.50% | ~12 |
+| Tiqqun Contender | 0.40% | ~9 |
 | Gregor Spinoza | 0.40% | ~9 |
 | Scientifically Accurate | 0.40% | ~9 |
 | Better Him Than Me | 0.30% | ~7 |
-| Tiqqun Contender | 0.30% | ~7 |
 | Soylent Green | 0.30% | ~7 |
 | Remember the Dead | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |

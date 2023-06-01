@@ -614,9 +614,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "Chapter3",
@@ -869,8 +869,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:05:15.4426332+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:05:57.9646495+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:57:42.3556404+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:15.4426655+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:57:47.8022775+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:05:57.9646719+00:00"
 }

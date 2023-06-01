@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2819,
+  "EOS_Progressed": 2820,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1478,6 +1478,11 @@
       "Time": "2023-06-01T14:05:42.6778488+00:00",
       "NumProgressed": 2819,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T15:06:27.7979881+00:00",
+      "NumProgressed": 2820,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1737,7 +1742,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1960,21 +1965,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2819,
+      "Progressed": 2820,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2819,
+      "Progressed": 2820,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:05:42.6778483+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:06:27.7979877+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:58:27.7303878+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:42.6779095+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:58:41.4568409+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:06:27.7980373+00:00"
 }

@@ -46,8 +46,8 @@
 | Your daily dose of Vitamin C. | 22.00% | ~15 |
 | Kleptomaniac | 22.00% | ~15 |
 | I cant stand still! | 20.00% | ~14 |
+| Just wing it! | 17.00% | ~12 |
 | Master Butcher | 16.00% | ~11 |
-| Just wing it! | 16.00% | ~11 |
 | Slimy... yet satisfying | 16.00% | ~11 |
 | Deal with it | 14.00% | ~10 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~9 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 290)  
+Progressed: 69 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |

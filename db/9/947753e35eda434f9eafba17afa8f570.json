@@ -2,7 +2,7 @@
   "ID": "947753e35eda434f9eafba17afa8f570",
   "Name": "Alekon",
   "ProductSlug": "alekon-b2faec",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 86,
@@ -277,9 +277,9 @@
       "ID": "ACH_35_GROUP_PHOTO",
       "SetID": "2k150c1",
       "Name": "Group Photo",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_36_FLYING_BULLET_TIME",
@@ -379,8 +379,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:04:21.038604+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:04:54.9792965+00:00",
   "LastUpdate_AppInfo": "2023-05-27T14:56:56.8528775+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:57:14.8202815+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:04:21.0386352+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:57:14.6788112+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:04:54.9793212+00:00"
 }

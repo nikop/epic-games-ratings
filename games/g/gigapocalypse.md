@@ -41,7 +41,7 @@
 | Lunch Before The Lunch | 18.00% | ~24 |
 | Building Blocks | 17.00% | ~22 |
 | From Here To Eternity | 15.00% | ~20 |
-| Boss Hunter | 13.00% | ~17 |
+| Boss Hunter | 14.00% | ~18 |
 | Octopostructure | 12.00% | ~16 |
 | Annihilate | 8.00% | ~11 |
 | Hawkman | 8.00% | ~11 |

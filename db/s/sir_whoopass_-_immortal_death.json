@@ -2,7 +2,7 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 86,
@@ -609,9 +609,9 @@
       "ID": "FLAPPY_KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "Just wing it!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FUNGOID_1",
@@ -968,8 +968,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-01T14:05:30.2015417+00:00",
+  "LastChanged_Achievements": "2023-06-01T15:06:13.8164867+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:57:13.9229569+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:05:30.201635+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:57:13.6389076+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:06:13.8165726+00:00"
 }

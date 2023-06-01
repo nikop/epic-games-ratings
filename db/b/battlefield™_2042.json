@@ -2,7 +2,7 @@
   "ID": "52f57f57120c440fad9bfa0e6c279317",
   "Name": "Battlefield\u2122 2042",
   "ProductSlug": "battlefield-2042",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 86,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.4915207+00:00",
   "LastChanged": "2023-03-31T05:58:10.4915208+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:30.9387197+00:00",
-  "LastUpdate_Ratings": "2023-06-01T13:57:38.7211068+00:00",
-  "LastUpdate_Achievements": "2023-06-01T14:02:35.2064469+00:00"
+  "LastUpdate_Ratings": "2023-06-01T14:57:44.312078+00:00",
+  "LastUpdate_Achievements": "2023-06-01T15:03:19.712944+00:00"
 }

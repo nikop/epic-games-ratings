@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 48.00% | ~9 |
-| Survivor | 38.00% | ~7 |
+| Aspairagus | 47.00% | ~9 |
+| Survivor | 37.00% | ~7 |
 | No Diggity | 36.00% | ~7 |
-| Early Survivor | 32.00% | ~6 |
-| Seeds of War | 29.00% | ~20 |
-| Bouncemato | 23.00% | ~4 |
-| Amateur Survivor | 23.00% | ~4 |
-| First Blood | 22.00% | ~15 |
+| Early Survivor | 31.00% | ~6 |
+| Seeds of War | 30.00% | ~21 |
+| Bouncemato | 23.00% | ~5 |
+| Amateur Survivor | 23.00% | ~5 |
+| First Blood | 21.00% | ~15 |
 | I Believe I Can Fly | 19.00% | ~13 |
 | Quick-Draw Pod | 19.00% | ~4 |
 | No Asperascope | 17.00% | ~12 |
 | Cornivore | 17.00% | ~12 |
 | Triple Kill | 16.00% | ~11 |
 | Grave Digger | 14.00% | ~3 |
-| Professional Survivor | 13.00% | ~2 |
-| 15K | 12.00% | ~8 |
-| 10K | 12.00% | ~8 |
+| Professional Survivor | 13.00% | ~3 |
+| 15K | 11.00% | ~8 |
+| 10K | 11.00% | ~8 |
 | Drinking Problem | 10.00% | ~7 |
 | Perfect | 10.00% | ~2 |
 | Oh My Gourd | 9.00% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 290)  
+Progressed: 70 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 65 | 0 |
 | 2023-05-29 | 66 | 0 |
 | 2023-05-30 | 67 | 0 |
-| 2023-06-01 | 69 | 0 |
+| 2023-06-01 | 70 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

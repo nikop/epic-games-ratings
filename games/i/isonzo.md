@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,237 |
-| Tutti Eroi! | 54.00% | ~3,237 |
-| You Shall Not Pass | 52.00% | ~3,117 |
+| Peak Performance | 54.00% | ~3,238 |
+| Tutti Eroi! | 54.00% | ~3,238 |
+| You Shall Not Pass | 52.00% | ~3,118 |
 | Avanti Savoia! | 46.00% | ~2,758 |
-| Conrad von Hotzensocks | 36.00% | ~2,158 |
-| Mamma Mia! | 36.00% | ~2,158 |
-| Gabriele D'Annunzio | 32.00% | ~1,918 |
+| Conrad von Hotzensocks | 36.00% | ~2,159 |
+| Mamma Mia! | 36.00% | ~2,159 |
+| Gabriele D'Annunzio | 32.00% | ~1,919 |
 | Silver Lining | 28.00% | ~1,679 |
 | Aurelio Baruzzi | 22.00% | ~1,319 |
 | Veni Vidi Vici | 21.00% | ~1,259 |
@@ -26,11 +26,11 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 13.00% | ~779 |
 | Luigi Cadorna | 13.00% | ~779 |
 | Uomo Universale | 13.00% | ~779 |
-| Machiavelli | 12.00% | ~719 |
-| Shaken, Not Stirred | 12.00% | ~719 |
-| Dante's Inferno | 11.00% | ~659 |
-| Die Bosniaken Kommen! | 11.00% | ~659 |
-| The Devil's Paintbrush | 11.00% | ~659 |
+| Machiavelli | 12.00% | ~720 |
+| Shaken, Not Stirred | 12.00% | ~720 |
+| Dante's Inferno | 11.00% | ~660 |
+| Die Bosniaken Kommen! | 11.00% | ~660 |
+| The Devil's Paintbrush | 11.00% | ~660 |
 | I Have the High Ground | 9.00% | ~540 |
 | Millenial | 9.00% | ~540 |
 | The Show Must Go On | 8.00% | ~480 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~24 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,995 (Ranked 120)  
+Progressed: 5,996 (Ranked 120)  
 Completed: 8 (0.13%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,11 +91,11 @@ Completed: 8 (0.13%) (Ranked 155)
 | 2023-05-29 | 5,952 | 8 |
 | 2023-05-30 | 5,961 | 8 |
 | 2023-05-31 | 5,977 | 8 |
-| 2023-06-01 | 5,995 | 8 |
+| 2023-06-01 | 5,996 | 8 |
 ## Awards
-Max (Highly Recommended): 31  (Ranked 441)  
+Max (Highly Recommended): 31  (Ranked 442)  
 Sum: 240 (Ranked 343)  
-Diff (max vs sum): 98  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |
