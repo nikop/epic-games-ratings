@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~595 |
+| Good start | 76.00% | ~596 |
 | And so it begins | 72.00% | ~564 |
-| No pressure | 69.00% | ~540 |
+| No pressure | 69.00% | ~541 |
 | Memento | 61.00% | ~478 |
-| Let there be light | 58.00% | ~454 |
+| Let there be light | 58.00% | ~455 |
 | I think you dropped this | 54.00% | ~423 |
-| Soulmate? | 52.00% | ~407 |
+| Soulmate? | 52.00% | ~408 |
 | Excellent service | 48.00% | ~376 |
-| Roll with it | 45.00% | ~352 |
-| Love is in the air | 44.00% | ~345 |
+| Roll with it | 45.00% | ~353 |
 | Humble beginnings | 43.00% | ~337 |
+| Love is in the air | 43.00% | ~337 |
 | Moving up | 41.00% | ~321 |
-| Fine, I'll do it myself | 40.00% | ~313 |
+| Fine, I'll do it myself | 40.00% | ~314 |
 | No need to call anyone | 38.00% | ~298 |
 | Big fortune | 32.00% | ~251 |
-| Still more work ahead | 28.00% | ~219 |
-| Hotel sleuthing | 27.00% | ~211 |
+| Still more work ahead | 28.00% | ~220 |
+| Hotel sleuthing | 27.00% | ~212 |
 | Aesop's fable | 26.00% | ~204 |
 | Kaboom | 25.00% | ~196 |
 | Nearly there | 24.00% | ~188 |
@@ -33,7 +33,7 @@ Rating: 4.52 (Ranked 509)
 | King of hospitality | 10.00% | ~78 |
 | Top spot in town | 2.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 783 (Ranked 181)  
+Progressed: 784 (Ranked 181)  
 Completed: 11 (1.40%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 11 (1.40%) (Ranked 75)
 | 2023-05-29 | 778 | 11 |
 | 2023-05-30 | 781 | 11 |
 | 2023-05-31 | 783 | 11 |
+| 2023-06-01 | 784 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

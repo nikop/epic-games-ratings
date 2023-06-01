@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~110 |
 | Starting Skyward | 52.00% | ~99 |
-| Grime is Not Good | 46.00% | ~87 |
-| Campaign Launch | 40.00% | ~76 |
-| Dinner Dash | 39.00% | ~74 |
+| Grime is Not Good | 47.00% | ~89 |
+| Campaign Launch | 41.00% | ~78 |
+| Dinner Dash | 40.00% | ~76 |
 | Floor Galore | 38.00% | ~72 |
-| It's Technical | 35.00% | ~66 |
+| It's Technical | 36.00% | ~68 |
 | Need a Consult | 34.00% | ~65 |
 | Upgrade Unlock | 34.00% | ~65 |
 | Delegate Maintenance | 33.00% | ~63 |
@@ -23,12 +23,12 @@
 | Lux Living | 22.00% | ~42 |
 | People Mover | 22.00% | ~42 |
 | Retail Revenue | 22.00% | ~42 |
+| Rehab Expert | 21.00% | ~40 |
 | Don't Feel a Loan | 21.00% | ~40 |
 | Emporium Empire | 21.00% | ~40 |
 | Leveled Up Shops | 21.00% | ~40 |
 | Get Electrified | 21.00% | ~40 |
-| Rehab Expert | 20.00% | ~38 |
-| Artfully Done | 19.00% | ~36 |
+| Artfully Done | 20.00% | ~38 |
 | Tasty Profits | 19.00% | ~36 |
 | Cashflow Chief | 18.00% | ~34 |
 | Under One Roof | 17.00% | ~32 |

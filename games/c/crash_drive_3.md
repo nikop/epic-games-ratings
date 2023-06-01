@@ -9,8 +9,8 @@
 | Amateur Mechanic | 32.00% | ~101 |
 | Pushover | 32.00% | ~101 |
 | A Forest Walk | 32.00% | ~101 |
-| C-C-C-Combo! | 30.00% | ~94 |
-| Multiply that! | 30.00% | ~94 |
+| C-C-C-Combo! | 30.00% | ~95 |
+| Multiply that! | 30.00% | ~95 |
 | Fore! | 27.00% | ~85 |
 | Insurance fraud | 27.00% | ~85 |
 | Snow Fun! | 27.00% | ~85 |
@@ -26,18 +26,18 @@
 | Take that Frosty! | 24.00% | ~76 |
 | Goodbye cruel world | 24.00% | ~76 |
 | Beach Party! | 24.00% | ~76 |
-| Car-Tapult | 23.00% | ~72 |
-| Anger Issues | 23.00% | ~72 |
-| Your Highness | 23.00% | ~72 |
-| Event Amateur | 22.00% | ~69 |
+| Car-Tapult | 23.00% | ~73 |
+| Anger Issues | 23.00% | ~73 |
+| Your Highness | 23.00% | ~73 |
+| Event Amateur | 22.00% | ~70 |
 | Feeling Dizzy? | 21.00% | ~66 |
 | Drift King! | 20.00% | ~63 |
 | Feeling Hot Hot Hot! | 20.00% | ~63 |
 | Ferry Good! | 19.00% | ~60 |
 | Assert Dominance | 19.00% | ~60 |
 | Speed of light | 19.00% | ~60 |
-| Out of this League | 17.00% | ~54 |
-| Special Forces | 16.00% | ~50 |
+| Special Forces | 16.00% | ~51 |
+| Out of this League | 16.00% | ~51 |
 | Toot Toot! | 14.00% | ~44 |
 | Blasting away! | 14.00% | ~44 |
 | High Roller | 13.00% | ~41 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 219)  
+Progressed: 316 (Ranked 219)  
 Completed: 2 (0.63%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 2 (0.63%) (Ranked 105)
 | 2023-05-26 | 313 | 2 |
 | 2023-05-28 | 314 | 2 |
 | 2023-05-29 | 315 | 2 |
+| 2023-06-01 | 316 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

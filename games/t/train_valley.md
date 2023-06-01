@@ -22,7 +22,7 @@ Number of Ratings: 28  (23.09.2022)
 | Ouroboros | 26.00% | ~75 |
 | Non Stop! | 26.00% | ~75 |
 | Madness! | 25.00% | ~72 |
-| Foreman | 23.00% | ~66 |
+| Foreman | 24.00% | ~69 |
 | Missed it! | 23.00% | ~66 |
 | Russia | 20.00% | ~58 |
 | America | 18.00% | ~52 |

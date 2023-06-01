@@ -4344,9 +4344,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706636,
+  "EOS_Progressed": 706649,
   "EOS_Completed": 12749,
-  "EOS_NewPlayers": 1511,
+  "EOS_NewPlayers": 1513,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8069,6 +8069,11 @@
       "Time": "2023-06-01T12:06:47.11392+00:00",
       "NumProgressed": 706636,
       "NumCompleted": 12749
+    },
+    {
+      "Time": "2023-06-01T13:14:17.5585102+00:00",
+      "NumProgressed": 706649,
+      "NumCompleted": 12749
     }
   ],
   "TotalAchievements": 50,
@@ -8168,7 +8173,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4947
     },
     {
       "ID": "13_LowAge",
@@ -8286,9 +8291,9 @@
       "ID": "27_ShrineBody",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Essence",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6360
+      "UsersEstimate": 7066
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -8352,7 +8357,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4947
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -8424,7 +8429,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8432,7 +8437,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -8464,7 +8469,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -8479,21 +8484,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 15937,
+      "Progressed": 15950,
       "Completed": 10209
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706636,
+      "Progressed": 706649,
       "Completed": 12749
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-01T11:59:30.5210884+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:06:47.1139195+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:14:17.5585096+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T11:59:30.5210895+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:06:47.1139887+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:06:43.4919394+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:14:17.5585892+00:00"
 }

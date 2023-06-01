@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2023-06-01T10:05:09.8727874+00:00",
       "NumProgressed": 556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T13:13:00.3514523+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -804,9 +809,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 111
     },
     {
       "ID": "ChestCompletion1",
@@ -852,9 +857,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 61
     },
     {
       "ID": "CosmeticProgress1",
@@ -870,7 +875,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "EntresolChests1",
@@ -886,7 +891,7 @@
       "Name": "Family Memories",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "FactorywoodChests1",
@@ -942,7 +947,7 @@
       "Name": "Whiz Kid",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "GrindingTime1",
@@ -972,9 +977,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 150
     },
     {
       "ID": "LacunaCompleted",
@@ -982,7 +987,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MapCompletion1",
@@ -1030,15 +1035,15 @@
       "Name": "Time Flies",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 278
     },
     {
       "ID": "ParryRepeated1",
@@ -1046,15 +1051,15 @@
       "Name": "No, Thanks!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 240
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1062,7 +1067,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "PidgeDefeated",
@@ -1078,7 +1083,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "RewindParry",
@@ -1094,7 +1099,7 @@
       "Name": "Golem Hunter",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ScrambotProgress1",
@@ -1102,7 +1107,7 @@
       "Name": "Golem Chaser",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "SkillCompletion1",
@@ -1158,7 +1163,7 @@
       "Name": "Theater Explorer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1190,7 +1195,7 @@
       "Name": "Good Neighbor",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1213,14 +1218,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:05:40.3644874+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:13:00.3514516+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-01T11:59:57.5922246+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:05:40.3645364+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:07:19.8843563+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:13:00.3515368+00:00"
 }

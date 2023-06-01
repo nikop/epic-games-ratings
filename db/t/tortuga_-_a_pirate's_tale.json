@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15469,
+  "EOS_Progressed": 15470,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1478,6 +1478,11 @@
       "Time": "2023-06-01T09:05:48.7514297+00:00",
       "NumProgressed": 15469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T13:14:16.5987302+00:00",
+      "NumProgressed": 15470,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1497,7 +1502,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13458
+      "UsersEstimate": 13459
     },
     {
       "ID": "ACH0010",
@@ -1561,7 +1566,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH0018",
@@ -1569,7 +1574,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "ACH0019",
@@ -1649,7 +1654,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13613
+      "UsersEstimate": 13614
     },
     {
       "ID": "ACH005",
@@ -1665,7 +1670,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "ACH007",
@@ -1696,7 +1701,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15469,
+      "Progressed": 15470,
       "Completed": 0
     }
   ],
@@ -1704,8 +1709,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-29T21:59:47.6963299+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:06:46.2518381+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:14:16.5987294+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.042634+00:00",
-  "LastUpdate_Ratings": "2023-06-01T12:00:49.5550502+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:06:46.2518623+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:08:23.359128+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:14:16.5987682+00:00"
 }

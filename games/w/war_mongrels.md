@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~186 |
-| Cowardice | 54.00% | ~162 |
+| Explorer | 62.00% | ~187 |
+| Cowardice | 54.00% | ~163 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~147 |
 | Eat Lead! | 48.00% | ~144 |
 | Here Comes the Boom | 44.00% | ~132 |
@@ -18,16 +18,16 @@ Number of Ratings: 34  (23.09.2022)
 | Missing in Action | 36.00% | ~108 |
 | The Motivation | 35.00% | ~105 |
 | Heroism | 33.00% | ~99 |
+| Collectibles of Chapter I | 32.00% | ~96 |
 | King of Knives | 32.00% | ~96 |
-| Collectibles of Chapter I | 31.00% | ~93 |
 | Consequences | 29.00% | ~87 |
 | Opportunities | 28.00% | ~84 |
 | The Horror | 27.00% | ~81 |
 | Collectibles of Chapter II | 24.00% | ~72 |
 | The Difference | 23.00% | ~69 |
 | Vengeance | 22.00% | ~66 |
+| It's Just an Accident | 20.00% | ~60 |
 | Broken Hopes | 19.00% | ~57 |
-| It's Just an Accident | 19.00% | ~57 |
 | Food Massacre | 19.00% | ~57 |
 | Bullseye! | 19.00% | ~57 |
 | Collectibles of Chapter III | 16.00% | ~48 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 222)  
+Progressed: 301 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 296 | 0 |
 | 2023-05-30 | 297 | 0 |
 | 2023-05-31 | 300 | 0 |
+| 2023-06-01 | 301 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

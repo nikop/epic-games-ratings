@@ -6,26 +6,26 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~549 |
-| I did it! | 94.00% | ~532 |
-| Learner | 91.00% | ~515 |
-| Economical | 91.00% | ~515 |
-| Devout | 89.00% | ~504 |
-| The Love Martyr | 87.00% | ~492 |
-| Frugal | 85.00% | ~481 |
-| Dilligent | 82.00% | ~464 |
-| I... I did it? | 80.00% | ~453 |
-| Adored | 75.00% | ~424 |
-| The Hobbyist | 64.00% | ~362 |
+| Objective Complete | 97.00% | ~550 |
+| I did it! | 94.00% | ~533 |
+| Learner | 91.00% | ~516 |
+| Economical | 91.00% | ~516 |
+| Devout | 89.00% | ~505 |
+| The Love Martyr | 87.00% | ~493 |
+| Frugal | 85.00% | ~482 |
+| Dilligent | 82.00% | ~465 |
+| I... I did it? | 80.00% | ~454 |
+| Adored | 75.00% | ~425 |
+| The Hobbyist | 64.00% | ~363 |
 | A Forked Tongue | 54.00% | ~306 |
 | Between Two Fires | 51.00% | ~289 |
-| The Admirer | 51.00% | ~289 |
+| The Admirer | 50.00% | ~284 |
 | Precious | 44.00% | ~249 |
 | Devoted | 41.00% | ~232 |
-| The Farmer | 39.00% | ~221 |
-| Ever After | 36.00% | ~204 |
-| Loyal | 28.00% | ~158 |
-| Mandatory Sacrifice | 28.00% | ~158 |
+| The Farmer | 38.00% | ~215 |
+| Ever After | 35.00% | ~198 |
+| Loyal | 28.00% | ~159 |
+| Mandatory Sacrifice | 28.00% | ~159 |
 | The Collector | 24.00% | ~136 |
 | All Doors Open | 20.00% | ~113 |
 | Faithful | 10.00% | ~57 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 566 (Ranked 195)  
+Progressed: 567 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-28 | 561 | 0 |
 | 2023-05-29 | 563 | 0 |
 | 2023-05-30 | 565 | 0 |
-| 2023-06-01 | 566 | 0 |
+| 2023-06-01 | 567 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

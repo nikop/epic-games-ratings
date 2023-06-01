@@ -6,7 +6,7 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,394 |
+| Level: Returning Home | 50.00% | ~2,443 |
 | Returning Home: Quick Learner | 25.00% | ~1,222 |
 | Level: Charlie's Circuits | 22.00% | ~1,075 |
 | Level: Rising Markets | 9.00% | ~440 |

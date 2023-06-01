@@ -5,29 +5,29 @@ Rating: 4.78 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,125 |
-| No more cages! | 92.00% | ~2,058 |
-| Everfrost | 77.00% | ~1,722 |
-| Pentakill | 76.00% | ~1,700 |
-| Dark Forest | 76.00% | ~1,700 |
+| For Demacia | 95.00% | ~2,126 |
+| No more cages! | 92.00% | ~2,059 |
+| Everfrost | 77.00% | ~1,723 |
+| Pentakill | 76.00% | ~1,701 |
+| Dark Forest | 76.00% | ~1,701 |
 | The use of petricite | 72.00% | ~1,611 |
-| You can pet the dog | 60.00% | ~1,342 |
+| You can pet the dog | 60.00% | ~1,343 |
 | Big Helmet Bro | 35.00% | ~783 |
 | Clarion Cove | 35.00% | ~783 |
-| Past trauma | 33.00% | ~738 |
-| Thornbarrow | 33.00% | ~738 |
-| Ternmoat Headquarters | 33.00% | ~738 |
-| Elemental master | 31.00% | ~693 |
-| Cypress Glen Headquarters | 31.00% | ~693 |
+| Past trauma | 33.00% | ~739 |
+| Thornbarrow | 33.00% | ~739 |
+| Ternmoat Headquarters | 33.00% | ~739 |
+| Elemental master | 31.00% | ~694 |
+| Cypress Glen Headquarters | 31.00% | ~694 |
 | Old friend | 27.00% | ~604 |
 | Petricite Burst | 27.00% | ~604 |
 | Devineur | 26.00% | ~582 |
-| Whispers in the Woods I | 25.00% | ~559 |
-| Hijack | 25.00% | ~559 |
+| Whispers in the Woods I | 25.00% | ~560 |
+| Hijack | 25.00% | ~560 |
 | Ancient power | 23.00% | ~515 |
 | I chose my shackles | 22.00% | ~492 |
 | Sacred Woods | 21.00% | ~470 |
-| Capelworth | 20.00% | ~447 |
+| Capelworth | 20.00% | ~448 |
 | Little light | 19.00% | ~425 |
 | Iffighain Headquarters | 19.00% | ~425 |
 | Glyndemere | 18.00% | ~403 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 99)
 | Silverwing nest | 2.00% | ~45 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,237 (Ranked 146)  
+Progressed: 2,238 (Ranked 146)  
 Completed: 1 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.04%) (Ranked 180)
 | 2023-05-29 | 2,216 | 1 |
 | 2023-05-30 | 2,226 | 1 |
 | 2023-05-31 | 2,234 | 1 |
-| 2023-06-01 | 2,237 | 1 |
+| 2023-06-01 | 2,238 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

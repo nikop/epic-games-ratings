@@ -16,8 +16,8 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 12.00% | ~68 |
 | Scion | 11.00% | ~17 |
 | Yank | 11.00% | ~62 |
+| Sharpened Vessel | 11.00% | ~62 |
 | Glare | 10.00% | ~15 |
-| Sharpened Vessel | 10.00% | ~57 |
 | Host | 9.00% | ~14 |
 | Jawcrab | 9.00% | ~51 |
 | Feast | 9.00% | ~51 |

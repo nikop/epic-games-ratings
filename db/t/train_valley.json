@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "ID": "18_foreman",
       "SetID": "chb1m60",
       "Name": "Foreman",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "19_justintime",
@@ -517,8 +517,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:04:46.4940918+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:11:57.2493853+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:29.5718751+00:00",
-  "LastUpdate_Ratings": "2023-06-01T11:58:00.9021401+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:04:46.494121+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:05:00.3464647+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:11:57.2494284+00:00"
 }

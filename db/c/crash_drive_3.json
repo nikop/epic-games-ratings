@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -141,6 +141,11 @@
       "Time": "2023-05-29T20:03:51.9237544+00:00",
       "NumProgressed": 315,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T13:11:22.9403749+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -176,7 +181,7 @@
       "Name": "Car-Tapult",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "COIN_COLLECT",
@@ -224,7 +229,7 @@
       "Name": "Special Forces",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -320,7 +325,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -328,7 +333,7 @@
       "Name": "Anger Issues",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -392,7 +397,7 @@
       "Name": "Your Highness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEFT_LEVEL",
@@ -440,7 +445,7 @@
       "Name": "Multiply that!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -478,9 +483,9 @@
       "ID": "STUNT_SCORE_DOUBLE",
       "SetID": "20koof9",
       "Name": "Out of this League",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 51
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -528,7 +533,7 @@
       "Name": "Event Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -591,7 +596,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 2
     }
   ],
@@ -599,8 +604,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:04:16.903129+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:11:22.9403743+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.3349929+00:00",
-  "LastUpdate_Ratings": "2023-06-01T11:59:12.4047587+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:04:16.9031794+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:06:23.812318+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:11:22.9404497+00:00"
 }

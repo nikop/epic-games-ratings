@@ -25,7 +25,7 @@ Rating: 3.80 (Ranked 917)
 | “Aliens” | 2.00% | ~21 |
 | Plumber | 1.00% | ~11 |
 | To infinity and beyond! | 0.90% | ~10 |
-| Hard Landing | 0.70% | ~7 |
+| Hard Landing | 0.80% | ~8 |
 | Driver's License | 0.60% | ~6 |
 | Explosive Miner | 0.50% | ~5 |
 | Caveman | 0.50% | ~5 |

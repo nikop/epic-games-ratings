@@ -1,14 +1,14 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 629)  
+Rating: 4.45 (Ranked 608)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~497 |
+| Meeting Resistance | 24.00% | ~478 |
 | Confirming Suspicions | 19.00% | ~378 |
 | The Kraken Wakes | 15.00% | ~298 |
-| It's Starting to Crack | 12.00% | ~238 |
+| It's Starting to Crack | 12.00% | ~239 |
 | Lord of War | 11.00% | ~219 |
 | Resourceful | 10.00% | ~199 |
 | Change the Channel | 10.00% | ~199 |
@@ -21,14 +21,14 @@ Rating: 4.44 (Ranked 629)
 | Sharpshooter | 6.00% | ~119 |
 | Explosive Efficiency | 6.00% | ~119 |
 | The Kraken Sleeps | 6.00% | ~119 |
-| Liberté | 5.00% | ~99 |
-| Opposing Force | 5.00% | ~99 |
-| Gunslinger | 5.00% | ~99 |
-| Fields of Glory | 4.00% | ~79 |
-| Die Nussknacker Sweet! | 4.00% | ~79 |
-| Der Geist | 4.00% | ~79 |
-| Close Quarters | 4.00% | ~79 |
-| Snake in the Grass | 4.00% | ~79 |
+| Liberté | 5.00% | ~100 |
+| Opposing Force | 5.00% | ~100 |
+| Gunslinger | 5.00% | ~100 |
+| Die Nussknacker Sweet! | 5.00% | ~100 |
+| Fields of Glory | 4.00% | ~80 |
+| Der Geist | 4.00% | ~80 |
+| Close Quarters | 4.00% | ~80 |
+| Snake in the Grass | 4.00% | ~80 |
 | Climbing the Ladder | 3.00% | ~60 |
 | No Stone Unturned | 3.00% | ~60 |
 | Skirmisher | 3.00% | ~60 |
@@ -44,10 +44,10 @@ Rating: 4.44 (Ranked 629)
 | Road Rage | 0.90% | ~18 |
 | Herr Today, Gone Tomorrow | 0.80% | ~16 |
 | Operation Foxley | 0.80% | ~16 |
+| Tinkerer | 0.70% | ~14 |
 | Siegebreaker | 0.70% | ~14 |
 | Ghost of Falaise | 0.70% | ~14 |
 | From Paris with Love | 0.60% | ~12 |
-| Tinkerer | 0.60% | ~12 |
 | Don't hold your breath | 0.60% | ~12 |
 | Up close and personal | 0.50% | ~10 |
 | Last Resort | 0.50% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 629)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,987 (Ranked 151)  
+Progressed: 1,990 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 1,842 | 2 |
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
-| 2023-06-01 | 1,987 | 2 |
+| 2023-06-01 | 1,990 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -158,3 +158,4 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-29 | 4.43 | 0 | 0 |
 | 2023-05-30 | 4.45 | 0 | 0 |
 | 2023-05-31 | 4.44 | 0 | 0 |
+| 2023-06-01 | 4.45 | 0 | 0 |

@@ -14,7 +14,7 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 39.00% | ~1,548 |
 | More Fish in the Sea | 38.00% | ~1,508 |
 | License to Gill | 31.00% | ~1,230 |
-| Fish Out of Water | 30.00% | ~1,190 |
+| Fish Out of Water | 30.00% | ~1,191 |
 | Things that go Splash in the Night | 25.00% | ~992 |
 | Goldfish? | 25.00% | ~992 |
 | Going for Gold | 23.00% | ~913 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,968 (Ranked 131)  
+Progressed: 3,969 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 3,888 | 0 |
 | 2023-05-30 | 3,911 | 0 |
 | 2023-05-31 | 3,954 | 0 |
-| 2023-06-01 | 3,968 | 0 |
+| 2023-06-01 | 3,969 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 437)  
 Sum: 158 (Ranked 378)  

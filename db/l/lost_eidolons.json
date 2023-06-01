@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -548,6 +548,11 @@
       "Time": "2023-05-31T23:06:53.5255671+00:00",
       "NumProgressed": 928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T13:14:07.6276902+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -591,7 +596,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "06",
@@ -599,7 +604,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "07",
@@ -623,7 +628,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "10",
@@ -687,7 +692,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "18",
@@ -742,7 +747,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 0
     }
   ],
@@ -750,8 +755,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:06:38.4103743+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:14:07.6276896+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-06-01T12:00:14.7688818+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:06:38.4103948+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:07:39.6700346+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:14:07.6277091+00:00"
 }

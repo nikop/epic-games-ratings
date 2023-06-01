@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -171,9 +171,9 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_BANDAGES",
@@ -355,9 +355,9 @@
       "ID": "ACH_ROOM203",
       "SetID": "511e31d",
       "Name": "Pick the right door",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ROOM303",
@@ -387,9 +387,9 @@
       "ID": "ACH_THIRDFLOOR",
       "SetID": "511e31d",
       "Name": "The third floor",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_WAREHOUSE",
@@ -410,8 +410,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:06:20.7753277+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:13:47.5462973+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:08.2504111+00:00",
-  "LastUpdate_Ratings": "2023-06-01T11:57:35.197928+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:06:20.7753499+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:04:31.0879389+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:13:47.5463225+00:00"
 }

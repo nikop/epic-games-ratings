@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -88,6 +88,11 @@
       "Time": "2023-05-29T20:07:06.4350013+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T13:14:15.9585092+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -115,7 +120,7 @@
       "Name": "Glass shards",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "DogHair",
@@ -131,7 +136,7 @@
       "Name": "Doll",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Ending1",
@@ -139,7 +144,7 @@
       "Name": "Children",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Ending2",
@@ -171,7 +176,7 @@
       "Name": "Mysterious footprints",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Friend",
@@ -201,9 +206,9 @@
       "ID": "Genesis",
       "SetID": "9kk0gal",
       "Name": "Mysterious paintings",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "HugeSnail",
@@ -233,17 +238,17 @@
       "ID": "Puppy",
       "SetID": "9kk0gal",
       "Name": "Puppy",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 93
     },
     {
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "Secret",
@@ -259,7 +264,7 @@
       "Name": "Spyglass",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Toy",
@@ -275,7 +280,7 @@
       "Name": "Lucky charm",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Trumpet",
@@ -283,7 +288,7 @@
       "Name": "Trumpet",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Well",
@@ -291,7 +296,7 @@
       "Name": "Depths of the well",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Windmill",
@@ -299,14 +304,14 @@
       "Name": "Windmill",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
@@ -314,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-01T12:06:45.7212861+00:00",
+  "LastChanged_Achievements": "2023-06-01T13:14:15.9585085+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.9659056+00:00",
-  "LastUpdate_Ratings": "2023-06-01T12:00:40.2874744+00:00",
-  "LastUpdate_Achievements": "2023-06-01T12:06:45.7213055+00:00"
+  "LastUpdate_Ratings": "2023-06-01T13:08:12.1986184+00:00",
+  "LastUpdate_Achievements": "2023-06-01T13:14:15.9585277+00:00"
 }

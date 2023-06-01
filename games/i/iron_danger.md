@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 80.00% | ~146 |
-| Found the Healer | 33.00% | ~60 |
+| First Shard | 80.00% | ~147 |
+| Found the Healer | 33.00% | ~61 |
 | Second Shard | 10.00% | ~18 |
-| Ring of Fire! | 9.00% | ~16 |
-| Third Shard | 9.00% | ~16 |
+| Ring of Fire! | 9.00% | ~17 |
+| Third Shard | 9.00% | ~17 |
 | Champion of Kalevala | 8.00% | ~15 |
 | Death is Merely a Setback | 8.00% | ~15 |
 | Berry Nice | 7.00% | ~13 |
@@ -21,15 +21,15 @@
 | Green Thumb | 4.00% | ~7 |
 | Avian Veterinarian | 4.00% | ~7 |
 | Finished Iron Danger | 4.00% | ~7 |
-| Bird Butcherer | 3.00% | ~5 |
-| Natural Selection | 3.00% | ~5 |
+| Bird Butcherer | 3.00% | ~6 |
+| Natural Selection | 3.00% | ~6 |
 | Mushroom Forager | 2.00% | ~4 |
 | Knock, Knock! | 2.00% | ~4 |
 | Trolled | 2.00% | ~4 |
 | Troll Hunter | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 245)  
-Completed: 4 (2.19%) (Ranked 59)  
+Progressed: 184 (Ranked 245)  
+Completed: 4 (2.17%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,6 +48,7 @@ Completed: 4 (2.19%) (Ranked 59)
 | 2023-05-29 | 179 | 4 |
 | 2023-05-30 | 181 | 4 |
 | 2023-05-31 | 183 | 4 |
+| 2023-06-01 | 184 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
