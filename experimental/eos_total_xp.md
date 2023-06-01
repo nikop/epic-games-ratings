@@ -149,6 +149,7 @@
 | [Faraday Protocol](../games/f/faraday_protocol.md) | 17 | 1,000 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
 | [Feud](../games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 22 | 1,000 |
+| [Figment 2: Creed Valley](../games/f/figment_2__creed_valley.md) | 18 | 1,000 |
 | [Filament](../games/f/filament.md) | 29 | 1,000 |
 | [Filthy Animals \| Heist Simulator](../games/f/filthy_animals___heist_simulator.md) | 28 | 1,000 |
 | [Fire: Ungh’s Quest](../games/f/fire__ungh’s_quest.md) | 27 | 1,000 |

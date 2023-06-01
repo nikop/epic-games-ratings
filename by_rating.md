@@ -191,7 +191,7 @@
 | 178 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 491 |
 | 178 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 491 |
 | 178 | [shapez](games/s/shapez.md) | 4.71 | 177 | 272 |
-| 178 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 118 | 307 |
+| 178 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 119 | 305 |
 | 178 | [Suzerain](games/s/suzerain.md) | 4.71 | 0 | 491 |
 | 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,528 | 68 |
 | 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 491 |
@@ -241,7 +241,7 @@
 | 237 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 491 |
 | 237 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
 | 237 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,030 | 47 |
-| 237 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,779 | 78 |
+| 237 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,781 | 78 |
 | 237 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,322 | 60 |
 | 237 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 297,059 | 3 |
 | 237 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 176,603 | 5 |
@@ -389,7 +389,7 @@
 | 385 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 356 |
 | 385 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 36,212 | 12 |
 | 385 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,337 | 26 |
-| 385 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 307 |
+| 385 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 308 |
 | 385 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 491 |
 | 385 | [GRIME](games/g/grime.md) | 4.60 | 0 | 491 |
 | 385 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 421 |
@@ -495,7 +495,7 @@
 | 485 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 491 |
 | 485 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 498 | 186 |
 | 485 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 491 |
-| 485 | [VALORANT](games/v/valorant.md) | 4.54 | 54,681 | 11 |
+| 485 | [VALORANT](games/v/valorant.md) | 4.54 | 54,792 | 11 |
 | 497 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 491 |
 | 497 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |
 | 497 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,035 | 17 |
@@ -718,13 +718,13 @@
 | 711 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 491 |
 | 711 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 463 |
 | 711 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.36 | 76 | 353 |
-| 711 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 39 | 414 |
-| 720 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 491 |
-| 720 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 94 | 332 |
-| 720 | [Encased](games/e/encased.md) | 4.35 | 129 | 298 |
-| 720 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 259 |
-| 720 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
-| 720 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 491 |
+| 719 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 491 |
+| 719 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 94 | 332 |
+| 719 | [Encased](games/e/encased.md) | 4.35 | 129 | 298 |
+| 719 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 259 |
+| 719 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
+| 719 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 491 |
+| 719 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 39 | 414 |
 | 726 | [Against All Odds](games/a/against_all_odds.md) | 4.34 | 0 | 491 |
 | 726 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 491 |
 | 726 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 455 |

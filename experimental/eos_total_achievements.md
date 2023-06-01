@@ -359,6 +359,7 @@
 | [Boxville](../games/7/7e305f850a5749b3b16599d737e500c8.md) | 18 | 1,000 |
 | [Bunny Park](../games/b/bunny_park.md) | 18 | 1,000 |
 | [EBOLA 2](../games/e/ebola_2.md) | 18 | 1,000 |
+| [Figment 2: Creed Valley](../games/f/figment_2__creed_valley.md) | 18 | 1,000 |
 | [FutureGrind](../games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 18 | 1,000 |
 | [Mia and the Dragon Princess](../games/m/mia_and_the_dragon_princess.md) | 18 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |

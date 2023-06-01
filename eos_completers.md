@@ -13,7 +13,7 @@
 | 11 | [Island Cities](games/i/island_cities.md) | 14.86% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
-| 14 | [Out of Bounds](games/o/out_of_bounds.md) | 11.11% |
+| 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
@@ -35,7 +35,7 @@
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
@@ -98,8 +98,8 @@
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
 | 97 | [Them and Us](games/t/them_and_us.md) | 0.77% |
 | 98 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.76% |
-| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
+| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 102 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 103 | [Haven](games/h/haven.md) | 0.67% |
