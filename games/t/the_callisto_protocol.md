@@ -1,23 +1,23 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 833)  
+Rating: 4.18 (Ranked 835)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 10.00% | ~1,424 |
-| The Outer Way | 8.00% | ~1,139 |
-| Desperate Times | 8.00% | ~1,139 |
+| The Outer Way | 8.00% | ~1,140 |
+| Desperate Times | 8.00% | ~1,140 |
 | Chew 'Em Up | 7.00% | ~997 |
 | Paper Jams | 7.00% | ~997 |
-| Giving Back | 6.00% | ~854 |
-| Reforged | 6.00% | ~854 |
+| Giving Back | 6.00% | ~855 |
+| Reforged | 6.00% | ~855 |
 | Workplace Hazard | 5.00% | ~712 |
 | If the SHU Fits... | 5.00% | ~712 |
-| Get a Grip | 4.00% | ~569 |
-| Without A Paddle | 4.00% | ~569 |
-| Instigator | 4.00% | ~86 |
-| Big Game Hunter | 4.00% | ~86 |
+| Get a Grip | 4.00% | ~570 |
+| Without A Paddle | 4.00% | ~570 |
+| Instigator | 4.00% | ~87 |
+| Big Game Hunter | 4.00% | ~87 |
 | Two Heads Are Better Than One | 3.00% | ~427 |
 | Terminated | 3.00% | ~427 |
 | Float Like A Butterfly | 3.00% | ~427 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 833)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,236 (Ranked 102)  
+Progressed: 14,244 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 53 (0.37%) (Ranked 116)
 | 2023-05-29 | 14,012 | 53 |
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
-| 2023-06-01 | 14,236 | 53 |
+| 2023-06-01 | 14,244 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 388)  
 Sum: 281 (Ranked 329)  

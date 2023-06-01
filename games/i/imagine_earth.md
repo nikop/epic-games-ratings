@@ -1,16 +1,16 @@
 # Imagine Earth
 [Store](https://store.epicgames.com/en-US/p/imagine-earth-7498e4)  
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.30 (Ranked 758)  
+Rating: 4.30 (Ranked 759)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tuto | 60.00% | ~225 |
-| Joma | 43.00% | ~161 |
-| Campaign Bronze | 35.00% | ~131 |
-| Lorian | 31.00% | ~116 |
-| Metropolis | 27.00% | ~101 |
+| Tuto | 60.00% | ~226 |
+| Joma | 43.00% | ~162 |
+| Campaign Bronze | 35.00% | ~132 |
+| Lorian | 31.00% | ~117 |
+| Metropolis | 27.00% | ~102 |
 | Rounos | 23.00% | ~86 |
 | Campaign Silver | 21.00% | ~79 |
 | Magni | 21.00% | ~79 |
@@ -22,7 +22,7 @@ Number of Ratings: 22  (23.09.2022)
 | Iqunox | 9.00% | ~34 |
 | Udion Torix | 8.00% | ~30 |
 | Forester | 7.00% | ~26 |
-| Thera | 6.00% | ~22 |
+| Thera | 6.00% | ~23 |
 | Campaign Titanium | 5.00% | ~19 |
 | World Creator | 5.00% | ~19 |
 | Builder | 4.00% | ~15 |
@@ -31,7 +31,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Silver | 0.30% | ~1 |
 | Competitor Gold | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375 (Ranked 211)  
+Progressed: 376 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,6 +48,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 373 | 0 |
 | 2023-05-30 | 374 | 0 |
 | 2023-05-31 | 375 | 0 |
+| 2023-06-01 | 376 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

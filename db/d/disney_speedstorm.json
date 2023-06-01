@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2665,
+  "EOS_Progressed": 2666,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 2,
@@ -2180,6 +2180,11 @@
       "Time": "2023-06-01T19:03:50.8125597+00:00",
       "NumProgressed": 2665,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T20:03:34.0797473+00:00",
+      "NumProgressed": 2666,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2247,7 +2252,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "17",
@@ -2263,7 +2268,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "19",
@@ -2359,7 +2364,7 @@
       "Name": "MASTER",
       "Percentage": 10,
       "XP": 65,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "8",
@@ -2382,13 +2387,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2665,
+      "Progressed": 2666,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:03:50.8125588+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:03:34.0797465+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:58:41.2241714+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:03:50.8126096+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:58:36.4328224+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:03:34.0797793+00:00"
 }

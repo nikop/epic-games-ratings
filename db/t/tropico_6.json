@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3283,
+  "EOS_Progressed": 3284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3375,6 +3375,11 @@
       "Time": "2023-06-01T19:00:22.2340212+00:00",
       "NumProgressed": 3283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T20:00:26.4828779+00:00",
+      "NumProgressed": 3284,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3402,7 +3407,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -3418,7 +3423,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -3482,7 +3487,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3546,7 +3551,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3594,7 +3599,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -3602,7 +3607,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -3650,7 +3655,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -3705,15 +3710,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3283,
+      "Progressed": 3284,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:00:22.2340206+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:00:26.482877+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:59:38.8084518+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:00:22.2340704+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:59:38.7924979+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:00:26.4829253+00:00"
 }

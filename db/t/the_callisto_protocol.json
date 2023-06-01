@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -500,9 +500,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14236,
+  "EOS_Progressed": 14244,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2395,6 +2395,11 @@
       "Time": "2023-06-01T19:04:05.3787908+00:00",
       "NumProgressed": 14236,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-01T20:03:49.1439756+00:00",
+      "NumProgressed": 14244,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2422,7 +2427,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2510,7 +2515,7 @@
       "Name": "Get a Grip",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2574,7 +2579,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2598,7 +2603,7 @@
       "Name": "The Outer Way",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2614,7 +2619,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "STORY_HANGAR",
@@ -2638,7 +2643,7 @@
       "Name": "Desperate Times",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2678,7 +2683,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2686,7 +2691,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2725,13 +2730,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14236,
+      "Progressed": 14244,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2162,
+      "Progressed": 2170,
       "Completed": 29
     }
   ],
@@ -2739,8 +2744,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:04:05.37879+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:03:49.1439747+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:57:47.6773067+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:04:05.3788683+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:57:42.328791+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:03:49.1440197+00:00"
 }

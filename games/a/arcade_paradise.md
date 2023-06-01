@@ -5,27 +5,27 @@ Rating: 4.57 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~592 |
-| Fetch Quest Complete | 91.00% | ~555 |
-| I can't wait! | 83.00% | ~506 |
+| Pushing a pull door | 97.00% | ~593 |
+| Fetch Quest Complete | 91.00% | ~556 |
+| I can't wait! | 82.00% | ~501 |
 | Swish | 56.00% | ~342 |
 | Clean up on Aisle 9 | 40.00% | ~244 |
 | Machine Maxed | 30.00% | ~183 |
-| Bug Fixer | 25.00% | ~152 |
-| Gerald of Riviera | 25.00% | ~152 |
-| Existential dread | 24.00% | ~146 |
+| Bug Fixer | 25.00% | ~153 |
+| Gerald of Riviera | 25.00% | ~153 |
+| Existential dread | 24.00% | ~147 |
 | Goal | 22.00% | ~134 |
 | I ran the numbers | 15.00% | ~92 |
-| Taking the plunge | 12.00% | ~73 |
+| Taking the plunge | 13.00% | ~79 |
 | Hidden Packages | 11.00% | ~67 |
 | GOOOAAAL | 9.00% | ~55 |
 | New Kid on the Block | 7.00% | ~43 |
 | Ahoy Hoy | 6.00% | ~37 |
 | Jimmy Goldman Would be Proud | 6.00% | ~37 |
 | You Spin Me Round | 6.00% | ~37 |
-| Bombscare | 5.00% | ~30 |
-| Rhythm is a dancer | 5.00% | ~30 |
-| Your Bloody Valentine | 5.00% | ~30 |
+| Bombscare | 5.00% | ~31 |
+| Rhythm is a dancer | 5.00% | ~31 |
+| Your Bloody Valentine | 5.00% | ~31 |
 | GoldGuy Jr | 4.00% | ~24 |
 | Nose to the Grindstone | 4.00% | ~24 |
 | Waking nightmare | 4.00% | ~24 |
@@ -60,7 +60,7 @@ Rating: 4.57 (Ranked 438)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610 (Ranked 193)  
+Progressed: 611 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 606 | 0 |
 | 2023-05-30 | 609 | 0 |
 | 2023-05-31 | 610 | 0 |
+| 2023-06-01 | 611 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

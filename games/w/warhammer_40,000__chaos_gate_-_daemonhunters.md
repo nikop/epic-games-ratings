@@ -22,8 +22,8 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 10.00% | ~283 |
 | A Foul Creche | 10.00% | ~283 |
 | Efficient Killer | 8.00% | ~226 |
+| Just a Scratch | 8.00% | ~226 |
 | Opportunist | 7.00% | ~198 |
-| Just a Scratch | 7.00% | ~198 |
 | Hold Your Ground | 6.00% | ~170 |
 | A Gift Spurned | 4.00% | ~113 |
 | Long Distance Call | 4.00% | ~113 |
@@ -54,6 +54,7 @@ Number of Ratings: 371  (23.09.2022)
 | Crisis Management | 0.20% | ~6 |
 | Grand Master | 0.20% | ~6 |
 | Brothers in Arms | 0.20% | ~6 |
+| Phalanx | 0.20% | ~6 |
 | Firing Squad | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
@@ -61,7 +62,6 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
-| Phalanx | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |

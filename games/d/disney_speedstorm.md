@@ -15,9 +15,9 @@
 | ACE SPEEDSTER | 21.00% | ~560 |
 | IT'S A LONG WAY TO THE TOP | 17.00% | ~453 |
 | DEFEAT OUR CHAMPION | 11.00% | ~293 |
-| RELEASE THE KRAKEN | 10.00% | ~266 |
-| ACE BRAWLER | 10.00% | ~266 |
-| MASTER | 10.00% | ~266 |
+| RELEASE THE KRAKEN | 10.00% | ~267 |
+| ACE BRAWLER | 10.00% | ~267 |
+| MASTER | 10.00% | ~267 |
 | TRAINING HARD | 9.00% | ~240 |
 | LEGENDARY HERO | 9.00% | ~240 |
 | ACE DEFENDER | 8.00% | ~213 |
@@ -29,7 +29,7 @@
 | FRAMED! | 2.00% | ~53 |
 | PERFECTLY POISED | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,665 (Ranked 141)  
+Progressed: 2,666 (Ranked 141)  
 Completed: 2 (0.08%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 2 (0.08%) (Ranked 168)
 | 2023-05-29 | 2,622 | 2 |
 | 2023-05-30 | 2,638 | 2 |
 | 2023-05-31 | 2,649 | 2 |
-| 2023-06-01 | 2,665 | 2 |
+| 2023-06-01 | 2,666 | 2 |

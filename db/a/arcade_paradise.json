@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -257,6 +257,11 @@
       "Time": "2023-05-31T20:06:18.5930325+00:00",
       "NumProgressed": 610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T20:05:34.1504254+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -316,7 +321,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "AhoyTrophy",
@@ -356,7 +361,7 @@
       "Name": "Bombscare",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BorkTrophy",
@@ -380,7 +385,7 @@
       "Name": "Rhythm is a dancer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "DebugTrophy",
@@ -388,7 +393,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "DreadTrophy",
@@ -396,7 +401,7 @@
       "Name": "Existential dread",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "DropBallTrophy",
@@ -412,7 +417,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Ext4Trophy",
@@ -436,7 +441,7 @@
       "Name": "Your Bloody Valentine",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "GoalMachineTrophy",
@@ -546,9 +551,9 @@
       "ID": "MachineTrophy",
       "SetID": "32aeje8",
       "Name": "I can\u0027t wait!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 501
     },
     {
       "ID": "MaxPriceTrophy",
@@ -586,9 +591,9 @@
       "ID": "PlungeTrophy",
       "SetID": "32aeje8",
       "Name": "Taking the plunge",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 79
     },
     {
       "ID": "RacerTrophy",
@@ -676,7 +681,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "YouthTrophy",
@@ -699,7 +704,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 0
     }
   ],
@@ -707,8 +712,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:05:49.4091696+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:05:34.150425+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:57.6905227+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:58:04.9410396+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:05:49.4092215+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:57:59.1737238+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:05:34.1504766+00:00"
 }

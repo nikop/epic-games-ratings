@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657167,
+  "EOS_Progressed": 657169,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4650,6 +4650,11 @@
       "Time": "2023-06-01T19:05:41.998761+00:00",
       "NumProgressed": 657167,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-01T20:05:26.6230622+00:00",
+      "NumProgressed": 657169,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4661,7 +4666,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473160
+      "UsersEstimate": 473162
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4669,7 +4674,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381157
+      "UsersEstimate": 381158
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4677,7 +4682,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151148
+      "UsersEstimate": 151149
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -4701,7 +4706,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52573
+      "UsersEstimate": 52574
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -4797,7 +4802,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151148
+      "UsersEstimate": 151149
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -4805,7 +4810,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92003
+      "UsersEstimate": 92004
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -4813,7 +4818,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111718
+      "UsersEstimate": 111719
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -4829,7 +4834,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52573
+      "UsersEstimate": 52574
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -4885,7 +4890,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52573
+      "UsersEstimate": 52574
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -4957,7 +4962,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52573
+      "UsersEstimate": 52574
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -5044,15 +5049,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657167,
+      "Progressed": 657169,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:05:41.9987603+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:05:26.6230617+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:27.8583755+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:57:34.6886426+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:05:41.998898+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:57:29.9380695+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:05:26.6231237+00:00"
 }

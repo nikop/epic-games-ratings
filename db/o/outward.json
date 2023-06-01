@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2725,
+  "EOS_Progressed": 2726,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1964,6 +1964,11 @@
       "Time": "2023-06-01T19:02:19.6700409+00:00",
       "NumProgressed": 2725,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T20:02:22.4444563+00:00",
+      "NumProgressed": 2726,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2023,7 +2028,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Encyclopedic_30",
@@ -2143,7 +2148,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PowerToThePeople",
@@ -2151,7 +2156,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ReadyforSummer_41",
@@ -2159,7 +2164,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2183,7 +2188,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2295,7 +2300,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2303,22 +2308,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2725,
+      "Progressed": 2726,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:02:19.6700403+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:02:22.4444558+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:57:41.2870046+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:02:19.6700924+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:57:36.8321903+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:02:22.4444971+00:00"
 }

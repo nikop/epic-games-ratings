@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 879)  
+Rating: 4.06 (Ranked 880)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.70% | ~390 |
 | The Ring of Regeneration | 0.50% | ~447 |
 | Are Ya Chicken? | 0.50% | ~447 |
-| Coasting to the Finish | 0.50% | ~278 |
+| Coasting to the Finish | 0.50% | ~279 |
 | Were-verpowered | 0.40% | ~358 |
 | Checkmate | 0.40% | ~223 |
 | A Persistent Buzzing | 0.40% | ~358 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.30% | ~268 |
 | Pros and CONs | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~111 |
+| The Witchlight Carnival | 0.20% | ~111 |
 | Third Third Out | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~179 |
 | A Steadfast Love | 0.20% | ~111 |
@@ -91,6 +92,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~179 |
 | Dinosaur Racing | 0.20% | ~179 |
 | Elturel Has Fallen | 0.20% | ~179 |
+| Resolve Amongst Chaos | 0.20% | ~179 |
 | Hearts Aflame | 0.20% | ~111 |
 | Look Out! | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
@@ -119,7 +121,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~56 |
 | An Unexpected Geist | 0.10% | ~56 |
 | Back to Nature | 0.10% | ~56 |
-| The Witchlight Carnival | 0.10% | ~56 |
 | A Monarch Among Us | 0.10% | ~56 |
 | A Dragon Against Us | 0.10% | ~56 |
 | A Familiar Behind Us | 0.10% | ~56 |
@@ -357,7 +358,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~89 |
 | Earthquake! | 0.10% | ~56 |
 | Hailstorm! | 0.10% | ~56 |
-| Resolve Amongst Chaos | 0.10% | ~89 |
 | All You Know Is Wrong | 0.10% | ~89 |
 | Shadow Stalkers | 0.10% | ~56 |
 | Avernus Frozen Over | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,425 (Ranked 61)  
+Progressed: 89,434 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,425 | 1,905 |
+| 2023-06-01 | 89,434 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
 Sum: 30,013 (Ranked 37)  

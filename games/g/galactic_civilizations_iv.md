@@ -1,27 +1,27 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 833)  
+Rating: 4.18 (Ranked 835)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,616 |
-| Worker Specialization | 78.00% | ~4,558 |
-| First Contact | 73.00% | ~4,265 |
-| Win a Battle | 67.00% | ~3,915 |
-| Anomaly Researcher | 63.00% | ~3,681 |
-| Unleash My Power | 62.00% | ~3,623 |
-| Own 30 Planets | 35.00% | ~2,045 |
-| Xenocide | 33.00% | ~1,928 |
+| Colonize a Planet | 79.00% | ~4,618 |
+| Worker Specialization | 78.00% | ~4,559 |
+| First Contact | 73.00% | ~4,267 |
+| Win a Battle | 67.00% | ~3,916 |
+| Anomaly Researcher | 63.00% | ~3,682 |
+| Unleash My Power | 62.00% | ~3,624 |
+| Own 30 Planets | 34.00% | ~1,987 |
+| Xenocide | 33.00% | ~1,929 |
 | Design a Civilization | 32.00% | ~1,870 |
-| Commodity Trader | 31.00% | ~1,811 |
-| Design a Ship | 29.00% | ~1,694 |
-| Commodity Seller | 26.00% | ~1,519 |
+| Commodity Trader | 31.00% | ~1,812 |
+| Design a Ship | 29.00% | ~1,695 |
+| Commodity Seller | 26.00% | ~1,520 |
 | Prestige Victory! | 14.00% | ~818 |
 | Galactic War | 11.00% | ~643 |
 | Trading Partner | 9.00% | ~526 |
-| Fleet Victory | 8.00% | ~467 |
+| Fleet Victory | 8.00% | ~468 |
 | Win as Terrans | 7.00% | ~409 |
 | Gain an Ally | 6.00% | ~351 |
 | Win with a Custom Faction | 6.00% | ~351 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,843 (Ranked 123)  
+Progressed: 5,845 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,17 +121,17 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 5,824 | 0 |
 | 2023-05-30 | 5,829 | 0 |
 | 2023-05-31 | 5,833 | 0 |
-| 2023-06-01 | 5,843 | 0 |
+| 2023-06-01 | 5,845 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 337)  
-Sum: 661 (Ranked 267)  
+Sum: 662 (Ranked 267)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 92 |
 | This game is Relaxing | 87 |
 | This game has Quickly Understood Controls | 83 |
-| This game is Highly Recommended | 81 |
+| This game is Highly Recommended | 82 |
 | This game is Extremely Fun | 80 |
 | This game has Amazing Storytelling | 77 |
 | This game has Competitive Players | 70 |
@@ -232,3 +232,4 @@ Diff (max vs sum): 70
 | 2023-05-22 | 4.19 | - | 92 | 659 |
 | 2023-05-24 | 4.18 | - | 92 | 659 |
 | 2023-05-29 | 4.18 | - | 92 | 661 |
+| 2023-06-01 | 4.18 | - | 92 | 662 |

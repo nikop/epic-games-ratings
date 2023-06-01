@@ -1,25 +1,25 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 793)  
+Rating: 4.24 (Ranked 794)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,338 |
-| Don't I Know You...? | 77.00% | ~1,287 |
+| Don't I Know You...? | 77.00% | ~1,288 |
 | Jailbreak | 66.00% | ~1,104 |
-| Suited and Booted | 38.00% | ~635 |
+| Suited and Booted | 38.00% | ~636 |
 | HEADSHOT! | 37.00% | ~619 |
-| Sleeping With The Fishes | 35.00% | ~585 |
+| Sleeping With The Fishes | 35.00% | ~586 |
 | Overheated | 30.00% | ~502 |
 | High Performance | 30.00% | ~502 |
 | Powered Up | 28.00% | ~468 |
-| Studied The Blade | 24.00% | ~401 |
+| Studied The Blade | 24.00% | ~402 |
 | Home Invasion | 22.00% | ~368 |
 | Luminary | 22.00% | ~368 |
 | It's a Trap | 22.00% | ~368 |
 | True Survivor | 21.00% | ~351 |
-| Shocking | 20.00% | ~334 |
+| Shocking | 20.00% | ~335 |
 | Court Martial | 19.00% | ~318 |
 | Offensive Defense | 19.00% | ~318 |
 | Unforeseeable Consequences | 19.00% | ~318 |
@@ -36,7 +36,7 @@ Rating: 4.24 (Ranked 793)
 | Sorry, Didn't See You There | 12.00% | ~201 |
 | Corrupted Beauty | 11.00% | ~184 |
 | Triplets | 10.00% | ~167 |
-| Stimulating The Local Economy | 9.00% | ~150 |
+| Stimulating The Local Economy | 9.00% | ~151 |
 | A Little Banged Up | 8.00% | ~134 |
 | Denying Prophecy | 8.00% | ~134 |
 | Defense in Depth | 8.00% | ~134 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 793)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,672 (Ranked 154)  
+Progressed: 1,673 (Ranked 154)  
 Completed: 10 (0.60%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 10 (0.60%) (Ranked 106)
 | 2023-05-29 | 1,658 | 10 |
 | 2023-05-30 | 1,661 | 10 |
 | 2023-05-31 | 1,667 | 10 |
-| 2023-06-01 | 1,672 | 10 |
+| 2023-06-01 | 1,673 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

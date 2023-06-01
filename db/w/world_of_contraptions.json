@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -475,9 +475,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:05:30.332503+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:05:14.4087827+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:56.7854741+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:58:04.403697+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:05:30.3325629+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:57:58.4256931+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:05:14.4088077+00:00"
 }

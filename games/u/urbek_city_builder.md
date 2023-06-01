@@ -18,7 +18,7 @@
 | I love books! | 9.00% | ~19 |
 | King of fish | 9.00% | ~19 |
 | I love parks | 9.00% | ~19 |
-| What would we do if we can't go out with friends? | 8.00% | ~17 |
+| What would we do if we can't go out with friends? | 9.00% | ~19 |
 | Food producer | 6.00% | ~13 |
 | Metropolurbek | 6.00% | ~13 |
 | I am very happy! | 4.00% | ~8 |

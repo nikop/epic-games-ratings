@@ -10,7 +10,7 @@ Number of Ratings: 36  (23.09.2022)
 | It’s Heating up! | 68.00% | ~466 |
 | Let’s patch things up | 65.00% | ~445 |
 | I can fix it! | 61.00% | ~418 |
-| Post No Bills | 54.00% | ~370 |
+| Post No Bills | 55.00% | ~377 |
 | Truly Shocking! | 46.00% | ~315 |
 | Critical Thinker | 34.00% | ~233 |
 | Always Finding Your Mark | 28.00% | ~192 |
@@ -23,7 +23,7 @@ Number of Ratings: 36  (23.09.2022)
 | A successful procedure! | 17.00% | ~116 |
 | Bing Bang BOOM | 17.00% | ~116 |
 | Breaking the Ice | 15.00% | ~103 |
-| Solidarity Forever | 11.00% | ~75 |
+| Solidarity Forever | 12.00% | ~82 |
 | A Tucked Tale | 9.00% | ~62 |
 | The best thing money can buy | 9.00% | ~62 |
 | Act III Complete | 6.00% | ~41 |

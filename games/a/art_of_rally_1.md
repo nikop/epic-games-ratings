@@ -6,12 +6,12 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,663 |
-| keep it tidy | 77.00% | ~7,751 |
+| light attack | 96.00% | ~9,664 |
+| keep it tidy | 77.00% | ~7,752 |
 | podium | 72.00% | ~7,248 |
-| medium attack | 59.00% | ~5,939 |
-| brail | 56.00% | ~5,637 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,026 |
+| medium attack | 59.00% | ~5,940 |
+| brail | 56.00% | ~5,638 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,027 |
 | grocery-getter | 39.00% | ~3,926 |
 | rwd only | 26.00% | ~2,617 |
 | food tour: pasta | 26.00% | ~2,617 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,066 (Ranked 109)  
+Progressed: 10,067 (Ranked 109)  
 Completed: 9 (0.09%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 9 (0.09%) (Ranked 166)
 | 2023-05-29 | 10,058 | 9 |
 | 2023-05-30 | 10,062 | 9 |
 | 2023-05-31 | 10,063 | 9 |
-| 2023-06-01 | 10,066 | 9 |
+| 2023-06-01 | 10,067 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

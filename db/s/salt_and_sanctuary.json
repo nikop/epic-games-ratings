@@ -2223,9 +2223,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 522970,
+  "EOS_Progressed": 522971,
   "EOS_Completed": 1433,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -6483,6 +6483,11 @@
       "Time": "2023-06-01T19:05:40.370107+00:00",
       "NumProgressed": 522970,
       "NumCompleted": 1433
+    },
+    {
+      "Time": "2023-06-01T20:05:24.9598536+00:00",
+      "NumProgressed": 522971,
+      "NumCompleted": 1433
     }
   ],
   "TotalAchievements": 37,
@@ -6550,7 +6555,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 434065
+      "UsersEstimate": 434066
     },
     {
       "ID": "HONED",
@@ -6598,7 +6603,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26148
+      "UsersEstimate": 26149
     },
     {
       "ID": "THE_BANQUET",
@@ -6686,7 +6691,7 @@
       "Name": "The Lake",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26148
+      "UsersEstimate": 26149
     },
     {
       "ID": "THE_MIRE",
@@ -6710,7 +6715,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26148
+      "UsersEstimate": 26149
     },
     {
       "ID": "THE_RED_HALL",
@@ -6789,15 +6794,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 522970,
+      "Progressed": 522971,
       "Completed": 1433
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-27T13:58:57.1768614+00:00",
-  "LastChanged_Achievements": "2023-06-01T19:05:40.3701063+00:00",
+  "LastChanged_Achievements": "2023-06-01T20:05:24.9598531+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:51.7080988+00:00",
-  "LastUpdate_Ratings": "2023-06-01T18:58:59.0230011+00:00",
-  "LastUpdate_Achievements": "2023-06-01T19:05:40.3701992+00:00"
+  "LastUpdate_Ratings": "2023-06-01T19:58:54.5147719+00:00",
+  "LastUpdate_Achievements": "2023-06-01T20:05:24.9599077+00:00"
 }
