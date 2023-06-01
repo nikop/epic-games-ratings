@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4883,
+  "EOS_Progressed": 4884,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -1164,6 +1164,11 @@
       "Time": "2023-05-31T23:07:03.5901591+00:00",
       "NumProgressed": 4883,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T05:07:59.6418097+00:00",
+      "NumProgressed": 4884,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1207,7 +1212,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -1271,7 +1276,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_campaign_progress4",
@@ -1295,7 +1300,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ach_campaign_progress7",
@@ -1543,7 +1548,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -1782,15 +1787,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4883,
+      "Progressed": 4884,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:06:48.5780208+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:07:59.6418093+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.5581107+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:59:42.1498547+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:06:48.578088+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:00:04.9701345+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:07:59.641901+00:00"
 }

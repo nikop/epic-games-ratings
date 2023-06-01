@@ -47,14 +47,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | At every continent | 0.60% | ~286 |
 | Electable! | 0.60% | ~286 |
 | Time Bandit | 0.60% | ~286 |
-| All belongs to Mother Russia | 0.50% | ~238 |
-| Early-Modern Warfare | 0.50% | ~238 |
-| One Family to Rule them All | 0.50% | ~238 |
-| Populists in Government | 0.50% | ~238 |
-| The pen is mightier than the sword | 0.50% | ~238 |
-| This is My Faith | 0.50% | ~238 |
-| Trophy Hunter | 0.50% | ~238 |
-| Voting Streak | 0.50% | ~238 |
+| All belongs to Mother Russia | 0.50% | ~239 |
+| Early-Modern Warfare | 0.50% | ~239 |
+| One Family to Rule them All | 0.50% | ~239 |
+| Populists in Government | 0.50% | ~239 |
+| The pen is mightier than the sword | 0.50% | ~239 |
+| This is My Faith | 0.50% | ~239 |
+| Trophy Hunter | 0.50% | ~239 |
+| Voting Streak | 0.50% | ~239 |
 | Absolutely | 0.40% | ~191 |
 | Bleed Them Dry | 0.40% | ~191 |
 | Dude, Where's my Boat? | 0.40% | ~191 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,699 (Ranked 78)  
+Progressed: 47,702 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
 | 2023-05-31 | 47,652 | 0 |
-| 2023-06-01 | 47,699 | 0 |
+| 2023-06-01 | 47,702 | 0 |
 ## Awards
 Max (Educational): 5,322  (Ranked 60)  
 Sum: 43,985 (Ranked 27)  

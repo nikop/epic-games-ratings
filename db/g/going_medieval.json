@@ -4,7 +4,7 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 385,
   "Ranking_Popularity": 307,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 172,
@@ -912,10 +912,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 932,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2023-06-01T05:01:30.1831711+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 934,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 932,
+  "NumberOfAwards": 934,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -929,7 +935,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 100
+      "Count": 102
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1681,9 +1687,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-05-26T20:02:37.4182915+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:06:38.7464114+00:00",
+  "LastChanged": "2023-06-01T05:01:30.1831709+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:07:47.9240728+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.9974072+00:00",
-  "LastUpdate_Ratings": "2023-06-01T04:00:48.3606467+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:06:38.7464315+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:01:30.1831715+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:07:47.9241032+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 64,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 77,
+  "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 320,
@@ -5007,6 +5007,6 @@
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
   "LastChanged": "2023-05-31T22:57:49.246866+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:29.265348+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:58:01.3096723+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:03:24.7132981+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:58:01.6003413+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:03:56.2548576+00:00"
 }

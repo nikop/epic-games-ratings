@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2873,
+  "EOS_Progressed": 2874,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1664,6 +1664,11 @@
       "Time": "2023-06-01T02:50:25.5434836+00:00",
       "NumProgressed": 2873,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-01T05:08:10.5583032+00:00",
+      "NumProgressed": 2874,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1723,7 +1728,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "campaign10",
@@ -1827,7 +1832,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "campaign4",
@@ -1835,7 +1840,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "campaign5",
@@ -1859,7 +1864,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "campaign8",
@@ -1938,7 +1943,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2873,
+      "Progressed": 2874,
       "Completed": 9
     }
   ],
@@ -1946,8 +1951,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:06:49.545225+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:08:10.5583027+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-06-01T04:01:18.254027+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:06:49.5452505+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:02:02.4096458+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:08:10.5583395+00:00"
 }

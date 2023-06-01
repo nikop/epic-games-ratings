@@ -20,16 +20,16 @@
 | Oh, you're up to no gouda! | 61.00% | ~42 |
 | Meat grinder | 58.00% | ~40 |
 | Butcher | 52.00% | ~36 |
-| You're not going to blow me up! | 51.00% | ~35 |
+| You're not going to blow me up! | 52.00% | ~36 |
 | Spare Ribs | 49.00% | ~34 |
+| Mushroom soup of the day | 48.00% | ~33 |
 | My pants squeak when I walk | 48.00% | ~33 |
-| Mushroom soup of the day | 46.00% | ~32 |
-| Honk honk! | 45.00% | ~31 |
+| Honk honk! | 46.00% | ~32 |
 | Thats disgusting! | 45.00% | ~31 |
 | Surprise!! | 43.00% | ~30 |
 | Cockadoodledoo! | 43.00% | ~30 |
-| Make America Grate Again | 36.00% | ~25 |
-| Self assessed tax return | 36.00% | ~25 |
+| Make America Grate Again | 38.00% | ~26 |
+| Self assessed tax return | 38.00% | ~26 |
 | Karaoke king | 36.00% | ~25 |
 | Pasta Bolognese | 35.00% | ~24 |
 | You are no match for me, Billy! | 33.00% | ~23 |
@@ -38,9 +38,9 @@
 | Haemochromatosis | 33.00% | ~23 |
 | Meatballs, coming up! | 30.00% | ~21 |
 | I'm going to get a concussion | 29.00% | ~20 |
+| A Megapint...? | 28.00% | ~19 |
 | Another one bites the iron | 28.00% | ~19 |
-| A Megapint...? | 26.00% | ~18 |
-| Ripe Meat Off The Bone! | 23.00% | ~16 |
+| Ripe Meat Off The Bone! | 25.00% | ~17 |
 | Hovering around | 23.00% | ~16 |
 | You're not so Big anymore, Boi! | 22.00% | ~15 |
 | Your daily dose of Vitamin C. | 22.00% | ~15 |

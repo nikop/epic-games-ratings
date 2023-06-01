@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 6.38,
+  "EOS_Completed_Percentage": 6.37,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -891,6 +891,11 @@
       "Time": "2023-06-01T02:48:14.0151569+00:00",
       "NumProgressed": 376,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-01T05:04:35.4535304+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 30,
@@ -902,7 +907,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "LEVEL_002",
@@ -910,7 +915,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "LEVEL_003",
@@ -918,7 +923,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_004",
@@ -934,7 +939,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_006",
@@ -958,7 +963,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_009",
@@ -980,9 +985,9 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_012",
@@ -998,7 +1003,7 @@
       "Name": "Higher ground",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_014",
@@ -1022,7 +1027,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_017",
@@ -1068,9 +1073,9 @@
       "ID": "LEVEL_022",
       "SetID": "212bg48",
       "Name": "Who likes bridges?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_023",
@@ -1141,14 +1146,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:04:18.2601326+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:04:35.4535297+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:57:19.4811344+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:04:18.2601543+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:57:10.5805747+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:04:35.4535591+00:00"
 }

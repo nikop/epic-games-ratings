@@ -2069,9 +2069,9 @@
       "ID": "ACH_TIGHT-LIPSLIDES",
       "SetID": "72olkc5",
       "Name": "Tight lipslides",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -2133,8 +2133,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:06:28.3506956+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:07:35.8594889+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.7904558+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:59:50.2496323+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:06:28.3507312+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:00:15.747275+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:07:35.8595378+00:00"
 }

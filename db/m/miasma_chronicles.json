@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1134,9 +1134,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 250
     },
     {
       "ID": "EXPERIENCED",
@@ -1150,9 +1150,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 278
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1391,8 +1391,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:01:50.5785255+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:02:40.2877649+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:58:52.7371281+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:01:50.5786039+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:59:02.8039614+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:02:40.287818+00:00"
 }

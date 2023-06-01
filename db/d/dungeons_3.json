@@ -2146,9 +2146,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 18473,
+  "EOS_Progressed": 18474,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1009,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -6281,6 +6281,11 @@
       "Time": "2023-06-01T03:32:17.3652619+00:00",
       "NumProgressed": 18473,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-06-01T05:05:13.6214795+00:00",
+      "NumProgressed": 18474,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 60,
@@ -6292,7 +6297,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10899
+      "UsersEstimate": 10900
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -6300,7 +6305,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -6308,7 +6313,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 10714
+      "UsersEstimate": 10715
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -6340,7 +6345,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -6380,7 +6385,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -6404,7 +6409,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9421
+      "UsersEstimate": 9422
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -6444,7 +6449,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -6452,7 +6457,7 @@
       "Name": "The last burger",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -6692,7 +6697,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12931
+      "UsersEstimate": 12932
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -6716,7 +6721,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -6764,22 +6769,22 @@
       "Name": "Tide Master",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 18473,
+      "Progressed": 18474,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-01T02:43:40.3499884+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:04:51.0846979+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:05:13.621479+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.7478417+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:59:55.1156822+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:04:51.0847589+00:00"
+  "LastUpdate_Ratings": "2023-06-01T05:00:22.0775648+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:05:13.6215635+00:00"
 }

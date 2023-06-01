@@ -5442,9 +5442,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 47699,
+  "EOS_Progressed": 47702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4506,
+  "EOS_NewPlayers": 4503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9702,6 +9702,11 @@
       "Time": "2023-06-01T04:07:18.4581019+00:00",
       "NumProgressed": 47699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T05:08:20.5855537+00:00",
+      "NumProgressed": 47702,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -9857,7 +9862,7 @@
       "Name": "All belongs to Mother Russia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_all_blue",
@@ -10409,7 +10414,7 @@
       "Name": "Early-Modern Warfare",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -11425,7 +11430,7 @@
       "Name": "One Family to Rule them All",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_one_king_to_rule",
@@ -11521,7 +11526,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_prester_john",
@@ -12113,7 +12118,7 @@
       "Name": "The pen is mightier than the sword",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_the_pheasant_strut",
@@ -12201,7 +12206,7 @@
       "Name": "This is My Faith",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_this_is_persia",
@@ -12297,7 +12302,7 @@
       "Name": "Trophy Hunter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_true_catholic",
@@ -12433,7 +12438,7 @@
       "Name": "Voting Streak",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -12544,21 +12549,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 47699,
+      "Progressed": 47702,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 47699,
+      "Progressed": 47702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-31T21:57:32.7166634+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:07:18.4581009+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:08:20.5855531+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.5359105+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:57:34.0958353+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:07:18.4591285+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:57:28.6386575+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:08:20.58687+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.46 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,306 |
-| My First Runbow | 50.00% | ~121,986 |
-| It's The Fall | 26.00% | ~63,433 |
-| The Stunner | 21.00% | ~51,234 |
+| In The Zone | 53.00% | ~129,308 |
+| My First Runbow | 50.00% | ~121,988 |
+| It's The Fall | 26.00% | ~63,434 |
+| The Stunner | 21.00% | ~51,235 |
 | Be Aggressive | 20.00% | ~48,795 |
 | Curator | 20.00% | ~48,795 |
-| Crowning Around | 18.00% | ~43,915 |
-| Can You Dig It? | 17.00% | ~41,475 |
+| Crowning Around | 18.00% | ~43,916 |
+| Can You Dig It? | 17.00% | ~41,476 |
 | You Juan-A-Go? | 16.00% | ~39,036 |
-| Chan-tastic | 15.00% | ~36,596 |
-| Muddy Waters | 14.00% | ~34,156 |
-| Toasty! | 13.00% | ~31,716 |
+| Chan-tastic | 15.00% | ~36,597 |
+| Muddy Waters | 14.00% | ~34,157 |
+| Toasty! | 13.00% | ~31,717 |
 | Lazy Laser | 8.00% | ~19,518 |
 | Into The Drift | 7.00% | ~17,078 |
 | Ready? Fight! | 7.00% | ~17,078 |
-| Just A Phaze | 6.00% | ~14,638 |
-| Butt Butt | 6.00% | ~14,638 |
+| Just A Phaze | 6.00% | ~14,639 |
+| Butt Butt | 6.00% | ~14,639 |
 | He Who Laughs Last | 3.00% | ~7,319 |
 | Shoo, Cat! | 3.00% | ~7,319 |
-| And You're Okay | 2.00% | ~4,879 |
-| Blotbuster | 2.00% | ~4,879 |
+| And You're Okay | 2.00% | ~4,880 |
+| Blotbuster | 2.00% | ~4,880 |
 | Just A Bit | 1.00% | ~2,440 |
 | Thunderstruck | 1.00% | ~2,440 |
 | Tubular, Dude | 0.90% | ~2,196 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 596)
 | Talent Scout | 0.10% | ~244 |
 | True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,973 (Ranked 41)  
+Progressed: 243,977 (Ranked 41)  
 Completed: 2 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.00%) (Ranked 208)
 | 2023-05-29 | 243,883 | 2 |
 | 2023-05-30 | 243,916 | 2 |
 | 2023-05-31 | 243,963 | 2 |
-| 2023-06-01 | 243,973 | 2 |
+| 2023-06-01 | 243,977 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -204,9 +204,9 @@
       "ID": "ACH_EvolutionRevolution",
       "SetID": "1od64h3",
       "Name": "Evolution Revolution",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ExpertSummoner",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-06-01T04:04:55.8837835+00:00",
+  "LastChanged_Achievements": "2023-06-01T05:05:19.0648742+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:09.3148737+00:00",
-  "LastUpdate_Ratings": "2023-06-01T03:57:29.6676065+00:00",
-  "LastUpdate_Achievements": "2023-06-01T04:04:55.8838+00:00"
+  "LastUpdate_Ratings": "2023-06-01T04:57:22.5820678+00:00",
+  "LastUpdate_Achievements": "2023-06-01T05:05:19.0648963+00:00"
 }

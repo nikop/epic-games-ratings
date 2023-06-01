@@ -34,12 +34,12 @@ Rating: 4.29 (Ranked 765)
 | Red Tape | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Metropolis | 0.20% | ~2 |
+| Ice and Fire | 0.10% | ~1 |
 | Six Faces | 0.10% | ~1 |
 | It's spreading | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
 | The Incarnate | 0.10% | ~1 |
-| Ice and Fire | 0.00% | ~0 |
 | Aesthetics | 0.00% | ~0 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |

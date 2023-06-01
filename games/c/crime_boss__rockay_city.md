@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~46,938 |
-| First One’s Free | 64.00% | ~41,151 |
-| Neophyte Ninja | 50.00% | ~32,149 |
-| Too Old for This | 47.00% | ~30,220 |
-| Fancy Pants | 35.00% | ~22,504 |
-| Case Closed | 34.00% | ~21,861 |
-| King of the Hill | 33.00% | ~21,218 |
-| Underworld Initiate | 29.00% | ~18,646 |
+| Downed but Not Outed | 73.00% | ~46,940 |
+| First One’s Free | 64.00% | ~41,153 |
+| Neophyte Ninja | 50.00% | ~32,150 |
+| Too Old for This | 47.00% | ~30,221 |
+| Fancy Pants | 35.00% | ~22,505 |
+| Case Closed | 34.00% | ~21,862 |
+| King of the Hill | 33.00% | ~21,219 |
+| Underworld Initiate | 29.00% | ~18,647 |
 | Roid Ranger | 21.00% | ~13,503 |
 | True Player | 19.00% | ~12,217 |
 | Off the Rocks | 19.00% | ~12,217 |
@@ -40,10 +40,10 @@ Rating: 3.93 (Ranked 905)
 | Impossible Dreamer | 2.00% | ~1,286 |
 | Rockay Knight | 1.00% | ~643 |
 | Talent Scout | 1.00% | ~643 |
-| Geek Out | 0.50% | ~321 |
+| Geek Out | 0.50% | ~322 |
 | Full House | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,298 (Ranked 68)  
+Progressed: 64,301 (Ranked 68)  
 Completed: 31 (0.05%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 31 (0.05%) (Ranked 177)
 | 2023-05-29 | 64,018 | 31 |
 | 2023-05-30 | 64,145 | 31 |
 | 2023-05-31 | 64,285 | 31 |
-| 2023-06-01 | 64,298 | 31 |
+| 2023-06-01 | 64,301 | 31 |
 ## Awards
 Max (Diverse Characters): 303  (Ranked 225)  
 Sum: 1,444 (Ranked 212)  
