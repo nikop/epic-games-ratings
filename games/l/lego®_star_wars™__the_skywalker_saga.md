@@ -6,22 +6,22 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~46,570 |
-| ''I don't like you either!'' | 79.00% | ~37,928 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~34,567 |
-| ''Impressive, most impressive'' | 71.00% | ~34,087 |
-| The Phantom Menace | 59.00% | ~28,326 |
-| ''Aggressive Negotiations'' | 58.00% | ~27,846 |
-| ''I can fly anything'' | 57.00% | ~27,366 |
-| ''And who gave you permission...?'' | 53.00% | ~25,445 |
-| A New Hope | 47.00% | ~22,565 |
-| Attack of the Clones | 46.00% | ~22,085 |
-| Revenge of the Sith | 40.00% | ~19,204 |
+| ''You guys got yourself a ship!'' | 97.00% | ~46,572 |
+| ''I don't like you either!'' | 79.00% | ~37,929 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~34,569 |
+| ''Impressive, most impressive'' | 71.00% | ~34,089 |
+| The Phantom Menace | 59.00% | ~28,327 |
+| ''Aggressive Negotiations'' | 58.00% | ~27,847 |
+| ''I can fly anything'' | 57.00% | ~27,367 |
+| ''And who gave you permission...?'' | 53.00% | ~25,446 |
+| A New Hope | 47.00% | ~22,566 |
+| Attack of the Clones | 46.00% | ~22,086 |
+| Revenge of the Sith | 40.00% | ~19,205 |
 | ''A fine addition to my collection'' | 37.00% | ~17,764 |
 | The Empire Strikes Back | 36.00% | ~17,284 |
-| Return of the Jedi | 31.00% | ~14,883 |
+| Return of the Jedi | 31.00% | ~14,884 |
 | The Force Awakens | 26.00% | ~12,483 |
-| The Last Jedi | 22.00% | ~10,562 |
+| The Last Jedi | 22.00% | ~10,563 |
 | The Rise of Skywalker | 19.00% | ~9,122 |
 | ''It's true... all of it'' | 18.00% | ~8,642 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,642 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~480 |
 | ''I've never seen a real one!'' | 0.80% | ~384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,010 (Ranked 77)  
+Progressed: 48,012 (Ranked 77)  
 Completed: 174 (0.36%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 174 (0.36%) (Ranked 119)
 | 2023-05-29 | 47,794 | 172 |
 | 2023-05-30 | 47,894 | 172 |
 | 2023-05-31 | 47,968 | 172 |
-| 2023-06-01 | 48,010 | 174 |
+| 2023-06-01 | 48,012 | 174 |
 ## Awards
 Max (Great Boss Battles): 2,290  (Ranked 97)  
 Sum: 6,375 (Ranked 112)  

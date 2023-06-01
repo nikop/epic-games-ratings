@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1052,9 +1052,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 245
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1084,9 +1084,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 306
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1219,8 +1219,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:05:09.8727869+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:04:47.4897498+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:59:07.2902826+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:05:09.8728275+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:59:01.6243198+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:04:47.4897879+00:00"
 }

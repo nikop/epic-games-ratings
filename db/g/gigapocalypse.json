@@ -289,9 +289,9 @@
       "ID": "secret27",
       "SetID": "39f6ck8",
       "Name": "Godlike Power",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "secret28",
@@ -570,8 +570,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:06:07.2863011+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:05:45.6163293+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.5763347+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:59:34.3938599+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:06:07.286342+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:59:29.0577863+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:05:45.6163683+00:00"
 }

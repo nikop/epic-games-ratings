@@ -28,9 +28,9 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 17.00% | ~52 |
 | Iron Man | 15.00% | ~45 |
 | For the Club! | 15.00% | ~45 |
+| Shortening of the Way | 15.00% | ~45 |
 | A Gentle Beast | 15.00% | ~45 |
 | Practical Palaeontology | 15.00% | ~45 |
-| Shortening of the Way | 14.00% | ~42 |
 | Dapper | 14.00% | ~42 |
 | The New Director | 13.00% | ~39 |
 | The Director is Dead | 13.00% | ~39 |

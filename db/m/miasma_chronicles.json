@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1106,9 +1106,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 289
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1210,9 +1210,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 214
     },
     {
       "ID": "GOAL",
@@ -1330,9 +1330,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 196
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1411,8 +1411,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-05-31T20:58:35.2474089+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:00:18.0719719+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:00:15.5942266+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:58:08.6702498+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:00:18.0720213+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:58:03.0313583+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:00:15.5942644+00:00"
 }

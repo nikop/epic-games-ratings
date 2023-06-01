@@ -8,7 +8,7 @@
 | Collectibles Part 1 | 49.00% | ~183 |
 | Welcome to Mordor! | 49.00% | ~183 |
 | Wait! Wait! Not yet! | 34.00% | ~127 |
-| Like Flying... | 31.00% | ~116 |
+| Like Flying... | 30.00% | ~112 |
 | Memories | 27.00% | ~101 |
 | The Maggot | 22.00% | ~82 |
 | The Breeder | 18.00% | ~67 |
@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 210)  
+Progressed: 374 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,4 +56,4 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 354 | 0 |
 | 2023-05-30 | 364 | 0 |
 | 2023-05-31 | 369 | 0 |
-| 2023-06-01 | 373 | 0 |
+| 2023-06-01 | 374 | 0 |

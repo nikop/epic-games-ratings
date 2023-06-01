@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2814,
+  "EOS_Progressed": 2817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1468,6 +1468,11 @@
       "Time": "2023-06-01T08:06:26.984291+00:00",
       "NumProgressed": 2814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T11:05:45.3739431+00:00",
+      "NumProgressed": 2817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1495,7 +1500,7 @@
       "Name": "Look Over There!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "BloodAndIron",
@@ -1631,7 +1636,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1647,7 +1652,7 @@
       "Name": "Not So Fast...",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "Kills_Bleed",
@@ -1655,7 +1660,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1663,7 +1668,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Kills_Executioner",
@@ -1671,7 +1676,7 @@
       "Name": "Executioner",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Kills_Exterminator",
@@ -1687,7 +1692,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Kills_Interactable",
@@ -1703,7 +1708,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "Kills_Streak",
@@ -1711,7 +1716,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "Kills_Vakir",
@@ -1727,7 +1732,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1735,7 +1740,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -1743,7 +1748,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1751,7 +1756,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1759,7 +1764,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MasterOfTheForge",
@@ -1813,9 +1818,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 423
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1847,7 +1852,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1887,15 +1892,15 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ReaperDefeated_Necrosus",
       "SetID": "3jha1np",
       "Name": "Junk Banishment",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 85
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -1943,28 +1948,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2814,
+      "Progressed": 2817,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2814,
+      "Progressed": 2817,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:06:07.0479116+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:05:45.3739427+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:58:26.7176136+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:06:07.0479602+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:58:21.4237722+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:05:45.3739883+00:00"
 }

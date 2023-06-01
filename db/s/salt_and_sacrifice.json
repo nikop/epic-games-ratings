@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1380,7 +1380,7 @@
   ],
   "EOS_Progressed": 64402,
   "EOS_Completed": 1167,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -4115,9 +4115,9 @@
       "ID": "faction_blueheart",
       "SetID": "2jelldm",
       "Name": "Blueheart Runners",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 34777
+      "UsersEstimate": 35421
     },
     {
       "ID": "faction_chaos",
@@ -4379,8 +4379,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-05-31T11:58:17.5027367+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:04:11.9112549+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:03:48.5207075+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:58.3089816+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:58:05.2240305+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:04:11.9113033+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:57:59.4657107+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:03:48.5207528+00:00"
 }

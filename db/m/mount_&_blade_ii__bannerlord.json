@@ -4479,9 +4479,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51635,
+  "EOS_Progressed": 51644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8569,6 +8569,11 @@
       "Time": "2023-06-01T10:06:08.4891053+00:00",
       "NumProgressed": 51635,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T11:05:46.7545787+00:00",
+      "NumProgressed": 51644,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -8588,7 +8593,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7229
+      "UsersEstimate": 7230
     },
     {
       "ID": "Bannerlord",
@@ -8596,7 +8601,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10327
+      "UsersEstimate": 10329
     },
     {
       "ID": "Best served cold",
@@ -8620,7 +8625,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3614
+      "UsersEstimate": 3615
     },
     {
       "ID": "Catch",
@@ -8636,7 +8641,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "Crackshot",
@@ -8644,7 +8649,7 @@
       "Name": "Crackshot",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "Crush your enemies",
@@ -8652,7 +8657,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "Duelist",
@@ -8660,7 +8665,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "Dynasty",
@@ -8668,7 +8673,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "Entrepreneur",
@@ -8708,7 +8713,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6196
+      "UsersEstimate": 6197
     },
     {
       "ID": "Great Granny",
@@ -8740,7 +8745,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10327
+      "UsersEstimate": 10329
     },
     {
       "ID": "I can do it",
@@ -8748,7 +8753,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7229
+      "UsersEstimate": 7230
     },
     {
       "ID": "I spit on your grave",
@@ -8756,7 +8761,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "Jack of All Trades",
@@ -8772,7 +8777,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8262
+      "UsersEstimate": 8263
     },
     {
       "ID": "Kingslayer",
@@ -8804,7 +8809,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15490
+      "UsersEstimate": 15493
     },
     {
       "ID": "Lawbringer",
@@ -8812,7 +8817,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18072
+      "UsersEstimate": 18075
     },
     {
       "ID": "Lawmaker",
@@ -8820,7 +8825,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10843
+      "UsersEstimate": 10845
     },
     {
       "ID": "Long live the Empire",
@@ -8836,7 +8841,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "Minor Clan",
@@ -8860,7 +8865,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "Real Estate",
@@ -8924,7 +8929,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4647
+      "UsersEstimate": 4648
     },
     {
       "ID": "The king is pleased",
@@ -8932,7 +8937,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8262
+      "UsersEstimate": 8263
     },
     {
       "ID": "This Is Our Land",
@@ -8940,7 +8945,7 @@
       "Name": "This Is Our Land",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "This is Sparta",
@@ -8956,7 +8961,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10327
+      "UsersEstimate": 10329
     },
     {
       "ID": "Undercover",
@@ -8972,7 +8977,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -8980,22 +8985,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51635,
+      "Progressed": 51644,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-01T09:59:21.0286646+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:06:08.4891049+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:05:46.7545784+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:59:21.0286653+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:06:08.4891571+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:59:15.6753007+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:05:46.7546295+00:00"
 }

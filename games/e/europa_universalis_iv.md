@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,299 |
-| That's a Grand Army | 8.00% | ~3,821 |
-| That is mine! | 8.00% | ~3,821 |
-| Victorious! | 8.00% | ~3,821 |
-| Brothers in Arms | 6.00% | ~2,866 |
-| That's a Grand Navy | 6.00% | ~2,866 |
-| Seriously?! | 6.00% | ~2,866 |
-| For the Glory | 5.00% | ~2,388 |
+| Until death do us apart | 9.00% | ~4,301 |
+| That's a Grand Army | 8.00% | ~3,823 |
+| That is mine! | 8.00% | ~3,823 |
+| Victorious! | 8.00% | ~3,823 |
+| Brothers in Arms | 6.00% | ~2,867 |
+| That's a Grand Navy | 6.00% | ~2,867 |
+| Seriously?! | 6.00% | ~2,867 |
+| For the Glory | 5.00% | ~2,389 |
 | Cold War | 4.00% | ~1,911 |
 | True Catholic | 4.00% | ~1,911 |
-| Defender of the Faith | 3.00% | ~1,433 |
-| It's all about the money | 3.00% | ~1,433 |
-| Respected | 3.00% | ~1,433 |
-| Truly Divine Ruler | 3.00% | ~1,433 |
-| Agressive Expander | 2.00% | ~955 |
-| Blockader | 2.00% | ~955 |
-| Combined Arms | 2.00% | ~955 |
-| Double the Love | 2.00% | ~955 |
-| Gentle Persuasion | 2.00% | ~955 |
-| It's all about luck | 2.00% | ~955 |
-| My armies are invincible! | 2.00% | ~955 |
-| Queen of Conquest | 2.00% | ~955 |
-| Royal Authority | 2.00% | ~955 |
-| The Princess is in this Castle | 2.00% | ~955 |
-| Total Control | 2.00% | ~955 |
+| Defender of the Faith | 3.00% | ~1,434 |
+| It's all about the money | 3.00% | ~1,434 |
+| Respected | 3.00% | ~1,434 |
+| Truly Divine Ruler | 3.00% | ~1,434 |
+| Agressive Expander | 2.00% | ~956 |
+| Blockader | 2.00% | ~956 |
+| Combined Arms | 2.00% | ~956 |
+| Double the Love | 2.00% | ~956 |
+| Gentle Persuasion | 2.00% | ~956 |
+| It's all about luck | 2.00% | ~956 |
+| My armies are invincible! | 2.00% | ~956 |
+| Queen of Conquest | 2.00% | ~956 |
+| Royal Authority | 2.00% | ~956 |
+| The Princess is in this Castle | 2.00% | ~956 |
+| Total Control | 2.00% | ~956 |
 | All That's Thine Shall Be Mine | 1.00% | ~478 |
 | Azur semé de lis or | 1.00% | ~478 |
 | Bright Spark | 1.00% | ~478 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.80% | ~382 |
 | Isn't this the way to India? | 0.80% | ~382 |
 | Market Control | 0.80% | ~382 |
-| Down Under | 0.70% | ~334 |
-| Trustworthy | 0.70% | ~334 |
+| Down Under | 0.70% | ~335 |
+| Trustworthy | 0.70% | ~335 |
 | At every continent | 0.60% | ~287 |
 | Electable! | 0.60% | ~287 |
 | Time Bandit | 0.60% | ~287 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,766 (Ranked 78)  
+Progressed: 47,787 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,16 +403,16 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 46,581 | 0 |
 | 2023-05-30 | 47,151 | 0 |
 | 2023-05-31 | 47,652 | 0 |
-| 2023-06-01 | 47,766 | 0 |
+| 2023-06-01 | 47,787 | 0 |
 ## Awards
 Max (Educational): 5,322  (Ranked 60)  
-Sum: 43,985 (Ranked 27)  
+Sum: 43,990 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,322 |
 | This game is Highly Recommended | 5,091 |
-| This game has Challenging Combat | 5,068 |
+| This game has Challenging Combat | 5,073 |
 | This game is Extremely Fun | 5,046 |
 | This game has Diverse Characters | 5,007 |
 | This game is Relaxing | 4,946 |
@@ -558,3 +558,4 @@ Diff (max vs sum): 33
 | 2023-05-29 | 4.68 | - | 5,306 | 43,917 |
 | 2023-05-30 | 4.68 | - | 5,313 | 43,955 |
 | 2023-05-31 | 4.68 | - | 5,322 | 43,985 |
+| 2023-06-01 | 4.68 | - | 5,322 | 43,990 |

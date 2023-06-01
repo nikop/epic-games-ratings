@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 12.00% | ~280 |
+| Wakey Wakey | 12.00% | ~281 |
 | Sputnik 2049 | 11.00% | ~257 |
 | Without Breaking Some Eggs... | 10.00% | ~234 |
 | Infinite Growth... | 10.00% | ~234 |
@@ -15,11 +15,11 @@ Rating: 4.57 (Ranked 438)
 | Guy de Borderlands | 5.00% | ~117 |
 | Breaking Protocol | 5.00% | ~117 |
 | Ain't Nobody Got Time for That | 5.00% | ~117 |
-| A Hunk of Junk | 4.00% | ~93 |
-| Fully Recycled | 4.00% | ~93 |
-| Permanent Redesigns | 4.00% | ~93 |
-| The Ship of Theseus | 4.00% | ~93 |
-| Hope Seeker | 4.00% | ~93 |
+| A Hunk of Junk | 4.00% | ~94 |
+| Fully Recycled | 4.00% | ~94 |
+| Permanent Redesigns | 4.00% | ~94 |
+| The Ship of Theseus | 4.00% | ~94 |
+| Hope Seeker | 4.00% | ~94 |
 | Exceeding Capacity | 3.00% | ~70 |
 | Please Make it Stop! | 3.00% | ~70 |
 | Man's Best Friend | 2.00% | ~47 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,336 (Ranked 144)  
+Progressed: 2,338 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-29 | 2,278 | 0 |
 | 2023-05-30 | 2,306 | 0 |
 | 2023-05-31 | 2,333 | 0 |
-| 2023-06-01 | 2,336 | 0 |
+| 2023-06-01 | 2,338 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

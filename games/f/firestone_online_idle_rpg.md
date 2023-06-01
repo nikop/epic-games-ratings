@@ -62,7 +62,7 @@ Rating: 3.94 (Ranked 902)
 | The Alchemist | 1.00% | ~12 |
 | Legendary | 0.80% | ~10 |
 | Arena Challenger | 0.70% | ~9 |
-| Training makes a Pro player | 0.60% | ~7 |
+| Training makes a Pro player | 0.70% | ~9 |
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
 | Mythic Power | 0.50% | ~6 |

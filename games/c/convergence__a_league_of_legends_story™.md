@@ -9,8 +9,8 @@
 | The Mysterious Stranger | 75.00% | ~417 |
 | Immaculate Aim | 64.00% | ~356 |
 | The Brass Boss | 57.00% | ~317 |
+| Honest Mistake | 55.00% | ~306 |
 | No, Thanks! | 54.00% | ~300 |
-| Honest Mistake | 54.00% | ~300 |
 | Time Flies | 52.00% | ~289 |
 | The Prince in Heels | 51.00% | ~284 |
 | Right On Time | 50.00% | ~278 |
@@ -18,7 +18,7 @@
 | Fast Learner | 48.00% | ~267 |
 | Immaculate Aim | 48.00% | ~267 |
 | Make Up For Lost Time | 47.00% | ~261 |
-| Breaking Down Barriers | 43.00% | ~239 |
+| Breaking Down Barriers | 44.00% | ~245 |
 | The Steel Shadow | 37.00% | ~206 |
 | Golem Chaser | 36.00% | ~200 |
 | Like Clockwork | 35.00% | ~195 |

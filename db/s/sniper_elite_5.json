@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1984,
+  "EOS_Progressed": 1986,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2122,6 +2122,11 @@
       "Time": "2023-06-01T10:05:52.5285616+00:00",
       "NumProgressed": 1984,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T11:05:30.6618364+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2213,7 +2218,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2267,9 +2272,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 119
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2331,9 +2336,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 119
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2357,7 +2362,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2469,7 +2474,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2700,13 +2705,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1935,
+      "Progressed": 1937,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1984,
+      "Progressed": 1986,
       "Completed": 2
     }
   ],
@@ -2714,8 +2719,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-31T14:00:44.2402602+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:05:52.5285612+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:05:30.6618359+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T10:00:03.2800404+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:05:52.5286331+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:59:58.0167094+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:05:30.6618967+00:00"
 }

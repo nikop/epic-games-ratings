@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,376 (Ranked 61)  
+Progressed: 89,380 (Ranked 61)  
 Completed: 1,905 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,15 +542,15 @@ Completed: 1,905 (2.13%) (Ranked 62)
 | 2023-05-29 | 89,161 | 1,897 |
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
-| 2023-06-01 | 89,376 | 1,905 |
+| 2023-06-01 | 89,380 | 1,905 |
 ## Awards
 Max (Diverse Characters): 4,913  (Ranked 64)  
-Sum: 30,008 (Ranked 37)  
+Sum: 30,011 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,913 |
-| This game is Great for Beginners | 4,846 |
+| This game is Great for Beginners | 4,849 |
 | This game has Quickly Understood Controls | 4,608 |
 | This game is Relaxing | 4,502 |
 | This game is Highly Recommended | 3,952 |
@@ -685,4 +685,4 @@ Diff (max vs sum): 27
 | 2023-05-29 | 4.06 | - | 4,910 | 29,997 |
 | 2023-05-30 | 4.06 | - | 4,911 | 30,004 |
 | 2023-05-31 | 4.06 | - | 4,913 | 30,007 |
-| 2023-06-01 | 4.06 | - | 4,913 | 30,008 |
+| 2023-06-01 | 4.06 | - | 4,913 | 30,011 |

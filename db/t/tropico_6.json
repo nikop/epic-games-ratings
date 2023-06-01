@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3268,
+  "EOS_Progressed": 3271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3340,6 +3340,11 @@
       "Time": "2023-06-01T08:01:27.5683557+00:00",
       "NumProgressed": 3268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-01T11:00:10.9239513+00:00",
+      "NumProgressed": 3271,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3375,7 +3380,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -3391,7 +3396,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -3399,7 +3404,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -3447,7 +3452,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1505
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3471,7 +3476,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3479,7 +3484,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -3495,7 +3500,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -3503,7 +3508,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3511,7 +3516,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2486
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3607,7 +3612,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3623,7 +3628,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3631,7 +3636,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -3655,7 +3660,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -3670,15 +3675,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3268,
+      "Progressed": 3271,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:00:13.5334336+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:00:10.9239509+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:59:43.9611058+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:00:13.5334756+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:59:38.9903511+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:00:10.9239881+00:00"
 }

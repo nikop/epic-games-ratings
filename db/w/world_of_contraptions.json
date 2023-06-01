@@ -460,9 +460,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:05:39.1274398+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:05:17.3642211+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:56.7854741+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:58:02.8273451+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:05:39.1274567+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:57:57.3124376+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:05:17.3642432+00:00"
 }

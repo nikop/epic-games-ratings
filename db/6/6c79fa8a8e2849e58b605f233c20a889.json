@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1006,6 +1006,11 @@
       "Time": "2023-06-01T10:03:46.007758+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-01T11:03:22.0454165+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1025,7 +1030,7 @@
       "Name": "Puppetmaster",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "BOT_DESTROYER",
@@ -1033,7 +1038,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CLUMSY",
@@ -1041,7 +1046,7 @@
       "Name": "Whoops",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CONQUEROR",
@@ -1065,7 +1070,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -1121,7 +1126,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "GUARD_MAKER",
@@ -1145,7 +1150,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -1192,14 +1197,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:03:46.0077572+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:03:22.045416+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:57:05.7976139+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:03:46.0077758+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:56:59.2391598+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:03:22.0454328+00:00"
 }

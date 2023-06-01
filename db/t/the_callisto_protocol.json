@@ -500,9 +500,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14191,
+  "EOS_Progressed": 14193,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2350,6 +2350,11 @@
       "Time": "2023-06-01T10:04:14.0768952+00:00",
       "NumProgressed": 14191,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-01T11:03:50.7429629+00:00",
+      "NumProgressed": 14193,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2377,7 +2382,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2487,9 +2492,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 994
     },
     {
       "ID": "KILL_ROBOT",
@@ -2527,9 +2532,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 852
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2537,7 +2542,7 @@
       "Name": "Paper Jams",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2680,13 +2685,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14191,
+      "Progressed": 14193,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2117,
+      "Progressed": 2119,
       "Completed": 29
     }
   ],
@@ -2694,8 +2699,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-31T15:57:38.2134074+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:04:14.0768945+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:03:50.742962+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:57:44.9056588+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:04:14.0769286+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:57:39.6903123+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:03:50.742996+00:00"
 }

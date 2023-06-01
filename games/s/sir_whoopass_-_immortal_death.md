@@ -31,13 +31,13 @@
 | Make America Grate Again | 38.00% | ~26 |
 | Self assessed tax return | 38.00% | ~26 |
 | Karaoke king | 36.00% | ~25 |
+| You are no match for me, Billy! | 35.00% | ~24 |
+| You can't stop me, bro! | 35.00% | ~24 |
 | Pasta Bolognese | 35.00% | ~24 |
-| You are no match for me, Billy! | 33.00% | ~23 |
 | Catch the bus with me! | 33.00% | ~23 |
-| You can't stop me, bro! | 33.00% | ~23 |
 | Haemochromatosis | 33.00% | ~23 |
 | Meatballs, coming up! | 30.00% | ~21 |
-| I'm going to get a concussion | 29.00% | ~20 |
+| I'm going to get a concussion | 30.00% | ~21 |
 | A Megapint...? | 28.00% | ~19 |
 | Another one bites the iron | 28.00% | ~19 |
 | Ripe Meat Off The Bone! | 25.00% | ~17 |
@@ -48,8 +48,8 @@
 | I cant stand still! | 20.00% | ~14 |
 | Master Butcher | 16.00% | ~11 |
 | Just wing it! | 16.00% | ~11 |
+| Slimy... yet satisfying | 16.00% | ~11 |
 | Deal with it | 14.00% | ~10 |
-| Slimy... yet satisfying | 14.00% | ~10 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~9 |
 | Yeehaw!!! | 12.00% | ~8 |
 | I drink, but I'm not a drunk! | 12.00% | ~8 |

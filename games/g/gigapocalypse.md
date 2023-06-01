@@ -25,9 +25,9 @@
 | Meat Larder | 36.00% | ~48 |
 | Mutant And Proud | 35.00% | ~46 |
 | The Emperor's New Clothes | 30.00% | ~40 |
+| Godlike Power | 29.00% | ~38 |
 | Happy Little Home | 29.00% | ~38 |
 | Final Evolution | 29.00% | ~38 |
-| Godlike Power | 28.00% | ~37 |
 | You Shall Not Pass | 27.00% | ~36 |
 | Fight Me! | 27.00% | ~36 |
 | Supremacy | 27.00% | ~36 |

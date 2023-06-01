@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243983,
+  "EOS_Progressed": 243986,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3864,6 +3864,11 @@
       "Time": "2023-06-01T10:05:55.1324684+00:00",
       "NumProgressed": 243983,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-01T11:05:33.2631245+00:00",
+      "NumProgressed": 243986,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -3931,7 +3936,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41477
+      "UsersEstimate": 41478
     },
     {
       "ID": "cantBeKeptDown",
@@ -3947,7 +3952,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36597
+      "UsersEstimate": 36598
     },
     {
       "ID": "clearCut",
@@ -4027,7 +4032,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "hereWeGo",
@@ -4051,7 +4056,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129311
+      "UsersEstimate": 129313
     },
     {
       "ID": "indegestible",
@@ -4115,7 +4120,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 121992
+      "UsersEstimate": 121993
     },
     {
       "ID": "notScared",
@@ -4163,7 +4168,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "talentScout",
@@ -4179,7 +4184,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51236
+      "UsersEstimate": 51237
     },
     {
       "ID": "thunderstruck",
@@ -4235,14 +4240,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39037
+      "UsersEstimate": 39038
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243983,
+      "Progressed": 243986,
       "Completed": 2
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:05:55.132468+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:05:33.2631239+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.2330875+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:58:54.0114698+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:05:55.1325196+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:58:49.5439943+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:05:33.2631703+00:00"
 }

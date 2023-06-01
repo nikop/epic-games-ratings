@@ -321,9 +321,9 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "BILLY_GOAT_1",
@@ -521,9 +521,9 @@
       "ID": "DODGE_2",
       "SetID": "9gfkh7c",
       "Name": "I\u0027m going to get a concussion",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DODGE_3",
@@ -769,9 +769,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVELUP_1",
@@ -953,9 +953,9 @@
       "ID": "WORM_1",
       "SetID": "9gfkh7c",
       "Name": "Slimy... yet satisfying",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -968,8 +968,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-01T10:05:54.1214536+00:00",
+  "LastChanged_Achievements": "2023-06-01T11:05:32.2857087+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.8774085+00:00",
-  "LastUpdate_Ratings": "2023-06-01T09:57:10.1149999+00:00",
-  "LastUpdate_Achievements": "2023-06-01T10:05:54.121536+00:00"
+  "LastUpdate_Ratings": "2023-06-01T10:57:03.7341709+00:00",
+  "LastUpdate_Achievements": "2023-06-01T11:05:32.2857794+00:00"
 }
