@@ -10,9 +10,9 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.67% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.54% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
@@ -26,22 +26,22 @@
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.91% |
 | 25 | [Scorn](games/s/scorn.md) | 6.83% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.33% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.32% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.05% |
+| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.02% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.60% |
-| 41 | [The Complex](games/t/the_complex.md) | 3.40% |
-| 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
+| 41 | [The Complex](games/t/the_complex.md) | 3.39% |
+| 42 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.09% |
@@ -89,17 +89,17 @@
 | 87 | [Sable](games/s/sable.md) | 0.95% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
 | 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.89% |
-| 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.88% |
-| 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
+| 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
+| 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 92 | [Adios](games/a/adios.md) | 0.84% |
 | 93 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
 | 94 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
-| 97 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.76% |
 | 97 | [Them and Us](games/t/them_and_us.md) | 0.76% |
-| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
-| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
+| 98 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.75% |
+| 98 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 101 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 102 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 103 | [Haven](games/h/haven.md) | 0.67% |
