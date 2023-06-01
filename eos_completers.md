@@ -10,7 +10,7 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 21.05% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 18.18% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.86% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.80% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -32,7 +32,7 @@
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.09% |
+| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.07% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.00% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
@@ -45,7 +45,7 @@
 | 43 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 45 | [The Bunker](games/t/the_bunker.md) | 3.09% |
-| 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
+| 46 | [Monster Harvest](games/m/monster_harvest.md) | 3.07% |
 | 47 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
