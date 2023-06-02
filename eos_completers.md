@@ -25,7 +25,7 @@
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.89% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.85% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.84% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.15% |
@@ -59,13 +59,13 @@
 | 57 | [Bloodshore](games/b/bloodshore.md) | 2.56% |
 | 58 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
+| 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.41% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 62 | [Iron Danger](games/i/iron_danger.md) | 2.15% |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [JARS](games/j/jars.md) | 2.13% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.92% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.89% |
 | 67 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 68 | [Sifu](games/s/sifu.md) | 1.80% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
