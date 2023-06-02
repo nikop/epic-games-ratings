@@ -6,27 +6,27 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 27.00% | ~13,832 |
-| Let There Be Light | 21.00% | ~10,758 |
-| Float Like a Butterfly | 20.00% | ~10,246 |
-| Nordic Walking | 16.00% | ~8,197 |
-| Bright Falls' Finest | 16.00% | ~8,197 |
-| Under a Thin Layer of Skin | 14.00% | ~7,172 |
-| Park Ranger | 11.00% | ~5,635 |
-| Finders Keepers | 11.00% | ~5,635 |
-| Paging Mr. Wake | 11.00% | ~5,635 |
-| Back! Back, I Say! | 10.00% | ~5,123 |
-| Damn Good Cup of Coffee | 10.00% | ~5,123 |
+| Follow the Light | 27.00% | ~13,833 |
+| Let There Be Light | 21.00% | ~10,759 |
+| Float Like a Butterfly | 20.00% | ~10,247 |
+| Nordic Walking | 16.00% | ~8,198 |
+| Bright Falls' Finest | 16.00% | ~8,198 |
+| Under a Thin Layer of Skin | 14.00% | ~7,173 |
+| Park Ranger | 11.00% | ~5,636 |
+| Finders Keepers | 11.00% | ~5,636 |
+| Paging Mr. Wake | 11.00% | ~5,636 |
+| Back! Back, I Say! | 10.00% | ~5,124 |
+| Damn Good Cup of Coffee | 10.00% | ~5,124 |
 | Wheels Within Wheels | 9.00% | ~4,611 |
 | They're Heeeeeere! | 9.00% | ~4,611 |
 | Sound and Fury | 9.00% | ~4,611 |
 | Missed by a Mile | 9.00% | ~4,611 |
-| Heavy Metal | 8.00% | ~4,098 |
-| Iron Horse | 8.00% | ~4,098 |
-| Perchance to Dream | 8.00% | ~4,098 |
-| The Six-Gun Scribe | 8.00% | ~4,098 |
-| Collateral Carnage | 8.00% | ~4,098 |
-| Come One, Come All | 8.00% | ~4,098 |
+| Heavy Metal | 8.00% | ~4,099 |
+| Iron Horse | 8.00% | ~4,099 |
+| Perchance to Dream | 8.00% | ~4,099 |
+| The Six-Gun Scribe | 8.00% | ~4,099 |
+| Collateral Carnage | 8.00% | ~4,099 |
+| Come One, Come All | 8.00% | ~4,099 |
 | A Friend in Need | 8.00% | ~1,176 |
 | Gatekeeper | 7.00% | ~3,586 |
 | It's Not Just a Typewriter Brand | 7.00% | ~3,586 |
@@ -56,8 +56,8 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 1.00% | ~512 |
 | Go Gentle Into That Good Light | 1.00% | ~147 |
 | Words Will Never Harm You | 0.60% | ~88 |
-| Fast and Furious | 0.50% | ~73 |
-| Cardboard Companions | 0.50% | ~73 |
+| Fast and Furious | 0.50% | ~74 |
+| Cardboard Companions | 0.50% | ~74 |
 | License Revoked | 0.40% | ~59 |
 | Whirlwind | 0.40% | ~59 |
 | Creative Space | 0.40% | ~59 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~51 |
 | No Punctuation | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,230 (Ranked 77)  
+Progressed: 51,235 (Ranked 77)  
 Completed: 48 (0.09%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 48 (0.09%) (Ranked 167)
 | 2023-05-30 | 50,452 | 48 |
 | 2023-05-31 | 50,829 | 48 |
 | 2023-06-01 | 51,134 | 48 |
-| 2023-06-02 | 51,230 | 48 |
+| 2023-06-02 | 51,235 | 48 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

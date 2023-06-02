@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2247,
+  "EOS_Progressed": 2248,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -2176,6 +2176,11 @@
       "Time": "2023-06-02T08:06:29.9362823+00:00",
       "NumProgressed": 2247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T09:06:48.3033154+00:00",
+      "NumProgressed": 2248,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2251,7 +2256,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2267,7 +2272,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2291,7 +2296,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2299,7 +2304,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -2371,7 +2376,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2419,7 +2424,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2451,7 +2456,7 @@
       "Name": "Capelworth",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2491,7 +2496,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2563,7 +2568,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2579,7 +2584,7 @@
       "Name": "Full equipped",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2610,7 +2615,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2247,
+      "Progressed": 2248,
       "Completed": 1
     }
   ],
@@ -2618,8 +2623,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-02T08:06:29.9362816+00:00",
+  "LastChanged_Achievements": "2023-06-02T09:06:48.303315+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-06-02T07:57:39.6038041+00:00",
-  "LastUpdate_Achievements": "2023-06-02T08:06:29.9363432+00:00"
+  "LastUpdate_Ratings": "2023-06-02T08:58:00.9504575+00:00",
+  "LastUpdate_Achievements": "2023-06-02T09:06:48.3033744+00:00"
 }

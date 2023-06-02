@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2039,
+  "EOS_Progressed": 2041,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2223,6 +2223,11 @@
       "Time": "2023-06-02T08:06:28.4649248+00:00",
       "NumProgressed": 2039,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T09:06:46.7738909+00:00",
+      "NumProgressed": 2041,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2442,7 +2447,7 @@
       "Name": "Lord of War",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2801,13 +2806,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1990,
+      "Progressed": 1992,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2039,
+      "Progressed": 2041,
       "Completed": 2
     }
   ],
@@ -2815,8 +2820,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-02T08:06:28.4649238+00:00",
+  "LastChanged_Achievements": "2023-06-02T09:06:46.7738904+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T08:01:02.7037104+00:00",
-  "LastUpdate_Achievements": "2023-06-02T08:06:28.4650057+00:00"
+  "LastUpdate_Ratings": "2023-06-02T09:01:10.9813901+00:00",
+  "LastUpdate_Achievements": "2023-06-02T09:06:46.7739725+00:00"
 }

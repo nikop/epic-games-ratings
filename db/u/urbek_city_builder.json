@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "CULTURE_2",
@@ -1067,8 +1067,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-02T08:06:44.1980269+00:00",
+  "LastChanged_Achievements": "2023-06-02T09:07:01.8842567+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:28.2902225+00:00",
-  "LastUpdate_Ratings": "2023-06-02T07:59:04.3488793+00:00",
-  "LastUpdate_Achievements": "2023-06-02T08:06:44.1981147+00:00"
+  "LastUpdate_Ratings": "2023-06-02T08:59:19.8356174+00:00",
+  "LastUpdate_Achievements": "2023-06-02T09:07:01.8843629+00:00"
 }

@@ -7,11 +7,11 @@ Number of Ratings: 546  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Legend Begins | 93.00% | ~7,022 |
-| What should I buy? | 83.00% | ~6,266 |
-| Focus! | 62.00% | ~4,681 |
-| Rescued Elder Ent | 62.00% | ~4,681 |
+| What should I buy? | 83.00% | ~6,267 |
+| Focus! | 62.00% | ~4,682 |
+| Rescued Elder Ent | 62.00% | ~4,682 |
 | The End of the Gold Mane Knights | 46.00% | ~3,473 |
-| Rules of Etiquette | 39.00% | ~2,944 |
+| Rules of Etiquette | 39.00% | ~2,945 |
 | False Goddess, Disappear | 38.00% | ~2,869 |
 | Quick Movements | 33.00% | ~2,492 |
 | Inventory Management | 33.00% | ~2,492 |
@@ -21,17 +21,17 @@ Number of Ratings: 546  (23.09.2022)
 | The Final Battle of the First Hero | 25.00% | ~1,888 |
 | Brain at Full Throttle | 22.00% | ~1,661 |
 | Rookies Welcome | 20.00% | ~1,510 |
-| Deadly Power | 15.00% | ~1,132 |
+| Deadly Power | 15.00% | ~1,133 |
 | Castle Restoration Plans | 14.00% | ~1,057 |
 | The Dwarven Chandelier | 12.00% | ~906 |
 | Master of Speed | 9.00% | ~680 |
 | The Levitator | 6.00% | ~453 |
-| The God of Battle | 3.00% | ~226 |
+| The God of Battle | 3.00% | ~227 |
 | Too Much of a Talker | 2.00% | ~151 |
 | The Skeleton King | 1.00% | ~76 |
 | Cold-Blooded | 0.80% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,550 (Ranked 113)  
+Progressed: 7,551 (Ranked 113)  
 Completed: 11 (0.15%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 11 (0.15%) (Ranked 152)
 | 2023-05-30 | 7,512 | 11 |
 | 2023-05-31 | 7,526 | 11 |
 | 2023-06-01 | 7,545 | 11 |
-| 2023-06-02 | 7,550 | 11 |
+| 2023-06-02 | 7,551 | 11 |
 ## Awards
 Max (Great for Beginners): 119  (Ranked 305)  
 Sum: 874 (Ranked 242)  

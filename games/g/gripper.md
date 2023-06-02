@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Deal with Shock | 60.00% | ~24 |
-| Skinner | 50.00% | ~20 |
-| Deal with Anger | 30.00% | ~12 |
+| Deal with Shock | 61.00% | ~25 |
+| Skinner | 51.00% | ~21 |
+| Deal with Anger | 29.00% | ~12 |
 | Robolimb Ripper | 15.00% | ~6 |
 | Deal with Depression | 15.00% | ~6 |
 | Total Shock | 10.00% | ~4 |
-| No Shock Race | 8.00% | ~3 |
+| No Shock Race | 7.00% | ~3 |
 | Max Health | 5.00% | ~2 |
 | Total Anger | 5.00% | ~2 |
 | No Anger Race | 5.00% | ~2 |
 | No Depression Race | 5.00% | ~2 |
 | Deal with Acceptance | 5.00% | ~2 |
 | Zero to Hero | 5.00% | ~2 |
-| Bronze Tunnel Collector | 3.00% | ~1 |
-| Silver Tunnel Collector | 3.00% | ~1 |
-| Golden Tunnel Collector | 3.00% | ~1 |
-| Platinum Tunnel Collector | 3.00% | ~1 |
-| Monster Energy | 3.00% | ~1 |
-| Boss Rusher | 3.00% | ~1 |
-| Flawless Boss Rusher | 3.00% | ~1 |
-| The Fastest Boss Rusher | 3.00% | ~1 |
-| Faster Boss Rusher | 3.00% | ~1 |
-| Fast Boss Rusher | 3.00% | ~1 |
-| Tunnel Runner | 3.00% | ~1 |
+| Bronze Tunnel Collector | 2.00% | ~1 |
+| Silver Tunnel Collector | 2.00% | ~1 |
+| Golden Tunnel Collector | 2.00% | ~1 |
+| Platinum Tunnel Collector | 2.00% | ~1 |
+| Monster Energy | 2.00% | ~1 |
+| Boss Rusher | 2.00% | ~1 |
+| Flawless Boss Rusher | 2.00% | ~1 |
+| The Fastest Boss Rusher | 2.00% | ~1 |
+| Faster Boss Rusher | 2.00% | ~1 |
+| Fast Boss Rusher | 2.00% | ~1 |
+| Tunnel Runner | 2.00% | ~1 |
 | Unlocked and Loaded | 0.00% | ~0 |
 | Call me Neo | 0.00% | ~0 |
 | Total Acceptor | 0.00% | ~0 |
@@ -40,7 +40,7 @@
 | Catastrophe | 0.00% | ~0 |
 | Flawless Tunnel Runner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 307)  
+Progressed: 41 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-28 | 38 | 0 |
 | 2023-05-29 | 39 | 0 |
 | 2023-06-01 | 40 | 0 |
+| 2023-06-02 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

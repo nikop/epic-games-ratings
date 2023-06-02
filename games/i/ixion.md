@@ -21,12 +21,12 @@ Rating: 4.58 (Ranked 420)
 | Fully Recycled | 4.00% | ~94 |
 | The Ship of Theseus | 4.00% | ~94 |
 | Exceeding Capacity | 3.00% | ~71 |
+| Necessary Enhancement | 3.00% | ~71 |
 | Please Make it Stop! | 3.00% | ~71 |
 | Man's Best Friend | 2.00% | ~47 |
 | Sightseeing | 2.00% | ~47 |
 | Power Outage | 2.00% | ~47 |
 | Access Granted | 2.00% | ~47 |
-| Necessary Enhancement | 2.00% | ~47 |
 | Convenient Transport | 2.00% | ~47 |
 | From the Past | 2.00% | ~47 |
 | Oats | 1.00% | ~24 |

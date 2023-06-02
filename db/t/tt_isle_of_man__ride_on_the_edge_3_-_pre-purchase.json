@@ -488,9 +488,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "gagif7",
       "Name": "First Things First",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-02T08:03:15.1655597+00:00",
+  "LastChanged_Achievements": "2023-06-02T09:03:48.22565+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.0293662+00:00",
-  "LastUpdate_Ratings": "2023-06-02T07:57:40.2768998+00:00",
-  "LastUpdate_Achievements": "2023-06-02T08:03:15.1655911+00:00"
+  "LastUpdate_Ratings": "2023-06-02T08:58:01.2637163+00:00",
+  "LastUpdate_Achievements": "2023-06-02T09:03:48.22569+00:00"
 }

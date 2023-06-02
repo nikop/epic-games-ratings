@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,345 |
-| That's a Grand Army | 8.00% | ~3,862 |
-| That is mine! | 8.00% | ~3,862 |
-| Victorious! | 8.00% | ~3,862 |
-| Brothers in Arms | 6.00% | ~2,897 |
-| That's a Grand Navy | 6.00% | ~2,897 |
-| Seriously?! | 6.00% | ~2,897 |
-| For the Glory | 5.00% | ~2,414 |
-| Cold War | 4.00% | ~1,931 |
-| True Catholic | 4.00% | ~1,931 |
-| Defender of the Faith | 3.00% | ~1,448 |
-| It's all about the money | 3.00% | ~1,448 |
-| Respected | 3.00% | ~1,448 |
-| Truly Divine Ruler | 3.00% | ~1,448 |
+| Until death do us apart | 9.00% | ~4,347 |
+| That's a Grand Army | 8.00% | ~3,864 |
+| That is mine! | 8.00% | ~3,864 |
+| Victorious! | 8.00% | ~3,864 |
+| Brothers in Arms | 6.00% | ~2,898 |
+| That's a Grand Navy | 6.00% | ~2,898 |
+| Seriously?! | 6.00% | ~2,898 |
+| For the Glory | 5.00% | ~2,415 |
+| Cold War | 4.00% | ~1,932 |
+| True Catholic | 4.00% | ~1,932 |
+| Defender of the Faith | 3.00% | ~1,449 |
+| It's all about the money | 3.00% | ~1,449 |
+| Respected | 3.00% | ~1,449 |
+| Truly Divine Ruler | 3.00% | ~1,449 |
 | Agressive Expander | 2.00% | ~966 |
 | Blockader | 2.00% | ~966 |
 | Combined Arms | 2.00% | ~966 |
@@ -37,8 +37,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 1.00% | ~483 |
 | Factionalism | 1.00% | ~483 |
 | A Golden Empire | 1.00% | ~483 |
-| The Five Colonies | 0.90% | ~434 |
-| This navy can take it all | 0.90% | ~434 |
+| The Five Colonies | 0.90% | ~435 |
+| This navy can take it all | 0.90% | ~435 |
 | The Emperors new clothes | 0.80% | ~386 |
 | Isn't this the way to India? | 0.80% | ~386 |
 | Market Control | 0.80% | ~386 |
@@ -46,15 +46,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.70% | ~338 |
 | Electable! | 0.60% | ~290 |
 | Time Bandit | 0.60% | ~290 |
-| All belongs to Mother Russia | 0.50% | ~241 |
-| At every continent | 0.50% | ~241 |
-| Early-Modern Warfare | 0.50% | ~241 |
-| One Family to Rule them All | 0.50% | ~241 |
-| Populists in Government | 0.50% | ~241 |
-| The pen is mightier than the sword | 0.50% | ~241 |
-| This is My Faith | 0.50% | ~241 |
-| Trophy Hunter | 0.50% | ~241 |
-| Voting Streak | 0.50% | ~241 |
+| All belongs to Mother Russia | 0.50% | ~242 |
+| At every continent | 0.50% | ~242 |
+| Early-Modern Warfare | 0.50% | ~242 |
+| One Family to Rule them All | 0.50% | ~242 |
+| Populists in Government | 0.50% | ~242 |
+| The pen is mightier than the sword | 0.50% | ~242 |
+| This is My Faith | 0.50% | ~242 |
+| Trophy Hunter | 0.50% | ~242 |
+| Voting Streak | 0.50% | ~242 |
 | Absolutely | 0.40% | ~193 |
 | Bleed Them Dry | 0.40% | ~193 |
 | Dude, Where's my Boat? | 0.40% | ~193 |
@@ -63,7 +63,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.40% | ~193 |
 | One Night in Paris | 0.40% | ~193 |
 | Ruina Imperii | 0.40% | ~193 |
-| Tear Down This Wall | 0.40% | ~193 |
 | The Continuation of Diplomacy | 0.40% | ~193 |
 | A Decent Reserve | 0.30% | ~145 |
 | A Pile of Gold | 0.30% | ~145 |
@@ -76,6 +75,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.30% | ~145 |
 | No Pirates in my Caribbean | 0.30% | ~145 |
 | Not so sad a state... | 0.30% | ~145 |
+| Tear Down This Wall | 0.30% | ~145 |
 | The Chrysanthemum Throne | 0.30% | ~145 |
 | Three Trivial Tributary Tribes | 0.30% | ~145 |
 | Traditional Player | 0.30% | ~145 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,276 (Ranked 78)  
+Progressed: 48,301 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 47,151 | 0 |
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
-| 2023-06-02 | 48,276 | 0 |
+| 2023-06-02 | 48,301 | 0 |
 ## Awards
 Max (Educational): 5,330  (Ranked 61)  
 Sum: 44,027 (Ranked 27)  
