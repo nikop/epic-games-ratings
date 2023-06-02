@@ -20,7 +20,7 @@
 | 18 | [Smelter](games/s/smelter.md) | 8.82% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Remains](games/r/remains.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.12% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.54% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.38% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.26% |
-| 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
+| 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.23% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.17% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.04% |
@@ -65,29 +65,29 @@
 | 62 | [Iron Danger](games/i/iron_danger.md) | 2.15% |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [JARS](games/j/jars.md) | 2.13% |
-| 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
-| 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 69 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
-| 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
-| 70 | [Night Book](games/n/night_book.md) | 1.59% |
-| 70 | [Somerville](games/s/somerville.md) | 1.59% |
-| 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
-| 74 | [Frogun](games/f/frogun.md) | 1.52% |
-| 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 76 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
-| 77 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
-| 78 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
-| 79 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
-| 80 | [Chorus](games/c/chorus.md) | 1.20% |
-| 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.20% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.92% |
+| 67 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 68 | [Sifu](games/s/sifu.md) | 1.80% |
+| 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
+| 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
+| 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
+| 71 | [Night Book](games/n/night_book.md) | 1.59% |
+| 71 | [Somerville](games/s/somerville.md) | 1.59% |
+| 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
+| 75 | [Frogun](games/f/frogun.md) | 1.52% |
+| 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
+| 78 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
+| 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
+| 80 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
+| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.20% |
+| 82 | [Chorus](games/c/chorus.md) | 1.19% |
 | 82 | [Trifox](games/t/trifox.md) | 1.19% |
-| 83 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
-| 83 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
-| 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
-| 86 | [Late Shift](games/l/late_shift.md) | 1.04% |
-| 87 | [Five Dates](games/f/five_dates.md) | 1.00% |
-| 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 0.97% |
+| 84 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
+| 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
+| 86 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
+| 87 | [Late Shift](games/l/late_shift.md) | 1.04% |
+| 88 | [Five Dates](games/f/five_dates.md) | 1.00% |
 | 89 | [Sable](games/s/sable.md) | 0.95% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [Poosh XL](games/p/poosh_xl.md) | 0.88% |
@@ -106,8 +106,8 @@
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 105 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 106 | [Haven](games/h/haven.md) | 0.67% |
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
-| 108 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 107 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
 | 109 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 110 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 110 | [Grindstone](games/g/grindstone.md) | 0.51% |
@@ -144,8 +144,8 @@
 | 141 | [Filament](games/f/filament.md) | 0.22% |
 | 143 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 143 | [Blanc](games/b/blanc.md) | 0.21% |
-| 143 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
-| 146 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 145 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 145 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 147 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 147 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 149 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
