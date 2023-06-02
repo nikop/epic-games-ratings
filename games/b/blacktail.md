@@ -31,10 +31,10 @@ Rating: 4.67 (Ranked 258)
 | Gnowlledgeable | 2.00% | ~8 |
 | Always worth a try | 2.00% | ~8 |
 | Toxic | 2.00% | ~8 |
+| Entangled | 2.00% | ~8 |
 | Bad apple | 1.00% | ~4 |
 | Loremaster | 1.00% | ~4 |
 | Awards unwarded | 1.00% | ~4 |
-| Entangled | 1.00% | ~4 |
 | Mushrooming enthusiast | 0.50% | ~2 |
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)

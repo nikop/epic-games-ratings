@@ -2,10 +2,10 @@
   "ID": "0afe670b57a74a8398e8386dc8242a17",
   "Name": "Stillborn Slayer",
   "ProductSlug": "stillborn-slayer-298dd7",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:58:16.585146+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:59:13.0491712+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:05:38.5602809+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:59:18.4724618+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:05:39.7360166+00:00"
 }

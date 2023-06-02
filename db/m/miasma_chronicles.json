@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 951,
+  "EOS_Progressed": 953,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-06-02T11:02:13.4917133+00:00",
       "NumProgressed": 951,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T12:02:16.1595956+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1091,9 +1096,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 658
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1189,7 +1194,7 @@
       "Name": "Limp Richard",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1253,7 +1258,7 @@
       "Name": "Firestarter",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1261,7 +1266,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 867
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1285,7 +1290,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "GIANT_KILLER",
@@ -1293,7 +1298,7 @@
       "Name": "Giant Killer",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "GOAL",
@@ -1309,7 +1314,7 @@
       "Name": "Gun for Hire",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1325,7 +1330,7 @@
       "Name": "I am the law!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "INFILTRATOR",
@@ -1341,7 +1346,7 @@
       "Name": "Lumberjack",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1381,7 +1386,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "RECYCLER",
@@ -1461,7 +1466,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "THE_WATCHERS",
@@ -1484,7 +1489,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 951,
+      "Progressed": 953,
       "Completed": 0
     }
   ],
@@ -1492,8 +1497,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-01T20:58:08.0220539+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:02:13.4917129+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:02:16.1595951+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:58:52.6028221+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:02:13.4917649+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:58:57.1586148+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:02:16.1596491+00:00"
 }

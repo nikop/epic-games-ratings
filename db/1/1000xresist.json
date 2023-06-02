@@ -2,10 +2,10 @@
   "ID": "ada7b5750a1e45fe8180df80891a8a57",
   "Name": "1000xRESIST",
   "ProductSlug": "1000xresist-fd0537",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:58:47.3951833+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:00:04.049006+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:04:57.6136863+00:00"
+  "LastUpdate_Ratings": "2023-06-02T12:00:06.6615097+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:04:58.6751163+00:00"
 }

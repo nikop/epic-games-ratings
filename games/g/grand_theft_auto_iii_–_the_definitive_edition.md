@@ -5,18 +5,18 @@ Rating: 4.15 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,838 |
-| Disposing of the Evidence | 36.00% | ~2,098 |
-| Without a Scratch | 32.00% | ~1,865 |
-| Wreckless Driving | 27.00% | ~1,574 |
-| A Marked Man | 24.00% | ~1,399 |
-| Street Sweeper | 17.00% | ~991 |
-| Liberty City Minute | 16.00% | ~933 |
-| Offshore Delivery | 12.00% | ~699 |
-| Dirty Money | 11.00% | ~641 |
+| First Day on the Job | 83.00% | ~4,843 |
+| Disposing of the Evidence | 36.00% | ~2,101 |
+| Without a Scratch | 32.00% | ~1,867 |
+| Wreckless Driving | 27.00% | ~1,575 |
+| A Marked Man | 24.00% | ~1,400 |
+| Street Sweeper | 17.00% | ~992 |
+| Liberty City Minute | 16.00% | ~934 |
+| Offshore Delivery | 12.00% | ~700 |
+| Dirty Money | 11.00% | ~642 |
 | By a Mile | 9.00% | ~525 |
 | Right-hand Man | 9.00% | ~525 |
-| Not So Fast | 8.00% | ~466 |
+| Not So Fast | 8.00% | ~467 |
 | A Gift from the King | 6.00% | ~350 |
 | Full Artillery | 4.00% | ~233 |
 | Mob Boss | 2.00% | ~117 |
@@ -27,15 +27,15 @@ Rating: 4.15 (Ranked 851)
 | Come Out to Play-y-y-y | 1.00% | ~58 |
 | Where To? | 1.00% | ~58 |
 | Playing Doctor | 1.00% | ~58 |
-| Planned Ahead | 0.90% | ~52 |
-| Man Toyz | 0.90% | ~52 |
-| Going Rogue | 0.90% | ~52 |
+| Planned Ahead | 0.90% | ~53 |
+| Man Toyz | 0.90% | ~53 |
+| Going Rogue | 0.90% | ~53 |
 | Wheels Up | 0.80% | ~47 |
 | Furious First Responder | 0.80% | ~47 |
 | Is That All You've Got? | 0.70% | ~41 |
 | King of Liberty City | 0.50% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,829 (Ranked 124)  
+Progressed: 5,835 (Ranked 124)  
 Completed: 28 (0.48%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 28 (0.48%) (Ranked 111)
 | 2023-05-30 | 5,695 | 27 |
 | 2023-05-31 | 5,743 | 27 |
 | 2023-06-01 | 5,801 | 28 |
-| 2023-06-02 | 5,829 | 28 |
+| 2023-06-02 | 5,835 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

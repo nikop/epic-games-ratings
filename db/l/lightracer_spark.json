@@ -2,10 +2,10 @@
   "ID": "ee8ab18a23df40e2a53deeb919e8b8eb",
   "Name": "Lightracer Spark",
   "ProductSlug": "lightracer-spark-5d4d3d",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-04-12T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:59:50.8847985+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:01:40.0958197+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:02:35.2547107+00:00"
+  "LastUpdate_Ratings": "2023-06-02T12:01:40.8374708+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:02:37.6854479+00:00"
 }

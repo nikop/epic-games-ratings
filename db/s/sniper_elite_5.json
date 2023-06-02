@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -248,7 +248,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2044,
+  "EOS_Progressed": 2046,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
@@ -2233,6 +2233,11 @@
       "Time": "2023-06-02T11:07:05.7107418+00:00",
       "NumProgressed": 2044,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T12:07:05.8274204+00:00",
+      "NumProgressed": 2046,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2324,7 +2329,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2468,7 +2473,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2556,7 +2561,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2580,7 +2585,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2811,13 +2816,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1995,
+      "Progressed": 1997,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2044,
+      "Progressed": 2046,
       "Completed": 2
     }
   ],
@@ -2825,8 +2830,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:07:05.7107414+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:07:05.8274196+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:01:41.655912+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:07:05.7108364+00:00"
+  "LastUpdate_Ratings": "2023-06-02T12:01:43.9354847+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:07:05.8275231+00:00"
 }

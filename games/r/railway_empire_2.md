@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~508 |
+| Departure | 73.00% | ~501 |
 | A new Journey | 73.00% | ~501 |
-| Departure | 72.00% | ~494 |
 | From X to Y | 71.00% | ~487 |
 | Way of Iron | 71.00% | ~487 |
 | Mystery Tour | 67.00% | ~460 |
 | Brainstorm | 66.00% | ~453 |
-| We brake for nobody | 65.00% | ~446 |
+| We brake for nobody | 66.00% | ~453 |
+| Travel Company | 64.00% | ~439 |
 | Mind the Gap | 63.00% | ~432 |
-| Travel Company | 63.00% | ~432 |
-| All around the World | 61.00% | ~418 |
-| Right through the middle | 54.00% | ~370 |
+| All around the World | 62.00% | ~425 |
+| Right through the middle | 55.00% | ~377 |
 | Poor Devil | 50.00% | ~343 |
-| Facility Manager | 47.00% | ~322 |
+| Facility Manager | 48.00% | ~329 |
 | Producer | 44.00% | ~302 |
 | Apprentice | 43.00% | ~295 |
 | Bridge Builder | 37.00% | ~254 |
@@ -40,7 +40,7 @@
 | Resistance is futile | 10.00% | ~69 |
 | Traffic Jam | 10.00% | ~69 |
 | Locusts | 10.00% | ~69 |
-| Breaking Ground | 9.00% | ~62 |
+| Breaking Ground | 10.00% | ~69 |
 | Networker | 8.00% | ~55 |
 | Max Power | 6.00% | ~41 |
 | Go West | 5.00% | ~34 |

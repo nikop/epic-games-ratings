@@ -36,11 +36,11 @@
 | Time Lord | 3.00% | ~2 |
 | Time Is of the Essence | 3.00% | ~2 |
 | First Things First | 3.00% | ~2 |
+| Made Father Proud | 3.00% | ~2 |
+| Win-Win! | 3.00% | ~2 |
 | Supersport Superfan | 3.00% | ~2 |
 | Playing Favourites | 3.00% | ~2 |
 | Tailor-Made | 3.00% | ~2 |
-| Made Father Proud | 2.00% | ~1 |
-| Win-Win! | 2.00% | ~1 |
 | Superbike Superfan | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

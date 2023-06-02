@@ -4362,10 +4362,10 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706824,
+  "EOS_Progressed": 706836,
   "EOS_Completed": 12751,
-  "EOS_NewPlayers": 1468,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1466,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8197,6 +8197,11 @@
       "Time": "2023-06-02T11:07:22.7923798+00:00",
       "NumProgressed": 706824,
       "NumCompleted": 12751
+    },
+    {
+      "Time": "2023-06-02T12:07:23.0112942+00:00",
+      "NumProgressed": 706836,
+      "NumCompleted": 12751
     }
   ],
   "TotalAchievements": 50,
@@ -8248,7 +8253,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "07_Wude_H1",
@@ -8304,7 +8309,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -8312,7 +8317,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "15_Detective_H1",
@@ -8360,7 +8365,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8376,7 +8381,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -8520,7 +8525,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8568,7 +8573,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -8607,21 +8612,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16125,
+      "Progressed": 16137,
       "Completed": 10212
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706824,
+      "Progressed": 706836,
       "Completed": 12751
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-02T10:59:47.0580083+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:07:22.7923792+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:07:23.0112936+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:59:47.0580094+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:07:22.7924607+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:59:50.4864643+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:07:23.0113811+00:00"
 }

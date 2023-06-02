@@ -2,10 +2,10 @@
   "ID": "e2e24497fa4444ba9cdf58a513e085ff",
   "Name": "Dungeons and Bombs",
   "ProductSlug": "dungeons-and-bombs-c92378",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-09-22T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:51.245036+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:58:38.1090422+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:04:10.9849107+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:58:42.1788493+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:04:11.6649497+00:00"
 }

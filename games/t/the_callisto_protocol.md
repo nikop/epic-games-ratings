@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,428 |
+| Flesh Wound | 10.00% | ~1,429 |
 | The Outer Way | 9.00% | ~1,286 |
 | Desperate Times | 8.00% | ~1,143 |
 | Chew 'Em Up | 7.00% | ~1,000 |
@@ -14,10 +14,10 @@ Rating: 4.18 (Ranked 835)
 | Reforged | 6.00% | ~857 |
 | Workplace Hazard | 5.00% | ~714 |
 | If the SHU Fits... | 5.00% | ~714 |
-| Get a Grip | 4.00% | ~571 |
-| Without A Paddle | 4.00% | ~571 |
-| Instigator | 4.00% | ~88 |
-| Big Game Hunter | 4.00% | ~88 |
+| Get a Grip | 4.00% | ~572 |
+| Without A Paddle | 4.00% | ~572 |
+| Instigator | 4.00% | ~89 |
+| Big Game Hunter | 4.00% | ~89 |
 | Two Heads Are Better Than One | 3.00% | ~429 |
 | Terminated | 3.00% | ~429 |
 | Float Like A Butterfly | 3.00% | ~429 |
@@ -35,8 +35,8 @@ Rating: 4.18 (Ranked 835)
 | Parole Denied | 1.00% | ~22 |
 | In Striking Distance | 1.00% | ~143 |
 | Hoard Mode | 1.00% | ~22 |
-| Recidivist | 0.70% | ~15 |
-| Lifer | 0.70% | ~15 |
+| Recidivist | 0.70% | ~16 |
+| Lifer | 0.70% | ~16 |
 | Grim Reaper | 0.50% | ~71 |
 | The Protocol is About Life | 0.20% | ~29 |
 | It's over, Jacob! | 0.10% | ~14 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 835)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,285 (Ranked 102)  
+Progressed: 14,289 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 53 (0.37%) (Ranked 117)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,285 | 53 |
+| 2023-06-02 | 14,289 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
 Sum: 283 (Ranked 329)  

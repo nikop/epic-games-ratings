@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -528,7 +528,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2830,
+  "EOS_Progressed": 2831,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -1518,6 +1518,11 @@
       "Time": "2023-06-02T09:07:03.8307843+00:00",
       "NumProgressed": 2830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T12:07:24.8957373+00:00",
+      "NumProgressed": 2831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1737,7 +1742,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "Kills_Interactable",
@@ -1777,7 +1782,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1865,7 +1870,7 @@
       "Name": "Bloodless",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2000,21 +2005,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2830,
+      "Progressed": 2831,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2830,
+      "Progressed": 2831,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:07:24.6604524+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:07:24.8957369+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:59:19.1693877+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:07:24.6605246+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:59:24.2043633+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:07:24.895796+00:00"
 }

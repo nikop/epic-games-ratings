@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1091,9 +1091,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 119986,
+  "EOS_Progressed": 119988,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 869,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4946,6 +4946,11 @@
       "Time": "2023-06-02T11:07:11.4545859+00:00",
       "NumProgressed": 119986,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-02T12:07:11.5227232+00:00",
+      "NumProgressed": 119988,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -4989,7 +4994,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21597
+      "UsersEstimate": 21598
     },
     {
       "ID": "ACH_COP_BAD",
@@ -5037,7 +5042,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33596
+      "UsersEstimate": 33597
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -5053,7 +5058,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -5069,7 +5074,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23997
+      "UsersEstimate": 23998
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -5101,7 +5106,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13198
+      "UsersEstimate": 13199
     },
     {
       "ID": "ACH_CUNO",
@@ -5253,7 +5258,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -5276,15 +5281,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 119986,
+      "Progressed": 119988,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-31T15:58:44.1451339+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:07:11.4545855+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:07:11.5227225+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:41.5073294+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:59:53.6384555+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:07:11.4546526+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:59:56.809003+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:07:11.5227767+00:00"
 }

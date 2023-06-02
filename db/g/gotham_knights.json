@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1346,9 +1346,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63214,
+  "EOS_Progressed": 63216,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1101,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4746,6 +4746,11 @@
       "Time": "2023-06-02T11:07:26.753856+00:00",
       "NumProgressed": 63214,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-02T12:07:26.8660437+00:00",
+      "NumProgressed": 63216,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5213,7 +5218,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -5244,13 +5249,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63214,
+      "Progressed": 63216,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33494,
+      "Progressed": 33496,
       "Completed": 2644
     }
   ],
@@ -5258,8 +5263,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-02T09:00:19.1041127+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:07:26.7538555+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:07:26.8660431+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:00:43.4987401+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:07:26.7539362+00:00"
+  "LastUpdate_Ratings": "2023-06-02T12:00:45.0665213+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:07:26.8661358+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 228,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2023-06-02T00:03:12.352488+00:00",
       "NumProgressed": 226,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T12:04:10.807487+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -480,7 +485,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "completeact2",
@@ -488,7 +493,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "completeact3",
@@ -496,7 +501,7 @@
       "Name": "On the Road",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "findalltapes",
@@ -544,7 +549,7 @@
       "Name": "Partners in Crime",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "scoreminrankrh1",
@@ -552,7 +557,7 @@
       "Name": "Souvenirs",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "scoreminrankrp1",
@@ -560,7 +565,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrp2",
@@ -592,14 +597,14 @@
       "Name": "Friendzone",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 228,
       "Completed": 2
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:03:59.9386729+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:04:10.8074864+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:59:29.9512088+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:03:59.9386906+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:59:34.5151024+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:04:10.8075005+00:00"
 }

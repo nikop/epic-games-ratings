@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244026,
+  "EOS_Progressed": 244027,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3969,6 +3969,11 @@
       "Time": "2023-06-02T10:06:23.6219003+00:00",
       "NumProgressed": 244026,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T12:07:08.5801046+00:00",
+      "NumProgressed": 244027,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -4036,7 +4041,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41484
+      "UsersEstimate": 41485
     },
     {
       "ID": "cantBeKeptDown",
@@ -4220,7 +4225,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122013
+      "UsersEstimate": 122014
     },
     {
       "ID": "notScared",
@@ -4284,7 +4289,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51245
+      "UsersEstimate": 51246
     },
     {
       "ID": "thunderstruck",
@@ -4300,7 +4305,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31723
+      "UsersEstimate": 31724
     },
     {
       "ID": "treeMedalist",
@@ -4347,7 +4352,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244026,
+      "Progressed": 244027,
       "Completed": 2
     }
   ],
@@ -4355,8 +4360,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:07:08.5730575+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:07:08.580104+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.2330875+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:00:00.0415335+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:07:08.5731282+00:00"
+  "LastUpdate_Ratings": "2023-06-02T12:00:03.5114358+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:07:08.5801711+00:00"
 }

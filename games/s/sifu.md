@@ -22,11 +22,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,068 |
 | Bloody Sport | 1.00% | ~161 |
 | The best strikes are the ones we avoid | 1.00% | ~161 |
-| Furious Fists | 0.90% | ~6,361 |
-| Kill Nil | 0.90% | ~6,361 |
-| Stuntmaster | 0.90% | ~6,361 |
-| Street Fighting | 0.90% | ~6,361 |
-| Take damage to save time | 0.90% | ~6,361 |
+| Furious Fists | 0.90% | ~6,362 |
+| Kill Nil | 0.90% | ~6,362 |
+| Stuntmaster | 0.90% | ~6,362 |
+| Street Fighting | 0.90% | ~6,362 |
+| Take damage to save time | 0.90% | ~6,362 |
 | Old Child | 0.80% | ~5,655 |
 | Scareless | 0.70% | ~4,948 |
 | Kung-Fu Tussle | 0.70% | ~4,948 |
@@ -43,8 +43,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.40% | ~2,827 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,827 |
 | Sword Stained With Blood | 0.40% | ~2,827 |
-| Martial Hub | 0.40% | ~64 |
-| Prodigal Child | 0.30% | ~2,120 |
+| Martial Hub | 0.40% | ~65 |
+| Prodigal Child | 0.30% | ~2,121 |
 | Secure, Protect, Leave | 0.30% | ~48 |
 | Drunken Fighter | 0.20% | ~1,414 |
 | Martial Artist | 0.20% | ~1,414 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,824 (Ranked 15)  
+Progressed: 706,836 (Ranked 15)  
 Completed: 12,751 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 12,751 (1.80%) (Ranked 66)
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
-| 2023-06-02 | 706,824 | 12,751 |
+| 2023-06-02 | 706,836 | 12,751 |
 ## Awards
 Max (Great Boss Battles): 6,119  (Ranked 53)  
 Sum: 10,437 (Ranked 78)  

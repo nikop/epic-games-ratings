@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -1129,9 +1129,9 @@
       "ID": "5CustomDishesMenus",
       "SetID": "d1bm05f",
       "Name": "Culinary Arts",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "5OvenDishesMenu",
@@ -1442,8 +1442,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:02:25.596491+00:00",
+  "LastChanged_Achievements": "2023-06-02T12:02:28.2526099+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:59:00.141755+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:02:25.5965396+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:59:06.0629605+00:00",
+  "LastUpdate_Achievements": "2023-06-02T12:02:28.2526444+00:00"
 }
