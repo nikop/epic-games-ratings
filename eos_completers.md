@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.78% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.53% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -67,11 +67,11 @@
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 66 | [Sifu](games/s/sifu.md) | 1.80% |
 | 67 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.61% |
-| 69 | [Night Book](games/n/night_book.md) | 1.60% |
-| 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
-| 70 | [Somerville](games/s/somerville.md) | 1.59% |
-| 72 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
+| 68 | [Night Book](games/n/night_book.md) | 1.60% |
+| 69 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
+| 69 | [Somerville](games/s/somerville.md) | 1.59% |
+| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.56% |
+| 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
 | 73 | [Frogun](games/f/frogun.md) | 1.52% |
 | 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 75 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
@@ -98,9 +98,9 @@
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
 | 98 | [Them and Us](games/t/them_and_us.md) | 0.76% |
-| 99 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.75% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
+| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
+| 100 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.74% |
 | 102 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 103 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 104 | [Haven](games/h/haven.md) | 0.67% |
@@ -428,4 +428,4 @@
 | 209 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 209 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 209 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,720 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,721 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
