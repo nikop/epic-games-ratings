@@ -16,13 +16,13 @@
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
-| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.36% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.25% |
 | 18 | [Smelter](games/s/smelter.md) | 8.82% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Remains](games/r/remains.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.13% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.86% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
@@ -35,8 +35,8 @@
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.93% |
-| 37 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.92% |
+| 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.92% |
+| 36 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.76% |
@@ -82,9 +82,9 @@
 | 80 | [Chorus](games/c/chorus.md) | 1.20% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.20% |
 | 82 | [Trifox](games/t/trifox.md) | 1.19% |
-| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.16% |
-| 84 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
-| 85 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
+| 83 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
+| 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.14% |
+| 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 86 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
 | 87 | [Late Shift](games/l/late_shift.md) | 1.04% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.01% |
@@ -99,9 +99,9 @@
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 97 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
 | 99 | [Them and Us](games/t/them_and_us.md) | 0.76% |
-| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 102 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.74% |
+| 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
+| 101 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.74% |
 | 103 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 104 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 105 | [Haven](games/h/haven.md) | 0.67% |
@@ -148,12 +148,12 @@
 | 146 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 146 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 148 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
-| 148 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.16% |
 | 148 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 148 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 148 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 153 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 153 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 152 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 152 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
+| 152 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 155 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
 | 155 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 157 | [Isonzo](games/i/isonzo.md) | 0.13% |
