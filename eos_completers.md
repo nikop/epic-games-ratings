@@ -16,13 +16,13 @@
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.82% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.77% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [Remains](games/r/remains.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.94% |
-| 23 | [Time Loader](games/t/time_loader.md) | 7.92% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.92% |
+| 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 24 | [Scorn](games/s/scorn.md) | 6.87% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.86% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -88,7 +88,7 @@
 | 86 | [Five Dates](games/f/five_dates.md) | 1.01% |
 | 87 | [Sable](games/s/sable.md) | 0.95% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
-| 88 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.89% |
+| 89 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.88% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 92 | [Adios](games/a/adios.md) | 0.84% |
