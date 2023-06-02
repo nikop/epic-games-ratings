@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.56 (Ranked 453)  
+Rating: 4.56 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,7 +33,7 @@ Rating: 4.56 (Ranked 453)
 | Play it again, Ronny | 10.00% | ~36 |
 | Paradox! | 10.00% | ~36 |
 | Weapons 101 | 8.00% | ~29 |
-| Sadist | 7.00% | ~25 |
+| Sadist | 8.00% | ~29 |
 | The customer is always right | 7.00% | ~25 |
 | Apoca...huh? | 7.00% | ~25 |
 | Distraction | 6.00% | ~22 |

@@ -1352,9 +1352,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63300,
+  "EOS_Progressed": 63314,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4807,6 +4807,11 @@
       "Time": "2023-06-02T22:06:49.3252894+00:00",
       "NumProgressed": 63300,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-02T23:06:25.9078605+00:00",
+      "NumProgressed": 63314,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -4898,7 +4903,7 @@
       "Name": "End of an Era",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "APPLY_STATUS",
@@ -4962,7 +4967,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -4994,7 +4999,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -5018,7 +5023,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -5264,9 +5269,9 @@
       "ID": "MYSTERY_08",
       "SetID": "4eo5ebm",
       "Name": "Gotham Knight",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 570
     },
     {
       "ID": "SECRET_CACHE",
@@ -5282,7 +5287,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -5305,13 +5310,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63300,
+      "Progressed": 63314,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33580,
+      "Progressed": 33594,
       "Completed": 2644
     }
   ],
@@ -5319,8 +5324,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-02T19:00:05.7824886+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:06:49.325289+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:06:25.9078599+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:00:14.401449+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:06:49.3253861+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:59:46.2266016+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:06:25.9079215+00:00"
 }

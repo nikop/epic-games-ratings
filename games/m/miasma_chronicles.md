@@ -9,7 +9,7 @@ Rating: 4.30 (Ranked 760)
 | Ranidaphobia | 72.00% | ~696 |
 | Aspiring Editor | 69.00% | ~667 |
 | Gun for Hire | 64.00% | ~619 |
-| I am the law! | 55.00% | ~532 |
+| I am the law! | 56.00% | ~542 |
 | Lumberjack | 39.00% | ~377 |
 | Croaked | 34.00% | ~329 |
 | Limp Richard | 33.00% | ~319 |
@@ -19,7 +19,7 @@ Rating: 4.30 (Ranked 760)
 | Editor Adept | 30.00% | ~290 |
 | Giant Killer | 26.00% | ~251 |
 | Sensei | 25.00% | ~242 |
-| The meaning of Kain | 23.00% | ~222 |
+| The meaning of Kain | 24.00% | ~232 |
 | Technophobe | 20.00% | ~193 |
 | Recycler | 18.00% | ~174 |
 | Hold The Line | 16.00% | ~155 |
@@ -33,9 +33,9 @@ Rating: 4.30 (Ranked 760)
 | Newtonian Knockout | 12.00% | ~116 |
 | Experienced | 11.00% | ~106 |
 | Ruthless | 9.00% | ~87 |
+| The Watchers | 9.00% | ~87 |
 | Endgame | 8.00% | ~77 |
 | Savior | 8.00% | ~77 |
-| The Watchers | 8.00% | ~77 |
 | Chain Reaction | 6.00% | ~58 |
 | Commando | 6.00% | ~58 |
 | Curveball | 6.00% | ~58 |

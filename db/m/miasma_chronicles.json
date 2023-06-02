@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 967,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1363,9 +1363,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 542
     },
     {
       "ID": "INFILTRATOR",
@@ -1499,17 +1499,17 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 87
     },
     {
       "ID": "WIPE_OUT",
@@ -1532,8 +1532,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-01T20:58:08.0220539+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:01:14.3248825+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:00:49.4519239+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:58:43.6253886+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:01:14.3249542+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:58:20.0188514+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:00:49.4519806+00:00"
 }

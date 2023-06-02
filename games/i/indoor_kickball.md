@@ -7,16 +7,16 @@
 | Hat Unlocked | 82.00% | ~31 |
 | Accessory Unlocked | 82.00% | ~31 |
 | Character Unlocked | 79.00% | ~30 |
+| Homer | 68.00% | ~26 |
 | Kickball Unlocked | 66.00% | ~25 |
-| Homer | 66.00% | ~25 |
 | Have a good trip! | 63.00% | ~24 |
 | First Win | 58.00% | ~22 |
 | Stay Hydrated | 55.00% | ~21 |
 | Settle Down | 53.00% | ~20 |
 | Butter Fingers | 45.00% | ~17 |
 | True Story! | 32.00% | ~12 |
-| Kick It | 26.00% | ~10 |
-| Grand Slam! | 24.00% | ~9 |
+| Kick It | 29.00% | ~11 |
+| Grand Slam! | 26.00% | ~10 |
 | Have Mercy | 24.00% | ~9 |
 | Bedroom Secret Spot | 21.00% | ~8 |
 | Save some water for the fishies | 21.00% | ~8 |

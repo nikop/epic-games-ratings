@@ -31,15 +31,15 @@ Rating: 4.17 (Ranked 843)
 | Cooldown | 0.90% | ~570 |
 | Voiceless | 0.90% | ~570 |
 | Seeking Asylum | 0.90% | ~570 |
-| End of an Era | 0.80% | ~506 |
-| Bulldozed | 0.80% | ~506 |
-| Gotham Knight | 0.80% | ~506 |
+| Gotham Knight | 0.90% | ~570 |
+| End of an Era | 0.80% | ~507 |
+| Bulldozed | 0.80% | ~507 |
 | Gotham City Confidential | 0.70% | ~443 |
 | Out of Their League | 0.60% | ~380 |
 | Drone You Out | 0.60% | ~380 |
-| Fusion Expert | 0.50% | ~316 |
-| Family Meeting | 0.50% | ~316 |
-| Solid Alibi | 0.50% | ~316 |
+| Fusion Expert | 0.50% | ~317 |
+| Family Meeting | 0.50% | ~317 |
+| Solid Alibi | 0.50% | ~317 |
 | Dressed to Impress | 0.40% | ~253 |
 | Expert Crime Fighter | 0.40% | ~253 |
 | A Worthy Successor | 0.40% | ~253 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 843)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,300 (Ranked 71)  
+Progressed: 63,314 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-05-30 | 62,912 | 91 |
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
-| 2023-06-02 | 63,300 | 93 |
+| 2023-06-02 | 63,314 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,275  (Ranked 98)  
 Sum: 3,772 (Ranked 138)  

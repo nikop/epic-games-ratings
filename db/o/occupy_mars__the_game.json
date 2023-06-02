@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -1700,9 +1700,9 @@
       "ID": "NEW_ACHIEVEMENT_ROVER_MECHANIC",
       "SetID": "l546gc",
       "Name": "Rover Mechanic",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
@@ -1765,8 +1765,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-01T17:57:28.160087+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:04:12.9745437+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:03:53.6579371+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:57:47.7135326+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:04:12.9745947+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:57:26.7866874+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:03:53.6579726+00:00"
 }

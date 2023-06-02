@@ -22,7 +22,7 @@
 | Bit Blaster V7 | 6.00% | ~5 |
 | Bit Blaster V8 | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 279)  
+Progressed: 82 (Ranked 280)  
 Completed: 3 (3.66%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |

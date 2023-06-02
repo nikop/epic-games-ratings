@@ -1,17 +1,17 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~434,190 |
-| The Three | 64.00% | ~334,797 |
-| The Banquet | 40.00% | ~209,248 |
-| Devara's Light | 30.00% | ~156,936 |
+| Find Sanctuary | 83.00% | ~434,191 |
+| The Three | 64.00% | ~334,798 |
+| The Banquet | 40.00% | ~209,249 |
+| Devara's Light | 30.00% | ~156,937 |
 | The Iron Ones | 18.00% | ~94,162 |
-| The Village | 16.00% | ~83,699 |
+| The Village | 16.00% | ~83,700 |
 | The Forest | 14.00% | ~73,237 |
 | Branded | 13.00% | ~68,006 |
 | The Imposter | 13.00% | ~68,006 |
@@ -20,9 +20,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Dome | 9.00% | ~47,081 |
 | The Red Hall | 9.00% | ~47,081 |
 | The Sacrifice | 8.00% | ~41,850 |
-| The Cave | 7.00% | ~36,618 |
-| The Stone Roots | 7.00% | ~36,618 |
-| The Ziggurat | 7.00% | ~36,618 |
+| The Cave | 7.00% | ~36,619 |
+| The Stone Roots | 7.00% | ~36,619 |
+| The Ziggurat | 7.00% | ~36,619 |
 | Storied | 6.00% | ~31,387 |
 | The Construct | 6.00% | ~31,387 |
 | The Mire | 6.00% | ~31,387 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,462 |
 | Fading Fast | 1.00% | ~5,231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,120 (Ranked 25)  
+Progressed: 523,122 (Ranked 25)  
 Completed: 1,435 (0.27%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,14 +87,14 @@ Completed: 1,435 (0.27%) (Ranked 135)
 | 2023-05-30 | 522,785 | 1,430 |
 | 2023-05-31 | 522,884 | 1,432 |
 | 2023-06-01 | 522,986 | 1,433 |
-| 2023-06-02 | 523,120 | 1,435 |
+| 2023-06-02 | 523,122 | 1,435 |
 ## Awards
-Max (Challenging Combat): 270  (Ranked 236)  
-Sum: 1,884 (Ranked 191)  
+Max (Challenging Combat): 271  (Ranked 236)  
+Sum: 1,885 (Ranked 191)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 270 |
+| This game has Challenging Combat | 271 |
 | This game has Quickly Understood Controls | 251 |
 | This game is Highly Recommended | 247 |
 | This game is Extremely Fun | 229 |
@@ -217,3 +217,4 @@ Diff (max vs sum): 45
 | 2023-05-23 | 4.61 | - | 268 | 1,882 |
 | 2023-05-24 | 4.61 | - | 269 | 1,883 |
 | 2023-05-27 | 4.61 | - | 270 | 1,884 |
+| 2023-06-02 | 4.61 | - | 271 | 1,885 |

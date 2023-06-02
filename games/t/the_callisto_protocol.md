@@ -5,14 +5,14 @@ Rating: 4.18 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 11.00% | ~1,575 |
+| Flesh Wound | 11.00% | ~1,576 |
 | The Outer Way | 9.00% | ~1,289 |
 | Desperate Times | 8.00% | ~1,146 |
 | Chew 'Em Up | 7.00% | ~1,003 |
 | Paper Jams | 7.00% | ~1,003 |
 | Giving Back | 6.00% | ~859 |
+| Workplace Hazard | 6.00% | ~859 |
 | Reforged | 6.00% | ~859 |
-| Workplace Hazard | 5.00% | ~716 |
 | If the SHU Fits... | 5.00% | ~716 |
 | Get a Grip | 4.00% | ~573 |
 | Terminated | 4.00% | ~573 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 837)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,322 (Ranked 103)  
+Progressed: 14,323 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,10 @@ Completed: 53 (0.37%) (Ranked 119)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,322 | 53 |
+| 2023-06-02 | 14,323 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
-Sum: 283 (Ranked 329)  
+Sum: 284 (Ranked 329)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -100,7 +100,7 @@ Diff (max vs sum): 60
 | This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 44 |
 | This game has Quickly Understood Controls | 42 |
-| This game has Challenging Combat | 32 |
+| This game has Challenging Combat | 33 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -160,4 +160,4 @@ Diff (max vs sum): 60
 | 2023-05-30 | 4.18 | 50 | 277 |
 | 2023-05-31 | 4.18 | 50 | 281 |
 | 2023-06-01 | 4.18 | 50 | 282 |
-| 2023-06-02 | 4.18 | 50 | 283 |
+| 2023-06-02 | 4.18 | 50 | 284 |

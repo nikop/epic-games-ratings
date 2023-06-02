@@ -12,7 +12,7 @@ Rating: 4.31 (Ranked 755)
 | Earning Trust | 50.00% | ~470 |
 | Monster Slayer | 28.00% | ~263 |
 | Awakening | 22.00% | ~207 |
-| Huntmaster | 21.00% | ~197 |
+| Huntmaster | 21.00% | ~198 |
 | Complete the sidequest 'Malice and Greed' | 17.00% | ~160 |
 | Digging Deep | 13.00% | ~122 |
 | House Vulisica's Heirloom | 13.00% | ~122 |
@@ -29,7 +29,7 @@ Rating: 4.31 (Ranked 755)
 | Someone to Protect | 0.50% | ~5 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 940 (Ranked 175)  
+Progressed: 941 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-30 | 924 | 0 |
 | 2023-05-31 | 928 | 0 |
 | 2023-06-01 | 930 | 0 |
-| 2023-06-02 | 940 | 0 |
+| 2023-06-02 | 941 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 390,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 6.15,
   "EosHistory": [
@@ -1157,9 +1157,9 @@
       "ID": "LEVEL_025",
       "SetID": "212bg48",
       "Name": "A superb resort to enjoy the holidays!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_026",
@@ -1212,8 +1212,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:04:22.0477022+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:04:02.7903957+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:57:24.9684898+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:04:22.0477332+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:57:07.4231062+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:04:02.7904187+00:00"
 }

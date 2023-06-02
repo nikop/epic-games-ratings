@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 81.00% | ~97 |
-| You Have Been Deaded | 71.00% | ~85 |
-| Rookie | 66.00% | ~79 |
+| Graduation | 81.00% | ~98 |
+| You Have Been Deaded | 70.00% | ~85 |
+| Rookie | 65.00% | ~79 |
 | Apprentice Destructor | 25.00% | ~30 |
 | I Prefer Jazz Fusion | 10.00% | ~12 |
 | Avaricerite | 8.00% | ~10 |
@@ -15,17 +15,17 @@
 | Ball Galore | 5.00% | ~6 |
 | Easy Victory | 5.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
-| Ball Collector | 3.00% | ~4 |
 | Ball Protector | 3.00% | ~4 |
-| Legendary Destructor | 3.00% | ~4 |
-| Ticking Clock | 3.00% | ~4 |
+| Ball Collector | 2.00% | ~2 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
 | Ice Breaker | 2.00% | ~2 |
+| Legendary Destructor | 2.00% | ~2 |
 | Medium Rare | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Nomad | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
+| Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
 | Bullet Hell | 0.80% | ~1 |
 | Machine Man | 0.80% | ~1 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 0.80% | ~1 |
 | What Even Are You? | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 266)  
+Progressed: 121 (Ranked 266)  
 Completed: 1 (0.83%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 1 (0.83%) (Ranked 96)
 | 2023-05-29 | 114 | 1 |
 | 2023-05-30 | 118 | 1 |
 | 2023-05-31 | 120 | 1 |
+| 2023-06-02 | 121 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

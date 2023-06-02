@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2914,
+  "EOS_Progressed": 2915,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1118,6 +1118,11 @@
       "Time": "2023-06-02T18:02:13.884111+00:00",
       "NumProgressed": 2914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T23:02:25.6293151+00:00",
+      "NumProgressed": 2915,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1207,9 +1212,9 @@
       "ID": "ACH_K_A1",
       "SetID": "b3fep3o",
       "Name": "Go For the Head",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_K_A2",
@@ -1632,7 +1637,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2914,
+      "Progressed": 2915,
       "Completed": 0
     }
   ],
@@ -1640,8 +1645,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:02:22.6898685+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:02:25.6293147+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:07.5202981+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:00:12.7611633+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:02:22.6899471+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:59:44.6071699+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:02:25.6293644+00:00"
 }

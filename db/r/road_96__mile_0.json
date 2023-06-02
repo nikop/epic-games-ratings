@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 233,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-06-02T16:04:00.2945194+00:00",
       "NumProgressed": 232,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T23:03:39.8757792+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -501,9 +506,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 80,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "completeact3",
@@ -511,7 +516,7 @@
       "Name": "On the Road",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "findalltapes",
@@ -567,7 +572,7 @@
       "Name": "Souvenirs",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "scoreminrankrp1",
@@ -614,7 +619,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 233,
       "Completed": 2
     }
   ],
@@ -622,8 +627,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:03:48.9484507+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:03:39.8757786+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:59:15.4436613+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:03:48.948466+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:58:50.463877+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:03:39.8757928+00:00"
 }

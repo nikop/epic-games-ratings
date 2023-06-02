@@ -1870,9 +1870,9 @@
       "ID": "UNLOCK_RESEARCH_5",
       "SetID": "5349c2e",
       "Name": "Studious Researcher",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1405
     }
   ],
   "AchievementSets": [
@@ -1886,8 +1886,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-02T06:00:06.4515781+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:06:34.4001883+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:06:11.6073662+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.8895612+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:00:20.4502106+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:06:34.4002167+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:59:51.5914188+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:06:11.6073873+00:00"
 }

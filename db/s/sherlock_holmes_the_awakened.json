@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 348,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.31,
   "EosHistory": [
@@ -1066,9 +1066,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "MQ04_2",
@@ -1082,9 +1082,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "MQ05_1",
@@ -1154,17 +1154,17 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "MQ08_1",
@@ -1211,8 +1211,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:04:23.177444+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:04:03.9938707+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:57:38.061487+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:04:23.1774713+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:57:18.0062572+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:04:03.9938944+00:00"
 }

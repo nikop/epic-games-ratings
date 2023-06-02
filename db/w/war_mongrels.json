@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -611,6 +611,11 @@
       "Time": "2023-06-02T20:02:17.1911424+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T23:02:32.2099916+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -726,15 +731,15 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -782,7 +787,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -878,15 +883,15 @@
       "Name": "Consequences",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_FIN_CH06",
       "SetID": "1j25agn",
       "Name": "Opportunities",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -894,7 +899,7 @@
       "Name": "The Horror",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -990,7 +995,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1006,7 +1011,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1030,7 +1035,7 @@
       "Name": "Eat Lead!",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1093,15 +1098,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:02:29.7534317+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:02:32.2099909+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.3400359+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:57:51.9597776+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:02:29.7534899+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:57:30.7622905+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:02:32.2101162+00:00"
 }

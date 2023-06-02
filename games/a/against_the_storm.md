@@ -34,8 +34,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 0.90% | ~136 |
 | Against All Odds | 0.90% | ~136 |
 | Haunted Forest | 0.90% | ~136 |
+| Statue of the Forefathers | 0.90% | ~136 |
 | Serving Ale | 0.80% | ~121 |
-| Statue of the Forefathers | 0.80% | ~121 |
 | Forsaken Gods Temple | 0.80% | ~121 |
 | Ruined Armory | 0.70% | ~106 |
 | Defying the Crown | 0.70% | ~106 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,140 (Ranked 100)  
+Progressed: 15,142 (Ranked 100)  
 Completed: 33 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-05-30 | 15,089 | 33 |
 | 2023-05-31 | 15,102 | 33 |
 | 2023-06-01 | 15,121 | 33 |
-| 2023-06-02 | 15,140 | 33 |
+| 2023-06-02 | 15,142 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,036 (Ranked 152)  

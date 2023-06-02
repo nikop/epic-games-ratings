@@ -12,16 +12,16 @@
 | History Check | 45.00% | ~157 |
 | A Method To His Madness | 45.00% | ~157 |
 | Lock, Stock, And Barrel | 42.00% | ~146 |
+| The New World | 42.00% | ~146 |
 | Gaze Into The Abyss | 41.00% | ~143 |
-| The New World | 41.00% | ~143 |
 | Open Sesame | 40.00% | ~139 |
 | Sticky Fingers | 40.00% | ~139 |
 | Back In The Saddle | 39.00% | ~136 |
 | Knives Out | 39.00% | ~136 |
 | Land, Ho! | 39.00% | ~136 |
 | No Man Is An Island | 37.00% | ~129 |
-| At Wits' End | 35.00% | ~122 |
-| Going Once... | 33.00% | ~115 |
+| At Wits' End | 36.00% | ~125 |
+| Going Once... | 34.00% | ~118 |
 | Bookworm | 33.00% | ~115 |
 | Fhtagn! | 33.00% | ~115 |
 | Up In Flames | 32.00% | ~111 |
@@ -29,7 +29,7 @@
 | Brain Food | 29.00% | ~101 |
 | No Stone Unturned | 28.00% | ~97 |
 | Curiosity Killed The Cat | 18.00% | ~63 |
-| Read It And Weep | 17.00% | ~59 |
+| Read It And Weep | 18.00% | ~63 |
 | Big Breakthrough | 15.00% | ~52 |
 | Reawakened | 6.00% | ~21 |
 ## Popularity (Based on EOS Achievements)

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let the Adventure Begin! | 80.00% | ~8 |
+| Spirit of competition | 60.00% | ~6 |
+| Creature Evolution | 50.00% | ~5 |
 | Think Positive | 50.00% | ~5 |
-| Spirit of competition | 50.00% | ~5 |
-| Creature Evolution | 40.00% | ~4 |
 | Prized Possession | 40.00% | ~4 |
 | Landscaper | 10.00% | ~1 |
 | Dream Big | 10.00% | ~1 |

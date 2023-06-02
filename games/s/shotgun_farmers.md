@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 51.00% | ~13 |
-| Survivor | 43.00% | ~11 |
-| Seeds of War | 35.00% | ~26 |
-| No Diggity | 35.00% | ~9 |
-| Early Survivor | 33.00% | ~8 |
+| Aspairagus | 50.00% | ~13 |
+| Survivor | 42.00% | ~11 |
+| Seeds of War | 34.00% | ~26 |
+| No Diggity | 34.00% | ~9 |
+| Early Survivor | 33.00% | ~9 |
 | Amateur Survivor | 25.00% | ~6 |
 | First Blood | 24.00% | ~18 |
-| No Asperascope | 23.00% | ~17 |
-| Bouncemato | 23.00% | ~6 |
+| No Asperascope | 22.00% | ~17 |
+| Bouncemato | 22.00% | ~6 |
 | I Believe I Can Fly | 20.00% | ~15 |
 | Quick-Draw Pod | 20.00% | ~5 |
-| Cornivore | 19.00% | ~14 |
+| Cornivore | 18.00% | ~14 |
 | Triple Kill | 17.00% | ~13 |
-| Grave Digger | 15.00% | ~4 |
+| Grave Digger | 14.00% | ~4 |
 | 15K | 13.00% | ~10 |
 | 10K | 13.00% | ~10 |
 | Professional Survivor | 13.00% | ~3 |
@@ -29,8 +29,8 @@
 | Skin Of Your Teeth | 7.00% | ~5 |
 | Quit Horsin' Around | 7.00% | ~5 |
 | Master Survivor | 7.00% | ~2 |
+| This Is My Boomstick | 7.00% | ~2 |
 | Summers Here | 7.00% | ~2 |
-| This Is My Boomstick | 5.00% | ~1 |
 | Easy Peasy | 4.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |
 | Getting Started | 3.00% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 289)  
+Progressed: 76 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-29 | 66 | 0 |
 | 2023-05-30 | 67 | 0 |
 | 2023-06-01 | 74 | 0 |
-| 2023-06-02 | 75 | 0 |
+| 2023-06-02 | 76 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

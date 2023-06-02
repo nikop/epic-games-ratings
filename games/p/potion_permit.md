@@ -42,7 +42,7 @@ Rating: 3.80 (Ranked 921)
 | Tree Exterminator | 2.00% | ~27 |
 | Being forgetful... | 1.00% | ~13 |
 | Moonbury Navigator | 0.80% | ~11 |
-| Being a donut... | 0.50% | ~7 |
+| Being a donut... | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,330 (Ranked 160)  
 Completed: 5 (0.38%) (Ranked 117)  

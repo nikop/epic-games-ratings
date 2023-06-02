@@ -1,21 +1,21 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.56 (Ranked 453)  
+Rating: 4.56 (Ranked 452)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,202 |
-| Apprentice | 58.00% | ~381,190 |
+| The Fool | 72.00% | ~473,203 |
+| Apprentice | 58.00% | ~381,191 |
 | Close Shave | 25.00% | ~164,306 |
 | Mercenary | 23.00% | ~151,162 |
 | Ninja | 23.00% | ~151,162 |
 | Northern Scourge | 17.00% | ~111,728 |
 | Thief Bane | 14.00% | ~92,012 |
 | Master of Arms | 12.00% | ~78,867 |
-| Gambler | 10.00% | ~65,722 |
-| Dice Master | 10.00% | ~65,722 |
+| Gambler | 10.00% | ~65,723 |
+| Dice Master | 10.00% | ~65,723 |
 | Swordsman | 9.00% | ~59,150 |
 | Knight | 8.00% | ~52,578 |
 | Cure for Corruption | 8.00% | ~52,578 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~19,717 |
 | Combat Ready | 3.00% | ~19,717 |
 | Stuffed Potato | 3.00% | ~19,717 |
-| Card Sharp | 2.00% | ~13,144 |
-| Magician | 2.00% | ~13,144 |
-| Draknar's Bane | 2.00% | ~13,144 |
+| Card Sharp | 2.00% | ~13,145 |
+| Magician | 2.00% | ~13,145 |
+| Draknar's Bane | 2.00% | ~13,145 |
 | Protector of the Realm | 1.00% | ~6,572 |
 | Purgatorium | 1.00% | ~6,572 |
 | Cursed Soul | 1.00% | ~6,572 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~657 |
 | Blood Pact | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,225 (Ranked 18)  
+Progressed: 657,226 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 165 (0.03%) (Ranked 189)
 | 2023-05-30 | 657,088 | 165 |
 | 2023-05-31 | 657,138 | 165 |
 | 2023-06-01 | 657,178 | 165 |
-| 2023-06-02 | 657,225 | 165 |
+| 2023-06-02 | 657,226 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 361)  

@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-05-31T19:02:13.6421308+00:00",
       "NumProgressed": 120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T23:02:29.3279609+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -591,9 +596,9 @@
       "ID": "ball_collector",
       "SetID": "jig50d",
       "Name": "Ball Collector",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ball_galore",
@@ -639,7 +644,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 85
     },
@@ -657,7 +662,7 @@
       "Name": "Graduation",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -679,9 +684,9 @@
       "ID": "legendary_destructor",
       "SetID": "jig50d",
       "Name": "Legendary Destructor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "machine_man",
@@ -735,7 +740,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 79
     },
@@ -759,9 +764,9 @@
       "ID": "ticking_clock",
       "SetID": "jig50d",
       "Name": "Ticking Clock",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "total_walrus",
@@ -816,7 +821,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 1
     }
   ],
@@ -824,8 +829,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:02:26.8269249+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:02:29.3279605+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:00:28.235207+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:02:26.8269518+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:59:58.9686075+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:02:29.3279818+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -562,9 +562,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_COOK",
@@ -731,8 +731,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:06:18.014658+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:05:55.0348475+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:42.7902818+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:58:54.1582026+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:06:18.0146819+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:58:30.0229125+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:05:55.0348856+00:00"
 }

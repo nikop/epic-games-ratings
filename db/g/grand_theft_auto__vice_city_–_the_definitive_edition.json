@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 312,
   "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -376,7 +376,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7509,
+  "EOS_Progressed": 7512,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 2,
@@ -3286,6 +3286,11 @@
       "Time": "2023-06-02T22:03:31.5944303+00:00",
       "NumProgressed": 7509,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-02T23:03:23.0942749+00:00",
+      "NumProgressed": 7512,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3385,7 +3390,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH13",
@@ -3401,7 +3406,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "ACH15",
@@ -3457,7 +3462,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "ACH22",
@@ -3473,7 +3478,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "ACH24",
@@ -3481,7 +3486,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH25",
@@ -3497,7 +3502,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH27",
@@ -3568,7 +3573,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7509,
+      "Progressed": 7512,
       "Completed": 25
     }
   ],
@@ -3576,8 +3581,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-02T03:58:36.7858578+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:03:31.5944296+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:03:23.094274+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:58:42.1481858+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:03:31.5944783+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:58:18.5904574+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:03:23.0943671+00:00"
 }

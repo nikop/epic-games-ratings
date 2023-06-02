@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -462,10 +462,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 283,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-06-02T22:57:53.3955356+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 283,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -503,7 +509,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has a Creative Community",
@@ -512,9 +518,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14322,
+  "EOS_Progressed": 14323,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2522,6 +2528,11 @@
       "Time": "2023-06-02T22:04:30.3019681+00:00",
       "NumProgressed": 14322,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-02T23:04:10.8769133+00:00",
+      "NumProgressed": 14323,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2565,7 +2576,7 @@
       "Name": "Flesh Wound",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2675,9 +2686,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 716
+      "UsersEstimate": 859
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2852,22 +2863,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14322,
+      "Progressed": 14323,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2248,
+      "Progressed": 2249,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-02T10:58:19.5947584+00:00",
-  "LastChanged_Achievements": "2023-06-02T22:04:30.3019676+00:00",
+  "LastChanged": "2023-06-02T22:57:53.3955354+00:00",
+  "LastChanged_Achievements": "2023-06-02T23:04:10.8769126+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:58:15.619695+00:00",
-  "LastUpdate_Achievements": "2023-06-02T22:04:30.3020141+00:00"
+  "LastUpdate_Ratings": "2023-06-02T22:57:53.3955359+00:00",
+  "LastUpdate_Achievements": "2023-06-02T23:04:10.87697+00:00"
 }
