@@ -44,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Third Third Out | 0.20% | ~111 |
 | The Silken Swamp | 0.20% | ~179 |
 | A Steadfast Love | 0.20% | ~111 |
+| Wet Feet | 0.20% | ~179 |
 | The Lutes of Loomlurch | 0.20% | ~111 |
 | Supply Run | 0.20% | ~179 |
 | Best Laid Plans | 0.20% | ~111 |
@@ -97,6 +98,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~179 |
 | Elturel Has Fallen | 0.20% | ~179 |
 | Resolve Amongst Chaos | 0.20% | ~179 |
+| Into The Fire | 0.20% | ~111 |
 | Hearts Aflame | 0.20% | ~111 |
 | Look Out! | 0.20% | ~111 |
 | Bad Odds in Avernus | 0.20% | ~111 |
@@ -154,7 +156,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~56 |
 | Zarak's Revenge | 0.10% | ~56 |
 | Bully for You! | 0.10% | ~56 |
-| Wet Feet | 0.10% | ~89 |
 | The Dark Heart | 0.10% | ~56 |
 | Undergeared | 0.10% | ~56 |
 | Underdark Chill | 0.10% | ~56 |
@@ -380,7 +381,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~56 |
 | Ireena von Zarovich | 0.10% | ~56 |
 | Déjà Vu All Over Again | 0.10% | ~56 |
-| Into The Fire | 0.10% | ~56 |
 | A Difficult Descent | 0.10% | ~56 |
 | The Devil Arrives | 0.10% | ~56 |
 | Dreamscape | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,470 (Ranked 62)  
+Progressed: 89,473 (Ranked 62)  
 Completed: 1,907 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 62)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,470 | 1,907 |
+| 2023-06-02 | 89,473 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,015 (Ranked 37)  

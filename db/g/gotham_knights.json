@@ -1340,9 +1340,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63186,
+  "EOS_Progressed": 63191,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4710,6 +4710,11 @@
       "Time": "2023-06-02T05:06:46.1107619+00:00",
       "NumProgressed": 63186,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-02T06:06:39.8214747+00:00",
+      "NumProgressed": 63191,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -4801,7 +4806,7 @@
       "Name": "End of an Era",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "APPLY_STATUS",
@@ -4809,7 +4814,7 @@
       "Name": "In Your Element",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "CHALLENGES_1",
@@ -4881,7 +4886,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -4897,7 +4902,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -4929,7 +4934,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -5161,7 +5166,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "MYSTERY_08",
@@ -5169,7 +5174,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "SECRET_CACHE",
@@ -5208,13 +5213,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63186,
+      "Progressed": 63191,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33466,
+      "Progressed": 33471,
       "Completed": 2644
     }
   ],
@@ -5222,8 +5227,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-01T22:59:41.8548094+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:06:46.1107613+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:06:39.8214741+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:00:07.7608791+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:06:46.1108398+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:59:59.6963888+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:06:39.821556+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 3.81 (Ranked 917)
 | Personal Matter | 87.00% | ~13,465 |
 | But You Have Heard of Me | 72.00% | ~11,143 |
 | Double the Barrels, double the Fun | 55.00% | ~8,512 |
-| Pimp My Glide | 46.00% | ~7,119 |
+| Pimp My Glide | 47.00% | ~7,274 |
 | ... And Where Do the Stories Come From? | 41.00% | ~6,346 |
 | House Party! | 33.00% | ~5,107 |
 | Make It Rain | 24.00% | ~3,714 |

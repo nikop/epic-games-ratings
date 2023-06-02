@@ -5478,9 +5478,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 48249,
+  "EOS_Progressed": 48256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4438,
+  "EOS_NewPlayers": 4433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9858,6 +9858,11 @@
       "Time": "2023-06-02T05:06:51.8240111+00:00",
       "NumProgressed": 48249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T06:06:45.6398033+00:00",
+      "NumProgressed": 48256,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -9925,7 +9930,7 @@
       "Name": "A Protected Market",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_a_sun_god",
@@ -9949,7 +9954,7 @@
       "Name": "AAA Credit",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_absolutely",
@@ -10029,7 +10034,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -10149,7 +10154,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -10301,7 +10306,7 @@
       "Name": "Bright Spark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_brothers_in_arms",
@@ -10381,7 +10386,7 @@
       "Name": "City of Cities",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_cold_war",
@@ -10485,7 +10490,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -10581,7 +10586,7 @@
       "Name": "Electable!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -10629,7 +10634,7 @@
       "Name": "Factionalism",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_fanatic_collectivist",
@@ -10653,7 +10658,7 @@
       "Name": "Fine Financials",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_fine_goosestep",
@@ -10661,7 +10666,7 @@
       "Name": "A Fine Goosestep",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_first_come_first_serve",
@@ -10701,7 +10706,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "achievement_forever_golden",
@@ -10829,7 +10834,7 @@
       "Name": "A Golden Empire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_golden_horn",
@@ -11005,7 +11010,7 @@
       "Name": "Imperio espa\u00F1ol",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_imposter_syndrome",
@@ -11037,7 +11042,7 @@
       "Name": "Industrial Powerhouse",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_inner_turmoil",
@@ -11085,7 +11090,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -11333,7 +11338,7 @@
       "Name": "Magellan\u2019s Voyage",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_maharana_pratap",
@@ -11805,7 +11810,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -12285,7 +12290,7 @@
       "Name": "The Power of Three",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_the_princess_is_in_this_castle",
@@ -12405,7 +12410,7 @@
       "Name": "Time Bandit",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_to_the_bone",
@@ -12477,7 +12482,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "achievement_trustworthy",
@@ -12533,7 +12538,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4342
+      "UsersEstimate": 4343
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -12597,7 +12602,7 @@
       "Name": "We bled for this",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_where_am_i",
@@ -12677,7 +12682,7 @@
       "Name": "World Discoverer",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_yarr_harr_a_pirates_life_for_me",
@@ -12700,21 +12705,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 48249,
+      "Progressed": 48256,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 48249,
+      "Progressed": 48256,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-01T22:57:14.022215+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:06:51.8240103+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:06:45.6398028+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.5359105+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:57:35.8967683+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:06:51.82533+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:57:22.7195642+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:06:45.6410997+00:00"
 }

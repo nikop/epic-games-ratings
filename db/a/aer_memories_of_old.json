@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 597,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 71,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11118,
+  "EOS_Progressed": 11119,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 782,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 779,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
@@ -4554,6 +4554,11 @@
       "Time": "2023-06-02T05:06:35.4406752+00:00",
       "NumProgressed": 11118,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-06-02T06:06:28.8107896+00:00",
+      "NumProgressed": 11119,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 20,
@@ -4613,7 +4618,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -4717,22 +4722,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 11118,
+      "Progressed": 11119,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:06:35.4406746+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:06:28.8107889+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:00:31.7779561+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:06:35.4407412+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:00:25.2661987+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:06:28.8108355+00:00"
 }

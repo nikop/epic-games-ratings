@@ -1,16 +1,16 @@
 # Legends of Runeterra
 [Store](https://store.epicgames.com/en-US/p/legends-of-runeterra)  
 [View Rawdata](../../db/l/legends_of_runeterra.json)  
-Rating: 4.65 (Ranked 294)  
+Rating: 4.65 (Ranked 295)  
 Number of Ratings: 431  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 153  (Ranked 286)  
-Sum: 1,334 (Ranked 219)  
+Sum: 1,335 (Ranked 219)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 153 |
-| This game has Diverse Characters | 148 |
+| This game has Diverse Characters | 149 |
 | This game is Great for Beginners | 148 |
 | This game has Quickly Understood Controls | 122 |
 | This game is Relaxing | 120 |
@@ -155,3 +155,4 @@ Diff (max vs sum): 67
 | 2023-05-30 | 4.65 | - | 153 | 1,241 |
 | 2023-05-31 | 4.65 | - | 153 | 1,242 |
 | 2023-06-01 | 4.65 | - | 153 | 1,334 |
+| 2023-06-02 | 4.65 | - | 153 | 1,335 |

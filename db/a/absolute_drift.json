@@ -3,8 +3,8 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 663,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 42,
@@ -430,7 +430,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1520259,
+  "EOS_Progressed": 1520266,
   "EOS_Completed": 616,
   "EOS_NewPlayers": 1629,
   "EOS_NewCompleters": 5,
@@ -4780,6 +4780,11 @@
       "Time": "2023-06-02T05:04:17.6559702+00:00",
       "NumProgressed": 1520259,
       "NumCompleted": 616
+    },
+    {
+      "Time": "2023-06-02T06:04:06.6990072+00:00",
+      "NumProgressed": 1520266,
+      "NumCompleted": 616
     }
   ],
   "TotalAchievements": 20,
@@ -4799,7 +4804,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106418
+      "UsersEstimate": 106419
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -4839,7 +4844,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136823
+      "UsersEstimate": 136824
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -4887,7 +4892,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152026
+      "UsersEstimate": 152027
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -4950,15 +4955,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1520259,
+      "Progressed": 1520266,
       "Completed": 616
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:04:17.6559696+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:04:06.6990064+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:27.6569582+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:00:27.0744894+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:04:17.6560112+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:00:20.0361626+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:04:06.6990527+00:00"
 }

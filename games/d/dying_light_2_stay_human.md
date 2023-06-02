@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,407 |
-| Into the Unknown | 9.00% | ~50,767 |
-| First Shot | 9.00% | ~50,767 |
-| Herzlich Wilkommen! | 8.00% | ~45,126 |
-| Good Night & Good Luck | 8.00% | ~45,126 |
-| Sancho Panza | 7.00% | ~39,485 |
-| Oh, So This Is How It Works! | 7.00% | ~39,485 |
-| Under Pressure | 6.00% | ~33,844 |
-| On the Trail of the Enemy | 6.00% | ~33,844 |
-| Light in the Darkness | 6.00% | ~33,844 |
-| It Wasn't That Hard, Was It? | 6.00% | ~33,844 |
-| Flag Burning | 6.00% | ~33,844 |
-| Night Hunter | 6.00% | ~33,844 |
-| Get Outta My House! | 5.00% | ~28,204 |
-| Being All Social | 5.00% | ~28,204 |
-| Debris and Ashes | 4.00% | ~22,563 |
-| We Will Be Heard! | 4.00% | ~22,563 |
-| Known Associate | 4.00% | ~22,563 |
-| Brush with Death | 4.00% | ~22,563 |
-| Going Down | 4.00% | ~22,563 |
-| Family First | 4.00% | ~22,563 |
-| Your World, Your Rules | 4.00% | ~22,563 |
-| Tunnel Entrance | 4.00% | ~22,563 |
-| After the Fall | 4.00% | ~22,563 |
-| Can't Touch This! | 4.00% | ~22,563 |
-| Death From Afar | 4.00% | ~22,563 |
-| Terminal Headache | 4.00% | ~22,563 |
-| Slowpoke! | 4.00% | ~22,563 |
-| You're Going Down! | 3.00% | ~16,922 |
-| Tickets, Please! | 2.00% | ~11,281 |
-| Parkour Master | 2.00% | ~11,281 |
-| Combat Master | 2.00% | ~11,281 |
+| You Never Forget Your First... | 10.00% | ~56,410 |
+| Into the Unknown | 9.00% | ~50,769 |
+| First Shot | 9.00% | ~50,769 |
+| Herzlich Wilkommen! | 8.00% | ~45,128 |
+| Good Night & Good Luck | 8.00% | ~45,128 |
+| Sancho Panza | 7.00% | ~39,487 |
+| Oh, So This Is How It Works! | 7.00% | ~39,487 |
+| Under Pressure | 6.00% | ~33,846 |
+| On the Trail of the Enemy | 6.00% | ~33,846 |
+| Light in the Darkness | 6.00% | ~33,846 |
+| It Wasn't That Hard, Was It? | 6.00% | ~33,846 |
+| Flag Burning | 6.00% | ~33,846 |
+| Night Hunter | 6.00% | ~33,846 |
+| Get Outta My House! | 5.00% | ~28,205 |
+| Being All Social | 5.00% | ~28,205 |
+| Debris and Ashes | 4.00% | ~22,564 |
+| We Will Be Heard! | 4.00% | ~22,564 |
+| Known Associate | 4.00% | ~22,564 |
+| Brush with Death | 4.00% | ~22,564 |
+| Going Down | 4.00% | ~22,564 |
+| Family First | 4.00% | ~22,564 |
+| Your World, Your Rules | 4.00% | ~22,564 |
+| Tunnel Entrance | 4.00% | ~22,564 |
+| After the Fall | 4.00% | ~22,564 |
+| Can't Touch This! | 4.00% | ~22,564 |
+| Death From Afar | 4.00% | ~22,564 |
+| Terminal Headache | 4.00% | ~22,564 |
+| Slowpoke! | 4.00% | ~22,564 |
+| You're Going Down! | 3.00% | ~16,923 |
+| Tickets, Please! | 2.00% | ~11,282 |
+| Parkour Master | 2.00% | ~11,282 |
+| Combat Master | 2.00% | ~11,282 |
 | Municipal Services | 1.00% | ~5,641 |
 | Tube Map | 1.00% | ~5,641 |
 | Don Quixote | 1.00% | ~5,641 |
@@ -52,12 +52,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Boot Licker | 0.80% | ~4,513 |
 | Night of Terrors | 0.80% | ~1,676 |
 | Find Anything Interesting? | 0.70% | ~3,949 |
-| Who Wants To Be a... | 0.60% | ~3,384 |
-| Get the Point? | 0.60% | ~3,384 |
+| Who Wants To Be a... | 0.60% | ~3,385 |
+| Get the Point? | 0.60% | ~3,385 |
 | My Friend, Ciro | 0.60% | ~1,257 |
 | Skullcrusher | 0.60% | ~1,257 |
-| Revenants | 0.50% | ~2,820 |
-| Tanning Salon | 0.50% | ~2,820 |
+| Revenants | 0.50% | ~2,821 |
+| Tanning Salon | 0.50% | ~2,821 |
 | Lightning Reflexes | 0.40% | ~2,256 |
 | Man On a Mission | 0.30% | ~1,692 |
 | A Friend in Need... | 0.20% | ~1,128 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~210 |
 | Connoisseur | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564,074 (Ranked 22)  
+Progressed: 564,104 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 49 (0.01%) (Ranked 198)
 | 2023-05-30 | 562,168 | 49 |
 | 2023-05-31 | 562,978 | 49 |
 | 2023-06-01 | 563,923 | 49 |
-| 2023-06-02 | 564,074 | 49 |
+| 2023-06-02 | 564,104 | 49 |
 ## Awards
 Max (Character Customization): 7,382  (Ranked 43)  
 Sum: 16,674 (Ranked 59)  

@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~32,944 |
+| Own use | 76.00% | ~32,945 |
 | I read Shakespeare and stuff | 64.00% | ~27,743 |
-| Just a sprinkle | 63.00% | ~27,309 |
-| I'm stumped | 61.00% | ~26,442 |
-| Plant get enough | 61.00% | ~26,442 |
-| It's just the beginning | 59.00% | ~25,575 |
+| Just a sprinkle | 63.00% | ~27,310 |
+| I'm stumped | 61.00% | ~26,443 |
+| Plant get enough | 61.00% | ~26,443 |
+| It's just the beginning | 59.00% | ~25,576 |
 | This is just my weekend vehicle | 58.00% | ~25,142 |
-| Hard work pays off | 53.00% | ~22,974 |
+| Hard work pays off | 53.00% | ~22,975 |
 | It's never too late to farm | 47.00% | ~20,374 |
-| All out of Land | 44.00% | ~19,073 |
+| All out of Land | 44.00% | ~19,074 |
 | Field Trip | 43.00% | ~18,640 |
-| I like to switch it up | 40.00% | ~17,339 |
-| Help me to help you | 38.00% | ~16,472 |
-| Ultimutt Pawesomeness | 28.00% | ~12,137 |
-| Van Gogh | 26.00% | ~11,270 |
+| I like to switch it up | 40.00% | ~17,340 |
+| Help me to help you | 38.00% | ~16,473 |
+| Ultimutt Pawesomeness | 28.00% | ~12,138 |
+| Van Gogh | 26.00% | ~11,271 |
 | You wood not believe it | 21.00% | ~9,103 |
 | Vehicle fleet | 21.00% | ~9,103 |
 | The plot thickens | 16.00% | ~6,936 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~173 |
 | Raisin the stakes | 0.30% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,348 (Ranked 81)  
+Progressed: 43,349 (Ranked 81)  
 Completed: 5 (0.01%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 5 (0.01%) (Ranked 198)
 | 2023-05-30 | 43,257 | 5 |
 | 2023-05-31 | 43,297 | 5 |
 | 2023-06-01 | 43,339 | 5 |
-| 2023-06-02 | 43,348 | 5 |
+| 2023-06-02 | 43,349 | 5 |
 ## Awards
 Max (Great for Beginners): 4,295  (Ranked 70)  
-Sum: 36,794 (Ranked 31)  
+Sum: 36,796 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -108,7 +108,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 3,688 |
 | This game has Diverse Characters | 3,650 |
 | This game has Amazing Storytelling | 3,590 |
-| This game has Amazing Characters | 3,210 |
+| This game has Amazing Characters | 3,212 |
 | This game has a Creative Community | 3,021 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -251,3 +251,4 @@ Diff (max vs sum): 39
 | 2023-05-30 | 4.70 | - | 4,291 | 36,758 |
 | 2023-05-31 | 4.70 | - | 4,291 | 36,776 |
 | 2023-06-01 | 4.70 | - | 4,295 | 36,794 |
+| 2023-06-02 | 4.70 | - | 4,295 | 36,796 |

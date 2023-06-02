@@ -2,12 +2,12 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 294,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2152,9 +2152,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 18584,
+  "EOS_Progressed": 18585,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1003,
+  "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -6407,6 +6407,11 @@
       "Time": "2023-06-02T05:04:52.6003094+00:00",
       "NumProgressed": 18584,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-06-02T06:04:42.7840489+00:00",
+      "NumProgressed": 18585,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 60,
@@ -6426,7 +6431,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8734
+      "UsersEstimate": 8735
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -6458,7 +6463,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -6506,7 +6511,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -6634,7 +6639,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7805
+      "UsersEstimate": 7806
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -6650,7 +6655,7 @@
       "Name": "Rusty Steel",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7805
+      "UsersEstimate": 7806
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -6658,7 +6663,7 @@
       "Name": "Thirst quencher",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -6674,7 +6679,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -6746,7 +6751,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -6754,7 +6759,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -6770,7 +6775,7 @@
       "Name": "The Force disturbed",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -6810,7 +6815,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -6818,7 +6823,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 13009
+      "UsersEstimate": 13010
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -6897,15 +6902,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 18584,
+      "Progressed": 18585,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-01T13:06:54.336734+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:04:52.6003087+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:04:42.7840484+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:43.7478417+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:59:29.8565154+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:04:52.6003968+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:59:21.816751+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:04:42.7841342+00:00"
 }

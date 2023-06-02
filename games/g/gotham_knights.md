@@ -27,13 +27,13 @@ Rating: 4.17 (Ranked 841)
 | Rock and a Hard Place | 0.90% | ~569 |
 | Cooldown | 0.90% | ~569 |
 | Voiceless | 0.90% | ~569 |
-| End of an Era | 0.80% | ~505 |
-| In Your Element | 0.80% | ~505 |
-| Not On My Watch | 0.80% | ~505 |
-| Bulldozed | 0.80% | ~505 |
-| Shock Til They Drop | 0.80% | ~505 |
-| Seeking Asylum | 0.80% | ~505 |
-| Gotham Knight | 0.80% | ~505 |
+| End of an Era | 0.80% | ~506 |
+| In Your Element | 0.80% | ~506 |
+| Not On My Watch | 0.80% | ~506 |
+| Bulldozed | 0.80% | ~506 |
+| Shock Til They Drop | 0.80% | ~506 |
+| Seeking Asylum | 0.80% | ~506 |
+| Gotham Knight | 0.80% | ~506 |
 | Gotham City Confidential | 0.70% | ~442 |
 | Out of Their League | 0.60% | ~379 |
 | Drone You Out | 0.60% | ~379 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 841)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,186 (Ranked 71)  
+Progressed: 63,191 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 93 (0.15%) (Ranked 152)
 | 2023-05-30 | 62,912 | 91 |
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
-| 2023-06-02 | 63,186 | 93 |
+| 2023-06-02 | 63,191 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,275  (Ranked 98)  
 Sum: 3,770 (Ranked 138)  

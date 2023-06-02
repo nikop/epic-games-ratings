@@ -3,8 +3,8 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_Rating": 759,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 87,
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 944,
+  "EOS_Progressed": 945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1041,6 +1041,11 @@
       "Time": "2023-06-02T05:01:11.8392263+00:00",
       "NumProgressed": 944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T06:01:09.3812095+00:00",
+      "NumProgressed": 945,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1068,7 +1073,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1114,9 +1119,9 @@
       "ID": "CHAOS_THEORY",
       "SetID": "9a4jnji",
       "Name": "Chaos Theory",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 47
     },
     {
       "ID": "COMMANDO",
@@ -1202,9 +1207,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 76
     },
     {
       "ID": "EXORCIST",
@@ -1212,7 +1217,7 @@
       "Name": "Exorcist",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "EXPERIENCED",
@@ -1236,7 +1241,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1284,7 +1289,7 @@
       "Name": "Gun for Hire",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1364,7 +1369,7 @@
       "Name": "Recycler",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "RUTHLESS",
@@ -1418,9 +1423,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 180
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1459,7 +1464,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 944,
+      "Progressed": 945,
       "Completed": 0
     }
   ],
@@ -1467,8 +1472,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-01T20:58:08.0220539+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:01:11.8392256+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:01:09.3812087+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:58:37.0278238+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:01:11.8393238+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:58:28.9702394+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:01:09.3812811+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~231,016 |
-| First Victory | 50.00% | ~231,016 |
-| Clean Sheet | 49.00% | ~226,396 |
+| He's Signed! | 50.00% | ~231,017 |
+| First Victory | 50.00% | ~231,017 |
+| Clean Sheet | 49.00% | ~226,397 |
 | He's Sold! | 47.00% | ~217,156 |
 | I'm The Boss! | 41.00% | ~189,434 |
 | Hat-trick | 41.00% | ~189,434 |
-| Thumping | 37.00% | ~170,952 |
-| Scoring Streak | 37.00% | ~170,952 |
+| Thumping | 37.00% | ~170,953 |
+| Scoring Streak | 37.00% | ~170,953 |
 | Unbeatable! | 36.00% | ~166,332 |
 | Superb Dressing Room Atmosphere | 35.00% | ~161,712 |
 | Total Support | 32.00% | ~147,851 |
-| Record Signing | 31.00% | ~143,230 |
-| Millionaire's Club | 31.00% | ~143,230 |
+| Record Signing | 31.00% | ~143,231 |
+| Millionaire's Club | 31.00% | ~143,231 |
 | Team Performance | 30.00% | ~138,610 |
 | He's a Natural | 30.00% | ~138,610 |
 | Parked The Bus | 29.00% | ~133,990 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~462 |
 | Shoestring Budget | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,033 (Ranked 31)  
+Progressed: 462,034 (Ranked 31)  
 Completed: 18 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 18 (0.00%) (Ranked 209)
 | 2023-05-30 | 461,812 | 18 |
 | 2023-05-31 | 461,906 | 18 |
 | 2023-06-01 | 462,020 | 18 |
-| 2023-06-02 | 462,033 | 18 |
+| 2023-06-02 | 462,034 | 18 |
 ## Awards
 Max (Relaxing): 6,285  (Ranked 51)  
 Sum: 49,567 (Ranked 24)  

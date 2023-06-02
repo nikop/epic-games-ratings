@@ -213,9 +213,9 @@
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "A_Meet_Uncle_Steff",
@@ -310,8 +310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:06:23.1474588+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:06:16.2136633+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.6820927+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:59:16.6188338+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:06:23.1474805+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:59:08.4018062+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:06:16.213682+00:00"
 }

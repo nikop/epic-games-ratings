@@ -5,23 +5,23 @@ Rating: 4.30 (Ranked 759)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~868 |
+| First Blood | 92.00% | ~869 |
 | Ranidaphobia | 72.00% | ~680 |
-| Aspiring Editor | 70.00% | ~661 |
-| Gun for Hire | 64.00% | ~604 |
+| Aspiring Editor | 70.00% | ~662 |
+| Gun for Hire | 64.00% | ~605 |
 | I am the law! | 54.00% | ~510 |
 | Lumberjack | 38.00% | ~359 |
 | Croaked | 32.00% | ~302 |
 | Limp Richard | 32.00% | ~302 |
 | Firestarter | 32.00% | ~302 |
 | From Darkness to Light | 32.00% | ~302 |
-| Exorcist | 30.00% | ~283 |
+| Exorcist | 30.00% | ~284 |
 | Editor Adept | 29.00% | ~274 |
 | Giant Killer | 24.00% | ~227 |
 | Sensei | 23.00% | ~217 |
 | The meaning of Kain | 22.00% | ~208 |
-| Technophobe | 18.00% | ~170 |
-| Recycler | 17.00% | ~160 |
+| Technophobe | 19.00% | ~180 |
+| Recycler | 17.00% | ~161 |
 | Chain Killer | 14.00% | ~132 |
 | Hold The Line | 14.00% | ~132 |
 | Are you not entertained? | 13.00% | ~123 |
@@ -32,16 +32,16 @@ Rating: 4.30 (Ranked 759)
 | Newtonian Knockout | 12.00% | ~113 |
 | Pushing Daisy | 12.00% | ~113 |
 | Experienced | 10.00% | ~94 |
+| Endgame | 8.00% | ~76 |
 | Ruthless | 8.00% | ~76 |
 | The Watchers | 8.00% | ~76 |
-| Endgame | 7.00% | ~66 |
 | Savior | 7.00% | ~66 |
 | Dr Jones | 6.00% | ~57 |
 | Chain Reaction | 5.00% | ~47 |
+| Chaos Theory | 5.00% | ~47 |
 | Commando | 5.00% | ~47 |
 | Curveball | 5.00% | ~47 |
 | Wipe Out | 5.00% | ~47 |
-| Chaos Theory | 4.00% | ~38 |
 | Side Order | 4.00% | ~38 |
 | Bot Whisperer | 3.00% | ~28 |
 | Dressed To Kill | 2.00% | ~19 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 759)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944 (Ranked 174)  
+Progressed: 945 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
-| 2023-06-02 | 944 | 0 |
+| 2023-06-02 | 945 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

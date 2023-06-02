@@ -5,35 +5,35 @@ Rating: 4.49 (Ranked 560)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,377 |
+| Stylish | 86.00% | ~19,378 |
 | Advancement | 73.00% | ~16,448 |
 | Meticulously Efficient | 64.00% | ~14,420 |
-| Discovery | 62.00% | ~13,969 |
-| Swift Rift Removers | 56.00% | ~12,617 |
-| Fully Upgraded | 55.00% | ~12,392 |
-| Cultured | 53.00% | ~11,941 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,716 |
-| Vaporous Expansion | 49.00% | ~11,040 |
+| Discovery | 62.00% | ~13,970 |
+| Swift Rift Removers | 56.00% | ~12,618 |
+| Fully Upgraded | 55.00% | ~12,393 |
+| Cultured | 53.00% | ~11,942 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,717 |
+| Vaporous Expansion | 49.00% | ~11,041 |
 | Teamwork | 45.00% | ~10,139 |
 | There you are! | 44.00% | ~9,914 |
 | Clutch Capture | 41.00% | ~9,238 |
-| Back Off | 36.00% | ~8,111 |
+| Back Off | 36.00% | ~8,112 |
 | Daily Dose | 35.00% | ~7,886 |
-| Welcome to the Crew | 33.00% | ~7,435 |
+| Welcome to the Crew | 33.00% | ~7,436 |
 | Solo Capture | 32.00% | ~7,210 |
 | Ghostbuster In Training | 31.00% | ~6,985 |
-| Icing on the Cake | 30.00% | ~6,759 |
+| Icing on the Cake | 30.00% | ~6,760 |
 | Side Hustle | 28.00% | ~6,309 |
-| We have the best insurance | 27.00% | ~6,083 |
-| Legions | 27.00% | ~6,083 |
-| Stunner | 27.00% | ~6,083 |
-| Summoner | 27.00% | ~6,083 |
+| We have the best insurance | 27.00% | ~6,084 |
+| Legions | 27.00% | ~6,084 |
+| Stunner | 27.00% | ~6,084 |
+| Summoner | 27.00% | ~6,084 |
 | Pesky Jerks | 26.00% | ~5,858 |
 | Right back at ya | 26.00% | ~5,858 |
 | Animated | 25.00% | ~5,633 |
 | Skilled | 25.00% | ~5,633 |
-| Collector | 24.00% | ~5,407 |
-| Ectoplasmic Entity | 24.00% | ~5,407 |
+| Collector | 24.00% | ~5,408 |
+| Ectoplasmic Entity | 24.00% | ~5,408 |
 | Rift Destroyer | 20.00% | ~4,506 |
 | Tobin's Prodigy | 19.00% | ~4,281 |
 | Reckless | 18.00% | ~4,056 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 560)
 | I don't need these | 1.00% | ~225 |
 | Mycophile | 1.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,531 (Ranked 93)  
+Progressed: 22,532 (Ranked 93)  
 Completed: 40 (0.18%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 40 (0.18%) (Ranked 146)
 | 2023-05-30 | 22,454 | 40 |
 | 2023-05-31 | 22,486 | 40 |
 | 2023-06-01 | 22,517 | 40 |
-| 2023-06-02 | 22,531 | 40 |
+| 2023-06-02 | 22,532 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,090 (Ranked 183)  

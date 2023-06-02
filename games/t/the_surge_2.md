@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,339 |
-| Don't I Know You...? | 77.00% | ~1,289 |
-| Jailbreak | 65.00% | ~1,088 |
+| Rigged And Ready | 80.00% | ~1,340 |
+| Don't I Know You...? | 77.00% | ~1,290 |
+| Jailbreak | 65.00% | ~1,089 |
 | Suited and Booted | 38.00% | ~636 |
-| HEADSHOT! | 37.00% | ~619 |
+| HEADSHOT! | 37.00% | ~620 |
 | Sleeping With The Fishes | 35.00% | ~586 |
 | Overheated | 30.00% | ~502 |
 | High Performance | 30.00% | ~502 |
@@ -23,7 +23,7 @@ Rating: 4.24 (Ranked 794)
 | Court Martial | 19.00% | ~318 |
 | Offensive Defense | 19.00% | ~318 |
 | Unforeseeable Consequences | 19.00% | ~318 |
-| Clean Cut | 18.00% | ~301 |
+| Clean Cut | 18.00% | ~302 |
 | Dead Again | 17.00% | ~285 |
 | Full Arsenal | 16.00% | ~268 |
 | Can't Trust Banks | 15.00% | ~251 |
@@ -35,7 +35,7 @@ Rating: 4.24 (Ranked 794)
 | Where It All Began | 12.00% | ~201 |
 | Sorry, Didn't See You There | 12.00% | ~201 |
 | Corrupted Beauty | 11.00% | ~184 |
-| Triplets | 10.00% | ~167 |
+| Triplets | 10.00% | ~168 |
 | Stimulating The Local Economy | 9.00% | ~151 |
 | A Little Banged Up | 8.00% | ~134 |
 | Denying Prophecy | 8.00% | ~134 |
@@ -54,16 +54,16 @@ Rating: 4.24 (Ranked 794)
 | Plank of Wood | 4.00% | ~67 |
 | Gotta Craft 'em All | 3.00% | ~50 |
 | Homewrecker | 3.00% | ~50 |
-| It Lives! It Sniffs! It Conquers! | 2.00% | ~33 |
-| Box Office Smash | 2.00% | ~33 |
-| Going Postal | 2.00% | ~33 |
-| Loot, Pillage & Craft | 2.00% | ~33 |
+| It Lives! It Sniffs! It Conquers! | 2.00% | ~34 |
+| Box Office Smash | 2.00% | ~34 |
+| Going Postal | 2.00% | ~34 |
+| Loot, Pillage & Craft | 2.00% | ~34 |
 | Own Medicine | 1.00% | ~17 |
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,674 (Ranked 154)  
+Progressed: 1,675 (Ranked 154)  
 Completed: 10 (0.60%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 10 (0.60%) (Ranked 107)
 | 2023-05-30 | 1,661 | 10 |
 | 2023-05-31 | 1,667 | 10 |
 | 2023-06-01 | 1,674 | 10 |
+| 2023-06-02 | 1,675 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

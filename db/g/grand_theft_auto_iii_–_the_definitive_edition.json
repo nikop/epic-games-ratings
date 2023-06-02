@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 851,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 92,
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5813,
+  "EOS_Progressed": 5815,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2708,6 +2708,11 @@
       "Time": "2023-06-02T05:03:48.8326178+00:00",
       "NumProgressed": 5813,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-06-02T06:03:36.9019354+00:00",
+      "NumProgressed": 5815,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -2719,7 +2724,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4826
     },
     {
       "ID": "ACH02",
@@ -2727,7 +2732,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "ACH03",
@@ -2759,7 +2764,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH07",
@@ -2839,7 +2844,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "ACH17",
@@ -2903,7 +2908,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH25",
@@ -2950,7 +2955,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5813,
+      "Progressed": 5815,
       "Completed": 28
     }
   ],
@@ -2958,8 +2963,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-01T04:58:26.2683164+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:03:48.8326171+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:03:36.9019348+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:58:12.1451384+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:03:48.8326516+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:58:02.5570407+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:03:36.9019754+00:00"
 }

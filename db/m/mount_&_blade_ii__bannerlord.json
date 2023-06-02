@@ -4509,9 +4509,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51740,
+  "EOS_Progressed": 51745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8689,6 +8689,11 @@
       "Time": "2023-06-02T05:06:45.803314+00:00",
       "NumProgressed": 51740,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T06:06:39.5278818+00:00",
+      "NumProgressed": 51745,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -8716,7 +8721,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "Best served cold",
@@ -8780,7 +8785,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     },
     {
       "ID": "Dynasty",
@@ -8788,7 +8793,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     },
     {
       "ID": "Entrepreneur",
@@ -8860,7 +8865,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 10865
+      "UsersEstimate": 10866
     },
     {
       "ID": "I can do it",
@@ -8876,7 +8881,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     },
     {
       "ID": "Jack of All Trades",
@@ -8892,7 +8897,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8278
+      "UsersEstimate": 8279
     },
     {
       "ID": "Kingslayer",
@@ -8924,7 +8929,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15522
+      "UsersEstimate": 15524
     },
     {
       "ID": "Lawbringer",
@@ -8932,7 +8937,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18109
+      "UsersEstimate": 18111
     },
     {
       "ID": "Lawmaker",
@@ -8940,7 +8945,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10865
+      "UsersEstimate": 10866
     },
     {
       "ID": "Long live the Empire",
@@ -8956,7 +8961,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "Minor Clan",
@@ -9052,7 +9057,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8278
+      "UsersEstimate": 8279
     },
     {
       "ID": "This Is Our Land",
@@ -9060,7 +9065,7 @@
       "Name": "This Is Our Land",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "This is Sparta",
@@ -9076,7 +9081,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "Undercover",
@@ -9100,22 +9105,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51740,
+      "Progressed": 51745,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-02T04:00:05.0156383+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:06:45.8033131+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:06:39.5278813+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.3183602+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:00:04.6892029+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:06:45.8033822+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:59:56.4168998+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:06:39.5279537+00:00"
 }

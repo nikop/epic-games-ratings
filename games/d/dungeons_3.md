@@ -1,32 +1,32 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.65 (Ranked 294)  
+Rating: 4.65 (Ranked 295)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~13,009 |
+| The Shadow strikes | 70.00% | ~13,010 |
 | The Evilest Evil | 59.00% | ~10,965 |
 | Twistram is devastated | 58.00% | ~10,779 |
 | The Gehenna Stones | 51.00% | ~9,478 |
-| No one has to die today! | 47.00% | ~8,734 |
+| No one has to die today! | 47.00% | ~8,735 |
 | Death and destruction! | 46.00% | ~8,549 |
 | The Swamplanders from the swamplands | 45.00% | ~8,363 |
-| The One-Huge-Army-Building Evil | 42.00% | ~7,805 |
-| Rusty Steel | 42.00% | ~7,805 |
+| The One-Huge-Army-Building Evil | 42.00% | ~7,806 |
+| Rusty Steel | 42.00% | ~7,806 |
 | The last burger | 39.00% | ~7,248 |
 | Braiiiiins! | 38.00% | ~7,062 |
 | Hands off the Dungeonheart! | 37.00% | ~6,876 |
-| A trip on sea, what fun it can be | 36.00% | ~6,690 |
+| A trip on sea, what fun it can be | 36.00% | ~6,691 |
 | Damned good | 34.00% | ~6,319 |
 | Stock Market Crash | 33.00% | ~6,133 |
 | Factory farming | 33.00% | ~6,133 |
 | Not-So-Overproud | 31.00% | ~5,761 |
-| For a handfull of Catapults | 30.00% | ~5,575 |
-| Thirst quencher | 29.00% | ~5,389 |
-| Ogre Solo! | 29.00% | ~5,389 |
-| Shadow hunter | 29.00% | ~5,389 |
+| For a handfull of Catapults | 30.00% | ~5,576 |
+| Thirst quencher | 29.00% | ~5,390 |
+| Ogre Solo! | 29.00% | ~5,390 |
+| Shadow hunter | 29.00% | ~5,390 |
 | Tide Master | 28.00% | ~5,204 |
 | Destroy the thing | 27.00% | ~5,018 |
 | Difficult family relationships | 26.00% | ~4,832 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 25.00% | ~4,646 |
 | Angel of Fire | 25.00% | ~4,646 |
 | Where there is Light, there is Shadow | 24.00% | ~4,460 |
-| At the foot of Mount Destiny | 23.00% | ~4,274 |
-| The Force disturbed | 22.00% | ~4,088 |
+| At the foot of Mount Destiny | 23.00% | ~4,275 |
+| The Force disturbed | 22.00% | ~4,089 |
 | The Victorious Evil | 21.00% | ~3,903 |
 | Chorus of damnation | 20.00% | ~3,717 |
 | We don’t have time! | 20.00% | ~3,717 |
 | The Stones’ Power | 18.00% | ~3,345 |
 | Flat as a pancake | 18.00% | ~3,345 |
 | Lifeguard | 18.00% | ~3,345 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,973 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,974 |
 | This is fun, I’m going to keep doing this! | 13.00% | ~2,416 |
 | Then let them eat cake! | 13.00% | ~2,416 |
 | Please, no interruptions! | 11.00% | ~2,044 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~372 |
 | Sacrifices! | 2.00% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,584 (Ranked 98)  
+Progressed: 18,585 (Ranked 98)  
 Completed: 162 (0.87%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 162 (0.87%) (Ranked 91)
 | 2023-05-30 | 18,342 | 162 |
 | 2023-05-31 | 18,461 | 162 |
 | 2023-06-01 | 18,557 | 162 |
-| 2023-06-02 | 18,584 | 162 |
+| 2023-06-02 | 18,585 | 162 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 219)  
 Sum: 2,553 (Ranked 166)  

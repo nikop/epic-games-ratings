@@ -5,19 +5,19 @@ Rating: 4.25 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~146,384 |
-| Copacetic Coordination | 16.00% | ~50,916 |
+| Corner Clout | 46.00% | ~146,386 |
+| Copacetic Coordination | 16.00% | ~50,917 |
 | Fronting the Money | 14.00% | ~44,552 |
 | The Dawn of Automation | 14.00% | ~44,552 |
 | Extraordinary Logistics | 14.00% | ~44,552 |
-| Dirty Money | 13.00% | ~41,369 |
-| Family First | 13.00% | ~41,369 |
-| Cleaning House | 12.00% | ~38,187 |
-| Room in the Back | 12.00% | ~38,187 |
+| Dirty Money | 13.00% | ~41,370 |
+| Family First | 13.00% | ~41,370 |
+| Cleaning House | 12.00% | ~38,188 |
+| Room in the Back | 12.00% | ~38,188 |
 | Booze Baron | 11.00% | ~35,005 |
-| Beating the Heat | 10.00% | ~31,822 |
-| Friends on the Force | 10.00% | ~31,822 |
-| Neighborhood Watch | 10.00% | ~31,822 |
+| Beating the Heat | 10.00% | ~31,823 |
+| Friends on the Force | 10.00% | ~31,823 |
+| Neighborhood Watch | 10.00% | ~31,823 |
 | Core Corps | 8.00% | ~25,458 |
 | Sizeable Stash | 7.00% | ~22,276 |
 | Street Fighter | 7.00% | ~22,276 |
@@ -25,17 +25,17 @@ Rating: 4.25 (Ranked 787)
 | People Person | 7.00% | ~22,276 |
 | Liquor Lord | 6.00% | ~19,094 |
 | Show ‘em the Sugar | 6.00% | ~19,094 |
-| Street Knowledge | 5.00% | ~15,911 |
-| Oh Captain | 5.00% | ~15,911 |
-| Branching Out | 5.00% | ~15,911 |
-| Improvement Missions | 5.00% | ~15,911 |
-| Opportunity Knocked | 5.00% | ~15,911 |
-| City of Big Shoulders | 5.00% | ~15,911 |
-| Safety in Numbers | 5.00% | ~15,911 |
-| Moving Experiences | 5.00% | ~15,911 |
-| Mission Mastery | 5.00% | ~15,911 |
-| Wise Head | 5.00% | ~15,911 |
-| Killing Them Softly | 5.00% | ~15,911 |
+| Street Knowledge | 5.00% | ~15,912 |
+| Oh Captain | 5.00% | ~15,912 |
+| Branching Out | 5.00% | ~15,912 |
+| Improvement Missions | 5.00% | ~15,912 |
+| Opportunity Knocked | 5.00% | ~15,912 |
+| City of Big Shoulders | 5.00% | ~15,912 |
+| Safety in Numbers | 5.00% | ~15,912 |
+| Moving Experiences | 5.00% | ~15,912 |
+| Mission Mastery | 5.00% | ~15,912 |
+| Wise Head | 5.00% | ~15,912 |
+| Killing Them Softly | 5.00% | ~15,912 |
 | Considerable Clams | 4.00% | ~12,729 |
 | Gin Joint | 4.00% | ~12,729 |
 | An Affront to the Enemy | 4.00% | ~12,729 |
@@ -48,11 +48,11 @@ Rating: 4.25 (Ranked 787)
 | Still Stalwart | 3.00% | ~9,547 |
 | Bees Knees Bootlegger | 3.00% | ~9,547 |
 | Tighten the Screws | 3.00% | ~9,547 |
-| One of Us | 2.00% | ~6,364 |
-| Baker’s Dozen | 2.00% | ~6,364 |
-| Dropping the Dime | 2.00% | ~6,364 |
-| Spiffy Speakeasies | 2.00% | ~6,364 |
-| Keeping Your Word | 2.00% | ~6,364 |
+| One of Us | 2.00% | ~6,365 |
+| Baker’s Dozen | 2.00% | ~6,365 |
+| Dropping the Dime | 2.00% | ~6,365 |
+| Spiffy Speakeasies | 2.00% | ~6,365 |
+| Keeping Your Word | 2.00% | ~6,365 |
 | Boxing Them In | 1.00% | ~3,182 |
 | Backroom Empire | 1.00% | ~3,182 |
 | Corner Control | 1.00% | ~3,182 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 787)
 | High Pillow | 0.10% | ~318 |
 | Station Master | 0.10% | ~318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318,225 (Ranked 38)  
+Progressed: 318,231 (Ranked 38)  
 Completed: 4 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,11 +129,11 @@ Completed: 4 (0.00%) (Ranked 209)
 | 2023-05-30 | 317,611 | 4 |
 | 2023-05-31 | 317,889 | 4 |
 | 2023-06-01 | 318,164 | 4 |
-| 2023-06-02 | 318,225 | 4 |
+| 2023-06-02 | 318,231 | 4 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 466)  
-Sum: 90 (Ranked 404)  
-Diff (max vs sum): 62  
+Sum: 90 (Ranked 405)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 24 |

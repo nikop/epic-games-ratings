@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,342 |
+| Until death do us apart | 9.00% | ~4,343 |
 | That's a Grand Army | 8.00% | ~3,860 |
 | That is mine! | 8.00% | ~3,860 |
 | Victorious! | 8.00% | ~3,860 |
 | Brothers in Arms | 6.00% | ~2,895 |
 | That's a Grand Navy | 6.00% | ~2,895 |
 | Seriously?! | 6.00% | ~2,895 |
-| For the Glory | 5.00% | ~2,412 |
+| For the Glory | 5.00% | ~2,413 |
 | Cold War | 4.00% | ~1,930 |
 | True Catholic | 4.00% | ~1,930 |
-| Defender of the Faith | 3.00% | ~1,447 |
-| It's all about the money | 3.00% | ~1,447 |
-| Respected | 3.00% | ~1,447 |
-| Truly Divine Ruler | 3.00% | ~1,447 |
+| Defender of the Faith | 3.00% | ~1,448 |
+| It's all about the money | 3.00% | ~1,448 |
+| Respected | 3.00% | ~1,448 |
+| Truly Divine Ruler | 3.00% | ~1,448 |
 | Agressive Expander | 2.00% | ~965 |
 | Blockader | 2.00% | ~965 |
 | Combined Arms | 2.00% | ~965 |
@@ -31,12 +31,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~965 |
 | The Princess is in this Castle | 2.00% | ~965 |
 | Total Control | 2.00% | ~965 |
-| All That's Thine Shall Be Mine | 1.00% | ~482 |
-| Azur semé de lis or | 1.00% | ~482 |
-| Bright Spark | 1.00% | ~482 |
-| City of Cities | 1.00% | ~482 |
-| Factionalism | 1.00% | ~482 |
-| A Golden Empire | 1.00% | ~482 |
+| All That's Thine Shall Be Mine | 1.00% | ~483 |
+| Azur semé de lis or | 1.00% | ~483 |
+| Bright Spark | 1.00% | ~483 |
+| City of Cities | 1.00% | ~483 |
+| Factionalism | 1.00% | ~483 |
+| A Golden Empire | 1.00% | ~483 |
 | The Five Colonies | 0.90% | ~434 |
 | This navy can take it all | 0.90% | ~434 |
 | The Emperors new clothes | 0.80% | ~386 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~386 |
 | Down Under | 0.70% | ~338 |
 | Trustworthy | 0.70% | ~338 |
-| Electable! | 0.60% | ~289 |
-| Time Bandit | 0.60% | ~289 |
+| Electable! | 0.60% | ~290 |
+| Time Bandit | 0.60% | ~290 |
 | All belongs to Mother Russia | 0.50% | ~241 |
 | At every continent | 0.50% | ~241 |
 | Early-Modern Warfare | 0.50% | ~241 |
@@ -81,16 +81,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.30% | ~145 |
 | Vasa or Wettin? | 0.30% | ~145 |
 | Wonderful | 0.30% | ~145 |
-| A Protected Market | 0.20% | ~96 |
-| AAA Credit | 0.20% | ~96 |
-| Fine Financials | 0.20% | ~96 |
-| A Fine Goosestep | 0.20% | ~96 |
-| Imperio español | 0.20% | ~96 |
-| Industrial Powerhouse | 0.20% | ~96 |
-| Magellan’s Voyage | 0.20% | ~96 |
-| The Power of Three | 0.20% | ~96 |
-| We bled for this | 0.20% | ~96 |
-| World Discoverer | 0.20% | ~96 |
+| A Protected Market | 0.20% | ~97 |
+| AAA Credit | 0.20% | ~97 |
+| Fine Financials | 0.20% | ~97 |
+| A Fine Goosestep | 0.20% | ~97 |
+| Imperio español | 0.20% | ~97 |
+| Industrial Powerhouse | 0.20% | ~97 |
+| Magellan’s Voyage | 0.20% | ~97 |
+| The Power of Three | 0.20% | ~97 |
+| We bled for this | 0.20% | ~97 |
+| World Discoverer | 0.20% | ~97 |
 | The 52 Garhs | 0.10% | ~48 |
 | I don't like sand | 0.10% | ~48 |
 | A Blessed Nation | 0.10% | ~48 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,249 (Ranked 78)  
+Progressed: 48,256 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 47,151 | 0 |
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
-| 2023-06-02 | 48,249 | 0 |
+| 2023-06-02 | 48,256 | 0 |
 ## Awards
 Max (Educational): 5,330  (Ranked 61)  
 Sum: 44,027 (Ranked 27)  

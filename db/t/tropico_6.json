@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3292,
+  "EOS_Progressed": 3293,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3400,6 +3400,11 @@
       "Time": "2023-06-02T04:03:12.225932+00:00",
       "NumProgressed": 3292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T06:02:17.2322252+00:00",
+      "NumProgressed": 3293,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3419,7 +3424,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -3507,7 +3512,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3571,7 +3576,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3595,15 +3600,15 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
       "SetID": "1p8ab95",
       "Name": "I Owe You Nothing",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_MYWAYS",
@@ -3667,7 +3672,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3730,15 +3735,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3292,
+      "Progressed": 3293,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-02T05:01:38.6615557+00:00",
+  "LastChanged_Achievements": "2023-06-02T06:02:17.2322245+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:00:32.5833156+00:00",
-  "LastUpdate_Achievements": "2023-06-02T05:01:38.661603+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:00:26.2113935+00:00",
+  "LastUpdate_Achievements": "2023-06-02T06:02:17.2322767+00:00"
 }
