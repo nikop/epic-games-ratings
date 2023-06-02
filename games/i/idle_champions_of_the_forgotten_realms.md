@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~268 |
 | The Contagious Curse | 0.30% | ~268 |
 | Escort to Waterdeep | 0.30% | ~268 |
+| Waterdeep Detours | 0.30% | ~268 |
 | Pros and CONs | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~111 |
 | The Witchlight Carnival | 0.20% | ~111 |
@@ -105,7 +106,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.20% | ~111 |
 | Close Escort | 0.20% | ~179 |
 | Constant Banditry | 0.20% | ~179 |
-| Waterdeep Detours | 0.20% | ~179 |
 | Lost in the Deep | 0.20% | ~179 |
 | Easily Distracted | 0.20% | ~179 |
 | Underdeep Cartography | 0.20% | ~179 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,451 (Ranked 61)  
+Progressed: 89,461 (Ranked 61)  
 Completed: 1,907 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,14 +543,14 @@ Completed: 1,907 (2.13%) (Ranked 62)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,451 | 1,907 |
+| 2023-06-02 | 89,461 | 1,907 |
 ## Awards
-Max (Diverse Characters): 4,913  (Ranked 64)  
-Sum: 30,013 (Ranked 37)  
+Max (Diverse Characters): 4,915  (Ranked 64)  
+Sum: 30,015 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,913 |
+| This game has Diverse Characters | 4,915 |
 | This game is Great for Beginners | 4,849 |
 | This game has Quickly Understood Controls | 4,609 |
 | This game is Relaxing | 4,502 |
@@ -687,3 +687,4 @@ Diff (max vs sum): 27
 | 2023-05-30 | 4.06 | - | 4,911 | 30,004 |
 | 2023-05-31 | 4.06 | - | 4,913 | 30,007 |
 | 2023-06-01 | 4.06 | - | 4,913 | 30,013 |
+| 2023-06-02 | 4.06 | - | 4,915 | 30,015 |

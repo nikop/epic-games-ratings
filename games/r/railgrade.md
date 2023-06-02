@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 485)  
+Rating: 4.54 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 485)
 | Simplification | 34.00% | ~6,388 |
 | Box of Trains | 33.00% | ~6,200 |
 | Let There be Light | 32.00% | ~6,012 |
-| Hot Water | 30.00% | ~5,636 |
+| Hot Water | 31.00% | ~5,824 |
 | Indecisive | 29.00% | ~5,448 |
 | The scenic route | 27.00% | ~5,072 |
 | Industrialist | 25.00% | ~4,697 |
@@ -44,7 +44,7 @@ Rating: 4.54 (Ranked 485)
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,787 (Ranked 97)  
-Completed: 29 (0.15%) (Ranked 150)  
+Completed: 30 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 29 (0.15%) (Ranked 150)
 | 2023-05-30 | 18,757 | 29 |
 | 2023-05-31 | 18,770 | 29 |
 | 2023-06-01 | 18,787 | 29 |
+| 2023-06-02 | 18,787 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 343)  
 Sum: 649 (Ranked 275)  

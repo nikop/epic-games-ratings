@@ -2,20 +2,20 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 194,
   "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
     "PcReleaseDate": "2022-02-17T06:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 882,
   "RatingHistory": [
     {
@@ -3359,10 +3359,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 5637,
       "NumberOfAwardsMax": 1555
+    },
+    {
+      "Time": "2023-06-02T02:19:00.2898965+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5641,
+      "NumberOfAwardsMax": 1555
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5637,
+  "NumberOfAwards": 5641,
   "NumberOfAwardsMax": 1555,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3424,13 +3430,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 352
+      "Count": 353
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 288
+      "Count": 291
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3456,8 +3462,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-06-01T15:00:38.8839239+00:00",
+  "LastChanged": "2023-06-02T02:19:00.2898963+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.8088081+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:59:31.9892887+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:59:51.9292403+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:19:00.2898968+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:19:30.1976273+00:00"
 }

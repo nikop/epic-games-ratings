@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63936,
+  "EOS_Progressed": 63938,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3155,6 +3155,11 @@
       "Time": "2023-06-01T23:02:16.2249818+00:00",
       "NumProgressed": 63936,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-02T02:21:23.7458721+00:00",
+      "NumProgressed": 63938,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -3182,7 +3187,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -3302,7 +3307,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -3325,7 +3330,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63936,
+      "Progressed": 63938,
       "Completed": 11
     }
   ],
@@ -3333,8 +3338,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:02:25.0661953+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:21:23.7458713+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.6644554+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:57:13.5532788+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:02:25.0662264+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:15:55.7780388+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:21:23.7458963+00:00"
 }

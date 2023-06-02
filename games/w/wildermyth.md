@@ -59,7 +59,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 1.00% | ~12 |
 | A Temperamental Shrub | 1.00% | ~12 |
 | A Lowly Crust of Beef | 0.80% | ~10 |
-| Overwhelming Monstrosity | 0.50% | ~6 |
+| Overwhelming Monstrosity | 0.60% | ~7 |
 | We Call That Mortificient! | 0.50% | ~6 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)

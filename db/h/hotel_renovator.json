@@ -2,13 +2,13 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 786,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-06-01T22:06:56.8386912+00:00",
       "NumProgressed": 785,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-02T02:25:03.9780893+00:00",
+      "NumProgressed": 786,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -568,7 +573,7 @@
       "Name": "King of hospitality",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -576,7 +581,7 @@
       "Name": "Soulmate?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -584,7 +589,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -608,7 +613,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -624,7 +629,7 @@
       "Name": "No need to call anyone",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -664,7 +669,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -680,7 +685,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_POSTCARD",
@@ -696,7 +701,7 @@
       "Name": "Let there be light",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -736,7 +741,7 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_STAR_5",
@@ -752,7 +757,7 @@
       "Name": "Reunited",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -775,7 +780,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 786,
       "Completed": 11
     }
   ],
@@ -783,8 +788,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:26.9143624+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:25:03.9780889+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.1714018+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:56:56.0037158+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:26.9143836+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:15:31.1629961+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:25:03.9781161+00:00"
 }

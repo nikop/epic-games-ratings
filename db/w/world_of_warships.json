@@ -3,12 +3,12 @@
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 653,
-  "Ranking_Popularity": 131,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
     "PcReleaseDate": "2017-11-15T16:00:00+00:00",
@@ -5020,12 +5020,18 @@
       "Rating": 4.42,
       "NumberOfAwards": 9755,
       "NumberOfAwardsMax": 1101
+    },
+    {
+      "Time": "2023-06-02T02:17:24.2448564+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 9760,
+      "NumberOfAwardsMax": 1102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9755,
-  "NumberOfAwardsMax": 1101,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 9760,
+  "NumberOfAwardsMax": 1102,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -5049,7 +5055,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1098
+      "Count": 1102
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5073,7 +5079,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 884
+      "Count": 885
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5099,8 +5105,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-06-01T19:58:29.2468427+00:00",
+  "LastChanged": "2023-06-02T02:17:24.2448563+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.2665463+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:58:20.1572259+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:00:18.5179338+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:17:24.2448573+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:20:24.3247628+00:00"
 }

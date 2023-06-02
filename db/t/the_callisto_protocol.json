@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14258,
+  "EOS_Progressed": 14264,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2426,6 +2426,11 @@
       "Time": "2023-06-02T00:03:38.2640607+00:00",
       "NumProgressed": 14258,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-02T02:22:42.9207377+00:00",
+      "NumProgressed": 14264,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2453,7 +2458,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2541,7 +2546,7 @@
       "Name": "Get a Grip",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2605,7 +2610,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2627,9 +2632,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1284
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2645,7 +2650,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "STORY_HANGAR",
@@ -2709,7 +2714,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2717,7 +2722,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2756,13 +2761,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14258,
+      "Progressed": 14264,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2184,
+      "Progressed": 2190,
       "Completed": 29
     }
   ],
@@ -2770,8 +2775,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-01T21:58:02.1906017+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:03:38.2640601+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:22:42.9207372+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:57:31.8038479+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:03:38.2641027+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:16:20.0219854+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:22:42.9208027+00:00"
 }

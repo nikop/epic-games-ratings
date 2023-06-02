@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -112,6 +112,11 @@
       "Time": "2023-06-01T17:04:03.0485749+00:00",
       "NumProgressed": 143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T02:23:04.7505225+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -155,15 +160,15 @@
       "Name": "Chief Butler",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "dodgy_geezer",
@@ -307,7 +312,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "scholar",
@@ -331,7 +336,7 @@
       "Name": "Smooth Operator",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "the_long_night",
@@ -362,7 +367,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
@@ -370,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:03:54.7364456+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:23:04.7505221+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:45.6277849+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:58:39.22009+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:03:54.7364674+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:17:49.6353325+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:23:04.7505407+00:00"
 }

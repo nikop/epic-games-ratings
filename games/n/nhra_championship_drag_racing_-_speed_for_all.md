@@ -10,7 +10,7 @@
 | Don't get ahead on yourself | 40.00% | ~275 |
 | I didn't know you where there! | 31.00% | ~213 |
 | Participation trophy | 24.00% | ~165 |
-| Whole again | 12.00% | ~82 |
+| Whole again | 13.00% | ~89 |
 | Getting the job done | 8.00% | ~55 |
 | Cash Rules Everything Around Me | 8.00% | ~55 |
 | Risky business | 6.00% | ~41 |

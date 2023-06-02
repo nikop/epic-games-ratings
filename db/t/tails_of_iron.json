@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 525,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1537,
+  "EOS_Progressed": 1538,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -991,6 +991,11 @@
       "Time": "2023-06-01T22:01:59.6159384+00:00",
       "NumProgressed": 1537,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-02T02:20:22.8524635+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1002,15 +1007,15 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 661
     },
     {
       "ID": "Collect20Iron",
@@ -1074,7 +1079,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1082,7 +1087,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1090,7 +1095,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "CompleteStoryDM",
@@ -1114,7 +1119,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1122,7 +1127,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1144,17 +1149,17 @@
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 907
     },
     {
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 831
     },
     {
       "ID": "Kill25Bugs",
@@ -1170,7 +1175,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "Kill25Mozi",
@@ -1210,7 +1215,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "RepairThroneRoom",
@@ -1218,7 +1223,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "RescueBrothers",
@@ -1241,22 +1246,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1537,
+      "Progressed": 1538,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 178,
-      "Completed": 178
+      "Progressed": 179,
+      "Completed": 179
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:00:17.3606754+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:20:22.852463+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:57:58.3305382+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:00:17.3607044+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:16:54.1945071+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:20:22.8524845+00:00"
 }

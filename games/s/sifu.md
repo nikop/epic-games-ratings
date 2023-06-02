@@ -7,21 +7,21 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~642 |
-| Project Arena | 3.00% | ~481 |
-| The Old Grandmaster | 1.00% | ~7,067 |
-| The Assault | 1.00% | ~7,067 |
-| The Hateful Pole Fighter | 1.00% | ~7,067 |
-| A Lady's Blood in the Snow | 1.00% | ~7,067 |
-| Life is your teacher | 1.00% | ~7,067 |
-| State of constant learning | 1.00% | ~7,067 |
-| Qi Gong: Breath | 1.00% | ~7,067 |
-| Qi Gong: Essence | 1.00% | ~7,067 |
-| Lightning Hands | 1.00% | ~7,067 |
-| Path of the Prospect | 1.00% | ~7,067 |
-| Rumble in the Hangar | 1.00% | ~7,067 |
-| Bloody Sport | 1.00% | ~160 |
-| The best strikes are the ones we avoid | 1.00% | ~160 |
-| Lady Wing Chun | 0.90% | ~6,361 |
+| Project Arena | 3.00% | ~482 |
+| The Old Grandmaster | 1.00% | ~7,068 |
+| The Assault | 1.00% | ~7,068 |
+| The Hateful Pole Fighter | 1.00% | ~7,068 |
+| A Lady's Blood in the Snow | 1.00% | ~7,068 |
+| Lady Wing Chun | 1.00% | ~7,068 |
+| Life is your teacher | 1.00% | ~7,068 |
+| State of constant learning | 1.00% | ~7,068 |
+| Qi Gong: Breath | 1.00% | ~7,068 |
+| Qi Gong: Essence | 1.00% | ~7,068 |
+| Lightning Hands | 1.00% | ~7,068 |
+| Path of the Prospect | 1.00% | ~7,068 |
+| Rumble in the Hangar | 1.00% | ~7,068 |
+| Bloody Sport | 1.00% | ~161 |
+| The best strikes are the ones we avoid | 1.00% | ~161 |
 | Furious Fists | 0.90% | ~6,361 |
 | Kill Nil | 0.90% | ~6,361 |
 | Stuntmaster | 0.90% | ~6,361 |
@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.80% | ~5,654 |
 | Scareless | 0.70% | ~4,947 |
 | Kung-Fu Tussle | 0.70% | ~4,947 |
-| Dance of the Praying Mantis | 0.60% | ~4,240 |
-| Qi Gong: Mind | 0.60% | ~4,240 |
-| I know Kung-Fu | 0.60% | ~4,240 |
+| Dance of the Praying Mantis | 0.60% | ~4,241 |
+| Qi Gong: Mind | 0.60% | ~4,241 |
+| I know Kung-Fu | 0.60% | ~4,241 |
 | Deadly Venom | 0.60% | ~96 |
 | A Touch of Acumen | 0.60% | ~96 |
 | Muk Yan Master | 0.50% | ~3,534 |
@@ -46,18 +46,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.40% | ~64 |
 | Prodigal Child | 0.30% | ~2,120 |
 | Secure, Protect, Leave | 0.30% | ~48 |
-| Drunken Fighter | 0.20% | ~1,413 |
-| Martial Artist | 0.20% | ~1,413 |
-| Knowledge Greed | 0.20% | ~1,413 |
-| Healing Memory | 0.20% | ~1,413 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,413 |
-| The Pit Protector | 0.20% | ~1,413 |
-| Be like water my friend | 0.20% | ~1,413 |
-| Come Snap With Me | 0.20% | ~1,413 |
+| Drunken Fighter | 0.20% | ~1,414 |
+| Martial Artist | 0.20% | ~1,414 |
+| Knowledge Greed | 0.20% | ~1,414 |
+| Healing Memory | 0.20% | ~1,414 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,414 |
+| The Pit Protector | 0.20% | ~1,414 |
+| Be like water my friend | 0.20% | ~1,414 |
+| Come Snap With Me | 0.20% | ~1,414 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,737 (Ranked 15)  
+Progressed: 706,753 (Ranked 15)  
 Completed: 12,750 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,11 +100,11 @@ Completed: 12,750 (1.80%) (Ranked 66)
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
-| 2023-06-02 | 706,737 | 12,750 |
+| 2023-06-02 | 706,753 | 12,750 |
 ## Awards
 Max (Great Boss Battles): 6,119  (Ranked 53)  
-Sum: 10,434 (Ranked 77)  
-Diff (max vs sum): -24  
+Sum: 10,434 (Ranked 78)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,119 |

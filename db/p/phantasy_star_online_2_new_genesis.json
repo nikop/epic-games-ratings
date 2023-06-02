@@ -2,13 +2,13 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 469,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
     "PcReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -2187,10 +2187,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3721,
       "NumberOfAwardsMax": 850
+    },
+    {
+      "Time": "2023-06-02T02:16:48.0605169+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3723,
+      "NumberOfAwardsMax": 850
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3721,
+  "NumberOfAwards": 3723,
   "NumberOfAwardsMax": 850,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2210,7 +2216,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 252
+      "Count": 253
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2252,7 +2258,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 234
+      "Count": 235
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2278,8 +2284,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-06-01T22:58:12.0678274+00:00",
+  "LastChanged": "2023-06-02T02:16:48.0605167+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.0867391+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:57:53.3177984+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:00:12.6613386+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:16:48.0605172+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:20:16.6536914+00:00"
 }

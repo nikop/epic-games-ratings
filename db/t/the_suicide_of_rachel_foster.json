@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1099,
+  "EOS_Progressed": 1100,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5,
   "EosHistory": [
@@ -857,6 +857,11 @@
       "Time": "2023-06-01T21:05:43.0836048+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-02T02:24:57.3246648+00:00",
+      "NumProgressed": 1100,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 11,
@@ -876,7 +881,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_Cacciavite",
@@ -932,7 +937,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -955,15 +960,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1099,
+      "Progressed": 1100,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:21.4047768+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:24:57.3246643+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.0683903+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:59:23.1303032+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:21.4047894+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:18:48.2878788+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:24:57.3246761+00:00"
 }

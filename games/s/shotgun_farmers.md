@@ -15,8 +15,8 @@
 | No Asperascope | 22.00% | ~16 |
 | I Believe I Can Fly | 20.00% | ~15 |
 | Cornivore | 19.00% | ~14 |
+| Quick-Draw Pod | 19.00% | ~5 |
 | Triple Kill | 18.00% | ~13 |
-| Quick-Draw Pod | 18.00% | ~4 |
 | 15K | 14.00% | ~10 |
 | 10K | 14.00% | ~10 |
 | Professional Survivor | 14.00% | ~3 |

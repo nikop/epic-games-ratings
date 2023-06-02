@@ -1,63 +1,63 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 559)  
+Rating: 4.49 (Ranked 560)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,369 |
-| Advancement | 73.00% | ~16,441 |
-| Meticulously Efficient | 64.00% | ~14,414 |
-| Discovery | 62.00% | ~13,964 |
-| Swift Rift Removers | 56.00% | ~12,612 |
-| Fully Upgraded | 55.00% | ~12,387 |
-| Cultured | 53.00% | ~11,937 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,711 |
-| Vaporous Expansion | 49.00% | ~11,036 |
-| Teamwork | 45.00% | ~10,135 |
-| There you are! | 44.00% | ~9,910 |
-| Clutch Capture | 41.00% | ~9,234 |
-| Back Off | 36.00% | ~8,108 |
-| Daily Dose | 35.00% | ~7,883 |
-| Welcome to the Crew | 33.00% | ~7,432 |
-| Solo Capture | 32.00% | ~7,207 |
-| Ghostbuster In Training | 31.00% | ~6,982 |
-| Icing on the Cake | 30.00% | ~6,757 |
-| Side Hustle | 28.00% | ~6,306 |
-| We have the best insurance | 27.00% | ~6,081 |
-| Legions | 27.00% | ~6,081 |
-| Stunner | 27.00% | ~6,081 |
-| Summoner | 27.00% | ~6,081 |
-| Pesky Jerks | 26.00% | ~5,856 |
-| Right back at ya | 26.00% | ~5,856 |
-| Animated | 25.00% | ~5,630 |
-| Skilled | 25.00% | ~5,630 |
-| Collector | 24.00% | ~5,405 |
-| Ectoplasmic Entity | 24.00% | ~5,405 |
-| Rift Destroyer | 20.00% | ~4,504 |
-| Tobin's Prodigy | 19.00% | ~4,279 |
-| Reckless | 18.00% | ~4,054 |
-| Terrifying | 17.00% | ~3,829 |
+| Stylish | 86.00% | ~19,373 |
+| Advancement | 73.00% | ~16,445 |
+| Meticulously Efficient | 64.00% | ~14,417 |
+| Discovery | 62.00% | ~13,967 |
+| Swift Rift Removers | 56.00% | ~12,615 |
+| Fully Upgraded | 55.00% | ~12,390 |
+| Cultured | 53.00% | ~11,939 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,714 |
+| Vaporous Expansion | 49.00% | ~11,038 |
+| Teamwork | 45.00% | ~10,137 |
+| There you are! | 44.00% | ~9,912 |
+| Clutch Capture | 41.00% | ~9,236 |
+| Back Off | 36.00% | ~8,110 |
+| Daily Dose | 35.00% | ~7,884 |
+| Welcome to the Crew | 33.00% | ~7,434 |
+| Solo Capture | 32.00% | ~7,209 |
+| Ghostbuster In Training | 31.00% | ~6,983 |
+| Icing on the Cake | 30.00% | ~6,758 |
+| Side Hustle | 28.00% | ~6,308 |
+| We have the best insurance | 27.00% | ~6,082 |
+| Legions | 27.00% | ~6,082 |
+| Stunner | 27.00% | ~6,082 |
+| Summoner | 27.00% | ~6,082 |
+| Pesky Jerks | 26.00% | ~5,857 |
+| Right back at ya | 26.00% | ~5,857 |
+| Animated | 25.00% | ~5,632 |
+| Skilled | 25.00% | ~5,632 |
+| Collector | 24.00% | ~5,406 |
+| Ectoplasmic Entity | 24.00% | ~5,406 |
+| Rift Destroyer | 20.00% | ~4,505 |
+| Tobin's Prodigy | 19.00% | ~4,280 |
+| Reckless | 18.00% | ~4,055 |
+| Terrifying | 17.00% | ~3,830 |
 | Diabolical | 16.00% | ~3,604 |
 | Escape Artist | 16.00% | ~3,604 |
 | Seasoned | 16.00% | ~3,604 |
-| Liability | 10.00% | ~2,252 |
-| Rivalry | 10.00% | ~2,252 |
-| Whoopsie | 10.00% | ~2,252 |
+| Liability | 10.00% | ~2,253 |
+| Rivalry | 10.00% | ~2,253 |
+| Whoopsie | 10.00% | ~2,253 |
 | Fragile Panes | 9.00% | ~2,027 |
 | Surprise! | 9.00% | ~2,027 |
 | Master Collector | 7.00% | ~1,577 |
 | Rift Seeker | 7.00% | ~1,577 |
 | Therapeutic | 7.00% | ~1,577 |
 | Ghost Expert | 3.00% | ~676 |
-| Catostrophic Destroyer | 2.00% | ~450 |
-| Line em' up | 2.00% | ~450 |
-| Little Help Here | 2.00% | ~450 |
-| Ultimate Defense | 2.00% | ~450 |
+| Catostrophic Destroyer | 2.00% | ~451 |
+| Line em' up | 2.00% | ~451 |
+| Little Help Here | 2.00% | ~451 |
+| Ultimate Defense | 2.00% | ~451 |
 | I don't need these | 1.00% | ~225 |
 | Mycophile | 1.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,522 (Ranked 93)  
+Progressed: 22,527 (Ranked 93)  
 Completed: 40 (0.18%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 40 (0.18%) (Ranked 145)
 | 2023-05-30 | 22,454 | 40 |
 | 2023-05-31 | 22,486 | 40 |
 | 2023-06-01 | 22,517 | 40 |
-| 2023-06-02 | 22,522 | 40 |
+| 2023-06-02 | 22,527 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,090 (Ranked 183)  

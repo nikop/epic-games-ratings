@@ -8,7 +8,7 @@ Rating: 4.30 (Ranked 759)
 | First Blood | 92.00% | ~865 |
 | Ranidaphobia | 73.00% | ~686 |
 | Aspiring Editor | 70.00% | ~658 |
-| Gun for Hire | 64.00% | ~602 |
+| Gun for Hire | 65.00% | ~611 |
 | I am the law! | 54.00% | ~508 |
 | Lumberjack | 38.00% | ~357 |
 | Croaked | 33.00% | ~310 |
@@ -21,16 +21,16 @@ Rating: 4.30 (Ranked 759)
 | Sensei | 23.00% | ~216 |
 | The meaning of Kain | 22.00% | ~207 |
 | Technophobe | 19.00% | ~179 |
-| Recycler | 16.00% | ~150 |
+| Recycler | 17.00% | ~160 |
 | Chain Killer | 14.00% | ~132 |
 | Hold The Line | 14.00% | ~132 |
 | Are you not entertained? | 13.00% | ~122 |
 | Ganglord | 13.00% | ~122 |
 | Jarhead | 13.00% | ~122 |
 | There Can Be Only One! | 13.00% | ~122 |
+| Newtonian Knockout | 12.00% | ~113 |
 | Pushing Daisy | 12.00% | ~113 |
 | Infiltrator | 11.00% | ~103 |
-| Newtonian Knockout | 11.00% | ~103 |
 | Experienced | 10.00% | ~94 |
 | Ruthless | 9.00% | ~85 |
 | The Watchers | 8.00% | ~75 |

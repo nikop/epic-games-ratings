@@ -13,17 +13,17 @@
 | Math Wizard | 63.00% | ~84 |
 | Destroy Erase Improve | 62.00% | ~83 |
 | Power Overload | 60.00% | ~80 |
-| Quite A Snack | 56.00% | ~75 |
-| Overwhelming Power | 51.00% | ~68 |
-| Impenetrable Skin | 49.00% | ~66 |
+| Quite A Snack | 57.00% | ~76 |
+| Overwhelming Power | 53.00% | ~71 |
+| Impenetrable Skin | 50.00% | ~67 |
 | Chomp Chomp! | 40.00% | ~54 |
-| Glorious Battle | 38.00% | ~51 |
-| Supreme Power | 37.00% | ~50 |
+| Glorious Battle | 39.00% | ~52 |
+| Supreme Power | 38.00% | ~51 |
 | Diaper Time! | 37.00% | ~50 |
 | Target Practice | 37.00% | ~50 |
 | The Duelist | 36.00% | ~48 |
+| Mutant And Proud | 35.00% | ~47 |
 | Meat Larder | 35.00% | ~47 |
-| Mutant And Proud | 34.00% | ~46 |
 | The Emperor's New Clothes | 29.00% | ~39 |
 | Godlike Power | 28.00% | ~38 |
 | Happy Little Home | 28.00% | ~38 |

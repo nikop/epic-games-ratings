@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -116,9 +116,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2516,6 +2516,11 @@
       "Time": "2023-06-02T00:05:24.218042+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T02:25:00.7669298+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2527,7 +2532,7 @@
       "Name": "Active Member",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ancientknowledge",
@@ -2549,9 +2554,9 @@
       "ID": "arenachallenger",
       "SetID": "3nl4bcg",
       "Name": "Arena Challenger",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "backgroundstory",
@@ -2567,7 +2572,7 @@
       "Name": "Beast War Machines",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "blueprintupgrades",
@@ -2599,7 +2604,7 @@
       "Name": "Conqueror",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "crystalmining",
@@ -2655,7 +2660,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "enchantingskill",
@@ -2687,7 +2692,7 @@
       "Name": "Enhanced War Machines",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "enlightenment",
@@ -2767,7 +2772,7 @@
       "Name": "Here We Go Again",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "heroinspection",
@@ -2775,7 +2780,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "howdoyouturnthison",
@@ -2783,7 +2788,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "hunter",
@@ -2919,7 +2924,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "prestigiousx10",
@@ -2927,7 +2932,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "relicofthepast",
@@ -2951,7 +2956,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "scrollmaster",
@@ -2983,7 +2988,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "thealchemist",
@@ -2991,7 +2996,7 @@
       "Name": "The Alchemist",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "theexpeditioner",
@@ -2999,7 +3004,7 @@
       "Name": "The Expeditioner",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "thefatherofdragons",
@@ -3039,7 +3044,7 @@
       "Name": "Titan Power",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "trader",
@@ -3079,7 +3084,7 @@
       "Name": "Ultimate War Machines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "victor",
@@ -3087,7 +3092,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "warmachinesarmy",
@@ -3119,14 +3124,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 1
     }
   ],
@@ -3134,8 +3139,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-01T11:58:24.5619645+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:24.2180416+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:25:00.7669294+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:57:40.1715813+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:24.2181287+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:16:30.8894994+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:25:00.7670076+00:00"
 }

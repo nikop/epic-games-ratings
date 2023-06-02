@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~243,268 |
-| Cavalier | 25.00% | ~196,184 |
-| Fatso | 23.00% | ~180,489 |
-| Awakening | 20.00% | ~156,947 |
-| Ranger | 20.00% | ~156,947 |
-| Scrooge | 20.00% | ~156,947 |
-| Anorectic | 16.00% | ~125,558 |
-| Firestarter | 15.00% | ~117,710 |
-| Bookworm | 14.00% | ~109,863 |
-| Insomniac | 13.00% | ~102,016 |
-| Buddy | 11.00% | ~86,321 |
-| Sinner | 11.00% | ~86,321 |
-| Thief | 11.00% | ~86,321 |
-| Convict | 10.00% | ~78,474 |
-| Traveller | 10.00% | ~78,474 |
-| Haggler | 9.00% | ~70,626 |
-| Runt | 7.00% | ~54,931 |
-| Casanova | 6.00% | ~47,084 |
-| McLovin | 6.00% | ~47,084 |
-| Bad Trip | 5.00% | ~39,237 |
-| Monk | 5.00% | ~39,237 |
-| Serial Killer | 5.00% | ~39,237 |
-| Bastard | 4.00% | ~31,389 |
-| Hunter | 4.00% | ~31,389 |
-| Plague Doctor | 4.00% | ~31,389 |
-| Bard | 3.00% | ~23,542 |
-| Conqueror | 3.00% | ~23,542 |
-| Ginger in a Pickle | 3.00% | ~23,542 |
-| Kingdom did not come | 3.00% | ~23,542 |
+| Blacksmith's Son | 31.00% | ~243,273 |
+| Cavalier | 25.00% | ~196,188 |
+| Fatso | 23.00% | ~180,493 |
+| Awakening | 20.00% | ~156,950 |
+| Ranger | 20.00% | ~156,950 |
+| Scrooge | 20.00% | ~156,950 |
+| Anorectic | 16.00% | ~125,560 |
+| Firestarter | 15.00% | ~117,713 |
+| Bookworm | 14.00% | ~109,865 |
+| Insomniac | 13.00% | ~102,018 |
+| Buddy | 11.00% | ~86,323 |
+| Sinner | 11.00% | ~86,323 |
+| Thief | 11.00% | ~86,323 |
+| Convict | 10.00% | ~78,475 |
+| Traveller | 10.00% | ~78,475 |
+| Haggler | 9.00% | ~70,628 |
+| Runt | 7.00% | ~54,933 |
+| Casanova | 6.00% | ~47,085 |
+| McLovin | 6.00% | ~47,085 |
+| Bad Trip | 5.00% | ~39,238 |
+| Monk | 5.00% | ~39,238 |
+| Serial Killer | 5.00% | ~39,238 |
+| Bastard | 4.00% | ~31,390 |
+| Hunter | 4.00% | ~31,390 |
+| Plague Doctor | 4.00% | ~31,390 |
+| Bard | 3.00% | ~23,543 |
+| Conqueror | 3.00% | ~23,543 |
+| Ginger in a Pickle | 3.00% | ~23,543 |
+| Kingdom did not come | 3.00% | ~23,543 |
 | Completionist | 2.00% | ~15,695 |
 | Death by splinter | 2.00% | ~15,695 |
 | King Charming | 2.00% | ~15,695 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,695 |
 | Talmberger | 2.00% | ~15,695 |
 | The End | 2.00% | ~15,695 |
-| Woman's Lot | 1.00% | ~7,847 |
-| Chivalrous Soul | 1.00% | ~7,847 |
-| Spoilsport | 1.00% | ~7,847 |
-| Freud | 1.00% | ~7,847 |
-| Gambler | 1.00% | ~7,847 |
-| Master Huntsman | 1.00% | ~7,847 |
-| Stealth Killer | 1.00% | ~7,847 |
+| Woman's Lot | 1.00% | ~7,848 |
+| Chivalrous Soul | 1.00% | ~7,848 |
+| Spoilsport | 1.00% | ~7,848 |
+| Freud | 1.00% | ~7,848 |
+| Gambler | 1.00% | ~7,848 |
+| Master Huntsman | 1.00% | ~7,848 |
+| Stealth Killer | 1.00% | ~7,848 |
 | Bailiff | 0.80% | ~6,278 |
 | Tracker | 0.80% | ~6,278 |
 | David Horak | 0.70% | ~5,493 |
 | Mercenary's Honour | 0.70% | ~5,493 |
 | Saviour | 0.70% | ~5,493 |
-| Edward Kelly | 0.60% | ~4,708 |
-| Fighter | 0.60% | ~4,708 |
+| Edward Kelly | 0.60% | ~4,709 |
+| Fighter | 0.60% | ~4,709 |
 | I Can Quit Anytime | 0.50% | ~3,924 |
 | Perfectionist | 0.40% | ~3,139 |
 | Alcoholic | 0.30% | ~2,354 |
 | Sniper | 0.30% | ~2,354 |
-| Angel of Mercy | 0.20% | ~1,569 |
-| Christian Burial | 0.20% | ~1,569 |
-| Friends without benefits | 0.20% | ~1,569 |
-| Game Over | 0.20% | ~1,569 |
-| Not-so-Christian Burial | 0.20% | ~1,569 |
-| True Friend | 0.20% | ~1,569 |
+| Angel of Mercy | 0.20% | ~1,570 |
+| Christian Burial | 0.20% | ~1,570 |
+| Friends without benefits | 0.20% | ~1,570 |
+| Game Over | 0.20% | ~1,570 |
+| Not-so-Christian Burial | 0.20% | ~1,570 |
+| True Friend | 0.20% | ~1,570 |
 | Bad Girl | 0.10% | ~785 |
 | Cleric's pet | 0.10% | ~785 |
 | Full House Sinner | 0.10% | ~785 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~785 |
 | Wingman | 0.10% | ~785 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784,735 (Ranked 12)  
+Progressed: 784,752 (Ranked 12)  
 Completed: 40 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 40 (0.01%) (Ranked 197)
 | 2023-05-30 | 784,376 | 40 |
 | 2023-05-31 | 784,570 | 40 |
 | 2023-06-01 | 784,725 | 40 |
-| 2023-06-02 | 784,735 | 40 |
+| 2023-06-02 | 784,752 | 40 |
 ## Awards
 Max (Character Customization): 7,212  (Ranked 44)  
 Sum: 26,961 (Ranked 43)  

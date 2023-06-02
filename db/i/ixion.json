@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 419,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2350,
+  "EOS_Progressed": 2353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1890,6 +1890,11 @@
       "Time": "2023-06-01T21:05:38.1132192+00:00",
       "NumProgressed": 2350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T02:24:51.2546495+00:00",
+      "NumProgressed": 2353,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1995,9 +2000,9 @@
       "ID": "ACH_BASE_22",
       "SetID": "92iocjf",
       "Name": "Sustainable Energy",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BASE_23",
@@ -2013,7 +2018,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_BASE_25",
@@ -2069,7 +2074,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_BASE_31",
@@ -2253,7 +2258,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_BASE_57",
@@ -2356,13 +2361,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 531,
+      "Progressed": 534,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2350,
+      "Progressed": 2353,
       "Completed": 0
     }
   ],
@@ -2370,8 +2375,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-01T22:58:22.3289206+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:16.7113065+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:24:51.254649+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.5657521+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:58:02.4114644+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:16.7113697+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:16:59.7362931+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:24:51.2547018+00:00"
 }

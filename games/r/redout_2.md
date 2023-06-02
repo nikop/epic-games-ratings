@@ -54,7 +54,7 @@ Rating: 4.45 (Ranked 610)
 | Eat dust my friend | 1.00% | ~10 |
 | Better than half the studio... | 1.00% | ~10 |
 | Grandslam | 0.90% | ~9 |
-| Beat you to it! | 0.70% | ~7 |
+| Beat you to it! | 0.80% | ~8 |
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

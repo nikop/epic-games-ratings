@@ -1,24 +1,24 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 294)  
+Rating: 4.65 (Ranked 295)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,171 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,172 |
 | Tomorrow Never Dyes | 47.00% | ~3,063 |
 | The Spy who eliminated me | 47.00% | ~3,063 |
 | Mainframe Hacker | 46.00% | ~2,998 |
 | Never Say Loser Again | 41.00% | ~2,672 |
 | For your Eyes only | 39.00% | ~2,542 |
-| Tailor-Made | 38.00% | ~2,476 |
-| From the Vault with Love | 37.00% | ~2,411 |
+| Tailor-Made | 38.00% | ~2,477 |
+| From the Vault with Love | 37.00% | ~2,412 |
 | Fully Decked Out | 36.00% | ~2,346 |
-| You Only Live Twice | 32.00% | ~2,085 |
+| You Only Live Twice | 32.00% | ~2,086 |
 | A view to Win | 28.00% | ~1,825 |
-| Smells Like Trouble | 26.00% | ~1,694 |
-| Private Collection | 25.00% | ~1,629 |
-| Hostile Takeover | 25.00% | ~1,629 |
+| Smells Like Trouble | 26.00% | ~1,695 |
+| Private Collection | 25.00% | ~1,630 |
+| Hostile Takeover | 25.00% | ~1,630 |
 | Assistant Accountant | 24.00% | ~1,564 |
 | The Living Portrait | 24.00% | ~1,564 |
 | My Motto, My Creed | 24.00% | ~1,564 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 294)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,517 (Ranked 118)  
+Progressed: 6,518 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 6,461 | 0 |
 | 2023-05-31 | 6,482 | 0 |
 | 2023-06-01 | 6,517 | 0 |
+| 2023-06-02 | 6,518 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

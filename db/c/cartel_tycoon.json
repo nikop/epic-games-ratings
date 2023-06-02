@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -685,6 +685,11 @@
       "Time": "2023-06-01T18:06:32.6677495+00:00",
       "NumProgressed": 358,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T02:25:03.1859585+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -696,7 +701,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "cool-shirts",
@@ -744,7 +749,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "kill-lieutenants",
@@ -760,7 +765,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "play-at-night",
@@ -768,7 +773,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "product-profit",
@@ -808,7 +813,7 @@
       "Name": "Spread",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "send-smuggling",
@@ -816,7 +821,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "unlock-residences",
@@ -847,15 +852,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:26.2845454+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:25:03.1859581+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:29.0374277+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:59:26.3325183+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:26.2845628+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:18:52.7090005+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:25:03.1859768+00:00"
 }

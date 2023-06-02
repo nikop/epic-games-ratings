@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 525,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 45,
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223521,
+  "EOS_Progressed": 223524,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4453,6 +4453,11 @@
       "Time": "2023-06-02T00:05:05.8039958+00:00",
       "NumProgressed": 223521,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-06-02T02:24:37.7466298+00:00",
+      "NumProgressed": 223524,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 34,
@@ -4480,7 +4485,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62586
+      "UsersEstimate": 62587
     },
     {
       "ID": "CENTAUR",
@@ -4496,7 +4501,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24587
+      "UsersEstimate": 24588
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -4504,7 +4509,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15646
+      "UsersEstimate": 15647
     },
     {
       "ID": "DRAGOON",
@@ -4552,7 +4557,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44704
+      "UsersEstimate": 44705
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -4600,7 +4605,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71527
+      "UsersEstimate": 71528
     },
     {
       "ID": "NOBUNAGA",
@@ -4632,7 +4637,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15646
+      "UsersEstimate": 15647
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -4728,22 +4733,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91644
+      "UsersEstimate": 91645
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223521,
+      "Progressed": 223524,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:05.8039949+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:24:37.7466294+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.369606+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:57:53.2575191+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:05.8040434+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:16:47.9812072+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:24:37.7466679+00:00"
 }

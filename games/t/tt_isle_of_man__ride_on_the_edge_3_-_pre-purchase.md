@@ -7,8 +7,8 @@
 | You're Going Down! | 97.00% | ~62 |
 | To Each Their Own | 50.00% | ~32 |
 | You Get An Upgrade, You Get An Upgrade! | 20.00% | ~13 |
-| Onwards and Upwards | 19.00% | ~12 |
-| Serial Winner | 14.00% | ~9 |
+| Onwards and Upwards | 20.00% | ~13 |
+| Serial Winner | 16.00% | ~10 |
 | Like Phileas Fogg | 13.00% | ~8 |
 | Seven-League Boots | 6.00% | ~4 |
 | Highly Qualified | 6.00% | ~4 |

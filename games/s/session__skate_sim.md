@@ -1,12 +1,12 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 276)  
+Rating: 4.66 (Ranked 277)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 53.00% | ~1,166 |
+| You're free now! | 53.00% | ~1,167 |
 | Keeping it classy | 25.00% | ~550 |
 | Welcome to the family | 18.00% | ~396 |
 | The finer things in life | 16.00% | ~352 |
@@ -30,7 +30,6 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 5.00% | ~110 |
 | Sup widdit big dog! | 5.00% | ~110 |
 | Commence the Hijinx! | 4.00% | ~88 |
-| Cops called! | 4.00% | ~88 |
 | DIY Boss | 4.00% | ~88 |
 | Globetrotter | 4.00% | ~88 |
 | Laid back | 4.00% | ~88 |
@@ -39,9 +38,10 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~88 |
 | Renaissance man | 4.00% | ~88 |
 | Tank commander | 4.00% | ~88 |
-| Trick shot marksman | 4.00% | ~88 |
+| Cops called! | 3.00% | ~66 |
 | G.O.A.T. status | 3.00% | ~66 |
 | Hoarder | 3.00% | ~66 |
+| Trick shot marksman | 3.00% | ~66 |
 | We get it, you're good | 3.00% | ~66 |
 | Cross lock country | 2.00% | ~44 |
 | Many plys later... | 2.00% | ~44 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,200 (Ranked 148)  
+Progressed: 2,202 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 2,167 | 0 |
 | 2023-05-31 | 2,181 | 0 |
 | 2023-06-01 | 2,200 | 0 |
+| 2023-06-02 | 2,202 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 396)  
 Sum: 414 (Ranked 302)  

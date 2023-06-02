@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2100,
+  "EOS_Progressed": 2101,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -986,6 +986,11 @@
       "Time": "2023-06-01T21:05:47.3053543+00:00",
       "NumProgressed": 2100,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-02T02:25:02.5670518+00:00",
+      "NumProgressed": 2101,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -1037,7 +1042,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "deal_damage",
@@ -1045,7 +1050,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "defeat_enemies",
@@ -1053,7 +1058,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1069,7 +1074,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "piercing_beam",
@@ -1101,7 +1106,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1133,7 +1138,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "trash_truck",
@@ -1148,7 +1153,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2100,
+      "Progressed": 2101,
       "Completed": 8
     }
   ],
@@ -1156,8 +1161,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:25.6624624+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:25:02.5670514+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:38.8014549+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:59:34.2499142+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:25.6624799+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:19:03.3402095+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:25:02.5670713+00:00"
 }

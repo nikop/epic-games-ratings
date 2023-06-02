@@ -1,36 +1,36 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.54 (Ranked 485)  
+Rating: 4.54 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,229 |
-| Realm Estate | 75.00% | ~3,105 |
+| A Wonderful Discovery | 78.00% | ~3,230 |
+| Realm Estate | 75.00% | ~3,106 |
 | Secret Technique | 74.00% | ~3,064 |
-| Walls Cannot Stop Us | 72.00% | ~2,981 |
-| From Friends to Family | 68.00% | ~2,815 |
+| Walls Cannot Stop Us | 72.00% | ~2,982 |
+| From Friends to Family | 68.00% | ~2,816 |
 | Magical Synergy | 64.00% | ~2,650 |
-| Bone Peddler | 60.00% | ~2,484 |
+| Bone Peddler | 60.00% | ~2,485 |
 | Stronger Together | 54.00% | ~2,236 |
-| Full Ascension | 53.00% | ~2,194 |
-| There Can Only Be One! | 46.00% | ~1,904 |
-| Seat of Power | 46.00% | ~1,904 |
-| Intimidation Tactics | 43.00% | ~1,780 |
+| Full Ascension | 53.00% | ~2,195 |
+| There Can Only Be One! | 46.00% | ~1,905 |
+| Seat of Power | 46.00% | ~1,905 |
+| Intimidation Tactics | 43.00% | ~1,781 |
 | My Final Form | 42.00% | ~1,739 |
-| Valley of Wonders | 41.00% | ~1,697 |
-| In a Liege of Your Own | 36.00% | ~1,490 |
+| Valley of Wonders | 41.00% | ~1,698 |
+| In a Liege of Your Own | 36.00% | ~1,491 |
 | Return of the Wizard King | 30.00% | ~1,242 |
 | Digging for Treasure | 30.00% | ~1,242 |
 | Against the Odds | 30.00% | ~1,242 |
-| Enchanted Archipelago | 26.00% | ~1,076 |
-| Impenetrable Fortress | 26.00% | ~1,076 |
+| Enchanted Archipelago | 26.00% | ~1,077 |
+| Impenetrable Fortress | 26.00% | ~1,077 |
 | The Magic That Empowers Me! | 19.00% | ~787 |
 | Preparation Is Everything | 19.00% | ~787 |
 | Arch Mage | 18.00% | ~745 |
 | God Emperor | 17.00% | ~704 |
-| Eternal Lord | 16.00% | ~662 |
-| Crimson Caldera | 16.00% | ~662 |
+| Eternal Lord | 16.00% | ~663 |
+| Crimson Caldera | 16.00% | ~663 |
 | Fiery Friend | 14.00% | ~580 |
 | Lord of Chaos | 13.00% | ~538 |
 | The Creator | 13.00% | ~538 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 485)
 | Returning Circle | 0.30% | ~12 |
 | Master of Evilness | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,140 (Ranked 130)  
+Progressed: 4,141 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 3,981 | 0 |
 | 2023-05-31 | 4,063 | 0 |
 | 2023-06-01 | 4,139 | 0 |
-| 2023-06-02 | 4,140 | 0 |
+| 2023-06-02 | 4,141 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

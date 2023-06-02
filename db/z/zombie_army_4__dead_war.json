@@ -2,13 +2,13 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1551,7 +1551,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42537,
+  "EOS_Progressed": 42538,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -2961,6 +2961,11 @@
       "Time": "2023-06-01T20:05:46.1274092+00:00",
       "NumProgressed": 42537,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-02T02:25:14.1825543+00:00",
+      "NumProgressed": 42538,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3004,7 +3009,7 @@
       "Name": "Well equipped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5104
+      "UsersEstimate": 5105
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -3028,7 +3033,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11910
+      "UsersEstimate": 11911
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -3044,7 +3049,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -3092,7 +3097,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13186
+      "UsersEstimate": 13187
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -3108,7 +3113,7 @@
       "Name": "They\u0027re coming to get you Barbara",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FROZEN_IN_FEAR",
@@ -3140,7 +3145,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5104
+      "UsersEstimate": 5105
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -3164,7 +3169,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26373
+      "UsersEstimate": 26374
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3172,7 +3177,7 @@
       "Name": "Total protonic reversal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "SE_COMPLETE_ROME",
@@ -3180,7 +3185,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14037
+      "UsersEstimate": 14038
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -3188,7 +3193,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18716
+      "UsersEstimate": 18717
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3196,7 +3201,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13186
+      "UsersEstimate": 13187
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -3236,7 +3241,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13186
+      "UsersEstimate": 13187
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -3260,7 +3265,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3268,7 +3273,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -3276,7 +3281,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3292,7 +3297,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -3300,7 +3305,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28925
+      "UsersEstimate": 28926
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -3348,7 +3353,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -3364,7 +3369,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18716
+      "UsersEstimate": 18717
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3372,7 +3377,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27649
+      "UsersEstimate": 27650
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3428,7 +3433,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27649
+      "UsersEstimate": 27650
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3460,7 +3465,7 @@
       "Name": "A friend in need",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "SE_SEVER_X_LIMBS",
@@ -3492,22 +3497,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42537,
+      "Progressed": 42538,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-01T06:00:27.8836731+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:35.4353849+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:25:14.1825539+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:16.0626352+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:59:12.5395589+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:35.4354518+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:18:33.436127+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:25:14.1826073+00:00"
 }

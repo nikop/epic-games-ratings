@@ -2,13 +2,13 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 403,
+  "Ranking_Rating": 404,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
@@ -4684,11 +4684,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 23247,
       "NumberOfAwardsMax": 3215
+    },
+    {
+      "Time": "2023-06-02T02:19:26.5588523+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 23251,
+      "NumberOfAwardsMax": 3218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23247,
-  "NumberOfAwardsMax": 3215,
+  "NumberOfAwards": 23251,
+  "NumberOfAwardsMax": 3218,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4719,7 +4725,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2939
+      "Count": 2940
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4749,7 +4755,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3215
+      "Count": 3218
     }
   ],
   "EOS_Progressed": 0,
@@ -4763,8 +4769,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-06-01T23:59:51.2954845+00:00",
+  "LastChanged": "2023-06-02T02:19:26.5588522+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:54.7830709+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:59:51.2954852+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:00:02.5151204+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:19:26.5588528+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:19:44.026577+00:00"
 }

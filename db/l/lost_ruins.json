@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -306,6 +306,11 @@
       "Time": "2023-06-01T14:05:41.8208304+00:00",
       "NumProgressed": 338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T02:25:09.6438145+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -397,7 +402,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Hardboiled",
@@ -477,7 +482,7 @@
       "Name": "Money Swag",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Necromancer",
@@ -636,7 +641,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 0
     }
   ],
@@ -644,8 +649,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-02T00:05:31.5274623+00:00",
+  "LastChanged_Achievements": "2023-06-02T02:25:09.643814+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.4676985+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:58:58.6943675+00:00",
-  "LastUpdate_Achievements": "2023-06-02T00:05:31.5274952+00:00"
+  "LastUpdate_Ratings": "2023-06-02T02:18:14.1523282+00:00",
+  "LastUpdate_Achievements": "2023-06-02T02:25:09.6438421+00:00"
 }

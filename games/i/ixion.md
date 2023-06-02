@@ -1,12 +1,12 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 419)  
+Rating: 4.58 (Ranked 420)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 13.00% | ~306 |
-| Sputnik 2049 | 11.00% | ~258 |
+| Sputnik 2049 | 11.00% | ~259 |
 | Without Breaking Some Eggs... | 10.00% | ~235 |
 | Infinite Growth... | 10.00% | ~235 |
 | Space Society | 6.00% | ~141 |
@@ -20,8 +20,8 @@ Rating: 4.58 (Ranked 419)
 | A Hunk of Junk | 4.00% | ~94 |
 | Fully Recycled | 4.00% | ~94 |
 | The Ship of Theseus | 4.00% | ~94 |
-| Exceeding Capacity | 3.00% | ~70 |
-| Please Make it Stop! | 3.00% | ~70 |
+| Exceeding Capacity | 3.00% | ~71 |
+| Please Make it Stop! | 3.00% | ~71 |
 | Man's Best Friend | 2.00% | ~47 |
 | Sightseeing | 2.00% | ~47 |
 | Power Outage | 2.00% | ~47 |
@@ -37,7 +37,7 @@ Rating: 4.58 (Ranked 419)
 | BRAWL! | 1.00% | ~24 |
 | All in Good Health | 1.00% | ~24 |
 | What the Ruins Teach Us | 1.00% | ~24 |
-| Sustainable Energy | 0.90% | ~21 |
+| Sustainable Energy | 0.80% | ~19 |
 | Pedal to the Metal | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~16 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 419)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,350 (Ranked 146)  
+Progressed: 2,353 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 2,306 | 0 |
 | 2023-05-31 | 2,333 | 0 |
 | 2023-06-01 | 2,350 | 0 |
+| 2023-06-02 | 2,353 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
