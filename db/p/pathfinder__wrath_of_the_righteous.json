@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2538,10 +2538,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6676,
       "NumberOfAwardsMax": 1646
+    },
+    {
+      "Time": "2023-06-02T15:58:34.9975779+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6679,
+      "NumberOfAwardsMax": 1646
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6676,
+  "NumberOfAwards": 6679,
   "NumberOfAwardsMax": 1646,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2573,7 +2579,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 594
+      "Count": 597
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2612,9 +2618,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9435,
+  "EOS_Progressed": 9439,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5237,6 +5243,11 @@
       "Time": "2023-06-02T15:06:20.8655476+00:00",
       "NumProgressed": 9435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T16:07:18.9038974+00:00",
+      "NumProgressed": 9439,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5280,7 +5291,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -5304,7 +5315,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "09_PathOfDemon",
@@ -5384,7 +5395,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "19_EqualToAroden",
@@ -5448,7 +5459,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "28_GreatUpstart",
@@ -5496,7 +5507,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5640,7 +5651,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -6175,21 +6186,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8217,
+      "Progressed": 8221,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9435,
+      "Progressed": 9439,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-01T22:58:14.071099+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:06:20.865547+00:00",
+  "LastChanged": "2023-06-02T15:58:34.9975775+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:07:18.9038968+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:58:16.0684044+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:06:20.8657183+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:58:34.9975783+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:07:18.9040798+00:00"
 }

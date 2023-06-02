@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1512,
+  "EOS_Progressed": 1513,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 8.13,
   "EosHistory": [
@@ -2083,6 +2083,11 @@
       "Time": "2023-06-02T15:05:56.3307427+00:00",
       "NumProgressed": 1512,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-06-02T16:06:52.6273043+00:00",
+      "NumProgressed": 1513,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 12,
@@ -2102,7 +2107,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Building the Fox",
@@ -2126,7 +2131,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "Jakob",
@@ -2142,7 +2147,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Le Juif et la France",
@@ -2189,7 +2194,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1512,
+      "Progressed": 1513,
       "Completed": 123
     }
   ],
@@ -2197,8 +2202,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:05:56.3307422+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:06:52.6273037+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:59:33.411809+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:05:56.3307629+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:00:08.9899181+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:06:52.6273309+00:00"
 }

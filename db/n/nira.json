@@ -2,7 +2,7 @@
   "ID": "f82989cf20a747289a0dfa4987ef8fbd",
   "Name": "Nira",
   "ProductSlug": "nira-02f6ee",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 91,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.0970534+00:00",
   "LastChanged": "2023-03-31T05:58:17.0970535+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.0387135+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:59:38.8032937+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:02:31.0197631+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:00:15.1614444+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:03:31.4936271+00:00"
 }

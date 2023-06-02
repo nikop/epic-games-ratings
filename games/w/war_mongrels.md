@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 753)  
+Rating: 4.31 (Ranked 754)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,7 +24,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 28.00% | ~85 |
 | The Horror | 26.00% | ~79 |
 | Collectibles of Chapter II | 24.00% | ~72 |
-| The Difference | 23.00% | ~69 |
+| The Difference | 24.00% | ~72 |
 | Vengeance | 22.00% | ~66 |
 | It's Just an Accident | 20.00% | ~60 |
 | Broken Hopes | 19.00% | ~57 |

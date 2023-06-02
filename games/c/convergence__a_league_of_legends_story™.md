@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~532 |
+| Time Heals All Wounds | 94.00% | ~538 |
 | Rail Rat | 78.00% | ~446 |
 | The Mysterious Stranger | 76.00% | ~435 |
 | Immaculate Aim | 65.00% | ~372 |
@@ -38,8 +38,8 @@
 | Chaincrawler Explorer | 20.00% | ~114 |
 | Factorywood Explorer | 20.00% | ~114 |
 | Fairgrounds Explorer | 19.00% | ~109 |
+| Theater Explorer | 16.00% | ~92 |
 | Cultivair Explorer | 15.00% | ~86 |
-| Theater Explorer | 15.00% | ~86 |
 | Corin Goes Home | 13.00% | ~74 |
 | Entresol Explorer | 13.00% | ~74 |
 | Rungs Was Right | 13.00% | ~74 |

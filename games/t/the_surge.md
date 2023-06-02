@@ -6,24 +6,24 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,057 |
-| I'll Be Back | 84.00% | ~3,625 |
-| Sorry, I Dropped This | 77.00% | ~3,323 |
-| First Day on the Job | 76.00% | ~3,280 |
+| On My Own Two Feet | 94.00% | ~4,058 |
+| I'll Be Back | 84.00% | ~3,626 |
+| Sorry, I Dropped This | 77.00% | ~3,324 |
+| First Day on the Job | 76.00% | ~3,281 |
 | Butcher's Bill | 55.00% | ~2,374 |
 | P.A.X | 37.00% | ~1,597 |
 | Hey Listen | 36.00% | ~1,554 |
 | OPERATOR | 35.00% | ~1,511 |
-| It's Blue Light | 33.00% | ~1,424 |
+| It's Blue Light | 33.00% | ~1,425 |
 | Most Wanted | 26.00% | ~1,122 |
 | Infidel | 23.00% | ~993 |
-| GOLIATH | 21.00% | ~906 |
+| GOLIATH | 21.00% | ~907 |
 | Firebug | 20.00% | ~863 |
 | I Choose You | 17.00% | ~734 |
 | Nothing to Lose | 17.00% | ~734 |
-| Big Sister | 15.00% | ~647 |
-| Gear Up | 15.00% | ~647 |
-| SENTINEL | 15.00% | ~647 |
+| Big Sister | 15.00% | ~648 |
+| Gear Up | 15.00% | ~648 |
+| SENTINEL | 15.00% | ~648 |
 | The Black Cerberus | 12.00% | ~518 |
 | Watchman | 12.00% | ~518 |
 | Core Power | 12.00% | ~518 |
@@ -31,9 +31,9 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~475 |
 | Shall Not Pass | 11.00% | ~475 |
 | Right Tool for the Job | 10.00% | ~432 |
-| Melting Down | 9.00% | ~388 |
-| Raging Drones | 9.00% | ~388 |
-| Overconfident | 9.00% | ~388 |
+| Melting Down | 9.00% | ~389 |
+| Raging Drones | 9.00% | ~389 |
+| Overconfident | 9.00% | ~389 |
 | Pusher Man | 8.00% | ~345 |
 | Squad Chief Helvig | 8.00% | ~345 |
 | No More Marching | 8.00% | ~345 |
@@ -50,10 +50,10 @@ Number of Ratings: 62  (23.09.2022)
 | 3-2-1 | 5.00% | ~216 |
 | Rusty Rat | 4.00% | ~173 |
 | Desecration | 4.00% | ~173 |
-| For the Good of Mankind | 3.00% | ~129 |
-| Turing Test | 3.00% | ~129 |
-| Repeat Customer | 3.00% | ~129 |
-| Evolution Theory | 3.00% | ~129 |
+| For the Good of Mankind | 3.00% | ~130 |
+| Turing Test | 3.00% | ~130 |
+| Repeat Customer | 3.00% | ~130 |
+| Evolution Theory | 3.00% | ~130 |
 | Ghost in the Machine | 2.00% | ~86 |
 | Homo Machinalis | 2.00% | ~86 |
 | Was That Yours? | 2.00% | ~86 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,316 (Ranked 128)  
+Progressed: 4,317 (Ranked 128)  
 Completed: 13 (0.30%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,10 @@ Completed: 13 (0.30%) (Ranked 130)
 | 2023-05-30 | 4,301 | 13 |
 | 2023-05-31 | 4,302 | 13 |
 | 2023-06-01 | 4,309 | 13 |
-| 2023-06-02 | 4,316 | 13 |
+| 2023-06-02 | 4,317 | 13 |
 ## Awards
-Max (Great Boss Battles): 26  (Ranked 459)  
-Sum: 26 (Ranked 467)  
+Max (Great Boss Battles): 26  (Ranked 460)  
+Sum: 26 (Ranked 468)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |

@@ -1,25 +1,25 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.30 (Ranked 759)  
+Rating: 4.30 (Ranked 760)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~872 |
-| Ranidaphobia | 72.00% | ~690 |
-| Aspiring Editor | 69.00% | ~661 |
-| Gun for Hire | 64.00% | ~613 |
-| I am the law! | 54.00% | ~517 |
-| Lumberjack | 38.00% | ~364 |
-| Croaked | 33.00% | ~316 |
-| Limp Richard | 33.00% | ~316 |
+| First Blood | 91.00% | ~874 |
+| Ranidaphobia | 72.00% | ~691 |
+| Aspiring Editor | 69.00% | ~662 |
+| Gun for Hire | 64.00% | ~614 |
+| I am the law! | 55.00% | ~528 |
+| Lumberjack | 38.00% | ~365 |
+| Croaked | 33.00% | ~317 |
+| Limp Richard | 33.00% | ~317 |
+| From Darkness to Light | 33.00% | ~317 |
 | Firestarter | 32.00% | ~307 |
-| From Darkness to Light | 32.00% | ~307 |
-| Exorcist | 30.00% | ~287 |
+| Exorcist | 30.00% | ~288 |
 | Editor Adept | 29.00% | ~278 |
 | Giant Killer | 25.00% | ~240 |
-| Sensei | 23.00% | ~220 |
-| The meaning of Kain | 22.00% | ~211 |
+| Sensei | 24.00% | ~230 |
+| The meaning of Kain | 23.00% | ~221 |
 | Technophobe | 19.00% | ~182 |
 | Recycler | 17.00% | ~163 |
 | Chain Killer | 15.00% | ~144 |
@@ -36,10 +36,10 @@ Rating: 4.30 (Ranked 759)
 | Endgame | 8.00% | ~77 |
 | Savior | 8.00% | ~77 |
 | The Watchers | 8.00% | ~77 |
-| Chain Reaction | 6.00% | ~57 |
-| Commando | 6.00% | ~57 |
-| Curveball | 6.00% | ~57 |
-| Dr Jones | 6.00% | ~57 |
+| Chain Reaction | 6.00% | ~58 |
+| Commando | 6.00% | ~58 |
+| Curveball | 6.00% | ~58 |
+| Dr Jones | 6.00% | ~58 |
 | Chaos Theory | 5.00% | ~48 |
 | Wipe Out | 5.00% | ~48 |
 | Side Order | 4.00% | ~38 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 759)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 958 (Ranked 173)  
+Progressed: 960 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
-| 2023-06-02 | 958 | 0 |
+| 2023-06-02 | 960 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,7 +9,7 @@
 | Home Cook | 29.00% | ~80 |
 | So Clean You Can Eat Off the Floor | 19.00% | ~52 |
 | French Flair | 18.00% | ~50 |
-| S is for Scrumptious | 16.00% | ~44 |
+| S is for Scrumptious | 17.00% | ~47 |
 | Next Level Cuisine | 11.00% | ~30 |
 | Italian Style | 8.00% | ~22 |
 | Sous-Chef | 7.00% | ~19 |

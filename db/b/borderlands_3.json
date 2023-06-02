@@ -5,7 +5,7 @@
   "Ranking_Rating": 215,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 91,
@@ -6548,18 +6548,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 345861,
       "NumberOfAwardsMax": 110336
+    },
+    {
+      "Time": "2023-06-02T16:00:13.9952468+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 345969,
+      "NumberOfAwardsMax": 110412
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345861,
-  "NumberOfAwardsMax": 110336,
+  "NumberOfAwards": 345969,
+  "NumberOfAwardsMax": 110412,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 110336
+      "Count": 110412
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6583,7 +6589,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25037
+      "Count": 25055
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6595,7 +6601,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23464
+      "Count": 23478
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6633,8 +6639,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-06-02T09:59:52.6694603+00:00",
+  "LastChanged": "2023-06-02T16:00:13.9952464+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:06.2053245+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:59:37.6341429+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:01:17.3404449+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:00:13.9952473+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:02:35.2270506+00:00"
 }

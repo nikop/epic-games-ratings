@@ -3,8 +3,8 @@
 [View Rawdata](../../db/t/the_outlast_trials.json)  
 Rating: 4.65 (Ranked 294)  
 ## Awards
-Max (Amazing Storytelling): 21  (Ranked 480)  
-Sum: 21 (Ranked 482)  
+Max (Amazing Storytelling): 21  (Ranked 481)  
+Sum: 21 (Ranked 483)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

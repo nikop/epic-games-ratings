@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 471,
-  "Ranking_Popularity": 442,
+  "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 182,
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2740,
+  "EOS_Progressed": 2741,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2009,6 +2009,11 @@
       "Time": "2023-06-02T13:15:02.2574326+00:00",
       "NumProgressed": 2740,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T16:01:46.052147+00:00",
+      "NumProgressed": 2741,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2020,7 +2025,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "AceDetective_9",
@@ -2060,7 +2065,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "CrowdPleaser",
@@ -2084,7 +2089,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2124,7 +2129,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "HouseofCards_19",
@@ -2212,7 +2217,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2284,7 +2289,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -2355,15 +2360,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2740,
+      "Progressed": 2741,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:00:52.8266296+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:01:46.0521463+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:57:39.95999+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:00:52.8266754+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:57:53.2418278+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:01:46.0522436+00:00"
 }

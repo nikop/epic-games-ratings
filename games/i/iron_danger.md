@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 79.00% | ~147 |
+| First Shard | 80.00% | ~149 |
 | Found the Healer | 32.00% | ~60 |
 | Second Shard | 10.00% | ~19 |
 | Ring of Fire! | 9.00% | ~17 |

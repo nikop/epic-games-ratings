@@ -12,7 +12,7 @@
 | The child of the night | 68.00% | ~32 |
 | Sticky fingers | 45.00% | ~21 |
 | A horrible thing will happen... | 40.00% | ~19 |
-| Vampires | 36.00% | ~17 |
+| Vampires | 38.00% | ~18 |
 | Bloody stream | 34.00% | ~16 |
 | Fangs | 19.00% | ~9 |
 | Mirrors | 13.00% | ~6 |

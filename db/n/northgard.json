@@ -3,9 +3,9 @@
   "Name": "Northgard",
   "ProductSlug": "northgard",
   "Ranking_Rating": 194,
-  "Ranking_Popularity": 450,
+  "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 413,
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 91,
@@ -358,6 +358,6 @@
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
   "LastChanged": "2023-05-19T15:58:23.2201684+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.8886587+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:58:38.3221973+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:04:38.7165996+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:59:02.6584448+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:05:25.3524153+00:00"
 }

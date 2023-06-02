@@ -3,9 +3,9 @@
   "Name": "CARRION",
   "ProductSlug": "carrion",
   "Ranking_Rating": 238,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 431,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 493,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 91,
@@ -231,6 +231,6 @@
   "FirstSeen": "2022-07-22T20:25:03.1794316+00:00",
   "LastChanged": "2023-04-02T20:58:08.3437597+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:45.1194002+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:57:53.0909369+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:00:44.7397151+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:58:09.5083246+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:01:36.7923694+00:00"
 }

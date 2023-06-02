@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1346,9 +1346,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63238,
+  "EOS_Progressed": 63249,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4766,6 +4766,11 @@
       "Time": "2023-06-02T15:06:17.8078818+00:00",
       "NumProgressed": 63238,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-02T16:07:16.0314716+00:00",
+      "NumProgressed": 63249,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5215,9 +5220,9 @@
       "ID": "MYSTERY_07",
       "SetID": "4eo5ebm",
       "Name": "Seeking Asylum",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 569
     },
     {
       "ID": "MYSTERY_08",
@@ -5264,13 +5269,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63238,
+      "Progressed": 63249,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33518,
+      "Progressed": 33529,
       "Completed": 2644
     }
   ],
@@ -5278,8 +5283,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-02T09:00:19.1041127+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:06:17.8078813+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:07:16.0314708+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:59:46.0194376+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:06:17.8079509+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:00:23.5849903+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:07:16.031565+00:00"
 }

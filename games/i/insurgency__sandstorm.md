@@ -1,25 +1,25 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 359)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,926 |
-| Wallbanger | 5.00% | ~18,926 |
-| Exploitative | 4.00% | ~15,140 |
-| High Speed Low Drag | 4.00% | ~15,140 |
-| Wet Feet | 4.00% | ~15,140 |
-| Checkpoint Victory | 3.00% | ~11,355 |
-| Lucky | 3.00% | ~11,355 |
-| Stylin' | 3.00% | ~11,355 |
-| Turf War | 3.00% | ~11,355 |
-| Banged | 2.00% | ~7,570 |
-| First Blood | 2.00% | ~7,570 |
-| Flaccid Paralysis | 2.00% | ~7,570 |
-| Push Victory | 2.00% | ~7,570 |
-| Self-destructive | 2.00% | ~7,570 |
+| Point Shooting | 5.00% | ~18,927 |
+| Wallbanger | 5.00% | ~18,927 |
+| Exploitative | 4.00% | ~15,141 |
+| High Speed Low Drag | 4.00% | ~15,141 |
+| Wet Feet | 4.00% | ~15,141 |
+| Checkpoint Victory | 3.00% | ~11,356 |
+| Lucky | 3.00% | ~11,356 |
+| Stylin' | 3.00% | ~11,356 |
+| Turf War | 3.00% | ~11,356 |
+| Banged | 2.00% | ~7,571 |
+| First Blood | 2.00% | ~7,571 |
+| Flaccid Paralysis | 2.00% | ~7,571 |
+| Push Victory | 2.00% | ~7,571 |
+| Self-destructive | 2.00% | ~7,571 |
 | Blindfire | 1.00% | ~3,785 |
 | Efficient | 1.00% | ~3,785 |
 | Ruthless | 1.00% | ~3,785 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~379 |
 | Road Hazard | 0.10% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378,511 (Ranked 37)  
+Progressed: 378,532 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,10 +85,10 @@ Completed: 2 (0.00%) (Ranked 210)
 | 2023-05-30 | 377,224 | 2 |
 | 2023-05-31 | 377,737 | 2 |
 | 2023-06-01 | 378,227 | 2 |
-| 2023-06-02 | 378,511 | 2 |
+| 2023-06-02 | 378,532 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 355  (Ranked 211)  
-Sum: 2,691 (Ranked 162)  
+Sum: 2,692 (Ranked 162)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -99,7 +99,7 @@ Diff (max vs sum): 49
 | This game has Realistic Visuals | 289 |
 | This game is Highly Recommended | 287 |
 | This game has Amazing Storytelling | 286 |
-| This game has Amazing Characters | 279 |
+| This game has Amazing Characters | 280 |
 | This game has a Competitive Community | 237 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -245,4 +245,4 @@ Diff (max vs sum): 49
 | 2023-05-30 | 4.61 | - | 355 | 2,684 |
 | 2023-05-31 | 4.61 | - | 355 | 2,687 |
 | 2023-06-01 | 4.62 | - | 355 | 2,689 |
-| 2023-06-02 | 4.61 | - | 355 | 2,691 |
+| 2023-06-02 | 4.61 | - | 355 | 2,692 |

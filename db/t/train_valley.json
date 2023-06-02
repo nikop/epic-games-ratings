@@ -3,11 +3,11 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 588,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -188,6 +188,11 @@
       "Time": "2023-05-29T22:03:52.5659384+00:00",
       "NumProgressed": 288,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T16:04:56.9360207+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -197,9 +202,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 220
     },
     {
       "ID": "02_collector",
@@ -239,15 +244,15 @@
       "Name": "Living it large!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "08_america",
@@ -303,7 +308,7 @@
       "Name": "Woodcutter",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "15_bbq",
@@ -327,7 +332,7 @@
       "Name": "Builder",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "18_foreman",
@@ -373,9 +378,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 214
     },
     {
       "ID": "24_mega",
@@ -437,17 +442,17 @@
       "ID": "31_chancellor",
       "SetID": "chb1m60",
       "Name": "\u0421hancellor",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "33_peacemaker",
@@ -471,7 +476,7 @@
       "Name": "Achtung!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "36_supercrash",
@@ -510,15 +515,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:04:13.6610995+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:04:56.9360201+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:29.5718751+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:57:33.8135039+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:04:13.6611304+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:57:45.2705792+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:04:56.9360532+00:00"
 }

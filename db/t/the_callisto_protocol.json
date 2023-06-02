@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 102,
@@ -512,9 +512,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14294,
+  "EOS_Progressed": 14295,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2487,6 +2487,11 @@
       "Time": "2023-06-02T15:03:57.1700042+00:00",
       "NumProgressed": 14294,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-02T16:04:37.725899+00:00",
+      "NumProgressed": 14295,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2530,7 +2535,7 @@
       "Name": "Flesh Wound",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2690,7 +2695,7 @@
       "Name": "The Outer Way",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2817,13 +2822,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14294,
+      "Progressed": 14295,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2220,
+      "Progressed": 2221,
       "Completed": 29
     }
   ],
@@ -2831,8 +2836,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-02T10:58:19.5947584+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:03:57.1700038+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:04:37.7258983+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:57:46.7120738+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:03:57.1700456+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:58:01.6662737+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:04:37.7259441+00:00"
 }

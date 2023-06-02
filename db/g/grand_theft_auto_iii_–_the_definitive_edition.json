@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 851,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Rating": 852,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -268,11 +268,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5849,
-  "EOS_Completed": 29,
-  "EOS_NewPlayers": 456,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Progressed": 5850,
+  "EOS_Completed": 30,
+  "EOS_NewPlayers": 451,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -2753,6 +2753,11 @@
       "Time": "2023-06-02T15:03:19.4127615+00:00",
       "NumProgressed": 5849,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-02T16:03:52.0814959+00:00",
+      "NumProgressed": 5850,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -2764,7 +2769,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4855
+      "UsersEstimate": 4856
     },
     {
       "ID": "ACH02",
@@ -2804,7 +2809,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH07",
@@ -2836,7 +2841,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "ACH11",
@@ -2948,7 +2953,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH25",
@@ -2995,16 +3000,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5849,
-      "Completed": 29
+      "Progressed": 5850,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-01T04:58:26.2683164+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:03:19.4127609+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:03:52.0814952+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:57:49.421128+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:03:19.4127929+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:58:04.9707955+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:03:52.0815359+00:00"
 }

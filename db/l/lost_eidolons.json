@@ -2,12 +2,12 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 753,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Rating": 754,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -583,6 +583,11 @@
       "Time": "2023-06-02T15:06:04.1654973+00:00",
       "NumProgressed": 935,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T16:07:01.3685249+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -634,7 +639,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "07",
@@ -666,7 +671,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "11",
@@ -777,7 +782,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 0
     }
   ],
@@ -785,8 +790,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:06:04.1654966+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:07:01.3685241+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:59:42.3076775+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:06:04.1655174+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:00:19.6185181+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:07:01.3685443+00:00"
 }

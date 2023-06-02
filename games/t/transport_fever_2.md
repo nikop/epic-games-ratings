@@ -6,20 +6,20 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~923 |
-| First cargo item on board | 70.00% | ~839 |
-| First cargo item waiting | 70.00% | ~839 |
-| First bus stop | 69.00% | ~827 |
-| First passenger on board | 66.00% | ~791 |
-| First passenger waiting | 66.00% | ~791 |
-| First bus arrived | 65.00% | ~779 |
-| First train station | 63.00% | ~755 |
-| First steam train arrived | 59.00% | ~707 |
-| First industry upgraded | 55.00% | ~659 |
-| Transport millionaire | 54.00% | ~647 |
-| Cargo hub | 53.00% | ~635 |
-| Transport master | 52.00% | ~623 |
-| Cadet | 52.00% | ~623 |
+| First line | 77.00% | ~924 |
+| First cargo item on board | 70.00% | ~840 |
+| First cargo item waiting | 70.00% | ~840 |
+| First bus stop | 69.00% | ~828 |
+| First passenger on board | 66.00% | ~792 |
+| First passenger waiting | 66.00% | ~792 |
+| First bus arrived | 65.00% | ~780 |
+| First train station | 63.00% | ~756 |
+| First steam train arrived | 59.00% | ~708 |
+| First industry upgraded | 55.00% | ~660 |
+| Transport millionaire | 54.00% | ~648 |
+| Cargo hub | 53.00% | ~636 |
+| Transport master | 52.00% | ~624 |
+| Cadet | 52.00% | ~624 |
 | Sculpturer | 50.00% | ~600 |
 | Settled down | 48.00% | ~576 |
 | First electric train arrived | 47.00% | ~564 |
@@ -34,7 +34,7 @@ Number of Ratings: 180  (23.09.2022)
 | The future is now, old man | 31.00% | ~372 |
 | Crowd in a train | 30.00% | ~360 |
 | Not in my backyard | 30.00% | ~360 |
-| City | 29.00% | ~348 |
+| City | 28.00% | ~336 |
 | The king of the sea | 28.00% | ~336 |
 | Transport tycoon | 24.00% | ~288 |
 | Climate change | 23.00% | ~276 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,199 (Ranked 164)  
+Progressed: 1,200 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,14 +111,14 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 1,179 | 0 |
 | 2023-05-31 | 1,184 | 0 |
 | 2023-06-01 | 1,193 | 0 |
-| 2023-06-02 | 1,199 | 0 |
+| 2023-06-02 | 1,200 | 0 |
 ## Awards
-Max (Highly Recommended): 38  (Ranked 418)  
-Sum: 266 (Ranked 338)  
-Diff (max vs sum): 80  
+Max (Highly Recommended): 39  (Ranked 415)  
+Sum: 267 (Ranked 336)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 38 |
+| This game is Highly Recommended | 39 |
 | This game is Great for Beginners | 34 |
 | This game has Amazing Storytelling | 33 |
 | This game is Extremely Fun | 32 |
@@ -195,4 +195,4 @@ Diff (max vs sum): 80
 | 2023-05-26 | 4.69 | - | 38 | 262 |
 | 2023-05-27 | 4.69 | - | 38 | 264 |
 | 2023-05-31 | 4.69 | - | 38 | 265 |
-| 2023-06-02 | 4.69 | - | 38 | 266 |
+| 2023-06-02 | 4.69 | - | 39 | 267 |

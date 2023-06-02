@@ -13,7 +13,7 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 25.00% | ~309 |
 | How Romantic! | 23.00% | ~284 |
 | Daybreak | 23.00% | ~284 |
-| Gotta Ca... Must Collect All of Them | 21.00% | ~259 |
+| Gotta Ca... Must Collect All of Them | 21.00% | ~260 |
 | Completing the Look | 12.00% | ~148 |
 | Who's Counting? | 12.00% | ~148 |
 | War Endured | 12.00% | ~148 |
@@ -22,7 +22,7 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 9.00% | ~111 |
 | Thematic Divergence | 8.00% | ~99 |
 | Echoes Die | 8.00% | ~99 |
-| Chain Reaction | 7.00% | ~86 |
+| Chain Reaction | 7.00% | ~87 |
 | Plague Doctor | 6.00% | ~74 |
 | Everfading | 6.00% | ~74 |
 | Another Tale to Tell | 6.00% | ~74 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.50% | ~6 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,235 (Ranked 162)  
+Progressed: 1,236 (Ranked 162)  
 Completed: 3 (0.24%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,10 +103,10 @@ Completed: 3 (0.24%) (Ranked 137)
 | 2023-05-30 | 1,225 | 3 |
 | 2023-05-31 | 1,227 | 3 |
 | 2023-06-01 | 1,229 | 3 |
-| 2023-06-02 | 1,235 | 3 |
+| 2023-06-02 | 1,236 | 3 |
 ## Awards
-Max (Character Customization): 27  (Ranked 455)  
-Sum: 27 (Ranked 465)  
+Max (Character Customization): 27  (Ranked 456)  
+Sum: 27 (Ranked 466)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |

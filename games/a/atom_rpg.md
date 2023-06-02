@@ -33,9 +33,9 @@ Number of Ratings: 54  (23.09.2022)
 | It was worth a shot | 1.00% | ~9 |
 | Cosmic Horror | 0.90% | ~8 |
 | Ghostbuster | 0.80% | ~7 |
+| Cheeki Breeki | 0.60% | ~5 |
 | Expert | 0.60% | ~5 |
 | Tourist Korallov | 0.60% | ~5 |
-| Cheeki Breeki | 0.40% | ~4 |
 | It's a classic! | 0.40% | ~4 |
 | Comrade Yogi | 0.40% | ~4 |
 | Mystical relics | 0.20% | ~2 |

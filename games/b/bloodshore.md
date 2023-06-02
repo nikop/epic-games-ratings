@@ -16,7 +16,7 @@
 | Mission Complete | 29.00% | ~45 |
 | Lootaphilia | 22.00% | ~34 |
 | Maybe you should give it another go | 10.00% | ~16 |
-| I used to think I was indecisive... | 7.00% | ~11 |
+| I used to think I was indecisive... | 8.00% | ~12 |
 | Mikey Lizard | 6.00% | ~9 |
 | That's my boy! | 4.00% | ~6 |
 | We tried to warn you! | 4.00% | ~6 |

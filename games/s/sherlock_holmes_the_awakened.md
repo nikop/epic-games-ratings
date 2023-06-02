@@ -19,7 +19,7 @@
 | Knives Out | 39.00% | ~135 |
 | Back In The Saddle | 38.00% | ~131 |
 | Land, Ho! | 38.00% | ~131 |
-| No Man Is An Island | 36.00% | ~125 |
+| No Man Is An Island | 37.00% | ~128 |
 | At Wits' End | 35.00% | ~121 |
 | Going Once... | 33.00% | ~114 |
 | Bookworm | 32.00% | ~111 |

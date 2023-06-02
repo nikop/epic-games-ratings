@@ -4,7 +4,7 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 63,
   "Ranking_Popularity": 53,
-  "Ranking_PopularitySum": 77,
+  "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 47,
@@ -4294,10 +4294,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10441,
       "NumberOfAwardsMax": 6122
+    },
+    {
+      "Time": "2023-06-02T15:59:28.6820931+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10443,
+      "NumberOfAwardsMax": 6122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10441,
+  "NumberOfAwards": 10443,
   "NumberOfAwardsMax": 6122,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4329,7 +4335,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 484
+      "Count": 486
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4374,9 +4380,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706867,
+  "EOS_Progressed": 706881,
   "EOS_Completed": 12751,
-  "EOS_NewPlayers": 1426,
+  "EOS_NewPlayers": 1420,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8229,6 +8235,11 @@
       "Time": "2023-06-02T15:06:13.3782408+00:00",
       "NumProgressed": 706867,
       "NumCompleted": 12751
+    },
+    {
+      "Time": "2023-06-02T16:07:11.521985+00:00",
+      "NumProgressed": 706881,
+      "NumCompleted": 12751
     }
   ],
   "TotalAchievements": 50,
@@ -8304,7 +8315,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "10_Wude_H4",
@@ -8312,7 +8323,7 @@
       "Name": "Iron Money",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "11_Wude_H5",
@@ -8320,7 +8331,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "12_MidAge",
@@ -8336,7 +8347,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -8456,7 +8467,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -8496,7 +8507,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "34_TimedTakedown",
@@ -8639,21 +8650,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16168,
+      "Progressed": 16182,
       "Completed": 10212
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706867,
+      "Progressed": 706881,
       "Completed": 12751
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-02T14:59:00.1429746+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:06:13.3782403+00:00",
+  "LastChanged": "2023-06-02T15:59:28.682093+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:07:11.5219844+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:59:00.1429753+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:06:13.3783279+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:59:28.6820941+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:07:11.5221069+00:00"
 }

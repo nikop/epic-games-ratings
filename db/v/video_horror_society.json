@@ -2,10 +2,10 @@
   "ID": "90487cf458a143ff921d3ca365ad4fd6",
   "Name": "Video Horror Society",
   "ProductSlug": "vhs",
-  "Ranking_Rating": 779,
+  "Ranking_Rating": 780,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 244,
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 91,
@@ -1127,6 +1127,6 @@
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
   "LastChanged": "2023-06-01T19:59:40.4075733+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.8839728+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:00:13.2074883+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:05:17.2794209+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:00:56.2060171+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:06:09.501373+00:00"
 }

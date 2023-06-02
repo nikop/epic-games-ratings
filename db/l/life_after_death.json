@@ -2,7 +2,7 @@
   "ID": "97be0dec5b1d4577b7647d3d96d79a94",
   "Name": "Life After Death",
   "ProductSlug": "life-after-death-b4e964",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 91,
@@ -19,26 +19,513 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-06-02T16:02:30.3045493+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 60,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1_0",
+      "SetID": "c98563l",
+      "Name": "The Game is Starting!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_1",
+      "SetID": "c98563l",
+      "Name": "First steps!!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_10",
+      "SetID": "c98563l",
+      "Name": "They can hit but don\u0027t hurt!!!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_11",
+      "SetID": "c98563l",
+      "Name": "So cool when we achieve!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_12",
+      "SetID": "c98563l",
+      "Name": "This getting hot!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_13",
+      "SetID": "c98563l",
+      "Name": "I almost forget time passing!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_14",
+      "SetID": "c98563l",
+      "Name": "This time is for real!!!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_15",
+      "SetID": "c98563l",
+      "Name": "Lets do it one more time!!!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_16",
+      "SetID": "c98563l",
+      "Name": "I can do it more!!!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_17",
+      "SetID": "c98563l",
+      "Name": "Take it, and take it again!!!!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_18",
+      "SetID": "c98563l",
+      "Name": "Step by step we can rule!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_19",
+      "SetID": "c98563l",
+      "Name": "This is a a good day!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_2",
+      "SetID": "c98563l",
+      "Name": "Keep going!!!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_20",
+      "SetID": "c98563l",
+      "Name": "The inventors created the wheel so we can rock and roll!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_21",
+      "SetID": "c98563l",
+      "Name": "Im feeling lucky aren\u0027t we?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_22",
+      "SetID": "c98563l",
+      "Name": "We are safe when someone is watching ours back!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_23",
+      "SetID": "c98563l",
+      "Name": "Danger always come in many ways!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_24",
+      "SetID": "c98563l",
+      "Name": "One way or another I\u0027m going to get you!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_25",
+      "SetID": "c98563l",
+      "Name": "You are marked to survive!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_26",
+      "SetID": "c98563l",
+      "Name": "I found that life is for the strong!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_27",
+      "SetID": "c98563l",
+      "Name": "Im feeling with something special!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_28",
+      "SetID": "c98563l",
+      "Name": "Here I am ready to rock you!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_29",
+      "SetID": "c98563l",
+      "Name": "I have to keep doing it!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_3",
+      "SetID": "c98563l",
+      "Name": "There is always a first time!!!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_30",
+      "SetID": "c98563l",
+      "Name": "My level is increasing ohhh yeah!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_31",
+      "SetID": "c98563l",
+      "Name": "Lazy is not my kind!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_4",
+      "SetID": "c98563l",
+      "Name": "There is no time to rest!!!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_5",
+      "SetID": "c98563l",
+      "Name": "Sometimes is better think twice!!!!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_6",
+      "SetID": "c98563l",
+      "Name": "Long way to travel!!!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_7",
+      "SetID": "c98563l",
+      "Name": "The better path is always forward!!!!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_8",
+      "SetID": "c98563l",
+      "Name": "The time is running keep doing!!!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_9",
+      "SetID": "c98563l",
+      "Name": "One more time don\u0027t giveaway!!!!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_0",
+      "SetID": "c98563l",
+      "Name": "Is not now I\u0027m going to stop keep going!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_1",
+      "SetID": "c98563l",
+      "Name": "So much and im still stand!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_10",
+      "SetID": "c98563l",
+      "Name": "I love when I kill with style!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_11",
+      "SetID": "c98563l",
+      "Name": "I got all I need!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_12",
+      "SetID": "c98563l",
+      "Name": "Almost there im getting there!!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_13",
+      "SetID": "c98563l",
+      "Name": "Let me do it I know what im doing!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_14",
+      "SetID": "c98563l",
+      "Name": "I got the power yeah!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_15",
+      "SetID": "c98563l",
+      "Name": "Is alright trying but better when accomplish !!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_16",
+      "SetID": "c98563l",
+      "Name": "Come and take my inventory if you can!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_17",
+      "SetID": "c98563l",
+      "Name": "There many ways to solve a thing!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_18",
+      "SetID": "c98563l",
+      "Name": "This is the path I believe in me!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_19",
+      "SetID": "c98563l",
+      "Name": "I can see the light up there!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_2",
+      "SetID": "c98563l",
+      "Name": "I will not wait for tomorrow is now!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_20",
+      "SetID": "c98563l",
+      "Name": "So so close I can\u0027t believe it!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_21",
+      "SetID": "c98563l",
+      "Name": "I just coming out of my cage!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_22",
+      "SetID": "c98563l",
+      "Name": "So much fun and many time in duty!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_23",
+      "SetID": "c98563l",
+      "Name": "This is it I survived!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_24",
+      "SetID": "c98563l",
+      "Name": "One last shot in honor of fun!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_25",
+      "SetID": "c98563l",
+      "Name": "This is when things are done!!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_26",
+      "SetID": "c98563l",
+      "Name": "I can remember that!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_27",
+      "SetID": "c98563l",
+      "Name": "The End!!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_3",
+      "SetID": "c98563l",
+      "Name": "Never ever try to stop me don\u0027t dare!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_4",
+      "SetID": "c98563l",
+      "Name": "No time to cry lets keep going!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_5",
+      "SetID": "c98563l",
+      "Name": "One by one they fall!!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_6",
+      "SetID": "c98563l",
+      "Name": "Service is calling!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_7",
+      "SetID": "c98563l",
+      "Name": "There no chance for errors!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_8",
+      "SetID": "c98563l",
+      "Name": "I will clean this world!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_9",
+      "SetID": "c98563l",
+      "Name": "Break the rules!!!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c98563l",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:01:13.3888255+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:02:30.3045486+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:54.6516878+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:59:24.7805426+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:01:13.3888298+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:59:58.1523945+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:02:30.3046165+00:00"
 }

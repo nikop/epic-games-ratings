@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7484,
+  "EOS_Progressed": 7485,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3251,6 +3251,11 @@
       "Time": "2023-06-02T15:02:38.0075879+00:00",
       "NumProgressed": 7484,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-02T16:03:39.8754004+00:00",
+      "NumProgressed": 7485,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3422,7 +3427,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "ACH22",
@@ -3438,7 +3443,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACH24",
@@ -3533,7 +3538,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7484,
+      "Progressed": 7485,
       "Completed": 25
     }
   ],
@@ -3541,8 +3546,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-02T03:58:36.7858578+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:02:38.0075874+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:03:39.8753998+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:58:14.0867922+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:02:38.0076275+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:58:32.8769601+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:03:39.8754474+00:00"
 }

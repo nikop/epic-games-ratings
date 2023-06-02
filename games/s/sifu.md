@@ -38,12 +38,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.50% | ~3,534 |
 | Tiger on Fire | 0.50% | ~3,534 |
 | Detective Story | 0.50% | ~3,534 |
-| Source of Flying Daggers | 0.40% | ~2,827 |
-| Iron Money | 0.40% | ~2,827 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,827 |
-| Prodigal Child | 0.40% | ~2,827 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,827 |
-| Sword Stained With Blood | 0.40% | ~2,827 |
+| Source of Flying Daggers | 0.40% | ~2,828 |
+| Iron Money | 0.40% | ~2,828 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,828 |
+| Prodigal Child | 0.40% | ~2,828 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,828 |
+| Sword Stained With Blood | 0.40% | ~2,828 |
 | Martial Hub | 0.40% | ~65 |
 | Secure, Protect, Leave | 0.30% | ~49 |
 | Drunken Fighter | 0.20% | ~1,414 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,867 (Ranked 15)  
+Progressed: 706,881 (Ranked 15)  
 Completed: 12,751 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,11 +100,11 @@ Completed: 12,751 (1.80%) (Ranked 67)
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
-| 2023-06-02 | 706,867 | 12,751 |
+| 2023-06-02 | 706,881 | 12,751 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
-Sum: 10,441 (Ranked 77)  
-Diff (max vs sum): -24  
+Sum: 10,443 (Ranked 78)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,122 |
@@ -113,7 +113,7 @@ Diff (max vs sum): -24
 | This game has Quickly Understood Controls | 507 |
 | This game is Extremely Fun | 501 |
 | This game has Amazing Storytelling | 497 |
-| This game has Amazing Characters | 484 |
+| This game has Amazing Characters | 486 |
 | This game is Highly Recommended | 482 |
 | This game has Unique Visuals | 458 |
 | This game is Relaxing | 401 |
@@ -258,4 +258,4 @@ Diff (max vs sum): -24
 | 2023-05-30 | 4.82 | - | 6,114 | 10,418 |
 | 2023-05-31 | 4.82 | - | 6,114 | 10,422 |
 | 2023-06-01 | 4.82 | - | 6,119 | 10,434 |
-| 2023-06-02 | 4.82 | - | 6,122 | 10,441 |
+| 2023-06-02 | 4.82 | - | 6,122 | 10,443 |

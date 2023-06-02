@@ -3,11 +3,11 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 611,
-  "Ranking_Popularity": 463,
+  "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -460,9 +460,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 250187,
+  "EOS_Progressed": 250194,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4680,6 +4680,11 @@
       "Time": "2023-06-02T15:01:01.9357097+00:00",
       "NumProgressed": 250187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T16:02:16.9430812+00:00",
+      "NumProgressed": 250194,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -4691,7 +4696,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17513
+      "UsersEstimate": 17514
     },
     {
       "ID": "Act2",
@@ -4699,7 +4704,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10007
+      "UsersEstimate": 10008
     },
     {
       "ID": "Act3",
@@ -4739,7 +4744,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77558
+      "UsersEstimate": 77560
     },
     {
       "ID": "BackHomeNTimes",
@@ -4747,7 +4752,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12509
+      "UsersEstimate": 12510
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -4755,7 +4760,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10007
+      "UsersEstimate": 10008
     },
     {
       "ID": "BreakNWindows",
@@ -4763,7 +4768,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10007
+      "UsersEstimate": 10008
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -4819,7 +4824,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12509
+      "UsersEstimate": 12510
     },
     {
       "ID": "CreedsInBank2",
@@ -4891,7 +4896,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15011
+      "UsersEstimate": 15012
     },
     {
       "ID": "GrowPlants2",
@@ -4947,7 +4952,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12509
+      "UsersEstimate": 12510
     },
     {
       "ID": "KillOtherWithKatana",
@@ -4979,7 +4984,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55041
+      "UsersEstimate": 55043
     },
     {
       "ID": "KillOthers2",
@@ -5035,7 +5040,7 @@
       "Name": "Committed Relationship",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "NewFloor",
@@ -5059,7 +5064,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10007
+      "UsersEstimate": 10008
     },
     {
       "ID": "Patrimony2",
@@ -5138,7 +5143,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250187,
+      "Progressed": 250194,
       "Completed": 1
     }
   ],
@@ -5146,8 +5151,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-01T06:01:00.8249028+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:01:01.9357091+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:02:16.9430805+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.4496251+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:00:17.015791+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:01:01.9357877+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:01:01.0096861+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:02:16.9434076+00:00"
 }

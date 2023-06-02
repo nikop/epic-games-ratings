@@ -32,7 +32,7 @@ Rating: 4.50 (Ranked 541)
 | Omae Wa Mou Shindeiru | 7.00% | ~27 |
 | Experimentalist | 6.00% | ~23 |
 | Wide Selection | 6.00% | ~23 |
-| Soldier | 5.00% | ~19 |
+| Soldier | 6.00% | ~23 |
 | Android Power | 5.00% | ~19 |
 | Shopaholic | 3.00% | ~12 |
 | Zombie Lover | 3.00% | ~12 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 541)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387 (Ranked 206)  
+Progressed: 387 (Ranked 207)  
 Completed: 1 (0.26%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |

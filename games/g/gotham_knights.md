@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 841)  
+Rating: 4.17 (Ranked 842)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,9 +30,9 @@ Rating: 4.17 (Ranked 841)
 | Shock Til They Drop | 0.90% | ~569 |
 | Cooldown | 0.90% | ~569 |
 | Voiceless | 0.90% | ~569 |
+| Seeking Asylum | 0.90% | ~569 |
 | End of an Era | 0.80% | ~506 |
 | Bulldozed | 0.80% | ~506 |
-| Seeking Asylum | 0.80% | ~506 |
 | Gotham Knight | 0.80% | ~506 |
 | Gotham City Confidential | 0.70% | ~443 |
 | Out of Their League | 0.60% | ~379 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 841)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,238 (Ranked 71)  
+Progressed: 63,249 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-05-30 | 62,912 | 91 |
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
-| 2023-06-02 | 63,238 | 93 |
+| 2023-06-02 | 63,249 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,275  (Ranked 98)  
 Sum: 3,771 (Ranked 138)  

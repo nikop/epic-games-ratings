@@ -1,23 +1,23 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 835)  
+Rating: 4.18 (Ranked 836)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,625 |
-| Worker Specialization | 78.00% | ~4,566 |
-| First Contact | 73.00% | ~4,273 |
-| Win a Battle | 67.00% | ~3,922 |
-| Anomaly Researcher | 63.00% | ~3,688 |
-| Unleash My Power | 62.00% | ~3,629 |
-| Own 30 Planets | 35.00% | ~2,049 |
+| Colonize a Planet | 79.00% | ~4,626 |
+| Worker Specialization | 78.00% | ~4,568 |
+| First Contact | 73.00% | ~4,275 |
+| Win a Battle | 67.00% | ~3,924 |
+| Anomaly Researcher | 63.00% | ~3,689 |
+| Unleash My Power | 62.00% | ~3,631 |
+| Own 30 Planets | 34.00% | ~1,991 |
 | Xenocide | 33.00% | ~1,932 |
-| Design a Civilization | 32.00% | ~1,873 |
+| Design a Civilization | 32.00% | ~1,874 |
 | Commodity Trader | 31.00% | ~1,815 |
 | Design a Ship | 29.00% | ~1,698 |
-| Commodity Seller | 26.00% | ~1,522 |
+| Commodity Seller | 26.00% | ~1,523 |
 | Prestige Victory! | 14.00% | ~820 |
 | Galactic War | 11.00% | ~644 |
 | Trading Partner | 9.00% | ~527 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,854 (Ranked 123)  
+Progressed: 5,856 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,11 +122,11 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 5,829 | 0 |
 | 2023-05-31 | 5,833 | 0 |
 | 2023-06-01 | 5,846 | 0 |
-| 2023-06-02 | 5,854 | 0 |
+| 2023-06-02 | 5,856 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 337)  
-Sum: 662 (Ranked 267)  
-Diff (max vs sum): 70  
+Sum: 662 (Ranked 268)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 92 |

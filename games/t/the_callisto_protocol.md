@@ -1,12 +1,12 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 835)  
+Rating: 4.18 (Ranked 836)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,429 |
-| The Outer Way | 9.00% | ~1,286 |
+| Flesh Wound | 10.00% | ~1,430 |
+| The Outer Way | 9.00% | ~1,287 |
 | Desperate Times | 8.00% | ~1,144 |
 | Chew 'Em Up | 7.00% | ~1,001 |
 | Paper Jams | 7.00% | ~1,001 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 835)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,294 (Ranked 102)  
+Progressed: 14,295 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,294 | 53 |
+| 2023-06-02 | 14,295 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
 Sum: 283 (Ranked 329)  

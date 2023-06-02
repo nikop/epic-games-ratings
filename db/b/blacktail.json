@@ -3,11 +3,11 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 258,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 428,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2023-06-02T13:20:13.2031637+00:00",
       "NumProgressed": 426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T16:06:50.2877292+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -707,7 +712,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Devoted",
@@ -851,7 +856,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Specialist",
@@ -891,7 +896,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Toxic",
@@ -930,7 +935,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 428,
       "Completed": 1
     }
   ],
@@ -938,8 +943,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-02T15:05:53.903495+00:00",
+  "LastChanged_Achievements": "2023-06-02T16:06:50.2877285+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:40.7242901+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:57:47.6793628+00:00",
-  "LastUpdate_Achievements": "2023-06-02T15:05:53.9174127+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:58:02.621391+00:00",
+  "LastUpdate_Achievements": "2023-06-02T16:06:50.2877607+00:00"
 }
