@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3308,
+  "EOS_Progressed": 3309,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3435,6 +3435,11 @@
       "Time": "2023-06-02T16:59:59.6356502+00:00",
       "NumProgressed": 3308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T18:00:17.595634+00:00",
+      "NumProgressed": 3309,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3502,7 +3507,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3510,7 +3515,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -3534,7 +3539,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -3550,7 +3555,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3598,7 +3603,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3606,7 +3611,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3638,7 +3643,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_MYWAYS",
@@ -3734,7 +3739,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -3742,7 +3747,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -3765,15 +3770,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3308,
+      "Progressed": 3309,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:59:59.6356498+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:00:17.5956335+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:59:33.1328137+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:59:59.6357011+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:59:48.0477981+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:00:17.5956754+00:00"
 }

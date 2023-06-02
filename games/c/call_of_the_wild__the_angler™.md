@@ -6,19 +6,19 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~2,961 |
-| Hey Good Hookin | 63.00% | ~2,521 |
-| I'm on a Boat! | 54.00% | ~2,161 |
-| Can you smell what the Rod is Hooking | 47.00% | ~1,880 |
-| Scaling up | 47.00% | ~1,880 |
-| Ready to Rod and Roll | 39.00% | ~1,560 |
-| More Fish in the Sea | 38.00% | ~1,520 |
-| License to Gill | 31.00% | ~1,240 |
-| Fish Out of Water | 30.00% | ~1,200 |
-| Things that go Splash in the Night | 25.00% | ~1,000 |
-| Goldfish? | 25.00% | ~1,000 |
-| Going for Gold | 23.00% | ~920 |
-| I'm Hooked! | 17.00% | ~680 |
+| Fish Just Got Reel | 74.00% | ~2,962 |
+| Hey Good Hookin | 63.00% | ~2,522 |
+| I'm on a Boat! | 54.00% | ~2,162 |
+| Can you smell what the Rod is Hooking | 47.00% | ~1,881 |
+| Scaling up | 47.00% | ~1,881 |
+| Ready to Rod and Roll | 39.00% | ~1,561 |
+| More Fish in the Sea | 38.00% | ~1,521 |
+| License to Gill | 31.00% | ~1,241 |
+| Fish Out of Water | 30.00% | ~1,201 |
+| Things that go Splash in the Night | 25.00% | ~1,001 |
+| Goldfish? | 25.00% | ~1,001 |
+| Going for Gold | 23.00% | ~921 |
+| I'm Hooked! | 17.00% | ~681 |
 | More than a Tourist | 12.00% | ~480 |
 | Diamond in the Rough | 12.00% | ~480 |
 | Hook, Line and Sinker | 7.00% | ~280 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,001 (Ranked 132)  
+Progressed: 4,003 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 3,911 | 0 |
 | 2023-05-31 | 3,954 | 0 |
 | 2023-06-01 | 3,982 | 0 |
-| 2023-06-02 | 4,001 | 0 |
+| 2023-06-02 | 4,003 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 438)  
 Sum: 158 (Ranked 378)  

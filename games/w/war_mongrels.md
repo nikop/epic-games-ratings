@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~187 |
-| Cowardice | 54.00% | ~163 |
+| Explorer | 62.00% | ~188 |
+| Cowardice | 54.00% | ~164 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~148 |
 | Eat Lead! | 47.00% | ~142 |
 | Prospector | 43.00% | ~130 |
@@ -15,21 +15,21 @@ Number of Ratings: 34  (23.09.2022)
 | Treasure Hunter | 41.00% | ~124 |
 | The Breaking Point | 40.00% | ~121 |
 | Sniper Wolf | 37.00% | ~112 |
+| The Motivation | 36.00% | ~109 |
 | Missing in Action | 36.00% | ~109 |
-| The Motivation | 35.00% | ~106 |
 | Heroism | 33.00% | ~100 |
 | King of Knives | 32.00% | ~97 |
 | Collectibles of Chapter I | 31.00% | ~94 |
 | Consequences | 29.00% | ~88 |
 | Opportunities | 28.00% | ~85 |
 | The Horror | 26.00% | ~79 |
-| Collectibles of Chapter II | 24.00% | ~72 |
-| The Difference | 24.00% | ~72 |
-| Vengeance | 22.00% | ~66 |
-| It's Just an Accident | 20.00% | ~60 |
-| Broken Hopes | 19.00% | ~57 |
-| Food Massacre | 19.00% | ~57 |
-| Bullseye! | 19.00% | ~57 |
+| Collectibles of Chapter II | 24.00% | ~73 |
+| The Difference | 23.00% | ~70 |
+| Vengeance | 21.00% | ~64 |
+| It's Just an Accident | 20.00% | ~61 |
+| Broken Hopes | 19.00% | ~58 |
+| Food Massacre | 19.00% | ~58 |
+| Bullseye! | 19.00% | ~58 |
 | Collectibles of Chapter III | 16.00% | ~48 |
 | Sorrow | 16.00% | ~48 |
 | Collectibles of Chapter IV | 15.00% | ~45 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 223)  
+Progressed: 303 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 297 | 0 |
 | 2023-05-31 | 300 | 0 |
 | 2023-06-01 | 302 | 0 |
+| 2023-06-02 | 303 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 83.00% | ~19 |
+| Escape artist | 87.00% | ~20 |
 | Through the woods | 74.00% | ~17 |
 | Book Worm | 74.00% | ~17 |
 | My lost nightingale | 74.00% | ~17 |
 | Ooh, it's shiny! | 74.00% | ~17 |
+| Fussy eater | 61.00% | ~14 |
 | Back to the anvil | 61.00% | ~14 |
 | Mystery solved | 57.00% | ~13 |
 | Honey, honey, honey… | 57.00% | ~13 |
-| Fussy eater | 57.00% | ~13 |
 | Far away from home | 57.00% | ~13 |
 | So soothing... | 57.00% | ~13 |
 | Kekekeke... | 57.00% | ~13 |
@@ -23,6 +23,7 @@
 | A very special drink | 52.00% | ~12 |
 | Show me your true self | 48.00% | ~11 |
 | Close the deal | 43.00% | ~10 |
+| Makeover | 43.00% | ~10 |
 | Ring-a-ding-ding | 43.00% | ~10 |
 | Pain in the hands | 43.00% | ~10 |
 | Little genius | 43.00% | ~10 |
@@ -30,7 +31,6 @@
 | GG | 39.00% | ~9 |
 | You've got mail! | 39.00% | ~9 |
 | Memories | 39.00% | ~9 |
-| Makeover | 39.00% | ~9 |
 | Singstar | 39.00% | ~9 |
 | Mischief maker | 39.00% | ~9 |
 | No posters allowed | 39.00% | ~9 |

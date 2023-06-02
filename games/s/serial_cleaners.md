@@ -8,8 +8,8 @@
 | Clean Conscience | 10.00% | ~18 |
 | Small-time Finder | 5.00% | ~9 |
 | Off to a Good Start | 4.00% | ~7 |
+| A New Broom Sweeps Clean | 4.00% | ~7 |
 | Business as usual | 3.00% | ~5 |
-| A New Broom Sweeps Clean | 3.00% | ~5 |
 | Total Recall | 2.00% | ~4 |
 | Pride and Joy | 2.00% | ~4 |
 | Eyes Yet To Open | 2.00% | ~4 |

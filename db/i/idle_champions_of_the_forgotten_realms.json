@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4078,10 +4078,10 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89520,
+  "EOS_Progressed": 89524,
   "EOS_Completed": 1907,
   "EOS_NewPlayers": 779,
-  "EOS_NewCompleters": 28,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8398,6 +8398,11 @@
       "Time": "2023-06-02T17:05:48.2203724+00:00",
       "NumProgressed": 89520,
       "NumCompleted": 1907
+    },
+    {
+      "Time": "2023-06-02T18:06:02.1497796+00:00",
+      "NumProgressed": 89524,
+      "NumCompleted": 1907
     }
   ],
   "TotalAchievements": 493,
@@ -9983,9 +9988,9 @@
       "ID": "objective_completed_267",
       "SetID": "cc37lbc",
       "Name": "Seeds of Deceit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_268",
@@ -10183,9 +10188,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_389",
@@ -12352,21 +12357,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55794,
-      "Completed": 2761
+      "Progressed": 55798,
+      "Completed": 2762
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89520,
+      "Progressed": 89524,
       "Completed": 1907
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-02T13:58:11.3410871+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:48.2203719+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:06:02.1497792+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:57:48.9479372+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:48.2229441+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:57:59.0997361+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:06:02.1519603+00:00"
 }

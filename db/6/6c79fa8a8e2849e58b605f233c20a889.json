@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
@@ -1121,6 +1121,11 @@
       "Time": "2023-06-02T17:03:24.4263199+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T18:03:31.7975006+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1164,7 +1169,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -1220,7 +1225,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -1236,7 +1241,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "GUARD_MAKER",
@@ -1268,7 +1273,7 @@
       "Name": "Knight Commander",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -1307,14 +1312,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:03:24.4263192+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:03:31.7975001+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:57:01.5378703+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:03:24.4263431+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:57:08.7938398+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:03:31.7975181+00:00"
 }

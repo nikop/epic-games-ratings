@@ -8,7 +8,7 @@
 | Journal Beautifier | 83.00% | ~762 |
 | Outside World Seer | 64.00% | ~588 |
 | Stranger Encounterer | 38.00% | ~349 |
-| Grey Hands Praxis 101 | 28.00% | ~257 |
+| Grey Hands Praxis 101 | 29.00% | ~266 |
 | Deep Listener | 27.00% | ~248 |
 | Music for Cows | 19.00% | ~174 |
 | Emotional Baggage Handler | 17.00% | ~156 |
@@ -22,7 +22,7 @@
 | Graffiti Artist | 8.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 918 (Ranked 178)  
-Completed: 36 (3.92%) (Ranked 36)  
+Completed: 36 (3.92%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

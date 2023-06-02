@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2367,
+  "EOS_Progressed": 2372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1935,6 +1935,11 @@
       "Time": "2023-06-02T16:06:53.9168501+00:00",
       "NumProgressed": 2367,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T18:05:38.9820102+00:00",
+      "NumProgressed": 2372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2026,7 +2031,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_BASE_21",
@@ -2058,7 +2063,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_BASE_25",
@@ -2154,7 +2159,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_BASE_36",
@@ -2242,7 +2247,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_BASE_49",
@@ -2250,7 +2255,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_BASE_5",
@@ -2330,7 +2335,7 @@
       "Name": "Hope Seeker",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_BASE_60",
@@ -2401,13 +2406,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 548,
+      "Progressed": 553,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2367,
+      "Progressed": 2372,
       "Completed": 0
     }
   ],
@@ -2415,8 +2420,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-01T22:58:22.3289206+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:25.6710127+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:05:38.9820098+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.5657521+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:58:08.422933+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:25.6710807+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:58:19.4665168+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:05:38.9820711+00:00"
 }

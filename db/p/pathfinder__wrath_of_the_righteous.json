@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2618,9 +2618,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9441,
+  "EOS_Progressed": 9445,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5253,6 +5253,11 @@
       "Time": "2023-06-02T17:05:44.8859542+00:00",
       "NumProgressed": 9441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T18:05:58.7151751+00:00",
+      "NumProgressed": 9445,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5280,7 +5285,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "04_FithCrusade",
@@ -6136,7 +6141,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -6144,7 +6149,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -6152,7 +6157,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -6176,7 +6181,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -6184,28 +6189,28 @@
       "Name": "Beware Still Water",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8223,
+      "Progressed": 8227,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9441,
+      "Progressed": 9445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-02T15:58:34.9975775+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:44.8859536+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:05:58.7151746+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:58:01.5019402+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:44.8861292+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:58:11.8398301+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:05:58.7153321+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1053,6 +1053,11 @@
       "Time": "2023-06-02T05:06:20.5030851+00:00",
       "NumProgressed": 512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T18:05:33.0922375+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1072,7 +1077,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "CHIEF",
@@ -1088,7 +1093,7 @@
       "Name": "CLEANER",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "DEBTOR",
@@ -1104,7 +1109,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "FIRST_100K",
@@ -1128,7 +1133,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "INTRODUCTION",
@@ -1142,9 +1147,9 @@
       "ID": "SECOND_FLOOR",
       "SetID": "64e5lgf",
       "Name": "SECOND_FLOOR",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 150,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "SUCCESSFUL",
@@ -1160,7 +1165,7 @@
       "Name": "THINGS ARE GOING WELL",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "YETTI",
@@ -1175,7 +1180,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 0
     }
   ],
@@ -1183,8 +1188,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:20.1127225+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:05:33.0922372+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:58:56.860971+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:20.1127382+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:59:10.0260027+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:05:33.0922477+00:00"
 }

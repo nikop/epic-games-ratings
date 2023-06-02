@@ -3,7 +3,7 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
@@ -913,9 +913,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 257
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1002,8 +1002,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:17.6423443+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:05:30.4839644+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:58:16.3753306+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:17.6423622+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:58:27.4215501+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:05:30.4839766+00:00"
 }

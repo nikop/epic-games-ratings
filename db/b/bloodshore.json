@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -213,9 +213,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "super_seducer",
@@ -286,8 +286,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:32.8951522+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:05:46.2970202+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.1546983+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:59:22.384923+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:32.895165+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:59:37.0150132+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:05:46.2970307+00:00"
 }

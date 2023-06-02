@@ -40,7 +40,7 @@ Number of Ratings: 209  (23.09.2022)
 | Inner Peace | 77.00% | ~1,586 |
 | Diamond Pickaxe | 76.00% | ~1,566 |
 | Killed them all | 76.00% | ~1,566 |
-| Trickle Down Economy | 75.00% | ~1,545 |
+| Trickle Down Economy | 76.00% | ~1,566 |
 | Win | 75.00% | ~1,545 |
 | Greenhouse | 72.00% | ~1,483 |
 | Played with fire | 70.00% | ~1,442 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~268 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,060 (Ranked 151)  
-Completed: 245 (11.89%) (Ranked 13)  
+Completed: 246 (11.94%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 245 (11.89%) (Ranked 13)
 | 2023-05-30 | 2,052 | 244 |
 | 2023-05-31 | 2,055 | 245 |
 | 2023-06-01 | 2,059 | 245 |
-| 2023-06-02 | 2,060 | 245 |
+| 2023-06-02 | 2,060 | 246 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 327)  
 Sum: 98 (Ranked 400)  

@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,026 |
-| First Class Student | 7.00% | ~19,273 |
-| Troll with the Punches | 7.00% | ~19,273 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,027 |
+| First Class Student | 7.00% | ~19,274 |
+| Troll with the Punches | 7.00% | ~19,274 |
 | Grappling with a Graphorn | 6.00% | ~16,520 |
 | The One Who Mastered Memories | 6.00% | ~16,520 |
 | The Hallowed Hero | 6.00% | ~16,520 |
@@ -20,13 +20,13 @@ Rating: 4.77 (Ranked 105)
 | Coasting Along | 6.00% | ~16,520 |
 | That's a Keeper | 6.00% | ~16,520 |
 | Rising From the Ashes | 6.00% | ~16,520 |
-| The Avenging Gazelle | 5.00% | ~13,766 |
-| Beast Friends | 5.00% | ~13,766 |
-| A Sallow Grave | 5.00% | ~13,766 |
-| Flight the Good Flight | 5.00% | ~13,766 |
-| Followed the Butterflies | 5.00% | ~13,766 |
-| The Spell Master | 5.00% | ~13,766 |
-| The Seeker of Knowledge | 4.00% | ~11,013 |
+| The Avenging Gazelle | 5.00% | ~13,767 |
+| Beast Friends | 5.00% | ~13,767 |
+| A Sallow Grave | 5.00% | ~13,767 |
+| Flight the Good Flight | 5.00% | ~13,767 |
+| Followed the Butterflies | 5.00% | ~13,767 |
+| The Spell Master | 5.00% | ~13,767 |
+| The Seeker of Knowledge | 4.00% | ~11,014 |
 | The Root of the Problem | 3.00% | ~8,260 |
 | Third Time's a Charm | 3.00% | ~8,260 |
 | Room with a View | 3.00% | ~8,260 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,101 |
 | Collector's Edition | 0.20% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275,328 (Ranked 39)  
+Progressed: 275,340 (Ranked 39)  
 Completed: 383 (0.14%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 383 (0.14%) (Ranked 155)
 | 2023-05-30 | 274,486 | 382 |
 | 2023-05-31 | 274,775 | 383 |
 | 2023-06-01 | 275,109 | 384 |
-| 2023-06-02 | 275,328 | 383 |
+| 2023-06-02 | 275,340 | 383 |
 ## Awards
 Max (Character Customization): 19,435  (Ranked 18)  
 Sum: 35,900 (Ranked 33)  

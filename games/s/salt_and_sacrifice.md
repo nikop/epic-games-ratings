@@ -6,61 +6,61 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 91.00% | ~58,630 |
-| The Pyromancer | 86.00% | ~55,409 |
-| The Wastes | 83.00% | ~53,476 |
-| Waste Not | 80.00% | ~51,543 |
-| The Cryomancer | 76.00% | ~48,966 |
-| Stock Up | 75.00% | ~48,322 |
-| The Hydromancer | 73.00% | ~47,033 |
-| The Matriarch | 70.00% | ~45,100 |
-| The Aeromancer | 66.00% | ~42,523 |
-| The Venomancer | 66.00% | ~42,523 |
-| The Huntsman | 65.00% | ~41,879 |
-| Dawnlight Order | 64.00% | ~41,235 |
-| The Electromancer | 61.00% | ~39,302 |
-| The Terramancer | 59.00% | ~38,013 |
-| The Exalted | 57.00% | ~36,725 |
-| Blueheart Runners | 55.00% | ~35,436 |
-| Sheriff Inquisitors | 55.00% | ~35,436 |
-| The Necromancer | 52.00% | ~33,503 |
-| The Swamp | 50.00% | ~32,214 |
-| The Fungalmancer | 47.00% | ~30,282 |
-| The Thaumamancer | 47.00% | ~30,282 |
-| The Hag | 45.00% | ~28,993 |
-| The Corpumancer | 42.00% | ~27,060 |
+| The Champion | 91.00% | ~58,632 |
+| The Pyromancer | 86.00% | ~55,411 |
+| The Wastes | 83.00% | ~53,478 |
+| Waste Not | 80.00% | ~51,545 |
+| The Cryomancer | 76.00% | ~48,968 |
+| Stock Up | 75.00% | ~48,323 |
+| The Hydromancer | 73.00% | ~47,035 |
+| The Matriarch | 70.00% | ~45,102 |
+| The Aeromancer | 66.00% | ~42,524 |
+| The Venomancer | 66.00% | ~42,524 |
+| The Huntsman | 65.00% | ~41,880 |
+| Dawnlight Order | 64.00% | ~41,236 |
+| The Electromancer | 61.00% | ~39,303 |
+| The Terramancer | 59.00% | ~38,014 |
+| The Exalted | 57.00% | ~36,726 |
+| Sheriff Inquisitors | 55.00% | ~35,437 |
+| Blueheart Runners | 54.00% | ~34,793 |
+| The Necromancer | 52.00% | ~33,504 |
+| The Swamp | 50.00% | ~32,216 |
+| The Fungalmancer | 47.00% | ~30,283 |
+| The Thaumamancer | 47.00% | ~30,283 |
+| The Hag | 45.00% | ~28,994 |
+| The Corpumancer | 42.00% | ~27,061 |
 | The Mountain | 40.00% | ~25,772 |
 | The Treeheart | 40.00% | ~25,772 |
-| Shroud Alliance | 39.00% | ~25,127 |
+| Shroud Alliance | 39.00% | ~25,128 |
 | The Two Monks | 37.00% | ~23,839 |
-| The Neuromancer | 34.00% | ~21,906 |
+| The Neuromancer | 34.00% | ~21,907 |
 | Oathbound Watchers | 33.00% | ~21,262 |
-| The Chronomancer | 32.00% | ~20,617 |
-| The Mechanomancer | 32.00% | ~20,617 |
-| The Copse | 29.00% | ~18,684 |
-| The Dragon | 29.00% | ~18,684 |
-| The Dracomancer | 29.00% | ~18,684 |
-| Well Stocked | 28.00% | ~18,040 |
-| The Umbramancer | 28.00% | ~18,040 |
+| The Chronomancer | 32.00% | ~20,618 |
+| The Mechanomancer | 32.00% | ~20,618 |
+| The Copse | 29.00% | ~18,685 |
+| The Dragon | 29.00% | ~18,685 |
+| The Dracomancer | 29.00% | ~18,685 |
+| Well Stocked | 28.00% | ~18,041 |
+| The Umbramancer | 28.00% | ~18,041 |
 | Chaos Hunger | 27.00% | ~17,396 |
 | The Kinetomancer | 27.00% | ~17,396 |
 | The Sanguimancer | 27.00% | ~17,396 |
 | The Luminimancer | 26.00% | ~16,752 |
-| The Bibliomancer | 25.00% | ~16,107 |
-| The Skylord | 25.00% | ~16,107 |
+| The Bibliomancer | 25.00% | ~16,108 |
+| The Skylord | 25.00% | ~16,108 |
 | The Firelord | 24.00% | ~15,463 |
-| Want Not | 21.00% | ~13,530 |
-| The Diablomancer | 21.00% | ~13,530 |
-| The Sacrifice | 21.00% | ~13,530 |
-| The King | 18.00% | ~11,597 |
+| Want Not | 21.00% | ~13,531 |
+| The Diablomancer | 21.00% | ~13,531 |
+| The Sacrifice | 21.00% | ~13,531 |
+| The King | 18.00% | ~11,598 |
 | Take Your Place | 14.00% | ~9,020 |
 | The Nomad | 14.00% | ~9,020 |
 | The Soldier | 11.00% | ~7,087 |
 | Make The Climb | 10.00% | ~6,443 |
 | The Scholar | 10.00% | ~6,443 |
-| Top Shelf | 5.00% | ~3,221 |
+| Top Shelf | 5.00% | ~3,222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,429 (Ranked 69)  
+Progressed: 64,431 (Ranked 69)  
 Completed: 1,168 (1.81%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1,168 (1.81%) (Ranked 66)
 | 2023-05-30 | 64,367 | 1,164 |
 | 2023-05-31 | 64,388 | 1,167 |
 | 2023-06-01 | 64,422 | 1,168 |
-| 2023-06-02 | 64,429 | 1,168 |
+| 2023-06-02 | 64,431 | 1,168 |
 ## Awards
 Max (Character Customization): 942  (Ranked 141)  
 Sum: 1,884 (Ranked 191)  

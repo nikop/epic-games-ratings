@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2675,
+  "EOS_Progressed": 2676,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2220,6 +2220,11 @@
       "Time": "2023-06-02T17:03:36.3169974+00:00",
       "NumProgressed": 2675,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T18:03:44.2930764+00:00",
+      "NumProgressed": 2676,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -2295,7 +2300,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "18",
@@ -2383,7 +2388,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "6",
@@ -2391,7 +2396,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "7",
@@ -2422,13 +2427,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2675,
+      "Progressed": 2676,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:03:36.3169969+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:03:44.2930759+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:58:33.9268894+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:03:36.3170269+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:58:43.9879218+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:03:44.2930997+00:00"
 }

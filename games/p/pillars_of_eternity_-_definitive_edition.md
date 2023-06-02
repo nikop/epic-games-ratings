@@ -10,7 +10,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Completed Act I | 30.00% | ~324 |
 | 5 Upgrades in Stronghold | 26.00% | ~281 |
 | First 5 Levels of Od Nua | 24.00% | ~259 |
-| Make an Adventurer | 23.00% | ~248 |
+| Make an Adventurer | 23.00% | ~249 |
 | Completed Act II | 16.00% | ~173 |
 | Enchanter | 15.00% | ~162 |
 | Disposition | 15.00% | ~162 |
@@ -18,8 +18,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Super Murderer | 14.00% | ~151 |
 | All Upgrades in Stronghold | 14.00% | ~151 |
 | The Watcher With Eight Friends | 14.00% | ~151 |
-| The Heir of Caed Nua | 13.00% | ~140 |
-| Soulbinder | 13.00% | ~140 |
+| The Heir of Caed Nua | 13.00% | ~141 |
+| Soulbinder | 13.00% | ~141 |
 | Last 5 Levels of Od Nua | 12.00% | ~130 |
 | Bounty Hunter | 10.00% | ~108 |
 | The Giftbearer | 10.00% | ~108 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080 (Ranked 167)  
+Progressed: 1,081 (Ranked 167)  
 Completed: 4 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 4 (0.37%) (Ranked 118)
 | 2023-05-14 | 1,077 | 4 |
 | 2023-05-18 | 1,078 | 4 |
 | 2023-05-28 | 1,080 | 4 |
+| 2023-06-02 | 1,081 | 4 |
 ## Awards
 Max (Character Customization): 1,880  (Ranked 105)  
 Sum: 4,613 (Ranked 128)  

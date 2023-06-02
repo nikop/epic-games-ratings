@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 53.00% | ~1,172 |
-| Keeping it classy | 25.00% | ~553 |
-| Welcome to the family | 18.00% | ~398 |
+| You're free now! | 53.00% | ~1,174 |
+| Keeping it classy | 25.00% | ~554 |
+| Welcome to the family | 18.00% | ~399 |
 | The finer things in life | 16.00% | ~354 |
-| Backpacker | 12.00% | ~265 |
-| Go with the Flow | 11.00% | ~243 |
+| Backpacker | 12.00% | ~266 |
+| Go with the Flow | 11.00% | ~244 |
 | Plastic Surgeon | 9.00% | ~199 |
 | The flip trick crown jewel | 9.00% | ~199 |
 | Keep the dream alive | 8.00% | ~177 |
@@ -29,17 +29,17 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~111 |
 | Squad goals | 5.00% | ~111 |
 | Sup widdit big dog! | 5.00% | ~111 |
-| Commence the Hijinx! | 4.00% | ~88 |
-| Cops called! | 4.00% | ~88 |
-| DIY Boss | 4.00% | ~88 |
-| Globetrotter | 4.00% | ~88 |
-| Laid back | 4.00% | ~88 |
-| Lines for days | 4.00% | ~88 |
-| Manny Destroys All | 4.00% | ~88 |
-| Prince of Philly | 4.00% | ~88 |
-| Renaissance man | 4.00% | ~88 |
-| Tank commander | 4.00% | ~88 |
-| Trick shot marksman | 4.00% | ~88 |
+| Commence the Hijinx! | 4.00% | ~89 |
+| Cops called! | 4.00% | ~89 |
+| DIY Boss | 4.00% | ~89 |
+| Globetrotter | 4.00% | ~89 |
+| Laid back | 4.00% | ~89 |
+| Lines for days | 4.00% | ~89 |
+| Manny Destroys All | 4.00% | ~89 |
+| Prince of Philly | 4.00% | ~89 |
+| Renaissance man | 4.00% | ~89 |
+| Tank commander | 4.00% | ~89 |
+| Trick shot marksman | 4.00% | ~89 |
 | G.O.A.T. status | 3.00% | ~66 |
 | Hoarder | 3.00% | ~66 |
 | We get it, you're good | 3.00% | ~66 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,212 (Ranked 148)  
+Progressed: 2,215 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 2,167 | 0 |
 | 2023-05-31 | 2,181 | 0 |
 | 2023-06-01 | 2,200 | 0 |
-| 2023-06-02 | 2,212 | 0 |
+| 2023-06-02 | 2,215 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 396)  
 Sum: 414 (Ranked 302)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1548,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1041,6 +1041,11 @@
       "Time": "2023-06-02T17:00:11.8517904+00:00",
       "NumProgressed": 1548,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-02T18:00:30.4091376+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1052,7 +1057,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "Collect20Gold",
@@ -1068,7 +1073,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1076,7 +1081,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "CollectAllStatues",
@@ -1084,7 +1089,7 @@
       "Name": "Return the Statues",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -1092,7 +1097,7 @@
       "Name": "Complete Redgi\u0027s Armory",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "CompleteAll",
@@ -1100,7 +1105,7 @@
       "Name": "King of Kings",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "CompleteArenaFaction",
@@ -1132,7 +1137,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1194
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1164,7 +1169,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1172,7 +1177,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1188,7 +1193,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "GetRangedWeapon",
@@ -1196,15 +1201,15 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 837
     },
     {
       "ID": "Kill25Bugs",
@@ -1212,7 +1217,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "Kill25Frogs",
@@ -1220,7 +1225,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "Kill25Mozi",
@@ -1228,7 +1233,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "MeetTheMoles",
@@ -1236,7 +1241,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1252,7 +1257,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "RepairSmith",
@@ -1268,15 +1273,15 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 789
+      "UsersEstimate": 775
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1284,29 +1289,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1548,
+      "Progressed": 1550,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 189,
-      "Completed": 189
+      "Progressed": 191,
+      "Completed": 191
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:00:11.85179+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:00:30.4091371+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:58:04.6970455+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:00:11.8518182+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:58:15.8551096+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:00:30.4091581+00:00"
 }

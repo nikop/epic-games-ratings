@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -2472,9 +2472,9 @@
       "Count": 184
     }
   ],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2511,6 +2511,11 @@
     {
       "Time": "2023-05-28T21:06:05.3479016+00:00",
       "NumProgressed": 1080,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-02T18:05:33.2985623+00:00",
+      "NumProgressed": 1081,
       "NumCompleted": 4
     }
   ],
@@ -2667,7 +2672,7 @@
       "Name": "The Heir of Caed Nua",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_20",
@@ -2731,7 +2736,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_28",
@@ -2771,7 +2776,7 @@
       "Name": "Soulbinder",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_33",
@@ -2906,15 +2911,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-06-01T09:57:27.7403054+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:20.1784937+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:05:33.2985617+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.8314909+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:57:22.6142835+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:20.1785376+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:57:30.7487527+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:05:33.2985937+00:00"
 }

@@ -86,9 +86,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.20% | ~179 |
 | The Botched Kidnapping | 0.20% | ~179 |
 | Tower on the Lake | 0.20% | ~179 |
+| Seeds of Deceit | 0.20% | ~179 |
 | Trollskull Manor | 0.20% | ~179 |
 | Attack on the Manor | 0.20% | ~179 |
 | The Death Curse | 0.20% | ~179 |
+| Flies on the Wall | 0.20% | ~179 |
 | Nimble Escape | 0.20% | ~179 |
 | Fugitives | 0.20% | ~179 |
 | Premature Betrayal | 0.20% | ~179 |
@@ -258,7 +260,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.10% | ~90 |
 | Shorty's Day Off | 0.10% | ~90 |
 | Intelligence Hunt | 0.10% | ~90 |
-| Seeds of Deceit | 0.10% | ~90 |
 | Visions of Strahd | 0.10% | ~90 |
 | Seeds of Corruption | 0.10% | ~90 |
 | The Strahd Squad | 0.10% | ~56 |
@@ -277,7 +278,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.10% | ~90 |
 | A Saurial's Resolve | 0.10% | ~90 |
 | Spirit of the Trickster Gods | 0.10% | ~56 |
-| Flies on the Wall | 0.10% | ~90 |
 | The Killer Mists | 0.10% | ~90 |
 | Class Vacation | 0.10% | ~90 |
 | A Nod from Strahd | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,520 (Ranked 62)  
+Progressed: 89,524 (Ranked 62)  
 Completed: 1,907 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 63)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,520 | 1,907 |
+| 2023-06-02 | 89,524 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,020 (Ranked 37)  

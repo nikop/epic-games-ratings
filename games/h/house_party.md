@@ -23,6 +23,7 @@ Number of Ratings: 177  (23.09.2022)
 | Stephanie | 0.30% | ~16 |
 | The Magic Number | 0.30% | ~16 |
 | Amy | 0.20% | ~11 |
+| Amy: Scavenger Hunt | 0.20% | ~11 |
 | I'll Be Back | 0.20% | ~11 |
 | Casanova | 0.20% | ~11 |
 | It Smells Like Roses | 0.20% | ~5 |
@@ -35,7 +36,6 @@ Number of Ratings: 177  (23.09.2022)
 | Good Ol' Days | 0.20% | ~11 |
 | Te Amo Lety | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~5 |
-| Amy: Scavenger Hunt | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
 | Benedict Brahrnold | 0.10% | ~5 |
 | Beyond the Call of Dude-y | 0.10% | ~5 |

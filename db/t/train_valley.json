@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -193,6 +193,11 @@
       "Time": "2023-06-02T16:04:56.9360207+00:00",
       "NumProgressed": 289,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T18:04:12.517713+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -212,15 +217,15 @@
       "Name": "Collector",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "04_tycoon",
@@ -236,7 +241,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "06_living",
@@ -250,9 +255,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "08_america",
@@ -300,7 +305,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "14_woodcutter",
@@ -340,7 +345,7 @@
       "Name": "Foreman",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "19_justintime",
@@ -348,15 +353,15 @@
       "Name": "Just in time!",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "20_sabotage",
       "SetID": "chb1m60",
       "Name": "Sabotage",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "21_missed",
@@ -364,7 +369,7 @@
       "Name": "Missed it!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "22_ouroboros",
@@ -378,9 +383,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 218
     },
     {
       "ID": "24_mega",
@@ -418,17 +423,17 @@
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "30_completelynuts",
@@ -468,7 +473,7 @@
       "Name": "Need to think",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "35_achtung",
@@ -515,15 +520,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:04:03.568794+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:04:12.5177126+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:29.5718751+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:57:28.8244585+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:04:03.5688237+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:57:38.3542881+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:04:12.5177436+00:00"
 }

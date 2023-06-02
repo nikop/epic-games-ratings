@@ -1346,9 +1346,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63253,
+  "EOS_Progressed": 63264,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4776,6 +4776,11 @@
       "Time": "2023-06-02T17:05:42.4302385+00:00",
       "NumProgressed": 63253,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-02T18:05:56.1660554+00:00",
+      "NumProgressed": 63264,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -4921,9 +4926,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 253
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -4985,9 +4990,9 @@
       "ID": "DEFEAT_OC_1",
       "SetID": "4eo5ebm",
       "Name": "Family Meeting",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 316
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -5274,13 +5279,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63253,
+      "Progressed": 63264,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33533,
+      "Progressed": 33544,
       "Completed": 2644
     }
   ],
@@ -5288,8 +5293,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-02T09:00:19.1041127+00:00",
-  "LastChanged_Achievements": "2023-06-02T17:05:42.4302379+00:00",
+  "LastChanged_Achievements": "2023-06-02T18:05:56.1660551+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:59:13.0565673+00:00",
-  "LastUpdate_Achievements": "2023-06-02T17:05:42.4303138+00:00"
+  "LastUpdate_Ratings": "2023-06-02T17:59:27.6939944+00:00",
+  "LastUpdate_Achievements": "2023-06-02T18:05:56.1661201+00:00"
 }
