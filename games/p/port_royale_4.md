@@ -15,7 +15,7 @@ Number of Ratings: 53  (23.09.2022)
 | O Captain! My Captain! | 54.00% | ~325 |
 | Greed for gold | 42.00% | ~252 |
 | Intangible | 41.00% | ~246 |
-| I'm out of here for a while | 40.00% | ~240 |
+| I'm out of here for a while | 41.00% | ~246 |
 | In a mint condition | 37.00% | ~222 |
 | Licence to Kill | 35.00% | ~210 |
 | Pirates! | 34.00% | ~204 |
@@ -58,7 +58,7 @@ Number of Ratings: 53  (23.09.2022)
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 601 (Ranked 194)  
-Completed: 0 (0.00%) (Ranked 209)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

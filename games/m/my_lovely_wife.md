@@ -6,17 +6,17 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~551 |
-| I did it! | 94.00% | ~534 |
-| Learner | 91.00% | ~517 |
-| Economical | 91.00% | ~517 |
+| Objective Complete | 97.00% | ~552 |
+| I did it! | 94.00% | ~535 |
+| Learner | 91.00% | ~518 |
+| Economical | 91.00% | ~518 |
 | Devout | 89.00% | ~506 |
-| The Love Martyr | 87.00% | ~494 |
-| Frugal | 85.00% | ~483 |
-| Dilligent | 83.00% | ~471 |
-| I... I did it? | 80.00% | ~454 |
-| Adored | 76.00% | ~432 |
-| The Hobbyist | 65.00% | ~369 |
+| The Love Martyr | 87.00% | ~495 |
+| Frugal | 85.00% | ~484 |
+| Dilligent | 82.00% | ~467 |
+| I... I did it? | 80.00% | ~455 |
+| Adored | 75.00% | ~427 |
+| The Hobbyist | 65.00% | ~370 |
 | A Forked Tongue | 54.00% | ~307 |
 | Between Two Fires | 51.00% | ~290 |
 | The Admirer | 51.00% | ~290 |
@@ -25,12 +25,12 @@ Number of Ratings: 25  (23.09.2022)
 | The Farmer | 39.00% | ~222 |
 | Ever After | 35.00% | ~199 |
 | Mandatory Sacrifice | 29.00% | ~165 |
-| Loyal | 27.00% | ~153 |
-| The Collector | 24.00% | ~136 |
+| Loyal | 27.00% | ~154 |
+| The Collector | 24.00% | ~137 |
 | All Doors Open | 20.00% | ~114 |
 | Faithful | 10.00% | ~57 |
-| Asmodeus | 8.00% | ~45 |
-| A Close | 8.00% | ~45 |
+| Asmodeus | 8.00% | ~46 |
+| A Close | 8.00% | ~46 |
 | Luna | 7.00% | ~40 |
 | Lover | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
@@ -40,8 +40,8 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 568 (Ranked 197)  
-Completed: 0 (0.00%) (Ranked 209)  
+Progressed: 569 (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-29 | 563 | 0 |
 | 2023-05-30 | 565 | 0 |
 | 2023-06-01 | 568 | 0 |
+| 2023-06-02 | 569 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

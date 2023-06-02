@@ -6,7 +6,7 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~57,985 |
+| The Champion | 91.00% | ~58,629 |
 | The Pyromancer | 86.00% | ~55,408 |
 | The Wastes | 83.00% | ~53,475 |
 | Waste Not | 80.00% | ~51,542 |
@@ -21,8 +21,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Electromancer | 61.00% | ~39,301 |
 | The Terramancer | 59.00% | ~38,013 |
 | The Exalted | 57.00% | ~36,724 |
+| Blueheart Runners | 55.00% | ~35,435 |
 | Sheriff Inquisitors | 55.00% | ~35,435 |
-| Blueheart Runners | 54.00% | ~34,791 |
 | The Necromancer | 52.00% | ~33,503 |
 | The Swamp | 50.00% | ~32,214 |
 | The Fungalmancer | 47.00% | ~30,281 |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,221 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64,428 (Ranked 69)  
-Completed: 1,168 (1.81%) (Ranked 65)  
+Completed: 1,168 (1.81%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

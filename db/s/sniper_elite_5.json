@@ -6,9 +6,9 @@
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2055,
+  "EOS_Progressed": 2056,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2254,6 +2254,11 @@
       "Time": "2023-06-02T14:06:06.8489745+00:00",
       "NumProgressed": 2055,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T15:05:58.3988744+00:00",
+      "NumProgressed": 2056,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2575,9 +2580,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 267
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2593,7 +2598,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -2617,7 +2622,7 @@
       "Name": "Road Rage",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -2832,13 +2837,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2006,
+      "Progressed": 2007,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2055,
+      "Progressed": 2056,
       "Completed": 2
     }
   ],
@@ -2846,8 +2851,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-02T14:06:06.8489739+00:00",
+  "LastChanged_Achievements": "2023-06-02T15:05:58.3988731+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:00:49.4439161+00:00",
-  "LastUpdate_Achievements": "2023-06-02T14:06:06.8490549+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:00:34.0311321+00:00",
+  "LastUpdate_Achievements": "2023-06-02T15:05:58.3990758+00:00"
 }

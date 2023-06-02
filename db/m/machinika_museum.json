@@ -3,9 +3,9 @@
   "Name": "Machinika Museum",
   "ProductSlug": "machinika-museum-a1ef20",
   "Ranking_EOS_Progress": 431,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-16T15:00:00+00:00",
     "PcReleaseDate": "2021-03-23T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-22T15:01:02.0708505+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:48.1375892+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:00:47.1540372+00:00",
-  "LastUpdate_Achievements": "2023-06-02T14:02:19.6622822+00:00"
+  "LastUpdate_Ratings": "2023-06-02T15:00:31.864065+00:00",
+  "LastUpdate_Achievements": "2023-06-02T15:02:23.7064663+00:00"
 }

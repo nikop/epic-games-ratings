@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 79.00% | ~30 |
-| Accessory Unlocked | 79.00% | ~30 |
-| Character Unlocked | 76.00% | ~29 |
+| Hat Unlocked | 82.00% | ~31 |
+| Accessory Unlocked | 82.00% | ~31 |
+| Character Unlocked | 79.00% | ~30 |
 | Kickball Unlocked | 66.00% | ~25 |
 | Homer | 66.00% | ~25 |
 | Have a good trip! | 63.00% | ~24 |
@@ -46,7 +46,7 @@
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 311)  
-Completed: 0 (0.00%) (Ranked 209)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

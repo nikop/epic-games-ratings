@@ -6,7 +6,7 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -4078,9 +4078,9 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89509,
+  "EOS_Progressed": 89515,
   "EOS_Completed": 1907,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8383,6 +8383,11 @@
       "Time": "2023-06-02T14:06:32.0933666+00:00",
       "NumProgressed": 89509,
       "NumCompleted": 1907
+    },
+    {
+      "Time": "2023-06-02T15:06:24.7758243+00:00",
+      "NumProgressed": 89515,
+      "NumCompleted": 1907
     }
   ],
   "TotalAchievements": 493,
@@ -9416,9 +9421,9 @@
       "ID": "objective_completed_1330",
       "SetID": "415jc5c",
       "Name": "Love Unsoiled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1331",
@@ -12322,7 +12327,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_completed_1361",
@@ -12337,21 +12342,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55783,
-      "Completed": 2758
+      "Progressed": 55789,
+      "Completed": 2760
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89509,
+      "Progressed": 89515,
       "Completed": 1907
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-02T13:58:11.3410871+00:00",
-  "LastChanged_Achievements": "2023-06-02T14:06:32.093366+00:00",
+  "LastChanged_Achievements": "2023-06-02T15:06:24.7758236+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:58:11.3410878+00:00",
-  "LastUpdate_Achievements": "2023-06-02T14:06:32.0976902+00:00"
+  "LastUpdate_Ratings": "2023-06-02T14:57:58.8750378+00:00",
+  "LastUpdate_Achievements": "2023-06-02T15:06:24.7782125+00:00"
 }

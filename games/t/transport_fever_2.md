@@ -6,7 +6,7 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~922 |
+| First line | 77.00% | ~923 |
 | First cargo item on board | 70.00% | ~839 |
 | First cargo item waiting | 70.00% | ~839 |
 | First bus stop | 69.00% | ~827 |
@@ -20,22 +20,22 @@ Number of Ratings: 180  (23.09.2022)
 | Cargo hub | 53.00% | ~635 |
 | Transport master | 52.00% | ~623 |
 | Cadet | 52.00% | ~623 |
-| Sculpturer | 50.00% | ~599 |
-| Settled down | 48.00% | ~575 |
-| First electric train arrived | 47.00% | ~563 |
-| First ship arrived | 46.00% | ~551 |
-| Now what? | 45.00% | ~539 |
-| High speed | 43.00% | ~515 |
-| Transport shark | 40.00% | ~479 |
-| First aircraft arrived | 40.00% | ~479 |
-| Exemplary student | 40.00% | ~479 |
-| Mass production | 34.00% | ~407 |
-| Aircraft entrepreneur | 33.00% | ~395 |
-| The future is now, old man | 31.00% | ~371 |
-| Crowd in a train | 30.00% | ~359 |
-| Not in my backyard | 30.00% | ~359 |
-| City | 29.00% | ~347 |
-| The king of the sea | 28.00% | ~335 |
+| Sculpturer | 50.00% | ~600 |
+| Settled down | 48.00% | ~576 |
+| First electric train arrived | 47.00% | ~564 |
+| First ship arrived | 46.00% | ~552 |
+| Now what? | 45.00% | ~540 |
+| High speed | 43.00% | ~516 |
+| Transport shark | 40.00% | ~480 |
+| First aircraft arrived | 40.00% | ~480 |
+| Exemplary student | 40.00% | ~480 |
+| Mass production | 34.00% | ~408 |
+| Aircraft entrepreneur | 33.00% | ~396 |
+| The future is now, old man | 31.00% | ~372 |
+| Crowd in a train | 30.00% | ~360 |
+| Not in my backyard | 30.00% | ~360 |
+| City | 29.00% | ~348 |
+| The king of the sea | 28.00% | ~336 |
 | Transport tycoon | 24.00% | ~288 |
 | Climate change | 23.00% | ~276 |
 | Old timer | 22.00% | ~264 |
@@ -68,8 +68,8 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,198 (Ranked 164)  
-Completed: 0 (0.00%) (Ranked 209)  
+Progressed: 1,199 (Ranked 164)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,16 +111,16 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 1,179 | 0 |
 | 2023-05-31 | 1,184 | 0 |
 | 2023-06-01 | 1,193 | 0 |
-| 2023-06-02 | 1,198 | 0 |
+| 2023-06-02 | 1,199 | 0 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 418)  
-Sum: 265 (Ranked 338)  
+Sum: 266 (Ranked 338)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 38 |
+| This game is Great for Beginners | 34 |
 | This game has Amazing Storytelling | 33 |
-| This game is Great for Beginners | 33 |
 | This game is Extremely Fun | 32 |
 | This game is Relaxing | 30 |
 | This game has Quickly Understood Controls | 28 |
@@ -195,3 +195,4 @@ Diff (max vs sum): 80
 | 2023-05-26 | 4.69 | - | 38 | 262 |
 | 2023-05-27 | 4.69 | - | 38 | 264 |
 | 2023-05-31 | 4.69 | - | 38 | 265 |
+| 2023-06-02 | 4.69 | - | 38 | 266 |

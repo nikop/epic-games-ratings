@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,925 |
-| Wallbanger | 5.00% | ~18,925 |
+| Point Shooting | 5.00% | ~18,926 |
+| Wallbanger | 5.00% | ~18,926 |
 | Exploitative | 4.00% | ~15,140 |
 | High Speed Low Drag | 4.00% | ~15,140 |
 | Wet Feet | 4.00% | ~15,140 |
@@ -24,26 +24,26 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~3,785 |
 | Ruthless | 1.00% | ~3,785 |
 | Semper Paratus | 1.00% | ~3,785 |
-| Carrying | 0.90% | ~3,406 |
-| Mount & Gun | 0.90% | ~3,406 |
-| Personal | 0.90% | ~3,406 |
+| Carrying | 0.90% | ~3,407 |
+| Mount & Gun | 0.90% | ~3,407 |
+| Personal | 0.90% | ~3,407 |
 | Grounded | 0.80% | ~3,028 |
 | Play to Win | 0.80% | ~3,028 |
-| #1 | 0.70% | ~2,649 |
-| Special Delivery | 0.70% | ~2,649 |
+| #1 | 0.70% | ~2,650 |
+| Special Delivery | 0.70% | ~2,650 |
 | Firefight Victory | 0.60% | ~2,271 |
-| Cinematic | 0.50% | ~1,892 |
+| Cinematic | 0.50% | ~1,893 |
 | Thanks Station! | 0.40% | ~1,514 |
-| Knock Knock | 0.30% | ~1,135 |
-| There For You | 0.30% | ~1,135 |
+| Knock Knock | 0.30% | ~1,136 |
+| There For You | 0.30% | ~1,136 |
 | Hit and Run | 0.20% | ~757 |
-| Designated Driver | 0.10% | ~378 |
-| J.R. .50 | 0.10% | ~378 |
-| It's All in the Reflexes | 0.10% | ~378 |
-| Road Hazard | 0.10% | ~378 |
+| Designated Driver | 0.10% | ~379 |
+| J.R. .50 | 0.10% | ~379 |
+| It's All in the Reflexes | 0.10% | ~379 |
+| Road Hazard | 0.10% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378,492 (Ranked 37)  
-Completed: 2 (0.00%) (Ranked 209)  
+Progressed: 378,511 (Ranked 37)  
+Completed: 2 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 2 (0.00%) (Ranked 209)
 | 2023-05-30 | 377,224 | 2 |
 | 2023-05-31 | 377,737 | 2 |
 | 2023-06-01 | 378,227 | 2 |
-| 2023-06-02 | 378,492 | 2 |
+| 2023-06-02 | 378,511 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 355  (Ranked 211)  
 Sum: 2,691 (Ranked 162)  

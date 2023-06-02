@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 60.00% | ~126 |
-| I like parks | 49.00% | ~103 |
-| It is nice to share with friends in the city | 25.00% | ~52 |
-| Sport is good for you | 25.00% | ~52 |
-| The spiritual world... | 24.00% | ~50 |
+| Small town | 60.00% | ~127 |
+| I like parks | 48.00% | ~101 |
+| It is nice to share with friends in the city | 25.00% | ~53 |
+| Sport is good for you | 25.00% | ~53 |
+| The spiritual world... | 24.00% | ~51 |
 | The woodcutter | 22.00% | ~46 |
 | I like books | 20.00% | ~42 |
-| I like my life | 19.00% | ~40 |
+| I like my life | 18.00% | ~38 |
 | Clean energy | 18.00% | ~38 |
 | Soviet town | 17.00% | ~36 |
 | Bucolic city | 13.00% | ~27 |
@@ -29,20 +29,20 @@
 | Oh, I love parks, listening to birds! | 2.00% | ~4 |
 | Rebel city | 2.00% | ~4 |
 | Temperate builder | 2.00% | ~4 |
-| Anarchist Utopia | 1.00% | ~2 |
 | Archipelago builder | 1.00% | ~2 |
-| Archipelago urban planner | 1.00% | ~2 |
 | Food provider master | 1.00% | ~2 |
 | City crisis | 1.00% | ~2 |
 | What is there after death? | 1.00% | ~2 |
-| Perfect city | 1.00% | ~2 |
-| Oh, I am sad | 1.00% | ~2 |
-| Farming Frenzy | 1.00% | ~2 |
 | Freedom to go to the mall! | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
-| Restorer | 1.00% | ~2 |
 | Temperate urban planner | 1.00% | ~2 |
-| Welfare state | 1.00% | ~2 |
+| Anarchist Utopia | 0.90% | ~2 |
+| Archipelago urban planner | 0.90% | ~2 |
+| Perfect city | 0.90% | ~2 |
+| Oh, I am sad | 0.90% | ~2 |
+| Farming Frenzy | 0.90% | ~2 |
+| Restorer | 0.90% | ~2 |
+| Welfare state | 0.90% | ~2 |
 | Anarchist paradise | 0.50% | ~1 |
 | I can't see the sky | 0.50% | ~1 |
 | I can't breathe | 0.50% | ~1 |
@@ -84,8 +84,8 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 240)  
-Completed: 0 (0.00%) (Ranked 209)  
+Progressed: 211 (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,6 +120,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 207 | 0 |
 | 2023-05-31 | 208 | 0 |
 | 2023-06-01 | 210 | 0 |
+| 2023-06-02 | 211 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "Hirilun",
   "ProductSlug": "hirilun-d92aa3",
   "Ranking_EOS_Progress": 431,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-14T18:00:00+00:00",
     "PcReleaseDate": "2022-03-14T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.6582149+00:00",
   "LastChanged": "2023-03-31T05:58:47.658215+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:04.854703+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:59:47.5724176+00:00",
-  "LastUpdate_Achievements": "2023-06-02T14:05:11.9199852+00:00"
+  "LastUpdate_Ratings": "2023-06-02T14:59:36.1590057+00:00",
+  "LastUpdate_Achievements": "2023-06-02T15:05:03.1512625+00:00"
 }

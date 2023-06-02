@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.80% | ~446 |
 | Beast Intentions | 0.70% | ~627 |
 | The Mad Wizard | 0.70% | ~627 |
-| Beware the Jabberwock | 0.70% | ~390 |
+| Beware the Jabberwock | 0.70% | ~391 |
 | The Ring of Regeneration | 0.60% | ~537 |
 | Were-verpowered | 0.50% | ~448 |
 | Are Ya Chicken? | 0.50% | ~448 |
@@ -68,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~179 |
 | The Lost Heir of Omu | 0.20% | ~179 |
 | The Minions of Endelyn Moongrave | 0.20% | ~112 |
+| Love Unsoiled | 0.20% | ~112 |
 | No One Can Hear You Scream | 0.20% | ~112 |
 | Welcome to the Rock | 0.20% | ~112 |
 | The Forbidden City | 0.20% | ~179 |
@@ -212,7 +213,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.10% | ~90 |
 | Taking Responsibility | 0.10% | ~90 |
 | Between a Brigganock and a Hard Place | 0.10% | ~56 |
-| Love Unsoiled | 0.10% | ~56 |
 | The Play's the Thing! | 0.10% | ~56 |
 | The Bitter End | 0.10% | ~56 |
 | A Nimble Approach | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,509 (Ranked 62)  
-Completed: 1,907 (2.13%) (Ranked 62)  
+Progressed: 89,515 (Ranked 62)  
+Completed: 1,907 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 62)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,509 | 1,907 |
+| 2023-06-02 | 89,515 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,020 (Ranked 37)  

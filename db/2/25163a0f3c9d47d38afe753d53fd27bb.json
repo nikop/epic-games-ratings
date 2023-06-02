@@ -3,8 +3,8 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 387,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 6.2,
   "EosHistory": [
@@ -1038,17 +1038,17 @@
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_014",
@@ -1197,8 +1197,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-02T14:03:56.6577653+00:00",
+  "LastChanged_Achievements": "2023-06-02T15:03:48.977634+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:57:08.9082302+00:00",
-  "LastUpdate_Achievements": "2023-06-02T14:03:56.6577952+00:00"
+  "LastUpdate_Ratings": "2023-06-02T14:56:58.5435086+00:00",
+  "LastUpdate_Achievements": "2023-06-02T15:03:48.9776643+00:00"
 }

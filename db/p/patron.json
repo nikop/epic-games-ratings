@@ -2,13 +2,13 @@
   "ID": "27d0a607d01545038e7c3ba1b9ad8c80",
   "Name": "Patron",
   "ProductSlug": "patron-4ab1c1",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 431,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-10T18:00:00+00:00",
     "PcReleaseDate": "2022-03-10T00:00:00+00:00",
@@ -167,6 +167,6 @@
   "FirstSeenRating": "2022-08-04T14:01:33.7640592+00:00",
   "LastChanged": "2023-03-31T05:57:53.7264319+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:20.3355224+00:00",
-  "LastUpdate_Ratings": "2023-06-02T14:00:09.6394816+00:00",
-  "LastUpdate_Achievements": "2023-06-02T14:04:46.4701366+00:00"
+  "LastUpdate_Ratings": "2023-06-02T14:59:56.0155445+00:00",
+  "LastUpdate_Achievements": "2023-06-02T15:04:38.008742+00:00"
 }

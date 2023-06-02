@@ -7,10 +7,10 @@ Rating: 4.51 (Ranked 526)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 77.00% | ~1,190 |
 | Become King | 70.00% | ~1,082 |
+| Ranged Weapon | 60.00% | ~927 |
 | Defeat 25 Frogs | 60.00% | ~927 |
-| Ranged Weapon | 59.00% | ~912 |
 | Collect Monster Parts | 56.00% | ~865 |
-| Two Handed Weapon | 54.00% | ~834 |
+| Two Handed Weapon | 55.00% | ~850 |
 | Defeat 25 Grubs | 51.00% | ~788 |
 | Rescue Redgi's Brothers | 51.00% | ~788 |
 | Collect Iron Ore | 46.00% | ~711 |
@@ -37,7 +37,7 @@ Rating: 4.51 (Ranked 526)
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,545 (Ranked 158)  
-Completed: 6 (0.39%) (Ranked 114)  
+Completed: 6 (0.39%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

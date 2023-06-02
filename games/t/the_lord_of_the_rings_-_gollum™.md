@@ -11,8 +11,8 @@
 | Like Flying... | 31.00% | ~120 |
 | Memories | 28.00% | ~108 |
 | The Maggot | 24.00% | ~93 |
-| The Breeder | 18.00% | ~69 |
-| The Veteran | 14.00% | ~54 |
+| The Breeder | 19.00% | ~73 |
+| The Veteran | 15.00% | ~58 |
 | The Traitor | 10.00% | ~39 |
 | The Spider | 9.00% | ~35 |
 | He's so Annoying | 5.00% | ~19 |
@@ -42,7 +42,7 @@
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 386 (Ranked 208)  
-Completed: 0 (0.00%) (Ranked 209)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

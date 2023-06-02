@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~646 |
+| Diligence as a goal | 4.00% | ~647 |
 | Project Arena | 3.00% | ~485 |
 | The Old Grandmaster | 1.00% | ~7,069 |
 | The Assault | 1.00% | ~7,069 |
@@ -45,7 +45,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,827 |
 | Sword Stained With Blood | 0.40% | ~2,827 |
 | Martial Hub | 0.40% | ~65 |
-| Secure, Protect, Leave | 0.30% | ~48 |
+| Secure, Protect, Leave | 0.30% | ~49 |
 | Drunken Fighter | 0.20% | ~1,414 |
 | Martial Artist | 0.20% | ~1,414 |
 | Knowledge Greed | 0.20% | ~1,414 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,857 (Ranked 15)  
-Completed: 12,751 (1.80%) (Ranked 66)  
+Progressed: 706,867 (Ranked 15)  
+Completed: 12,751 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,17 +100,17 @@ Completed: 12,751 (1.80%) (Ranked 66)
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
-| 2023-06-02 | 706,857 | 12,751 |
+| 2023-06-02 | 706,867 | 12,751 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
-Sum: 10,440 (Ranked 78)  
-Diff (max vs sum): -25  
+Sum: 10,441 (Ranked 77)  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,122 |
 | This game has Diverse Characters | 522 |
 | This game has Challenging Combat | 516 |
-| This game has Quickly Understood Controls | 506 |
+| This game has Quickly Understood Controls | 507 |
 | This game is Extremely Fun | 501 |
 | This game has Amazing Storytelling | 497 |
 | This game has Amazing Characters | 484 |
@@ -258,4 +258,4 @@ Diff (max vs sum): -25
 | 2023-05-30 | 4.82 | - | 6,114 | 10,418 |
 | 2023-05-31 | 4.82 | - | 6,114 | 10,422 |
 | 2023-06-01 | 4.82 | - | 6,119 | 10,434 |
-| 2023-06-02 | 4.82 | - | 6,122 | 10,440 |
+| 2023-06-02 | 4.82 | - | 6,122 | 10,441 |

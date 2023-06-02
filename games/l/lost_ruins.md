@@ -11,8 +11,8 @@
 | Trap Master | 21.00% | ~72 |
 | The Fallen | 20.00% | ~68 |
 | Artifact Collector | 19.00% | ~65 |
+| Ghost Buster | 16.00% | ~55 |
 | Reincarnation | 16.00% | ~55 |
-| Ghost Buster | 15.00% | ~51 |
 | Iconoclasm | 13.00% | ~44 |
 | Librarian | 13.00% | ~44 |
 | The End | 13.00% | ~44 |
@@ -46,7 +46,7 @@
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 342 (Ranked 217)  
-Completed: 0 (0.00%) (Ranked 209)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

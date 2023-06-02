@@ -5,14 +5,14 @@ Rating: 4.28 (Ranked 773)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,725 |
-| A Good Day To Die | 16.00% | ~3,780 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,417 |
-| Right Back Atcha | 6.00% | ~1,417 |
-| Killed by Death | 5.00% | ~1,181 |
+| Man 'O War | 20.00% | ~4,726 |
+| A Good Day To Die | 16.00% | ~3,781 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,418 |
+| Right Back Atcha | 6.00% | ~1,418 |
+| Killed by Death | 5.00% | ~1,182 |
 | Kill 'Em All | 4.00% | ~945 |
-| Down Boy! | 2.00% | ~472 |
-| A Snowball's Chance in Hell | 2.00% | ~472 |
+| Down Boy! | 2.00% | ~473 |
+| A Snowball's Chance in Hell | 2.00% | ~473 |
 | Enjoy The Silence | 1.00% | ~236 |
 | Sure Footed As A Goat | 0.90% | ~213 |
 | Thorn in My Herbicide | 0.80% | ~189 |
@@ -25,9 +25,9 @@ Rating: 4.28 (Ranked 773)
 | Hail the Great Horned Metal God! | 0.60% | ~142 |
 | That'll Come In Handy... | 0.60% | ~142 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~118 |
-| Four Legged Friend | 0.40% | ~94 |
-| Ice To See You | 0.40% | ~94 |
-| Smack My Imp Up | 0.40% | ~94 |
+| Four Legged Friend | 0.40% | ~95 |
+| Ice To See You | 0.40% | ~95 |
+| Smack My Imp Up | 0.40% | ~95 |
 | Vroll With It | 0.30% | ~71 |
 | Swift of Foot, Keen of Blade | 0.30% | ~71 |
 | Flame Retardant | 0.20% | ~47 |
@@ -35,8 +35,8 @@ Rating: 4.28 (Ranked 773)
 | Too Metal For Magic | 0.10% | ~24 |
 | Heart Of Steel | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,623 (Ranked 91)  
-Completed: 18 (0.08%) (Ranked 169)  
+Progressed: 23,631 (Ranked 91)  
+Completed: 18 (0.08%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 18 (0.08%) (Ranked 169)
 | 2023-05-30 | 23,231 | 18 |
 | 2023-05-31 | 23,393 | 18 |
 | 2023-06-01 | 23,545 | 18 |
-| 2023-06-02 | 23,623 | 18 |
+| 2023-06-02 | 23,631 | 18 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 301)  
 Sum: 125 (Ranked 388)  

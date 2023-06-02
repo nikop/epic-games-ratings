@@ -5,42 +5,42 @@ Rating: 4.30 (Ranked 759)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~870 |
-| Ranidaphobia | 72.00% | ~688 |
-| Aspiring Editor | 69.00% | ~660 |
-| Gun for Hire | 64.00% | ~612 |
-| I am the law! | 54.00% | ~516 |
-| Lumberjack | 38.00% | ~363 |
-| Croaked | 33.00% | ~315 |
-| Limp Richard | 33.00% | ~315 |
-| Firestarter | 32.00% | ~306 |
-| From Darkness to Light | 32.00% | ~306 |
+| First Blood | 91.00% | ~872 |
+| Ranidaphobia | 72.00% | ~690 |
+| Aspiring Editor | 69.00% | ~661 |
+| Gun for Hire | 64.00% | ~613 |
+| I am the law! | 54.00% | ~517 |
+| Lumberjack | 38.00% | ~364 |
+| Croaked | 33.00% | ~316 |
+| Limp Richard | 33.00% | ~316 |
+| Firestarter | 32.00% | ~307 |
+| From Darkness to Light | 32.00% | ~307 |
 | Exorcist | 30.00% | ~287 |
-| Editor Adept | 29.00% | ~277 |
-| Giant Killer | 25.00% | ~239 |
+| Editor Adept | 29.00% | ~278 |
+| Giant Killer | 25.00% | ~240 |
 | Sensei | 23.00% | ~220 |
-| The meaning of Kain | 22.00% | ~210 |
+| The meaning of Kain | 22.00% | ~211 |
 | Technophobe | 19.00% | ~182 |
 | Recycler | 17.00% | ~163 |
-| Chain Killer | 15.00% | ~143 |
+| Chain Killer | 15.00% | ~144 |
+| Are you not entertained? | 14.00% | ~134 |
 | Hold The Line | 14.00% | ~134 |
-| Are you not entertained? | 13.00% | ~124 |
-| Ganglord | 13.00% | ~124 |
-| Jarhead | 13.00% | ~124 |
-| There Can Be Only One! | 13.00% | ~124 |
+| Ganglord | 13.00% | ~125 |
+| Jarhead | 13.00% | ~125 |
+| There Can Be Only One! | 13.00% | ~125 |
 | Infiltrator | 12.00% | ~115 |
 | Newtonian Knockout | 12.00% | ~115 |
 | Pushing Daisy | 12.00% | ~115 |
 | Experienced | 10.00% | ~96 |
 | Ruthless | 9.00% | ~86 |
-| Endgame | 8.00% | ~76 |
-| Savior | 8.00% | ~76 |
-| The Watchers | 8.00% | ~76 |
+| Endgame | 8.00% | ~77 |
+| Savior | 8.00% | ~77 |
+| The Watchers | 8.00% | ~77 |
+| Chain Reaction | 6.00% | ~57 |
+| Commando | 6.00% | ~57 |
 | Curveball | 6.00% | ~57 |
 | Dr Jones | 6.00% | ~57 |
-| Chain Reaction | 5.00% | ~48 |
 | Chaos Theory | 5.00% | ~48 |
-| Commando | 5.00% | ~48 |
 | Wipe Out | 5.00% | ~48 |
 | Side Order | 4.00% | ~38 |
 | Bot Whisperer | 3.00% | ~29 |
@@ -57,8 +57,8 @@ Rating: 4.30 (Ranked 759)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 956 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 209)  
+Progressed: 958 (Ranked 173)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
-| 2023-06-02 | 956 | 0 |
+| 2023-06-02 | 958 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

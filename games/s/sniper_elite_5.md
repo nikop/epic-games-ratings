@@ -8,7 +8,7 @@ Rating: 4.42 (Ranked 652)
 | Meeting Resistance | 25.00% | ~514 |
 | Confirming Suspicions | 20.00% | ~411 |
 | The Kraken Wakes | 15.00% | ~308 |
-| It's Starting to Crack | 12.00% | ~247 |
+| It's Starting to Crack | 13.00% | ~267 |
 | Lord of War | 11.00% | ~226 |
 | Resourceful | 10.00% | ~206 |
 | Change the Channel | 10.00% | ~206 |
@@ -40,8 +40,8 @@ Rating: 4.42 (Ranked 652)
 | Strategist | 1.00% | ~21 |
 | The Long Game | 1.00% | ~21 |
 | It'll Buff Right Out | 1.00% | ~21 |
-| Locomotion Commotion | 0.90% | ~18 |
-| Road Rage | 0.90% | ~18 |
+| Locomotion Commotion | 0.90% | ~19 |
+| Road Rage | 0.90% | ~19 |
 | Herr Today, Gone Tomorrow | 0.80% | ~16 |
 | Operation Foxley | 0.80% | ~16 |
 | Tinkerer | 0.70% | ~14 |
@@ -77,8 +77,8 @@ Rating: 4.42 (Ranked 652)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,055 (Ranked 151)  
-Completed: 2 (0.10%) (Ranked 160)  
+Progressed: 2,056 (Ranked 151)  
+Completed: 2 (0.10%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,7 +119,7 @@ Completed: 2 (0.10%) (Ranked 160)
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
-| 2023-06-02 | 2,055 | 2 |
+| 2023-06-02 | 2,056 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

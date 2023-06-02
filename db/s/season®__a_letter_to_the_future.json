@@ -3,7 +3,7 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 917,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 2,
@@ -846,6 +846,11 @@
       "Time": "2023-06-02T13:20:07.0912376+00:00",
       "NumProgressed": 915,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-02T15:05:47.5257272+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -865,7 +870,7 @@
       "Name": "Deep Listener",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -873,7 +878,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -903,9 +908,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 265
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -913,7 +918,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 759
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -921,7 +926,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 759
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -929,7 +934,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -945,7 +950,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -984,7 +989,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 917,
       "Completed": 36
     }
   ],
@@ -992,8 +997,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-02T14:05:56.1050345+00:00",
+  "LastChanged_Achievements": "2023-06-02T15:05:47.5257266+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:58:45.8667793+00:00",
-  "LastUpdate_Achievements": "2023-06-02T14:05:56.1050524+00:00"
+  "LastUpdate_Ratings": "2023-06-02T14:58:35.1987561+00:00",
+  "LastUpdate_Achievements": "2023-06-02T15:05:47.5257437+00:00"
 }

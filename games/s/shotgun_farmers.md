@@ -10,9 +10,9 @@
 | No Diggity | 35.00% | ~9 |
 | Early Survivor | 33.00% | ~8 |
 | Amateur Survivor | 25.00% | ~6 |
-| First Blood | 23.00% | ~17 |
+| First Blood | 24.00% | ~18 |
+| No Asperascope | 23.00% | ~17 |
 | Bouncemato | 23.00% | ~6 |
-| No Asperascope | 21.00% | ~16 |
 | I Believe I Can Fly | 20.00% | ~15 |
 | Quick-Draw Pod | 20.00% | ~5 |
 | Cornivore | 19.00% | ~14 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 209)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

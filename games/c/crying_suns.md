@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,641 (Ranked 32)  
-Completed: 14 (0.00%) (Ranked 209)  
+Progressed: 459,647 (Ranked 32)  
+Completed: 14 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 14 (0.00%) (Ranked 209)
 | 2023-05-30 | 459,464 | 14 |
 | 2023-05-31 | 459,531 | 14 |
 | 2023-06-01 | 459,598 | 14 |
-| 2023-06-02 | 459,641 | 14 |
+| 2023-06-02 | 459,647 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

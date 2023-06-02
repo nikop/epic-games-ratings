@@ -6,41 +6,41 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,360 |
-| That's a Grand Army | 8.00% | ~3,876 |
-| That is mine! | 8.00% | ~3,876 |
-| Victorious! | 8.00% | ~3,876 |
-| Brothers in Arms | 6.00% | ~2,907 |
-| That's a Grand Navy | 6.00% | ~2,907 |
-| Seriously?! | 6.00% | ~2,907 |
-| For the Glory | 5.00% | ~2,422 |
-| Cold War | 4.00% | ~1,938 |
-| True Catholic | 4.00% | ~1,938 |
-| Defender of the Faith | 3.00% | ~1,453 |
-| It's all about the money | 3.00% | ~1,453 |
-| Respected | 3.00% | ~1,453 |
-| Truly Divine Ruler | 3.00% | ~1,453 |
-| Agressive Expander | 2.00% | ~969 |
-| Blockader | 2.00% | ~969 |
-| Combined Arms | 2.00% | ~969 |
-| Double the Love | 2.00% | ~969 |
-| Gentle Persuasion | 2.00% | ~969 |
-| It's all about luck | 2.00% | ~969 |
-| My armies are invincible! | 2.00% | ~969 |
-| Queen of Conquest | 2.00% | ~969 |
-| Royal Authority | 2.00% | ~969 |
-| The Princess is in this Castle | 2.00% | ~969 |
-| Total Control | 2.00% | ~969 |
-| All That's Thine Shall Be Mine | 1.00% | ~484 |
-| Azur semé de lis or | 1.00% | ~484 |
-| Bright Spark | 1.00% | ~484 |
-| City of Cities | 1.00% | ~484 |
-| Factionalism | 1.00% | ~484 |
-| A Golden Empire | 1.00% | ~484 |
+| Until death do us apart | 9.00% | ~4,364 |
+| That's a Grand Army | 8.00% | ~3,879 |
+| That is mine! | 8.00% | ~3,879 |
+| Victorious! | 8.00% | ~3,879 |
+| Brothers in Arms | 6.00% | ~2,909 |
+| That's a Grand Navy | 6.00% | ~2,909 |
+| Seriously?! | 6.00% | ~2,909 |
+| For the Glory | 5.00% | ~2,424 |
+| Cold War | 4.00% | ~1,939 |
+| True Catholic | 4.00% | ~1,939 |
+| Defender of the Faith | 3.00% | ~1,455 |
+| It's all about the money | 3.00% | ~1,455 |
+| Respected | 3.00% | ~1,455 |
+| Truly Divine Ruler | 3.00% | ~1,455 |
+| Agressive Expander | 2.00% | ~970 |
+| Blockader | 2.00% | ~970 |
+| Combined Arms | 2.00% | ~970 |
+| Double the Love | 2.00% | ~970 |
+| Gentle Persuasion | 2.00% | ~970 |
+| It's all about luck | 2.00% | ~970 |
+| My armies are invincible! | 2.00% | ~970 |
+| Queen of Conquest | 2.00% | ~970 |
+| Royal Authority | 2.00% | ~970 |
+| The Princess is in this Castle | 2.00% | ~970 |
+| Total Control | 2.00% | ~970 |
+| All That's Thine Shall Be Mine | 1.00% | ~485 |
+| Azur semé de lis or | 1.00% | ~485 |
+| Bright Spark | 1.00% | ~485 |
+| City of Cities | 1.00% | ~485 |
+| Factionalism | 1.00% | ~485 |
+| A Golden Empire | 1.00% | ~485 |
+| Isn't this the way to India? | 0.90% | ~436 |
 | The Five Colonies | 0.90% | ~436 |
 | This navy can take it all | 0.90% | ~436 |
 | The Emperors new clothes | 0.80% | ~388 |
-| Isn't this the way to India? | 0.80% | ~388 |
 | Market Control | 0.80% | ~388 |
 | Down Under | 0.70% | ~339 |
 | Trustworthy | 0.70% | ~339 |
@@ -103,6 +103,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | AEIOU | 0.10% | ~48 |
 | African Power | 0.10% | ~48 |
 | Albania or Iberia | 0.10% | ~48 |
+| Almost Prussian Blue | 0.10% | ~48 |
 | An early Reich | 0.10% | ~48 |
 | An Unlikely Candidate | 0.10% | ~48 |
 | Anglophile | 0.10% | ~48 |
@@ -310,7 +311,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~48 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~48 |
 | All Blue | 0.00% | ~0 |
-| Almost Prussian Blue | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,444 (Ranked 78)  
-Completed: 0 (0.00%) (Ranked 209)  
+Progressed: 48,486 (Ranked 78)  
+Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -404,7 +404,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 47,151 | 0 |
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
-| 2023-06-02 | 48,444 | 0 |
+| 2023-06-02 | 48,486 | 0 |
 ## Awards
 Max (Educational): 5,330  (Ranked 61)  
 Sum: 44,036 (Ranked 27)  
