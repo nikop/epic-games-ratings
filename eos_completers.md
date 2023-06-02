@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.85% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.78% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -26,8 +26,8 @@
 | 24 | [Scorn](games/s/scorn.md) | 6.87% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.27% |
-| 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.23% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.95% |
@@ -75,7 +75,7 @@
 | 73 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 74 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
 | 75 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.40% |
-| 76 | [Ten Dates](games/t/ten_dates.md) | 1.34% |
+| 76 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 77 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 78 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
 | 79 | [Chorus](games/c/chorus.md) | 1.21% |
@@ -120,11 +120,11 @@
 | 116 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 119 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
-| 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.33% |
 | 121 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
 | 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 124 | [Godlike Burger](games/g/godlike_burger.md) | 0.32% |
+| 123 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
+| 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 123 | [Godlike Burger](games/g/godlike_burger.md) | 0.32% |
 | 126 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 126 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
 | 128 | [The Surge](games/t/the_surge.md) | 0.30% |
@@ -428,4 +428,4 @@
 | 208 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 208 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 208 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,716 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,717 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
