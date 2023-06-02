@@ -9,12 +9,12 @@
 | The Mysterious Stranger | 76.00% | ~432 |
 | Immaculate Aim | 65.00% | ~369 |
 | The Brass Boss | 57.00% | ~324 |
+| No, Thanks! | 55.00% | ~312 |
 | Honest Mistake | 55.00% | ~312 |
-| No, Thanks! | 54.00% | ~307 |
 | Time Flies | 53.00% | ~301 |
-| The Prince in Heels | 51.00% | ~290 |
+| The Prince in Heels | 52.00% | ~295 |
+| Right On Time | 50.00% | ~284 |
 | The Harder They Fall | 50.00% | ~284 |
-| Right On Time | 49.00% | ~278 |
 | Fast Learner | 48.00% | ~273 |
 | Immaculate Aim | 48.00% | ~273 |
 | Make Up For Lost Time | 47.00% | ~267 |

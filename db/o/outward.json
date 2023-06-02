@@ -2,12 +2,12 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -2281,9 +2281,9 @@
       "ID": "TheyllTellStoriesAboutThis_35",
       "SetID": "c4hee28",
       "Name": "They\u0027ll Tell Stories About This",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ThisWasAMistake",
@@ -2337,8 +2337,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:08:29.5530935+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:03:27.0302765+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:02:52.1486532+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:08:29.5531306+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:58:03.2745028+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:03:27.030321+00:00"
 }

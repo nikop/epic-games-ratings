@@ -3,7 +3,7 @@
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
   "Ranking_Rating": 238,
-  "Ranking_Popularity": 60,
+  "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 208,
@@ -5478,9 +5478,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 48228,
+  "EOS_Progressed": 48238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4448,
+  "EOS_NewPlayers": 4442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9848,6 +9848,11 @@
       "Time": "2023-06-02T03:12:00.3791788+00:00",
       "NumProgressed": 48228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T04:06:57.4364527+00:00",
+      "NumProgressed": 48238,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -10379,7 +10384,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "achievement_colonial_management",
@@ -10691,7 +10696,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "achievement_forever_golden",
@@ -10859,7 +10864,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "achievement_grand_coalition",
@@ -12139,7 +12144,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -12451,7 +12456,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -12555,7 +12560,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -12690,21 +12695,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 48228,
+      "Progressed": 48238,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 48228,
+      "Progressed": 48238,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-01T22:57:14.022215+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:12:00.379178+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:57.4364521+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:11.5359105+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:02:25.1439323+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:12:00.3802836+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:57:35.310609+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:57.4379128+00:00"
 }

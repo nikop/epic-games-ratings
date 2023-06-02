@@ -41,12 +41,12 @@ Rating: 3.91 (Ranked 909)
 | Here We Go Again | 5.00% | ~63 |
 | How Do You Turn This On? | 5.00% | ~63 |
 | The Expeditioner | 5.00% | ~63 |
+| Trader | 5.00% | ~63 |
 | Ancient Knowledge | 4.00% | ~50 |
 | Background Story | 4.00% | ~50 |
 | Four Leaf Clover | 4.00% | ~50 |
 | Missions Dedication | 4.00% | ~50 |
 | The father of Dragons | 4.00% | ~50 |
-| Trader | 4.00% | ~50 |
 | Weekly Quest Completionist | 4.00% | ~50 |
 | Lock And Load | 3.00% | ~38 |
 | Master Enchanter | 3.00% | ~38 |

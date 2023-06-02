@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 470)  
+Rating: 4.55 (Ranked 471)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,8 +42,8 @@ Number of Ratings: 266  (23.09.2022)
 | Power! To! The People! | 2.00% | ~55 |
 | Your actions define you | 2.00% | ~55 |
 | The blood is life | 1.00% | ~27 |
+| They'll Tell Stories About This | 1.00% | ~27 |
 | Vanquisher of nightmares | 1.00% | ~27 |
-| They'll Tell Stories About This | 0.90% | ~25 |
 | Through fire and flame. | 0.70% | ~19 |
 | Legacy of a master hunter | 0.40% | ~11 |
 | Master of Aurai | 0.30% | ~8 |

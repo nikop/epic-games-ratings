@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,736 (Ranked 76)  
+Progressed: 51,737 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,15 +101,15 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 51,499 | 0 |
 | 2023-05-31 | 51,598 | 0 |
 | 2023-06-01 | 51,729 | 0 |
-| 2023-06-02 | 51,736 | 0 |
+| 2023-06-02 | 51,737 | 0 |
 ## Awards
 Max (Character Customization): 6,612  (Ranked 49)  
-Sum: 13,241 (Ranked 67)  
+Sum: 13,243 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,612 |
-| This game is Great for Beginners | 835 |
+| This game is Great for Beginners | 837 |
 | This game has Diverse Characters | 814 |
 | This game is Highly Recommended | 783 |
 | This game is Extremely Fun | 751 |
@@ -261,3 +261,4 @@ Diff (max vs sum): -18
 | 2023-05-30 | 4.74 | - | 6,599 | 13,210 |
 | 2023-05-31 | 4.74 | - | 6,609 | 13,230 |
 | 2023-06-01 | 4.74 | - | 6,612 | 13,241 |
+| 2023-06-02 | 4.74 | - | 6,612 | 13,243 |

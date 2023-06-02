@@ -812,9 +812,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7546,
+  "EOS_Progressed": 7547,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1982,6 +1982,11 @@
       "Time": "2023-06-02T02:24:40.1635046+00:00",
       "NumProgressed": 7546,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-02T04:06:20.9467287+00:00",
+      "NumProgressed": 7547,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2025,7 +2030,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "DwarfChandelier",
@@ -2041,7 +2046,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -2057,7 +2062,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2081,7 +2086,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "LeoniasFall",
@@ -2089,7 +2094,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "LeoniasFall_2",
@@ -2129,7 +2134,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "SkeletonKing",
@@ -2145,7 +2150,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "TheLegendBegins",
@@ -2153,7 +2158,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2161,7 +2166,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2177,22 +2182,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7546,
+      "Progressed": 7547,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-01T08:58:45.1886525+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:11:24.0995646+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:20.9467278+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:04:03.175343+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:11:24.0995874+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:59:17.046023+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:20.9467543+00:00"
 }

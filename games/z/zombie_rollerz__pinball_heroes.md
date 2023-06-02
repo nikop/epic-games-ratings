@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 89.00% | ~74 |
-| Bullseye! | 83.00% | ~69 |
-| Villfir Forest | 80.00% | ~66 |
-| Graduation! | 78.00% | ~65 |
-| Right in the kisser! | 65.00% | ~54 |
+| Level Up! | 89.00% | ~75 |
+| Bullseye! | 83.00% | ~70 |
+| Villfir Forest | 79.00% | ~66 |
+| Graduation! | 79.00% | ~66 |
+| Right in the kisser! | 64.00% | ~54 |
 | The Shaman | 54.00% | ~45 |
 | Duscot Steamcity | 54.00% | ~45 |
-| The Penguin | 51.00% | ~42 |
+| The Penguin | 50.00% | ~42 |
 | The Magician | 48.00% | ~40 |
-| The Thrower | 45.00% | ~37 |
+| The Thrower | 44.00% | ~37 |
 | The Tunneler | 42.00% | ~35 |
-| Level Up!! | 40.00% | ~33 |
-| The Shield | 40.00% | ~33 |
+| Level Up!! | 39.00% | ~33 |
+| The Shield | 39.00% | ~33 |
 | Kill-streak | 37.00% | ~31 |
-| The Bird | 33.00% | ~27 |
+| The Bird | 32.00% | ~27 |
 | Topped up | 29.00% | ~24 |
 | The Idol | 29.00% | ~24 |
 | The Ninja | 29.00% | ~24 |
@@ -27,13 +27,13 @@
 | I'm Rich | 25.00% | ~21 |
 | 1 is all I need | 23.00% | ~19 |
 | The Slime | 23.00% | ~19 |
-| The Giant | 22.00% | ~18 |
+| The Giant | 21.00% | ~18 |
 | The Flower | 19.00% | ~16 |
 | Out of the Frying Pan... | 19.00% | ~16 |
 | The Blacksmith | 18.00% | ~15 |
-| The Assistant | 16.00% | ~13 |
-| The Ooze | 16.00% | ~13 |
-| Turquoise | 16.00% | ~13 |
+| The Assistant | 15.00% | ~13 |
+| The Ooze | 15.00% | ~13 |
+| Turquoise | 15.00% | ~13 |
 | Ember | 14.00% | ~12 |
 | The Steampunk | 13.00% | ~11 |
 | Verse | 13.00% | ~11 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83 (Ranked 277)  
+Progressed: 84 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 80 | 0 |
 | 2023-05-31 | 82 | 0 |
 | 2023-06-01 | 83 | 0 |
+| 2023-06-02 | 84 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

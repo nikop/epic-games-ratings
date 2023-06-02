@@ -4066,7 +4066,7 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89464,
+  "EOS_Progressed": 89470,
   "EOS_Completed": 1907,
   "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 28,
@@ -8321,6 +8321,11 @@
       "Time": "2023-06-02T03:12:00.8520588+00:00",
       "NumProgressed": 89464,
       "NumCompleted": 1907
+    },
+    {
+      "Time": "2023-06-02T04:06:58.1367386+00:00",
+      "NumProgressed": 89470,
+      "NumCompleted": 1907
     }
   ],
   "TotalAchievements": 493,
@@ -9010,9 +9015,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_completed_1164",
@@ -12275,21 +12280,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55738,
+      "Progressed": 55744,
       "Completed": 2757
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89464,
+      "Progressed": 89470,
       "Completed": 1907
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-02T02:16:33.3593808+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:12:00.8520578+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:58.1367379+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:03:10.6922269+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:12:00.854344+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:58:22.5099941+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:58.1394078+00:00"
 }

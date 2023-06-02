@@ -2,7 +2,7 @@
   "ID": "3c52fbac843d4375803187739db84801",
   "Name": "Galactic Civilizations III",
   "ProductSlug": "galactic-civilizations-iii",
-  "Ranking_Rating": 810,
+  "Ranking_Rating": 807,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 430,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "NumberOfRatings": 1085,
   "RatingHistory": [
     {
@@ -1421,6 +1421,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 1114,
       "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2023-06-02T04:00:20.8623253+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1114,
+      "NumberOfAwardsMax": 175
     }
   ],
   "ReviewsDisabled": false,
@@ -1494,8 +1500,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2023-05-30T15:00:53.9946928+00:00",
+  "LastChanged": "2023-06-02T04:00:20.8623252+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:21.1659822+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:05:06.631731+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:09:28.7282345+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:00:20.8623256+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:04:26.4633139+00:00"
 }

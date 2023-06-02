@@ -346,9 +346,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1016,6 +1016,11 @@
       "Time": "2023-06-02T02:25:05.5168994+00:00",
       "NumProgressed": 887,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T04:06:44.7733496+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1083,7 +1088,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "EXPERT_1",
@@ -1131,7 +1136,7 @@
       "Name": "Indy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KORALOV",
@@ -1187,7 +1192,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "PACIFIST",
@@ -1219,7 +1224,7 @@
       "Name": "Protection racket",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "RELICTS",
@@ -1243,7 +1248,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SAVANT_1",
@@ -1314,15 +1319,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-30T06:00:15.8196801+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:11:47.7511322+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:44.7733322+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:05:19.1254896+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:11:47.7511592+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:00:33.9385102+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:44.7733983+00:00"
 }

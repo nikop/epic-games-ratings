@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lutes of Loomlurch | 0.20% | ~111 |
 | Supply Run | 0.20% | ~179 |
 | Best Laid Plans | 0.20% | ~111 |
+| Vecna Lives! | 0.20% | ~111 |
 | Return to the Tomb | 0.20% | ~111 |
 | Keep Your Distance | 0.20% | ~111 |
 | Heatwave | 0.20% | ~111 |
@@ -185,7 +186,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
 | On the Hunt | 0.10% | ~89 |
-| Vecna Lives! | 0.10% | ~56 |
 | Overwhelmed with Knowledge | 0.10% | ~56 |
 | A Demi-god's Defender | 0.10% | ~56 |
 | Vecna Loots! | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,464 (Ranked 62)  
+Progressed: 89,470 (Ranked 62)  
 Completed: 1,907 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 62)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,464 | 1,907 |
+| 2023-06-02 | 89,470 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,015 (Ranked 37)  

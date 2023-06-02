@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2027,
+  "EOS_Progressed": 2030,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2198,6 +2198,11 @@
       "Time": "2023-06-02T02:24:53.1067133+00:00",
       "NumProgressed": 2027,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T04:06:33.2862729+00:00",
+      "NumProgressed": 2030,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2217,7 +2222,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2241,7 +2246,7 @@
       "Name": "Opposing Force",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2289,7 +2294,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2329,7 +2334,7 @@
       "Name": "Gunslinger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2377,7 +2382,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2425,7 +2430,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2441,7 +2446,7 @@
       "Name": "Der Geist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2465,7 +2470,7 @@
       "Name": "Close Quarters",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2473,7 +2478,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2521,7 +2526,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2577,7 +2582,7 @@
       "Name": "Taking it back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2776,13 +2781,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1978,
+      "Progressed": 1981,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2027,
+      "Progressed": 2030,
       "Completed": 2
     }
   ],
@@ -2790,8 +2795,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:11:36.0876136+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:33.2862723+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:05:42.4686371+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:11:36.0876828+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:00:58.1911091+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:33.2863746+00:00"
 }

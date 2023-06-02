@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,314 |
-| Photogenic | 88.00% | ~6,106 |
-| Surge Gauntlet Jockey | 85.00% | ~5,898 |
-| Plug It In | 84.00% | ~5,829 |
-| Adventure Time | 80.00% | ~5,551 |
-| Playing With Power | 77.00% | ~5,343 |
+| Let's Get This Party Started | 91.00% | ~6,315 |
+| Photogenic | 88.00% | ~6,107 |
+| Surge Gauntlet Jockey | 85.00% | ~5,899 |
+| Plug It In | 84.00% | ~5,830 |
+| Adventure Time | 80.00% | ~5,552 |
+| Playing With Power | 77.00% | ~5,344 |
 | Coup d'Etat | 58.00% | ~4,025 |
 | You're Fired | 58.00% | ~4,025 |
-| Get Furious | 55.00% | ~3,816 |
-| Gunplay And Cosplay | 55.00% | ~3,816 |
-| Hacks In Stacks | 54.00% | ~3,747 |
+| Get Furious | 55.00% | ~3,817 |
+| Gunplay And Cosplay | 55.00% | ~3,817 |
+| Hacks In Stacks | 54.00% | ~3,748 |
 | Meching Enemies | 48.00% | ~3,331 |
 | Ticket Toddler | 46.00% | ~3,192 |
-| Booty Bashing | 44.00% | ~3,053 |
+| Booty Bashing | 44.00% | ~3,054 |
 | Here Comes a New Challenger | 38.00% | ~2,637 |
-| Field Medic | 37.00% | ~2,567 |
+| Field Medic | 37.00% | ~2,568 |
 | Rapid Response | 33.00% | ~2,290 |
-| Guardian Angel | 32.00% | ~2,220 |
+| Guardian Angel | 32.00% | ~2,221 |
 | Surge Ahead | 31.00% | ~2,151 |
 | The Full Monty | 31.00% | ~2,151 |
 | Poppin Noggins | 25.00% | ~1,735 |
 | Clips and Crits | 22.00% | ~1,527 |
-| Grey Goo | 19.00% | ~1,318 |
+| Grey Goo | 19.00% | ~1,319 |
 | Boss of Bosses | 15.00% | ~1,041 |
-| The Final Blow | 14.00% | ~971 |
+| The Final Blow | 14.00% | ~972 |
 | Light My Fire | 13.00% | ~902 |
 | Seasoned Adventurer | 12.00% | ~833 |
 | To Be Continued | 12.00% | ~833 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~35 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,939 (Ranked 116)  
+Progressed: 6,940 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 6,893 | 0 |
 | 2023-05-31 | 6,915 | 0 |
 | 2023-06-01 | 6,938 | 0 |
-| 2023-06-02 | 6,939 | 0 |
+| 2023-06-02 | 6,940 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 485 (Ranked 292)  

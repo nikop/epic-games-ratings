@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2879,
+  "EOS_Progressed": 2880,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1689,6 +1689,11 @@
       "Time": "2023-06-02T00:05:31.923777+00:00",
       "NumProgressed": 2879,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-02T04:06:49.0193226+00:00",
+      "NumProgressed": 2880,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1748,7 +1753,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "campaign10",
@@ -1836,7 +1841,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "campaign20",
@@ -1852,7 +1857,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "campaign4",
@@ -1892,7 +1897,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "campaign9",
@@ -1908,7 +1913,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "scenario2",
@@ -1963,7 +1968,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2879,
+      "Progressed": 2880,
       "Completed": 9
     }
   ],
@@ -1971,8 +1976,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:11:51.9863576+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:49.0193216+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:05:22.3926511+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:11:51.9863866+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:00:36.9241329+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:49.0193712+00:00"
 }

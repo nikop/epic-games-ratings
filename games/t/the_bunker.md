@@ -18,8 +18,8 @@
 | Cold Storage | 59.00% | ~57 |
 | Sam | 54.00% | ~52 |
 | Churchill | 53.00% | ~51 |
+| Leave | 49.00% | ~48 |
 | Doctor | 49.00% | ~48 |
-| Leave | 48.00% | ~47 |
 | Commissioner | 48.00% | ~47 |
 | Engineer | 48.00% | ~47 |
 | Soldier | 47.00% | ~46 |

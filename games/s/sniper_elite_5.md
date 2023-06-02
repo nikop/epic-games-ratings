@@ -5,14 +5,14 @@ Rating: 4.45 (Ranked 610)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~507 |
-| Confirming Suspicions | 20.00% | ~405 |
+| Meeting Resistance | 25.00% | ~508 |
+| Confirming Suspicions | 20.00% | ~406 |
 | The Kraken Wakes | 15.00% | ~304 |
-| It's Starting to Crack | 12.00% | ~243 |
+| It's Starting to Crack | 12.00% | ~244 |
 | Lord of War | 11.00% | ~223 |
 | Resourceful | 10.00% | ~203 |
 | Change the Channel | 10.00% | ~203 |
-| Taking it back | 9.00% | ~182 |
+| Taking it back | 9.00% | ~183 |
 | Organ Grinder | 8.00% | ~162 |
 | As Quiet as a Mouse | 8.00% | ~162 |
 | Enemy at the Gates | 7.00% | ~142 |
@@ -21,13 +21,13 @@ Rating: 4.45 (Ranked 610)
 | Sharpshooter | 6.00% | ~122 |
 | Explosive Efficiency | 6.00% | ~122 |
 | The Kraken Sleeps | 6.00% | ~122 |
-| Liberté | 5.00% | ~101 |
-| Opposing Force | 5.00% | ~101 |
-| Gunslinger | 5.00% | ~101 |
-| Die Nussknacker Sweet! | 5.00% | ~101 |
-| Der Geist | 5.00% | ~101 |
-| Close Quarters | 5.00% | ~101 |
-| Snake in the Grass | 5.00% | ~101 |
+| Liberté | 5.00% | ~102 |
+| Opposing Force | 5.00% | ~102 |
+| Gunslinger | 5.00% | ~102 |
+| Die Nussknacker Sweet! | 5.00% | ~102 |
+| Der Geist | 5.00% | ~102 |
+| Close Quarters | 5.00% | ~102 |
+| Snake in the Grass | 5.00% | ~102 |
 | Climbing the Ladder | 4.00% | ~81 |
 | Fields of Glory | 4.00% | ~81 |
 | Brains of the Operation | 4.00% | ~81 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 610)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,027 (Ranked 151)  
+Progressed: 2,030 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 2 (0.10%) (Ranked 159)
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
-| 2023-06-02 | 2,027 | 2 |
+| 2023-06-02 | 2,030 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

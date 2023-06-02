@@ -2324,9 +2324,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15123,
+  "EOS_Progressed": 15127,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4614,6 +4614,11 @@
       "Time": "2023-06-02T03:11:53.7851202+00:00",
       "NumProgressed": 15123,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-02T04:06:50.8564739+00:00",
+      "NumProgressed": 15127,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4689,7 +4694,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "MetalChain",
@@ -4713,7 +4718,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinHard",
@@ -4721,7 +4726,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinImpossible",
@@ -4785,7 +4790,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinNearFishmen",
@@ -4889,7 +4894,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinOnCursed",
@@ -4905,7 +4910,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinOnMoorlands",
@@ -4913,7 +4918,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinPrestige10",
@@ -4921,7 +4926,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WinPrestige20",
@@ -4953,7 +4958,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WinWithEvents",
@@ -4961,7 +4966,7 @@
       "Name": "Taking Action",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinWithResolve",
@@ -4969,7 +4974,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WinWithRuins",
@@ -5001,7 +5006,7 @@
       "Name": "No Deaths",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "WinWithoutOrders",
@@ -5024,15 +5029,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15123,
+      "Progressed": 15127,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-01T15:00:01.7348504+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:11:53.7851199+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:50.8564735+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:05:08.534338+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:11:53.7851696+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:00:22.9049123+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:50.8565248+00:00"
 }

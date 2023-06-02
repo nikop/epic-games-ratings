@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -2329,9 +2329,9 @@
       "ID": "23",
       "SetID": "9p3jgda",
       "Name": "A TIGER\u0027S FEAR",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 748
+      "UsersEstimate": 775
     },
     {
       "ID": "24",
@@ -2407,8 +2407,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:09:16.5998374+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:04:14.1409771+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:04:04.5752573+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:09:16.5998746+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:59:18.5396297+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:04:14.1410146+00:00"
 }

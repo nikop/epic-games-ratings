@@ -1068,9 +1068,9 @@
       "ID": "ACH_ANCIENT_CURSE",
       "SetID": "4kfb9pd",
       "Name": "Ancient Curse",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 649
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1189,8 +1189,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:11:44.4467604+00:00",
+  "LastChanged_Achievements": "2023-06-02T04:06:41.4927258+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:40.3998585+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:05:30.3824071+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:11:44.4467762+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:00:45.4251765+00:00",
+  "LastUpdate_Achievements": "2023-06-02T04:06:41.4927409+00:00"
 }

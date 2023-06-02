@@ -1,20 +1,20 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 258)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~18,897 |
 | Mods Please Ban | 77.00% | ~17,531 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,303 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,620 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,304 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,621 |
 | First Bounty Down | 59.00% | ~13,433 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,977 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,978 |
 | Luglox Genocide | 43.00% | ~9,790 |
 | Playing Card To Get | 33.00% | ~7,513 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,513 |
-| Creature Feature | 29.00% | ~6,602 |
+| Creature Feature | 29.00% | ~6,603 |
 | Satisfied Gus-tomer | 28.00% | ~6,375 |
 | Cold-Blooded Driller | 28.00% | ~6,375 |
 | Are You Packin'? | 25.00% | ~5,692 |
@@ -23,9 +23,9 @@ Rating: 4.67 (Ranked 259)
 | Sweezy Like Sunday Morning | 24.00% | ~5,464 |
 | Hardest Battle In The Game | 22.00% | ~5,009 |
 | Series Wrap on Suit-O | 22.00% | ~5,009 |
-| Lezduit! | 20.00% | ~4,553 |
-| Who's The Boss? | 20.00% | ~4,553 |
-| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,553 |
+| Lezduit! | 20.00% | ~4,554 |
+| Who's The Boss? | 20.00% | ~4,554 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,554 |
 | Self-Actualization | 19.00% | ~4,326 |
 | Legendary Bounty Hunter | 18.00% | ~4,098 |
 | Seeing All The Sights | 16.00% | ~3,643 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 259)
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,767 (Ranked 92)  
+Progressed: 22,768 (Ranked 92)  
 Completed: 8 (0.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 8 (0.04%) (Ranked 180)
 | 2023-05-30 | 22,756 | 8 |
 | 2023-05-31 | 22,763 | 8 |
 | 2023-06-01 | 22,767 | 8 |
+| 2023-06-02 | 22,768 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
