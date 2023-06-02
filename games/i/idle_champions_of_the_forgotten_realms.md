@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,790 |
+| A Brief Tour of the Realms | 2.00% | ~1,791 |
 | The Cursed Farmer | 1.00% | ~895 |
 | The Court of Storms | 0.80% | ~446 |
 | Beast Intentions | 0.70% | ~627 |
@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Minions of Endelyn Moongrave | 0.20% | ~112 |
 | Love Unsoiled | 0.20% | ~112 |
 | No One Can Hear You Scream | 0.20% | ~112 |
+| Anchors Aweigh | 0.20% | ~112 |
 | Welcome to the Rock | 0.20% | ~112 |
 | The Forbidden City | 0.20% | ~179 |
 | Captured! | 0.20% | ~179 |
@@ -220,7 +221,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~56 |
 | The Palace of Heart's Desire | 0.10% | ~56 |
 | The Egg of Nat's Desire | 0.10% | ~56 |
-| Anchors Aweigh | 0.10% | ~56 |
 | Welcome to the Band | 0.10% | ~56 |
 | Periodic Petrification | 0.10% | ~90 |
 | No Good at All | 0.10% | ~90 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,524 (Ranked 62)  
-Completed: 1,907 (2.13%) (Ranked 63)  
+Progressed: 89,531 (Ranked 62)  
+Completed: 1,907 (2.13%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 63)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,524 | 1,907 |
+| 2023-06-02 | 89,531 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,020 (Ranked 37)  

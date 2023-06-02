@@ -12,12 +12,12 @@ Rating: 4.18 (Ranked 837)
 | Paper Jams | 7.00% | ~1,002 |
 | Giving Back | 6.00% | ~859 |
 | Reforged | 6.00% | ~859 |
-| Workplace Hazard | 5.00% | ~715 |
-| If the SHU Fits... | 5.00% | ~715 |
-| Get a Grip | 4.00% | ~572 |
-| Without A Paddle | 4.00% | ~572 |
-| Instigator | 4.00% | ~89 |
-| Big Game Hunter | 4.00% | ~89 |
+| Workplace Hazard | 5.00% | ~716 |
+| If the SHU Fits... | 5.00% | ~716 |
+| Get a Grip | 4.00% | ~573 |
+| Without A Paddle | 4.00% | ~573 |
+| Instigator | 4.00% | ~90 |
+| Big Game Hunter | 4.00% | ~90 |
 | Two Heads Are Better Than One | 3.00% | ~429 |
 | Terminated | 3.00% | ~429 |
 | Float Like A Butterfly | 3.00% | ~429 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 837)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,309 (Ranked 102)  
+Progressed: 14,313 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,309 | 53 |
+| 2023-06-02 | 14,313 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
 Sum: 283 (Ranked 329)  

@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 932,
-  "EOS_Completed": 63,
-  "EOS_NewPlayers": 66,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.76,
+  "EOS_Completed": 64,
+  "EOS_NewPlayers": 65,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 6.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2067,6 +2067,11 @@
       "Time": "2023-06-02T18:05:31.5568192+00:00",
       "NumProgressed": 932,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-06-02T19:06:24.2506803+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 50,
@@ -2324,9 +2329,9 @@
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 130
     },
     {
       "ID": "39",
@@ -2478,15 +2483,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 932,
-      "Completed": 63
+      "Completed": 64
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-02T18:05:31.5568188+00:00",
+  "LastChanged_Achievements": "2023-06-02T19:06:24.2506793+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-06-02T17:57:26.4112524+00:00",
-  "LastUpdate_Achievements": "2023-06-02T18:05:31.5568612+00:00"
+  "LastUpdate_Ratings": "2023-06-02T18:57:43.9415339+00:00",
+  "LastUpdate_Achievements": "2023-06-02T19:06:24.250736+00:00"
 }

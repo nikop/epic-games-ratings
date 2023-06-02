@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.15,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -122,6 +122,11 @@
       "Time": "2023-05-30T07:02:19.0829129+00:00",
       "NumProgressed": 174,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T19:03:54.637965+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -131,9 +136,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "book_em_danny",
@@ -205,7 +210,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "patient_listener",
@@ -213,7 +218,7 @@
       "Name": "Patient Listener",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "play_it_again_sam",
@@ -221,7 +226,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "play_me_by_the_hour",
@@ -229,7 +234,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "poetent",
@@ -261,7 +266,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "the_big_sleep",
@@ -285,7 +290,7 @@
       "Name": "Voyeur",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "you_had_one_job",
@@ -300,7 +305,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 2
     }
   ],
@@ -308,8 +313,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-02T18:03:24.7755489+00:00",
+  "LastChanged_Achievements": "2023-06-02T19:03:54.6379645+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:21.3750449+00:00",
-  "LastUpdate_Ratings": "2023-06-02T17:58:33.975114+00:00",
-  "LastUpdate_Achievements": "2023-06-02T18:03:24.7755609+00:00"
+  "LastUpdate_Ratings": "2023-06-02T18:59:04.156788+00:00",
+  "LastUpdate_Achievements": "2023-06-02T19:03:54.6379805+00:00"
 }

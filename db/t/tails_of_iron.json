@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1550,
+  "EOS_Progressed": 1551,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1046,6 +1046,11 @@
       "Time": "2023-06-02T18:00:30.4091376+00:00",
       "NumProgressed": 1550,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-02T19:01:24.0674263+00:00",
+      "NumProgressed": 1551,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1057,7 +1062,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "Collect20Gold",
@@ -1065,7 +1070,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Collect20Iron",
@@ -1081,7 +1086,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "CollectAllStatues",
@@ -1113,7 +1118,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "CompleteChefsBook",
@@ -1121,7 +1126,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "CompleteElderFaction",
@@ -1129,7 +1134,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1161,7 +1166,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "DefeatMoziQueen",
@@ -1201,7 +1206,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "GetTHWeapon",
@@ -1209,7 +1214,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "Kill25Bugs",
@@ -1217,7 +1222,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "Kill25Frogs",
@@ -1225,15 +1230,15 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 682
     },
     {
       "ID": "MeetTheMoles",
@@ -1265,7 +1270,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "RepairThroneRoom",
@@ -1281,7 +1286,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1296,22 +1301,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1550,
+      "Progressed": 1551,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 191,
-      "Completed": 191
+      "Progressed": 192,
+      "Completed": 192
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-02T18:00:30.4091371+00:00",
+  "LastChanged_Achievements": "2023-06-02T19:01:24.0674259+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-06-02T17:58:15.8551096+00:00",
-  "LastUpdate_Achievements": "2023-06-02T18:00:30.4091581+00:00"
+  "LastUpdate_Ratings": "2023-06-02T18:58:41.1555633+00:00",
+  "LastUpdate_Achievements": "2023-06-02T19:01:24.067457+00:00"
 }

@@ -1,19 +1,19 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 755)  
+Rating: 4.31 (Ranked 756)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 62.00% | ~188 |
 | Cowardice | 54.00% | ~164 |
-| NO LIFE IS WORTH SAVING... | 49.00% | ~148 |
-| Eat Lead! | 47.00% | ~142 |
-| Prospector | 43.00% | ~130 |
-| Here Comes the Boom | 43.00% | ~130 |
-| Treasure Hunter | 41.00% | ~124 |
-| The Breaking Point | 40.00% | ~121 |
+| NO LIFE IS WORTH SAVING... | 49.00% | ~149 |
+| Eat Lead! | 47.00% | ~143 |
+| Here Comes the Boom | 43.00% | ~131 |
+| Prospector | 42.00% | ~128 |
+| Treasure Hunter | 40.00% | ~122 |
+| The Breaking Point | 39.00% | ~119 |
 | Sniper Wolf | 37.00% | ~112 |
 | The Motivation | 36.00% | ~109 |
 | Missing in Action | 36.00% | ~109 |
@@ -30,11 +30,11 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 19.00% | ~58 |
 | Food Massacre | 19.00% | ~58 |
 | Bullseye! | 19.00% | ~58 |
-| Collectibles of Chapter III | 16.00% | ~48 |
-| Sorrow | 16.00% | ~48 |
-| Collectibles of Chapter IV | 15.00% | ~45 |
-| Atonement | 15.00% | ~45 |
-| Without a Second Thought | 13.00% | ~39 |
+| Collectibles of Chapter III | 16.00% | ~49 |
+| Sorrow | 16.00% | ~49 |
+| Collectibles of Chapter IV | 15.00% | ~46 |
+| Atonement | 14.00% | ~43 |
+| Without a Second Thought | 13.00% | ~40 |
 | Helping Hand | 12.00% | ~36 |
 | Collectibles of Chapter V | 9.00% | ~27 |
 | Such is War! | 8.00% | ~24 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 223)  
+Progressed: 304 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 297 | 0 |
 | 2023-05-31 | 300 | 0 |
 | 2023-06-01 | 302 | 0 |
-| 2023-06-02 | 303 | 0 |
+| 2023-06-02 | 304 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

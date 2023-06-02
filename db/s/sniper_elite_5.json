@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -254,7 +254,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2071,
+  "EOS_Progressed": 2076,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
@@ -2274,6 +2274,11 @@
       "Time": "2023-06-02T18:05:39.7325514+00:00",
       "NumProgressed": 2071,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T19:06:33.4949265+00:00",
+      "NumProgressed": 2076,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2293,7 +2298,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2365,7 +2370,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2403,9 +2408,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2421,7 +2426,7 @@
       "Name": "Sharpshooter",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2453,7 +2458,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2469,7 +2474,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -2477,7 +2482,7 @@
       "Name": "My Little Friend",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -2485,15 +2490,15 @@
       "Name": "Explosive Efficiency",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 249
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2509,7 +2514,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2589,7 +2594,7 @@
       "Name": "Tinkerer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -2621,7 +2626,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2645,7 +2650,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -2653,7 +2658,7 @@
       "Name": "Taking it back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2693,7 +2698,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2715,9 +2720,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -2852,13 +2857,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2022,
+      "Progressed": 2027,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2071,
+      "Progressed": 2076,
       "Completed": 2
     }
   ],
@@ -2866,8 +2871,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-02T18:05:39.7325509+00:00",
+  "LastChanged_Achievements": "2023-06-02T19:06:33.4949258+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:00:07.072547+00:00",
-  "LastUpdate_Achievements": "2023-06-02T18:05:39.7326215+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:00:54.1031704+00:00",
+  "LastUpdate_Achievements": "2023-06-02T19:06:33.4950072+00:00"
 }

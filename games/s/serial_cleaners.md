@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | So it goes | 11.00% | ~20 |
 | Clean Conscience | 10.00% | ~18 |
-| Small-time Finder | 5.00% | ~9 |
+| Small-time Finder | 6.00% | ~11 |
 | Off to a Good Start | 4.00% | ~7 |
 | A New Broom Sweeps Clean | 4.00% | ~7 |
 | Business as usual | 3.00% | ~5 |

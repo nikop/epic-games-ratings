@@ -31,11 +31,11 @@
 | You Shall Not Pass | 27.00% | ~36 |
 | Mommy's Very Angry | 27.00% | ~36 |
 | Animal Lover | 27.00% | ~36 |
+| Undying Skin | 27.00% | ~36 |
 | Fight Me! | 27.00% | ~36 |
 | Supremacy | 27.00% | ~36 |
-| Undying Skin | 26.00% | ~35 |
+| Loyal Companion | 23.00% | ~31 |
 | Immortal Skin | 22.00% | ~30 |
-| Loyal Companion | 22.00% | ~30 |
 | Back To The Future | 21.00% | ~28 |
 | Fire Beacon | 21.00% | ~28 |
 | Lunch Before The Lunch | 19.00% | ~26 |

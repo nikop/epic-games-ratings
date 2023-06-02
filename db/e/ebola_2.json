@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -726,6 +726,11 @@
       "Time": "2023-05-31T11:04:22.482785+00:00",
       "NumProgressed": 202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T19:05:06.3857781+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -833,7 +838,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achSaveses",
@@ -857,7 +862,7 @@
       "Name": "Statue \u2714",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achVirus",
@@ -873,21 +878,21 @@
       "Name": "Witch \u2714",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-02T18:04:23.5853097+00:00",
+  "LastChanged_Achievements": "2023-06-02T19:05:06.3857776+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:05.7172086+00:00",
-  "LastUpdate_Ratings": "2023-06-02T17:57:12.7809611+00:00",
-  "LastUpdate_Achievements": "2023-06-02T18:04:23.5853226+00:00"
+  "LastUpdate_Ratings": "2023-06-02T18:57:27.3006054+00:00",
+  "LastUpdate_Achievements": "2023-06-02T19:05:06.385795+00:00"
 }

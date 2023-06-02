@@ -7,33 +7,33 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 68.00% | ~28,933 |
-| Say goodbye, creep! | 65.00% | ~27,656 |
-| Blood splattered | 65.00% | ~27,656 |
+| Say goodbye, creep! | 65.00% | ~27,657 |
+| Blood splattered | 65.00% | ~27,657 |
 | Choo choo! | 62.00% | ~26,380 |
-| Groovy | 61.00% | ~25,954 |
+| Groovy | 61.00% | ~25,955 |
 | Cleanup on aisle 4! | 56.00% | ~23,827 |
 | Gold | 50.00% | ~21,274 |
-| The boat can leave now...tell the crew | 48.00% | ~20,423 |
-| Give me something to shoot! | 46.00% | ~19,572 |
-| Stand back boy! | 46.00% | ~19,572 |
-| Weird science | 44.00% | ~18,721 |
-| Chain reaction | 44.00% | ~18,721 |
+| The boat can leave now...tell the crew | 48.00% | ~20,424 |
+| Give me something to shoot! | 46.00% | ~19,573 |
+| Stand back boy! | 46.00% | ~19,573 |
+| Weird science | 44.00% | ~18,722 |
+| Chain reaction | 44.00% | ~18,722 |
 | Look mummy! A shark! | 41.00% | ~17,445 |
 | What did you say, Blain? | 41.00% | ~17,445 |
-| In the dark dark woods... | 38.00% | ~16,168 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,168 |
-| Double tap | 36.00% | ~15,317 |
-| Cranial blowout! | 36.00% | ~15,317 |
-| Zombie killin' machine | 36.00% | ~15,317 |
-| Every bullet counts | 36.00% | ~15,317 |
+| In the dark dark woods... | 38.00% | ~16,169 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,169 |
+| Double tap | 36.00% | ~15,318 |
+| Cranial blowout! | 36.00% | ~15,318 |
+| Zombie killin' machine | 36.00% | ~15,318 |
+| Every bullet counts | 36.00% | ~15,318 |
 | All of this has happened before… | 35.00% | ~14,892 |
-| You've got red on you | 34.00% | ~14,466 |
+| You've got red on you | 34.00% | ~14,467 |
 | All roads lead to Rome | 33.00% | ~14,041 |
 | You're all going to die down here | 31.00% | ~13,190 |
 | He did Nazi that coming | 31.00% | ~13,190 |
 | Kill of the week | 31.00% | ~13,190 |
-| I never liked them anyway | 30.00% | ~12,764 |
-| Is it over? | 28.00% | ~11,913 |
+| I never liked them anyway | 30.00% | ~12,765 |
+| Is it over? | 28.00% | ~11,914 |
 | Got your back | 27.00% | ~11,488 |
 | Gore soaked | 24.00% | ~10,212 |
 | Shock therapy | 22.00% | ~9,361 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~425 |
 | None more hard | 0.50% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,548 (Ranked 82)  
+Progressed: 42,549 (Ranked 82)  
 Completed: 25 (0.06%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 25 (0.06%) (Ranked 177)
 | 2023-05-30 | 42,515 | 25 |
 | 2023-05-31 | 42,523 | 25 |
 | 2023-06-01 | 42,537 | 25 |
-| 2023-06-02 | 42,548 | 25 |
+| 2023-06-02 | 42,549 | 25 |
 ## Awards
 Max (Great Boss Battles): 780  (Ranked 147)  
 Sum: 2,383 (Ranked 168)  

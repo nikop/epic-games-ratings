@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -313,6 +313,11 @@
       "Time": "2023-06-02T11:06:54.4858366+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T19:06:23.5964554+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -386,17 +391,17 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_ACT4",
@@ -420,7 +425,7 @@
       "Name": "48 Attempts",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_ACT7",
@@ -458,17 +463,17 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -490,9 +495,9 @@
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_LOOPER",
@@ -516,7 +521,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -524,7 +529,7 @@
       "Name": "Summer Luvin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_TERMINATED",
@@ -539,7 +544,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
@@ -547,8 +552,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-02T18:05:31.0092749+00:00",
+  "LastChanged_Achievements": "2023-06-02T19:06:23.5964549+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-06-02T17:57:26.7760727+00:00",
-  "LastUpdate_Achievements": "2023-06-02T18:05:31.0092912+00:00"
+  "LastUpdate_Ratings": "2023-06-02T18:57:44.4089328+00:00",
+  "LastUpdate_Achievements": "2023-06-02T19:06:23.5964743+00:00"
 }

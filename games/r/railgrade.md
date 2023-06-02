@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 487)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,417 |
-| Before the Downfall | 93.00% | ~17,477 |
-| Money like Water | 91.00% | ~17,102 |
-| Minimalist | 90.00% | ~16,914 |
-| Builder | 83.00% | ~15,598 |
-| Eraser | 70.00% | ~13,155 |
-| Pocket of Trains | 65.00% | ~12,215 |
-| Inspector | 59.00% | ~11,088 |
-| Going the Distance | 54.00% | ~10,148 |
-| Oil Baron | 42.00% | ~7,893 |
-| Loads-a-Money | 42.00% | ~7,893 |
-| Helper of the People | 39.00% | ~7,329 |
-| Simplification | 34.00% | ~6,390 |
-| Box of Trains | 33.00% | ~6,202 |
-| Let There be Light | 32.00% | ~6,014 |
-| Hot Water | 31.00% | ~5,826 |
-| Indecisive | 29.00% | ~5,450 |
-| The scenic route | 27.00% | ~5,074 |
-| Industrialist | 25.00% | ~4,698 |
-| Perfectionist | 23.00% | ~4,322 |
-| Trains over Pipes | 23.00% | ~4,322 |
-| 8K is Enough for Everyone | 22.00% | ~4,134 |
-| Man of Steel | 16.00% | ~3,007 |
-| Room Full of Trains | 12.00% | ~2,255 |
-| Investor | 9.00% | ~1,691 |
+| Trevithick's Legacy | 98.00% | ~18,421 |
+| Before the Downfall | 93.00% | ~17,481 |
+| Money like Water | 91.00% | ~17,105 |
+| Minimalist | 90.00% | ~16,917 |
+| Builder | 83.00% | ~15,602 |
+| Eraser | 70.00% | ~13,158 |
+| Pocket of Trains | 65.00% | ~12,218 |
+| Inspector | 59.00% | ~11,090 |
+| Going the Distance | 54.00% | ~10,150 |
+| Oil Baron | 42.00% | ~7,895 |
+| Loads-a-Money | 42.00% | ~7,895 |
+| Helper of the People | 39.00% | ~7,331 |
+| Simplification | 34.00% | ~6,391 |
+| Box of Trains | 33.00% | ~6,203 |
+| Let There be Light | 32.00% | ~6,015 |
+| Hot Water | 31.00% | ~5,827 |
+| Indecisive | 29.00% | ~5,451 |
+| The scenic route | 27.00% | ~5,075 |
+| Industrialist | 25.00% | ~4,699 |
+| Perfectionist | 23.00% | ~4,323 |
+| Trains over Pipes | 23.00% | ~4,323 |
+| 8K is Enough for Everyone | 22.00% | ~4,135 |
+| Man of Steel | 16.00% | ~3,008 |
+| Room Full of Trains | 12.00% | ~2,256 |
+| Investor | 9.00% | ~1,692 |
 | Multiverse | 7.00% | ~1,316 |
 | The poor groundwater levels | 7.00% | ~1,316 |
 | Metropolis | 7.00% | ~1,316 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 487)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,793 (Ranked 97)  
+Progressed: 18,797 (Ranked 97)  
 Completed: 30 (0.16%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 30 (0.16%) (Ranked 148)
 | 2023-05-30 | 18,757 | 29 |
 | 2023-05-31 | 18,770 | 29 |
 | 2023-06-01 | 18,787 | 29 |
-| 2023-06-02 | 18,793 | 30 |
+| 2023-06-02 | 18,797 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 343)  
 Sum: 649 (Ranked 275)  

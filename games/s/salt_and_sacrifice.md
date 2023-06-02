@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 755)  
+Rating: 4.31 (Ranked 756)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,8 +21,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Electromancer | 61.00% | ~39,303 |
 | The Terramancer | 59.00% | ~38,014 |
 | The Exalted | 57.00% | ~36,726 |
+| Blueheart Runners | 55.00% | ~35,437 |
 | Sheriff Inquisitors | 55.00% | ~35,437 |
-| Blueheart Runners | 54.00% | ~34,793 |
 | The Necromancer | 52.00% | ~33,504 |
 | The Swamp | 50.00% | ~32,216 |
 | The Fungalmancer | 47.00% | ~30,283 |

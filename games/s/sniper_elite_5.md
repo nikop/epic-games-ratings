@@ -5,25 +5,25 @@ Rating: 4.42 (Ranked 653)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~518 |
-| Confirming Suspicions | 20.00% | ~414 |
+| Meeting Resistance | 25.00% | ~519 |
+| Confirming Suspicions | 20.00% | ~415 |
 | The Kraken Wakes | 15.00% | ~311 |
+| Lord of War | 12.00% | ~249 |
 | It's Starting to Crack | 12.00% | ~249 |
-| Lord of War | 11.00% | ~228 |
-| Resourceful | 10.00% | ~207 |
-| Change the Channel | 10.00% | ~207 |
-| Taking it back | 9.00% | ~186 |
+| Resourceful | 10.00% | ~208 |
+| Change the Channel | 10.00% | ~208 |
+| Taking it back | 9.00% | ~187 |
 | Organ Grinder | 8.00% | ~166 |
 | As Quiet as a Mouse | 8.00% | ~166 |
 | Enemy at the Gates | 7.00% | ~145 |
 | Just a Flesh Wound | 7.00% | ~145 |
 | Target America | 7.00% | ~145 |
-| Liberté | 6.00% | ~124 |
-| Gunslinger | 6.00% | ~124 |
-| Sharpshooter | 6.00% | ~124 |
-| Explosive Efficiency | 6.00% | ~124 |
-| The Kraken Sleeps | 6.00% | ~124 |
+| Liberté | 6.00% | ~125 |
+| Sharpshooter | 6.00% | ~125 |
+| Explosive Efficiency | 6.00% | ~125 |
+| The Kraken Sleeps | 6.00% | ~125 |
 | Opposing Force | 5.00% | ~104 |
+| Gunslinger | 5.00% | ~104 |
 | Die Nussknacker Sweet! | 5.00% | ~104 |
 | Der Geist | 5.00% | ~104 |
 | Close Quarters | 5.00% | ~104 |
@@ -35,8 +35,8 @@ Rating: 4.42 (Ranked 653)
 | No Stone Unturned | 3.00% | ~62 |
 | Set Europe Ablaze | 3.00% | ~62 |
 | Precision Is Key | 3.00% | ~62 |
-| Rigged to Blow | 2.00% | ~41 |
-| My Little Friend | 2.00% | ~41 |
+| Rigged to Blow | 2.00% | ~42 |
+| My Little Friend | 2.00% | ~42 |
 | Strategist | 1.00% | ~21 |
 | The Long Game | 1.00% | ~21 |
 | It'll Buff Right Out | 1.00% | ~21 |
@@ -44,8 +44,8 @@ Rating: 4.42 (Ranked 653)
 | Road Rage | 0.90% | ~19 |
 | Herr Today, Gone Tomorrow | 0.80% | ~16 |
 | Operation Foxley | 0.80% | ~16 |
-| Tinkerer | 0.70% | ~14 |
-| Don't hold your breath | 0.70% | ~14 |
+| Tinkerer | 0.70% | ~15 |
+| Don't hold your breath | 0.70% | ~15 |
 | Siegebreaker | 0.70% | ~14 |
 | Ghost of Falaise | 0.70% | ~14 |
 | Last Resort | 0.60% | ~12 |
@@ -56,11 +56,11 @@ Rating: 4.42 (Ranked 653)
 | Up close and personal | 0.40% | ~8 |
 | Shoot for the Moon | 0.40% | ~8 |
 | Can't Outrun A Bullet | 0.30% | ~6 |
+| Reich To The Point | 0.30% | ~6 |
 | If You Go Down To The Woods Today | 0.30% | ~6 |
 | Fight Another Day | 0.30% | ~6 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~4 |
-| Reich To The Point | 0.20% | ~4 |
 | Covert Elimination | 0.20% | ~4 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 653)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,071 (Ranked 150)  
+Progressed: 2,076 (Ranked 150)  
 Completed: 2 (0.10%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 2 (0.10%) (Ranked 161)
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
-| 2023-06-02 | 2,071 | 2 |
+| 2023-06-02 | 2,076 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

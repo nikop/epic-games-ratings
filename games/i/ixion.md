@@ -5,13 +5,13 @@ Rating: 4.58 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 13.00% | ~308 |
+| Wakey Wakey | 13.00% | ~309 |
 | Sputnik 2049 | 11.00% | ~261 |
-| Without Breaking Some Eggs... | 10.00% | ~237 |
-| Infinite Growth... | 10.00% | ~237 |
+| Without Breaking Some Eggs... | 10.00% | ~238 |
+| Infinite Growth... | 10.00% | ~238 |
 | Space Society | 7.00% | ~166 |
+| Ready for a New World | 7.00% | ~166 |
 | A Thousand Strong | 6.00% | ~142 |
-| Ready for a New World | 6.00% | ~142 |
 | Guy de Borderlands | 5.00% | ~119 |
 | Breaking Protocol | 5.00% | ~119 |
 | Permanent Redesigns | 5.00% | ~119 |
@@ -21,14 +21,14 @@ Rating: 4.58 (Ranked 421)
 | Fully Recycled | 4.00% | ~95 |
 | The Ship of Theseus | 4.00% | ~95 |
 | Exceeding Capacity | 3.00% | ~71 |
+| Necessary Enhancement | 3.00% | ~71 |
 | Please Make it Stop! | 3.00% | ~71 |
-| Man's Best Friend | 2.00% | ~47 |
-| Sightseeing | 2.00% | ~47 |
-| Power Outage | 2.00% | ~47 |
-| Access Granted | 2.00% | ~47 |
-| Necessary Enhancement | 2.00% | ~47 |
-| Convenient Transport | 2.00% | ~47 |
-| From the Past | 2.00% | ~47 |
+| Man's Best Friend | 2.00% | ~48 |
+| Sightseeing | 2.00% | ~48 |
+| Power Outage | 2.00% | ~48 |
+| Access Granted | 2.00% | ~48 |
+| Convenient Transport | 2.00% | ~48 |
+| From the Past | 2.00% | ~48 |
 | Oats | 1.00% | ~24 |
 | What They Hide From Us | 1.00% | ~24 |
 | ...  in a finite world | 1.00% | ~24 |
@@ -47,10 +47,10 @@ Rating: 4.58 (Ranked 421)
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |
 | Help of the Forgotten Member | 0.50% | ~12 |
-| Better Him Than Me | 0.40% | ~9 |
-| Tiqqun Contender | 0.40% | ~9 |
-| Gregor Spinoza | 0.40% | ~9 |
-| Scientifically Accurate | 0.40% | ~9 |
+| Better Him Than Me | 0.40% | ~10 |
+| Tiqqun Contender | 0.40% | ~10 |
+| Gregor Spinoza | 0.40% | ~10 |
+| Scientifically Accurate | 0.40% | ~10 |
 | Remember the Dead | 0.30% | ~7 |
 | Soylent Green | 0.30% | ~7 |
 | Work Harder | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 421)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,372 (Ranked 146)  
+Progressed: 2,375 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 2,306 | 0 |
 | 2023-05-31 | 2,333 | 0 |
 | 2023-06-01 | 2,350 | 0 |
-| 2023-06-02 | 2,372 | 0 |
+| 2023-06-02 | 2,375 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

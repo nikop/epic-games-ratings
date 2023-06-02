@@ -1,40 +1,40 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.41 (Ranked 664)  
+Rating: 4.41 (Ranked 665)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~699,594 |
-| The ABCs | 43.00% | ~601,650 |
-| Home Run | 42.00% | ~587,659 |
-| Keeps Coming Off | 40.00% | ~559,675 |
-| Guts | 20.00% | ~279,837 |
-| Meat Grinder | 20.00% | ~279,837 |
-| Burning Man | 16.00% | ~223,870 |
-| Lived to Tell the Tale | 12.00% | ~167,902 |
-| Highlander | 10.00% | ~139,919 |
-| Unstoppable | 10.00% | ~139,919 |
-| Just a Scratch | 9.00% | ~125,927 |
-| Tough Nut to Crack | 6.00% | ~83,951 |
-| Yoink | 6.00% | ~83,951 |
-| Long List of Names | 4.00% | ~55,967 |
-| Pyromaniac | 4.00% | ~55,967 |
-| The Queen of Weapons | 4.00% | ~55,967 |
-| Eagle Eye | 2.00% | ~27,984 |
-| This isn’t Sparta | 2.00% | ~27,984 |
-| Poacher | 2.00% | ~27,984 |
-| Put That Away | 2.00% | ~27,984 |
-| You’re Welcome | 2.00% | ~27,984 |
-| Crybaby | 1.00% | ~13,992 |
-| I Know Kung Fu | 1.00% | ~13,992 |
-| Coming Through | 0.90% | ~12,593 |
-| Chambermaid | 0.80% | ~11,193 |
-| Training Accident | 0.70% | ~9,794 |
-| Boxer | 0.60% | ~8,395 |
-| Virtuoso | 0.60% | ~8,395 |
-| Flyswatter | 0.50% | ~6,996 |
-| Rock’n’Roll | 0.50% | ~6,996 |
+| Justice from the Grave | 50.00% | ~699,672 |
+| The ABCs | 43.00% | ~601,718 |
+| Home Run | 42.00% | ~587,725 |
+| Keeps Coming Off | 40.00% | ~559,738 |
+| Guts | 20.00% | ~279,869 |
+| Meat Grinder | 20.00% | ~279,869 |
+| Burning Man | 16.00% | ~223,895 |
+| Lived to Tell the Tale | 12.00% | ~167,921 |
+| Highlander | 10.00% | ~139,934 |
+| Unstoppable | 10.00% | ~139,934 |
+| Just a Scratch | 9.00% | ~125,941 |
+| Tough Nut to Crack | 6.00% | ~83,961 |
+| Yoink | 6.00% | ~83,961 |
+| Long List of Names | 4.00% | ~55,974 |
+| Pyromaniac | 4.00% | ~55,974 |
+| The Queen of Weapons | 4.00% | ~55,974 |
+| Eagle Eye | 2.00% | ~27,987 |
+| This isn’t Sparta | 2.00% | ~27,987 |
+| Poacher | 2.00% | ~27,987 |
+| Put That Away | 2.00% | ~27,987 |
+| You’re Welcome | 2.00% | ~27,987 |
+| Crybaby | 1.00% | ~13,993 |
+| I Know Kung Fu | 1.00% | ~13,993 |
+| Coming Through | 0.90% | ~12,594 |
+| Chambermaid | 0.80% | ~11,195 |
+| Training Accident | 0.70% | ~9,795 |
+| Boxer | 0.60% | ~8,396 |
+| Virtuoso | 0.60% | ~8,396 |
+| Flyswatter | 0.50% | ~6,997 |
+| Rock’n’Roll | 0.50% | ~6,997 |
 | Friend Indeed | 0.40% | ~5,597 |
 | Whack-A-Mole | 0.40% | ~5,597 |
 | Vlad the Impaler | 0.30% | ~4,198 |
@@ -44,7 +44,7 @@ Rating: 4.41 (Ranked 664)
 | That’s No Ordinary Cold | 0.10% | ~1,399 |
 | Stairway to Hell | 0.10% | ~1,399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399,187 (Ranked 7)  
+Progressed: 1,399,345 (Ranked 7)  
 Completed: 21 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 21 (0.00%) (Ranked 210)
 | 2023-05-30 | 1,392,893 | 20 |
 | 2023-05-31 | 1,395,019 | 20 |
 | 2023-06-01 | 1,397,260 | 21 |
-| 2023-06-02 | 1,399,187 | 21 |
+| 2023-06-02 | 1,399,345 | 21 |
 ## Awards
 Max (Highly Recommended): 199  (Ranked 260)  
 Sum: 1,047 (Ranked 229)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6504,
+  "EOS_Progressed": 6505,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2023-06-02T08:06:23.5131696+00:00",
       "NumProgressed": 6504,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-02T19:06:28.7981484+00:00",
+      "NumProgressed": 6505,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1491,7 +1496,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1547,7 +1552,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "AK_ON_TOWN",
@@ -1611,7 +1616,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1627,7 +1632,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1651,7 +1656,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -1674,15 +1679,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6504,
+      "Progressed": 6505,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-02T18:05:35.4650579+00:00",
+  "LastChanged_Achievements": "2023-06-02T19:06:28.7981474+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.6752069+00:00",
-  "LastUpdate_Ratings": "2023-06-02T17:57:25.7252702+00:00",
-  "LastUpdate_Achievements": "2023-06-02T18:05:35.4650822+00:00"
+  "LastUpdate_Ratings": "2023-06-02T18:57:43.1195346+00:00",
+  "LastUpdate_Achievements": "2023-06-02T19:06:28.798177+00:00"
 }
