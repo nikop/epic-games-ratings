@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -227,9 +227,9 @@
       "ID": "RUNE_CURSEDCOINS",
       "SetID": "9433p49",
       "Name": "Unstoppable Curiosity",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
@@ -316,8 +316,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-02T06:06:10.9005844+00:00",
+  "LastChanged_Achievements": "2023-06-02T07:05:10.575178+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:24.8015132+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:57:41.082118+00:00",
-  "LastUpdate_Achievements": "2023-06-02T06:06:10.9005959+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:57:18.5795592+00:00",
+  "LastUpdate_Achievements": "2023-06-02T07:05:10.5751903+00:00"
 }

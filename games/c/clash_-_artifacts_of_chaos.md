@@ -7,11 +7,11 @@
 | Declawing | 67.00% | ~53 |
 | Target Practice | 38.00% | ~30 |
 | Over the Moon | 32.00% | ~25 |
-| The Bigger They Are | 29.00% | ~23 |
+| The Bigger They Are | 30.00% | ~24 |
 | Enemies of Fate | 29.00% | ~23 |
 | Amokuali Tower | 27.00% | ~21 |
+| Your Training Continues | 25.00% | ~20 |
 | Armored | 25.00% | ~20 |
-| Your Training Continues | 24.00% | ~19 |
 | Freedom | 22.00% | ~17 |
 | Winner | 20.00% | ~16 |
 | The Pride of Moozhaw | 19.00% | ~15 |

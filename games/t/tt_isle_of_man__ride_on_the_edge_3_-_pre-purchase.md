@@ -44,7 +44,7 @@
 | Superbike Superfan | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 295)  
+Progressed: 64 (Ranked 296)  
 Completed: 1 (1.56%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |

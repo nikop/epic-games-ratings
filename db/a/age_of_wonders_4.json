@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4147,
+  "EOS_Progressed": 4148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2775,6 +2775,11 @@
       "Time": "2023-06-02T06:04:37.8966129+00:00",
       "NumProgressed": 4147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T07:03:57.5309622+00:00",
+      "NumProgressed": 4148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2786,7 +2791,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "10",
@@ -2858,7 +2863,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "19",
@@ -2898,7 +2903,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     },
     {
       "ID": "23",
@@ -2914,7 +2919,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "25",
@@ -2922,7 +2927,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "26",
@@ -2930,7 +2935,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "27",
@@ -2946,15 +2951,15 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2281
     },
     {
       "ID": "3",
@@ -2978,7 +2983,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "32",
@@ -3058,7 +3063,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "41",
@@ -3137,13 +3142,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4147,
-      "Completed": 4147
+      "Progressed": 4148,
+      "Completed": 4148
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4147,
+      "Progressed": 4148,
       "Completed": 0
     }
   ],
@@ -3151,8 +3156,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-02T06:04:37.896612+00:00",
+  "LastChanged_Achievements": "2023-06-02T07:03:57.5309613+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:59:41.1382097+00:00",
-  "LastUpdate_Achievements": "2023-06-02T06:04:37.8966648+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:58:55.2116119+00:00",
+  "LastUpdate_Achievements": "2023-06-02T07:03:57.531007+00:00"
 }

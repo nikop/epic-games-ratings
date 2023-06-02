@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4889,
+  "EOS_Progressed": 4891,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-06-01T18:06:38.4910484+00:00",
       "NumProgressed": 4889,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T07:05:32.543891+00:00",
+      "NumProgressed": 4891,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1317,7 +1322,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1357,7 +1362,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ach_campaign_special10",
@@ -1637,7 +1642,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -1797,7 +1802,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ach_trait_overload",
@@ -1812,15 +1817,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4889,
+      "Progressed": 4891,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-02T06:06:36.5771457+00:00",
+  "LastChanged_Achievements": "2023-06-02T07:05:32.5438904+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.5581107+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:59:09.3011116+00:00",
-  "LastUpdate_Achievements": "2023-06-02T06:06:36.5772312+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:58:28.5201829+00:00",
+  "LastUpdate_Achievements": "2023-06-02T07:05:32.5439793+00:00"
 }

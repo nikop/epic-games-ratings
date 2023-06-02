@@ -39,34 +39,35 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.30% | ~268 |
 | Waterdeep Detours | 0.30% | ~268 |
 | Pros and CONs | 0.20% | ~179 |
-| Tall Tales | 0.20% | ~111 |
-| The Witchlight Carnival | 0.20% | ~111 |
-| Third Third Out | 0.20% | ~111 |
+| Tall Tales | 0.20% | ~112 |
+| The Witchlight Carnival | 0.20% | ~112 |
+| Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~179 |
-| A Steadfast Love | 0.20% | ~111 |
+| A Steadfast Love | 0.20% | ~112 |
 | Wet Feet | 0.20% | ~179 |
-| The Lutes of Loomlurch | 0.20% | ~111 |
+| The Lutes of Loomlurch | 0.20% | ~112 |
 | Supply Run | 0.20% | ~179 |
-| Best Laid Plans | 0.20% | ~111 |
-| Vecna Lives! | 0.20% | ~111 |
-| Return to the Tomb | 0.20% | ~111 |
-| Keep Your Distance | 0.20% | ~111 |
-| Heatwave | 0.20% | ~111 |
-| Hands Off! | 0.20% | ~111 |
-| The Dread Domain of Tovag | 0.20% | ~111 |
-| Frail Doesn't Mean Broken | 0.20% | ~111 |
-| The Castle of a Thousand Vecnas | 0.20% | ~111 |
-| Unreasonable Doesn't Mean Stupid | 0.20% | ~111 |
-| The Sanctum of the Sword | 0.20% | ~111 |
-| Get Back In The Castle | 0.20% | ~111 |
-| Pin and Skewer | 0.20% | ~111 |
-| Bully for Vecna | 0.20% | ~111 |
-| Xanathaaaaaaar! | 0.20% | ~111 |
+| Best Laid Plans | 0.20% | ~112 |
+| Vecna Lives! | 0.20% | ~112 |
+| Return to the Tomb | 0.20% | ~112 |
+| Keep Your Distance | 0.20% | ~112 |
+| Heatwave | 0.20% | ~112 |
+| Hands Off! | 0.20% | ~112 |
+| The Dread Domain of Tovag | 0.20% | ~112 |
+| Frail Doesn't Mean Broken | 0.20% | ~112 |
+| The Castle of a Thousand Vecnas | 0.20% | ~112 |
+| Unreasonable Doesn't Mean Stupid | 0.20% | ~112 |
+| The Sanctum of the Sword | 0.20% | ~112 |
+| Get Back In The Castle | 0.20% | ~112 |
+| Pin and Skewer | 0.20% | ~112 |
+| Bully for Vecna | 0.20% | ~112 |
+| Who Lurks Below? | 0.20% | ~112 |
+| Xanathaaaaaaar! | 0.20% | ~112 |
 | Homecoming | 0.20% | ~179 |
 | The Lost Heir of Omu | 0.20% | ~179 |
-| The Minions of Endelyn Moongrave | 0.20% | ~111 |
-| No One Can Hear You Scream | 0.20% | ~111 |
-| Welcome to the Rock | 0.20% | ~111 |
+| The Minions of Endelyn Moongrave | 0.20% | ~112 |
+| No One Can Hear You Scream | 0.20% | ~112 |
+| Welcome to the Rock | 0.20% | ~112 |
 | The Forbidden City | 0.20% | ~179 |
 | Captured! | 0.20% | ~179 |
 | Low Initiative | 0.20% | ~179 |
@@ -98,15 +99,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~179 |
 | Elturel Has Fallen | 0.20% | ~179 |
 | Resolve Amongst Chaos | 0.20% | ~179 |
-| Into The Fire | 0.20% | ~111 |
-| Hearts Aflame | 0.20% | ~111 |
-| Look Out! | 0.20% | ~111 |
-| Bad Odds in Avernus | 0.20% | ~111 |
-| The Lost Hollyphant | 0.20% | ~111 |
-| An Even Worse Time in Avernus | 0.20% | ~111 |
-| Ulkoria's Escape from Alterdeep | 0.20% | ~111 |
-| The Giant's Bane Tavern | 0.20% | ~111 |
-| The Everlasting Rime | 0.20% | ~111 |
+| Into The Fire | 0.20% | ~112 |
+| Hearts Aflame | 0.20% | ~112 |
+| Look Out! | 0.20% | ~112 |
+| Bad Odds in Avernus | 0.20% | ~112 |
+| The Lost Hollyphant | 0.20% | ~112 |
+| An Even Worse Time in Avernus | 0.20% | ~112 |
+| Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
+| The Giant's Bane Tavern | 0.20% | ~112 |
+| The Everlasting Rime | 0.20% | ~112 |
 | Close Escort | 0.20% | ~179 |
 | Constant Banditry | 0.20% | ~179 |
 | The Long Haul | 0.20% | ~179 |
@@ -114,8 +115,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~179 |
 | Underdeep Cartography | 0.20% | ~179 |
 | Overdue Rendezvous | 0.20% | ~179 |
-| Witty Riposting | 0.20% | ~111 |
-| How Far Away is Thay | 0.20% | ~111 |
+| Witty Riposting | 0.20% | ~112 |
+| How Far Away is Thay | 0.20% | ~112 |
 | The Templar's Camp | 0.20% | ~179 |
 | Rescue in the Jungle | 0.20% | ~179 |
 | Upholding the Law | 0.10% | ~89 |
@@ -200,7 +201,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.10% | ~56 |
 | Kas the Bloody Handed | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
-| Who Lurks Below? | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
 | Anti-Dexterous Explorers | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,473 (Ranked 62)  
+Progressed: 89,478 (Ranked 62)  
 Completed: 1,907 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 62)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,473 | 1,907 |
+| 2023-06-02 | 89,478 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,015 (Ranked 37)  

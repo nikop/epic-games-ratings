@@ -31,10 +31,10 @@ Rating: 4.52 (Ranked 510)
 | You're a star | 18.00% | ~141 |
 | Reunited | 17.00% | ~134 |
 | King of hospitality | 10.00% | ~79 |
-| Top spot in town | 2.00% | ~16 |
+| Top spot in town | 3.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 786 (Ranked 182)  
-Completed: 11 (1.40%) (Ranked 76)  
+Completed: 12 (1.53%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 11 (1.40%) (Ranked 76)
 | 2023-05-30 | 781 | 11 |
 | 2023-05-31 | 783 | 11 |
 | 2023-06-01 | 785 | 11 |
-| 2023-06-02 | 786 | 11 |
+| 2023-06-02 | 786 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

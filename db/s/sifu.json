@@ -4350,9 +4350,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706781,
+  "EOS_Progressed": 706788,
   "EOS_Completed": 12750,
-  "EOS_NewPlayers": 1486,
+  "EOS_NewPlayers": 1483,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8160,6 +8160,11 @@
       "Time": "2023-06-02T06:06:36.2472622+00:00",
       "NumProgressed": 706781,
       "NumCompleted": 12750
+    },
+    {
+      "Time": "2023-06-02T07:05:32.3022392+00:00",
+      "NumProgressed": 706788,
+      "NumCompleted": 12750
     }
   ],
   "TotalAchievements": 50,
@@ -8259,7 +8264,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "13_LowAge",
@@ -8443,7 +8448,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -8507,7 +8512,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8515,7 +8520,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8539,7 +8544,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -8563,28 +8568,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16082,
+      "Progressed": 16089,
       "Completed": 10211
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706781,
+      "Progressed": 706788,
       "Completed": 12750
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-01T22:58:56.8634292+00:00",
-  "LastChanged_Achievements": "2023-06-02T06:06:36.2472616+00:00",
+  "LastChanged_Achievements": "2023-06-02T07:05:32.3022386+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:59:13.4204008+00:00",
-  "LastUpdate_Achievements": "2023-06-02T06:06:36.2473252+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:58:31.6929946+00:00",
+  "LastUpdate_Achievements": "2023-06-02T07:05:32.3023043+00:00"
 }

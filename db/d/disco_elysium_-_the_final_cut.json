@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1091,9 +1091,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 119970,
+  "EOS_Progressed": 119972,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4921,6 +4921,11 @@
       "Time": "2023-06-02T06:06:26.1144848+00:00",
       "NumProgressed": 119970,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-02T07:05:23.5422668+00:00",
+      "NumProgressed": 119972,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -5036,7 +5041,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19195
+      "UsersEstimate": 19196
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -5124,7 +5129,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5998
+      "UsersEstimate": 5999
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -5251,15 +5256,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 119970,
+      "Progressed": 119972,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-31T15:58:44.1451339+00:00",
-  "LastChanged_Achievements": "2023-06-02T06:06:26.1144842+00:00",
+  "LastChanged_Achievements": "2023-06-02T07:05:23.5422662+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:41.5073294+00:00",
-  "LastUpdate_Ratings": "2023-06-02T05:59:19.0404454+00:00",
-  "LastUpdate_Achievements": "2023-06-02T06:06:26.1145525+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:58:36.1392771+00:00",
+  "LastUpdate_Achievements": "2023-06-02T07:05:23.5423192+00:00"
 }

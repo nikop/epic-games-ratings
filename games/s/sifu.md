@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~643 |
-| Project Arena | 3.00% | ~482 |
+| Diligence as a goal | 4.00% | ~644 |
+| Project Arena | 3.00% | ~483 |
 | The Old Grandmaster | 1.00% | ~7,068 |
 | The Assault | 1.00% | ~7,068 |
 | The Hateful Pole Fighter | 1.00% | ~7,068 |
@@ -28,13 +28,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.90% | ~6,361 |
 | Take damage to save time | 0.90% | ~6,361 |
 | Old Child | 0.80% | ~5,654 |
-| Scareless | 0.70% | ~4,947 |
-| Kung-Fu Tussle | 0.70% | ~4,947 |
+| Scareless | 0.70% | ~4,948 |
+| Kung-Fu Tussle | 0.70% | ~4,948 |
 | Dance of the Praying Mantis | 0.60% | ~4,241 |
 | Qi Gong: Mind | 0.60% | ~4,241 |
 | I know Kung-Fu | 0.60% | ~4,241 |
-| Deadly Venom | 0.60% | ~96 |
-| A Touch of Acumen | 0.60% | ~96 |
+| Deadly Venom | 0.60% | ~97 |
+| A Touch of Acumen | 0.60% | ~97 |
 | Muk Yan Master | 0.50% | ~3,534 |
 | Tiger on Fire | 0.50% | ~3,534 |
 | Detective Story | 0.50% | ~3,534 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,781 (Ranked 15)  
+Progressed: 706,788 (Ranked 15)  
 Completed: 12,750 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 12,750 (1.80%) (Ranked 66)
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
-| 2023-06-02 | 706,781 | 12,750 |
+| 2023-06-02 | 706,788 | 12,750 |
 ## Awards
 Max (Great Boss Battles): 6,119  (Ranked 53)  
 Sum: 10,434 (Ranked 78)  

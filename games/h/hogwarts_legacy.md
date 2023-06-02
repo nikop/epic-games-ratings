@@ -26,13 +26,13 @@ Rating: 4.77 (Ranked 105)
 | Flight the Good Flight | 5.00% | ~13,759 |
 | Followed the Butterflies | 5.00% | ~13,759 |
 | The Spell Master | 5.00% | ~13,759 |
-| The Seeker of Knowledge | 4.00% | ~11,007 |
-| The Root of the Problem | 3.00% | ~8,255 |
-| Third Time's a Charm | 3.00% | ~8,255 |
-| Room with a View | 3.00% | ~8,255 |
-| The Intrepid Explorer | 3.00% | ~8,255 |
-| The Ends Petrify the Means | 3.00% | ~8,255 |
-| Raising Expectations | 3.00% | ~8,255 |
+| The Seeker of Knowledge | 4.00% | ~11,008 |
+| The Root of the Problem | 3.00% | ~8,256 |
+| Third Time's a Charm | 3.00% | ~8,256 |
+| Room with a View | 3.00% | ~8,256 |
+| The Intrepid Explorer | 3.00% | ~8,256 |
+| The Ends Petrify the Means | 3.00% | ~8,256 |
+| Raising Expectations | 3.00% | ~8,256 |
 | The Toast of the Town | 2.00% | ~5,504 |
 | Going Through the Potions | 2.00% | ~5,504 |
 | Put Down Roots | 2.00% | ~5,504 |
@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 105)
 | Finishing Touches | 1.00% | ~2,752 |
 | Demiguise Dread | 0.90% | ~2,477 |
 | A Forte for Achievement | 0.90% | ~2,477 |
-| Savvy Spender | 0.80% | ~2,201 |
+| Savvy Spender | 0.80% | ~2,202 |
 | Merlin's Beard! | 0.60% | ~1,651 |
 | Spilled Milk | 0.50% | ~1,376 |
 | The Nature of the Beast | 0.40% | ~1,101 |
 | Collector's Edition | 0.20% | ~550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275,182 (Ranked 39)  
+Progressed: 275,188 (Ranked 39)  
 Completed: 383 (0.14%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 383 (0.14%) (Ranked 154)
 | 2023-05-30 | 274,486 | 382 |
 | 2023-05-31 | 274,775 | 383 |
 | 2023-06-01 | 275,109 | 384 |
-| 2023-06-02 | 275,182 | 383 |
+| 2023-06-02 | 275,188 | 383 |
 ## Awards
 Max (Character Customization): 19,435  (Ranked 18)  
 Sum: 35,882 (Ranked 33)  

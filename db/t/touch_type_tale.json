@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2881,
+  "EOS_Progressed": 2882,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2023-06-02T06:06:37.0795541+00:00",
       "NumProgressed": 2881,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-02T07:05:32.9901758+00:00",
+      "NumProgressed": 2882,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1758,7 +1763,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "campaign10",
@@ -1790,7 +1795,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "campaign14",
@@ -1814,7 +1819,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "campaign17",
@@ -1844,9 +1849,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2277
     },
     {
       "ID": "campaign20",
@@ -1918,7 +1923,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "scenario2",
@@ -1926,7 +1931,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "scenario3",
@@ -1973,7 +1978,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2881,
+      "Progressed": 2882,
       "Completed": 9
     }
   ],
@@ -1981,8 +1986,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-02T06:06:37.0795533+00:00",
+  "LastChanged_Achievements": "2023-06-02T07:05:32.9901752+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:00:29.796967+00:00",
-  "LastUpdate_Achievements": "2023-06-02T06:06:37.0795919+00:00"
+  "LastUpdate_Ratings": "2023-06-02T06:59:32.7775554+00:00",
+  "LastUpdate_Achievements": "2023-06-02T07:05:32.9902103+00:00"
 }
