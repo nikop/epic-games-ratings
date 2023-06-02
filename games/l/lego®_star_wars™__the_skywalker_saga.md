@@ -6,25 +6,25 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~46,676 |
-| ''I don't like you either!'' | 79.00% | ~38,015 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~34,646 |
-| ''Impressive, most impressive'' | 71.00% | ~34,165 |
-| The Phantom Menace | 59.00% | ~28,391 |
-| ''Aggressive Negotiations'' | 58.00% | ~27,910 |
-| ''I can fly anything'' | 57.00% | ~27,428 |
-| ''And who gave you permission...?'' | 53.00% | ~25,504 |
-| A New Hope | 47.00% | ~22,616 |
-| Attack of the Clones | 46.00% | ~22,135 |
-| Revenge of the Sith | 40.00% | ~19,248 |
-| ''A fine addition to my collection'' | 37.00% | ~17,804 |
-| The Empire Strikes Back | 36.00% | ~17,323 |
-| Return of the Jedi | 31.00% | ~14,917 |
-| The Force Awakens | 26.00% | ~12,511 |
-| The Last Jedi | 22.00% | ~10,586 |
-| The Rise of Skywalker | 19.00% | ~9,143 |
-| ''It's true... all of it'' | 18.00% | ~8,662 |
-| ''Get the crews to their fighters'' | 18.00% | ~8,662 |
+| ''You guys got yourself a ship!'' | 97.00% | ~46,686 |
+| ''I don't like you either!'' | 79.00% | ~38,023 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~34,654 |
+| ''Impressive, most impressive'' | 71.00% | ~34,172 |
+| The Phantom Menace | 59.00% | ~28,397 |
+| ''Aggressive Negotiations'' | 58.00% | ~27,915 |
+| ''I can fly anything'' | 57.00% | ~27,434 |
+| ''And who gave you permission...?'' | 53.00% | ~25,509 |
+| A New Hope | 47.00% | ~22,621 |
+| Attack of the Clones | 46.00% | ~22,140 |
+| Revenge of the Sith | 40.00% | ~19,252 |
+| ''A fine addition to my collection'' | 37.00% | ~17,808 |
+| The Empire Strikes Back | 36.00% | ~17,327 |
+| Return of the Jedi | 31.00% | ~14,920 |
+| The Force Awakens | 26.00% | ~12,514 |
+| The Last Jedi | 22.00% | ~10,589 |
+| The Rise of Skywalker | 19.00% | ~9,145 |
+| ''It's true... all of it'' | 18.00% | ~8,663 |
+| ''Get the crews to their fighters'' | 18.00% | ~8,663 |
 | ''Raw, untamed power'' | 8.00% | ~3,850 |
 | Rishi Maze | 4.00% | ~1,925 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,925 |
@@ -33,26 +33,26 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''GONK!'' | 3.00% | ~1,444 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,444 |
 | The Slice | 3.00% | ~1,444 |
-| ''Hello there!'' | 2.00% | ~962 |
-| Unknown Regions | 2.00% | ~962 |
-| ''Do or do not. There is no try'' | 2.00% | ~962 |
-| ''See you around, kid'' | 2.00% | ~962 |
-| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~962 |
-| Greater Javin | 2.00% | ~962 |
-| New Territories | 2.00% | ~962 |
-| The Interior | 2.00% | ~962 |
-| Western Reaches | 2.00% | ~962 |
-| Trailing Sectors | 2.00% | ~962 |
-| The Arkanis Sector | 2.00% | ~962 |
-| ''Power! Unlimited power!'' | 2.00% | ~962 |
-| ''Now I am the Master'' | 2.00% | ~962 |
+| ''Hello there!'' | 2.00% | ~963 |
+| Unknown Regions | 2.00% | ~963 |
+| ''Do or do not. There is no try'' | 2.00% | ~963 |
+| ''See you around, kid'' | 2.00% | ~963 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~963 |
+| Greater Javin | 2.00% | ~963 |
+| New Territories | 2.00% | ~963 |
+| The Interior | 2.00% | ~963 |
+| Western Reaches | 2.00% | ~963 |
+| Trailing Sectors | 2.00% | ~963 |
+| The Arkanis Sector | 2.00% | ~963 |
+| ''Power! Unlimited power!'' | 2.00% | ~963 |
+| ''Now I am the Master'' | 2.00% | ~963 |
 | ''A little short for a Stormtrooper...'' | 1.00% | ~481 |
 | ''Jedi Business'' | 1.00% | ~481 |
 | ''No more training, do you require'' | 1.00% | ~481 |
 | ''You needn't worry about your reward'' | 1.00% | ~481 |
 | ''I've never seen a real one!'' | 0.80% | ~385 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,120 (Ranked 79)  
+Progressed: 48,130 (Ranked 79)  
 Completed: 174 (0.36%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 174 (0.36%) (Ranked 120)
 | 2023-05-30 | 47,894 | 172 |
 | 2023-05-31 | 47,968 | 172 |
 | 2023-06-01 | 48,077 | 174 |
-| 2023-06-02 | 48,120 | 174 |
+| 2023-06-02 | 48,130 | 174 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 97)  
 Sum: 6,379 (Ranked 112)  

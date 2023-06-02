@@ -1,55 +1,55 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 611)  
+Rating: 4.42 (Ranked 652)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~512 |
-| Confirming Suspicions | 20.00% | ~409 |
-| The Kraken Wakes | 15.00% | ~307 |
+| Meeting Resistance | 25.00% | ~513 |
+| Confirming Suspicions | 20.00% | ~410 |
+| The Kraken Wakes | 15.00% | ~308 |
 | It's Starting to Crack | 12.00% | ~246 |
-| Lord of War | 11.00% | ~225 |
+| Lord of War | 11.00% | ~226 |
 | Resourceful | 10.00% | ~205 |
 | Change the Channel | 10.00% | ~205 |
-| Taking it back | 9.00% | ~184 |
+| Taking it back | 9.00% | ~185 |
 | Organ Grinder | 8.00% | ~164 |
 | As Quiet as a Mouse | 8.00% | ~164 |
-| Enemy at the Gates | 7.00% | ~143 |
-| Target America | 7.00% | ~143 |
+| Enemy at the Gates | 7.00% | ~144 |
+| Target America | 7.00% | ~144 |
+| Liberté | 6.00% | ~123 |
 | Just a Flesh Wound | 6.00% | ~123 |
 | Sharpshooter | 6.00% | ~123 |
 | Explosive Efficiency | 6.00% | ~123 |
 | The Kraken Sleeps | 6.00% | ~123 |
-| Liberté | 5.00% | ~102 |
-| Opposing Force | 5.00% | ~102 |
-| Gunslinger | 5.00% | ~102 |
-| Die Nussknacker Sweet! | 5.00% | ~102 |
-| Der Geist | 5.00% | ~102 |
-| Close Quarters | 5.00% | ~102 |
-| Snake in the Grass | 5.00% | ~102 |
+| Opposing Force | 5.00% | ~103 |
+| Gunslinger | 5.00% | ~103 |
+| Die Nussknacker Sweet! | 5.00% | ~103 |
+| Der Geist | 5.00% | ~103 |
+| Close Quarters | 5.00% | ~103 |
+| Snake in the Grass | 5.00% | ~103 |
 | Climbing the Ladder | 4.00% | ~82 |
 | Fields of Glory | 4.00% | ~82 |
 | Skirmisher | 4.00% | ~82 |
 | Brains of the Operation | 4.00% | ~82 |
-| No Stone Unturned | 3.00% | ~61 |
-| Set Europe Ablaze | 3.00% | ~61 |
-| Precision Is Key | 3.00% | ~61 |
+| No Stone Unturned | 3.00% | ~62 |
+| Set Europe Ablaze | 3.00% | ~62 |
+| Precision Is Key | 3.00% | ~62 |
 | Rigged to Blow | 2.00% | ~41 |
 | My Little Friend | 2.00% | ~41 |
-| Strategist | 1.00% | ~20 |
-| The Long Game | 1.00% | ~20 |
-| It'll Buff Right Out | 1.00% | ~20 |
+| Strategist | 1.00% | ~21 |
+| The Long Game | 1.00% | ~21 |
+| It'll Buff Right Out | 1.00% | ~21 |
 | Locomotion Commotion | 0.90% | ~18 |
 | Road Rage | 0.90% | ~18 |
+| Herr Today, Gone Tomorrow | 0.80% | ~16 |
 | Operation Foxley | 0.80% | ~16 |
+| Tinkerer | 0.70% | ~14 |
 | Don't hold your breath | 0.70% | ~14 |
-| Herr Today, Gone Tomorrow | 0.70% | ~14 |
 | Siegebreaker | 0.70% | ~14 |
 | Ghost of Falaise | 0.70% | ~14 |
-| Tinkerer | 0.60% | ~12 |
+| Last Resort | 0.60% | ~12 |
 | From Paris with Love | 0.50% | ~10 |
-| Last Resort | 0.50% | ~10 |
 | Burn after reading | 0.40% | ~8 |
 | Souvenir hunter | 0.40% | ~8 |
 | Eagle Eyed | 0.40% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 611)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,046 (Ranked 151)  
+Progressed: 2,052 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 2 (0.10%) (Ranked 160)
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
-| 2023-06-02 | 2,046 | 2 |
+| 2023-06-02 | 2,052 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -160,3 +160,4 @@ Completed: 2 (0.10%) (Ranked 160)
 | 2023-05-30 | 4.45 | 0 | 0 |
 | 2023-05-31 | 4.44 | 0 | 0 |
 | 2023-06-01 | 4.45 | 0 | 0 |
+| 2023-06-02 | 4.42 | 0 | 0 |

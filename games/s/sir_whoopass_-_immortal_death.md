@@ -42,8 +42,8 @@
 | Another one bites the iron | 28.00% | ~20 |
 | Ripe Meat Off The Bone! | 24.00% | ~17 |
 | Hovering around | 24.00% | ~17 |
+| You're not so Big anymore, Boi! | 23.00% | ~16 |
 | Your daily dose of Vitamin C. | 23.00% | ~16 |
-| You're not so Big anymore, Boi! | 21.00% | ~15 |
 | Kleptomaniac | 21.00% | ~15 |
 | I cant stand still! | 20.00% | ~14 |
 | Just wing it! | 17.00% | ~12 |

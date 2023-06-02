@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5835,
+  "EOS_Progressed": 5842,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2738,6 +2738,11 @@
       "Time": "2023-06-02T12:03:52.5281062+00:00",
       "NumProgressed": 5835,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-06-02T13:17:41.5752682+00:00",
+      "NumProgressed": 5842,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -2749,7 +2754,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4843
+      "UsersEstimate": 4849
     },
     {
       "ID": "ACH02",
@@ -2757,7 +2762,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACH03",
@@ -2773,7 +2778,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2103
     },
     {
       "ID": "ACH05",
@@ -2789,7 +2794,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH07",
@@ -2813,7 +2818,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH10",
@@ -2821,7 +2826,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1577
     },
     {
       "ID": "ACH11",
@@ -2853,7 +2858,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ACH15",
@@ -2861,7 +2866,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH16",
@@ -2869,7 +2874,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1402
     },
     {
       "ID": "ACH17",
@@ -2877,7 +2882,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH18",
@@ -2893,7 +2898,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH20",
@@ -2933,7 +2938,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH25",
@@ -2941,7 +2946,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH26",
@@ -2980,7 +2985,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5835,
+      "Progressed": 5842,
       "Completed": 28
     }
   ],
@@ -2988,8 +2993,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-01T04:58:26.2683164+00:00",
-  "LastChanged_Achievements": "2023-06-02T12:03:52.5281054+00:00",
+  "LastChanged_Achievements": "2023-06-02T13:17:41.5752677+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:58:27.0671467+00:00",
-  "LastUpdate_Achievements": "2023-06-02T12:03:52.5281449+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:12:03.2636734+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:17:41.5752965+00:00"
 }

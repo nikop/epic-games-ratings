@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2612,9 +2612,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9431,
+  "EOS_Progressed": 9433,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5227,6 +5227,11 @@
       "Time": "2023-06-02T12:07:29.8220444+00:00",
       "NumProgressed": 9431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T13:20:39.1161151+00:00",
+      "NumProgressed": 9433,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5254,7 +5259,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "04_FithCrusade",
@@ -5606,7 +5611,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "49_Flame",
@@ -6140,9 +6145,9 @@
       "ID": "DLC4_27_Not the Last Sarkorian",
       "SetID": "11go2ek",
       "Name": "Not the Last Sarkorian",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 66
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -6165,21 +6170,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8213,
+      "Progressed": 8215,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9431,
+      "Progressed": 9433,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-01T22:58:14.071099+00:00",
-  "LastChanged_Achievements": "2023-06-02T12:07:29.822044+00:00",
+  "LastChanged_Achievements": "2023-06-02T13:20:39.1161147+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:58:57.4335306+00:00",
-  "LastUpdate_Achievements": "2023-06-02T12:07:29.8222425+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:12:27.8105963+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:20:39.1162471+00:00"
 }

@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 541)
 | Campaigning | 24.00% | ~93 |
 | Frugal | 21.00% | ~81 |
 | Feed a God | 20.00% | ~77 |
-| To the Moon and Back | 19.00% | ~74 |
+| To the Moon and Back | 20.00% | ~77 |
 | Great Flight | 17.00% | ~66 |
 | Holy Vengeance | 15.00% | ~58 |
 | Honorary Cultist | 11.00% | ~43 |

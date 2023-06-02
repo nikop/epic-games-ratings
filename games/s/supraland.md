@@ -1,64 +1,64 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 359)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~701,599 |
-| The Blues | 85.00% | ~602,383 |
-| Fast | 66.00% | ~467,733 |
-| Healthbar | 55.00% | ~389,777 |
-| Force Cube | 52.00% | ~368,517 |
-| Double Jump | 48.00% | ~340,169 |
-| Regeneration | 47.00% | ~333,082 |
-| Climb the hill | 42.00% | ~297,648 |
-| Triple Jump | 42.00% | ~297,648 |
-| Through the fire pipe | 38.00% | ~269,301 |
-| MacGuffin | 37.00% | ~262,214 |
-| Just once | 36.00% | ~255,127 |
-| Armor | 30.00% | ~212,606 |
-| True holy spirit | 27.00% | ~191,345 |
-| That's how electronics work obviously | 26.00% | ~184,258 |
-| Force Cube Catapult | 25.00% | ~177,172 |
-| Holy Sword | 23.00% | ~162,998 |
-| Telefrag | 22.00% | ~155,911 |
-| Freed from prison | 21.00% | ~148,824 |
-| Stomp | 21.00% | ~148,824 |
-| Double Health | 18.00% | ~127,563 |
-| Buckle | 17.00% | ~120,477 |
-| Green Keycard | 17.00% | ~120,477 |
-| Rattle Hag | 15.00% | ~106,303 |
-| All Shells | 14.00% | ~99,216 |
-| Beam | 14.00% | ~99,216 |
-| 9 | 13.00% | ~92,129 |
-| Purple Cube | 13.00% | ~92,129 |
-| Supraball Noob | 13.00% | ~92,129 |
-| Health Drink | 12.00% | ~85,042 |
-| Helped a star | 12.00% | ~85,042 |
-| Strong | 12.00% | ~85,042 |
-| Blue King's lair | 11.00% | ~77,955 |
-| Got the gun back | 11.00% | ~77,955 |
-| Infiltrated | 11.00% | ~77,955 |
-| Robbed | 11.00% | ~77,955 |
-| Payback | 10.00% | ~70,869 |
-| Got the coins back | 10.00% | ~70,869 |
-| Cave Flies | 10.00% | ~70,869 |
-| Gold Scam | 10.00% | ~70,869 |
-| Gold Scam Uncovered | 10.00% | ~70,869 |
-| Translocator | 10.00% | ~70,869 |
-| Yellow Shot Button | 10.00% | ~70,869 |
-| Fire Flies | 9.00% | ~63,782 |
-| Moon Door | 9.00% | ~63,782 |
-| Momentum | 9.00% | ~63,782 |
-| Panic Lights | 9.00% | ~63,782 |
-| Through the tiny pipe | 8.00% | ~56,695 |
-| Win! | 8.00% | ~56,695 |
-| The real real teleported man | 7.00% | ~49,608 |
-| Well deserved | 6.00% | ~42,521 |
-| Happiness | 3.00% | ~21,261 |
-| Super Sword | 3.00% | ~21,261 |
+| Out of bed | 99.00% | ~701,630 |
+| The Blues | 85.00% | ~602,409 |
+| Fast | 66.00% | ~467,753 |
+| Healthbar | 55.00% | ~389,794 |
+| Force Cube | 52.00% | ~368,533 |
+| Double Jump | 48.00% | ~340,184 |
+| Regeneration | 47.00% | ~333,097 |
+| Climb the hill | 42.00% | ~297,661 |
+| Triple Jump | 42.00% | ~297,661 |
+| Through the fire pipe | 38.00% | ~269,312 |
+| MacGuffin | 37.00% | ~262,225 |
+| Just once | 36.00% | ~255,138 |
+| Armor | 30.00% | ~212,615 |
+| True holy spirit | 27.00% | ~191,354 |
+| That's how electronics work obviously | 26.00% | ~184,266 |
+| Force Cube Catapult | 25.00% | ~177,179 |
+| Holy Sword | 23.00% | ~163,005 |
+| Telefrag | 22.00% | ~155,918 |
+| Freed from prison | 21.00% | ~148,831 |
+| Stomp | 21.00% | ~148,831 |
+| Double Health | 18.00% | ~127,569 |
+| Buckle | 17.00% | ~120,482 |
+| Green Keycard | 17.00% | ~120,482 |
+| Rattle Hag | 15.00% | ~106,308 |
+| All Shells | 14.00% | ~99,220 |
+| Beam | 14.00% | ~99,220 |
+| 9 | 13.00% | ~92,133 |
+| Purple Cube | 13.00% | ~92,133 |
+| Supraball Noob | 13.00% | ~92,133 |
+| Health Drink | 12.00% | ~85,046 |
+| Helped a star | 12.00% | ~85,046 |
+| Strong | 12.00% | ~85,046 |
+| Blue King's lair | 11.00% | ~77,959 |
+| Got the gun back | 11.00% | ~77,959 |
+| Infiltrated | 11.00% | ~77,959 |
+| Robbed | 11.00% | ~77,959 |
+| Payback | 10.00% | ~70,872 |
+| Got the coins back | 10.00% | ~70,872 |
+| Cave Flies | 10.00% | ~70,872 |
+| Gold Scam | 10.00% | ~70,872 |
+| Gold Scam Uncovered | 10.00% | ~70,872 |
+| Translocator | 10.00% | ~70,872 |
+| Yellow Shot Button | 10.00% | ~70,872 |
+| Fire Flies | 9.00% | ~63,785 |
+| Moon Door | 9.00% | ~63,785 |
+| Momentum | 9.00% | ~63,785 |
+| Panic Lights | 9.00% | ~63,785 |
+| Through the tiny pipe | 8.00% | ~56,697 |
+| Win! | 8.00% | ~56,697 |
+| The real real teleported man | 7.00% | ~49,610 |
+| Well deserved | 6.00% | ~42,523 |
+| Happiness | 3.00% | ~21,262 |
+| Super Sword | 3.00% | ~21,262 |
 | All Chests | 2.00% | ~14,174 |
 | Poor ancestors | 2.00% | ~14,174 |
 | Shelf filled | 2.00% | ~14,174 |
@@ -66,16 +66,16 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,087 |
 | Jesus Christ Suprastar | 1.00% | ~7,087 |
 | Redstone Pickaxe | 1.00% | ~7,087 |
-| DLC: Green Bird | 0.50% | ~3,543 |
-| DLC: Rooftop Chase | 0.50% | ~3,543 |
-| DLC: Crashed | 0.50% | ~3,543 |
-| DLC: Discovering the Globe | 0.50% | ~3,543 |
-| DLC: Gotta Jump High | 0.50% | ~3,543 |
-| DLC: Gotta Run Fast | 0.50% | ~3,543 |
-| DLC: Monster Maker | 0.50% | ~3,543 |
-| DLC: Race the First | 0.50% | ~3,543 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,543 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,543 |
+| DLC: Green Bird | 0.50% | ~3,544 |
+| DLC: Rooftop Chase | 0.50% | ~3,544 |
+| DLC: Crashed | 0.50% | ~3,544 |
+| DLC: Discovering the Globe | 0.50% | ~3,544 |
+| DLC: Gotta Jump High | 0.50% | ~3,544 |
+| DLC: Gotta Run Fast | 0.50% | ~3,544 |
+| DLC: Monster Maker | 0.50% | ~3,544 |
+| DLC: Race the First | 0.50% | ~3,544 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,544 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,544 |
 | DLC: Basement Robbery | 0.40% | ~2,835 |
 | DLC: Home Invasion | 0.40% | ~2,835 |
 | DLC: The palace job | 0.40% | ~2,835 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~709 |
 | DLC: Top of the world | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,686 (Ranked 14)  
+Progressed: 708,717 (Ranked 14)  
 Completed: 691 (0.10%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 691 (0.10%) (Ranked 160)
 | 2023-05-30 | 708,265 | 690 |
 | 2023-05-31 | 708,431 | 690 |
 | 2023-06-01 | 708,611 | 691 |
-| 2023-06-02 | 708,686 | 691 |
+| 2023-06-02 | 708,717 | 691 |
 ## Awards
 Max (Challenging Puzzles): 7,618  (Ranked 40)  
 Sum: 9,915 (Ranked 79)  

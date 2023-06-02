@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~645 |
+| Diligence as a goal | 4.00% | ~646 |
 | Project Arena | 3.00% | ~484 |
 | The Old Grandmaster | 1.00% | ~7,068 |
 | The Assault | 1.00% | ~7,068 |
@@ -41,10 +41,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.40% | ~2,827 |
 | Iron Money | 0.40% | ~2,827 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,827 |
+| Prodigal Child | 0.40% | ~2,827 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,827 |
 | Sword Stained With Blood | 0.40% | ~2,827 |
 | Martial Hub | 0.40% | ~65 |
-| Prodigal Child | 0.30% | ~2,121 |
 | Secure, Protect, Leave | 0.30% | ~48 |
 | Drunken Fighter | 0.20% | ~1,414 |
 | Martial Artist | 0.20% | ~1,414 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,836 (Ranked 15)  
+Progressed: 706,846 (Ranked 15)  
 Completed: 12,751 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,14 +100,14 @@ Completed: 12,751 (1.80%) (Ranked 66)
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
-| 2023-06-02 | 706,836 | 12,751 |
+| 2023-06-02 | 706,846 | 12,751 |
 ## Awards
-Max (Great Boss Battles): 6,119  (Ranked 53)  
-Sum: 10,437 (Ranked 78)  
+Max (Great Boss Battles): 6,122  (Ranked 53)  
+Sum: 10,440 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,119 |
+| This game has Great Boss Battles | 6,122 |
 | This game has Diverse Characters | 522 |
 | This game has Challenging Combat | 516 |
 | This game has Quickly Understood Controls | 506 |
@@ -258,4 +258,4 @@ Diff (max vs sum): -25
 | 2023-05-30 | 4.82 | - | 6,114 | 10,418 |
 | 2023-05-31 | 4.82 | - | 6,114 | 10,422 |
 | 2023-06-01 | 4.82 | - | 6,119 | 10,434 |
-| 2023-06-02 | 4.82 | - | 6,119 | 10,437 |
+| 2023-06-02 | 4.82 | - | 6,122 | 10,440 |

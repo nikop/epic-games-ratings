@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1096,6 +1096,11 @@
       "Time": "2023-06-02T10:03:48.9340127+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T13:17:46.4872946+00:00",
+      "NumProgressed": 1219,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1115,7 +1120,7 @@
       "Name": "Puppetmaster",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "BOT_DESTROYER",
@@ -1131,7 +1136,7 @@
       "Name": "Whoops",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CONQUEROR",
@@ -1139,7 +1144,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -1155,7 +1160,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -1187,7 +1192,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1211,7 +1216,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 729
+      "UsersEstimate": 731
     },
     {
       "ID": "GUARD_MAKER",
@@ -1235,7 +1240,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -1282,14 +1287,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1219,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-02T12:03:58.3989116+00:00",
+  "LastChanged_Achievements": "2023-06-02T13:17:46.4872941+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:57:26.8328726+00:00",
-  "LastUpdate_Achievements": "2023-06-02T12:03:58.3989405+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:11:13.8021305+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:17:46.487312+00:00"
 }

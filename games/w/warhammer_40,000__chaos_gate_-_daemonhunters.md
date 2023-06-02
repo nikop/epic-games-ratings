@@ -22,8 +22,8 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 10.00% | ~283 |
 | A Foul Creche | 10.00% | ~283 |
 | Efficient Killer | 8.00% | ~226 |
+| Just a Scratch | 8.00% | ~226 |
 | Opportunist | 7.00% | ~198 |
-| Just a Scratch | 7.00% | ~198 |
 | Hold Your Ground | 6.00% | ~170 |
 | A Gift Spurned | 4.00% | ~113 |
 | Long Distance Call | 4.00% | ~113 |

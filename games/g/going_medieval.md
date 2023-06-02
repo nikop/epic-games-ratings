@@ -15,8 +15,8 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 56.00% | ~1,613 |
 | Onward | 51.00% | ~1,469 |
 | The First Week | 48.00% | ~1,383 |
+| Studious Researcher | 48.00% | ~1,383 |
 | Feast or Famine | 47.00% | ~1,354 |
-| Studious Researcher | 47.00% | ~1,354 |
 | Beam Me Up | 44.00% | ~1,268 |
 | Home Cooked Meal | 44.00% | ~1,268 |
 | Adept Researcher | 44.00% | ~1,268 |
@@ -25,7 +25,7 @@ Number of Ratings: 706  (23.09.2022)
 | Fit For A King | 35.00% | ~1,008 |
 | ...And Don’t Come Back! | 35.00% | ~1,008 |
 | Heating Up | 23.00% | ~663 |
-| Winter Is Coming | 20.00% | ~576 |
+| Winter Is Coming | 21.00% | ~605 |
 | Winter Is Here | 18.00% | ~519 |
 | A Party Now | 16.00% | ~461 |
 | Oh Deer! | 16.00% | ~461 |

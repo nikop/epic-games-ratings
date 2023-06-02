@@ -13,23 +13,23 @@
 | Tinned Corpse | 83.00% | ~130 |
 | Your War is Over | 81.00% | ~127 |
 | The Starry Night | 75.00% | ~118 |
-| Go Home! | 74.00% | ~116 |
+| Go Home! | 75.00% | ~118 |
 | Brilliant: Meadowshire | 73.00% | ~115 |
-| Look After the Pence... | 72.00% | ~113 |
-| Sergeant of the Evil | 72.00% | ~113 |
-| Drunken Master | 71.00% | ~111 |
-| V.I.P. Cemetery | 69.00% | ~108 |
+| Look After the Pence... | 73.00% | ~115 |
+| Sergeant of the Evil | 73.00% | ~115 |
+| Drunken Master | 72.00% | ~113 |
+| V.I.P. Cemetery | 70.00% | ~110 |
 | Woodcutter | 69.00% | ~108 |
+| Top of the World | 68.00% | ~107 |
 | Takeover | 68.00% | ~107 |
 | Sharpshooter | 68.00% | ~107 |
 | Architect of Darkness | 68.00% | ~107 |
-| Top of the World | 67.00% | ~105 |
 | The Apotheosis of War | 66.00% | ~104 |
 | Stasis Alcatraz | 65.00% | ~102 |
+| Brilliant: Holy Mountain | 61.00% | ~96 |
 | Combo Breaker | 61.00% | ~96 |
 | Tastes Like Chicken | 61.00% | ~96 |
 | Thunderstorm | 61.00% | ~96 |
-| Brilliant: Holy Mountain | 60.00% | ~94 |
 | Clean Forests | 59.00% | ~93 |
 | Starry: Meadowshire | 55.00% | ~86 |
 | Lieutenant of the Evil | 54.00% | ~85 |

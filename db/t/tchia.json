@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6242,
+  "EOS_Progressed": 6244,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2778,6 +2778,11 @@
       "Time": "2023-06-02T12:06:48.8096026+00:00",
       "NumProgressed": 6242,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-02T13:20:02.714424+00:00",
+      "NumProgressed": 6244,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2893,7 +2898,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "LIBERATOR",
@@ -2941,7 +2946,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "THING",
@@ -2956,7 +2961,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6242,
+      "Progressed": 6244,
       "Completed": 23
     }
   ],
@@ -2964,8 +2969,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-02T12:06:48.809602+00:00",
+  "LastChanged_Achievements": "2023-06-02T13:20:02.7144235+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:58:31.1419489+00:00",
-  "LastUpdate_Achievements": "2023-06-02T12:06:48.8096464+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:12:06.456354+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:20:02.7144486+00:00"
 }

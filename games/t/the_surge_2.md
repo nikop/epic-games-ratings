@@ -6,20 +6,20 @@ Rating: 4.24 (Ranked 794)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,342 |
-| Don't I Know You...? | 77.00% | ~1,291 |
-| Jailbreak | 65.00% | ~1,090 |
-| Suited and Booted | 38.00% | ~637 |
-| HEADSHOT! | 37.00% | ~620 |
+| Don't I Know You...? | 77.00% | ~1,292 |
+| Jailbreak | 65.00% | ~1,091 |
+| Suited and Booted | 38.00% | ~638 |
+| HEADSHOT! | 37.00% | ~621 |
 | Sleeping With The Fishes | 35.00% | ~587 |
 | Overheated | 30.00% | ~503 |
 | High Performance | 30.00% | ~503 |
 | Powered Up | 28.00% | ~470 |
-| Studied The Blade | 24.00% | ~402 |
+| Studied The Blade | 24.00% | ~403 |
 | Home Invasion | 22.00% | ~369 |
 | Luminary | 22.00% | ~369 |
 | It's a Trap | 22.00% | ~369 |
 | True Survivor | 21.00% | ~352 |
-| Shocking | 20.00% | ~335 |
+| Shocking | 20.00% | ~336 |
 | Court Martial | 19.00% | ~319 |
 | Offensive Defense | 19.00% | ~319 |
 | Unforeseeable Consequences | 19.00% | ~319 |
@@ -34,7 +34,7 @@ Rating: 4.24 (Ranked 794)
 | Marked For Success | 12.00% | ~201 |
 | Where It All Began | 12.00% | ~201 |
 | Sorry, Didn't See You There | 12.00% | ~201 |
-| Corrupted Beauty | 11.00% | ~184 |
+| Corrupted Beauty | 11.00% | ~185 |
 | Triplets | 10.00% | ~168 |
 | Stimulating The Local Economy | 9.00% | ~151 |
 | A Little Banged Up | 8.00% | ~134 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 794)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,677 (Ranked 154)  
+Progressed: 1,678 (Ranked 154)  
 Completed: 10 (0.60%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 10 (0.60%) (Ranked 107)
 | 2023-05-30 | 1,661 | 10 |
 | 2023-05-31 | 1,667 | 10 |
 | 2023-06-01 | 1,674 | 10 |
-| 2023-06-02 | 1,677 | 10 |
+| 2023-06-02 | 1,678 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

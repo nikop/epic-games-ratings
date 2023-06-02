@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-06-02T10:05:31.7693978+00:00",
       "NumProgressed": 570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T13:19:27.6559328+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -872,7 +877,7 @@
       "Name": "Right On Time",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ClockworkCompletion1",
@@ -880,7 +885,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ClockworkProgress1",
@@ -904,7 +909,7 @@
       "Name": "Sartorialist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CosmeticProgress1",
@@ -912,7 +917,7 @@
       "Name": "Street Style",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "CultivairChests1",
@@ -960,7 +965,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -992,7 +997,7 @@
       "Name": "Whiz Kid",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "GrindingTime1",
@@ -1080,7 +1085,7 @@
       "Name": "Time Flies",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ParryBoss",
@@ -1088,7 +1093,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ParryRepeated1",
@@ -1102,9 +1107,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 257
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1120,15 +1125,15 @@
       "Name": "The Prince in Heels",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 531
     },
     {
       "ID": "RewindParry",
@@ -1136,7 +1141,7 @@
       "Name": "Honest Mistake",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1150,9 +1155,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 211
     },
     {
       "ID": "SkillCompletion1",
@@ -1168,7 +1173,7 @@
       "Name": "Fast Learner",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "SpeedRun",
@@ -1184,7 +1189,7 @@
       "Name": "Sump Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SyronGift",
@@ -1216,7 +1221,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "WarwickDefeated",
@@ -1224,7 +1229,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "WatcherFought",
@@ -1232,7 +1237,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "WatcherSpared",
@@ -1263,14 +1268,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-02T12:06:08.3413959+00:00",
+  "LastChanged_Achievements": "2023-06-02T13:19:27.6559321+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-02T12:00:21.7307613+00:00",
-  "LastUpdate_Achievements": "2023-06-02T12:06:08.3414449+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:13:36.27903+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:19:27.6559723+00:00"
 }

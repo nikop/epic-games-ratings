@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4314,
+  "EOS_Progressed": 4316,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -874,6 +874,11 @@
       "Time": "2023-06-02T08:01:19.4276845+00:00",
       "NumProgressed": 4314,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-02T13:15:08.7308401+00:00",
+      "NumProgressed": 4316,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -885,7 +890,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -933,7 +938,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3624
+      "UsersEstimate": 3625
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -941,7 +946,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4057
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -949,7 +954,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -957,7 +962,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1053,7 +1058,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -1101,7 +1106,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1131,9 +1136,9 @@
       "ID": "ID_ACHIEV_32",
       "SetID": "98bke8c",
       "Name": "Butcher\u0027s Bill",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2331
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1157,7 +1162,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -1173,7 +1178,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -1205,7 +1210,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -1229,7 +1234,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1420,15 +1425,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4314,
+      "Progressed": 4316,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-02T12:02:07.5516837+00:00",
+  "LastChanged_Achievements": "2023-06-02T13:15:08.7308396+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:44.8329823+00:00",
-  "LastUpdate_Ratings": "2023-06-02T11:58:33.2958006+00:00",
-  "LastUpdate_Achievements": "2023-06-02T12:02:07.5517597+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:12:08.1744858+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:15:08.7309003+00:00"
 }

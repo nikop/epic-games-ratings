@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,7 +870,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3296,
+  "EOS_Progressed": 3298,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
@@ -3410,6 +3410,11 @@
       "Time": "2023-06-02T08:02:33.6996078+00:00",
       "NumProgressed": 3296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T13:14:51.2964254+00:00",
+      "NumProgressed": 3298,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3477,7 +3482,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3493,7 +3498,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -3517,7 +3522,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3525,7 +3530,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3573,7 +3578,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3581,7 +3586,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3605,7 +3610,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -3677,7 +3682,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3740,15 +3745,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3296,
+      "Progressed": 3298,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-02T11:02:38.1506233+00:00",
+  "LastChanged_Achievements": "2023-06-02T13:14:51.2964068+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:32.7112381+00:00",
-  "LastUpdate_Ratings": "2023-06-02T12:01:14.885733+00:00",
-  "LastUpdate_Achievements": "2023-06-02T11:02:38.1506768+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:14:22.0284812+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:14:51.2983337+00:00"
 }

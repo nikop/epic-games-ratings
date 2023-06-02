@@ -13,11 +13,11 @@
 | Skilled rider | 43.00% | ~33 |
 | Devil's dozen | 27.00% | ~21 |
 | It doesn't work like that | 22.00% | ~17 |
+| A small victory | 17.00% | ~13 |
 | This is just the beginning... | 16.00% | ~12 |
-| A small victory | 16.00% | ~12 |
 | Unstoppable Curiosity | 12.00% | ~9 |
 | Time is on my side | 10.00% | ~8 |
-| Gold Digger | 8.00% | ~6 |
+| Gold Digger | 9.00% | ~7 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77 (Ranked 286)  

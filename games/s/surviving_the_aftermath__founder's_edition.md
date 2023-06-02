@@ -24,7 +24,7 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~1,687 |
 | Legendary Explorer | 27.00% | ~1,627 |
 | Finders, Keepers | 26.00% | ~1,567 |
-| Top Notch | 24.00% | ~1,446 |
+| Top Notch | 25.00% | ~1,506 |
 | Mentor | 23.00% | ~1,386 |
 | Great Leader | 22.00% | ~1,326 |
 | Ice Lakes | 22.00% | ~1,326 |

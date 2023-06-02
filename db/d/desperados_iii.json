@@ -4,11 +4,11 @@
   "ProductSlug": "desperados-3",
   "Ranking_Rating": 47,
   "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 328,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-06-16T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -510,10 +510,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-06-02T13:14:44.4341619+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -581,7 +587,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -595,8 +601,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2023-06-02T09:01:09.9439715+00:00",
+  "LastChanged": "2023-06-02T13:14:44.4341618+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:50.0143664+00:00",
-  "LastUpdate_Ratings": "2023-06-02T12:01:41.3584404+00:00",
-  "LastUpdate_Achievements": "2023-06-02T12:02:21.4908972+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:14:44.4341626+00:00",
+  "LastUpdate_Achievements": "2023-06-02T13:15:20.3216691+00:00"
 }
