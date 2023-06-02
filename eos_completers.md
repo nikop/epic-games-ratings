@@ -12,7 +12,7 @@
 | 10 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.53% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.89% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 16 | [Smelter](games/s/smelter.md) | 8.82% |
@@ -20,9 +20,9 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [Remains](games/r/remains.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.91% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.90% |
 | 24 | [Scorn](games/s/scorn.md) | 6.87% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -59,8 +59,8 @@
 | 57 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.44% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.17% |
-| 59 | [Iron Danger](games/i/iron_danger.md) | 2.17% |
 | 59 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
+| 61 | [Iron Danger](games/i/iron_danger.md) | 2.16% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 62 | [JARS](games/j/jars.md) | 2.13% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.92% |
@@ -70,12 +70,12 @@
 | 68 | [Night Book](games/n/night_book.md) | 1.60% |
 | 69 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
 | 69 | [Somerville](games/s/somerville.md) | 1.59% |
-| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.56% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
-| 73 | [Frogun](games/f/frogun.md) | 1.52% |
-| 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 75 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
-| 76 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.40% |
+| 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.54% |
+| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.53% |
+| 74 | [Frogun](games/f/frogun.md) | 1.52% |
+| 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 76 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 78 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 79 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
@@ -428,4 +428,4 @@
 | 209 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 209 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 209 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,721 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,723 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

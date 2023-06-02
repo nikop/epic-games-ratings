@@ -50,6 +50,7 @@
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | - |  | - | - |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | - |  | - | - |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | - |  | - | - |
+| [MADCAR F-1 Multiplayer](games/7/703100e4ec4746ff854e634572e6665e.md) | 2023-06-30 | - |  | - | - |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | - |  | - | - |
 | [MUSYNX](games/7/739d0f3d53054b29befc2753d58c7045.md) | 2023-06-30 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | - |  | - | - |
@@ -286,6 +287,7 @@
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | - |  | - | - |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | - |  | - | - |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2099-01-01 | - |  | - | - |
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2099-01-01 | - |  | - | - |
 | [POLYGOD](games/p/polygod.md) | 2099-01-01 | - |  | - | - |
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | - |  | - | - |
