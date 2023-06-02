@@ -30,9 +30,9 @@ Rating: 4.45 (Ranked 611)
 | Snake in the Grass | 5.00% | ~102 |
 | Climbing the Ladder | 4.00% | ~82 |
 | Fields of Glory | 4.00% | ~82 |
+| Skirmisher | 4.00% | ~82 |
 | Brains of the Operation | 4.00% | ~82 |
 | No Stone Unturned | 3.00% | ~61 |
-| Skirmisher | 3.00% | ~61 |
 | Set Europe Ablaze | 3.00% | ~61 |
 | Precision Is Key | 3.00% | ~61 |
 | Rigged to Blow | 2.00% | ~41 |

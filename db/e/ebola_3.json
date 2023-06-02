@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -738,6 +738,11 @@
       "Time": "2023-05-28T13:08:39.8128631+00:00",
       "NumProgressed": 182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T10:06:39.8280946+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -771,9 +776,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "achBett",
@@ -813,7 +818,7 @@
       "Name": "Chest \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achCity",
@@ -893,7 +898,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achEva",
@@ -1148,7 +1153,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 0
     }
   ],
@@ -1156,8 +1161,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-02T09:07:05.3188339+00:00",
+  "LastChanged_Achievements": "2023-06-02T10:06:39.8280942+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.5505459+00:00",
-  "LastUpdate_Ratings": "2023-06-02T09:00:51.1650351+00:00",
-  "LastUpdate_Achievements": "2023-06-02T09:07:05.3188847+00:00"
+  "LastUpdate_Ratings": "2023-06-02T10:00:32.2522499+00:00",
+  "LastUpdate_Achievements": "2023-06-02T10:06:39.8281435+00:00"
 }

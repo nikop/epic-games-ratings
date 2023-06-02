@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 63,
+  "Ranking_Rating": 64,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 15,
@@ -4356,9 +4356,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706801,
+  "EOS_Progressed": 706809,
   "EOS_Completed": 12750,
-  "EOS_NewPlayers": 1475,
+  "EOS_NewPlayers": 1473,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8181,6 +8181,11 @@
       "Time": "2023-06-02T09:07:02.2768119+00:00",
       "NumProgressed": 706801,
       "NumCompleted": 12750
+    },
+    {
+      "Time": "2023-06-02T10:06:36.4307685+00:00",
+      "NumProgressed": 706809,
+      "NumCompleted": 12750
     }
   ],
   "TotalAchievements": 50,
@@ -8591,21 +8596,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16102,
+      "Progressed": 16110,
       "Completed": 10212
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706801,
+      "Progressed": 706809,
       "Completed": 12750
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-02T08:59:31.4616266+00:00",
-  "LastChanged_Achievements": "2023-06-02T09:07:02.2768112+00:00",
+  "LastChanged_Achievements": "2023-06-02T10:06:36.4307677+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-02T08:59:31.4616274+00:00",
-  "LastUpdate_Achievements": "2023-06-02T09:07:02.2768891+00:00"
+  "LastUpdate_Ratings": "2023-06-02T09:59:15.2121631+00:00",
+  "LastUpdate_Achievements": "2023-06-02T10:06:36.4308322+00:00"
 }

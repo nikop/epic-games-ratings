@@ -8,8 +8,8 @@ Rating: 4.18 (Ranked 835)
 | Flesh Wound | 10.00% | ~1,428 |
 | The Outer Way | 9.00% | ~1,285 |
 | Desperate Times | 8.00% | ~1,142 |
-| Chew 'Em Up | 7.00% | ~999 |
-| Paper Jams | 7.00% | ~999 |
+| Chew 'Em Up | 7.00% | ~1,000 |
+| Paper Jams | 7.00% | ~1,000 |
 | Giving Back | 6.00% | ~857 |
 | Reforged | 6.00% | ~857 |
 | Workplace Hazard | 5.00% | ~714 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 835)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,278 (Ranked 102)  
+Progressed: 14,281 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,11 +88,11 @@ Completed: 53 (0.37%) (Ranked 117)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,278 | 53 |
+| 2023-06-02 | 14,281 | 53 |
 ## Awards
-Max (Highly Recommended): 50  (Ranked 388)  
+Max (Highly Recommended): 50  (Ranked 389)  
 Sum: 282 (Ranked 329)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |

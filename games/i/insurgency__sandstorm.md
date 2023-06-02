@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,921 |
-| Wallbanger | 5.00% | ~18,921 |
-| Exploitative | 4.00% | ~15,137 |
-| High Speed Low Drag | 4.00% | ~15,137 |
-| Wet Feet | 4.00% | ~15,137 |
+| Point Shooting | 5.00% | ~18,922 |
+| Wallbanger | 5.00% | ~18,922 |
+| Exploitative | 4.00% | ~15,138 |
+| High Speed Low Drag | 4.00% | ~15,138 |
+| Wet Feet | 4.00% | ~15,138 |
 | Checkpoint Victory | 3.00% | ~11,353 |
 | Lucky | 3.00% | ~11,353 |
 | Stylin' | 3.00% | ~11,353 |
 | Turf War | 3.00% | ~11,353 |
-| Banged | 2.00% | ~7,568 |
-| First Blood | 2.00% | ~7,568 |
-| Flaccid Paralysis | 2.00% | ~7,568 |
-| Push Victory | 2.00% | ~7,568 |
-| Self-destructive | 2.00% | ~7,568 |
+| Banged | 2.00% | ~7,569 |
+| First Blood | 2.00% | ~7,569 |
+| Flaccid Paralysis | 2.00% | ~7,569 |
+| Push Victory | 2.00% | ~7,569 |
+| Self-destructive | 2.00% | ~7,569 |
 | Blindfire | 1.00% | ~3,784 |
 | Efficient | 1.00% | ~3,784 |
 | Ruthless | 1.00% | ~3,784 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,406 |
 | Mount & Gun | 0.90% | ~3,406 |
 | Personal | 0.90% | ~3,406 |
-| Grounded | 0.80% | ~3,027 |
-| Play to Win | 0.80% | ~3,027 |
+| Grounded | 0.80% | ~3,028 |
+| Play to Win | 0.80% | ~3,028 |
 | #1 | 0.70% | ~2,649 |
 | Special Delivery | 0.70% | ~2,649 |
 | Firefight Victory | 0.60% | ~2,271 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~378 |
 | Road Hazard | 0.10% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378,422 (Ranked 37)  
+Progressed: 378,438 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 2 (0.00%) (Ranked 209)
 | 2023-05-30 | 377,224 | 2 |
 | 2023-05-31 | 377,737 | 2 |
 | 2023-06-01 | 378,227 | 2 |
-| 2023-06-02 | 378,422 | 2 |
+| 2023-06-02 | 378,438 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 355  (Ranked 211)  
 Sum: 2,689 (Ranked 162)  

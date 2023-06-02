@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 16.00% | ~1,508 |
 | A Spark | 11.00% | ~1,037 |
-| Burning City | 10.00% | ~942 |
+| Burning City | 10.00% | ~943 |
 | Mythic Choices | 9.00% | ~848 |
 | Defender's Heart | 9.00% | ~848 |
 | Banner over the Citadel | 8.00% | ~754 |
@@ -25,15 +25,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 3.00% | ~283 |
 | Next-Door Play | 3.00% | ~283 |
 | Get the Toad | 3.00% | ~283 |
-| Heart of the Fallen Land | 2.00% | ~188 |
-| Path of the Trickster | 2.00% | ~188 |
-| Heroic Victory | 2.00% | ~188 |
-| Divide and Rule | 2.00% | ~188 |
-| Mythic Reinforcements | 2.00% | ~188 |
-| Core of the Riddle | 2.00% | ~188 |
-| Your First Big Enemy | 2.00% | ~188 |
-| A Flame | 2.00% | ~188 |
-| Hey, I Know You! | 2.00% | ~188 |
+| Heart of the Fallen Land | 2.00% | ~189 |
+| Path of the Trickster | 2.00% | ~189 |
+| Heroic Victory | 2.00% | ~189 |
+| Divide and Rule | 2.00% | ~189 |
+| Mythic Reinforcements | 2.00% | ~189 |
+| Core of the Riddle | 2.00% | ~189 |
+| Your First Big Enemy | 2.00% | ~189 |
+| A Flame | 2.00% | ~189 |
+| Hey, I Know You! | 2.00% | ~189 |
 | Stay Underground | 2.00% | ~164 |
 | Hanged Man's Notes | 2.00% | ~164 |
 | Sarkoris Will Be Green | 2.00% | ~164 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,425 (Ranked 111)  
+Progressed: 9,426 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 9,373 | 0 |
 | 2023-05-31 | 9,396 | 0 |
 | 2023-06-01 | 9,419 | 0 |
-| 2023-06-02 | 9,425 | 0 |
+| 2023-06-02 | 9,426 | 0 |
 ## Awards
 Max (Character Customization): 1,646  (Ranked 111)  
 Sum: 6,676 (Ranked 110)  

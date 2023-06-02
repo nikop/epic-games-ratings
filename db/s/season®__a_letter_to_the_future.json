@@ -3,9 +3,9 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 910,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed": 36,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -831,6 +831,11 @@
       "Time": "2023-06-02T09:06:36.2016117+00:00",
       "NumProgressed": 910,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-02T10:06:10.8870983+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -970,15 +975,15 @@
       "ID": "7pam6gn",
       "IsBase": true,
       "Progressed": 910,
-      "Completed": 35
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-02-01T02:21:53.1981765+00:00",
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-02T09:06:36.2016111+00:00",
+  "LastChanged_Achievements": "2023-06-02T10:06:10.8870977+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-06-02T08:59:06.5606279+00:00",
-  "LastUpdate_Achievements": "2023-06-02T09:06:36.2016309+00:00"
+  "LastUpdate_Ratings": "2023-06-02T09:58:50.6681161+00:00",
+  "LastUpdate_Achievements": "2023-06-02T10:06:10.8871151+00:00"
 }

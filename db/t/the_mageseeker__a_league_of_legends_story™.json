@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2248,
+  "EOS_Progressed": 2249,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2181,6 +2181,11 @@
       "Time": "2023-06-02T09:06:48.3033154+00:00",
       "NumProgressed": 2248,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T10:06:22.581917+00:00",
+      "NumProgressed": 2249,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2256,7 +2261,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2272,7 +2277,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2368,7 +2373,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2376,7 +2381,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2408,7 +2413,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2432,7 +2437,7 @@
       "Name": "Devineur",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2615,7 +2620,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2248,
+      "Progressed": 2249,
       "Completed": 1
     }
   ],
@@ -2623,8 +2628,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-02T09:06:48.303315+00:00",
+  "LastChanged_Achievements": "2023-06-02T10:06:22.5819165+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-06-02T08:58:00.9504575+00:00",
-  "LastUpdate_Achievements": "2023-06-02T09:06:48.3033744+00:00"
+  "LastUpdate_Ratings": "2023-06-02T09:57:48.398726+00:00",
+  "LastUpdate_Achievements": "2023-06-02T10:06:22.5819674+00:00"
 }

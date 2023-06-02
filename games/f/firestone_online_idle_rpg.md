@@ -48,13 +48,13 @@ Rating: 3.92 (Ranked 909)
 | Missions Dedication | 4.00% | ~50 |
 | The father of Dragons | 4.00% | ~50 |
 | Weekly Quest Completionist | 4.00% | ~50 |
+| Engineer Mastery | 3.00% | ~38 |
 | Lock And Load | 3.00% | ~38 |
 | Master Enchanter | 3.00% | ~38 |
 | Blueprint Upgrades | 2.00% | ~25 |
 | Crystal Mining | 2.00% | ~25 |
 | Dragon Slayer | 2.00% | ~25 |
 | Enchanting skill | 2.00% | ~25 |
-| Engineer Mastery | 2.00% | ~25 |
 | Sailor | 2.00% | ~25 |
 | What lies behind the bush | 2.00% | ~25 |
 | Active Member | 1.00% | ~13 |

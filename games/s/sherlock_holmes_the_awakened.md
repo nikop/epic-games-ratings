@@ -15,7 +15,7 @@
 | Gaze Into The Abyss | 41.00% | ~141 |
 | The New World | 41.00% | ~141 |
 | Open Sesame | 40.00% | ~138 |
-| Sticky Fingers | 39.00% | ~135 |
+| Sticky Fingers | 40.00% | ~138 |
 | Knives Out | 39.00% | ~135 |
 | Back In The Saddle | 38.00% | ~131 |
 | Land, Ho! | 38.00% | ~131 |

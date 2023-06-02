@@ -32,14 +32,14 @@
 | Make America Grate Again | 38.00% | ~27 |
 | Catch the bus with me! | 37.00% | ~26 |
 | Karaoke king | 37.00% | ~26 |
+| Pasta Bolognese | 37.00% | ~26 |
 | Haemochromatosis | 35.00% | ~25 |
-| Pasta Bolognese | 35.00% | ~25 |
 | You are no match for me, Billy! | 34.00% | ~24 |
 | You can't stop me, bro! | 34.00% | ~24 |
 | I'm going to get a concussion | 32.00% | ~23 |
 | Meatballs, coming up! | 30.00% | ~21 |
+| A Megapint...? | 28.00% | ~20 |
 | Another one bites the iron | 28.00% | ~20 |
-| A Megapint...? | 27.00% | ~19 |
 | Ripe Meat Off The Bone! | 24.00% | ~17 |
 | Hovering around | 24.00% | ~17 |
 | Your daily dose of Vitamin C. | 23.00% | ~16 |
@@ -49,8 +49,8 @@
 | Just wing it! | 17.00% | ~12 |
 | Master Butcher | 15.00% | ~11 |
 | Slimy... yet satisfying | 15.00% | ~11 |
+| Ancient Ruins of Dirty Feet | 14.00% | ~10 |
 | Deal with it | 14.00% | ~10 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~9 |
 | Yeehaw!!! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Scrambled Eggs | 10.00% | ~7 |

@@ -21,12 +21,12 @@ Rating: 4.15 (Ranked 851)
 | The Interloper | 3.00% | ~1,151 |
 | Hop, Step, Jump | 3.00% | ~1,151 |
 | Endless Runner | 3.00% | ~1,151 |
-| Outdoorsperson | 2.00% | ~767 |
-| What Must Be Done | 2.00% | ~767 |
-| Might and Main | 2.00% | ~767 |
-| Damned If You Do... | 2.00% | ~767 |
-| Explorer: Pathfinder | 2.00% | ~767 |
-| From Every Angle | 2.00% | ~767 |
+| Outdoorsperson | 2.00% | ~768 |
+| What Must Be Done | 2.00% | ~768 |
+| Might and Main | 2.00% | ~768 |
+| Damned If You Do... | 2.00% | ~768 |
+| Explorer: Pathfinder | 2.00% | ~768 |
+| From Every Angle | 2.00% | ~768 |
 | The Hue of Blue | 1.00% | ~384 |
 | The Truth Will Out | 1.00% | ~384 |
 | Breaking Point | 1.00% | ~384 |
@@ -38,7 +38,7 @@ Rating: 4.15 (Ranked 851)
 | Realized Potential | 0.60% | ~230 |
 | Awakening | 0.50% | ~192 |
 | Explorer: Trailblazer | 0.50% | ~192 |
-| Through the Eyes of Another: Seer | 0.40% | ~153 |
+| Through the Eyes of Another: Seer | 0.40% | ~154 |
 | Archivist | 0.30% | ~115 |
 | Craftsperson | 0.30% | ~115 |
 | Tit for Tat | 0.30% | ~115 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 851)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,373 (Ranked 84)  
+Progressed: 38,375 (Ranked 84)  
 Completed: 2 (0.01%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 2 (0.01%) (Ranked 198)
 | 2023-05-30 | 38,340 | 2 |
 | 2023-05-31 | 38,353 | 2 |
 | 2023-06-01 | 38,367 | 2 |
-| 2023-06-02 | 38,373 | 2 |
+| 2023-06-02 | 38,375 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

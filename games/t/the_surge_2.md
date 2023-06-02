@@ -5,19 +5,19 @@ Rating: 4.24 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,340 |
-| Don't I Know You...? | 77.00% | ~1,290 |
+| Rigged And Ready | 80.00% | ~1,341 |
+| Don't I Know You...? | 77.00% | ~1,291 |
 | Jailbreak | 65.00% | ~1,089 |
-| Suited and Booted | 38.00% | ~636 |
+| Suited and Booted | 38.00% | ~637 |
 | HEADSHOT! | 37.00% | ~620 |
-| Sleeping With The Fishes | 35.00% | ~586 |
-| Overheated | 30.00% | ~502 |
-| High Performance | 30.00% | ~502 |
+| Sleeping With The Fishes | 35.00% | ~587 |
+| Overheated | 30.00% | ~503 |
+| High Performance | 30.00% | ~503 |
 | Powered Up | 28.00% | ~469 |
 | Studied The Blade | 24.00% | ~402 |
-| Home Invasion | 22.00% | ~368 |
-| Luminary | 22.00% | ~368 |
-| It's a Trap | 22.00% | ~368 |
+| Home Invasion | 22.00% | ~369 |
+| Luminary | 22.00% | ~369 |
+| It's a Trap | 22.00% | ~369 |
 | True Survivor | 21.00% | ~352 |
 | Shocking | 20.00% | ~335 |
 | Court Martial | 19.00% | ~318 |
@@ -42,8 +42,8 @@ Rating: 4.24 (Ranked 794)
 | Defense in Depth | 8.00% | ~134 |
 | Reverse Engineering | 7.00% | ~117 |
 | Following In Their Footsteps | 7.00% | ~117 |
-| Turbo Booster | 6.00% | ~100 |
-| Squid Pro Quo | 6.00% | ~100 |
+| Turbo Booster | 6.00% | ~101 |
+| Squid Pro Quo | 6.00% | ~101 |
 | Reborn | 5.00% | ~84 |
 | Remote Surgery | 5.00% | ~84 |
 | Counter-Sniper | 5.00% | ~84 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 794)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,675 (Ranked 154)  
+Progressed: 1,676 (Ranked 154)  
 Completed: 10 (0.60%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 10 (0.60%) (Ranked 107)
 | 2023-05-30 | 1,661 | 10 |
 | 2023-05-31 | 1,667 | 10 |
 | 2023-06-01 | 1,674 | 10 |
-| 2023-06-02 | 1,675 | 10 |
+| 2023-06-02 | 1,676 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

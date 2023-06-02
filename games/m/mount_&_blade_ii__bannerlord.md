@@ -1,31 +1,31 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 142)  
+Rating: 4.74 (Ranked 141)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,115 |
-| Landlord | 30.00% | ~15,527 |
-| Horde breaker | 21.00% | ~10,869 |
-| Lawmaker | 21.00% | ~10,869 |
-| Bannerlord | 20.00% | ~10,351 |
-| Trained | 20.00% | ~10,351 |
-| King Solomon | 16.00% | ~8,281 |
-| The king is pleased | 16.00% | ~8,281 |
+| Lawbringer | 35.00% | ~18,116 |
+| Landlord | 30.00% | ~15,528 |
+| Horde breaker | 21.00% | ~10,870 |
+| Lawmaker | 21.00% | ~10,870 |
+| Bannerlord | 20.00% | ~10,352 |
+| Trained | 20.00% | ~10,352 |
+| King Solomon | 16.00% | ~8,282 |
+| The king is pleased | 16.00% | ~8,282 |
 | Apple of my eye | 14.00% | ~7,246 |
 | I can do it | 14.00% | ~7,246 |
 | God of the Arena | 12.00% | ~6,211 |
 | Against all odds | 10.00% | ~5,176 |
 | Swordbearer | 9.00% | ~4,658 |
-| Duelist | 8.00% | ~4,140 |
-| Dynasty | 8.00% | ~4,140 |
-| I spit on your grave | 8.00% | ~4,140 |
-| What have the Romans ever done for us? | 8.00% | ~4,140 |
+| Duelist | 8.00% | ~4,141 |
+| Dynasty | 8.00% | ~4,141 |
+| I spit on your grave | 8.00% | ~4,141 |
+| What have the Romans ever done for us? | 8.00% | ~4,141 |
 | Butterlord | 7.00% | ~3,623 |
-| Mastery | 6.00% | ~3,105 |
-| This Is Our Land | 6.00% | ~3,105 |
+| Mastery | 6.00% | ~3,106 |
+| This Is Our Land | 6.00% | ~3,106 |
 | Know your enemy | 5.00% | ~2,588 |
 | Crowdfunded | 4.00% | ~2,070 |
 | Crush your enemies | 4.00% | ~2,070 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,756 (Ranked 76)  
+Progressed: 51,760 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 51,499 | 0 |
 | 2023-05-31 | 51,598 | 0 |
 | 2023-06-01 | 51,729 | 0 |
-| 2023-06-02 | 51,756 | 0 |
+| 2023-06-02 | 51,760 | 0 |
 ## Awards
 Max (Character Customization): 6,612  (Ranked 49)  
 Sum: 13,243 (Ranked 67)  
