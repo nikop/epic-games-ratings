@@ -27,11 +27,13 @@
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 | 2 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 | 2 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 | 2 |
+| [Showgunners](../games/s/showgunners.md) | 46 | 1,000 | 2 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 | 2 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 | 2 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 | 2 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 | 2 |
+| [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 0 | 0 | 2 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 | 2 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 | 2 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 | 2 |

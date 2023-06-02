@@ -21,7 +21,7 @@
 | 19 | [Remains](games/r/remains.md) | 8.33% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.86% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.85% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 24 | [Scorn](games/s/scorn.md) | 6.86% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
@@ -78,16 +78,16 @@
 | 76 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 77 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 78 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
-| 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.23% |
-| 80 | [Chorus](games/c/chorus.md) | 1.20% |
-| 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.20% |
-| 82 | [Trifox](games/t/trifox.md) | 1.19% |
+| 79 | [Chorus](games/c/chorus.md) | 1.20% |
+| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.20% |
+| 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.19% |
+| 81 | [Trifox](games/t/trifox.md) | 1.19% |
 | 83 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
 | 86 | [Late Shift](games/l/late_shift.md) | 1.04% |
 | 87 | [Five Dates](games/f/five_dates.md) | 1.01% |
-| 88 | [Sable](games/s/sable.md) | 0.94% |
+| 88 | [Sable](games/s/sable.md) | 0.95% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 90 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.87% |
