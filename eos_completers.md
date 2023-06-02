@@ -24,7 +24,7 @@
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.89% |
 | 24 | [Scorn](games/s/scorn.md) | 6.87% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.22% |
@@ -74,13 +74,13 @@
 | 72 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
 | 73 | [Frogun](games/f/frogun.md) | 1.52% |
 | 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 75 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.45% |
-| 76 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
+| 75 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
+| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.39% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 78 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 79 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
-| 80 | [Chorus](games/c/chorus.md) | 1.21% |
-| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.20% |
+| 80 | [Chorus](games/c/chorus.md) | 1.20% |
+| 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.20% |
 | 82 | [Trifox](games/t/trifox.md) | 1.19% |
 | 83 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |

@@ -46,7 +46,7 @@
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 249 |
 | 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 492 |
 | 38 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 492 |
-| 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 46 | 399 |
+| 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 397 |
 | 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 213 | 252 |
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 492 |
 | 47 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 407 | 200 |
@@ -77,7 +77,7 @@
 | 73 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 33 | 433 |
 | 73 | [Journey](games/j/journey.md) | 4.81 | 0 | 492 |
 | 73 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 492 |
-| 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,285 | 51 |
+| 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,286 | 51 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 283 |
 | 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,374 | 95 |
 | 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 197 | 261 |
@@ -316,7 +316,7 @@
 | 313 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 492 |
 | 313 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,932 | 54 |
 | 313 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 312 |
-| 313 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 46 | 399 |
+| 313 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 46 | 400 |
 | 313 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 42 | 408 |
 | 313 | [HITMAN](games/h/hitman.md) | 4.64 | 198 | 260 |
 | 313 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.64 | 0 | 492 |
@@ -361,7 +361,7 @@
 | 345 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 63 | 373 |
 | 360 | [20XX](games/2/20xx.md) | 4.61 | 36 | 422 |
 | 360 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 128 | 300 |
-| 360 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,155 | 71 |
+| 360 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,159 | 71 |
 | 360 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 492 |
 | 360 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 213 | 252 |
 | 360 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 206 |
@@ -384,7 +384,7 @@
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 492 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,161 | 21 |
 | 384 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,086 | 28 |
-| 384 | [Control](games/c/control.md) | 4.60 | 8,313 | 39 |
+| 384 | [Control](games/c/control.md) | 4.60 | 8,316 | 39 |
 | 384 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 356 |
 | 384 | [DOOM 3](games/d/doom_3.md) | 4.60 | 65 | 372 |
 | 384 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 36,363 | 12 |
@@ -440,7 +440,7 @@
 | 420 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 209 | 254 |
 | 420 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,374 | 23 |
 | 440 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 492 |
-| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 399 |
+| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 400 |
 | 440 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 455 |
 | 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 492 |
 | 440 | [Hob](games/h/hob.md) | 4.57 | 0 | 492 |
@@ -898,7 +898,7 @@
 | 896 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 369 | 207 |
 | 896 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 492 |
 | 898 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 492 |
-| 898 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,105 | 103 |
+| 898 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,120 | 103 |
 | 898 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,604 | 66 |
 | 901 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 492 |
 | 902 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 402 |
