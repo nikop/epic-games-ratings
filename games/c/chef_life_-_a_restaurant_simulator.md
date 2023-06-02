@@ -22,6 +22,7 @@
 | Chef, Yes Chef! | 0.70% | ~2 |
 | Eco Warrior | 0.40% | ~1 |
 | Codename: Arrabbiata | 0.40% | ~1 |
+| The Bigger the Better | 0.40% | ~1 |
 | Teamwork | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | Pyrotechnician | 0.00% | ~0 |
 | Sweet Roll | 0.00% | ~0 |
 | Rise to the Challenge | 0.00% | ~0 |
-| The Bigger the Better | 0.00% | ~0 |
 | Master Chef | 0.00% | ~0 |
 | Culinary Legend | 0.00% | ~0 |
 | Satisfaction Guaranteed | 0.00% | ~0 |

@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,400 |
-| Into the Unknown | 9.00% | ~50,760 |
-| First Shot | 9.00% | ~50,760 |
-| Herzlich Wilkommen! | 8.00% | ~45,120 |
-| Good Night & Good Luck | 8.00% | ~45,120 |
-| Sancho Panza | 7.00% | ~39,480 |
-| Oh, So This Is How It Works! | 7.00% | ~39,480 |
-| Under Pressure | 6.00% | ~33,840 |
-| On the Trail of the Enemy | 6.00% | ~33,840 |
-| Light in the Darkness | 6.00% | ~33,840 |
-| It Wasn't That Hard, Was It? | 6.00% | ~33,840 |
-| Flag Burning | 6.00% | ~33,840 |
-| Night Hunter | 6.00% | ~33,840 |
-| Get Outta My House! | 5.00% | ~28,200 |
-| Being All Social | 5.00% | ~28,200 |
-| Debris and Ashes | 4.00% | ~22,560 |
-| We Will Be Heard! | 4.00% | ~22,560 |
-| Known Associate | 4.00% | ~22,560 |
-| Brush with Death | 4.00% | ~22,560 |
-| Going Down | 4.00% | ~22,560 |
-| Family First | 4.00% | ~22,560 |
-| Your World, Your Rules | 4.00% | ~22,560 |
-| Tunnel Entrance | 4.00% | ~22,560 |
-| After the Fall | 4.00% | ~22,560 |
-| Can't Touch This! | 4.00% | ~22,560 |
-| Death From Afar | 4.00% | ~22,560 |
-| Terminal Headache | 4.00% | ~22,560 |
-| Slowpoke! | 4.00% | ~22,560 |
-| You're Going Down! | 3.00% | ~16,920 |
+| You Never Forget Your First... | 10.00% | ~56,402 |
+| Into the Unknown | 9.00% | ~50,762 |
+| First Shot | 9.00% | ~50,762 |
+| Herzlich Wilkommen! | 8.00% | ~45,122 |
+| Good Night & Good Luck | 8.00% | ~45,122 |
+| Sancho Panza | 7.00% | ~39,481 |
+| Oh, So This Is How It Works! | 7.00% | ~39,481 |
+| Under Pressure | 6.00% | ~33,841 |
+| On the Trail of the Enemy | 6.00% | ~33,841 |
+| Light in the Darkness | 6.00% | ~33,841 |
+| It Wasn't That Hard, Was It? | 6.00% | ~33,841 |
+| Flag Burning | 6.00% | ~33,841 |
+| Night Hunter | 6.00% | ~33,841 |
+| Get Outta My House! | 5.00% | ~28,201 |
+| Being All Social | 5.00% | ~28,201 |
+| Debris and Ashes | 4.00% | ~22,561 |
+| We Will Be Heard! | 4.00% | ~22,561 |
+| Known Associate | 4.00% | ~22,561 |
+| Brush with Death | 4.00% | ~22,561 |
+| Going Down | 4.00% | ~22,561 |
+| Family First | 4.00% | ~22,561 |
+| Your World, Your Rules | 4.00% | ~22,561 |
+| Tunnel Entrance | 4.00% | ~22,561 |
+| After the Fall | 4.00% | ~22,561 |
+| Can't Touch This! | 4.00% | ~22,561 |
+| Death From Afar | 4.00% | ~22,561 |
+| Terminal Headache | 4.00% | ~22,561 |
+| Slowpoke! | 4.00% | ~22,561 |
+| You're Going Down! | 3.00% | ~16,921 |
 | Tickets, Please! | 2.00% | ~11,280 |
 | Parkour Master | 2.00% | ~11,280 |
 | Combat Master | 2.00% | ~11,280 |
@@ -45,7 +45,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,640 |
 | Modder | 1.00% | ~5,640 |
 | Ironheart | 1.00% | ~5,640 |
-| Nemesis | 1.00% | ~2,094 |
+| Nemesis | 1.00% | ~2,095 |
 | That's Teamwork! | 0.90% | ~5,076 |
 | Fit as a Fiddle | 0.90% | ~5,076 |
 | Enter the Hall | 0.90% | ~1,885 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~209 |
 | Connoisseur | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564,003 (Ranked 22)  
+Progressed: 564,021 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,15 +115,15 @@ Completed: 49 (0.01%) (Ranked 197)
 | 2023-05-30 | 562,168 | 49 |
 | 2023-05-31 | 562,978 | 49 |
 | 2023-06-01 | 563,923 | 49 |
-| 2023-06-02 | 564,003 | 49 |
+| 2023-06-02 | 564,021 | 49 |
 ## Awards
 Max (Character Customization): 7,382  (Ranked 42)  
-Sum: 16,660 (Ranked 59)  
+Sum: 16,673 (Ranked 59)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,382 |
-| This game has Great Boss Battles | 4,308 |
+| This game has Great Boss Battles | 4,321 |
 | This game is Great for Beginners | 670 |
 | This game is Highly Recommended | 639 |
 | This game is Extremely Fun | 630 |
@@ -278,3 +278,4 @@ Diff (max vs sum): -17
 | 2023-05-30 | 4.58 | - | 7,330 | 16,568 |
 | 2023-05-31 | 4.58 | - | 7,354 | 16,612 |
 | 2023-06-01 | 4.58 | - | 7,382 | 16,660 |
+| 2023-06-02 | 4.58 | - | 7,382 | 16,673 |

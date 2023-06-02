@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -186,9 +186,9 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Defeat_5000_Enemies",
@@ -282,9 +282,9 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -299,8 +299,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:22:12.136775+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:09:06.2319549+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:04.368938+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:16:52.6256445+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:22:12.136792+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:03:27.7027213+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:09:06.2319755+00:00"
 }

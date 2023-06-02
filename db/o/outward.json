@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2729,
+  "EOS_Progressed": 2731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1979,6 +1979,11 @@
       "Time": "2023-06-02T02:21:22.9405193+00:00",
       "NumProgressed": 2729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T03:08:29.5530941+00:00",
+      "NumProgressed": 2731,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2014,7 +2019,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "BloodAndJustice_50",
@@ -2030,7 +2035,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "CrowdPleaser",
@@ -2054,7 +2059,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2062,7 +2067,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ForAllAurai_8",
@@ -2094,7 +2099,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "HouseofCards_19",
@@ -2174,7 +2179,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1366
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2182,7 +2187,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1721
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2198,7 +2203,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2206,7 +2211,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Tapped_22",
@@ -2214,7 +2219,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2246,7 +2251,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -2310,7 +2315,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2021
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2325,15 +2330,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2729,
+      "Progressed": 2731,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:21:22.9405188+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:08:29.5530935+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.783672+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:16:12.9008942+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:21:22.9405526+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:02:52.1486532+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:08:29.5531306+00:00"
 }

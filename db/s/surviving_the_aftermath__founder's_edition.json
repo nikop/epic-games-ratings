@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1005,9 +1005,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6013,
+  "EOS_Progressed": 6014,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4480,6 +4480,11 @@
       "Time": "2023-06-02T02:19:41.5111044+00:00",
       "NumProgressed": 6013,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T03:06:02.3329373+00:00",
+      "NumProgressed": 6014,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4491,7 +4496,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3669
     },
     {
       "ID": "10",
@@ -4531,7 +4536,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "15",
@@ -4547,7 +4552,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "17",
@@ -4603,7 +4608,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4209
+      "UsersEstimate": 4210
     },
     {
       "ID": "23",
@@ -4611,7 +4616,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "24",
@@ -4643,7 +4648,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "28",
@@ -4715,7 +4720,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "36",
@@ -4747,7 +4752,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "4",
@@ -4811,7 +4816,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "47",
@@ -4819,7 +4824,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "48",
@@ -4833,9 +4838,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1323
     },
     {
       "ID": "5",
@@ -4962,15 +4967,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6013,
+      "Progressed": 6014,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:19:41.511104+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:06:02.3329367+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:18:43.1424304+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:19:41.5111688+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:05:08.1207604+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:06:02.3330222+00:00"
 }

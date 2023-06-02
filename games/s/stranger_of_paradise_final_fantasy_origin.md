@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,353 |
 | A Tale of Origins and Endings | 2.00% | ~1,568 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,418 (Ranked 63)  
+Progressed: 78,418 (Ranked 64)  
 Completed: 2,132 (2.72%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |

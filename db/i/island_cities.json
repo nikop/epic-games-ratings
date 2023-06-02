@@ -2,7 +2,7 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 24,
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 14.85,
+  "EOS_Completed_Percentage": 14.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1018,6 +1018,11 @@
       "Time": "2023-06-02T02:24:39.4298602+00:00",
       "NumProgressed": 229,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-02T03:11:23.3306242+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -1029,7 +1034,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "LEVEL_002",
@@ -1037,7 +1042,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "LEVEL_003",
@@ -1045,15 +1050,15 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "LEVEL_005",
@@ -1061,7 +1066,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_006",
@@ -1069,7 +1074,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_007",
@@ -1093,7 +1098,7 @@
       "Name": "Who loves trains?",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_010",
@@ -1131,9 +1136,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_015",
@@ -1204,7 +1209,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 34
     }
   ],
@@ -1212,8 +1217,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:24:39.4298598+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:11:23.3306234+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:47.8994408+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:16:32.4885056+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:24:39.4298787+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:03:09.8229128+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:11:23.3306507+00:00"
 }

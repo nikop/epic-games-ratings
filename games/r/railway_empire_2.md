@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 75.00% | ~505 |
+| A new Journey | 74.00% | ~498 |
 | Departure | 73.00% | ~491 |
-| A new Journey | 73.00% | ~491 |
 | From X to Y | 71.00% | ~478 |
 | Way of Iron | 71.00% | ~478 |
 | Mystery Tour | 68.00% | ~458 |
-| Brainstorm | 66.00% | ~444 |
+| Brainstorm | 67.00% | ~451 |
 | We brake for nobody | 66.00% | ~444 |
 | Mind the Gap | 64.00% | ~431 |
 | Travel Company | 64.00% | ~431 |
 | All around the World | 62.00% | ~417 |
-| Right through the middle | 54.00% | ~363 |
-| Poor Devil | 50.00% | ~336 |
+| Right through the middle | 55.00% | ~370 |
+| Poor Devil | 51.00% | ~343 |
 | Facility Manager | 48.00% | ~323 |
 | Producer | 44.00% | ~296 |
 | Apprentice | 43.00% | ~289 |

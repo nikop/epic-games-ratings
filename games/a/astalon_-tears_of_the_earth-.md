@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Horn prize! | 47.00% | ~25 |
 | Beast Quest | 34.00% | ~18 |
+| Monster Hunt | 34.00% | ~18 |
 | Orb Gatherer | 32.00% | ~17 |
-| Monster Hunt | 32.00% | ~17 |
 | Space worm! | 32.00% | ~17 |
 | Beast Hunter | 30.00% | ~16 |
+| Loot, loot! | 30.00% | ~16 |
 | Vanquisher! | 28.00% | ~15 |
 | Orb Collector | 28.00% | ~15 |
 | Snakehead! | 28.00% | ~15 |
 | Unmasked! | 28.00% | ~15 |
 | Fly, you fool! | 28.00% | ~15 |
-| Loot, loot! | 28.00% | ~15 |
 | Beast Knight | 26.00% | ~14 |
 | Twin slayer! | 26.00% | ~14 |
 | Mercenary! | 26.00% | ~14 |

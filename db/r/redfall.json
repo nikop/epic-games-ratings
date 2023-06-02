@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1653,
+  "EOS_Progressed": 1654,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1720,6 +1720,11 @@
       "Time": "2023-06-01T18:02:30.8161143+00:00",
       "NumProgressed": 1653,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T03:08:28.9162161+00:00",
+      "NumProgressed": 1654,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1755,7 +1760,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Achievement_006",
@@ -1777,9 +1782,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 794
     },
     {
       "ID": "Achievement_009",
@@ -1787,7 +1792,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Achievement_010",
@@ -1801,9 +1806,9 @@
       "ID": "Achievement_011",
       "SetID": "6b34g18",
       "Name": "Block Party",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 132
+      "UsersEstimate": 116
     },
     {
       "ID": "Achievement_012",
@@ -1867,7 +1872,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "Achievement_020",
@@ -1945,9 +1950,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 546
     },
     {
       "ID": "Achievement_030",
@@ -1963,7 +1968,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "Achievement_032",
@@ -1979,7 +1984,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Achievement_034",
@@ -2035,7 +2040,7 @@
       "Name": "Heart Attack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Achievement_041",
@@ -2067,7 +2072,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Achievement_046",
@@ -2258,7 +2263,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1653,
+      "Progressed": 1654,
       "Completed": 0
     }
   ],
@@ -2266,8 +2271,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-31T19:57:47.4503842+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:21:22.2735775+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:08:28.9162156+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:37.8719634+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:16:19.0817597+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:21:22.2736363+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:02:57.7281799+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:08:28.916283+00:00"
 }

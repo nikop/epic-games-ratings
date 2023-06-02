@@ -24,9 +24,9 @@ Rating: 4.17 (Ranked 841)
 | Lock and Key | 1.00% | ~632 |
 | Bad Apples in Every Orchard | 1.00% | ~632 |
 | From Inside Gotham's Walls | 1.00% | ~632 |
-| Rock and a Hard Place | 0.90% | ~568 |
-| Cooldown | 0.90% | ~568 |
-| Voiceless | 0.90% | ~568 |
+| Rock and a Hard Place | 0.90% | ~569 |
+| Cooldown | 0.90% | ~569 |
+| Voiceless | 0.90% | ~569 |
 | End of an Era | 0.80% | ~505 |
 | In Your Element | 0.80% | ~505 |
 | Not On My Watch | 0.80% | ~505 |
@@ -42,8 +42,8 @@ Rating: 4.17 (Ranked 841)
 | Expert Crime Fighter | 0.40% | ~253 |
 | Family Meeting | 0.40% | ~253 |
 | A Worthy Successor | 0.40% | ~253 |
-| Dressed to Impress | 0.30% | ~189 |
-| A Momentum Occasion | 0.30% | ~189 |
+| Dressed to Impress | 0.30% | ~190 |
+| A Momentum Occasion | 0.30% | ~190 |
 | Hammer and Icicle | 0.20% | ~67 |
 | Renewable Enemy Source | 0.20% | ~67 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~67 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 841)
 | A Sophisticated Mallet | 0.10% | ~33 |
 | Confronting Your Demon | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,166 (Ranked 71)  
+Progressed: 63,174 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 93 (0.15%) (Ranked 151)
 | 2023-05-30 | 62,912 | 91 |
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
-| 2023-06-02 | 63,166 | 93 |
+| 2023-06-02 | 63,174 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,275  (Ranked 98)  
 Sum: 3,770 (Ranked 138)  

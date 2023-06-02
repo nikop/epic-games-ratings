@@ -18,13 +18,13 @@ Number of Ratings: 37  (23.09.2022)
 | Researcher | 6.00% | ~250 |
 | Tax-man II | 6.00% | ~250 |
 | Time for some trade | 6.00% | ~250 |
+| Not a small trader anymore | 5.00% | ~208 |
 | Bread for the people I | 5.00% | ~208 |
 | I like to build stuff... II | 5.00% | ~208 |
 | Completionist I | 5.00% | ~208 |
 | Full-time job II | 5.00% | ~208 |
 | A time consuming game II | 5.00% | ~208 |
 | Knee deep in snow | 5.00% | ~208 |
-| Not a small trader anymore | 4.00% | ~166 |
 | I like to build stuff... III | 4.00% | ~166 |
 | The King's new clothes I | 4.00% | ~166 |
 | Builder II | 4.00% | ~166 |

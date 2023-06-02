@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4141,
+  "EOS_Progressed": 4142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2755,6 +2755,11 @@
       "Time": "2023-06-02T02:23:05.9206293+00:00",
       "NumProgressed": 4141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T03:09:56.0553857+00:00",
+      "NumProgressed": 4142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2790,7 +2795,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "13",
@@ -2814,7 +2819,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "16",
@@ -2838,7 +2843,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "19",
@@ -2886,7 +2891,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "24",
@@ -2894,7 +2899,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "25",
@@ -2918,7 +2923,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "28",
@@ -2926,7 +2931,7 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "29",
@@ -2934,7 +2939,7 @@
       "Name": "Stronger Together",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "3",
@@ -2958,7 +2963,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "32",
@@ -2966,7 +2971,7 @@
       "Name": "My Final Form",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "33",
@@ -3006,7 +3011,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "38",
@@ -3117,13 +3122,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4141,
-      "Completed": 4141
+      "Progressed": 4142,
+      "Completed": 4142
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4141,
+      "Progressed": 4142,
       "Completed": 0
     }
   ],
@@ -3131,8 +3136,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:23:05.9206289+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:09:56.0553852+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:18:07.9356794+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:23:05.9206696+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:04:36.693623+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:09:56.0554587+00:00"
 }

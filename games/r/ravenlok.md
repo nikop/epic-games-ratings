@@ -15,8 +15,8 @@
 | Tragic Brave | 52.00% | ~479 |
 | Awakened Spirits | 49.00% | ~452 |
 | Little Shop | 48.00% | ~443 |
+| Surprise! | 44.00% | ~406 |
 | An Actor! | 44.00% | ~406 |
-| Surprise! | 43.00% | ~396 |
 | Curtain Call | 42.00% | ~387 |
 | Glimmer of Hope | 40.00% | ~369 |
 | Well Rested | 40.00% | ~369 |

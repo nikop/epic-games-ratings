@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -134,25 +134,25 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "brewery",
       "SetID": "ap7g2g4",
       "Name": "Brewery",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "circus",
@@ -230,33 +230,33 @@
       "ID": "match_6",
       "SetID": "ap7g2g4",
       "Name": "Match 6",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "match_9",
       "SetID": "ap7g2g4",
       "Name": "Match 9",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "mill",
       "SetID": "ap7g2g4",
       "Name": "Mill",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "sawmill",
       "SetID": "ap7g2g4",
       "Name": "Sawmill",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "seaweed_farm",
@@ -316,8 +316,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:21:30.4477104+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:08:36.4489282+00:00",
   "LastUpdate_AppInfo": "2023-06-01T11:57:15.3558567+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:15:24.4616085+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:21:30.4477258+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:02:08.3095464+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:08:36.4489449+00:00"
 }

@@ -28,9 +28,9 @@ Rating: 4.30 (Ranked 759)
 | Ganglord | 13.00% | ~122 |
 | Jarhead | 13.00% | ~122 |
 | There Can Be Only One! | 13.00% | ~122 |
+| Infiltrator | 12.00% | ~113 |
 | Newtonian Knockout | 12.00% | ~113 |
 | Pushing Daisy | 12.00% | ~113 |
-| Infiltrator | 11.00% | ~103 |
 | Experienced | 10.00% | ~94 |
 | Ruthless | 9.00% | ~85 |
 | The Watchers | 8.00% | ~75 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -2356,9 +2356,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1707
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2613,8 +2613,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:24:54.1283414+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:11:37.1072195+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:16:04.1014363+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:24:54.1283869+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:02:44.4912381+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:11:37.1072739+00:00"
 }

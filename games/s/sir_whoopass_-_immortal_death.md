@@ -21,14 +21,14 @@
 | Meat grinder | 61.00% | ~43 |
 | You're not going to blow me up! | 55.00% | ~39 |
 | Butcher | 52.00% | ~37 |
-| Mushroom soup of the day | 49.00% | ~35 |
+| Mushroom soup of the day | 51.00% | ~36 |
+| Honk honk! | 49.00% | ~35 |
 | Spare Ribs | 49.00% | ~35 |
-| Honk honk! | 48.00% | ~34 |
 | My pants squeak when I walk | 48.00% | ~34 |
 | Thats disgusting! | 46.00% | ~33 |
 | Cockadoodledoo! | 45.00% | ~32 |
 | Surprise!! | 44.00% | ~31 |
-| Self assessed tax return | 39.00% | ~28 |
+| Self assessed tax return | 41.00% | ~29 |
 | Make America Grate Again | 38.00% | ~27 |
 | Catch the bus with me! | 37.00% | ~26 |
 | Karaoke king | 37.00% | ~26 |

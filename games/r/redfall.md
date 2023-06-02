@@ -5,21 +5,21 @@ Rating: 3.46 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 76.00% | ~1,256 |
+| I Like My Stakes Rare! | 76.00% | ~1,257 |
 | Home Is Where the Heart Is | 60.00% | ~992 |
-| Ne Plus Ultra | 59.00% | ~975 |
-| Wounded Whispers | 59.00% | ~975 |
-| Blood Will Have Blood | 49.00% | ~810 |
+| Ne Plus Ultra | 59.00% | ~976 |
+| Wounded Whispers | 59.00% | ~976 |
+| Blood Will Have Blood | 48.00% | ~794 |
 | ICU | 45.00% | ~744 |
 | Peek-a-boo | 43.00% | ~711 |
 | Catch and Release | 43.00% | ~711 |
-| Sucks To Be You | 42.00% | ~694 |
+| Sucks To Be You | 42.00% | ~695 |
 | Welcome to the Neighborhood | 37.00% | ~612 |
 | Fly Fisher | 34.00% | ~562 |
-| Throw The First Stone | 34.00% | ~562 |
-| Enter of Your Own Free Will | 31.00% | ~512 |
-| Heart Attack | 31.00% | ~512 |
-| Skin of Their Teeth | 31.00% | ~512 |
+| Throw The First Stone | 33.00% | ~546 |
+| Enter of Your Own Free Will | 31.00% | ~513 |
+| Heart Attack | 31.00% | ~513 |
+| Skin of Their Teeth | 31.00% | ~513 |
 | Grounded | 23.00% | ~380 |
 | Bad Wiring | 20.00% | ~331 |
 | I Spit On Your Grave | 19.00% | ~314 |
@@ -27,8 +27,8 @@ Rating: 3.46 (Ranked 930)
 | Radio Silence | 15.00% | ~248 |
 | Helping Hand | 12.00% | ~198 |
 | You Clean It Up | 11.00% | ~182 |
-| Block Party | 8.00% | ~132 |
 | Starve the Beast | 8.00% | ~132 |
+| Block Party | 7.00% | ~116 |
 | From the Shadows | 5.00% | ~83 |
 | Bell-ringer | 4.00% | ~66 |
 | Right This Way | 4.00% | ~66 |
@@ -72,7 +72,7 @@ Rating: 3.46 (Ranked 930)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,653 (Ranked 155)  
+Progressed: 1,654 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 1,647 | 0 |
 | 2023-05-31 | 1,650 | 0 |
 | 2023-06-01 | 1,653 | 0 |
+| 2023-06-02 | 1,654 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -116,9 +116,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1251,
+  "EOS_Progressed": 1252,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2521,6 +2521,11 @@
       "Time": "2023-06-02T02:25:00.7669298+00:00",
       "NumProgressed": 1251,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T03:11:43.4547413+00:00",
+      "NumProgressed": 1252,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2716,7 +2721,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "fourleafclover",
@@ -2924,7 +2929,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "prestigiousx10",
@@ -3092,7 +3097,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "warmachinesarmy",
@@ -3124,14 +3129,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1251,
+      "Progressed": 1252,
       "Completed": 1
     }
   ],
@@ -3139,8 +3144,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-01T11:58:24.5619645+00:00",
-  "LastChanged_Achievements": "2023-06-02T02:25:00.7669294+00:00",
+  "LastChanged_Achievements": "2023-06-02T03:11:43.454741+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-02T02:16:30.8894994+00:00",
-  "LastUpdate_Achievements": "2023-06-02T02:25:00.7670076+00:00"
+  "LastUpdate_Ratings": "2023-06-02T03:03:08.3700672+00:00",
+  "LastUpdate_Achievements": "2023-06-02T03:11:43.4548229+00:00"
 }
