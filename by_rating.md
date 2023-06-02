@@ -15,7 +15,7 @@
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,190 | 45 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 491 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 491 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 145,152 | 6 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 145,472 | 6 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 410 | 199 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,528 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 132 | 296 |
@@ -91,10 +91,10 @@
 | 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,447 | 116 |
 | 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 360 | 210 |
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 491 |
-| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 589 | 169 |
+| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 592 | 169 |
 | 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 724 | 154 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,869 | 55 |
-| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 368 | 208 |
+| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 369 | 207 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 117 | 309 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 491 |
 | 89 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 491 |
@@ -258,7 +258,7 @@
 | 238 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 86 | 344 |
 | 238 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 491 |
 | 258 | [Aimlabs](games/a/aimlabs.md) | 4.67 | 0 | 491 |
-| 258 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 647 | 162 |
+| 258 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 648 | 162 |
 | 258 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 491 |
 | 258 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 360 |
 | 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 491 |
@@ -423,7 +423,7 @@
 | 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 491 |
 | 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 155 | 284 |
 | 420 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 491 |
-| 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,382 | 42 |
+| 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,382 | 43 |
 | 420 | [Everything](games/e/everything.md) | 4.58 | 0 | 491 |
 | 420 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 246 | 241 |
 | 420 | [IXION](games/i/ixion.md) | 4.58 | 0 | 491 |
@@ -464,12 +464,12 @@
 | 451 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 491 |
 | 451 | [Minit](games/m/minit.md) | 4.56 | 0 | 491 |
 | 451 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,740 | 65 |
-| 451 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,379 | 43 |
+| 451 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,383 | 42 |
 | 451 | [Observation](games/o/observation.md) | 4.56 | 0 | 491 |
 | 451 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,777 | 108 |
 | 451 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 353 |
 | 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 50 | 388 |
-| 451 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,964 | 76 |
+| 451 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,970 | 76 |
 | 471 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 491 |
 | 471 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,211 | 124 |
 | 471 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.55 | 34 | 430 |
@@ -691,7 +691,7 @@
 | 687 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 491 |
 | 687 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 491 |
 | 687 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 0 | 491 |
-| 687 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,676 | 30 |
+| 687 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,678 | 30 |
 | 687 | [Othercide](games/o/othercide.md) | 4.39 | 0 | 491 |
 | 687 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 360 |
 | 687 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 491 |
@@ -805,11 +805,11 @@
 | 794 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 22 | 473 |
 | 804 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 491 |
 | 804 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,008 | 137 |
+| 804 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 491 |
 | 804 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 491 |
-| 807 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 175 | 273 |
-| 807 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 0 | 491 |
-| 807 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 258 |
-| 807 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 491 |
+| 808 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 175 | 273 |
+| 808 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 258 |
+| 808 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 491 |
 | 811 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 30 | 447 |
 | 811 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 491 |
 | 811 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,623 | 24 |
