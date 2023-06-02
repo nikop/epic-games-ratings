@@ -4,7 +4,7 @@
   "ProductSlug": "jetboard-joust",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-08-20T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:30.3675461+00:00",
   "LastChanged": "2023-03-31T05:57:30.3675462+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:53.6688181+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:57:46.91173+00:00",
-  "LastUpdate_Achievements": "2023-06-02T07:02:23.9915901+00:00"
+  "LastUpdate_Ratings": "2023-06-02T07:58:15.3549066+00:00",
+  "LastUpdate_Achievements": "2023-06-02T08:02:43.1882438+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 526,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 158,
@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541,
+  "EOS_Progressed": 1542,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -1011,6 +1011,11 @@
       "Time": "2023-06-02T06:59:59.2286157+00:00",
       "NumProgressed": 1541,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-02T08:01:19.221494+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1046,7 +1051,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "CollectAllStatues",
@@ -1054,7 +1059,7 @@
       "Name": "Return the Statues",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -1086,7 +1091,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "CompleteElderFaction",
@@ -1142,7 +1147,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1150,7 +1155,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -1158,7 +1163,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "GetRangedWeapon",
@@ -1166,7 +1171,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "GetTHWeapon",
@@ -1174,7 +1179,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "Kill25Bugs",
@@ -1198,7 +1203,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "MeetTheMoles",
@@ -1214,7 +1219,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "RepairChef",
@@ -1222,7 +1227,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "RepairSmith",
@@ -1246,7 +1251,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1261,22 +1266,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1541,
+      "Progressed": 1542,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 182,
-      "Completed": 182
+      "Progressed": 183,
+      "Completed": 183
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-02T06:59:59.2286147+00:00",
+  "LastChanged_Achievements": "2023-06-02T08:01:19.2214931+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:57:59.3664155+00:00",
-  "LastUpdate_Achievements": "2023-06-02T06:59:59.228655+00:00"
+  "LastUpdate_Ratings": "2023-06-02T07:58:32.395209+00:00",
+  "LastUpdate_Achievements": "2023-06-02T08:01:19.2215311+00:00"
 }

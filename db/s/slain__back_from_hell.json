@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 23583,
+  "EOS_Progressed": 23587,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4556,6 +4556,11 @@
       "Time": "2023-06-02T07:05:21.0330841+00:00",
       "NumProgressed": 23583,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-02T08:06:30.6708405+00:00",
+      "NumProgressed": 23587,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -4567,7 +4572,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -4583,7 +4588,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -4743,7 +4748,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -4751,7 +4756,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -4798,7 +4803,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 23583,
+      "Progressed": 23587,
       "Completed": 18
     }
   ],
@@ -4806,8 +4811,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-02T07:05:21.0330833+00:00",
+  "LastChanged_Achievements": "2023-06-02T08:06:30.6708392+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.1629977+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:59:22.5914415+00:00",
-  "LastUpdate_Achievements": "2023-06-02T07:05:21.0331246+00:00"
+  "LastUpdate_Ratings": "2023-06-02T08:00:25.1812024+00:00",
+  "LastUpdate_Achievements": "2023-06-02T08:06:30.670895+00:00"
 }

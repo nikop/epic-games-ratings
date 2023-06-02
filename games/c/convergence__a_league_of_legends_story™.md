@@ -27,7 +27,7 @@
 | Family Memories | 30.00% | ~171 |
 | Check Your Pulse | 30.00% | ~171 |
 | Good Neighbor | 30.00% | ~171 |
-| Street Style | 28.00% | ~159 |
+| Street Style | 29.00% | ~165 |
 | The Loose Cannon | 28.00% | ~159 |
 | The Man Who Shattered Time | 24.00% | ~137 |
 | The Family Fortune | 24.00% | ~137 |
@@ -51,7 +51,7 @@
 | Wunderkind | 4.00% | ~23 |
 | Fitting In | 4.00% | ~23 |
 | No Time to Waste | 1.00% | ~6 |
-| A Lesson in Precision | 0.70% | ~4 |
+| A Lesson in Precision | 0.90% | ~5 |
 | Wildlife Protection | 0.40% | ~2 |
 | Going to Live Forever | 0.40% | ~2 |
 | Raw Talent | 0.40% | ~2 |

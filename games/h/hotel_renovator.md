@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.52 (Ranked 510)  
+Rating: 4.52 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.52 (Ranked 510)
 | I think you dropped this | 54.00% | ~424 |
 | Soulmate? | 52.00% | ~409 |
 | Excellent service | 48.00% | ~377 |
-| Roll with it | 45.00% | ~354 |
+| Roll with it | 46.00% | ~362 |
 | Love is in the air | 44.00% | ~346 |
 | Humble beginnings | 43.00% | ~338 |
 | Moving up | 41.00% | ~322 |
@@ -34,7 +34,7 @@ Rating: 4.52 (Ranked 510)
 | Top spot in town | 3.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 786 (Ranked 182)  
-Completed: 12 (1.53%) (Ranked 73)  
+Completed: 13 (1.65%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 12 (1.53%) (Ranked 73)
 | 2023-05-30 | 781 | 11 |
 | 2023-05-31 | 783 | 11 |
 | 2023-06-01 | 785 | 11 |
-| 2023-06-02 | 786 | 12 |
+| 2023-06-02 | 786 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

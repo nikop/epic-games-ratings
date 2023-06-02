@@ -1,23 +1,23 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 525)  
+Rating: 4.51 (Ranked 526)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~549,355 |
-| Error: Stack Overflow | 66.00% | ~389,865 |
-| We need more gold | 60.00% | ~354,422 |
-| The dawn of civilization | 53.00% | ~313,073 |
-| More FPS for the FPS god! | 49.00% | ~289,445 |
-| Beauty and harmony | 48.00% | ~283,538 |
-| One more! | 44.00% | ~259,910 |
-| Overmind | 24.00% | ~141,769 |
+| First.. Bit? | 93.00% | ~549,358 |
+| Error: Stack Overflow | 66.00% | ~389,867 |
+| We need more gold | 60.00% | ~354,424 |
+| The dawn of civilization | 53.00% | ~313,075 |
+| More FPS for the FPS god! | 49.00% | ~289,446 |
+| Beauty and harmony | 48.00% | ~283,539 |
+| One more! | 44.00% | ~259,911 |
+| Overmind | 24.00% | ~141,770 |
 | RNG is my best friend now | 18.00% | ~106,327 |
 | Cosplay | 13.00% | ~76,792 |
 | Evolution in progress... | 13.00% | ~76,792 |
-| Step by step | 8.00% | ~47,256 |
+| Step by step | 8.00% | ~47,257 |
 | README reader | 3.00% | ~17,721 |
 | Data scientist | 3.00% | ~17,721 |
 | One small step for a man... | 3.00% | ~17,721 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,772 |
 | The Scrooge | 0.10% | ~591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 590,704 (Ranked 21)  
+Progressed: 590,707 (Ranked 21)  
 Completed: 487 (0.08%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 487 (0.08%) (Ranked 169)
 | 2023-05-30 | 590,418 | 487 |
 | 2023-05-31 | 590,546 | 487 |
 | 2023-06-01 | 590,673 | 487 |
-| 2023-06-02 | 590,704 | 487 |
+| 2023-06-02 | 590,707 | 487 |
 ## Awards
 Max (Challenging Puzzles): 132  (Ranked 296)  
 Sum: 132 (Ranked 385)  

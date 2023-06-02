@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2036,
+  "EOS_Progressed": 2039,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2218,6 +2218,11 @@
       "Time": "2023-06-02T07:05:19.203642+00:00",
       "NumProgressed": 2036,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T08:06:28.4649248+00:00",
+      "NumProgressed": 2039,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2229,7 +2234,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2277,7 +2282,7 @@
       "Name": "Fields of Glory",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2309,7 +2314,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2397,7 +2402,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2477,7 +2482,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2541,7 +2546,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2597,7 +2602,7 @@
       "Name": "Taking it back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2605,7 +2610,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2796,13 +2801,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1987,
+      "Progressed": 1990,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2036,
+      "Progressed": 2039,
       "Completed": 2
     }
   ],
@@ -2810,8 +2815,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-02T07:05:19.2036415+00:00",
+  "LastChanged_Achievements": "2023-06-02T08:06:28.4649238+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:59:49.3434349+00:00",
-  "LastUpdate_Achievements": "2023-06-02T07:05:19.2037196+00:00"
+  "LastUpdate_Ratings": "2023-06-02T08:01:02.7037104+00:00",
+  "LastUpdate_Achievements": "2023-06-02T08:06:28.4650057+00:00"
 }

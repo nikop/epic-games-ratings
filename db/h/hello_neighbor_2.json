@@ -324,9 +324,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2405,
+  "EOS_Progressed": 2406,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.95,
   "EosHistory": [
@@ -1059,6 +1059,11 @@
       "Time": "2023-06-01T17:05:31.9713194+00:00",
       "NumProgressed": 2405,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-02T08:06:37.1921661+00:00",
+      "NumProgressed": 2406,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 14,
@@ -1070,7 +1075,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1086,7 +1091,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1181,7 +1186,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2405,
+      "Progressed": 2406,
       "Completed": 95
     }
   ],
@@ -1189,8 +1194,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-06-02T07:05:26.2860821+00:00",
+  "LastChanged_Achievements": "2023-06-02T08:06:37.1921647+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:40.3998585+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:59:39.4764839+00:00",
-  "LastUpdate_Achievements": "2023-06-02T07:05:26.2860955+00:00"
+  "LastUpdate_Ratings": "2023-06-02T08:00:49.0553725+00:00",
+  "LastUpdate_Achievements": "2023-06-02T08:06:37.1921823+00:00"
 }

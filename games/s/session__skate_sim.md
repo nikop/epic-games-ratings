@@ -30,6 +30,7 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 5.00% | ~110 |
 | Sup widdit big dog! | 5.00% | ~110 |
 | Commence the Hijinx! | 4.00% | ~88 |
+| Cops called! | 4.00% | ~88 |
 | DIY Boss | 4.00% | ~88 |
 | Globetrotter | 4.00% | ~88 |
 | Laid back | 4.00% | ~88 |
@@ -39,7 +40,6 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~88 |
 | Tank commander | 4.00% | ~88 |
 | Trick shot marksman | 4.00% | ~88 |
-| Cops called! | 3.00% | ~66 |
 | G.O.A.T. status | 3.00% | ~66 |
 | Hoarder | 3.00% | ~66 |
 | We get it, you're good | 3.00% | ~66 |

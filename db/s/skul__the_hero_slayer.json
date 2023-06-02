@@ -812,9 +812,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7549,
+  "EOS_Progressed": 7550,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1992,6 +1992,11 @@
       "Time": "2023-06-02T07:05:08.8343417+00:00",
       "NumProgressed": 7549,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-02T08:06:15.7865745+00:00",
+      "NumProgressed": 7550,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2027,7 +2032,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4680
+      "UsersEstimate": 4681
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2067,7 +2072,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2091,7 +2096,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "LeoniasFall",
@@ -2099,7 +2104,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "LeoniasFall_2",
@@ -2131,7 +2136,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4680
+      "UsersEstimate": 4681
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2139,7 +2144,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "SkeletonKing",
@@ -2147,7 +2152,7 @@
       "Name": "The Skeleton King",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "StockManagement",
@@ -2155,7 +2160,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "TheLegendBegins",
@@ -2163,7 +2168,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7021
+      "UsersEstimate": 7022
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2179,7 +2184,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "WhattoBuy",
@@ -2194,15 +2199,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7549,
+      "Progressed": 7550,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-01T08:58:45.1886525+00:00",
-  "LastChanged_Achievements": "2023-06-02T07:05:08.8343413+00:00",
+  "LastChanged_Achievements": "2023-06-02T08:06:15.7865736+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.1782048+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:58:27.3846057+00:00",
-  "LastUpdate_Achievements": "2023-06-02T07:05:08.8343626+00:00"
+  "LastUpdate_Ratings": "2023-06-02T07:59:11.6737358+00:00",
+  "LastUpdate_Achievements": "2023-06-02T08:06:15.7866029+00:00"
 }

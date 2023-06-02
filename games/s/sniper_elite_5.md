@@ -5,14 +5,14 @@ Rating: 4.45 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~509 |
-| Confirming Suspicions | 20.00% | ~407 |
-| The Kraken Wakes | 15.00% | ~305 |
-| It's Starting to Crack | 12.00% | ~244 |
+| Meeting Resistance | 25.00% | ~510 |
+| Confirming Suspicions | 20.00% | ~408 |
+| The Kraken Wakes | 15.00% | ~306 |
+| It's Starting to Crack | 12.00% | ~245 |
 | Lord of War | 11.00% | ~224 |
 | Resourceful | 10.00% | ~204 |
 | Change the Channel | 10.00% | ~204 |
-| Taking it back | 9.00% | ~183 |
+| Taking it back | 9.00% | ~184 |
 | Organ Grinder | 8.00% | ~163 |
 | As Quiet as a Mouse | 8.00% | ~163 |
 | Enemy at the Gates | 7.00% | ~143 |
@@ -28,9 +28,9 @@ Rating: 4.45 (Ranked 611)
 | Der Geist | 5.00% | ~102 |
 | Close Quarters | 5.00% | ~102 |
 | Snake in the Grass | 5.00% | ~102 |
-| Climbing the Ladder | 4.00% | ~81 |
-| Fields of Glory | 4.00% | ~81 |
-| Brains of the Operation | 4.00% | ~81 |
+| Climbing the Ladder | 4.00% | ~82 |
+| Fields of Glory | 4.00% | ~82 |
+| Brains of the Operation | 4.00% | ~82 |
 | No Stone Unturned | 3.00% | ~61 |
 | Skirmisher | 3.00% | ~61 |
 | Set Europe Ablaze | 3.00% | ~61 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 611)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,036 (Ranked 151)  
+Progressed: 2,039 (Ranked 151)  
 Completed: 2 (0.10%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 2 (0.10%) (Ranked 160)
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
-| 2023-06-02 | 2,036 | 2 |
+| 2023-06-02 | 2,039 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

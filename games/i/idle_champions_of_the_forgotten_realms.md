@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 880)  
+Rating: 4.06 (Ranked 881)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,9 +13,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.70% | ~626 |
 | Beware the Jabberwock | 0.70% | ~390 |
 | The Ring of Regeneration | 0.60% | ~537 |
+| Were-verpowered | 0.50% | ~447 |
 | Are Ya Chicken? | 0.50% | ~447 |
 | Coasting to the Finish | 0.50% | ~279 |
-| Were-verpowered | 0.40% | ~358 |
 | Checkmate | 0.40% | ~223 |
 | A Persistent Buzzing | 0.40% | ~358 |
 | Seeking Allies | 0.40% | ~358 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,478 (Ranked 62)  
+Progressed: 89,482 (Ranked 62)  
 Completed: 1,907 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 62)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,478 | 1,907 |
+| 2023-06-02 | 89,482 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,015 (Ranked 37)  

@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
@@ -4066,7 +4066,7 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89478,
+  "EOS_Progressed": 89482,
   "EOS_Completed": 1907,
   "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 28,
@@ -8336,6 +8336,11 @@
       "Time": "2023-06-02T07:05:40.9171051+00:00",
       "NumProgressed": 89478,
       "NumCompleted": 1907
+    },
+    {
+      "Time": "2023-06-02T08:06:54.9565212+00:00",
+      "NumProgressed": 89482,
+      "NumCompleted": 1907
     }
   ],
   "TotalAchievements": 493,
@@ -9209,9 +9214,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_1203",
@@ -12290,21 +12295,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55752,
+      "Progressed": 55756,
       "Completed": 2757
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89478,
+      "Progressed": 89482,
       "Completed": 1907
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-02T02:16:33.3593808+00:00",
-  "LastChanged_Achievements": "2023-06-02T07:05:40.9171044+00:00",
+  "LastChanged_Achievements": "2023-06-02T08:06:54.9565205+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-02T06:57:43.4176437+00:00",
-  "LastUpdate_Achievements": "2023-06-02T07:05:40.9194731+00:00"
+  "LastUpdate_Ratings": "2023-06-02T07:58:09.7115427+00:00",
+  "LastUpdate_Achievements": "2023-06-02T08:06:54.9588967+00:00"
 }

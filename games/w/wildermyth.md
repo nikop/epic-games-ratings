@@ -20,8 +20,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 11.00% | ~136 |
 | Core Failure | 11.00% | ~136 |
 | Pyrrhic Victory | 9.00% | ~111 |
+| Thematic Divergence | 8.00% | ~99 |
 | Echoes Die | 8.00% | ~99 |
-| Thematic Divergence | 7.00% | ~86 |
 | Chain Reaction | 7.00% | ~86 |
 | Plague Doctor | 6.00% | ~74 |
 | Everfading | 6.00% | ~74 |

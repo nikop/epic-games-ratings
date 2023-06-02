@@ -1,25 +1,25 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.86 (Ranked 912)  
+Rating: 3.86 (Ranked 913)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~438 |
+| I don't feel so good | 41.00% | ~439 |
 | Electrician | 33.00% | ~353 |
-| Fear my botany powers, Mars | 31.00% | ~331 |
-| Zero Waste | 28.00% | ~299 |
-| Bob The Builder | 28.00% | ~299 |
+| Fear my botany powers, Mars | 31.00% | ~332 |
+| Zero Waste | 28.00% | ~300 |
+| Bob The Builder | 28.00% | ~300 |
 | I am the greatest botanist on this planet. | 27.00% | ~289 |
 | Miner | 23.00% | ~246 |
-| Gardener | 22.00% | ~235 |
+| Gardener | 22.00% | ~236 |
 | Houston we have a problem | 19.00% | ~203 |
-| Occupy Mars! | 18.00% | ~192 |
+| Occupy Mars! | 18.00% | ~193 |
 | Detective | 16.00% | ~171 |
-| The Collector | 12.00% | ~128 |
+| The Collector | 12.00% | ~129 |
 | Get your hands dirty | 9.00% | ~96 |
 | All Wheel Trouble | 6.00% | ~64 |
-| Space Forest | 5.00% | ~53 |
+| Space Forest | 5.00% | ~54 |
 | ITS crash site | 4.00% | ~43 |
 | DeDust | 3.00% | ~32 |
 | “Aliens” | 2.00% | ~21 |
@@ -54,7 +54,7 @@ Rating: 3.86 (Ranked 912)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 169)  
+Progressed: 1,071 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 1,038 | 0 |
 | 2023-05-31 | 1,049 | 0 |
 | 2023-06-01 | 1,064 | 0 |
-| 2023-06-02 | 1,069 | 0 |
+| 2023-06-02 | 1,071 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

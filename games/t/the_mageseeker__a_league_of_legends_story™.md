@@ -5,22 +5,22 @@ Rating: 4.78 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,134 |
-| No more cages! | 92.00% | ~2,066 |
-| Everfrost | 77.00% | ~1,729 |
-| Pentakill | 76.00% | ~1,707 |
-| Dark Forest | 76.00% | ~1,707 |
-| The use of petricite | 72.00% | ~1,617 |
+| For Demacia | 95.00% | ~2,135 |
+| No more cages! | 92.00% | ~2,067 |
+| Everfrost | 77.00% | ~1,730 |
+| Pentakill | 76.00% | ~1,708 |
+| Dark Forest | 76.00% | ~1,708 |
+| The use of petricite | 72.00% | ~1,618 |
 | You can pet the dog | 60.00% | ~1,348 |
 | Big Helmet Bro | 35.00% | ~786 |
 | Clarion Cove | 35.00% | ~786 |
-| Past trauma | 33.00% | ~741 |
-| Thornbarrow | 33.00% | ~741 |
-| Ternmoat Headquarters | 33.00% | ~741 |
-| Elemental master | 31.00% | ~696 |
-| Cypress Glen Headquarters | 31.00% | ~696 |
-| Old friend | 27.00% | ~606 |
-| Petricite Burst | 27.00% | ~606 |
+| Past trauma | 33.00% | ~742 |
+| Thornbarrow | 33.00% | ~742 |
+| Ternmoat Headquarters | 33.00% | ~742 |
+| Elemental master | 31.00% | ~697 |
+| Cypress Glen Headquarters | 31.00% | ~697 |
+| Old friend | 27.00% | ~607 |
+| Petricite Burst | 27.00% | ~607 |
 | Devineur | 26.00% | ~584 |
 | Whispers in the Woods I | 25.00% | ~562 |
 | Hijack | 25.00% | ~562 |
@@ -32,11 +32,11 @@ Rating: 4.78 (Ranked 99)
 | Glyndemere | 19.00% | ~427 |
 | Iffighain Headquarters | 19.00% | ~427 |
 | Full equipped | 18.00% | ~404 |
-| Whispers in the Woods II | 16.00% | ~359 |
+| Whispers in the Woods II | 16.00% | ~360 |
 | Quickmoore Headquarters | 15.00% | ~337 |
-| Whispers in the Woods III | 14.00% | ~314 |
-| No more holding back | 14.00% | ~314 |
-| Terbisia | 14.00% | ~314 |
+| Whispers in the Woods III | 14.00% | ~315 |
+| No more holding back | 14.00% | ~315 |
+| Terbisia | 14.00% | ~315 |
 | My heart and sword always for Demacia | 13.00% | ~292 |
 | Friendly fire | 13.00% | ~292 |
 | True power | 13.00% | ~292 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 99)
 | Silverwing nest | 2.00% | ~45 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,246 (Ranked 147)  
+Progressed: 2,247 (Ranked 147)  
 Completed: 1 (0.04%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 1 (0.04%) (Ranked 181)
 | 2023-05-30 | 2,226 | 1 |
 | 2023-05-31 | 2,234 | 1 |
 | 2023-06-01 | 2,246 | 1 |
+| 2023-06-02 | 2,247 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
