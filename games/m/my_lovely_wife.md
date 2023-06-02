@@ -13,7 +13,7 @@ Number of Ratings: 25  (23.09.2022)
 | Devout | 89.00% | ~506 |
 | The Love Martyr | 87.00% | ~494 |
 | Frugal | 85.00% | ~483 |
-| Dilligent | 82.00% | ~466 |
+| Dilligent | 83.00% | ~471 |
 | I... I did it? | 80.00% | ~454 |
 | Adored | 76.00% | ~432 |
 | The Hobbyist | 65.00% | ~369 |
@@ -21,7 +21,7 @@ Number of Ratings: 25  (23.09.2022)
 | Between Two Fires | 51.00% | ~290 |
 | The Admirer | 51.00% | ~290 |
 | Precious | 44.00% | ~250 |
-| Devoted | 40.00% | ~227 |
+| Devoted | 41.00% | ~233 |
 | The Farmer | 39.00% | ~222 |
 | Ever After | 35.00% | ~199 |
 | Mandatory Sacrifice | 29.00% | ~165 |

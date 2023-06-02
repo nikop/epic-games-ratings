@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -792,9 +792,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5846,
+  "EOS_Progressed": 5847,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2797,6 +2797,11 @@
       "Time": "2023-06-01T22:04:20.527446+00:00",
       "NumProgressed": 5846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T00:03:35.3880202+00:00",
+      "NumProgressed": 5847,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2840,7 +2845,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2848,7 +2853,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "Control_All_Relics",
@@ -2872,7 +2877,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2912,7 +2917,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "First_Race_Met",
@@ -2928,7 +2933,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "First_Stream_Travel",
@@ -2944,7 +2949,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3360,7 +3365,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "Win_Quickly",
@@ -3383,15 +3388,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5846,
+      "Progressed": 5847,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-01T19:57:20.1435877+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:03:56.3662013+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:03:35.3880197+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.5418964+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:57:21.6694891+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:03:56.3662843+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:57:10.4497039+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:03:35.3881012+00:00"
 }

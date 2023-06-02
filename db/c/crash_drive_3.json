@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "BALL_HEAVY_HIT",
       "SetID": "20koof9",
       "Name": "Fore!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "CATAPULT_THROW",
@@ -609,8 +609,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:03:46.7530994+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:03:27.2049189+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:24.3349929+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:58:40.1128736+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:03:46.7531481+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:58:17.2021182+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:03:27.204968+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,009 |
-| First Class Student | 7.00% | ~19,258 |
-| Troll with the Punches | 7.00% | ~19,258 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,010 |
+| First Class Student | 7.00% | ~19,259 |
+| Troll with the Punches | 7.00% | ~19,259 |
 | Grappling with a Graphorn | 6.00% | ~16,507 |
 | The One Who Mastered Memories | 6.00% | ~16,507 |
 | The Hallowed Hero | 6.00% | ~16,507 |
@@ -20,19 +20,19 @@ Rating: 4.77 (Ranked 105)
 | Coasting Along | 6.00% | ~16,507 |
 | That's a Keeper | 6.00% | ~16,507 |
 | Rising From the Ashes | 6.00% | ~16,507 |
-| The Avenging Gazelle | 5.00% | ~13,755 |
-| Beast Friends | 5.00% | ~13,755 |
-| A Sallow Grave | 5.00% | ~13,755 |
-| Flight the Good Flight | 5.00% | ~13,755 |
-| Followed the Butterflies | 5.00% | ~13,755 |
-| The Spell Master | 5.00% | ~13,755 |
-| The Seeker of Knowledge | 4.00% | ~11,004 |
-| The Root of the Problem | 3.00% | ~8,253 |
-| Third Time's a Charm | 3.00% | ~8,253 |
-| Room with a View | 3.00% | ~8,253 |
-| The Intrepid Explorer | 3.00% | ~8,253 |
-| The Ends Petrify the Means | 3.00% | ~8,253 |
-| Raising Expectations | 3.00% | ~8,253 |
+| The Avenging Gazelle | 5.00% | ~13,756 |
+| Beast Friends | 5.00% | ~13,756 |
+| A Sallow Grave | 5.00% | ~13,756 |
+| Flight the Good Flight | 5.00% | ~13,756 |
+| Followed the Butterflies | 5.00% | ~13,756 |
+| The Spell Master | 5.00% | ~13,756 |
+| The Seeker of Knowledge | 4.00% | ~11,005 |
+| The Root of the Problem | 3.00% | ~8,254 |
+| Third Time's a Charm | 3.00% | ~8,254 |
+| Room with a View | 3.00% | ~8,254 |
+| The Intrepid Explorer | 3.00% | ~8,254 |
+| The Ends Petrify the Means | 3.00% | ~8,254 |
+| Raising Expectations | 3.00% | ~8,254 |
 | The Toast of the Town | 2.00% | ~5,502 |
 | Going Through the Potions | 2.00% | ~5,502 |
 | Put Down Roots | 2.00% | ~5,502 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,100 |
 | Collector's Edition | 0.20% | ~550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275,109 (Ranked 39)  
+Progressed: 275,122 (Ranked 39)  
 Completed: 383 (0.14%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 383 (0.14%) (Ranked 153)
 | 2023-05-30 | 274,486 | 382 |
 | 2023-05-31 | 274,775 | 383 |
 | 2023-06-01 | 275,109 | 384 |
+| 2023-06-02 | 275,122 | 383 |
 ## Awards
 Max (Character Customization): 19,395  (Ranked 18)  
 Sum: 35,832 (Ranked 33)  

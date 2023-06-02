@@ -1,7 +1,7 @@
 # Thimbleweed Park
 [Store](https://store.epicgames.com/en-US/p/thimbleweed-park)  
 [View Rawdata](../../db/t/thimbleweed_park.json)  
-Rating: 4.59 (Ranked 403)  
+Rating: 4.57 (Ranked 438)  
 Number of Ratings: 115  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 30  (Ranked 447)  
@@ -74,3 +74,4 @@ Diff (max vs sum): -15
 | 2023-02-23 | 4.59 | - | - | - |
 | 2023-03-16 | 4.60 | - | - | - |
 | 2023-04-02 | 4.59 | - | 30 | 30 |
+| 2023-06-01 | 4.57 | - | 30 | 30 |

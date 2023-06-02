@@ -4350,9 +4350,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706734,
+  "EOS_Progressed": 706737,
   "EOS_Completed": 12750,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1496,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8130,6 +8130,11 @@
       "Time": "2023-06-01T23:06:10.3079914+00:00",
       "NumProgressed": 706734,
       "NumCompleted": 12750
+    },
+    {
+      "Time": "2023-06-02T00:05:31.0468798+00:00",
+      "NumProgressed": 706737,
+      "NumCompleted": 12750
     }
   ],
   "TotalAchievements": 50,
@@ -8171,9 +8176,9 @@
       "ID": "05_Vengeance_H4",
       "SetID": "adcm20g",
       "Name": "Lady Wing Chun",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7067
+      "UsersEstimate": 6361
     },
     {
       "ID": "06_Vengeance_H5",
@@ -8485,7 +8490,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8540,21 +8545,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16035,
+      "Progressed": 16038,
       "Completed": 10210
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706734,
+      "Progressed": 706737,
       "Completed": 12750
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-01T22:58:56.8634292+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:06:10.307991+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:05:31.0468793+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:58:56.8634298+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:06:10.3080526+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:58:31.0157116+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:05:31.0469427+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2023-05-31T13:13:28.0279285+00:00",
       "NumProgressed": 416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T00:05:28.4822689+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -236,15 +241,15 @@
       "Name": "Lion Tamer",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_04",
       "SetID": "631ndc2",
       "Name": "One More Thing...",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -298,9 +303,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "631ndc2",
       "Name": "Lucky Day",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -356,7 +361,7 @@
       "Name": "Accomplished Veteran",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -388,7 +393,7 @@
       "Name": "Hundred Percent Third",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -396,7 +401,7 @@
       "Name": "Hundred Percent Fourth",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -428,7 +433,7 @@
       "Name": "City Savior",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -538,9 +543,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -619,7 +624,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 1
     }
   ],
@@ -627,8 +632,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:06:07.2685441+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:05:28.4822685+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:33.3035888+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:58:51.1791183+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:06:07.2685874+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:58:26.5089366+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:05:28.4823138+00:00"
 }

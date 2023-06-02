@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 420)  
+Rating: 4.58 (Ranked 419)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,9 +10,9 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 30.00% | ~848 |
 | Watch Where You Step... | 30.00% | ~848 |
 | Not So Fast... | 29.00% | ~820 |
-| An Ill Omen | 28.00% | ~791 |
+| An Ill Omen | 28.00% | ~792 |
 | Purging Spree | 22.00% | ~622 |
-| Blood for the Blood God! | 17.00% | ~480 |
+| Blood for the Blood God! | 17.00% | ~481 |
 | Friendly Fire | 15.00% | ~424 |
 | Bloodless | 15.00% | ~424 |
 | Surgical Excision | 14.00% | ~396 |
@@ -22,8 +22,8 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 10.00% | ~283 |
 | A Foul Creche | 10.00% | ~283 |
 | Efficient Killer | 8.00% | ~226 |
-| Just a Scratch | 8.00% | ~226 |
 | Opportunist | 7.00% | ~198 |
+| Just a Scratch | 7.00% | ~198 |
 | Hold Your Ground | 6.00% | ~170 |
 | A Gift Spurned | 4.00% | ~113 |
 | Long Distance Call | 4.00% | ~113 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,826 (Ranked 139)  
+Progressed: 2,827 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 0 (0.00%) (Ranked 208)
 | 2023-05-30 | 2,793 | 0 |
 | 2023-05-31 | 2,805 | 0 |
 | 2023-06-01 | 2,826 | 0 |
+| 2023-06-02 | 2,827 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 420 (Ranked 300)  

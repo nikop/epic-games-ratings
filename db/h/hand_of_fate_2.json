@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,7 +850,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657178,
+  "EOS_Progressed": 657179,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -4670,6 +4670,11 @@
       "Time": "2023-06-01T23:05:53.7990812+00:00",
       "NumProgressed": 657178,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-02T00:05:16.3075886+00:00",
+      "NumProgressed": 657179,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4681,7 +4686,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473168
+      "UsersEstimate": 473169
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4689,7 +4694,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381163
+      "UsersEstimate": 381164
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4753,7 +4758,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46002
+      "UsersEstimate": 46003
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -4913,7 +4918,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46002
+      "UsersEstimate": 46003
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -4945,7 +4950,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164294
+      "UsersEstimate": 164295
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -5064,15 +5069,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657178,
+      "Progressed": 657179,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:05:53.7990809+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:05:16.3075882+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:27.8583755+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:57:33.4056822+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:05:53.7991447+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:57:19.9153407+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:05:16.3076469+00:00"
 }

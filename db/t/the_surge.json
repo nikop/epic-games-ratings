@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -1012,9 +1012,9 @@
       "ID": "ID_ACHIEV_19",
       "SetID": "98bke8c",
       "Name": "Melting Down",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 388
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -1412,8 +1412,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:01:04.4719708+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:00:17.6249768+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:44.8329823+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:57:54.7723945+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:01:04.4720467+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:57:38.3552867+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:00:17.6250604+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 40.00% | ~166 |
+| Self Defense | 41.00% | ~171 |
 | Grand Opening | 36.00% | ~150 |
 | Circus Electrique Proudly Presents... | 36.00% | ~150 |
 | Path of Learning | 36.00% | ~150 |
@@ -16,13 +16,13 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent First | 20.00% | ~83 |
 | Dirty Dozen | 17.00% | ~71 |
 | Fan Service | 16.00% | ~67 |
-| Lion Tamer | 15.00% | ~62 |
+| Lion Tamer | 15.00% | ~63 |
 | King of District 1 | 14.00% | ~58 |
 | Amazing! | 14.00% | ~58 |
-| One More Thing... | 13.00% | ~54 |
-| Lucky Day | 13.00% | ~54 |
 | Bar Brawler | 13.00% | ~54 |
 | Flawless Presentation | 13.00% | ~54 |
+| One More Thing... | 12.00% | ~50 |
+| Lucky Day | 12.00% | ~50 |
 | King of District 2 | 12.00% | ~50 |
 | Time Travel! | 10.00% | ~42 |
 | Marketing Manager | 10.00% | ~42 |
@@ -37,10 +37,10 @@ Number of Ratings: 22  (23.09.2022)
 | Club Champion | 5.00% | ~21 |
 | Circus Maximus | 4.00% | ~17 |
 | King of District 5 | 4.00% | ~17 |
-| Accomplished Veteran | 3.00% | ~12 |
-| Hundred Percent Third | 3.00% | ~12 |
-| Hundred Percent Fourth | 3.00% | ~12 |
-| City Savior | 3.00% | ~12 |
+| Accomplished Veteran | 3.00% | ~13 |
+| Hundred Percent Third | 3.00% | ~13 |
+| Hundred Percent Fourth | 3.00% | ~13 |
+| City Savior | 3.00% | ~13 |
 | Unmatched Skills | 2.00% | ~8 |
 | Hundred Percent Fifth | 2.00% | ~8 |
 | Victorian Victor | 2.00% | ~8 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416 (Ranked 204)  
+Progressed: 417 (Ranked 204)  
 Completed: 1 (0.24%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 1 (0.24%) (Ranked 135)
 | 2023-05-28 | 413 | 1 |
 | 2023-05-30 | 415 | 1 |
 | 2023-05-31 | 416 | 1 |
+| 2023-06-02 | 417 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

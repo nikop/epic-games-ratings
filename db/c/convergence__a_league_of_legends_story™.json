@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-06-01T20:04:45.7940857+00:00",
       "NumProgressed": 565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T00:04:35.6441924+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -847,7 +852,7 @@
       "Name": "Right On Time",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ClockworkCompletion1",
@@ -871,7 +876,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CosmeticCompletion1",
@@ -927,7 +932,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -935,7 +940,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -943,7 +948,7 @@
       "Name": "The Betrayer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -967,7 +972,7 @@
       "Name": "Whiz Kid",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "GrindingTime1",
@@ -1063,7 +1068,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ParryRepeated1",
@@ -1071,15 +1076,15 @@
       "Name": "No, Thanks!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 243
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1095,7 +1100,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "RewindDamage1",
@@ -1103,7 +1108,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "RewindParry",
@@ -1135,7 +1140,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "SkillProgress1",
@@ -1143,7 +1148,7 @@
       "Name": "Fast Learner",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "SpeedRun",
@@ -1191,7 +1196,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WarwickDefeated",
@@ -1199,7 +1204,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "WatcherFought",
@@ -1223,7 +1228,7 @@
       "Name": "The Brass Boss",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1238,14 +1243,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:05:06.4350511+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:04:35.6441919+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:59:22.3701684+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:05:06.4350998+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:58:52.4586241+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:04:35.6442436+00:00"
 }

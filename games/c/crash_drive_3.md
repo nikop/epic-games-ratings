@@ -11,9 +11,9 @@
 | A Forest Walk | 32.00% | ~101 |
 | C-C-C-Combo! | 30.00% | ~95 |
 | Multiply that! | 30.00% | ~95 |
+| Fore! | 27.00% | ~86 |
 | Insurance fraud | 27.00% | ~86 |
 | Snow Fun! | 27.00% | ~86 |
-| Fore! | 26.00% | ~82 |
 | The Collector | 26.00% | ~82 |
 | The Wild West | 26.00% | ~82 |
 | Bag of Tricks | 26.00% | ~82 |

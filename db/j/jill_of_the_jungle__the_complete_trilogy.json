@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 947,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.94,
+  "EOS_Completed_Percentage": 7.92,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -2499,6 +2499,11 @@
       "Time": "2023-06-01T22:06:24.7047676+00:00",
       "NumProgressed": 945,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-06-02T00:05:02.6387761+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 5,
@@ -2510,7 +2515,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 945
+      "UsersEstimate": 947
     },
     {
       "ID": "2",
@@ -2518,7 +2523,7 @@
       "Name": "Jill the Bold",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "3",
@@ -2526,7 +2531,7 @@
       "Name": "Jill the Brave",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "4",
@@ -2549,7 +2554,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 947,
       "Completed": 75
     }
   ],
@@ -2557,8 +2562,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:05:38.2195063+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:05:02.6387757+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:07.3724069+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:57:08.2437764+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:05:38.2195269+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:56:59.6477913+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:05:02.6387973+00:00"
 }

@@ -15,11 +15,11 @@
 | Blurry depth perception | 79.00% | ~55 |
 | Up and down | 76.00% | ~53 |
 | Rolling, Rolling, Rolling | 73.00% | ~51 |
-| Fire-fighter! | 64.00% | ~45 |
-| Oh, you're up to no gouda! | 61.00% | ~43 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~43 |
-| Meat grinder | 59.00% | ~41 |
-| You're not going to blow me up! | 53.00% | ~37 |
+| Fire-fighter! | 66.00% | ~46 |
+| Oh, you're up to no gouda! | 63.00% | ~44 |
+| Make Love not War-Craft a Mistlefoe | 63.00% | ~44 |
+| Meat grinder | 60.00% | ~42 |
+| You're not going to blow me up! | 54.00% | ~38 |
 | Butcher | 51.00% | ~36 |
 | Mushroom soup of the day | 50.00% | ~35 |
 | Honk honk! | 49.00% | ~34 |
@@ -36,7 +36,7 @@
 | You are no match for me, Billy! | 34.00% | ~24 |
 | You can't stop me, bro! | 34.00% | ~24 |
 | Haemochromatosis | 34.00% | ~24 |
-| I'm going to get a concussion | 31.00% | ~22 |
+| I'm going to get a concussion | 33.00% | ~23 |
 | Meatballs, coming up! | 30.00% | ~21 |
 | A Megapint...? | 27.00% | ~19 |
 | Another one bites the iron | 27.00% | ~19 |

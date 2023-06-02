@@ -17,10 +17,10 @@
 | Cornivore | 19.00% | ~14 |
 | Triple Kill | 18.00% | ~13 |
 | Quick-Draw Pod | 18.00% | ~4 |
+| 15K | 14.00% | ~10 |
+| 10K | 14.00% | ~10 |
 | Professional Survivor | 14.00% | ~3 |
 | Grave Digger | 14.00% | ~3 |
-| 15K | 12.00% | ~9 |
-| 10K | 12.00% | ~9 |
 | Drinking Problem | 11.00% | ~8 |
 | Perfect | 9.00% | ~2 |
 | Expert Survivor | 9.00% | ~2 |

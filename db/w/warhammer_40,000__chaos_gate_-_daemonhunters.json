@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 420,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -528,7 +528,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2826,
+  "EOS_Progressed": 2827,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
@@ -1498,6 +1498,11 @@
       "Time": "2023-06-01T19:05:57.9945939+00:00",
       "NumProgressed": 2826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T00:05:32.6622128+00:00",
+      "NumProgressed": 2827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1685,7 +1690,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1757,7 +1762,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1867,9 +1872,9 @@
       "ID": "MissionVictory_WoundedKnights",
       "SetID": "3jha1np",
       "Name": "Just a Scratch",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 198
     },
     {
       "ID": "NexusCompleted",
@@ -1980,21 +1985,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2826,
+      "Progressed": 2827,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2826,
+      "Progressed": 2827,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:06:12.0322277+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:05:32.6622123+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-01T22:58:34.8250451+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:06:12.0322843+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:58:12.7556714+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:05:32.6622703+00:00"
 }

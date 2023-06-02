@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2025,
+  "EOS_Progressed": 2026,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2188,6 +2188,11 @@
       "Time": "2023-06-01T22:06:45.6516422+00:00",
       "NumProgressed": 2025,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T00:05:18.0870786+00:00",
+      "NumProgressed": 2026,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2383,7 +2388,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -2391,7 +2396,7 @@
       "Name": "My Little Friend",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -2423,7 +2428,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2535,7 +2540,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2766,13 +2771,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1976,
+      "Progressed": 1977,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2025,
+      "Progressed": 2026,
       "Completed": 2
     }
   ],
@@ -2780,8 +2785,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-01T13:08:43.5347788+00:00",
-  "LastChanged_Achievements": "2023-06-01T23:05:55.7482291+00:00",
+  "LastChanged_Achievements": "2023-06-02T00:05:18.0870782+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-01T23:00:29.6059775+00:00",
-  "LastUpdate_Achievements": "2023-06-01T23:05:55.7483042+00:00"
+  "LastUpdate_Ratings": "2023-06-01T23:59:47.3415624+00:00",
+  "LastUpdate_Achievements": "2023-06-02T00:05:18.0871545+00:00"
 }
