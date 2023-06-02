@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 918,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.93,
+  "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -851,6 +851,11 @@
       "Time": "2023-06-02T15:05:47.5257272+00:00",
       "NumProgressed": 917,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-02T17:05:17.6423448+00:00",
+      "NumProgressed": 918,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -862,7 +867,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -918,7 +923,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -926,7 +931,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -948,9 +953,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 596
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -966,7 +971,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_THEEND",
@@ -989,7 +994,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 918,
       "Completed": 36
     }
   ],
@@ -997,8 +1002,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:06:42.9910066+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:05:17.6423443+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:58:58.9194475+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:06:42.9910282+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:58:16.3753306+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:05:17.6423622+00:00"
 }

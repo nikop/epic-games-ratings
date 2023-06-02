@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~520 |
-| Departure | 73.00% | ~513 |
-| A new Journey | 73.00% | ~513 |
-| From X to Y | 71.00% | ~499 |
-| Way of Iron | 71.00% | ~499 |
-| Mystery Tour | 68.00% | ~478 |
-| Brainstorm | 66.00% | ~464 |
-| We brake for nobody | 66.00% | ~464 |
-| Travel Company | 64.00% | ~450 |
-| Mind the Gap | 63.00% | ~443 |
+| Country Bumpkin | 75.00% | ~528 |
+| Departure | 73.00% | ~514 |
+| A new Journey | 73.00% | ~514 |
+| From X to Y | 71.00% | ~500 |
+| Way of Iron | 71.00% | ~500 |
+| Mystery Tour | 68.00% | ~479 |
+| Brainstorm | 66.00% | ~465 |
+| We brake for nobody | 66.00% | ~465 |
+| Travel Company | 64.00% | ~451 |
+| Mind the Gap | 63.00% | ~444 |
 | All around the World | 62.00% | ~436 |
 | Right through the middle | 55.00% | ~387 |
 | Poor Devil | 50.00% | ~352 |
-| Facility Manager | 47.00% | ~330 |
-| Producer | 44.00% | ~309 |
-| Apprentice | 42.00% | ~295 |
+| Facility Manager | 47.00% | ~331 |
+| Producer | 44.00% | ~310 |
+| Apprentice | 42.00% | ~296 |
 | Bridge Builder | 37.00% | ~260 |
 | Stoker | 35.00% | ~246 |
 | Access granted | 35.00% | ~246 |
@@ -34,13 +34,13 @@
 | Trailblazer | 17.00% | ~120 |
 | Country Life | 17.00% | ~120 |
 | Socializer | 17.00% | ~120 |
-| General Manager | 15.00% | ~105 |
+| General Manager | 15.00% | ~106 |
 | Traffic Junction | 12.00% | ~84 |
 | Assimilated | 11.00% | ~77 |
+| Locusts | 11.00% | ~77 |
+| Breaking Ground | 11.00% | ~77 |
 | Resistance is futile | 10.00% | ~70 |
 | Traffic Jam | 10.00% | ~70 |
-| Locusts | 10.00% | ~70 |
-| Breaking Ground | 10.00% | ~70 |
 | Networker | 9.00% | ~63 |
 | Max Power | 6.00% | ~42 |
 | Go West | 5.00% | ~35 |
@@ -48,8 +48,8 @@
 | Settler | 5.00% | ~35 |
 | Tycoon | 3.00% | ~21 |
 | A new Hope | 2.00% | ~14 |
+| Conductor | 1.00% | ~7 |
 | Accurate | 1.00% | ~7 |
-| Conductor | 0.90% | ~6 |
 | Unstoppable | 0.60% | ~4 |
 | Track to the Future | 0.60% | ~4 |
 | Let off some steam | 0.60% | ~4 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703 (Ranked 186)  
+Progressed: 704 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 501 | 0 |
 | 2023-05-31 | 588 | 0 |
 | 2023-06-01 | 668 | 0 |
-| 2023-06-02 | 703 | 0 |
+| 2023-06-02 | 704 | 0 |

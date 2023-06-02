@@ -2,12 +2,12 @@
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
   "ProductSlug": "shoulders-of-giants-61381f",
-  "Ranking_Rating": 721,
+  "Ranking_Rating": 722,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -1085,9 +1085,9 @@
       "ID": "piercing_beam",
       "SetID": "236b9eg",
       "Name": "Say \u0022Cheese!\u0022",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 189
     },
     {
       "ID": "reach_heat",
@@ -1166,8 +1166,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:07:04.4000542+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:05:33.6308672+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:38.8014549+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:01:02.5280547+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:07:04.4000783+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:59:38.8342663+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:05:33.6308866+00:00"
 }

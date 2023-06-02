@@ -2,7 +2,7 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 526,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 158,
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1546,
+  "EOS_Progressed": 1548,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-06-02T16:02:12.3874845+00:00",
       "NumProgressed": 1546,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-02T17:00:11.8517904+00:00",
+      "NumProgressed": 1548,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1047,7 +1052,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1084
     },
     {
       "ID": "Collect20Gold",
@@ -1055,7 +1060,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "Collect20Iron",
@@ -1063,7 +1068,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1071,7 +1076,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "CollectAllStatues",
@@ -1079,7 +1084,7 @@
       "Name": "Return the Statues",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -1119,7 +1124,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1127,7 +1132,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1192
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1135,7 +1140,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "CompleteStoryDM",
@@ -1173,9 +1178,9 @@
       "ID": "DefeatRattusAugustus",
       "SetID": "9lj35g4",
       "Name": "Defeat Rattus Augustail",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 372
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -1183,15 +1188,15 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 913
     },
     {
       "ID": "GetTHWeapon",
@@ -1199,7 +1204,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "Kill25Bugs",
@@ -1207,7 +1212,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "Kill25Frogs",
@@ -1215,7 +1220,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Kill25Mozi",
@@ -1223,7 +1228,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "MeetTheMoles",
@@ -1239,7 +1244,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "RepairChef",
@@ -1247,7 +1252,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "RepairSmith",
@@ -1255,7 +1260,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "RepairThroneRoom",
@@ -1271,7 +1276,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1286,22 +1291,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1546,
+      "Progressed": 1548,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 187,
-      "Completed": 187
+      "Progressed": 189,
+      "Completed": 189
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:02:12.3874837+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:00:11.85179+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:58:39.8774934+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:02:12.387518+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:58:04.6970455+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:00:11.8518182+00:00"
 }

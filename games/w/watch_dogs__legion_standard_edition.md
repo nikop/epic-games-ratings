@@ -1,11 +1,11 @@
 # Watch Dogs: Legion Standard Edition
 [Store](https://store.epicgames.com/en-US/p/watch-dogs-legion)  
 [View Rawdata](../../db/w/watch_dogs__legion_standard_edition.json)  
-Rating: 4.37 (Ranked 705)  
+Rating: 4.37 (Ranked 706)  
 Number of Ratings: 1,361  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 92  (Ranked 337)  
-Sum: 676 (Ranked 265)  
+Sum: 677 (Ranked 265)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 72
 | This game has Amazing Storytelling | 73 |
 | This game has Quickly Understood Controls | 72 |
 | This game is Relaxing | 70 |
-| This game has a Creative Community | 42 |
+| This game has a Creative Community | 43 |
 | This game has Obsessive Gameplay | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -151,4 +151,4 @@ Diff (max vs sum): 72
 | 2023-05-30 | 4.37 | - | 91 | 670 |
 | 2023-05-31 | 4.37 | - | 92 | 671 |
 | 2023-06-01 | 4.37 | - | 92 | 673 |
-| 2023-06-02 | 4.37 | - | 92 | 676 |
+| 2023-06-02 | 4.37 | - | 92 | 677 |

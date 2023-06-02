@@ -1,27 +1,27 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 588)  
+Rating: 4.47 (Ranked 589)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,283 |
-| Leader | 61.00% | ~3,680 |
-| Explorer | 53.00% | ~3,197 |
-| Healer | 53.00% | ~3,197 |
+| First Step | 71.00% | ~4,284 |
+| Leader | 61.00% | ~3,681 |
+| Explorer | 53.00% | ~3,198 |
+| Healer | 53.00% | ~3,198 |
 | Aspiring Inventor | 45.00% | ~2,715 |
 | Adventurer | 41.00% | ~2,474 |
 | Famous Healer | 38.00% | ~2,293 |
 | Local Leader | 35.00% | ~2,112 |
-| New Opportunities | 34.00% | ~2,051 |
+| New Opportunities | 34.00% | ~2,052 |
 | Famous Explorer | 33.00% | ~1,991 |
 | Energized | 33.00% | ~1,991 |
 | The Long Haul | 33.00% | ~1,991 |
-| Survivor | 31.00% | ~1,870 |
+| Survivor | 31.00% | ~1,871 |
 | The Great Healer | 30.00% | ~1,810 |
-| Cleaner | 28.00% | ~1,689 |
-| Catastrofan | 28.00% | ~1,689 |
+| Cleaner | 28.00% | ~1,690 |
+| Catastrofan | 28.00% | ~1,690 |
 | Legendary Explorer | 27.00% | ~1,629 |
 | Finders, Keepers | 26.00% | ~1,569 |
 | Top Notch | 24.00% | ~1,448 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,033 (Ranked 121)  
+Progressed: 6,034 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 5,952 | 0 |
 | 2023-05-31 | 5,979 | 0 |
 | 2023-06-01 | 6,007 | 0 |
-| 2023-06-02 | 6,033 | 0 |
+| 2023-06-02 | 6,034 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 326)  
 Sum: 656 (Ranked 273)  

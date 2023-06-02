@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 132,
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3999,
+  "EOS_Progressed": 4001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2428,6 +2428,11 @@
       "Time": "2023-06-02T16:01:35.7155247+00:00",
       "NumProgressed": 3999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T17:00:00.8908478+00:00",
+      "NumProgressed": 4001,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2439,7 +2444,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2959
+      "UsersEstimate": 2961
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2455,7 +2460,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2521
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2479,7 +2484,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2581,9 +2586,9 @@
       "ID": "ACHIEVEMENT_019",
       "SetID": "1a05lfd",
       "Name": "Lake Me up Before You Go Go",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -2718,13 +2723,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3999,
+      "Progressed": 4001,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3371,
+      "Progressed": 3373,
       "Completed": 112
     }
   ],
@@ -2732,8 +2737,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:01:35.7155239+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:00:00.8908471+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:00:29.3051569+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:01:35.7155736+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:59:16.9296977+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:00:00.8908958+00:00"
 }

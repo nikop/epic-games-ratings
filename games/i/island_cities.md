@@ -8,9 +8,9 @@
 | A tiny town | 86.00% | ~203 |
 | Buildings, roads, cars, ...and people | 68.00% | ~160 |
 | Great view from the beach and from the hill | 57.00% | ~135 |
-| Bridges to come and go | 50.00% | ~118 |
+| Bridges to come and go | 51.00% | ~120 |
 | Found an oasis | 43.00% | ~101 |
-| Burger or pizza? | 37.00% | ~87 |
+| Burger or pizza? | 38.00% | ~90 |
 | Passion for sports | 33.00% | ~78 |
 | Who loves trains? | 29.00% | ~68 |
 | Easy and steady climb | 29.00% | ~68 |
@@ -21,7 +21,7 @@
 | Monumental tribute | 19.00% | ~45 |
 | The beach is right there | 19.00% | ~45 |
 | Commuting | 19.00% | ~45 |
-| Le jardin magnifique | 17.00% | ~40 |
+| Le jardin magnifique | 18.00% | ~42 |
 | Aiming for a living and human city | 15.00% | ~35 |
 | City of dreams | 15.00% | ~35 |
 | Happy Christmas night! | 15.00% | ~35 |

@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 588,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 121,
@@ -1005,9 +1005,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6033,
+  "EOS_Progressed": 6034,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4535,6 +4535,11 @@
       "Time": "2023-06-02T16:02:27.6377952+00:00",
       "NumProgressed": 6033,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T17:00:22.2890056+00:00",
+      "NumProgressed": 6034,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4546,7 +4551,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "10",
@@ -4578,7 +4583,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "14",
@@ -4626,7 +4631,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "2",
@@ -4658,7 +4663,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4283
+      "UsersEstimate": 4284
     },
     {
       "ID": "23",
@@ -4666,7 +4671,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "24",
@@ -4682,7 +4687,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "26",
@@ -4810,7 +4815,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "40",
@@ -4994,7 +4999,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "8",
@@ -5017,15 +5022,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6033,
+      "Progressed": 6034,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:02:27.6377945+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:00:22.289005+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:00:40.2424712+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:02:27.6378743+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:59:24.3683714+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:00:22.289077+00:00"
 }

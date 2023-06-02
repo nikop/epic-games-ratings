@@ -2,7 +2,7 @@
   "ID": "f401d7e187e349138380d22e991b29ca",
   "Name": "The Vanishing of Ethan Carter",
   "ProductSlug": "the-vanishing-of-ethan-carter",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 432,
@@ -444,6 +444,6 @@
   "FirstSeen": "2022-07-22T20:30:30.7974201+00:00",
   "LastChanged": "2023-04-30T21:00:10.1295659+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:34.5648631+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:00:56.7774965+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:03:51.7009939+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:59:35.139035+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:03:20.1188497+00:00"
 }

@@ -1,32 +1,32 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.15 (Ranked 852)  
+Rating: 4.15 (Ranked 853)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,856 |
-| Disposing of the Evidence | 36.00% | ~2,106 |
-| Without a Scratch | 32.00% | ~1,872 |
+| First Day on the Job | 83.00% | ~4,858 |
+| Disposing of the Evidence | 36.00% | ~2,107 |
+| Without a Scratch | 32.00% | ~1,873 |
 | Wreckless Driving | 27.00% | ~1,580 |
-| A Marked Man | 24.00% | ~1,404 |
+| A Marked Man | 24.00% | ~1,405 |
 | Street Sweeper | 17.00% | ~995 |
 | Liberty City Minute | 16.00% | ~936 |
 | Offshore Delivery | 12.00% | ~702 |
 | Dirty Money | 11.00% | ~644 |
-| By a Mile | 9.00% | ~526 |
-| Right-hand Man | 9.00% | ~526 |
+| By a Mile | 9.00% | ~527 |
+| Right-hand Man | 9.00% | ~527 |
 | Not So Fast | 8.00% | ~468 |
 | A Gift from the King | 6.00% | ~351 |
 | Full Artillery | 4.00% | ~234 |
 | Mob Boss | 2.00% | ~117 |
 | Splish Splash | 2.00% | ~117 |
 | Liberty City Secrets | 2.00% | ~117 |
-| Escape Artist | 1.00% | ~58 |
-| Got This Figured Out | 1.00% | ~58 |
-| Come Out to Play-y-y-y | 1.00% | ~58 |
-| Where To? | 1.00% | ~58 |
-| Playing Doctor | 1.00% | ~58 |
+| Escape Artist | 1.00% | ~59 |
+| Got This Figured Out | 1.00% | ~59 |
+| Come Out to Play-y-y-y | 1.00% | ~59 |
+| Where To? | 1.00% | ~59 |
+| Playing Doctor | 1.00% | ~59 |
 | Planned Ahead | 0.90% | ~53 |
 | Man Toyz | 0.90% | ~53 |
 | Going Rogue | 0.90% | ~53 |
@@ -35,7 +35,7 @@ Rating: 4.15 (Ranked 852)
 | Is That All You've Got? | 0.70% | ~41 |
 | King of Liberty City | 0.50% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,850 (Ranked 124)  
+Progressed: 5,853 (Ranked 124)  
 Completed: 30 (0.51%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 30 (0.51%) (Ranked 109)
 | 2023-05-30 | 5,695 | 27 |
 | 2023-05-31 | 5,743 | 27 |
 | 2023-06-01 | 5,801 | 28 |
-| 2023-06-02 | 5,850 | 30 |
+| 2023-06-02 | 5,853 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

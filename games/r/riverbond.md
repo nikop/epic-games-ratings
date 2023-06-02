@@ -1,47 +1,47 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 588)  
+Rating: 4.47 (Ranked 589)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,718 |
-| Now You're Talking | 62.00% | ~321,264 |
-| Steel Yourself | 62.00% | ~321,264 |
-| Window Dressing | 50.00% | ~259,084 |
-| Trigger Happy | 46.00% | ~238,357 |
-| Riverborn | 45.00% | ~233,176 |
-| Starry Eyed | 34.00% | ~176,177 |
-| Poking Around | 34.00% | ~176,177 |
-| Talk of the Town | 24.00% | ~124,360 |
-| AAARR! | 23.00% | ~119,179 |
-| Hello Darkness | 23.00% | ~119,179 |
-| Wind At Our Backs | 22.00% | ~113,997 |
-| To the Beat | 20.00% | ~103,634 |
-| Sunny Shores | 17.00% | ~88,089 |
-| To Victory! | 15.00% | ~77,725 |
-| Sunday Best | 15.00% | ~77,725 |
-| Two of a Kind | 14.00% | ~72,544 |
-| Keep On Trucking | 13.00% | ~67,362 |
-| Going on an Adventure | 11.00% | ~56,998 |
-| Make Peace, Not War | 11.00% | ~56,998 |
-| Walking The Line | 10.00% | ~51,817 |
-| Not So Cute Anymore | 10.00% | ~51,817 |
-| Road Less Travelled | 9.00% | ~46,635 |
-| Lost and Found | 9.00% | ~46,635 |
+| First Step | 70.00% | ~362,724 |
+| Now You're Talking | 62.00% | ~321,270 |
+| Steel Yourself | 62.00% | ~321,270 |
+| Window Dressing | 50.00% | ~259,088 |
+| Trigger Happy | 46.00% | ~238,361 |
+| Riverborn | 45.00% | ~233,180 |
+| Starry Eyed | 34.00% | ~176,180 |
+| Poking Around | 34.00% | ~176,180 |
+| Talk of the Town | 24.00% | ~124,362 |
+| AAARR! | 23.00% | ~119,181 |
+| Hello Darkness | 23.00% | ~119,181 |
+| Wind At Our Backs | 22.00% | ~113,999 |
+| To the Beat | 20.00% | ~103,635 |
+| Sunny Shores | 17.00% | ~88,090 |
+| To Victory! | 15.00% | ~77,727 |
+| Sunday Best | 15.00% | ~77,727 |
+| Two of a Kind | 14.00% | ~72,545 |
+| Keep On Trucking | 13.00% | ~67,363 |
+| Going on an Adventure | 11.00% | ~56,999 |
+| Make Peace, Not War | 11.00% | ~56,999 |
+| Walking The Line | 10.00% | ~51,818 |
+| Not So Cute Anymore | 10.00% | ~51,818 |
+| Road Less Travelled | 9.00% | ~46,636 |
+| Lost and Found | 9.00% | ~46,636 |
 | Partner in Crime | 7.00% | ~36,272 |
 | Hard to Hear | 7.00% | ~36,272 |
 | Under the Radar | 7.00% | ~36,272 |
-| Moving On Up | 6.00% | ~31,090 |
-| Owl Knows Best | 6.00% | ~31,090 |
-| Mind the Moose | 6.00% | ~31,090 |
-| Dressed to Kill | 6.00% | ~31,090 |
-| Beast Mode | 6.00% | ~31,090 |
-| Oh, Romeo! | 5.00% | ~25,908 |
-| Noble Intentions | 5.00% | ~25,908 |
-| Rising Star | 5.00% | ~25,908 |
-| Slime Slayer | 5.00% | ~25,908 |
+| Moving On Up | 6.00% | ~31,091 |
+| Owl Knows Best | 6.00% | ~31,091 |
+| Mind the Moose | 6.00% | ~31,091 |
+| Dressed to Kill | 6.00% | ~31,091 |
+| Beast Mode | 6.00% | ~31,091 |
+| Oh, Romeo! | 5.00% | ~25,909 |
+| Noble Intentions | 5.00% | ~25,909 |
+| Rising Star | 5.00% | ~25,909 |
+| Slime Slayer | 5.00% | ~25,909 |
 | Privacy, Please! | 4.00% | ~20,727 |
 | Silky Smooth | 4.00% | ~20,727 |
 | Hash It Over | 4.00% | ~20,727 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,545 |
 | Spinal Adjustment | 3.00% | ~15,545 |
 | The Knowledge | 3.00% | ~15,545 |
-| Seek the Rainbow | 2.00% | ~10,363 |
-| Words of Truth | 2.00% | ~10,363 |
-| Star Power | 2.00% | ~10,363 |
-| Justice Served | 2.00% | ~10,363 |
+| Seek the Rainbow | 2.00% | ~10,364 |
+| Words of Truth | 2.00% | ~10,364 |
+| Star Power | 2.00% | ~10,364 |
+| Justice Served | 2.00% | ~10,364 |
 | Don't Care | 1.00% | ~5,182 |
 | Don’t Get Crabby | 1.00% | ~5,182 |
 | Written in the Stars | 0.90% | ~4,664 |
 | Boss of All Bosses | 0.30% | ~1,555 |
 | Point Taken | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,168 (Ranked 26)  
+Progressed: 518,177 (Ranked 26)  
 Completed: 418 (0.08%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 418 (0.08%) (Ranked 170)
 | 2023-05-30 | 517,931 | 416 |
 | 2023-05-31 | 518,028 | 417 |
 | 2023-06-01 | 518,108 | 418 |
-| 2023-06-02 | 518,168 | 418 |
+| 2023-06-02 | 518,177 | 418 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

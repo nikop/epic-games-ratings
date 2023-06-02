@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.86 (Ranked 913)  
+Rating: 3.86 (Ranked 914)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 3.86 (Ranked 913)
 | Miner | 23.00% | ~248 |
 | Gardener | 22.00% | ~237 |
 | Houston we have a problem | 19.00% | ~205 |
-| Occupy Mars! | 18.00% | ~194 |
+| Occupy Mars! | 19.00% | ~205 |
 | Detective | 16.00% | ~172 |
 | The Collector | 12.00% | ~129 |
 | Get your hands dirty | 9.00% | ~97 |
@@ -31,7 +31,7 @@ Rating: 3.86 (Ranked 913)
 | Caveman | 0.50% | ~5 |
 | Rocket Jump | 0.50% | ~5 |
 | Thunderstruck | 0.50% | ~5 |
-| 5G Network | 0.30% | ~3 |
+| 5G Network | 0.40% | ~4 |
 | Bull’s eye | 0.30% | ~3 |
 | Korolev crater | 0.30% | ~3 |
 | Hot Repairs | 0.20% | ~2 |

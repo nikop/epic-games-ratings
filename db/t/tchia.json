@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6249,
+  "EOS_Progressed": 6251,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2798,6 +2798,11 @@
       "Time": "2023-06-02T16:06:37.9351841+00:00",
       "NumProgressed": 6249,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-02T17:05:13.8595118+00:00",
+      "NumProgressed": 6251,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2809,7 +2814,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ARRR",
@@ -2825,7 +2830,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -2841,7 +2846,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CLAY_PIGEON",
@@ -2865,7 +2870,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "FASHION_VICTIM",
@@ -2881,7 +2886,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -2905,7 +2910,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "IN_A_PINCH",
@@ -2937,7 +2942,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "SNIP_SNIP",
@@ -2961,7 +2966,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "THING",
@@ -2969,14 +2974,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6249,
+      "Progressed": 6251,
       "Completed": 23
     }
   ],
@@ -2984,8 +2989,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:06:37.9351833+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:05:13.8595113+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:58:08.6586795+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:06:37.935227+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:57:44.0419492+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:05:13.8595381+00:00"
 }

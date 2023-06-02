@@ -1,7 +1,7 @@
 # UNO Standard Edition
 [Store](https://store.epicgames.com/en-US/p/uno)  
 [View Rawdata](../../db/u/uno_standard_edition.json)  
-Rating: 4.48 (Ranked 575)  
+Rating: 4.48 (Ranked 576)  
 Number of Ratings: 58  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 653,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 150,
@@ -254,7 +254,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2063,
+  "EOS_Progressed": 2066,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
@@ -2264,6 +2264,11 @@
       "Time": "2023-06-02T16:06:54.8054891+00:00",
       "NumProgressed": 2063,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T17:05:26.4420649+00:00",
+      "NumProgressed": 2066,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2315,7 +2320,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2393,9 +2398,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 124
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2499,7 +2504,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2523,7 +2528,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2611,7 +2616,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2667,7 +2672,7 @@
       "Name": "Target America",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2842,13 +2847,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2014,
+      "Progressed": 2017,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2063,
+      "Progressed": 2066,
       "Completed": 2
     }
   ],
@@ -2856,8 +2861,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:06:54.8054884+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:05:26.4420644+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:01:22.189753+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:06:54.8055874+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:59:51.5831849+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:05:26.4421315+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 102,
@@ -512,9 +512,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14295,
+  "EOS_Progressed": 14301,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2492,6 +2492,11 @@
       "Time": "2023-06-02T16:04:37.725899+00:00",
       "NumProgressed": 14295,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-02T17:03:50.8182588+00:00",
+      "NumProgressed": 14301,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2543,7 +2548,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -2815,20 +2820,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14295,
+      "Progressed": 14301,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2221,
+      "Progressed": 2227,
       "Completed": 29
     }
   ],
@@ -2836,8 +2841,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-02T10:58:19.5947584+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:04:37.7258983+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:03:50.8182581+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:58:01.6662737+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:04:37.7259441+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:57:39.3118407+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:03:50.8183028+00:00"
 }

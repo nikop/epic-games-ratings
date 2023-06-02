@@ -563,9 +563,9 @@
       "ID": "Challenge 06",
       "SetID": "5n829i",
       "Name": "Challenge 06",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 07",
@@ -603,9 +603,9 @@
       "ID": "Challenge 11",
       "SetID": "5n829i",
       "Name": "Challenge 11",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Challenge 12",
@@ -689,8 +689,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:04:02.6827017+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:03:27.4379532+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.7217223+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:57:40.6095268+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:04:02.6827199+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:57:25.4680135+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:03:27.4379692+00:00"
 }

@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 836)  
+Rating: 4.18 (Ranked 837)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,14 +30,14 @@ Rating: 4.18 (Ranked 836)
 | Mugshot | 2.00% | ~286 |
 | What Lies Beneath | 2.00% | ~286 |
 | Full Circle | 2.00% | ~286 |
-| Big Spender | 2.00% | ~44 |
+| Big Spender | 2.00% | ~45 |
 | I Do Belong Here | 1.00% | ~143 |
 | Parole Denied | 1.00% | ~22 |
 | In Striking Distance | 1.00% | ~143 |
 | Hoard Mode | 1.00% | ~22 |
 | Recidivist | 0.70% | ~16 |
 | Lifer | 0.70% | ~16 |
-| Grim Reaper | 0.50% | ~71 |
+| Grim Reaper | 0.50% | ~72 |
 | The Protocol is About Life | 0.20% | ~29 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 836)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,295 (Ranked 102)  
+Progressed: 14,301 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,295 | 53 |
+| 2023-06-02 | 14,301 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
 Sum: 283 (Ranked 329)  

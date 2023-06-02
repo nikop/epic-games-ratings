@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 853,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 84,
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38378,
+  "EOS_Progressed": 38379,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
@@ -3037,6 +3037,11 @@
       "Time": "2023-06-02T15:06:08.7671452+00:00",
       "NumProgressed": 38378,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T17:05:35.2467334+00:00",
+      "NumProgressed": 38379,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3200,7 +3205,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "CUFF_ATTACK",
@@ -3471,22 +3476,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38378,
+      "Progressed": 38379,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3215,
-      "Completed": 3215
+      "Progressed": 3216,
+      "Completed": 3216
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:07:06.2792647+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:05:35.2467328+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:12.4981852+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:58:48.086622+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:07:06.2793345+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:58:09.9349028+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:05:35.2467958+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "morpho",
   "Name": "Hello Neighbor: Hide and Seek",
   "ProductSlug": "hello-neighbor-hide-and-seek",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 432,
@@ -356,6 +356,6 @@
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
   "LastChanged": "2023-04-22T20:57:13.9334711+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:07.3222796+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:58:40.8756841+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:05:18.3998971+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:58:05.485081+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:04:18.3668198+00:00"
 }

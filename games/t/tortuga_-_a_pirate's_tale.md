@@ -1,24 +1,24 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.81 (Ranked 918)  
+Rating: 3.81 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,708 |
-| No Half Measures | 88.00% | ~13,624 |
-| Personal Matter | 87.00% | ~13,469 |
-| But You Have Heard of Me | 72.00% | ~11,147 |
-| Double the Barrels, double the Fun | 55.00% | ~8,515 |
-| Pimp My Glide | 47.00% | ~7,277 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,348 |
-| House Party! | 33.00% | ~5,109 |
+| Eeligally Ambitious | 95.00% | ~14,711 |
+| No Half Measures | 88.00% | ~13,627 |
+| Personal Matter | 87.00% | ~13,472 |
+| But You Have Heard of Me | 72.00% | ~11,149 |
+| Double the Barrels, double the Fun | 55.00% | ~8,517 |
+| Pimp My Glide | 47.00% | ~7,278 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,349 |
+| House Party! | 33.00% | ~5,110 |
 | Make It Rain | 24.00% | ~3,716 |
-| Curse of the Seven Seas | 21.00% | ~3,251 |
-| Head First | 15.00% | ~2,322 |
+| Curse of the Seven Seas | 21.00% | ~3,252 |
+| Head First | 15.00% | ~2,323 |
 | To the World's End | 12.00% | ~1,858 |
 | Table for Six | 11.00% | ~1,703 |
-| Sharing Is Caring | 9.00% | ~1,393 |
+| Sharing Is Caring | 9.00% | ~1,394 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,239 |
 | Morally Flexible | 6.00% | ~929 |
 | Fishing for Compliments | 5.00% | ~774 |
@@ -32,7 +32,7 @@ Rating: 3.81 (Ranked 918)
 | Pufferfish | 0.10% | ~15 |
 | O Captain! My Captain! | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,482 (Ranked 99)  
+Progressed: 15,485 (Ranked 99)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 15,445 | 0 |
 | 2023-05-31 | 15,464 | 0 |
 | 2023-06-01 | 15,474 | 0 |
-| 2023-06-02 | 15,482 | 0 |
+| 2023-06-02 | 15,485 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

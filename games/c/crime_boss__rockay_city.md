@@ -1,49 +1,49 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 906)  
+Rating: 3.93 (Ranked 907)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~47,116 |
-| First One’s Free | 64.00% | ~41,307 |
-| Neophyte Ninja | 50.00% | ~32,271 |
-| Too Old for This | 47.00% | ~30,335 |
-| Fancy Pants | 35.00% | ~22,590 |
-| Case Closed | 34.00% | ~21,944 |
-| King of the Hill | 33.00% | ~21,299 |
-| Underworld Initiate | 29.00% | ~18,717 |
-| Roid Ranger | 21.00% | ~13,554 |
-| True Player | 19.00% | ~12,263 |
-| Off the Rocks | 19.00% | ~12,263 |
-| Raider’s Ruin | 16.00% | ~10,327 |
-| Dragonslayer | 16.00% | ~10,327 |
-| Hidden Sonata | 13.00% | ~8,390 |
-| Rockay Rex | 11.00% | ~7,100 |
-| Freebooter | 10.00% | ~6,454 |
-| Classy Joint | 10.00% | ~6,454 |
-| Track Star | 9.00% | ~5,809 |
-| I Like Trains | 8.00% | ~5,163 |
-| Headhunter | 8.00% | ~5,163 |
-| Ding Dong | 8.00% | ~5,163 |
-| Foo Finder | 7.00% | ~4,518 |
-| Legend Looter | 5.00% | ~3,227 |
-| Savvy Seeker | 5.00% | ~3,227 |
+| Downed but Not Outed | 73.00% | ~47,126 |
+| First One’s Free | 64.00% | ~41,316 |
+| Neophyte Ninja | 50.00% | ~32,278 |
+| Too Old for This | 47.00% | ~30,341 |
+| Fancy Pants | 35.00% | ~22,595 |
+| Case Closed | 34.00% | ~21,949 |
+| King of the Hill | 33.00% | ~21,303 |
+| Underworld Initiate | 29.00% | ~18,721 |
+| Roid Ranger | 21.00% | ~13,557 |
+| True Player | 19.00% | ~12,266 |
+| Off the Rocks | 19.00% | ~12,266 |
+| Raider’s Ruin | 16.00% | ~10,329 |
+| Dragonslayer | 16.00% | ~10,329 |
+| Hidden Sonata | 13.00% | ~8,392 |
+| Rockay Rex | 11.00% | ~7,101 |
+| Freebooter | 10.00% | ~6,456 |
+| Classy Joint | 10.00% | ~6,456 |
+| Track Star | 9.00% | ~5,810 |
+| I Like Trains | 8.00% | ~5,164 |
+| Headhunter | 8.00% | ~5,164 |
+| Ding Dong | 8.00% | ~5,164 |
+| Foo Finder | 7.00% | ~4,519 |
+| Legend Looter | 5.00% | ~3,228 |
+| Savvy Seeker | 5.00% | ~3,228 |
 | Imports and Exports | 4.00% | ~2,582 |
 | Olympus Ascended | 4.00% | ~2,582 |
 | Cracked the Jack | 4.00% | ~2,582 |
 | Red Star | 4.00% | ~2,582 |
-| Privateer | 3.00% | ~1,936 |
-| Groundhog Days | 3.00% | ~1,936 |
+| Privateer | 3.00% | ~1,937 |
+| Groundhog Days | 3.00% | ~1,937 |
 | Rockay Raider | 2.00% | ~1,291 |
 | Moneybags | 2.00% | ~1,291 |
 | Impossible Dreamer | 2.00% | ~1,291 |
-| Rockay Knight | 1.00% | ~645 |
-| Talent Scout | 1.00% | ~645 |
+| Rockay Knight | 1.00% | ~646 |
+| Talent Scout | 1.00% | ~646 |
 | Geek Out | 0.50% | ~323 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,542 (Ranked 68)  
+Progressed: 64,556 (Ranked 68)  
 Completed: 31 (0.05%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 31 (0.05%) (Ranked 179)
 | 2023-05-30 | 64,145 | 31 |
 | 2023-05-31 | 64,285 | 31 |
 | 2023-06-01 | 64,412 | 31 |
-| 2023-06-02 | 64,542 | 31 |
+| 2023-06-02 | 64,556 | 31 |
 ## Awards
 Max (Diverse Characters): 306  (Ranked 224)  
 Sum: 1,456 (Ranked 212)  

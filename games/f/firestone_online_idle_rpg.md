@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.95 (Ranked 902)  
+Rating: 3.95 (Ranked 903)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,180 |
-| World Map | 80.00% | ~1,004 |
+| Victor | 94.00% | ~1,181 |
+| World Map | 80.00% | ~1,005 |
 | Temple of Eternals | 56.00% | ~703 |
-| Prestigious | 53.00% | ~665 |
+| Prestigious | 53.00% | ~666 |
 | Fellowship Power | 40.00% | ~502 |
 | Guild Power | 24.00% | ~301 |
 | Prestigious x10 | 21.00% | ~264 |
-| The game is on | 19.00% | ~238 |
-| Exotic Merchant | 17.00% | ~213 |
+| The game is on | 19.00% | ~239 |
+| Exotic Merchant | 17.00% | ~214 |
 | Dragon Clicker | 16.00% | ~201 |
 | Miner Clicker | 16.00% | ~201 |
 | Inspection | 15.00% | ~188 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 902)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,255 (Ranked 161)  
+Progressed: 1,256 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.08%) (Ranked 170)
 | 2023-05-30 | 1,227 | 1 |
 | 2023-05-31 | 1,239 | 1 |
 | 2023-06-01 | 1,249 | 1 |
-| 2023-06-02 | 1,255 | 1 |
+| 2023-06-02 | 1,256 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

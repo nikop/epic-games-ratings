@@ -1,30 +1,30 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.30 (Ranked 760)  
+Rating: 4.30 (Ranked 761)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~874 |
-| Ranidaphobia | 72.00% | ~691 |
-| Aspiring Editor | 69.00% | ~662 |
-| Gun for Hire | 64.00% | ~614 |
-| I am the law! | 55.00% | ~528 |
-| Lumberjack | 38.00% | ~365 |
+| First Blood | 92.00% | ~884 |
+| Ranidaphobia | 72.00% | ~692 |
+| Aspiring Editor | 69.00% | ~663 |
+| Gun for Hire | 64.00% | ~615 |
+| I am the law! | 55.00% | ~529 |
+| Lumberjack | 39.00% | ~375 |
 | Croaked | 33.00% | ~317 |
 | Limp Richard | 33.00% | ~317 |
-| From Darkness to Light | 33.00% | ~317 |
-| Firestarter | 32.00% | ~307 |
+| Firestarter | 32.00% | ~308 |
+| From Darkness to Light | 32.00% | ~308 |
 | Exorcist | 30.00% | ~288 |
-| Editor Adept | 29.00% | ~278 |
+| Editor Adept | 29.00% | ~279 |
 | Giant Killer | 25.00% | ~240 |
-| Sensei | 24.00% | ~230 |
+| Sensei | 24.00% | ~231 |
 | The meaning of Kain | 23.00% | ~221 |
-| Technophobe | 19.00% | ~182 |
+| Technophobe | 19.00% | ~183 |
 | Recycler | 17.00% | ~163 |
 | Chain Killer | 15.00% | ~144 |
-| Are you not entertained? | 14.00% | ~134 |
-| Hold The Line | 14.00% | ~134 |
+| Hold The Line | 15.00% | ~144 |
+| Are you not entertained? | 14.00% | ~135 |
 | Ganglord | 13.00% | ~125 |
 | Jarhead | 13.00% | ~125 |
 | There Can Be Only One! | 13.00% | ~125 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 760)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 960 (Ranked 173)  
+Progressed: 961 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
-| 2023-06-02 | 960 | 0 |
+| 2023-06-02 | 961 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

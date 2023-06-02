@@ -206,9 +206,9 @@
       "ID": "Genesis",
       "SetID": "9kk0gal",
       "Name": "Mysterious paintings",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "HugeSnail",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:07:09.6906714+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:05:37.7850033+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:28.9659056+00:00",
-  "LastUpdate_Ratings": "2023-06-02T16:00:50.0848196+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:07:09.6906898+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:59:30.6365754+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:05:37.7850237+00:00"
 }

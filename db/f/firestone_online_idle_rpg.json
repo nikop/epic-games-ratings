@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 161,
@@ -128,7 +128,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1255,
+  "EOS_Progressed": 1256,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -2548,6 +2548,11 @@
       "Time": "2023-06-02T14:06:14.6462676+00:00",
       "NumProgressed": 1255,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T17:05:33.1528604+00:00",
+      "NumProgressed": 1256,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2735,7 +2740,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "fellowshippower",
@@ -2951,7 +2956,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "prestigiousx10",
@@ -3047,7 +3052,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "thepowerofawakening",
@@ -3119,7 +3124,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "warmachinesarmy",
@@ -3151,14 +3156,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1255,
+      "Progressed": 1256,
       "Completed": 1
     }
   ],
@@ -3166,8 +3171,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-02T16:07:03.6632542+00:00",
+  "LastChanged_Achievements": "2023-06-02T17:05:33.1528597+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-02T15:58:13.5850879+00:00",
-  "LastUpdate_Achievements": "2023-06-02T16:07:03.663358+00:00"
+  "LastUpdate_Ratings": "2023-06-02T16:57:47.0711001+00:00",
+  "LastUpdate_Achievements": "2023-06-02T17:05:33.1529486+00:00"
 }
