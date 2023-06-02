@@ -100,6 +100,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~179 |
 | The Dead Three | 0.20% | ~179 |
 | Flying Monkey Skulls of Doom | 0.20% | ~179 |
+| Waterdeep Under Siege | 0.20% | ~179 |
 | The Darkness Runs Deeper | 0.20% | ~179 |
 | Dinosaur Racing | 0.20% | ~179 |
 | Elturel Has Fallen | 0.20% | ~179 |
@@ -324,7 +325,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.10% | ~90 |
 | Feigned Weakness | 0.10% | ~90 |
 | DPS in the Deeps | 0.10% | ~56 |
-| Waterdeep Under Siege | 0.10% | ~90 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~90 |
 | Sober Up | 0.10% | ~90 |
 | In The Beginning | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,536 (Ranked 62)  
+Progressed: 89,538 (Ranked 62)  
 Completed: 1,910 (2.13%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,10 +543,10 @@ Completed: 1,910 (2.13%) (Ranked 64)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,536 | 1,910 |
+| 2023-06-02 | 89,538 | 1,910 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
-Sum: 30,020 (Ranked 37)  
+Sum: 30,021 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -555,7 +555,7 @@ Diff (max vs sum): 27
 | This game has Quickly Understood Controls | 4,609 |
 | This game is Relaxing | 4,502 |
 | This game is Highly Recommended | 3,954 |
-| This game has Amazing Characters | 3,945 |
+| This game has Amazing Characters | 3,946 |
 | This game has Playful Visuals | 3,243 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -687,4 +687,4 @@ Diff (max vs sum): 27
 | 2023-05-30 | 4.06 | - | 4,911 | 30,004 |
 | 2023-05-31 | 4.06 | - | 4,913 | 30,007 |
 | 2023-06-01 | 4.06 | - | 4,913 | 30,013 |
-| 2023-06-02 | 4.06 | - | 4,915 | 30,020 |
+| 2023-06-02 | 4.06 | - | 4,915 | 30,021 |

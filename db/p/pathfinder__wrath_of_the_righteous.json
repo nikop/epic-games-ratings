@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2630,9 +2630,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9448,
+  "EOS_Progressed": 9450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5280,6 +5280,11 @@
       "Time": "2023-06-02T20:05:34.4631105+00:00",
       "NumProgressed": 9448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T21:11:10.3020724+00:00",
+      "NumProgressed": 9450,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5299,7 +5304,7 @@
       "Name": "Burning City",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -5363,7 +5368,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "11_PathOfAeon",
@@ -5419,7 +5424,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "18_MythicChoices",
@@ -5475,7 +5480,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "25_MasterfulDispell",
@@ -5491,7 +5496,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "28_GreatUpstart",
@@ -5499,7 +5504,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "29_StrategicVictory",
@@ -5635,7 +5640,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "46_AllPathsOpen",
@@ -5643,7 +5648,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -5659,7 +5664,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "49_Flame",
@@ -5667,7 +5672,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -5715,7 +5720,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "56_GetToad",
@@ -5723,7 +5728,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "57_PathOfDevil",
@@ -6218,21 +6223,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8230,
+      "Progressed": 8232,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9448,
+      "Progressed": 9450,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-02T19:58:01.0678528+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:05:34.4631099+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:58:01.0678535+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:05:34.4632923+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:11:10.3020717+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:02:51.095526+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:11:10.3022535+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 93.00% | ~535 |
 | Rail Rat | 78.00% | ~448 |
-| The Mysterious Stranger | 75.00% | ~431 |
+| The Mysterious Stranger | 76.00% | ~437 |
 | Immaculate Aim | 64.00% | ~368 |
 | The Brass Boss | 57.00% | ~328 |
 | Honest Mistake | 56.00% | ~322 |

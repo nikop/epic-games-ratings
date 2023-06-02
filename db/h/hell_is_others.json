@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 41,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -434,6 +434,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 70,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-06-02T21:05:16.9759793+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
@@ -460,9 +466,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 250203,
+  "EOS_Progressed": 250212,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4705,6 +4711,11 @@
       "Time": "2023-06-02T20:00:24.7285954+00:00",
       "NumProgressed": 250203,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T21:06:26.262316+00:00",
+      "NumProgressed": 250212,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -4716,7 +4727,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17514
+      "UsersEstimate": 17515
     },
     {
       "ID": "Act2",
@@ -4764,7 +4775,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77563
+      "UsersEstimate": 77566
     },
     {
       "ID": "BackHomeNTimes",
@@ -4772,7 +4783,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12510
+      "UsersEstimate": 12511
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -4820,7 +4831,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25020
+      "UsersEstimate": 25021
     },
     {
       "ID": "CreditLevel2",
@@ -4844,7 +4855,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12510
+      "UsersEstimate": 12511
     },
     {
       "ID": "CreedsInBank2",
@@ -4916,7 +4927,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15012
+      "UsersEstimate": 15013
     },
     {
       "ID": "GrowPlants2",
@@ -4972,7 +4983,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12510
+      "UsersEstimate": 12511
     },
     {
       "ID": "KillOtherWithKatana",
@@ -5004,7 +5015,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55045
+      "UsersEstimate": 55047
     },
     {
       "ID": "KillOthers2",
@@ -5108,7 +5119,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25020
+      "UsersEstimate": 25021
     },
     {
       "ID": "ReachNDays2",
@@ -5163,16 +5174,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250203,
+      "Progressed": 250212,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-06-01T06:01:00.8249028+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:00:24.7285948+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:59:37.4496251+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:59:38.5284989+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:00:24.7286738+00:00"
+  "LastChanged": "2023-06-02T21:05:16.9759791+00:00",
+  "LastChanged_Achievements": "2023-06-02T21:06:26.2623152+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T21:00:43.3196281+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:05:16.9759798+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:06:26.2624014+00:00"
 }

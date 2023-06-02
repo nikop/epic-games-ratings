@@ -512,9 +512,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14315,
+  "EOS_Progressed": 14320,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2512,6 +2512,11 @@
       "Time": "2023-06-02T20:03:36.3008269+00:00",
       "NumProgressed": 14315,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-02T21:08:25.6069899+00:00",
+      "NumProgressed": 14320,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2529,9 +2534,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -2553,17 +2558,17 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1575
     },
     {
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 86
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -2643,7 +2648,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2657,9 +2662,9 @@
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 573
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2681,9 +2686,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 573
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2715,7 +2720,7 @@
       "Name": "The Outer Way",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2739,7 +2744,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2755,7 +2760,7 @@
       "Name": "Desperate Times",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2763,7 +2768,7 @@
       "Name": "Crash Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "STORY_TOWER",
@@ -2779,7 +2784,7 @@
       "Name": "Power Up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "DISMEMBER_100",
@@ -2842,13 +2847,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14315,
+      "Progressed": 14320,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2241,
+      "Progressed": 2246,
       "Completed": 29
     }
   ],
@@ -2856,8 +2861,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-02T10:58:19.5947584+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:03:36.3008258+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:57:38.188251+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:03:36.3008721+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:08:25.6069893+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:02:18.1509062+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:08:25.6070429+00:00"
 }

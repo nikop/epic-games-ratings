@@ -2,9 +2,9 @@
   "ID": "97be0dec5b1d4577b7647d3d96d79a94",
   "Name": "Life After Death",
   "ProductSlug": "life-after-death-b4e964",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-28T14:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-06-02T16:02:30.3045493+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T21:05:46.1678528+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -40,7 +45,7 @@
       "Name": "The Game is Starting!",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -134,9 +139,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "c98563l",
       "Name": "Keep going!!!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -519,13 +524,13 @@
     {
       "ID": "c98563l",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:03:16.8766333+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:58:54.6516878+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:58:54.8357067+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:03:16.8766898+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:05:46.1678512+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:59:45.9987877+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:04:13.4301731+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:05:46.1687919+00:00"
 }

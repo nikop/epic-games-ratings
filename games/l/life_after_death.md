@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Game is Starting! | 100.00% | ~1 |
+| The Game is Starting! | 100.00% | ~2 |
+| Keep going!!! | 50.00% | ~1 |
 | First steps!! | 0.00% | ~0 |
 | They can hit but don't hurt!!! | 0.00% | ~0 |
 | So cool when we achieve!!! | 0.00% | ~0 |
@@ -16,7 +17,6 @@
 | Take it, and take it again!!!! | 0.00% | ~0 |
 | Step by step we can rule!! | 0.00% | ~0 |
 | This is a a good day!!!! | 0.00% | ~0 |
-| Keep going!!! | 0.00% | ~0 |
 | The inventors created the wheel so we can rock and roll!!! | 0.00% | ~0 |
 | Im feeling lucky aren't we? | 0.00% | ~0 |
 | We are safe when someone is watching ours back!!! | 0.00% | ~0 |
@@ -65,9 +65,9 @@
 | I will clean this world!!! | 0.00% | ~0 |
 | Break the rules!!! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 407)  
+Progressed: 2 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-02 | 1 | 0 |
+| 2023-06-02 | 2 | 0 |

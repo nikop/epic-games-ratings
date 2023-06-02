@@ -16,14 +16,14 @@
 | The New World | 41.00% | ~143 |
 | Open Sesame | 40.00% | ~139 |
 | Sticky Fingers | 40.00% | ~139 |
+| Back In The Saddle | 39.00% | ~136 |
 | Knives Out | 39.00% | ~136 |
-| Back In The Saddle | 38.00% | ~132 |
 | Land, Ho! | 38.00% | ~132 |
-| No Man Is An Island | 36.00% | ~125 |
+| No Man Is An Island | 37.00% | ~129 |
 | At Wits' End | 35.00% | ~122 |
 | Going Once... | 33.00% | ~115 |
+| Bookworm | 33.00% | ~115 |
 | Fhtagn! | 33.00% | ~115 |
-| Bookworm | 32.00% | ~111 |
 | Up In Flames | 32.00% | ~111 |
 | Let Me Be Frank | 31.00% | ~108 |
 | Brain Food | 29.00% | ~101 |
@@ -34,7 +34,7 @@
 | Reawakened | 6.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 348 (Ranked 216)  
-Completed: 14 (4.02%) (Ranked 34)  
+Completed: 15 (4.31%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 14 (4.02%) (Ranked 34)
 | 2023-05-30 | 325 | 13 |
 | 2023-05-31 | 333 | 13 |
 | 2023-06-01 | 342 | 13 |
-| 2023-06-02 | 348 | 14 |
+| 2023-06-02 | 348 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

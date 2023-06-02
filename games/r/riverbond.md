@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,735 |
-| Now You're Talking | 62.00% | ~321,280 |
-| Steel Yourself | 62.00% | ~321,280 |
-| Window Dressing | 50.00% | ~259,096 |
-| Trigger Happy | 46.00% | ~238,369 |
-| Riverborn | 45.00% | ~233,187 |
-| Starry Eyed | 34.00% | ~176,186 |
-| Poking Around | 34.00% | ~176,186 |
-| Talk of the Town | 24.00% | ~124,366 |
-| AAARR! | 23.00% | ~119,184 |
-| Hello Darkness | 23.00% | ~119,184 |
-| Wind At Our Backs | 22.00% | ~114,002 |
-| To the Beat | 20.00% | ~103,639 |
-| Sunny Shores | 17.00% | ~88,093 |
-| To Victory! | 15.00% | ~77,729 |
-| Sunday Best | 15.00% | ~77,729 |
-| Two of a Kind | 14.00% | ~72,547 |
-| Keep On Trucking | 13.00% | ~67,365 |
-| Going on an Adventure | 11.00% | ~57,001 |
-| Make Peace, Not War | 11.00% | ~57,001 |
-| Walking The Line | 10.00% | ~51,819 |
-| Not So Cute Anymore | 10.00% | ~51,819 |
-| Road Less Travelled | 9.00% | ~46,637 |
-| Lost and Found | 9.00% | ~46,637 |
+| First Step | 70.00% | ~362,739 |
+| Now You're Talking | 62.00% | ~321,283 |
+| Steel Yourself | 62.00% | ~321,283 |
+| Window Dressing | 50.00% | ~259,099 |
+| Trigger Happy | 46.00% | ~238,371 |
+| Riverborn | 45.00% | ~233,189 |
+| Starry Eyed | 34.00% | ~176,187 |
+| Poking Around | 34.00% | ~176,187 |
+| Talk of the Town | 24.00% | ~124,368 |
+| AAARR! | 23.00% | ~119,186 |
+| Hello Darkness | 23.00% | ~119,186 |
+| Wind At Our Backs | 22.00% | ~114,004 |
+| To the Beat | 20.00% | ~103,640 |
+| Sunny Shores | 17.00% | ~88,094 |
+| To Victory! | 15.00% | ~77,730 |
+| Sunday Best | 15.00% | ~77,730 |
+| Two of a Kind | 14.00% | ~72,548 |
+| Keep On Trucking | 13.00% | ~67,366 |
+| Going on an Adventure | 11.00% | ~57,002 |
+| Make Peace, Not War | 11.00% | ~57,002 |
+| Walking The Line | 10.00% | ~51,820 |
+| Not So Cute Anymore | 10.00% | ~51,820 |
+| Road Less Travelled | 9.00% | ~46,638 |
+| Lost and Found | 9.00% | ~46,638 |
 | Partner in Crime | 7.00% | ~36,274 |
 | Hard to Hear | 7.00% | ~36,274 |
 | Under the Radar | 7.00% | ~36,274 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,555 |
 | Point Taken | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,193 (Ranked 26)  
+Progressed: 518,198 (Ranked 26)  
 Completed: 418 (0.08%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 418 (0.08%) (Ranked 171)
 | 2023-05-30 | 517,931 | 416 |
 | 2023-05-31 | 518,028 | 417 |
 | 2023-06-01 | 518,108 | 418 |
-| 2023-06-02 | 518,193 | 418 |
+| 2023-06-02 | 518,198 | 418 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

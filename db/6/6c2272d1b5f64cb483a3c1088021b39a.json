@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-06-02T20:00:04.5722155+00:00",
       "NumProgressed": 258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T21:05:59.5035812+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -440,9 +445,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "adventurous_2",
@@ -464,9 +469,9 @@
       "ID": "archmage_1",
       "SetID": "53c1p3k",
       "Name": "Archmage 1",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "archmage_2",
@@ -562,7 +567,7 @@
       "Name": "Conqueror 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "conqueror_2",
@@ -969,14 +974,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:00:04.5722151+00:00",
+  "LastChanged_Achievements": "2023-06-02T21:05:59.5035805+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:56:51.5497107+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:00:04.572294+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:01:10.9413844+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:05:59.5036567+00:00"
 }

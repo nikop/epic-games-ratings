@@ -5,9 +5,9 @@
   "Ranking_Rating": 360,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -845,6 +845,11 @@
       "Time": "2023-06-02T19:06:41.955491+00:00",
       "NumProgressed": 966,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T21:10:56.3618926+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -968,7 +973,7 @@
       "Name": "Grenadier",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Hard_Serpent",
@@ -1095,15 +1100,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:05:23.0991257+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:58:49.1806578+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:58:47.0861528+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:05:23.0991529+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:10:56.3618919+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:04:00.8515488+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:10:56.3619206+00:00"
 }

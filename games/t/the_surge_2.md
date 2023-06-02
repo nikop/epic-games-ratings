@@ -5,24 +5,24 @@ Rating: 4.24 (Ranked 796)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,345 |
-| Don't I Know You...? | 77.00% | ~1,294 |
+| Rigged And Ready | 80.00% | ~1,346 |
+| Don't I Know You...? | 77.00% | ~1,295 |
 | Jailbreak | 65.00% | ~1,093 |
 | Suited and Booted | 38.00% | ~639 |
 | HEADSHOT! | 37.00% | ~622 |
-| Sleeping With The Fishes | 35.00% | ~588 |
-| Overheated | 30.00% | ~504 |
-| High Performance | 30.00% | ~504 |
+| Sleeping With The Fishes | 35.00% | ~589 |
+| Overheated | 30.00% | ~505 |
+| High Performance | 30.00% | ~505 |
 | Powered Up | 28.00% | ~471 |
-| Studied The Blade | 24.00% | ~403 |
+| Studied The Blade | 24.00% | ~404 |
 | Home Invasion | 22.00% | ~370 |
 | Luminary | 22.00% | ~370 |
 | It's a Trap | 22.00% | ~370 |
 | True Survivor | 21.00% | ~353 |
 | Shocking | 20.00% | ~336 |
-| Court Martial | 19.00% | ~319 |
-| Offensive Defense | 19.00% | ~319 |
-| Unforeseeable Consequences | 19.00% | ~319 |
+| Court Martial | 19.00% | ~320 |
+| Offensive Defense | 19.00% | ~320 |
+| Unforeseeable Consequences | 19.00% | ~320 |
 | Clean Cut | 18.00% | ~303 |
 | Dead Again | 17.00% | ~286 |
 | Full Arsenal | 16.00% | ~269 |
@@ -37,8 +37,8 @@ Rating: 4.24 (Ranked 796)
 | Corrupted Beauty | 11.00% | ~185 |
 | Triplets | 10.00% | ~168 |
 | Stimulating The Local Economy | 9.00% | ~151 |
-| Denying Prophecy | 8.00% | ~134 |
-| Defense in Depth | 8.00% | ~134 |
+| Denying Prophecy | 8.00% | ~135 |
+| Defense in Depth | 8.00% | ~135 |
 | A Little Banged Up | 7.00% | ~118 |
 | Reverse Engineering | 7.00% | ~118 |
 | Following In Their Footsteps | 7.00% | ~118 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 796)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,681 (Ranked 154)  
+Progressed: 1,682 (Ranked 154)  
 Completed: 10 (0.59%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 10 (0.59%) (Ranked 109)
 | 2023-05-30 | 1,661 | 10 |
 | 2023-05-31 | 1,667 | 10 |
 | 2023-06-01 | 1,674 | 10 |
-| 2023-06-02 | 1,681 | 10 |
+| 2023-06-02 | 1,682 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

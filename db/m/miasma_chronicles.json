@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 967,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1275,9 +1275,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 300
     },
     {
       "ID": "EXPERIENCED",
@@ -1371,9 +1371,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 126
     },
     {
       "ID": "LUMBERJACK",
@@ -1403,9 +1403,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 126
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1483,9 +1483,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 193
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1532,8 +1532,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-01T20:58:08.0220539+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:59:57.8952377+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:58:00.8125297+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:59:57.8975576+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:05:49.8129236+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:02:50.8576484+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:05:49.8129964+00:00"
 }

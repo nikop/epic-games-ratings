@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2834,
+  "EOS_Progressed": 2835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1533,6 +1533,11 @@
       "Time": "2023-06-02T20:05:30.3228467+00:00",
       "NumProgressed": 2834,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T21:11:05.5719857+00:00",
+      "NumProgressed": 2835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1736,7 +1741,7 @@
       "Name": "Executioner",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "Kills_Exterminator",
@@ -1752,7 +1757,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "Kills_Interactable",
@@ -1776,7 +1781,7 @@
       "Name": "Purging Spree",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Kills_Vakir",
@@ -1808,7 +1813,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1816,7 +1821,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1824,7 +1829,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "MasterOfTheForge",
@@ -1912,7 +1917,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2015,21 +2020,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2834,
+      "Progressed": 2835,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2834,
+      "Progressed": 2835,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:05:30.3228459+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:58:18.688665+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:58:18.1670739+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:05:30.3229103+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:11:05.571985+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:03:16.9841714+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:11:05.5720459+00:00"
 }

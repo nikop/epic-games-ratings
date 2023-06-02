@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 10.00% | ~1,432 |
-| The Outer Way | 9.00% | ~1,288 |
-| Desperate Times | 8.00% | ~1,145 |
+| Flesh Wound | 11.00% | ~1,575 |
+| The Outer Way | 9.00% | ~1,289 |
+| Desperate Times | 8.00% | ~1,146 |
 | Chew 'Em Up | 7.00% | ~1,002 |
 | Paper Jams | 7.00% | ~1,002 |
 | Giving Back | 6.00% | ~859 |
@@ -15,15 +15,15 @@ Rating: 4.18 (Ranked 837)
 | Workplace Hazard | 5.00% | ~716 |
 | If the SHU Fits... | 5.00% | ~716 |
 | Get a Grip | 4.00% | ~573 |
+| Terminated | 4.00% | ~573 |
+| Float Like A Butterfly | 4.00% | ~573 |
 | Without A Paddle | 4.00% | ~573 |
 | Instigator | 4.00% | ~90 |
 | Big Game Hunter | 4.00% | ~90 |
-| Two Heads Are Better Than One | 3.00% | ~429 |
-| Terminated | 3.00% | ~429 |
-| Float Like A Butterfly | 3.00% | ~429 |
-| In the Pipe, Five by Five | 3.00% | ~429 |
-| Crash Site | 3.00% | ~429 |
-| Power Up | 3.00% | ~429 |
+| Two Heads Are Better Than One | 3.00% | ~430 |
+| In the Pipe, Five by Five | 3.00% | ~430 |
+| Crash Site | 3.00% | ~430 |
+| Power Up | 3.00% | ~430 |
 | Bear Trap | 3.00% | ~67 |
 | You Need a Gun | 2.00% | ~286 |
 | The Commonality | 2.00% | ~286 |
@@ -37,16 +37,16 @@ Rating: 4.18 (Ranked 837)
 | Hoard Mode | 1.00% | ~22 |
 | Recidivist | 0.70% | ~16 |
 | Lifer | 0.70% | ~16 |
-| Grim Reaper | 0.50% | ~72 |
+| Grim Reaper | 0.60% | ~86 |
+| Armed to the Teeth | 0.20% | ~4 |
 | The Protocol is About Life | 0.20% | ~29 |
 | It's over, Jacob! | 0.10% | ~14 |
-| Armed to the Teeth | 0.10% | ~2 |
 | Glutton for Punishment | 0.10% | ~2 |
 | You Belong Here | 0.10% | ~2 |
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,315 (Ranked 103)  
+Progressed: 14,320 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 53 (0.37%) (Ranked 119)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,315 | 53 |
+| 2023-06-02 | 14,320 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
 Sum: 283 (Ranked 329)  

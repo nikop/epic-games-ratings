@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -973,9 +973,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 437
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1284,8 +1284,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:04:34.7322565+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:58:56.2054734+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:04:34.7323126+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:09:47.6878656+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:04:15.3137663+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:09:47.6879396+00:00"
 }

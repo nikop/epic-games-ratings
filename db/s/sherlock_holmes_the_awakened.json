@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 348,
-  "EOS_Completed": 14,
-  "EOS_NewPlayers": 94,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.02,
+  "EOS_Completed": 15,
+  "EOS_NewPlayers": 92,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 4.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -964,6 +964,11 @@
       "Time": "2023-06-02T19:04:28.983491+00:00",
       "NumProgressed": 348,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-02T21:08:17.4010965+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 28,
@@ -1093,9 +1098,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 136
     },
     {
       "ID": "MQ05_3",
@@ -1125,9 +1130,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "MQ06_3",
@@ -1141,9 +1146,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "MQ07_1",
@@ -1199,15 +1204,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 348,
-      "Completed": 14
+      "Completed": 15
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:03:30.4055321+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:57:09.4253428+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:57:06.6648459+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:03:30.4055582+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:08:17.4010958+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:01:34.1119338+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:08:17.4011637+00:00"
 }

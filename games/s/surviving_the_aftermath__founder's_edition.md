@@ -14,7 +14,7 @@ Number of Ratings: 836  (23.09.2022)
 | Adventurer | 41.00% | ~2,476 |
 | Famous Healer | 38.00% | ~2,295 |
 | Local Leader | 35.00% | ~2,114 |
-| New Opportunities | 34.00% | ~2,053 |
+| New Opportunities | 34.00% | ~2,054 |
 | Famous Explorer | 33.00% | ~1,993 |
 | Energized | 33.00% | ~1,993 |
 | The Long Haul | 33.00% | ~1,993 |
@@ -30,13 +30,13 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~1,329 |
 | Merchant | 21.00% | ~1,268 |
 | Real Survivor | 21.00% | ~1,268 |
-| War Never Changes | 19.00% | ~1,147 |
-| Rocket Surgeon | 19.00% | ~1,147 |
+| War Never Changes | 19.00% | ~1,148 |
+| Rocket Surgeon | 19.00% | ~1,148 |
 | Big Game Hunter | 17.00% | ~1,027 |
 | Friendly | 16.00% | ~966 |
 | Spreading Influence | 16.00% | ~966 |
 | Around the World | 15.00% | ~906 |
-| Bookworm | 14.00% | ~845 |
+| Bookworm | 14.00% | ~846 |
 | Famous Adventurer | 13.00% | ~785 |
 | Prepared for Anything | 13.00% | ~785 |
 | Big Catastrofan | 12.00% | ~725 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,039 (Ranked 121)  
+Progressed: 6,040 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-30 | 5,952 | 0 |
 | 2023-05-31 | 5,979 | 0 |
 | 2023-06-01 | 6,007 | 0 |
-| 2023-06-02 | 6,039 | 0 |
+| 2023-06-02 | 6,040 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 326)  
 Sum: 656 (Ranked 273)  

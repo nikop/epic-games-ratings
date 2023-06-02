@@ -7,25 +7,25 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 16.00% | ~1,512 |
-| Burning City | 11.00% | ~1,039 |
-| A Spark | 11.00% | ~1,039 |
+| Burning City | 11.00% | ~1,040 |
+| A Spark | 11.00% | ~1,040 |
 | Mythic Choices | 9.00% | ~850 |
 | Defender's Heart | 9.00% | ~850 |
 | Banner over the Citadel | 8.00% | ~756 |
-| Queen's Gratitude | 7.00% | ~661 |
+| Queen's Gratitude | 7.00% | ~662 |
 | Fifth Crusade | 5.00% | ~472 |
 | Embrace of the Abyss | 4.00% | ~378 |
 | Path of the Angel | 4.00% | ~378 |
 | Demonic and Divine | 4.00% | ~378 |
-| Path of the Azata | 3.00% | ~283 |
-| Transformation | 3.00% | ~283 |
-| The Legacy | 3.00% | ~283 |
-| Great Upstart | 3.00% | ~283 |
-| Voice from Your Dreams | 3.00% | ~283 |
-| All Paths Open | 3.00% | ~283 |
-| A Flame | 3.00% | ~283 |
-| Next-Door Play | 3.00% | ~283 |
-| Get the Toad | 3.00% | ~283 |
+| Path of the Azata | 3.00% | ~284 |
+| Transformation | 3.00% | ~284 |
+| The Legacy | 3.00% | ~284 |
+| Great Upstart | 3.00% | ~284 |
+| Voice from Your Dreams | 3.00% | ~284 |
+| All Paths Open | 3.00% | ~284 |
+| A Flame | 3.00% | ~284 |
+| Next-Door Play | 3.00% | ~284 |
+| Get the Toad | 3.00% | ~284 |
 | Heart of the Fallen Land | 2.00% | ~189 |
 | Path of the Trickster | 2.00% | ~189 |
 | Heroic Victory | 2.00% | ~189 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,448 (Ranked 111)  
+Progressed: 9,450 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-30 | 9,373 | 0 |
 | 2023-05-31 | 9,396 | 0 |
 | 2023-06-01 | 9,419 | 0 |
-| 2023-06-02 | 9,448 | 0 |
+| 2023-06-02 | 9,450 | 0 |
 ## Awards
 Max (Character Customization): 1,646  (Ranked 111)  
 Sum: 6,683 (Ranked 110)  

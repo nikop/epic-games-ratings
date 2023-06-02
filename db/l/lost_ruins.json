@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -321,6 +321,11 @@
       "Time": "2023-06-02T09:07:02.6659777+00:00",
       "NumProgressed": 342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T21:11:04.1326856+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -444,7 +449,7 @@
       "Name": "Iconoclasm",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Inquisitor",
@@ -460,7 +465,7 @@
       "Name": "Librarian",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Lumberjack",
@@ -588,7 +593,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TheFallen",
@@ -596,7 +601,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "TheTrio",
@@ -651,7 +656,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 0
     }
   ],
@@ -659,8 +664,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-02T20:05:29.3879761+00:00",
-  "LastUpdate_AppInfo": "2023-05-26T19:59:03.4676985+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:59:02.1591881+00:00",
-  "LastUpdate_Achievements": "2023-06-02T20:05:29.388012+00:00"
+  "LastChanged_Achievements": "2023-06-02T21:11:04.1326849+00:00",
+  "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
+  "LastUpdate_Ratings": "2023-06-02T21:04:24.4715159+00:00",
+  "LastUpdate_Achievements": "2023-06-02T21:11:04.1327219+00:00"
 }
