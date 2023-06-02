@@ -6,9 +6,9 @@
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1110,9 +1110,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22530,
+  "EOS_Progressed": 22531,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4285,6 +4285,11 @@
       "Time": "2023-06-02T04:06:44.3808668+00:00",
       "NumProgressed": 22530,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-02T05:06:38.8399193+00:00",
+      "NumProgressed": 22531,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4296,7 +4301,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16447
+      "UsersEstimate": 16448
     },
     {
       "ID": "Animated",
@@ -4304,7 +4309,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5632
+      "UsersEstimate": 5633
     },
     {
       "ID": "Back_Off",
@@ -4336,7 +4341,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "Collect_Spores",
@@ -4368,7 +4373,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7885
+      "UsersEstimate": 7886
     },
     {
       "ID": "Diabolical",
@@ -4408,7 +4413,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14419
+      "UsersEstimate": 14420
     },
     {
       "ID": "Escape_Artist",
@@ -4440,7 +4445,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6984
+      "UsersEstimate": 6985
     },
     {
       "ID": "Ghost_Expert",
@@ -4520,7 +4525,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "Rift_Destroyer",
@@ -4568,7 +4573,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "Skilled",
@@ -4576,7 +4581,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5632
+      "UsersEstimate": 5633
     },
     {
       "ID": "Solo_Capture",
@@ -4600,7 +4605,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19376
+      "UsersEstimate": 19377
     },
     {
       "ID": "Summoner",
@@ -4632,7 +4637,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 10138
+      "UsersEstimate": 10139
     },
     {
       "ID": "Terrifying",
@@ -4656,7 +4661,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9913
+      "UsersEstimate": 9914
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4703,7 +4708,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22530,
+      "Progressed": 22531,
       "Completed": 40
     }
   ],
@@ -4711,8 +4716,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-01T03:26:56.6842573+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:06:44.3808662+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:06:38.8399187+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:32.2394427+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:59:17.4844456+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:06:44.3809185+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:59:16.4874307+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:06:38.8399816+00:00"
 }

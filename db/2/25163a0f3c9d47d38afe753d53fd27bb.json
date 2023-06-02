@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 386,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 6.22,
   "EosHistory": [
@@ -1121,9 +1121,9 @@
       "ID": "LEVEL_023",
       "SetID": "212bg48",
       "Name": "Flowing from high ground",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_024",
@@ -1192,8 +1192,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:04:24.4831982+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:04:19.3062544+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:57:21.5491656+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:04:24.483228+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:57:22.1440176+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:04:19.3062854+00:00"
 }

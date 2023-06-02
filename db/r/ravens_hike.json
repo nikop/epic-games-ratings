@@ -3,9 +3,9 @@
   "Name": "Ravens Hike",
   "ProductSlug": "ravens-hike-c34341",
   "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.4416797+00:00",
   "LastChanged": "2023-03-31T05:57:49.4416798+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:26.9964067+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:57:56.1042162+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:04:16.8218862+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:57:55.776026+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:04:12.1960457+00:00"
 }

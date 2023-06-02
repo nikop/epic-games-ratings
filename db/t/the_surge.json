@@ -6,9 +6,9 @@
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -319,7 +319,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4309,
+  "EOS_Progressed": 4310,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -859,6 +859,11 @@
       "Time": "2023-06-01T19:00:17.501373+00:00",
       "NumProgressed": 4309,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-02T05:01:04.8528342+00:00",
+      "NumProgressed": 4310,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -870,7 +875,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -926,7 +931,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -934,7 +939,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -942,7 +947,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -990,7 +995,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -1046,7 +1051,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -1086,7 +1091,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3276
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1126,7 +1131,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -1134,7 +1139,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -1310,7 +1315,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -1405,15 +1410,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4309,
+      "Progressed": 4310,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:01:05.7083836+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:01:04.8528334+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:44.8329823+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:58:17.9957453+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:01:05.7084866+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:58:17.1542602+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:01:04.8529802+00:00"
 }

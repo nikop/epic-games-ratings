@@ -3,9 +3,9 @@
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-02T03:06:10.8043817+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:01:01.2696903+00:00",
   "LastUpdate_AppInfo": "2023-05-29T05:57:22.290249+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:57:22.3916781+00:00",
-  "LastUpdate_Achievements": "2023-06-02T03:06:10.8043852+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:57:22.9506526+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:01:01.2714192+00:00"
 }

@@ -83,7 +83,7 @@ Number of Ratings: 87  (23.09.2022)
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 722 (Ranked 185)  
-Completed: 1 (0.14%) (Ranked 153)  
+Completed: 1 (0.14%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

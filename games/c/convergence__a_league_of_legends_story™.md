@@ -15,25 +15,25 @@
 | The Prince in Heels | 52.00% | ~295 |
 | Right On Time | 50.00% | ~284 |
 | The Harder They Fall | 50.00% | ~284 |
-| Fast Learner | 48.00% | ~273 |
-| Immaculate Aim | 48.00% | ~273 |
-| Make Up For Lost Time | 47.00% | ~267 |
-| Breaking Down Barriers | 44.00% | ~250 |
+| Fast Learner | 49.00% | ~278 |
+| Immaculate Aim | 49.00% | ~278 |
+| Make Up For Lost Time | 48.00% | ~273 |
+| Breaking Down Barriers | 45.00% | ~256 |
 | The Steel Shadow | 38.00% | ~216 |
-| Golem Chaser | 37.00% | ~210 |
+| Golem Chaser | 38.00% | ~216 |
 | Like Clockwork | 35.00% | ~199 |
 | The Wicked Twins | 34.00% | ~193 |
 | The Betrayer | 33.00% | ~187 |
 | Family Memories | 30.00% | ~170 |
 | Check Your Pulse | 30.00% | ~170 |
-| Good Neighbor | 29.00% | ~165 |
+| Good Neighbor | 30.00% | ~170 |
 | Street Style | 28.00% | ~159 |
 | The Loose Cannon | 28.00% | ~159 |
 | The Man Who Shattered Time | 24.00% | ~136 |
 | The Family Fortune | 24.00% | ~136 |
 | Whiz Kid | 22.00% | ~125 |
+| Sump Explorer | 22.00% | ~125 |
 | Ask Questions Later | 22.00% | ~125 |
-| Sump Explorer | 21.00% | ~119 |
 | Syron for Hope | 21.00% | ~119 |
 | Chaincrawler Explorer | 20.00% | ~114 |
 | Factorywood Explorer | 20.00% | ~114 |
@@ -59,7 +59,7 @@
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 568 (Ranked 196)  
-Completed: 0 (0.00%) (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -34,8 +34,8 @@ Number of Ratings: 20  (23.09.2022)
 | Dapper | 14.00% | ~42 |
 | The New Director | 13.00% | ~39 |
 | The Director is Dead | 13.00% | ~39 |
+| Adventurer | 13.00% | ~39 |
 | Plays Well With Others | 13.00% | ~39 |
-| Adventurer | 12.00% | ~36 |
 | Discovery | 12.00% | ~36 |
 | Very Classy | 11.00% | ~33 |
 | And Here Is Your Statue | 10.00% | ~30 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 303 (Ranked 222)  
-Completed: 1 (0.33%) (Ranked 121)  
+Completed: 1 (0.33%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

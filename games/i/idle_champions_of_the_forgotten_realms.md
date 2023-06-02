@@ -107,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.20% | ~111 |
 | Close Escort | 0.20% | ~179 |
 | Constant Banditry | 0.20% | ~179 |
+| The Long Haul | 0.20% | ~179 |
 | Lost in the Deep | 0.20% | ~179 |
 | Easily Distracted | 0.20% | ~179 |
 | Underdeep Cartography | 0.20% | ~179 |
@@ -417,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~56 |
 | Mirage Arcane | 0.10% | ~56 |
 | Only Human | 0.10% | ~56 |
-| The Long Haul | 0.10% | ~89 |
 | Rude Welcome | 0.10% | ~89 |
 | Moose Tracks | 0.10% | ~56 |
 | An Awakened Axe | 0.10% | ~56 |

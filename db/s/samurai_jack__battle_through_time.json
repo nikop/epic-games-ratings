@@ -3,9 +3,9 @@
   "Name": "Samurai Jack: Battle Through Time",
   "ProductSlug": "samurai-jack-battle-through-time",
   "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-07-22T16:00:00+00:00",
     "PcReleaseDate": "2020-08-21T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:06.2862274+00:00",
   "LastChanged": "2023-03-31T05:57:06.2862275+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:19.2064304+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:00:15.9010794+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:05:46.5428897+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:00:15.0231584+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:05:42.4558666+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,419 |
+| Tattletale | 42.00% | ~5,420 |
 | Man of politics | 36.00% | ~4,645 |
 | Friends of sorts | 34.00% | ~4,387 |
 | Yet another secret | 34.00% | ~4,387 |
@@ -21,10 +21,10 @@ Number of Ratings: 368  (23.09.2022)
 | Workers' union | 19.00% | ~2,452 |
 | End of Book Two | 18.00% | ~2,323 |
 | Everything's in order | 17.00% | ~2,194 |
-| Jack was here! | 15.00% | ~1,935 |
-| Twist of Fate | 14.00% | ~1,806 |
-| Exterminator | 14.00% | ~1,806 |
-| Whodunnit | 13.00% | ~1,677 |
+| Jack was here! | 15.00% | ~1,936 |
+| Twist of Fate | 14.00% | ~1,807 |
+| Exterminator | 14.00% | ~1,807 |
+| Whodunnit | 13.00% | ~1,678 |
 | Good midwife | 11.00% | ~1,419 |
 | Friar Tuck | 11.00% | ~1,419 |
 | First profit | 11.00% | ~1,419 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~387 |
 | Boy of mystery | 2.00% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,903 (Ranked 105)  
-Completed: 97 (0.75%) (Ranked 98)  
+Progressed: 12,904 (Ranked 105)  
+Completed: 97 (0.75%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,10 +91,11 @@ Completed: 97 (0.75%) (Ranked 98)
 | 2023-05-30 | 12,859 | 96 |
 | 2023-05-31 | 12,881 | 96 |
 | 2023-06-01 | 12,903 | 97 |
+| 2023-06-02 | 12,904 | 97 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
-Sum: 188 (Ranked 354)  
-Diff (max vs sum): -67  
+Sum: 188 (Ranked 355)  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 148 |

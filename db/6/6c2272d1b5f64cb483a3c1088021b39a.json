@@ -3,9 +3,9 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -562,9 +562,9 @@
       "ID": "elite_deck_1",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 1",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "elite_deck_2",
@@ -610,7 +610,7 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:03:44.8354415+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:03:40.5979792+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:57:14.3308144+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:03:44.8355088+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:57:14.7138467+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:03:40.5980478+00:00"
 }

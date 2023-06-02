@@ -3,9 +3,9 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1020,9 +1020,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 273
     },
     {
       "ID": "MapCompletion1",
@@ -1092,9 +1092,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 256
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1140,9 +1140,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 216
     },
     {
       "ID": "SkillCompletion1",
@@ -1156,9 +1156,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 278
     },
     {
       "ID": "SpeedRun",
@@ -1172,9 +1172,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 125
     },
     {
       "ID": "SyronGift",
@@ -1212,9 +1212,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 278
     },
     {
       "ID": "WatcherFought",
@@ -1228,9 +1228,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 170
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1259,8 +1259,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:05:42.1187427+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:05:38.0779236+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.7905981+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:59:48.070842+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:05:42.1188034+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:59:48.2221988+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:05:38.0779971+00:00"
 }

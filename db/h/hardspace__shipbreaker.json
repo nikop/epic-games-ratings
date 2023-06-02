@@ -5,10 +5,10 @@
   "Ranking_Rating": 276,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Progress": 186,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -660,6 +660,11 @@
       "Time": "2023-06-02T00:02:25.2562268+00:00",
       "NumProgressed": 686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T05:03:24.0762778+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -671,7 +676,7 @@
       "Name": "Act I Complete",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -679,7 +684,7 @@
       "Name": "Act II Complete",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -703,7 +708,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -751,7 +756,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -767,7 +772,7 @@
       "Name": "Critical Thinker",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -807,7 +812,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -823,7 +828,7 @@
       "Name": "I can fix it!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -831,7 +836,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -847,7 +852,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -861,9 +866,9 @@
       "ID": "ACH_SOLIDARITY_FOREVER",
       "SetID": "108h92c",
       "Name": "Solidarity Forever",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -886,7 +891,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 0
     }
   ],
@@ -894,8 +899,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:03:27.875423+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:03:24.0762771+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.5926021+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:57:50.0938315+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:03:27.8754449+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:57:49.9383539+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:03:24.0763083+00:00"
 }

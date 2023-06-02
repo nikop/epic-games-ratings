@@ -28,7 +28,7 @@
 | Bull and bear | 25.00% | ~168 |
 | Mole | 24.00% | ~162 |
 | Seven at one stroke | 22.00% | ~148 |
-| Financial Shark | 21.00% | ~141 |
+| Financial Shark | 22.00% | ~148 |
 | All mine | 20.00% | ~135 |
 | Hostile Takeover | 18.00% | ~121 |
 | Trailblazer | 17.00% | ~114 |
@@ -61,7 +61,7 @@
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 673 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

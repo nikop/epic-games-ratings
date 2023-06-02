@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -344,9 +344,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9162,
+  "EOS_Progressed": 9164,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3289,6 +3289,11 @@
       "Time": "2023-06-02T04:06:49.5828805+00:00",
       "NumProgressed": 9162,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-02T05:06:43.8647663+00:00",
+      "NumProgressed": 9164,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3300,7 +3305,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7330
+      "UsersEstimate": 7331
     },
     {
       "ID": "ACH02",
@@ -3356,7 +3361,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "ACH09",
@@ -3396,7 +3401,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACH14",
@@ -3420,7 +3425,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACH17",
@@ -3444,7 +3449,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH20",
@@ -3468,7 +3473,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACH23",
@@ -3579,7 +3584,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9162,
+      "Progressed": 9164,
       "Completed": 17
     }
   ],
@@ -3587,8 +3592,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-01T18:00:22.6176113+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:06:49.5828797+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:06:43.8647656+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:37.6877714+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:00:40.9422853+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:06:49.5829244+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:00:39.3601548+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:06:43.8648104+00:00"
 }

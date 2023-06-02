@@ -6,9 +6,9 @@
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1230,
+  "EOS_Progressed": 1231,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -705,6 +705,11 @@
       "Time": "2023-06-02T03:11:32.0048359+00:00",
       "NumProgressed": 1230,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-02T05:06:23.7890922+00:00",
+      "NumProgressed": 1231,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -732,7 +737,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -780,7 +785,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -946,9 +951,9 @@
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 74
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1163,15 +1168,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1230,
+      "Progressed": 1231,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:06:29.044217+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:06:23.7890914+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-06-02T04:01:02.9767826+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:06:29.0442885+00:00"
+  "LastUpdate_Ratings": "2023-06-02T05:01:00.3532873+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:06:23.7891773+00:00"
 }

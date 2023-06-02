@@ -38,10 +38,10 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~88 |
 | Renaissance man | 4.00% | ~88 |
 | Tank commander | 4.00% | ~88 |
+| Trick shot marksman | 4.00% | ~88 |
 | Cops called! | 3.00% | ~66 |
 | G.O.A.T. status | 3.00% | ~66 |
 | Hoarder | 3.00% | ~66 |
-| Trick shot marksman | 3.00% | ~66 |
 | We get it, you're good | 3.00% | ~66 |
 | Cross lock country | 2.00% | ~44 |
 | Many plys later... | 2.00% | ~44 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,203 (Ranked 148)  
-Completed: 0 (0.00%) (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 95,
-  "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1524,9 +1524,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 19189,
+  "EOS_Progressed": 19191,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3424,6 +3424,11 @@
       "Time": "2023-06-02T04:06:32.5226599+00:00",
       "NumProgressed": 19189,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-02T05:06:27.0129985+00:00",
+      "NumProgressed": 19191,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3467,7 +3472,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "EstateAgent",
@@ -3475,7 +3480,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "FirstMoney",
@@ -3483,7 +3488,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18038
+      "UsersEstimate": 18040
     },
     {
       "ID": "GameOver",
@@ -3539,7 +3544,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "MrAndMrsJantart",
@@ -3563,7 +3568,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "RafaelErko",
@@ -3618,15 +3623,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19189,
+      "Progressed": 19191,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-01T11:59:58.357454+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:06:32.5226591+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:06:27.0129977+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:56.6774726+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:59:48.7918878+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:06:32.5227065+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:59:48.9487047+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:06:27.0130289+00:00"
 }

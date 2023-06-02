@@ -293,7 +293,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,644 (Ranked 106)  
-Completed: 3 (0.03%) (Ranked 186)  
+Completed: 3 (0.03%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

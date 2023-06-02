@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 943,
+  "EOS_Progressed": 944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-06-02T04:01:12.8914483+00:00",
       "NumProgressed": 943,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T05:01:11.8392263+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1063,7 +1068,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1173,9 +1178,9 @@
       "ID": "DRESSED_TO_KILL",
       "SetID": "9a4jnji",
       "Name": "Dressed To Kill",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 19
     },
     {
       "ID": "DR_JONES",
@@ -1191,7 +1196,7 @@
       "Name": "Editor Adept",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ENDGAME",
@@ -1205,9 +1210,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 283
     },
     {
       "ID": "EXPERIENCED",
@@ -1263,7 +1268,7 @@
       "Name": "Giant Killer",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "GOAL",
@@ -1295,7 +1300,7 @@
       "Name": "I am the law!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "INFILTRATOR",
@@ -1311,7 +1316,7 @@
       "Name": "Lumberjack",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1351,7 +1356,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "RECYCLER",
@@ -1367,7 +1372,7 @@
       "Name": "Ruthless",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "SAVIOR",
@@ -1431,7 +1436,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "THE_WATCHERS",
@@ -1439,7 +1444,7 @@
       "Name": "The Watchers",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "WIPE_OUT",
@@ -1454,7 +1459,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 0
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-01T20:58:08.0220539+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:01:12.8914472+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:01:11.8392256+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:58:38.6765783+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:01:12.8915022+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:58:37.0278238+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:01:11.8393238+00:00"
 }

@@ -15,24 +15,24 @@
 | Power Overload | 61.00% | ~82 |
 | Quite A Snack | 57.00% | ~76 |
 | Overwhelming Power | 53.00% | ~71 |
-| Impenetrable Skin | 50.00% | ~67 |
+| Impenetrable Skin | 51.00% | ~68 |
 | Chomp Chomp! | 41.00% | ~55 |
 | Glorious Battle | 40.00% | ~54 |
 | Supreme Power | 39.00% | ~52 |
-| Diaper Time! | 38.00% | ~51 |
+| Diaper Time! | 39.00% | ~52 |
 | Target Practice | 38.00% | ~51 |
 | The Duelist | 37.00% | ~50 |
+| Meat Larder | 37.00% | ~50 |
 | Mutant And Proud | 36.00% | ~48 |
-| Meat Larder | 36.00% | ~48 |
-| The Emperor's New Clothes | 29.00% | ~39 |
+| The Emperor's New Clothes | 30.00% | ~40 |
+| Final Evolution | 29.00% | ~39 |
 | Godlike Power | 28.00% | ~38 |
 | Happy Little Home | 28.00% | ~38 |
-| Final Evolution | 28.00% | ~38 |
-| You Shall Not Pass | 26.00% | ~35 |
+| You Shall Not Pass | 27.00% | ~36 |
+| Fight Me! | 27.00% | ~36 |
+| Supremacy | 27.00% | ~36 |
+| Mommy's Very Angry | 26.00% | ~35 |
 | Animal Lover | 26.00% | ~35 |
-| Fight Me! | 26.00% | ~35 |
-| Supremacy | 26.00% | ~35 |
-| Mommy's Very Angry | 25.00% | ~34 |
 | Undying Skin | 25.00% | ~34 |
 | Immortal Skin | 22.00% | ~29 |
 | Loyal Companion | 22.00% | ~29 |
@@ -59,7 +59,7 @@
 | Hearty Meteor | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 134 (Ranked 261)  
-Completed: 1 (0.75%) (Ranked 98)  
+Completed: 1 (0.75%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

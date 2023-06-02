@@ -18,7 +18,7 @@
 | Life Lessons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 364)  
-Completed: 0 (0.00%) (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

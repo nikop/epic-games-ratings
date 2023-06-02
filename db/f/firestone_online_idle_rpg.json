@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -116,7 +116,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1252,
+  "EOS_Progressed": 1253,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -2526,6 +2526,11 @@
       "Time": "2023-06-02T03:11:43.4547413+00:00",
       "NumProgressed": 1252,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T05:06:34.9967018+00:00",
+      "NumProgressed": 1253,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2703,9 +2708,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 163
     },
     {
       "ID": "exoticmerchant",
@@ -2769,7 +2774,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "herewegoagain",
@@ -2993,7 +2998,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "thealchemist",
@@ -3097,7 +3102,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "warmachinesarmy",
@@ -3136,7 +3141,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1252,
+      "Progressed": 1253,
       "Completed": 1
     }
   ],
@@ -3144,8 +3149,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-01T11:58:24.5619645+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:06:40.5927788+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:06:34.9967012+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:58:20.1464266+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:06:40.592864+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:58:19.2633828+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:06:34.9968981+00:00"
 }

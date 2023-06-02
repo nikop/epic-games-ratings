@@ -30,7 +30,7 @@
 | Quit Horsin' Around | 7.00% | ~5 |
 | Master Survivor | 7.00% | ~2 |
 | Summers Here | 7.00% | ~2 |
-| This Is My Boomstick | 4.00% | ~1 |
+| This Is My Boomstick | 5.00% | ~1 |
 | Easy Peasy | 4.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |
 | Getting Started | 3.00% | ~2 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 74 (Ranked 287)  
-Completed: 0 (0.00%) (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

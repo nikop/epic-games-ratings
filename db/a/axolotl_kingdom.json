@@ -3,9 +3,9 @@
   "Name": "Axolotl Kingdom",
   "ProductSlug": "axolotl-kingdom-e6beba",
   "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-08T15:00:00+00:00",
     "PcReleaseDate": "2023-05-05T15:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-26T19:57:06.1425286+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:57:28.2942856+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:01:16.4625647+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:57:28.533128+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:01:15.2179896+00:00"
 }

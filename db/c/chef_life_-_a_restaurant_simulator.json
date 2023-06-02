@@ -3,9 +3,9 @@
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1094,6 +1094,11 @@
       "Time": "2023-06-02T00:00:04.5547093+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T05:01:24.5737209+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1281,7 +1286,7 @@
       "Name": "The Big Day",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Packing20",
@@ -1327,9 +1332,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ServiceMaxClient",
@@ -1359,9 +1364,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "TrattoriaSet",
@@ -1424,7 +1429,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 274,
       "Completed": 0
     }
   ],
@@ -1432,8 +1437,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:01:26.3101736+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:01:24.5737201+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:58:44.9779456+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:01:26.3102082+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:58:43.4728858+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:01:24.5737816+00:00"
 }

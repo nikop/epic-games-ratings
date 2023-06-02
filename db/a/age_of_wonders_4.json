@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4143,
+  "EOS_Progressed": 4144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2765,6 +2765,11 @@
       "Time": "2023-06-02T04:04:53.8761179+00:00",
       "NumProgressed": 4143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T05:04:47.8994224+00:00",
+      "NumProgressed": 4144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2888,7 +2893,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3108
     },
     {
       "ID": "23",
@@ -2904,7 +2909,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "25",
@@ -2912,7 +2917,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "26",
@@ -2936,7 +2941,7 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "29",
@@ -2944,7 +2949,7 @@
       "Name": "Stronger Together",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "3",
@@ -2992,7 +2997,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "35",
@@ -3040,7 +3045,7 @@
       "Name": "The Eternal Court",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "40",
@@ -3048,7 +3053,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "41",
@@ -3056,7 +3061,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "42",
@@ -3127,13 +3132,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4143,
-      "Completed": 4143
+      "Progressed": 4144,
+      "Completed": 4144
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4143,
+      "Progressed": 4144,
       "Completed": 0
     }
   ],
@@ -3141,8 +3146,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-02T04:04:53.876117+00:00",
+  "LastChanged_Achievements": "2023-06-02T05:04:47.8994212+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.325993+00:00",
-  "LastUpdate_Ratings": "2023-06-02T03:59:49.6058747+00:00",
-  "LastUpdate_Achievements": "2023-06-02T04:04:53.876172+00:00"
+  "LastUpdate_Ratings": "2023-06-02T04:59:49.7437452+00:00",
+  "LastUpdate_Achievements": "2023-06-02T05:04:47.8994776+00:00"
 }
