@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 420)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 13.00% | ~307 |
-| Sputnik 2049 | 11.00% | ~259 |
+| Sputnik 2049 | 11.00% | ~260 |
 | Without Breaking Some Eggs... | 10.00% | ~236 |
 | Infinite Growth... | 10.00% | ~236 |
 | Space Society | 6.00% | ~142 |
@@ -17,16 +17,16 @@ Rating: 4.58 (Ranked 420)
 | Permanent Redesigns | 5.00% | ~118 |
 | Ain't Nobody Got Time for That | 5.00% | ~118 |
 | Hope Seeker | 5.00% | ~118 |
-| A Hunk of Junk | 4.00% | ~94 |
-| Fully Recycled | 4.00% | ~94 |
-| The Ship of Theseus | 4.00% | ~94 |
+| A Hunk of Junk | 4.00% | ~95 |
+| Fully Recycled | 4.00% | ~95 |
+| The Ship of Theseus | 4.00% | ~95 |
 | Exceeding Capacity | 3.00% | ~71 |
-| Necessary Enhancement | 3.00% | ~71 |
 | Please Make it Stop! | 3.00% | ~71 |
 | Man's Best Friend | 2.00% | ~47 |
 | Sightseeing | 2.00% | ~47 |
 | Power Outage | 2.00% | ~47 |
 | Access Granted | 2.00% | ~47 |
+| Necessary Enhancement | 2.00% | ~47 |
 | Convenient Transport | 2.00% | ~47 |
 | From the Past | 2.00% | ~47 |
 | Oats | 1.00% | ~24 |
@@ -47,10 +47,10 @@ Rating: 4.58 (Ranked 420)
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |
 | Help of the Forgotten Member | 0.50% | ~12 |
+| Better Him Than Me | 0.40% | ~9 |
 | Tiqqun Contender | 0.40% | ~9 |
 | Gregor Spinoza | 0.40% | ~9 |
 | Scientifically Accurate | 0.40% | ~9 |
-| Better Him Than Me | 0.30% | ~7 |
 | Remember the Dead | 0.30% | ~7 |
 | Soylent Green | 0.30% | ~7 |
 | Work Harder | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 420)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,359 (Ranked 146)  
+Progressed: 2,363 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 2,306 | 0 |
 | 2023-05-31 | 2,333 | 0 |
 | 2023-06-01 | 2,350 | 0 |
-| 2023-06-02 | 2,359 | 0 |
+| 2023-06-02 | 2,363 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

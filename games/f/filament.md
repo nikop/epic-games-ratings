@@ -5,7 +5,7 @@ Rating: 4.32 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~180,385 |
+| Boarded! | 94.00% | ~180,390 |
 | Snooper. | 10.00% | ~19,190 |
 | You have to start somewhere, right? | 7.00% | ~13,433 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,514 |
@@ -31,11 +31,11 @@ Rating: 4.32 (Ranked 745)
 | Bridge crossed. | 0.60% | ~1,151 |
 | A full deck. | 0.60% | ~1,151 |
 | 14237b6509eafd8c | 0.60% | ~1,151 |
-| No Anchor too great. | 0.50% | ~959 |
+| No Anchor too great. | 0.50% | ~960 |
 | Snooper + | 0.40% | ~768 |
 | Corrupted + | 0.30% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,899 (Ranked 49)  
+Progressed: 191,904 (Ranked 49)  
 Completed: 429 (0.22%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,14 +78,14 @@ Completed: 429 (0.22%) (Ranked 139)
 | 2023-05-30 | 191,657 | 428 |
 | 2023-05-31 | 191,763 | 429 |
 | 2023-06-01 | 191,860 | 429 |
-| 2023-06-02 | 191,899 | 429 |
+| 2023-06-02 | 191,904 | 429 |
 ## Awards
-Max (Challenging Puzzles): 552  (Ranked 176)  
-Sum: 666 (Ranked 266)  
+Max (Challenging Puzzles): 553  (Ranked 176)  
+Sum: 667 (Ranked 266)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 552 |
+| This game features Challenging Puzzles | 553 |
 | This game has Amazing Characters | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
@@ -114,3 +114,4 @@ Diff (max vs sum): -90
 | 2023-04-22 | 4.32 | 550 | 664 |
 | 2023-04-27 | 4.32 | 551 | 665 |
 | 2023-05-15 | 4.32 | 552 | 666 |
+| 2023-06-02 | 4.32 | 553 | 667 |

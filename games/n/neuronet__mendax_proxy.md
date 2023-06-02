@@ -12,27 +12,27 @@
 | Shook Up | 50.00% | ~9 |
 | Vaccinated | 50.00% | ~9 |
 | A Light in the Dark | 44.00% | ~8 |
+| The Guardian | 44.00% | ~8 |
 | Busybody | 44.00% | ~8 |
+| Endgame | 44.00% | ~8 |
+| The Philosopher | 44.00% | ~8 |
+| The Partner | 44.00% | ~8 |
 | Socially Acceptable Insanity | 44.00% | ~8 |
+| The Companion | 44.00% | ~8 |
 | Task Master | 44.00% | ~8 |
+| The Counsellor | 44.00% | ~8 |
 | Warning: Fragile | 44.00% | ~8 |
 | An Acquired Taste | 39.00% | ~7 |
-| The Guardian | 39.00% | ~7 |
-| Endgame | 39.00% | ~7 |
-| The Philosopher | 39.00% | ~7 |
-| The Partner | 39.00% | ~7 |
-| The Companion | 39.00% | ~7 |
-| The Counsellor | 39.00% | ~7 |
 | Blood Begets Blood | 33.00% | ~6 |
 | Everyone Needs a Break | 33.00% | ~6 |
 | That One Doesn't Count | 33.00% | ~6 |
 | A Real Headache | 28.00% | ~5 |
 | A Total Riot | 28.00% | ~5 |
+| Full Coverage | 28.00% | ~5 |
 | Job Creator | 28.00% | ~5 |
 | Knock Knock | 28.00% | ~5 |
 | They Flock to Him | 28.00% | ~5 |
 | A Little Eccentric | 22.00% | ~4 |
-| Full Coverage | 22.00% | ~4 |
 | Quidnunc | 22.00% | ~4 |
 | Social Butterfly | 22.00% | ~4 |
 | Zonk! | 22.00% | ~4 |
@@ -41,12 +41,12 @@
 | Ring of Fire | 17.00% | ~3 |
 | The Provocateur | 17.00% | ~3 |
 | Overseer | 11.00% | ~2 |
+| The Mentor | 11.00% | ~2 |
 | Tastes Like Regret | 11.00% | ~2 |
 | The Spice of Life | 11.00% | ~2 |
 | Wilful Ignorance | 11.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
-| The Mentor | 6.00% | ~1 |
 | What They Don't Know Can't Hurt Them | 6.00% | ~1 |
 | Keeper of the People | 0.00% | ~0 |
 | The Archetype | 0.00% | ~0 |

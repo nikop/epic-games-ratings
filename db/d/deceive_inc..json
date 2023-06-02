@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6518,
+  "EOS_Progressed": 6519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3488,6 +3488,11 @@
       "Time": "2023-06-02T02:25:05.013446+00:00",
       "NumProgressed": 6518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T11:07:18.1981106+00:00",
+      "NumProgressed": 6519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3507,7 +3512,7 @@
       "Name": "License to Thrill",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "0003",
@@ -3515,7 +3520,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "0004",
@@ -3563,7 +3568,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "0010",
@@ -3571,7 +3576,7 @@
       "Name": "Social of Solace",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "0011",
@@ -3603,7 +3608,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "0015",
@@ -3627,7 +3632,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "0018",
@@ -3683,7 +3688,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "0025",
@@ -3699,7 +3704,7 @@
       "Name": "The Living Portrait",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "0027",
@@ -3707,7 +3712,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "0028",
@@ -3715,7 +3720,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "0029",
@@ -3747,7 +3752,7 @@
       "Name": "Killer Looks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "0033",
@@ -3786,7 +3791,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6518,
+      "Progressed": 6519,
       "Completed": 0
     }
   ],
@@ -3794,8 +3799,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-02T10:06:32.0529067+00:00",
+  "LastChanged_Achievements": "2023-06-02T11:07:18.1981099+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:07.589354+00:00",
-  "LastUpdate_Ratings": "2023-06-02T09:59:56.2691729+00:00",
-  "LastUpdate_Achievements": "2023-06-02T10:06:32.052947+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:00:38.0561992+00:00",
+  "LastUpdate_Achievements": "2023-06-02T11:07:18.1981671+00:00"
 }

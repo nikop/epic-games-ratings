@@ -4,11 +4,11 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 194,
   "Ranking_Popularity": 119,
-  "Ranking_PopularitySum": 199,
+  "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425641,
+  "EOS_Progressed": 425642,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4144,6 +4144,11 @@
       "Time": "2023-06-02T09:03:13.1426147+00:00",
       "NumProgressed": 425641,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-06-02T11:02:21.6006556+00:00",
+      "NumProgressed": 425642,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 41,
@@ -4195,7 +4200,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 178769
+      "UsersEstimate": 178770
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -4211,7 +4216,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127692
+      "UsersEstimate": 127693
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -4235,7 +4240,7 @@
       "Name": "Rot Commander",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 251128
+      "UsersEstimate": 251129
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -4323,7 +4328,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404359
+      "UsersEstimate": 404360
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -4347,7 +4352,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157487
+      "UsersEstimate": 157488
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -4355,7 +4360,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293692
+      "UsersEstimate": 293693
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -4371,7 +4376,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340513
+      "UsersEstimate": 340514
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -4403,7 +4408,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191538
+      "UsersEstimate": 191539
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -4435,7 +4440,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238359
+      "UsersEstimate": 238360
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -4482,15 +4487,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425641,
+      "Progressed": 425642,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-01T15:58:24.2194273+00:00",
-  "LastChanged_Achievements": "2023-06-02T10:01:22.6076429+00:00",
+  "LastChanged_Achievements": "2023-06-02T11:02:21.6006549+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.5194624+00:00",
-  "LastUpdate_Ratings": "2023-06-02T09:58:30.4135405+00:00",
-  "LastUpdate_Achievements": "2023-06-02T10:01:22.6076918+00:00"
+  "LastUpdate_Ratings": "2023-06-02T10:58:52.0845217+00:00",
+  "LastUpdate_Achievements": "2023-06-02T11:02:21.6007159+00:00"
 }

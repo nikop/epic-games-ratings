@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1509,
+  "EOS_Progressed": 1511,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 8.15,
+  "EOS_Completed_Percentage": 8.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2073,6 +2073,11 @@
       "Time": "2023-06-02T07:05:17.5222032+00:00",
       "NumProgressed": 1509,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-06-02T11:07:03.5392856+00:00",
+      "NumProgressed": 1511,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 12,
@@ -2084,7 +2089,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Bernard",
@@ -2116,7 +2121,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Jakob",
@@ -2148,7 +2153,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2164,7 +2169,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "Nuremberg Laws",
@@ -2179,7 +2184,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1509,
+      "Progressed": 1511,
       "Completed": 123
     }
   ],
@@ -2187,8 +2192,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-02T10:06:19.2524686+00:00",
+  "LastChanged_Achievements": "2023-06-02T11:07:03.5392851+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:03.7369904+00:00",
-  "LastUpdate_Ratings": "2023-06-02T09:59:47.9118119+00:00",
-  "LastUpdate_Achievements": "2023-06-02T10:06:19.2524903+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:00:27.4631295+00:00",
+  "LastUpdate_Achievements": "2023-06-02T11:07:03.5393107+00:00"
 }

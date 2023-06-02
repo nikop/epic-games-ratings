@@ -5,11 +5,11 @@ Rating: 4.30 (Ranked 759)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~864 |
-| Ranidaphobia | 72.00% | ~684 |
-| Aspiring Editor | 70.00% | ~665 |
-| Gun for Hire | 64.00% | ~608 |
-| I am the law! | 54.00% | ~513 |
+| First Blood | 91.00% | ~865 |
+| Ranidaphobia | 72.00% | ~685 |
+| Aspiring Editor | 70.00% | ~666 |
+| Gun for Hire | 64.00% | ~609 |
+| I am the law! | 54.00% | ~514 |
 | Lumberjack | 38.00% | ~361 |
 | Croaked | 33.00% | ~314 |
 | Limp Richard | 32.00% | ~304 |
@@ -18,9 +18,9 @@ Rating: 4.30 (Ranked 759)
 | Editor Adept | 29.00% | ~276 |
 | Exorcist | 29.00% | ~276 |
 | Giant Killer | 24.00% | ~228 |
-| Sensei | 23.00% | ~218 |
+| Sensei | 23.00% | ~219 |
 | The meaning of Kain | 22.00% | ~209 |
-| Technophobe | 19.00% | ~180 |
+| Technophobe | 19.00% | ~181 |
 | Recycler | 17.00% | ~162 |
 | Chain Killer | 14.00% | ~133 |
 | Hold The Line | 14.00% | ~133 |
@@ -35,7 +35,7 @@ Rating: 4.30 (Ranked 759)
 | Ruthless | 9.00% | ~86 |
 | Endgame | 8.00% | ~76 |
 | The Watchers | 8.00% | ~76 |
-| Savior | 7.00% | ~66 |
+| Savior | 7.00% | ~67 |
 | Dr Jones | 6.00% | ~57 |
 | Chain Reaction | 5.00% | ~48 |
 | Chaos Theory | 5.00% | ~48 |
@@ -43,7 +43,7 @@ Rating: 4.30 (Ranked 759)
 | Curveball | 5.00% | ~48 |
 | Wipe Out | 5.00% | ~48 |
 | Side Order | 4.00% | ~38 |
-| Bot Whisperer | 3.00% | ~28 |
+| Bot Whisperer | 3.00% | ~29 |
 | Dressed To Kill | 2.00% | ~19 |
 | Cruelty | 1.00% | ~10 |
 | Five Finger Deathcount | 0.50% | ~5 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 759)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 950 (Ranked 173)  
+Progressed: 951 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
-| 2023-06-02 | 950 | 0 |
+| 2023-06-02 | 951 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

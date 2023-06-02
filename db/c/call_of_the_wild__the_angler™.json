@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3990,
+  "EOS_Progressed": 3991,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2403,6 +2403,11 @@
       "Time": "2023-06-02T06:01:26.9917838+00:00",
       "NumProgressed": 3990,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T11:01:48.3544021+00:00",
+      "NumProgressed": 3991,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2422,7 +2427,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2462,7 +2467,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -2470,7 +2475,7 @@
       "Name": "Scaling up",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2693,13 +2698,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3990,
+      "Progressed": 3991,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3362,
+      "Progressed": 3363,
       "Completed": 112
     }
   ],
@@ -2707,8 +2712,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-02T09:03:20.8864443+00:00",
+  "LastChanged_Achievements": "2023-06-02T11:01:48.3543805+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:00:06.1007051+00:00",
-  "LastUpdate_Achievements": "2023-06-02T09:03:20.8864831+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:00:49.0999532+00:00",
+  "LastUpdate_Achievements": "2023-06-02T11:01:48.3566731+00:00"
 }

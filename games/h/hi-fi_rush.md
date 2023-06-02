@@ -5,19 +5,19 @@ Rating: 4.88 (Ranked 19)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,049 |
-| Feeling the beat! | 80.00% | ~2,049 |
-| You can pet the cat! | 75.00% | ~1,921 |
-| Who put gears in there? | 68.00% | ~1,741 |
-| Cream of the Crop | 63.00% | ~1,613 |
+| Start with a bang! | 80.00% | ~2,050 |
+| Feeling the beat! | 80.00% | ~2,050 |
+| You can pet the cat! | 75.00% | ~1,922 |
+| Who put gears in there? | 68.00% | ~1,742 |
+| Cream of the Crop | 63.00% | ~1,614 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~1,588 |
 | You got this, Peppermint? | 57.00% | ~1,460 |
 | Perfect Parry | 55.00% | ~1,409 |
 | Alright, that felt AWESOME! | 55.00% | ~1,409 |
-| I play my own way! | 50.00% | ~1,280 |
-| This will cost you big time | 48.00% | ~1,229 |
+| I play my own way! | 50.00% | ~1,281 |
+| This will cost you big time | 48.00% | ~1,230 |
 | Uh, they were broken when I got here | 47.00% | ~1,204 |
-| Z-shielding's got nothing on us! | 46.00% | ~1,178 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,179 |
 | Kissing the sky! | 44.00% | ~1,127 |
 | Does that say weakpoint? | 42.00% | ~1,076 |
 | Whoa! There's ANOTHER health bar!? | 41.00% | ~1,050 |
@@ -26,19 +26,19 @@ Rating: 4.88 (Ranked 19)
 | Out in a puff of smoke | 34.00% | ~871 |
 | Headliner | 33.00% | ~845 |
 | Time to pay up! | 31.00% | ~794 |
-| Perfecter Parry-er! | 30.00% | ~768 |
+| Perfecter Parry-er! | 30.00% | ~769 |
 | Who's the boss now? | 29.00% | ~743 |
 | I have to read these things? | 28.00% | ~717 |
 | I look cool. But I can look COOLER. | 28.00% | ~717 |
-| There's such a thing as TOO helpful | 22.00% | ~563 |
+| There's such a thing as TOO helpful | 22.00% | ~564 |
 | That's a lot of junk metal… | 20.00% | ~512 |
-| Beat-hit mania | 18.00% | ~461 |
+| Beat-hit mania | 19.00% | ~487 |
 | I told you I'd be fine, Peppermint! | 18.00% | ~461 |
-| Well that was a rush! | 17.00% | ~435 |
+| Well that was a rush! | 17.00% | ~436 |
 | Wanna hear my playlist? | 12.00% | ~307 |
 | Check out my moves! | 12.00% | ~307 |
 | Chip-tuned | 11.00% | ~282 |
-| We're Jammin' | 9.00% | ~230 |
+| We're Jammin' | 9.00% | ~231 |
 | I think I found your calling, Macaron | 8.00% | ~205 |
 | I'm not done with you yet | 8.00% | ~205 |
 | First we parry, then we counter | 8.00% | ~205 |
@@ -67,7 +67,7 @@ Rating: 4.88 (Ranked 19)
 | Didn't skip a beat! | 0.30% | ~8 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,561 (Ranked 143)  
+Progressed: 2,562 (Ranked 143)  
 Completed: 4 (0.16%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 4 (0.16%) (Ranked 147)
 | 2023-05-30 | 2,453 | 4 |
 | 2023-05-31 | 2,489 | 4 |
 | 2023-06-01 | 2,530 | 4 |
-| 2023-06-02 | 2,561 | 4 |
+| 2023-06-02 | 2,562 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

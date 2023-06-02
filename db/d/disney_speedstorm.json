@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2672,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2358,9 +2358,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 748
+      "UsersEstimate": 775
     },
     {
       "ID": "5",
@@ -2412,8 +2412,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-02T10:04:04.4455255+00:00",
+  "LastChanged_Achievements": "2023-06-02T11:04:25.3137585+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.4271588+00:00",
-  "LastUpdate_Ratings": "2023-06-02T09:59:11.4165051+00:00",
-  "LastUpdate_Achievements": "2023-06-02T10:04:04.4455556+00:00"
+  "LastUpdate_Ratings": "2023-06-02T10:59:42.350802+00:00",
+  "LastUpdate_Achievements": "2023-06-02T11:04:25.3137925+00:00"
 }

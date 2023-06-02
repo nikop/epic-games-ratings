@@ -6,8 +6,8 @@ Rating: 4.18 (Ranked 835)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 10.00% | ~1,428 |
-| The Outer Way | 9.00% | ~1,285 |
-| Desperate Times | 8.00% | ~1,142 |
+| The Outer Way | 9.00% | ~1,286 |
+| Desperate Times | 8.00% | ~1,143 |
 | Chew 'Em Up | 7.00% | ~1,000 |
 | Paper Jams | 7.00% | ~1,000 |
 | Giving Back | 6.00% | ~857 |
@@ -18,12 +18,12 @@ Rating: 4.18 (Ranked 835)
 | Without A Paddle | 4.00% | ~571 |
 | Instigator | 4.00% | ~88 |
 | Big Game Hunter | 4.00% | ~88 |
-| Two Heads Are Better Than One | 3.00% | ~428 |
-| Terminated | 3.00% | ~428 |
-| Float Like A Butterfly | 3.00% | ~428 |
-| In the Pipe, Five by Five | 3.00% | ~428 |
-| Crash Site | 3.00% | ~428 |
-| Power Up | 3.00% | ~428 |
+| Two Heads Are Better Than One | 3.00% | ~429 |
+| Terminated | 3.00% | ~429 |
+| Float Like A Butterfly | 3.00% | ~429 |
+| In the Pipe, Five by Five | 3.00% | ~429 |
+| Crash Site | 3.00% | ~429 |
+| Power Up | 3.00% | ~429 |
 | Bear Trap | 3.00% | ~66 |
 | You Need a Gun | 2.00% | ~286 |
 | The Commonality | 2.00% | ~286 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 835)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,281 (Ranked 102)  
+Progressed: 14,285 (Ranked 102)  
 Completed: 53 (0.37%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,16 +88,16 @@ Completed: 53 (0.37%) (Ranked 117)
 | 2023-05-30 | 14,076 | 53 |
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
-| 2023-06-02 | 14,281 | 53 |
+| 2023-06-02 | 14,285 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
-Sum: 282 (Ranked 329)  
+Sum: 283 (Ranked 329)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
 | This game has Amazing Storytelling | 49 |
-| This game has Amazing Characters | 45 |
+| This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 44 |
 | This game has Quickly Understood Controls | 42 |
 | This game has Challenging Combat | 32 |
@@ -160,3 +160,4 @@ Diff (max vs sum): 60
 | 2023-05-30 | 4.18 | 50 | 277 |
 | 2023-05-31 | 4.18 | 50 | 281 |
 | 2023-06-01 | 4.18 | 50 | 282 |
+| 2023-06-02 | 4.18 | 50 | 283 |

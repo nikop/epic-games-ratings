@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 23597,
+  "EOS_Progressed": 23602,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4571,6 +4571,11 @@
       "Time": "2023-06-02T10:06:23.2709+00:00",
       "NumProgressed": 23597,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-02T11:07:08.1891068+00:00",
+      "NumProgressed": 23602,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -4590,7 +4595,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -4684,9 +4689,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -4813,7 +4818,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 23597,
+      "Progressed": 23602,
       "Completed": 18
     }
   ],
@@ -4821,8 +4826,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-02T10:06:23.2708995+00:00",
+  "LastChanged_Achievements": "2023-06-02T11:07:08.1891063+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:23.1629977+00:00",
-  "LastUpdate_Ratings": "2023-06-02T10:00:16.6382899+00:00",
-  "LastUpdate_Achievements": "2023-06-02T10:06:23.2709473+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:01:01.1641092+00:00",
+  "LastUpdate_Achievements": "2023-06-02T11:07:08.1891622+00:00"
 }

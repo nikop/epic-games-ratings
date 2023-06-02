@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 35.00% | ~990 |
+| Executioner | 36.00% | ~1,019 |
 | Look Over There! | 30.00% | ~849 |
 | Watch Where You Step... | 30.00% | ~849 |
 | Not So Fast... | 29.00% | ~821 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
     "PcReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "AURORA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Guardian",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BETA03",
@@ -224,9 +224,9 @@
       "ID": "ELEMAI05",
       "SetID": "2d85n75",
       "Name": "Endgame",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "EVERYONE_NEEDS_ABREAK",
@@ -248,17 +248,17 @@
       "ID": "FORTRAN_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Philosopher",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FULL_COVERAGE",
       "SetID": "2d85n75",
       "Name": "Full Coverage",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "JOB_CREATOR",
@@ -320,17 +320,17 @@
       "ID": "PAPA_RU_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Partner",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PATRIZIA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Mentor",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "QUIDNUNC",
@@ -384,9 +384,9 @@
       "ID": "TALINGREY_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Companion",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TASK_MASTER",
@@ -456,9 +456,9 @@
       "ID": "THOMPSON_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Counsellor",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UNDER_THE_WEATHER",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-06-02T10:06:32.5745066+00:00",
+  "LastChanged_Achievements": "2023-06-02T11:07:18.809155+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:08.8365769+00:00",
-  "LastUpdate_Ratings": "2023-06-02T09:59:56.4520018+00:00",
-  "LastUpdate_Achievements": "2023-06-02T10:06:32.5745402+00:00"
+  "LastUpdate_Ratings": "2023-06-02T11:00:38.2670498+00:00",
+  "LastUpdate_Achievements": "2023-06-02T11:07:18.8092053+00:00"
 }

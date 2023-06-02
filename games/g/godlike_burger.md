@@ -5,10 +5,10 @@ Rating: 4.25 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 82.00% | ~257 |
+| MASTER CHEF | 83.00% | ~261 |
 | FIRST BLOOD | 78.00% | ~245 |
 | KEVIN! | 68.00% | ~214 |
-| JACK OF ALL TRADES | 61.00% | ~192 |
+| JACK OF ALL TRADES | 62.00% | ~195 |
 | CRIMINAL | 56.00% | ~176 |
 | GRANDMA WOULD BE PROUD | 46.00% | ~144 |
 | WITHOUT BREAKING A SWEAT | 41.00% | ~129 |
