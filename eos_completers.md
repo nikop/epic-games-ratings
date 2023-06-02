@@ -23,20 +23,20 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.89% |
-| 24 | [Scorn](games/s/scorn.md) | 6.87% |
+| 24 | [Scorn](games/s/scorn.md) | 6.86% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.22% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.20% |
 | 29 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.63% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.95% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
-| 34 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 35 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.92% |
-| 36 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
+| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 36 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.92% |
+| 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.77% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
@@ -75,7 +75,7 @@
 | 73 | [Frogun](games/f/frogun.md) | 1.52% |
 | 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 75 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
-| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.39% |
+| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.35% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 78 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 79 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
@@ -120,9 +120,9 @@
 | 117 | [Tchia](games/t/tchia.md) | 0.37% |
 | 117 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 120 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 121 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
-| 122 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
-| 122 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 121 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
+| 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 121 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 124 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [Godlike Burger](games/g/godlike_burger.md) | 0.32% |
