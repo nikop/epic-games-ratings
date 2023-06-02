@@ -5,19 +5,19 @@ Rating: 4.42 (Ranked 653)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~519 |
-| Confirming Suspicions | 20.00% | ~415 |
-| The Kraken Wakes | 15.00% | ~311 |
-| Lord of War | 12.00% | ~249 |
-| It's Starting to Crack | 12.00% | ~249 |
+| Meeting Resistance | 25.00% | ~520 |
+| Confirming Suspicions | 20.00% | ~416 |
+| The Kraken Wakes | 15.00% | ~312 |
+| Lord of War | 12.00% | ~250 |
+| It's Starting to Crack | 12.00% | ~250 |
 | Resourceful | 10.00% | ~208 |
 | Change the Channel | 10.00% | ~208 |
 | Taking it back | 9.00% | ~187 |
 | Organ Grinder | 8.00% | ~166 |
 | As Quiet as a Mouse | 8.00% | ~166 |
-| Enemy at the Gates | 7.00% | ~145 |
-| Just a Flesh Wound | 7.00% | ~145 |
-| Target America | 7.00% | ~145 |
+| Enemy at the Gates | 7.00% | ~146 |
+| Just a Flesh Wound | 7.00% | ~146 |
+| Target America | 7.00% | ~146 |
 | Liberté | 6.00% | ~125 |
 | Sharpshooter | 6.00% | ~125 |
 | Explosive Efficiency | 6.00% | ~125 |
@@ -31,9 +31,9 @@ Rating: 4.42 (Ranked 653)
 | Climbing the Ladder | 4.00% | ~83 |
 | Fields of Glory | 4.00% | ~83 |
 | Skirmisher | 4.00% | ~83 |
+| Set Europe Ablaze | 4.00% | ~83 |
 | Brains of the Operation | 4.00% | ~83 |
 | No Stone Unturned | 3.00% | ~62 |
-| Set Europe Ablaze | 3.00% | ~62 |
 | Precision Is Key | 3.00% | ~62 |
 | Rigged to Blow | 2.00% | ~42 |
 | My Little Friend | 2.00% | ~42 |
@@ -77,8 +77,8 @@ Rating: 4.42 (Ranked 653)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,076 (Ranked 150)  
-Completed: 2 (0.10%) (Ranked 161)  
+Progressed: 2,081 (Ranked 150)  
+Completed: 2 (0.10%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,7 +119,7 @@ Completed: 2 (0.10%) (Ranked 161)
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
-| 2023-06-02 | 2,076 | 2 |
+| 2023-06-02 | 2,081 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

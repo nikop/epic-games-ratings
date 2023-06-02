@@ -3,7 +3,7 @@
   "Name": "Gold Rush! Classic",
   "ProductSlug": "gold-rush-classic-34d7d5",
   "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-29T02:58:22.0765944+00:00",
   "LastChanged": "2023-04-29T02:58:22.0765945+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:52.9969822+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:58:25.8292695+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:03:42.0600366+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:57:51.8514232+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:02:31.3147428+00:00"
 }

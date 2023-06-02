@@ -6,14 +6,14 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 53.00% | ~1,174 |
+| You're free now! | 53.00% | ~1,176 |
 | Keeping it classy | 25.00% | ~554 |
 | Welcome to the family | 18.00% | ~399 |
 | The finer things in life | 16.00% | ~355 |
 | Backpacker | 12.00% | ~266 |
 | Go with the Flow | 11.00% | ~244 |
-| Plastic Surgeon | 9.00% | ~199 |
-| The flip trick crown jewel | 9.00% | ~199 |
+| Plastic Surgeon | 9.00% | ~200 |
+| The flip trick crown jewel | 9.00% | ~200 |
 | Keep the dream alive | 8.00% | ~177 |
 | The hard way | 8.00% | ~177 |
 | Upfront shredder | 8.00% | ~177 |
@@ -40,9 +40,9 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~89 |
 | Tank commander | 4.00% | ~89 |
 | Trick shot marksman | 4.00% | ~89 |
-| G.O.A.T. status | 3.00% | ~66 |
-| Hoarder | 3.00% | ~66 |
-| We get it, you're good | 3.00% | ~66 |
+| G.O.A.T. status | 3.00% | ~67 |
+| Hoarder | 3.00% | ~67 |
+| We get it, you're good | 3.00% | ~67 |
 | Cross lock country | 2.00% | ~44 |
 | Many plys later... | 2.00% | ~44 |
 | Pew-Pew | 2.00% | ~44 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,216 (Ranked 148)  
-Completed: 0 (0.00%) (Ranked 210)  
+Progressed: 2,218 (Ranked 148)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,10 +96,10 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 2,167 | 0 |
 | 2023-05-31 | 2,181 | 0 |
 | 2023-06-01 | 2,200 | 0 |
-| 2023-06-02 | 2,216 | 0 |
+| 2023-06-02 | 2,218 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 396)  
-Sum: 414 (Ranked 302)  
+Sum: 415 (Ranked 302)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
@@ -109,8 +109,8 @@ Diff (max vs sum): 94
 | This game has Amazing Storytelling | 39 |
 | This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
+| This game is Extremely Fun | 37 |
 | This game has Diverse Characters | 37 |
-| This game is Extremely Fun | 36 |
 | This game has Realistic Visuals | 36 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Challenging Combat | 26 |
@@ -214,3 +214,4 @@ Diff (max vs sum): 94
 | 2023-05-16 | 4.66 | - | 48 | 408 |
 | 2023-05-18 | 4.66 | - | 48 | 412 |
 | 2023-05-19 | 4.66 | - | 48 | 414 |
+| 2023-06-02 | 4.66 | - | 48 | 415 |

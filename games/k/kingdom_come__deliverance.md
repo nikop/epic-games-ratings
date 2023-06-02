@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~243,317 |
-| Cavalier | 25.00% | ~196,223 |
-| Fatso | 23.00% | ~180,525 |
-| Awakening | 20.00% | ~156,979 |
-| Ranger | 20.00% | ~156,979 |
-| Scrooge | 20.00% | ~156,979 |
-| Anorectic | 16.00% | ~125,583 |
-| Firestarter | 15.00% | ~117,734 |
-| Bookworm | 14.00% | ~109,885 |
-| Insomniac | 13.00% | ~102,036 |
-| Buddy | 11.00% | ~86,338 |
-| Sinner | 11.00% | ~86,338 |
-| Thief | 11.00% | ~86,338 |
-| Convict | 10.00% | ~78,489 |
-| Traveller | 10.00% | ~78,489 |
-| Haggler | 9.00% | ~70,640 |
+| Blacksmith's Son | 31.00% | ~243,320 |
+| Cavalier | 25.00% | ~196,226 |
+| Fatso | 23.00% | ~180,528 |
+| Awakening | 20.00% | ~156,981 |
+| Ranger | 20.00% | ~156,981 |
+| Scrooge | 20.00% | ~156,981 |
+| Anorectic | 16.00% | ~125,584 |
+| Firestarter | 15.00% | ~117,735 |
+| Bookworm | 14.00% | ~109,886 |
+| Insomniac | 13.00% | ~102,037 |
+| Buddy | 11.00% | ~86,339 |
+| Sinner | 11.00% | ~86,339 |
+| Thief | 11.00% | ~86,339 |
+| Convict | 10.00% | ~78,490 |
+| Traveller | 10.00% | ~78,490 |
+| Haggler | 9.00% | ~70,641 |
 | Runt | 7.00% | ~54,943 |
 | Casanova | 6.00% | ~47,094 |
 | McLovin | 6.00% | ~47,094 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Saviour | 0.70% | ~5,494 |
 | Edward Kelly | 0.60% | ~4,709 |
 | Fighter | 0.60% | ~4,709 |
-| I Can Quit Anytime | 0.50% | ~3,924 |
+| I Can Quit Anytime | 0.50% | ~3,925 |
 | Perfectionist | 0.40% | ~3,140 |
 | Alcoholic | 0.30% | ~2,355 |
 | Sniper | 0.30% | ~2,355 |
@@ -89,8 +89,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~785 |
 | Wingman | 0.10% | ~785 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784,893 (Ranked 12)  
-Completed: 40 (0.01%) (Ranked 199)  
+Progressed: 784,903 (Ranked 12)  
+Completed: 40 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 40 (0.01%) (Ranked 199)
 | 2023-05-30 | 784,376 | 40 |
 | 2023-05-31 | 784,570 | 40 |
 | 2023-06-01 | 784,725 | 40 |
-| 2023-06-02 | 784,893 | 40 |
+| 2023-06-02 | 784,903 | 40 |
 ## Awards
 Max (Character Customization): 7,214  (Ranked 44)  
 Sum: 26,971 (Ranked 43)  

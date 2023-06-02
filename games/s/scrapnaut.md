@@ -6,40 +6,40 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 59.00% | ~134 |
-| Scrap Gatherer | 58.00% | ~132 |
-| Mushroom Picker | 56.00% | ~127 |
-| Scrapper | 49.00% | ~111 |
-| Cook | 41.00% | ~93 |
-| Teleport | 41.00% | ~93 |
+| My New Home | 60.00% | ~137 |
+| Scrap Gatherer | 58.00% | ~133 |
+| Mushroom Picker | 56.00% | ~128 |
+| Scrapper | 49.00% | ~112 |
+| Cook | 41.00% | ~94 |
+| Teleport | 40.00% | ~92 |
 | Scrap Master | 39.00% | ~89 |
-| Smelter | 35.00% | ~79 |
-| Electro-Scrap Gatherer | 34.00% | ~77 |
-| Digger | 33.00% | ~75 |
+| Smelter | 35.00% | ~80 |
+| Digger | 34.00% | ~78 |
+| Electro-Scrap Gatherer | 34.00% | ~78 |
 | Survivor | 32.00% | ~73 |
-| Robot Destroyer | 31.00% | ~70 |
-| Herbalist | 27.00% | ~61 |
-| Lumberjack | 26.00% | ~59 |
-| Prepper | 26.00% | ~59 |
+| Robot Destroyer | 31.00% | ~71 |
+| Herbalist | 27.00% | ~62 |
+| Lumberjack | 26.00% | ~60 |
+| Prepper | 26.00% | ~60 |
 | Electro-Scrap Master | 25.00% | ~57 |
 | Robot Hunter | 22.00% | ~50 |
-| Advanced Survivalist | 20.00% | ~45 |
-| Master Of Technology | 19.00% | ~43 |
-| Treasure Hunter | 16.00% | ~36 |
+| Advanced Survivalist | 20.00% | ~46 |
+| Master Of Technology | 18.00% | ~41 |
+| Treasure Hunter | 17.00% | ~39 |
 | Blacksmith | 12.00% | ~27 |
 | Fuel | 11.00% | ~25 |
 | Mythical Smelter | 11.00% | ~25 |
 | Master Of Management | 10.00% | ~23 |
 | Smelting Master | 10.00% | ~23 |
-| Forest Lord | 9.00% | ~20 |
+| Forest Lord | 9.00% | ~21 |
 | Black Gold | 8.00% | ~18 |
 | Traveler | 4.00% | ~9 |
-| Survival Master | 4.00% | ~9 |
+| Survival Master | 3.00% | ~7 |
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 238)  
-Completed: 0 (0.00%) (Ranked 210)  
+Progressed: 229 (Ranked 238)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-29 | 220 | 0 |
 | 2023-05-30 | 224 | 0 |
 | 2023-06-01 | 225 | 0 |
-| 2023-06-02 | 227 | 0 |
+| 2023-06-02 | 229 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -15,7 +15,7 @@
 | Nowhere left to Hide | 15.00% | ~433 |
 | Boulder Clash | 14.00% | ~404 |
 | All Ovens Blazing | 13.00% | ~376 |
-| Held Back by the Roots | 12.00% | ~347 |
+| Held Back by the Roots | 13.00% | ~376 |
 | Well Supplied | 11.00% | ~318 |
 | Damage Control | 8.00% | ~231 |
 | Master of the Brawl | 8.00% | ~231 |
@@ -39,7 +39,7 @@
 | All Geared Up | 0.90% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,889 (Ranked 138)  
-Completed: 9 (0.31%) (Ranked 128)  
+Completed: 9 (0.31%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

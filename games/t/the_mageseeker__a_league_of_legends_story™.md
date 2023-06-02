@@ -43,8 +43,8 @@ Rating: 4.78 (Ranked 99)
 | Meltridge | 13.00% | ~293 |
 | The Central Headquarters | 13.00% | ~293 |
 | Cloven Dell Headquarters | 13.00% | ~293 |
+| Embrace the darkness | 11.00% | ~248 |
 | Whispers in the Woods IV | 11.00% | ~248 |
-| Embrace the darkness | 10.00% | ~225 |
 | I smell fear | 10.00% | ~225 |
 | The end of the experiments | 9.00% | ~203 |
 | The Great City of Demacia | 9.00% | ~203 |
@@ -60,7 +60,7 @@ Rating: 4.78 (Ranked 99)
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,252 (Ranked 147)  
-Completed: 1 (0.04%) (Ranked 182)  
+Completed: 1 (0.04%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

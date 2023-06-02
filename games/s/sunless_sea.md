@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,980 |
-| Sweet Sorrow | 18.00% | ~5,490 |
-| Rules the Waves | 17.00% | ~5,185 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,575 |
-| Rival | 14.00% | ~4,270 |
+| Sink Beneath the Waves | 36.00% | ~10,981 |
+| Sweet Sorrow | 18.00% | ~5,491 |
+| Rules the Waves | 17.00% | ~5,186 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,576 |
+| Rival | 14.00% | ~4,271 |
 | Correspondent | 12.00% | ~3,660 |
 | Lose Your Mind | 12.00% | ~3,660 |
 | Sound Mind? | 12.00% | ~3,660 |
@@ -43,26 +43,26 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~305 |
 | Under the zee | 1.00% | ~305 |
 | A current under zee | 1.00% | ~305 |
-| A zee-change | 0.90% | ~274 |
-| Never Stop Sinking... | 0.90% | ~274 |
-| Leviathan | 0.90% | ~274 |
-| No regrets | 0.90% | ~274 |
-| Depth charge | 0.90% | ~274 |
+| A zee-change | 0.90% | ~275 |
+| Never Stop Sinking... | 0.90% | ~275 |
+| Leviathan | 0.90% | ~275 |
+| No regrets | 0.90% | ~275 |
+| Depth charge | 0.90% | ~275 |
 | What lies beneath | 0.80% | ~244 |
-| Stone's Curse | 0.70% | ~213 |
-| Five Years at Zee | 0.50% | ~152 |
+| Stone's Curse | 0.70% | ~214 |
+| Five Years at Zee | 0.50% | ~153 |
 | The Lady's Parlour | 0.20% | ~61 |
 | A Past Wreathed in Shadows | 0.20% | ~61 |
 | Under pressure | 0.20% | ~61 |
-| A Drownie devotee | 0.10% | ~30 |
-| Romans 6:9 | 0.10% | ~30 |
-| Ofermod | 0.10% | ~30 |
-| Consider Phlebas | 0.10% | ~30 |
-| Death By Water | 0.10% | ~30 |
-| Ten Years at Zee | 0.10% | ~30 |
+| A Drownie devotee | 0.10% | ~31 |
+| Romans 6:9 | 0.10% | ~31 |
+| Ofermod | 0.10% | ~31 |
+| Consider Phlebas | 0.10% | ~31 |
+| Death By Water | 0.10% | ~31 |
+| Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,499 (Ranked 88)  
-Completed: 3 (0.01%) (Ranked 199)  
+Progressed: 30,504 (Ranked 88)  
+Completed: 3 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 3 (0.01%) (Ranked 199)
 | 2023-05-30 | 30,301 | 3 |
 | 2023-05-31 | 30,363 | 3 |
 | 2023-06-01 | 30,437 | 3 |
-| 2023-06-02 | 30,499 | 3 |
+| 2023-06-02 | 30,504 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 278 (Ranked 331)  

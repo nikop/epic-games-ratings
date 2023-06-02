@@ -7,7 +7,7 @@
 | It's Rewind Time | 90.00% | ~124 |
 | Wake Up | 80.00% | ~110 |
 | Time Gates | 62.00% | ~86 |
-| Command Centre | 46.00% | ~63 |
+| Command Centre | 47.00% | ~65 |
 | This is a Wall | 40.00% | ~55 |
 | Extendable Bridges | 34.00% | ~47 |
 | 48 Attempts | 33.00% | ~46 |
@@ -22,18 +22,18 @@
 | Looper | 9.00% | ~12 |
 | Cataclysm | 8.00% | ~11 |
 | So Close | 7.00% | ~10 |
+| Transformers, cubes in disguise | 7.00% | ~10 |
 | Kaboom! | 7.00% | ~10 |
 | All Alone | 7.00% | ~10 |
 | Final Charge | 7.00% | ~10 |
 | Reunited | 7.00% | ~10 |
-| Transformers, cubes in disguise | 6.00% | ~8 |
 | Summer Luvin' | 4.00% | ~6 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138 (Ranked 260)  
-Completed: 0 (0.00%) (Ranked 210)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

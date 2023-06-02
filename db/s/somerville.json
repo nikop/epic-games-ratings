@@ -2,12 +2,12 @@
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 819,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1572,
+  "EOS_Progressed": 1573,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2023-06-01T13:11:47.0812682+00:00",
       "NumProgressed": 1572,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-02T20:03:41.1915645+00:00",
+      "NumProgressed": 1573,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -315,7 +320,7 @@
       "Name": "Resignation Reprise.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
@@ -362,7 +367,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1572,
+      "Progressed": 1573,
       "Completed": 25
     }
   ],
@@ -370,8 +375,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:04:42.0115119+00:00",
+  "LastChanged_Achievements": "2023-06-02T20:03:41.191564+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.2009842+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:58:02.2885078+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:04:42.0115243+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:57:31.1320718+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:03:41.1915749+00:00"
 }

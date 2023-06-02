@@ -615,9 +615,9 @@
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -808,8 +808,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:06:43.4035944+00:00",
+  "LastChanged_Achievements": "2023-06-02T20:05:24.4288269+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:04.1714018+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:57:25.5353912+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:06:43.403617+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:57:00.3154883+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:05:24.4288578+00:00"
 }

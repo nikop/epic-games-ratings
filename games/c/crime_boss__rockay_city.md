@@ -5,23 +5,23 @@ Rating: 3.93 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~47,132 |
-| First One’s Free | 64.00% | ~41,322 |
-| Neophyte Ninja | 50.00% | ~32,282 |
-| Too Old for This | 47.00% | ~30,346 |
-| Fancy Pants | 35.00% | ~22,598 |
-| Case Closed | 34.00% | ~21,952 |
-| King of the Hill | 33.00% | ~21,306 |
-| Underworld Initiate | 29.00% | ~18,724 |
+| Downed but Not Outed | 73.00% | ~47,135 |
+| First One’s Free | 64.00% | ~41,324 |
+| Neophyte Ninja | 50.00% | ~32,284 |
+| Too Old for This | 47.00% | ~30,347 |
+| Fancy Pants | 35.00% | ~22,599 |
+| Case Closed | 34.00% | ~21,953 |
+| King of the Hill | 33.00% | ~21,307 |
+| Underworld Initiate | 29.00% | ~18,725 |
 | Roid Ranger | 21.00% | ~13,559 |
-| True Player | 19.00% | ~12,267 |
-| Off the Rocks | 19.00% | ~12,267 |
-| Raider’s Ruin | 16.00% | ~10,330 |
-| Dragonslayer | 16.00% | ~10,330 |
-| Hidden Sonata | 13.00% | ~8,393 |
+| True Player | 19.00% | ~12,268 |
+| Off the Rocks | 19.00% | ~12,268 |
+| Raider’s Ruin | 16.00% | ~10,331 |
+| Dragonslayer | 16.00% | ~10,331 |
+| Hidden Sonata | 13.00% | ~8,394 |
 | Rockay Rex | 11.00% | ~7,102 |
-| Freebooter | 10.00% | ~6,456 |
-| Classy Joint | 10.00% | ~6,456 |
+| Freebooter | 10.00% | ~6,457 |
+| Classy Joint | 10.00% | ~6,457 |
 | Track Star | 9.00% | ~5,811 |
 | I Like Trains | 8.00% | ~5,165 |
 | Headhunter | 8.00% | ~5,165 |
@@ -43,8 +43,8 @@ Rating: 3.93 (Ranked 907)
 | Geek Out | 0.50% | ~323 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,565 (Ranked 68)  
-Completed: 31 (0.05%) (Ranked 179)  
+Progressed: 64,568 (Ranked 68)  
+Completed: 31 (0.05%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 31 (0.05%) (Ranked 179)
 | 2023-05-30 | 64,145 | 31 |
 | 2023-05-31 | 64,285 | 31 |
 | 2023-06-01 | 64,412 | 31 |
-| 2023-06-02 | 64,565 | 31 |
+| 2023-06-02 | 64,568 | 31 |
 ## Awards
 Max (Diverse Characters): 306  (Ranked 224)  
 Sum: 1,456 (Ranked 212)  

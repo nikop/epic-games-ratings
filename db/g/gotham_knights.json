@@ -6,7 +6,7 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
@@ -1352,9 +1352,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63274,
+  "EOS_Progressed": 63288,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4792,6 +4792,11 @@
       "Time": "2023-06-02T19:06:52.1175556+00:00",
       "NumProgressed": 63274,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-02T20:05:32.0839384+00:00",
+      "NumProgressed": 63288,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -4891,7 +4896,7 @@
       "Name": "In Your Element",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "CHALLENGES_1",
@@ -4923,7 +4928,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -4963,7 +4968,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -5011,7 +5016,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -5027,7 +5032,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "FREEZE_1_5",
@@ -5051,7 +5056,7 @@
       "Name": "Cooldown",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -5107,7 +5112,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "HARLEY_2",
@@ -5115,7 +5120,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "HARLEY_3",
@@ -5147,7 +5152,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -5179,7 +5184,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -5195,7 +5200,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "MYSTERY_02",
@@ -5235,7 +5240,7 @@
       "Name": "Voiceless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "MYSTERY_07",
@@ -5243,7 +5248,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "MYSTERY_08",
@@ -5290,13 +5295,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63274,
+      "Progressed": 63288,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33554,
+      "Progressed": 33568,
       "Completed": 2644
     }
   ],
@@ -5304,8 +5309,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-02T19:00:05.7824886+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:06:52.1175551+00:00",
+  "LastChanged_Achievements": "2023-06-02T20:05:32.0839376+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:00:05.7824891+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:06:52.1176378+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:59:13.2523194+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:05:32.0840192+00:00"
 }

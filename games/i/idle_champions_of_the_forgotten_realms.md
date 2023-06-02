@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,531 (Ranked 62)  
-Completed: 1,907 (2.13%) (Ranked 64)  
+Progressed: 89,536 (Ranked 62)  
+Completed: 1,910 (2.13%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -543,7 +543,7 @@ Completed: 1,907 (2.13%) (Ranked 64)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,531 | 1,907 |
+| 2023-06-02 | 89,536 | 1,910 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
 Sum: 30,020 (Ranked 37)  

@@ -23,9 +23,9 @@ Number of Ratings: 125  (23.09.2022)
 | The Great Escape | 23.00% | ~365 |
 | That’s All, Folks | 18.00% | ~285 |
 | Fallen Star | 16.00% | ~254 |
+| Here Comes Santa Claus | 16.00% | ~254 |
 | Winds of War | 16.00% | ~254 |
 | For Balance | 15.00% | ~238 |
-| Here Comes Santa Claus | 15.00% | ~238 |
 | Dog Days | 13.00% | ~206 |
 | Elusive Prey | 12.00% | ~190 |
 | Out on the Ebb Tide | 12.00% | ~190 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,585 (Ranked 156)  
-Completed: 2 (0.13%) (Ranked 157)  
+Completed: 2 (0.13%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

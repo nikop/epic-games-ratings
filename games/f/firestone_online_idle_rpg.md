@@ -48,12 +48,12 @@ Rating: 3.95 (Ranked 903)
 | Missions Dedication | 4.00% | ~50 |
 | The father of Dragons | 4.00% | ~50 |
 | Weekly Quest Completionist | 4.00% | ~50 |
+| Dragon Slayer | 3.00% | ~38 |
 | Engineer Mastery | 3.00% | ~38 |
 | Lock And Load | 3.00% | ~38 |
 | Master Enchanter | 3.00% | ~38 |
 | Blueprint Upgrades | 2.00% | ~25 |
 | Crystal Mining | 2.00% | ~25 |
-| Dragon Slayer | 2.00% | ~25 |
 | Enchanting skill | 2.00% | ~25 |
 | Sailor | 2.00% | ~25 |
 | What lies behind the bush | 2.00% | ~25 |
@@ -82,7 +82,7 @@ Rating: 3.95 (Ranked 903)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,256 (Ranked 161)  
-Completed: 1 (0.08%) (Ranked 170)  
+Completed: 1 (0.08%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

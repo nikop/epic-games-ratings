@@ -1,5 +1,5 @@
 # Kainga: Seeds of Civilization
-[Store](https://store.epicgames.com/en-US/p/delete-2-7314ee)  
+[Store](https://store.epicgames.com/en-US/p/kainga-seeds-of-civilization-7314ee)  
 [View Rawdata](../../db/k/kainga__seeds_of_civilization.json)  
 ## Achievements
 | Name | Percentage | Users |

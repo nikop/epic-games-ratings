@@ -23,7 +23,7 @@ Rating: 4.52 (Ranked 512)
 | Still more work ahead | 28.00% | ~221 |
 | Hotel sleuthing | 27.00% | ~213 |
 | Aesop's fable | 26.00% | ~205 |
-| Kaboom | 24.00% | ~189 |
+| Kaboom | 25.00% | ~197 |
 | Nearly there | 24.00% | ~189 |
 | Broken heart | 22.00% | ~173 |
 | Island boy | 20.00% | ~158 |

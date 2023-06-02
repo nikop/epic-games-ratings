@@ -7,7 +7,7 @@
 | Graduation | 81.00% | ~97 |
 | You Have Been Deaded | 71.00% | ~85 |
 | Rookie | 66.00% | ~79 |
-| Apprentice Destructor | 24.00% | ~29 |
+| Apprentice Destructor | 25.00% | ~30 |
 | I Prefer Jazz Fusion | 10.00% | ~12 |
 | Avaricerite | 8.00% | ~10 |
 | Master Destructor | 8.00% | ~10 |
@@ -15,10 +15,10 @@
 | Ball Galore | 5.00% | ~6 |
 | Easy Victory | 5.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
+| Ball Collector | 3.00% | ~4 |
 | Ball Protector | 3.00% | ~4 |
 | Legendary Destructor | 3.00% | ~4 |
 | Ticking Clock | 3.00% | ~4 |
-| Ball Collector | 2.00% | ~2 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
 | Ice Breaker | 2.00% | ~2 |
@@ -37,7 +37,7 @@
 | What Even Are You? | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 120 (Ranked 266)  
-Completed: 1 (0.83%) (Ranked 95)  
+Completed: 1 (0.83%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

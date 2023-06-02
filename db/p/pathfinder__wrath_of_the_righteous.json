@@ -6,7 +6,7 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -2550,10 +2550,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6680,
       "NumberOfAwardsMax": 1646
+    },
+    {
+      "Time": "2023-06-02T19:58:01.0678531+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6683,
+      "NumberOfAwardsMax": 1646
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6680,
+  "NumberOfAwards": 6683,
   "NumberOfAwardsMax": 1646,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2609,13 +2615,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 549
+      "Count": 551
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 549
+      "Count": 550
     },
     {
       "Text": "This game has a Creative Community",
@@ -2624,9 +2630,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9446,
+  "EOS_Progressed": 9448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5269,6 +5275,11 @@
       "Time": "2023-06-02T19:06:54.7143648+00:00",
       "NumProgressed": 9446,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T20:05:34.4631105+00:00",
+      "NumProgressed": 9448,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5280,7 +5291,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "02_BurningCity",
@@ -6207,21 +6218,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8228,
+      "Progressed": 8230,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9446,
+      "Progressed": 9448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-02T18:58:36.7493688+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:06:54.7143638+00:00",
+  "LastChanged": "2023-06-02T19:58:01.0678528+00:00",
+  "LastChanged_Achievements": "2023-06-02T20:05:34.4631099+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:58:36.7493694+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:06:54.7145429+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:58:01.0678535+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:05:34.4632923+00:00"
 }

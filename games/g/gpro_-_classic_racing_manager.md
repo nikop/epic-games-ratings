@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 77.00% | ~99 |
-| No brakes | 11.00% | ~14 |
+| Newbie | 78.00% | ~105 |
 | Better than cake | 10.00% | ~13 |
+| No brakes | 10.00% | ~13 |
 | Photo shoot | 10.00% | ~13 |
 | Wannabe | 7.00% | ~9 |
-| First taste | 5.00% | ~6 |
-| Amateur hitchhiker | 5.00% | ~6 |
-| Loyalty | 2.00% | ~3 |
-| Hero | 2.00% | ~3 |
-| Drama queen | 2.00% | ~3 |
-| Mr. Whiting | 2.00% | ~3 |
-| Hattrick | 2.00% | ~3 |
-| Tutorial master | 2.00% | ~3 |
-| Weatherman | 2.00% | ~3 |
-| Amateur newbie | 0.80% | ~1 |
-| Pro newbie | 0.80% | ~1 |
-| Monster Amateur car | 0.80% | ~1 |
-| Pro hitchhiker | 0.80% | ~1 |
-| Amateur wannabe | 0.80% | ~1 |
-| Knockout Amateur | 0.80% | ~1 |
-| No brakes Amateur | 0.80% | ~1 |
-| First Amateur taste | 0.80% | ~1 |
-| Addict | 0.80% | ~1 |
-| Shepherd | 0.80% | ~1 |
-| Amateur hattrick | 0.80% | ~1 |
-| Untouchable | 0.80% | ~1 |
-| Amateur photo shoot | 0.80% | ~1 |
-| On the top | 0.80% | ~1 |
+| Amateur hitchhiker | 5.00% | ~7 |
+| First taste | 4.00% | ~5 |
+| Loyalty | 1.00% | ~1 |
+| Hero | 1.00% | ~1 |
+| Drama queen | 1.00% | ~1 |
+| Mr. Whiting | 1.00% | ~1 |
+| Hattrick | 1.00% | ~1 |
+| Tutorial master | 1.00% | ~1 |
+| Weatherman | 1.00% | ~1 |
+| Amateur newbie | 0.70% | ~1 |
+| Pro newbie | 0.70% | ~1 |
+| Monster Amateur car | 0.70% | ~1 |
+| Pro hitchhiker | 0.70% | ~1 |
+| Amateur wannabe | 0.70% | ~1 |
+| Knockout Amateur | 0.70% | ~1 |
+| No brakes Amateur | 0.70% | ~1 |
+| First Amateur taste | 0.70% | ~1 |
+| Addict | 0.70% | ~1 |
+| Shepherd | 0.70% | ~1 |
+| Amateur hattrick | 0.70% | ~1 |
+| Untouchable | 0.70% | ~1 |
+| Amateur photo shoot | 0.70% | ~1 |
+| On the top | 0.70% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -167,8 +167,8 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 263)  
-Completed: 0 (0.00%) (Ranked 210)  
+Progressed: 134 (Ranked 262)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,3 +191,4 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-28 | 105 | 0 |
 | 2023-05-29 | 108 | 0 |
 | 2023-05-30 | 129 | 0 |
+| 2023-06-02 | 134 | 0 |

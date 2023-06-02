@@ -6,17 +6,17 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,665 |
-| keep it tidy | 77.00% | ~7,752 |
-| podium | 72.00% | ~7,249 |
-| medium attack | 59.00% | ~5,940 |
-| brail | 56.00% | ~5,638 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,027 |
+| light attack | 96.00% | ~9,667 |
+| keep it tidy | 77.00% | ~7,754 |
+| podium | 72.00% | ~7,250 |
+| medium attack | 59.00% | ~5,941 |
+| brail | 56.00% | ~5,639 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,028 |
 | grocery-getter | 39.00% | ~3,927 |
 | rwd only | 26.00% | ~2,618 |
 | food tour: pasta | 26.00% | ~2,618 |
-| to finish first, first you must finish | 21.00% | ~2,114 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,114 |
+| to finish first, first you must finish | 21.00% | ~2,115 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,115 |
 | autopilot | 20.00% | ~2,014 |
 | turbo | 20.00% | ~2,014 |
 | food tour: pretzel | 19.00% | ~1,913 |
@@ -27,11 +27,11 @@ Number of Ratings: 56  (23.09.2022)
 | the artist | 13.00% | ~1,309 |
 | night ride | 12.00% | ~1,208 |
 | snorkel | 12.00% | ~1,208 |
-| where is the stage? | 11.00% | ~1,107 |
-| maximum attack | 11.00% | ~1,107 |
+| where is the stage? | 11.00% | ~1,108 |
+| maximum attack | 11.00% | ~1,108 |
 | espresso | 10.00% | ~1,007 |
 | parallel universe | 9.00% | ~906 |
-| samir | 8.00% | ~805 |
+| samir | 8.00% | ~806 |
 | eurobeat | 7.00% | ~705 |
 | master of rally | 7.00% | ~705 |
 | antilag | 7.00% | ~705 |
@@ -39,9 +39,9 @@ Number of Ratings: 56  (23.09.2022)
 | parking lot | 6.00% | ~604 |
 | oktoberfest | 6.00% | ~604 |
 | viking | 6.00% | ~604 |
-| group b | 5.00% | ~503 |
-| in like a lamb, out like a lion | 5.00% | ~503 |
-| if in doubt, flat out! | 5.00% | ~503 |
+| group b | 5.00% | ~504 |
+| in like a lamb, out like a lion | 5.00% | ~504 |
+| if in doubt, flat out! | 5.00% | ~504 |
 | comfy seats | 3.00% | ~302 |
 | simulator | 3.00% | ~302 |
 | real roads, real fast | 2.00% | ~201 |
@@ -50,8 +50,8 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,068 (Ranked 109)  
-Completed: 9 (0.09%) (Ranked 168)  
+Progressed: 10,070 (Ranked 109)  
+Completed: 9 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 9 (0.09%) (Ranked 168)
 | 2023-05-30 | 10,062 | 9 |
 | 2023-05-31 | 10,063 | 9 |
 | 2023-06-01 | 10,067 | 9 |
-| 2023-06-02 | 10,068 | 9 |
+| 2023-06-02 | 10,070 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

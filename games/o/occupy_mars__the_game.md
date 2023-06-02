@@ -6,28 +6,28 @@ Rating: 3.86 (Ranked 914)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 41.00% | ~444 |
-| Electrician | 33.00% | ~357 |
-| Fear my botany powers, Mars | 31.00% | ~335 |
-| Zero Waste | 28.00% | ~303 |
-| Bob The Builder | 28.00% | ~303 |
-| I am the greatest botanist on this planet. | 27.00% | ~292 |
+| Electrician | 33.00% | ~358 |
+| Fear my botany powers, Mars | 31.00% | ~336 |
+| Zero Waste | 28.00% | ~304 |
+| Bob The Builder | 28.00% | ~304 |
+| I am the greatest botanist on this planet. | 27.00% | ~293 |
 | Miner | 23.00% | ~249 |
 | Gardener | 22.00% | ~238 |
-| Houston we have a problem | 20.00% | ~216 |
+| Houston we have a problem | 19.00% | ~206 |
 | Occupy Mars! | 19.00% | ~206 |
 | Detective | 16.00% | ~173 |
 | The Collector | 12.00% | ~130 |
-| Get your hands dirty | 9.00% | ~97 |
+| Get your hands dirty | 9.00% | ~98 |
 | All Wheel Trouble | 5.00% | ~54 |
 | Space Forest | 5.00% | ~54 |
 | ITS crash site | 4.00% | ~43 |
-| DeDust | 3.00% | ~32 |
+| DeDust | 3.00% | ~33 |
 | “Aliens” | 2.00% | ~22 |
 | Plumber | 2.00% | ~22 |
 | To infinity and beyond! | 1.00% | ~11 |
 | Hard Landing | 0.80% | ~9 |
-| Driver's License | 0.60% | ~6 |
-| Explosive Miner | 0.60% | ~6 |
+| Driver's License | 0.60% | ~7 |
+| Explosive Miner | 0.60% | ~7 |
 | Caveman | 0.50% | ~5 |
 | Rocket Jump | 0.50% | ~5 |
 | Thunderstruck | 0.50% | ~5 |
@@ -54,8 +54,8 @@ Rating: 3.86 (Ranked 914)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,082 (Ranked 167)  
-Completed: 0 (0.00%) (Ranked 210)  
+Progressed: 1,084 (Ranked 167)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 1,038 | 0 |
 | 2023-05-31 | 1,049 | 0 |
 | 2023-06-01 | 1,064 | 0 |
-| 2023-06-02 | 1,082 | 0 |
+| 2023-06-02 | 1,084 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

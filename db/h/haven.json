@@ -6,8 +6,8 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1196,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -613,6 +613,11 @@
       "Time": "2023-06-02T18:05:48.2950533+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-02T20:05:24.1972438+00:00",
+      "NumProgressed": 1196,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -624,7 +629,7 @@
       "Name": "Lovebirds",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 610
     },
     {
       "ID": "10",
@@ -632,7 +637,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "11",
@@ -648,7 +653,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "13",
@@ -656,7 +661,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "14",
@@ -672,7 +677,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "16",
@@ -688,7 +693,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 945
     },
     {
       "ID": "18",
@@ -712,7 +717,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "20",
@@ -784,7 +789,7 @@
       "Name": "Hug therapy",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "30",
@@ -792,7 +797,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "31",
@@ -832,7 +837,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "7",
@@ -840,7 +845,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "8",
@@ -848,7 +853,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "9",
@@ -863,15 +868,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1196,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:06:43.1545723+00:00",
+  "LastChanged_Achievements": "2023-06-02T20:05:24.1972429+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:02.2498458+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:59:52.7311484+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:06:43.1545982+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:59:01.3413555+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:05:24.1972696+00:00"
 }

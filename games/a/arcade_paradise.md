@@ -61,7 +61,7 @@ Rating: 4.58 (Ranked 421)
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 611 (Ranked 193)  
-Completed: 0 (0.00%) (Ranked 210)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

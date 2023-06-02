@@ -27,8 +27,8 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 7.00% | ~40 |
 | Watcher | 7.00% | ~40 |
 | Predator | 7.00% | ~40 |
+| Dream | 7.00% | ~11 |
 | Assimilation | 6.00% | ~34 |
-| Dream | 6.00% | ~9 |
 | Hunt Down | 5.00% | ~28 |
 | Artisan | 5.00% | ~28 |
 | Hush | 5.00% | ~28 |
@@ -42,15 +42,15 @@ Number of Ratings: 46  (23.09.2022)
 | Weakness | 3.00% | ~17 |
 | Listen | 3.00% | ~5 |
 | Bloodhunter | 2.00% | ~11 |
+| Zygote | 2.00% | ~3 |
 | Breath | 2.00% | ~11 |
 | Generous | 2.00% | ~11 |
 | Skinmaker | 1.00% | ~6 |
-| Zygote | 1.00% | ~2 |
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 569 (Ranked 196)  
-Completed: 0 (0.00%) (Ranked 210)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

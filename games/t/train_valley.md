@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Salesman | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 290 (Ranked 224)  
-Completed: 2 (0.69%) (Ranked 104)  
+Completed: 2 (0.69%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -606,6 +606,11 @@
       "Time": "2023-06-02T19:03:24.9544866+00:00",
       "NumProgressed": 304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T20:02:17.1911424+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -721,23 +726,23 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_COLL_ALL",
       "SetID": "1j25agn",
       "Name": "Treasure Hunter",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -745,7 +750,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -841,7 +846,7 @@
       "Name": "Cowardice",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -855,9 +860,9 @@
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -865,7 +870,7 @@
       "Name": "Heroism",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -895,17 +900,17 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_FIN_CH09",
       "SetID": "1j25agn",
       "Name": "Vengeance",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -927,9 +932,9 @@
       "ID": "ACH_FIN_CH12",
       "SetID": "1j25agn",
       "Name": "Atonement",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_HARD_1",
@@ -953,7 +958,7 @@
       "Name": "Helping Hand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -961,7 +966,7 @@
       "Name": "Missing in Action",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1041,7 +1046,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -1049,7 +1054,7 @@
       "Name": "King of Knives",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_NEST1",
@@ -1088,15 +1093,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:03:24.9544861+00:00",
+  "LastChanged_Achievements": "2023-06-02T20:02:17.1911417+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:21.3542342+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:57:46.6686778+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:03:24.9545421+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:57:18.5317623+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:02:17.1911963+00:00"
 }

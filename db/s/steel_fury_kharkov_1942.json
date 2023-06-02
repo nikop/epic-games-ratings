@@ -3,7 +3,7 @@
   "Name": "Steel Fury Kharkov 1942",
   "ProductSlug": "steel-fury-kharkov-1942-cdfbd6",
   "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.9284255+00:00",
   "LastChanged": "2023-03-31T05:58:18.9284256+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.1183049+00:00",
-  "LastUpdate_Ratings": "2023-06-02T19:00:08.9598748+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:05:48.7703643+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:59:15.8119532+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:04:37.7412476+00:00"
 }

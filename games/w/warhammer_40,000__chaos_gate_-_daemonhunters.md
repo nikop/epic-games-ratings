@@ -9,10 +9,10 @@ Number of Ratings: 371  (23.09.2022)
 | Executioner | 36.00% | ~1,020 |
 | Look Over There! | 30.00% | ~850 |
 | Watch Where You Step... | 30.00% | ~850 |
-| Not So Fast... | 29.00% | ~821 |
-| An Ill Omen | 28.00% | ~793 |
+| Not So Fast... | 29.00% | ~822 |
+| An Ill Omen | 28.00% | ~794 |
 | Purging Spree | 22.00% | ~623 |
-| Blood for the Blood God! | 17.00% | ~481 |
+| Blood for the Blood God! | 17.00% | ~482 |
 | Friendly Fire | 16.00% | ~453 |
 | Surgical Excision | 15.00% | ~425 |
 | Bloodless | 15.00% | ~425 |
@@ -45,12 +45,12 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 1.00% | ~28 |
 | Hands-On Research | 1.00% | ~28 |
 | Only in Death | 1.00% | ~28 |
-| Exercise in Restraint | 0.90% | ~25 |
+| Exercise in Restraint | 0.90% | ~26 |
 | True Mastery | 0.60% | ~17 |
 | The Flesh is Weak | 0.50% | ~14 |
 | Warp Flickers | 0.50% | ~14 |
 | Strategic Command | 0.40% | ~11 |
-| Blood and Iron | 0.30% | ~8 |
+| Blood and Iron | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
 | Grand Master | 0.20% | ~6 |
 | Brothers in Arms | 0.20% | ~6 |
@@ -66,8 +66,8 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,832 (Ranked 139)  
-Completed: 0 (0.00%) (Ranked 210)  
+Progressed: 2,834 (Ranked 139)  
+Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 210)
 | 2023-05-30 | 2,793 | 0 |
 | 2023-05-31 | 2,805 | 0 |
 | 2023-06-01 | 2,826 | 0 |
-| 2023-06-02 | 2,832 | 0 |
+| 2023-06-02 | 2,834 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 420 (Ranked 300)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5863,
+  "EOS_Progressed": 5870,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2773,6 +2773,11 @@
       "Time": "2023-06-02T19:03:57.300122+00:00",
       "NumProgressed": 5863,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-02T20:02:44.3066609+00:00",
+      "NumProgressed": 5870,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -2784,7 +2789,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4866
+      "UsersEstimate": 4872
     },
     {
       "ID": "ACH02",
@@ -2792,7 +2797,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1878
     },
     {
       "ID": "ACH03",
@@ -2808,7 +2813,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2113
     },
     {
       "ID": "ACH05",
@@ -2824,7 +2829,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH07",
@@ -2856,7 +2861,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH11",
@@ -2888,7 +2893,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH15",
@@ -2902,9 +2907,9 @@
       "ID": "ACH16",
       "SetID": "552d41m",
       "Name": "A Marked Man",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACH17",
@@ -2920,7 +2925,7 @@
       "Name": "Not So Fast",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH19",
@@ -2968,7 +2973,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH25",
@@ -2990,9 +2995,9 @@
       "ID": "ACH27",
       "SetID": "552d41m",
       "Name": "Liberty City Secrets",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 117
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH28",
@@ -3015,7 +3020,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5863,
+      "Progressed": 5870,
       "Completed": 30
     }
   ],
@@ -3023,8 +3028,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-01T04:58:26.2683164+00:00",
-  "LastChanged_Achievements": "2023-06-02T19:03:57.3001211+00:00",
+  "LastChanged_Achievements": "2023-06-02T20:02:44.3066603+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:42.4866608+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:58:11.9350306+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:03:57.300157+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:57:40.1439329+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:02:44.3066991+00:00"
 }

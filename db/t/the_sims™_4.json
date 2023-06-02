@@ -3,10 +3,10 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 360,
-  "Ranking_Popularity": 228,
+  "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -2462,11 +2462,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 1843,
       "NumberOfAwardsMax": 292
+    },
+    {
+      "Time": "2023-06-02T19:57:22.4857972+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1851,
+      "NumberOfAwardsMax": 298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1843,
-  "NumberOfAwardsMax": 292,
+  "NumberOfAwards": 1851,
+  "NumberOfAwardsMax": 298,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2479,7 +2485,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 292
+      "Count": 298
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2527,7 +2533,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 155
+      "Count": 157
     },
     {
       "Text": "This game has Easy Combat",
@@ -2548,8 +2554,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-06-02T18:57:51.4340606+00:00",
+  "LastChanged": "2023-06-02T19:57:22.4857968+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.8394036+00:00",
-  "LastUpdate_Ratings": "2023-06-02T18:57:51.4340614+00:00",
-  "LastUpdate_Achievements": "2023-06-02T19:03:58.2230887+00:00"
+  "LastUpdate_Ratings": "2023-06-02T19:57:22.4857975+00:00",
+  "LastUpdate_Achievements": "2023-06-02T20:02:45.0412585+00:00"
 }
