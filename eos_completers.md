@@ -22,9 +22,9 @@
 | 19 | [Remains](games/r/remains.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.90% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.89% |
 | 24 | [Scorn](games/s/scorn.md) | 6.87% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.22% |
@@ -67,14 +67,14 @@
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 66 | [Sifu](games/s/sifu.md) | 1.80% |
 | 67 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 68 | [Night Book](games/n/night_book.md) | 1.60% |
-| 69 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
-| 69 | [Somerville](games/s/somerville.md) | 1.59% |
-| 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
-| 72 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.54% |
-| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.53% |
-| 74 | [Frogun](games/f/frogun.md) | 1.52% |
-| 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 68 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
+| 69 | [Night Book](games/n/night_book.md) | 1.60% |
+| 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
+| 70 | [Somerville](games/s/somerville.md) | 1.59% |
+| 72 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
+| 73 | [Frogun](games/f/frogun.md) | 1.52% |
+| 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 75 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.45% |
 | 76 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 78 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
@@ -84,7 +84,7 @@
 | 82 | [Trifox](games/t/trifox.md) | 1.19% |
 | 83 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.15% |
 | 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
-| 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.09% |
+| 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
 | 86 | [Late Shift](games/l/late_shift.md) | 1.04% |
 | 87 | [Five Dates](games/f/five_dates.md) | 1.01% |
 | 88 | [Sable](games/s/sable.md) | 0.95% |
@@ -98,9 +98,9 @@
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 96 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
 | 98 | [Them and Us](games/t/them_and_us.md) | 0.76% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
-| 100 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.74% |
+| 101 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.74% |
 | 102 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 103 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 104 | [Haven](games/h/haven.md) | 0.67% |
