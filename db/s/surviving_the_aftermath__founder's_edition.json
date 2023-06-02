@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1005,9 +1005,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6026,
+  "EOS_Progressed": 6027,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4520,6 +4520,11 @@
       "Time": "2023-06-02T12:02:22.8549669+00:00",
       "NumProgressed": 6026,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T14:01:26.002923+00:00",
+      "NumProgressed": 6027,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4595,7 +4600,7 @@
       "Name": "Famous Adventurer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "18",
@@ -4643,7 +4648,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "23",
@@ -4667,7 +4672,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "26",
@@ -4675,7 +4680,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "27",
@@ -4691,7 +4696,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "29",
@@ -4795,7 +4800,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "40",
@@ -4827,7 +4832,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "44",
@@ -4923,7 +4928,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "55",
@@ -4987,7 +4992,7 @@
       "Name": "Real Survivor",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "9",
@@ -5002,15 +5007,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6026,
+      "Progressed": 6027,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:15:21.5147975+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:01:26.0029226+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:22.7598886+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:14:11.1945364+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:15:21.5148568+00:00"
+  "LastUpdate_Ratings": "2023-06-02T14:00:13.5210999+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:01:26.0030792+00:00"
 }

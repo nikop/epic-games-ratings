@@ -4,8 +4,8 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 176,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
@@ -179,9 +179,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -283,9 +283,9 @@
       "ID": "ACH_SAFETY_FIRST",
       "SetID": "1p69hf1",
       "Name": "Safety first",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_SPEEDY",
@@ -308,8 +308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:07.2940337+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:05:56.3288901+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:55.4617057+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:13:34.1808002+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:07.2940449+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:59:35.6151684+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:05:56.3289055+00:00"
 }

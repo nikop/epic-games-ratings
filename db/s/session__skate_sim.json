@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2208,
+  "EOS_Progressed": 2209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1802,6 +1802,11 @@
       "Time": "2023-06-02T13:20:12.4757214+00:00",
       "NumProgressed": 2208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T14:06:01.9257483+00:00",
+      "NumProgressed": 2209,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1885,7 +1890,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -2093,7 +2098,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -2141,7 +2146,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -2181,7 +2186,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -2189,22 +2194,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2208,
+      "Progressed": 2209,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:12.4757209+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:06:01.9257476+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:39.7904558+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:13:13.0041611+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:12.4757543+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:59:13.6356134+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:06:01.925796+00:00"
 }

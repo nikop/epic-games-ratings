@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -568,9 +568,9 @@
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "scoreminrankrp2",
@@ -592,9 +592,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrv2",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:17:48.288229+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:03:33.2730102+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:26.9523413+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:12:57.8847814+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:17:48.2882423+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:58:57.7842925+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:03:33.273029+00:00"
 }

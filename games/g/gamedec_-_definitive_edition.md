@@ -6,18 +6,18 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,225 |
-| Powergamer | 27.00% | ~61,931 |
-| Barely scratched the surface | 25.00% | ~57,344 |
-| Write that down | 24.00% | ~55,050 |
-| Guns, lots of guns | 12.00% | ~27,525 |
-| Collector | 11.00% | ~25,231 |
-| Elementary! | 8.00% | ~18,350 |
-| Pumpkin Jack | 8.00% | ~18,350 |
-| Wake up! | 8.00% | ~18,350 |
-| It's honest work | 7.00% | ~16,056 |
-| Griever | 7.00% | ~16,056 |
-| Me smart | 6.00% | ~13,762 |
+| I will finish what you started | 28.00% | ~64,227 |
+| Powergamer | 27.00% | ~61,933 |
+| Barely scratched the surface | 25.00% | ~57,346 |
+| Write that down | 24.00% | ~55,052 |
+| Guns, lots of guns | 12.00% | ~27,526 |
+| Collector | 11.00% | ~25,232 |
+| Elementary! | 8.00% | ~18,351 |
+| Pumpkin Jack | 8.00% | ~18,351 |
+| Wake up! | 8.00% | ~18,351 |
+| It's honest work | 7.00% | ~16,057 |
+| Griever | 7.00% | ~16,057 |
+| Me smart | 6.00% | ~13,763 |
 | Good listener | 5.00% | ~11,469 |
 | Trash compactor | 5.00% | ~11,469 |
 | Valedictorian | 5.00% | ~11,469 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~459 |
 | Memory 5 | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,375 (Ranked 43)  
+Progressed: 229,383 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 5 (0.00%) (Ranked 209)
 | 2023-05-30 | 228,877 | 5 |
 | 2023-05-31 | 229,049 | 5 |
 | 2023-06-01 | 229,259 | 5 |
-| 2023-06-02 | 229,375 | 5 |
+| 2023-06-02 | 229,383 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 359)  
 Sum: 73 (Ranked 417)  

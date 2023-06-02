@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
     "PcReleaseDate": "2018-04-23T22:00:00+00:00",
@@ -83,9 +83,9 @@
       "ID": "ACH_ALL_ENDINGS",
       "SetID": "2a8fdfo",
       "Name": "You got all endings!",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CALLED_POLICE",
@@ -99,41 +99,41 @@
       "ID": "ACH_ENDING_1",
       "SetID": "2a8fdfo",
       "Name": "Became the new Maker",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ENDING_2",
       "SetID": "2a8fdfo",
       "Name": "Jumped into the void",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENDING_3",
       "SetID": "2a8fdfo",
       "Name": "Did you think you would make it?",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENDING_4",
       "SetID": "2a8fdfo",
       "Name": "Where\u0027s the air conditioner?",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENDING_5",
       "SetID": "2a8fdfo",
       "Name": "Stubbornness unleashed!",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENDING_6",
@@ -147,9 +147,9 @@
       "ID": "ACH_FINISHED_GAME_10_TIMES",
       "SetID": "2a8fdfo",
       "Name": "Still trying to escape?",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -161,8 +161,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:11.7227618+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:06:01.0296243+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:05.8163728+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:13:47.7520178+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:11.7227678+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:59:48.774129+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:06:01.0296349+00:00"
 }

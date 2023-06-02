@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Never around when you need them | 20.00% | ~2 |
-| Became the new Maker | 10.00% | ~1 |
-| You got all endings! | 0.00% | ~0 |
-| Jumped into the void | 0.00% | ~0 |
-| Did you think you would make it? | 0.00% | ~0 |
-| Where's the air conditioner? | 0.00% | ~0 |
-| Stubbornness unleashed! | 0.00% | ~0 |
+| Became the new Maker | 20.00% | ~2 |
+| You got all endings! | 10.00% | ~1 |
+| Jumped into the void | 10.00% | ~1 |
+| Did you think you would make it? | 10.00% | ~1 |
+| Where's the air conditioner? | 10.00% | ~1 |
+| Stubbornness unleashed! | 10.00% | ~1 |
+| Still trying to escape? | 10.00% | ~1 |
 | So nineties it hurts... | 0.00% | ~0 |
-| Still trying to escape? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 209)  

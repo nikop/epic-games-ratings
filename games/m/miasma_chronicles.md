@@ -5,24 +5,24 @@ Rating: 4.30 (Ranked 759)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~869 |
+| First Blood | 91.00% | ~870 |
 | Ranidaphobia | 72.00% | ~688 |
-| Aspiring Editor | 69.00% | ~659 |
-| Gun for Hire | 64.00% | ~611 |
+| Aspiring Editor | 69.00% | ~660 |
+| Gun for Hire | 64.00% | ~612 |
 | I am the law! | 54.00% | ~516 |
 | Lumberjack | 38.00% | ~363 |
 | Croaked | 33.00% | ~315 |
-| Limp Richard | 32.00% | ~306 |
+| Limp Richard | 33.00% | ~315 |
 | Firestarter | 32.00% | ~306 |
 | From Darkness to Light | 32.00% | ~306 |
-| Exorcist | 30.00% | ~286 |
+| Exorcist | 30.00% | ~287 |
 | Editor Adept | 29.00% | ~277 |
-| Giant Killer | 24.00% | ~229 |
+| Giant Killer | 25.00% | ~239 |
 | Sensei | 23.00% | ~220 |
 | The meaning of Kain | 22.00% | ~210 |
-| Technophobe | 19.00% | ~181 |
-| Recycler | 17.00% | ~162 |
-| Chain Killer | 14.00% | ~134 |
+| Technophobe | 19.00% | ~182 |
+| Recycler | 17.00% | ~163 |
+| Chain Killer | 15.00% | ~143 |
 | Hold The Line | 14.00% | ~134 |
 | Are you not entertained? | 13.00% | ~124 |
 | Ganglord | 13.00% | ~124 |
@@ -36,28 +36,28 @@ Rating: 4.30 (Ranked 759)
 | Endgame | 8.00% | ~76 |
 | Savior | 8.00% | ~76 |
 | The Watchers | 8.00% | ~76 |
+| Curveball | 6.00% | ~57 |
 | Dr Jones | 6.00% | ~57 |
 | Chain Reaction | 5.00% | ~48 |
 | Chaos Theory | 5.00% | ~48 |
 | Commando | 5.00% | ~48 |
-| Curveball | 5.00% | ~48 |
 | Wipe Out | 5.00% | ~48 |
 | Side Order | 4.00% | ~38 |
 | Bot Whisperer | 3.00% | ~29 |
 | Dressed To Kill | 2.00% | ~19 |
 | Cruelty | 1.00% | ~10 |
 | Five Finger Deathcount | 0.50% | ~5 |
-| Fratricide | 0.40% | ~4 |
+| Fratricide | 0.50% | ~5 |
+| Alpha Editor | 0.30% | ~3 |
 | Goaaaaal! | 0.30% | ~3 |
+| QA Has Suffered! (Redux) | 0.30% | ~3 |
 | Shadow Boxin' | 0.30% | ~3 |
-| Alpha Editor | 0.20% | ~2 |
-| QA Has Suffered! (Redux) | 0.20% | ~2 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 955 (Ranked 173)  
+Progressed: 956 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 875 | 0 |
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
-| 2023-06-02 | 955 | 0 |
+| 2023-06-02 | 956 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

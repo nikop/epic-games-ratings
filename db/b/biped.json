@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2418,
+  "EOS_Progressed": 2419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2781,6 +2781,11 @@
       "Time": "2023-06-02T13:20:00.7168333+00:00",
       "NumProgressed": 2418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T14:05:49.6205767+00:00",
+      "NumProgressed": 2419,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2792,7 +2797,7 @@
       "Name": "First Step",
       "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "10",
@@ -2880,7 +2885,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "7",
@@ -2904,14 +2909,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 2418,
+      "Progressed": 2419,
       "Completed": 0
     }
   ],
@@ -2919,8 +2924,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:00.7168331+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:05:49.6205762+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.8518043+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:12:12.9101782+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:00.7168532+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:58:11.5458543+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:05:49.6206067+00:00"
 }

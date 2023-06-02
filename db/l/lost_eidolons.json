@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -160,7 +160,7 @@
   "Tags": [],
   "EOS_Progressed": 934,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -627,9 +627,9 @@
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 607
     },
     {
       "ID": "07",
@@ -780,8 +780,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:23.2281642+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:06:12.6704831+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:10.1896192+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:13:52.8221584+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:23.2281782+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:59:53.8348607+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:06:12.6705048+00:00"
 }

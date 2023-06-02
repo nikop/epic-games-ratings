@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~318 |
-| And again, and again, and... | 63.00% | ~227 |
-| Burn, Elysium, burn! | 61.00% | ~220 |
+| Huzza, he's back. | 88.00% | ~319 |
+| And again, and again, and... | 63.00% | ~228 |
+| Burn, Elysium, burn! | 61.00% | ~221 |
 | Kuvaq Minigame-Master | 60.00% | ~217 |
 | FunScore | 54.00% | ~195 |
 | Funtime's over | 52.00% | ~188 |
 | Chunky | 49.00% | ~177 |
-| Shall we play a game? | 48.00% | ~173 |
-| Boat of love, boat of love | 48.00% | ~173 |
+| Shall we play a game? | 48.00% | ~174 |
+| Boat of love, boat of love | 48.00% | ~174 |
 | School's out | 42.00% | ~152 |
 | Scaffolding Expert | 37.00% | ~134 |
 | Sole Music | 36.00% | ~130 |
@@ -29,8 +29,8 @@ Rating: 4.56 (Ranked 452)
 | Monstrous Harassment | 14.00% | ~51 |
 | Blast from the Past | 14.00% | ~51 |
 | Heading the inverter | 13.00% | ~47 |
-| Play it again, Ronny | 11.00% | ~40 |
 | Goat Team | 10.00% | ~36 |
+| Play it again, Ronny | 10.00% | ~36 |
 | Paradox! | 10.00% | ~36 |
 | Weapons 101 | 8.00% | ~29 |
 | Sadist | 7.00% | ~25 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 452)
 | Every man for himself! | 5.00% | ~18 |
 | 1001 Jackalopes | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 214)  
+Progressed: 362 (Ranked 214)  
 Completed: 6 (1.66%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 6 (1.66%) (Ranked 67)
 | 2023-05-25 | 359 | 6 |
 | 2023-05-29 | 360 | 6 |
 | 2023-06-01 | 361 | 6 |
+| 2023-06-02 | 362 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

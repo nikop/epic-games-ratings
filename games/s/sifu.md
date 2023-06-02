@@ -1,27 +1,27 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 64)  
+Rating: 4.82 (Ranked 63)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~646 |
-| Project Arena | 3.00% | ~484 |
-| The Old Grandmaster | 1.00% | ~7,068 |
-| The Assault | 1.00% | ~7,068 |
-| The Hateful Pole Fighter | 1.00% | ~7,068 |
-| A Lady's Blood in the Snow | 1.00% | ~7,068 |
-| Lady Wing Chun | 1.00% | ~7,068 |
-| Life is your teacher | 1.00% | ~7,068 |
-| State of constant learning | 1.00% | ~7,068 |
-| Qi Gong: Breath | 1.00% | ~7,068 |
-| Qi Gong: Essence | 1.00% | ~7,068 |
-| Lightning Hands | 1.00% | ~7,068 |
-| Path of the Prospect | 1.00% | ~7,068 |
-| Rumble in the Hangar | 1.00% | ~7,068 |
-| Bloody Sport | 1.00% | ~161 |
-| The best strikes are the ones we avoid | 1.00% | ~161 |
+| Project Arena | 3.00% | ~485 |
+| The Old Grandmaster | 1.00% | ~7,069 |
+| The Assault | 1.00% | ~7,069 |
+| The Hateful Pole Fighter | 1.00% | ~7,069 |
+| A Lady's Blood in the Snow | 1.00% | ~7,069 |
+| Lady Wing Chun | 1.00% | ~7,069 |
+| Life is your teacher | 1.00% | ~7,069 |
+| State of constant learning | 1.00% | ~7,069 |
+| Qi Gong: Breath | 1.00% | ~7,069 |
+| Qi Gong: Essence | 1.00% | ~7,069 |
+| Lightning Hands | 1.00% | ~7,069 |
+| Path of the Prospect | 1.00% | ~7,069 |
+| Rumble in the Hangar | 1.00% | ~7,069 |
+| Bloody Sport | 1.00% | ~162 |
+| The best strikes are the ones we avoid | 1.00% | ~162 |
 | Furious Fists | 0.90% | ~6,362 |
 | Kill Nil | 0.90% | ~6,362 |
 | Stuntmaster | 0.90% | ~6,362 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,846 (Ranked 15)  
+Progressed: 706,857 (Ranked 15)  
 Completed: 12,751 (1.80%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 12,751 (1.80%) (Ranked 66)
 | 2023-05-30 | 706,411 | 12,748 |
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
-| 2023-06-02 | 706,846 | 12,751 |
+| 2023-06-02 | 706,857 | 12,751 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
 Sum: 10,440 (Ranked 78)  

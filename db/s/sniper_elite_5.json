@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2052,
+  "EOS_Progressed": 2055,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2249,6 +2249,11 @@
       "Time": "2023-06-02T13:20:17.4094396+00:00",
       "NumProgressed": 2052,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-02T14:06:06.8489745+00:00",
+      "NumProgressed": 2055,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2266,9 +2271,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2314,9 +2319,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2340,7 +2345,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2428,7 +2433,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2484,7 +2489,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2572,7 +2577,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2596,7 +2601,7 @@
       "Name": "Change the Channel",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2827,13 +2832,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2003,
+      "Progressed": 2006,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2052,
+      "Progressed": 2055,
       "Completed": 2
     }
   ],
@@ -2841,8 +2846,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:17.4094388+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:06:06.8489739+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:14:46.0082162+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:17.4094994+00:00"
+  "LastUpdate_Ratings": "2023-06-02T14:00:49.4439161+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:06:06.8490549+00:00"
 }

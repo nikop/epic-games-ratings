@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Solved first case | 88.00% | ~99 |
 | Solved second case | 82.00% | ~92 |
-| Solved third case | 69.00% | ~77 |
+| Solved third case | 70.00% | ~78 |
 | Solved fourth case | 50.00% | ~56 |
 | Solved sixth case | 30.00% | ~34 |
 | Solved seventh case | 28.00% | ~31 |

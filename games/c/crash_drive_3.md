@@ -19,9 +19,9 @@
 | Bag of Tricks | 26.00% | ~82 |
 | I see the light! | 26.00% | ~82 |
 | You're it | 26.00% | ~82 |
+| First Come, First Serve | 25.00% | ~79 |
 | To and Fro | 25.00% | ~79 |
 | In the Bag! | 25.00% | ~79 |
-| First Come, First Serve | 24.00% | ~76 |
 | Disoriented | 24.00% | ~76 |
 | Take that Frosty! | 24.00% | ~76 |
 | Goodbye cruel world | 24.00% | ~76 |

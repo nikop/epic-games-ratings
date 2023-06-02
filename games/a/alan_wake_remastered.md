@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 27.00% | ~13,846 |
-| Float Like a Butterfly | 21.00% | ~10,769 |
-| Let There Be Light | 21.00% | ~10,769 |
-| Nordic Walking | 16.00% | ~8,205 |
-| Bright Falls' Finest | 16.00% | ~8,205 |
+| Follow the Light | 27.00% | ~13,848 |
+| Float Like a Butterfly | 21.00% | ~10,770 |
+| Let There Be Light | 21.00% | ~10,770 |
+| Nordic Walking | 16.00% | ~8,206 |
+| Bright Falls' Finest | 16.00% | ~8,206 |
 | Under a Thin Layer of Skin | 14.00% | ~7,180 |
-| Park Ranger | 11.00% | ~5,641 |
-| Finders Keepers | 11.00% | ~5,641 |
-| Paging Mr. Wake | 11.00% | ~5,641 |
-| Back! Back, I Say! | 10.00% | ~5,128 |
-| Damn Good Cup of Coffee | 10.00% | ~5,128 |
-| Wheels Within Wheels | 9.00% | ~4,615 |
-| They're Heeeeeere! | 9.00% | ~4,615 |
-| Sound and Fury | 9.00% | ~4,615 |
-| Missed by a Mile | 9.00% | ~4,615 |
+| Park Ranger | 11.00% | ~5,642 |
+| Finders Keepers | 11.00% | ~5,642 |
+| Paging Mr. Wake | 11.00% | ~5,642 |
+| Back! Back, I Say! | 10.00% | ~5,129 |
+| Damn Good Cup of Coffee | 10.00% | ~5,129 |
+| Wheels Within Wheels | 9.00% | ~4,616 |
+| They're Heeeeeere! | 9.00% | ~4,616 |
+| Sound and Fury | 9.00% | ~4,616 |
+| Missed by a Mile | 9.00% | ~4,616 |
 | Heavy Metal | 8.00% | ~4,103 |
 | Iron Horse | 8.00% | ~4,103 |
 | Perchance to Dream | 8.00% | ~4,103 |
@@ -40,12 +40,12 @@ Number of Ratings: 524  (23.09.2022)
 | Departure | 5.00% | ~2,564 |
 | What Light Through Yonder Window | 5.00% | ~2,564 |
 | Ding! | 5.00% | ~738 |
-| Drink 'Em Both Up | 4.00% | ~2,051 |
-| Hardboiled Writer | 4.00% | ~2,051 |
-| Boob Tube | 3.00% | ~1,538 |
-| Children of the Elder God | 3.00% | ~1,538 |
-| If It Flies, It Burns | 3.00% | ~1,538 |
-| KBF-FM | 3.00% | ~1,538 |
+| Drink 'Em Both Up | 4.00% | ~2,052 |
+| Hardboiled Writer | 4.00% | ~2,052 |
+| Boob Tube | 3.00% | ~1,539 |
+| Children of the Elder God | 3.00% | ~1,539 |
+| If It Flies, It Burns | 3.00% | ~1,539 |
+| KBF-FM | 3.00% | ~1,539 |
 | Kill Your Darlings | 3.00% | ~443 |
 | Heartbreaker | 3.00% | ~443 |
 | Carny | 2.00% | ~1,026 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~51 |
 | No Punctuation | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,283 (Ranked 77)  
+Progressed: 51,288 (Ranked 77)  
 Completed: 48 (0.09%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 48 (0.09%) (Ranked 167)
 | 2023-05-30 | 50,452 | 48 |
 | 2023-05-31 | 50,829 | 48 |
 | 2023-06-01 | 51,134 | 48 |
-| 2023-06-02 | 51,283 | 48 |
+| 2023-06-02 | 51,288 | 48 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

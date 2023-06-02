@@ -6,23 +6,23 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~2,954 |
-| Hey Good Hookin | 63.00% | ~2,515 |
-| I'm on a Boat! | 54.00% | ~2,156 |
-| Can you smell what the Rod is Hooking | 47.00% | ~1,876 |
-| Scaling up | 47.00% | ~1,876 |
-| Ready to Rod and Roll | 39.00% | ~1,557 |
-| More Fish in the Sea | 38.00% | ~1,517 |
-| License to Gill | 31.00% | ~1,238 |
-| Fish Out of Water | 30.00% | ~1,198 |
-| Things that go Splash in the Night | 25.00% | ~998 |
-| Goldfish? | 25.00% | ~998 |
-| Going for Gold | 23.00% | ~918 |
+| Fish Just Got Reel | 74.00% | ~2,957 |
+| Hey Good Hookin | 63.00% | ~2,517 |
+| I'm on a Boat! | 54.00% | ~2,158 |
+| Can you smell what the Rod is Hooking | 47.00% | ~1,878 |
+| Scaling up | 47.00% | ~1,878 |
+| Ready to Rod and Roll | 39.00% | ~1,558 |
+| More Fish in the Sea | 38.00% | ~1,518 |
+| License to Gill | 31.00% | ~1,239 |
+| Fish Out of Water | 30.00% | ~1,199 |
+| Things that go Splash in the Night | 25.00% | ~999 |
+| Goldfish? | 25.00% | ~999 |
+| Going for Gold | 23.00% | ~919 |
 | I'm Hooked! | 17.00% | ~679 |
-| More than a Tourist | 12.00% | ~479 |
-| Diamond in the Rough | 12.00% | ~479 |
-| Hook, Line and Sinker | 7.00% | ~279 |
-| Marathon | 7.00% | ~279 |
+| More than a Tourist | 12.00% | ~480 |
+| Diamond in the Rough | 12.00% | ~480 |
+| Hook, Line and Sinker | 7.00% | ~280 |
+| Marathon | 7.00% | ~280 |
 | Big Fish Small Pond | 6.00% | ~240 |
 | I'm the Captain Now | 5.00% | ~200 |
 | School's Out for Summer | 4.00% | ~160 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,992 (Ranked 132)  
+Progressed: 3,996 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 209)
 | 2023-05-30 | 3,911 | 0 |
 | 2023-05-31 | 3,954 | 0 |
 | 2023-06-01 | 3,982 | 0 |
-| 2023-06-02 | 3,992 | 0 |
+| 2023-06-02 | 3,996 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 437)  
 Sum: 158 (Ranked 378)  

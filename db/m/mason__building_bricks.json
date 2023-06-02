@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
     "PcReleaseDate": "2020-11-09T15:00:00+00:00",
@@ -57,9 +57,9 @@
       "ID": "Constructor_01",
       "SetID": "77clh7i",
       "Name": "Constructor",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Mason_Arch_01",
@@ -106,8 +106,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:08.6433794+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:05:57.7367341+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:53.3337345+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:13:31.4163753+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:08.6433856+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:59:32.7328719+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:05:57.7367426+00:00"
 }

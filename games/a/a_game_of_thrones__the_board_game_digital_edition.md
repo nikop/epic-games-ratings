@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~5,707 |
-| Battering Crew | 20.00% | ~2,853 |
-| The Kingsroad | 19.00% | ~2,711 |
-| Well Stocked | 14.00% | ~1,997 |
-| Royal Fleet | 14.00% | ~1,997 |
-| The Kraken’s Grasp | 10.00% | ~1,427 |
-| Alliance | 9.00% | ~1,284 |
-| Daggers in the Dark | 8.00% | ~1,141 |
-| Oathkeeper | 8.00% | ~1,141 |
-| Influential | 8.00% | ~1,141 |
-| A Long Journey | 8.00% | ~1,141 |
+| Conqueror | 40.00% | ~5,710 |
+| Battering Crew | 20.00% | ~2,855 |
+| The Kingsroad | 19.00% | ~2,712 |
+| Well Stocked | 14.00% | ~1,999 |
+| Royal Fleet | 14.00% | ~1,999 |
+| The Kraken’s Grasp | 10.00% | ~1,428 |
+| Alliance | 9.00% | ~1,285 |
+| Daggers in the Dark | 8.00% | ~1,142 |
+| Oathkeeper | 8.00% | ~1,142 |
+| Influential | 8.00% | ~1,142 |
+| A Long Journey | 8.00% | ~1,142 |
 | Ours is the Fury | 7.00% | ~999 |
 | We Do Not Sow | 7.00% | ~999 |
 | Winter is Coming | 7.00% | ~999 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~856 |
-| Hear me Roar! | 6.00% | ~856 |
-| Defender of the Wall | 6.00% | ~856 |
-| Growing Strong | 5.00% | ~713 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~857 |
+| Hear me Roar! | 6.00% | ~857 |
+| Defender of the Wall | 6.00% | ~857 |
+| Growing Strong | 5.00% | ~714 |
 | What is Dead may Never Die | 3.00% | ~428 |
 | The Swift | 3.00% | ~428 |
-| King in the North | 2.00% | ~285 |
+| King in the North | 2.00% | ~286 |
 | War of the Five Kings | 1.00% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,267 (Ranked 103)  
+Progressed: 14,276 (Ranked 103)  
 Completed: 30 (0.21%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 30 (0.21%) (Ranked 141)
 | 2023-05-30 | 14,021 | 30 |
 | 2023-05-31 | 14,130 | 30 |
 | 2023-06-01 | 14,224 | 30 |
-| 2023-06-02 | 14,267 | 30 |
+| 2023-06-02 | 14,276 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 302)  
 Sum: 779 (Ranked 253)  

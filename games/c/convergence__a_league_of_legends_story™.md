@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~531 |
+| Time Heals All Wounds | 94.00% | ~537 |
 | Rail Rat | 78.00% | ~445 |
 | The Mysterious Stranger | 76.00% | ~434 |
 | Immaculate Aim | 65.00% | ~371 |
@@ -13,14 +13,14 @@
 | No, Thanks! | 55.00% | ~314 |
 | Time Flies | 53.00% | ~303 |
 | The Prince in Heels | 52.00% | ~297 |
+| The Harder They Fall | 51.00% | ~291 |
 | Right On Time | 50.00% | ~286 |
-| The Harder They Fall | 50.00% | ~286 |
 | Fast Learner | 49.00% | ~280 |
 | Immaculate Aim | 49.00% | ~280 |
 | Make Up For Lost Time | 48.00% | ~274 |
 | Breaking Down Barriers | 45.00% | ~257 |
 | The Steel Shadow | 38.00% | ~217 |
-| Golem Chaser | 37.00% | ~211 |
+| Golem Chaser | 38.00% | ~217 |
 | Like Clockwork | 35.00% | ~200 |
 | The Wicked Twins | 35.00% | ~200 |
 | The Betrayer | 33.00% | ~188 |
@@ -40,9 +40,9 @@
 | Fairgrounds Explorer | 19.00% | ~108 |
 | Cultivair Explorer | 15.00% | ~86 |
 | Theater Explorer | 15.00% | ~86 |
+| Corin Goes Home | 13.00% | ~74 |
 | Entresol Explorer | 13.00% | ~74 |
 | Rungs Was Right | 13.00% | ~74 |
-| Corin Goes Home | 12.00% | ~69 |
 | Sartorialist | 12.00% | ~69 |
 | Clovemary for Remembering | 10.00% | ~57 |
 | Hexlock for Protection | 9.00% | ~51 |

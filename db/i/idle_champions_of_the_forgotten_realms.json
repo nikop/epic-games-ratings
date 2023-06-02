@@ -4022,10 +4022,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30018,
       "NumberOfAwardsMax": 4915
+    },
+    {
+      "Time": "2023-06-02T13:58:11.3410873+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30020,
+      "NumberOfAwardsMax": 4915
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30018,
+  "NumberOfAwards": 30020,
   "NumberOfAwardsMax": 4915,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4057,7 +4063,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3952
+      "Count": 3954
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4072,9 +4078,9 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89503,
+  "EOS_Progressed": 89509,
   "EOS_Completed": 1907,
-  "EOS_NewPlayers": 792,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8372,6 +8378,11 @@
       "Time": "2023-06-02T13:20:42.4729391+00:00",
       "NumProgressed": 89503,
       "NumCompleted": 1907
+    },
+    {
+      "Time": "2023-06-02T14:06:32.0933666+00:00",
+      "NumProgressed": 89509,
+      "NumCompleted": 1907
     }
   ],
   "TotalAchievements": 493,
@@ -9677,9 +9688,9 @@
       "ID": "objective_completed_184",
       "SetID": "cc37lbc",
       "Name": "Tomb of the Nine Gods",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_185",
@@ -11613,9 +11624,9 @@
       "ID": "objective_completed_802",
       "SetID": "415jc5c",
       "Name": "Moose Tracks",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_803",
@@ -12326,21 +12337,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55777,
+      "Progressed": 55783,
       "Completed": 2758
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89503,
+      "Progressed": 89509,
       "Completed": 1907
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-02T10:58:34.5450672+00:00",
-  "LastChanged_Achievements": "2023-06-02T13:20:42.4729387+00:00",
+  "LastChanged": "2023-06-02T13:58:11.3410871+00:00",
+  "LastChanged_Achievements": "2023-06-02T14:06:32.093366+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-06-02T13:12:12.7150186+00:00",
-  "LastUpdate_Achievements": "2023-06-02T13:20:42.4750372+00:00"
+  "LastUpdate_Ratings": "2023-06-02T13:58:11.3410878+00:00",
+  "LastUpdate_Achievements": "2023-06-02T14:06:32.0976902+00:00"
 }

@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.20% | ~179 |
 | Sleuth It Out | 0.20% | ~179 |
 | A Grand Puzzle | 0.20% | ~179 |
+| Tomb of the Nine Gods | 0.20% | ~179 |
 | No Time To Rest | 0.20% | ~179 |
 | The Mists of Ravenloft | 0.20% | ~179 |
 | Invisible Shadows | 0.20% | ~179 |
@@ -115,6 +116,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~179 |
 | Underdeep Cartography | 0.20% | ~179 |
 | Overdue Rendezvous | 0.20% | ~179 |
+| Moose Tracks | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
 | The Templar's Camp | 0.20% | ~179 |
@@ -230,7 +232,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.10% | ~90 |
 | Azaka's Procession - Part 1 | 0.10% | ~90 |
 | Snakes on our Plane | 0.10% | ~56 |
-| Tomb of the Nine Gods | 0.10% | ~90 |
 | The Soulmonger Calls | 0.10% | ~90 |
 | Azaka's Procession - Part 2 | 0.10% | ~90 |
 | Acererak's Puzzle | 0.10% | ~56 |
@@ -419,7 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~56 |
 | Only Human | 0.10% | ~56 |
 | Rude Welcome | 0.10% | ~90 |
-| Moose Tracks | 0.10% | ~56 |
 | An Awakened Axe | 0.10% | ~56 |
 | CONtagious Cold | 0.10% | ~56 |
 | Ten in Ten-Towns | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,503 (Ranked 62)  
+Progressed: 89,509 (Ranked 62)  
 Completed: 1,907 (2.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,10 +543,10 @@ Completed: 1,907 (2.13%) (Ranked 62)
 | 2023-05-30 | 89,259 | 1,899 |
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
-| 2023-06-02 | 89,503 | 1,907 |
+| 2023-06-02 | 89,509 | 1,907 |
 ## Awards
 Max (Diverse Characters): 4,915  (Ranked 64)  
-Sum: 30,018 (Ranked 37)  
+Sum: 30,020 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -554,7 +554,7 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,852 |
 | This game has Quickly Understood Controls | 4,609 |
 | This game is Relaxing | 4,502 |
-| This game is Highly Recommended | 3,952 |
+| This game is Highly Recommended | 3,954 |
 | This game has Amazing Characters | 3,945 |
 | This game has Playful Visuals | 3,243 |
 ## Ratings History
@@ -687,4 +687,4 @@ Diff (max vs sum): 27
 | 2023-05-30 | 4.06 | - | 4,911 | 30,004 |
 | 2023-05-31 | 4.06 | - | 4,913 | 30,007 |
 | 2023-06-01 | 4.06 | - | 4,913 | 30,013 |
-| 2023-06-02 | 4.06 | - | 4,915 | 30,018 |
+| 2023-06-02 | 4.06 | - | 4,915 | 30,020 |
