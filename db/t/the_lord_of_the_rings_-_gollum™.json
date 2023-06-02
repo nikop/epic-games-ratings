@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -610,6 +610,11 @@
       "Time": "2023-06-02T19:06:19.5491776+00:00",
       "NumProgressed": 389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T22:06:16.4022199+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -621,7 +626,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "BreakLegs",
@@ -643,9 +648,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 230
     },
     {
       "ID": "Chapter10",
@@ -661,7 +666,7 @@
       "Name": "The Maggot",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Chapter3",
@@ -701,7 +706,7 @@
       "Name": "Good as Fish",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Chapter8",
@@ -723,9 +728,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     },
     {
       "ID": "Collectibles2",
@@ -789,7 +794,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Memories",
@@ -805,7 +810,7 @@
       "Name": "Murderer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NoDamage",
@@ -893,29 +898,29 @@
       "Name": "Trigger-Happy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:10:30.5084823+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:06:16.4022195+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:02:10.2703821+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:10:30.5085319+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:58:08.3674049+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:06:16.4022561+00:00"
 }

@@ -2630,7 +2630,7 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9450,
+  "EOS_Progressed": 9451,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
@@ -5285,6 +5285,11 @@
       "Time": "2023-06-02T21:11:10.3020724+00:00",
       "NumProgressed": 9450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-02T22:06:51.8430578+00:00",
+      "NumProgressed": 9451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5320,7 +5325,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -5360,7 +5365,7 @@
       "Name": "Path of the Demon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "10_PathOfAzata",
@@ -5376,7 +5381,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "12_PathOfTrickster",
@@ -5392,7 +5397,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "14_PathOfSwarm",
@@ -5432,7 +5437,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "19_EqualToAroden",
@@ -5544,7 +5549,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5552,7 +5557,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -5696,7 +5701,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -6223,21 +6228,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8232,
+      "Progressed": 8233,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9450,
+      "Progressed": 9451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-02T19:58:01.0678528+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:11:10.3020717+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:06:51.8430575+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:02:51.095526+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:11:10.3022535+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:58:43.7992587+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:06:51.8432584+00:00"
 }

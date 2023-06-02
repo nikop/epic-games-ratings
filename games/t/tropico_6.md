@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,520 |
+| Just One...More...Term... | 76.00% | ~2,521 |
 | Un-Lonely Island | 48.00% | ~1,592 |
-| The Beginning of a Servantship | 46.00% | ~1,525 |
+| The Beginning of a Servantship | 46.00% | ~1,526 |
 | Trade Is My Trait | 37.00% | ~1,227 |
 | Number 18 | 25.00% | ~829 |
 | We Don't Have Time For That | 20.00% | ~663 |
@@ -21,7 +21,7 @@ Number of Ratings: 398  (23.09.2022)
 | Go Sovereigns! | 11.00% | ~365 |
 | Of Seals And Men | 10.00% | ~332 |
 | Shackadelic | 10.00% | ~332 |
-| Double Trouble | 9.00% | ~298 |
+| Double Trouble | 9.00% | ~299 |
 | Firestarter | 8.00% | ~265 |
 | Make Tropico Great Again! | 8.00% | ~265 |
 | French Connection | 8.00% | ~265 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Fairy Tale Come True | 6.00% | ~199 |
 | Viva Tropico! | 5.00% | ~166 |
 | Apocalypso | 4.00% | ~133 |
-| Been there, Done That | 3.00% | ~99 |
-| Narcissist | 3.00% | ~99 |
-| Promising Endeavors | 3.00% | ~99 |
-| The Time For Wonders | 3.00% | ~99 |
+| Been there, Done That | 3.00% | ~100 |
+| Narcissist | 3.00% | ~100 |
+| Promising Endeavors | 3.00% | ~100 |
+| The Time For Wonders | 3.00% | ~100 |
 | Chain Gang | 2.00% | ~66 |
 | From Knight to Little Duck | 2.00% | ~66 |
 | One Does Not Simply Stage A Coup | 2.00% | ~66 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~33 |
 | My Ways | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,316 (Ranked 135)  
+Progressed: 3,317 (Ranked 135)  
 Completed: 1 (0.03%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.03%) (Ranked 189)
 | 2023-05-30 | 3,234 | 1 |
 | 2023-05-31 | 3,257 | 1 |
 | 2023-06-01 | 3,287 | 1 |
-| 2023-06-02 | 3,316 | 1 |
+| 2023-06-02 | 3,317 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 316)  
 Sum: 752 (Ranked 255)  

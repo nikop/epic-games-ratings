@@ -12,18 +12,18 @@ Number of Ratings: 22  (23.09.2022)
 | Path of Learning | 36.00% | ~150 |
 | Built in a Day | 30.00% | ~125 |
 | More Brain Than Brawn | 25.00% | ~104 |
-| Perfect Illusion | 20.00% | ~83 |
-| Hundred Percent First | 20.00% | ~83 |
+| Perfect Illusion | 20.00% | ~84 |
+| Hundred Percent First | 20.00% | ~84 |
 | Dirty Dozen | 17.00% | ~71 |
 | Fan Service | 16.00% | ~67 |
 | Lion Tamer | 15.00% | ~63 |
-| King of District 1 | 14.00% | ~58 |
-| Amazing! | 14.00% | ~58 |
+| King of District 1 | 14.00% | ~59 |
+| Amazing! | 14.00% | ~59 |
 | Bar Brawler | 13.00% | ~54 |
 | Flawless Presentation | 13.00% | ~54 |
 | One More Thing... | 12.00% | ~50 |
 | Lucky Day | 12.00% | ~50 |
-| King of District 2 | 12.00% | ~50 |
+| King of District 2 | 11.00% | ~46 |
 | Time Travel! | 10.00% | ~42 |
 | Marketing Manager | 10.00% | ~42 |
 | Circus Versus Circus | 8.00% | ~33 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417 (Ranked 204)  
+Progressed: 418 (Ranked 204)  
 Completed: 1 (0.24%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 1 (0.24%) (Ranked 138)
 | 2023-05-28 | 413 | 1 |
 | 2023-05-30 | 415 | 1 |
 | 2023-05-31 | 416 | 1 |
-| 2023-06-02 | 417 | 1 |
+| 2023-06-02 | 418 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

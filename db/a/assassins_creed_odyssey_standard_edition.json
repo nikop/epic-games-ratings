@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
@@ -4599,10 +4599,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 12368,
       "NumberOfAwardsMax": 5085
+    },
+    {
+      "Time": "2023-06-02T21:59:58.1057302+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 12374,
+      "NumberOfAwardsMax": 5085
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12368,
+  "NumberOfAwards": 12374,
   "NumberOfAwardsMax": 5085,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4616,7 +4622,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3226
+      "Count": 3232
     },
     {
       "Text": "This game is Educational",
@@ -4702,8 +4708,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-06-02T18:59:49.6794378+00:00",
+  "LastChanged": "2023-06-02T21:59:58.10573+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.6706502+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:04:19.6264178+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:09:33.497568+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:59:58.1057308+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:05:28.6413418+00:00"
 }

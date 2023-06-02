@@ -2,9 +2,9 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.25,
+  "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -56,6 +56,11 @@
       "Time": "2023-05-25T03:05:25.1081411+00:00",
       "NumProgressed": 123,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-02T22:06:23.3981755+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 21,
@@ -75,7 +80,7 @@
       "Name": "Beginning of the End",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Bling",
@@ -137,7 +142,7 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 40,
       "UsersEstimate": 66
     },
@@ -227,14 +232,14 @@
       "Name": "Teamwork",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 4
     }
   ],
@@ -242,8 +247,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:10:38.5428556+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:06:23.398175+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:18.9283981+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:03:41.9268325+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:10:38.5428723+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:59:27.6488963+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:06:23.3981925+00:00"
 }

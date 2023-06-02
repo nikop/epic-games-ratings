@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-06-02T18:05:36.0921148+00:00",
       "NumProgressed": 429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T22:06:26.2097922+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -813,7 +818,7 @@
       "Name": "A friend in need...",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LostAndFound",
@@ -877,7 +882,7 @@
       "Name": "Uprooting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TheGuardian",
@@ -901,7 +906,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Toxic",
@@ -940,7 +945,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 1
     }
   ],
@@ -948,8 +953,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:10:41.8836449+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:06:26.2097919+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:02:19.0015007+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:10:41.8836752+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:58:16.2663695+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:06:26.2098213+00:00"
 }

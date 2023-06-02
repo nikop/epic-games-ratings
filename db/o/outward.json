@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2744,
+  "EOS_Progressed": 2745,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2024,6 +2024,11 @@
       "Time": "2023-06-02T21:06:15.3914003+00:00",
       "NumProgressed": 2744,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T22:01:35.9974099+00:00",
+      "NumProgressed": 2745,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2091,7 +2096,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "Eureka_23",
@@ -2259,7 +2264,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2370,15 +2375,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2744,
+      "Progressed": 2745,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:06:15.3913993+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:01:35.9974095+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:02:09.9523661+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:06:15.3914583+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:58:08.0499894+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:01:35.9974548+00:00"
 }

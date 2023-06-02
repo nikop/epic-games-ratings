@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-06-02T00:05:28.4822689+00:00",
       "NumProgressed": 417,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-02T22:06:42.9981953+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -233,7 +238,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -377,7 +382,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -457,15 +462,15 @@
       "Name": "King of District 1",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_31",
       "SetID": "631ndc2",
       "Name": "King of District 2",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -561,7 +566,7 @@
       "Name": "Amazing!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -624,7 +629,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 1
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:11:00.5687856+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:06:42.9981949+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:03:36.2689363+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:11:00.5688311+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:59:22.6725899+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:06:42.9982469+00:00"
 }

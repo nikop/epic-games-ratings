@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6257,
+  "EOS_Progressed": 6258,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2818,6 +2818,11 @@
       "Time": "2023-06-02T20:05:02.5652746+00:00",
       "NumProgressed": 6257,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-02T22:06:15.11784+00:00",
+      "NumProgressed": 6258,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2933,7 +2938,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "LIBERATOR",
@@ -2981,7 +2986,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "THING",
@@ -2996,7 +3001,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6257,
+      "Progressed": 6258,
       "Completed": 23
     }
   ],
@@ -3004,8 +3009,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:10:28.9344392+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:06:15.117839+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:02:24.9769224+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:10:28.9344782+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:58:21.3561834+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:06:15.1179112+00:00"
 }

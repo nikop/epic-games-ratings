@@ -6,11 +6,11 @@ Rating: 4.42 (Ranked 653)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 25.00% | ~522 |
-| Confirming Suspicions | 20.00% | ~417 |
-| The Kraken Wakes | 15.00% | ~313 |
-| It's Starting to Crack | 13.00% | ~271 |
-| Lord of War | 12.00% | ~250 |
-| Change the Channel | 11.00% | ~229 |
+| Confirming Suspicions | 20.00% | ~418 |
+| The Kraken Wakes | 16.00% | ~334 |
+| It's Starting to Crack | 13.00% | ~272 |
+| Lord of War | 12.00% | ~251 |
+| Change the Channel | 11.00% | ~230 |
 | Resourceful | 10.00% | ~209 |
 | Taking it back | 9.00% | ~188 |
 | Organ Grinder | 8.00% | ~167 |
@@ -28,12 +28,12 @@ Rating: 4.42 (Ranked 653)
 | Der Geist | 5.00% | ~104 |
 | Close Quarters | 5.00% | ~104 |
 | Snake in the Grass | 5.00% | ~104 |
-| Climbing the Ladder | 4.00% | ~83 |
-| Fields of Glory | 4.00% | ~83 |
-| Skirmisher | 4.00% | ~83 |
-| Brains of the Operation | 4.00% | ~83 |
-| No Stone Unturned | 3.00% | ~63 |
-| Set Europe Ablaze | 3.00% | ~63 |
+| Climbing the Ladder | 4.00% | ~84 |
+| No Stone Unturned | 4.00% | ~84 |
+| Fields of Glory | 4.00% | ~84 |
+| Skirmisher | 4.00% | ~84 |
+| Set Europe Ablaze | 4.00% | ~84 |
+| Brains of the Operation | 4.00% | ~84 |
 | Precision Is Key | 3.00% | ~63 |
 | Rigged to Blow | 2.00% | ~42 |
 | My Little Friend | 2.00% | ~42 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 653)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,086 (Ranked 150)  
+Progressed: 2,089 (Ranked 150)  
 Completed: 2 (0.10%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 2 (0.10%) (Ranked 162)
 | 2023-05-30 | 1,904 | 2 |
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
-| 2023-06-02 | 2,086 | 2 |
+| 2023-06-02 | 2,089 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

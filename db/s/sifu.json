@@ -6,7 +6,7 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -4386,9 +4386,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706938,
+  "EOS_Progressed": 706946,
   "EOS_Completed": 12751,
-  "EOS_NewPlayers": 1437,
+  "EOS_NewPlayers": 1440,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8271,6 +8271,11 @@
       "Time": "2023-06-02T21:11:03.2154637+00:00",
       "NumProgressed": 706938,
       "NumCompleted": 12751
+    },
+    {
+      "Time": "2023-06-02T22:06:45.3619933+00:00",
+      "NumProgressed": 706946,
+      "NumCompleted": 12751
     }
   ],
   "TotalAchievements": 50,
@@ -8322,7 +8327,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "07_Wude_H1",
@@ -8386,7 +8391,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "15_Detective_H1",
@@ -8434,7 +8439,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8450,7 +8455,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -8594,7 +8599,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8681,21 +8686,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16239,
-      "Completed": 10213
+      "Progressed": 16247,
+      "Completed": 10214
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706938,
+      "Progressed": 706946,
       "Completed": 12751
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-02T18:59:21.3586321+00:00",
-  "LastChanged_Achievements": "2023-06-02T21:11:03.2154632+00:00",
+  "LastChanged_Achievements": "2023-06-02T22:06:45.3619929+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-02T21:03:43.3438737+00:00",
-  "LastUpdate_Achievements": "2023-06-02T21:11:03.2155324+00:00"
+  "LastUpdate_Ratings": "2023-06-02T21:59:28.9446218+00:00",
+  "LastUpdate_Achievements": "2023-06-02T22:06:45.3620634+00:00"
 }

@@ -1,27 +1,27 @@
 # My Lovely Wife
 [Store](https://store.epicgames.com/en-US/p/my-lovely-wife-bef07f)  
 [View Rawdata](../../db/m/my_lovely_wife.json)  
-Rating: 4.36 (Ranked 715)  
+Rating: 4.36 (Ranked 714)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~552 |
-| I did it! | 94.00% | ~535 |
-| Learner | 91.00% | ~518 |
-| Economical | 91.00% | ~518 |
-| Devout | 89.00% | ~506 |
-| The Love Martyr | 87.00% | ~495 |
+| Objective Complete | 97.00% | ~553 |
+| I did it! | 94.00% | ~536 |
+| Learner | 91.00% | ~519 |
+| Economical | 91.00% | ~519 |
+| Devout | 89.00% | ~507 |
+| The Love Martyr | 87.00% | ~496 |
 | Frugal | 85.00% | ~484 |
-| Dilligent | 83.00% | ~472 |
-| I... I did it? | 80.00% | ~455 |
-| Adored | 76.00% | ~432 |
+| Dilligent | 82.00% | ~467 |
+| I... I did it? | 80.00% | ~456 |
+| Adored | 75.00% | ~428 |
 | The Hobbyist | 65.00% | ~370 |
-| A Forked Tongue | 54.00% | ~307 |
-| Between Two Fires | 51.00% | ~290 |
-| The Admirer | 51.00% | ~290 |
-| Precious | 44.00% | ~250 |
-| Devoted | 41.00% | ~233 |
+| A Forked Tongue | 54.00% | ~308 |
+| Between Two Fires | 51.00% | ~291 |
+| The Admirer | 51.00% | ~291 |
+| Precious | 44.00% | ~251 |
+| Devoted | 41.00% | ~234 |
 | The Farmer | 39.00% | ~222 |
 | Ever After | 36.00% | ~205 |
 | Mandatory Sacrifice | 29.00% | ~165 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 569 (Ranked 196)  
+Progressed: 570 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-29 | 563 | 0 |
 | 2023-05-30 | 565 | 0 |
 | 2023-06-01 | 568 | 0 |
-| 2023-06-02 | 569 | 0 |
+| 2023-06-02 | 570 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
