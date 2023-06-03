@@ -25,15 +25,15 @@
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.87% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.33% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.30% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 30 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.89% |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.23% |
+| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.21% |
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
@@ -65,11 +65,11 @@
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Iron Danger](games/i/iron_danger.md) | 2.11% |
 | 65 | [JARS](games/j/jars.md) | 2.08% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.94% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.89% |
 | 67 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 68 | [Sifu](games/s/sifu.md) | 1.80% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
+| 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
 | 71 | [Night Book](games/n/night_book.md) | 1.59% |
 | 71 | [Somerville](games/s/somerville.md) | 1.59% |
@@ -133,9 +133,9 @@
 | 131 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
-| 134 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
-| 135 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
-| 135 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 134 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
+| 134 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
+| 134 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 137 | [Despot's Game](games/d/despot's_game.md) | 0.26% |
 | 138 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.24% |

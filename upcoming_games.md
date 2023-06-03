@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | - | 0 |
 | [Insectipede](games/3/311f087b092342bc84393e9d1f9c3294.md) | 2023-06-03 | - |  | - | - |
 | [The Music Trivia Challenge](games/2/2ff17af973164d8b897f27050627f9b6.md) | 2023-06-03 | - |  | - | - |
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 13 | - | - |
