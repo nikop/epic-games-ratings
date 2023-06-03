@@ -14,23 +14,23 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 2.00% | ~303 |
 | Taking Action | 2.00% | ~303 |
 | No Deaths | 2.00% | ~303 |
-| Homesick | 1.00% | ~151 |
-| Bandit Camp | 1.00% | ~151 |
-| Barren Lands | 1.00% | ~151 |
-| Ancient Battleground | 1.00% | ~151 |
-| Sparkdew Crystals | 1.00% | ~151 |
-| Dangerous Lands | 1.00% | ~151 |
-| Levitating Monument | 1.00% | ~151 |
-| Flooded Mines | 1.00% | ~151 |
-| Monastery of the Holy Flame | 1.00% | ~151 |
-| Royal Outpost | 1.00% | ~151 |
-| Lost Colonies | 1.00% | ~151 |
-| Corrosive Torrent | 1.00% | ~151 |
-| Watchtower | 1.00% | ~151 |
-| Cursed Lands | 1.00% | ~151 |
-| A Real Challenge | 1.00% | ~151 |
-| Like a Machine | 1.00% | ~151 |
-| Trade Baron | 1.00% | ~151 |
+| Homesick | 1.00% | ~152 |
+| Bandit Camp | 1.00% | ~152 |
+| Barren Lands | 1.00% | ~152 |
+| Ancient Battleground | 1.00% | ~152 |
+| Sparkdew Crystals | 1.00% | ~152 |
+| Dangerous Lands | 1.00% | ~152 |
+| Levitating Monument | 1.00% | ~152 |
+| Flooded Mines | 1.00% | ~152 |
+| Monastery of the Holy Flame | 1.00% | ~152 |
+| Royal Outpost | 1.00% | ~152 |
+| Lost Colonies | 1.00% | ~152 |
+| Corrosive Torrent | 1.00% | ~152 |
+| Watchtower | 1.00% | ~152 |
+| Cursed Lands | 1.00% | ~152 |
+| A Real Challenge | 1.00% | ~152 |
+| Like a Machine | 1.00% | ~152 |
+| Trade Baron | 1.00% | ~152 |
 | Refinery | 0.90% | ~136 |
 | Against All Odds | 0.90% | ~136 |
 | Haunted Forest | 0.90% | ~136 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,149 (Ranked 100)  
+Progressed: 15,150 (Ranked 100)  
 Completed: 33 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-05-31 | 15,102 | 33 |
 | 2023-06-01 | 15,121 | 33 |
 | 2023-06-02 | 15,142 | 33 |
-| 2023-06-03 | 15,149 | 33 |
+| 2023-06-03 | 15,150 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,036 (Ranked 152)  

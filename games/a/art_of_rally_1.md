@@ -6,19 +6,19 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,669 |
-| keep it tidy | 77.00% | ~7,755 |
-| podium | 72.00% | ~7,252 |
-| medium attack | 59.00% | ~5,942 |
-| brail | 56.00% | ~5,640 |
+| light attack | 96.00% | ~9,670 |
+| keep it tidy | 77.00% | ~7,756 |
+| podium | 72.00% | ~7,253 |
+| medium attack | 59.00% | ~5,943 |
+| brail | 56.00% | ~5,641 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,029 |
 | grocery-getter | 39.00% | ~3,928 |
 | rwd only | 26.00% | ~2,619 |
 | food tour: pasta | 26.00% | ~2,619 |
 | to finish first, first you must finish | 21.00% | ~2,115 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,115 |
-| autopilot | 20.00% | ~2,014 |
-| turbo | 20.00% | ~2,014 |
+| autopilot | 20.00% | ~2,015 |
+| turbo | 20.00% | ~2,015 |
 | food tour: pretzel | 19.00% | ~1,914 |
 | bicycle race | 15.00% | ~1,511 |
 | car wash | 14.00% | ~1,410 |
@@ -30,7 +30,7 @@ Number of Ratings: 56  (23.09.2022)
 | where is the stage? | 11.00% | ~1,108 |
 | maximum attack | 11.00% | ~1,108 |
 | espresso | 10.00% | ~1,007 |
-| parallel universe | 9.00% | ~906 |
+| parallel universe | 9.00% | ~907 |
 | samir | 8.00% | ~806 |
 | eurobeat | 7.00% | ~705 |
 | master of rally | 7.00% | ~705 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,072 (Ranked 109)  
+Progressed: 10,073 (Ranked 109)  
 Completed: 9 (0.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 9 (0.09%) (Ranked 168)
 | 2023-05-31 | 10,063 | 9 |
 | 2023-06-01 | 10,067 | 9 |
 | 2023-06-02 | 10,070 | 9 |
-| 2023-06-03 | 10,072 | 9 |
+| 2023-06-03 | 10,073 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

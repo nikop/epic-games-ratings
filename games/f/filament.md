@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~180,523 |
+| Boarded! | 94.00% | ~180,529 |
 | Snooper. | 10.00% | ~19,205 |
-| You have to start somewhere, right? | 7.00% | ~13,443 |
+| You have to start somewhere, right? | 7.00% | ~13,444 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,523 |
-| Corrupted. | 5.00% | ~9,602 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,602 |
-| Answers can be found amongst the stars | 3.00% | ~5,761 |
-| Bend to the will of the arrows. | 3.00% | ~5,761 |
+| Corrupted. | 5.00% | ~9,603 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,603 |
+| Answers can be found amongst the stars | 3.00% | ~5,762 |
+| Bend to the will of the arrows. | 3.00% | ~5,762 |
 | You've been through a lot. | 2.00% | ~3,841 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,841 |
 | I hope your remember your colour theory. | 2.00% | ~3,841 |
@@ -24,7 +24,7 @@ Rating: 4.32 (Ranked 747)
 | They're like really flat pillars. | 2.00% | ~3,841 |
 | That's a wrap. | 2.00% | ~3,841 |
 | In balance. | 2.00% | ~3,841 |
-| I hope you're ready. | 1.00% | ~1,920 |
+| I hope you're ready. | 1.00% | ~1,921 |
 | Cockpit | 0.70% | ~1,344 |
 | Names to faces. | 0.70% | ~1,344 |
 | Witness it. | 0.70% | ~1,344 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 747)
 | Snooper + | 0.40% | ~768 |
 | Corrupted + | 0.30% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,046 (Ranked 50)  
+Progressed: 192,052 (Ranked 50)  
 Completed: 430 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,11 +79,11 @@ Completed: 430 (0.22%) (Ranked 141)
 | 2023-05-31 | 191,763 | 429 |
 | 2023-06-01 | 191,860 | 429 |
 | 2023-06-02 | 191,970 | 430 |
-| 2023-06-03 | 192,046 | 430 |
+| 2023-06-03 | 192,052 | 430 |
 ## Awards
 Max (Challenging Puzzles): 553  (Ranked 176)  
-Sum: 667 (Ranked 266)  
-Diff (max vs sum): -90  
+Sum: 667 (Ranked 267)  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 553 |

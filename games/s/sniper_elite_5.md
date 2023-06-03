@@ -5,20 +5,20 @@ Rating: 4.44 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~533 |
-| Confirming Suspicions | 20.00% | ~426 |
-| The Kraken Wakes | 16.00% | ~341 |
-| It's Starting to Crack | 13.00% | ~277 |
-| Lord of War | 12.00% | ~256 |
+| Meeting Resistance | 25.00% | ~535 |
+| Confirming Suspicions | 20.00% | ~428 |
+| The Kraken Wakes | 16.00% | ~342 |
+| It's Starting to Crack | 13.00% | ~278 |
+| Lord of War | 12.00% | ~257 |
+| Resourceful | 11.00% | ~235 |
 | Change the Channel | 11.00% | ~235 |
-| Resourceful | 10.00% | ~213 |
-| Taking it back | 9.00% | ~192 |
+| Taking it back | 9.00% | ~193 |
 | Organ Grinder | 8.00% | ~171 |
 | As Quiet as a Mouse | 8.00% | ~171 |
 | Target America | 8.00% | ~171 |
-| Enemy at the Gates | 7.00% | ~149 |
-| Just a Flesh Wound | 7.00% | ~149 |
-| Explosive Efficiency | 7.00% | ~149 |
+| Enemy at the Gates | 7.00% | ~150 |
+| Just a Flesh Wound | 7.00% | ~150 |
+| Explosive Efficiency | 7.00% | ~150 |
 | Liberté | 6.00% | ~128 |
 | Opposing Force | 6.00% | ~128 |
 | Gunslinger | 6.00% | ~128 |
@@ -28,12 +28,12 @@ Rating: 4.44 (Ranked 630)
 | Der Geist | 5.00% | ~107 |
 | Close Quarters | 5.00% | ~107 |
 | Snake in the Grass | 5.00% | ~107 |
-| Climbing the Ladder | 4.00% | ~85 |
-| No Stone Unturned | 4.00% | ~85 |
-| Fields of Glory | 4.00% | ~85 |
-| Skirmisher | 4.00% | ~85 |
-| Set Europe Ablaze | 4.00% | ~85 |
-| Brains of the Operation | 4.00% | ~85 |
+| Climbing the Ladder | 4.00% | ~86 |
+| No Stone Unturned | 4.00% | ~86 |
+| Fields of Glory | 4.00% | ~86 |
+| Skirmisher | 4.00% | ~86 |
+| Set Europe Ablaze | 4.00% | ~86 |
+| Brains of the Operation | 4.00% | ~86 |
 | Precision Is Key | 3.00% | ~64 |
 | Rigged to Blow | 2.00% | ~43 |
 | My Little Friend | 2.00% | ~43 |
@@ -42,13 +42,13 @@ Rating: 4.44 (Ranked 630)
 | It'll Buff Right Out | 1.00% | ~21 |
 | Herr Today, Gone Tomorrow | 1.00% | ~21 |
 | Operation Foxley | 1.00% | ~21 |
+| Locomotion Commotion | 0.90% | ~19 |
 | Road Rage | 0.90% | ~19 |
 | Don't hold your breath | 0.90% | ~19 |
-| Tinkerer | 0.80% | ~17 |
-| Locomotion Commotion | 0.80% | ~17 |
+| Tinkerer | 0.70% | ~15 |
 | Siegebreaker | 0.70% | ~15 |
 | Ghost of Falaise | 0.70% | ~15 |
-| Last Resort | 0.60% | ~12 |
+| Last Resort | 0.60% | ~13 |
 | From Paris with Love | 0.50% | ~11 |
 | Burn after reading | 0.50% | ~11 |
 | Souvenir hunter | 0.40% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 630)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,132 (Ranked 149)  
+Progressed: 2,139 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.09%) (Ranked 168)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,132 | 2 |
+| 2023-06-03 | 2,139 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14373,
+  "EOS_Progressed": 14378,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2604,6 +2604,11 @@
       "Time": "2023-06-03T14:04:36.9669267+00:00",
       "NumProgressed": 14373,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T15:04:37.5008774+00:00",
+      "NumProgressed": 14378,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2631,7 +2636,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2639,7 +2644,7 @@
       "Name": "You Need a Gun",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2647,7 +2652,7 @@
       "Name": "Flesh Wound",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2759,7 +2764,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2767,7 +2772,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -2783,7 +2788,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2799,7 +2804,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -2815,7 +2820,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "STORY_HABITAT",
@@ -2839,7 +2844,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -2863,7 +2868,7 @@
       "Name": "Full Circle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "STORY_TUNNELS",
@@ -2934,13 +2939,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14373,
+      "Progressed": 14378,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2299,
+      "Progressed": 2304,
       "Completed": 29
     }
   ],
@@ -2948,8 +2953,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T02:11:24.6577138+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:04:36.9669263+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:04:37.5008766+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:58:04.3752681+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:04:36.9669617+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:58:06.5949086+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:04:37.5009723+00:00"
 }

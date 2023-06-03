@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -756,9 +756,9 @@
       "ID": "DIE_MAX_POWER",
       "SetID": "6ohhfoc",
       "Name": "Incredible Strength",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "ENDING_TRUE",
@@ -997,8 +997,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:06:42.5888804+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:06:49.1745012+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:51.047236+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:57:54.4001955+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:06:42.588911+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:57:55.9177052+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:06:49.1745419+00:00"
 }

@@ -437,9 +437,9 @@
       "ID": "ACH_033",
       "SetID": "72imik0",
       "Name": "Cassandra Van den Bosch",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_034",
@@ -549,9 +549,9 @@
       "ID": "ACH_046",
       "SetID": "72imik0",
       "Name": "Zakariya Demir",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_05",
@@ -606,8 +606,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:06:56.1161758+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:07:03.5306344+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:56.7957468+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:57:59.8100241+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:06:56.1162272+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:58:01.8781227+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:07:03.5306733+00:00"
 }

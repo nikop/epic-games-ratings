@@ -8,10 +8,10 @@ Rating: 4.52 (Ranked 512)
 | Fresh Prince of Trudograd | 87.00% | ~932 |
 | Household | 6.00% | ~64 |
 | An Old Friend | 5.00% | ~54 |
+| Atomic Soda | 4.00% | ~43 |
 | Lot 49 | 4.00% | ~43 |
 | Viva La Revolution | 4.00% | ~43 |
 | Walking Fortress | 4.00% | ~43 |
-| Atomic Soda | 3.00% | ~32 |
 | Freelance Police | 3.00% | ~32 |
 | Mysterious Knife | 3.00% | ~32 |
 | The Great and Powerful | 3.00% | ~32 |

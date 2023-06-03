@@ -769,9 +769,9 @@
       "ID": "ticking_clock",
       "SetID": "jig50d",
       "Name": "Ticking Clock",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "total_walrus",
@@ -834,8 +834,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:03:22.7109116+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:03:19.0688724+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:00:35.724692+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:03:22.7109324+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:00:44.5852508+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:03:19.0689057+00:00"
 }

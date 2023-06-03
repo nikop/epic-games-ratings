@@ -18,7 +18,7 @@
 | Fast Learner | 49.00% | ~285 |
 | Immaculate Aim | 49.00% | ~285 |
 | Make Up For Lost Time | 48.00% | ~279 |
-| Breaking Down Barriers | 44.00% | ~256 |
+| Breaking Down Barriers | 45.00% | ~261 |
 | The Steel Shadow | 39.00% | ~227 |
 | Golem Chaser | 38.00% | ~221 |
 | Like Clockwork | 36.00% | ~209 |

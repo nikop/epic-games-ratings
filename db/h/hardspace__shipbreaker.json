@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -272,7 +272,7 @@
   "Tags": [],
   "EOS_Progressed": 696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -783,9 +783,9 @@
       "ID": "ACH_BING_BANG_BOOM",
       "SetID": "108h92c",
       "Name": "Bing Bang BOOM",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -944,8 +944,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:03:33.2647527+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:03:29.9797869+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:38.9499869+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:57:41.4189306+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:03:33.2647704+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:57:42.3586317+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:03:29.979814+00:00"
 }

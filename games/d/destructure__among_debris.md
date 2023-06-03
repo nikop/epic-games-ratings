@@ -16,6 +16,7 @@
 | Easy Victory | 5.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
 | Ball Protector | 3.00% | ~4 |
+| Ticking Clock | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~2 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
@@ -25,7 +26,6 @@
 | Monster of Fashion | 2.00% | ~2 |
 | Nomad | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
-| Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
 | Bullet Hell | 0.80% | ~1 |
 | Machine Man | 0.80% | ~1 |

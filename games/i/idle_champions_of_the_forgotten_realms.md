@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,792 |
+| A Brief Tour of the Realms | 2.00% | ~1,793 |
 | The Cursed Farmer | 1.00% | ~896 |
 | The Mad Wizard | 0.80% | ~717 |
 | The Court of Storms | 0.80% | ~447 |
@@ -17,18 +17,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.50% | ~448 |
 | Are Ya Chicken? | 0.50% | ~448 |
 | Friendly Imps | 0.50% | ~448 |
-| Coasting to the Finish | 0.50% | ~279 |
+| Coasting to the Finish | 0.50% | ~280 |
 | Checkmate | 0.40% | ~224 |
 | Vecna Out! | 0.40% | ~224 |
-| A Persistent Buzzing | 0.40% | ~358 |
-| Mad Cow Disease | 0.40% | ~358 |
-| Pure Energy | 0.40% | ~358 |
+| A Persistent Buzzing | 0.40% | ~359 |
+| Terror in the Dark | 0.40% | ~359 |
+| Mad Cow Disease | 0.40% | ~359 |
+| Pure Energy | 0.40% | ~359 |
 | Quick or Quack | 0.40% | ~224 |
 | Maddening | 0.30% | ~269 |
 | Owlbear Necessities | 0.30% | ~168 |
 | Best Thay Ever | 0.30% | ~168 |
 | Beast Mode | 0.30% | ~269 |
-| Terror in the Dark | 0.30% | ~269 |
 | Low Initiative | 0.30% | ~269 |
 | A Mysterious Summons | 0.30% | ~269 |
 | Building Trust | 0.30% | ~269 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~179 |
 | Best Laid Plans | 0.20% | ~112 |
 | The Howling Peaks of Yon | 0.20% | ~112 |
+| The Invisible Wizards of Thay | 0.20% | ~112 |
 | Vecna Lives! | 0.20% | ~112 |
 | Return to the Tomb | 0.20% | ~112 |
 | Keep Your Distance | 0.20% | ~112 |
@@ -196,7 +197,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
 | Strength of Character | 0.10% | ~56 |
-| The Invisible Wizards of Thay | 0.10% | ~56 |
 | Heavy Burden | 0.10% | ~90 |
 | Seeds of Destruction | 0.10% | ~56 |
 | Speeds of Destruction | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,617 (Ranked 62)  
+Progressed: 89,630 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,617 | 1,913 |
+| 2023-06-03 | 89,630 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

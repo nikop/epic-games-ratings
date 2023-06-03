@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657264,
+  "EOS_Progressed": 657267,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4820,6 +4820,11 @@
       "Time": "2023-06-03T14:06:47.955191+00:00",
       "NumProgressed": 657264,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-03T15:06:54.712631+00:00",
+      "NumProgressed": 657267,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4831,7 +4836,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473230
+      "UsersEstimate": 473232
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4839,7 +4844,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381213
+      "UsersEstimate": 381215
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4895,7 +4900,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65726
+      "UsersEstimate": 65727
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -4903,7 +4908,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46008
+      "UsersEstimate": 46009
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -4927,7 +4932,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65726
+      "UsersEstimate": 65727
     },
     {
       "ID": "Achievement_14_Magician",
@@ -5063,7 +5068,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46008
+      "UsersEstimate": 46009
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -5095,7 +5100,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164316
+      "UsersEstimate": 164317
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -5214,15 +5219,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657264,
+      "Progressed": 657267,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:06:47.9551906+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:06:54.7126304+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.7468095+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:57:47.6432851+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:06:47.9552395+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:57:48.8372079+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:06:54.7126896+00:00"
 }

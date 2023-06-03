@@ -19,6 +19,7 @@ Rating: 4.17 (Ranked 843)
 | Rock and a Hard Place | 1.00% | ~634 |
 | Quartzer Life Crisis | 1.00% | ~634 |
 | Snow Problem | 1.00% | ~634 |
+| Cooldown | 1.00% | ~634 |
 | Working Hard or Harley Working? | 1.00% | ~634 |
 | Universal Health Scare | 1.00% | ~634 |
 | Unstoppable Force | 1.00% | ~634 |
@@ -28,7 +29,6 @@ Rating: 4.17 (Ranked 843)
 | In Your Element | 0.90% | ~571 |
 | Not On My Watch | 0.90% | ~571 |
 | Shock Til They Drop | 0.90% | ~571 |
-| Cooldown | 0.90% | ~571 |
 | Voiceless | 0.90% | ~571 |
 | Seeking Asylum | 0.90% | ~571 |
 | Gotham Knight | 0.90% | ~571 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 843)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,397 (Ranked 71)  
+Progressed: 63,401 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
-| 2023-06-03 | 63,397 | 93 |
+| 2023-06-03 | 63,401 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,283  (Ranked 98)  
 Sum: 3,782 (Ranked 137)  

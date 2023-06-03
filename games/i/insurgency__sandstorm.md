@@ -6,27 +6,27 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,952 |
-| Wallbanger | 5.00% | ~18,952 |
-| Exploitative | 4.00% | ~15,161 |
-| High Speed Low Drag | 4.00% | ~15,161 |
-| Wet Feet | 4.00% | ~15,161 |
-| Checkpoint Victory | 3.00% | ~11,371 |
-| Lucky | 3.00% | ~11,371 |
-| Stylin' | 3.00% | ~11,371 |
-| Turf War | 3.00% | ~11,371 |
+| Point Shooting | 5.00% | ~18,953 |
+| Wallbanger | 5.00% | ~18,953 |
+| Exploitative | 4.00% | ~15,162 |
+| High Speed Low Drag | 4.00% | ~15,162 |
+| Wet Feet | 4.00% | ~15,162 |
+| Checkpoint Victory | 3.00% | ~11,372 |
+| Lucky | 3.00% | ~11,372 |
+| Stylin' | 3.00% | ~11,372 |
+| Turf War | 3.00% | ~11,372 |
 | Banged | 2.00% | ~7,581 |
 | First Blood | 2.00% | ~7,581 |
 | Flaccid Paralysis | 2.00% | ~7,581 |
 | Push Victory | 2.00% | ~7,581 |
 | Self-destructive | 2.00% | ~7,581 |
-| Blindfire | 1.00% | ~3,790 |
-| Efficient | 1.00% | ~3,790 |
-| Ruthless | 1.00% | ~3,790 |
-| Semper Paratus | 1.00% | ~3,790 |
-| Carrying | 0.90% | ~3,411 |
-| Mount & Gun | 0.90% | ~3,411 |
-| Personal | 0.90% | ~3,411 |
+| Blindfire | 1.00% | ~3,791 |
+| Efficient | 1.00% | ~3,791 |
+| Ruthless | 1.00% | ~3,791 |
+| Semper Paratus | 1.00% | ~3,791 |
+| Carrying | 0.90% | ~3,412 |
+| Mount & Gun | 0.90% | ~3,412 |
+| Personal | 0.90% | ~3,412 |
 | Grounded | 0.80% | ~3,032 |
 | Play to Win | 0.80% | ~3,032 |
 | #1 | 0.70% | ~2,653 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~379 |
 | Road Hazard | 0.10% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379,037 (Ranked 38)  
+Progressed: 379,061 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,11 +86,11 @@ Completed: 2 (0.00%) (Ranked 211)
 | 2023-05-31 | 377,737 | 2 |
 | 2023-06-01 | 378,227 | 2 |
 | 2023-06-02 | 378,722 | 2 |
-| 2023-06-03 | 379,037 | 2 |
+| 2023-06-03 | 379,061 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 355  (Ranked 211)  
+Max (Quickly Understood Controls): 355  (Ranked 212)  
 Sum: 2,692 (Ranked 162)  
-Diff (max vs sum): 49  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 355 |

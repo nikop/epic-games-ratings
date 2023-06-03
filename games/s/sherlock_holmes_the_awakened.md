@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Read Between The Lines | 61.00% | ~216 |
 | To Hell In A Handcart | 61.00% | ~216 |
-| Read Between The Lines | 60.00% | ~212 |
 | High Profile | 52.00% | ~184 |
 | Whispers In The Dark | 50.00% | ~177 |
-| Fond Memories | 46.00% | ~163 |
+| Fond Memories | 47.00% | ~166 |
+| History Check | 45.00% | ~159 |
 | A Method To His Madness | 45.00% | ~159 |
-| History Check | 44.00% | ~156 |
+| Lock, Stock, And Barrel | 42.00% | ~149 |
 | The New World | 42.00% | ~149 |
-| Lock, Stock, And Barrel | 41.00% | ~145 |
 | Gaze Into The Abyss | 41.00% | ~145 |
 | Open Sesame | 40.00% | ~142 |
 | Sticky Fingers | 40.00% | ~142 |

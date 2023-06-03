@@ -23,8 +23,8 @@
 | Butcher | 52.00% | ~37 |
 | Mushroom soup of the day | 52.00% | ~37 |
 | Honk honk! | 51.00% | ~36 |
+| My pants squeak when I walk | 49.00% | ~35 |
 | Spare Ribs | 49.00% | ~35 |
-| My pants squeak when I walk | 48.00% | ~34 |
 | Thats disgusting! | 48.00% | ~34 |
 | Cockadoodledoo! | 46.00% | ~33 |
 | Surprise!! | 45.00% | ~32 |

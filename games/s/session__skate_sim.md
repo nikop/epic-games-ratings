@@ -20,6 +20,7 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 7.00% | ~156 |
 | Finally he zips it | 6.00% | ~134 |
 | That pinch! | 6.00% | ~134 |
+| Tight lipslides | 6.00% | ~134 |
 | Bottom ply killer | 5.00% | ~111 |
 | Fashionista | 5.00% | ~111 |
 | Fulfilled the dream | 5.00% | ~111 |
@@ -27,7 +28,6 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 5.00% | ~111 |
 | Squad goals | 5.00% | ~111 |
 | Sup widdit big dog! | 5.00% | ~111 |
-| Tight lipslides | 5.00% | ~111 |
 | Commence the Hijinx! | 4.00% | ~89 |
 | Cops called! | 4.00% | ~89 |
 | DIY Boss | 4.00% | ~89 |

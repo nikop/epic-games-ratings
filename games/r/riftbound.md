@@ -14,6 +14,7 @@
 | Ender Ender | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
+| Tactical Spectacular | 4.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |
@@ -26,7 +27,6 @@
 | Over 9000 | 0.00% | ~0 |
 | Resource Management | 0.00% | ~0 |
 | Spellslinger | 0.00% | ~0 |
-| Tactical Spectacular | 0.00% | ~0 |
 | Undead Slayer | 0.00% | ~0 |
 | Who Turned Out The Lights | 0.00% | ~0 |
 | Who's The Boss? | 0.00% | ~0 |

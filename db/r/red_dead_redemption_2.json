@@ -6920,10 +6920,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 373173,
       "NumberOfAwardsMax": 145822
+    },
+    {
+      "Time": "2023-06-03T14:59:34.1098711+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 373204,
+      "NumberOfAwardsMax": 145822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373173,
+  "NumberOfAwards": 373204,
   "NumberOfAwardsMax": 145822,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -6991,7 +6997,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 13883
+      "Count": 13914
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7023,8 +7029,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-06-03T13:59:26.6553687+00:00",
+  "LastChanged": "2023-06-03T14:59:34.1098709+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.6960471+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:59:26.6553692+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:04:47.5553459+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:59:34.1098717+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:04:48.6077308+00:00"
 }

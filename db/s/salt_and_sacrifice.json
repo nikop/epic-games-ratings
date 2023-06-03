@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -4242,9 +4242,9 @@
       "ID": "elfslayer",
       "SetID": "2jelldm",
       "Name": "The Champion",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 58003
+      "UsersEstimate": 58648
     },
     {
       "ID": "end_climb",
@@ -4530,8 +4530,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-06-03T13:02:20.6856122+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:04:35.6654139+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:04:36.2046436+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:26.5280456+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:58:29.6860752+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:04:35.6654638+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:58:35.4574204+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:04:36.2047358+00:00"
 }

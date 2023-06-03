@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,779 |
-| Incurious | 14.00% | ~83,779 |
-| Stroller | 12.00% | ~71,811 |
-| Climate Change | 12.00% | ~71,811 |
-| Advanced Hiker | 10.00% | ~59,842 |
-| Toy Train | 10.00% | ~59,842 |
-| Hiker | 9.00% | ~53,858 |
-| Mojave Courier | 4.00% | ~23,937 |
-| Voyager | 3.00% | ~17,953 |
-| Advanced Voyager | 3.00% | ~17,953 |
-| Expert Stroller | 3.00% | ~17,953 |
-| Orient Express | 3.00% | ~17,953 |
-| Expert Hiker | 2.00% | ~11,968 |
-| Marathon | 2.00% | ~11,968 |
-| Destructionist | 2.00% | ~11,968 |
-| Saved by Nausicaä | 2.00% | ~11,968 |
-| Lost | 1.00% | ~5,984 |
+| Advanced Stroller | 14.00% | ~83,786 |
+| Incurious | 14.00% | ~83,786 |
+| Stroller | 12.00% | ~71,817 |
+| Climate Change | 12.00% | ~71,817 |
+| Advanced Hiker | 10.00% | ~59,847 |
+| Toy Train | 10.00% | ~59,847 |
+| Hiker | 9.00% | ~53,862 |
+| Mojave Courier | 4.00% | ~23,939 |
+| Voyager | 3.00% | ~17,954 |
+| Advanced Voyager | 3.00% | ~17,954 |
+| Expert Stroller | 3.00% | ~17,954 |
+| Orient Express | 3.00% | ~17,954 |
+| Expert Hiker | 2.00% | ~11,969 |
+| Marathon | 2.00% | ~11,969 |
+| Destructionist | 2.00% | ~11,969 |
+| Saved by Nausicaä | 2.00% | ~11,969 |
+| Lost | 1.00% | ~5,985 |
 | Rocketman | 0.60% | ~3,591 |
 | Expert Voyager | 0.50% | ~2,992 |
 | Nanuk | 0.50% | ~2,992 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~598 |
 | 20 Miles under the Sea | 0.10% | ~598 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598,424 (Ranked 20)  
+Progressed: 598,472 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 7 (0.00%) (Ranked 211)
 | 2023-05-31 | 597,130 | 7 |
 | 2023-06-01 | 597,491 | 7 |
 | 2023-06-02 | 598,105 | 7 |
-| 2023-06-03 | 598,424 | 7 |
+| 2023-06-03 | 598,472 | 7 |
 ## Awards
 Max (Diverse Characters): 186  (Ranked 267)  
 Sum: 1,510 (Ranked 209)  

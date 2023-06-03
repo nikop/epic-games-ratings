@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 78.00% | ~1,221 |
-| Become King | 70.00% | ~1,096 |
+| Complete Guard Faction | 78.00% | ~1,222 |
+| Become King | 70.00% | ~1,097 |
 | Defeat 25 Frogs | 60.00% | ~940 |
-| Ranged Weapon | 59.00% | ~924 |
-| Collect Monster Parts | 56.00% | ~877 |
+| Ranged Weapon | 59.00% | ~925 |
+| Collect Monster Parts | 56.00% | ~878 |
 | Two Handed Weapon | 54.00% | ~846 |
 | Defeat 25 Grubs | 51.00% | ~799 |
-| Rescue Redgi's Brothers | 50.00% | ~783 |
+| Rescue Redgi's Brothers | 50.00% | ~784 |
 | Collect Iron Ore | 45.00% | ~705 |
 | Kitchen Ready To Cook | 45.00% | ~705 |
 | Defeat 25 Mozis | 44.00% | ~689 |
-| Collect Gold | 43.00% | ~673 |
-| Smithy Ready to Craft | 43.00% | ~673 |
+| Collect Gold | 43.00% | ~674 |
+| Smithy Ready to Craft | 43.00% | ~674 |
 | Fix the Travellers Wagon | 42.00% | ~658 |
 | Complete Elder Faction | 39.00% | ~611 |
 | End of the Mozis | 36.00% | ~564 |
 | Throne Room Fit For A King | 36.00% | ~564 |
-| Return Power To The Depths | 34.00% | ~532 |
+| Return Power To The Depths | 34.00% | ~533 |
 | Meet the Creatures from the Deep | 33.00% | ~517 |
-| Defeat Ratnor Rodentson | 28.00% | ~438 |
+| Defeat Ratnor Rodentson | 28.00% | ~439 |
 | Return the Statues | 25.00% | ~392 |
 | Defeat Rattus Augustail | 24.00% | ~376 |
 | Complete the Chefs Book | 23.00% | ~360 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 528)
 | King of Kings | 7.00% | ~110 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,566 (Ranked 158)  
+Progressed: 1,567 (Ranked 158)  
 Completed: 6 (0.38%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 6 (0.38%) (Ranked 116)
 | 2023-05-31 | 1,529 | 6 |
 | 2023-06-01 | 1,537 | 6 |
 | 2023-06-02 | 1,555 | 6 |
-| 2023-06-03 | 1,566 | 6 |
+| 2023-06-03 | 1,567 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

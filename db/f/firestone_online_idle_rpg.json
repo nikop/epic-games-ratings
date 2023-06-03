@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1261,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2573,6 +2573,11 @@
       "Time": "2023-06-03T04:05:47.0630085+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T15:07:05.753013+00:00",
+      "NumProgressed": 1261,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2792,7 +2797,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "gearenchanting",
@@ -2816,7 +2821,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "herewegoagain",
@@ -2910,9 +2915,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 139
     },
     {
       "ID": "minerclicker",
@@ -3072,7 +3077,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "thepowerofawakening",
@@ -3144,7 +3149,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "warmachinesarmy",
@@ -3176,14 +3181,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1261,
       "Completed": 1
     }
   ],
@@ -3191,8 +3196,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:06:58.2683058+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:07:05.7530125+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:58:15.4450812+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:06:58.2683801+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:58:19.1065066+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:07:05.7531432+00:00"
 }

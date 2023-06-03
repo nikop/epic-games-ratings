@@ -26,8 +26,8 @@
 | Oh My Gourd | 10.00% | ~3 |
 | Perfect | 9.00% | ~3 |
 | Expert Survivor | 9.00% | ~3 |
+| Quadsparagus | 9.00% | ~3 |
 | Skin Of Your Teeth | 8.00% | ~6 |
-| Quadsparagus | 8.00% | ~2 |
 | Quit Horsin' Around | 6.00% | ~5 |
 | Master Survivor | 6.00% | ~2 |
 | Summers Here | 6.00% | ~2 |

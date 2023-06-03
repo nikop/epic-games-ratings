@@ -18,21 +18,21 @@
 | Destination Destiny | 29.00% | ~57 |
 | Happy Tenants | 25.00% | ~49 |
 | Smooth Service | 25.00% | ~49 |
+| Your Prestige is Rising | 24.00% | ~47 |
 | Potent Potables | 24.00% | ~47 |
 | Retail Revenue | 24.00% | ~47 |
 | Lux Living | 23.00% | ~45 |
-| Your Prestige is Rising | 23.00% | ~45 |
 | People Mover | 22.00% | ~43 |
 | Leveled Up Shops | 22.00% | ~43 |
+| Get Electrified | 22.00% | ~43 |
 | Don't Feel a Loan | 21.00% | ~41 |
 | Emporium Empire | 21.00% | ~41 |
-| Get Electrified | 21.00% | ~41 |
 | Artfully Done | 20.00% | ~39 |
 | Rehab Expert | 20.00% | ~39 |
 | Tasty Profits | 19.00% | ~37 |
+| Cashflow Chief | 18.00% | ~35 |
 | Under One Roof | 17.00% | ~33 |
 | Established Fame | 17.00% | ~33 |
-| Cashflow Chief | 17.00% | ~33 |
 | We Don't Need No Education | 17.00% | ~33 |
 | Thrilled Tenants | 16.00% | ~31 |
 | Starred Dining | 15.00% | ~29 |

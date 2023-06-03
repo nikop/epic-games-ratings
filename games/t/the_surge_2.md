@@ -5,20 +5,20 @@ Rating: 4.24 (Ranked 796)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,350 |
-| Don't I Know You...? | 76.00% | ~1,283 |
-| Jailbreak | 65.00% | ~1,097 |
-| Suited and Booted | 38.00% | ~641 |
+| Rigged And Ready | 80.00% | ~1,351 |
+| Don't I Know You...? | 76.00% | ~1,284 |
+| Jailbreak | 65.00% | ~1,098 |
+| Suited and Booted | 38.00% | ~642 |
 | HEADSHOT! | 37.00% | ~625 |
 | Sleeping With The Fishes | 35.00% | ~591 |
-| Overheated | 30.00% | ~506 |
-| High Performance | 30.00% | ~506 |
+| Overheated | 30.00% | ~507 |
+| High Performance | 30.00% | ~507 |
 | Powered Up | 28.00% | ~473 |
 | Studied The Blade | 24.00% | ~405 |
-| Home Invasion | 22.00% | ~371 |
-| Luminary | 22.00% | ~371 |
-| It's a Trap | 22.00% | ~371 |
-| True Survivor | 21.00% | ~354 |
+| Home Invasion | 22.00% | ~372 |
+| Luminary | 22.00% | ~372 |
+| It's a Trap | 22.00% | ~372 |
+| True Survivor | 21.00% | ~355 |
 | Court Martial | 19.00% | ~321 |
 | Offensive Defense | 19.00% | ~321 |
 | Shocking | 19.00% | ~321 |
@@ -27,12 +27,12 @@ Rating: 4.24 (Ranked 796)
 | Dead Again | 17.00% | ~287 |
 | Full Arsenal | 16.00% | ~270 |
 | Can't Trust Banks | 15.00% | ~253 |
-| Mommy Dearest | 13.00% | ~219 |
-| Bad Dog | 13.00% | ~219 |
-| Where It All Began | 13.00% | ~219 |
-| Risk Tolerant | 13.00% | ~219 |
-| What A Catchy Song | 13.00% | ~219 |
+| Mommy Dearest | 13.00% | ~220 |
+| Bad Dog | 13.00% | ~220 |
+| Risk Tolerant | 13.00% | ~220 |
+| What A Catchy Song | 13.00% | ~220 |
 | Marked For Success | 12.00% | ~203 |
+| Where It All Began | 12.00% | ~203 |
 | Sorry, Didn't See You There | 12.00% | ~203 |
 | Corrupted Beauty | 11.00% | ~186 |
 | Triplets | 10.00% | ~169 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 796)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,688 (Ranked 154)  
+Progressed: 1,689 (Ranked 154)  
 Completed: 10 (0.59%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 10 (0.59%) (Ranked 109)
 | 2023-05-31 | 1,667 | 10 |
 | 2023-06-01 | 1,674 | 10 |
 | 2023-06-02 | 1,682 | 10 |
-| 2023-06-03 | 1,688 | 10 |
+| 2023-06-03 | 1,689 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4090,9 +4090,9 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89617,
+  "EOS_Progressed": 89630,
   "EOS_Completed": 1913,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8510,6 +8510,11 @@
       "Time": "2023-06-03T14:07:15.9577218+00:00",
       "NumProgressed": 89617,
       "NumCompleted": 1913
+    },
+    {
+      "Time": "2023-06-03T15:07:24.0541506+00:00",
+      "NumProgressed": 89630,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -8521,7 +8526,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "objective_completed_10",
@@ -9127,9 +9132,9 @@
       "ID": "objective_completed_1149",
       "SetID": "415jc5c",
       "Name": "The Invisible Wizards of Thay",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_115",
@@ -9497,7 +9502,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_130",
@@ -9639,9 +9644,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_150",
@@ -10657,7 +10662,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_54",
@@ -12265,7 +12270,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_902",
@@ -12441,7 +12446,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "objective_completed_1360",
@@ -12464,21 +12469,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55891,
-      "Completed": 2763
+      "Progressed": 55904,
+      "Completed": 2764
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89617,
+      "Progressed": 89630,
       "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:07:15.9577213+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:07:24.0541499+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:58:17.6236746+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:07:15.9599542+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:58:21.3734015+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:07:24.0569302+00:00"
 }

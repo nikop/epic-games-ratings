@@ -2,7 +2,7 @@
   "ID": "36b8fb441b2542f89250fc92ca761077",
   "Name": "Splinter Cell Chaos Theory",
   "ProductSlug": "splinter-cell-chaos-theory",
-  "Ranking_Rating": 330,
+  "Ranking_Rating": 312,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 433,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2022-10-11T18:32:21.2470878+00:00",
@@ -124,6 +124,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-03T14:59:46.9920973+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -142,8 +148,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:41.2828224+00:00",
   "FirstSeenRating": "2022-10-11T18:32:21.2470874+00:00",
-  "LastChanged": "2023-06-01T14:59:12.8283288+00:00",
+  "LastChanged": "2023-06-03T14:59:46.9920971+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:32.531047+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:59:38.6495839+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:05:01.8661514+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:59:46.9920977+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:05:03.864323+00:00"
 }

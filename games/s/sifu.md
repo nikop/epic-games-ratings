@@ -1,13 +1,13 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 63)  
+Rating: 4.82 (Ranked 64)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~656 |
-| Project Arena | 3.00% | ~492 |
+| Diligence as a goal | 4.00% | ~657 |
+| Project Arena | 3.00% | ~493 |
 | The Old Grandmaster | 1.00% | ~7,071 |
 | The Assault | 1.00% | ~7,071 |
 | The Hateful Pole Fighter | 1.00% | ~7,071 |
@@ -33,12 +33,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.60% | ~4,243 |
 | Qi Gong: Mind | 0.60% | ~4,243 |
 | I know Kung-Fu | 0.60% | ~4,243 |
-| Deadly Venom | 0.60% | ~98 |
-| A Touch of Acumen | 0.60% | ~98 |
-| Muk Yan Master | 0.50% | ~3,535 |
-| Tiger on Fire | 0.50% | ~3,535 |
-| Source of Flying Daggers | 0.50% | ~3,535 |
-| Detective Story | 0.50% | ~3,535 |
+| Deadly Venom | 0.60% | ~99 |
+| A Touch of Acumen | 0.60% | ~99 |
+| Muk Yan Master | 0.50% | ~3,536 |
+| Tiger on Fire | 0.50% | ~3,536 |
+| Source of Flying Daggers | 0.50% | ~3,536 |
+| Detective Story | 0.50% | ~3,536 |
 | Iron Money | 0.40% | ~2,828 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,828 |
 | Prodigal Child | 0.40% | ~2,828 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,098 (Ranked 15)  
+Progressed: 707,120 (Ranked 15)  
 Completed: 12,753 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 12,753 (1.80%) (Ranked 67)
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
-| 2023-06-03 | 707,098 | 12,753 |
+| 2023-06-03 | 707,120 | 12,753 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
 Sum: 10,445 (Ranked 78)  

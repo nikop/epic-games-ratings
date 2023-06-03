@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14193,
+  "EOS_Progressed": 14194,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -3631,6 +3631,11 @@
       "Time": "2023-06-03T14:04:18.4469483+00:00",
       "NumProgressed": 14193,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-06-03T15:04:17.2878389+00:00",
+      "NumProgressed": 14194,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 16,
@@ -3738,7 +3743,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7238
+      "UsersEstimate": 7239
     },
     {
       "ID": "Sole_Survivor",
@@ -3746,7 +3751,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5251
+      "UsersEstimate": 5252
     },
     {
       "ID": "Still_Burning",
@@ -3769,15 +3774,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14193,
+      "Progressed": 14194,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:04:18.4469479+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:04:17.2878384+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.5801911+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:59:27.3474107+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:04:18.4469727+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:59:34.7137574+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:04:17.2878755+00:00"
 }

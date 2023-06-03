@@ -691,9 +691,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_prestige_2",
@@ -827,9 +827,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_revs_2",
@@ -923,9 +923,9 @@
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_util_water",
@@ -964,8 +964,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-03T14:07:11.6044505+00:00",
+  "LastChanged_Achievements": "2023-06-03T15:07:19.6919542+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:15.3370382+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:58:18.7852521+00:00",
-  "LastUpdate_Achievements": "2023-06-03T14:07:11.6045379+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:58:22.752918+00:00",
+  "LastUpdate_Achievements": "2023-06-03T15:07:19.6920702+00:00"
 }
