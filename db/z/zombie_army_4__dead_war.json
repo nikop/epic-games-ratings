@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1563,9 +1563,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42565,
+  "EOS_Progressed": 42566,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3068,6 +3068,11 @@
       "Time": "2023-06-03T12:06:40.7828037+00:00",
       "NumProgressed": 42565,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-03T13:10:59.1367423+00:00",
+      "NumProgressed": 42566,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3119,7 +3124,7 @@
       "Name": "Bad Blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6810
+      "UsersEstimate": 6811
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -3271,7 +3276,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26390
+      "UsersEstimate": 26391
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3287,7 +3292,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14046
+      "UsersEstimate": 14047
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -3327,7 +3332,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20431
+      "UsersEstimate": 20432
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -3351,7 +3356,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9364
+      "UsersEstimate": 9365
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -3367,7 +3372,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15323
+      "UsersEstimate": 15324
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3383,7 +3388,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21282
+      "UsersEstimate": 21283
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3399,7 +3404,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15323
+      "UsersEstimate": 15324
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -3407,7 +3412,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28944
+      "UsersEstimate": 28945
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -3439,7 +3444,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23836
+      "UsersEstimate": 23837
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -3455,7 +3460,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15323
+      "UsersEstimate": 15324
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -3479,7 +3484,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27667
+      "UsersEstimate": 27668
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3535,7 +3540,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27667
+      "UsersEstimate": 27668
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3575,7 +3580,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9364
+      "UsersEstimate": 9365
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -3599,22 +3604,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15323
+      "UsersEstimate": 15324
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42565,
+      "Progressed": 42566,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-03T08:59:59.9324006+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:06:40.7828033+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:10:59.1367417+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-03T12:00:05.4874597+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:06:40.7828736+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:04:21.5001543+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:10:59.1368504+00:00"
 }

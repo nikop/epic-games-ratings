@@ -24,10 +24,10 @@
 | Bathroom Secret Spot | 15.00% | ~6 |
 | Classroom Secret Spot | 8.00% | ~3 |
 | Kitchen Secret Spot | 8.00% | ~3 |
+| Living Room Secret Spot | 8.00% | ~3 |
 | At least everyone still had fun | 8.00% | ~3 |
 | Just how we drew it up | 8.00% | ~3 |
 | Basement Secret Spot | 5.00% | ~2 |
-| Living Room Secret Spot | 5.00% | ~2 |
 | Found the Secret Formula! | 5.00% | ~2 |
 | Angry Dad | 5.00% | ~2 |
 | Garage Secret Spot | 3.00% | ~1 |

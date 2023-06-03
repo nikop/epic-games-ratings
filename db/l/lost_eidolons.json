@@ -2,7 +2,7 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 175,
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 943,
+  "EOS_Progressed": 944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -608,6 +608,11 @@
       "Time": "2023-06-03T07:05:40.179574+00:00",
       "NumProgressed": 943,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T13:10:43.1097289+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -683,7 +688,7 @@
       "Name": "Awakening",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "10",
@@ -763,7 +768,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "20",
@@ -802,7 +807,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 0
     }
   ],
@@ -810,8 +815,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:06:26.6105599+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:10:43.1097284+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:05.6191061+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:59:55.0754355+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:06:26.6105808+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:04:11.3385507+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:10:43.1097476+00:00"
 }

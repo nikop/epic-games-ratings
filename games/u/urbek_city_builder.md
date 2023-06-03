@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 60.00% | ~128 |
-| I like parks | 48.00% | ~102 |
+| I like parks | 49.00% | ~104 |
 | It is nice to share with friends in the city | 25.00% | ~53 |
 | Sport is good for you | 25.00% | ~53 |
 | The spiritual world... | 24.00% | ~51 |
@@ -24,18 +24,18 @@
 | I am very happy! | 4.00% | ~9 |
 | Sport is the best thing | 4.00% | ~9 |
 | Little Mayor | 3.00% | ~6 |
+| Temperate builder | 3.00% | ~6 |
 | Banking city | 2.00% | ~4 |
 | Read! Everyone should read! | 2.00% | ~4 |
 | Oh, I love parks, listening to birds! | 2.00% | ~4 |
 | Rebel city | 2.00% | ~4 |
-| Temperate builder | 2.00% | ~4 |
+| Temperate urban planner | 2.00% | ~4 |
 | Archipelago builder | 1.00% | ~2 |
 | Food provider master | 1.00% | ~2 |
 | City crisis | 1.00% | ~2 |
 | What is there after death? | 1.00% | ~2 |
 | Freedom to go to the mall! | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
-| Temperate urban planner | 1.00% | ~2 |
 | Anarchist Utopia | 0.90% | ~2 |
 | Archipelago urban planner | 0.90% | ~2 |
 | Perfect city | 0.90% | ~2 |

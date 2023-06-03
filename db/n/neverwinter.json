@@ -4,10 +4,10 @@
   "ProductSlug": "neverwinter",
   "Ranking_Rating": 769,
   "Ranking_Popularity": 158,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-11-10T17:00:00+00:00",
@@ -1834,10 +1834,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 2124,
       "NumberOfAwardsMax": 684
+    },
+    {
+      "Time": "2023-06-03T13:02:41.8408743+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2125,
+      "NumberOfAwardsMax": 684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2124,
+  "NumberOfAwards": 2125,
   "NumberOfAwardsMax": 684,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1881,7 +1887,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 171
+      "Count": 172
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1919,8 +1925,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2023-06-02T17:58:22.776463+00:00",
+  "LastChanged": "2023-06-03T13:02:41.8408741+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:46.3961118+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:58:41.6933878+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:03:30.7756306+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:02:41.8408748+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:07:15.1039965+00:00"
 }

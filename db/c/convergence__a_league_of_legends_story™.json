@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1121,9 +1121,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 296
     },
     {
       "ID": "ParryRepeated1",
@@ -1304,8 +1304,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:05:32.1852769+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:09:39.8976132+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:59:38.8240423+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:05:32.1853627+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:03:49.4592219+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:09:39.8976696+00:00"
 }

@@ -554,9 +554,9 @@
       "ID": "LEVEL_MEDIUM",
       "SetID": "aemieak",
       "Name": "First medium level",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -577,8 +577,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:06:04.9936849+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:10:18.6948628+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:23.2883348+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:58:21.5836873+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:06:04.993722+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:02:17.3120605+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:10:18.694882+00:00"
 }

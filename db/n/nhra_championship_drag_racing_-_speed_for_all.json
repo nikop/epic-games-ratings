@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 688,
+  "EOS_Progressed": 689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -168,6 +168,11 @@
       "Time": "2023-06-02T13:20:07.7871374+00:00",
       "NumProgressed": 688,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T13:10:26.1118216+00:00",
+      "NumProgressed": 689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -179,7 +184,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "11",
@@ -203,7 +208,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "14",
@@ -217,9 +222,9 @@
       "ID": "15",
       "SetID": "4n5bj21",
       "Name": "Whole again",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 83
     },
     {
       "ID": "16",
@@ -427,7 +432,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "9",
@@ -435,14 +440,14 @@
       "Name": "Oops, My bad",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 688,
+      "Progressed": 689,
       "Completed": 0
     }
   ],
@@ -450,8 +455,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:06:11.8571095+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:10:26.1118207+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.1673021+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:58:34.7167896+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:06:11.8571516+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:02:33.3974189+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:10:26.1118441+00:00"
 }

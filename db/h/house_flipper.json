@@ -4,10 +4,10 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 215,
   "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1536,9 +1536,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19240,
+  "EOS_Progressed": 19241,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3551,6 +3551,11 @@
       "Time": "2023-06-03T12:06:20.3735939+00:00",
       "NumProgressed": 19240,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-03T13:10:35.9143733+00:00",
+      "NumProgressed": 19241,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3610,7 +3615,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18086
+      "UsersEstimate": 18087
     },
     {
       "ID": "GameOver",
@@ -3722,7 +3727,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "VeronicaLiptson",
@@ -3745,15 +3750,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19240,
+      "Progressed": 19241,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-02T07:59:46.8811162+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:06:20.373593+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:10:35.9143727+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:59:39.4662193+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:06:20.3736414+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:03:50.2212299+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:10:35.9144031+00:00"
 }

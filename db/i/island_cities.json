@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 14.23,
+  "EOS_Completed_Percentage": 14.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1078,6 +1078,11 @@
       "Time": "2023-06-03T11:05:31.0634898+00:00",
       "NumProgressed": 246,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-03T13:10:21.843056+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 22,
@@ -1089,7 +1094,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "LEVEL_002",
@@ -1097,7 +1102,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "LEVEL_003",
@@ -1113,7 +1118,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_005",
@@ -1121,15 +1126,15 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "LEVEL_007",
@@ -1137,15 +1142,15 @@
       "Name": "Burger or pizza?",
       "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_009",
@@ -1153,7 +1158,7 @@
       "Name": "Who loves trains?",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_010",
@@ -1191,9 +1196,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_015",
@@ -1257,14 +1262,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 35
     }
   ],
@@ -1272,8 +1277,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:06:08.3034812+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:10:21.8430555+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:58:12.2751941+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:06:08.3035199+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:02:04.6054764+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:10:21.8430785+00:00"
 }

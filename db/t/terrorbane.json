@@ -2,9 +2,9 @@
   "ID": "8bacb9319c4b44d689aa6920a1044010",
   "Name": "tERRORbane",
   "ProductSlug": "terrorbane-437dd3",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -58,6 +58,11 @@
       "Time": "2023-06-03T12:06:27.3354689+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T13:10:43.8771027+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -69,21 +74,21 @@
       "Name": "First contact",
       "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement_01",
       "SetID": "6jd5kdh",
       "Name": "C Rank Bug-catcher",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_02",
       "SetID": "6jd5kdh",
       "Name": "B Rank Bug-catcher",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -91,7 +96,7 @@
       "ID": "Achievement_03",
       "SetID": "6jd5kdh",
       "Name": "A Rank Bug-catcher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -99,7 +104,7 @@
       "ID": "Achievement_04",
       "SetID": "6jd5kdh",
       "Name": "S Rank Bug-catcher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -107,7 +112,7 @@
       "ID": "Achievement_05",
       "SetID": "6jd5kdh",
       "Name": "System shocked",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -115,15 +120,15 @@
       "ID": "Achievement_06",
       "SetID": "6jd5kdh",
       "Name": "Blade of prophecy",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_07",
       "SetID": "6jd5kdh",
       "Name": "Normal end",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -155,7 +160,7 @@
       "ID": "Achievement_11",
       "SetID": "6jd5kdh",
       "Name": "Expos\u00E9",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -203,7 +208,7 @@
       "ID": "Achievement_17",
       "SetID": "6jd5kdh",
       "Name": "Deepest lore",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -219,7 +224,7 @@
       "ID": "Achievement_19",
       "SetID": "6jd5kdh",
       "Name": "Never learn",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -235,7 +240,7 @@
       "ID": "Achievement_21",
       "SetID": "6jd5kdh",
       "Name": "Hackerman",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -251,7 +256,7 @@
       "ID": "Achievement_23",
       "SetID": "6jd5kdh",
       "Name": "Armed robbery",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -268,7 +273,7 @@
     {
       "ID": "6jd5kdh",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
@@ -276,8 +281,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-06-03T12:06:27.3354681+00:00",
+  "LastChanged_Achievements": "2023-06-03T13:10:43.8771022+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:59.4304213+00:00",
-  "LastUpdate_Ratings": "2023-06-03T11:59:49.7374689+00:00",
-  "LastUpdate_Achievements": "2023-06-03T12:06:27.3354925+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:04:04.8192157+00:00",
+  "LastUpdate_Achievements": "2023-06-03T13:10:43.8771348+00:00"
 }

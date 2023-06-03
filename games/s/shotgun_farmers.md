@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 51.00% | ~14 |
-| Survivor | 42.00% | ~11 |
-| Seeds of War | 36.00% | ~28 |
-| No Diggity | 35.00% | ~9 |
+| Aspairagus | 50.00% | ~14 |
+| Survivor | 41.00% | ~11 |
+| Seeds of War | 37.00% | ~29 |
+| No Diggity | 35.00% | ~10 |
 | Early Survivor | 32.00% | ~9 |
-| First Blood | 27.00% | ~21 |
-| Amateur Survivor | 25.00% | ~7 |
+| First Blood | 28.00% | ~22 |
+| Amateur Survivor | 24.00% | ~7 |
 | No Asperascope | 23.00% | ~18 |
-| Triple Kill | 22.00% | ~17 |
+| Triple Kill | 23.00% | ~18 |
 | Cornivore | 22.00% | ~17 |
 | Bouncemato | 22.00% | ~6 |
 | I Believe I Can Fly | 21.00% | ~16 |
@@ -21,11 +21,11 @@
 | 15K | 13.00% | ~10 |
 | 10K | 13.00% | ~10 |
 | Professional Survivor | 13.00% | ~4 |
-| This Is My Boomstick | 12.00% | ~3 |
+| This Is My Boomstick | 13.00% | ~4 |
 | Drinking Problem | 10.00% | ~8 |
-| Oh My Gourd | 9.00% | ~2 |
-| Perfect | 9.00% | ~2 |
-| Expert Survivor | 9.00% | ~2 |
+| Oh My Gourd | 9.00% | ~3 |
+| Perfect | 9.00% | ~3 |
+| Expert Survivor | 9.00% | ~3 |
 | Skin Of Your Teeth | 8.00% | ~6 |
 | Quadsparagus | 8.00% | ~2 |
 | Quit Horsin' Around | 6.00% | ~5 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77 (Ranked 287)  
+Progressed: 78 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-30 | 67 | 0 |
 | 2023-06-01 | 74 | 0 |
 | 2023-06-02 | 76 | 0 |
-| 2023-06-03 | 77 | 0 |
+| 2023-06-03 | 78 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

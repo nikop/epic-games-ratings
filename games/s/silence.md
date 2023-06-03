@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 46.00% | ~42 |
-| Fire in the... nevermind | 46.00% | ~42 |
-| Haute cuisine | 43.00% | ~39 |
-| I didn't do it! | 38.00% | ~35 |
+| Chapter I | 47.00% | ~43 |
+| Fire in the... nevermind | 47.00% | ~43 |
+| Haute cuisine | 44.00% | ~40 |
+| I didn't do it! | 40.00% | ~36 |
 | Keep away from children | 36.00% | ~33 |
-| Demolition expert | 34.00% | ~31 |
+| Demolition expert | 35.00% | ~32 |
+| Wooooooow! | 34.00% | ~31 |
 | Artistic fool | 33.00% | ~30 |
-| Wooooooow! | 33.00% | ~30 |
 | Chapter II | 31.00% | ~28 |
 | Achoo!! | 30.00% | ~27 |
 | Chapter III | 30.00% | ~27 |
 | Like a moth in the Wind | 30.00% | ~27 |
-| Let the boot talk | 27.00% | ~25 |
-| Open up wide | 27.00% | ~25 |
+| Let the boot talk | 29.00% | ~26 |
+| Open up wide | 29.00% | ~26 |
 | Mirror mirror on the wall... | 25.00% | ~23 |
 | Bubblekillerfamily | 24.00% | ~22 |
 | Shadow on the wall | 23.00% | ~21 |
@@ -33,9 +33,9 @@
 | To err is human... | 12.00% | ~11 |
 | Nothing can stop me | 12.00% | ~11 |
 | Mumbo Jumbo | 11.00% | ~10 |
+| Useless but beautiful | 10.00% | ~9 |
 | Lollipop | 10.00% | ~9 |
 | It's nothing personal | 10.00% | ~9 |
-| Useless but beautiful | 9.00% | ~8 |
 | Where there is life, there is hope | 9.00% | ~8 |
 | Artistic master | 8.00% | ~7 |
 | Sadist | 5.00% | ~5 |

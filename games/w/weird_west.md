@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,384 |
+| Unforgiven | 87.00% | ~1,385 |
 | Self-Improvement | 71.00% | ~1,130 |
-| Perky | 65.00% | ~1,034 |
+| Perky | 65.00% | ~1,035 |
 | Let’s Ride | 60.00% | ~955 |
 | Welcome to the Weird West | 57.00% | ~907 |
-| Dead or Alive | 55.00% | ~875 |
+| Dead or Alive | 55.00% | ~876 |
 | Full House | 36.00% | ~573 |
-| Off the Trail | 34.00% | ~541 |
-| Justice Served | 28.00% | ~445 |
+| Off the Trail | 33.00% | ~525 |
+| Justice Served | 28.00% | ~446 |
 | Chain Reaction | 27.00% | ~430 |
-| Dishonored | 25.00% | ~398 |
 | Scholar | 25.00% | ~398 |
 | Through Their Eyes | 25.00% | ~398 |
+| Dishonored | 24.00% | ~382 |
 | Rain of Death | 24.00% | ~382 |
 | The Great Escape | 23.00% | ~366 |
-| That’s All, Folks | 18.00% | ~286 |
+| That’s All, Folks | 18.00% | ~287 |
 | Fallen Star | 16.00% | ~255 |
 | Winds of War | 16.00% | ~255 |
 | For Balance | 15.00% | ~239 |
@@ -30,10 +30,10 @@ Number of Ratings: 125  (23.09.2022)
 | Elusive Prey | 12.00% | ~191 |
 | Out on the Ebb Tide | 12.00% | ~191 |
 | Power Behind the Pulpit | 12.00% | ~191 |
-| Something Wicked This Way Comes… | 12.00% | ~191 |
-| There is Hope | 12.00% | ~191 |
 | Turning the Tables | 12.00% | ~191 |
 | Workers' Rights | 12.00% | ~191 |
+| Something Wicked This Way Comes… | 11.00% | ~175 |
+| There is Hope | 11.00% | ~175 |
 | Loyalty to the Pack | 9.00% | ~143 |
 | Eternity Can Wait | 9.00% | ~143 |
 | Mystery Machine | 9.00% | ~143 |
@@ -43,7 +43,7 @@ Number of Ratings: 125  (23.09.2022)
 | Getting the Gang Back Together | 7.00% | ~111 |
 | Monster Hunter | 7.00% | ~111 |
 | Knuckle Sandwich | 7.00% | ~111 |
-| Who You Gonna Call? | 6.00% | ~95 |
+| Who You Gonna Call? | 6.00% | ~96 |
 | Healing Old Wounds | 5.00% | ~80 |
 | This Is Sparta | 5.00% | ~80 |
 | What’s in the Box? | 5.00% | ~80 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,591 (Ranked 156)  
+Progressed: 1,592 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.13%) (Ranked 158)
 | 2023-05-31 | 1,580 | 2 |
 | 2023-06-01 | 1,584 | 2 |
 | 2023-06-02 | 1,585 | 2 |
-| 2023-06-03 | 1,591 | 2 |
+| 2023-06-03 | 1,592 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 468)  
 Sum: 24 (Ranked 474)  

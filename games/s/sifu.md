@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~655 |
-| Project Arena | 3.00% | ~491 |
+| Project Arena | 3.00% | ~492 |
 | The Old Grandmaster | 1.00% | ~7,071 |
 | The Assault | 1.00% | ~7,071 |
 | The Hateful Pole Fighter | 1.00% | ~7,071 |
@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.80% | ~5,657 |
 | Scareless | 0.70% | ~4,950 |
 | Kung-Fu Tussle | 0.70% | ~4,950 |
-| Dance of the Praying Mantis | 0.60% | ~4,242 |
-| Qi Gong: Mind | 0.60% | ~4,242 |
-| I know Kung-Fu | 0.60% | ~4,242 |
+| Dance of the Praying Mantis | 0.60% | ~4,243 |
+| Qi Gong: Mind | 0.60% | ~4,243 |
+| I know Kung-Fu | 0.60% | ~4,243 |
 | Deadly Venom | 0.60% | ~98 |
 | A Touch of Acumen | 0.60% | ~98 |
 | Muk Yan Master | 0.50% | ~3,535 |
@@ -44,7 +44,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,828 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,828 |
 | Sword Stained With Blood | 0.40% | ~2,828 |
-| Martial Hub | 0.40% | ~65 |
+| Martial Hub | 0.40% | ~66 |
 | Knowledge Greed | 0.30% | ~2,121 |
 | Secure, Protect, Leave | 0.30% | ~49 |
 | Drunken Fighter | 0.20% | ~1,414 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,073 (Ranked 15)  
+Progressed: 707,086 (Ranked 15)  
 Completed: 12,752 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 12,752 (1.80%) (Ranked 67)
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
-| 2023-06-03 | 707,073 | 12,752 |
+| 2023-06-03 | 707,086 | 12,752 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
 Sum: 10,445 (Ranked 78)  

@@ -16,12 +16,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.50% | ~448 |
 | Seeking Allies | 0.50% | ~448 |
 | Are Ya Chicken? | 0.50% | ~448 |
+| Friendly Imps | 0.50% | ~448 |
 | Coasting to the Finish | 0.50% | ~279 |
 | Checkmate | 0.40% | ~224 |
 | Vecna Out! | 0.40% | ~224 |
 | A Persistent Buzzing | 0.40% | ~358 |
 | Mad Cow Disease | 0.40% | ~358 |
-| Friendly Imps | 0.40% | ~358 |
 | Pure Energy | 0.40% | ~358 |
 | Quick or Quack | 0.40% | ~224 |
 | Maddening | 0.30% | ~269 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,601 (Ranked 62)  
+Progressed: 89,606 (Ranked 62)  
 Completed: 1,912 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 1,912 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,601 | 1,912 |
+| 2023-06-03 | 89,606 | 1,912 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

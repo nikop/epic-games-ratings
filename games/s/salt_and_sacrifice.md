@@ -1,33 +1,33 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 756)  
+Rating: 4.31 (Ranked 755)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 91.00% | ~58,645 |
-| The Pyromancer | 86.00% | ~55,423 |
-| The Wastes | 83.00% | ~53,489 |
-| Waste Not | 80.00% | ~51,556 |
-| The Cryomancer | 76.00% | ~48,978 |
+| The Champion | 91.00% | ~58,646 |
+| The Pyromancer | 86.00% | ~55,424 |
+| The Wastes | 83.00% | ~53,490 |
+| Waste Not | 80.00% | ~51,557 |
+| The Cryomancer | 76.00% | ~48,979 |
 | Stock Up | 75.00% | ~48,334 |
-| The Hydromancer | 73.00% | ~47,045 |
+| The Hydromancer | 73.00% | ~47,046 |
 | The Matriarch | 70.00% | ~45,112 |
 | The Aeromancer | 66.00% | ~42,534 |
 | The Venomancer | 66.00% | ~42,534 |
-| The Huntsman | 65.00% | ~41,889 |
+| The Huntsman | 65.00% | ~41,890 |
 | Dawnlight Order | 64.00% | ~41,245 |
-| The Electromancer | 61.00% | ~39,311 |
+| The Electromancer | 61.00% | ~39,312 |
 | The Terramancer | 59.00% | ~38,023 |
 | The Exalted | 57.00% | ~36,734 |
 | Blueheart Runners | 55.00% | ~35,445 |
 | Sheriff Inquisitors | 55.00% | ~35,445 |
-| The Necromancer | 52.00% | ~33,511 |
-| The Swamp | 50.00% | ~32,222 |
-| The Fungalmancer | 47.00% | ~30,289 |
-| The Thaumamancer | 47.00% | ~30,289 |
-| The Hag | 45.00% | ~29,000 |
+| The Necromancer | 52.00% | ~33,512 |
+| The Swamp | 50.00% | ~32,223 |
+| The Fungalmancer | 47.00% | ~30,290 |
+| The Thaumamancer | 47.00% | ~30,290 |
+| The Hag | 45.00% | ~29,001 |
 | The Corpumancer | 42.00% | ~27,067 |
 | The Mountain | 40.00% | ~25,778 |
 | The Treeheart | 40.00% | ~25,778 |
@@ -35,8 +35,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Two Monks | 37.00% | ~23,845 |
 | The Neuromancer | 35.00% | ~22,556 |
 | Oathbound Watchers | 33.00% | ~21,267 |
-| The Chronomancer | 32.00% | ~20,622 |
-| The Mechanomancer | 32.00% | ~20,622 |
+| The Chronomancer | 32.00% | ~20,623 |
+| The Mechanomancer | 32.00% | ~20,623 |
 | The Copse | 29.00% | ~18,689 |
 | The Dragon | 29.00% | ~18,689 |
 | The Dracomancer | 29.00% | ~18,689 |
@@ -46,21 +46,21 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Kinetomancer | 27.00% | ~17,400 |
 | The Sanguimancer | 27.00% | ~17,400 |
 | The Luminimancer | 26.00% | ~16,756 |
-| The Bibliomancer | 25.00% | ~16,111 |
-| The Skylord | 25.00% | ~16,111 |
+| The Bibliomancer | 25.00% | ~16,112 |
+| The Skylord | 25.00% | ~16,112 |
 | The Firelord | 24.00% | ~15,467 |
-| Want Not | 21.00% | ~13,533 |
-| The Diablomancer | 21.00% | ~13,533 |
-| The Sacrifice | 21.00% | ~13,533 |
+| Want Not | 21.00% | ~13,534 |
+| The Diablomancer | 21.00% | ~13,534 |
+| The Sacrifice | 21.00% | ~13,534 |
 | The King | 18.00% | ~11,600 |
 | Take Your Place | 14.00% | ~9,022 |
 | The Nomad | 14.00% | ~9,022 |
 | The Soldier | 11.00% | ~7,089 |
-| Make The Climb | 10.00% | ~6,444 |
-| The Scholar | 10.00% | ~6,444 |
+| Make The Climb | 10.00% | ~6,445 |
+| The Scholar | 10.00% | ~6,445 |
 | Top Shelf | 5.00% | ~3,222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,445 (Ranked 69)  
+Progressed: 64,446 (Ranked 69)  
 Completed: 1,168 (1.81%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,14 +104,14 @@ Completed: 1,168 (1.81%) (Ranked 66)
 | 2023-05-31 | 64,388 | 1,167 |
 | 2023-06-01 | 64,422 | 1,168 |
 | 2023-06-02 | 64,435 | 1,168 |
-| 2023-06-03 | 64,445 | 1,168 |
+| 2023-06-03 | 64,446 | 1,168 |
 ## Awards
-Max (Character Customization): 942  (Ranked 141)  
-Sum: 1,884 (Ranked 192)  
-Diff (max vs sum): -51  
+Max (Character Customization): 945  (Ranked 141)  
+Sum: 1,887 (Ranked 191)  
+Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 942 |
+| This game has Inclusive Character Customization | 945 |
 | This game has Great Boss Battles | 545 |
 | This game is Extremely Fun | 65 |
 | This game has Challenging Combat | 63 |
@@ -226,3 +226,4 @@ Diff (max vs sum): -51
 | 2023-05-29 | 4.31 | - | 942 | 1,882 |
 | 2023-05-30 | 4.31 | - | 942 | 1,883 |
 | 2023-05-31 | 4.31 | - | 942 | 1,884 |
+| 2023-06-03 | 4.31 | - | 945 | 1,887 |
