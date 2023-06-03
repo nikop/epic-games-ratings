@@ -25,7 +25,7 @@ Number of Ratings: 25  (23.09.2022)
 | The Farmer | 39.00% | ~222 |
 | Ever After | 36.00% | ~205 |
 | Mandatory Sacrifice | 29.00% | ~165 |
-| Loyal | 27.00% | ~154 |
+| Loyal | 28.00% | ~160 |
 | The Collector | 24.00% | ~137 |
 | All Doors Open | 20.00% | ~114 |
 | Faithful | 10.00% | ~57 |

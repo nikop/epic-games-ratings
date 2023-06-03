@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Level Up! | 90.00% | ~78 |
 | Bullseye! | 84.00% | ~73 |
+| Villfir Forest | 78.00% | ~68 |
 | Graduation! | 78.00% | ~68 |
-| Villfir Forest | 77.00% | ~67 |
 | Right in the kisser! | 63.00% | ~55 |
-| The Shaman | 52.00% | ~45 |
+| The Shaman | 53.00% | ~46 |
 | Duscot Steamcity | 52.00% | ~45 |
 | The Penguin | 48.00% | ~42 |
 | The Magician | 46.00% | ~40 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 277)  
+Progressed: 87 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |

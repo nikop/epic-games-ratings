@@ -10,21 +10,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 82.00% | ~9,592 |
 | Explorer | 79.00% | ~9,241 |
 | Friendly Family | 76.00% | ~8,890 |
-| Intrepid | 70.00% | ~8,188 |
-| Able | 61.00% | ~7,135 |
-| Architect | 61.00% | ~7,135 |
-| Mason | 61.00% | ~7,135 |
-| Strong | 60.00% | ~7,018 |
-| Hanging Gardens | 59.00% | ~6,901 |
-| Noble | 58.00% | ~6,784 |
-| Oracle | 58.00% | ~6,784 |
-| Good | 56.00% | ~6,550 |
-| Just | 55.00% | ~6,433 |
-| Judaism | 55.00% | ~6,433 |
-| Keystone | 54.00% | ~6,316 |
-| Glorious | 52.00% | ~6,082 |
-| Trade Caravan | 52.00% | ~6,082 |
-| Naming Landmarks | 50.00% | ~5,848 |
+| Intrepid | 70.00% | ~8,189 |
+| Able | 61.00% | ~7,136 |
+| Architect | 61.00% | ~7,136 |
+| Mason | 61.00% | ~7,136 |
+| Strong | 60.00% | ~7,019 |
+| Hanging Gardens | 59.00% | ~6,902 |
+| Noble | 58.00% | ~6,785 |
+| Oracle | 58.00% | ~6,785 |
+| Good | 56.00% | ~6,551 |
+| Just | 55.00% | ~6,434 |
+| Judaism | 55.00% | ~6,434 |
+| Keystone | 54.00% | ~6,317 |
+| Glorious | 52.00% | ~6,083 |
+| Trade Caravan | 52.00% | ~6,083 |
+| Naming Landmarks | 50.00% | ~5,849 |
 | Learned | 49.00% | ~5,732 |
 | Zoroastrianism | 49.00% | ~5,732 |
 | Fountainhead | 48.00% | ~5,615 |
@@ -67,43 +67,43 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 26.00% | ~3,041 |
 | Sages | 26.00% | ~3,041 |
 | Hanging Gardens in Babylon | 25.00% | ~2,924 |
-| Temple of Solomon | 24.00% | ~2,807 |
-| Learn to Play 2 | 24.00% | ~2,807 |
-| Greece | 24.00% | ~2,807 |
-| Persian Paganism | 24.00% | ~2,807 |
-| Points Victory | 24.00% | ~2,807 |
-| Good Difficulty | 23.00% | ~2,690 |
-| Champions | 23.00% | ~2,690 |
-| Power to the People | 23.00% | ~2,690 |
-| Building Wonders | 23.00% | ~2,690 |
-| Patrons | 22.00% | ~2,573 |
-| Hittite Iron | 22.00% | ~2,573 |
-| Legalism | 22.00% | ~2,573 |
-| Mighty | 21.00% | ~2,456 |
-| Via Recta Souk | 21.00% | ~2,456 |
-| Statesmen | 20.00% | ~2,339 |
-| Circus Maximus | 20.00% | ~2,339 |
-| Hagia Sophia | 20.00% | ~2,339 |
-| Dualism | 20.00% | ~2,339 |
-| Legionary | 20.00% | ~2,339 |
-| Victorious | 19.00% | ~2,222 |
-| Riders | 19.00% | ~2,222 |
-| Adur Burzen-Mihr | 19.00% | ~2,222 |
-| Economic Reform | 19.00% | ~2,222 |
-| Cimmerian Archer | 19.00% | ~2,222 |
-| Ambition Victory | 19.00% | ~2,222 |
-| Conqueror | 18.00% | ~2,105 |
-| Landowners | 18.00% | ~2,105 |
-| Pantheon | 18.00% | ~2,105 |
-| Redemption | 18.00% | ~2,105 |
-| Double Victory | 18.00% | ~2,105 |
-| Subjugator | 17.00% | ~1,988 |
-| Traders | 17.00% | ~1,988 |
-| Learn to Play 3 | 17.00% | ~1,988 |
-| Assyrian Paganism | 17.00% | ~1,988 |
-| Military Prestige | 17.00% | ~1,988 |
-| Kushite Cavalry | 17.00% | ~1,988 |
-| Phalangite | 17.00% | ~1,988 |
+| Temple of Solomon | 24.00% | ~2,808 |
+| Learn to Play 2 | 24.00% | ~2,808 |
+| Greece | 24.00% | ~2,808 |
+| Persian Paganism | 24.00% | ~2,808 |
+| Points Victory | 24.00% | ~2,808 |
+| Good Difficulty | 23.00% | ~2,691 |
+| Champions | 23.00% | ~2,691 |
+| Power to the People | 23.00% | ~2,691 |
+| Building Wonders | 23.00% | ~2,691 |
+| Patrons | 22.00% | ~2,574 |
+| Hittite Iron | 22.00% | ~2,574 |
+| Legalism | 22.00% | ~2,574 |
+| Mighty | 21.00% | ~2,457 |
+| Via Recta Souk | 21.00% | ~2,457 |
+| Statesmen | 20.00% | ~2,340 |
+| Circus Maximus | 20.00% | ~2,340 |
+| Hagia Sophia | 20.00% | ~2,340 |
+| Dualism | 20.00% | ~2,340 |
+| Legionary | 20.00% | ~2,340 |
+| Victorious | 19.00% | ~2,223 |
+| Riders | 19.00% | ~2,223 |
+| Adur Burzen-Mihr | 19.00% | ~2,223 |
+| Economic Reform | 19.00% | ~2,223 |
+| Cimmerian Archer | 19.00% | ~2,223 |
+| Ambition Victory | 19.00% | ~2,223 |
+| Conqueror | 18.00% | ~2,106 |
+| Landowners | 18.00% | ~2,106 |
+| Pantheon | 18.00% | ~2,106 |
+| Redemption | 18.00% | ~2,106 |
+| Double Victory | 18.00% | ~2,106 |
+| Subjugator | 17.00% | ~1,989 |
+| Traders | 17.00% | ~1,989 |
+| Learn to Play 3 | 17.00% | ~1,989 |
+| Assyrian Paganism | 17.00% | ~1,989 |
+| Military Prestige | 17.00% | ~1,989 |
+| Kushite Cavalry | 17.00% | ~1,989 |
+| Phalangite | 17.00% | ~1,989 |
 | Bad Heir Day | 16.00% | ~1,872 |
 | Beloved | 16.00% | ~1,872 |
 | Invincible | 16.00% | ~1,872 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,697 (Ranked 106)  
+Progressed: 11,698 (Ranked 106)  
 Completed: 3 (0.03%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 3 (0.03%) (Ranked 189)
 | 2023-05-31 | 11,611 | 3 |
 | 2023-06-01 | 11,640 | 3 |
 | 2023-06-02 | 11,671 | 3 |
-| 2023-06-03 | 11,697 | 3 |
+| 2023-06-03 | 11,698 | 3 |
 ## Awards
 Max (Relaxing): 217  (Ranked 250)  
 Sum: 1,764 (Ranked 198)  

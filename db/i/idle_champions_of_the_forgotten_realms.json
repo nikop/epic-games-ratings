@@ -4090,7 +4090,7 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89677,
+  "EOS_Progressed": 89683,
   "EOS_Completed": 1913,
   "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 25,
@@ -8550,6 +8550,11 @@
       "Time": "2023-06-03T22:05:49.6702366+00:00",
       "NumProgressed": 89677,
       "NumCompleted": 1913
+    },
+    {
+      "Time": "2023-06-03T23:06:53.607815+00:00",
+      "NumProgressed": 89683,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -8727,9 +8732,9 @@
       "ID": "objective_completed_1065",
       "SetID": "415jc5c",
       "Name": "Hither of the Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1066",
@@ -12504,21 +12509,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55951,
+      "Progressed": 55957,
       "Completed": 2767
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89677,
+      "Progressed": 89683,
       "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:05:49.6702361+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:06:53.6078143+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:57:57.171892+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:05:49.6725322+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:58:21.8038511+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:06:53.6105237+00:00"
 }

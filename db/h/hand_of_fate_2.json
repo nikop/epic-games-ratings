@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657294,
+  "EOS_Progressed": 657297,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4855,6 +4855,11 @@
       "Time": "2023-06-03T22:05:27.3332848+00:00",
       "NumProgressed": 657294,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-03T23:06:28.5166198+00:00",
+      "NumProgressed": 657297,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4866,7 +4871,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473252
+      "UsersEstimate": 473254
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4874,7 +4879,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381231
+      "UsersEstimate": 381232
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4930,7 +4935,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65729
+      "UsersEstimate": 65730
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -4962,7 +4967,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65729
+      "UsersEstimate": 65730
     },
     {
       "ID": "Achievement_14_Magician",
@@ -5010,7 +5015,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92021
+      "UsersEstimate": 92022
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -5106,7 +5111,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78875
+      "UsersEstimate": 78876
     },
     {
       "ID": "Achievement_32_Karma",
@@ -5146,7 +5151,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59156
+      "UsersEstimate": 59157
     },
     {
       "ID": "Achievement_37_Champion",
@@ -5249,15 +5254,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657294,
+      "Progressed": 657297,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:05:27.3332842+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:06:28.5166192+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.7468095+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:57:32.6911999+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:05:27.3333534+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:57:55.0779056+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:06:28.5166852+00:00"
 }

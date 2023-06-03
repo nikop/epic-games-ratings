@@ -1,25 +1,25 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,453 |
-| That's a Grand Army | 8.00% | ~3,958 |
-| That is mine! | 8.00% | ~3,958 |
-| Victorious! | 8.00% | ~3,958 |
-| Brothers in Arms | 6.00% | ~2,969 |
-| That's a Grand Navy | 6.00% | ~2,969 |
-| Seriously?! | 6.00% | ~2,969 |
-| For the Glory | 5.00% | ~2,474 |
-| Cold War | 4.00% | ~1,979 |
-| True Catholic | 4.00% | ~1,979 |
-| Defender of the Faith | 3.00% | ~1,484 |
-| It's all about the money | 3.00% | ~1,484 |
-| Respected | 3.00% | ~1,484 |
-| Truly Divine Ruler | 3.00% | ~1,484 |
+| Until death do us apart | 9.00% | ~4,455 |
+| That's a Grand Army | 8.00% | ~3,960 |
+| That is mine! | 8.00% | ~3,960 |
+| Victorious! | 8.00% | ~3,960 |
+| Brothers in Arms | 6.00% | ~2,970 |
+| That's a Grand Navy | 6.00% | ~2,970 |
+| Seriously?! | 6.00% | ~2,970 |
+| For the Glory | 5.00% | ~2,475 |
+| Cold War | 4.00% | ~1,980 |
+| True Catholic | 4.00% | ~1,980 |
+| Defender of the Faith | 3.00% | ~1,485 |
+| It's all about the money | 3.00% | ~1,485 |
+| Respected | 3.00% | ~1,485 |
+| Truly Divine Ruler | 3.00% | ~1,485 |
 | Agressive Expander | 2.00% | ~990 |
 | Blockader | 2.00% | ~990 |
 | Combined Arms | 2.00% | ~990 |
@@ -89,6 +89,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.20% | ~99 |
 | Industrial Powerhouse | 0.20% | ~99 |
 | Magellan’s Voyage | 0.20% | ~99 |
+| Pyramid of Skulls | 0.20% | ~99 |
 | We bled for this | 0.20% | ~99 |
 | The 52 Garhs | 0.10% | ~49 |
 | I don't like sand | 0.10% | ~49 |
@@ -236,7 +237,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Prince of Egypt | 0.10% | ~49 |
 | Protect the Secret | 0.10% | ~49 |
 | Purify the Temple | 0.10% | ~49 |
-| Pyramid of Skulls | 0.10% | ~49 |
 | Qing of China | 0.10% | ~49 |
 | Queen of Mercury | 0.10% | ~49 |
 | Rags and Riches | 0.10% | ~49 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,479 (Ranked 78)  
+Progressed: 49,497 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
-| 2023-06-03 | 49,479 | 0 |
+| 2023-06-03 | 49,497 | 0 |
 ## Awards
 Max (Educational): 5,338  (Ranked 61)  
 Sum: 44,083 (Ranked 27)  

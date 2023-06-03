@@ -4,7 +4,7 @@
   "ProductSlug": "library-of-babel-7cedb5",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-07T00:00:00+00:00",
@@ -330,8 +330,8 @@
   "FirstSeenRating": "2023-04-08T15:56:55.3694388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:05.3760645+00:00",
   "LastChanged": "2023-04-08T15:56:55.3694389+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:02:32.1787109+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:03:33.451114+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:45.7015282+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:59:54.3193905+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:02:32.1787393+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:00:43.4076253+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:03:33.4511399+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 837,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 329,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 82,
@@ -474,10 +474,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-06-03T22:58:10.0729603+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -515,7 +521,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game has a Creative Community",
@@ -524,7 +530,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14408,
+  "EOS_Progressed": 14412,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
@@ -2644,6 +2650,11 @@
       "Time": "2023-06-03T22:03:50.9988899+00:00",
       "NumProgressed": 14408,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T23:04:31.7594662+00:00",
+      "NumProgressed": 14412,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2671,15 +2682,15 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 288
+      "UsersEstimate": 432
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2759,7 +2770,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2799,7 +2810,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2821,9 +2832,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 1009
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2855,7 +2866,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "STORY_HABITAT",
@@ -2927,7 +2938,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -2935,7 +2946,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -2974,22 +2985,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14408,
+      "Progressed": 14412,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2334,
+      "Progressed": 2338,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-03T02:11:24.6577138+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:03:50.9988895+00:00",
+  "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:04:31.7594654+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:57:45.2540763+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:03:50.9989293+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:58:10.0729608+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:04:31.7595116+00:00"
 }

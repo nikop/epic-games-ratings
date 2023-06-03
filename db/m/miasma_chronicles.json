@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 996,
+  "EOS_Progressed": 997,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1197,6 +1197,11 @@
       "Time": "2023-06-03T22:00:15.6050869+00:00",
       "NumProgressed": 996,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T23:01:09.6637942+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1216,7 +1221,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1224,7 +1229,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1312,7 +1317,7 @@
       "Name": "Ganglord",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "DEAD_DICK",
@@ -1328,7 +1333,7 @@
       "Name": "Jarhead",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1392,7 +1397,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1440,7 +1445,7 @@
       "Name": "Gun for Hire",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1448,7 +1453,7 @@
       "Name": "Hold The Line",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "IM_THE_LAW",
@@ -1464,7 +1469,7 @@
       "Name": "Infiltrator",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "LUMBERJACK",
@@ -1472,7 +1477,7 @@
       "Name": "Lumberjack",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1488,7 +1493,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PUSHING_DAISY",
@@ -1496,7 +1501,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1512,7 +1517,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "RECYCLER",
@@ -1584,7 +1589,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1615,7 +1620,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 996,
+      "Progressed": 997,
       "Completed": 0
     }
   ],
@@ -1623,8 +1628,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:00:15.6050852+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:01:09.6637935+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:58:10.0408833+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:00:15.6051983+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:58:37.4281566+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:01:09.6638621+00:00"
 }

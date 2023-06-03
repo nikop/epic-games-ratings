@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,821 |
-| Now You're Talking | 62.00% | ~321,356 |
-| Steel Yourself | 62.00% | ~321,356 |
-| Window Dressing | 50.00% | ~259,158 |
-| Trigger Happy | 46.00% | ~238,425 |
-| Riverborn | 45.00% | ~233,242 |
-| Starry Eyed | 34.00% | ~176,227 |
-| Poking Around | 34.00% | ~176,227 |
-| Talk of the Town | 24.00% | ~124,396 |
-| AAARR! | 23.00% | ~119,213 |
-| Hello Darkness | 23.00% | ~119,213 |
+| First Step | 70.00% | ~362,824 |
+| Now You're Talking | 62.00% | ~321,358 |
+| Steel Yourself | 62.00% | ~321,358 |
+| Window Dressing | 50.00% | ~259,160 |
+| Trigger Happy | 46.00% | ~238,427 |
+| Riverborn | 45.00% | ~233,244 |
+| Starry Eyed | 34.00% | ~176,229 |
+| Poking Around | 34.00% | ~176,229 |
+| Talk of the Town | 24.00% | ~124,397 |
+| AAARR! | 23.00% | ~119,214 |
+| Hello Darkness | 23.00% | ~119,214 |
 | Wind At Our Backs | 22.00% | ~114,030 |
-| To the Beat | 20.00% | ~103,663 |
+| To the Beat | 20.00% | ~103,664 |
 | Sunny Shores | 17.00% | ~88,114 |
-| To Victory! | 15.00% | ~77,747 |
-| Sunday Best | 15.00% | ~77,747 |
-| Two of a Kind | 14.00% | ~72,564 |
-| Keep On Trucking | 13.00% | ~67,381 |
+| To Victory! | 15.00% | ~77,748 |
+| Sunday Best | 15.00% | ~77,748 |
+| Two of a Kind | 14.00% | ~72,565 |
+| Keep On Trucking | 13.00% | ~67,382 |
 | Going on an Adventure | 11.00% | ~57,015 |
 | Make Peace, Not War | 11.00% | ~57,015 |
 | Walking The Line | 10.00% | ~51,832 |
 | Not So Cute Anymore | 10.00% | ~51,832 |
-| Road Less Travelled | 9.00% | ~46,648 |
-| Lost and Found | 9.00% | ~46,648 |
+| Road Less Travelled | 9.00% | ~46,649 |
+| Lost and Found | 9.00% | ~46,649 |
 | Partner in Crime | 7.00% | ~36,282 |
 | Hard to Hear | 7.00% | ~36,282 |
 | Under the Radar | 7.00% | ~36,282 |
@@ -48,12 +48,12 @@ Number of Ratings: 617  (23.09.2022)
 | Biting Tongue | 4.00% | ~20,733 |
 | What a Catch! | 4.00% | ~20,733 |
 | Hit the Spot | 4.00% | ~20,733 |
-| Talk the Talk | 3.00% | ~15,549 |
-| Skin in the Game | 3.00% | ~15,549 |
-| Caving In | 3.00% | ~15,549 |
-| Page Turner | 3.00% | ~15,549 |
-| Spinal Adjustment | 3.00% | ~15,549 |
-| The Knowledge | 3.00% | ~15,549 |
+| Talk the Talk | 3.00% | ~15,550 |
+| Skin in the Game | 3.00% | ~15,550 |
+| Caving In | 3.00% | ~15,550 |
+| Page Turner | 3.00% | ~15,550 |
+| Spinal Adjustment | 3.00% | ~15,550 |
+| The Knowledge | 3.00% | ~15,550 |
 | Seek the Rainbow | 2.00% | ~10,366 |
 | Words of Truth | 2.00% | ~10,366 |
 | Star Power | 2.00% | ~10,366 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,555 |
 | Point Taken | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,316 (Ranked 27)  
+Progressed: 518,320 (Ranked 27)  
 Completed: 418 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 418 (0.08%) (Ranked 172)
 | 2023-05-31 | 518,028 | 417 |
 | 2023-06-01 | 518,108 | 418 |
 | 2023-06-02 | 518,203 | 418 |
-| 2023-06-03 | 518,316 | 418 |
+| 2023-06-03 | 518,320 | 418 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 399,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 6.53,
+  "EOS_Completed_Percentage": 6.52,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -996,6 +996,11 @@
       "Time": "2023-06-03T22:03:44.1943524+00:00",
       "NumProgressed": 398,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-03T23:04:23.3580079+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 30,
@@ -1007,7 +1012,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "LEVEL_002",
@@ -1015,7 +1020,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "LEVEL_003",
@@ -1039,7 +1044,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "LEVEL_006",
@@ -1047,7 +1052,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_007",
@@ -1055,7 +1060,7 @@
       "Name": "Animals in the farm",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_008",
@@ -1063,7 +1068,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_009",
@@ -1071,7 +1076,7 @@
       "Name": "Going zig zag",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_010",
@@ -1109,9 +1114,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_015",
@@ -1246,14 +1251,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 399,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:03:44.1943519+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:04:23.3580074+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:57:04.6311804+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:03:44.1943798+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:57:22.1301816+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:04:23.3580349+00:00"
 }

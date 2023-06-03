@@ -6,68 +6,68 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~26,287 |
-| Blood Moon | 73.00% | ~22,576 |
-| Path of the Necromancer | 65.00% | ~20,102 |
-| Chainbreaker - I | 60.00% | ~18,556 |
-| Cursed Creature | 57.00% | ~17,628 |
-| Extraction | 57.00% | ~17,628 |
-| Chainbreaker - II | 55.00% | ~17,009 |
-| Necromancer's Apprentice | 51.00% | ~15,772 |
-| Keeper of Keys | 47.00% | ~14,535 |
-| Distillation | 43.00% | ~13,298 |
-| Mountain King - I | 42.00% | ~12,989 |
-| Transmutation | 42.00% | ~12,989 |
-| Prepared Necromancer | 40.00% | ~12,370 |
-| Mountain King - II | 39.00% | ~12,061 |
-| Blind Rage | 38.00% | ~11,752 |
-| Mad Genius | 35.00% | ~10,824 |
-| Cannon Fodder - I | 34.00% | ~10,515 |
-| Soul of Lies | 34.00% | ~10,515 |
-| Bane of Mercenaries - I | 33.00% | ~10,206 |
-| Bane of Mercenaries - II | 31.00% | ~9,587 |
-| Shadow Between Worlds | 30.00% | ~9,278 |
-| Cannon Fodder - II | 29.00% | ~8,969 |
-| Bane of Monsters | 28.00% | ~8,659 |
-| Chainbreaker - III | 27.00% | ~8,350 |
-| Revealed Secrets - I | 27.00% | ~8,350 |
-| Revealed Secrets - II | 26.00% | ~8,041 |
-| Unholy Bones | 24.00% | ~7,422 |
-| Blood Elemental | 24.00% | ~7,422 |
-| Lord of Fire | 23.00% | ~7,113 |
-| Uncommon Warrior | 23.00% | ~7,113 |
-| Cannon Fodder - III | 22.00% | ~6,804 |
-| Spiritual Attraction | 22.00% | ~6,804 |
-| Nightmare of the Humanity - I | 22.00% | ~6,804 |
-| Nightmare of the Humanity - II | 21.00% | ~6,494 |
-| That Was Easy! | 20.00% | ~6,185 |
-| Silent Waters | 20.00% | ~6,185 |
-| Calcination | 20.00% | ~6,185 |
-| Head of Order | 20.00% | ~6,185 |
-| Blood Mage | 17.00% | ~5,257 |
-| Wild Hunger | 16.00% | ~4,948 |
-| Rage Concentrated | 16.00% | ~4,948 |
-| Mountain King - III | 15.00% | ~4,639 |
-| Rare Warrior | 15.00% | ~4,639 |
-| Grand Arena | 14.00% | ~4,330 |
-| Blood Madness | 13.00% | ~4,020 |
-| First Sacrifice | 13.00% | ~4,020 |
-| Master of Alchemy | 13.00% | ~4,020 |
-| Legendary Warrior | 12.00% | ~3,711 |
-| Bane of Mercenaries - III | 10.00% | ~3,093 |
-| Ancient Burial | 10.00% | ~3,093 |
-| More Mortal Suffering! | 9.00% | ~2,783 |
-| Monument to Greatness | 9.00% | ~2,783 |
-| Forbidden Knowledge | 9.00% | ~2,783 |
-| Live Operation | 9.00% | ~2,783 |
-| Master of Rage | 8.00% | ~2,474 |
-| Icy Incursion | 8.00% | ~2,474 |
-| Arachnophobia | 8.00% | ~2,474 |
-| Revealed Secrets - III | 8.00% | ~2,474 |
-| Nightmare of the Humanity - III | 7.00% | ~2,165 |
+| Improvement | 85.00% | ~26,297 |
+| Blood Moon | 73.00% | ~22,585 |
+| Path of the Necromancer | 65.00% | ~20,110 |
+| Chainbreaker - I | 60.00% | ~18,563 |
+| Cursed Creature | 57.00% | ~17,635 |
+| Extraction | 57.00% | ~17,635 |
+| Chainbreaker - II | 55.00% | ~17,016 |
+| Necromancer's Apprentice | 51.00% | ~15,778 |
+| Keeper of Keys | 47.00% | ~14,541 |
+| Distillation | 43.00% | ~13,303 |
+| Mountain King - I | 42.00% | ~12,994 |
+| Transmutation | 42.00% | ~12,994 |
+| Prepared Necromancer | 40.00% | ~12,375 |
+| Mountain King - II | 39.00% | ~12,066 |
+| Blind Rage | 38.00% | ~11,756 |
+| Mad Genius | 35.00% | ~10,828 |
+| Cannon Fodder - I | 34.00% | ~10,519 |
+| Soul of Lies | 34.00% | ~10,519 |
+| Bane of Mercenaries - I | 33.00% | ~10,210 |
+| Bane of Mercenaries - II | 31.00% | ~9,591 |
+| Shadow Between Worlds | 30.00% | ~9,281 |
+| Cannon Fodder - II | 29.00% | ~8,972 |
+| Bane of Monsters | 28.00% | ~8,663 |
+| Chainbreaker - III | 27.00% | ~8,353 |
+| Revealed Secrets - I | 27.00% | ~8,353 |
+| Revealed Secrets - II | 26.00% | ~8,044 |
+| Unholy Bones | 24.00% | ~7,425 |
+| Blood Elemental | 24.00% | ~7,425 |
+| Lord of Fire | 23.00% | ~7,116 |
+| Uncommon Warrior | 23.00% | ~7,116 |
+| Cannon Fodder - III | 22.00% | ~6,806 |
+| Spiritual Attraction | 22.00% | ~6,806 |
+| Nightmare of the Humanity - I | 22.00% | ~6,806 |
+| Nightmare of the Humanity - II | 21.00% | ~6,497 |
+| That Was Easy! | 20.00% | ~6,188 |
+| Silent Waters | 20.00% | ~6,188 |
+| Calcination | 20.00% | ~6,188 |
+| Head of Order | 20.00% | ~6,188 |
+| Blood Mage | 17.00% | ~5,259 |
+| Wild Hunger | 16.00% | ~4,950 |
+| Rage Concentrated | 16.00% | ~4,950 |
+| Mountain King - III | 15.00% | ~4,641 |
+| Rare Warrior | 15.00% | ~4,641 |
+| Grand Arena | 14.00% | ~4,331 |
+| Blood Madness | 13.00% | ~4,022 |
+| First Sacrifice | 13.00% | ~4,022 |
+| Master of Alchemy | 13.00% | ~4,022 |
+| Legendary Warrior | 12.00% | ~3,713 |
+| Bane of Mercenaries - III | 10.00% | ~3,094 |
+| Ancient Burial | 10.00% | ~3,094 |
+| More Mortal Suffering! | 9.00% | ~2,784 |
+| Monument to Greatness | 9.00% | ~2,784 |
+| Forbidden Knowledge | 9.00% | ~2,784 |
+| Live Operation | 9.00% | ~2,784 |
+| Master of Rage | 8.00% | ~2,475 |
+| Icy Incursion | 8.00% | ~2,475 |
+| Arachnophobia | 8.00% | ~2,475 |
+| Revealed Secrets - III | 8.00% | ~2,475 |
+| Nightmare of the Humanity - III | 7.00% | ~2,166 |
 | Means of Recovery | 6.00% | ~1,856 |
 | Master of Magic | 6.00% | ~1,856 |
-| Master of Destruction | 4.00% | ~1,237 |
+| Master of Destruction | 4.00% | ~1,238 |
 | Dungeon Queen | 3.00% | ~928 |
 | Mek Brothers | 3.00% | ~928 |
 | The Hunter Becomes... | 3.00% | ~928 |
@@ -77,12 +77,12 @@ Number of Ratings: 10,109  (23.09.2022)
 | Graveyard Call - II | 2.00% | ~619 |
 | Sweet Revenge | 2.00% | ~619 |
 | Graveyard Call - III | 0.90% | ~278 |
-| I'll Be Back! | 0.80% | ~247 |
-| Doctorate in Potion Brewing | 0.70% | ~216 |
+| I'll Be Back! | 0.80% | ~248 |
+| Doctorate in Potion Brewing | 0.70% | ~217 |
 | Unrivaled | 0.60% | ~186 |
 | Renowned Researcher | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,926 (Ranked 87)  
+Progressed: 30,938 (Ranked 87)  
 Completed: 15 (0.05%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 15 (0.05%) (Ranked 180)
 | 2023-05-31 | 30,563 | 15 |
 | 2023-06-01 | 30,668 | 15 |
 | 2023-06-02 | 30,789 | 15 |
-| 2023-06-03 | 30,926 | 15 |
+| 2023-06-03 | 30,938 | 15 |
 ## Awards
 Max (Character Customization): 2,136  (Ranked 102)  
 Sum: 4,139 (Ranked 132)  

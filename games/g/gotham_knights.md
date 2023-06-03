@@ -26,11 +26,11 @@ Rating: 4.17 (Ranked 843)
 | Lock and Key | 1.00% | ~635 |
 | Bad Apples in Every Orchard | 1.00% | ~635 |
 | From Inside Gotham's Walls | 1.00% | ~635 |
+| Voiceless | 1.00% | ~635 |
 | End of an Era | 0.90% | ~571 |
 | In Your Element | 0.90% | ~571 |
 | Not On My Watch | 0.90% | ~571 |
 | Shock Til They Drop | 0.90% | ~571 |
-| Voiceless | 0.90% | ~571 |
 | Seeking Asylum | 0.90% | ~571 |
 | Gotham Knight | 0.90% | ~571 |
 | Bulldozed | 0.80% | ~508 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 843)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,457 (Ranked 71)  
+Progressed: 63,469 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
-| 2023-06-03 | 63,457 | 93 |
+| 2023-06-03 | 63,469 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,283  (Ranked 98)  
 Sum: 3,783 (Ranked 137)  

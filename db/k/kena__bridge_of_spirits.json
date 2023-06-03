@@ -2,12 +2,12 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 194,
+  "Ranking_Rating": 195,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425693,
+  "EOS_Progressed": 425694,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4274,6 +4274,11 @@
       "Time": "2023-06-03T21:00:53.6403293+00:00",
       "NumProgressed": 425693,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-06-03T23:01:24.4416389+00:00",
+      "NumProgressed": 425694,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 41,
@@ -4293,7 +4298,7 @@
       "Name": "Harness Your Power",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 161763
+      "UsersEstimate": 161764
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -4317,7 +4322,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106423
+      "UsersEstimate": 106424
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -4333,7 +4338,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 106423
+      "UsersEstimate": 106424
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -4453,7 +4458,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404408
+      "UsersEstimate": 404409
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -4469,7 +4474,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306499
+      "UsersEstimate": 306500
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -4477,7 +4482,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157506
+      "UsersEstimate": 157507
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -4485,7 +4490,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293728
+      "UsersEstimate": 293729
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -4493,7 +4498,7 @@
       "Name": "The Lonely Path",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 106423
+      "UsersEstimate": 106424
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -4501,7 +4506,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340554
+      "UsersEstimate": 340555
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -4517,7 +4522,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34055
+      "UsersEstimate": 34056
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -4565,7 +4570,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238388
+      "UsersEstimate": 238389
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -4612,15 +4617,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425693,
+      "Progressed": 425694,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-01T15:58:24.2194273+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:00:27.9638435+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:01:24.4416383+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.1303854+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:58:09.9074045+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:00:27.9638992+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:58:37.2765282+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:01:24.4417145+00:00"
 }

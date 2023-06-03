@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 51.00% | ~16 |
+| Aspairagus | 52.00% | ~16 |
 | Survivor | 43.00% | ~13 |
 | Seeds of War | 40.00% | ~32 |
-| No Diggity | 35.00% | ~11 |
+| No Diggity | 36.00% | ~11 |
 | Early Survivor | 33.00% | ~10 |
 | First Blood | 32.00% | ~26 |
 | No Asperascope | 25.00% | ~20 |
@@ -33,13 +33,13 @@
 | Master Survivor | 6.00% | ~2 |
 | Bring Home The Bacon | 4.00% | ~3 |
 | Chick Magnet | 4.00% | ~3 |
+| Pork Chop Express | 4.00% | ~3 |
 | Eggtraordinary | 4.00% | ~3 |
 | Carrocketeer | 4.00% | ~3 |
 | Pyromaniac | 4.00% | ~1 |
 | Easy Peasy | 4.00% | ~1 |
 | Fresh Pancake | 2.00% | ~2 |
 | Getting Started | 2.00% | ~2 |
-| Pork Chop Express | 2.00% | ~2 |
 | 15 Days | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |
 | Early Bird | 1.00% | ~1 |

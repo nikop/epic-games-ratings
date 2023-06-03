@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -229,6 +229,11 @@
       "Time": "2023-06-03T07:05:46.820269+00:00",
       "NumProgressed": 420,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T23:06:42.1826972+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -238,9 +243,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -264,7 +269,7 @@
       "Name": "One More Thing...",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -288,7 +293,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -304,7 +309,7 @@
       "Name": "Path of Learning",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -320,7 +325,7 @@
       "Name": "Lucky Day",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -368,7 +373,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -560,7 +565,7 @@
       "Name": "Self Defense",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -639,7 +644,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 1
     }
   ],
@@ -647,8 +652,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:05:39.3500373+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:06:42.1826965+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:58:41.3018965+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:05:39.3501549+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:59:16.7842358+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:06:42.1827446+00:00"
 }

@@ -1,25 +1,25 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 12.00% | ~49,390 |
-| 50 HEADSHOTS | 11.00% | ~45,274 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,042 |
+| 100 KILLS | 12.00% | ~49,391 |
+| 50 HEADSHOTS | 11.00% | ~45,275 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,043 |
 | FINISHED CHAPTER 1 | 8.00% | ~32,927 |
-| 200 HEADSHOTS | 7.00% | ~28,811 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,695 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,579 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,579 |
-| 1000 KILLS | 4.00% | ~16,463 |
-| FINISH CHAPTER 5 | 4.00% | ~16,463 |
-| FINISH CHAPTER 6 | 4.00% | ~16,463 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,463 |
+| 200 HEADSHOTS | 7.00% | ~28,812 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,696 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,580 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,580 |
+| 1000 KILLS | 4.00% | ~16,464 |
+| FINISH CHAPTER 5 | 4.00% | ~16,464 |
+| FINISH CHAPTER 6 | 4.00% | ~16,464 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,464 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,232 |
 | FIREFIGHT LEVEL 20 | 0.70% | ~2,881 |
-| FIRST BLOOD | 0.60% | ~2,469 |
+| FIRST BLOOD | 0.60% | ~2,470 |
 | FIREFIGHT LEVEL 30 | 0.40% | ~1,646 |
 | PACEMAKER | 0.40% | ~1,646 |
 | TIME PARADOX | 0.40% | ~1,646 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 239)
 | THE GAMBLER | 0.10% | ~412 |
 | WARRIOR IN A GARDEN | 0.10% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411,582 (Ranked 36)  
+Progressed: 411,593 (Ranked 36)  
 Completed: 32 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 32 (0.01%) (Ranked 200)
 | 2023-05-31 | 410,258 | 32 |
 | 2023-06-01 | 410,620 | 32 |
 | 2023-06-02 | 411,034 | 32 |
-| 2023-06-03 | 411,582 | 32 |
+| 2023-06-03 | 411,593 | 32 |
 ## Awards
 Max (Great Boss Battles): 175  (Ranked 273)  
 Sum: 175 (Ranked 365)  

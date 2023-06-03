@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2904,
+  "EOS_Progressed": 2905,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2023-06-03T22:05:41.8477472+00:00",
       "NumProgressed": 2904,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-03T23:06:45.1163061+00:00",
+      "NumProgressed": 2905,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1868,7 +1873,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "campaign15",
@@ -1914,9 +1919,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2295
     },
     {
       "ID": "campaign20",
@@ -2043,7 +2048,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2904,
+      "Progressed": 2905,
       "Completed": 9
     }
   ],
@@ -2051,8 +2056,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:05:41.8477467+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:06:45.1163052+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:59:49.926975+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:05:41.847783+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:00:37.7564289+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:06:45.1163414+00:00"
 }

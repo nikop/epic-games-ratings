@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -5805,10 +5805,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 23125,
       "NumberOfAwardsMax": 2712
+    },
+    {
+      "Time": "2023-06-03T22:58:34.7564456+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 23140,
+      "NumberOfAwardsMax": 2712
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23125,
+  "NumberOfAwards": 23140,
   "NumberOfAwardsMax": 2712,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5822,7 +5828,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2471
+      "Count": 2478
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5852,13 +5858,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2162
+      "Count": 2165
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2382
+      "Count": 2387
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5896,8 +5902,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-06-03T19:58:20.0911489+00:00",
+  "LastChanged": "2023-06-03T22:58:34.7564455+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:27.9570789+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:58:07.7404597+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:00:18.0953426+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:58:34.7564461+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:01:12.6985465+00:00"
 }

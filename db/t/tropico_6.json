@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
@@ -882,9 +882,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3364,
+  "EOS_Progressed": 3366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3562,6 +3562,11 @@
       "Time": "2023-06-03T21:02:31.3775693+00:00",
       "NumProgressed": 3364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T23:03:19.7352984+00:00",
+      "NumProgressed": 3366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3581,7 +3586,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -3645,7 +3650,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -3653,7 +3658,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -3669,7 +3674,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3685,7 +3690,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -3693,7 +3698,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3715,9 +3720,9 @@
       "ID": "ACH_EP_TROPICOLAND",
       "SetID": "1p8ab95",
       "Name": "For Science!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -3733,7 +3738,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3829,7 +3834,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3892,15 +3897,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3364,
+      "Progressed": 3366,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-03T21:00:10.0889241+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:02:20.6056939+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:03:19.7352978+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:59:47.7383687+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:02:20.6057347+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:00:35.0378891+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:03:19.7353481+00:00"
 }

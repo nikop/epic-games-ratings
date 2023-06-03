@@ -1370,9 +1370,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63457,
+  "EOS_Progressed": 63469,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1042,
+  "EOS_NewPlayers": 1049,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4940,6 +4940,11 @@
       "Time": "2023-06-03T22:05:44.2536879+00:00",
       "NumProgressed": 63457,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-03T23:06:47.9559673+00:00",
+      "NumProgressed": 63469,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5381,9 +5386,9 @@
       "ID": "MYSTERY_06",
       "SetID": "4eo5ebm",
       "Name": "Voiceless",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 635
     },
     {
       "ID": "MYSTERY_07",
@@ -5438,13 +5443,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63457,
+      "Progressed": 63469,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33737,
+      "Progressed": 33749,
       "Completed": 2644
     }
   ],
@@ -5452,8 +5457,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-03T17:00:25.239892+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:05:44.2536874+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:06:47.9559668+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:59:24.2713261+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:05:44.2537745+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:00:11.1541655+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:06:47.9560476+00:00"
 }

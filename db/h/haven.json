@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1207,
+  "EOS_Progressed": 1208,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -658,6 +658,11 @@
       "Time": "2023-06-03T21:06:15.7093535+00:00",
       "NumProgressed": 1207,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-03T23:06:38.8905637+00:00",
+      "NumProgressed": 1208,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -685,7 +690,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "12",
@@ -725,7 +730,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "17",
@@ -821,7 +826,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "3",
@@ -829,7 +834,7 @@
       "Name": "Hug therapy",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "30",
@@ -877,7 +882,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "7",
@@ -908,15 +913,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1207,
+      "Progressed": 1208,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-03T22:05:36.4591772+00:00",
+  "LastChanged_Achievements": "2023-06-03T23:06:38.8905632+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:59:13.8162986+00:00",
-  "LastUpdate_Achievements": "2023-06-03T22:05:36.4592015+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:59:57.2612673+00:00",
+  "LastUpdate_Achievements": "2023-06-03T23:06:38.8905865+00:00"
 }

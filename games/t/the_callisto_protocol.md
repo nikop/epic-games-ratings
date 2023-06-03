@@ -10,22 +10,22 @@ Rating: 4.18 (Ranked 837)
 | Desperate Times | 9.00% | ~1,297 |
 | Paper Jams | 8.00% | ~1,153 |
 | Chew 'Em Up | 7.00% | ~1,009 |
-| Giving Back | 6.00% | ~864 |
-| Workplace Hazard | 6.00% | ~864 |
-| Reforged | 6.00% | ~864 |
-| If the SHU Fits... | 6.00% | ~864 |
-| Get a Grip | 5.00% | ~720 |
+| Reforged | 7.00% | ~1,009 |
+| Giving Back | 6.00% | ~865 |
+| Workplace Hazard | 6.00% | ~865 |
+| If the SHU Fits... | 6.00% | ~865 |
+| Get a Grip | 5.00% | ~721 |
 | Terminated | 4.00% | ~576 |
 | Float Like A Butterfly | 4.00% | ~576 |
 | Without A Paddle | 4.00% | ~576 |
-| Instigator | 4.00% | ~93 |
-| Big Game Hunter | 4.00% | ~93 |
+| Instigator | 4.00% | ~94 |
+| Big Game Hunter | 4.00% | ~94 |
+| You Need a Gun | 3.00% | ~432 |
 | Two Heads Are Better Than One | 3.00% | ~432 |
 | In the Pipe, Five by Five | 3.00% | ~432 |
 | Crash Site | 3.00% | ~432 |
 | Power Up | 3.00% | ~432 |
 | Bear Trap | 3.00% | ~70 |
-| You Need a Gun | 2.00% | ~288 |
 | In Striking Distance | 2.00% | ~288 |
 | The Commonality | 2.00% | ~288 |
 | Mugshot | 2.00% | ~288 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 837)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,408 (Ranked 103)  
+Progressed: 14,412 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,11 +89,11 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
-| 2023-06-03 | 14,408 | 53 |
+| 2023-06-03 | 14,412 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
-Sum: 285 (Ranked 329)  
-Diff (max vs sum): 61  
+Sum: 287 (Ranked 328)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
@@ -101,7 +101,7 @@ Diff (max vs sum): 61
 | This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 44 |
 | This game has Quickly Understood Controls | 42 |
-| This game has Challenging Combat | 33 |
+| This game has Challenging Combat | 35 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -162,4 +162,4 @@ Diff (max vs sum): 61
 | 2023-05-31 | 4.18 | 50 | 281 |
 | 2023-06-01 | 4.18 | 50 | 282 |
 | 2023-06-02 | 4.18 | 50 | 284 |
-| 2023-06-03 | 4.18 | 50 | 285 |
+| 2023-06-03 | 4.18 | 50 | 287 |
