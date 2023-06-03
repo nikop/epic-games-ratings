@@ -22,7 +22,7 @@
 | 20 | [Remains](games/r/remains.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.89% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
@@ -47,7 +47,7 @@
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.23% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.17% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
-| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.04% |
+| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.03% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
@@ -59,15 +59,15 @@
 | 57 | [Bloodshore](games/b/bloodshore.md) | 2.56% |
 | 58 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.41% |
+| 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.38% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 63 | [Iron Danger](games/i/iron_danger.md) | 2.13% |
+| 64 | [Iron Danger](games/i/iron_danger.md) | 2.12% |
 | 65 | [JARS](games/j/jars.md) | 2.08% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.74% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.72% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
@@ -76,7 +76,7 @@
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
 | 75 | [Frogun](games/f/frogun.md) | 1.52% |
 | 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.41% |
+| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.39% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 80 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
@@ -88,14 +88,14 @@
 | 86 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
 | 87 | [Late Shift](games/l/late_shift.md) | 1.04% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.00% |
-| 89 | [Sable](games/s/sable.md) | 0.95% |
+| 89 | [Sable](games/s/sable.md) | 0.94% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [Poosh XL](games/p/poosh_xl.md) | 0.88% |
 | 92 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 94 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.86% |
 | 95 | [Adios](games/a/adios.md) | 0.84% |
-| 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
+| 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
 | 98 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |

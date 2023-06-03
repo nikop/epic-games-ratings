@@ -68,7 +68,7 @@
 | 63 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 493 |
 | 63 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 514 | 183 |
 | 63 | [Sifu](games/s/sifu.md) | 4.82 | 6,122 | 53 |
-| 63 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 391 | 205 |
+| 63 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 392 | 204 |
 | 63 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
 | 71 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 0 | 493 |
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 196 |
@@ -117,11 +117,11 @@
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 98 | 327 |
 | 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 493 |
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 456 |
-| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,379 | 22 |
+| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,388 | 22 |
 | 118 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 345 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 493 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,215 | 85 |
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 851 | 145 |
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 852 | 145 |
 | 118 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 409 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 493 |
 | 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 107 | 315 |
@@ -341,7 +341,7 @@
 | 329 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 225 |
 | 329 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.63 | 0 | 493 |
 | 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 72 | 360 |
-| 329 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,742 | 110 |
+| 329 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,743 | 110 |
 | 329 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 0 | 493 |
 | 329 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 493 |
 | 345 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 493 |
@@ -422,7 +422,7 @@
 | 405 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 695 | 156 |
 | 421 | [Among Us](games/a/among_us.md) | 4.58 | 2,441 | 93 |
 | 421 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 493 |
-| 421 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 155 | 284 |
+| 421 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 157 | 284 |
 | 421 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 493 |
 | 421 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,408 | 42 |
 | 421 | [Everything](games/e/everything.md) | 4.58 | 0 | 493 |
@@ -622,7 +622,7 @@
 | 612 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,453 | 34 |
 | 612 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 493 |
 | 612 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 493 |
-| 612 | [SMITE](games/s/smite.md) | 4.45 | 3,843 | 77 |
+| 612 | [SMITE](games/s/smite.md) | 4.45 | 3,852 | 77 |
 | 612 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 493 |
 | 612 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.45 | 1,325 | 119 |
 | 612 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 412 |
@@ -900,7 +900,7 @@
 | 897 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 493 |
 | 899 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 493 |
 | 899 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,120 | 103 |
-| 899 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,604 | 66 |
+| 899 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,606 | 66 |
 | 902 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 493 |
 | 903 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 402 |
 | 903 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.95 | 0 | 493 |
