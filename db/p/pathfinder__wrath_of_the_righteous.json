@@ -2636,9 +2636,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 9462,
+  "EOS_Progressed": 9464,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5321,6 +5321,11 @@
       "Time": "2023-06-03T04:05:58.3653661+00:00",
       "NumProgressed": 9462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T05:05:49.7333608+00:00",
+      "NumProgressed": 9464,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5364,7 +5369,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -5388,7 +5393,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "09_PathOfDemon",
@@ -5724,7 +5729,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -6259,21 +6264,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8244,
+      "Progressed": 8246,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9462,
+      "Progressed": 9464,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-03T02:11:51.7886019+00:00",
-  "LastChanged_Achievements": "2023-06-03T04:05:58.3653657+00:00",
+  "LastChanged_Achievements": "2023-06-03T05:05:49.7333603+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:58:02.9161425+00:00",
-  "LastUpdate_Achievements": "2023-06-03T04:05:58.3655463+00:00"
+  "LastUpdate_Ratings": "2023-06-03T04:57:55.0421144+00:00",
+  "LastUpdate_Achievements": "2023-06-03T05:05:49.7335444+00:00"
 }

@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.68 (Ranked 239)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,398 |
-| That's a Grand Army | 8.00% | ~3,909 |
-| That is mine! | 8.00% | ~3,909 |
-| Victorious! | 8.00% | ~3,909 |
+| Until death do us apart | 9.00% | ~4,399 |
+| That's a Grand Army | 8.00% | ~3,910 |
+| That is mine! | 8.00% | ~3,910 |
+| Victorious! | 8.00% | ~3,910 |
 | Brothers in Arms | 6.00% | ~2,932 |
 | That's a Grand Navy | 6.00% | ~2,932 |
 | Seriously?! | 6.00% | ~2,932 |
-| For the Glory | 5.00% | ~2,443 |
+| For the Glory | 5.00% | ~2,444 |
 | Cold War | 4.00% | ~1,955 |
 | True Catholic | 4.00% | ~1,955 |
 | Defender of the Faith | 3.00% | ~1,466 |
 | It's all about the money | 3.00% | ~1,466 |
 | Respected | 3.00% | ~1,466 |
 | Truly Divine Ruler | 3.00% | ~1,466 |
-| Agressive Expander | 2.00% | ~977 |
-| Blockader | 2.00% | ~977 |
-| Combined Arms | 2.00% | ~977 |
-| Double the Love | 2.00% | ~977 |
-| Gentle Persuasion | 2.00% | ~977 |
-| It's all about luck | 2.00% | ~977 |
-| My armies are invincible! | 2.00% | ~977 |
-| Queen of Conquest | 2.00% | ~977 |
-| Royal Authority | 2.00% | ~977 |
-| The Princess is in this Castle | 2.00% | ~977 |
-| Total Control | 2.00% | ~977 |
+| Agressive Expander | 2.00% | ~978 |
+| Blockader | 2.00% | ~978 |
+| Combined Arms | 2.00% | ~978 |
+| Double the Love | 2.00% | ~978 |
+| Gentle Persuasion | 2.00% | ~978 |
+| It's all about luck | 2.00% | ~978 |
+| My armies are invincible! | 2.00% | ~978 |
+| Queen of Conquest | 2.00% | ~978 |
+| Royal Authority | 2.00% | ~978 |
+| The Princess is in this Castle | 2.00% | ~978 |
+| Total Control | 2.00% | ~978 |
 | All That's Thine Shall Be Mine | 1.00% | ~489 |
 | Azur semé de lis or | 1.00% | ~489 |
 | Bright Spark | 1.00% | ~489 |
@@ -55,16 +55,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~244 |
 | Trophy Hunter | 0.50% | ~244 |
 | Voting Streak | 0.50% | ~244 |
-| Absolutely | 0.40% | ~195 |
-| Bleed Them Dry | 0.40% | ~195 |
-| Dude, Where's my Boat? | 0.40% | ~195 |
-| Grand Coalition | 0.40% | ~195 |
-| In the Name of the Father | 0.40% | ~195 |
-| Live Long and Prosper | 0.40% | ~195 |
-| One Night in Paris | 0.40% | ~195 |
-| Ruina Imperii | 0.40% | ~195 |
-| Tear Down This Wall | 0.40% | ~195 |
-| The Continuation of Diplomacy | 0.40% | ~195 |
+| Absolutely | 0.40% | ~196 |
+| Bleed Them Dry | 0.40% | ~196 |
+| Dude, Where's my Boat? | 0.40% | ~196 |
+| Grand Coalition | 0.40% | ~196 |
+| In the Name of the Father | 0.40% | ~196 |
+| Live Long and Prosper | 0.40% | ~196 |
+| One Night in Paris | 0.40% | ~196 |
+| Ruina Imperii | 0.40% | ~196 |
+| Tear Down This Wall | 0.40% | ~196 |
+| The Continuation of Diplomacy | 0.40% | ~196 |
 | A Decent Reserve | 0.30% | ~147 |
 | A Pile of Gold | 0.30% | ~147 |
 | All Your Trade Are Belong to Us | 0.30% | ~147 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,867 (Ranked 78)  
+Progressed: 48,875 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,11 +405,11 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
-| 2023-06-03 | 48,867 | 0 |
+| 2023-06-03 | 48,875 | 0 |
 ## Awards
-Max (Educational): 5,338  (Ranked 60)  
+Max (Educational): 5,338  (Ranked 61)  
 Sum: 44,064 (Ranked 27)  
-Diff (max vs sum): 33  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,338 |

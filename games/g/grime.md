@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.60 (Ranked 384)  
+Rating: 4.60 (Ranked 385)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,9 +15,9 @@ Number of Ratings: 46  (23.09.2022)
 | Harmless | 12.00% | ~68 |
 | Silenced Whispers | 12.00% | ~68 |
 | Scion | 11.00% | ~17 |
+| Glare | 11.00% | ~17 |
 | Yank | 11.00% | ~63 |
 | Sharpened Vessel | 11.00% | ~63 |
-| Glare | 10.00% | ~15 |
 | Host | 9.00% | ~14 |
 | Jawcrab | 9.00% | ~51 |
 | Feast | 9.00% | ~51 |

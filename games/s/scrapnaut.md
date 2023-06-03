@@ -6,10 +6,10 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| My New Home | 60.00% | ~139 |
 | Scrap Gatherer | 59.00% | ~137 |
-| My New Home | 59.00% | ~137 |
 | Mushroom Picker | 56.00% | ~130 |
-| Scrapper | 49.00% | ~114 |
+| Scrapper | 50.00% | ~116 |
 | Cook | 41.00% | ~95 |
 | Teleport | 40.00% | ~93 |
 | Scrap Master | 39.00% | ~90 |

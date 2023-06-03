@@ -1154,9 +1154,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425662,
+  "EOS_Progressed": 425663,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4204,6 +4204,11 @@
       "Time": "2023-06-03T04:02:28.2289139+00:00",
       "NumProgressed": 425662,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-06-03T05:02:22.5222618+00:00",
+      "NumProgressed": 425663,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 41,
@@ -4231,7 +4236,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255397
+      "UsersEstimate": 255398
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -4327,7 +4332,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131955
+      "UsersEstimate": 131956
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -4375,7 +4380,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17026
+      "UsersEstimate": 17027
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -4383,7 +4388,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404379
+      "UsersEstimate": 404380
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -4391,7 +4396,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17026
+      "UsersEstimate": 17027
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -4527,7 +4532,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131955
+      "UsersEstimate": 131956
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -4535,22 +4540,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17026
+      "UsersEstimate": 17027
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425662,
+      "Progressed": 425663,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-01T15:58:24.2194273+00:00",
-  "LastChanged_Achievements": "2023-06-03T04:02:28.2289134+00:00",
+  "LastChanged_Achievements": "2023-06-03T05:02:22.5222613+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.1303854+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:58:02.4491255+00:00",
-  "LastUpdate_Achievements": "2023-06-03T04:02:28.2289637+00:00"
+  "LastUpdate_Ratings": "2023-06-03T04:57:54.4599756+00:00",
+  "LastUpdate_Achievements": "2023-06-03T05:02:22.5223125+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -264,9 +264,9 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement4",
@@ -304,9 +304,9 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement9",
@@ -329,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-03T04:05:52.0769803+00:00",
+  "LastChanged_Achievements": "2023-06-03T05:05:43.5661717+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:40.4830963+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:59:41.8138495+00:00",
-  "LastUpdate_Achievements": "2023-06-03T04:05:52.0769955+00:00"
+  "LastUpdate_Ratings": "2023-06-03T04:59:32.2397098+00:00",
+  "LastUpdate_Achievements": "2023-06-03T05:05:43.5661892+00:00"
 }

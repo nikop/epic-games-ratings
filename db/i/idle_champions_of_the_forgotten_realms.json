@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4090,9 +4090,9 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89564,
+  "EOS_Progressed": 89570,
   "EOS_Completed": 1910,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 767,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8460,6 +8460,11 @@
       "Time": "2023-06-03T04:06:01.6959143+00:00",
       "NumProgressed": 89564,
       "NumCompleted": 1910
+    },
+    {
+      "Time": "2023-06-03T05:05:53.2482582+00:00",
+      "NumProgressed": 89570,
+      "NumCompleted": 1910
     }
   ],
   "TotalAchievements": 493,
@@ -10261,9 +10266,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_390",
@@ -12414,21 +12419,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55838,
+      "Progressed": 55844,
       "Completed": 2762
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89564,
+      "Progressed": 89570,
       "Completed": 1910
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-03T04:06:01.6959139+00:00",
+  "LastChanged_Achievements": "2023-06-03T05:05:53.2482578+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:57:49.9598502+00:00",
-  "LastUpdate_Achievements": "2023-06-03T04:06:01.698466+00:00"
+  "LastUpdate_Ratings": "2023-06-03T04:57:42.0722341+00:00",
+  "LastUpdate_Achievements": "2023-06-03T05:05:53.2509422+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 74.00% | ~2,034 |
-| Ready for Winter | 63.00% | ~1,731 |
+| Ready for Winter | 63.00% | ~1,732 |
 | Ready for Summer | 50.00% | ~1,374 |
 | Cordon Bleu | 43.00% | ~1,182 |
 | Tapped! | 35.00% | ~962 |
@@ -16,7 +16,7 @@ Number of Ratings: 266  (23.09.2022)
 | Science, Troglodyte! | 23.00% | ~632 |
 | Exceptional Skill | 22.00% | ~605 |
 | Home Sweet Home | 21.00% | ~577 |
-| Encyclopedic! | 20.00% | ~550 |
+| Encyclopedic! | 19.00% | ~522 |
 | A Fortress Toppled! | 16.00% | ~440 |
 | The Power of Family | 16.00% | ~440 |
 | Apex Predator | 15.00% | ~412 |
@@ -42,14 +42,14 @@ Number of Ratings: 266  (23.09.2022)
 | Power! To! The People! | 2.00% | ~55 |
 | Your actions define you | 2.00% | ~55 |
 | The blood is life | 1.00% | ~27 |
+| They'll Tell Stories About This | 1.00% | ~27 |
 | Vanquisher of nightmares | 1.00% | ~27 |
-| They'll Tell Stories About This | 0.90% | ~25 |
 | Through fire and flame. | 0.70% | ~19 |
 | Legacy of a master hunter | 0.40% | ~11 |
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,748 (Ranked 140)  
+Progressed: 2,749 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 1 (0.04%) (Ranked 183)
 | 2023-05-31 | 2,709 | 1 |
 | 2023-06-01 | 2,727 | 1 |
 | 2023-06-02 | 2,745 | 1 |
-| 2023-06-03 | 2,748 | 1 |
+| 2023-06-03 | 2,749 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 443)  
 Sum: 238 (Ranked 344)  

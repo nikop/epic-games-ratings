@@ -6,11 +6,11 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~404,379 |
+| Found a Friend | 95.00% | ~404,380 |
 | Haikyo | 80.00% | ~340,530 |
 | Good as New | 72.00% | ~306,477 |
 | Into the Woods | 69.00% | ~293,707 |
-| Hunter in the Forest | 60.00% | ~255,397 |
+| Hunter in the Forest | 60.00% | ~255,398 |
 | Rot Commander | 59.00% | ~251,141 |
 | Taro's Fear | 56.00% | ~238,371 |
 | Between the Eyes | 46.00% | ~195,805 |
@@ -21,8 +21,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | The Open Range | 37.00% | ~157,495 |
 | Adira's Love | 34.00% | ~144,725 |
 | Adira's Fear | 32.00% | ~136,212 |
-| Weigh Them Down | 31.00% | ~131,955 |
-| Adira's Regret | 31.00% | ~131,955 |
+| Weigh Them Down | 31.00% | ~131,956 |
+| Adira's Regret | 31.00% | ~131,956 |
 | A Heavy Hammer | 30.00% | ~127,699 |
 | Crossing Over | 29.00% | ~123,442 |
 | Quick Draw | 29.00% | ~123,442 |
@@ -39,16 +39,16 @@ Number of Ratings: 3,313  (23.09.2022)
 | Zen Master | 8.00% | ~34,053 |
 | Curse Collector | 7.00% | ~29,796 |
 | The Last Stop | 7.00% | ~29,796 |
-| Hat Collector | 4.00% | ~17,026 |
-| Restoration Master | 4.00% | ~17,026 |
-| No Stone Unturned | 4.00% | ~17,026 |
+| Hat Collector | 4.00% | ~17,027 |
+| Restoration Master | 4.00% | ~17,027 |
+| No Stone Unturned | 4.00% | ~17,027 |
 | Sharpshooter | 2.00% | ~8,513 |
 | Triple Tap | 1.00% | ~4,257 |
 | Return to Sender | 1.00% | ~4,257 |
 | Triple Threat | 0.90% | ~3,831 |
 | Master Spirit Guide | 0.30% | ~1,277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,662 (Ranked 34)  
+Progressed: 425,663 (Ranked 34)  
 Completed: 504 (0.12%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 504 (0.12%) (Ranked 160)
 | 2023-05-31 | 425,611 | 503 |
 | 2023-06-01 | 425,631 | 503 |
 | 2023-06-02 | 425,659 | 504 |
-| 2023-06-03 | 425,662 | 504 |
+| 2023-06-03 | 425,663 | 504 |
 ## Awards
 Max (Great Boss Battles): 1,299  (Ranked 120)  
 Sum: 1,671 (Ranked 200)  

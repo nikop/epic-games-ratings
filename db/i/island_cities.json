@@ -2,9 +2,9 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 243,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 14.52,
+  "EOS_Completed_Percentage": 14.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1058,6 +1058,11 @@
       "Time": "2023-06-03T02:19:17.6238945+00:00",
       "NumProgressed": 241,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-03T05:05:19.8357536+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 22,
@@ -1069,7 +1074,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 236
+      "UsersEstimate": 238
     },
     {
       "ID": "LEVEL_002",
@@ -1077,7 +1082,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 205
+      "UsersEstimate": 207
     },
     {
       "ID": "LEVEL_003",
@@ -1085,7 +1090,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "LEVEL_004",
@@ -1093,7 +1098,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "LEVEL_005",
@@ -1101,7 +1106,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_006",
@@ -1109,7 +1114,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "LEVEL_007",
@@ -1117,7 +1122,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_008",
@@ -1141,7 +1146,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_011",
@@ -1157,7 +1162,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_013",
@@ -1173,7 +1178,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_015",
@@ -1235,16 +1240,16 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 243,
       "Completed": 35
     }
   ],
@@ -1252,8 +1257,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-03T04:05:28.9347536+00:00",
+  "LastChanged_Achievements": "2023-06-03T05:05:19.8357532+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:57:49.1690385+00:00",
-  "LastUpdate_Achievements": "2023-06-03T04:05:28.9347723+00:00"
+  "LastUpdate_Ratings": "2023-06-03T04:57:41.1523987+00:00",
+  "LastUpdate_Achievements": "2023-06-03T05:05:19.835776+00:00"
 }

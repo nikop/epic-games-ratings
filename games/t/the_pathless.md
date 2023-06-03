@@ -1,7 +1,7 @@
 # The Pathless
 [Store](https://store.epicgames.com/en-US/p/the-pathless)  
 [View Rawdata](../../db/t/the_pathless.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.69 (Ranked 215)  
 Number of Ratings: 57  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -40,3 +40,4 @@ Number of Ratings: 57  (23.09.2022)
 | 2023-01-05 | 4.67 | - | - | - |
 | 2023-03-09 | 4.68 | - | - | - |
 | 2023-03-31 | 4.68 | - | 0 | 0 |
+| 2023-06-03 | 4.69 | - | 0 | 0 |

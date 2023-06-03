@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 384,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -539,9 +539,9 @@
       "ID": "DEFEAT_FLOWERROCKGIANT",
       "SetID": "72k7oh",
       "Name": "Glare",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -777,8 +777,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-06-03T04:02:28.8975602+00:00",
+  "LastChanged_Achievements": "2023-06-03T05:02:23.2343288+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.4730882+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:59:52.501751+00:00",
-  "LastUpdate_Achievements": "2023-06-03T04:02:28.8975972+00:00"
+  "LastUpdate_Ratings": "2023-06-03T04:59:44.5473683+00:00",
+  "LastUpdate_Achievements": "2023-06-03T05:02:23.2343655+00:00"
 }

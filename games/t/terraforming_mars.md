@@ -6,21 +6,21 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 39.00% | ~23,672 |
-| Final touch | 38.00% | ~23,065 |
-| Prop-M Rover | 34.00% | ~20,637 |
-| Changing the Planet | 30.00% | ~18,209 |
-| Sojourner | 28.00% | ~16,995 |
-| New Home | 25.00% | ~15,174 |
-| Beagle 2 | 25.00% | ~15,174 |
-| Winner Winner Terraformer | 24.00% | ~14,567 |
-| Project Manager | 21.00% | ~12,746 |
-| Curiosity | 21.00% | ~12,746 |
-| Collector | 21.00% | ~12,746 |
-| Self-sufficient | 20.00% | ~12,139 |
-| Master | 20.00% | ~12,139 |
-| No Longer Red | 19.00% | ~11,532 |
-| Money money | 17.00% | ~10,318 |
+| It's a steal! | 39.00% | ~23,673 |
+| Final touch | 38.00% | ~23,066 |
+| Prop-M Rover | 34.00% | ~20,638 |
+| Changing the Planet | 30.00% | ~18,210 |
+| Sojourner | 28.00% | ~16,996 |
+| New Home | 25.00% | ~15,175 |
+| Beagle 2 | 25.00% | ~15,175 |
+| Winner Winner Terraformer | 24.00% | ~14,568 |
+| Project Manager | 21.00% | ~12,747 |
+| Curiosity | 21.00% | ~12,747 |
+| Collector | 21.00% | ~12,747 |
+| Self-sufficient | 20.00% | ~12,140 |
+| Master | 20.00% | ~12,140 |
+| No Longer Red | 19.00% | ~11,533 |
+| Money money | 17.00% | ~10,319 |
 | Biggest Reward | 15.00% | ~9,105 |
 | Acquired knowledge | 14.00% | ~8,498 |
 | Hellenic Elysium | 13.00% | ~7,891 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~1,821 |
 | Opportunity | 3.00% | ~1,821 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,697 (Ranked 72)  
+Progressed: 60,699 (Ranked 72)  
 Completed: 65 (0.11%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 65 (0.11%) (Ranked 161)
 | 2023-05-31 | 60,351 | 65 |
 | 2023-06-01 | 60,489 | 65 |
 | 2023-06-02 | 60,668 | 65 |
-| 2023-06-03 | 60,697 | 65 |
+| 2023-06-03 | 60,699 | 65 |
 ## Awards
 Max (Relaxing): 498  (Ranked 186)  
 Sum: 3,071 (Ranked 150)  

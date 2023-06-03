@@ -757,9 +757,9 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Killed100BossesAchievement",
@@ -861,17 +861,17 @@
       "ID": "NoHealthLostIn3LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Stoic",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PerksUnlocked25Achievement",
@@ -1228,8 +1228,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-03T04:05:59.7017482+00:00",
+  "LastChanged_Achievements": "2023-06-03T05:05:51.2083895+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:58:24.8881743+00:00",
-  "LastUpdate_Achievements": "2023-06-03T04:05:59.701943+00:00"
+  "LastUpdate_Ratings": "2023-06-03T04:58:18.6049734+00:00",
+  "LastUpdate_Achievements": "2023-06-03T05:05:51.2086533+00:00"
 }
