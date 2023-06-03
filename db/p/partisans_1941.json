@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 974,
+  "EOS_Progressed": 975,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -880,6 +880,11 @@
       "Time": "2023-06-03T14:06:59.0150468+00:00",
       "NumProgressed": 974,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T17:06:55.1789045+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -971,7 +976,7 @@
       "Name": "E1M1",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Everyone_is_here",
@@ -1019,7 +1024,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "High_noon",
@@ -1083,7 +1088,7 @@
       "Name": "Mosquito bite",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Scout",
@@ -1099,7 +1104,7 @@
       "Name": "Strategist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "War_never_changes",
@@ -1107,7 +1112,7 @@
       "Name": "War Never Changes",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "We_were_not_here",
@@ -1123,22 +1128,22 @@
       "Name": "Your Answer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 974,
+      "Progressed": 975,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:05:57.9843664+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:06:55.1789039+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:08.6221086+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:05:57.9843858+00:00"
+  "LastUpdate_Ratings": "2023-06-03T16:59:48.4513963+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:06:55.1789317+00:00"
 }

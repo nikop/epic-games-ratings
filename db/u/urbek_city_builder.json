@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -873,9 +873,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "POPULATION_2",
@@ -1082,8 +1082,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:06:03.3238689+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:07:01.7777812+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:07.2808901+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:58:47.3133376+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:06:03.3239353+00:00"
+  "LastUpdate_Ratings": "2023-06-03T16:59:18.4721735+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:07:01.7778647+00:00"
 }

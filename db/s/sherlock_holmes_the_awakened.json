@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1097,9 +1097,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "MQ05_1",
@@ -1137,25 +1137,25 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "MQ06_4",
@@ -1226,8 +1226,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:04:06.8918862+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:04:10.2963624+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:57:28.0327665+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:04:06.8919065+00:00"
+  "LastUpdate_Ratings": "2023-06-03T16:57:21.1358064+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:04:10.2964065+00:00"
 }

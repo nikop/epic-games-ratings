@@ -11,22 +11,22 @@
 | Fond Memories | 47.00% | ~166 |
 | History Check | 45.00% | ~159 |
 | A Method To His Madness | 45.00% | ~159 |
+| The New World | 43.00% | ~152 |
 | Lock, Stock, And Barrel | 42.00% | ~149 |
-| The New World | 42.00% | ~149 |
 | Gaze Into The Abyss | 41.00% | ~145 |
 | Open Sesame | 40.00% | ~142 |
 | Sticky Fingers | 40.00% | ~142 |
 | Knives Out | 40.00% | ~142 |
 | Back In The Saddle | 39.00% | ~138 |
-| Land, Ho! | 38.00% | ~135 |
+| Land, Ho! | 39.00% | ~138 |
 | No Man Is An Island | 37.00% | ~131 |
 | At Wits' End | 36.00% | ~127 |
 | Going Once... | 34.00% | ~120 |
-| Bookworm | 33.00% | ~117 |
+| Bookworm | 34.00% | ~120 |
 | Fhtagn! | 33.00% | ~117 |
 | Up In Flames | 32.00% | ~113 |
 | Let Me Be Frank | 31.00% | ~110 |
-| Brain Food | 29.00% | ~103 |
+| Brain Food | 30.00% | ~106 |
 | No Stone Unturned | 28.00% | ~99 |
 | Curiosity Killed The Cat | 18.00% | ~64 |
 | Read It And Weep | 18.00% | ~64 |

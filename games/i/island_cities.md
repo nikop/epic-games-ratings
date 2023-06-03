@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~244 |
-| A tiny town | 86.00% | ~214 |
-| Buildings, roads, cars, ...and people | 67.00% | ~167 |
-| Great view from the beach and from the hill | 57.00% | ~142 |
-| Bridges to come and go | 49.00% | ~122 |
+| Welcome! | 98.00% | ~246 |
+| A tiny town | 85.00% | ~213 |
+| Buildings, roads, cars, ...and people | 67.00% | ~168 |
+| Great view from the beach and from the hill | 57.00% | ~143 |
+| Bridges to come and go | 49.00% | ~123 |
 | Found an oasis | 42.00% | ~105 |
-| Burger or pizza? | 38.00% | ~95 |
-| Passion for sports | 33.00% | ~82 |
-| Who loves trains? | 29.00% | ~72 |
-| Easy and steady climb | 28.00% | ~70 |
+| Burger or pizza? | 37.00% | ~93 |
+| Passion for sports | 32.00% | ~80 |
+| Who loves trains? | 28.00% | ~70 |
+| Easy and steady climb | 27.00% | ~68 |
 | At the heart of the city | 24.00% | ~60 |
 | Calm neighborhood | 22.00% | ~55 |
 | Elevated ring | 22.00% | ~55 |
 | Not lonely anymore | 20.00% | ~50 |
-| Monumental tribute | 19.00% | ~47 |
+| Monumental tribute | 19.00% | ~48 |
 | The beach is right there | 18.00% | ~45 |
 | Commuting | 18.00% | ~45 |
-| Le jardin magnifique | 17.00% | ~42 |
-| Aiming for a living and human city | 15.00% | ~37 |
-| City of dreams | 15.00% | ~37 |
+| Le jardin magnifique | 17.00% | ~43 |
+| Aiming for a living and human city | 15.00% | ~38 |
+| City of dreams | 15.00% | ~38 |
 | Happy Christmas night! | 14.00% | ~35 |
 | Night walk along the beach | 14.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 233)  
-Completed: 35 (14.06%) (Ranked 11)  
+Progressed: 251 (Ranked 233)  
+Completed: 35 (13.94%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,7 +69,7 @@ Completed: 35 (14.06%) (Ranked 11)
 | 2023-05-31 | 220 | 33 |
 | 2023-06-01 | 228 | 34 |
 | 2023-06-02 | 240 | 35 |
-| 2023-06-03 | 249 | 35 |
+| 2023-06-03 | 251 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

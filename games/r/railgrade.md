@@ -1,27 +1,27 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 487)  
+Rating: 4.54 (Ranked 488)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,446 |
-| Before the Downfall | 93.00% | ~17,504 |
-| Money like Water | 91.00% | ~17,128 |
-| Minimalist | 90.00% | ~16,940 |
-| Builder | 83.00% | ~15,622 |
-| Eraser | 70.00% | ~13,175 |
-| Pocket of Trains | 65.00% | ~12,234 |
-| Inspector | 59.00% | ~11,105 |
+| Trevithick's Legacy | 98.00% | ~18,447 |
+| Before the Downfall | 93.00% | ~17,505 |
+| Money like Water | 91.00% | ~17,129 |
+| Minimalist | 90.00% | ~16,941 |
+| Builder | 83.00% | ~15,623 |
+| Eraser | 70.00% | ~13,176 |
+| Pocket of Trains | 65.00% | ~12,235 |
+| Inspector | 59.00% | ~11,106 |
 | Going the Distance | 54.00% | ~10,164 |
-| Oil Baron | 42.00% | ~7,905 |
-| Loads-a-Money | 42.00% | ~7,905 |
+| Oil Baron | 42.00% | ~7,906 |
+| Loads-a-Money | 42.00% | ~7,906 |
 | Helper of the People | 39.00% | ~7,341 |
-| Simplification | 34.00% | ~6,399 |
-| Box of Trains | 33.00% | ~6,211 |
+| Simplification | 34.00% | ~6,400 |
+| Box of Trains | 33.00% | ~6,212 |
 | Let There be Light | 32.00% | ~6,023 |
 | Hot Water | 31.00% | ~5,835 |
-| Indecisive | 29.00% | ~5,458 |
+| Indecisive | 29.00% | ~5,459 |
 | The scenic route | 27.00% | ~5,082 |
 | Industrialist | 25.00% | ~4,706 |
 | Perfectionist | 23.00% | ~4,329 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 487)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,822 (Ranked 97)  
+Progressed: 18,823 (Ranked 97)  
 Completed: 30 (0.16%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 30 (0.16%) (Ranked 149)
 | 2023-05-31 | 18,770 | 29 |
 | 2023-06-01 | 18,787 | 29 |
 | 2023-06-02 | 18,799 | 30 |
-| 2023-06-03 | 18,822 | 30 |
+| 2023-06-03 | 18,823 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 344)  
 Sum: 649 (Ranked 275)  

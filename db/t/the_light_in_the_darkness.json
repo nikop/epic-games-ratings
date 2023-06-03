@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523,
+  "EOS_Progressed": 1524,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 8.08,
+  "EOS_Completed_Percentage": 8.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2138,6 +2138,11 @@
       "Time": "2023-06-03T16:05:48.6755088+00:00",
       "NumProgressed": 1523,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-06-03T17:06:43.0204852+00:00",
+      "NumProgressed": 1524,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 12,
@@ -2181,7 +2186,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "Jakob",
@@ -2213,7 +2218,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2244,7 +2249,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1523,
+      "Progressed": 1524,
       "Completed": 123
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:05:48.6755081+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:06:43.0204845+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:25.3374566+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:05:48.6755251+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:00:10.3877504+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:06:43.0205378+00:00"
 }

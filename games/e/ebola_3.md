@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 56.00% | ~102 |
+| Fright ✔ | 56.00% | ~103 |
 | Chest ✔ | 55.00% | ~101 |
-| Inventory ✔ | 53.00% | ~97 |
-| Police officers ✔ | 28.00% | ~51 |
+| Inventory ✔ | 53.00% | ~98 |
+| Police officers ✔ | 28.00% | ~52 |
 | Mutation ✔ | 26.00% | ~48 |
 | Doberman ✔ | 14.00% | ~26 |
 | Chess ✔ | 10.00% | ~18 |
 | Weapon ✔ | 10.00% | ~18 |
-| Master of Unlocking ✔ | 9.00% | ~16 |
+| Master of Unlocking ✔ | 9.00% | ~17 |
 | Survival ✔ | 8.00% | ~15 |
 | Cheats ✔ | 7.00% | ~13 |
 | Hospital ✔ | 7.00% | ~13 |
@@ -35,14 +35,14 @@
 | City on fire ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
 | Broadcasting ✔ | 4.00% | ~7 |
-| Crocodile Attack ✔ | 3.00% | ~5 |
-| Secret ✔ | 3.00% | ~5 |
-| Boss 2 ✔ | 3.00% | ~5 |
-| Group Alpha ✔ | 3.00% | ~5 |
-| The escape ✔ | 3.00% | ~5 |
-| Priest ✔ | 3.00% | ~5 |
-| Rank B+ ✔ | 3.00% | ~5 |
-| Boss 3 ✔ | 3.00% | ~5 |
+| Crocodile Attack ✔ | 3.00% | ~6 |
+| Secret ✔ | 3.00% | ~6 |
+| Boss 2 ✔ | 3.00% | ~6 |
+| Group Alpha ✔ | 3.00% | ~6 |
+| The escape ✔ | 3.00% | ~6 |
+| Priest ✔ | 3.00% | ~6 |
+| Rank B+ ✔ | 3.00% | ~6 |
+| Boss 3 ✔ | 3.00% | ~6 |
 | Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |
 | Seeker Three ✔ | 2.00% | ~4 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.50% | ~1 |
 | Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 249)  
+Progressed: 184 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-27 | 181 | 0 |
 | 2023-05-28 | 182 | 0 |
 | 2023-06-02 | 183 | 0 |
+| 2023-06-03 | 184 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -111,6 +111,11 @@
       "Time": "2023-06-03T12:06:24.69221+00:00",
       "NumProgressed": 208,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-03T17:06:49.2841102+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -122,7 +127,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "605742",
@@ -146,7 +151,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "605772",
@@ -170,7 +175,7 @@
       "Name": "Creator of Modernity",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "605802",
@@ -186,7 +191,7 @@
       "Name": "God of Fun",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "605822",
@@ -218,7 +223,7 @@
       "Name": "Doodle Bar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "605862",
@@ -226,7 +231,7 @@
       "Name": "Half the Kingdom",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "605872",
@@ -242,15 +247,15 @@
       "Name": "Similar to Similar",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "605912",
       "SetID": "4lpaifm",
       "Name": "Master of Alchemy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "605942",
@@ -258,7 +263,7 @@
       "Name": "Master of the Worlds",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "610000",
@@ -280,9 +285,9 @@
       "ID": "740512",
       "SetID": "4lpaifm",
       "Name": "Honorable Santa",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "844452",
@@ -297,7 +302,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 8
     }
   ],
@@ -305,8 +310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:05:53.3723883+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:06:49.284109+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:46.6877833+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:19.1393819+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:05:53.372398+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:00:00.8623308+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:06:49.2841256+00:00"
 }

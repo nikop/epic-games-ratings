@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2574,10 +2574,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6688,
       "NumberOfAwardsMax": 1648
+    },
+    {
+      "Time": "2023-06-03T16:58:38.1745161+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6689,
+      "NumberOfAwardsMax": 1648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6688,
+  "NumberOfAwards": 6689,
   "NumberOfAwardsMax": 1648,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2627,7 +2633,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 525
+      "Count": 526
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2648,9 +2654,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9477,
+  "EOS_Progressed": 9478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5378,6 +5384,11 @@
       "Time": "2023-06-03T14:07:11.9883693+00:00",
       "NumProgressed": 9477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T17:07:08.4386025+00:00",
+      "NumProgressed": 9478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5397,7 +5408,7 @@
       "Name": "Burning City",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -5757,7 +5768,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "49_Flame",
@@ -6316,21 +6327,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8259,
+      "Progressed": 8260,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9477,
+      "Progressed": 9478,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-03T07:58:38.5642327+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:06:08.7764792+00:00",
+  "LastChanged": "2023-06-03T16:58:38.1745159+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:07:08.4386019+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:58:21.470296+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:06:08.7766124+00:00"
+  "LastUpdate_Ratings": "2023-06-03T16:58:38.1745169+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:07:08.4387817+00:00"
 }

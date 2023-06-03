@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1005,7 +1005,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6071,
+  "EOS_Progressed": 6072,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
@@ -4630,6 +4630,11 @@
       "Time": "2023-06-03T16:02:24.0119228+00:00",
       "NumProgressed": 6071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T17:02:13.4164924+00:00",
+      "NumProgressed": 6072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4641,7 +4646,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3703
+      "UsersEstimate": 3704
     },
     {
       "ID": "10",
@@ -4649,7 +4654,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "11",
@@ -4681,7 +4686,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "15",
@@ -4697,7 +4702,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "17",
@@ -4745,15 +4750,15 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "22",
       "SetID": "8idi9ml",
       "Name": "First Step",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4250
+      "UsersEstimate": 4311
     },
     {
       "ID": "23",
@@ -4793,7 +4798,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "28",
@@ -4865,7 +4870,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "36",
@@ -4881,7 +4886,7 @@
       "Name": "Spreading Influence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "38",
@@ -4897,7 +4902,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "4",
@@ -4961,7 +4966,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "47",
@@ -4969,7 +4974,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "48",
@@ -4985,7 +4990,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "5",
@@ -5112,15 +5117,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6071,
+      "Progressed": 6072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:02:24.0119223+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:02:13.4164915+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:49.0768981+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:02:24.0120007+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:00:42.761628+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:02:13.4165795+00:00"
 }

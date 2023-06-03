@@ -5,15 +5,15 @@ Rating: 3.95 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,185 |
-| World Map | 80.00% | ~1,009 |
-| Temple of Eternals | 56.00% | ~706 |
-| Prestigious | 53.00% | ~668 |
-| Fellowship Power | 40.00% | ~504 |
+| Victor | 94.00% | ~1,186 |
+| World Map | 80.00% | ~1,010 |
+| Temple of Eternals | 56.00% | ~707 |
+| Prestigious | 53.00% | ~669 |
+| Fellowship Power | 40.00% | ~505 |
 | Guild Power | 24.00% | ~303 |
 | Prestigious x10 | 21.00% | ~265 |
 | The game is on | 19.00% | ~240 |
-| Exotic Merchant | 17.00% | ~214 |
+| Exotic Merchant | 17.00% | ~215 |
 | Dragon Clicker | 16.00% | ~202 |
 | Miner Clicker | 16.00% | ~202 |
 | Inspection | 15.00% | ~189 |
@@ -27,7 +27,7 @@ Rating: 3.95 (Ranked 903)
 | Natural Talent | 11.00% | ~139 |
 | Superior | 11.00% | ~139 |
 | The Unstoppable | 11.00% | ~139 |
-| Scientist | 9.00% | ~113 |
+| Scientist | 9.00% | ~114 |
 | Challenger | 8.00% | ~101 |
 | Daily Quest Completionist | 8.00% | ~101 |
 | Hunter | 7.00% | ~88 |
@@ -81,8 +81,8 @@ Rating: 3.95 (Ranked 903)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,261 (Ranked 161)  
-Completed: 1 (0.08%) (Ranked 171)  
+Progressed: 1,262 (Ranked 161)  
+Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 171)
 | 2023-05-31 | 1,239 | 1 |
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
-| 2023-06-03 | 1,261 | 1 |
+| 2023-06-03 | 1,262 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

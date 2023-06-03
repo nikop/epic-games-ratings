@@ -23,7 +23,7 @@
 | Master of Unlocking ✔ | 0.00% | ~0 |
 | Saved the planet ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 242)  
+Progressed: 207 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,4 +49,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-29 | 198 | 0 |
 | 2023-05-31 | 202 | 0 |
 | 2023-06-02 | 203 | 0 |
-| 2023-06-03 | 206 | 0 |
+| 2023-06-03 | 207 | 0 |

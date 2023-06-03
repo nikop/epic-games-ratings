@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1067,6 +1067,11 @@
       "Time": "2023-06-03T14:07:01.6220989+00:00",
       "NumProgressed": 896,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T17:06:57.8627012+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1126,7 +1131,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -1134,7 +1139,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "EXPERT_1",
@@ -1254,7 +1259,7 @@
       "Name": "Paranoia",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "PRIVATE_EYE",
@@ -1365,15 +1370,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:05:59.9378561+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:06:57.8627003+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:57.4610446+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:05:59.937879+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:00:55.1837613+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:06:57.8627337+00:00"
 }

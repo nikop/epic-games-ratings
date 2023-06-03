@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~8,556 |
-| Mama? | 28.00% | ~3,152 |
-| People's Haven | 19.00% | ~2,139 |
-| Cartographer | 18.00% | ~2,026 |
-| Knowledge for Power | 15.00% | ~1,689 |
-| Antlers of Stone | 15.00% | ~1,689 |
-| Gaze into the abyss | 14.00% | ~1,576 |
-| Mausoleum of Ice | 14.00% | ~1,576 |
-| Equilibrium | 13.00% | ~1,464 |
-| In the belly of the beast | 12.00% | ~1,351 |
-| Wings of Stone | 12.00% | ~1,351 |
-| Condor condo | 10.00% | ~1,126 |
-| Memorial | 9.00% | ~1,013 |
+| Light at the end of the tunnel | 76.00% | ~8,563 |
+| Mama? | 28.00% | ~3,155 |
+| People's Haven | 19.00% | ~2,141 |
+| Cartographer | 18.00% | ~2,028 |
+| Knowledge for Power | 15.00% | ~1,690 |
+| Antlers of Stone | 15.00% | ~1,690 |
+| Gaze into the abyss | 14.00% | ~1,577 |
+| Mausoleum of Ice | 14.00% | ~1,577 |
+| Equilibrium | 13.00% | ~1,465 |
+| In the belly of the beast | 12.00% | ~1,352 |
+| Wings of Stone | 12.00% | ~1,352 |
+| Condor condo | 10.00% | ~1,127 |
+| Memorial | 9.00% | ~1,014 |
 | An uninvited guest | 8.00% | ~901 |
-| Written in stone | 7.00% | ~788 |
-| Talk to all the spirit animals | 7.00% | ~788 |
-| Ripples on the surface | 6.00% | ~675 |
-| Tails of Stone | 6.00% | ~675 |
-| Baa from the past | 6.00% | ~675 |
+| Written in stone | 7.00% | ~789 |
+| Talk to all the spirit animals | 7.00% | ~789 |
+| Ripples on the surface | 6.00% | ~676 |
+| Tails of Stone | 6.00% | ~676 |
+| Baa from the past | 6.00% | ~676 |
 | Hide and Seek | 5.00% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,258 (Ranked 107)  
+Progressed: 11,267 (Ranked 107)  
 Completed: 244 (2.17%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 244 (2.17%) (Ranked 61)
 | 2023-05-31 | 11,006 | 235 |
 | 2023-06-01 | 11,091 | 241 |
 | 2023-06-02 | 11,190 | 241 |
-| 2023-06-03 | 11,258 | 244 |
+| 2023-06-03 | 11,267 | 244 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

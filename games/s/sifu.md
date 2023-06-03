@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~657 |
+| Diligence as a goal | 4.00% | ~658 |
 | Project Arena | 3.00% | ~493 |
 | The Old Grandmaster | 1.00% | ~7,071 |
 | The Assault | 1.00% | ~7,071 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,132 (Ranked 15)  
+Progressed: 707,142 (Ranked 15)  
 Completed: 12,753 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,16 +101,16 @@ Completed: 12,753 (1.80%) (Ranked 67)
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
-| 2023-06-03 | 707,132 | 12,753 |
+| 2023-06-03 | 707,142 | 12,753 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
-Sum: 10,453 (Ranked 78)  
+Sum: 10,455 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,130 |
 | This game has Diverse Characters | 522 |
-| This game has Challenging Combat | 516 |
+| This game has Challenging Combat | 518 |
 | This game has Quickly Understood Controls | 507 |
 | This game is Extremely Fun | 502 |
 | This game has Amazing Storytelling | 498 |
@@ -260,4 +260,4 @@ Diff (max vs sum): -25
 | 2023-05-31 | 4.82 | - | 6,114 | 10,422 |
 | 2023-06-01 | 4.82 | - | 6,119 | 10,434 |
 | 2023-06-02 | 4.82 | - | 6,122 | 10,445 |
-| 2023-06-03 | 4.82 | - | 6,130 | 10,453 |
+| 2023-06-03 | 4.82 | - | 6,130 | 10,455 |

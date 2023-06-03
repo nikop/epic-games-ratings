@@ -1,36 +1,36 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.32 (Ranked 747)  
+Rating: 4.32 (Ranked 746)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~899 |
-| Ranidaphobia | 73.00% | ~721 |
-| Aspiring Editor | 70.00% | ~692 |
-| Gun for Hire | 65.00% | ~642 |
-| I am the law! | 56.00% | ~553 |
-| Lumberjack | 41.00% | ~405 |
-| Croaked | 36.00% | ~356 |
+| First Blood | 92.00% | ~910 |
+| Ranidaphobia | 74.00% | ~732 |
+| Aspiring Editor | 71.00% | ~702 |
+| Gun for Hire | 65.00% | ~643 |
+| I am the law! | 56.00% | ~554 |
+| Lumberjack | 42.00% | ~415 |
+| Croaked | 37.00% | ~366 |
 | Limp Richard | 35.00% | ~346 |
 | Firestarter | 34.00% | ~336 |
 | From Darkness to Light | 34.00% | ~336 |
 | Editor Adept | 32.00% | ~316 |
 | Exorcist | 32.00% | ~316 |
-| Giant Killer | 27.00% | ~267 |
+| Giant Killer | 28.00% | ~277 |
 | Sensei | 27.00% | ~267 |
 | The meaning of Kain | 26.00% | ~257 |
-| Technophobe | 21.00% | ~207 |
+| Technophobe | 21.00% | ~208 |
 | Recycler | 19.00% | ~188 |
 | Chain Killer | 17.00% | ~168 |
 | Hold The Line | 16.00% | ~158 |
 | Are you not entertained? | 15.00% | ~148 |
+| Ganglord | 15.00% | ~148 |
 | Jarhead | 15.00% | ~148 |
 | There Can Be Only One! | 15.00% | ~148 |
-| Ganglord | 14.00% | ~138 |
 | Infiltrator | 14.00% | ~138 |
 | Pushing Daisy | 14.00% | ~138 |
-| Newtonian Knockout | 13.00% | ~128 |
+| Newtonian Knockout | 13.00% | ~129 |
 | Experienced | 12.00% | ~119 |
 | Ruthless | 10.00% | ~99 |
 | The Watchers | 10.00% | ~99 |
@@ -44,10 +44,10 @@ Rating: 4.32 (Ranked 747)
 | Wipe Out | 5.00% | ~49 |
 | Side Order | 4.00% | ~40 |
 | Bot Whisperer | 3.00% | ~30 |
-| Dressed To Kill | 2.00% | ~20 |
+| Dressed To Kill | 3.00% | ~30 |
 | Cruelty | 1.00% | ~10 |
+| Fratricide | 0.60% | ~6 |
 | Five Finger Deathcount | 0.50% | ~5 |
-| Fratricide | 0.50% | ~5 |
 | Alpha Editor | 0.30% | ~3 |
 | Goaaaaal! | 0.30% | ~3 |
 | QA Has Suffered! (Redux) | 0.30% | ~3 |
@@ -57,7 +57,7 @@ Rating: 4.32 (Ranked 747)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 988 (Ranked 172)  
+Progressed: 989 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
-| 2023-06-03 | 988 | 0 |
+| 2023-06-03 | 989 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

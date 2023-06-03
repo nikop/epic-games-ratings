@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~948 |
-| Lovebirds | 51.00% | ~612 |
-| Life’s short, ride long | 46.00% | ~552 |
-| Hug therapy | 45.00% | ~540 |
-| Over my dead body | 42.00% | ~504 |
-| Shake the rust off their feet | 22.00% | ~264 |
-| Strike! | 20.00% | ~240 |
-| My little pony | 20.00% | ~240 |
-| A love supreme | 19.00% | ~228 |
-| In my shoes | 18.00% | ~216 |
-| Like new! | 15.00% | ~180 |
-| Heartstrings | 14.00% | ~168 |
-| Head in the clouds | 14.00% | ~168 |
-| Don't look back | 13.00% | ~156 |
+| Balding bloot! | 79.00% | ~951 |
+| Lovebirds | 51.00% | ~614 |
+| Life’s short, ride long | 46.00% | ~554 |
+| Hug therapy | 45.00% | ~542 |
+| Over my dead body | 41.00% | ~494 |
+| Shake the rust off their feet | 22.00% | ~265 |
+| Strike! | 20.00% | ~241 |
+| My little pony | 20.00% | ~241 |
+| A love supreme | 19.00% | ~229 |
+| In my shoes | 18.00% | ~217 |
+| Like new! | 15.00% | ~181 |
+| Heartstrings | 14.00% | ~169 |
+| Head in the clouds | 14.00% | ~169 |
+| Don't look back | 13.00% | ~157 |
 | Back to rust | 12.00% | ~144 |
 | Flower Powered | 12.00% | ~144 |
 | Perfect timing | 10.00% | ~120 |
 | Unstoppable | 10.00% | ~120 |
 | Ain't no mountain high enough | 9.00% | ~108 |
 | Self-sustainability | 8.00% | ~96 |
-| An eye for an eye | 6.00% | ~72 |
-| Can't get wetter... | 5.00% | ~60 |
 | Spring cleaning | 5.00% | ~60 |
+| An eye for an eye | 5.00% | ~60 |
 | Second thoughts | 4.00% | ~48 |
 | Mooning the moon | 4.00% | ~48 |
+| Can't get wetter... | 4.00% | ~48 |
 | Strip-a-bobble | 4.00% | ~48 |
 | Pearls before Birble | 3.00% | ~36 |
 | Last minute | 3.00% | ~36 |
 | Thar she blows | 2.00% | ~24 |
 | À la carte | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 165)  
-Completed: 8 (0.67%) (Ranked 106)  
+Progressed: 1,204 (Ranked 165)  
+Completed: 8 (0.66%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 8 (0.67%) (Ranked 106)
 | 2023-05-31 | 1,185 | 8 |
 | 2023-06-01 | 1,190 | 8 |
 | 2023-06-02 | 1,196 | 8 |
-| 2023-06-03 | 1,200 | 8 |
+| 2023-06-03 | 1,204 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

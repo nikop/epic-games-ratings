@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2898,
+  "EOS_Progressed": 2900,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1749,6 +1749,11 @@
       "Time": "2023-06-03T16:06:03.9646658+00:00",
       "NumProgressed": 2898,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-03T17:07:02.5433472+00:00",
+      "NumProgressed": 2900,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1758,9 +1763,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 406
     },
     {
       "ID": "bonus2",
@@ -1808,7 +1813,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2610
     },
     {
       "ID": "campaign10",
@@ -1896,7 +1901,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2320
     },
     {
       "ID": "campaign20",
@@ -1912,7 +1917,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "campaign4",
@@ -1920,7 +1925,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "campaign5",
@@ -1944,7 +1949,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "campaign8",
@@ -1968,7 +1973,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "scenario2",
@@ -2023,7 +2028,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2898,
+      "Progressed": 2900,
       "Completed": 9
     }
   ],
@@ -2031,8 +2036,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:06:03.9646655+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:07:02.5433465+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:59.8623787+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:06:03.9646912+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:00:58.9909573+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:07:02.5433832+00:00"
 }

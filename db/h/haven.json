@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,11 +168,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1204,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -638,6 +638,11 @@
       "Time": "2023-06-03T16:05:58.5999204+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-03T17:06:55.953063+00:00",
+      "NumProgressed": 1204,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -649,7 +654,7 @@
       "Name": "Lovebirds",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 614
     },
     {
       "ID": "10",
@@ -665,7 +670,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "12",
@@ -673,7 +678,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "13",
@@ -705,7 +710,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "17",
@@ -713,7 +718,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 951
     },
     {
       "ID": "18",
@@ -721,7 +726,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "19",
@@ -745,7 +750,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "21",
@@ -759,9 +764,9 @@
       "ID": "22",
       "SetID": "n50no0",
       "Name": "Can\u0027t get wetter...",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 48
     },
     {
       "ID": "23",
@@ -777,7 +782,7 @@
       "Name": "In my shoes",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "25",
@@ -785,7 +790,7 @@
       "Name": "Heartstrings",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "27",
@@ -801,7 +806,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "3",
@@ -809,7 +814,7 @@
       "Name": "Hug therapy",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 542
     },
     {
       "ID": "30",
@@ -841,15 +846,15 @@
       "Name": "Head in the clouds",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "5",
       "SetID": "n50no0",
       "Name": "An eye for an eye",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 60
     },
     {
       "ID": "6",
@@ -857,7 +862,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 554
     },
     {
       "ID": "7",
@@ -871,9 +876,9 @@
       "ID": "8",
       "SetID": "n50no0",
       "Name": "Over my dead body",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 494
     },
     {
       "ID": "9",
@@ -888,15 +893,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1204,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:05:58.5999199+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:06:55.9530626+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:25.2105455+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:05:58.5999396+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:00:10.2029954+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:06:55.9531048+00:00"
 }

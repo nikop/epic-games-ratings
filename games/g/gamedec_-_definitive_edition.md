@@ -1,28 +1,28 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.32 (Ranked 747)  
+Rating: 4.32 (Ranked 746)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,298 |
-| Powergamer | 27.00% | ~62,001 |
-| Barely scratched the surface | 25.00% | ~57,408 |
-| Write that down | 24.00% | ~55,112 |
-| Guns, lots of guns | 12.00% | ~27,556 |
-| Collector | 11.00% | ~25,260 |
-| Elementary! | 8.00% | ~18,371 |
-| Pumpkin Jack | 8.00% | ~18,371 |
-| Wake up! | 8.00% | ~18,371 |
-| It's honest work | 7.00% | ~16,074 |
-| Griever | 7.00% | ~16,074 |
-| Me smart | 6.00% | ~13,778 |
+| I will finish what you started | 28.00% | ~64,300 |
+| Powergamer | 27.00% | ~62,004 |
+| Barely scratched the surface | 25.00% | ~57,411 |
+| Write that down | 24.00% | ~55,115 |
+| Guns, lots of guns | 12.00% | ~27,557 |
+| Collector | 11.00% | ~25,261 |
+| Elementary! | 8.00% | ~18,372 |
+| Pumpkin Jack | 8.00% | ~18,372 |
+| Wake up! | 8.00% | ~18,372 |
+| It's honest work | 7.00% | ~16,075 |
+| Griever | 7.00% | ~16,075 |
+| Me smart | 6.00% | ~13,779 |
 | Good listener | 5.00% | ~11,482 |
 | Trash compactor | 5.00% | ~11,482 |
 | Valedictorian | 5.00% | ~11,482 |
-| BOY! | 4.00% | ~9,185 |
-| Ka-ching! | 4.00% | ~9,185 |
+| BOY! | 4.00% | ~9,186 |
+| Ka-ching! | 4.00% | ~9,186 |
 | I like to sniff around | 3.00% | ~6,889 |
 | Mind reader | 3.00% | ~6,889 |
 | So you like to read? | 3.00% | ~6,889 |
@@ -45,8 +45,8 @@ Number of Ratings: 33  (23.09.2022)
 | The power of three | 0.90% | ~2,067 |
 | Let's try another | 0.80% | ~1,837 |
 | Home run | 0.80% | ~1,837 |
-| I have the high ground | 0.70% | ~1,607 |
-| It's blue, always blue | 0.70% | ~1,607 |
+| I have the high ground | 0.70% | ~1,608 |
+| It's blue, always blue | 0.70% | ~1,608 |
 | Who wouldn't love a troll? | 0.50% | ~1,148 |
 | Enjoy these little moments | 0.40% | ~919 |
 | Irondec | 0.40% | ~919 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~459 |
 | Memory 5 | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,634 (Ranked 44)  
+Progressed: 229,644 (Ranked 44)  
 Completed: 5 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 5 (0.00%) (Ranked 211)
 | 2023-05-31 | 229,049 | 5 |
 | 2023-06-01 | 229,259 | 5 |
 | 2023-06-02 | 229,468 | 5 |
-| 2023-06-03 | 229,634 | 5 |
+| 2023-06-03 | 229,644 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 360)  
 Sum: 73 (Ranked 418)  

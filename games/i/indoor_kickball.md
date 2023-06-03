@@ -10,19 +10,19 @@
 | Homer | 68.00% | ~27 |
 | Kickball Unlocked | 65.00% | ~26 |
 | Have a good trip! | 63.00% | ~25 |
-| First Win | 57.00% | ~23 |
+| First Win | 60.00% | ~24 |
 | Stay Hydrated | 57.00% | ~23 |
-| Settle Down | 53.00% | ~21 |
+| Settle Down | 55.00% | ~22 |
 | Butter Fingers | 48.00% | ~19 |
 | True Story! | 33.00% | ~13 |
+| Grand Slam! | 28.00% | ~11 |
 | Kick It | 28.00% | ~11 |
-| Grand Slam! | 25.00% | ~10 |
 | Have Mercy | 25.00% | ~10 |
 | Bedroom Secret Spot | 23.00% | ~9 |
 | Save some water for the fishies | 20.00% | ~8 |
 | Spooky | 20.00% | ~8 |
-| Bathroom Secret Spot | 15.00% | ~6 |
-| Classroom Secret Spot | 8.00% | ~3 |
+| Bathroom Secret Spot | 18.00% | ~7 |
+| Classroom Secret Spot | 10.00% | ~4 |
 | Kitchen Secret Spot | 8.00% | ~3 |
 | Living Room Secret Spot | 8.00% | ~3 |
 | At least everyone still had fun | 8.00% | ~3 |
@@ -45,7 +45,7 @@
 | Angry Mom | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 308)  
+Progressed: 40 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |

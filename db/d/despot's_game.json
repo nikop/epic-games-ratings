@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -230,6 +230,11 @@
       "Time": "2023-06-03T06:05:57.7379609+00:00",
       "NumProgressed": 388,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T17:06:49.5588984+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -273,7 +278,7 @@
       "Name": "Frugal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "collect-discounted-items2",
@@ -297,7 +302,7 @@
       "Name": "Party",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "different-items2",
@@ -361,7 +366,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "finished-quest-reaper",
@@ -447,9 +452,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "win-first-biom",
@@ -457,7 +462,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "win-first-level",
@@ -465,7 +470,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "win-koth-fights1",
@@ -497,7 +502,7 @@
       "Name": "Through the Darkness",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "win-with-3-cultists",
@@ -520,7 +525,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 1
     }
   ],
@@ -528,8 +533,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:05:53.6103975+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:06:49.5588977+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:58:41.5353867+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:05:53.6104183+00:00"
+  "LastUpdate_Ratings": "2023-06-03T16:59:09.3904437+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:06:49.5589233+00:00"
 }

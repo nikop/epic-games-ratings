@@ -2,10 +2,10 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -743,6 +743,11 @@
       "Time": "2023-06-02T10:06:39.8280946+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T17:07:05.5735034+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -778,7 +783,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achBett",
@@ -866,7 +871,7 @@
       "Name": "Crocodile Attack \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achCrow",
@@ -882,7 +887,7 @@
       "Name": "Secret \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achDictator",
@@ -890,7 +895,7 @@
       "Name": "Boss 2 \u2714",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achDog",
@@ -946,7 +951,7 @@
       "Name": "Group Alpha \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achKloyn",
@@ -954,7 +959,7 @@
       "Name": "Fright \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achLizun",
@@ -1018,7 +1023,7 @@
       "Name": "The escape \u2714",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achPolice",
@@ -1026,7 +1031,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achPriest",
@@ -1034,7 +1039,7 @@
       "Name": "Priest \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achRankOne",
@@ -1042,7 +1047,7 @@
       "Name": "Rank B\u002B \u2714",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achRankThree",
@@ -1082,7 +1087,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achShahmat",
@@ -1146,14 +1151,14 @@
       "Name": "Boss 3 \u2714",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
@@ -1161,8 +1166,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:06:06.2528537+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:07:05.5735027+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:42.5740801+00:00",
-  "LastUpdate_Ratings": "2023-06-03T16:00:02.1615328+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:06:06.2528908+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:01:02.268094+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:07:05.5735531+00:00"
 }

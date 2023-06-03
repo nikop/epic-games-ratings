@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1489,10 +1489,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2385,
       "NumberOfAwardsMax": 780
+    },
+    {
+      "Time": "2023-06-03T17:00:32.0975591+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2386,
+      "NumberOfAwardsMax": 780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2385,
+  "NumberOfAwards": 2386,
   "NumberOfAwardsMax": 780,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1536,7 +1542,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 181
+      "Count": 182
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1569,9 +1575,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42576,
+  "EOS_Progressed": 42577,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3094,6 +3100,11 @@
       "Time": "2023-06-03T16:06:07.7677488+00:00",
       "NumProgressed": 42576,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-03T17:07:07.2695357+00:00",
+      "NumProgressed": 42577,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3105,7 +3116,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25971
+      "UsersEstimate": 25972
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -3161,7 +3172,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11921
+      "UsersEstimate": 11922
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -3177,7 +3188,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17456
+      "UsersEstimate": 17457
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -3297,7 +3308,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26397
+      "UsersEstimate": 26398
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3321,7 +3332,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18733
+      "UsersEstimate": 18734
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3353,7 +3364,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20436
+      "UsersEstimate": 20437
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -3393,7 +3404,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15327
+      "UsersEstimate": 15328
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3401,7 +3412,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17456
+      "UsersEstimate": 17457
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -3425,7 +3436,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15327
+      "UsersEstimate": 15328
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -3481,7 +3492,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15327
+      "UsersEstimate": 15328
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -3497,7 +3508,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18733
+      "UsersEstimate": 18734
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3505,7 +3516,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27674
+      "UsersEstimate": 27675
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3561,7 +3572,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27674
+      "UsersEstimate": 27675
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3609,7 +3620,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6387
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -3625,22 +3636,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15327
+      "UsersEstimate": 15328
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42576,
+      "Progressed": 42577,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-06-03T15:59:41.8193987+00:00",
-  "LastChanged_Achievements": "2023-06-03T16:06:07.7677483+00:00",
+  "LastChanged": "2023-06-03T17:00:32.0975589+00:00",
+  "LastChanged_Achievements": "2023-06-03T17:07:07.2695352+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:59:41.8193993+00:00",
-  "LastUpdate_Achievements": "2023-06-03T16:06:07.7678002+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:00:32.0975597+00:00",
+  "LastUpdate_Achievements": "2023-06-03T17:07:07.269658+00:00"
 }
