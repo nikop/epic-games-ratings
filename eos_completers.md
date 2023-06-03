@@ -28,7 +28,7 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.14% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.12% |
 | 30 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.92% |
@@ -37,7 +37,7 @@
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 37 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.92% |
-| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.89% |
+| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.49% |
@@ -67,9 +67,9 @@
 | 65 | [JARS](games/j/jars.md) | 2.08% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.67% |
-| 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
+| 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
+| 69 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.63% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
 | 71 | [Night Book](games/n/night_book.md) | 1.59% |
 | 71 | [Somerville](games/s/somerville.md) | 1.59% |

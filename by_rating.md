@@ -94,7 +94,7 @@
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 592 | 169 |
 | 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 724 | 154 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,869 | 55 |
-| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 369 | 207 |
+| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 369 | 208 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 117 | 309 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 493 |
 | 89 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 493 |
@@ -406,7 +406,7 @@
 | 385 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 493 |
 | 405 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 405 |
 | 405 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 0 | 493 |
-| 405 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 57,349 | 10 |
+| 405 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 57,400 | 10 |
 | 405 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 614 | 165 |
 | 405 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 136 | 293 |
 | 405 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 0 | 493 |
@@ -462,6 +462,7 @@
 | 452 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 493 |
 | 452 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 141 | 289 |
 | 452 | [Isonzo](games/i/isonzo.md) | 4.56 | 31 | 443 |
+| 452 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 70 | 365 |
 | 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 493 |
 | 452 | [Minit](games/m/minit.md) | 4.56 | 0 | 493 |
 | 452 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,740 | 65 |
@@ -471,21 +472,20 @@
 | 452 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 353 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 50 | 389 |
 | 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,970 | 76 |
-| 472 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 493 |
-| 472 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,211 | 124 |
-| 472 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.55 | 34 | 430 |
-| 472 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 481 |
-| 472 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 206 | 257 |
-| 472 | [Hue](games/h/hue.md) | 4.55 | 0 | 493 |
-| 472 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 70 | 365 |
-| 472 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 22 | 475 |
-| 472 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 443 |
-| 472 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 493 |
-| 472 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 0 | 493 |
-| 472 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 851 | 146 |
-| 472 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 341 |
-| 472 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 493 |
-| 472 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,169 | 127 |
+| 473 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 493 |
+| 473 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,211 | 124 |
+| 473 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.55 | 34 | 430 |
+| 473 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 481 |
+| 473 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 206 | 257 |
+| 473 | [Hue](games/h/hue.md) | 4.55 | 0 | 493 |
+| 473 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 22 | 475 |
+| 473 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 443 |
+| 473 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 493 |
+| 473 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 0 | 493 |
+| 473 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 851 | 146 |
+| 473 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 341 |
+| 473 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 493 |
+| 473 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,169 | 127 |
 | 487 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.54 | 0 | 493 |
 | 487 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,144 | 72 |
 | 487 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 433 |
@@ -896,7 +896,7 @@
 | 893 | [Banished](games/b/banished.md) | 4.00 | 0 | 493 |
 | 893 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 493 |
 | 893 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 493 |
-| 897 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 369 | 207 |
+| 897 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 370 | 207 |
 | 897 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 493 |
 | 899 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 493 |
 | 899 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,120 | 103 |
