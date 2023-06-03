@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 46,
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223591,
+  "EOS_Progressed": 223592,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4558,6 +4558,11 @@
       "Time": "2023-06-02T23:05:53.7405065+00:00",
       "NumProgressed": 223591,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-06-03T00:05:12.7866248+00:00",
+      "NumProgressed": 223592,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 34,
@@ -4585,7 +4590,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62605
+      "UsersEstimate": 62606
     },
     {
       "ID": "CENTAUR",
@@ -4833,22 +4838,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91672
+      "UsersEstimate": 91673
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223591,
+      "Progressed": 223592,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:05:53.740506+00:00",
+  "LastChanged_Achievements": "2023-06-03T00:05:12.7866244+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.4465575+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:58:18.246129+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:05:53.7405478+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:57:58.4365454+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:05:12.7866775+00:00"
 }

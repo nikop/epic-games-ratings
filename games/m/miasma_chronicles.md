@@ -12,7 +12,7 @@ Rating: 4.30 (Ranked 760)
 | I am the law! | 56.00% | ~542 |
 | Lumberjack | 39.00% | ~377 |
 | Croaked | 34.00% | ~329 |
-| Limp Richard | 33.00% | ~319 |
+| Limp Richard | 34.00% | ~329 |
 | Firestarter | 33.00% | ~319 |
 | From Darkness to Light | 33.00% | ~319 |
 | Exorcist | 31.00% | ~300 |
@@ -25,9 +25,9 @@ Rating: 4.30 (Ranked 760)
 | Hold The Line | 16.00% | ~155 |
 | Chain Killer | 15.00% | ~145 |
 | Are you not entertained? | 14.00% | ~135 |
+| Jarhead | 14.00% | ~135 |
 | There Can Be Only One! | 14.00% | ~135 |
 | Ganglord | 13.00% | ~126 |
-| Jarhead | 13.00% | ~126 |
 | Infiltrator | 13.00% | ~126 |
 | Pushing Daisy | 13.00% | ~126 |
 | Newtonian Knockout | 12.00% | ~116 |

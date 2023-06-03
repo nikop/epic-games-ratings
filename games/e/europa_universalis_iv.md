@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,391 |
-| That's a Grand Army | 8.00% | ~3,903 |
-| That is mine! | 8.00% | ~3,903 |
-| Victorious! | 8.00% | ~3,903 |
-| Brothers in Arms | 6.00% | ~2,928 |
-| That's a Grand Navy | 6.00% | ~2,928 |
-| Seriously?! | 6.00% | ~2,928 |
+| Until death do us apart | 9.00% | ~4,393 |
+| That's a Grand Army | 8.00% | ~3,905 |
+| That is mine! | 8.00% | ~3,905 |
+| Victorious! | 8.00% | ~3,905 |
+| Brothers in Arms | 6.00% | ~2,929 |
+| That's a Grand Navy | 6.00% | ~2,929 |
+| Seriously?! | 6.00% | ~2,929 |
 | For the Glory | 5.00% | ~2,440 |
 | Cold War | 4.00% | ~1,952 |
 | True Catholic | 4.00% | ~1,952 |
@@ -81,7 +81,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.30% | ~146 |
 | Vasa or Wettin? | 0.30% | ~146 |
 | Wonderful | 0.30% | ~146 |
-| World Discoverer | 0.30% | ~146 |
 | A Protected Market | 0.20% | ~98 |
 | AAA Credit | 0.20% | ~98 |
 | Fine Financials | 0.20% | ~98 |
@@ -90,6 +89,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Industrial Powerhouse | 0.20% | ~98 |
 | Magellan’s Voyage | 0.20% | ~98 |
 | We bled for this | 0.20% | ~98 |
+| World Discoverer | 0.20% | ~98 |
 | The 52 Garhs | 0.10% | ~49 |
 | I don't like sand | 0.10% | ~49 |
 | A Blessed Nation | 0.10% | ~49 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,793 (Ranked 78)  
+Progressed: 48,809 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,6 +405,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
+| 2023-06-03 | 48,809 | 0 |
 ## Awards
 Max (Educational): 5,338  (Ranked 60)  
 Sum: 44,064 (Ranked 27)  

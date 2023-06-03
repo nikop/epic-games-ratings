@@ -2,7 +2,7 @@
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
   "ProductSlug": "a-total-war-saga-troy",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 433,
@@ -3970,10 +3970,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 11402,
       "NumberOfAwardsMax": 1591
+    },
+    {
+      "Time": "2023-06-02T23:57:52.2415734+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 11404,
+      "NumberOfAwardsMax": 1591
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11402,
+  "NumberOfAwards": 11404,
   "NumberOfAwardsMax": 1591,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4029,7 +4035,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1372
+      "Count": 1374
     }
   ],
   "EOS_Progressed": 0,
@@ -4043,8 +4049,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2023-06-02T21:58:33.6406459+00:00",
+  "LastChanged": "2023-06-02T23:57:52.2415733+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:20.3692906+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:58:10.3638982+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:01:05.0445467+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:57:52.241574+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:00:12.4079347+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 487)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,279 |
-| Realm Estate | 75.00% | ~3,153 |
-| Secret Technique | 74.00% | ~3,111 |
-| Walls Cannot Stop Us | 72.00% | ~3,027 |
+| A Wonderful Discovery | 78.00% | ~3,280 |
+| Realm Estate | 75.00% | ~3,154 |
+| Secret Technique | 74.00% | ~3,112 |
+| Walls Cannot Stop Us | 72.00% | ~3,028 |
 | From Friends to Family | 68.00% | ~2,859 |
 | Magical Synergy | 64.00% | ~2,691 |
-| Bone Peddler | 60.00% | ~2,522 |
-| Stronger Together | 54.00% | ~2,270 |
-| Full Ascension | 53.00% | ~2,228 |
+| Bone Peddler | 60.00% | ~2,523 |
+| Stronger Together | 54.00% | ~2,271 |
+| Full Ascension | 53.00% | ~2,229 |
 | There Can Only Be One! | 46.00% | ~1,934 |
 | Seat of Power | 46.00% | ~1,934 |
 | Intimidation Tactics | 43.00% | ~1,808 |
 | My Final Form | 42.00% | ~1,766 |
 | Valley of Wonders | 41.00% | ~1,724 |
-| In a Liege of Your Own | 36.00% | ~1,513 |
-| Return of the Wizard King | 30.00% | ~1,261 |
-| Digging for Treasure | 30.00% | ~1,261 |
-| Against the Odds | 30.00% | ~1,261 |
+| In a Liege of Your Own | 36.00% | ~1,514 |
+| Return of the Wizard King | 30.00% | ~1,262 |
+| Digging for Treasure | 30.00% | ~1,262 |
+| Against the Odds | 30.00% | ~1,262 |
 | Enchanted Archipelago | 26.00% | ~1,093 |
 | Impenetrable Fortress | 26.00% | ~1,093 |
 | The Magic That Empowers Me! | 19.00% | ~799 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 487)
 | Returning Circle | 0.30% | ~13 |
 | Master of Evilness | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,204 (Ranked 129)  
+Progressed: 4,205 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 4,063 | 0 |
 | 2023-06-01 | 4,139 | 0 |
 | 2023-06-02 | 4,204 | 0 |
+| 2023-06-03 | 4,205 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

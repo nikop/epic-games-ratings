@@ -10,9 +10,9 @@ Rating: 4.18 (Ranked 837)
 | Desperate Times | 8.00% | ~1,146 |
 | Chew 'Em Up | 7.00% | ~1,003 |
 | Paper Jams | 7.00% | ~1,003 |
-| Giving Back | 6.00% | ~859 |
-| Workplace Hazard | 6.00% | ~859 |
-| Reforged | 6.00% | ~859 |
+| Giving Back | 6.00% | ~860 |
+| Workplace Hazard | 6.00% | ~860 |
+| Reforged | 6.00% | ~860 |
 | If the SHU Fits... | 5.00% | ~716 |
 | Get a Grip | 4.00% | ~573 |
 | Terminated | 4.00% | ~573 |
@@ -24,7 +24,7 @@ Rating: 4.18 (Ranked 837)
 | In the Pipe, Five by Five | 3.00% | ~430 |
 | Crash Site | 3.00% | ~430 |
 | Power Up | 3.00% | ~430 |
-| Bear Trap | 3.00% | ~67 |
+| Bear Trap | 3.00% | ~68 |
 | You Need a Gun | 2.00% | ~286 |
 | The Commonality | 2.00% | ~286 |
 | Mugshot | 2.00% | ~286 |
@@ -32,13 +32,13 @@ Rating: 4.18 (Ranked 837)
 | Full Circle | 2.00% | ~286 |
 | Big Spender | 2.00% | ~45 |
 | I Do Belong Here | 1.00% | ~143 |
-| Parole Denied | 1.00% | ~22 |
+| Parole Denied | 1.00% | ~23 |
 | In Striking Distance | 1.00% | ~143 |
-| Hoard Mode | 1.00% | ~22 |
+| Hoard Mode | 1.00% | ~23 |
 | Recidivist | 0.70% | ~16 |
 | Lifer | 0.70% | ~16 |
 | Grim Reaper | 0.60% | ~86 |
-| Armed to the Teeth | 0.20% | ~4 |
+| Armed to the Teeth | 0.20% | ~5 |
 | The Protocol is About Life | 0.20% | ~29 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Glutton for Punishment | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 837)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,323 (Ranked 103)  
+Progressed: 14,325 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 53 (0.37%) (Ranked 119)
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
+| 2023-06-03 | 14,325 | 53 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 389)  
 Sum: 284 (Ranked 329)  

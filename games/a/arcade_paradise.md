@@ -5,9 +5,9 @@ Rating: 4.58 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~594 |
-| Fetch Quest Complete | 91.00% | ~557 |
-| I can't wait! | 83.00% | ~508 |
+| Pushing a pull door | 97.00% | ~595 |
+| Fetch Quest Complete | 91.00% | ~558 |
+| I can't wait! | 83.00% | ~509 |
 | Swish | 56.00% | ~343 |
 | Clean up on Aisle 9 | 40.00% | ~245 |
 | Machine Maxed | 30.00% | ~184 |
@@ -26,9 +26,9 @@ Rating: 4.58 (Ranked 421)
 | Bombscare | 5.00% | ~31 |
 | Rhythm is a dancer | 5.00% | ~31 |
 | Your Bloody Valentine | 5.00% | ~31 |
-| GoldGuy Jr | 4.00% | ~24 |
-| Nose to the Grindstone | 4.00% | ~24 |
-| Waking nightmare | 4.00% | ~24 |
+| GoldGuy Jr | 4.00% | ~25 |
+| Nose to the Grindstone | 4.00% | ~25 |
+| Waking nightmare | 4.00% | ~25 |
 | We come in peace | 3.00% | ~18 |
 | Crowning achievement | 3.00% | ~18 |
 | Modern Gorefare | 3.00% | ~18 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 421)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612 (Ranked 193)  
+Progressed: 613 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 610 | 0 |
 | 2023-06-01 | 611 | 0 |
 | 2023-06-02 | 612 | 0 |
+| 2023-06-03 | 613 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

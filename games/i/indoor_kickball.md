@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 82.00% | ~31 |
-| Accessory Unlocked | 82.00% | ~31 |
-| Character Unlocked | 79.00% | ~30 |
-| Homer | 68.00% | ~26 |
-| Kickball Unlocked | 66.00% | ~25 |
-| Have a good trip! | 63.00% | ~24 |
-| First Win | 58.00% | ~22 |
-| Stay Hydrated | 55.00% | ~21 |
-| Settle Down | 53.00% | ~20 |
-| Butter Fingers | 45.00% | ~17 |
-| True Story! | 32.00% | ~12 |
-| Kick It | 29.00% | ~11 |
+| Hat Unlocked | 82.00% | ~32 |
+| Accessory Unlocked | 82.00% | ~32 |
+| Character Unlocked | 79.00% | ~31 |
+| Homer | 69.00% | ~27 |
+| Kickball Unlocked | 64.00% | ~25 |
+| Have a good trip! | 64.00% | ~25 |
+| First Win | 59.00% | ~23 |
+| Stay Hydrated | 56.00% | ~22 |
+| Settle Down | 54.00% | ~21 |
+| Butter Fingers | 46.00% | ~18 |
+| True Story! | 31.00% | ~12 |
+| Kick It | 28.00% | ~11 |
 | Grand Slam! | 26.00% | ~10 |
-| Have Mercy | 24.00% | ~9 |
+| Have Mercy | 26.00% | ~10 |
 | Bedroom Secret Spot | 21.00% | ~8 |
 | Save some water for the fishies | 21.00% | ~8 |
 | Spooky | 18.00% | ~7 |
@@ -45,7 +45,7 @@
 | He's heating Up! | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 311)  
+Progressed: 39 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,3 +60,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 36 | 0 |
 | 2023-06-01 | 37 | 0 |
 | 2023-06-02 | 38 | 0 |
+| 2023-06-03 | 39 | 0 |

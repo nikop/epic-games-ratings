@@ -6,17 +6,17 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,616 |
-| Biggest Communism Builder | 24.00% | ~28,814 |
-| The World's Most Laughable Centrist | 20.00% | ~24,011 |
-| Il Coppo Del'Arte! | 18.00% | ~21,610 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,209 |
+| Goodest Of The Good Cops | 28.00% | ~33,617 |
+| Biggest Communism Builder | 24.00% | ~28,815 |
+| The World's Most Laughable Centrist | 20.00% | ~24,012 |
+| Il Coppo Del'Arte! | 18.00% | ~21,611 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,210 |
 | Hyperstellar Law Official | 15.00% | ~18,009 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,808 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,607 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,607 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,206 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,805 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,809 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,608 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,608 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,207 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,806 |
 | Unbelievably Boring **** | 8.00% | ~9,605 |
 | Enemy Of The Physical Realm | 8.00% | ~9,605 |
 | Hardie's Heroes | 5.00% | ~6,003 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~120 |
 | What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,057 (Ranked 58)  
+Progressed: 120,062 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 25 (0.02%) (Ranked 194)
 | 2023-05-31 | 119,822 | 25 |
 | 2023-06-01 | 119,949 | 25 |
 | 2023-06-02 | 120,057 | 25 |
+| 2023-06-03 | 120,062 | 25 |
 ## Awards
 Max (Character Customization): 691  (Ranked 157)  
 Sum: 1,047 (Ranked 229)  

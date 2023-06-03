@@ -1239,7 +1239,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14343,
+  "EOS_Progressed": 14347,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 0,
@@ -5574,6 +5574,11 @@
       "Time": "2023-06-02T23:06:11.9595331+00:00",
       "NumProgressed": 14343,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-03T00:05:27.723398+00:00",
+      "NumProgressed": 14347,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -5657,7 +5662,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "1025",
@@ -5673,7 +5678,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "1027",
@@ -5681,7 +5686,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "1028",
@@ -5689,7 +5694,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "1029",
@@ -5713,7 +5718,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "1032",
@@ -5721,7 +5726,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5739
     },
     {
       "ID": "1033",
@@ -5737,7 +5742,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "1035",
@@ -5745,7 +5750,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "1036",
@@ -5753,22 +5758,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14343,
+      "Progressed": 14347,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:06:11.9595327+00:00",
+  "LastChanged_Achievements": "2023-06-03T00:05:27.7233975+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.849482+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:00:15.7944998+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:06:11.9595646+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:59:32.6828416+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:05:27.7234456+00:00"
 }

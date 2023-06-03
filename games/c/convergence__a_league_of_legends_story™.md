@@ -14,7 +14,7 @@
 | Time Flies | 52.00% | ~301 |
 | The Prince in Heels | 52.00% | ~301 |
 | The Harder They Fall | 51.00% | ~295 |
-| Right On Time | 49.00% | ~283 |
+| Right On Time | 50.00% | ~289 |
 | Fast Learner | 49.00% | ~283 |
 | Immaculate Aim | 49.00% | ~283 |
 | Make Up For Lost Time | 48.00% | ~277 |

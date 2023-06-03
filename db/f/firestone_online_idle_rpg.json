@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1257,
+  "EOS_Progressed": 1258,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2558,6 +2558,11 @@
       "Time": "2023-06-02T23:06:15.6046704+00:00",
       "NumProgressed": 1257,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T00:05:30.9954116+00:00",
+      "NumProgressed": 1258,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2737,7 +2742,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "exoticmerchant",
@@ -2817,7 +2822,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "howdoyouturnthison",
@@ -2961,7 +2966,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "prestigiousx10",
@@ -3129,7 +3134,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "warmachinesarmy",
@@ -3168,7 +3173,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1257,
+      "Progressed": 1258,
       "Completed": 1
     }
   ],
@@ -3176,8 +3181,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:06:15.60467+00:00",
+  "LastChanged_Achievements": "2023-06-03T00:05:30.9954111+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:58:02.9783776+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:06:15.6047411+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:57:46.1698403+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:05:30.9955002+00:00"
 }

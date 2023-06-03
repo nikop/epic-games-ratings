@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Aspairagus | 50.00% | ~13 |
 | Survivor | 42.00% | ~11 |
-| Seeds of War | 34.00% | ~26 |
+| Seeds of War | 36.00% | ~27 |
 | No Diggity | 34.00% | ~9 |
 | Early Survivor | 33.00% | ~9 |
 | Amateur Survivor | 25.00% | ~6 |
@@ -15,8 +15,8 @@
 | Bouncemato | 22.00% | ~6 |
 | I Believe I Can Fly | 20.00% | ~15 |
 | Quick-Draw Pod | 20.00% | ~5 |
+| Triple Kill | 18.00% | ~14 |
 | Cornivore | 18.00% | ~14 |
-| Triple Kill | 17.00% | ~13 |
 | Grave Digger | 14.00% | ~4 |
 | 15K | 13.00% | ~10 |
 | 10K | 13.00% | ~10 |
@@ -25,11 +25,11 @@
 | Oh My Gourd | 9.00% | ~2 |
 | Perfect | 9.00% | ~2 |
 | Expert Survivor | 9.00% | ~2 |
+| This Is My Boomstick | 8.00% | ~2 |
 | Quadsparagus | 8.00% | ~2 |
 | Skin Of Your Teeth | 7.00% | ~5 |
 | Quit Horsin' Around | 7.00% | ~5 |
 | Master Survivor | 7.00% | ~2 |
-| This Is My Boomstick | 7.00% | ~2 |
 | Summers Here | 7.00% | ~2 |
 | Easy Peasy | 4.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |

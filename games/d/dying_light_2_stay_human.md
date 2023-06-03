@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,491 |
-| Into the Unknown | 9.00% | ~50,842 |
-| First Shot | 9.00% | ~50,842 |
-| Herzlich Wilkommen! | 8.00% | ~45,193 |
-| Sancho Panza | 8.00% | ~45,193 |
-| Good Night & Good Luck | 8.00% | ~45,193 |
-| Oh, So This Is How It Works! | 7.00% | ~39,544 |
-| Under Pressure | 6.00% | ~33,895 |
-| On the Trail of the Enemy | 6.00% | ~33,895 |
-| Light in the Darkness | 6.00% | ~33,895 |
-| It Wasn't That Hard, Was It? | 6.00% | ~33,895 |
-| Flag Burning | 6.00% | ~33,895 |
-| Night Hunter | 6.00% | ~33,895 |
-| Get Outta My House! | 5.00% | ~28,246 |
-| Being All Social | 5.00% | ~28,246 |
-| Debris and Ashes | 4.00% | ~22,597 |
-| We Will Be Heard! | 4.00% | ~22,597 |
-| Known Associate | 4.00% | ~22,597 |
-| Brush with Death | 4.00% | ~22,597 |
-| Going Down | 4.00% | ~22,597 |
-| Family First | 4.00% | ~22,597 |
-| Your World, Your Rules | 4.00% | ~22,597 |
-| Tunnel Entrance | 4.00% | ~22,597 |
-| After the Fall | 4.00% | ~22,597 |
-| Can't Touch This! | 4.00% | ~22,597 |
-| Death From Afar | 4.00% | ~22,597 |
-| Terminal Headache | 4.00% | ~22,597 |
-| Slowpoke! | 4.00% | ~22,597 |
-| You're Going Down! | 3.00% | ~16,947 |
-| Tickets, Please! | 2.00% | ~11,298 |
-| Parkour Master | 2.00% | ~11,298 |
-| Combat Master | 2.00% | ~11,298 |
+| You Never Forget Your First... | 10.00% | ~56,494 |
+| Into the Unknown | 9.00% | ~50,845 |
+| First Shot | 9.00% | ~50,845 |
+| Herzlich Wilkommen! | 8.00% | ~45,196 |
+| Sancho Panza | 8.00% | ~45,196 |
+| Good Night & Good Luck | 8.00% | ~45,196 |
+| Oh, So This Is How It Works! | 7.00% | ~39,546 |
+| Under Pressure | 6.00% | ~33,897 |
+| On the Trail of the Enemy | 6.00% | ~33,897 |
+| Light in the Darkness | 6.00% | ~33,897 |
+| It Wasn't That Hard, Was It? | 6.00% | ~33,897 |
+| Flag Burning | 6.00% | ~33,897 |
+| Night Hunter | 6.00% | ~33,897 |
+| Get Outta My House! | 5.00% | ~28,247 |
+| Being All Social | 5.00% | ~28,247 |
+| Debris and Ashes | 4.00% | ~22,598 |
+| We Will Be Heard! | 4.00% | ~22,598 |
+| Known Associate | 4.00% | ~22,598 |
+| Brush with Death | 4.00% | ~22,598 |
+| Going Down | 4.00% | ~22,598 |
+| Family First | 4.00% | ~22,598 |
+| Your World, Your Rules | 4.00% | ~22,598 |
+| Tunnel Entrance | 4.00% | ~22,598 |
+| After the Fall | 4.00% | ~22,598 |
+| Can't Touch This! | 4.00% | ~22,598 |
+| Death From Afar | 4.00% | ~22,598 |
+| Terminal Headache | 4.00% | ~22,598 |
+| Slowpoke! | 4.00% | ~22,598 |
+| You're Going Down! | 3.00% | ~16,948 |
+| Tickets, Please! | 2.00% | ~11,299 |
+| Parkour Master | 2.00% | ~11,299 |
+| Combat Master | 2.00% | ~11,299 |
 | Municipal Services | 1.00% | ~5,649 |
 | Tube Map | 1.00% | ~5,649 |
 | Don Quixote | 1.00% | ~5,649 |
@@ -49,11 +49,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 0.90% | ~5,084 |
 | Fit as a Fiddle | 0.90% | ~5,084 |
 | Enter the Hall | 0.90% | ~1,893 |
-| Boot Licker | 0.80% | ~4,519 |
+| Boot Licker | 0.80% | ~4,520 |
 | Night of Terrors | 0.80% | ~1,683 |
-| Find Anything Interesting? | 0.70% | ~3,954 |
-| Who Wants To Be a... | 0.60% | ~3,389 |
-| Get the Point? | 0.60% | ~3,389 |
+| Find Anything Interesting? | 0.70% | ~3,955 |
+| Who Wants To Be a... | 0.60% | ~3,390 |
+| Get the Point? | 0.60% | ~3,390 |
 | My Friend, Ciro | 0.60% | ~1,262 |
 | Skullcrusher | 0.60% | ~1,262 |
 | Revenants | 0.50% | ~2,825 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~210 |
 | Connoisseur | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564,914 (Ranked 22)  
+Progressed: 564,944 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 49 (0.01%) (Ranked 200)
 | 2023-05-31 | 562,978 | 49 |
 | 2023-06-01 | 563,923 | 49 |
 | 2023-06-02 | 564,914 | 49 |
+| 2023-06-03 | 564,944 | 49 |
 ## Awards
 Max (Character Customization): 7,408  (Ranked 42)  
 Sum: 16,713 (Ranked 59)  

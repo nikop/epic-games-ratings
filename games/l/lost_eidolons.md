@@ -26,7 +26,7 @@ Rating: 4.31 (Ranked 755)
 | First Bloom | 1.00% | ~9 |
 | A Promised Voyage | 1.00% | ~9 |
 | Life or Death | 0.70% | ~7 |
-| Someone to Protect | 0.50% | ~5 |
+| Someone to Protect | 0.60% | ~6 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 941 (Ranked 175)  

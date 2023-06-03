@@ -47,9 +47,9 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~423 |
 | Really Friendly | 6.00% | ~363 |
 | New Eden | 6.00% | ~363 |
+| Look, no Hands! | 5.00% | ~302 |
 | Amped Up | 5.00% | ~302 |
 | Luxurious Living | 4.00% | ~242 |
-| Look, no Hands! | 4.00% | ~242 |
 | Mogul | 3.00% | ~181 |
 | Ranch Hand | 3.00% | ~181 |
 | Diplomat | 2.00% | ~121 |

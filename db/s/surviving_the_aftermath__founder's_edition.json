@@ -1007,7 +1007,7 @@
   ],
   "EOS_Progressed": 6044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4886,9 +4886,9 @@
       "ID": "45",
       "SetID": "8idi9ml",
       "Name": "Look, no Hands!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 302
     },
     {
       "ID": "46",
@@ -5054,8 +5054,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-30T13:59:33.9859737+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:00:50.9228957+00:00",
+  "LastChanged_Achievements": "2023-06-03T00:00:00.8004999+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:59:59.7332686+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:00:50.9229671+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:59:21.8801617+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:00:00.8005802+00:00"
 }

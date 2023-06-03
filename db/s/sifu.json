@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4386,10 +4386,10 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706954,
+  "EOS_Progressed": 706957,
   "EOS_Completed": 12751,
-  "EOS_NewPlayers": 1443,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 1440,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8281,6 +8281,11 @@
       "Time": "2023-06-02T23:06:22.0822204+00:00",
       "NumProgressed": 706954,
       "NumCompleted": 12751
+    },
+    {
+      "Time": "2023-06-03T00:05:36.7656175+00:00",
+      "NumProgressed": 706957,
+      "NumCompleted": 12751
     }
   ],
   "TotalAchievements": 50,
@@ -8458,9 +8463,9 @@
       "ID": "22_ThrowEE_Trophy",
       "SetID": "adcm20g",
       "Name": "Street Fighting",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6363
+      "UsersEstimate": 7070
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -8691,21 +8696,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16255,
-      "Completed": 10214
+      "Progressed": 16258,
+      "Completed": 10215
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706954,
+      "Progressed": 706957,
       "Completed": 12751
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-02T18:59:21.3586321+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:06:22.0822198+00:00",
+  "LastChanged_Achievements": "2023-06-03T00:05:36.7656162+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:59:03.6875146+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:06:22.0823704+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:58:34.2510109+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:05:36.7656817+00:00"
 }

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 61.00% | ~212 |
-| Read Between The Lines | 60.00% | ~209 |
-| High Profile | 53.00% | ~184 |
-| Whispers In The Dark | 50.00% | ~174 |
-| Fond Memories | 46.00% | ~160 |
-| History Check | 45.00% | ~157 |
-| A Method To His Madness | 45.00% | ~157 |
-| Lock, Stock, And Barrel | 42.00% | ~146 |
-| The New World | 42.00% | ~146 |
-| Gaze Into The Abyss | 41.00% | ~143 |
-| Open Sesame | 40.00% | ~139 |
-| Sticky Fingers | 40.00% | ~139 |
-| Back In The Saddle | 39.00% | ~136 |
-| Knives Out | 39.00% | ~136 |
-| Land, Ho! | 39.00% | ~136 |
-| No Man Is An Island | 37.00% | ~129 |
-| At Wits' End | 36.00% | ~125 |
-| Going Once... | 34.00% | ~118 |
-| Bookworm | 33.00% | ~115 |
-| Fhtagn! | 33.00% | ~115 |
-| Up In Flames | 32.00% | ~111 |
-| Let Me Be Frank | 31.00% | ~108 |
-| Brain Food | 29.00% | ~101 |
-| No Stone Unturned | 28.00% | ~97 |
+| Read Between The Lines | 60.00% | ~211 |
+| To Hell In A Handcart | 60.00% | ~211 |
+| High Profile | 52.00% | ~183 |
+| Whispers In The Dark | 50.00% | ~176 |
+| Fond Memories | 46.00% | ~161 |
+| A Method To His Madness | 45.00% | ~158 |
+| History Check | 44.00% | ~154 |
+| Lock, Stock, And Barrel | 41.00% | ~144 |
+| Gaze Into The Abyss | 41.00% | ~144 |
+| The New World | 41.00% | ~144 |
+| Open Sesame | 40.00% | ~140 |
+| Sticky Fingers | 40.00% | ~140 |
+| Knives Out | 39.00% | ~137 |
+| Back In The Saddle | 38.00% | ~133 |
+| Land, Ho! | 38.00% | ~133 |
+| No Man Is An Island | 37.00% | ~130 |
+| At Wits' End | 35.00% | ~123 |
+| Going Once... | 33.00% | ~116 |
+| Bookworm | 33.00% | ~116 |
+| Fhtagn! | 33.00% | ~116 |
+| Up In Flames | 32.00% | ~112 |
+| Let Me Be Frank | 31.00% | ~109 |
+| Brain Food | 29.00% | ~102 |
+| No Stone Unturned | 28.00% | ~98 |
 | Curiosity Killed The Cat | 18.00% | ~63 |
-| Read It And Weep | 18.00% | ~63 |
-| Big Breakthrough | 15.00% | ~52 |
+| Read It And Weep | 17.00% | ~60 |
+| Big Breakthrough | 15.00% | ~53 |
 | Reawakened | 6.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348 (Ranked 216)  
-Completed: 15 (4.31%) (Ranked 34)  
+Progressed: 351 (Ranked 216)  
+Completed: 15 (4.27%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,6 +74,7 @@ Completed: 15 (4.31%) (Ranked 34)
 | 2023-05-31 | 333 | 13 |
 | 2023-06-01 | 342 | 13 |
 | 2023-06-02 | 348 | 15 |
+| 2023-06-03 | 351 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

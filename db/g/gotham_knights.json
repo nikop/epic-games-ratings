@@ -1284,10 +1284,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3772,
       "NumberOfAwardsMax": 2275
+    },
+    {
+      "Time": "2023-06-02T23:59:10.5364475+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3773,
+      "NumberOfAwardsMax": 2275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3772,
+  "NumberOfAwards": 3773,
   "NumberOfAwardsMax": 2275,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1319,7 +1325,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 181
+      "Count": 182
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1352,9 +1358,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63314,
+  "EOS_Progressed": 63317,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4812,6 +4818,11 @@
       "Time": "2023-06-02T23:06:25.9078605+00:00",
       "NumProgressed": 63314,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-03T00:05:40.0296622+00:00",
+      "NumProgressed": 63317,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5167,7 +5178,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -5285,9 +5296,9 @@
       "ID": "SECRET_IDENTITY",
       "SetID": "4eo5ebm",
       "Name": "Solid Alibi",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 380
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -5310,22 +5321,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63314,
+      "Progressed": 63317,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33594,
+      "Progressed": 33597,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-02T19:00:05.7824886+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:06:25.9078599+00:00",
+  "LastChanged": "2023-06-02T23:59:10.5364473+00:00",
+  "LastChanged_Achievements": "2023-06-03T00:05:40.0296618+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:59:46.2266016+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:06:25.9079215+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:59:10.5364479+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:05:40.0297406+00:00"
 }

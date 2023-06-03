@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -518,9 +518,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14323,
+  "EOS_Progressed": 14325,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2533,6 +2533,11 @@
       "Time": "2023-06-02T23:04:10.8769133+00:00",
       "NumProgressed": 14323,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T00:03:49.0693173+00:00",
+      "NumProgressed": 14325,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2552,7 +2557,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -2560,7 +2565,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2640,7 +2645,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -2688,7 +2693,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2712,7 +2717,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2832,7 +2837,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2840,7 +2845,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -2863,13 +2868,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14323,
+      "Progressed": 14325,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2249,
+      "Progressed": 2251,
       "Completed": 29
     }
   ],
@@ -2877,8 +2882,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-02T22:57:53.3955354+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:04:10.8769126+00:00",
+  "LastChanged_Achievements": "2023-06-03T00:03:49.0693169+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-02T22:57:53.3955359+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:04:10.87697+00:00"
+  "LastUpdate_Ratings": "2023-06-02T23:57:38.4753973+00:00",
+  "LastUpdate_Achievements": "2023-06-03T00:03:49.0693594+00:00"
 }
