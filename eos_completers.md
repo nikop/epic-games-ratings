@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.11% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.06% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -22,7 +22,7 @@
 | 20 | [Remains](games/r/remains.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.08% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.85% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.88% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
@@ -34,10 +34,10 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.89% |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.24% |
-| 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
+| 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
-| 38 | [Doodle God](games/d/doodle_god.md) | 3.85% |
+| 37 | [Doodle God](games/d/doodle_god.md) | 3.85% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
@@ -75,8 +75,8 @@
 | 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
 | 74 | [Frogun](games/f/frogun.md) | 1.52% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.39% |
-| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
+| 76 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
+| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.34% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.32% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 80 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
@@ -109,8 +109,8 @@
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 107 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
 | 109 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
-| 110 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 110 | [Grindstone](games/g/grindstone.md) | 0.51% |
+| 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 112 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 114 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
