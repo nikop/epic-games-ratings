@@ -26,6 +26,7 @@
 | [Video Game Trivia](games/5/52f01e9ec9454a24abaae68620d9e369.md) | 2023-06-11 | - |  | - | - |
 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 2023-06-14 | - |  | - | - |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 10 (1,000 XP) | 5 | - | - |
+| [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 2 | - | - |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | - |  | - | - |
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | - |  | - | - |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | - |  | - | - |
@@ -44,7 +45,6 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-06-30 | - |  | - | - |
 | [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | - |  | - | - |
 | [Covid Carl](games/c/covid_carl.md) | 2023-06-30 | - |  | - | - |
-| [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-30 | 11 (1,000 XP) | 2 | - | - |
 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | - |  | - | - |
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | - |  | - | - |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | - |  | - | - |
@@ -384,7 +384,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2099-02-01 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,682 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,684 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
