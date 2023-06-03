@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4386,9 +4386,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707060,
+  "EOS_Progressed": 707073,
   "EOS_Completed": 12752,
-  "EOS_NewPlayers": 1404,
+  "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8336,6 +8336,11 @@
       "Time": "2023-06-03T11:05:56.0002507+00:00",
       "NumProgressed": 707060,
       "NumCompleted": 12752
+    },
+    {
+      "Time": "2023-06-03T12:06:35.9262561+00:00",
+      "NumProgressed": 707073,
+      "NumCompleted": 12752
     }
   ],
   "TotalAchievements": 50,
@@ -8435,7 +8440,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4950
     },
     {
       "ID": "13_LowAge",
@@ -8595,7 +8600,7 @@
       "Name": "Old Child",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5656
+      "UsersEstimate": 5657
     },
     {
       "ID": "33_BladeOneShot",
@@ -8619,7 +8624,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4950
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -8691,7 +8696,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8746,21 +8751,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16361,
+      "Progressed": 16374,
       "Completed": 10216
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707060,
+      "Progressed": 707073,
       "Completed": 12752
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-02T18:59:21.3586321+00:00",
-  "LastChanged_Achievements": "2023-06-03T11:05:56.0002501+00:00",
+  "LastChanged_Achievements": "2023-06-03T12:06:35.9262551+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-03T10:58:47.9541519+00:00",
-  "LastUpdate_Achievements": "2023-06-03T11:05:56.0003057+00:00"
+  "LastUpdate_Ratings": "2023-06-03T11:59:14.2204216+00:00",
+  "LastUpdate_Achievements": "2023-06-03T12:06:35.926328+00:00"
 }

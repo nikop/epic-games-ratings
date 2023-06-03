@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1536,9 +1536,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19236,
+  "EOS_Progressed": 19240,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3546,6 +3546,11 @@
       "Time": "2023-06-03T11:05:41.6455988+00:00",
       "NumProgressed": 19236,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-03T12:06:20.3735939+00:00",
+      "NumProgressed": 19240,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3557,7 +3562,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "CarMechanic",
@@ -3589,7 +3594,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "EstateAgent",
@@ -3605,7 +3610,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18082
+      "UsersEstimate": 18086
     },
     {
       "ID": "GameOver",
@@ -3645,7 +3650,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "KnockKnock",
@@ -3669,7 +3674,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "Negotiator",
@@ -3693,7 +3698,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "SeniorEstateAgent",
@@ -3709,7 +3714,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "Strongman",
@@ -3717,7 +3722,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5964
     },
     {
       "ID": "VeronicaLiptson",
@@ -3725,7 +3730,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "YouDoItWrong",
@@ -3740,15 +3745,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19236,
+      "Progressed": 19240,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-02T07:59:46.8811162+00:00",
-  "LastChanged_Achievements": "2023-06-03T11:05:41.6455983+00:00",
+  "LastChanged_Achievements": "2023-06-03T12:06:20.373593+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-03T10:59:09.015335+00:00",
-  "LastUpdate_Achievements": "2023-06-03T11:05:41.6456251+00:00"
+  "LastUpdate_Ratings": "2023-06-03T11:59:39.4662193+00:00",
+  "LastUpdate_Achievements": "2023-06-03T12:06:20.3736414+00:00"
 }

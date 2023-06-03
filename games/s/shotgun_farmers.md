@@ -13,9 +13,9 @@
 | Amateur Survivor | 25.00% | ~7 |
 | No Asperascope | 23.00% | ~18 |
 | Triple Kill | 22.00% | ~17 |
+| Cornivore | 22.00% | ~17 |
 | Bouncemato | 22.00% | ~6 |
 | I Believe I Can Fly | 21.00% | ~16 |
-| Cornivore | 21.00% | ~16 |
 | Quick-Draw Pod | 21.00% | ~6 |
 | Grave Digger | 17.00% | ~5 |
 | 15K | 13.00% | ~10 |
@@ -35,10 +35,10 @@
 | Pyromaniac | 4.00% | ~1 |
 | Easy Peasy | 4.00% | ~1 |
 | Bring Home The Bacon | 3.00% | ~2 |
+| Chick Magnet | 3.00% | ~2 |
 | Getting Started | 3.00% | ~2 |
 | Pork Chop Express | 3.00% | ~2 |
 | Eggtraordinary | 3.00% | ~2 |
-| Chick Magnet | 1.00% | ~1 |
 | Fresh Pancake | 1.00% | ~1 |
 | 15 Days | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |

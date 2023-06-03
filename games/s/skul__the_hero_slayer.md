@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,044 |
-| What should I buy? | 83.00% | ~6,286 |
-| Focus! | 62.00% | ~4,696 |
-| Rescued Elder Ent | 62.00% | ~4,696 |
-| The End of the Gold Mane Knights | 47.00% | ~3,560 |
-| Rules of Etiquette | 39.00% | ~2,954 |
-| False Goddess, Disappear | 38.00% | ~2,878 |
-| Quick Movements | 33.00% | ~2,499 |
-| Inventory Management | 33.00% | ~2,499 |
-| The Fall of the Leonia Order | 29.00% | ~2,196 |
-| The Hero Killer | 27.00% | ~2,045 |
-| Go Home... | 26.00% | ~1,969 |
+| The Legend Begins | 93.00% | ~7,046 |
+| What should I buy? | 83.00% | ~6,288 |
+| Focus! | 62.00% | ~4,697 |
+| Rescued Elder Ent | 62.00% | ~4,697 |
+| The End of the Gold Mane Knights | 47.00% | ~3,561 |
+| Rules of Etiquette | 39.00% | ~2,955 |
+| False Goddess, Disappear | 38.00% | ~2,879 |
+| Quick Movements | 33.00% | ~2,500 |
+| Inventory Management | 33.00% | ~2,500 |
+| The Fall of the Leonia Order | 29.00% | ~2,197 |
+| The Hero Killer | 27.00% | ~2,046 |
+| Go Home... | 26.00% | ~1,970 |
 | The Final Battle of the First Hero | 25.00% | ~1,894 |
-| Brain at Full Throttle | 22.00% | ~1,666 |
+| Brain at Full Throttle | 22.00% | ~1,667 |
 | Rookies Welcome | 20.00% | ~1,515 |
 | Deadly Power | 15.00% | ~1,136 |
-| Castle Restoration Plans | 14.00% | ~1,060 |
+| Castle Restoration Plans | 14.00% | ~1,061 |
 | The Dwarven Chandelier | 12.00% | ~909 |
 | Master of Speed | 9.00% | ~682 |
-| The Levitator | 6.00% | ~454 |
+| The Levitator | 6.00% | ~455 |
 | The God of Battle | 3.00% | ~227 |
-| Too Much of a Talker | 2.00% | ~151 |
+| Too Much of a Talker | 2.00% | ~152 |
 | The Skeleton King | 1.00% | ~76 |
 | Cold-Blooded | 0.80% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,574 (Ranked 114)  
+Progressed: 7,576 (Ranked 114)  
 Completed: 11 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,10 +71,10 @@ Completed: 11 (0.15%) (Ranked 153)
 | 2023-05-31 | 7,526 | 11 |
 | 2023-06-01 | 7,545 | 11 |
 | 2023-06-02 | 7,564 | 11 |
-| 2023-06-03 | 7,574 | 11 |
+| 2023-06-03 | 7,576 | 11 |
 ## Awards
 Max (Great for Beginners): 119  (Ranked 305)  
-Sum: 875 (Ranked 242)  
+Sum: 876 (Ranked 242)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -86,7 +86,7 @@ Diff (max vs sum): 63
 | This game has Quickly Understood Controls | 99 |
 | This game has Amazing Storytelling | 89 |
 | This game has Amazing Characters | 79 |
-| This game has a Creative Community | 58 |
+| This game has a Creative Community | 59 |
 | This game has Challenging Combat | 51 |
 | This game has Playful Visuals | 45 |
 ## Ratings History
@@ -190,4 +190,4 @@ Diff (max vs sum): 63
 | 2023-05-29 | 4.71 | - | 113 | 755 |
 | 2023-05-30 | 4.71 | - | 118 | 873 |
 | 2023-06-01 | 4.71 | - | 119 | 874 |
-| 2023-06-03 | 4.71 | - | 119 | 875 |
+| 2023-06-03 | 4.71 | - | 119 | 876 |

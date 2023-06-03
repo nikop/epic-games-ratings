@@ -19,8 +19,8 @@ Rating: 4.50 (Ranked 542)
 | Great Hero | 26.00% | ~101 |
 | Campaigning | 25.00% | ~97 |
 | Assemble a Meganewbie | 25.00% | ~97 |
+| He's Seen It All | 25.00% | ~97 |
 | Rookie | 25.00% | ~97 |
-| He's Seen It All | 24.00% | ~93 |
 | Frugal | 21.00% | ~81 |
 | Feed a God | 20.00% | ~78 |
 | To the Moon and Back | 20.00% | ~78 |

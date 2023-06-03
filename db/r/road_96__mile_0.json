@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 234,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -519,9 +519,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "findalltapes",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-03T11:03:40.6313357+00:00",
+  "LastChanged_Achievements": "2023-06-03T12:03:52.813311+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-03T10:58:37.1409793+00:00",
-  "LastUpdate_Achievements": "2023-06-03T11:03:40.6313475+00:00"
+  "LastUpdate_Ratings": "2023-06-03T11:58:59.7841535+00:00",
+  "LastUpdate_Achievements": "2023-06-03T12:03:52.8133253+00:00"
 }

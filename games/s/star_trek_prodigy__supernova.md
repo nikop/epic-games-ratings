@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 58.00% | ~7 |
-| Three Watchers, Two Phasers | 42.00% | ~5 |
-| Guess who's back | 33.00% | ~4 |
-| One for the Crew | 25.00% | ~3 |
-| The Clock is Ticking | 25.00% | ~3 |
-| A Helping Hand | 25.00% | ~3 |
-| I've Got You | 17.00% | ~2 |
+| Restoring the Protostar | 54.00% | ~7 |
+| Three Watchers, Two Phasers | 38.00% | ~5 |
+| Guess who's back | 31.00% | ~4 |
+| One for the Crew | 23.00% | ~3 |
+| The Clock is Ticking | 23.00% | ~3 |
+| A Helping Hand | 23.00% | ~3 |
+| I've Got You | 15.00% | ~2 |
 | Priceless Collection | 8.00% | ~1 |
 | One Man Army | 8.00% | ~1 |
 | Up your Arsenal | 8.00% | ~1 |
@@ -46,7 +46,7 @@
 | Maxed out | 0.00% | ~0 |
 | Teamwork makes the dream work | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 345)  
+Progressed: 13 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-20 | 9 | 0 |
 | 2023-05-21 | 10 | 0 |
 | 2023-05-30 | 11 | 0 |
-| 2023-06-03 | 12 | 0 |
+| 2023-06-03 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

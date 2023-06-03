@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4090,9 +4090,9 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89593,
+  "EOS_Progressed": 89601,
   "EOS_Completed": 1912,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8495,6 +8495,11 @@
       "Time": "2023-06-03T11:06:05.1440719+00:00",
       "NumProgressed": 89593,
       "NumCompleted": 1912
+    },
+    {
+      "Time": "2023-06-03T12:06:45.9799582+00:00",
+      "NumProgressed": 89601,
+      "NumCompleted": 1912
     }
   ],
   "TotalAchievements": 493,
@@ -9378,7 +9383,7 @@
       "Name": "Checkmate",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_completed_1204",
@@ -9394,7 +9399,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_completed_1209",
@@ -12442,28 +12447,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55867,
-      "Completed": 2762
+      "Progressed": 55875,
+      "Completed": 2763
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89593,
+      "Progressed": 89601,
       "Completed": 1912
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-03T11:06:05.1440708+00:00",
+  "LastChanged_Achievements": "2023-06-03T12:06:45.9799576+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T10:58:00.4224295+00:00",
-  "LastUpdate_Achievements": "2023-06-03T11:06:05.1463184+00:00"
+  "LastUpdate_Ratings": "2023-06-03T11:58:13.2605497+00:00",
+  "LastUpdate_Achievements": "2023-06-03T12:06:45.9826643+00:00"
 }

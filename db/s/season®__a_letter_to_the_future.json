@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 929,
+  "EOS_Progressed": 930,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.88,
+  "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -906,6 +906,11 @@
       "Time": "2023-06-03T10:05:22.3108371+00:00",
       "NumProgressed": 929,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-03T12:06:10.7290828+00:00",
+      "NumProgressed": 930,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -963,9 +968,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 269
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -973,7 +978,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -981,7 +986,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1013,7 +1018,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -1044,7 +1049,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 929,
+      "Progressed": 930,
       "Completed": 36
     }
   ],
@@ -1052,8 +1057,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-03T11:05:33.0574797+00:00",
+  "LastChanged_Achievements": "2023-06-03T12:06:10.7290821+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-03T10:58:27.6774451+00:00",
-  "LastUpdate_Achievements": "2023-06-03T11:05:33.0574934+00:00"
+  "LastUpdate_Ratings": "2023-06-03T11:58:47.7232223+00:00",
+  "LastUpdate_Achievements": "2023-06-03T12:06:10.7290999+00:00"
 }

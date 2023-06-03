@@ -5,20 +5,20 @@ Rating: 4.42 (Ranked 653)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~529 |
-| Confirming Suspicions | 20.00% | ~423 |
-| The Kraken Wakes | 15.00% | ~317 |
-| It's Starting to Crack | 13.00% | ~275 |
-| Lord of War | 12.00% | ~254 |
-| Change the Channel | 11.00% | ~233 |
+| Meeting Resistance | 25.00% | ~531 |
+| Confirming Suspicions | 20.00% | ~425 |
+| The Kraken Wakes | 15.00% | ~318 |
+| It's Starting to Crack | 13.00% | ~276 |
+| Lord of War | 12.00% | ~255 |
+| Change the Channel | 11.00% | ~234 |
 | Resourceful | 10.00% | ~212 |
-| Taking it back | 9.00% | ~190 |
-| Organ Grinder | 8.00% | ~169 |
-| As Quiet as a Mouse | 8.00% | ~169 |
-| Target America | 8.00% | ~169 |
-| Enemy at the Gates | 7.00% | ~148 |
-| Just a Flesh Wound | 7.00% | ~148 |
-| Explosive Efficiency | 7.00% | ~148 |
+| Taking it back | 9.00% | ~191 |
+| Organ Grinder | 8.00% | ~170 |
+| As Quiet as a Mouse | 8.00% | ~170 |
+| Target America | 8.00% | ~170 |
+| Enemy at the Gates | 7.00% | ~149 |
+| Just a Flesh Wound | 7.00% | ~149 |
+| Explosive Efficiency | 7.00% | ~149 |
 | Liberté | 6.00% | ~127 |
 | Gunslinger | 6.00% | ~127 |
 | Sharpshooter | 6.00% | ~127 |
@@ -34,20 +34,20 @@ Rating: 4.42 (Ranked 653)
 | Skirmisher | 4.00% | ~85 |
 | Set Europe Ablaze | 4.00% | ~85 |
 | Brains of the Operation | 4.00% | ~85 |
-| Precision Is Key | 3.00% | ~63 |
+| Precision Is Key | 3.00% | ~64 |
 | Rigged to Blow | 2.00% | ~42 |
 | My Little Friend | 2.00% | ~42 |
 | Strategist | 1.00% | ~21 |
 | The Long Game | 1.00% | ~21 |
 | It'll Buff Right Out | 1.00% | ~21 |
-| Locomotion Commotion | 0.90% | ~19 |
 | Road Rage | 0.90% | ~19 |
 | Herr Today, Gone Tomorrow | 0.90% | ~19 |
 | Operation Foxley | 0.90% | ~19 |
 | Tinkerer | 0.80% | ~17 |
+| Locomotion Commotion | 0.80% | ~17 |
 | Don't hold your breath | 0.80% | ~17 |
-| Siegebreaker | 0.70% | ~14 |
-| Ghost of Falaise | 0.70% | ~14 |
+| Siegebreaker | 0.70% | ~15 |
+| Ghost of Falaise | 0.70% | ~15 |
 | Last Resort | 0.60% | ~12 |
 | From Paris with Love | 0.50% | ~11 |
 | Burn after reading | 0.40% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 653)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,116 (Ranked 149)  
+Progressed: 2,123 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.09%) (Ranked 168)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,116 | 2 |
+| 2023-06-03 | 2,123 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

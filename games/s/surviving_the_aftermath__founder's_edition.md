@@ -6,7 +6,7 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~4,241 |
+| First Step | 71.00% | ~4,302 |
 | Leader | 61.00% | ~3,696 |
 | Explorer | 53.00% | ~3,211 |
 | Healer | 53.00% | ~3,211 |
@@ -47,9 +47,9 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~424 |
 | Really Friendly | 6.00% | ~364 |
 | New Eden | 6.00% | ~364 |
+| Look, no Hands! | 5.00% | ~303 |
 | Amped Up | 5.00% | ~303 |
 | Luxurious Living | 4.00% | ~242 |
-| Look, no Hands! | 4.00% | ~242 |
 | Mogul | 3.00% | ~182 |
 | Ranch Hand | 3.00% | ~182 |
 | Diplomat | 2.00% | ~121 |

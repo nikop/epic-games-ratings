@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 3.00% | ~1,901 |
+| First Step Into the Knight | 3.00% | ~1,902 |
 | To the Victor Go the Spoils | 2.00% | ~1,268 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,268 |
 | Get ReQ'd | 2.00% | ~1,268 |
@@ -25,13 +25,13 @@ Rating: 4.17 (Ranked 843)
 | Lock and Key | 1.00% | ~634 |
 | Bad Apples in Every Orchard | 1.00% | ~634 |
 | From Inside Gotham's Walls | 1.00% | ~634 |
-| In Your Element | 0.90% | ~570 |
-| Not On My Watch | 0.90% | ~570 |
-| Shock Til They Drop | 0.90% | ~570 |
-| Cooldown | 0.90% | ~570 |
-| Voiceless | 0.90% | ~570 |
-| Seeking Asylum | 0.90% | ~570 |
-| Gotham Knight | 0.90% | ~570 |
+| In Your Element | 0.90% | ~571 |
+| Not On My Watch | 0.90% | ~571 |
+| Shock Til They Drop | 0.90% | ~571 |
+| Cooldown | 0.90% | ~571 |
+| Voiceless | 0.90% | ~571 |
+| Seeking Asylum | 0.90% | ~571 |
+| Gotham Knight | 0.90% | ~571 |
 | End of an Era | 0.80% | ~507 |
 | Bulldozed | 0.80% | ~507 |
 | Drone You Out | 0.70% | ~444 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 843)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,383 (Ranked 71)  
+Progressed: 63,389 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
-| 2023-06-03 | 63,383 | 93 |
+| 2023-06-03 | 63,389 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,283  (Ranked 98)  
 Sum: 3,782 (Ranked 137)  

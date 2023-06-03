@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2390,
+  "EOS_Progressed": 2392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1991,6 +1991,11 @@
       "Time": "2023-06-03T10:05:30.6481576+00:00",
       "NumProgressed": 2390,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T12:06:20.8608913+00:00",
+      "NumProgressed": 2392,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2304,9 +2309,9 @@
       "ID": "ACH_BASE_49",
       "SetID": "92iocjf",
       "Name": "Ain\u0027t Nobody Got Time for That",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_BASE_5",
@@ -2457,13 +2462,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 571,
+      "Progressed": 573,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2390,
+      "Progressed": 2392,
       "Completed": 0
     }
   ],
@@ -2471,8 +2476,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-03T09:58:13.4383447+00:00",
-  "LastChanged_Achievements": "2023-06-03T11:05:42.1138369+00:00",
+  "LastChanged_Achievements": "2023-06-03T12:06:20.8608906+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.734154+00:00",
-  "LastUpdate_Ratings": "2023-06-03T10:58:19.7790541+00:00",
-  "LastUpdate_Achievements": "2023-06-03T11:05:42.1138978+00:00"
+  "LastUpdate_Ratings": "2023-06-03T11:58:37.7888849+00:00",
+  "LastUpdate_Achievements": "2023-06-03T12:06:20.8609603+00:00"
 }

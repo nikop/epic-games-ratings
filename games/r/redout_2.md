@@ -29,6 +29,7 @@ Rating: 4.45 (Ranked 612)
 | Longshot | 6.00% | ~60 |
 | Under the neon lights | 4.00% | ~40 |
 | All Power to Engines! | 4.00% | ~40 |
+| Had to sweat a bit | 4.00% | ~40 |
 | Almost broke the game | 4.00% | ~40 |
 | It's like a party! | 4.00% | ~40 |
 | Better luck next time | 4.00% | ~40 |
@@ -38,7 +39,6 @@ Rating: 4.45 (Ranked 612)
 | A-mazing! | 3.00% | ~30 |
 | To infinity and gravity! | 3.00% | ~30 |
 | One giant drive for mankind | 3.00% | ~30 |
-| Had to sweat a bit | 3.00% | ~30 |
 | [Sweats profusely] | 3.00% | ~30 |
 | Healthy competition | 3.00% | ~30 |
 | S-uper! | 2.00% | ~20 |
