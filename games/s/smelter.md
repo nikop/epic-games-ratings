@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 88.00% | ~30 |
-| Welcome to the Rumbly Lands! | 88.00% | ~30 |
-| Time to Bash Some Heads! | 82.00% | ~28 |
-| Shiny! | 71.00% | ~24 |
-| Deep in the Mounds | 68.00% | ~23 |
-| Smeltastic! | 35.00% | ~12 |
-| Locked Away | 32.00% | ~11 |
+| What took you so long? | 86.00% | ~30 |
+| Welcome to the Rumbly Lands! | 86.00% | ~30 |
+| Time to Bash Some Heads! | 80.00% | ~28 |
+| Shiny! | 69.00% | ~24 |
+| Deep in the Mounds | 66.00% | ~23 |
+| Smeltastic! | 34.00% | ~12 |
+| Locked Away | 31.00% | ~11 |
 | A Little Renovating | 29.00% | ~10 |
 | Deflect This! | 26.00% | ~9 |
-| It's a Sign! | 24.00% | ~8 |
-| Just Some Improvements | 21.00% | ~7 |
-| A Little Extra Love | 18.00% | ~6 |
-| A New Strategy | 18.00% | ~6 |
-| Isn't It Beautiful? | 15.00% | ~5 |
-| A Generous Leader | 15.00% | ~5 |
-| Final Announcement | 15.00% | ~5 |
-| A Terrible Way to Go | 15.00% | ~5 |
-| My Precious Gems! | 12.00% | ~4 |
-| Dr. Dreinstein III | 12.00% | ~4 |
-| Orcharion Boost | 12.00% | ~4 |
-| Case Closed | 12.00% | ~4 |
-| All Beefed Up | 12.00% | ~4 |
-| An Unexpected Visitor | 12.00% | ~4 |
-| How Do You Like Them Apples? | 12.00% | ~4 |
+| It's a Sign! | 23.00% | ~8 |
+| Just Some Improvements | 20.00% | ~7 |
+| A Little Extra Love | 17.00% | ~6 |
+| A New Strategy | 17.00% | ~6 |
+| Isn't It Beautiful? | 14.00% | ~5 |
+| A Generous Leader | 14.00% | ~5 |
+| Final Announcement | 14.00% | ~5 |
+| A Terrible Way to Go | 14.00% | ~5 |
+| My Precious Gems! | 11.00% | ~4 |
+| Dr. Dreinstein III | 11.00% | ~4 |
+| Orcharion Boost | 11.00% | ~4 |
+| Case Closed | 11.00% | ~4 |
+| All Beefed Up | 11.00% | ~4 |
+| An Unexpected Visitor | 11.00% | ~4 |
+| How Do You Like Them Apples? | 11.00% | ~4 |
 | Gotta Collect Them All | 9.00% | ~3 |
 | Keeping Things Tidy | 9.00% | ~3 |
 | Scheming Away | 9.00% | ~3 |
@@ -56,8 +56,8 @@
 | With a Little Help from My Friends | 9.00% | ~3 |
 | The More the Merrier | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 317)  
-Completed: 3 (8.82%) (Ranked 18)  
+Progressed: 35 (Ranked 316)  
+Completed: 3 (8.57%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 3 (8.82%) (Ranked 18)
 | 2023-05-19 | 32 | 3 |
 | 2023-05-21 | 33 | 3 |
 | 2023-05-29 | 34 | 3 |
+| 2023-06-03 | 35 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

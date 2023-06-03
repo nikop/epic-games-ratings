@@ -5,25 +5,25 @@ Rating: 4.30 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~881 |
-| Ranidaphobia | 72.00% | ~697 |
-| Aspiring Editor | 70.00% | ~678 |
-| Gun for Hire | 64.00% | ~620 |
-| I am the law! | 56.00% | ~542 |
-| Lumberjack | 40.00% | ~387 |
-| Croaked | 35.00% | ~339 |
-| Limp Richard | 34.00% | ~329 |
-| Firestarter | 34.00% | ~329 |
-| From Darkness to Light | 33.00% | ~319 |
-| Exorcist | 31.00% | ~300 |
-| Editor Adept | 30.00% | ~290 |
+| First Blood | 91.00% | ~883 |
+| Ranidaphobia | 72.00% | ~698 |
+| Aspiring Editor | 70.00% | ~679 |
+| Gun for Hire | 64.00% | ~621 |
+| I am the law! | 56.00% | ~543 |
+| Lumberjack | 40.00% | ~388 |
+| Croaked | 34.00% | ~330 |
+| Limp Richard | 34.00% | ~330 |
+| Firestarter | 34.00% | ~330 |
+| From Darkness to Light | 34.00% | ~330 |
+| Exorcist | 31.00% | ~301 |
+| Editor Adept | 30.00% | ~291 |
 | Giant Killer | 26.00% | ~252 |
 | Sensei | 25.00% | ~242 |
-| The meaning of Kain | 24.00% | ~232 |
+| The meaning of Kain | 24.00% | ~233 |
 | Technophobe | 20.00% | ~194 |
-| Recycler | 18.00% | ~174 |
+| Recycler | 18.00% | ~175 |
 | Hold The Line | 16.00% | ~155 |
-| Chain Killer | 15.00% | ~145 |
+| Chain Killer | 15.00% | ~146 |
 | Are you not entertained? | 14.00% | ~136 |
 | Ganglord | 14.00% | ~136 |
 | Jarhead | 14.00% | ~136 |
@@ -31,11 +31,11 @@ Rating: 4.30 (Ranked 760)
 | Infiltrator | 13.00% | ~126 |
 | Pushing Daisy | 13.00% | ~126 |
 | Newtonian Knockout | 12.00% | ~116 |
-| Experienced | 11.00% | ~106 |
+| Experienced | 11.00% | ~107 |
 | Endgame | 9.00% | ~87 |
 | Ruthless | 9.00% | ~87 |
 | The Watchers | 9.00% | ~87 |
-| Savior | 8.00% | ~77 |
+| Savior | 8.00% | ~78 |
 | Chain Reaction | 6.00% | ~58 |
 | Commando | 6.00% | ~58 |
 | Curveball | 6.00% | ~58 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 760)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 968 (Ranked 172)  
+Progressed: 970 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
-| 2023-06-03 | 968 | 0 |
+| 2023-06-03 | 970 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

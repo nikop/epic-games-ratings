@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -350,9 +350,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9282,
+  "EOS_Progressed": 9283,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3400,6 +3400,11 @@
       "Time": "2023-06-03T02:19:45.8882239+00:00",
       "NumProgressed": 9282,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-03T03:08:39.5464957+00:00",
+      "NumProgressed": 9283,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3467,7 +3472,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "ACH09",
@@ -3690,7 +3695,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9282,
+      "Progressed": 9283,
       "Completed": 17
     }
   ],
@@ -3698,8 +3703,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-02T12:01:22.4843308+00:00",
-  "LastChanged_Achievements": "2023-06-03T02:19:45.8882232+00:00",
+  "LastChanged_Achievements": "2023-06-03T03:08:39.5464952+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-03T02:13:52.5659815+00:00",
-  "LastUpdate_Achievements": "2023-06-03T02:19:45.8882687+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:02:37.878666+00:00",
+  "LastUpdate_Achievements": "2023-06-03T03:08:39.5465524+00:00"
 }

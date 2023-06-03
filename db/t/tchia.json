@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6260,
+  "EOS_Progressed": 6265,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2833,6 +2833,11 @@
       "Time": "2023-06-03T02:19:15.4222943+00:00",
       "NumProgressed": 6260,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-03T03:08:12.8360371+00:00",
+      "NumProgressed": 6265,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2844,7 +2849,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ARRR",
@@ -2860,7 +2865,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -2924,7 +2929,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "HISTORIAN",
@@ -2948,7 +2953,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "LIBERATOR",
@@ -2956,7 +2961,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "LIVE_WIRE",
@@ -2964,7 +2969,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "SHREDDER",
@@ -3011,7 +3016,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6260,
+      "Progressed": 6265,
       "Completed": 23
     }
   ],
@@ -3019,8 +3024,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-03T02:19:15.4222941+00:00",
+  "LastChanged_Achievements": "2023-06-03T03:08:12.8360363+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-03T02:11:30.4403094+00:00",
-  "LastUpdate_Achievements": "2023-06-03T02:19:15.4223229+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:00:42.3130042+00:00",
+  "LastUpdate_Achievements": "2023-06-03T03:08:12.8360686+00:00"
 }

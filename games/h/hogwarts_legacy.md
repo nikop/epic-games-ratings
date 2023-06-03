@@ -1,31 +1,31 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 105)  
+Rating: 4.77 (Ranked 106)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,037 |
-| First Class Student | 7.00% | ~19,283 |
-| Troll with the Punches | 7.00% | ~19,283 |
-| Grappling with a Graphorn | 6.00% | ~16,528 |
-| The One Who Mastered Memories | 6.00% | ~16,528 |
-| The Hallowed Hero | 6.00% | ~16,528 |
-| The Hero of Hogwarts | 6.00% | ~16,528 |
-| The Defender of Dragons | 6.00% | ~16,528 |
-| Challenge Accepted | 6.00% | ~16,528 |
-| A Keen Sense of Spell | 6.00% | ~16,528 |
-| Loom for Improvement | 6.00% | ~16,528 |
-| A Talent for Spending | 6.00% | ~16,528 |
-| Coasting Along | 6.00% | ~16,528 |
-| That's a Keeper | 6.00% | ~16,528 |
-| Rising From the Ashes | 6.00% | ~16,528 |
-| The Avenging Gazelle | 5.00% | ~13,773 |
-| Beast Friends | 5.00% | ~13,773 |
-| A Sallow Grave | 5.00% | ~13,773 |
-| Flight the Good Flight | 5.00% | ~13,773 |
-| Followed the Butterflies | 5.00% | ~13,773 |
-| The Spell Master | 5.00% | ~13,773 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,038 |
+| First Class Student | 7.00% | ~19,284 |
+| Troll with the Punches | 7.00% | ~19,284 |
+| Grappling with a Graphorn | 6.00% | ~16,529 |
+| The One Who Mastered Memories | 6.00% | ~16,529 |
+| The Hallowed Hero | 6.00% | ~16,529 |
+| The Hero of Hogwarts | 6.00% | ~16,529 |
+| The Defender of Dragons | 6.00% | ~16,529 |
+| Challenge Accepted | 6.00% | ~16,529 |
+| A Keen Sense of Spell | 6.00% | ~16,529 |
+| Loom for Improvement | 6.00% | ~16,529 |
+| A Talent for Spending | 6.00% | ~16,529 |
+| Coasting Along | 6.00% | ~16,529 |
+| That's a Keeper | 6.00% | ~16,529 |
+| Rising From the Ashes | 6.00% | ~16,529 |
+| The Avenging Gazelle | 5.00% | ~13,774 |
+| Beast Friends | 5.00% | ~13,774 |
+| A Sallow Grave | 5.00% | ~13,774 |
+| Flight the Good Flight | 5.00% | ~13,774 |
+| Followed the Butterflies | 5.00% | ~13,774 |
+| The Spell Master | 5.00% | ~13,774 |
 | The Seeker of Knowledge | 4.00% | ~11,019 |
 | The Root of the Problem | 3.00% | ~8,264 |
 | Third Time's a Charm | 3.00% | ~8,264 |
@@ -33,12 +33,12 @@ Rating: 4.77 (Ranked 105)
 | The Intrepid Explorer | 3.00% | ~8,264 |
 | The Ends Petrify the Means | 3.00% | ~8,264 |
 | Raising Expectations | 3.00% | ~8,264 |
-| The Toast of the Town | 2.00% | ~5,509 |
-| Going Through the Potions | 2.00% | ~5,509 |
-| Put Down Roots | 2.00% | ~5,509 |
-| Floo Around the World | 2.00% | ~5,509 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,509 |
-| The Wise Owl | 2.00% | ~5,509 |
+| The Toast of the Town | 2.00% | ~5,510 |
+| Going Through the Potions | 2.00% | ~5,510 |
+| Put Down Roots | 2.00% | ~5,510 |
+| Floo Around the World | 2.00% | ~5,510 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,510 |
+| The Wise Owl | 2.00% | ~5,510 |
 | The Good Samaritan | 1.00% | ~2,755 |
 | The Auror's Apprentice | 1.00% | ~2,755 |
 | Rise to the Challenges | 1.00% | ~2,755 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,102 |
 | Collector's Edition | 0.20% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275,466 (Ranked 40)  
+Progressed: 275,479 (Ranked 40)  
 Completed: 383 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 383 (0.14%) (Ranked 156)
 | 2023-05-31 | 274,775 | 383 |
 | 2023-06-01 | 275,109 | 384 |
 | 2023-06-02 | 275,430 | 383 |
-| 2023-06-03 | 275,466 | 383 |
+| 2023-06-03 | 275,479 | 383 |
 ## Awards
 Max (Character Customization): 19,478  (Ranked 18)  
 Sum: 35,975 (Ranked 33)  

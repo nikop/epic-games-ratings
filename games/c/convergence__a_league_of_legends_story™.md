@@ -24,8 +24,8 @@
 | Like Clockwork | 36.00% | ~208 |
 | The Wicked Twins | 35.00% | ~203 |
 | The Betrayer | 33.00% | ~191 |
+| Family Memories | 31.00% | ~179 |
 | Check Your Pulse | 31.00% | ~179 |
-| Family Memories | 30.00% | ~174 |
 | Good Neighbor | 30.00% | ~174 |
 | Street Style | 29.00% | ~168 |
 | The Loose Cannon | 28.00% | ~162 |

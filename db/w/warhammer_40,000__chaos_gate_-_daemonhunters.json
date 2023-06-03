@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2835,
+  "EOS_Progressed": 2836,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1538,6 +1538,11 @@
       "Time": "2023-06-02T21:11:05.5719857+00:00",
       "NumProgressed": 2835,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T03:08:39.6950746+00:00",
+      "NumProgressed": 2836,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1565,7 +1570,7 @@
       "Name": "Look Over There!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "BloodAndIron",
@@ -1765,7 +1770,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Kills_Knockback",
@@ -1773,7 +1778,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "Kills_Streak",
@@ -2020,21 +2025,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2835,
+      "Progressed": 2836,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2835,
+      "Progressed": 2836,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-03T02:19:45.9576874+00:00",
+  "LastChanged_Achievements": "2023-06-03T03:08:39.6950742+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-03T02:12:12.755583+00:00",
-  "LastUpdate_Achievements": "2023-06-03T02:19:45.9577481+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:01:16.347631+00:00",
+  "LastUpdate_Achievements": "2023-06-03T03:08:39.6951355+00:00"
 }

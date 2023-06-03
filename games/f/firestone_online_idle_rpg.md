@@ -30,11 +30,11 @@ Rating: 3.95 (Ranked 903)
 | Scientist | 9.00% | ~113 |
 | Challenger | 8.00% | ~101 |
 | Daily Quest Completionist | 8.00% | ~101 |
+| Hunter | 7.00% | ~88 |
 | Scroll Master | 7.00% | ~88 |
 | The power of Awakening | 7.00% | ~88 |
 | Doing My Part | 6.00% | ~76 |
 | Frostfire Liberator | 6.00% | ~76 |
-| Hunter | 6.00% | ~76 |
 | Mastery | 6.00% | ~76 |
 | Moving Up The Ladder | 6.00% | ~76 |
 | Relic Of The Past | 6.00% | ~76 |

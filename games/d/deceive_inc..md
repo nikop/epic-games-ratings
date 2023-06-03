@@ -5,13 +5,13 @@ Rating: 4.65 (Ranked 294)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,177 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,178 |
 | Tomorrow Never Dyes | 47.00% | ~3,068 |
 | The Spy who eliminated me | 47.00% | ~3,068 |
-| Mainframe Hacker | 46.00% | ~3,002 |
+| Mainframe Hacker | 46.00% | ~3,003 |
 | Never Say Loser Again | 41.00% | ~2,676 |
 | For your Eyes only | 39.00% | ~2,546 |
-| Tailor-Made | 38.00% | ~2,480 |
+| Tailor-Made | 38.00% | ~2,481 |
 | From the Vault with Love | 37.00% | ~2,415 |
 | Fully Decked Out | 36.00% | ~2,350 |
 | You Only Live Twice | 32.00% | ~2,089 |
@@ -19,10 +19,10 @@ Rating: 4.65 (Ranked 294)
 | Smells Like Trouble | 26.00% | ~1,697 |
 | Private Collection | 25.00% | ~1,632 |
 | Hostile Takeover | 25.00% | ~1,632 |
-| Assistant Accountant | 24.00% | ~1,566 |
-| The Living Portrait | 24.00% | ~1,566 |
-| My Motto, My Creed | 24.00% | ~1,566 |
-| Killer Looks | 24.00% | ~1,566 |
+| Assistant Accountant | 24.00% | ~1,567 |
+| The Living Portrait | 24.00% | ~1,567 |
+| My Motto, My Creed | 24.00% | ~1,567 |
+| Killer Looks | 24.00% | ~1,567 |
 | Keycards Royale | 23.00% | ~1,501 |
 | In It to Win It | 23.00% | ~1,501 |
 | Dr. No Kill | 23.00% | ~1,501 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 294)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,527 (Ranked 118)  
+Progressed: 6,528 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 6,482 | 0 |
 | 2023-06-01 | 6,517 | 0 |
 | 2023-06-02 | 6,524 | 0 |
-| 2023-06-03 | 6,527 | 0 |
+| 2023-06-03 | 6,528 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -39,6 +39,7 @@
 | Pyromaniac | 3.00% | ~1 |
 | Chick Magnet | 1.00% | ~1 |
 | Fresh Pancake | 1.00% | ~1 |
+| 15 Days | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |
 | Early Bird | 1.00% | ~1 |
 | Pro Pyromancer | 1.00% | ~1 |
@@ -50,7 +51,6 @@
 | Heal Me Peas | 1.00% | ~0 |
 | Heart Breaker | 1.00% | ~0 |
 | Tomassacred | 1.00% | ~0 |
-| 15 Days | 0.00% | ~0 |
 | 30 Days | 0.00% | ~0 |
 | Honk Honk | 0.00% | ~0 |
 | Darkside Survivor | 0.00% | ~0 |

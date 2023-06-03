@@ -1,40 +1,40 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.25 (Ranked 790)  
+Rating: 4.25 (Ranked 789)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 82.00% | ~259 |
-| FIRST BLOOD | 78.00% | ~246 |
-| KEVIN! | 68.00% | ~215 |
+| MASTER CHEF | 82.00% | ~260 |
+| FIRST BLOOD | 77.00% | ~244 |
+| KEVIN! | 68.00% | ~216 |
 | JACK OF ALL TRADES | 61.00% | ~193 |
-| CRIMINAL | 56.00% | ~177 |
-| GRANDMA WOULD BE PROUD | 45.00% | ~142 |
+| CRIMINAL | 56.00% | ~178 |
+| GRANDMA WOULD BE PROUD | 45.00% | ~143 |
 | WITHOUT BREAKING A SWEAT | 41.00% | ~130 |
 | HONORS STUDENT | 37.00% | ~117 |
-| BUTCHER | 27.00% | ~85 |
+| BUTCHER | 26.00% | ~82 |
 | RAMBO | 22.00% | ~70 |
-| INDIVIDUAL APPROACH | 21.00% | ~66 |
-| MARTYR | 21.00% | ~66 |
+| INDIVIDUAL APPROACH | 21.00% | ~67 |
+| MARTYR | 21.00% | ~67 |
 | CELEBRITY | 19.00% | ~60 |
 | HELL'S KITCHEN | 19.00% | ~60 |
 | GRATITUDE | 18.00% | ~57 |
 | LAW-ABIDING CITIZEN | 13.00% | ~41 |
 | PRUDENT | 11.00% | ~35 |
-| GOURMET | 9.00% | ~28 |
-| PATTY-KILLER | 9.00% | ~28 |
+| GOURMET | 9.00% | ~29 |
+| PATTY-KILLER | 9.00% | ~29 |
 | SCATTERBRAIN | 8.00% | ~25 |
 | EXPERIMENTALIST | 7.00% | ~22 |
 | TASTE UNTASTY | 5.00% | ~16 |
-| CORRUPTIONIST | 3.00% | ~9 |
-| HIGH TECHNOLOGIES | 3.00% | ~9 |
+| CORRUPTIONIST | 3.00% | ~10 |
+| HIGH TECHNOLOGIES | 3.00% | ~10 |
 | DEBTOR | 2.00% | ~6 |
 | I'VE SEEN SOME… | 2.00% | ~6 |
 | TRAVELER | 0.90% | ~3 |
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 221)  
+Progressed: 317 (Ranked 220)  
 Completed: 1 (0.32%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 1 (0.32%) (Ranked 126)
 | 2023-05-31 | 308 | 1 |
 | 2023-06-01 | 313 | 1 |
 | 2023-06-02 | 315 | 1 |
-| 2023-06-03 | 316 | 1 |
+| 2023-06-03 | 317 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

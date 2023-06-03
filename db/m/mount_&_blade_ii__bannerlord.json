@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4533,7 +4533,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51833,
+  "EOS_Progressed": 51836,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 0,
@@ -8813,6 +8813,11 @@
       "Time": "2023-06-03T02:19:47.6323354+00:00",
       "NumProgressed": 51833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T03:08:41.0932485+00:00",
+      "NumProgressed": 51836,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -8824,7 +8829,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "Apple of my eye",
@@ -8864,7 +8869,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "Catch",
@@ -8984,7 +8989,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 10885
+      "UsersEstimate": 10886
     },
     {
       "ID": "I can do it",
@@ -9016,7 +9021,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8293
+      "UsersEstimate": 8294
     },
     {
       "ID": "Kingslayer",
@@ -9048,7 +9053,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15550
+      "UsersEstimate": 15551
     },
     {
       "ID": "Lawbringer",
@@ -9056,7 +9061,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18142
+      "UsersEstimate": 18143
     },
     {
       "ID": "Lawmaker",
@@ -9064,7 +9069,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10885
+      "UsersEstimate": 10886
     },
     {
       "ID": "Long live the Empire",
@@ -9096,7 +9101,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "My way",
@@ -9120,7 +9125,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Roadkill",
@@ -9176,7 +9181,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8293
+      "UsersEstimate": 8294
     },
     {
       "ID": "This Is Our Land",
@@ -9184,7 +9189,7 @@
       "Name": "This Is Our Land",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "This is Sparta",
@@ -9231,15 +9236,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51833,
+      "Progressed": 51836,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-03T02:13:17.5170513+00:00",
-  "LastChanged_Achievements": "2023-06-03T02:19:47.6323347+00:00",
+  "LastChanged_Achievements": "2023-06-03T03:08:41.0932478+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:06.5602034+00:00",
-  "LastUpdate_Ratings": "2023-06-03T02:13:17.5170519+00:00",
-  "LastUpdate_Achievements": "2023-06-03T02:19:47.6323965+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:02:09.4601035+00:00",
+  "LastUpdate_Achievements": "2023-06-03T03:08:41.0933082+00:00"
 }

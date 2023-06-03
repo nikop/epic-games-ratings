@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -658,9 +658,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2220,
+  "EOS_Progressed": 2222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1853,6 +1853,11 @@
       "Time": "2023-06-03T00:05:20.4978335+00:00",
       "NumProgressed": 2220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T03:08:22.0448441+00:00",
+      "NumProgressed": 2222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1864,7 +1869,7 @@
       "Name": "Backpacker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_BING-BONG",
@@ -1992,7 +1997,7 @@
       "Name": "Good vibes",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_HOARDER",
@@ -2016,7 +2021,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2168,7 +2173,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -2240,22 +2245,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2220,
+      "Progressed": 2222,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-02T19:58:37.4330891+00:00",
-  "LastChanged_Achievements": "2023-06-03T02:19:26.097997+00:00",
+  "LastChanged_Achievements": "2023-06-03T03:08:22.0448432+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-03T02:12:36.5848324+00:00",
-  "LastUpdate_Achievements": "2023-06-03T02:19:26.0980438+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:01:36.2282563+00:00",
+  "LastUpdate_Achievements": "2023-06-03T03:08:22.0448977+00:00"
 }

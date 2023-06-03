@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3323,
+  "EOS_Progressed": 3324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3470,6 +3470,11 @@
       "Time": "2023-06-03T02:14:34.6901809+00:00",
       "NumProgressed": 3323,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T03:03:13.2626754+00:00",
+      "NumProgressed": 3324,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3641,7 +3646,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3737,7 +3742,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3800,15 +3805,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3323,
+      "Progressed": 3324,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-28T04:01:00.5216697+00:00",
-  "LastChanged_Achievements": "2023-06-03T02:14:34.6901803+00:00",
+  "LastChanged_Achievements": "2023-06-03T03:03:13.2626749+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-03T02:13:45.697921+00:00",
-  "LastUpdate_Achievements": "2023-06-03T02:14:34.6902322+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:02:32.4974299+00:00",
+  "LastUpdate_Achievements": "2023-06-03T03:03:13.2627677+00:00"
 }

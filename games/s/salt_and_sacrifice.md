@@ -6,7 +6,7 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~57,993 |
+| The Champion | 91.00% | ~58,638 |
 | The Pyromancer | 86.00% | ~55,416 |
 | The Wastes | 83.00% | ~53,483 |
 | Waste Not | 80.00% | ~51,550 |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,222 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64,437 (Ranked 69)  
-Completed: 1,168 (1.81%) (Ranked 67)  
+Completed: 1,168 (1.81%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
