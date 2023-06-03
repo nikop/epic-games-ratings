@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
 | 10 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.40% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.34% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -42,7 +42,7 @@
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.49% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
-| 43 | [The Complex](games/t/the_complex.md) | 3.38% |
+| 43 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.23% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.17% |
@@ -67,7 +67,7 @@
 | 65 | [JARS](games/j/jars.md) | 2.08% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.69% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.67% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
@@ -76,7 +76,7 @@
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
 | 75 | [Frogun](games/f/frogun.md) | 1.52% |
 | 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.39% |
+| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 80 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
@@ -102,7 +102,7 @@
 | 100 | [Them and Us](games/t/them_and_us.md) | 0.76% |
 | 101 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
-| 102 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.74% |
+| 103 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.73% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 105 | [Train Valley](games/t/train_valley.md) | 0.69% |
 | 106 | [Haven](games/h/haven.md) | 0.67% |

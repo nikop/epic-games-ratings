@@ -482,7 +482,7 @@
 | 472 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 443 |
 | 472 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 493 |
 | 472 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 0 | 493 |
-| 472 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 850 | 146 |
+| 472 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 851 | 146 |
 | 472 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 341 |
 | 472 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 493 |
 | 472 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,169 | 127 |
@@ -853,17 +853,17 @@
 | 848 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 493 |
 | 848 | [Space Punks](games/s/space_punks.md) | 4.16 | 173 | 276 |
 | 853 | [Forspoken](games/f/forspoken.md) | 4.15 | 0 | 493 |
-| 853 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 493 |
 | 853 | [Pine](games/p/pine.md) | 4.15 | 0 | 493 |
 | 853 | [Relicta](games/r/relicta.md) | 4.15 | 195 | 263 |
 | 853 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 364 |
 | 853 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 493 |
-| 859 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 493 |
-| 859 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 493 |
-| 859 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 493 |
-| 862 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 493 |
-| 862 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 32 | 438 |
-| 862 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 493 |
+| 858 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 493 |
+| 858 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 493 |
+| 858 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 493 |
+| 861 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 493 |
+| 861 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 32 | 438 |
+| 861 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 493 |
+| 861 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 0 | 493 |
 | 865 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 493 |
 | 865 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 77 | 351 |
 | 867 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 493 |
@@ -880,9 +880,9 @@
 | 877 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 493 |
 | 879 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 514 | 183 |
 | 879 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 270 |
+| 879 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.07 | 92 | 337 |
 | 879 | [Wreckfest](games/w/wreckfest.md) | 4.07 | 0 | 493 |
-| 882 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,917 | 64 |
-| 882 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.06 | 92 | 337 |
+| 883 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,917 | 64 |
 | 884 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 493 |
 | 884 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 493 |
 | 884 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 493 |
