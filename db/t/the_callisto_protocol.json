@@ -524,9 +524,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14387,
+  "EOS_Progressed": 14391,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2619,6 +2619,11 @@
       "Time": "2023-06-03T17:04:18.695878+00:00",
       "NumProgressed": 14387,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T18:04:18.6590635+00:00",
+      "NumProgressed": 14391,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2734,7 +2739,7 @@
       "Name": "Get a Grip",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2766,7 +2771,7 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2790,7 +2795,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2838,7 +2843,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "STORY_HANGAR",
@@ -2918,7 +2923,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -2949,13 +2954,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14387,
+      "Progressed": 14391,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2313,
+      "Progressed": 2317,
       "Completed": 29
     }
   ],
@@ -2963,8 +2968,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T02:11:24.6577138+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:04:18.6958773+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:04:18.6590632+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T16:58:05.8156161+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:04:18.6959252+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:58:02.2190763+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:04:18.6591031+00:00"
 }

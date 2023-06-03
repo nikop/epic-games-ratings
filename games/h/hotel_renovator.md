@@ -14,8 +14,8 @@ Rating: 4.52 (Ranked 512)
 | Soulmate? | 52.00% | ~411 |
 | Excellent service | 48.00% | ~379 |
 | Roll with it | 46.00% | ~363 |
+| Love is in the air | 44.00% | ~348 |
 | Humble beginnings | 43.00% | ~340 |
-| Love is in the air | 43.00% | ~340 |
 | Moving up | 41.00% | ~324 |
 | Fine, I'll do it myself | 40.00% | ~316 |
 | No need to call anyone | 38.00% | ~300 |
@@ -33,7 +33,7 @@ Rating: 4.52 (Ranked 512)
 | King of hospitality | 10.00% | ~79 |
 | Top spot in town | 3.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790 (Ranked 182)  
+Progressed: 790 (Ranked 183)  
 Completed: 13 (1.65%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |

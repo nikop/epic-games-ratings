@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 95.00% | ~63 |
+| You're Going Down! | 97.00% | ~64 |
 | To Each Their Own | 50.00% | ~33 |
 | You Get An Upgrade, You Get An Upgrade! | 21.00% | ~14 |
 | Onwards and Upwards | 20.00% | ~13 |
 | Serial Winner | 15.00% | ~10 |
 | Like Phileas Fogg | 12.00% | ~8 |
+| No Room for Improvement | 8.00% | ~5 |
 | Seven-League Boots | 6.00% | ~4 |
 | Highly Qualified | 6.00% | ~4 |
-| No Room for Improvement | 6.00% | ~4 |
 | Start Your Engines | 6.00% | ~4 |
 | Playing God | 6.00% | ~4 |
 | Nerd | 5.00% | ~3 |

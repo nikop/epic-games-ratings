@@ -218,9 +218,9 @@
       "ID": "coffee_10",
       "SetID": "56hff7o",
       "Name": "Barista",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "coffee_100",
@@ -234,9 +234,9 @@
       "ID": "coffee_50",
       "SetID": "56hff7o",
       "Name": "Coffee Connoisseur",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "countertop",
@@ -250,17 +250,17 @@
       "ID": "get_lost",
       "SetID": "56hff7o",
       "Name": "Get Lost!",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "tea_100",
@@ -288,8 +288,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:05:11.7774994+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:04:55.6371616+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:50.0360313+00:00",
-  "LastUpdate_Ratings": "2023-06-03T16:58:58.6772201+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:05:11.777509+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:58:38.8849122+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:04:55.6371705+00:00"
 }

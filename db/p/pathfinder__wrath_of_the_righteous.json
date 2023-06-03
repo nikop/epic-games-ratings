@@ -2654,9 +2654,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9478,
+  "EOS_Progressed": 9480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5389,6 +5389,11 @@
       "Time": "2023-06-03T17:07:08.4386025+00:00",
       "NumProgressed": 9478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T18:06:12.2789539+00:00",
+      "NumProgressed": 9480,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5400,7 +5405,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "02_BurningCity",
@@ -5600,7 +5605,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "28_GreatUpstart",
@@ -6327,21 +6332,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8260,
+      "Progressed": 8262,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9478,
+      "Progressed": 9480,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-03T16:58:38.1745159+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:07:08.4386019+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:06:12.2789536+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-03T16:58:38.1745169+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:07:08.4387817+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:58:25.0671331+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:06:12.2791278+00:00"
 }

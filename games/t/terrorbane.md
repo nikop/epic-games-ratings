@@ -11,7 +11,7 @@
 | Normal end | 43.00% | ~16 |
 | C Rank Bug-catcher | 41.00% | ~15 |
 | Armed robbery | 32.00% | ~12 |
-| Never learn | 27.00% | ~10 |
+| Never learn | 30.00% | ~11 |
 | B Rank Bug-catcher | 24.00% | ~9 |
 | Errorbane | 14.00% | ~5 |
 | Secret Admirer | 14.00% | ~5 |

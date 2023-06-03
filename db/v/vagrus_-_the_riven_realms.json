@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -192,6 +192,11 @@
     {
       "Time": "2023-06-03T15:07:04.1252739+00:00",
       "NumProgressed": 83,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T18:06:00.4019705+00:00",
+      "NumProgressed": 84,
       "NumCompleted": 0
     }
   ],
@@ -756,7 +761,7 @@
       "Name": "Press-ganged",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -818,7 +823,7 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 43
     },
@@ -882,9 +887,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -995,7 +1000,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 0
     }
   ],
@@ -1003,8 +1008,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:06:53.2932494+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:06:00.4019699+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:04.378109+00:00",
-  "LastUpdate_Ratings": "2023-06-03T16:59:15.1303964+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:06:53.2933895+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:58:51.1776776+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:06:00.4020882+00:00"
 }

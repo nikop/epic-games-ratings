@@ -2,12 +2,12 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 755,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -626,6 +626,11 @@
       "Time": "2023-06-03T14:03:25.6853664+00:00",
       "NumProgressed": 308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T18:03:28.4687314+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -741,7 +746,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_COLL_20",
@@ -749,15 +754,15 @@
       "Name": "Prospector",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_COLL_ALL",
       "SetID": "1j25agn",
       "Name": "Treasure Hunter",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -765,7 +770,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -853,15 +858,15 @@
       "Name": "Collectibles of Chapter XII",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -869,7 +874,7 @@
       "Name": "The Breaking Point",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -893,7 +898,7 @@
       "Name": "Consequences",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -901,7 +906,7 @@
       "Name": "Opportunities",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -939,9 +944,9 @@
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -1005,7 +1010,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1108,15 +1113,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:02:35.7579005+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:03:28.4687311+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.3400359+00:00",
-  "LastUpdate_Ratings": "2023-06-03T16:57:36.9612408+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:02:35.7579588+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:57:44.2104403+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:03:28.468787+00:00"
 }

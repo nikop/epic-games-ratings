@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~541 |
+| Time Heals All Wounds | 94.00% | ~547 |
 | Rail Rat | 78.00% | ~454 |
 | The Mysterious Stranger | 76.00% | ~442 |
 | Immaculate Aim | 64.00% | ~372 |
@@ -27,8 +27,8 @@
 | Check Your Pulse | 31.00% | ~180 |
 | Street Style | 30.00% | ~175 |
 | Family Memories | 30.00% | ~175 |
+| The Loose Cannon | 30.00% | ~175 |
 | Good Neighbor | 30.00% | ~175 |
-| The Loose Cannon | 29.00% | ~169 |
 | The Family Fortune | 25.00% | ~146 |
 | The Man Who Shattered Time | 24.00% | ~140 |
 | Whiz Kid | 23.00% | ~134 |

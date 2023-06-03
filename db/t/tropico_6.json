@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -876,9 +876,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3354,
+  "EOS_Progressed": 3357,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3536,6 +3536,11 @@
       "Time": "2023-06-03T17:02:20.901477+00:00",
       "NumProgressed": 3354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T18:03:18.061503+00:00",
+      "NumProgressed": 3357,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3603,7 +3608,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3627,7 +3632,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -3643,7 +3648,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3651,7 +3656,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3659,7 +3664,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -3667,7 +3672,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3675,7 +3680,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -3691,7 +3696,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -3707,7 +3712,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2551
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3745,9 +3750,9 @@
       "ID": "ACH_MYWAYS",
       "SetID": "1p8ab95",
       "Name": "My Ways",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_NARCISSIST",
@@ -3803,7 +3808,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3819,7 +3824,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3827,7 +3832,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -3851,7 +3856,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -3866,15 +3871,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3354,
+      "Progressed": 3357,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-03T13:04:44.6686882+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:02:20.9014762+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:03:18.0615026+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:00:55.5828473+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:02:20.901542+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:59:59.1224963+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:03:18.0615484+00:00"
 }

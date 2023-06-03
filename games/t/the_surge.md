@@ -39,10 +39,10 @@ Number of Ratings: 62  (23.09.2022)
 | No More Marching | 8.00% | ~346 |
 | Is This Real Life? | 8.00% | ~346 |
 | Duty-Bound | 7.00% | ~303 |
+| Follow the White Rabbit | 7.00% | ~303 |
 | Liberation | 7.00% | ~303 |
 | Risk Assessment | 7.00% | ~303 |
 | Sunglasses at Night | 6.00% | ~259 |
-| Follow the White Rabbit | 6.00% | ~259 |
 | Carbon Cat | 6.00% | ~259 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~216 |
 | Man of Steel | 5.00% | ~216 |

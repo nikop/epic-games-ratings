@@ -8,13 +8,13 @@
 | Survivor | 42.00% | ~13 |
 | Seeds of War | 40.00% | ~32 |
 | No Diggity | 35.00% | ~11 |
-| Early Survivor | 32.00% | ~10 |
+| Early Survivor | 33.00% | ~10 |
 | First Blood | 30.00% | ~24 |
 | No Asperascope | 25.00% | ~20 |
 | Triple Kill | 25.00% | ~20 |
 | Cornivore | 23.00% | ~19 |
 | Amateur Survivor | 23.00% | ~7 |
-| I Believe I Can Fly | 21.00% | ~17 |
+| I Believe I Can Fly | 22.00% | ~18 |
 | Bouncemato | 21.00% | ~7 |
 | Quick-Draw Pod | 20.00% | ~6 |
 | Grave Digger | 17.00% | ~5 |

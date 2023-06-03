@@ -1136,9 +1136,9 @@
       "ID": "ID_ACHIEV_27",
       "SetID": "98bke8c",
       "Name": "Follow the White Rabbit",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 303
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -1472,8 +1472,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:01:36.1676158+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:00:27.543062+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-03T16:58:14.3917117+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:01:36.1677464+00:00"
+  "LastUpdate_Ratings": "2023-06-03T17:58:09.3274202+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:00:27.5431398+00:00"
 }

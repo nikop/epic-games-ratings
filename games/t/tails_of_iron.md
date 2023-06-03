@@ -5,38 +5,38 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 77.00% | ~1,207 |
-| Become King | 70.00% | ~1,098 |
-| Defeat 25 Frogs | 60.00% | ~941 |
-| Ranged Weapon | 59.00% | ~925 |
-| Collect Monster Parts | 56.00% | ~878 |
-| Two Handed Weapon | 54.00% | ~847 |
-| Defeat 25 Grubs | 51.00% | ~800 |
-| Rescue Redgi's Brothers | 50.00% | ~784 |
+| Complete Guard Faction | 78.00% | ~1,225 |
+| Become King | 70.00% | ~1,099 |
+| Defeat 25 Frogs | 60.00% | ~942 |
+| Ranged Weapon | 59.00% | ~926 |
+| Collect Monster Parts | 56.00% | ~879 |
+| Two Handed Weapon | 54.00% | ~848 |
+| Defeat 25 Grubs | 51.00% | ~801 |
+| Rescue Redgi's Brothers | 50.00% | ~785 |
 | Collect Iron Ore | 45.00% | ~706 |
 | Kitchen Ready To Cook | 45.00% | ~706 |
-| Defeat 25 Mozis | 44.00% | ~690 |
-| Collect Gold | 43.00% | ~674 |
-| Smithy Ready to Craft | 43.00% | ~674 |
+| Defeat 25 Mozis | 44.00% | ~691 |
+| Collect Gold | 43.00% | ~675 |
+| Smithy Ready to Craft | 43.00% | ~675 |
 | Fix the Travellers Wagon | 42.00% | ~659 |
 | Complete Elder Faction | 39.00% | ~612 |
-| End of the Mozis | 36.00% | ~564 |
-| Throne Room Fit For A King | 36.00% | ~564 |
-| Return Power To The Depths | 34.00% | ~533 |
-| Meet the Creatures from the Deep | 33.00% | ~517 |
-| Defeat Ratnor Rodentson | 28.00% | ~439 |
+| End of the Mozis | 36.00% | ~565 |
+| Throne Room Fit For A King | 36.00% | ~565 |
+| Return Power To The Depths | 34.00% | ~534 |
+| Meet the Creatures from the Deep | 33.00% | ~518 |
+| Defeat Ratnor Rodentson | 28.00% | ~440 |
 | Return the Statues | 25.00% | ~392 |
-| Defeat Rattus Augustail | 24.00% | ~376 |
+| Defeat Rattus Augustail | 24.00% | ~377 |
 | Complete the Chefs Book | 23.00% | ~361 |
 | Complete Ranger Faction | 20.00% | ~314 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~298 |
-| Discover the mystery of the Kings Chambers | 18.00% | ~282 |
+| Discover the mystery of the Kings Chambers | 18.00% | ~283 |
 | Complete Arena Faction | 14.00% | ~220 |
 | Complete Redgi's Armory | 7.00% | ~110 |
 | King of Kings | 7.00% | ~110 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,568 (Ranked 158)  
+Progressed: 1,570 (Ranked 158)  
 Completed: 6 (0.38%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 6 (0.38%) (Ranked 116)
 | 2023-05-31 | 1,529 | 6 |
 | 2023-06-01 | 1,537 | 6 |
 | 2023-06-02 | 1,555 | 6 |
-| 2023-06-03 | 1,568 | 6 |
+| 2023-06-03 | 1,570 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

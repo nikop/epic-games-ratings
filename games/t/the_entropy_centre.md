@@ -18,10 +18,10 @@
 | Bad Robots | 14.00% | ~20 |
 | Running Boots | 14.00% | ~20 |
 | Fashionista | 11.00% | ~15 |
+| Kaboom! | 9.00% | ~13 |
 | Archivist | 9.00% | ~13 |
 | Looper | 9.00% | ~13 |
 | Transformers, cubes in disguise | 8.00% | ~11 |
-| Kaboom! | 8.00% | ~11 |
 | All Alone | 8.00% | ~11 |
 | Cataclysm | 8.00% | ~11 |
 | Reunited | 8.00% | ~11 |

@@ -2,12 +2,12 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 747,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54921,
+  "EOS_Progressed": 54925,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3012,6 +3012,11 @@
       "Time": "2023-06-03T17:01:48.0860859+00:00",
       "NumProgressed": 54921,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-03T18:00:35.7280919+00:00",
+      "NumProgressed": 54925,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -3087,7 +3092,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3844
+      "UsersEstimate": 3845
     },
     {
       "ID": "FlyingPresent",
@@ -3359,7 +3364,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3295
+      "UsersEstimate": 3296
     },
     {
       "ID": "TimelySplash",
@@ -3414,7 +3419,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54921,
+      "Progressed": 54925,
       "Completed": 4
     }
   ],
@@ -3422,8 +3427,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:01:48.0860851+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:00:35.7280914+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.1817194+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:01:26.0492278+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:01:48.0862095+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:00:19.9205053+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:00:35.7281529+00:00"
 }

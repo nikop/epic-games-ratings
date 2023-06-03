@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 61.00% | ~216 |
-| To Hell In A Handcart | 61.00% | ~216 |
-| High Profile | 52.00% | ~184 |
-| Whispers In The Dark | 50.00% | ~177 |
-| Fond Memories | 47.00% | ~166 |
-| History Check | 45.00% | ~159 |
-| A Method To His Madness | 45.00% | ~159 |
-| The New World | 43.00% | ~152 |
+| Read Between The Lines | 61.00% | ~217 |
+| To Hell In A Handcart | 61.00% | ~217 |
+| High Profile | 52.00% | ~185 |
+| Whispers In The Dark | 51.00% | ~181 |
+| Fond Memories | 47.00% | ~167 |
+| A Method To His Madness | 46.00% | ~163 |
+| History Check | 45.00% | ~160 |
+| The New World | 43.00% | ~153 |
 | Lock, Stock, And Barrel | 42.00% | ~149 |
-| Gaze Into The Abyss | 41.00% | ~145 |
+| Gaze Into The Abyss | 41.00% | ~146 |
 | Open Sesame | 40.00% | ~142 |
 | Sticky Fingers | 40.00% | ~142 |
 | Knives Out | 40.00% | ~142 |
 | Back In The Saddle | 39.00% | ~138 |
 | Land, Ho! | 39.00% | ~138 |
 | No Man Is An Island | 37.00% | ~131 |
-| At Wits' End | 36.00% | ~127 |
-| Going Once... | 34.00% | ~120 |
-| Bookworm | 34.00% | ~120 |
+| At Wits' End | 36.00% | ~128 |
+| Going Once... | 34.00% | ~121 |
+| Bookworm | 34.00% | ~121 |
+| Up In Flames | 33.00% | ~117 |
 | Fhtagn! | 33.00% | ~117 |
-| Up In Flames | 32.00% | ~113 |
-| Let Me Be Frank | 31.00% | ~110 |
+| Let Me Be Frank | 32.00% | ~114 |
 | Brain Food | 30.00% | ~106 |
 | No Stone Unturned | 28.00% | ~99 |
 | Curiosity Killed The Cat | 18.00% | ~64 |
-| Read It And Weep | 18.00% | ~64 |
+| Read It And Weep | 17.00% | ~60 |
 | Big Breakthrough | 15.00% | ~53 |
 | Reawakened | 6.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354 (Ranked 216)  
-Completed: 15 (4.24%) (Ranked 34)  
+Progressed: 355 (Ranked 216)  
+Completed: 15 (4.23%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 15 (4.24%) (Ranked 34)
 | 2023-05-31 | 333 | 13 |
 | 2023-06-01 | 342 | 13 |
 | 2023-06-02 | 348 | 15 |
-| 2023-06-03 | 354 | 15 |
+| 2023-06-03 | 355 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@ Rating: 3.95 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,186 |
+| Victor | 94.00% | ~1,187 |
 | World Map | 80.00% | ~1,010 |
 | Temple of Eternals | 56.00% | ~707 |
 | Prestigious | 53.00% | ~669 |
@@ -21,7 +21,7 @@ Rating: 3.95 (Ranked 903)
 | Dragon Master | 13.00% | ~164 |
 | Enlightenment | 13.00% | ~164 |
 | Hero inspection | 13.00% | ~164 |
-| Lieutenant | 12.00% | ~151 |
+| Lieutenant | 12.00% | ~152 |
 | Milestone collector | 11.00% | ~139 |
 | Mysterious Rock | 11.00% | ~139 |
 | Natural Talent | 11.00% | ~139 |
@@ -42,12 +42,12 @@ Rating: 3.95 (Ranked 903)
 | How Do You Turn This On? | 5.00% | ~63 |
 | The Expeditioner | 5.00% | ~63 |
 | Trader | 5.00% | ~63 |
-| Ancient Knowledge | 4.00% | ~50 |
-| Background Story | 4.00% | ~50 |
-| Four Leaf Clover | 4.00% | ~50 |
-| Missions Dedication | 4.00% | ~50 |
-| The father of Dragons | 4.00% | ~50 |
-| Weekly Quest Completionist | 4.00% | ~50 |
+| Ancient Knowledge | 4.00% | ~51 |
+| Background Story | 4.00% | ~51 |
+| Four Leaf Clover | 4.00% | ~51 |
+| Missions Dedication | 4.00% | ~51 |
+| The father of Dragons | 4.00% | ~51 |
+| Weekly Quest Completionist | 4.00% | ~51 |
 | Dragon Slayer | 3.00% | ~38 |
 | Engineer Mastery | 3.00% | ~38 |
 | Lock And Load | 3.00% | ~38 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 903)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,262 (Ranked 161)  
+Progressed: 1,263 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-05-31 | 1,239 | 1 |
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
-| 2023-06-03 | 1,262 | 1 |
+| 2023-06-03 | 1,263 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

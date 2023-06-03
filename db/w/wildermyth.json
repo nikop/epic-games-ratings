@@ -145,7 +145,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -735,6 +735,11 @@
       "Time": "2023-06-02T21:10:42.3989939+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-03T18:05:50.9659766+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -762,7 +767,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -786,7 +791,7 @@
       "Name": "Worldwalker",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -818,7 +823,7 @@
       "Name": "Passing Shadow",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -834,7 +839,7 @@
       "Name": "Completing the Look",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -890,7 +895,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -922,7 +927,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_mythwalker",
@@ -930,7 +935,7 @@
       "Name": "Legends Never Die",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -938,7 +943,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -986,7 +991,7 @@
       "Name": "War Endured",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "completedStory_legacy",
@@ -1026,7 +1031,7 @@
       "Name": "A Hunger, Sated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -1066,7 +1071,7 @@
       "Name": "Turncoat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -1193,15 +1198,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-03T17:06:41.3720589+00:00",
+  "LastChanged_Achievements": "2023-06-03T18:05:50.965976+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:06.7864894+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:01:28.6842918+00:00",
-  "LastUpdate_Achievements": "2023-06-03T17:06:41.372213+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:00:21.6581427+00:00",
+  "LastUpdate_Achievements": "2023-06-03T18:05:50.9660293+00:00"
 }

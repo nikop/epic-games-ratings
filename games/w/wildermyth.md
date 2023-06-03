@@ -6,17 +6,17 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 33.00% | ~408 |
-| Me and My Familiar | 31.00% | ~383 |
+| The Cost of Heroism | 33.00% | ~409 |
+| Me and My Familiar | 31.00% | ~384 |
 | This Too Shall Pass | 26.00% | ~322 |
-| Passing Shadow | 25.00% | ~309 |
-| Cutthroat Competitors | 25.00% | ~309 |
+| Passing Shadow | 25.00% | ~310 |
+| Cutthroat Competitors | 25.00% | ~310 |
 | How Romantic! | 23.00% | ~285 |
 | Daybreak | 23.00% | ~285 |
 | Gotta Ca... Must Collect All of Them | 21.00% | ~260 |
-| Completing the Look | 12.00% | ~148 |
-| Who's Counting? | 12.00% | ~148 |
-| War Endured | 12.00% | ~148 |
+| Completing the Look | 12.00% | ~149 |
+| Who's Counting? | 12.00% | ~149 |
+| War Endured | 12.00% | ~149 |
 | A Mythic Menagerie | 11.00% | ~136 |
 | Core Failure | 11.00% | ~136 |
 | Pyrrhic Victory | 9.00% | ~111 |
@@ -31,10 +31,10 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 5.00% | ~62 |
 | Wingknight's Prowess | 5.00% | ~62 |
 | All My Birds, Safely Home | 5.00% | ~62 |
-| Worldwalker | 4.00% | ~49 |
-| Legends Never Die | 4.00% | ~49 |
-| A Hunger, Sated | 4.00% | ~49 |
-| Turncoat | 4.00% | ~49 |
+| Worldwalker | 4.00% | ~50 |
+| Legends Never Die | 4.00% | ~50 |
+| A Hunger, Sated | 4.00% | ~50 |
+| Turncoat | 4.00% | ~50 |
 | We Emerge Changed | 3.00% | ~37 |
 | No More Nightmares | 3.00% | ~37 |
 | Bears are Scary | 3.00% | ~37 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.50% | ~6 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,237 (Ranked 163)  
+Progressed: 1,238 (Ranked 163)  
 Completed: 3 (0.24%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 3 (0.24%) (Ranked 138)
 | 2023-05-31 | 1,227 | 3 |
 | 2023-06-01 | 1,229 | 3 |
 | 2023-06-02 | 1,237 | 3 |
+| 2023-06-03 | 1,238 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 456)  
 Sum: 27 (Ranked 467)  
