@@ -8,8 +8,8 @@
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
-| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.65% |
-| 10 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
+| 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
+| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.29% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
@@ -20,7 +20,7 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.09% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -40,8 +40,8 @@
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.85% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.49% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.45% |
+| 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.23% |
@@ -59,7 +59,7 @@
 | 57 | [Bloodshore](games/b/bloodshore.md) | 2.56% |
 | 58 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.35% |
+| 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.33% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
@@ -72,9 +72,9 @@
 | 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
 | 70 | [Night Book](games/n/night_book.md) | 1.59% |
 | 70 | [Somerville](games/s/somerville.md) | 1.59% |
-| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.55% |
-| 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
-| 75 | [Frogun](games/f/frogun.md) | 1.52% |
+| 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
+| 74 | [Frogun](games/f/frogun.md) | 1.52% |
+| 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.52% |
 | 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
@@ -93,7 +93,7 @@
 | 91 | [Poosh XL](games/p/poosh_xl.md) | 0.88% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
-| 93 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.86% |
+| 94 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.85% |
 | 95 | [Adios](games/a/adios.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
@@ -114,7 +114,7 @@
 | 112 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 114 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
+| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
 | 116 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
 | 116 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
 | 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |

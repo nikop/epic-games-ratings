@@ -43,7 +43,7 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-06-30 | - |  | - | - |
 | [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | - |  | - | - |
 | [Covid Carl](games/c/covid_carl.md) | 2023-06-30 | - |  | - | - |
-| [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-30 | 11 (1,000 XP) | 1 | - | - |
+| [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-30 | 11 (1,000 XP) | 2 | - | - |
 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | - |  | - | - |
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | - |  | - | - |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | - |  | - | - |
