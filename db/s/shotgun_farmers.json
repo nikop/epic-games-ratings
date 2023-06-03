@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 80,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -456,9 +456,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -680,9 +680,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -736,9 +736,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_all_koth_points",
@@ -848,17 +848,17 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_waves_20",
@@ -999,8 +999,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:05:31.7147833+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:04:50.6762577+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:32.4470818+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:58:42.0120524+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:05:31.7148801+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:58:21.9763226+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:04:50.6763159+00:00"
 }

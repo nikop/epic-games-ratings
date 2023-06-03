@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 837,
-  "Ranking_Popularity": 389,
+  "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
@@ -524,9 +524,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14378,
+  "EOS_Progressed": 14379,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2609,6 +2609,11 @@
       "Time": "2023-06-03T15:04:37.5008774+00:00",
       "NumProgressed": 14378,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T16:04:12.8550205+00:00",
+      "NumProgressed": 14379,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2748,7 +2753,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "KILL_ROBOT",
@@ -2796,7 +2801,7 @@
       "Name": "Paper Jams",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2939,13 +2944,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14378,
+      "Progressed": 14379,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2304,
+      "Progressed": 2305,
       "Completed": 29
     }
   ],
@@ -2953,8 +2958,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T02:11:24.6577138+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:04:37.5008766+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:04:12.8550201+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:58:06.5949086+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:04:37.5009723+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:57:58.5594314+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:04:12.8550543+00:00"
 }

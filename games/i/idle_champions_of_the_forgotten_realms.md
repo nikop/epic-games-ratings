@@ -8,9 +8,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,793 |
 | The Cursed Farmer | 1.00% | ~896 |
+| Beast Intentions | 0.80% | ~717 |
 | The Mad Wizard | 0.80% | ~717 |
 | The Court of Storms | 0.80% | ~447 |
-| Beast Intentions | 0.70% | ~627 |
 | Beware the Jabberwock | 0.70% | ~391 |
 | The Ring of Regeneration | 0.60% | ~538 |
 | Were-verpowered | 0.50% | ~448 |
@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~269 |
 | Escort to Waterdeep | 0.30% | ~269 |
 | Waterdeep Detours | 0.30% | ~269 |
+| Underdeep Cartography | 0.30% | ~269 |
 | Pros and CONs | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~112 |
 | The Witchlight Carnival | 0.20% | ~112 |
@@ -129,7 +130,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~179 |
 | Easily Distracted | 0.20% | ~179 |
 | Rude Welcome | 0.20% | ~179 |
-| Underdeep Cartography | 0.20% | ~179 |
 | Overdue Rendezvous | 0.20% | ~179 |
 | Moose Tracks | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,630 (Ranked 62)  
+Progressed: 89,638 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,630 | 1,913 |
+| 2023-06-03 | 89,638 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

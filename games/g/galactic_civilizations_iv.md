@@ -26,8 +26,8 @@ Number of Ratings: 429  (23.09.2022)
 | Gain an Ally | 6.00% | ~352 |
 | Win with a Custom Faction | 6.00% | ~352 |
 | War with the Unknown | 5.00% | ~293 |
+| Win Quickly | 5.00% | ~293 |
 | Conquest Victory! | 4.00% | ~235 |
-| Win Quickly | 4.00% | ~235 |
 | Pirate Cleansing | 3.00% | ~176 |
 | Win an Immense Game | 3.00% | ~176 |
 | Artifact Mastery | 2.00% | ~117 |
@@ -125,9 +125,9 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-02 | 5,857 | 0 |
 | 2023-06-03 | 5,864 | 0 |
 ## Awards
-Max (Diverse Characters): 92  (Ranked 337)  
+Max (Diverse Characters): 92  (Ranked 338)  
 Sum: 663 (Ranked 268)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 92 |

@@ -516,17 +516,17 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -580,9 +580,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -724,9 +724,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
@@ -741,8 +741,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:06:42.6276799+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:05:39.9085374+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:42.7902818+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:58:53.3112552+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:06:42.6277016+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:58:29.5064024+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:05:39.9085557+00:00"
 }

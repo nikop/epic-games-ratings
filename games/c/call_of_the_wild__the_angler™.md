@@ -6,25 +6,25 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~2,981 |
-| Hey Good Hookin | 63.00% | ~2,538 |
+| Fish Just Got Reel | 74.00% | ~2,982 |
+| Hey Good Hookin | 63.00% | ~2,539 |
 | I'm on a Boat! | 54.00% | ~2,176 |
 | Can you smell what the Rod is Hooking | 47.00% | ~1,894 |
 | Scaling up | 47.00% | ~1,894 |
-| Ready to Rod and Roll | 39.00% | ~1,571 |
-| More Fish in the Sea | 39.00% | ~1,571 |
-| License to Gill | 32.00% | ~1,289 |
+| Ready to Rod and Roll | 39.00% | ~1,572 |
+| More Fish in the Sea | 39.00% | ~1,572 |
+| License to Gill | 32.00% | ~1,290 |
 | Fish Out of Water | 30.00% | ~1,209 |
-| Things that go Splash in the Night | 25.00% | ~1,007 |
-| Goldfish? | 25.00% | ~1,007 |
+| Things that go Splash in the Night | 25.00% | ~1,008 |
+| Goldfish? | 25.00% | ~1,008 |
 | Going for Gold | 23.00% | ~927 |
 | I'm Hooked! | 17.00% | ~685 |
-| More than a Tourist | 12.00% | ~483 |
-| Diamond in the Rough | 12.00% | ~483 |
+| More than a Tourist | 12.00% | ~484 |
+| Diamond in the Rough | 12.00% | ~484 |
 | Hook, Line and Sinker | 7.00% | ~282 |
 | Marathon | 7.00% | ~282 |
 | Big Fish Small Pond | 6.00% | ~242 |
-| I'm the Captain Now | 5.00% | ~201 |
+| I'm the Captain Now | 5.00% | ~202 |
 | School's Out for Summer | 4.00% | ~161 |
 | Gonna Need a Bigger Boat | 3.00% | ~121 |
 | The Beetles | 2.00% | ~81 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,029 (Ranked 132)  
+Progressed: 4,030 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 3,954 | 0 |
 | 2023-06-01 | 3,982 | 0 |
 | 2023-06-02 | 4,008 | 0 |
-| 2023-06-03 | 4,029 | 0 |
+| 2023-06-03 | 4,030 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 438)  
 Sum: 158 (Ranked 377)  

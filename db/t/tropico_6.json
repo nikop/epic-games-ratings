@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -876,9 +876,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3348,
+  "EOS_Progressed": 3351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3526,6 +3526,11 @@
       "Time": "2023-06-03T14:02:29.3696848+00:00",
       "NumProgressed": 3348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T16:02:29.2413332+00:00",
+      "NumProgressed": 3351,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3545,7 +3550,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -3553,7 +3558,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -3561,7 +3566,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -3569,7 +3574,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -3577,7 +3582,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -3585,7 +3590,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -3593,7 +3598,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3633,7 +3638,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3641,7 +3646,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3657,7 +3662,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3697,7 +3702,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2547
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3745,7 +3750,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -3753,7 +3758,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -3769,7 +3774,7 @@
       "Name": "Survivor",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -3793,7 +3798,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3801,7 +3806,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -3809,7 +3814,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3856,15 +3861,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3348,
+      "Progressed": 3351,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-03T13:04:44.6686882+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:02:35.6461905+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:02:29.2413323+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:00:59.822727+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:02:35.6462397+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:59:57.713189+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:02:29.2414341+00:00"
 }

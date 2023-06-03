@@ -24,10 +24,10 @@
 | Hard Rock | 26.00% | ~15 |
 | Bookworm | 23.00% | ~13 |
 | Nokron tower | 21.00% | ~12 |
+| Full power | 19.00% | ~11 |
+| "Ah sh*t... Here we go again!" | 19.00% | ~11 |
+| Compulsive hoarder | 19.00% | ~11 |
 | Payback | 19.00% | ~11 |
-| Full power | 18.00% | ~10 |
-| "Ah sh*t... Here we go again!" | 18.00% | ~10 |
-| Compulsive hoarder | 18.00% | ~10 |
 | Magnitude 5 | 18.00% | ~10 |
 | MayDay! MayDay! | 14.00% | ~8 |
 | GG EZ | 9.00% | ~5 |

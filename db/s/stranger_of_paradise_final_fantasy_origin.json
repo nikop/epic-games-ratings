@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1522,7 +1522,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 78451,
+  "EOS_Progressed": 78452,
   "EOS_Completed": 2132,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
@@ -3787,6 +3787,11 @@
       "Time": "2023-06-03T15:01:41.5024341+00:00",
       "NumProgressed": 78451,
       "NumCompleted": 2132
+    },
+    {
+      "Time": "2023-06-03T16:00:25.9766634+00:00",
+      "NumProgressed": 78452,
+      "NumCompleted": 2132
     }
   ],
   "TotalAchievements": 46,
@@ -3806,7 +3811,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 64330
+      "UsersEstimate": 64331
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -3814,7 +3819,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 57269
+      "UsersEstimate": 57270
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -3830,7 +3835,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 49424
+      "UsersEstimate": 49425
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -3870,7 +3875,7 @@
       "Name": "Phantom Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36087
+      "UsersEstimate": 36088
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -3910,7 +3915,7 @@
       "Name": "Duty\u0027s Course",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 28242
+      "UsersEstimate": 28243
     },
     {
       "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
@@ -3918,7 +3923,7 @@
       "Name": "Led by the Nose",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 26673
+      "UsersEstimate": 26674
     },
     {
       "ID": "016_TROPHY_MISSION_FRAUGHT_JOURNEY",
@@ -3926,7 +3931,7 @@
       "Name": "Terminus of Fate",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 25104
+      "UsersEstimate": 25105
     },
     {
       "ID": "017_TROPHY_CLEAR_CHAOS_DIFFICULTY",
@@ -3966,7 +3971,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 76097
+      "UsersEstimate": 76098
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -3974,7 +3979,7 @@
       "Name": "Imbued Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36087
+      "UsersEstimate": 36088
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -3982,7 +3987,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 67468
+      "UsersEstimate": 67469
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -3990,7 +3995,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 61192
+      "UsersEstimate": 61193
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -3998,7 +4003,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 66683
+      "UsersEstimate": 66684
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -4070,7 +4075,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 55700
+      "UsersEstimate": 55701
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -4094,7 +4099,7 @@
       "Name": "Path of the Paladin",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 28242
+      "UsersEstimate": 28243
     },
     {
       "ID": "038_TROPHY_UNLOCKED_NINJA",
@@ -4134,7 +4139,7 @@
       "Name": "Path of the Void Knight",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 26673
+      "UsersEstimate": 26674
     },
     {
       "ID": "043_TROPHY_UNLOCKED_TYRANT",
@@ -4142,7 +4147,7 @@
       "Name": "Path of the Tyrant",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 26673
+      "UsersEstimate": 26674
     },
     {
       "ID": "044_TROPHY_UNLOCKED_SAGE",
@@ -4150,7 +4155,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31380
+      "UsersEstimate": 31381
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -4158,22 +4163,22 @@
       "Name": "His Name Is Garland",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 25104
+      "UsersEstimate": 25105
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 78451,
+      "Progressed": 78452,
       "Completed": 2132
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:01:41.5024335+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:00:25.976663+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:12.2924551+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:00:31.9695781+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:01:41.5024901+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:59:39.6002732+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:00:25.9767054+00:00"
 }

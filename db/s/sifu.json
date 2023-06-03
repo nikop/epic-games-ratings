@@ -4306,18 +4306,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10445,
       "NumberOfAwardsMax": 6122
+    },
+    {
+      "Time": "2023-06-03T15:58:57.5518874+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10453,
+      "NumberOfAwardsMax": 6130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10445,
-  "NumberOfAwardsMax": 6122,
+  "NumberOfAwards": 10453,
+  "NumberOfAwardsMax": 6130,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6122
+      "Count": 6130
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4386,9 +4392,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707120,
+  "EOS_Progressed": 707132,
   "EOS_Completed": 12753,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8356,6 +8362,11 @@
       "Time": "2023-06-03T15:07:13.0484745+00:00",
       "NumProgressed": 707120,
       "NumCompleted": 12753
+    },
+    {
+      "Time": "2023-06-03T16:06:03.2532751+00:00",
+      "NumProgressed": 707132,
+      "NumCompleted": 12753
     }
   ],
   "TotalAchievements": 50,
@@ -8439,7 +8450,7 @@
       "Name": "Iron Money",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "11_Wude_H5",
@@ -8447,7 +8458,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "12_MidAge",
@@ -8463,7 +8474,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -8525,9 +8536,9 @@
       "ID": "21_ThrowAI_Trophy",
       "SetID": "adcm20g",
       "Name": "Dance of the Praying Mantis",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4243
+      "UsersEstimate": 4950
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -8583,7 +8594,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -8623,7 +8634,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "34_TimedTakedown",
@@ -8766,21 +8777,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16421,
+      "Progressed": 16433,
       "Completed": 10216
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707120,
+      "Progressed": 707132,
       "Completed": 12753
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-02T18:59:21.3586321+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:07:13.048474+00:00",
+  "LastChanged": "2023-06-03T15:58:57.5518872+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:06:03.2532747+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:59:33.3492477+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:07:13.0485455+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:58:57.5518879+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:06:03.2533253+00:00"
 }

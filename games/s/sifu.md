@@ -29,8 +29,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.90% | ~6,364 |
 | Old Child | 0.80% | ~5,657 |
 | Scareless | 0.70% | ~4,950 |
+| Dance of the Praying Mantis | 0.70% | ~4,950 |
 | Kung-Fu Tussle | 0.70% | ~4,950 |
-| Dance of the Praying Mantis | 0.60% | ~4,243 |
 | Qi Gong: Mind | 0.60% | ~4,243 |
 | I know Kung-Fu | 0.60% | ~4,243 |
 | Deadly Venom | 0.60% | ~99 |
@@ -39,11 +39,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.50% | ~3,536 |
 | Source of Flying Daggers | 0.50% | ~3,536 |
 | Detective Story | 0.50% | ~3,536 |
-| Iron Money | 0.40% | ~2,828 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,828 |
-| Prodigal Child | 0.40% | ~2,828 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,828 |
-| Sword Stained With Blood | 0.40% | ~2,828 |
+| Iron Money | 0.40% | ~2,829 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,829 |
+| Prodigal Child | 0.40% | ~2,829 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,829 |
+| Sword Stained With Blood | 0.40% | ~2,829 |
 | Martial Hub | 0.40% | ~66 |
 | Knowledge Greed | 0.30% | ~2,121 |
 | Secure, Protect, Leave | 0.30% | ~49 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,120 (Ranked 15)  
+Progressed: 707,132 (Ranked 15)  
 Completed: 12,753 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,14 +101,14 @@ Completed: 12,753 (1.80%) (Ranked 67)
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
-| 2023-06-03 | 707,120 | 12,753 |
+| 2023-06-03 | 707,132 | 12,753 |
 ## Awards
-Max (Great Boss Battles): 6,122  (Ranked 53)  
-Sum: 10,445 (Ranked 78)  
+Max (Great Boss Battles): 6,130  (Ranked 53)  
+Sum: 10,453 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,122 |
+| This game has Great Boss Battles | 6,130 |
 | This game has Diverse Characters | 522 |
 | This game has Challenging Combat | 516 |
 | This game has Quickly Understood Controls | 507 |
@@ -260,3 +260,4 @@ Diff (max vs sum): -25
 | 2023-05-31 | 4.82 | - | 6,114 | 10,422 |
 | 2023-06-01 | 4.82 | - | 6,119 | 10,434 |
 | 2023-06-02 | 4.82 | - | 6,122 | 10,445 |
+| 2023-06-03 | 4.82 | - | 6,130 | 10,453 |

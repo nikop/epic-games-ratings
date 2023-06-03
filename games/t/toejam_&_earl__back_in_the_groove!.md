@@ -5,7 +5,7 @@ Rating: 4.32 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~4,942 |
+| Food Taster | 9.00% | ~4,943 |
 | Fall Fest | 7.00% | ~3,844 |
 | Thrill Seeker | 6.00% | ~3,295 |
 | Flying Present Catcher | 5.00% | ~2,746 |
@@ -23,9 +23,9 @@ Rating: 4.32 (Ranked 747)
 | Level Diver | 0.80% | ~439 |
 | Gimme My Presents Back! | 0.70% | ~384 |
 | Cleaning Out Santa's Sack | 0.70% | ~384 |
-| Beaten By A Little Girl | 0.60% | ~329 |
-| Teamwork Rules | 0.60% | ~329 |
-| Totally Bummed Again | 0.60% | ~329 |
+| Beaten By A Little Girl | 0.60% | ~330 |
+| Teamwork Rules | 0.60% | ~330 |
+| Totally Bummed Again | 0.60% | ~330 |
 | Piece O' Cake | 0.50% | ~275 |
 | Boom Box Baby | 0.40% | ~220 |
 | I Can't Believe I've Done This | 0.40% | ~220 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 747)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,916 (Ranked 75)  
+Progressed: 54,917 (Ranked 75)  
 Completed: 4 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 4 (0.01%) (Ranked 200)
 | 2023-05-31 | 54,859 | 4 |
 | 2023-06-01 | 54,876 | 4 |
 | 2023-06-02 | 54,904 | 4 |
-| 2023-06-03 | 54,916 | 4 |
+| 2023-06-03 | 54,917 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

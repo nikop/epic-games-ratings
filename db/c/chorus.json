@@ -1055,9 +1055,9 @@
       "ID": "VisitAllLocations",
       "SetID": "a6c395p",
       "Name": "Space Traveler",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 729
+      "UsersEstimate": 738
     },
     {
       "ID": "WinARace",
@@ -1079,8 +1079,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:07:15.0578334+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:06:04.8491432+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:26.7111078+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:00:48.2516801+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:07:15.0578816+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:59:50.5872937+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:06:04.8491696+00:00"
 }

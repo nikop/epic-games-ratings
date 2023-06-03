@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~113 |
-| Starting Skyward | 52.00% | ~101 |
-| Grime is Not Good | 47.00% | ~92 |
-| Campaign Launch | 41.00% | ~80 |
+| In the Black | 59.00% | ~116 |
+| Starting Skyward | 52.00% | ~102 |
+| Grime is Not Good | 46.00% | ~90 |
+| Campaign Launch | 40.00% | ~78 |
+| Dinner Dash | 40.00% | ~78 |
 | Floor Galore | 39.00% | ~76 |
-| Dinner Dash | 39.00% | ~76 |
-| It's Technical | 37.00% | ~72 |
-| Upgrade Unlock | 35.00% | ~68 |
-| Need a Consult | 34.00% | ~66 |
-| Delegate Maintenance | 34.00% | ~66 |
-| Proper Walls | 32.00% | ~62 |
+| It's Technical | 37.00% | ~73 |
+| Upgrade Unlock | 35.00% | ~69 |
+| Need a Consult | 34.00% | ~67 |
+| Delegate Maintenance | 34.00% | ~67 |
+| Proper Walls | 32.00% | ~63 |
 | Destination Destiny | 29.00% | ~57 |
 | Happy Tenants | 25.00% | ~49 |
-| Smooth Service | 25.00% | ~49 |
-| Your Prestige is Rising | 24.00% | ~47 |
-| Potent Potables | 24.00% | ~47 |
-| Retail Revenue | 24.00% | ~47 |
-| Lux Living | 23.00% | ~45 |
+| Smooth Service | 24.00% | ~47 |
+| Your Prestige is Rising | 23.00% | ~45 |
+| Potent Potables | 23.00% | ~45 |
+| Retail Revenue | 23.00% | ~45 |
+| Lux Living | 22.00% | ~43 |
 | People Mover | 22.00% | ~43 |
-| Leveled Up Shops | 22.00% | ~43 |
-| Get Electrified | 22.00% | ~43 |
-| Don't Feel a Loan | 21.00% | ~41 |
 | Emporium Empire | 21.00% | ~41 |
+| Leveled Up Shops | 21.00% | ~41 |
+| Get Electrified | 21.00% | ~41 |
 | Artfully Done | 20.00% | ~39 |
 | Rehab Expert | 20.00% | ~39 |
+| Don't Feel a Loan | 20.00% | ~39 |
 | Tasty Profits | 19.00% | ~37 |
 | Cashflow Chief | 18.00% | ~35 |
 | Under One Roof | 17.00% | ~33 |
@@ -40,7 +40,7 @@
 | Terrifically Trashed | 15.00% | ~29 |
 | Swimming in Surplus | 14.00% | ~27 |
 | Smooth Operator | 13.00% | ~25 |
-| 28 Days Later | 11.00% | ~21 |
+| 28 Days Later | 11.00% | ~22 |
 | Plaza Plan | 10.00% | ~20 |
 | Master of Puppets | 10.00% | ~20 |
 | Refined Palates | 10.00% | ~20 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 244)  
+Progressed: 196 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 189 | 0 |
 | 2023-06-01 | 192 | 0 |
 | 2023-06-02 | 194 | 0 |
-| 2023-06-03 | 195 | 0 |
+| 2023-06-03 | 196 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

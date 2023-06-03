@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~540 |
+| Time Heals All Wounds | 94.00% | ~546 |
 | Rail Rat | 78.00% | ~453 |
 | The Mysterious Stranger | 76.00% | ~442 |
 | Immaculate Aim | 64.00% | ~372 |
@@ -29,8 +29,8 @@
 | Family Memories | 30.00% | ~174 |
 | Good Neighbor | 30.00% | ~174 |
 | The Loose Cannon | 29.00% | ~168 |
+| The Family Fortune | 25.00% | ~145 |
 | The Man Who Shattered Time | 24.00% | ~139 |
-| The Family Fortune | 24.00% | ~139 |
 | Whiz Kid | 23.00% | ~134 |
 | Sump Explorer | 22.00% | ~128 |
 | Ask Questions Later | 22.00% | ~128 |

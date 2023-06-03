@@ -5,12 +5,12 @@ Rating: 4.44 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,585 |
-| Predator I | 22.00% | ~55,060 |
-| Fixer I | 10.00% | ~25,027 |
-| A week in Century City | 10.00% | ~25,027 |
+| Survivor | 31.00% | ~77,586 |
+| Predator I | 22.00% | ~55,061 |
+| Fixer I | 10.00% | ~25,028 |
+| A week in Century City | 10.00% | ~25,028 |
 | The Wait | 7.00% | ~17,519 |
-| Green thumb I | 6.00% | ~15,016 |
+| Green thumb I | 6.00% | ~15,017 |
 | Well-oiled machine | 5.00% | ~12,514 |
 | Saver I | 5.00% | ~12,514 |
 | Cleaning Company | 5.00% | ~12,514 |
@@ -19,14 +19,14 @@ Rating: 4.44 (Ranked 630)
 | Vandalism | 4.00% | ~10,011 |
 | Capitalist I | 4.00% | ~10,011 |
 | Adrenaline | 3.00% | ~7,508 |
-| By a hair | 2.00% | ~5,005 |
-| Fixer II | 2.00% | ~5,005 |
-| It took a while | 2.00% | ~5,005 |
-| Samurai | 2.00% | ~5,005 |
-| I Left You a Present | 2.00% | ~5,005 |
-| Predator II | 2.00% | ~5,005 |
-| Truffle Dog | 2.00% | ~5,005 |
-| A month in Century City | 2.00% | ~5,005 |
+| By a hair | 2.00% | ~5,006 |
+| Fixer II | 2.00% | ~5,006 |
+| It took a while | 2.00% | ~5,006 |
+| Samurai | 2.00% | ~5,006 |
+| I Left You a Present | 2.00% | ~5,006 |
+| Predator II | 2.00% | ~5,006 |
+| Truffle Dog | 2.00% | ~5,006 |
+| A month in Century City | 2.00% | ~5,006 |
 | The Strengthening | 1.00% | ~2,503 |
 | Saver II | 1.00% | ~2,503 |
 | It's the last one, I swear | 1.00% | ~2,503 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 630)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,273 (Ranked 41)  
+Progressed: 250,277 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,11 +106,11 @@ Completed: 1 (0.00%) (Ranked 211)
 | 2023-05-31 | 250,071 | 1 |
 | 2023-06-01 | 250,158 | 1 |
 | 2023-06-02 | 250,217 | 1 |
-| 2023-06-03 | 250,273 | 1 |
+| 2023-06-03 | 250,277 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 465)  
-Sum: 70 (Ranked 420)  
-Diff (max vs sum): 45  
+Sum: 70 (Ranked 421)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 25 |

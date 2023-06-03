@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1161,9 +1161,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 546
     },
     {
       "ID": "RewindParry",
@@ -1289,9 +1289,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
@@ -1304,8 +1304,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:05:59.4079611+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:05:10.2872531+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:00:04.709327+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:05:59.4080101+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:59:19.6376657+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:05:10.2872941+00:00"
 }

@@ -5,25 +5,25 @@ Rating: 4.44 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~535 |
-| Confirming Suspicions | 20.00% | ~428 |
-| The Kraken Wakes | 16.00% | ~342 |
-| It's Starting to Crack | 13.00% | ~278 |
-| Lord of War | 12.00% | ~257 |
-| Resourceful | 11.00% | ~235 |
-| Change the Channel | 11.00% | ~235 |
+| Meeting Resistance | 25.00% | ~537 |
+| Confirming Suspicions | 20.00% | ~429 |
+| The Kraken Wakes | 16.00% | ~344 |
+| It's Starting to Crack | 13.00% | ~279 |
+| Lord of War | 12.00% | ~258 |
+| Resourceful | 11.00% | ~236 |
+| Change the Channel | 11.00% | ~236 |
 | Taking it back | 9.00% | ~193 |
-| Organ Grinder | 8.00% | ~171 |
-| As Quiet as a Mouse | 8.00% | ~171 |
-| Target America | 8.00% | ~171 |
+| Organ Grinder | 8.00% | ~172 |
+| As Quiet as a Mouse | 8.00% | ~172 |
+| Target America | 8.00% | ~172 |
 | Enemy at the Gates | 7.00% | ~150 |
 | Just a Flesh Wound | 7.00% | ~150 |
 | Explosive Efficiency | 7.00% | ~150 |
-| Liberté | 6.00% | ~128 |
-| Opposing Force | 6.00% | ~128 |
-| Gunslinger | 6.00% | ~128 |
-| Sharpshooter | 6.00% | ~128 |
-| The Kraken Sleeps | 6.00% | ~128 |
+| Liberté | 6.00% | ~129 |
+| Gunslinger | 6.00% | ~129 |
+| Sharpshooter | 6.00% | ~129 |
+| The Kraken Sleeps | 6.00% | ~129 |
+| Opposing Force | 5.00% | ~107 |
 | Die Nussknacker Sweet! | 5.00% | ~107 |
 | Der Geist | 5.00% | ~107 |
 | Close Quarters | 5.00% | ~107 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 630)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,139 (Ranked 149)  
+Progressed: 2,147 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.09%) (Ranked 168)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,139 | 2 |
+| 2023-06-03 | 2,147 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

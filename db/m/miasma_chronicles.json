@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1229,9 +1229,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 168
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1253,9 +1253,9 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 69
     },
     {
       "ID": "CROAKED",
@@ -1301,9 +1301,9 @@
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 148
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1325,9 +1325,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 316
     },
     {
       "ID": "ENDGAME",
@@ -1349,9 +1349,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 119
     },
     {
       "ID": "FIRESTARTER",
@@ -1517,9 +1517,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 267
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1573,9 +1573,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 99
     },
     {
       "ID": "WIPE_OUT",
@@ -1598,8 +1598,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:02:27.0104892+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:02:23.2135261+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:58:40.8220723+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:02:27.0105344+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:58:21.2198108+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:02:23.2135833+00:00"
 }

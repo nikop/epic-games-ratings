@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 23793,
+  "EOS_Progressed": 23803,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4711,6 +4711,11 @@
       "Time": "2023-06-03T15:06:58.1640798+00:00",
       "NumProgressed": 23793,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-03T16:05:51.7870856+00:00",
+      "NumProgressed": 23803,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -4722,7 +4727,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3808
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -4730,7 +4735,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4759
+      "UsersEstimate": 4761
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -4824,9 +4829,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -4953,7 +4958,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 23793,
+      "Progressed": 23803,
       "Completed": 18
     }
   ],
@@ -4961,8 +4966,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:06:58.1640793+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:05:51.7870853+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.5386302+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:00:46.9080623+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:06:58.1641317+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:59:49.6886882+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:05:51.7871243+00:00"
 }

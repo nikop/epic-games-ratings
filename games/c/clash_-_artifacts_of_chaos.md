@@ -9,9 +9,9 @@
 | Over the Moon | 32.00% | ~25 |
 | Enemies of Fate | 32.00% | ~25 |
 | The Bigger They Are | 30.00% | ~24 |
+| Your Training Continues | 27.00% | ~21 |
 | Amokuali Tower | 27.00% | ~21 |
 | Armored | 27.00% | ~21 |
-| Your Training Continues | 25.00% | ~20 |
 | Freedom | 23.00% | ~18 |
 | The Pride of Moozhaw | 20.00% | ~16 |
 | Winner | 20.00% | ~16 |

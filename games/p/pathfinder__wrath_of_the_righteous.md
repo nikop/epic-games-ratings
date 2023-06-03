@@ -36,6 +36,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 2.00% | ~190 |
 | Stay Underground | 2.00% | ~165 |
 | Hanged Man's Notes | 2.00% | ~165 |
+| Sarkoris Will Be Green | 2.00% | ~165 |
 | The Lady of the Forest | 2.00% | ~165 |
 | Beware Still Water | 2.00% | ~165 |
 | Path of the Demon | 1.00% | ~95 |
@@ -43,13 +44,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 1.00% | ~95 |
 | Capitulation Is Now Moot | 1.00% | ~95 |
 | Truly Important Deed | 1.00% | ~95 |
-| Sarkoris Will Be Green | 1.00% | ~83 |
 | Abyssal Conspiracy | 0.90% | ~85 |
 | This Wall Won't Fall | 0.80% | ~66 |
+| Not the Last Sarkorian | 0.80% | ~66 |
 | The Final Threshold | 0.70% | ~66 |
 | Strategic Victory | 0.70% | ~66 |
 | End of Eternal Guard | 0.70% | ~66 |
-| Not the Last Sarkorian | 0.70% | ~58 |
 | Path of the Dragon | 0.60% | ~57 |
 | Path of the Legend | 0.60% | ~57 |
 | Playful Mood | 0.60% | ~57 |

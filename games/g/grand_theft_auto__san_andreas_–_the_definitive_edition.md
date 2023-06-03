@@ -1,25 +1,25 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 361)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,489 |
-| Pay 'n' Spray | 48.00% | ~4,493 |
-| All Dressed Up for San Fierro | 22.00% | ~2,059 |
-| The American Dream | 17.00% | ~1,591 |
-| School's Out | 15.00% | ~1,404 |
-| Smooth Moves | 15.00% | ~1,404 |
-| Today Was a Good Day | 13.00% | ~1,217 |
-| What happens in Las Venturas... | 12.00% | ~1,123 |
-| Horror of the Santa Maria | 9.00% | ~842 |
-| Liberty City State of Mind | 7.00% | ~655 |
+| Getting Started | 80.00% | ~7,495 |
+| Pay 'n' Spray | 48.00% | ~4,497 |
+| All Dressed Up for San Fierro | 22.00% | ~2,061 |
+| The American Dream | 17.00% | ~1,593 |
+| School's Out | 15.00% | ~1,405 |
+| Smooth Moves | 15.00% | ~1,405 |
+| Today Was a Good Day | 13.00% | ~1,218 |
+| What happens in Las Venturas... | 12.00% | ~1,124 |
+| Horror of the Santa Maria | 9.00% | ~843 |
+| Liberty City State of Mind | 7.00% | ~656 |
 | With Extra Dip | 6.00% | ~562 |
 | The End of the Line | 6.00% | ~562 |
 | Original Gangster | 6.00% | ~562 |
 | Saviour | 5.00% | ~468 |
-| Rescue a Kitten Too? | 4.00% | ~374 |
+| Rescue a Kitten Too? | 4.00% | ~375 |
 | They Can’t Stop All of Us | 3.00% | ~281 |
 | What are the Odds | 3.00% | ~281 |
 | I’ll Have Two Number 9s | 2.00% | ~187 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 360)
 | ...Here we go again | 0.20% | ~19 |
 | I Ain't No Buster | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,361 (Ranked 112)  
+Progressed: 9,369 (Ranked 112)  
 Completed: 17 (0.18%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 17 (0.18%) (Ranked 147)
 | 2023-05-31 | 9,054 | 17 |
 | 2023-06-01 | 9,142 | 17 |
 | 2023-06-02 | 9,258 | 17 |
-| 2023-06-03 | 9,361 | 17 |
+| 2023-06-03 | 9,369 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

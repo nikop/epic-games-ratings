@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 1098,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1484,9 +1484,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1500,9 +1500,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -1805,8 +1805,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-01T17:57:28.160087+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:04:16.9328948+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:03:58.9933394+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:57:32.2657585+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:04:16.9333779+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:57:35.3924863+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:03:58.993377+00:00"
 }

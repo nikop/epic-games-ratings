@@ -15,30 +15,30 @@ Rating: 4.32 (Ranked 747)
 | Limp Richard | 35.00% | ~346 |
 | Firestarter | 34.00% | ~336 |
 | From Darkness to Light | 34.00% | ~336 |
+| Editor Adept | 32.00% | ~316 |
 | Exorcist | 32.00% | ~316 |
-| Editor Adept | 31.00% | ~306 |
 | Giant Killer | 27.00% | ~267 |
-| Sensei | 26.00% | ~257 |
+| Sensei | 27.00% | ~267 |
 | The meaning of Kain | 26.00% | ~257 |
 | Technophobe | 21.00% | ~207 |
 | Recycler | 19.00% | ~188 |
-| Chain Killer | 16.00% | ~158 |
+| Chain Killer | 17.00% | ~168 |
 | Hold The Line | 16.00% | ~158 |
 | Are you not entertained? | 15.00% | ~148 |
+| Jarhead | 15.00% | ~148 |
 | There Can Be Only One! | 15.00% | ~148 |
 | Ganglord | 14.00% | ~138 |
-| Jarhead | 14.00% | ~138 |
 | Infiltrator | 14.00% | ~138 |
 | Pushing Daisy | 14.00% | ~138 |
 | Newtonian Knockout | 13.00% | ~128 |
-| Experienced | 11.00% | ~109 |
+| Experienced | 12.00% | ~119 |
 | Ruthless | 10.00% | ~99 |
+| The Watchers | 10.00% | ~99 |
 | Endgame | 9.00% | ~89 |
 | Savior | 9.00% | ~89 |
-| The Watchers | 9.00% | ~89 |
+| Commando | 7.00% | ~69 |
 | Dr Jones | 7.00% | ~69 |
 | Chain Reaction | 6.00% | ~59 |
-| Commando | 6.00% | ~59 |
 | Curveball | 6.00% | ~59 |
 | Chaos Theory | 5.00% | ~49 |
 | Wipe Out | 5.00% | ~49 |

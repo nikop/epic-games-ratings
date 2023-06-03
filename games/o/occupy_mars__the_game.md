@@ -16,7 +16,7 @@ Rating: 3.86 (Ranked 914)
 | Houston we have a problem | 20.00% | ~220 |
 | Occupy Mars! | 19.00% | ~209 |
 | Detective | 16.00% | ~176 |
-| The Collector | 12.00% | ~132 |
+| The Collector | 13.00% | ~143 |
 | Get your hands dirty | 9.00% | ~99 |
 | All Wheel Trouble | 6.00% | ~66 |
 | Space Forest | 5.00% | ~55 |
@@ -30,8 +30,8 @@ Rating: 3.86 (Ranked 914)
 | Explosive Miner | 0.60% | ~7 |
 | Rocket Jump | 0.60% | ~7 |
 | Thunderstruck | 0.60% | ~7 |
+| 5G Network | 0.50% | ~5 |
 | Caveman | 0.50% | ~5 |
-| 5G Network | 0.40% | ~4 |
 | Bull’s eye | 0.40% | ~4 |
 | Rover Mechanic | 0.40% | ~4 |
 | Planetary Defence | 0.30% | ~3 |

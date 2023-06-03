@@ -10,8 +10,8 @@
 | Who's A Good Boy | 69.00% | ~95 |
 | Power Up | 68.00% | ~93 |
 | Thick Skin | 66.00% | ~90 |
-| Math Wizard | 63.00% | ~86 |
-| Destroy Erase Improve | 62.00% | ~85 |
+| Math Wizard | 64.00% | ~88 |
+| Destroy Erase Improve | 63.00% | ~86 |
 | Power Overload | 61.00% | ~84 |
 | Quite A Snack | 56.00% | ~77 |
 | Overwhelming Power | 53.00% | ~73 |

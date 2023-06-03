@@ -17,7 +17,7 @@ Number of Ratings: 34  (23.09.2022)
 | Sniper Wolf | 37.00% | ~114 |
 | Missing in Action | 36.00% | ~111 |
 | The Motivation | 35.00% | ~108 |
-| Heroism | 32.00% | ~99 |
+| Heroism | 33.00% | ~102 |
 | King of Knives | 32.00% | ~99 |
 | Collectibles of Chapter I | 31.00% | ~95 |
 | Consequences | 29.00% | ~89 |

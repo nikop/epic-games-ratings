@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 99.00% | ~86 |
-| Good to grow | 64.00% | ~56 |
-| Fashionista | 45.00% | ~39 |
-| Irrigation not irritation | 40.00% | ~35 |
-| Graduated | 38.00% | ~33 |
+| So it begins | 99.00% | ~88 |
+| Good to grow | 64.00% | ~57 |
+| Fashionista | 44.00% | ~39 |
+| Irrigation not irritation | 39.00% | ~35 |
+| Graduated | 37.00% | ~33 |
 | Night Shift | 25.00% | ~22 |
-| It's about the journey | 14.00% | ~12 |
+| It's about the journey | 13.00% | ~12 |
 | C'who? | 11.00% | ~10 |
 | Shine bright | 10.00% | ~9 |
 | There be sand in me shorts | 9.00% | ~8 |
@@ -18,9 +18,9 @@
 | It gets everywhere | 8.00% | ~7 |
 | Make it rain | 7.00% | ~6 |
 | Do you wanna build a snowboiii? | 6.00% | ~5 |
-| Peaceful skies | 5.00% | ~4 |
-| Groovy! | 5.00% | ~4 |
-| Ay ay yarrr! | 5.00% | ~4 |
+| Peaceful skies | 4.00% | ~4 |
+| Groovy! | 4.00% | ~4 |
+| Ay ay yarrr! | 4.00% | ~4 |
 | It's a bug's life | 3.00% | ~3 |
 | Homecoming | 2.00% | ~2 |
 | Who let the pets out? | 2.00% | ~2 |
@@ -36,7 +36,7 @@
 | Free Spirit | 0.00% | ~0 |
 | V is for Vegan | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 275)  
+Progressed: 89 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,6 +54,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-28 | 85 | 0 |
 | 2023-05-29 | 86 | 0 |
 | 2023-06-01 | 87 | 0 |
+| 2023-06-03 | 89 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

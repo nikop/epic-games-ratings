@@ -8,7 +8,7 @@
 | Complete Level 1-1 | 63.00% | ~53 |
 | Immortal | 54.00% | ~45 |
 | Complete Level 1-2 | 46.00% | ~39 |
-| Scraping by | 32.00% | ~27 |
+| Scraping by | 33.00% | ~28 |
 | Engineer-mage hybrid | 32.00% | ~27 |
 | Complete Level 1-3 | 30.00% | ~25 |
 | Defeat the warrior boss | 23.00% | ~19 |

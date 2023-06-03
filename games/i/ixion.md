@@ -42,8 +42,8 @@ Rating: 4.57 (Ranked 440)
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
+| You Had One Job... | 0.70% | ~17 |
 | Catastrophe Avoided | 0.60% | ~14 |
-| You Had One Job... | 0.60% | ~14 |
 | Tiqqun Contender | 0.50% | ~12 |
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |

@@ -3,7 +3,7 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 837,
-  "Ranking_Popularity": 337,
+  "Ranking_Popularity": 338,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 211,
@@ -800,7 +800,7 @@
   ],
   "EOS_Progressed": 5864,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3437,9 +3437,9 @@
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 293
     },
     {
       "ID": "Win_Research",
@@ -3461,8 +3461,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:04:34.1593722+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:04:10.5693139+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0102409+00:00",
-  "LastUpdate_Ratings": "2023-06-03T14:57:33.2286091+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:04:34.1594773+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:57:36.0047537+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:04:10.5693783+00:00"
 }

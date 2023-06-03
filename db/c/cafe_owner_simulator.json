@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1098,6 +1098,11 @@
       "Time": "2023-06-03T15:06:47.5578891+00:00",
       "NumProgressed": 526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T16:05:43.7236906+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1109,7 +1114,7 @@
       "Name": "ADVANCED",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -1117,7 +1122,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 518
     },
     {
       "ID": "CHIEF",
@@ -1125,7 +1130,7 @@
       "Name": "CHIEF",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CLEANER",
@@ -1133,7 +1138,7 @@
       "Name": "CLEANER",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 497
     },
     {
       "ID": "DEBTOR",
@@ -1141,7 +1146,7 @@
       "Name": "DEBTOR",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FIREFIGHTER",
@@ -1149,7 +1154,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "FIRST_100K",
@@ -1173,7 +1178,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 397
     },
     {
       "ID": "INTRODUCTION",
@@ -1220,7 +1225,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 529,
       "Completed": 0
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-03T15:06:47.5578888+00:00",
+  "LastChanged_Achievements": "2023-06-03T16:05:43.7236901+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.052301+00:00",
-  "LastUpdate_Ratings": "2023-06-03T15:00:03.7328676+00:00",
-  "LastUpdate_Achievements": "2023-06-03T15:06:47.5579044+00:00"
+  "LastUpdate_Ratings": "2023-06-03T15:59:19.1159969+00:00",
+  "LastUpdate_Achievements": "2023-06-03T16:05:43.7237025+00:00"
 }

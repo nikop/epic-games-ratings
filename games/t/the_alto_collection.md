@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,589 |
-| Rookie | 25.00% | ~6,101 |
-| Nomad | 19.00% | ~4,637 |
-| Picking Up Speed | 17.00% | ~4,149 |
-| Welcome Maya | 16.00% | ~3,904 |
-| Sightseer | 12.00% | ~2,928 |
-| Scout | 10.00% | ~2,440 |
-| Amateur | 9.00% | ~2,196 |
-| Wanderer | 9.00% | ~2,196 |
-| Enter Paz | 8.00% | ~1,952 |
-| Unlock Maya | 7.00% | ~1,708 |
-| Aviator | 6.00% | ~1,464 |
-| One With The Board | 6.00% | ~1,464 |
-| Voyager | 6.00% | ~1,464 |
-| My Little Friend | 5.00% | ~1,220 |
+| Finding Your Footing | 27.00% | ~6,591 |
+| Rookie | 25.00% | ~6,103 |
+| Nomad | 19.00% | ~4,638 |
+| Picking Up Speed | 17.00% | ~4,150 |
+| Welcome Maya | 16.00% | ~3,906 |
+| Sightseer | 12.00% | ~2,929 |
+| Scout | 10.00% | ~2,441 |
+| Amateur | 9.00% | ~2,197 |
+| Wanderer | 9.00% | ~2,197 |
+| Enter Paz | 8.00% | ~1,953 |
+| Unlock Maya | 7.00% | ~1,709 |
+| Aviator | 6.00% | ~1,465 |
+| One With The Board | 6.00% | ~1,465 |
+| Voyager | 6.00% | ~1,465 |
+| My Little Friend | 5.00% | ~1,221 |
 | Sandboarder | 4.00% | ~976 |
 | Izel Has Arrived | 4.00% | ~976 |
 | Junkie | 3.00% | ~732 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~24 |
 | Windswept | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,403 (Ranked 90)  
+Progressed: 24,412 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,11 +90,11 @@ Completed: 3 (0.01%) (Ranked 200)
 | 2023-05-31 | 23,985 | 3 |
 | 2023-06-01 | 24,146 | 3 |
 | 2023-06-02 | 24,305 | 3 |
-| 2023-06-03 | 24,403 | 3 |
+| 2023-06-03 | 24,412 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 44  (Ranked 405)  
+Max (Great for Quick Sessions): 44  (Ranked 406)  
 Sum: 345 (Ranked 317)  
-Diff (max vs sum): 88  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |
