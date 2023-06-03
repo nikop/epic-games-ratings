@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1383,6 +1383,11 @@
       "Time": "2023-06-03T10:03:41.6770576+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T11:03:51.8865536+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1474,7 +1479,7 @@
       "Name": "Zero Waste",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -1498,7 +1503,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -1514,7 +1519,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1544,9 +1549,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 175
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -1570,7 +1575,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1610,7 +1615,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -1618,7 +1623,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -1650,7 +1655,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1666,7 +1671,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -1704,9 +1709,9 @@
       "ID": "NEW_ACHIEVEMENT_ROCKET_JUMP",
       "SetID": "l546gc",
       "Name": "Rocket Jump",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -1720,9 +1725,9 @@
       "ID": "NEW_ACHIEVEMENT_ROVER_MECHANIC",
       "SetID": "l546gc",
       "Name": "Rover Mechanic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
@@ -1730,7 +1735,7 @@
       "Name": "Space Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -1754,15 +1759,15 @@
       "Name": "Bob The Builder",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
       "SetID": "l546gc",
       "Name": "Thunderstruck",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
@@ -1777,7 +1782,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1093,
       "Completed": 0
     }
   ],
@@ -1785,8 +1790,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-01T17:57:28.160087+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:03:41.6770571+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:03:51.8865531+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:57:20.9174364+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:03:41.6771067+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:57:26.6133968+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:03:51.8865927+00:00"
 }

@@ -4386,10 +4386,10 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707051,
-  "EOS_Completed": 12751,
-  "EOS_NewPlayers": 1413,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 707060,
+  "EOS_Completed": 12752,
+  "EOS_NewPlayers": 1404,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8331,6 +8331,11 @@
       "Time": "2023-06-03T10:05:43.4266609+00:00",
       "NumProgressed": 707051,
       "NumCompleted": 12751
+    },
+    {
+      "Time": "2023-06-03T11:05:56.0002507+00:00",
+      "NumProgressed": 707060,
+      "NumCompleted": 12752
     }
   ],
   "TotalAchievements": 50,
@@ -8382,7 +8387,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "07_Wude_H1",
@@ -8446,7 +8451,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "15_Detective_H1",
@@ -8476,9 +8481,9 @@
       "ID": "18_Detective_H4",
       "SetID": "adcm20g",
       "Name": "Knowledge Greed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1414
+      "UsersEstimate": 2121
     },
     {
       "ID": "19_Detective_H5",
@@ -8494,7 +8499,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8654,7 +8659,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8741,21 +8746,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16352,
+      "Progressed": 16361,
       "Completed": 10216
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707051,
-      "Completed": 12751
+      "Progressed": 707060,
+      "Completed": 12752
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-02T18:59:21.3586321+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:05:43.4266606+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:05:56.0002501+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:58:40.5875915+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:05:43.4267243+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:58:47.9541519+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:05:56.0003057+00:00"
 }

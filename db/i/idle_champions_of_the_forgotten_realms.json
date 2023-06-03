@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4090,10 +4090,10 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89591,
-  "EOS_Completed": 1911,
-  "EOS_NewPlayers": 758,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 89593,
+  "EOS_Completed": 1912,
+  "EOS_NewPlayers": 752,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8490,6 +8490,11 @@
       "Time": "2023-06-03T10:05:52.6925978+00:00",
       "NumProgressed": 89591,
       "NumCompleted": 1911
+    },
+    {
+      "Time": "2023-06-03T11:06:05.1440719+00:00",
+      "NumProgressed": 89593,
+      "NumCompleted": 1912
     }
   ],
   "TotalAchievements": 493,
@@ -9707,9 +9712,9 @@
       "ID": "objective_completed_166",
       "SetID": "cc37lbc",
       "Name": "Force Grey Unleashed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_167",
@@ -11259,9 +11264,9 @@
       "ID": "objective_completed_628",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu All Over Again",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_630",
@@ -12444,21 +12449,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55865,
+      "Progressed": 55867,
       "Completed": 2762
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89591,
-      "Completed": 1911
+      "Progressed": 89593,
+      "Completed": 1912
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:05:52.6925969+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:06:05.1440708+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:57:53.7110435+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:05:52.6949085+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:58:00.4224295+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:06:05.1463184+00:00"
 }

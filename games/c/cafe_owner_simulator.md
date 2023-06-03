@@ -9,7 +9,7 @@
 | OH NO, HE'S LEAVING! | 75.00% | ~388 |
 | FIREFIGHTER | 54.00% | ~279 |
 | ADVANCED | 38.00% | ~196 |
-| CHIEF | 17.00% | ~88 |
+| CHIEF | 18.00% | ~93 |
 | SECOND_FLOOR | 11.00% | ~57 |
 | DEBTOR | 9.00% | ~47 |
 | THINGS ARE GOING WELL | 4.00% | ~21 |

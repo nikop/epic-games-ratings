@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 6.12,
+  "EOS_Completed_Percentage": 6.11,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -966,6 +966,11 @@
       "Time": "2023-06-03T07:03:51.4109376+00:00",
       "NumProgressed": 392,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-03T11:03:58.982127+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 30,
@@ -977,7 +982,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "LEVEL_002",
@@ -1009,7 +1014,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_006",
@@ -1025,7 +1030,7 @@
       "Name": "Animals in the farm",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_008",
@@ -1033,15 +1038,15 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "LEVEL_010",
@@ -1065,7 +1070,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_013",
@@ -1073,7 +1078,7 @@
       "Name": "Higher ground",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LEVEL_014",
@@ -1177,7 +1182,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_027",
@@ -1185,7 +1190,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_028",
@@ -1193,7 +1198,7 @@
       "Name": "What is the country?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_029",
@@ -1201,7 +1206,7 @@
       "Name": "Bridges connect us",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_030",
@@ -1216,14 +1221,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:03:48.5785231+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:03:58.9821264+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:57:05.0545858+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:03:48.5785511+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:57:09.9589764+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:03:58.9821506+00:00"
 }

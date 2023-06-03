@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1145,9 +1145,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 209
     },
     {
       "ID": "PidgeDefeated",
@@ -1304,8 +1304,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:04:51.2720378+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:05:02.0311735+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:59:00.3934016+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:04:51.2720884+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:59:08.4973+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:05:02.0312159+00:00"
 }

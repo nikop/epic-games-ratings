@@ -384,9 +384,9 @@
       "ID": "BISTUN_ACHIEVEMENT_8",
       "SetID": "1kdk24p",
       "Name": "Fledgling Smithy",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_9",
@@ -409,8 +409,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:05:39.4873387+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:05:51.1331907+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:19.092237+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:59:23.6794274+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:05:39.4873652+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:59:31.9687742+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:05:51.1332146+00:00"
 }

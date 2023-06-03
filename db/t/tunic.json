@@ -2,12 +2,12 @@
   "ID": "b6faa05b8b594ec39944ff71dbdfdfc1",
   "Name": "TUNIC",
   "ProductSlug": "tunic",
-  "Ranking_Rating": 47,
+  "Ranking_Rating": 38,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-16T17:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 100,
   "RatingHistory": [
     {
@@ -189,6 +189,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-06-03T10:59:27.6878586+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
@@ -214,8 +220,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
-  "LastChanged": "2023-05-27T15:00:26.2191373+00:00",
+  "LastChanged": "2023-06-03T10:59:27.687858+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:14.3813763+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:59:19.5094606+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:04:52.8192075+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:59:27.687859+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:05:03.5029002+00:00"
 }

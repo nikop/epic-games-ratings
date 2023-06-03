@@ -568,7 +568,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4019,
+  "EOS_Progressed": 4020,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
@@ -2488,6 +2488,11 @@
       "Time": "2023-06-03T10:00:29.3714286+00:00",
       "NumProgressed": 4019,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T11:02:19.6369926+00:00",
+      "NumProgressed": 4020,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2499,7 +2504,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2515,7 +2520,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2533
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2523,7 +2528,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -2539,7 +2544,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2547,7 +2552,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -2611,7 +2616,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -2778,13 +2783,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4019,
+      "Progressed": 4020,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3391,
+      "Progressed": 3392,
       "Completed": 112
     }
   ],
@@ -2792,8 +2797,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:00:29.3714281+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:02:19.6369923+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:14.4046039+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:59:19.8764094+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:00:29.3714662+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:59:27.9642819+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:02:19.6370399+00:00"
 }

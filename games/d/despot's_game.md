@@ -10,7 +10,7 @@ Rating: 4.50 (Ranked 542)
 | Party | 46.00% | ~178 |
 | Knowledge is Power | 44.00% | ~171 |
 | Impossible Cube | 43.00% | ~167 |
-| No Mercy | 41.00% | ~159 |
+| No Mercy | 42.00% | ~163 |
 | The Return of a Rat | 40.00% | ~155 |
 | Through the Darkness | 40.00% | ~155 |
 | Fat of the Earth | 33.00% | ~128 |
@@ -18,8 +18,8 @@ Rating: 4.50 (Ranked 542)
 | Catch Jonathan_tostar | 27.00% | ~105 |
 | Great Hero | 26.00% | ~101 |
 | Campaigning | 25.00% | ~97 |
+| Assemble a Meganewbie | 25.00% | ~97 |
 | Rookie | 25.00% | ~97 |
-| Assemble a Meganewbie | 24.00% | ~93 |
 | He's Seen It All | 24.00% | ~93 |
 | Frugal | 21.00% | ~81 |
 | Feed a God | 20.00% | ~78 |

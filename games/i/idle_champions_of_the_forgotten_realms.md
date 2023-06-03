@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.20% | ~179 |
 | Captured! | 0.20% | ~179 |
 | Street War | 0.20% | ~179 |
+| Force Grey Unleashed | 0.20% | ~179 |
 | March of the Undead | 0.20% | ~179 |
 | Wisdom Check | 0.20% | ~179 |
 | Sleuth It Out | 0.20% | ~179 |
@@ -109,6 +110,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~179 |
 | Elturel Has Fallen | 0.20% | ~179 |
 | Resolve Amongst Chaos | 0.20% | ~179 |
+| Déjà Vu All Over Again | 0.20% | ~112 |
 | Into The Fire | 0.20% | ~112 |
 | Hearts Aflame | 0.20% | ~112 |
 | Look Out! | 0.20% | ~112 |
@@ -232,7 +234,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
 | Underground Railroad | 0.10% | ~90 |
-| Force Grey Unleashed | 0.10% | ~90 |
 | Vajra's Guards | 0.10% | ~90 |
 | The Newcomers of Notoriety | 0.10% | ~56 |
 | Never Split the Party | 0.10% | ~90 |
@@ -381,7 +382,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu | 0.10% | ~56 |
 | Wait, What? | 0.10% | ~56 |
 | Ireena von Zarovich | 0.10% | ~56 |
-| Déjà Vu All Over Again | 0.10% | ~56 |
 | A Difficult Descent | 0.10% | ~56 |
 | The Devil Arrives | 0.10% | ~56 |
 | Dreamscape | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,591 (Ranked 62)  
-Completed: 1,911 (2.13%) (Ranked 63)  
+Progressed: 89,593 (Ranked 62)  
+Completed: 1,912 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -544,7 +544,7 @@ Completed: 1,911 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,591 | 1,911 |
+| 2023-06-03 | 89,593 | 1,912 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

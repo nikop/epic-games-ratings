@@ -27,13 +27,13 @@
 | For Whom the Bell Tolls | 50.00% | ~9 |
 | Here I Am | 50.00% | ~9 |
 | The Milk Canal | 50.00% | ~9 |
+| Fledgling Smithy | 50.00% | ~9 |
 | Prison Break | 44.00% | ~8 |
 | I Pick You | 44.00% | ~8 |
 | Accomplished Smithy | 44.00% | ~8 |
 | The Blight's Blight | 44.00% | ~8 |
 | The Ultimate Sacrifice | 44.00% | ~8 |
 | Break The Cycle | 44.00% | ~8 |
-| Fledgling Smithy | 44.00% | ~8 |
 | At One With Nature | 44.00% | ~8 |
 | Continue The Cycle | 33.00% | ~6 |
 | Talent And Dedication | 28.00% | ~5 |

@@ -22,7 +22,7 @@
 | The Steel Shadow | 39.00% | ~227 |
 | Golem Chaser | 38.00% | ~221 |
 | Like Clockwork | 36.00% | ~209 |
-| The Wicked Twins | 35.00% | ~203 |
+| The Wicked Twins | 36.00% | ~209 |
 | The Betrayer | 34.00% | ~198 |
 | Check Your Pulse | 31.00% | ~180 |
 | Family Memories | 30.00% | ~174 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -818,9 +818,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7573,
+  "EOS_Progressed": 7574,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2078,6 +2078,11 @@
       "Time": "2023-06-03T10:05:20.9959907+00:00",
       "NumProgressed": 7573,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-03T11:05:31.9149851+00:00",
+      "NumProgressed": 7574,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2113,7 +2118,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2153,7 +2158,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2201,7 +2206,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "RookieWelcome",
@@ -2217,7 +2222,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2249,7 +2254,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7043
+      "UsersEstimate": 7044
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2257,7 +2262,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3560
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2280,15 +2285,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7573,
+      "Progressed": 7574,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-03T03:58:36.0375055+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:05:20.9959904+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:05:31.9149844+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:58:36.6978319+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:05:20.9960123+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:58:43.8390807+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:05:31.9150068+00:00"
 }

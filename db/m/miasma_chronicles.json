@@ -2,7 +2,7 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 760,
+  "Ranking_Rating": 761,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 172,
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 980,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1141,6 +1141,11 @@
       "Time": "2023-06-03T10:00:22.4051628+00:00",
       "NumProgressed": 979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T11:02:12.4720214+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1168,7 +1173,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1296,7 +1301,7 @@
       "Name": "Editor Adept",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ENDGAME",
@@ -1312,7 +1317,7 @@
       "Name": "Exorcist",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "EXPERIENCED",
@@ -1334,9 +1339,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 902
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1368,7 +1373,7 @@
       "Name": "Giant Killer",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "GOAL",
@@ -1384,7 +1389,7 @@
       "Name": "Gun for Hire",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1400,7 +1405,7 @@
       "Name": "I am the law!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "INFILTRATOR",
@@ -1414,9 +1419,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 402
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1432,7 +1437,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PUSHING_DAISY",
@@ -1462,9 +1467,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 186
     },
     {
       "ID": "RUTHLESS",
@@ -1526,9 +1531,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 137
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1559,7 +1564,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 980,
       "Completed": 0
     }
   ],
@@ -1567,8 +1572,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-01T20:58:08.0220539+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:00:22.4051622+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:02:12.472021+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:58:06.1172155+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:00:22.4052615+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:58:12.6614351+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:02:12.4720605+00:00"
 }

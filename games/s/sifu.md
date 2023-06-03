@@ -23,10 +23,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,071 |
 | Bloody Sport | 1.00% | ~164 |
 | The best strikes are the ones we avoid | 1.00% | ~164 |
-| Furious Fists | 0.90% | ~6,363 |
-| Kill Nil | 0.90% | ~6,363 |
-| Stuntmaster | 0.90% | ~6,363 |
-| Take damage to save time | 0.90% | ~6,363 |
+| Furious Fists | 0.90% | ~6,364 |
+| Kill Nil | 0.90% | ~6,364 |
+| Stuntmaster | 0.90% | ~6,364 |
+| Take damage to save time | 0.90% | ~6,364 |
 | Old Child | 0.80% | ~5,656 |
 | Scareless | 0.70% | ~4,949 |
 | Kung-Fu Tussle | 0.70% | ~4,949 |
@@ -45,10 +45,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,828 |
 | Sword Stained With Blood | 0.40% | ~2,828 |
 | Martial Hub | 0.40% | ~65 |
+| Knowledge Greed | 0.30% | ~2,121 |
 | Secure, Protect, Leave | 0.30% | ~49 |
 | Drunken Fighter | 0.20% | ~1,414 |
 | Martial Artist | 0.20% | ~1,414 |
-| Knowledge Greed | 0.20% | ~1,414 |
 | Healing Memory | 0.20% | ~1,414 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,414 |
 | The Pit Protector | 0.20% | ~1,414 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,051 (Ranked 15)  
-Completed: 12,751 (1.80%) (Ranked 67)  
+Progressed: 707,060 (Ranked 15)  
+Completed: 12,752 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 12,751 (1.80%) (Ranked 67)
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
-| 2023-06-03 | 707,051 | 12,751 |
+| 2023-06-03 | 707,060 | 12,752 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
 Sum: 10,445 (Ranked 78)  

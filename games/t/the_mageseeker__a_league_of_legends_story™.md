@@ -20,8 +20,8 @@ Rating: 4.78 (Ranked 99)
 | Thornbarrow | 32.00% | ~722 |
 | Cypress Glen Headquarters | 31.00% | ~699 |
 | Old friend | 27.00% | ~609 |
+| Devineur | 27.00% | ~609 |
 | Petricite Burst | 27.00% | ~609 |
-| Devineur | 26.00% | ~586 |
 | Whispers in the Woods I | 25.00% | ~564 |
 | Hijack | 25.00% | ~564 |
 | Ancient power | 23.00% | ~519 |

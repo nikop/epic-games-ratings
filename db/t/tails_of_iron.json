@@ -1180,9 +1180,9 @@
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1219
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1355,8 +1355,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-03T10:00:04.7228548+00:00",
+  "LastChanged_Achievements": "2023-06-03T11:00:14.8349601+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:58:09.7454348+00:00",
-  "LastUpdate_Achievements": "2023-06-03T10:00:04.7228869+00:00"
+  "LastUpdate_Ratings": "2023-06-03T10:58:16.1762591+00:00",
+  "LastUpdate_Achievements": "2023-06-03T11:00:14.8349883+00:00"
 }
