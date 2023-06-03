@@ -18,7 +18,7 @@ Rating: 4.78 (Ranked 99)
 | Thornbarrow | 33.00% | ~744 |
 | Ternmoat Headquarters | 33.00% | ~744 |
 | Elemental master | 32.00% | ~722 |
-| Cypress Glen Headquarters | 31.00% | ~699 |
+| Cypress Glen Headquarters | 32.00% | ~722 |
 | Petricite Burst | 28.00% | ~631 |
 | Old friend | 27.00% | ~609 |
 | Devineur | 27.00% | ~609 |
@@ -46,7 +46,7 @@ Rating: 4.78 (Ranked 99)
 | Embrace the darkness | 11.00% | ~248 |
 | Whispers in the Woods IV | 11.00% | ~248 |
 | I smell fear | 10.00% | ~226 |
-| The end of the experiments | 9.00% | ~203 |
+| The end of the experiments | 10.00% | ~226 |
 | The Great City of Demacia | 9.00% | ~203 |
 | Truth is a dark mirror | 9.00% | ~203 |
 | Back to sleep, then... | 9.00% | ~203 |

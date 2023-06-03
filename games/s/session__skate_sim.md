@@ -1,16 +1,16 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 276)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 53.00% | ~1,181 |
-| Keeping it classy | 25.00% | ~557 |
+| You're free now! | 53.00% | ~1,182 |
+| Keeping it classy | 25.00% | ~558 |
 | Welcome to the family | 18.00% | ~401 |
-| The finer things in life | 16.00% | ~356 |
-| Backpacker | 12.00% | ~267 |
+| The finer things in life | 16.00% | ~357 |
+| Backpacker | 12.00% | ~268 |
 | Go with the Flow | 11.00% | ~245 |
 | Plastic Surgeon | 9.00% | ~201 |
 | The flip trick crown jewel | 9.00% | ~201 |
@@ -21,15 +21,14 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 6.00% | ~134 |
 | That pinch! | 6.00% | ~134 |
 | Tight lipslides | 6.00% | ~134 |
-| Bottom ply killer | 5.00% | ~111 |
-| Fashionista | 5.00% | ~111 |
-| Fulfilled the dream | 5.00% | ~111 |
-| G'Day Mate! | 5.00% | ~111 |
-| NAHELL! | 5.00% | ~111 |
-| Squad goals | 5.00% | ~111 |
-| Sup widdit big dog! | 5.00% | ~111 |
+| Bottom ply killer | 5.00% | ~112 |
+| Fashionista | 5.00% | ~112 |
+| Fulfilled the dream | 5.00% | ~112 |
+| G'Day Mate! | 5.00% | ~112 |
+| NAHELL! | 5.00% | ~112 |
+| Squad goals | 5.00% | ~112 |
+| Sup widdit big dog! | 5.00% | ~112 |
 | Commence the Hijinx! | 4.00% | ~89 |
-| Cops called! | 4.00% | ~89 |
 | DIY Boss | 4.00% | ~89 |
 | Globetrotter | 4.00% | ~89 |
 | Laid back | 4.00% | ~89 |
@@ -39,9 +38,10 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 4.00% | ~89 |
 | Renaissance man | 4.00% | ~89 |
 | Tank commander | 4.00% | ~89 |
-| Trick shot marksman | 4.00% | ~89 |
+| Cops called! | 3.00% | ~67 |
 | G.O.A.T. status | 3.00% | ~67 |
 | Hoarder | 3.00% | ~67 |
+| Trick shot marksman | 3.00% | ~67 |
 | We get it, you're good | 3.00% | ~67 |
 | Cross lock country | 2.00% | ~45 |
 | Many plys later... | 2.00% | ~45 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,228 (Ranked 148)  
+Progressed: 2,230 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 2,181 | 0 |
 | 2023-06-01 | 2,200 | 0 |
 | 2023-06-02 | 2,219 | 0 |
-| 2023-06-03 | 2,228 | 0 |
+| 2023-06-03 | 2,230 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 415 (Ranked 301)  
@@ -216,3 +216,4 @@ Diff (max vs sum): 96
 | 2023-05-18 | 4.66 | - | 48 | 412 |
 | 2023-05-19 | 4.66 | - | 48 | 414 |
 | 2023-06-02 | 4.66 | - | 48 | 415 |
+| 2023-06-03 | 4.67 | - | 48 | 415 |

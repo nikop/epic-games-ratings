@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,11 +280,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.4589703+00:00",
@@ -710,6 +710,11 @@
       "Time": "2023-06-03T10:05:38.4129023+00:00",
       "NumProgressed": 363,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T20:06:13.0420507+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -727,7 +732,7 @@
       "ID": "cool-shirts",
       "SetID": "bed33dd",
       "Name": "Sense Of Style",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -735,17 +740,17 @@
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 157
     },
     {
       "ID": "female-conqueror",
@@ -769,7 +774,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "kill-lieutenants",
@@ -833,7 +838,7 @@
       "Name": "Spread",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "send-smuggling",
@@ -872,15 +877,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:38.0046713+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:13.0420502+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:34.3322021+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:59:44.6586591+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:38.0046871+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:00:20.6733919+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:13.0420676+00:00"
 }

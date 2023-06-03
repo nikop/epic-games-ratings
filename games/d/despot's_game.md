@@ -5,25 +5,25 @@ Rating: 4.50 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 83.00% | ~323 |
-| Vanquisher of Robots | 74.00% | ~288 |
+| Good start! | 83.00% | ~324 |
+| Vanquisher of Robots | 74.00% | ~289 |
 | Party | 46.00% | ~179 |
-| Knowledge is Power | 44.00% | ~171 |
-| Impossible Cube | 43.00% | ~167 |
-| No Mercy | 42.00% | ~163 |
-| The Return of a Rat | 40.00% | ~156 |
+| Knowledge is Power | 44.00% | ~172 |
+| Impossible Cube | 43.00% | ~168 |
+| No Mercy | 42.00% | ~164 |
 | Through the Darkness | 40.00% | ~156 |
-| Fat of the Earth | 33.00% | ~128 |
-| Last Man Standing | 32.00% | ~124 |
+| The Return of a Rat | 39.00% | ~152 |
+| Fat of the Earth | 33.00% | ~129 |
+| Last Man Standing | 32.00% | ~125 |
 | Catch Jonathan_tostar | 27.00% | ~105 |
-| Campaigning | 25.00% | ~97 |
-| Assemble a Meganewbie | 25.00% | ~97 |
-| He's Seen It All | 25.00% | ~97 |
-| Great Hero | 25.00% | ~97 |
-| Rookie | 25.00% | ~97 |
+| Campaigning | 25.00% | ~98 |
+| Assemble a Meganewbie | 25.00% | ~98 |
+| He's Seen It All | 25.00% | ~98 |
+| Great Hero | 25.00% | ~98 |
+| Rookie | 25.00% | ~98 |
 | Frugal | 21.00% | ~82 |
 | Feed a God | 20.00% | ~78 |
-| To the Moon and Back | 20.00% | ~78 |
+| To the Moon and Back | 19.00% | ~74 |
 | Great Flight | 18.00% | ~70 |
 | Holy Vengeance | 15.00% | ~58 |
 | Honorary Cultist | 11.00% | ~43 |
@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 542)
 | Experimentalist | 6.00% | ~23 |
 | Wide Selection | 6.00% | ~23 |
 | Soldier | 6.00% | ~23 |
-| Android Power | 5.00% | ~19 |
+| Android Power | 5.00% | ~20 |
 | Shopaholic | 3.00% | ~12 |
 | Zombie Lover | 3.00% | ~12 |
 | Munchkin | 2.00% | ~8 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 542)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389 (Ranked 208)  
+Progressed: 390 (Ranked 208)  
 Completed: 1 (0.26%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1 (0.26%) (Ranked 137)
 | 2023-05-30 | 383 | 1 |
 | 2023-05-31 | 386 | 1 |
 | 2023-06-01 | 387 | 1 |
-| 2023-06-03 | 389 | 1 |
+| 2023-06-03 | 390 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

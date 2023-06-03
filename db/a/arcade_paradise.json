@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -288,6 +288,11 @@
       "Time": "2023-06-03T04:05:46.7219536+00:00",
       "NumProgressed": 615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T20:06:13.2324921+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -347,7 +352,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "AhoyTrophy",
@@ -371,7 +376,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -393,7 +398,7 @@
       "ID": "BorkTrophy",
       "SetID": "32aeje8",
       "Name": "Friends Reunited",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -441,9 +446,9 @@
       "ID": "EntryTrophy",
       "SetID": "32aeje8",
       "Name": "Pushing a pull door",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 591
     },
     {
       "ID": "Ext4Trophy",
@@ -475,7 +480,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "GoldGuyTrophy",
@@ -579,7 +584,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "MaxPriceTrophy",
@@ -667,7 +672,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "TerrorTrophy",
@@ -730,7 +735,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
@@ -738,8 +743,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:38.1758846+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:13.2324915+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:24.1634561+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:58:08.706337+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:38.1759347+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:58:16.4976766+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:13.2325782+00:00"
 }

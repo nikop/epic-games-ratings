@@ -1909,9 +1909,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2322
     },
     {
       "ID": "campaign20",
@@ -2046,8 +2046,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:43.8687735+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:20.0450517+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:59:48.1331839+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:43.8688091+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:00:25.647008+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:20.0450884+00:00"
 }

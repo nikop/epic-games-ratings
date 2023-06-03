@@ -8,16 +8,16 @@
 | Collectibles Part 1 | 49.00% | ~192 |
 | Welcome to Mordor! | 49.00% | ~192 |
 | Wait! Wait! Not yet! | 34.00% | ~133 |
-| Like Flying... | 31.00% | ~121 |
-| Memories | 28.00% | ~109 |
+| Like Flying... | 31.00% | ~122 |
+| Memories | 28.00% | ~110 |
 | The Maggot | 24.00% | ~94 |
 | The Breeder | 19.00% | ~74 |
 | The Veteran | 15.00% | ~59 |
 | The Traitor | 11.00% | ~43 |
 | The Spider | 9.00% | ~35 |
-| Good as Fish | 6.00% | ~23 |
-| Murderer | 6.00% | ~23 |
-| Trigger-Happy | 6.00% | ~23 |
+| Good as Fish | 6.00% | ~24 |
+| Murderer | 6.00% | ~24 |
+| Trigger-Happy | 6.00% | ~24 |
 | He's so Annoying | 5.00% | ~20 |
 | Her Eyes | 5.00% | ~20 |
 | The Friend | 4.00% | ~16 |
@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391 (Ranked 207)  
+Progressed: 392 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,4 +58,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 369 | 0 |
 | 2023-06-01 | 382 | 0 |
 | 2023-06-02 | 390 | 0 |
-| 2023-06-03 | 391 | 0 |
+| 2023-06-03 | 392 | 0 |

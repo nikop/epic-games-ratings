@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 796)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,352 |
-| Don't I Know You...? | 77.00% | ~1,301 |
-| Jailbreak | 65.00% | ~1,098 |
-| Suited and Booted | 38.00% | ~642 |
-| HEADSHOT! | 37.00% | ~625 |
+| Rigged And Ready | 80.00% | ~1,353 |
+| Don't I Know You...? | 76.00% | ~1,285 |
+| Jailbreak | 65.00% | ~1,099 |
+| Suited and Booted | 38.00% | ~643 |
+| HEADSHOT! | 37.00% | ~626 |
 | Sleeping With The Fishes | 35.00% | ~592 |
 | Overheated | 30.00% | ~507 |
 | High Performance | 30.00% | ~507 |
@@ -25,7 +25,7 @@ Rating: 4.24 (Ranked 796)
 | Unforeseeable Consequences | 19.00% | ~321 |
 | Clean Cut | 18.00% | ~304 |
 | Dead Again | 17.00% | ~287 |
-| Full Arsenal | 16.00% | ~270 |
+| Full Arsenal | 16.00% | ~271 |
 | Can't Trust Banks | 15.00% | ~254 |
 | Mommy Dearest | 13.00% | ~220 |
 | Bad Dog | 13.00% | ~220 |
@@ -44,11 +44,11 @@ Rating: 4.24 (Ranked 796)
 | Following In Their Footsteps | 7.00% | ~118 |
 | Turbo Booster | 6.00% | ~101 |
 | Squid Pro Quo | 6.00% | ~101 |
-| Reborn | 5.00% | ~84 |
-| Remote Surgery | 5.00% | ~84 |
-| Counter-Sniper | 5.00% | ~84 |
-| Shrimp Cocktail | 5.00% | ~84 |
-| Juiced Up | 5.00% | ~84 |
+| Reborn | 5.00% | ~85 |
+| Remote Surgery | 5.00% | ~85 |
+| Counter-Sniper | 5.00% | ~85 |
+| Shrimp Cocktail | 5.00% | ~85 |
+| Juiced Up | 5.00% | ~85 |
 | Hello Darkness My Old Friend | 4.00% | ~68 |
 | Geronimo! | 4.00% | ~68 |
 | Plank of Wood | 4.00% | ~68 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 796)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,690 (Ranked 154)  
+Progressed: 1,691 (Ranked 154)  
 Completed: 10 (0.59%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 10 (0.59%) (Ranked 109)
 | 2023-05-31 | 1,667 | 10 |
 | 2023-06-01 | 1,674 | 10 |
 | 2023-06-02 | 1,682 | 10 |
-| 2023-06-03 | 1,690 | 10 |
+| 2023-06-03 | 1,691 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

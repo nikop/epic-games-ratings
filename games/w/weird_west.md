@@ -22,8 +22,8 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 24.00% | ~383 |
 | The Great Escape | 23.00% | ~367 |
 | That’s All, Folks | 18.00% | ~287 |
+| Fallen Star | 16.00% | ~255 |
 | Winds of War | 16.00% | ~255 |
-| Fallen Star | 15.00% | ~239 |
 | For Balance | 15.00% | ~239 |
 | Here Comes Santa Claus | 15.00% | ~239 |
 | Dog Days | 13.00% | ~207 |

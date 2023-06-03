@@ -3,7 +3,7 @@
   "Name": "Risk of Rain 2",
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 247,
+  "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
@@ -1500,11 +1500,17 @@
       "Rating": 4.84,
       "NumberOfAwards": 2261,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2023-06-03T19:59:27.412589+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2263,
+      "NumberOfAwardsMax": 232
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2261,
-  "NumberOfAwardsMax": 230,
+  "NumberOfAwards": 2263,
+  "NumberOfAwardsMax": 232,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -1571,7 +1577,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 230
+      "Count": 232
     },
     {
       "Text": "This game has a Creative Community",
@@ -1591,8 +1597,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-06-03T15:59:12.5760988+00:00",
+  "LastChanged": "2023-06-03T19:59:27.4125888+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:38.5963715+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:59:04.8186135+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:02:25.1253024+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:59:27.4125896+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:02:31.4575282+00:00"
 }

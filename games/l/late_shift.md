@@ -18,7 +18,7 @@
 | The Ploy | 15.00% | ~58 |
 | Interrogation | 14.00% | ~54 |
 | Sabotage | 12.00% | ~46 |
-| Choices Matter | 7.00% | ~27 |
+| Choices Matter | 8.00% | ~31 |
 | The Fool | 6.00% | ~23 |
 | The Lion's Den | 4.00% | ~15 |
 | The Coward | 3.00% | ~12 |

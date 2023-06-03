@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 49.00% | ~15 |
+| Aspairagus | 51.00% | ~16 |
 | Survivor | 42.00% | ~13 |
 | Seeds of War | 40.00% | ~32 |
 | No Diggity | 35.00% | ~11 |
 | Early Survivor | 33.00% | ~10 |
-| First Blood | 30.00% | ~24 |
+| First Blood | 32.00% | ~26 |
 | No Asperascope | 25.00% | ~20 |
 | Triple Kill | 25.00% | ~20 |
 | Cornivore | 23.00% | ~19 |

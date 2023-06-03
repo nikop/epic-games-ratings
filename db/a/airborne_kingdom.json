@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6514,
+  "EOS_Progressed": 6515,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1493,6 +1493,11 @@
       "Time": "2023-06-03T16:05:46.013886+00:00",
       "NumProgressed": 6514,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-03T20:05:59.6210965+00:00",
+      "NumProgressed": 6515,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1512,7 +1517,7 @@
       "Name": "Daylight Found",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1536,7 +1541,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1560,7 +1565,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -1568,7 +1573,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1719,15 +1724,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6514,
+      "Progressed": 6515,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:26.6393382+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:05:59.6210944+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0570874+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:57:30.295728+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:26.6393649+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:57:26.4184034+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:05:59.6211355+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5093,
+  "EOS_Progressed": 5094,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -455,6 +455,11 @@
       "Time": "2023-06-03T13:10:56.7920897+00:00",
       "NumProgressed": 5093,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-03T20:06:22.2615864+00:00",
+      "NumProgressed": 5094,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -466,7 +471,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -482,7 +487,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -594,7 +599,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -690,7 +695,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -754,7 +759,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -810,7 +815,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -850,22 +855,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5093,
+      "Progressed": 5094,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:46.0565237+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:22.2615857+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:31.2717028+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:59:42.0826165+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:46.0565666+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:00:17.3572276+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:22.2616224+00:00"
 }

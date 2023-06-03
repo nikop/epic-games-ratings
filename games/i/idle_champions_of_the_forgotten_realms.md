@@ -11,13 +11,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.80% | ~717 |
 | The Mad Wizard | 0.80% | ~717 |
 | The Court of Storms | 0.80% | ~447 |
-| Beware the Jabberwock | 0.70% | ~391 |
+| Beware the Jabberwock | 0.70% | ~392 |
 | The Ring of Regeneration | 0.60% | ~538 |
 | Were-verpowered | 0.50% | ~448 |
 | Seeking Allies | 0.50% | ~448 |
 | Are Ya Chicken? | 0.50% | ~448 |
 | Friendly Imps | 0.50% | ~448 |
 | Coasting to the Finish | 0.50% | ~280 |
+| Best Thay Ever | 0.40% | ~224 |
 | Checkmate | 0.40% | ~224 |
 | Vecna Out! | 0.40% | ~224 |
 | A Persistent Buzzing | 0.40% | ~359 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.40% | ~224 |
 | Maddening | 0.30% | ~269 |
 | Owlbear Necessities | 0.30% | ~168 |
-| Best Thay Ever | 0.30% | ~168 |
 | Pin and Skewer | 0.30% | ~168 |
 | Beast Mode | 0.30% | ~269 |
 | Low Initiative | 0.30% | ~269 |
@@ -114,6 +114,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~179 |
 | Elturel Has Fallen | 0.20% | ~179 |
 | Resolve Amongst Chaos | 0.20% | ~179 |
+| Avernus Frozen Over | 0.20% | ~112 |
 | Déjà Vu All Over Again | 0.20% | ~112 |
 | Into The Fire | 0.20% | ~112 |
 | Hearts Aflame | 0.20% | ~112 |
@@ -365,7 +366,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hailstorm! | 0.10% | ~56 |
 | All You Know Is Wrong | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
-| Avernus Frozen Over | 0.10% | ~56 |
 | Market Fluctuations | 0.10% | ~90 |
 | Once More Into The Breach | 0.10% | ~90 |
 | Twice More Into The Breach | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,652 (Ranked 62)  
+Progressed: 89,656 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,652 | 1,913 |
+| 2023-06-03 | 89,656 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

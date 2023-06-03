@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -618,6 +618,11 @@
       "Time": "2023-06-03T19:05:35.0477265+00:00",
       "NumProgressed": 945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T20:06:09.803126+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -661,7 +666,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "06",
@@ -701,7 +706,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "11",
@@ -757,7 +762,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "18",
@@ -765,7 +770,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "19",
@@ -812,7 +817,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 0
     }
   ],
@@ -820,8 +825,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:35.0477261+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:09.8031252+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:05.6191061+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:59:23.8939236+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:35.0477466+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:59:53.3991395+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:09.8031452+00:00"
 }

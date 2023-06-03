@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38403,
+  "EOS_Progressed": 38404,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
@@ -3112,6 +3112,11 @@
       "Time": "2023-06-03T19:05:39.7254134+00:00",
       "NumProgressed": 38403,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T20:06:15.0705062+00:00",
+      "NumProgressed": 38404,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3401,9 +3406,9 @@
       "ID": "MONUMENT_ALL",
       "SetID": "6d0g7k8",
       "Name": "Pilgrimage: Adept",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 77
     },
     {
       "ID": "MONUMENT_FIRST",
@@ -3546,22 +3551,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38403,
+      "Progressed": 38404,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3240,
-      "Completed": 3240
+      "Progressed": 3241,
+      "Completed": 3241
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:39.725413+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:15.0705056+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:43.5964953+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:58:24.519144+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:39.7254733+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:58:35.1609108+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:15.0705593+00:00"
 }

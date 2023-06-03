@@ -30,8 +30,8 @@ Rating: 3.83 (Ranked 918)
 | Explosive Miner | 0.60% | ~7 |
 | Rocket Jump | 0.60% | ~7 |
 | Thunderstruck | 0.60% | ~7 |
-| 5G Network | 0.50% | ~5 |
-| Caveman | 0.50% | ~5 |
+| 5G Network | 0.50% | ~6 |
+| Caveman | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~4 |
 | Rover Mechanic | 0.40% | ~4 |
 | Planetary Defence | 0.30% | ~3 |
@@ -54,7 +54,7 @@ Rating: 3.83 (Ranked 918)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 167)  
+Progressed: 1,100 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 1,049 | 0 |
 | 2023-06-01 | 1,064 | 0 |
 | 2023-06-02 | 1,086 | 0 |
-| 2023-06-03 | 1,099 | 0 |
+| 2023-06-03 | 1,100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

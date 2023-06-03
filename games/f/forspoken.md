@@ -44,6 +44,7 @@ Rating: 4.15 (Ranked 853)
 | Tit for Tat | 0.30% | ~115 |
 | Promises | 0.30% | ~115 |
 | Paragon | 0.20% | ~77 |
+| Pilgrimage: Adept | 0.20% | ~77 |
 | Call of the Fount: Beatified | 0.20% | ~77 |
 | I Can Fly! | 0.20% | ~77 |
 | A Roaring Trade | 0.20% | ~77 |
@@ -52,14 +53,13 @@ Rating: 4.15 (Ranked 853)
 | Through the Eyes of Another: Visionary | 0.10% | ~38 |
 | Kit and Caboodle | 0.10% | ~38 |
 | Above and Beyond | 0.10% | ~38 |
-| Pilgrimage: Adept | 0.10% | ~38 |
 | Happy Snapper | 0.10% | ~38 |
 | Barely There | 0.10% | ~38 |
 | Moves | 0.10% | ~38 |
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,403 (Ranked 84)  
+Progressed: 38,404 (Ranked 84)  
 Completed: 2 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.01%) (Ranked 200)
 | 2023-05-31 | 38,353 | 2 |
 | 2023-06-01 | 38,367 | 2 |
 | 2023-06-02 | 38,386 | 2 |
-| 2023-06-03 | 38,403 | 2 |
+| 2023-06-03 | 38,404 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

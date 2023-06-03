@@ -2654,9 +2654,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9481,
+  "EOS_Progressed": 9482,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5399,6 +5399,11 @@
       "Time": "2023-06-03T19:05:48.7523966+00:00",
       "NumProgressed": 9481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T20:06:25.6141034+00:00",
+      "NumProgressed": 9482,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5426,7 +5431,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "04_FithCrusade",
@@ -6337,21 +6342,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8263,
+      "Progressed": 8264,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9481,
+      "Progressed": 9482,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-03T16:58:38.1745159+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:48.752396+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:25.6141026+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:58:14.8715221+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:48.7525679+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:58:23.5476549+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:25.614297+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "life-after-death-b4e964",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-28T14:00:00+00:00",
@@ -51,9 +51,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "c98563l",
       "Name": "First steps!!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -107,9 +107,9 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "c98563l",
       "Name": "I can do it more!!!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -131,17 +131,17 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "c98563l",
       "Name": "This is a a good day!!!!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "c98563l",
       "Name": "Keep going!!!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -395,9 +395,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "c98563l",
       "Name": "I will not wait for tomorrow is now!!!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_20",
@@ -529,8 +529,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:00:18.5955875+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:01:07.7164023+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:45.9987877+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:59:10.1218851+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:00:18.5956476+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:59:35.0315085+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:01:07.7164764+00:00"
 }

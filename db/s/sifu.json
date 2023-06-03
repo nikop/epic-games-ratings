@@ -4398,9 +4398,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707164,
+  "EOS_Progressed": 707173,
   "EOS_Completed": 12753,
-  "EOS_NewPlayers": 1384,
+  "EOS_NewPlayers": 1389,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8388,6 +8388,11 @@
       "Time": "2023-06-03T19:05:43.1994476+00:00",
       "NumProgressed": 707164,
       "NumCompleted": 12753
+    },
+    {
+      "Time": "2023-06-03T20:06:19.2306426+00:00",
+      "NumProgressed": 707173,
+      "NumCompleted": 12753
     }
   ],
   "TotalAchievements": 50,
@@ -8439,7 +8444,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "07_Wude_H1",
@@ -8503,7 +8508,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "15_Detective_H1",
@@ -8535,7 +8540,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "19_Detective_H5",
@@ -8551,7 +8556,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8711,7 +8716,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8798,21 +8803,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16465,
+      "Progressed": 16474,
       "Completed": 10217
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707164,
+      "Progressed": 707173,
       "Completed": 12753
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-03T16:59:31.9528174+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:43.1994472+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:19.230642+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:58:50.0584882+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:43.1995058+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:59:10.3387153+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:19.2307252+00:00"
 }

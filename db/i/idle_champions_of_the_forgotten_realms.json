@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4090,9 +4090,9 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89652,
+  "EOS_Progressed": 89656,
   "EOS_Completed": 1913,
-  "EOS_NewPlayers": 768,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8535,6 +8535,11 @@
       "Time": "2023-06-03T19:05:52.3244972+00:00",
       "NumProgressed": 89652,
       "NumCompleted": 1913
+    },
+    {
+      "Time": "2023-06-03T20:06:29.1594307+00:00",
+      "NumProgressed": 89656,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -9216,9 +9221,9 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_completed_1163",
@@ -11160,9 +11165,9 @@
       "ID": "objective_completed_608",
       "SetID": "415jc5c",
       "Name": "Avernus Frozen Over",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_61",
@@ -12474,7 +12479,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "objective_completed_1361",
@@ -12489,21 +12494,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55926,
+      "Progressed": 55930,
       "Completed": 2765
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89652,
+      "Progressed": 89656,
       "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-03T19:05:52.3244967+00:00",
+  "LastChanged_Achievements": "2023-06-03T20:06:29.1594301+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:58:01.0570965+00:00",
-  "LastUpdate_Achievements": "2023-06-03T19:05:52.326831+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:58:06.6288936+00:00",
+  "LastUpdate_Achievements": "2023-06-03T20:06:29.1618306+00:00"
 }

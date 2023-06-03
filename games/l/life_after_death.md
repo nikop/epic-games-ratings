@@ -5,18 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Game is Starting! | 100.00% | ~2 |
-| Keep going!!! | 50.00% | ~1 |
-| First steps!! | 0.00% | ~0 |
+| Keep going!!! | 100.00% | ~2 |
+| First steps!! | 50.00% | ~1 |
+| I can do it more!!! | 50.00% | ~1 |
+| This is a a good day!!!! | 50.00% | ~1 |
+| I will not wait for tomorrow is now!!! | 50.00% | ~1 |
 | They can hit but don't hurt!!! | 0.00% | ~0 |
 | So cool when we achieve!!! | 0.00% | ~0 |
 | This getting hot!!! | 0.00% | ~0 |
 | I almost forget time passing!!! | 0.00% | ~0 |
 | This time is for real!!! | 0.00% | ~0 |
 | Lets do it one more time!!! | 0.00% | ~0 |
-| I can do it more!!! | 0.00% | ~0 |
 | Take it, and take it again!!!! | 0.00% | ~0 |
 | Step by step we can rule!! | 0.00% | ~0 |
-| This is a a good day!!!! | 0.00% | ~0 |
 | The inventors created the wheel so we can rock and roll!!! | 0.00% | ~0 |
 | Im feeling lucky aren't we? | 0.00% | ~0 |
 | We are safe when someone is watching ours back!!! | 0.00% | ~0 |
@@ -48,7 +49,6 @@
 | There many ways to solve a thing!!!! | 0.00% | ~0 |
 | This is the path I believe in me!!!! | 0.00% | ~0 |
 | I can see the light up there!!!! | 0.00% | ~0 |
-| I will not wait for tomorrow is now!!! | 0.00% | ~0 |
 | So so close I can't believe it!!!! | 0.00% | ~0 |
 | I just coming out of my cage!!!! | 0.00% | ~0 |
 | So much fun and many time in duty!!! | 0.00% | ~0 |
