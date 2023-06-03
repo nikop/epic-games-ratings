@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 13.89% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.23% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -20,12 +20,12 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.11% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.07% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.06% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Scorn](games/s/scorn.md) | 6.88% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
+| 25 | [Scorn](games/s/scorn.md) | 6.87% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.33% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -37,7 +37,7 @@
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
-| 38 | [Doodle God](games/d/doodle_god.md) | 3.83% |
+| 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.42% |
@@ -63,21 +63,21 @@
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 64 | [Iron Danger](games/i/iron_danger.md) | 2.12% |
+| 64 | [Iron Danger](games/i/iron_danger.md) | 2.11% |
 | 65 | [JARS](games/j/jars.md) | 2.08% |
-| 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
-| 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 69 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
-| 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
-| 70 | [Night Book](games/n/night_book.md) | 1.59% |
-| 70 | [Somerville](games/s/somerville.md) | 1.59% |
-| 73 | [Frogun](games/f/frogun.md) | 1.52% |
-| 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.52% |
-| 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 76 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
-| 77 | [Ten Dates](games/t/ten_dates.md) | 1.32% |
-| 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.30% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.94% |
+| 67 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 68 | [Sifu](games/s/sifu.md) | 1.80% |
+| 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
+| 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
+| 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
+| 71 | [Night Book](games/n/night_book.md) | 1.59% |
+| 71 | [Somerville](games/s/somerville.md) | 1.59% |
+| 74 | [Frogun](games/f/frogun.md) | 1.52% |
+| 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.52% |
+| 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
+| 78 | [Ten Dates](games/t/ten_dates.md) | 1.32% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 80 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 81 | [Chorus](games/c/chorus.md) | 1.19% |
@@ -154,9 +154,9 @@
 | 149 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 153 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 153 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
-| 153 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 156 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
-| 156 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 155 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
+| 155 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
+| 155 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 158 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 158 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 160 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
