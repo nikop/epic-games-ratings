@@ -36,12 +36,12 @@
 | 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.27% |
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
-| 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
+| 38 | [Doodle God](games/d/doodle_god.md) | 3.85% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.45% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
+| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.41% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.23% |
@@ -61,7 +61,7 @@
 | 59 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.33% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Iron Danger](games/i/iron_danger.md) | 2.12% |
 | 65 | [JARS](games/j/jars.md) | 2.08% |
@@ -75,7 +75,7 @@
 | 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
 | 74 | [Frogun](games/f/frogun.md) | 1.52% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.48% |
+| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.46% |
 | 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
@@ -114,13 +114,13 @@
 | 112 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 114 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
-| 116 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
+| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 116 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
 | 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
-| 119 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 119 | [Tchia](games/t/tchia.md) | 0.37% |
-| 119 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 118 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 118 | [Potion Permit](games/p/potion_permit.md) | 0.37% |
+| 118 | [Tchia](games/t/tchia.md) | 0.37% |
+| 118 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 123 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
 | 123 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
