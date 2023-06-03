@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2102,
+  "EOS_Progressed": 2105,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2324,6 +2324,11 @@
       "Time": "2023-06-03T06:05:54.0149819+00:00",
       "NumProgressed": 2102,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T07:05:35.7858652+00:00",
+      "NumProgressed": 2105,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2503,7 +2508,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2543,7 +2548,7 @@
       "Name": "Lord of War",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2581,9 +2586,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 316
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2647,7 +2652,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2671,7 +2676,7 @@
       "Name": "Change the Channel",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2799,7 +2804,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -2807,7 +2812,7 @@
       "Name": "Operation Foxley",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -2902,13 +2907,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2053,
+      "Progressed": 2056,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2102,
+      "Progressed": 2105,
       "Completed": 2
     }
   ],
@@ -2916,8 +2921,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:05:54.0149813+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:05:35.7858646+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:00:46.1721994+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:05:54.0150592+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:00:06.2314549+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:05:35.785927+00:00"
 }

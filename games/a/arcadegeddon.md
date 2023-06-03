@@ -14,10 +14,10 @@ Number of Ratings: 801  (23.09.2022)
 | Playing With Power | 77.00% | ~5,362 |
 | Coup d'Etat | 58.00% | ~4,039 |
 | You're Fired | 58.00% | ~4,039 |
-| Get Furious | 55.00% | ~3,830 |
+| Get Furious | 56.00% | ~3,899 |
 | Gunplay And Cosplay | 55.00% | ~3,830 |
 | Hacks In Stacks | 54.00% | ~3,760 |
-| Meching Enemies | 48.00% | ~3,342 |
+| Meching Enemies | 49.00% | ~3,412 |
 | Ticket Toddler | 46.00% | ~3,203 |
 | Booty Bashing | 44.00% | ~3,064 |
 | Here Comes a New Challenger | 38.00% | ~2,646 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -818,9 +818,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7570,
+  "EOS_Progressed": 7572,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2068,6 +2068,11 @@
       "Time": "2023-06-03T06:05:41.6961259+00:00",
       "NumProgressed": 7570,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-03T07:05:25.5510969+00:00",
+      "NumProgressed": 7572,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2079,7 +2084,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "Chatterbox",
@@ -2103,7 +2108,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4695
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2119,7 +2124,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "FakeGoddessGone",
@@ -2143,7 +2148,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2159,7 +2164,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "HeroSlayer",
@@ -2175,7 +2180,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "LeoniasFall_2",
@@ -2191,7 +2196,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "RookieWelcome",
@@ -2207,7 +2212,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4695
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2215,7 +2220,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "SkeletonKing",
@@ -2231,7 +2236,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "TheLegendBegins",
@@ -2239,15 +2244,15 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7040
+      "UsersEstimate": 7042
     },
     {
       "ID": "TheendofGoldManeKnights",
       "SetID": "97dk767",
       "Name": "The End of the Gold Mane Knights",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3559
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2263,22 +2268,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6285
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7570,
+      "Progressed": 7572,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-03T03:58:36.0375055+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:05:41.6961253+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:05:25.5510964+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:59:05.116218+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:05:41.6961501+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:58:45.4160502+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:05:25.5511148+00:00"
 }

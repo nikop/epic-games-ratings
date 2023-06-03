@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 972,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1183,9 +1183,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 156
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1215,9 +1215,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 340
     },
     {
       "ID": "CRUELTY",
@@ -1351,9 +1351,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 262
     },
     {
       "ID": "GOAL",
@@ -1439,9 +1439,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 710
     },
     {
       "ID": "RECYCLER",
@@ -1455,9 +1455,9 @@
       "ID": "RUTHLESS",
       "SetID": "9a4jnji",
       "Name": "Ruthless",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 97
     },
     {
       "ID": "SAVIOR",
@@ -1552,8 +1552,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-01T20:58:08.0220539+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:01:11.5959612+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:00:27.9126025+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:58:22.937818+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:01:11.5960126+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:58:10.5475236+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:00:27.9127113+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Wraith | 60.00% | ~235 |
+| Collectibles Part 1 | 49.00% | ~192 |
 | Welcome to Mordor! | 49.00% | ~192 |
-| Collectibles Part 1 | 48.00% | ~188 |
 | Wait! Wait! Not yet! | 34.00% | ~133 |
 | Like Flying... | 31.00% | ~121 |
 | Memories | 28.00% | ~109 |
@@ -26,9 +26,9 @@
 | Master of the Old Game | 2.00% | ~8 |
 | So Silly! | 2.00% | ~8 |
 | Made a Song | 2.00% | ~8 |
+| So Tasty! | 2.00% | ~8 |
 | Break a Leg! | 1.00% | ~4 |
 | Ss ss ss... | 1.00% | ~4 |
-| So Tasty! | 1.00% | ~4 |
 | And now we wish... | 0.80% | ~3 |
 | Nervous Hands | 0.80% | ~3 |
 | Collectibles Part 2 | 0.30% | ~1 |
@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391 (Ranked 206)  
+Progressed: 391 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |

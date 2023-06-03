@@ -34,8 +34,8 @@ Rating: 4.17 (Ranked 843)
 | Gotham Knight | 0.90% | ~570 |
 | End of an Era | 0.80% | ~507 |
 | Bulldozed | 0.80% | ~507 |
-| Drone You Out | 0.70% | ~443 |
-| Gotham City Confidential | 0.70% | ~443 |
+| Drone You Out | 0.70% | ~444 |
+| Gotham City Confidential | 0.70% | ~444 |
 | Out of Their League | 0.60% | ~380 |
 | Solid Alibi | 0.60% | ~380 |
 | Fusion Expert | 0.50% | ~317 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 843)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,351 (Ranked 71)  
+Progressed: 63,359 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
-| 2023-06-03 | 63,351 | 93 |
+| 2023-06-03 | 63,359 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,283  (Ranked 98)  
 Sum: 3,782 (Ranked 137)  

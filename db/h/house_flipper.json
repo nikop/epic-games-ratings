@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1536,7 +1536,7 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19230,
+  "EOS_Progressed": 19232,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
@@ -3531,6 +3531,11 @@
       "Time": "2023-06-03T06:05:52.8410975+00:00",
       "NumProgressed": 19230,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-03T07:05:34.8027418+00:00",
+      "NumProgressed": 19232,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3574,7 +3579,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "EstateAgent",
@@ -3590,7 +3595,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18076
+      "UsersEstimate": 18078
     },
     {
       "ID": "GameOver",
@@ -3654,7 +3659,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3461
+      "UsersEstimate": 3462
     },
     {
       "ID": "Negotiator",
@@ -3694,7 +3699,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3461
+      "UsersEstimate": 3462
     },
     {
       "ID": "Strongman",
@@ -3702,7 +3707,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5961
+      "UsersEstimate": 5962
     },
     {
       "ID": "VeronicaLiptson",
@@ -3725,15 +3730,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19230,
+      "Progressed": 19232,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-02T07:59:46.8811162+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:05:52.8410968+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:05:34.8027412+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:59:36.5336268+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:05:52.8411253+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:59:10.232193+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:05:34.8027625+00:00"
 }

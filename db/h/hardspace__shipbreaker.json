@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-06-03T06:02:23.1238658+00:00",
       "NumProgressed": 694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T07:03:10.7094746+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -711,7 +716,7 @@
       "Name": "Act I Complete",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -735,7 +740,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -743,7 +748,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -759,15 +764,15 @@
       "Name": "A Tucked Tale",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
       "SetID": "108h92c",
       "Name": "The best thing money can buy",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -847,7 +852,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -863,7 +868,7 @@
       "Name": "I can fix it!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -871,7 +876,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -879,7 +884,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -911,7 +916,7 @@
       "Name": "The Weight of the World",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -919,14 +924,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 0
     }
   ],
@@ -934,8 +939,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:02:23.1238652+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:03:10.709474+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:38.9499869+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:57:34.0250575+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:02:23.123887+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:57:31.5484359+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:03:10.7094936+00:00"
 }

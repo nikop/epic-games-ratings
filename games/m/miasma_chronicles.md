@@ -6,24 +6,24 @@ Rating: 4.30 (Ranked 760)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 91.00% | ~885 |
-| Ranidaphobia | 72.00% | ~700 |
+| Ranidaphobia | 73.00% | ~710 |
 | Aspiring Editor | 70.00% | ~680 |
 | Gun for Hire | 65.00% | ~632 |
 | I am the law! | 56.00% | ~544 |
 | Lumberjack | 40.00% | ~389 |
-| Croaked | 34.00% | ~330 |
+| Croaked | 35.00% | ~340 |
 | Limp Richard | 34.00% | ~330 |
 | Firestarter | 34.00% | ~330 |
 | From Darkness to Light | 34.00% | ~330 |
 | Exorcist | 31.00% | ~301 |
 | Editor Adept | 30.00% | ~292 |
-| Giant Killer | 26.00% | ~253 |
+| Giant Killer | 27.00% | ~262 |
 | Sensei | 26.00% | ~253 |
 | The meaning of Kain | 24.00% | ~233 |
 | Technophobe | 20.00% | ~194 |
 | Recycler | 18.00% | ~175 |
+| Chain Killer | 16.00% | ~156 |
 | Hold The Line | 16.00% | ~156 |
-| Chain Killer | 15.00% | ~146 |
 | Are you not entertained? | 14.00% | ~136 |
 | Ganglord | 14.00% | ~136 |
 | Jarhead | 14.00% | ~136 |
@@ -32,8 +32,8 @@ Rating: 4.30 (Ranked 760)
 | Pushing Daisy | 13.00% | ~126 |
 | Newtonian Knockout | 12.00% | ~117 |
 | Experienced | 11.00% | ~107 |
+| Ruthless | 10.00% | ~97 |
 | Endgame | 9.00% | ~87 |
-| Ruthless | 9.00% | ~87 |
 | Savior | 9.00% | ~87 |
 | The Watchers | 9.00% | ~87 |
 | Chain Reaction | 6.00% | ~58 |

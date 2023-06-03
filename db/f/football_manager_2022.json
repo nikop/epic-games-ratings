@@ -4811,9 +4811,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 462142,
+  "EOS_Progressed": 462143,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9081,6 +9081,11 @@
       "Time": "2023-06-03T06:06:15.6358549+00:00",
       "NumProgressed": 462142,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-03T07:05:54.7480652+00:00",
+      "NumProgressed": 462143,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -9324,7 +9329,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189478
+      "UsersEstimate": 189479
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -9380,7 +9385,7 @@
       "Name": "Attack!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 124778
+      "UsersEstimate": 124779
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -9412,7 +9417,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189478
+      "UsersEstimate": 189479
     },
     {
       "ID": "achievement_head_to_head",
@@ -9524,7 +9529,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 147885
+      "UsersEstimate": 147886
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -9644,7 +9649,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 231071
+      "UsersEstimate": 231072
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -9692,7 +9697,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60078
+      "UsersEstimate": 60079
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -9724,7 +9729,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 231071
+      "UsersEstimate": 231072
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -9875,15 +9880,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 462142,
+      "Progressed": 462143,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-06-03T04:59:30.6116114+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:06:15.6358543+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:05:54.7480642+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:38.3036136+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:00:23.3701688+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:06:15.6359916+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:59:47.3530599+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:05:54.7481777+00:00"
 }

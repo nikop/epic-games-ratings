@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2023-06-03T05:05:42.1308817+00:00",
       "NumProgressed": 419,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T07:05:46.820269+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -281,9 +286,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "631ndc2",
       "Name": "Circus Electrique Proudly Presents...",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -331,15 +336,15 @@
       "Name": "Bar Brawler",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -523,7 +528,7 @@
       "Name": "Flawless Presentation",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -634,7 +639,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 1
     }
   ],
@@ -642,8 +647,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:06:06.5982693+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:05:46.8202684+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:59:04.1179205+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:06:06.5983163+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:58:44.6488813+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:05:46.8203041+00:00"
 }

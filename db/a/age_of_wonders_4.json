@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4221,
+  "EOS_Progressed": 4222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2890,6 +2890,11 @@
       "Time": "2023-06-03T06:04:13.9288636+00:00",
       "NumProgressed": 4221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T07:04:14.8562003+00:00",
+      "NumProgressed": 4222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2941,7 +2946,7 @@
       "Name": "Full Ascension",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "15",
@@ -2949,7 +2954,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "16",
@@ -2989,7 +2994,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "20",
@@ -3005,7 +3010,7 @@
       "Name": "Eternal Lord",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "22",
@@ -3021,7 +3026,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3293
     },
     {
       "ID": "24",
@@ -3037,7 +3042,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "26",
@@ -3053,7 +3058,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "28",
@@ -3061,7 +3066,7 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "29",
@@ -3069,7 +3074,7 @@
       "Name": "Stronger Together",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "3",
@@ -3077,7 +3082,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "30",
@@ -3093,7 +3098,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "32",
@@ -3141,7 +3146,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "38",
@@ -3157,15 +3162,15 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 338
+      "UsersEstimate": 380
     },
     {
       "ID": "40",
@@ -3252,13 +3257,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4221,
-      "Completed": 4221
+      "Progressed": 4222,
+      "Completed": 4222
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4221,
+      "Progressed": 4222,
       "Completed": 0
     }
   ],
@@ -3266,8 +3271,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:04:13.928863+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:04:14.8561999+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:59:37.2312524+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:04:13.9289138+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:59:10.8807559+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:04:14.8562427+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -466,6 +466,11 @@
       "Time": "2023-06-03T06:00:54.1621919+00:00",
       "NumProgressed": 265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T07:00:13.7091966+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -475,9 +480,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "adventurous_2",
@@ -645,7 +650,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "elemental_stones_2",
@@ -667,7 +672,7 @@
       "ID": "elite_deck_1",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 1",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1004,14 +1009,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:00:54.1621914+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:00:13.7091957+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:56:57.2511791+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:00:54.1622553+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:57:03.7890483+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:00:13.7092494+00:00"
 }

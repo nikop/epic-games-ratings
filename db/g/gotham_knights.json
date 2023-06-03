@@ -1364,9 +1364,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63351,
+  "EOS_Progressed": 63359,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4854,6 +4854,11 @@
       "Time": "2023-06-03T06:06:12.7460642+00:00",
       "NumProgressed": 63351,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-03T07:05:52.0257974+00:00",
+      "NumProgressed": 63359,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5081,7 +5086,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "FREEZE_1",
@@ -5321,7 +5326,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -5352,13 +5357,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63351,
+      "Progressed": 63359,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33631,
+      "Progressed": 33639,
       "Completed": 2644
     }
   ],
@@ -5366,8 +5371,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-03T02:13:20.5301183+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:06:12.7460636+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:05:52.0257968+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:59:55.7376502+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:06:12.7461385+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:59:26.2381128+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:05:52.0258573+00:00"
 }

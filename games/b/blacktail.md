@@ -6,7 +6,7 @@ Rating: 4.67 (Ranked 258)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 25.00% | ~108 |
-| Dental maturity | 18.00% | ~78 |
+| Dental maturity | 19.00% | ~82 |
 | Devil's in the details | 13.00% | ~56 |
 | Uprooting | 12.00% | ~52 |
 | Forbidden techniques | 11.00% | ~48 |
@@ -14,9 +14,9 @@ Rating: 4.67 (Ranked 258)
 | Devoted | 8.00% | ~35 |
 | Gold rush | 6.00% | ~26 |
 | Spirit animal | 6.00% | ~26 |
+| Fishing fanatic | 5.00% | ~22 |
 | A friend in need... | 5.00% | ~22 |
 | Sneak peek | 4.00% | ~17 |
-| Fishing fanatic | 4.00% | ~17 |
 | Liar Liar | 4.00% | ~17 |
 | The cycle acknowledged | 4.00% | ~17 |
 | Baba Yaga | 4.00% | ~17 |

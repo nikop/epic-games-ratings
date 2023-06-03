@@ -5,29 +5,29 @@ Rating: 4.49 (Ranked 562)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,421 |
+| Stylish | 86.00% | ~19,422 |
 | Advancement | 73.00% | ~16,486 |
-| Meticulously Efficient | 64.00% | ~14,453 |
-| Discovery | 62.00% | ~14,001 |
-| Swift Rift Removers | 56.00% | ~12,646 |
+| Meticulously Efficient | 64.00% | ~14,454 |
+| Discovery | 62.00% | ~14,002 |
+| Swift Rift Removers | 56.00% | ~12,647 |
 | Fully Upgraded | 55.00% | ~12,421 |
-| Cultured | 53.00% | ~11,969 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,743 |
+| Cultured | 53.00% | ~11,970 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,744 |
 | Vaporous Expansion | 49.00% | ~11,066 |
 | Teamwork | 44.00% | ~9,937 |
 | There you are! | 44.00% | ~9,937 |
 | Clutch Capture | 41.00% | ~9,259 |
 | Back Off | 36.00% | ~8,130 |
 | Daily Dose | 35.00% | ~7,904 |
-| Welcome to the Crew | 33.00% | ~7,452 |
+| Welcome to the Crew | 33.00% | ~7,453 |
 | Solo Capture | 32.00% | ~7,227 |
 | Ghostbuster In Training | 31.00% | ~7,001 |
 | Icing on the Cake | 30.00% | ~6,775 |
-| Side Hustle | 28.00% | ~6,323 |
-| We have the best insurance | 27.00% | ~6,097 |
-| Legions | 27.00% | ~6,097 |
-| Stunner | 27.00% | ~6,097 |
-| Summoner | 27.00% | ~6,097 |
+| Side Hustle | 28.00% | ~6,324 |
+| We have the best insurance | 27.00% | ~6,098 |
+| Legions | 27.00% | ~6,098 |
+| Stunner | 27.00% | ~6,098 |
+| Summoner | 27.00% | ~6,098 |
 | Pesky Jerks | 26.00% | ~5,872 |
 | Right back at ya | 26.00% | ~5,872 |
 | Animated | 25.00% | ~5,646 |
@@ -44,12 +44,12 @@ Rating: 4.49 (Ranked 562)
 | Liability | 10.00% | ~2,258 |
 | Rivalry | 10.00% | ~2,258 |
 | Whoopsie | 10.00% | ~2,258 |
-| Fragile Panes | 9.00% | ~2,032 |
-| Surprise! | 9.00% | ~2,032 |
+| Fragile Panes | 9.00% | ~2,033 |
+| Surprise! | 9.00% | ~2,033 |
 | Master Collector | 7.00% | ~1,581 |
 | Rift Seeker | 7.00% | ~1,581 |
 | Therapeutic | 7.00% | ~1,581 |
-| Ghost Expert | 3.00% | ~677 |
+| Ghost Expert | 3.00% | ~678 |
 | Catostrophic Destroyer | 2.00% | ~452 |
 | Line em' up | 2.00% | ~452 |
 | Little Help Here | 2.00% | ~452 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 562)
 | I don't need these | 1.00% | ~226 |
 | Mycophile | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,583 (Ranked 93)  
+Progressed: 22,584 (Ranked 93)  
 Completed: 40 (0.18%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 40 (0.18%) (Ranked 147)
 | 2023-05-31 | 22,486 | 40 |
 | 2023-06-01 | 22,517 | 40 |
 | 2023-06-02 | 22,571 | 40 |
-| 2023-06-03 | 22,583 | 40 |
+| 2023-06-03 | 22,584 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 232  (Ranked 245)  
 Sum: 2,093 (Ranked 183)  

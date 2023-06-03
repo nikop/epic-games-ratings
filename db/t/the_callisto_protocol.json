@@ -524,9 +524,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14347,
+  "EOS_Progressed": 14350,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2564,6 +2564,11 @@
       "Time": "2023-06-03T06:03:53.0666681+00:00",
       "NumProgressed": 14347,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T07:03:58.0973267+00:00",
+      "NumProgressed": 14350,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2639,7 +2644,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -2687,7 +2692,7 @@
       "Name": "In Striking Distance",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "KILL_2HEAD",
@@ -2703,7 +2708,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "KILL_ROBOT",
@@ -2751,7 +2756,7 @@
       "Name": "Paper Jams",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2767,7 +2772,7 @@
       "Name": "The Outer Way",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2775,7 +2780,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "STORY_HABITAT",
@@ -2805,9 +2810,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1292
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2887,20 +2892,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14347,
+      "Progressed": 14350,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2273,
+      "Progressed": 2276,
       "Completed": 29
     }
   ],
@@ -2908,8 +2913,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T02:11:24.6577138+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:03:53.0666674+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:03:58.0973261+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:57:54.5070799+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:03:53.0667123+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:57:47.9196917+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:03:58.0973754+00:00"
 }

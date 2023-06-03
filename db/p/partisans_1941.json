@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 968,
+  "EOS_Progressed": 969,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -855,6 +855,11 @@
       "Time": "2023-06-03T03:08:32.9732908+00:00",
       "NumProgressed": 968,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T07:05:43.177321+00:00",
+      "NumProgressed": 969,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -954,7 +959,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Experienced_strategist",
@@ -970,7 +975,7 @@
       "Name": "Game Over",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Grenadier",
@@ -1105,15 +1110,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 968,
+      "Progressed": 969,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-03T06:06:02.3877+00:00",
+  "LastChanged_Achievements": "2023-06-03T07:05:43.1773207+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-03T05:59:24.735719+00:00",
-  "LastUpdate_Achievements": "2023-06-03T06:06:02.3877241+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:59:01.1477715+00:00",
+  "LastUpdate_Achievements": "2023-06-03T07:05:43.1773501+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.50 (Ranked 542)
 | ---- | ---------- | ----- |
 | Good start! | 83.00% | ~322 |
 | Vanquisher of Robots | 74.00% | ~287 |
-| Party | 45.00% | ~175 |
+| Party | 46.00% | ~178 |
 | Knowledge is Power | 44.00% | ~171 |
 | Impossible Cube | 43.00% | ~167 |
 | No Mercy | 41.00% | ~159 |
@@ -16,9 +16,9 @@ Rating: 4.50 (Ranked 542)
 | Fat of the Earth | 33.00% | ~128 |
 | Last Man Standing | 31.00% | ~120 |
 | Catch Jonathan_tostar | 27.00% | ~105 |
+| Campaigning | 25.00% | ~97 |
 | Great Hero | 25.00% | ~97 |
 | Rookie | 25.00% | ~97 |
-| Campaigning | 24.00% | ~93 |
 | Assemble a Meganewbie | 24.00% | ~93 |
 | He's Seen It All | 24.00% | ~93 |
 | Frugal | 21.00% | ~81 |
