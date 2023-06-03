@@ -49,7 +49,7 @@
 | Going Home | 29.00% | ~272 |
 | Mirror, Mirror | 27.00% | ~254 |
 | Flower Power | 24.00% | ~225 |
-| Shopping Spree! | 22.00% | ~207 |
+| Shopping Spree! | 23.00% | ~216 |
 | Crowned | 21.00% | ~197 |
 | Max Level! | 13.00% | ~122 |
 | Dance Master | 8.00% | ~75 |

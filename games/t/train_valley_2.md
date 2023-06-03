@@ -41,6 +41,7 @@ Number of Ratings: 87  (23.09.2022)
 | Sabotage | 2.00% | ~14 |
 | Squander | 2.00% | ~14 |
 | Stargazer | 2.00% | ~14 |
+| Astronomer | 1.00% | ~7 |
 | At the last moment! | 1.00% | ~7 |
 | Bridge builder | 1.00% | ~7 |
 | Electrical Age | 1.00% | ~7 |
@@ -53,7 +54,6 @@ Number of Ratings: 87  (23.09.2022)
 | Ouroboros | 1.00% | ~7 |
 | Prick of conscience | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
-| Astronomer | 0.80% | ~6 |
 | Atomic Age | 0.80% | ~1 |
 | Digital Age | 0.80% | ~1 |
 | Information Age | 0.80% | ~1 |

@@ -5,10 +5,10 @@ Rating: 4.42 (Ranked 653)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~527 |
+| Meeting Resistance | 25.00% | ~528 |
 | Confirming Suspicions | 20.00% | ~422 |
-| The Kraken Wakes | 15.00% | ~316 |
-| It's Starting to Crack | 13.00% | ~274 |
+| The Kraken Wakes | 15.00% | ~317 |
+| It's Starting to Crack | 13.00% | ~275 |
 | Lord of War | 12.00% | ~253 |
 | Change the Channel | 11.00% | ~232 |
 | Resourceful | 10.00% | ~211 |
@@ -18,16 +18,16 @@ Rating: 4.42 (Ranked 653)
 | Target America | 8.00% | ~169 |
 | Enemy at the Gates | 7.00% | ~148 |
 | Just a Flesh Wound | 7.00% | ~148 |
-| Liberté | 6.00% | ~126 |
-| Gunslinger | 6.00% | ~126 |
-| Sharpshooter | 6.00% | ~126 |
-| Explosive Efficiency | 6.00% | ~126 |
-| The Kraken Sleeps | 6.00% | ~126 |
-| Opposing Force | 5.00% | ~105 |
-| Die Nussknacker Sweet! | 5.00% | ~105 |
-| Der Geist | 5.00% | ~105 |
-| Close Quarters | 5.00% | ~105 |
-| Snake in the Grass | 5.00% | ~105 |
+| Liberté | 6.00% | ~127 |
+| Gunslinger | 6.00% | ~127 |
+| Sharpshooter | 6.00% | ~127 |
+| Explosive Efficiency | 6.00% | ~127 |
+| The Kraken Sleeps | 6.00% | ~127 |
+| Opposing Force | 5.00% | ~106 |
+| Die Nussknacker Sweet! | 5.00% | ~106 |
+| Der Geist | 5.00% | ~106 |
+| Close Quarters | 5.00% | ~106 |
+| Snake in the Grass | 5.00% | ~106 |
 | Climbing the Ladder | 4.00% | ~84 |
 | No Stone Unturned | 4.00% | ~84 |
 | Fields of Glory | 4.00% | ~84 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 653)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,108 (Ranked 149)  
+Progressed: 2,112 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.09%) (Ranked 168)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,108 | 2 |
+| 2023-06-03 | 2,112 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

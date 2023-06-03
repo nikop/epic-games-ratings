@@ -28,7 +28,7 @@
 | Check Your Pulse | 31.00% | ~180 |
 | Good Neighbor | 30.00% | ~174 |
 | Street Style | 29.00% | ~168 |
-| The Loose Cannon | 28.00% | ~162 |
+| The Loose Cannon | 29.00% | ~168 |
 | The Man Who Shattered Time | 24.00% | ~139 |
 | The Family Fortune | 24.00% | ~139 |
 | Whiz Kid | 22.00% | ~128 |

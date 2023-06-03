@@ -2,9 +2,9 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
-  "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_Progress": 177,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
@@ -896,6 +896,11 @@
       "Time": "2023-06-03T07:05:26.8029803+00:00",
       "NumProgressed": 927,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-03T09:06:03.8732853+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -915,7 +920,7 @@
       "Name": "Deep Listener",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -963,15 +968,15 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 769
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -979,7 +984,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -995,7 +1000,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1034,7 +1039,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 36
     }
   ],
@@ -1042,8 +1047,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-03T08:06:14.6115795+00:00",
+  "LastChanged_Achievements": "2023-06-03T09:06:03.873285+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-03T07:58:56.764751+00:00",
-  "LastUpdate_Achievements": "2023-06-03T08:06:14.6115947+00:00"
+  "LastUpdate_Ratings": "2023-06-03T08:58:45.8193515+00:00",
+  "LastUpdate_Achievements": "2023-06-03T09:06:03.8733401+00:00"
 }

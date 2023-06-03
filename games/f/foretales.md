@@ -9,8 +9,8 @@
 | Isenburg's fall | 48.00% | ~124 |
 | Pieces of eight! | 41.00% | ~106 |
 | Aboard the Sea Bird | 31.00% | ~80 |
+| Elephant in the room | 30.00% | ~77 |
 | Dark and stinky | 29.00% | ~75 |
-| Elephant in the room | 29.00% | ~75 |
 | Sneak in, sneak out | 26.00% | ~67 |
 | Is this the end? | 24.00% | ~62 |
 | You sssaved me | 24.00% | ~62 |

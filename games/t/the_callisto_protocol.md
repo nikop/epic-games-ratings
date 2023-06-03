@@ -13,7 +13,7 @@ Rating: 4.18 (Ranked 837)
 | Giving Back | 6.00% | ~861 |
 | Workplace Hazard | 6.00% | ~861 |
 | Reforged | 6.00% | ~861 |
-| If the SHU Fits... | 5.00% | ~718 |
+| If the SHU Fits... | 6.00% | ~861 |
 | Get a Grip | 4.00% | ~574 |
 | Terminated | 4.00% | ~574 |
 | Float Like A Butterfly | 4.00% | ~574 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 837)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,353 (Ranked 103)  
+Progressed: 14,357 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 53 (0.37%) (Ranked 119)
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
-| 2023-06-03 | 14,353 | 53 |
+| 2023-06-03 | 14,357 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 389)  
 Sum: 285 (Ranked 329)  

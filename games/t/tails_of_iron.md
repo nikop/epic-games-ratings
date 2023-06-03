@@ -8,16 +8,16 @@ Rating: 4.51 (Ranked 528)
 | Complete Guard Faction | 78.00% | ~1,218 |
 | Become King | 70.00% | ~1,093 |
 | Defeat 25 Frogs | 60.00% | ~937 |
-| Ranged Weapon | 59.00% | ~921 |
-| Collect Monster Parts | 56.00% | ~874 |
+| Ranged Weapon | 59.00% | ~922 |
+| Collect Monster Parts | 56.00% | ~875 |
 | Two Handed Weapon | 54.00% | ~843 |
-| Defeat 25 Grubs | 51.00% | ~796 |
-| Rescue Redgi's Brothers | 50.00% | ~780 |
-| Collect Iron Ore | 45.00% | ~702 |
-| Kitchen Ready To Cook | 45.00% | ~702 |
+| Defeat 25 Grubs | 51.00% | ~797 |
+| Rescue Redgi's Brothers | 50.00% | ~781 |
+| Collect Iron Ore | 45.00% | ~703 |
+| Kitchen Ready To Cook | 45.00% | ~703 |
 | Defeat 25 Mozis | 44.00% | ~687 |
-| Collect Gold | 43.00% | ~671 |
-| Smithy Ready to Craft | 43.00% | ~671 |
+| Collect Gold | 43.00% | ~672 |
+| Smithy Ready to Craft | 43.00% | ~672 |
 | Fix the Travellers Wagon | 42.00% | ~656 |
 | Complete Elder Faction | 39.00% | ~609 |
 | End of the Mozis | 36.00% | ~562 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 528)
 | King of Kings | 7.00% | ~109 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,561 (Ranked 158)  
+Progressed: 1,562 (Ranked 158)  
 Completed: 6 (0.38%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 6 (0.38%) (Ranked 116)
 | 2023-05-31 | 1,529 | 6 |
 | 2023-06-01 | 1,537 | 6 |
 | 2023-06-02 | 1,555 | 6 |
-| 2023-06-03 | 1,561 | 6 |
+| 2023-06-03 | 1,562 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1238,
+  "EOS_Progressed": 1242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-06-03T07:03:30.8644195+00:00",
       "NumProgressed": 1238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T09:03:44.6141548+00:00",
+      "NumProgressed": 1242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1209,7 +1214,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -1257,7 +1262,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1273,7 +1278,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "GRASSHOPPER",
@@ -1281,7 +1286,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 730
+      "UsersEstimate": 733
     },
     {
       "ID": "GUARD_MAKER",
@@ -1352,14 +1357,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1238,
+      "Progressed": 1242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-03T08:03:55.7544455+00:00",
+  "LastChanged_Achievements": "2023-06-03T09:03:44.6141539+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-06-03T07:57:18.961446+00:00",
-  "LastUpdate_Achievements": "2023-06-03T08:03:55.7544662+00:00"
+  "LastUpdate_Ratings": "2023-06-03T08:57:11.4461357+00:00",
+  "LastUpdate_Achievements": "2023-06-03T09:03:44.6141763+00:00"
 }

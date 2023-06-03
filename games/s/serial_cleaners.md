@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it goes | 10.00% | ~18 |
+| So it goes | 11.00% | ~20 |
 | Clean Conscience | 10.00% | ~18 |
 | Small-time Finder | 5.00% | ~9 |
 | Off to a Good Start | 4.00% | ~7 |
@@ -15,9 +15,9 @@
 | Pride and Joy | 2.00% | ~4 |
 | Eyes Yet To Open | 2.00% | ~4 |
 | Witness Protection | 2.00% | ~4 |
+| Mr. Hygeni | 2.00% | ~4 |
 | Hackathon | 2.00% | ~4 |
 | Something Rotten | 1.00% | ~2 |
-| Mr. Hygeni | 1.00% | ~2 |
 | The Wing and the Thigh | 1.00% | ~2 |
 | Blood Capade | 0.50% | ~1 |
 | The Crush And Smash The Dino Four | 0.50% | ~0 |

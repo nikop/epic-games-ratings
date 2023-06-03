@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -324,11 +324,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2408,
+  "EOS_Progressed": 2409,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.95,
+  "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -1074,6 +1074,11 @@
       "Time": "2023-06-02T12:07:15.5859582+00:00",
       "NumProgressed": 2408,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-03T09:06:21.9634149+00:00",
+      "NumProgressed": 2409,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 14,
@@ -1085,7 +1090,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1133,7 +1138,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -1181,7 +1186,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1189,14 +1194,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2408,
+      "Progressed": 2409,
       "Completed": 95
     }
   ],
@@ -1204,8 +1209,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-06-03T08:06:32.6938173+00:00",
+  "LastChanged_Achievements": "2023-06-03T09:06:21.9634143+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:48.6058965+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:00:43.0084855+00:00",
-  "LastUpdate_Achievements": "2023-06-03T08:06:32.6938306+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:00:32.481944+00:00",
+  "LastUpdate_Achievements": "2023-06-03T09:06:21.9634485+00:00"
 }

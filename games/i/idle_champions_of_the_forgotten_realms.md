@@ -12,12 +12,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.80% | ~447 |
 | Beast Intentions | 0.70% | ~627 |
 | Beware the Jabberwock | 0.70% | ~391 |
-| The Ring of Regeneration | 0.60% | ~537 |
+| The Ring of Regeneration | 0.60% | ~538 |
 | Were-verpowered | 0.50% | ~448 |
 | Seeking Allies | 0.50% | ~448 |
 | Are Ya Chicken? | 0.50% | ~448 |
 | Coasting to the Finish | 0.50% | ~279 |
 | Checkmate | 0.40% | ~223 |
+| Vecna Out! | 0.40% | ~223 |
 | A Persistent Buzzing | 0.40% | ~358 |
 | Mad Cow Disease | 0.40% | ~358 |
 | Friendly Imps | 0.40% | ~358 |
@@ -26,7 +27,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~269 |
 | Owlbear Necessities | 0.30% | ~168 |
 | Best Thay Ever | 0.30% | ~168 |
-| Vecna Out! | 0.30% | ~168 |
 | Beast Mode | 0.30% | ~269 |
 | Terror in the Dark | 0.30% | ~269 |
 | Low Initiative | 0.30% | ~269 |
@@ -94,8 +94,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.20% | ~179 |
 | Treasure Hunters | 0.20% | ~179 |
 | Flies on the Wall | 0.20% | ~179 |
+| Backtracking Through Barovia | 0.20% | ~179 |
 | Nimble Escape | 0.20% | ~179 |
 | Fugitives | 0.20% | ~179 |
+| Excavating History | 0.20% | ~179 |
 | Premature Betrayal | 0.20% | ~179 |
 | Hopelessly Lost | 0.20% | ~179 |
 | Enter the Sargauth | 0.20% | ~179 |
@@ -282,7 +284,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~90 |
 | Class Vacation | 0.10% | ~90 |
 | A Nod from Strahd | 0.10% | ~56 |
-| Backtracking Through Barovia | 0.10% | ~90 |
 | Diversity Day-Trip | 0.10% | ~90 |
 | Late Game | 0.10% | ~90 |
 | Shadowfell Stalwarts | 0.10% | ~56 |
@@ -292,7 +293,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | From The Shadows | 0.10% | ~90 |
 | Spined Nuisances | 0.10% | ~90 |
 | Twilight Twist | 0.10% | ~56 |
-| Excavating History | 0.10% | ~90 |
 | Screams of the Dead | 0.10% | ~90 |
 | Frantic Excavation | 0.10% | ~90 |
 | Birds of a Feather | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,583 (Ranked 62)  
+Progressed: 89,587 (Ranked 62)  
 Completed: 1,911 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 1,911 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,583 | 1,911 |
+| 2023-06-03 | 89,587 | 1,911 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

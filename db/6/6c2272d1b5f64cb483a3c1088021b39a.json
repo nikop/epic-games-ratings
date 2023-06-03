@@ -485,9 +485,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "adventurous_2",
@@ -533,9 +533,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "call_of_mana_2",
@@ -1020,8 +1020,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-03T08:01:08.1906015+00:00",
+  "LastChanged_Achievements": "2023-06-03T09:00:57.78456+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-03T07:57:11.8598872+00:00",
-  "LastUpdate_Achievements": "2023-06-03T08:01:08.1906675+00:00"
+  "LastUpdate_Ratings": "2023-06-03T08:57:03.3208075+00:00",
+  "LastUpdate_Achievements": "2023-06-03T09:00:57.7846646+00:00"
 }

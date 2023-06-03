@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1561,
+  "EOS_Progressed": 1562,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1081,6 +1081,11 @@
       "Time": "2023-06-03T08:01:03.1384164+00:00",
       "NumProgressed": 1561,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-03T09:00:52.5434232+00:00",
+      "NumProgressed": 1562,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1100,7 +1105,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Collect20Iron",
@@ -1108,7 +1113,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1116,7 +1121,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "CollectAllStatues",
@@ -1236,7 +1241,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "GetTHWeapon",
@@ -1252,7 +1257,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "Kill25Frogs",
@@ -1292,7 +1297,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "RepairSmith",
@@ -1300,7 +1305,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "RepairThroneRoom",
@@ -1316,7 +1321,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1331,22 +1336,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1561,
+      "Progressed": 1562,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 202,
-      "Completed": 202
+      "Progressed": 203,
+      "Completed": 203
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-03T08:01:03.138416+00:00",
+  "LastChanged_Achievements": "2023-06-03T09:00:52.5434224+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-03T07:58:42.5446734+00:00",
-  "LastUpdate_Achievements": "2023-06-03T08:01:03.1384631+00:00"
+  "LastUpdate_Ratings": "2023-06-03T08:58:30.1362452+00:00",
+  "LastUpdate_Achievements": "2023-06-03T09:00:52.5434573+00:00"
 }

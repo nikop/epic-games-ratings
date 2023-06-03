@@ -5,9 +5,9 @@
   "Ranking_Rating": 385,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -418,6 +418,11 @@
       "Time": "2023-06-01T18:00:46.1934217+00:00",
       "NumProgressed": 569,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T09:02:28.0756303+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -501,7 +506,7 @@
       "Name": "Weeper",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -595,9 +600,9 @@
       "ID": "DEFEAT_SHIDRA",
       "SetID": "ccc0dlh",
       "Name": "Inevitable",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 34
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -611,9 +616,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 34
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -643,9 +648,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -723,9 +728,9 @@
       "ID": "QUEST_CHILD",
       "SetID": "72k7oh",
       "Name": "Dream",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "QUEST_CODA",
@@ -764,21 +769,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-06-03T08:03:19.4344642+00:00",
+  "LastChanged_Achievements": "2023-06-03T09:02:28.0756297+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.4730882+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:00:50.1805474+00:00",
-  "LastUpdate_Achievements": "2023-06-03T08:03:19.4344985+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:00:38.2915607+00:00",
+  "LastUpdate_Achievements": "2023-06-03T09:02:28.0756644+00:00"
 }

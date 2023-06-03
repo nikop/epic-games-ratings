@@ -5,46 +5,46 @@ Rating: 4.30 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~885 |
-| Ranidaphobia | 73.00% | ~710 |
-| Aspiring Editor | 70.00% | ~681 |
-| Gun for Hire | 65.00% | ~632 |
-| I am the law! | 56.00% | ~545 |
-| Lumberjack | 40.00% | ~389 |
-| Croaked | 35.00% | ~341 |
-| Limp Richard | 34.00% | ~331 |
-| Firestarter | 34.00% | ~331 |
-| From Darkness to Light | 34.00% | ~331 |
-| Editor Adept | 31.00% | ~302 |
-| Exorcist | 31.00% | ~302 |
-| Giant Killer | 27.00% | ~263 |
-| Sensei | 26.00% | ~253 |
+| First Blood | 91.00% | ~888 |
+| Ranidaphobia | 73.00% | ~712 |
+| Aspiring Editor | 70.00% | ~683 |
+| Gun for Hire | 65.00% | ~634 |
+| I am the law! | 56.00% | ~547 |
+| Lumberjack | 40.00% | ~390 |
+| Croaked | 35.00% | ~342 |
+| Limp Richard | 34.00% | ~332 |
+| Firestarter | 34.00% | ~332 |
+| From Darkness to Light | 34.00% | ~332 |
+| Editor Adept | 31.00% | ~303 |
+| Exorcist | 31.00% | ~303 |
+| Giant Killer | 27.00% | ~264 |
+| Sensei | 26.00% | ~254 |
 | The meaning of Kain | 24.00% | ~234 |
 | Technophobe | 20.00% | ~195 |
-| Recycler | 18.00% | ~175 |
+| Recycler | 18.00% | ~176 |
 | Chain Killer | 16.00% | ~156 |
 | Hold The Line | 16.00% | ~156 |
 | There Can Be Only One! | 15.00% | ~146 |
-| Are you not entertained? | 14.00% | ~136 |
-| Ganglord | 14.00% | ~136 |
-| Jarhead | 14.00% | ~136 |
-| Infiltrator | 13.00% | ~126 |
-| Pushing Daisy | 13.00% | ~126 |
+| Are you not entertained? | 14.00% | ~137 |
+| Ganglord | 14.00% | ~137 |
+| Jarhead | 14.00% | ~137 |
+| Infiltrator | 13.00% | ~127 |
+| Pushing Daisy | 13.00% | ~127 |
 | Newtonian Knockout | 12.00% | ~117 |
 | Experienced | 11.00% | ~107 |
-| Ruthless | 10.00% | ~97 |
+| Ruthless | 10.00% | ~98 |
 | Endgame | 9.00% | ~88 |
 | Savior | 9.00% | ~88 |
 | The Watchers | 9.00% | ~88 |
-| Chain Reaction | 6.00% | ~58 |
-| Commando | 6.00% | ~58 |
-| Curveball | 6.00% | ~58 |
-| Dr Jones | 6.00% | ~58 |
+| Chain Reaction | 6.00% | ~59 |
+| Commando | 6.00% | ~59 |
+| Curveball | 6.00% | ~59 |
+| Dr Jones | 6.00% | ~59 |
 | Chaos Theory | 5.00% | ~49 |
 | Wipe Out | 5.00% | ~49 |
 | Side Order | 4.00% | ~39 |
 | Bot Whisperer | 3.00% | ~29 |
-| Dressed To Kill | 2.00% | ~19 |
+| Dressed To Kill | 2.00% | ~20 |
 | Cruelty | 1.00% | ~10 |
 | Five Finger Deathcount | 0.50% | ~5 |
 | Fratricide | 0.50% | ~5 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 760)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973 (Ranked 172)  
+Progressed: 976 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
-| 2023-06-03 | 973 | 0 |
+| 2023-06-03 | 976 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
