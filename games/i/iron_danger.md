@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 79.00% | ~148 |
+| First Shard | 79.00% | ~149 |
 | Found the Healer | 32.00% | ~60 |
 | Second Shard | 10.00% | ~19 |
 | Ring of Fire! | 9.00% | ~17 |
@@ -17,10 +17,10 @@
 | Fifth Shard | 6.00% | ~11 |
 | Big Fish | 5.00% | ~9 |
 | Tastes Like Chicken | 5.00% | ~9 |
-| Good Stew | 4.00% | ~7 |
-| Green Thumb | 4.00% | ~7 |
-| Avian Veterinarian | 4.00% | ~7 |
-| Finished Iron Danger | 4.00% | ~7 |
+| Good Stew | 4.00% | ~8 |
+| Green Thumb | 4.00% | ~8 |
+| Avian Veterinarian | 4.00% | ~8 |
+| Finished Iron Danger | 4.00% | ~8 |
 | Bird Butcherer | 3.00% | ~6 |
 | Natural Selection | 3.00% | ~6 |
 | Mushroom Forager | 2.00% | ~4 |
@@ -28,8 +28,8 @@
 | Trolled | 2.00% | ~4 |
 | Troll Hunter | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 246)  
-Completed: 4 (2.14%) (Ranked 63)  
+Progressed: 188 (Ranked 246)  
+Completed: 4 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,7 +50,7 @@ Completed: 4 (2.14%) (Ranked 63)
 | 2023-05-31 | 183 | 4 |
 | 2023-06-01 | 184 | 4 |
 | 2023-06-02 | 186 | 4 |
-| 2023-06-03 | 187 | 4 |
+| 2023-06-03 | 188 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

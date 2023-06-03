@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 103.00% | ~93 |
-| Break no Sweat | 96.00% | ~86 |
-| Every little bit counts | 96.00% | ~86 |
-| Growth | 86.00% | ~77 |
-| Targeting the Enemy | 68.00% | ~61 |
+| Black Cat's Warning | 103.00% | ~94 |
+| Break no Sweat | 96.00% | ~87 |
+| Every little bit counts | 96.00% | ~87 |
+| Growth | 86.00% | ~78 |
+| Targeting the Enemy | 67.00% | ~61 |
 | Unavoidable | 62.00% | ~56 |
-| Revenge | 60.00% | ~54 |
+| Revenge | 59.00% | ~54 |
 | Reunion | 41.00% | ~37 |
 | Fluke | 34.00% | ~31 |
 | Victor's Prejudice | 33.00% | ~30 |
@@ -18,9 +18,9 @@
 | Memento | 30.00% | ~27 |
 | Excellent Driving Skills | 29.00% | ~26 |
 | Once Bitten, Twice Shy | 29.00% | ~26 |
-| Defeat the AI | 26.00% | ~23 |
-| Unsalvageable | 26.00% | ~23 |
-| Fleet-footed | 26.00% | ~23 |
+| Defeat the AI | 25.00% | ~23 |
+| Unsalvageable | 25.00% | ~23 |
+| Fleet-footed | 25.00% | ~23 |
 | Invincible | 24.00% | ~22 |
 | Neutralize | 23.00% | ~21 |
 | Best in Dragon City | 22.00% | ~20 |
@@ -28,8 +28,8 @@
 | Disdain | 20.00% | ~18 |
 | Final Battle | 19.00% | ~17 |
 | Outsider's Profit | 19.00% | ~17 |
-| Reappearance | 16.00% | ~14 |
-| Brain in a Vat | 16.00% | ~14 |
+| Reappearance | 15.00% | ~14 |
+| Brain in a Vat | 15.00% | ~14 |
 | King of the Streets | 11.00% | ~10 |
 | Calamity | 10.00% | ~9 |
 | Survival Expert | 10.00% | ~9 |
@@ -37,7 +37,7 @@
 | Still A Chance | 8.00% | ~7 |
 | Achieving Excellence | 8.00% | ~7 |
 | Fashionista | 8.00% | ~7 |
-| Intel Expert | 6.00% | ~5 |
+| Intel Expert | 5.00% | ~5 |
 | Unexpected Crisis | 4.00% | ~4 |
 | Limbo | 4.00% | ~4 |
 | Ninja Killer | 4.00% | ~4 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 273)  
+Progressed: 91 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-28 | 89 | 0 |
 | 2023-05-29 | 89 | 0 |
 | 2023-06-01 | 90 | 0 |
+| 2023-06-03 | 91 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

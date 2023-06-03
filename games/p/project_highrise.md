@@ -7,29 +7,29 @@
 | In the Black | 58.00% | ~113 |
 | Starting Skyward | 52.00% | ~101 |
 | Grime is Not Good | 47.00% | ~91 |
+| Campaign Launch | 41.00% | ~80 |
 | Floor Galore | 40.00% | ~78 |
-| Campaign Launch | 40.00% | ~78 |
 | Dinner Dash | 40.00% | ~78 |
 | It's Technical | 37.00% | ~72 |
+| Upgrade Unlock | 35.00% | ~68 |
 | Need a Consult | 34.00% | ~66 |
-| Upgrade Unlock | 34.00% | ~66 |
 | Delegate Maintenance | 34.00% | ~66 |
 | Proper Walls | 32.00% | ~62 |
-| Destination Destiny | 28.00% | ~54 |
+| Destination Destiny | 29.00% | ~56 |
 | Happy Tenants | 25.00% | ~48 |
-| Smooth Service | 24.00% | ~47 |
+| Smooth Service | 25.00% | ~48 |
+| Potent Potables | 24.00% | ~47 |
+| Retail Revenue | 24.00% | ~47 |
 | Lux Living | 23.00% | ~45 |
 | Your Prestige is Rising | 23.00% | ~45 |
-| Potent Potables | 23.00% | ~45 |
-| Retail Revenue | 23.00% | ~45 |
+| People Mover | 22.00% | ~43 |
 | Leveled Up Shops | 22.00% | ~43 |
 | Don't Feel a Loan | 21.00% | ~41 |
-| People Mover | 21.00% | ~41 |
 | Emporium Empire | 21.00% | ~41 |
 | Get Electrified | 21.00% | ~41 |
 | Artfully Done | 20.00% | ~39 |
 | Rehab Expert | 20.00% | ~39 |
-| Tasty Profits | 19.00% | ~37 |
+| Tasty Profits | 20.00% | ~39 |
 | Cashflow Chief | 18.00% | ~35 |
 | We Don't Need No Education | 18.00% | ~35 |
 | Under One Roof | 17.00% | ~33 |
@@ -46,9 +46,9 @@
 | Refined Palates | 10.00% | ~19 |
 | Revenue Royalty | 10.00% | ~19 |
 | First 100 Days | 9.00% | ~17 |
+| Aestheticly Pleased | 9.00% | ~17 |
 | Phoning It In | 9.00% | ~17 |
 | Pipe Up | 9.00% | ~17 |
-| Aestheticly Pleased | 8.00% | ~16 |
 | Meet Me at HQ | 8.00% | ~16 |
 | Profound Proceeds | 8.00% | ~16 |
 | Maximum Reuse | 8.00% | ~16 |

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-06-02T23:05:18.9842223+00:00",
       "NumProgressed": 578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T02:18:43.3549595+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -868,7 +873,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -892,7 +897,7 @@
       "Name": "Right On Time",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ClockworkCompletion1",
@@ -906,9 +911,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "ClovemaryGift",
@@ -956,7 +961,7 @@
       "Name": "Family Memories",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "FactorywoodChests1",
@@ -1020,7 +1025,7 @@
       "Name": "Rail Rat",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "HexlockGift",
@@ -1052,7 +1057,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "MapCompletion1",
@@ -1106,9 +1111,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 290
     },
     {
       "ID": "ParryRepeated1",
@@ -1124,7 +1129,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1132,7 +1137,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "PidgeDefeated",
@@ -1188,7 +1193,7 @@
       "Name": "Fast Learner",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "SpeedRun",
@@ -1212,7 +1217,7 @@
       "Name": "Syron for Hope",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1228,7 +1233,7 @@
       "Name": "Theater Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1236,7 +1241,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "WarwickDefeated",
@@ -1244,7 +1249,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "WatcherFought",
@@ -1260,7 +1265,7 @@
       "Name": "Good Neighbor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1268,7 +1273,7 @@
       "Name": "The Brass Boss",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1283,14 +1288,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:04:44.1827568+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:18:43.354959+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:58:53.5199014+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:04:44.1828092+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:12:59.7210377+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:18:43.3550098+00:00"
 }

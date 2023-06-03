@@ -17,13 +17,13 @@ Rating: 4.56 (Ranked 452)
 | Club Star | 23.00% | ~142 |
 | The Warlord | 20.00% | ~124 |
 | Fire in the hole! | 19.00% | ~118 |
+| Omnipotence | 19.00% | ~118 |
 | You are the One | 19.00% | ~118 |
 | Deadly Kombationem | 18.00% | ~111 |
-| Omnipotence | 18.00% | ~111 |
 | The truth is out there | 14.00% | ~87 |
 | Annakin Skyscroller | 13.00% | ~80 |
 | Arm Wrestlin' | 10.00% | ~62 |
-| In the smacker...I think | 9.00% | ~56 |
+| In the smacker...I think | 10.00% | ~62 |
 | 1+1>2 | 8.00% | ~50 |
 | This can't be right… | 8.00% | ~50 |
 | Welcome home, 06 | 8.00% | ~50 |

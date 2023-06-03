@@ -2229,9 +2229,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 523123,
+  "EOS_Progressed": 523132,
   "EOS_Completed": 1435,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -6629,6 +6629,11 @@
       "Time": "2023-06-03T00:05:20.9620386+00:00",
       "NumProgressed": 523123,
       "NumCompleted": 1435
+    },
+    {
+      "Time": "2023-06-03T02:19:26.55177+00:00",
+      "NumProgressed": 523132,
+      "NumCompleted": 1435
     }
   ],
   "TotalAchievements": 37,
@@ -6640,7 +6645,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68006
+      "UsersEstimate": 68007
     },
     {
       "ID": "COASTROCK",
@@ -6648,7 +6653,7 @@
       "Name": "Coastrock",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     },
     {
       "ID": "DEVARAS_LIGHT",
@@ -6656,7 +6661,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 156937
+      "UsersEstimate": 156940
     },
     {
       "ID": "DEVOTED",
@@ -6664,7 +6669,7 @@
       "Name": "Devoted",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     },
     {
       "ID": "DOMINION",
@@ -6672,7 +6677,7 @@
       "Name": "Dominion",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     },
     {
       "ID": "FADING_FAST",
@@ -6696,7 +6701,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 434192
+      "UsersEstimate": 434200
     },
     {
       "ID": "HONED",
@@ -6720,7 +6725,7 @@
       "Name": "Keepers of Fire and Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     },
     {
       "ID": "ORDER_OF_BETRAYER",
@@ -6728,7 +6733,7 @@
       "Name": "Order of the Betrayer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     },
     {
       "ID": "STORIED",
@@ -6736,7 +6741,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 31387
+      "UsersEstimate": 31388
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -6744,7 +6749,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "THE_BANQUET",
@@ -6752,7 +6757,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209249
+      "UsersEstimate": 209253
     },
     {
       "ID": "THE_CASTLE",
@@ -6760,7 +6765,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57544
+      "UsersEstimate": 57545
     },
     {
       "ID": "THE_CAVE",
@@ -6776,7 +6781,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31387
+      "UsersEstimate": 31388
     },
     {
       "ID": "THE_CRYPT",
@@ -6792,7 +6797,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47081
+      "UsersEstimate": 47082
     },
     {
       "ID": "THE_FOREST",
@@ -6800,7 +6805,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73237
+      "UsersEstimate": 73238
     },
     {
       "ID": "THE_IMPOSTER",
@@ -6808,7 +6813,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68006
+      "UsersEstimate": 68007
     },
     {
       "ID": "THE_IRON_ONES",
@@ -6816,7 +6821,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94162
+      "UsersEstimate": 94164
     },
     {
       "ID": "THE_KEEP",
@@ -6824,7 +6829,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68006
+      "UsersEstimate": 68007
     },
     {
       "ID": "THE_LAKE",
@@ -6832,7 +6837,7 @@
       "Name": "The Lake",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "THE_MIRE",
@@ -6840,7 +6845,7 @@
       "Name": "The Mire",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31387
+      "UsersEstimate": 31388
     },
     {
       "ID": "THE_PALACE",
@@ -6856,7 +6861,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "THE_RED_HALL",
@@ -6864,7 +6869,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47081
+      "UsersEstimate": 47082
     },
     {
       "ID": "THE_RUINS",
@@ -6872,7 +6877,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31387
+      "UsersEstimate": 31388
     },
     {
       "ID": "THE_SACRIFICE",
@@ -6880,7 +6885,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 41850
+      "UsersEstimate": 41851
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -6896,7 +6901,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 334799
+      "UsersEstimate": 334804
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -6912,7 +6917,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83700
+      "UsersEstimate": 83701
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -6928,22 +6933,22 @@
       "Name": "Wise Words",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     }
   ],
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 523123,
+      "Progressed": 523132,
       "Completed": 1435
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-02T22:59:21.6251448+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:05:20.9620381+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:19:26.5517694+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:40.6702899+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:58:48.6202692+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:05:20.9620874+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:12:53.2295419+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:19:26.5518233+00:00"
 }

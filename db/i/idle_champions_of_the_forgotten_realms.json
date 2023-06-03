@@ -6,8 +6,8 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4084,10 +4084,10 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89553,
+  "EOS_Progressed": 89561,
   "EOS_Completed": 1910,
-  "EOS_NewPlayers": 776,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 774,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8439,6 +8439,11 @@
       "Time": "2023-06-03T00:05:45.8047073+00:00",
       "NumProgressed": 89553,
       "NumCompleted": 1910
+    },
+    {
+      "Time": "2023-06-03T02:19:54.0091079+00:00",
+      "NumProgressed": 89561,
+      "NumCompleted": 1910
     }
   ],
   "TotalAchievements": 493,
@@ -9090,7 +9095,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_completed_1158",
@@ -9122,7 +9127,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_completed_1163",
@@ -9338,7 +9343,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_completed_1209",
@@ -10152,9 +10157,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_378",
@@ -12393,21 +12398,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55827,
+      "Progressed": 55835,
       "Completed": 2762
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89553,
+      "Progressed": 89561,
       "Completed": 1910
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-02T21:02:32.6272327+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:05:45.8047064+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:19:54.0091073+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:57:47.9168107+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:05:45.8070798+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:11:36.4632609+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:19:54.0114353+00:00"
 }

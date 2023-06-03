@@ -21,7 +21,7 @@
 | Land, Ho! | 38.00% | ~133 |
 | No Man Is An Island | 37.00% | ~130 |
 | At Wits' End | 35.00% | ~123 |
-| Going Once... | 33.00% | ~116 |
+| Going Once... | 34.00% | ~119 |
 | Bookworm | 33.00% | ~116 |
 | Fhtagn! | 33.00% | ~116 |
 | Up In Flames | 32.00% | ~112 |

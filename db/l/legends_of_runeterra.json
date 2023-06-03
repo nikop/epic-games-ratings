@@ -3,7 +3,7 @@
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
   "Ranking_Rating": 294,
-  "Ranking_Popularity": 286,
+  "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
@@ -1269,18 +1269,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 1337,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2023-06-03T02:13:39.8850617+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1338,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1337,
-  "NumberOfAwardsMax": 153,
+  "NumberOfAwards": 1338,
+  "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1354,8 +1360,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-06-02T14:00:18.8951701+00:00",
+  "LastChanged": "2023-06-03T02:13:39.8850616+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:30.6887364+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:59:25.9727262+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:02:15.6183028+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:13:39.8850621+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:14:14.3842165+00:00"
 }

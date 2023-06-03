@@ -17,8 +17,8 @@
 | Librarian | 13.00% | ~45 |
 | The End | 13.00% | ~45 |
 | Gladiator | 12.00% | ~41 |
+| Lumberjack | 12.00% | ~41 |
 | Orcs Must Die! | 12.00% | ~41 |
-| Lumberjack | 11.00% | ~38 |
 | Troubleshooter | 11.00% | ~38 |
 | Money Swag | 8.00% | ~27 |
 | Shield Crusher | 7.00% | ~24 |

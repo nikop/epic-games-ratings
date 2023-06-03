@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,7 +73,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -353,6 +353,11 @@
       "Time": "2023-06-02T22:02:24.95299+00:00",
       "NumProgressed": 315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T02:16:28.369068+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -388,7 +393,7 @@
       "Name": "CRIMINAL",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "GB_DEBTOR",
@@ -482,9 +487,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 193
     },
     {
       "ID": "GB_KEVIN",
@@ -492,7 +497,7 @@
       "Name": "KEVIN!",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -514,9 +519,9 @@
       "ID": "GB_MASTER_CHEF",
       "SetID": "8ga3kd9",
       "Name": "MASTER CHEF",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 259
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -530,9 +535,9 @@
       "ID": "GB_PATTY_KILLER",
       "SetID": "8ga3kd9",
       "Name": "PATTY-KILLER",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "GB_PRUDENT",
@@ -546,9 +551,9 @@
       "ID": "GB_RAMBO",
       "SetID": "8ga3kd9",
       "Name": "RAMBO",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -570,7 +575,7 @@
       "ID": "GB_TRAVELER",
       "SetID": "8ga3kd9",
       "Name": "TRAVELER",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -580,14 +585,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     }
   ],
@@ -595,8 +600,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:02:19.9916203+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:16:28.3690674+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.5026892+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:57:59.9837871+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:02:19.9916466+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:11:51.3449497+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:16:28.3690905+00:00"
 }

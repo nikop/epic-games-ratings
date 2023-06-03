@@ -8,15 +8,15 @@
 | Lightbulb Seeker | 87.00% | ~62 |
 | Grilled Mouse | 85.00% | ~60 |
 | Lightbulbs Collector | 76.00% | ~54 |
-| Energy Collector | 70.00% | ~50 |
-| East Street Energy | 51.00% | ~36 |
+| Energy Collector | 72.00% | ~51 |
+| East Street Energy | 52.00% | ~37 |
+| Lightbulbs Expert | 44.00% | ~31 |
 | Energy Expert | 42.00% | ~30 |
-| Lightbulbs Expert | 42.00% | ~30 |
+| That's one way to travel | 42.00% | ~30 |
 | The Old Man and the Café | 41.00% | ~29 |
-| That's one way to travel | 41.00% | ~29 |
-| South Town Energy | 31.00% | ~22 |
+| South Town Energy | 32.00% | ~23 |
+| The Girl and the Homework | 28.00% | ~20 |
 | Photogenic | 28.00% | ~20 |
-| The Girl and the Homework | 27.00% | ~19 |
 | North Town Energy | 25.00% | ~18 |
 | OK, I heard you!! | 25.00% | ~18 |
 | Lightbulb Detective | 23.00% | ~16 |

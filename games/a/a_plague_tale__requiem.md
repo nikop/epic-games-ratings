@@ -5,11 +5,11 @@ Rating: 4.74 (Ranked 142)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,153 |
-| Newcomers | 78.00% | ~8,608 |
-| A Burden of Blood | 72.00% | ~7,946 |
-| Protector's Duty | 68.00% | ~7,504 |
-| Alchemist | 67.00% | ~7,394 |
+| Under a New Sun | 92.00% | ~10,154 |
+| Newcomers | 78.00% | ~8,609 |
+| A Burden of Blood | 72.00% | ~7,947 |
+| Protector's Duty | 68.00% | ~7,505 |
+| Alchemist | 67.00% | ~7,395 |
 | In our Wake | 66.00% | ~7,284 |
 | Leaving all Behind | 63.00% | ~6,953 |
 | Felons | 60.00% | ~6,622 |
@@ -18,13 +18,13 @@ Rating: 4.74 (Ranked 142)
 | Bloodline | 50.00% | ~5,518 |
 | The Cradle of Centuries | 46.00% | ~5,077 |
 | The Life We Deserve | 44.00% | ~4,856 |
-| Night guard | 42.00% | ~4,635 |
-| Nothing Left | 37.00% | ~4,083 |
+| Night guard | 42.00% | ~4,636 |
+| Nothing Left | 37.00% | ~4,084 |
 | Healing our Wounds | 35.00% | ~3,863 |
 | Dying Sun | 31.00% | ~3,421 |
-| Improved crossbow | 26.00% | ~2,869 |
-| King Hugo | 23.00% | ~2,538 |
-| Mercy | 23.00% | ~2,538 |
+| Improved crossbow | 26.00% | ~2,870 |
+| King Hugo | 23.00% | ~2,539 |
+| Mercy | 23.00% | ~2,539 |
 | Perfect shot | 22.00% | ~2,428 |
 | Effective instruments | 21.00% | ~2,318 |
 | Perfect throw | 21.00% | ~2,318 |
@@ -41,7 +41,7 @@ Rating: 4.74 (Ranked 142)
 | Explorer | 1.00% | ~110 |
 | Malignant | 1.00% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,036 (Ranked 108)  
+Progressed: 11,037 (Ranked 108)  
 Completed: 32 (0.29%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 32 (0.29%) (Ranked 132)
 | 2023-05-31 | 10,951 | 32 |
 | 2023-06-01 | 10,986 | 32 |
 | 2023-06-02 | 11,034 | 32 |
-| 2023-06-03 | 11,036 | 32 |
+| 2023-06-03 | 11,037 | 32 |
 ## Awards
 Max (Great Boss Battles): 402  (Ranked 202)  
 Sum: 578 (Ranked 287)  

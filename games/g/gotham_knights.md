@@ -6,26 +6,26 @@ Rating: 4.17 (Ranked 843)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 3.00% | ~1,900 |
-| To the Victor Go the Spoils | 2.00% | ~1,266 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,266 |
-| Get ReQ'd | 2.00% | ~1,266 |
-| Knighthood | 2.00% | ~1,266 |
-| Loose Ends | 2.00% | ~1,266 |
+| To the Victor Go the Spoils | 2.00% | ~1,267 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,267 |
+| Get ReQ'd | 2.00% | ~1,267 |
+| Knighthood | 2.00% | ~1,267 |
+| Loose Ends | 2.00% | ~1,267 |
+| Whispered Words | 2.00% | ~1,267 |
 | The Batman Family | 1.00% | ~633 |
 | Protector of Gotham | 1.00% | ~633 |
 | Something in the Clay | 1.00% | ~633 |
 | The Show Mud Go On | 1.00% | ~633 |
+| Rock and a Hard Place | 1.00% | ~633 |
 | Quartzer Life Crisis | 1.00% | ~633 |
 | Snow Problem | 1.00% | ~633 |
 | Working Hard or Harley Working? | 1.00% | ~633 |
 | Universal Health Scare | 1.00% | ~633 |
 | Unstoppable Force | 1.00% | ~633 |
-| Whispered Words | 1.00% | ~633 |
 | Lock and Key | 1.00% | ~633 |
 | Bad Apples in Every Orchard | 1.00% | ~633 |
 | From Inside Gotham's Walls | 1.00% | ~633 |
 | In Your Element | 0.90% | ~570 |
-| Rock and a Hard Place | 0.90% | ~570 |
 | Not On My Watch | 0.90% | ~570 |
 | Shock Til They Drop | 0.90% | ~570 |
 | Cooldown | 0.90% | ~570 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 843)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,317 (Ranked 71)  
+Progressed: 63,331 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,15 +111,15 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-05-31 | 63,037 | 92 |
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
-| 2023-06-03 | 63,317 | 93 |
+| 2023-06-03 | 63,331 | 93 |
 ## Awards
-Max (Great Boss Battles): 2,275  (Ranked 98)  
-Sum: 3,773 (Ranked 138)  
-Diff (max vs sum): -40  
+Max (Great Boss Battles): 2,283  (Ranked 98)  
+Sum: 3,782 (Ranked 137)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,275 |
-| This game has Quickly Understood Controls | 194 |
+| This game has Great Boss Battles | 2,283 |
+| This game has Quickly Understood Controls | 195 |
 | This game is Relaxing | 194 |
 | This game is Extremely Fun | 194 |
 | This game has Amazing Characters | 191 |
@@ -233,3 +233,4 @@ Diff (max vs sum): -40
 | 2023-05-31 | 4.17 | 2,269 | 3,759 |
 | 2023-06-01 | 4.17 | 2,275 | 3,770 |
 | 2023-06-02 | 4.17 | 2,275 | 3,773 |
+| 2023-06-03 | 4.17 | 2,283 | 3,782 |

@@ -5,27 +5,27 @@ Rating: 4.35 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,852 |
-| A Ribbiting Performance | 77.00% | ~1,620 |
-| At Least We Have Each Other... | 76.00% | ~1,599 |
-| Frogbot | 73.00% | ~1,536 |
-| Ouch | 55.00% | ~1,157 |
-| Fun in the Stun | 54.00% | ~1,136 |
-| Do you feel like a tough guy? | 44.00% | ~926 |
-| The Interdimensional Power of Friendship | 44.00% | ~926 |
+| On the Shoulders of Giants | 88.00% | ~1,853 |
+| A Ribbiting Performance | 77.00% | ~1,622 |
+| At Least We Have Each Other... | 76.00% | ~1,601 |
+| Frogbot | 73.00% | ~1,537 |
+| Ouch | 55.00% | ~1,158 |
+| Fun in the Stun | 54.00% | ~1,137 |
+| Do you feel like a tough guy? | 44.00% | ~927 |
+| The Interdimensional Power of Friendship | 44.00% | ~927 |
 | Turn Up The HEAT | 40.00% | ~842 |
-| Stop Hitting Yourself! | 35.00% | ~736 |
-| Nothing to Wear | 30.00% | ~631 |
-| The First Law of Thermodynamics | 27.00% | ~568 |
+| Stop Hitting Yourself! | 35.00% | ~737 |
+| Nothing to Wear | 30.00% | ~632 |
+| The First Law of Thermodynamics | 27.00% | ~569 |
 | Do you trust me? | 15.00% | ~316 |
 | The Second Law of Thermodynamics | 14.00% | ~295 |
-| The Third Law of Thermodynamics | 9.00% | ~189 |
-| Say "Cheese!" | 9.00% | ~189 |
+| The Third Law of Thermodynamics | 9.00% | ~190 |
+| Say "Cheese!" | 8.00% | ~168 |
 | Taking Out the Trash | 8.00% | ~168 |
 | Better Than the Devs | 4.00% | ~84 |
 | So do we just stay up here, or?... | 2.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,104 (Ranked 149)  
+Progressed: 2,106 (Ranked 149)  
 Completed: 8 (0.38%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 8 (0.38%) (Ranked 117)
 | 2023-05-31 | 2,094 | 8 |
 | 2023-06-01 | 2,100 | 8 |
 | 2023-06-02 | 2,104 | 8 |
+| 2023-06-03 | 2,106 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

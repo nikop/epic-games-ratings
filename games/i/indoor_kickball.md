@@ -33,6 +33,7 @@
 | Garage Secret Spot | 3.00% | ~1 |
 | Kickball Kup | 3.00% | ~1 |
 | Goooooooooal! | 3.00% | ~1 |
+| Interference | 3.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
@@ -43,7 +44,6 @@
 | The Champ | 0.00% | ~0 |
 | Angry Mom | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
-| Interference | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 39 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 211)  

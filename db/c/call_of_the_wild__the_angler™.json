@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4009,
+  "EOS_Progressed": 4011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2458,6 +2458,11 @@
       "Time": "2023-06-03T00:00:09.1987807+00:00",
       "NumProgressed": 4009,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T02:14:35.7875593+00:00",
+      "NumProgressed": 4011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2469,7 +2474,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2477,7 +2482,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2485,7 +2490,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2509,15 +2514,15 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -2525,7 +2530,7 @@
       "Name": "Scaling up",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2533,15 +2538,15 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1284
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -2557,7 +2562,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -2573,7 +2578,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -2581,7 +2586,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -2748,13 +2753,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4009,
+      "Progressed": 4011,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3381,
+      "Progressed": 3383,
       "Completed": 112
     }
   ],
@@ -2762,8 +2767,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:00:09.1987802+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:14:35.7875588+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:14.4046039+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:59:14.2535438+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:00:09.1990586+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:13:24.8589924+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:14:35.7876549+00:00"
 }

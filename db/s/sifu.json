@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4386,10 +4386,10 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 706957,
+  "EOS_Progressed": 706977,
   "EOS_Completed": 12751,
-  "EOS_NewPlayers": 1440,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 1445,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8286,6 +8286,11 @@
       "Time": "2023-06-03T00:05:36.7656175+00:00",
       "NumProgressed": 706957,
       "NumCompleted": 12751
+    },
+    {
+      "Time": "2023-06-03T02:19:44.1885155+00:00",
+      "NumProgressed": 706977,
+      "NumCompleted": 12751
     }
   ],
   "TotalAchievements": 50,
@@ -8641,7 +8646,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8696,21 +8701,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16258,
-      "Completed": 10215
+      "Progressed": 16278,
+      "Completed": 10216
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 706957,
+      "Progressed": 706977,
       "Completed": 12751
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-02T18:59:21.3586321+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:05:36.7656162+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:19:44.188515+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:58:34.2510109+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:05:36.7656817+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:12:34.1716143+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:19:44.1885736+00:00"
 }

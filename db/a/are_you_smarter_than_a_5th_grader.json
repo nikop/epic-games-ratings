@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -117,6 +117,11 @@
       "Time": "2023-06-01T18:06:31.8645671+00:00",
       "NumProgressed": 280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T02:19:38.0226593+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -152,7 +157,7 @@
       "Name": "Exam Practice",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ExamTime",
@@ -160,7 +165,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "FifthGrade",
@@ -230,9 +235,9 @@
       "ID": "SecondGrade",
       "SetID": "6l18k14",
       "Name": "2nd Grade",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "SelfSufficient",
@@ -279,7 +284,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 0
     }
   ],
@@ -287,8 +292,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:05:31.1638696+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:19:38.0226588+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:38.5754225+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:59:31.7077532+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:05:31.1638859+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:13:47.2839135+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:19:38.0226741+00:00"
 }

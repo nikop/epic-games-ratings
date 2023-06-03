@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6507,
+  "EOS_Progressed": 6509,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1463,6 +1463,11 @@
       "Time": "2023-06-02T23:06:02.2849168+00:00",
       "NumProgressed": 6507,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-03T02:19:25.4590452+00:00",
+      "NumProgressed": 6509,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1490,7 +1495,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -1506,7 +1511,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1546,7 +1551,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -1554,7 +1559,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -1570,7 +1575,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1602,7 +1607,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -1610,7 +1615,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1618,7 +1623,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -1626,7 +1631,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1642,7 +1647,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1674,7 +1679,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1682,22 +1687,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6507,
+      "Progressed": 6509,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:05:19.9331933+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:19:25.4590443+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0570874+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:57:17.3277578+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:05:19.9332186+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:10:58.8308569+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:19:25.459073+00:00"
 }

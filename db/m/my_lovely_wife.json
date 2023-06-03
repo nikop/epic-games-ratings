@@ -211,17 +211,17 @@
       "ID": "ACH_ASSIGN_LEARN_2",
       "SetID": "ajki3eh",
       "Name": "Dilligent",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
       "SetID": "ajki3eh",
       "Name": "Adored",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_2",
@@ -323,9 +323,9 @@
       "ID": "ACH_KILL_SUCC_1",
       "SetID": "ajki3eh",
       "Name": "I... I did it?",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_KILL_SUCC_2",
@@ -475,8 +475,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:05:15.7047359+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:19:20.5448464+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:17.2420043+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:57:50.0325497+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:05:15.7047595+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:11:38.9780574+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:19:20.5448694+00:00"
 }

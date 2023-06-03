@@ -6,10 +6,10 @@ Rating: 3.95 (Ranked 903)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,183 |
-| World Map | 80.00% | ~1,006 |
-| Temple of Eternals | 56.00% | ~704 |
+| World Map | 80.00% | ~1,007 |
+| Temple of Eternals | 56.00% | ~705 |
 | Prestigious | 53.00% | ~667 |
-| Fellowship Power | 40.00% | ~503 |
+| Fellowship Power | 40.00% | ~504 |
 | Guild Power | 24.00% | ~302 |
 | Prestigious x10 | 21.00% | ~264 |
 | The game is on | 19.00% | ~239 |
@@ -32,12 +32,12 @@ Rating: 3.95 (Ranked 903)
 | Daily Quest Completionist | 8.00% | ~101 |
 | Scroll Master | 7.00% | ~88 |
 | The power of Awakening | 7.00% | ~88 |
-| Doing My Part | 6.00% | ~75 |
-| Frostfire Liberator | 6.00% | ~75 |
-| Hunter | 6.00% | ~75 |
-| Mastery | 6.00% | ~75 |
-| Moving Up The Ladder | 6.00% | ~75 |
-| Relic Of The Past | 6.00% | ~75 |
+| Doing My Part | 6.00% | ~76 |
+| Frostfire Liberator | 6.00% | ~76 |
+| Hunter | 6.00% | ~76 |
+| Mastery | 6.00% | ~76 |
+| Moving Up The Ladder | 6.00% | ~76 |
+| Relic Of The Past | 6.00% | ~76 |
 | Here We Go Again | 5.00% | ~63 |
 | How Do You Turn This On? | 5.00% | ~63 |
 | The Expeditioner | 5.00% | ~63 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 903)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,258 (Ranked 161)  
+Progressed: 1,259 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 171)
 | 2023-05-31 | 1,239 | 1 |
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
-| 2023-06-03 | 1,258 | 1 |
+| 2023-06-03 | 1,259 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 843,
   "Ranking_Popularity": 98,
-  "Ranking_PopularitySum": 138,
+  "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 56,
@@ -1290,24 +1290,30 @@
       "Rating": 4.17,
       "NumberOfAwards": 3773,
       "NumberOfAwardsMax": 2275
+    },
+    {
+      "Time": "2023-06-03T02:13:20.5301185+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3782,
+      "NumberOfAwardsMax": 2283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3773,
-  "NumberOfAwardsMax": 2275,
+  "NumberOfAwards": 3782,
+  "NumberOfAwardsMax": 2283,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2275
+      "Count": 2283
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1358,9 +1364,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63317,
+  "EOS_Progressed": 63331,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1084,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4823,6 +4829,11 @@
       "Time": "2023-06-03T00:05:40.0296622+00:00",
       "NumProgressed": 63317,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-03T02:19:47.8341227+00:00",
+      "NumProgressed": 63331,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -4952,9 +4963,9 @@
       "ID": "CLAYFACE_3",
       "SetID": "4eo5ebm",
       "Name": "Rock and a Hard Place",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 570
+      "UsersEstimate": 633
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -5058,7 +5069,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "FREEZE_1_5",
@@ -5138,7 +5149,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "HARLEY_2",
@@ -5146,7 +5157,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "HARLEY_3",
@@ -5210,7 +5221,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -5226,15 +5237,15 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 1267
     },
     {
       "ID": "MYSTERY_03",
@@ -5321,22 +5332,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63317,
+      "Progressed": 63331,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33597,
+      "Progressed": 33611,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-02T23:59:10.5364473+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:05:40.0296618+00:00",
+  "LastChanged": "2023-06-03T02:13:20.5301183+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:19:47.8341217+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:59:10.5364479+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:05:40.0297406+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:13:20.5301189+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:19:47.8341996+00:00"
 }

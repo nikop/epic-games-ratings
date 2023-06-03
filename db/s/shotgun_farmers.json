@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 76,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -425,9 +425,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_first_harvest",
@@ -521,9 +521,9 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -689,9 +689,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -721,9 +721,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_all_koth_points",
@@ -921,7 +921,7 @@
       "ID": "ach_x_victims_using_double_barrel",
       "SetID": "bf10c8p",
       "Name": "This Is My Boomstick",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -953,7 +953,7 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -984,8 +984,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-03T00:04:25.310395+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:18:20.9459795+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:32.4470818+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:58:00.9074882+00:00",
-  "LastUpdate_Achievements": "2023-06-03T00:04:25.310474+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:11:52.4754439+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:18:20.9460562+00:00"
 }

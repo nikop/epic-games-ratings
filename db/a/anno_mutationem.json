@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -348,9 +348,9 @@
       "ID": "In the smacker...I think",
       "SetID": "gl7plp",
       "Name": "In the smacker...I think",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 62
     },
     {
       "ID": "Keep_em_coming",
@@ -372,9 +372,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 111
+      "UsersEstimate": 118
     },
     {
       "ID": "SERENITY_NOW",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-02T23:59:55.7147607+00:00",
+  "LastChanged_Achievements": "2023-06-03T02:14:19.417469+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.0234208+00:00",
-  "LastUpdate_Ratings": "2023-06-02T23:57:27.6050769+00:00",
-  "LastUpdate_Achievements": "2023-06-02T23:59:55.714796+00:00"
+  "LastUpdate_Ratings": "2023-06-03T02:11:11.3027446+00:00",
+  "LastUpdate_Achievements": "2023-06-03T02:14:19.4175112+00:00"
 }
