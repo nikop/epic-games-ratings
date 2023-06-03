@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~542 |
+| Country Bumpkin | 75.00% | ~549 |
 | Departure | 73.00% | ~534 |
 | A new Journey | 73.00% | ~534 |
+| From X to Y | 71.00% | ~520 |
 | Way of Iron | 71.00% | ~520 |
-| From X to Y | 70.00% | ~512 |
 | Mystery Tour | 67.00% | ~490 |
 | Brainstorm | 65.00% | ~476 |
 | We brake for nobody | 65.00% | ~476 |
@@ -35,7 +35,7 @@
 | Socializer | 18.00% | ~132 |
 | Trailblazer | 17.00% | ~124 |
 | General Manager | 15.00% | ~110 |
-| Traffic Junction | 12.00% | ~88 |
+| Traffic Junction | 13.00% | ~95 |
 | Traffic Jam | 11.00% | ~81 |
 | Assimilated | 11.00% | ~81 |
 | Locusts | 11.00% | ~81 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732 (Ranked 184)  
+Progressed: 732 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12929,
+  "EOS_Progressed": 12930,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 3,
@@ -3269,6 +3269,11 @@
       "Time": "2023-06-03T03:08:15.4888285+00:00",
       "NumProgressed": 12929,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-03T04:05:29.8215123+00:00",
+      "NumProgressed": 12930,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 41,
@@ -3480,7 +3485,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "tpote_achievement_33",
@@ -3544,7 +3549,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5430
+      "UsersEstimate": 5431
     },
     {
       "ID": "tpote_achievement_40",
@@ -3592,7 +3597,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "tpote_achievement_9",
@@ -3600,22 +3605,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12929,
+      "Progressed": 12930,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-03T03:08:15.4888281+00:00",
+  "LastChanged_Achievements": "2023-06-03T04:05:29.8215119+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:02:22.2618351+00:00",
-  "LastUpdate_Achievements": "2023-06-03T03:08:15.4888797+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:59:28.9394071+00:00",
+  "LastUpdate_Achievements": "2023-06-03T04:05:29.8215611+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
@@ -203,8 +203,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2023-06-03T03:08:35.9128072+00:00",
+  "LastChanged_Achievements": "2023-06-03T04:05:50.37642+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:47.2179093+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:02:40.0570337+00:00",
-  "LastUpdate_Achievements": "2023-06-03T03:08:35.9128199+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:59:46.4803511+00:00",
+  "LastUpdate_Achievements": "2023-06-03T04:05:50.3764336+00:00"
 }

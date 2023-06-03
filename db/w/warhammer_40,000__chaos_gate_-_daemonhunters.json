@@ -528,7 +528,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2836,
+  "EOS_Progressed": 2839,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -1543,6 +1543,11 @@
       "Time": "2023-06-03T03:08:39.6950746+00:00",
       "NumProgressed": 2836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T04:05:54.2578051+00:00",
+      "NumProgressed": 2839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1570,7 +1575,7 @@
       "Name": "Look Over There!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "BloodAndIron",
@@ -1650,7 +1655,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1722,7 +1727,7 @@
       "Name": "Not So Fast...",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "Kills_Bleed",
@@ -1730,7 +1735,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1746,7 +1751,7 @@
       "Name": "Executioner",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "Kills_Exterminator",
@@ -1760,9 +1765,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 426
     },
     {
       "ID": "Kills_Interactable",
@@ -1778,7 +1783,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Kills_Streak",
@@ -1786,7 +1791,7 @@
       "Name": "Purging Spree",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "Kills_Vakir",
@@ -1802,7 +1807,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1890,7 +1895,7 @@
       "Name": "Bloodless",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1978,7 +1983,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1994,7 +1999,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "SkilledKnight",
@@ -2025,21 +2030,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2836,
+      "Progressed": 2839,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2836,
+      "Progressed": 2839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-03T03:08:39.6950742+00:00",
+  "LastChanged_Achievements": "2023-06-03T04:05:54.2578048+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:01:16.347631+00:00",
-  "LastUpdate_Achievements": "2023-06-03T03:08:39.6951355+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:58:20.8049903+00:00",
+  "LastUpdate_Achievements": "2023-06-03T04:05:54.2578621+00:00"
 }

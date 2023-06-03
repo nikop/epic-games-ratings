@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2095,
+  "EOS_Progressed": 2098,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2309,6 +2309,11 @@
       "Time": "2023-06-03T03:08:25.6445729+00:00",
       "NumProgressed": 2095,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T04:05:40.0570544+00:00",
+      "NumProgressed": 2098,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2488,7 +2493,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2528,7 +2533,7 @@
       "Name": "Lord of War",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2568,7 +2573,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2632,7 +2637,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2656,7 +2661,7 @@
       "Name": "Change the Channel",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2887,13 +2892,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2046,
+      "Progressed": 2049,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2095,
+      "Progressed": 2098,
       "Completed": 2
     }
   ],
@@ -2901,8 +2906,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-03T03:08:25.6445724+00:00",
+  "LastChanged_Achievements": "2023-06-03T04:05:40.0570539+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:02:50.9270285+00:00",
-  "LastUpdate_Achievements": "2023-06-03T03:08:25.6446509+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:59:57.8152437+00:00",
+  "LastUpdate_Achievements": "2023-06-03T04:05:40.0571357+00:00"
 }

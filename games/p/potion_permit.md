@@ -5,22 +5,22 @@ Rating: 3.80 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,303 |
-| The First Step | 88.00% | ~1,170 |
-| Moonbury Traveller | 63.00% | ~838 |
+| Welcome to Moonbury | 98.00% | ~1,304 |
+| The First Step | 88.00% | ~1,171 |
+| Moonbury Traveller | 63.00% | ~839 |
 | Rookie Chemist | 62.00% | ~825 |
-| Great Doctor | 50.00% | ~665 |
-| Dog Whisperer | 47.00% | ~625 |
+| Great Doctor | 50.00% | ~666 |
+| Dog Whisperer | 47.00% | ~626 |
 | Friendly | 46.00% | ~612 |
 | The Capitalist | 42.00% | ~559 |
-| K.O.! | 41.00% | ~545 |
-| Intermediate Chemist | 38.00% | ~505 |
-| Decorative Mind | 31.00% | ~412 |
+| K.O.! | 41.00% | ~546 |
+| Intermediate Chemist | 38.00% | ~506 |
+| Decorative Mind | 31.00% | ~413 |
 | Lumber Specialist | 29.00% | ~386 |
 | Catch of the Day | 23.00% | ~306 |
 | Kind-hearted | 22.00% | ~293 |
 | Amateur Chef | 20.00% | ~266 |
-| Fishing Guru | 18.00% | ~239 |
+| Fishing Guru | 18.00% | ~240 |
 | Community Helper | 16.00% | ~213 |
 | Spark of Love | 15.00% | ~200 |
 | Stone Specialist | 13.00% | ~173 |
@@ -33,7 +33,7 @@ Rating: 3.80 (Ranked 921)
 | Acrobatic Adventurer | 8.00% | ~106 |
 | Animal Exterminator | 7.00% | ~93 |
 | Adolescent Love | 6.00% | ~80 |
-| Mail Carrier | 5.00% | ~66 |
+| Mail Carrier | 5.00% | ~67 |
 | Plantation Exterminator | 4.00% | ~53 |
 | Grape Supplier | 4.00% | ~53 |
 | Sous Chef | 3.00% | ~40 |
@@ -44,7 +44,7 @@ Rating: 3.80 (Ranked 921)
 | Moonbury Navigator | 0.80% | ~11 |
 | Being a donut... | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,330 (Ranked 160)  
+Progressed: 1,331 (Ranked 160)  
 Completed: 5 (0.38%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 5 (0.38%) (Ranked 117)
 | 2023-05-31 | 1,323 | 5 |
 | 2023-06-01 | 1,326 | 5 |
 | 2023-06-02 | 1,330 | 5 |
+| 2023-06-03 | 1,331 | 5 |
 ## Awards
 Max (Character Customization): 66  (Ranked 368)  
 Sum: 66 (Ranked 424)  

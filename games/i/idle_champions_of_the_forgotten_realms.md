@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lutes of Loomlurch | 0.20% | ~112 |
 | Supply Run | 0.20% | ~179 |
 | Best Laid Plans | 0.20% | ~112 |
+| The Howling Peaks of Yon | 0.20% | ~112 |
 | Vecna Lives! | 0.20% | ~112 |
 | Return to the Tomb | 0.20% | ~112 |
 | Keep Your Distance | 0.20% | ~112 |
@@ -188,7 +189,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Loots of Loomlurch | 0.10% | ~56 |
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
-| The Howling Peaks of Yon | 0.10% | ~56 |
 | Strength of Character | 0.10% | ~56 |
 | The Invisible Wizards of Thay | 0.10% | ~56 |
 | Heavy Burden | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,562 (Ranked 62)  
+Progressed: 89,564 (Ranked 62)  
 Completed: 1,910 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 1,910 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,562 | 1,910 |
+| 2023-06-03 | 89,564 | 1,910 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

@@ -6,23 +6,23 @@ Rating: 4.54 (Ranked 487)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 78.00% | ~3,285 |
-| Realm Estate | 75.00% | ~3,158 |
-| Secret Technique | 74.00% | ~3,116 |
-| Walls Cannot Stop Us | 72.00% | ~3,032 |
-| From Friends to Family | 68.00% | ~2,863 |
-| Magical Synergy | 64.00% | ~2,695 |
+| Realm Estate | 75.00% | ~3,159 |
+| Secret Technique | 74.00% | ~3,117 |
+| Walls Cannot Stop Us | 72.00% | ~3,033 |
+| From Friends to Family | 68.00% | ~2,864 |
+| Magical Synergy | 64.00% | ~2,696 |
 | Bone Peddler | 60.00% | ~2,527 |
 | Stronger Together | 54.00% | ~2,274 |
 | Full Ascension | 53.00% | ~2,232 |
-| There Can Only Be One! | 46.00% | ~1,937 |
-| Seat of Power | 46.00% | ~1,937 |
+| There Can Only Be One! | 46.00% | ~1,938 |
+| Seat of Power | 46.00% | ~1,938 |
 | Intimidation Tactics | 43.00% | ~1,811 |
 | My Final Form | 42.00% | ~1,769 |
 | Valley of Wonders | 41.00% | ~1,727 |
 | In a Liege of Your Own | 36.00% | ~1,516 |
-| Return of the Wizard King | 30.00% | ~1,263 |
-| Digging for Treasure | 30.00% | ~1,263 |
-| Against the Odds | 30.00% | ~1,263 |
+| Return of the Wizard King | 30.00% | ~1,264 |
+| Digging for Treasure | 30.00% | ~1,264 |
+| Against the Odds | 30.00% | ~1,264 |
 | Enchanted Archipelago | 26.00% | ~1,095 |
 | Impenetrable Fortress | 26.00% | ~1,095 |
 | The Magic That Empowers Me! | 19.00% | ~800 |
@@ -33,8 +33,8 @@ Rating: 4.54 (Ranked 487)
 | Crimson Caldera | 16.00% | ~674 |
 | The Creator | 14.00% | ~590 |
 | Fiery Friend | 14.00% | ~590 |
-| Lord of Chaos | 13.00% | ~547 |
-| The Goddess of Nature | 13.00% | ~547 |
+| Lord of Chaos | 13.00% | ~548 |
+| The Goddess of Nature | 13.00% | ~548 |
 | Pruning for Progress | 9.00% | ~379 |
 | The Eternal Court | 8.00% | ~337 |
 | Jack of All Tomes | 8.00% | ~337 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 487)
 | Returning Circle | 0.30% | ~13 |
 | Master of Evilness | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,211 (Ranked 129)  
+Progressed: 4,212 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 4,063 | 0 |
 | 2023-06-01 | 4,139 | 0 |
 | 2023-06-02 | 4,204 | 0 |
-| 2023-06-03 | 4,211 | 0 |
+| 2023-06-03 | 4,212 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

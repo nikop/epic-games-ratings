@@ -4,7 +4,7 @@
   "ProductSlug": "system-shock",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-30T15:00:00+00:00",
@@ -411,8 +411,8 @@
   ],
   "FirstSeen": "2023-05-30T18:57:52.7596476+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
-  "LastChanged_Achievements": "2023-06-03T03:07:19.0660856+00:00",
+  "LastChanged_Achievements": "2023-06-03T04:04:31.7701302+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.0778718+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:00:36.5260079+00:00",
-  "LastUpdate_Achievements": "2023-06-03T03:07:19.0661242+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:57:40.4830991+00:00",
+  "LastUpdate_Achievements": "2023-06-03T04:04:31.7701689+00:00"
 }

@@ -10,10 +10,10 @@
 | Getting Good At This | 15.00% | ~4 |
 | Evolution Revolution | 7.00% | ~2 |
 | Five Of A Kind | 7.00% | ~2 |
+| I'm A Wizard | 7.00% | ~2 |
 | Ender Ender | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
-| I'm A Wizard | 4.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |

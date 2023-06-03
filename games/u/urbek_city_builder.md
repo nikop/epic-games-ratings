@@ -11,7 +11,7 @@
 | Sport is good for you | 25.00% | ~53 |
 | The woodcutter | 22.00% | ~47 |
 | I like books | 20.00% | ~42 |
-| I like my life | 18.00% | ~38 |
+| I like my life | 19.00% | ~40 |
 | Clean energy | 17.00% | ~36 |
 | Soviet town | 17.00% | ~36 |
 | Bucolic city | 13.00% | ~28 |

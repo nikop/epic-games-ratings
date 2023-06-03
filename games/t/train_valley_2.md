@@ -31,6 +31,7 @@ Number of Ratings: 87  (23.09.2022)
 | Steam Age | 3.00% | ~22 |
 | The Tortoise | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
+| Without a lunch break | 3.00% | ~22 |
 | Beginner | 2.00% | ~14 |
 | Industrial Age | 2.00% | ~14 |
 | Jewelry accuracy | 2.00% | ~14 |
@@ -40,7 +41,6 @@ Number of Ratings: 87  (23.09.2022)
 | Sabotage | 2.00% | ~14 |
 | Squander | 2.00% | ~14 |
 | Stargazer | 2.00% | ~14 |
-| Without a lunch break | 2.00% | ~14 |
 | At the last moment! | 1.00% | ~7 |
 | Bridge builder | 1.00% | ~7 |
 | Electrical Age | 1.00% | ~7 |

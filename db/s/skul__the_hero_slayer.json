@@ -738,10 +738,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 874,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2023-06-03T03:58:36.0375057+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 875,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 874,
+  "NumberOfAwards": 875,
   "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -779,7 +785,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 88
+      "Count": 89
     },
     {
       "Text": "This game has Amazing Characters",
@@ -812,9 +818,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7568,
+  "EOS_Progressed": 7569,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2052,6 +2058,11 @@
       "Time": "2023-06-03T03:08:15.6253704+00:00",
       "NumProgressed": 7568,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-03T04:05:29.8413483+00:00",
+      "NumProgressed": 7569,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2087,7 +2098,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2151,7 +2162,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "LeoniasFall",
@@ -2191,7 +2202,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2199,7 +2210,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "SkeletonKing",
@@ -2215,7 +2226,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "TheLegendBegins",
@@ -2223,7 +2234,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2231,7 +2242,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3481
+      "UsersEstimate": 3482
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2247,22 +2258,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6281
+      "UsersEstimate": 6282
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7568,
+      "Progressed": 7569,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-06-01T08:58:45.1886525+00:00",
-  "LastChanged_Achievements": "2023-06-03T03:08:15.62537+00:00",
+  "LastChanged": "2023-06-03T03:58:36.0375055+00:00",
+  "LastChanged_Achievements": "2023-06-03T04:05:29.841348+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:01:30.8631805+00:00",
-  "LastUpdate_Achievements": "2023-06-03T03:08:15.6253958+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:58:36.0375061+00:00",
+  "LastUpdate_Achievements": "2023-06-03T04:05:29.8413691+00:00"
 }

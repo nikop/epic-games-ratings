@@ -2,7 +2,7 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 92,
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1015,9 +1015,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 520
     },
     {
       "ID": "A11",
@@ -1095,9 +1095,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 549
     },
     {
       "ID": "A21",
@@ -1215,9 +1215,9 @@
       "ID": "A35",
       "SetID": "9b7p7eo",
       "Name": "Traffic Junction",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 95
     },
     {
       "ID": "A36",
@@ -1382,8 +1382,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-03T03:08:34.8950731+00:00",
+  "LastChanged_Achievements": "2023-06-03T04:05:49.4568274+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-03T03:00:47.28939+00:00",
-  "LastUpdate_Achievements": "2023-06-03T03:08:34.8951267+00:00"
+  "LastUpdate_Ratings": "2023-06-03T03:57:50.07839+00:00",
+  "LastUpdate_Achievements": "2023-06-03T04:05:49.4569535+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~499 |
+| Breathe In… Breathe Out… | 73.00% | ~506 |
 | It’s Heating up! | 68.00% | ~471 |
 | Let’s patch things up | 65.00% | ~450 |
 | I can fix it! | 61.00% | ~423 |
-| Post No Bills | 54.00% | ~374 |
+| Post No Bills | 55.00% | ~381 |
 | Truly Shocking! | 46.00% | ~319 |
 | Critical Thinker | 34.00% | ~236 |
 | Always Finding Your Mark | 28.00% | ~194 |

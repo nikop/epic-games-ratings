@@ -5,15 +5,15 @@ Rating: 4.88 (Ranked 19)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,080 |
-| Feeling the beat! | 80.00% | ~2,080 |
-| You can pet the cat! | 75.00% | ~1,950 |
-| Who put gears in there? | 68.00% | ~1,768 |
-| Cream of the Crop | 63.00% | ~1,638 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~1,612 |
-| You got this, Peppermint? | 57.00% | ~1,482 |
-| Perfect Parry | 55.00% | ~1,430 |
-| Alright, that felt AWESOME! | 55.00% | ~1,430 |
+| Start with a bang! | 80.00% | ~2,081 |
+| Feeling the beat! | 80.00% | ~2,081 |
+| You can pet the cat! | 75.00% | ~1,951 |
+| Who put gears in there? | 68.00% | ~1,769 |
+| Cream of the Crop | 63.00% | ~1,639 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~1,613 |
+| You got this, Peppermint? | 57.00% | ~1,483 |
+| Perfect Parry | 55.00% | ~1,431 |
+| Alright, that felt AWESOME! | 54.00% | ~1,405 |
 | I play my own way! | 50.00% | ~1,300 |
 | This will cost you big time | 48.00% | ~1,248 |
 | Uh, they were broken when I got here | 47.00% | ~1,222 |
@@ -39,10 +39,10 @@ Rating: 4.88 (Ranked 19)
 | Check out my moves! | 12.00% | ~312 |
 | Chip-tuned | 11.00% | ~286 |
 | We're Jammin' | 9.00% | ~234 |
-| I think I found your calling, Macaron | 8.00% | ~208 |
-| I'm not done with you yet | 8.00% | ~208 |
 | First we parry, then we counter | 8.00% | ~208 |
 | I hit things with a guitar really well. | 8.00% | ~208 |
+| I think I found your calling, Macaron | 7.00% | ~182 |
+| I'm not done with you yet | 7.00% | ~182 |
 | I think I deserve some praise, here! | 6.00% | ~156 |
 | You ever parry a volcano? | 6.00% | ~156 |
 | This is a breeze! | 5.00% | ~130 |
@@ -67,7 +67,7 @@ Rating: 4.88 (Ranked 19)
 | Didn't skip a beat! | 0.30% | ~8 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,600 (Ranked 143)  
+Progressed: 2,601 (Ranked 143)  
 Completed: 4 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 4 (0.15%) (Ranked 153)
 | 2023-05-31 | 2,489 | 4 |
 | 2023-06-01 | 2,530 | 4 |
 | 2023-06-02 | 2,591 | 4 |
-| 2023-06-03 | 2,600 | 4 |
+| 2023-06-03 | 2,601 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
