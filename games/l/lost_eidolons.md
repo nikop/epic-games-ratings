@@ -5,7 +5,7 @@ Rating: 4.31 (Ranked 756)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 67.00% | ~634 |
+| The First Step | 68.00% | ~643 |
 | First Blood | 64.00% | ~605 |
 | Ready to Learn | 62.00% | ~587 |
 | Monster Hunter | 53.00% | ~501 |

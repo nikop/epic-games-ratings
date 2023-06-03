@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -466,9 +466,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 250300,
+  "EOS_Progressed": 250309,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4826,6 +4826,11 @@
       "Time": "2023-06-03T21:00:50.2231689+00:00",
       "NumProgressed": 250300,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T22:00:24.9851584+00:00",
+      "NumProgressed": 250309,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -4837,7 +4842,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17521
+      "UsersEstimate": 17522
     },
     {
       "ID": "Act2",
@@ -4885,7 +4890,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77593
+      "UsersEstimate": 77596
     },
     {
       "ID": "BackHomeNTimes",
@@ -4941,7 +4946,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25030
+      "UsersEstimate": 25031
     },
     {
       "ID": "CreditLevel2",
@@ -5037,7 +5042,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15018
+      "UsersEstimate": 15019
     },
     {
       "ID": "GrowPlants2",
@@ -5125,7 +5130,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55066
+      "UsersEstimate": 55068
     },
     {
       "ID": "KillOthers2",
@@ -5229,7 +5234,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25030
+      "UsersEstimate": 25031
     },
     {
       "ID": "ReachNDays2",
@@ -5284,7 +5289,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250300,
+      "Progressed": 250309,
       "Completed": 1
     }
   ],
@@ -5292,8 +5297,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-02T21:05:16.9759791+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:00:50.2231681+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:00:24.9851577+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.3196281+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:00:16.2960675+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:00:50.2232312+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:59:53.0816858+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:00:24.9853339+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "252244fbdca142948592127c2249498f",
   "Name": "Shadow Gangs",
   "ProductSlug": "shadow-gangs-0ce20b",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-31T09:00:00+00:00",
     "PcReleaseDate": "2020-04-10T11:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34,6 +34,11 @@
       "Time": "2023-05-25T16:06:42.8714394+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T22:05:26.4872108+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -45,7 +50,7 @@
       "Name": "Took the challenge",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "1",
@@ -67,7 +72,7 @@
       "ID": "11",
       "SetID": "ab7e240",
       "Name": "Mission I finished",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "16",
       "SetID": "ab7e240",
       "Name": "First shoot bonus stage beaten",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -139,7 +144,7 @@
       "ID": "2",
       "SetID": "ab7e240",
       "Name": "Bridge level completed",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -147,7 +152,7 @@
       "ID": "20",
       "SetID": "ab7e240",
       "Name": "First ninja bonus stage beaten",
-      "Percentage": -25,
+      "Percentage": -20,
       "XP": 10,
       "UsersEstimate": -1
     },
@@ -227,7 +232,7 @@
       "ID": "3",
       "SetID": "ab7e240",
       "Name": "Forest level completed",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -380,13 +385,13 @@
     {
       "ID": "ab7e240",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.5861059+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:06:04.4761985+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:05:26.4872104+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:02.1004035+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:58:43.9090287+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:06:04.4762249+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:58:33.2704565+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:05:26.4872426+00:00"
 }

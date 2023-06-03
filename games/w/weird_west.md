@@ -13,7 +13,7 @@ Number of Ratings: 125  (23.09.2022)
 | Welcome to the Weird West | 57.00% | ~909 |
 | Dead or Alive | 55.00% | ~877 |
 | Full House | 37.00% | ~590 |
-| Off the Trail | 33.00% | ~526 |
+| Off the Trail | 34.00% | ~542 |
 | Justice Served | 28.00% | ~447 |
 | Chain Reaction | 27.00% | ~431 |
 | Dishonored | 25.00% | ~399 |

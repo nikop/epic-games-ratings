@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -798,9 +798,9 @@
       "ID": "ACH_BING_BANG_BOOM",
       "SetID": "108h92c",
       "Name": "Bing Bang BOOM",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -814,9 +814,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -894,9 +894,9 @@
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -959,8 +959,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:03:18.9108535+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:02:35.0536158+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:38.9499869+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:57:25.8419926+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:03:18.9108713+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:57:28.342994+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:02:35.0536357+00:00"
 }

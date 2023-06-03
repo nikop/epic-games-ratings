@@ -2,10 +2,10 @@
   "ID": "4acc3c00b76e48dca196601dfe1940fc",
   "Name": "Gripper",
   "ProductSlug": "gripper-a6534b",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -137,6 +137,11 @@
     {
       "Time": "2023-06-02T09:06:38.3659182+00:00",
       "NumProgressed": 41,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T22:05:21.2438586+00:00",
+      "NumProgressed": 42,
       "NumCompleted": 0
     }
   ],
@@ -275,7 +280,7 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -387,7 +392,7 @@
       "ID": "ach_win_depression",
       "SetID": "7flpkel",
       "Name": "Deal with Depression",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -395,7 +400,7 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -428,7 +433,7 @@
     {
       "ID": "7flpkel",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
@@ -436,8 +441,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:05:58.556153+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:05:21.2438582+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:19.299645+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:58:05.6685285+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:05:58.5561742+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:58:00.718209+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:05:21.2438846+00:00"
 }

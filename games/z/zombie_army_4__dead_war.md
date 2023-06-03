@@ -6,46 +6,46 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,954 |
-| Say goodbye, creep! | 65.00% | ~27,676 |
-| Blood splattered | 65.00% | ~27,676 |
-| Choo choo! | 62.00% | ~26,399 |
-| Groovy | 61.00% | ~25,973 |
-| Cleanup on aisle 4! | 56.00% | ~23,844 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,955 |
+| Say goodbye, creep! | 65.00% | ~27,678 |
+| Blood splattered | 65.00% | ~27,678 |
+| Choo choo! | 62.00% | ~26,400 |
+| Groovy | 61.00% | ~25,974 |
+| Cleanup on aisle 4! | 56.00% | ~23,845 |
 | Gold | 50.00% | ~21,290 |
-| The boat can leave now...tell the crew | 48.00% | ~20,438 |
-| Give me something to shoot! | 46.00% | ~19,586 |
-| Stand back boy! | 46.00% | ~19,586 |
-| Weird science | 44.00% | ~18,735 |
-| Chain reaction | 44.00% | ~18,735 |
-| Look mummy! A shark! | 41.00% | ~17,457 |
-| What did you say, Blain? | 41.00% | ~17,457 |
-| In the dark dark woods... | 38.00% | ~16,180 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,180 |
-| Double tap | 36.00% | ~15,328 |
-| Cranial blowout! | 36.00% | ~15,328 |
-| Zombie killin' machine | 36.00% | ~15,328 |
-| Every bullet counts | 36.00% | ~15,328 |
+| The boat can leave now...tell the crew | 48.00% | ~20,439 |
+| Give me something to shoot! | 46.00% | ~19,587 |
+| Stand back boy! | 46.00% | ~19,587 |
+| Weird science | 44.00% | ~18,736 |
+| Chain reaction | 44.00% | ~18,736 |
+| Look mummy! A shark! | 41.00% | ~17,458 |
+| What did you say, Blain? | 41.00% | ~17,458 |
+| In the dark dark woods... | 38.00% | ~16,181 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,181 |
+| Double tap | 36.00% | ~15,329 |
+| Cranial blowout! | 36.00% | ~15,329 |
+| Zombie killin' machine | 36.00% | ~15,329 |
+| Every bullet counts | 36.00% | ~15,329 |
 | All of this has happened before… | 35.00% | ~14,903 |
-| You've got red on you | 34.00% | ~14,477 |
-| All roads lead to Rome | 33.00% | ~14,051 |
-| You're all going to die down here | 31.00% | ~13,199 |
-| He did Nazi that coming | 31.00% | ~13,199 |
-| Kill of the week | 31.00% | ~13,199 |
+| You've got red on you | 34.00% | ~14,478 |
+| All roads lead to Rome | 33.00% | ~14,052 |
+| You're all going to die down here | 31.00% | ~13,200 |
+| He did Nazi that coming | 31.00% | ~13,200 |
+| Kill of the week | 31.00% | ~13,200 |
 | I never liked them anyway | 30.00% | ~12,774 |
-| Is it over? | 28.00% | ~11,922 |
-| Got your back | 27.00% | ~11,496 |
+| Is it over? | 28.00% | ~11,923 |
+| Got your back | 27.00% | ~11,497 |
 | Gore soaked | 24.00% | ~10,219 |
-| Shock therapy | 22.00% | ~9,367 |
-| Leave the limbs you've lost | 22.00% | ~9,367 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,664 |
-| Take them down screaming | 18.00% | ~7,664 |
-| Weapons expert | 17.00% | ~7,238 |
+| Shock therapy | 22.00% | ~9,368 |
+| Leave the limbs you've lost | 22.00% | ~9,368 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,665 |
+| Take them down screaming | 18.00% | ~7,665 |
+| Weapons expert | 17.00% | ~7,239 |
 | Bad Blood | 16.00% | ~6,813 |
 | The bigger they are... | 15.00% | ~6,387 |
 | I'm going deeper underground | 14.00% | ~5,961 |
-| Well equipped | 12.00% | ~5,109 |
-| Into the deep | 12.00% | ~5,109 |
+| Well equipped | 12.00% | ~5,110 |
+| Into the deep | 12.00% | ~5,110 |
 | Damnedbusters | 9.00% | ~3,832 |
 | I can do anything I want. I got guns | 8.00% | ~3,406 |
 | Send me an angel | 8.00% | ~3,406 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~426 |
 | None more hard | 0.50% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,579 (Ranked 82)  
+Progressed: 42,581 (Ranked 82)  
 Completed: 25 (0.06%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,14 +117,14 @@ Completed: 25 (0.06%) (Ranked 178)
 | 2023-05-31 | 42,523 | 25 |
 | 2023-06-01 | 42,537 | 25 |
 | 2023-06-02 | 42,554 | 25 |
-| 2023-06-03 | 42,579 | 25 |
+| 2023-06-03 | 42,581 | 25 |
 ## Awards
-Max (Great Boss Battles): 780  (Ranked 147)  
-Sum: 2,386 (Ranked 168)  
+Max (Great Boss Battles): 781  (Ranked 147)  
+Sum: 2,387 (Ranked 168)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 780 |
+| This game has Great Boss Battles | 781 |
 | This game is Great for Beginners | 241 |
 | This game has Amazing Storytelling | 205 |
 | This game is Extremely Fun | 203 |
@@ -263,4 +263,4 @@ Diff (max vs sum): -21
 | 2023-05-30 | 4.69 | - | 779 | 2,381 |
 | 2023-06-01 | 4.69 | - | 779 | 2,382 |
 | 2023-06-02 | 4.69 | - | 780 | 2,383 |
-| 2023-06-03 | 4.69 | - | 780 | 2,386 |
+| 2023-06-03 | 4.69 | - | 781 | 2,387 |

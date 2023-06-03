@@ -6,9 +6,9 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~505 |
+| Breathe In… Breathe Out… | 73.00% | ~512 |
 | It’s Heating up! | 68.00% | ~477 |
-| Let’s patch things up | 64.00% | ~449 |
+| Let’s patch things up | 65.00% | ~456 |
 | I can fix it! | 61.00% | ~428 |
 | Post No Bills | 54.00% | ~379 |
 | Truly Shocking! | 46.00% | ~322 |
@@ -20,8 +20,8 @@ Number of Ratings: 36  (23.09.2022)
 | A drop in the Ocean | 26.00% | ~182 |
 | I ain’t afraid of no Ghost | 22.00% | ~154 |
 | Act II Complete | 19.00% | ~133 |
+| Bing Bang BOOM | 18.00% | ~126 |
 | A successful procedure! | 17.00% | ~119 |
-| Bing Bang BOOM | 17.00% | ~119 |
 | Breaking the Ice | 15.00% | ~105 |
 | Solidarity Forever | 11.00% | ~77 |
 | A Tucked Tale | 9.00% | ~63 |

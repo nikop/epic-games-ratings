@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,451 |
-| That's a Grand Army | 8.00% | ~3,956 |
-| That is mine! | 8.00% | ~3,956 |
-| Victorious! | 8.00% | ~3,956 |
-| Brothers in Arms | 6.00% | ~2,967 |
-| That's a Grand Navy | 6.00% | ~2,967 |
-| Seriously?! | 6.00% | ~2,967 |
-| For the Glory | 5.00% | ~2,473 |
-| Cold War | 4.00% | ~1,978 |
-| True Catholic | 4.00% | ~1,978 |
+| Until death do us apart | 9.00% | ~4,453 |
+| That's a Grand Army | 8.00% | ~3,958 |
+| That is mine! | 8.00% | ~3,958 |
+| Victorious! | 8.00% | ~3,958 |
+| Brothers in Arms | 6.00% | ~2,969 |
+| That's a Grand Navy | 6.00% | ~2,969 |
+| Seriously?! | 6.00% | ~2,969 |
+| For the Glory | 5.00% | ~2,474 |
+| Cold War | 4.00% | ~1,979 |
+| True Catholic | 4.00% | ~1,979 |
 | Defender of the Faith | 3.00% | ~1,484 |
 | It's all about the money | 3.00% | ~1,484 |
 | Respected | 3.00% | ~1,484 |
 | Truly Divine Ruler | 3.00% | ~1,484 |
-| Agressive Expander | 2.00% | ~989 |
-| Blockader | 2.00% | ~989 |
-| Combined Arms | 2.00% | ~989 |
-| Double the Love | 2.00% | ~989 |
-| Gentle Persuasion | 2.00% | ~989 |
-| It's all about luck | 2.00% | ~989 |
-| My armies are invincible! | 2.00% | ~989 |
-| Queen of Conquest | 2.00% | ~989 |
-| Royal Authority | 2.00% | ~989 |
-| The Princess is in this Castle | 2.00% | ~989 |
-| Total Control | 2.00% | ~989 |
+| Agressive Expander | 2.00% | ~990 |
+| Blockader | 2.00% | ~990 |
+| Combined Arms | 2.00% | ~990 |
+| Double the Love | 2.00% | ~990 |
+| Gentle Persuasion | 2.00% | ~990 |
+| It's all about luck | 2.00% | ~990 |
+| My armies are invincible! | 2.00% | ~990 |
+| Queen of Conquest | 2.00% | ~990 |
+| Royal Authority | 2.00% | ~990 |
+| The Princess is in this Castle | 2.00% | ~990 |
+| Total Control | 2.00% | ~990 |
 | All That's Thine Shall Be Mine | 1.00% | ~495 |
 | Azur semé de lis or | 1.00% | ~495 |
 | Bright Spark | 1.00% | ~495 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,453 (Ranked 78)  
+Progressed: 49,479 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,10 +405,10 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
-| 2023-06-03 | 49,453 | 0 |
+| 2023-06-03 | 49,479 | 0 |
 ## Awards
 Max (Educational): 5,338  (Ranked 61)  
-Sum: 44,074 (Ranked 27)  
+Sum: 44,083 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -416,8 +416,8 @@ Diff (max vs sum): 34
 | This game is Highly Recommended | 5,101 |
 | This game has Challenging Combat | 5,081 |
 | This game is Extremely Fun | 5,054 |
-| This game has Diverse Characters | 5,019 |
-| This game is Relaxing | 4,951 |
+| This game has Diverse Characters | 5,026 |
+| This game is Relaxing | 4,953 |
 | This game has Competitive Players | 4,804 |
 | This game has Amazing Storytelling | 4,534 |
 | This game has Amazing Characters | 4,192 |
@@ -562,4 +562,4 @@ Diff (max vs sum): 34
 | 2023-05-31 | 4.68 | - | 5,322 | 43,985 |
 | 2023-06-01 | 4.68 | - | 5,330 | 44,027 |
 | 2023-06-02 | 4.68 | - | 5,338 | 44,064 |
-| 2023-06-03 | 4.68 | - | 5,338 | 44,074 |
+| 2023-06-03 | 4.68 | - | 5,338 | 44,083 |

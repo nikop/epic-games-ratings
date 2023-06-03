@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -625,6 +625,11 @@
       "Time": "2023-06-03T20:05:50.7463209+00:00",
       "NumProgressed": 392,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T22:05:16.8442555+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -634,9 +639,9 @@
       "ID": "Annoying",
       "SetID": "70l3651",
       "Name": "He\u0027s so Annoying",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "BreakLegs",
@@ -660,7 +665,7 @@
       "Name": "The Wraith",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Chapter10",
@@ -684,15 +689,15 @@
       "Name": "The Breeder",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Chapter4",
       "SetID": "70l3651",
       "Name": "The Veteran",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "Chapter5",
@@ -706,9 +711,9 @@
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "Chapter7",
@@ -740,7 +745,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Collectibles2",
@@ -804,7 +809,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Memories",
@@ -916,21 +921,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:05:53.5146195+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:05:16.844255+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:57:39.3303309+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:05:53.5146436+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:57:39.4190424+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:05:16.8443019+00:00"
 }

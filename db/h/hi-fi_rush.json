@@ -2,20 +2,20 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 19,
+  "Ranking_Rating": 13,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.88,
+  "Rating": 4.89,
   "RatingHistory": [
     {
       "Time": "2023-02-17T04:58:03.9003744+00:00",
@@ -82,15 +82,21 @@
       "Rating": 4.88,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-03T21:58:22.8890275+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2656,
+  "EOS_Progressed": 2657,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2143,6 +2149,11 @@
       "Time": "2023-06-03T21:06:16.4858848+00:00",
       "NumProgressed": 2656,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-03T22:05:37.1943509+00:00",
+      "NumProgressed": 2657,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 61,
@@ -2154,7 +2165,7 @@
       "Name": "Start with a bang!",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "Ach002",
@@ -2162,7 +2173,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "Ach003",
@@ -2178,7 +2189,7 @@
       "Name": "The Negotiator",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "Ach005",
@@ -2186,7 +2197,7 @@
       "Name": "Headliner",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "Ach006",
@@ -2202,7 +2213,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "Ach008",
@@ -2330,7 +2341,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "Ach024",
@@ -2410,7 +2421,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Ach034",
@@ -2522,7 +2533,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "Ach048",
@@ -2530,7 +2541,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "Ach049",
@@ -2538,7 +2549,7 @@
       "Name": "I hit things with a guitar really well.",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Ach050",
@@ -2554,7 +2565,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "Ach052",
@@ -2641,22 +2652,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 2656,
+      "Progressed": 2657,
       "Completed": 4
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1177,
-      "Completed": 1177
+      "Progressed": 1178,
+      "Completed": 1178
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
-  "LastChanged": "2023-05-27T21:58:32.6719245+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:06:16.4858842+00:00",
+  "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:05:37.1943505+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:58:31.6443874+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:06:16.4859383+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:58:22.8890279+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:05:37.1944234+00:00"
 }

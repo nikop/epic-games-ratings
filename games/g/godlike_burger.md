@@ -6,8 +6,8 @@ Rating: 4.25 (Ranked 789)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | MASTER CHEF | 82.00% | ~262 |
-| FIRST BLOOD | 78.00% | ~249 |
-| KEVIN! | 68.00% | ~217 |
+| FIRST BLOOD | 78.00% | ~250 |
+| KEVIN! | 68.00% | ~218 |
 | JACK OF ALL TRADES | 61.00% | ~195 |
 | CRIMINAL | 56.00% | ~179 |
 | GRANDMA WOULD BE PROUD | 45.00% | ~144 |
@@ -19,8 +19,8 @@ Rating: 4.25 (Ranked 789)
 | MARTYR | 21.00% | ~67 |
 | CELEBRITY | 19.00% | ~61 |
 | HELL'S KITCHEN | 19.00% | ~61 |
-| GRATITUDE | 18.00% | ~57 |
-| LAW-ABIDING CITIZEN | 13.00% | ~41 |
+| GRATITUDE | 18.00% | ~58 |
+| LAW-ABIDING CITIZEN | 13.00% | ~42 |
 | PRUDENT | 11.00% | ~35 |
 | GOURMET | 9.00% | ~29 |
 | PATTY-KILLER | 9.00% | ~29 |
@@ -34,7 +34,7 @@ Rating: 4.25 (Ranked 789)
 | TRAVELER | 0.90% | ~3 |
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319 (Ranked 219)  
+Progressed: 320 (Ranked 219)  
 Completed: 1 (0.31%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 1 (0.31%) (Ranked 128)
 | 2023-05-31 | 308 | 1 |
 | 2023-06-01 | 313 | 1 |
 | 2023-06-02 | 315 | 1 |
-| 2023-06-03 | 319 | 1 |
+| 2023-06-03 | 320 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

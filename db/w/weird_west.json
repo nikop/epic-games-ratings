@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1101,9 +1101,9 @@
       "ID": "ACH_OFF_THE_TRAIL",
       "SetID": "8j30i9k",
       "Name": "Off the Trail",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1301,8 +1301,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:06:04.253768+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:05:26.2726874+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.0593225+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:58:26.4927666+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:06:04.2538052+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:58:18.0074947+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:05:26.2727356+00:00"
 }

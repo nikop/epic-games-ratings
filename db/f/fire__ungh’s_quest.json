@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -356,9 +356,9 @@
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "Level_completed_007_006",
@@ -396,9 +396,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -412,9 +412,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -437,8 +437,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:06:09.3008698+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:05:30.6539769+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:17.2024584+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:59:51.5037473+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:06:09.300886+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:59:30.8270279+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:05:30.653996+00:00"
 }

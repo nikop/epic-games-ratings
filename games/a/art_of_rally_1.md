@@ -6,36 +6,36 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,673 |
-| keep it tidy | 77.00% | ~7,759 |
-| podium | 72.00% | ~7,255 |
-| medium attack | 59.00% | ~5,945 |
-| brail | 56.00% | ~5,643 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,030 |
-| grocery-getter | 39.00% | ~3,930 |
-| rwd only | 26.00% | ~2,620 |
-| food tour: pasta | 26.00% | ~2,620 |
-| to finish first, first you must finish | 21.00% | ~2,116 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,116 |
-| autopilot | 20.00% | ~2,015 |
-| turbo | 20.00% | ~2,015 |
-| food tour: pretzel | 19.00% | ~1,914 |
-| bicycle race | 15.00% | ~1,511 |
+| light attack | 96.00% | ~9,676 |
+| keep it tidy | 77.00% | ~7,761 |
+| podium | 72.00% | ~7,257 |
+| medium attack | 59.00% | ~5,947 |
+| brail | 56.00% | ~5,644 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,032 |
+| grocery-getter | 39.00% | ~3,931 |
+| rwd only | 26.00% | ~2,621 |
+| food tour: pasta | 26.00% | ~2,621 |
+| to finish first, first you must finish | 21.00% | ~2,117 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,117 |
+| autopilot | 20.00% | ~2,016 |
+| turbo | 20.00% | ~2,016 |
+| food tour: pretzel | 19.00% | ~1,915 |
+| bicycle race | 15.00% | ~1,512 |
 | car wash | 14.00% | ~1,411 |
 | monster | 14.00% | ~1,411 |
 | perkele | 13.00% | ~1,310 |
 | the artist | 13.00% | ~1,310 |
 | night ride | 12.00% | ~1,209 |
 | snorkel | 12.00% | ~1,209 |
-| where is the stage? | 11.00% | ~1,108 |
-| maximum attack | 11.00% | ~1,108 |
+| where is the stage? | 11.00% | ~1,109 |
+| maximum attack | 11.00% | ~1,109 |
 | espresso | 10.00% | ~1,008 |
 | parallel universe | 9.00% | ~907 |
 | samir | 8.00% | ~806 |
-| eurobeat | 7.00% | ~705 |
-| master of rally | 7.00% | ~705 |
-| antilag | 7.00% | ~705 |
-| mittens | 7.00% | ~705 |
+| eurobeat | 7.00% | ~706 |
+| master of rally | 7.00% | ~706 |
+| antilag | 7.00% | ~706 |
+| mittens | 7.00% | ~706 |
 | parking lot | 6.00% | ~605 |
 | oktoberfest | 6.00% | ~605 |
 | viking | 6.00% | ~605 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,076 (Ranked 109)  
+Progressed: 10,079 (Ranked 109)  
 Completed: 9 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 9 (0.09%) (Ranked 169)
 | 2023-05-31 | 10,063 | 9 |
 | 2023-06-01 | 10,067 | 9 |
 | 2023-06-02 | 10,070 | 9 |
-| 2023-06-03 | 10,076 | 9 |
+| 2023-06-03 | 10,079 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

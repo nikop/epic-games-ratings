@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3416,
+  "EOS_Progressed": 3417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-06-03T08:06:28.2670179+00:00",
       "NumProgressed": 3416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T22:05:31.23986+00:00",
+      "NumProgressed": 3417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -469,7 +474,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -477,7 +482,7 @@
       "Name": "Okay, Vain Much?",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "COL_EVR_VAULTLANDER_FIG",
@@ -517,7 +522,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -565,7 +570,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -613,7 +618,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -661,7 +666,7 @@
       "Name": "Murderous Mascot Mayhem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
@@ -676,7 +681,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3416,
+      "Progressed": 3417,
       "Completed": 0
     }
   ],
@@ -684,8 +689,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:06:09.9843365+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:05:31.2398595+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.2283126+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:59:28.6558457+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:06:09.9843514+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:59:10.9577717+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:05:31.2398806+00:00"
 }

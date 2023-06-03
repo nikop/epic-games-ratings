@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54927,
+  "EOS_Progressed": 54931,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3027,6 +3027,11 @@
       "Time": "2023-06-03T21:00:59.488894+00:00",
       "NumProgressed": 54927,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-03T22:00:32.9249747+00:00",
+      "NumProgressed": 54931,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -3110,7 +3115,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "FlyingPresentMaster",
@@ -3126,7 +3131,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4943
+      "UsersEstimate": 4944
     },
     {
       "ID": "FoolMeTwice",
@@ -3174,7 +3179,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "HFZGoober",
@@ -3182,7 +3187,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "HarshLove",
@@ -3326,7 +3331,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "SecretLevel",
@@ -3429,7 +3434,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54927,
+      "Progressed": 54931,
       "Completed": 4
     }
   ],
@@ -3437,8 +3442,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-03T21:00:59.4888934+00:00",
+  "LastChanged_Achievements": "2023-06-03T22:00:32.9249742+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.1817194+00:00",
-  "LastUpdate_Ratings": "2023-06-03T21:00:34.3094366+00:00",
-  "LastUpdate_Achievements": "2023-06-03T21:00:59.4889442+00:00"
+  "LastUpdate_Ratings": "2023-06-03T22:00:10.2256456+00:00",
+  "LastUpdate_Achievements": "2023-06-03T22:00:32.9250333+00:00"
 }
