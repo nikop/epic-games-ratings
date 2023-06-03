@@ -23,7 +23,7 @@
 | Golem Chaser | 37.00% | ~215 |
 | Like Clockwork | 36.00% | ~209 |
 | The Wicked Twins | 36.00% | ~209 |
-| The Betrayer | 33.00% | ~191 |
+| The Betrayer | 34.00% | ~197 |
 | Family Memories | 31.00% | ~180 |
 | Check Your Pulse | 31.00% | ~180 |
 | Good Neighbor | 30.00% | ~174 |

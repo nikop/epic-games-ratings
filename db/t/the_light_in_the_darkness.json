@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1517,
+  "EOS_Progressed": 1518,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 8.11,
+  "EOS_Completed_Percentage": 8.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2108,6 +2108,11 @@
       "Time": "2023-06-03T04:05:38.2925058+00:00",
       "NumProgressed": 1517,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-06-03T08:06:23.0542973+00:00",
+      "NumProgressed": 1518,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 12,
@@ -2119,7 +2124,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Bernard",
@@ -2183,7 +2188,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2199,7 +2204,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Nuremberg Laws",
@@ -2214,7 +2219,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1517,
+      "Progressed": 1518,
       "Completed": 123
     }
   ],
@@ -2222,8 +2227,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:33.8635988+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:23.054297+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:59:15.4557794+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:33.8636371+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:59:54.4402546+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:23.05432+00:00"
 }

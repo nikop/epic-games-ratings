@@ -37,8 +37,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.60% | ~98 |
 | Muk Yan Master | 0.50% | ~3,535 |
 | Tiger on Fire | 0.50% | ~3,535 |
+| Source of Flying Daggers | 0.50% | ~3,535 |
 | Detective Story | 0.50% | ~3,535 |
-| Source of Flying Daggers | 0.40% | ~2,828 |
 | Iron Money | 0.40% | ~2,828 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,828 |
 | Prodigal Child | 0.40% | ~2,828 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,020 (Ranked 15)  
+Progressed: 707,028 (Ranked 15)  
 Completed: 12,751 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 12,751 (1.80%) (Ranked 67)
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
-| 2023-06-03 | 707,020 | 12,751 |
+| 2023-06-03 | 707,028 | 12,751 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
 Sum: 10,445 (Ranked 78)  

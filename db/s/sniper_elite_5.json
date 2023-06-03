@@ -5,8 +5,8 @@
   "Ranking_Rating": 653,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Progress": 149,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
@@ -254,11 +254,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2105,
+  "EOS_Progressed": 2108,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -2329,6 +2329,11 @@
       "Time": "2023-06-03T07:05:35.7858652+00:00",
       "NumProgressed": 2105,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T08:06:25.2145155+00:00",
+      "NumProgressed": 2108,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2380,7 +2385,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2396,7 +2401,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2404,7 +2409,7 @@
       "Name": "Organ Grinder",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2420,7 +2425,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2508,7 +2513,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2538,9 +2543,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2564,7 +2569,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2580,7 +2585,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2708,7 +2713,7 @@
       "Name": "Taking it back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2732,7 +2737,7 @@
       "Name": "Target America",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2907,13 +2912,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2056,
+      "Progressed": 2059,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2105,
+      "Progressed": 2108,
       "Completed": 2
     }
   ],
@@ -2921,8 +2926,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:35.7858646+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:25.2145151+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T07:00:06.2314549+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:35.785927+00:00"
+  "LastUpdate_Ratings": "2023-06-03T08:00:56.844426+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:25.2145916+00:00"
 }

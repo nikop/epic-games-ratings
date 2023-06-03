@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -130,7 +130,7 @@
   "Tags": [],
   "EOS_Progressed": 1260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2694,9 +2694,9 @@
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 164
     },
     {
       "ID": "dragonslayer",
@@ -3191,8 +3191,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:43.15309+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:33.1794397+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:57:56.2763149+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:43.1531612+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:58:20.3653318+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:33.1795169+00:00"
 }

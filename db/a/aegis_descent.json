@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -142,6 +142,11 @@
       "Time": "2023-06-02T02:20:17.2681496+00:00",
       "NumProgressed": 369,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T08:01:31.8514649+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -193,7 +198,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -241,7 +246,7 @@
       "Name": "Extra Ammo",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Award_FinalAscension",
@@ -263,9 +268,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 204
     },
     {
       "ID": "Award_HalfwayThere",
@@ -289,7 +294,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Award_HeavyMetal",
@@ -303,9 +308,9 @@
       "ID": "Award_HullKing",
       "SetID": "9ojec6n",
       "Name": "Hull King",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "Award_IntelKing",
@@ -319,9 +324,9 @@
       "ID": "Award_KillerElite",
       "SetID": "9ojec6n",
       "Name": "Killer Elite",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "Award_LineOfDuty",
@@ -329,7 +334,7 @@
       "Name": "Line of Duty",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -401,7 +406,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Award_ShellShock",
@@ -441,7 +446,7 @@
       "Name": "Splash Damage",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Award_Stunning",
@@ -497,14 +502,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 1
     }
   ],
@@ -512,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:00:33.5494975+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:01:31.8514645+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:58:08.2519417+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:00:33.5495261+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:58:35.6615089+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:01:31.8514976+00:00"
 }

@@ -8,9 +8,9 @@ Number of Ratings: 87  (23.09.2022)
 | ---- | ---------- | ----- |
 | Dealmaker | 8.00% | ~58 |
 | Full garage | 7.00% | ~51 |
-| Individual delivery | 6.00% | ~43 |
-| Juggler | 6.00% | ~43 |
-| To the eyeballs! | 6.00% | ~43 |
+| Individual delivery | 6.00% | ~44 |
+| Juggler | 6.00% | ~44 |
+| To the eyeballs! | 6.00% | ~44 |
 | Forgot something | 5.00% | ~36 |
 | Non-Stop | 5.00% | ~36 |
 | Builder | 4.00% | ~29 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724 (Ranked 186)  
+Progressed: 725 (Ranked 186)  
 Completed: 1 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.14%) (Ranked 156)
 | 2023-05-29 | 720 | 1 |
 | 2023-05-31 | 722 | 1 |
 | 2023-06-02 | 723 | 1 |
-| 2023-06-03 | 724 | 1 |
+| 2023-06-03 | 725 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 364)  
 Sum: 71 (Ranked 419)  

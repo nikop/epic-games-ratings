@@ -6,20 +6,20 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,668 |
+| light attack | 96.00% | ~9,669 |
 | keep it tidy | 77.00% | ~7,755 |
-| podium | 72.00% | ~7,251 |
+| podium | 72.00% | ~7,252 |
 | medium attack | 59.00% | ~5,942 |
 | brail | 56.00% | ~5,640 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,028 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,029 |
 | grocery-getter | 39.00% | ~3,928 |
-| rwd only | 26.00% | ~2,618 |
-| food tour: pasta | 26.00% | ~2,618 |
+| rwd only | 26.00% | ~2,619 |
+| food tour: pasta | 26.00% | ~2,619 |
 | to finish first, first you must finish | 21.00% | ~2,115 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,115 |
 | autopilot | 20.00% | ~2,014 |
 | turbo | 20.00% | ~2,014 |
-| food tour: pretzel | 19.00% | ~1,913 |
+| food tour: pretzel | 19.00% | ~1,914 |
 | bicycle race | 15.00% | ~1,511 |
 | car wash | 14.00% | ~1,410 |
 | monster | 14.00% | ~1,410 |
@@ -46,12 +46,12 @@ Number of Ratings: 56  (23.09.2022)
 | simulator | 3.00% | ~302 |
 | real roads, real fast | 2.00% | ~201 |
 | absolute drift | 0.80% | ~81 |
-| you're here for a good time, not a long time | 0.70% | ~70 |
+| you're here for a good time, not a long time | 0.70% | ~71 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,071 (Ranked 109)  
-Completed: 9 (0.09%) (Ranked 169)  
+Progressed: 10,072 (Ranked 109)  
+Completed: 9 (0.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 9 (0.09%) (Ranked 169)
 | 2023-05-31 | 10,063 | 9 |
 | 2023-06-01 | 10,067 | 9 |
 | 2023-06-02 | 10,070 | 9 |
-| 2023-06-03 | 10,071 | 9 |
+| 2023-06-03 | 10,072 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

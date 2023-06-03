@@ -11,8 +11,8 @@ Rating: 3.86 (Ranked 914)
 | Zero Waste | 28.00% | ~305 |
 | Bob The Builder | 28.00% | ~305 |
 | I am the greatest botanist on this planet. | 27.00% | ~294 |
+| Gardener | 23.00% | ~250 |
 | Miner | 23.00% | ~250 |
-| Gardener | 22.00% | ~239 |
 | Houston we have a problem | 20.00% | ~218 |
 | Occupy Mars! | 19.00% | ~207 |
 | Detective | 16.00% | ~174 |
@@ -28,9 +28,9 @@ Rating: 3.86 (Ranked 914)
 | Hard Landing | 0.80% | ~9 |
 | Driver's License | 0.60% | ~7 |
 | Explosive Miner | 0.60% | ~7 |
+| Rocket Jump | 0.60% | ~7 |
 | Thunderstruck | 0.60% | ~7 |
 | Caveman | 0.50% | ~5 |
-| Rocket Jump | 0.50% | ~5 |
 | 5G Network | 0.40% | ~4 |
 | Bull’s eye | 0.30% | ~3 |
 | Planetary Defence | 0.30% | ~3 |

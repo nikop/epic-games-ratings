@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3415,
+  "EOS_Progressed": 3416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -453,6 +453,11 @@
       "Time": "2023-06-01T12:06:35.5299016+00:00",
       "NumProgressed": 3415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T08:06:28.2670179+00:00",
+      "NumProgressed": 3416,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -496,7 +501,7 @@
       "Name": "Totally Intentional",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -504,7 +509,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -568,7 +573,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -584,7 +589,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -671,7 +676,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3415,
+      "Progressed": 3416,
       "Completed": 0
     }
   ],
@@ -679,8 +684,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:38.3221397+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:28.2670175+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.2283126+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:59:12.4779877+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:38.3221554+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:59:50.9359542+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:28.2670355+00:00"
 }

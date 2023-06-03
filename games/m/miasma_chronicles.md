@@ -7,35 +7,35 @@ Rating: 4.30 (Ranked 760)
 | ---- | ---------- | ----- |
 | First Blood | 91.00% | ~885 |
 | Ranidaphobia | 73.00% | ~710 |
-| Aspiring Editor | 70.00% | ~680 |
+| Aspiring Editor | 70.00% | ~681 |
 | Gun for Hire | 65.00% | ~632 |
-| I am the law! | 56.00% | ~544 |
+| I am the law! | 56.00% | ~545 |
 | Lumberjack | 40.00% | ~389 |
-| Croaked | 35.00% | ~340 |
-| Limp Richard | 34.00% | ~330 |
-| Firestarter | 34.00% | ~330 |
-| From Darkness to Light | 34.00% | ~330 |
-| Exorcist | 31.00% | ~301 |
-| Editor Adept | 30.00% | ~292 |
-| Giant Killer | 27.00% | ~262 |
+| Croaked | 35.00% | ~341 |
+| Limp Richard | 34.00% | ~331 |
+| Firestarter | 34.00% | ~331 |
+| From Darkness to Light | 34.00% | ~331 |
+| Editor Adept | 31.00% | ~302 |
+| Exorcist | 31.00% | ~302 |
+| Giant Killer | 27.00% | ~263 |
 | Sensei | 26.00% | ~253 |
-| The meaning of Kain | 24.00% | ~233 |
-| Technophobe | 20.00% | ~194 |
+| The meaning of Kain | 24.00% | ~234 |
+| Technophobe | 20.00% | ~195 |
 | Recycler | 18.00% | ~175 |
 | Chain Killer | 16.00% | ~156 |
 | Hold The Line | 16.00% | ~156 |
+| There Can Be Only One! | 15.00% | ~146 |
 | Are you not entertained? | 14.00% | ~136 |
 | Ganglord | 14.00% | ~136 |
 | Jarhead | 14.00% | ~136 |
-| There Can Be Only One! | 14.00% | ~136 |
 | Infiltrator | 13.00% | ~126 |
 | Pushing Daisy | 13.00% | ~126 |
 | Newtonian Knockout | 12.00% | ~117 |
 | Experienced | 11.00% | ~107 |
 | Ruthless | 10.00% | ~97 |
-| Endgame | 9.00% | ~87 |
-| Savior | 9.00% | ~87 |
-| The Watchers | 9.00% | ~87 |
+| Endgame | 9.00% | ~88 |
+| Savior | 9.00% | ~88 |
+| The Watchers | 9.00% | ~88 |
 | Chain Reaction | 6.00% | ~58 |
 | Commando | 6.00% | ~58 |
 | Curveball | 6.00% | ~58 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 760)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972 (Ranked 172)  
+Progressed: 973 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
-| 2023-06-03 | 972 | 0 |
+| 2023-06-03 | 973 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

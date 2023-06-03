@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4222,
+  "EOS_Progressed": 4223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2895,6 +2895,11 @@
       "Time": "2023-06-03T07:04:14.8562003+00:00",
       "NumProgressed": 4222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T08:04:48.3759957+00:00",
+      "NumProgressed": 4223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -2922,7 +2927,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "12",
@@ -3018,7 +3023,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "23",
@@ -3026,7 +3031,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "24",
@@ -3034,7 +3039,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "25",
@@ -3042,7 +3047,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "26",
@@ -3050,7 +3055,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "27",
@@ -3066,7 +3071,7 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "29",
@@ -3098,7 +3103,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "32",
@@ -3106,7 +3111,7 @@
       "Name": "My Final Form",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "33",
@@ -3114,7 +3119,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "34",
@@ -3178,7 +3183,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "41",
@@ -3192,9 +3197,9 @@
       "ID": "42",
       "SetID": "3aa2279",
       "Name": "Master of Evilness",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "43",
@@ -3248,22 +3253,22 @@
       "ID": "9",
       "SetID": "3aa2279",
       "Name": "I\u0027ll Fight You All",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4222,
-      "Completed": 4222
+      "Progressed": 4223,
+      "Completed": 4223
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4222,
+      "Progressed": 4223,
       "Completed": 0
     }
   ],
@@ -3271,8 +3276,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:04:14.8561999+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:04:48.3759938+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:59:10.8807559+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:04:14.8562427+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:59:48.8620062+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:04:48.3760463+00:00"
 }

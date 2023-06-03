@@ -2,9 +2,9 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -127,6 +127,11 @@
       "Time": "2023-06-02T19:03:54.637965+00:00",
       "NumProgressed": 175,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T08:03:48.6073273+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -178,7 +183,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "heavy_rayne",
@@ -216,9 +221,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "play_it_again_sam",
@@ -226,7 +231,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "play_me_by_the_hour",
@@ -305,7 +310,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 2
     }
   ],
@@ -313,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:03:24.8599735+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:03:48.607327+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:01.1606654+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:58:34.7195569+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:03:24.8599852+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:59:05.1538814+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:03:48.6073411+00:00"
 }

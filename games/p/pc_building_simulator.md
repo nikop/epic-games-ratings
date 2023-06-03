@@ -6,29 +6,29 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,685,026 |
-| Easy to forget | 46.00% | ~1,614,817 |
-| Back in the black | 38.00% | ~1,333,979 |
-| That's what I'm talking about | 28.00% | ~982,932 |
-| The Best of Both Worlds | 24.00% | ~842,513 |
-| Get your wings | 20.00% | ~702,094 |
-| Double trouble | 15.00% | ~526,571 |
-| Smashing it | 10.00% | ~351,047 |
-| But can it run Crysis? | 9.00% | ~315,942 |
-| My favourite feature... | 9.00% | ~315,942 |
-| From humble beginnings... | 7.00% | ~245,733 |
-| Customer satisfaction | 7.00% | ~245,733 |
-| Keeping things neat | 4.00% | ~140,419 |
-| Seems you're pretty good at this | 4.00% | ~140,419 |
-| Triple threat | 3.00% | ~105,314 |
-| You rock at this! | 3.00% | ~105,314 |
-| Your music sucks | 3.00% | ~105,314 |
-| Bending over backwards | 3.00% | ~105,314 |
-| I'm broke, Uncle! | 2.00% | ~70,209 |
-| Maybe you should try something else? | 2.00% | ~70,209 |
-| Taking care of business | 2.00% | ~70,209 |
-| Perfection | 2.00% | ~70,209 |
-| Calling in Sick | 2.00% | ~70,209 |
+| You need to plug it in... | 48.00% | ~1,685,044 |
+| Easy to forget | 46.00% | ~1,614,834 |
+| Back in the black | 38.00% | ~1,333,993 |
+| That's what I'm talking about | 28.00% | ~982,943 |
+| The Best of Both Worlds | 24.00% | ~842,522 |
+| Get your wings | 20.00% | ~702,102 |
+| Double trouble | 15.00% | ~526,576 |
+| Smashing it | 10.00% | ~351,051 |
+| But can it run Crysis? | 9.00% | ~315,946 |
+| My favourite feature... | 9.00% | ~315,946 |
+| From humble beginnings... | 7.00% | ~245,736 |
+| Customer satisfaction | 7.00% | ~245,736 |
+| Keeping things neat | 4.00% | ~140,420 |
+| Seems you're pretty good at this | 4.00% | ~140,420 |
+| Triple threat | 3.00% | ~105,315 |
+| You rock at this! | 3.00% | ~105,315 |
+| Your music sucks | 3.00% | ~105,315 |
+| Bending over backwards | 3.00% | ~105,315 |
+| I'm broke, Uncle! | 2.00% | ~70,210 |
+| Maybe you should try something else? | 2.00% | ~70,210 |
+| Taking care of business | 2.00% | ~70,210 |
+| Perfection | 2.00% | ~70,210 |
+| Calling in Sick | 2.00% | ~70,210 |
 | Overvolted | 1.00% | ~35,105 |
 | If you fail the first time... | 1.00% | ~35,105 |
 | Amazonian | 1.00% | ~35,105 |
@@ -37,29 +37,29 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,105 |
 | Majority Shareholder | 1.00% | ~35,105 |
 | Owner | 1.00% | ~35,105 |
-| Show off | 0.90% | ~31,594 |
+| Show off | 0.90% | ~31,595 |
 | Work ethic 101 | 0.60% | ~21,063 |
 | Building momentum | 0.60% | ~21,063 |
-| Lead by example | 0.50% | ~17,552 |
-| Treat yourself - RAM | 0.50% | ~17,552 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,531 |
-| Mr big business | 0.30% | ~10,531 |
-| Mister Big | 0.30% | ~10,531 |
-| Getting your feet wet | 0.30% | ~10,531 |
-| Customer's ALWAYS right. | 0.30% | ~10,531 |
-| Treat yourself - CPU | 0.30% | ~10,531 |
+| Lead by example | 0.50% | ~17,553 |
+| Treat yourself - RAM | 0.50% | ~17,553 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,532 |
+| Mr big business | 0.30% | ~10,532 |
+| Mister Big | 0.30% | ~10,532 |
+| Getting your feet wet | 0.30% | ~10,532 |
+| Customer's ALWAYS right. | 0.30% | ~10,532 |
+| Treat yourself - CPU | 0.30% | ~10,532 |
 | 1920x1080 | 0.20% | ~7,021 |
 | Blow 'em away | 0.20% | ~7,021 |
-| Hasta La Vista, Baby. | 0.10% | ~3,510 |
-| Wow to build a PC! | 0.10% | ~3,510 |
-| Hoarder | 0.10% | ~3,510 |
-| Sitting on a fortune | 0.10% | ~3,510 |
-| Wow, you really like PCs | 0.10% | ~3,510 |
-| Going loopy | 0.10% | ~3,510 |
-| Stop it | 0.10% | ~3,510 |
-| Treat yourself - GPU | 0.10% | ~3,510 |
+| Hasta La Vista, Baby. | 0.10% | ~3,511 |
+| Wow to build a PC! | 0.10% | ~3,511 |
+| Hoarder | 0.10% | ~3,511 |
+| Sitting on a fortune | 0.10% | ~3,511 |
+| Wow, you really like PCs | 0.10% | ~3,511 |
+| Going loopy | 0.10% | ~3,511 |
+| Stop it | 0.10% | ~3,511 |
+| Treat yourself - GPU | 0.10% | ~3,511 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,510,471 (Ranked 4)  
+Progressed: 3,510,509 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 23 (0.00%) (Ranked 211)
 | 2023-05-31 | 3,508,862 | 23 |
 | 2023-06-01 | 3,509,504 | 23 |
 | 2023-06-02 | 3,510,269 | 23 |
-| 2023-06-03 | 3,510,471 | 23 |
+| 2023-06-03 | 3,510,509 | 23 |
 ## Awards
 Max (Great for Beginners): 1,045  (Ranked 134)  
 Sum: 7,789 (Ranked 95)  

@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -117,6 +117,11 @@
       "Time": "2023-06-02T02:23:04.7505225+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T08:04:47.5822997+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -168,7 +173,7 @@
       "Name": "Choking Hazard",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "dodgy_geezer",
@@ -184,7 +189,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "easy_listening",
@@ -310,9 +315,9 @@
       "ID": "rapturous_applause",
       "SetID": "3j2phem",
       "Name": "Rapturous Applause!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "scholar",
@@ -334,9 +339,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "the_long_night",
@@ -367,7 +372,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
@@ -375,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:04:14.1430438+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:04:47.5822993+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:31.6745005+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:58:57.31021+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:04:14.1430613+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:59:31.8648682+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:04:47.5823216+00:00"
 }

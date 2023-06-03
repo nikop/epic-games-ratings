@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
       "Time": "2023-06-01T21:05:43.4504791+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T08:06:29.0922013+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -122,7 +127,7 @@
       "Name": "Silent City",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "10",
@@ -290,7 +295,7 @@
       "Name": "Maestro Mountain",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "4",
@@ -298,7 +303,7 @@
       "Name": "Fugue Forest",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "5",
@@ -345,7 +350,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
@@ -353,8 +358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:39.1503916+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:29.0922009+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.6355993+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:59:26.6133935+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:39.1504038+00:00"
+  "LastUpdate_Ratings": "2023-06-03T08:00:07.7139115+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:29.0922194+00:00"
 }

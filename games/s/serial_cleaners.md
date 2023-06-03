@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it goes | 11.00% | ~20 |
+| So it goes | 10.00% | ~18 |
 | Clean Conscience | 10.00% | ~18 |
-| Small-time Finder | 6.00% | ~11 |
+| Small-time Finder | 5.00% | ~9 |
 | Off to a Good Start | 4.00% | ~7 |
 | A New Broom Sweeps Clean | 4.00% | ~7 |
 | Business as usual | 3.00% | ~5 |
@@ -19,18 +19,18 @@
 | Something Rotten | 1.00% | ~2 |
 | Mr. Hygeni | 1.00% | ~2 |
 | The Wing and the Thigh | 1.00% | ~2 |
-| Blood Capade | 0.60% | ~1 |
-| The Crush And Smash The Dino Four | 0.60% | ~0 |
-| … Women Inherit The Earth | 0.60% | ~0 |
-| The Germophobes | 0.60% | ~1 |
+| Blood Capade | 0.50% | ~1 |
+| The Crush And Smash The Dino Four | 0.50% | ~0 |
+| … Women Inherit The Earth | 0.50% | ~0 |
+| The Germophobes | 0.50% | ~1 |
 | Crazy SOB, You Did It | 0.00% | ~0 |
 | Do-you-think-he-saurus | 0.00% | ~0 |
 | Cha Cha Real Smooth | 0.00% | ~0 |
 | That’s One Big Pile | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 250)  
-Completed: 5 (2.78%) (Ranked 55)  
+Progressed: 182 (Ranked 250)  
+Completed: 5 (2.75%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,6 +48,7 @@ Completed: 5 (2.78%) (Ranked 55)
 | 2023-05-30 | 175 | 5 |
 | 2023-05-31 | 176 | 5 |
 | 2023-06-01 | 180 | 5 |
+| 2023-06-03 | 182 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 23749,
+  "EOS_Progressed": 23752,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4671,6 +4671,11 @@
       "Time": "2023-06-03T07:05:37.0168503+00:00",
       "NumProgressed": 23749,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-03T08:06:26.6900095+00:00",
+      "NumProgressed": 23752,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -4698,7 +4703,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -4738,7 +4743,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -4746,7 +4751,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -4754,7 +4759,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -4858,7 +4863,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -4866,7 +4871,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -4906,14 +4911,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 23749,
+      "Progressed": 23752,
       "Completed": 18
     }
   ],
@@ -4921,8 +4926,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:37.0168499+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:26.6900092+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.5386302+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:59:38.2095096+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:37.0168875+00:00"
+  "LastUpdate_Ratings": "2023-06-03T08:00:22.2807118+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:26.6900503+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -420,9 +420,9 @@
       "ID": "GB_FIRST_BLOOD",
       "SetID": "8ga3kd9",
       "Name": "FIRST BLOOD",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 247
     },
     {
       "ID": "GB_GOURMET",
@@ -492,9 +492,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 197
     },
     {
       "ID": "GB_KEVIN",
@@ -605,8 +605,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:00:10.2087296+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:01:04.0887821+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.5026892+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:58:10.4244246+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:00:10.2106772+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:58:38.1832176+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:01:04.0888072+00:00"
 }

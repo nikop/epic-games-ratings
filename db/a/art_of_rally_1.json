@@ -6,8 +6,8 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10071,
+  "EOS_Progressed": 10072,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -701,6 +701,11 @@
       "Time": "2023-06-03T06:05:43.5474734+00:00",
       "NumProgressed": 10071,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-03T08:06:14.9141387+00:00",
+      "NumProgressed": 10072,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -824,7 +829,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -912,7 +917,7 @@
       "Name": "you\u0027re here for a good time, not a long time",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_FULL_DIRTY",
@@ -936,7 +941,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9668
+      "UsersEstimate": 9669
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1000,7 +1005,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ACH_SNOW",
@@ -1024,7 +1029,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1032,7 +1037,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1048,22 +1053,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7251
+      "UsersEstimate": 7252
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10071,
+      "Progressed": 10072,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:27.0951846+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:14.9141383+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:29.7548602+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:57:25.504319+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:27.0952117+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:57:39.9870443+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:14.9141738+00:00"
 }

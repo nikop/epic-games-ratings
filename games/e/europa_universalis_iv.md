@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,402 |
-| That's a Grand Army | 8.00% | ~3,913 |
-| That is mine! | 8.00% | ~3,913 |
-| Victorious! | 8.00% | ~3,913 |
-| Brothers in Arms | 6.00% | ~2,935 |
-| That's a Grand Navy | 6.00% | ~2,935 |
-| Seriously?! | 6.00% | ~2,935 |
-| For the Glory | 5.00% | ~2,446 |
+| Until death do us apart | 9.00% | ~4,404 |
+| That's a Grand Army | 8.00% | ~3,915 |
+| That is mine! | 8.00% | ~3,915 |
+| Victorious! | 8.00% | ~3,915 |
+| Brothers in Arms | 6.00% | ~2,936 |
+| That's a Grand Navy | 6.00% | ~2,936 |
+| Seriously?! | 6.00% | ~2,936 |
+| For the Glory | 5.00% | ~2,447 |
 | Cold War | 4.00% | ~1,957 |
 | True Catholic | 4.00% | ~1,957 |
-| Defender of the Faith | 3.00% | ~1,467 |
-| It's all about the money | 3.00% | ~1,467 |
-| Respected | 3.00% | ~1,467 |
-| Truly Divine Ruler | 3.00% | ~1,467 |
-| Agressive Expander | 2.00% | ~978 |
-| Blockader | 2.00% | ~978 |
-| Combined Arms | 2.00% | ~978 |
-| Double the Love | 2.00% | ~978 |
-| Gentle Persuasion | 2.00% | ~978 |
-| It's all about luck | 2.00% | ~978 |
-| My armies are invincible! | 2.00% | ~978 |
-| Queen of Conquest | 2.00% | ~978 |
-| Royal Authority | 2.00% | ~978 |
-| The Princess is in this Castle | 2.00% | ~978 |
-| Total Control | 2.00% | ~978 |
+| Defender of the Faith | 3.00% | ~1,468 |
+| It's all about the money | 3.00% | ~1,468 |
+| Respected | 3.00% | ~1,468 |
+| Truly Divine Ruler | 3.00% | ~1,468 |
+| Agressive Expander | 2.00% | ~979 |
+| Blockader | 2.00% | ~979 |
+| Combined Arms | 2.00% | ~979 |
+| Double the Love | 2.00% | ~979 |
+| Gentle Persuasion | 2.00% | ~979 |
+| It's all about luck | 2.00% | ~979 |
+| My armies are invincible! | 2.00% | ~979 |
+| Queen of Conquest | 2.00% | ~979 |
+| Royal Authority | 2.00% | ~979 |
+| The Princess is in this Castle | 2.00% | ~979 |
+| Total Control | 2.00% | ~979 |
 | All That's Thine Shall Be Mine | 1.00% | ~489 |
 | Azur semé de lis or | 1.00% | ~489 |
 | Bright Spark | 1.00% | ~489 |
@@ -42,11 +42,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.80% | ~391 |
 | Isn't this the way to India? | 0.80% | ~391 |
 | Market Control | 0.80% | ~391 |
-| Down Under | 0.70% | ~342 |
-| Trustworthy | 0.70% | ~342 |
-| Early-Modern Warfare | 0.60% | ~293 |
-| Electable! | 0.60% | ~293 |
-| Time Bandit | 0.60% | ~293 |
+| Down Under | 0.70% | ~343 |
+| Trustworthy | 0.70% | ~343 |
+| Early-Modern Warfare | 0.60% | ~294 |
+| Electable! | 0.60% | ~294 |
+| Time Bandit | 0.60% | ~294 |
 | All belongs to Mother Russia | 0.50% | ~245 |
 | At every continent | 0.50% | ~245 |
 | One Family to Rule them All | 0.50% | ~245 |
@@ -138,6 +138,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Core-fu | 0.10% | ~49 |
 | Cotton Kandy | 0.10% | ~49 |
 | Cowardly Tactics | 0.10% | ~49 |
+| Crossing the Finnish Line | 0.10% | ~49 |
 | Czechs and Balances | 0.10% | ~49 |
 | Dar al-Islam | 0.10% | ~49 |
 | David the Builder | 0.10% | ~49 |
@@ -318,7 +319,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
-| Crossing the Finnish Line | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,913 (Ranked 78)  
+Progressed: 48,935 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 47,652 | 0 |
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
-| 2023-06-03 | 48,913 | 0 |
+| 2023-06-03 | 48,935 | 0 |
 ## Awards
 Max (Educational): 5,338  (Ranked 61)  
 Sum: 44,064 (Ranked 27)  

@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 182,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_Completed_Percentage": 2.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -171,6 +171,11 @@
       "Time": "2023-06-01T22:06:48.7277035+00:00",
       "NumProgressed": 180,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-03T08:06:28.0359976+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -196,7 +201,7 @@
       "ID": "BOB_SLIDE",
       "SetID": "2lk004m",
       "Name": "Blood Capade",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -244,17 +249,17 @@
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -300,7 +305,7 @@
       "ID": "DLC01_ACHIEVEMENT05",
       "SetID": "5jieak",
       "Name": "The Crush And Smash The Dino Four",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -308,7 +313,7 @@
       "ID": "DLC01_ACHIEVEMENT06",
       "SetID": "5jieak",
       "Name": "\u2026 Women Inherit The Earth",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -332,7 +337,7 @@
       "ID": "PERFECT_CLEANED_EVERY_MAP",
       "SetID": "2lk004m",
       "Name": "The Germophobes",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -373,13 +378,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 43,
+      "Progressed": 45,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 182,
       "Completed": 5
     }
   ],
@@ -387,8 +392,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-03T07:05:38.2719759+00:00",
+  "LastChanged_Achievements": "2023-06-03T08:06:28.0359972+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:33.0980588+00:00",
-  "LastUpdate_Ratings": "2023-06-03T06:58:58.4745803+00:00",
-  "LastUpdate_Achievements": "2023-06-03T07:05:38.27199+00:00"
+  "LastUpdate_Ratings": "2023-06-03T07:59:33.2197734+00:00",
+  "LastUpdate_Achievements": "2023-06-03T08:06:28.0360146+00:00"
 }
