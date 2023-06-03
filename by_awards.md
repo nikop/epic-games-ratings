@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,375,027 | 4.30 | 761 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,377,963 | 4.30 | 761 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 427,701 | 4.50 | 542 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,199 | 4.68 | 239 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,518 | 4.19 | 830 |
@@ -26,7 +26,7 @@
 | 24 | [League of Legends](games/l/league_of_legends.md) | 13,679 | 4.21 | 814 |
 | 25 | [Maneater](games/m/maneater.md) | 13,484 | 4.49 | 561 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,347 | 4.60 | 385 |
-| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,473 | 4.36 | 714 |
+| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,479 | 4.36 | 714 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,109 | 4.60 | 385 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,053 | 4.42 | 654 |
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,678 | 4.39 | 688 |
@@ -74,10 +74,10 @@
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,166 | 4.61 | 361 |
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,095 | 4.51 | 528 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,072 | 4.77 | 106 |
-| 75 | [God of War](games/g/god_of_war.md) | 4,028 | 4.88 | 19 |
+| 75 | [God of War](games/g/god_of_war.md) | 4,032 | 4.88 | 19 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,976 | 4.56 | 452 |
 | 77 | [SMITE](games/s/smite.md) | 3,852 | 4.45 | 613 |
-| 78 | [Days Gone](games/d/days_gone.md) | 3,785 | 4.69 | 215 |
+| 78 | [Days Gone](games/d/days_gone.md) | 3,787 | 4.69 | 215 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,621 | 4.29 | 768 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,459 | 4.47 | 589 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,332 | 4.46 | 599 |
@@ -189,7 +189,7 @@
 | 187 | [Riders Republic](games/r/riders_republic.md) | 471 | 4.75 | 132 |
 | 188 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 468 | 4.86 | 30 |
 | 189 | [Ghostrunner](games/g/ghostrunner.md) | 463 | 4.72 | 166 |
-| 190 | [Football Manager 2023](games/f/football_manager_2023.md) | 460 | 4.75 | 132 |
+| 190 | [Football Manager 2023](games/f/football_manager_2023.md) | 462 | 4.75 | 132 |
 | 191 | [Unreal Tournament](games/u/unreal_tournament.md) | 458 | 4.66 | 277 |
 | 192 | [Surviving Mars](games/s/surviving_mars.md) | 449 | 4.60 | 385 |
 | 192 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 449 | 4.66 | 277 |
@@ -225,7 +225,7 @@
 | 223 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 314 | 4.73 | 157 |
 | 224 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 310 | 3.93 | 908 |
 | 225 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 330 |
-| 226 | [The Sims™ 4](games/t/the_sims™_4.md) | 298 | 4.61 | 361 |
+| 226 | [The Sims™ 4](games/t/the_sims™_4.md) | 303 | 4.61 | 361 |
 | 227 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 780 |
 | 228 | [House Flipper](games/h/house_flipper.md) | 294 | 4.69 | 215 |
 | 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 289 | 4.53 | 499 |
@@ -244,9 +244,9 @@
 | 241 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 246 | 4.58 | 421 |
 | 243 | [Roller Champions™](games/r/roller_champions™.md) | 242 | 4.34 | 729 |
 | 244 | [MudRunner](games/m/mudrunner.md) | 237 | 4.62 | 345 |
-| 245 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 232 | 4.45 | 613 |
-| 245 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 232 | 4.49 | 561 |
-| 245 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 232 | 4.84 | 49 |
+| 245 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 233 | 4.49 | 561 |
+| 246 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 232 | 4.45 | 613 |
+| 246 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 232 | 4.84 | 49 |
 | 248 | [Overcooked! 2](games/o/overcooked!_2.md) | 224 | 4.73 | 157 |
 | 249 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 218 | 4.85 | 37 |
 | 250 | [Old World](games/o/old_world.md) | 217 | 4.65 | 294 |
