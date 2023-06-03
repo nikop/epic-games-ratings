@@ -315,6 +315,7 @@
 | 312 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 493 |
 | 312 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,932 | 54 |
 | 312 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 312 |
+| 312 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,135 | 102 |
 | 312 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 46 | 400 |
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 42 | 408 |
 | 312 | [HITMAN](games/h/hitman.md) | 4.64 | 198 | 261 |
@@ -328,22 +329,21 @@
 | 312 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 493 |
 | 312 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.64 | 0 | 493 |
 | 312 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 186 | 267 |
-| 329 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 488 |
-| 329 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 493 |
-| 329 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 493 |
-| 329 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 493 |
-| 329 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,135 | 102 |
-| 329 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 60 | 378 |
-| 329 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.63 | 0 | 493 |
-| 329 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 493 |
-| 329 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 493 |
-| 329 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 181 | 269 |
-| 329 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 225 |
-| 329 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.63 | 0 | 493 |
-| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 72 | 360 |
-| 329 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,743 | 110 |
-| 329 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 0 | 493 |
-| 329 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 493 |
+| 330 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 488 |
+| 330 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 493 |
+| 330 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 493 |
+| 330 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 493 |
+| 330 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 60 | 378 |
+| 330 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.63 | 0 | 493 |
+| 330 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 493 |
+| 330 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 493 |
+| 330 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 181 | 269 |
+| 330 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 225 |
+| 330 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.63 | 0 | 493 |
+| 330 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 72 | 360 |
+| 330 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,743 | 110 |
+| 330 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 0 | 493 |
+| 330 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 493 |
 | 345 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 493 |
 | 345 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 66,247 | 9 |
 | 345 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 273 | 234 |
@@ -383,7 +383,7 @@
 | 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 298 | 226 |
 | 360 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 493 |
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 493 |
-| 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,161 | 21 |
+| 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,184 | 21 |
 | 385 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,109 | 28 |
 | 385 | [Control](games/c/control.md) | 4.60 | 8,316 | 39 |
 | 385 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 356 |
@@ -448,7 +448,7 @@
 | 441 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,107 | 86 |
 | 441 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 493 |
 | 441 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 448 |
-| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,515 | 19 |
+| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,528 | 19 |
 | 441 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,748 | 109 |
 | 441 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 493 |
 | 452 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 493 |
@@ -814,7 +814,7 @@
 | 809 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 493 |
 | 813 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 30 | 448 |
 | 813 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 493 |
-| 813 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,645 | 24 |
+| 813 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,679 | 24 |
 | 813 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 493 |
 | 813 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.21 | 0 | 493 |
 | 813 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 77 | 351 |

@@ -20,9 +20,9 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.89% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
@@ -54,7 +54,7 @@
 | 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
 | 54 | [Lamentum](games/l/lamentum.md) | 2.80% |
-| 55 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.78% |
+| 55 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 57 | [Bloodshore](games/b/bloodshore.md) | 2.56% |
 | 58 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
@@ -69,10 +69,10 @@
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
 | 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 69 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.63% |
-| 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
-| 71 | [Night Book](games/n/night_book.md) | 1.59% |
-| 71 | [Somerville](games/s/somerville.md) | 1.59% |
+| 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.59% |
+| 70 | [Night Book](games/n/night_book.md) | 1.59% |
+| 70 | [Somerville](games/s/somerville.md) | 1.59% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
 | 75 | [Frogun](games/f/frogun.md) | 1.52% |
 | 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -91,9 +91,9 @@
 | 89 | [Sable](games/s/sable.md) | 0.94% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [Poosh XL](games/p/poosh_xl.md) | 0.88% |
-| 92 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 94 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.86% |
+| 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
+| 93 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.86% |
 | 95 | [Adios](games/a/adios.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
@@ -115,9 +115,9 @@
 | 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 114 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
-| 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.39% |
-| 117 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
-| 117 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
+| 116 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
+| 116 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
+| 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
 | 119 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 119 | [Tchia](games/t/tchia.md) | 0.37% |
 | 119 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
@@ -166,10 +166,10 @@
 | 162 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 162 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 162 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 162 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.10% |
 | 162 | [Supraland](games/s/supraland.md) | 0.10% |
-| 169 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
-| 169 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 168 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
+| 168 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 168 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.09% |
 | 171 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 171 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 171 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
