@@ -397,9 +397,9 @@
       "ID": "CompleteAllMissionsAchievement",
       "SetID": "a8djcgh",
       "Name": "Diligent",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteFullRunWithCorvetteAchievement",
@@ -501,9 +501,9 @@
       "ID": "ConsumableUsed10TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Alpha",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ConsumableUsed500TimesAchievement",
@@ -925,9 +925,9 @@
       "ID": "PlayedFor1HourAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Cadet",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PlayedFor20HoursAchievement",
@@ -1173,9 +1173,9 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "VisitOverlord50TimeAchievement",
@@ -1228,8 +1228,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:05:51.2083895+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:06:16.8679936+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:58:18.6049734+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:05:51.2086533+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:58:52.3635792+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:06:16.868188+00:00"
 }

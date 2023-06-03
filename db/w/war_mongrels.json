@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -616,6 +616,11 @@
       "Time": "2023-06-02T23:02:32.2099916+00:00",
       "NumProgressed": 306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T06:02:14.8521793+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -737,9 +742,9 @@
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -747,7 +752,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -763,7 +768,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -849,9 +854,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -859,7 +864,7 @@
       "Name": "The Breaking Point",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -905,17 +910,17 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_FIN_CH09",
       "SetID": "1j25agn",
       "Name": "Vengeance",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -947,7 +952,7 @@
       "Name": "Such is War!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -971,7 +976,7 @@
       "Name": "Missing in Action",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1051,7 +1056,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -1083,7 +1088,7 @@
       "Name": "Tiptoe Around",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_NOMOON",
@@ -1098,15 +1103,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:02:28.209555+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:02:14.8521785+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.3400359+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:57:14.1440501+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:02:28.2096096+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:57:31.2056237+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:02:14.8522335+00:00"
 }

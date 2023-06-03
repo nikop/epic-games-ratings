@@ -1,16 +1,16 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 882)  
+Rating: 4.06 (Ranked 883)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,791 |
+| A Brief Tour of the Realms | 2.00% | ~1,792 |
 | The Cursed Farmer | 1.00% | ~896 |
+| The Mad Wizard | 0.80% | ~717 |
 | The Court of Storms | 0.80% | ~447 |
 | Beast Intentions | 0.70% | ~627 |
-| The Mad Wizard | 0.70% | ~627 |
 | Beware the Jabberwock | 0.70% | ~391 |
 | The Ring of Regeneration | 0.60% | ~537 |
 | Were-verpowered | 0.50% | ~448 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,570 (Ranked 62)  
+Progressed: 89,575 (Ranked 62)  
 Completed: 1,910 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 1,910 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,570 | 1,910 |
+| 2023-06-03 | 89,575 | 1,910 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

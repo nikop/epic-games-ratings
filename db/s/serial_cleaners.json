@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 180,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
@@ -180,9 +180,9 @@
       "ID": "ALL_MAIN_MISSIONS",
       "SetID": "2lk004m",
       "Name": "All the Stories",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ALL_MEMORIES",
@@ -196,9 +196,9 @@
       "ID": "BOB_SLIDE",
       "SetID": "2lk004m",
       "Name": "Blood Capade",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAPTER1_COMPLETE",
@@ -236,9 +236,9 @@
       "ID": "CHAPTER5_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Witness Protection",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -332,9 +332,9 @@
       "ID": "PERFECT_CLEANED_EVERY_MAP",
       "SetID": "2lk004m",
       "Name": "The Germophobes",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PERFECT_CLEANED_ONE_MAP",
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:05:33.6936713+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:05:57.0461731+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:33.0980588+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:58:40.6600073+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:05:33.693691+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:59:21.826905+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:05:57.0461916+00:00"
 }

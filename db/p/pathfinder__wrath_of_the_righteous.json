@@ -2562,10 +2562,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6685,
       "NumberOfAwardsMax": 1648
+    },
+    {
+      "Time": "2023-06-03T05:58:23.2862711+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6687,
+      "NumberOfAwardsMax": 1648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6685,
+  "NumberOfAwards": 6687,
   "NumberOfAwardsMax": 1648,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2633,12 +2639,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 373
+      "Count": 375
     }
   ],
-  "EOS_Progressed": 9464,
+  "EOS_Progressed": 9467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5326,6 +5332,11 @@
       "Time": "2023-06-03T05:05:49.7333608+00:00",
       "NumProgressed": 9464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T06:06:15.4982234+00:00",
+      "NumProgressed": 9467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5337,7 +5348,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "02_BurningCity",
@@ -5537,7 +5548,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "28_GreatUpstart",
@@ -6223,9 +6234,9 @@
       "ID": "DLC4_25_Sarkoris Will Be Green",
       "SetID": "11go2ek",
       "Name": "Sarkoris Will Be Green",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 82
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -6239,9 +6250,9 @@
       "ID": "DLC4_27_Not the Last Sarkorian",
       "SetID": "11go2ek",
       "Name": "Not the Last Sarkorian",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 58
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -6264,21 +6275,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8246,
+      "Progressed": 8249,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9464,
+      "Progressed": 9467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-03T02:11:51.7886019+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:05:49.7333603+00:00",
+  "LastChanged": "2023-06-03T05:58:23.2862709+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:06:15.4982224+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:57:55.0421144+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:05:49.7335444+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:58:23.2862715+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:06:15.4983962+00:00"
 }

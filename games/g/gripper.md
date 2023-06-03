@@ -7,7 +7,7 @@
 | Deal with Shock | 61.00% | ~25 |
 | Skinner | 51.00% | ~21 |
 | Deal with Anger | 29.00% | ~12 |
-| Robolimb Ripper | 15.00% | ~6 |
+| Robolimb Ripper | 17.00% | ~7 |
 | Deal with Depression | 15.00% | ~6 |
 | Total Shock | 10.00% | ~4 |
 | No Shock Race | 7.00% | ~3 |

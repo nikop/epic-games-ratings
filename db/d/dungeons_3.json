@@ -2152,9 +2152,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 18721,
+  "EOS_Progressed": 18722,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -6522,6 +6522,11 @@
       "Time": "2023-06-03T05:04:14.9710742+00:00",
       "NumProgressed": 18721,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-06-03T06:04:19.2522154+00:00",
+      "NumProgressed": 18722,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 60,
@@ -6533,7 +6538,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 11045
+      "UsersEstimate": 11046
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -6549,7 +6554,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 10858
+      "UsersEstimate": 10859
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -6597,7 +6602,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 4867
+      "UsersEstimate": 4868
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -6653,7 +6658,7 @@
       "Name": "Spawner Killer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -6693,7 +6698,7 @@
       "Name": "The last burger",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 7301
+      "UsersEstimate": 7302
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -6741,7 +6746,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 8424
+      "UsersEstimate": 8425
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -6861,7 +6866,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -6869,7 +6874,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -6901,7 +6906,7 @@
       "Name": "A little something extra",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -6957,7 +6962,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -6973,7 +6978,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -7012,15 +7017,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 18721,
+      "Progressed": 18722,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-01T13:06:54.336734+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:04:14.9710738+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:04:19.2522145+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:28.7782542+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:58:37.6463167+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:04:14.9711527+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:59:17.5829034+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:04:19.2522911+00:00"
 }

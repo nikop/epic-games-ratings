@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 13.00% | ~310 |
+| Wakey Wakey | 13.00% | ~311 |
 | Without Breaking Some Eggs... | 11.00% | ~263 |
 | Infinite Growth... | 11.00% | ~263 |
 | Sputnik 2049 | 11.00% | ~263 |
@@ -37,7 +37,7 @@ Rating: 4.58 (Ranked 421)
 | Delivery! | 1.00% | ~24 |
 | BRAWL! | 1.00% | ~24 |
 | What the Ruins Teach Us | 1.00% | ~24 |
-| Sustainable Energy | 0.90% | ~21 |
+| Sustainable Energy | 0.90% | ~22 |
 | Pedal to the Metal | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~17 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 421)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,388 (Ranked 146)  
+Progressed: 2,389 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 2,333 | 0 |
 | 2023-06-01 | 2,350 | 0 |
 | 2023-06-02 | 2,386 | 0 |
-| 2023-06-03 | 2,388 | 0 |
+| 2023-06-03 | 2,389 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

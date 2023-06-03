@@ -818,9 +818,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7569,
+  "EOS_Progressed": 7570,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2063,6 +2063,11 @@
       "Time": "2023-06-03T04:05:29.8413483+00:00",
       "NumProgressed": 7569,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-03T06:05:41.6961259+00:00",
+      "NumProgressed": 7570,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2122,7 +2127,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -2130,7 +2135,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -2234,7 +2239,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7039
+      "UsersEstimate": 7040
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2258,22 +2263,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7569,
+      "Progressed": 7570,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-03T03:58:36.0375055+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:05:20.7770847+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:05:41.6961253+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:58:27.7843148+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:05:20.7771217+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:59:05.116218+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:05:41.6961501+00:00"
 }

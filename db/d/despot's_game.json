@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -225,6 +225,11 @@
       "Time": "2023-06-01T16:06:04.3527625+00:00",
       "NumProgressed": 387,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T06:05:57.7379609+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -282,9 +287,9 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 159
     },
     {
       "ID": "different-items1",
@@ -292,7 +297,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "different-items2",
@@ -316,7 +321,7 @@
       "Name": "Impossible Cube",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "finished-quest-flight",
@@ -330,9 +335,9 @@
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "finished-quest-nurgle",
@@ -340,15 +345,15 @@
       "Name": "Feed a God",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "finished-quest-rat",
@@ -364,7 +369,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "finished-quest-sci",
@@ -372,7 +377,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "finished-quest-secret",
@@ -380,7 +385,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "finished-quest-sword",
@@ -402,17 +407,17 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 120
     },
     {
       "ID": "save-zombie",
@@ -452,7 +457,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "win-first-level",
@@ -460,7 +465,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "win-koth-fights1",
@@ -515,7 +520,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 1
     }
   ],
@@ -523,8 +528,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:05:34.2599645+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:05:57.7379602+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:58:15.4666446+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:05:34.259991+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:58:49.1498724+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:05:57.7379877+00:00"
 }

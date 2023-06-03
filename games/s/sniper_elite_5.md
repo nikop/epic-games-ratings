@@ -5,7 +5,7 @@ Rating: 4.42 (Ranked 653)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~525 |
+| Meeting Resistance | 25.00% | ~526 |
 | Confirming Suspicions | 20.00% | ~420 |
 | The Kraken Wakes | 16.00% | ~336 |
 | It's Starting to Crack | 13.00% | ~273 |
@@ -15,10 +15,10 @@ Rating: 4.42 (Ranked 653)
 | Taking it back | 9.00% | ~189 |
 | Organ Grinder | 8.00% | ~168 |
 | As Quiet as a Mouse | 8.00% | ~168 |
+| Target America | 8.00% | ~168 |
 | Enemy at the Gates | 7.00% | ~147 |
 | Just a Flesh Wound | 7.00% | ~147 |
 | Explosive Efficiency | 7.00% | ~147 |
-| Target America | 7.00% | ~147 |
 | Liberté | 6.00% | ~126 |
 | Gunslinger | 6.00% | ~126 |
 | Sharpshooter | 6.00% | ~126 |
@@ -49,7 +49,7 @@ Rating: 4.42 (Ranked 653)
 | Siegebreaker | 0.70% | ~14 |
 | Ghost of Falaise | 0.70% | ~14 |
 | Last Resort | 0.60% | ~12 |
-| From Paris with Love | 0.50% | ~10 |
+| From Paris with Love | 0.50% | ~11 |
 | Burn after reading | 0.40% | ~8 |
 | Souvenir hunter | 0.40% | ~8 |
 | Eagle Eyed | 0.40% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 653)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,100 (Ranked 150)  
+Progressed: 2,102 (Ranked 150)  
 Completed: 2 (0.10%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.10%) (Ranked 162)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,100 | 2 |
+| 2023-06-03 | 2,102 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

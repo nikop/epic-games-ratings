@@ -1,24 +1,24 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.13 (Ranked 862)  
+Rating: 4.13 (Ranked 861)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~2,970 |
-| Hey Good Hookin | 63.00% | ~2,528 |
-| I'm on a Boat! | 54.00% | ~2,167 |
-| Can you smell what the Rod is Hooking | 47.00% | ~1,886 |
-| Scaling up | 47.00% | ~1,886 |
-| Ready to Rod and Roll | 39.00% | ~1,565 |
-| More Fish in the Sea | 39.00% | ~1,565 |
-| License to Gill | 32.00% | ~1,284 |
+| Fish Just Got Reel | 74.00% | ~2,971 |
+| Hey Good Hookin | 63.00% | ~2,529 |
+| I'm on a Boat! | 54.00% | ~2,168 |
+| Can you smell what the Rod is Hooking | 47.00% | ~1,887 |
+| Scaling up | 47.00% | ~1,887 |
+| Ready to Rod and Roll | 39.00% | ~1,566 |
+| More Fish in the Sea | 39.00% | ~1,566 |
+| License to Gill | 32.00% | ~1,285 |
 | Fish Out of Water | 30.00% | ~1,204 |
-| Things that go Splash in the Night | 25.00% | ~1,003 |
-| Goldfish? | 25.00% | ~1,003 |
+| Things that go Splash in the Night | 25.00% | ~1,004 |
+| Goldfish? | 25.00% | ~1,004 |
 | Going for Gold | 23.00% | ~923 |
-| I'm Hooked! | 17.00% | ~682 |
+| I'm Hooked! | 17.00% | ~683 |
 | More than a Tourist | 12.00% | ~482 |
 | Diamond in the Rough | 12.00% | ~482 |
 | Hook, Line and Sinker | 7.00% | ~281 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,013 (Ranked 132)  
+Progressed: 4,015 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 3,954 | 0 |
 | 2023-06-01 | 3,982 | 0 |
 | 2023-06-02 | 4,008 | 0 |
-| 2023-06-03 | 4,013 | 0 |
+| 2023-06-03 | 4,015 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 438)  
 Sum: 158 (Ranked 378)  

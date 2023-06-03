@@ -15,14 +15,16 @@
 | Mega Kill | 18.00% | ~5 |
 | 10Gb HDD | 18.00% | ~5 |
 | Stoic | 14.00% | ~4 |
-| Almost There I | 11.00% | ~3 |
+| Almost There I | 14.00% | ~4 |
+| Omicron Alpha | 11.00% | ~3 |
 | Bronze Prince of Ball-air | 7.00% | ~2 |
-| Omicron Alpha | 7.00% | ~2 |
 | Pacifist | 7.00% | ~2 |
 | Collateral Damage I | 7.00% | ~2 |
+| Diligent | 4.00% | ~1 |
 | Hoarder | 4.00% | ~1 |
 | Defrosted | 4.00% | ~1 |
 | Food Poisoning | 4.00% | ~1 |
+| Galactic Cadet | 4.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -50,7 +52,6 @@
 | Pilgrim | 0.00% | ~0 |
 | Voyager 3 | 0.00% | ~0 |
 | Space Magellan | 0.00% | ~0 |
-| Diligent | 0.00% | ~0 |
 | Pedal to the Metal | 0.00% | ~0 |
 | No Peace No Love | 0.00% | ~0 |
 | Freedom Fighter | 0.00% | ~0 |
@@ -103,7 +104,6 @@
 | 80Gb HDD | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
-| Galactic Cadet | 0.00% | ~0 |
 | Galactic Major | 0.00% | ~0 |
 | Galactic Lieutenant | 0.00% | ~0 |
 | You've drone good! | 0.00% | ~0 |

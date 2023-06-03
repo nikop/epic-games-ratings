@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-06-03T02:18:43.3549595+00:00",
       "NumProgressed": 579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T06:05:04.0137281+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -879,9 +884,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "ChestCompletion1",
@@ -913,7 +918,7 @@
       "Name": "Like Clockwork",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ClovemaryGift",
@@ -929,7 +934,7 @@
       "Name": "Sartorialist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CosmeticProgress1",
@@ -961,7 +966,7 @@
       "Name": "Family Memories",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "FactorywoodChests1",
@@ -985,7 +990,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1017,7 +1022,7 @@
       "Name": "Whiz Kid",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "GrindingTime1",
@@ -1105,7 +1110,7 @@
       "Name": "Time Flies",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ParryBoss",
@@ -1121,7 +1126,7 @@
       "Name": "No, Thanks!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1135,9 +1140,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 209
     },
     {
       "ID": "PidgeDefeated",
@@ -1145,7 +1150,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "RewindDamage1",
@@ -1153,7 +1158,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "RewindParry",
@@ -1161,7 +1166,7 @@
       "Name": "Honest Mistake",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1177,7 +1182,7 @@
       "Name": "Golem Chaser",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "SkillCompletion1",
@@ -1209,7 +1214,7 @@
       "Name": "Sump Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "SyronGift",
@@ -1225,7 +1230,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TheaterChests1",
@@ -1257,7 +1262,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WatcherSpared",
@@ -1273,7 +1278,7 @@
       "Name": "The Brass Boss",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1288,14 +1293,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:04:50.7118107+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:05:04.0137275+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:58:52.5777991+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:04:50.7118622+00:00"
+  "LastUpdate_Ratings": "2023-06-03T05:59:35.5646127+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:05:04.0137792+00:00"
 }

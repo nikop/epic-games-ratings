@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~545 |
-| Departure | 73.00% | ~537 |
-| A new Journey | 73.00% | ~537 |
+| Departure | 73.00% | ~538 |
+| A new Journey | 73.00% | ~538 |
 | Way of Iron | 71.00% | ~523 |
-| From X to Y | 70.00% | ~515 |
-| Mystery Tour | 67.00% | ~493 |
-| Brainstorm | 65.00% | ~478 |
-| We brake for nobody | 65.00% | ~478 |
-| Mind the Gap | 63.00% | ~464 |
+| From X to Y | 70.00% | ~516 |
+| Mystery Tour | 67.00% | ~494 |
+| We brake for nobody | 66.00% | ~486 |
+| Brainstorm | 65.00% | ~479 |
+| Mind the Gap | 64.00% | ~472 |
 | Travel Company | 63.00% | ~464 |
-| All around the World | 62.00% | ~456 |
-| Right through the middle | 56.00% | ~412 |
-| Poor Devil | 50.00% | ~368 |
-| Facility Manager | 48.00% | ~353 |
-| Producer | 45.00% | ~331 |
-| Apprentice | 42.00% | ~309 |
+| All around the World | 62.00% | ~457 |
+| Right through the middle | 56.00% | ~413 |
+| Poor Devil | 51.00% | ~376 |
+| Facility Manager | 48.00% | ~354 |
+| Producer | 45.00% | ~332 |
+| Apprentice | 42.00% | ~310 |
 | Bridge Builder | 36.00% | ~265 |
 | Stoker | 35.00% | ~258 |
-| Access granted | 34.00% | ~250 |
+| Access granted | 34.00% | ~251 |
 | Going once, going twice, sold | 28.00% | ~206 |
 | Full Steam ahead | 27.00% | ~199 |
 | Bull and bear | 25.00% | ~184 |
@@ -31,11 +31,11 @@
 | Seven at one stroke | 21.00% | ~155 |
 | All mine | 21.00% | ~155 |
 | Hostile Takeover | 19.00% | ~140 |
-| Country Life | 18.00% | ~132 |
-| Socializer | 18.00% | ~132 |
+| Country Life | 18.00% | ~133 |
+| Socializer | 18.00% | ~133 |
 | Trailblazer | 17.00% | ~125 |
-| General Manager | 15.00% | ~110 |
-| Traffic Junction | 13.00% | ~96 |
+| General Manager | 16.00% | ~118 |
+| Traffic Junction | 12.00% | ~88 |
 | Traffic Jam | 11.00% | ~81 |
 | Assimilated | 11.00% | ~81 |
 | Locusts | 11.00% | ~81 |
@@ -48,8 +48,8 @@
 | Settler | 5.00% | ~37 |
 | A new Hope | 3.00% | ~22 |
 | Tycoon | 3.00% | ~22 |
-| Conductor | 1.00% | ~7 |
-| Accurate | 1.00% | ~7 |
+| Conductor | 0.90% | ~7 |
+| Accurate | 0.90% | ~7 |
 | Let off some steam | 0.80% | ~6 |
 | Unstoppable | 0.50% | ~4 |
 | Track to the Future | 0.50% | ~4 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 184)  
+Progressed: 737 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 588 | 0 |
 | 2023-06-01 | 668 | 0 |
 | 2023-06-02 | 725 | 0 |
-| 2023-06-03 | 736 | 0 |
+| 2023-06-03 | 737 | 0 |

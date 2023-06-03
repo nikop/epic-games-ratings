@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 862,
+  "Ranking_Rating": 861,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 132,
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4013,
+  "EOS_Progressed": 4015,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2468,6 +2468,11 @@
       "Time": "2023-06-03T05:00:18.2083175+00:00",
       "NumProgressed": 4013,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T06:01:21.6271571+00:00",
+      "NumProgressed": 4015,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2479,7 +2484,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2487,7 +2492,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2495,7 +2500,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2503,7 +2508,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -2519,7 +2524,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2527,7 +2532,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -2535,7 +2540,7 @@
       "Name": "Scaling up",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2543,7 +2548,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -2551,7 +2556,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -2583,7 +2588,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -2639,7 +2644,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -2758,13 +2763,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4013,
+      "Progressed": 4015,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3385,
+      "Progressed": 3387,
       "Completed": 112
     }
   ],
@@ -2772,8 +2777,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-03T05:00:18.208317+00:00",
+  "LastChanged_Achievements": "2023-06-03T06:01:21.6271563+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:14.4046039+00:00",
-  "LastUpdate_Ratings": "2023-06-03T04:59:12.8037862+00:00",
-  "LastUpdate_Achievements": "2023-06-03T05:00:18.2083571+00:00"
+  "LastUpdate_Ratings": "2023-06-03T06:00:00.4130429+00:00",
+  "LastUpdate_Achievements": "2023-06-03T06:01:21.6273915+00:00"
 }

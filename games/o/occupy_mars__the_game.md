@@ -33,10 +33,10 @@ Rating: 3.86 (Ranked 914)
 | Rocket Jump | 0.50% | ~5 |
 | 5G Network | 0.40% | ~4 |
 | Bull’s eye | 0.30% | ~3 |
+| Planetary Defence | 0.30% | ~3 |
 | Korolev crater | 0.30% | ~3 |
 | Rover Mechanic | 0.30% | ~3 |
 | Hot Repairs | 0.20% | ~2 |
-| Planetary Defence | 0.20% | ~2 |
 | One does not simply... | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
 | Historical Places | 0.10% | ~1 |

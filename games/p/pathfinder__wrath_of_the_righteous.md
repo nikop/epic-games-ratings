@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 16.00% | ~1,514 |
+| Devoured by Darkness | 16.00% | ~1,515 |
 | Burning City | 11.00% | ~1,041 |
 | A Spark | 11.00% | ~1,041 |
 | Mythic Choices | 9.00% | ~852 |
 | Defender's Heart | 9.00% | ~852 |
 | Banner over the Citadel | 8.00% | ~757 |
-| Queen's Gratitude | 7.00% | ~662 |
+| Queen's Gratitude | 7.00% | ~663 |
 | Fifth Crusade | 5.00% | ~473 |
 | Embrace of the Abyss | 4.00% | ~379 |
 | Path of the Angel | 4.00% | ~379 |
@@ -36,7 +36,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 2.00% | ~189 |
 | Stay Underground | 2.00% | ~165 |
 | Hanged Man's Notes | 2.00% | ~165 |
-| Sarkoris Will Be Green | 2.00% | ~165 |
 | The Lady of the Forest | 2.00% | ~165 |
 | Beware Still Water | 2.00% | ~165 |
 | Path of the Demon | 1.00% | ~95 |
@@ -44,12 +43,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 1.00% | ~95 |
 | Capitulation Is Now Moot | 1.00% | ~95 |
 | Truly Important Deed | 1.00% | ~95 |
+| Sarkoris Will Be Green | 1.00% | ~82 |
 | Abyssal Conspiracy | 0.90% | ~85 |
 | This Wall Won't Fall | 0.80% | ~66 |
-| Not the Last Sarkorian | 0.80% | ~66 |
 | The Final Threshold | 0.70% | ~66 |
 | Strategic Victory | 0.70% | ~66 |
 | End of Eternal Guard | 0.70% | ~66 |
+| Not the Last Sarkorian | 0.70% | ~58 |
 | Path of the Dragon | 0.60% | ~57 |
 | Path of the Legend | 0.60% | ~57 |
 | Playful Mood | 0.60% | ~57 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,464 (Ranked 111)  
+Progressed: 9,467 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,10 +167,10 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 9,396 | 0 |
 | 2023-06-01 | 9,419 | 0 |
 | 2023-06-02 | 9,452 | 0 |
-| 2023-06-03 | 9,464 | 0 |
+| 2023-06-03 | 9,467 | 0 |
 ## Awards
 Max (Character Customization): 1,648  (Ranked 111)  
-Sum: 6,685 (Ranked 110)  
+Sum: 6,687 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +183,7 @@ Diff (max vs sum): 1
 | This game has Quickly Understood Controls | 551 |
 | This game has Challenging Combat | 550 |
 | This game is Relaxing | 525 |
-| This game has a Creative Community | 373 |
+| This game has a Creative Community | 375 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -315,4 +315,4 @@ Diff (max vs sum): 1
 | 2023-05-31 | 4.76 | - | 1,645 | 6,672 |
 | 2023-06-01 | 4.76 | - | 1,646 | 6,676 |
 | 2023-06-02 | 4.76 | - | 1,646 | 6,683 |
-| 2023-06-03 | 4.76 | - | 1,648 | 6,685 |
+| 2023-06-03 | 4.76 | - | 1,648 | 6,687 |
