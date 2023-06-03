@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 50.00% | ~14 |
-| Survivor | 41.00% | ~11 |
-| Seeds of War | 37.00% | ~29 |
+| Aspairagus | 50.00% | ~15 |
+| Survivor | 41.00% | ~12 |
+| Seeds of War | 39.00% | ~31 |
 | No Diggity | 35.00% | ~10 |
-| Early Survivor | 32.00% | ~9 |
-| First Blood | 28.00% | ~22 |
+| Early Survivor | 31.00% | ~9 |
+| First Blood | 30.00% | ~24 |
+| Triple Kill | 25.00% | ~20 |
+| No Asperascope | 24.00% | ~19 |
 | Amateur Survivor | 24.00% | ~7 |
-| No Asperascope | 23.00% | ~18 |
-| Triple Kill | 23.00% | ~18 |
-| Cornivore | 22.00% | ~17 |
-| Bouncemato | 22.00% | ~6 |
-| I Believe I Can Fly | 21.00% | ~16 |
-| Quick-Draw Pod | 21.00% | ~6 |
-| Grave Digger | 17.00% | ~5 |
+| Cornivore | 23.00% | ~18 |
+| Bouncemato | 21.00% | ~6 |
+| I Believe I Can Fly | 20.00% | ~16 |
+| Quick-Draw Pod | 20.00% | ~6 |
+| Grave Digger | 18.00% | ~5 |
+| This Is My Boomstick | 15.00% | ~4 |
 | 15K | 13.00% | ~10 |
 | 10K | 13.00% | ~10 |
 | Professional Survivor | 13.00% | ~4 |
-| This Is My Boomstick | 13.00% | ~4 |
 | Drinking Problem | 10.00% | ~8 |
-| Oh My Gourd | 9.00% | ~3 |
+| Oh My Gourd | 10.00% | ~3 |
 | Perfect | 9.00% | ~3 |
 | Expert Survivor | 9.00% | ~3 |
 | Skin Of Your Teeth | 8.00% | ~6 |
@@ -31,14 +31,14 @@
 | Quit Horsin' Around | 6.00% | ~5 |
 | Master Survivor | 6.00% | ~2 |
 | Summers Here | 6.00% | ~2 |
+| Bring Home The Bacon | 4.00% | ~3 |
+| Eggtraordinary | 4.00% | ~3 |
 | Carrocketeer | 4.00% | ~3 |
 | Pyromaniac | 4.00% | ~1 |
 | Easy Peasy | 4.00% | ~1 |
-| Bring Home The Bacon | 3.00% | ~2 |
 | Chick Magnet | 3.00% | ~2 |
 | Getting Started | 3.00% | ~2 |
 | Pork Chop Express | 3.00% | ~2 |
-| Eggtraordinary | 3.00% | ~2 |
 | Fresh Pancake | 1.00% | ~1 |
 | 15 Days | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 285)  
+Progressed: 80 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-30 | 67 | 0 |
 | 2023-06-01 | 74 | 0 |
 | 2023-06-02 | 76 | 0 |
-| 2023-06-03 | 78 | 0 |
+| 2023-06-03 | 80 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

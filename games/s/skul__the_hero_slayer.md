@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,048 |
-| What should I buy? | 83.00% | ~6,290 |
-| Focus! | 62.00% | ~4,698 |
-| Rescued Elder Ent | 62.00% | ~4,698 |
-| The End of the Gold Mane Knights | 47.00% | ~3,562 |
-| Rules of Etiquette | 39.00% | ~2,955 |
-| False Goddess, Disappear | 38.00% | ~2,880 |
-| Quick Movements | 33.00% | ~2,501 |
-| Inventory Management | 33.00% | ~2,501 |
+| The Legend Begins | 93.00% | ~7,050 |
+| What should I buy? | 83.00% | ~6,292 |
+| Focus! | 62.00% | ~4,700 |
+| Rescued Elder Ent | 62.00% | ~4,700 |
+| The End of the Gold Mane Knights | 47.00% | ~3,563 |
+| Rules of Etiquette | 39.00% | ~2,957 |
+| False Goddess, Disappear | 38.00% | ~2,881 |
+| Quick Movements | 33.00% | ~2,502 |
+| Inventory Management | 33.00% | ~2,502 |
 | The Fall of the Leonia Order | 29.00% | ~2,198 |
-| The Hero Killer | 27.00% | ~2,046 |
-| Go Home... | 26.00% | ~1,970 |
-| The Final Battle of the First Hero | 25.00% | ~1,894 |
-| Brain at Full Throttle | 22.00% | ~1,667 |
+| The Hero Killer | 27.00% | ~2,047 |
+| Go Home... | 26.00% | ~1,971 |
+| The Final Battle of the First Hero | 25.00% | ~1,895 |
+| Brain at Full Throttle | 22.00% | ~1,668 |
 | Rookies Welcome | 20.00% | ~1,516 |
 | Deadly Power | 15.00% | ~1,137 |
 | Castle Restoration Plans | 14.00% | ~1,061 |
-| The Dwarven Chandelier | 12.00% | ~909 |
+| The Dwarven Chandelier | 12.00% | ~910 |
 | Master of Speed | 9.00% | ~682 |
 | The Levitator | 6.00% | ~455 |
 | The God of Battle | 3.00% | ~227 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~76 |
 | Cold-Blooded | 0.80% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,578 (Ranked 114)  
+Progressed: 7,581 (Ranked 114)  
 Completed: 11 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,11 +71,11 @@ Completed: 11 (0.15%) (Ranked 153)
 | 2023-05-31 | 7,526 | 11 |
 | 2023-06-01 | 7,545 | 11 |
 | 2023-06-02 | 7,564 | 11 |
-| 2023-06-03 | 7,578 | 11 |
+| 2023-06-03 | 7,581 | 11 |
 ## Awards
-Max (Great for Beginners): 119  (Ranked 305)  
+Max (Great for Beginners): 119  (Ranked 306)  
 Sum: 876 (Ranked 242)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 119 |

@@ -77,9 +77,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 23.00% | ~2,689 |
 | Building Wonders | 23.00% | ~2,689 |
 | Patrons | 22.00% | ~2,572 |
+| Hittite Iron | 22.00% | ~2,572 |
 | Legalism | 22.00% | ~2,572 |
 | Mighty | 21.00% | ~2,455 |
-| Hittite Iron | 21.00% | ~2,455 |
 | Via Recta Souk | 21.00% | ~2,455 |
 | Statesmen | 20.00% | ~2,338 |
 | Circus Maximus | 20.00% | ~2,338 |

@@ -1,29 +1,29 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.30 (Ranked 760)  
+Rating: 4.32 (Ranked 747)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~895 |
-| Ranidaphobia | 73.00% | ~718 |
-| Aspiring Editor | 70.00% | ~689 |
-| Gun for Hire | 65.00% | ~640 |
-| I am the law! | 56.00% | ~551 |
-| Lumberjack | 41.00% | ~403 |
-| Croaked | 35.00% | ~344 |
-| Limp Richard | 35.00% | ~344 |
+| First Blood | 92.00% | ~907 |
+| Ranidaphobia | 73.00% | ~720 |
+| Aspiring Editor | 70.00% | ~690 |
+| Gun for Hire | 65.00% | ~641 |
+| I am the law! | 56.00% | ~552 |
+| Lumberjack | 41.00% | ~404 |
+| Croaked | 36.00% | ~355 |
+| Limp Richard | 35.00% | ~345 |
 | Firestarter | 34.00% | ~335 |
 | From Darkness to Light | 34.00% | ~335 |
-| Exorcist | 32.00% | ~315 |
-| Editor Adept | 31.00% | ~305 |
+| Exorcist | 32.00% | ~316 |
+| Editor Adept | 31.00% | ~306 |
 | Giant Killer | 27.00% | ~266 |
 | Sensei | 26.00% | ~256 |
 | The meaning of Kain | 25.00% | ~246 |
 | Technophobe | 20.00% | ~197 |
 | Recycler | 19.00% | ~187 |
-| Chain Killer | 16.00% | ~157 |
-| Hold The Line | 16.00% | ~157 |
+| Chain Killer | 16.00% | ~158 |
+| Hold The Line | 16.00% | ~158 |
 | Are you not entertained? | 15.00% | ~148 |
 | There Can Be Only One! | 15.00% | ~148 |
 | Ganglord | 14.00% | ~138 |
@@ -32,7 +32,7 @@ Rating: 4.30 (Ranked 760)
 | Infiltrator | 13.00% | ~128 |
 | Newtonian Knockout | 12.00% | ~118 |
 | Experienced | 11.00% | ~108 |
-| Ruthless | 10.00% | ~98 |
+| Ruthless | 10.00% | ~99 |
 | Endgame | 9.00% | ~89 |
 | Savior | 9.00% | ~89 |
 | The Watchers | 9.00% | ~89 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 760)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 984 (Ranked 172)  
+Progressed: 986 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 919 | 0 |
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
-| 2023-06-03 | 984 | 0 |
+| 2023-06-03 | 986 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -81,3 +81,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-30 | 4.23 | 0 | 0 |
 | 2023-05-31 | 4.29 | 0 | 0 |
 | 2023-06-01 | 4.30 | 0 | 0 |
+| 2023-06-03 | 4.32 | 0 | 0 |

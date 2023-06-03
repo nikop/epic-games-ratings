@@ -1,21 +1,21 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.42 (Ranked 653)  
+Rating: 4.44 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~532 |
-| Confirming Suspicions | 20.00% | ~425 |
-| The Kraken Wakes | 16.00% | ~340 |
+| Meeting Resistance | 25.00% | ~533 |
+| Confirming Suspicions | 20.00% | ~426 |
+| The Kraken Wakes | 16.00% | ~341 |
 | It's Starting to Crack | 13.00% | ~277 |
-| Lord of War | 12.00% | ~255 |
-| Change the Channel | 11.00% | ~234 |
+| Lord of War | 12.00% | ~256 |
+| Change the Channel | 11.00% | ~235 |
 | Resourceful | 10.00% | ~213 |
-| Taking it back | 9.00% | ~191 |
-| Organ Grinder | 8.00% | ~170 |
-| As Quiet as a Mouse | 8.00% | ~170 |
-| Target America | 8.00% | ~170 |
+| Taking it back | 9.00% | ~192 |
+| Organ Grinder | 8.00% | ~171 |
+| As Quiet as a Mouse | 8.00% | ~171 |
+| Target America | 8.00% | ~171 |
 | Enemy at the Gates | 7.00% | ~149 |
 | Just a Flesh Wound | 7.00% | ~149 |
 | Explosive Efficiency | 7.00% | ~149 |
@@ -24,10 +24,10 @@ Rating: 4.42 (Ranked 653)
 | Gunslinger | 6.00% | ~128 |
 | Sharpshooter | 6.00% | ~128 |
 | The Kraken Sleeps | 6.00% | ~128 |
-| Die Nussknacker Sweet! | 5.00% | ~106 |
-| Der Geist | 5.00% | ~106 |
-| Close Quarters | 5.00% | ~106 |
-| Snake in the Grass | 5.00% | ~106 |
+| Die Nussknacker Sweet! | 5.00% | ~107 |
+| Der Geist | 5.00% | ~107 |
+| Close Quarters | 5.00% | ~107 |
+| Snake in the Grass | 5.00% | ~107 |
 | Climbing the Ladder | 4.00% | ~85 |
 | No Stone Unturned | 4.00% | ~85 |
 | Fields of Glory | 4.00% | ~85 |
@@ -50,7 +50,7 @@ Rating: 4.42 (Ranked 653)
 | Ghost of Falaise | 0.70% | ~15 |
 | Last Resort | 0.60% | ~12 |
 | From Paris with Love | 0.50% | ~11 |
-| Burn after reading | 0.40% | ~9 |
+| Burn after reading | 0.50% | ~11 |
 | Souvenir hunter | 0.40% | ~9 |
 | Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 653)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,127 (Ranked 149)  
+Progressed: 2,132 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.09%) (Ranked 168)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,127 | 2 |
+| 2023-06-03 | 2,132 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -162,3 +162,4 @@ Completed: 2 (0.09%) (Ranked 168)
 | 2023-05-31 | 4.44 | 0 | 0 |
 | 2023-06-01 | 4.45 | 0 | 0 |
 | 2023-06-02 | 4.42 | 0 | 0 |
+| 2023-06-03 | 4.44 | 0 | 0 |

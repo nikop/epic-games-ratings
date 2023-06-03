@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "JANKEN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Janken The Great",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_04",
@@ -262,8 +262,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:10:19.1683322+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:06:33.129721+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:20.9108994+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:02:14.9999452+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:10:19.1683451+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:58:24.2225729+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:06:33.1297306+00:00"
 }

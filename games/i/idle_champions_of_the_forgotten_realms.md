@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~179 |
 | Tall Tales | 0.20% | ~112 |
 | The Witchlight Carnival | 0.20% | ~112 |
+| Thieves of the Coven | 0.20% | ~112 |
 | Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~179 |
 | A Steadfast Love | 0.20% | ~112 |
@@ -94,6 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~179 |
 | The Death Curse | 0.20% | ~179 |
 | Treasure Hunters | 0.20% | ~179 |
+| The Lost Love | 0.20% | ~179 |
 | Flies on the Wall | 0.20% | ~179 |
 | Backtracking Through Barovia | 0.20% | ~179 |
 | Nimble Escape | 0.20% | ~179 |
@@ -125,6 +127,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.20% | ~179 |
 | Lost in the Deep | 0.20% | ~179 |
 | Easily Distracted | 0.20% | ~179 |
+| Rude Welcome | 0.20% | ~179 |
 | Underdeep Cartography | 0.20% | ~179 |
 | Overdue Rendezvous | 0.20% | ~179 |
 | Moose Tracks | 0.20% | ~112 |
@@ -144,7 +147,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.10% | ~56 |
 | A Dragon Against Us | 0.10% | ~56 |
 | A Familiar Behind Us | 0.10% | ~56 |
-| Thieves of the Coven | 0.10% | ~56 |
 | Sticky Fingers | 0.10% | ~56 |
 | Patron Party | 0.10% | ~56 |
 | Go Fourth | 0.10% | ~56 |
@@ -278,7 +280,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.10% | ~90 |
 | Air's Getting Pretty Thin | 0.10% | ~90 |
 | Red Wizard 'Escort' | 0.10% | ~56 |
-| The Lost Love | 0.10% | ~90 |
 | A Saurial's Lament | 0.10% | ~90 |
 | A Saurial's Resolve | 0.10% | ~90 |
 | Spirit of the Trickster Gods | 0.10% | ~56 |
@@ -419,7 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~56 |
 | Mirage Arcane | 0.10% | ~56 |
 | Only Human | 0.10% | ~56 |
-| Rude Welcome | 0.10% | ~90 |
 | An Awakened Axe | 0.10% | ~56 |
 | CONtagious Cold | 0.10% | ~56 |
 | Ten in Ten-Towns | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,606 (Ranked 62)  
-Completed: 1,912 (2.13%) (Ranked 63)  
+Progressed: 89,617 (Ranked 62)  
+Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -544,7 +544,7 @@ Completed: 1,912 (2.13%) (Ranked 63)
 | 2023-05-31 | 89,339 | 1,904 |
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
-| 2023-06-03 | 89,606 | 1,912 |
+| 2023-06-03 | 89,617 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

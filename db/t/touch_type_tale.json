@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -1748,9 +1748,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 405
     },
     {
       "ID": "bonus2",
@@ -2021,8 +2021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:10:54.2538931+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:07:06.2242792+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:04:47.7853438+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:10:54.2539259+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:00:53.754481+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:07:06.2243072+00:00"
 }

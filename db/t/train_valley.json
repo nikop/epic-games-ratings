@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,11 +93,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:48.389739+00:00",
@@ -203,6 +203,11 @@
       "Time": "2023-06-03T13:08:37.0662308+00:00",
       "NumProgressed": 291,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T14:04:55.396218+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -214,7 +219,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "02_collector",
@@ -246,7 +251,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "06_living",
@@ -270,7 +275,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "09_russia",
@@ -302,7 +307,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "13_bunkrupt",
@@ -364,9 +369,9 @@
       "ID": "20_sabotage",
       "SetID": "chb1m60",
       "Name": "Sabotage",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "21_missed",
@@ -390,7 +395,7 @@
       "Name": "Close call!",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "24_mega",
@@ -476,9 +481,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "35_achtung",
@@ -510,7 +515,7 @@
       "Name": "Chuck Norris",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "39_salesman",
@@ -525,15 +530,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:08:37.0662304+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:04:55.3962175+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.3694729+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:01:34.4794764+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:08:37.066259+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:57:48.7900791+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:04:55.396245+00:00"
 }

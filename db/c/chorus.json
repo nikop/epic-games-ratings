@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1034,9 +1034,9 @@
       "ID": "RiteOfTheStorm",
       "SetID": "a6c395p",
       "Name": "It Was An Accident",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 369
     },
     {
       "ID": "UseRepairDrones",
@@ -1074,8 +1074,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:10:55.4516552+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:07:07.3498344+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:26.7111078+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:04:34.3500492+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:10:55.4516965+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:00:39.2804249+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:07:07.3498693+00:00"
 }

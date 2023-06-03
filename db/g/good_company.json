@@ -2,13 +2,13 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4900,
+  "EOS_Progressed": 4901,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1234,6 +1234,11 @@
       "Time": "2023-06-03T13:10:54.5727172+00:00",
       "NumProgressed": 4900,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T14:07:06.550506+00:00",
+      "NumProgressed": 4901,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1317,7 +1322,7 @@
       "Name": "Level: Heating-Up",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_campaign_progress12",
@@ -1661,7 +1666,7 @@
       "Name": "CEO",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_frp_researchdata",
@@ -1852,15 +1857,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4900,
+      "Progressed": 4901,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:10:54.5727167+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:07:06.5505057+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:03:15.2343873+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:10:54.5727933+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:59:21.074478+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:07:06.550576+00:00"
 }

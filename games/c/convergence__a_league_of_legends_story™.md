@@ -37,13 +37,13 @@
 | Chaincrawler Explorer | 21.00% | ~122 |
 | Syron for Hope | 21.00% | ~122 |
 | Factorywood Explorer | 20.00% | ~116 |
-| Fairgrounds Explorer | 19.00% | ~110 |
+| Fairgrounds Explorer | 20.00% | ~116 |
 | Theater Explorer | 16.00% | ~93 |
 | Cultivair Explorer | 15.00% | ~87 |
 | Corin Goes Home | 13.00% | ~76 |
+| Sartorialist | 13.00% | ~76 |
 | Entresol Explorer | 13.00% | ~76 |
 | Rungs Was Right | 13.00% | ~76 |
-| Sartorialist | 12.00% | ~70 |
 | Clovemary for Remembering | 10.00% | ~58 |
 | Hexlock for Protection | 9.00% | ~52 |
 | Golem Hunter | 8.00% | ~46 |

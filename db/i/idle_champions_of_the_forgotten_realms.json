@@ -4090,10 +4090,10 @@
       "Count": 3243
     }
   ],
-  "EOS_Progressed": 89606,
-  "EOS_Completed": 1912,
-  "EOS_NewPlayers": 755,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 89617,
+  "EOS_Completed": 1913,
+  "EOS_NewPlayers": 757,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8505,6 +8505,11 @@
       "Time": "2023-06-03T13:11:04.4238814+00:00",
       "NumProgressed": 89606,
       "NumCompleted": 1912
+    },
+    {
+      "Time": "2023-06-03T14:07:15.9577218+00:00",
+      "NumProgressed": 89617,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -8650,9 +8655,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1061",
@@ -10258,9 +10263,9 @@
       "ID": "objective_completed_383",
       "SetID": "cc37lbc",
       "Name": "The Lost Love",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_384",
@@ -11714,9 +11719,9 @@
       "ID": "objective_completed_77",
       "SetID": "cc37lbc",
       "Name": "Rude Welcome",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_79",
@@ -12459,21 +12464,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55880,
+      "Progressed": 55891,
       "Completed": 2763
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89606,
-      "Completed": 1912
+      "Progressed": 89617,
+      "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:11:04.4238806+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:07:15.9577213+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:02:06.4091154+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:11:04.4259449+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:58:17.6236746+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:07:15.9599542+00:00"
 }

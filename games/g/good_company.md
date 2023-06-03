@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.43 (Ranked 646)  
+Rating: 4.43 (Ranked 647)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -49,8 +49,8 @@ Number of Ratings: 75  (23.09.2022)
 | Merry-Go-Around: Self-Made | 0.60% | ~29 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~29 |
 | Trendsetter | 0.60% | ~29 |
-| Level: Heating-Up | 0.50% | ~24 |
-| CEO | 0.50% | ~24 |
+| Level: Heating-Up | 0.50% | ~25 |
+| CEO | 0.50% | ~25 |
 | Campaign: Man vs. Machine | 0.40% | ~20 |
 | Rockstar | 0.40% | ~20 |
 | A Happy Taskforce: Interior Designer | 0.30% | ~15 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,900 (Ranked 127)  
+Progressed: 4,901 (Ranked 127)  
 Completed: 1 (0.02%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.02%) (Ranked 194)
 | 2023-05-31 | 4,883 | 1 |
 | 2023-06-01 | 4,889 | 1 |
 | 2023-06-02 | 4,894 | 1 |
-| 2023-06-03 | 4,900 | 1 |
+| 2023-06-03 | 4,901 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -6914,10 +6914,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 373094,
       "NumberOfAwardsMax": 145822
+    },
+    {
+      "Time": "2023-06-03T13:59:26.6553688+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 373173,
+      "NumberOfAwardsMax": 145822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373094,
+  "NumberOfAwards": 373173,
   "NumberOfAwardsMax": 145822,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -6979,7 +6985,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 14337
+      "Count": 14381
     },
     {
       "Text": "This game is Relaxing",
@@ -6997,7 +7003,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 13257
+      "Count": 13292
     },
     {
       "Text": "This game has a Creative Community",
@@ -7017,8 +7023,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-06-03T13:03:20.5594129+00:00",
+  "LastChanged": "2023-06-03T13:59:26.6553687+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.6960471+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:03:20.5594137+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:08:28.6607278+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:59:26.6553692+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:04:47.5553459+00:00"
 }

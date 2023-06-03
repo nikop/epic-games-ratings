@@ -1,24 +1,24 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 755)  
+Rating: 4.31 (Ranked 756)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~190 |
-| Cowardice | 53.00% | ~163 |
-| NO LIFE IS WORTH SAVING... | 49.00% | ~150 |
-| Eat Lead! | 47.00% | ~144 |
+| Explorer | 62.00% | ~191 |
+| Cowardice | 54.00% | ~166 |
+| NO LIFE IS WORTH SAVING... | 49.00% | ~151 |
+| Eat Lead! | 47.00% | ~145 |
 | Prospector | 43.00% | ~132 |
 | Here Comes the Boom | 43.00% | ~132 |
 | Treasure Hunter | 41.00% | ~126 |
 | The Breaking Point | 39.00% | ~120 |
 | Sniper Wolf | 37.00% | ~114 |
 | Missing in Action | 36.00% | ~111 |
-| The Motivation | 35.00% | ~107 |
-| Heroism | 33.00% | ~101 |
-| King of Knives | 32.00% | ~98 |
+| The Motivation | 35.00% | ~108 |
+| Heroism | 32.00% | ~99 |
+| King of Knives | 32.00% | ~99 |
 | Collectibles of Chapter I | 31.00% | ~95 |
 | Consequences | 29.00% | ~89 |
 | Opportunities | 28.00% | ~86 |
@@ -26,10 +26,10 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter II | 24.00% | ~74 |
 | The Difference | 24.00% | ~74 |
 | Vengeance | 22.00% | ~68 |
-| It's Just an Accident | 20.00% | ~61 |
-| Broken Hopes | 19.00% | ~58 |
-| Food Massacre | 19.00% | ~58 |
-| Bullseye! | 19.00% | ~58 |
+| Broken Hopes | 19.00% | ~59 |
+| It's Just an Accident | 19.00% | ~59 |
+| Food Massacre | 19.00% | ~59 |
+| Bullseye! | 19.00% | ~59 |
 | Collectibles of Chapter III | 16.00% | ~49 |
 | Sorrow | 16.00% | ~49 |
 | Collectibles of Chapter IV | 15.00% | ~46 |
@@ -39,8 +39,8 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter V | 9.00% | ~28 |
 | Such is War! | 8.00% | ~25 |
 | Tiptoe Around | 8.00% | ~25 |
-| Collectibles of Chapter VII | 7.00% | ~21 |
-| Piece of Cake | 7.00% | ~21 |
+| Collectibles of Chapter VII | 7.00% | ~22 |
+| Piece of Cake | 7.00% | ~22 |
 | Collectibles of Chapter XII | 6.00% | ~18 |
 | Collectibles of Chapter VIII | 5.00% | ~15 |
 | Collectibles of Chapter X | 4.00% | ~12 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 222)  
+Progressed: 308 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 300 | 0 |
 | 2023-06-01 | 302 | 0 |
 | 2023-06-02 | 306 | 0 |
-| 2023-06-03 | 307 | 0 |
+| 2023-06-03 | 308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

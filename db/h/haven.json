@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -866,9 +866,9 @@
       "ID": "8",
       "SetID": "n50no0",
       "Name": "Over my dead body",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 504
     },
     {
       "ID": "9",
@@ -890,8 +890,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:10:47.91176+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:06:59.906108+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:04:00.1247619+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:10:47.9118993+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:00:05.3705866+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:06:59.9061268+00:00"
 }

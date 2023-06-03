@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 858,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -268,15 +268,21 @@
       "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-03T13:58:06.6642138+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5931,
+  "EOS_Progressed": 5936,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2864,6 +2870,11 @@
       "Time": "2023-06-03T13:07:33.1995275+00:00",
       "NumProgressed": 5931,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-03T14:03:54.4120827+00:00",
+      "NumProgressed": 5936,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -2875,7 +2886,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4923
+      "UsersEstimate": 4927
     },
     {
       "ID": "ACH02",
@@ -2883,7 +2894,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1900
     },
     {
       "ID": "ACH03",
@@ -2899,7 +2910,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2137
     },
     {
       "ID": "ACH05",
@@ -2915,7 +2926,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ACH07",
@@ -2947,7 +2958,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACH11",
@@ -2979,7 +2990,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH15",
@@ -2995,7 +3006,7 @@
       "Name": "A Marked Man",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACH17",
@@ -3011,7 +3022,7 @@
       "Name": "Not So Fast",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH19",
@@ -3059,7 +3070,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH25",
@@ -3106,16 +3117,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5931,
+      "Progressed": 5936,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-06-03T05:57:56.6334506+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:07:33.199527+00:00",
+  "LastChanged": "2023-06-03T13:58:06.6642137+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:03:54.4120822+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:01:53.7528404+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:07:33.1995716+00:00"
+  "LastUpdate_Ratings": "2023-06-03T13:58:06.6642142+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:03:54.4121112+00:00"
 }

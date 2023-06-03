@@ -5,15 +5,15 @@ Rating: 4.49 (Ranked 561)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,426 |
-| Advancement | 73.00% | ~16,489 |
-| Meticulously Efficient | 64.00% | ~14,456 |
+| Stylish | 86.00% | ~19,427 |
+| Advancement | 73.00% | ~16,490 |
+| Meticulously Efficient | 64.00% | ~14,457 |
 | Discovery | 62.00% | ~14,005 |
-| Swift Rift Removers | 56.00% | ~12,649 |
-| Fully Upgraded | 55.00% | ~12,423 |
+| Swift Rift Removers | 56.00% | ~12,650 |
+| Fully Upgraded | 55.00% | ~12,424 |
 | Cultured | 53.00% | ~11,972 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,746 |
-| Vaporous Expansion | 49.00% | ~11,068 |
+| Vaporous Expansion | 49.00% | ~11,069 |
 | Teamwork | 44.00% | ~9,939 |
 | There you are! | 44.00% | ~9,939 |
 | Clutch Capture | 41.00% | ~9,261 |
@@ -21,8 +21,8 @@ Rating: 4.49 (Ranked 561)
 | Daily Dose | 35.00% | ~7,906 |
 | Welcome to the Crew | 33.00% | ~7,454 |
 | Solo Capture | 32.00% | ~7,228 |
-| Ghostbuster In Training | 31.00% | ~7,002 |
-| Icing on the Cake | 30.00% | ~6,776 |
+| Ghostbuster In Training | 31.00% | ~7,003 |
+| Icing on the Cake | 30.00% | ~6,777 |
 | Side Hustle | 28.00% | ~6,325 |
 | We have the best insurance | 27.00% | ~6,099 |
 | Legions | 27.00% | ~6,099 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 561)
 | I don't need these | 1.00% | ~226 |
 | Mycophile | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,588 (Ranked 93)  
+Progressed: 22,589 (Ranked 93)  
 Completed: 40 (0.18%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 40 (0.18%) (Ranked 147)
 | 2023-05-31 | 22,486 | 40 |
 | 2023-06-01 | 22,517 | 40 |
 | 2023-06-02 | 22,571 | 40 |
-| 2023-06-03 | 22,588 | 40 |
+| 2023-06-03 | 22,589 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 232  (Ranked 245)  
 Sum: 2,093 (Ranked 182)  

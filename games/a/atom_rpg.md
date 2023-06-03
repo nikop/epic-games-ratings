@@ -6,9 +6,9 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~886 |
-| One HIT wonder | 34.00% | ~304 |
-| Wanderer | 34.00% | ~304 |
+| Atom Agent | 99.00% | ~887 |
+| One HIT wonder | 34.00% | ~305 |
+| Wanderer | 34.00% | ~305 |
 | One shot, one kill | 28.00% | ~251 |
 | Traveler | 24.00% | ~215 |
 | Explorer | 18.00% | ~161 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895 (Ranked 180)  
+Progressed: 896 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,13 +82,14 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 880 | 0 |
 | 2023-06-01 | 886 | 0 |
 | 2023-06-02 | 895 | 0 |
+| 2023-06-03 | 896 | 0 |
 ## Awards
-Max (Character Customization): 47  (Ranked 397)  
-Sum: 47 (Ranked 439)  
-Diff (max vs sum): -42  
+Max (Character Customization): 48  (Ranked 396)  
+Sum: 48 (Ranked 439)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 47 |
+| This game has Inclusive Character Customization | 48 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -159,3 +160,4 @@ Diff (max vs sum): -42
 | 2023-04-22 | 4.45 | - | 46 | 46 |
 | 2023-05-09 | 4.45 | - | 47 | 47 |
 | 2023-05-30 | 4.46 | - | 47 | 47 |
+| 2023-06-03 | 4.46 | - | 48 | 48 |

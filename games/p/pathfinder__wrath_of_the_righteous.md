@@ -26,14 +26,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 3.00% | ~284 |
 | Next-Door Play | 3.00% | ~284 |
 | Get the Toad | 3.00% | ~284 |
-| Heart of the Fallen Land | 2.00% | ~189 |
-| Path of the Trickster | 2.00% | ~189 |
-| Heroic Victory | 2.00% | ~189 |
-| Divide and Rule | 2.00% | ~189 |
-| Mythic Reinforcements | 2.00% | ~189 |
-| Core of the Riddle | 2.00% | ~189 |
-| Your First Big Enemy | 2.00% | ~189 |
-| Hey, I Know You! | 2.00% | ~189 |
+| Heart of the Fallen Land | 2.00% | ~190 |
+| Path of the Trickster | 2.00% | ~190 |
+| Heroic Victory | 2.00% | ~190 |
+| Divide and Rule | 2.00% | ~190 |
+| Mythic Reinforcements | 2.00% | ~190 |
+| Core of the Riddle | 2.00% | ~190 |
+| Your First Big Enemy | 2.00% | ~190 |
+| Hey, I Know You! | 2.00% | ~190 |
 | Stay Underground | 2.00% | ~165 |
 | Hanged Man's Notes | 2.00% | ~165 |
 | The Lady of the Forest | 2.00% | ~165 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,474 (Ranked 111)  
+Progressed: 9,477 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 9,396 | 0 |
 | 2023-06-01 | 9,419 | 0 |
 | 2023-06-02 | 9,452 | 0 |
-| 2023-06-03 | 9,474 | 0 |
+| 2023-06-03 | 9,477 | 0 |
 ## Awards
 Max (Character Customization): 1,648  (Ranked 111)  
 Sum: 6,688 (Ranked 110)  

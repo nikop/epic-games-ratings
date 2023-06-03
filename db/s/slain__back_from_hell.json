@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 23776,
+  "EOS_Progressed": 23786,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4701,6 +4701,11 @@
       "Time": "2023-06-03T13:10:38.6749277+00:00",
       "NumProgressed": 23776,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-03T14:06:51.319778+00:00",
+      "NumProgressed": 23786,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -4712,7 +4717,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3806
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -4720,7 +4725,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4755
+      "UsersEstimate": 4757
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -4800,7 +4805,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -4816,7 +4821,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -4848,7 +4853,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -4943,7 +4948,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 23776,
+      "Progressed": 23786,
       "Completed": 18
     }
   ],
@@ -4951,8 +4956,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:10:38.6749273+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:06:51.3197771+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.5386302+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:04:32.9205887+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:10:38.674978+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:00:38.0013094+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:06:51.3198184+00:00"
 }

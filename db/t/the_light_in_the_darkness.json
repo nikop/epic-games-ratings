@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1521,
+  "EOS_Progressed": 1522,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 8.09,
+  "EOS_Completed_Percentage": 8.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2128,6 +2128,11 @@
       "Time": "2023-06-03T11:05:40.7353997+00:00",
       "NumProgressed": 1521,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-06-03T14:06:47.3892922+00:00",
+      "NumProgressed": 1522,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 12,
@@ -2155,7 +2160,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Green Ticket Roundup",
@@ -2234,7 +2239,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1521,
+      "Progressed": 1522,
       "Completed": 123
     }
   ],
@@ -2242,8 +2247,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-03T13:10:34.5922368+00:00",
+  "LastChanged_Achievements": "2023-06-03T14:06:47.3892914+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-03T13:04:00.3133976+00:00",
-  "LastUpdate_Achievements": "2023-06-03T13:10:34.5922622+00:00"
+  "LastUpdate_Ratings": "2023-06-03T14:00:05.5495014+00:00",
+  "LastUpdate_Achievements": "2023-06-03T14:06:47.3893094+00:00"
 }

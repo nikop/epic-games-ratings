@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~243,365 |
-| Cavalier | 25.00% | ~196,262 |
-| Fatso | 23.00% | ~180,561 |
-| Awakening | 20.00% | ~157,009 |
-| Ranger | 20.00% | ~157,009 |
-| Scrooge | 20.00% | ~157,009 |
-| Anorectic | 16.00% | ~125,608 |
-| Firestarter | 15.00% | ~117,757 |
-| Bookworm | 14.00% | ~109,907 |
-| Insomniac | 13.00% | ~102,056 |
-| Buddy | 11.00% | ~86,355 |
-| Sinner | 11.00% | ~86,355 |
-| Thief | 11.00% | ~86,355 |
-| Convict | 10.00% | ~78,505 |
-| Traveller | 10.00% | ~78,505 |
-| Haggler | 9.00% | ~70,654 |
-| Runt | 7.00% | ~54,953 |
-| Casanova | 6.00% | ~47,103 |
-| McLovin | 6.00% | ~47,103 |
-| Bad Trip | 5.00% | ~39,252 |
-| Monk | 5.00% | ~39,252 |
-| Serial Killer | 5.00% | ~39,252 |
+| Blacksmith's Son | 31.00% | ~243,369 |
+| Cavalier | 25.00% | ~196,265 |
+| Fatso | 23.00% | ~180,564 |
+| Awakening | 20.00% | ~157,012 |
+| Ranger | 20.00% | ~157,012 |
+| Scrooge | 20.00% | ~157,012 |
+| Anorectic | 16.00% | ~125,610 |
+| Firestarter | 15.00% | ~117,759 |
+| Bookworm | 14.00% | ~109,909 |
+| Insomniac | 13.00% | ~102,058 |
+| Buddy | 11.00% | ~86,357 |
+| Sinner | 11.00% | ~86,357 |
+| Thief | 11.00% | ~86,357 |
+| Convict | 10.00% | ~78,506 |
+| Traveller | 10.00% | ~78,506 |
+| Haggler | 9.00% | ~70,655 |
+| Runt | 7.00% | ~54,954 |
+| Casanova | 6.00% | ~47,104 |
+| McLovin | 6.00% | ~47,104 |
+| Bad Trip | 5.00% | ~39,253 |
+| Monk | 5.00% | ~39,253 |
+| Serial Killer | 5.00% | ~39,253 |
 | Bastard | 4.00% | ~31,402 |
 | Hunter | 4.00% | ~31,402 |
 | Plague Doctor | 4.00% | ~31,402 |
-| Bard | 3.00% | ~23,551 |
-| Conqueror | 3.00% | ~23,551 |
-| Ginger in a Pickle | 3.00% | ~23,551 |
-| Kingdom did not come | 3.00% | ~23,551 |
+| Bard | 3.00% | ~23,552 |
+| Conqueror | 3.00% | ~23,552 |
+| Ginger in a Pickle | 3.00% | ~23,552 |
+| Kingdom did not come | 3.00% | ~23,552 |
 | Completionist | 2.00% | ~15,701 |
 | Death by splinter | 2.00% | ~15,701 |
 | King Charming | 2.00% | ~15,701 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,701 |
 | Talmberger | 2.00% | ~15,701 |
 | The End | 2.00% | ~15,701 |
-| Woman's Lot | 1.00% | ~7,850 |
-| Chivalrous Soul | 1.00% | ~7,850 |
-| Spoilsport | 1.00% | ~7,850 |
-| Freud | 1.00% | ~7,850 |
-| Gambler | 1.00% | ~7,850 |
-| Master Huntsman | 1.00% | ~7,850 |
-| Stealth Killer | 1.00% | ~7,850 |
+| Woman's Lot | 1.00% | ~7,851 |
+| Chivalrous Soul | 1.00% | ~7,851 |
+| Spoilsport | 1.00% | ~7,851 |
+| Freud | 1.00% | ~7,851 |
+| Gambler | 1.00% | ~7,851 |
+| Master Huntsman | 1.00% | ~7,851 |
+| Stealth Killer | 1.00% | ~7,851 |
 | Bailiff | 0.80% | ~6,280 |
 | Tracker | 0.80% | ~6,280 |
 | David Horak | 0.70% | ~5,495 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~785 |
 | Wingman | 0.10% | ~785 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 785,047 (Ranked 13)  
+Progressed: 785,061 (Ranked 13)  
 Completed: 40 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,19 +133,19 @@ Completed: 40 (0.01%) (Ranked 200)
 | 2023-05-31 | 784,570 | 40 |
 | 2023-06-01 | 784,725 | 40 |
 | 2023-06-02 | 784,932 | 40 |
-| 2023-06-03 | 785,047 | 40 |
+| 2023-06-03 | 785,061 | 40 |
 ## Awards
 Max (Character Customization): 7,218  (Ranked 45)  
-Sum: 26,975 (Ranked 43)  
+Sum: 26,979 (Ranked 43)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,218 |
-| This game has Great Boss Battles | 5,306 |
+| This game has Great Boss Battles | 5,309 |
 | This game has Challenging Combat | 1,690 |
 | This game has Amazing Storytelling | 1,658 |
 | This game is Extremely Fun | 1,630 |
-| This game has Diverse Characters | 1,627 |
+| This game has Diverse Characters | 1,628 |
 | This game is Highly Recommended | 1,617 |
 | This game has Amazing Characters | 1,607 |
 | This game has Realistic Visuals | 1,594 |
@@ -284,4 +284,4 @@ Diff (max vs sum): 2
 | 2023-05-31 | 4.71 | - | 7,211 | 26,951 |
 | 2023-06-01 | 4.71 | - | 7,212 | 26,961 |
 | 2023-06-02 | 4.71 | - | 7,214 | 26,971 |
-| 2023-06-03 | 4.71 | - | 7,218 | 26,975 |
+| 2023-06-03 | 4.71 | - | 7,218 | 26,979 |

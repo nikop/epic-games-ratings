@@ -13,8 +13,8 @@
 | Full Employment | 19.00% | ~550 |
 | Clay Fighter | 17.00% | ~492 |
 | Nowhere left to Hide | 15.00% | ~434 |
+| All Ovens Blazing | 14.00% | ~405 |
 | Boulder Clash | 14.00% | ~405 |
-| All Ovens Blazing | 13.00% | ~376 |
 | Held Back by the Roots | 13.00% | ~376 |
 | Well Supplied | 11.00% | ~318 |
 | Damage Control | 8.00% | ~232 |
