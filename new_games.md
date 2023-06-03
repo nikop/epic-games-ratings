@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Movie Trivia Challenge](games/5/50f0b849556a4e22acb18bbfc04a8c62.md) | 2023-06-02 | - |  | - | - |
 | [Brick Breaker Premium 2](games/3/342e32c0b4c74b909ff99a6aa8f1f075.md) | 2023-06-02 | - |  | - | - |
 | [Barrett Foster - Chapter One](games/8/866ee32c061b4765b9c0ea3a72d2d17f.md) | 2023-06-02 | - |  | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-06-02 | - |  | - | - |
@@ -7,9 +8,9 @@
 | [Moto](games/d/d1332913f13a4ec1a74ae177a67be056.md) | 2023-06-02 | - |  | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 526,093 | 4.62 | 33 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 323,302 | 4.28 | 0 |
-| [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 106 | - | 0 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 526,757 | 4.62 | 33 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 331,407 | 4.28 | 0 |
+| [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 108 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-01 | 6 (1,000 XP) | 3 | - | - |
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2023-06-01 | - |  | - | - |
@@ -36,13 +37,13 @@
 | [Nick Quest](games/4/4fa4796b3d9842a79980112c9dc17562.md) | 2023-05-30 | - |  | - | 0 |
 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2023-05-29 | 18 (1,000 XP) | 25 | - | 0 |
 | [Shadows. Price For Our Sins](games/a/a34a8e91b1094d28b0c1b997e9f47b38.md) | 2023-05-29 | - |  | - | 0 |
-| [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 2023-05-29 | 66 (1,000 XP) | 261 | - | 0 |
+| [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 2023-05-29 | 66 (1,000 XP) | 262 | - | 0 |
 | [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-29 | 30 (1,000 XP) | 81 | - | 0 |
 | [International Basketball Manager 23](games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 2023-05-29 | - |  | - | - |
 | [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-29 | - |  | - | 0 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-05-28 | - |  | - | 0 |
 | [Tracks of Triumph: Summertime](games/c/cd2b2654ac2c42be8cd9e51ea4e2df47.md) | 2023-05-27 | - |  | - | - |
-| [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 40 (1,000 XP) | 38 | - | 0 |
+| [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 40 (1,000 XP) | 39 | - | 0 |
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 73 (1,000 XP) | 12 | - | - |
 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 40 | - | - |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | - |  | - | 0 |
@@ -53,7 +54,7 @@
 | [FPVSIM FPV Simulator](games/a/acb4a47d0bae433e8d721807c5849b99.md) | 2023-05-26 | - |  | - | 0 |
 | [The Mystery Of Woolley Mountain](games/d/ddc07fbe88ba4c719c9f536cb5109d1f.md) | 2023-05-26 | - |  | - | - |
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 29 | - | - |
-| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 725 | - | 0 |
+| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 730 | - | 0 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | - |  | - | - |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 390 | - | 0 |
 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 2023-05-25 | - |  | - | 0 |
@@ -79,7 +80,7 @@
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 18 (1,000 XP) | 2 | - | - |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-23 | - |  | - | 0 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,229 | - | 0 |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 1,232 | - | 0 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 24 (1,000 XP) | 0 | - | - |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | - |  | - | 0 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2023-05-21 | - |  | - | - |
@@ -136,7 +137,7 @@
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | - |  | - | - |
 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2023-05-11 | 16 (1,000 XP) | 10 | - | - |
 | [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | - |  | - | 0 |
-| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 1,086 | 3.86 | 0 |
+| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 1,087 | 3.86 | 0 |
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | - |  | - | - |
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | 2023-05-10 | - |  | - | - |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 162 (1,000 XP) | 134 | - | 0 |
@@ -150,7 +151,7 @@
 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 2023-05-08 | 18 (1,000 XP) | 20 | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | - | 0 |
 | [Poosh XL](games/p/poosh_xl.md) | 2023-05-08 | 20 (1,000 XP) | 113 | - | - |
-| [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2023-05-08 | 17 (1,000 XP) | 82 | - | 0 |
+| [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2023-05-08 | 17 (1,000 XP) | 84 | - | 0 |
 | [Axolotl Kingdom](games/a/axolotl_kingdom.md) | 2023-05-08 | - |  | - | - |
 | [Emergency Crew 2 Global Warming](games/b/b1ff2bbe99664fb596cac00470bc64ac.md) | 2023-05-08 | - |  | - | 0 |
 | [SIMULACRA 3](games/s/simulacra_3.md) | 2023-05-08 | 24 (1,000 XP) | 1 | - | 0 |

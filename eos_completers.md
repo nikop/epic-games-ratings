@@ -33,15 +33,15 @@
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.92% |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.31% |
+| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.27% |
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.98% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 37 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.92% |
 | 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.90% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.66% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.54% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.57% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.51% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.38% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.26% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.23% |
@@ -62,10 +62,10 @@
 | 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.41% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
-| 62 | [Iron Danger](games/i/iron_danger.md) | 2.15% |
+| 63 | [Iron Danger](games/i/iron_danger.md) | 2.14% |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [JARS](games/j/jars.md) | 2.13% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.89% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.85% |
 | 67 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 68 | [Sifu](games/s/sifu.md) | 1.80% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
@@ -96,7 +96,7 @@
 | 94 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.86% |
 | 95 | [Adios](games/a/adios.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.83% |
-| 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.81% |
+| 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
 | 98 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.78% |
 | 100 | [Them and Us](games/t/them_and_us.md) | 0.76% |
