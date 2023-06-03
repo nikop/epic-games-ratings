@@ -17,8 +17,8 @@
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.25% |
-| 18 | [Smelter](games/s/smelter.md) | 8.82% |
-| 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
@@ -41,7 +41,7 @@
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.53% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.51% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.48% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.38% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.26% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.23% |
@@ -65,9 +65,9 @@
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 63 | [Iron Danger](games/i/iron_danger.md) | 2.13% |
 | 65 | [JARS](games/j/jars.md) | 2.08% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.82% |
-| 67 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
-| 68 | [Sifu](games/s/sifu.md) | 1.80% |
+| 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 67 | [Sifu](games/s/sifu.md) | 1.80% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.74% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.65% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
