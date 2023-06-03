@@ -10,9 +10,9 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.29% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.23% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
@@ -28,7 +28,7 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 28 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.12% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.11% |
 | 30 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.92% |
@@ -38,8 +38,8 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.85% |
-| 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
+| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
+| 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.45% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.37% |
@@ -74,8 +74,8 @@
 | 70 | [Somerville](games/s/somerville.md) | 1.59% |
 | 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.54% |
 | 74 | [Frogun](games/f/frogun.md) | 1.52% |
-| 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.52% |
-| 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.48% |
 | 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
