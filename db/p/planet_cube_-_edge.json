@@ -2,9 +2,9 @@
   "ID": "cc920a7236ce4cd9ba347651be651e5e",
   "Name": "Planet Cube - Edge",
   "ProductSlug": "planet-cube-edge-aac6d5",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-14T09:00:00+00:00",
@@ -364,8 +364,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:27.5483439+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:12.1262463+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:29.2449411+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:07.7346768+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:59:00.0711036+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:12.1262778+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:58:31.4809195+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:29.2449706+00:00"
 }

@@ -11,8 +11,8 @@ Rating: 4.65 (Ranked 294)
 | The Spy who eliminated me | 47.00% | ~3,070 |
 | Never Say Loser Again | 41.00% | ~2,678 |
 | For your Eyes only | 39.00% | ~2,547 |
+| Tailor-Made | 38.00% | ~2,482 |
 | From the Vault with Love | 37.00% | ~2,417 |
-| Tailor-Made | 37.00% | ~2,417 |
 | Fully Decked Out | 36.00% | ~2,352 |
 | You Only Live Twice | 32.00% | ~2,090 |
 | A view to Win | 28.00% | ~1,829 |

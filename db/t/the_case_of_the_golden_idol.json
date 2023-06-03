@@ -3,8 +3,8 @@
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 116,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
@@ -409,9 +409,9 @@
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "4",
@@ -480,8 +480,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:03:34.0560077+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:03:20.0174971+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.2051339+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:58:51.5668452+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:03:34.0560211+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:58:25.6472705+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:03:20.0175091+00:00"
 }

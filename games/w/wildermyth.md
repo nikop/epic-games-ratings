@@ -23,8 +23,8 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 8.00% | ~99 |
 | Echoes Die | 8.00% | ~99 |
 | Chain Reaction | 7.00% | ~87 |
+| Everfading | 7.00% | ~87 |
 | Plague Doctor | 6.00% | ~74 |
-| Everfading | 6.00% | ~74 |
 | Another Tale to Tell | 6.00% | ~74 |
 | A Story of Heroes | 6.00% | ~74 |
 | Let Me Get My Chisel | 5.00% | ~62 |

@@ -4,7 +4,7 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.35,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -121,6 +121,11 @@
       "Time": "2023-06-03T05:05:16.255956+00:00",
       "NumProgressed": 85,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T10:05:16.5790952+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -130,7 +135,7 @@
       "ID": "ACH_ANOTHER_BRICK_1",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
       "UsersEstimate": 62
     },
@@ -154,7 +159,7 @@
       "ID": "ACH_ANYBODY_THERE",
       "SetID": "5kae3ip",
       "Name": "Is There Anybody Out There?",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 100,
       "UsersEstimate": 80
     },
@@ -162,7 +167,7 @@
       "ID": "ACH_BIDING_MY_TIME",
       "SetID": "5kae3ip",
       "Name": "Biding My Time",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
       "UsersEstimate": 38
     },
@@ -178,7 +183,7 @@
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 40,
       "UsersEstimate": 72
     },
@@ -194,7 +199,7 @@
       "ID": "ACH_DOGS_OF_WAR",
       "SetID": "5kae3ip",
       "Name": "The Dogs of War",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 75,
       "UsersEstimate": 9
     },
@@ -251,7 +256,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 2
     }
   ],
@@ -259,8 +264,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:05:56.8391698+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:16.5790945+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.2403145+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:57:32.7342954+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:05:56.8391831+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:57:21.5428764+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:16.5791172+00:00"
 }

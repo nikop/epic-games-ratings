@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 8.1,
+  "EOS_Completed_Percentage": 8.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2118,6 +2118,11 @@
       "Time": "2023-06-03T09:06:12.2996777+00:00",
       "NumProgressed": 1519,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-06-03T10:05:29.3805714+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 12,
@@ -2153,7 +2158,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Jacques a Dit",
@@ -2169,7 +2174,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Jude",
@@ -2185,7 +2190,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Little Helper",
@@ -2224,7 +2229,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1519,
+      "Progressed": 1520,
       "Completed": 123
     }
   ],
@@ -2232,8 +2237,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:12.2996772+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:29.3805709+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:59:42.5838948+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:12.2997012+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:59:06.269198+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:29.380591+00:00"
 }

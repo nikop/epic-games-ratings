@@ -7,22 +7,22 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~654 |
-| Project Arena | 3.00% | ~490 |
-| The Old Grandmaster | 1.00% | ~7,070 |
-| The Assault | 1.00% | ~7,070 |
-| The Hateful Pole Fighter | 1.00% | ~7,070 |
-| A Lady's Blood in the Snow | 1.00% | ~7,070 |
-| Lady Wing Chun | 1.00% | ~7,070 |
-| Street Fighting | 1.00% | ~7,070 |
-| Life is your teacher | 1.00% | ~7,070 |
-| State of constant learning | 1.00% | ~7,070 |
-| Qi Gong: Breath | 1.00% | ~7,070 |
-| Qi Gong: Essence | 1.00% | ~7,070 |
-| Lightning Hands | 1.00% | ~7,070 |
-| Path of the Prospect | 1.00% | ~7,070 |
-| Rumble in the Hangar | 1.00% | ~7,070 |
-| Bloody Sport | 1.00% | ~163 |
-| The best strikes are the ones we avoid | 1.00% | ~163 |
+| Project Arena | 3.00% | ~491 |
+| The Old Grandmaster | 1.00% | ~7,071 |
+| The Assault | 1.00% | ~7,071 |
+| The Hateful Pole Fighter | 1.00% | ~7,071 |
+| A Lady's Blood in the Snow | 1.00% | ~7,071 |
+| Lady Wing Chun | 1.00% | ~7,071 |
+| Street Fighting | 1.00% | ~7,071 |
+| Life is your teacher | 1.00% | ~7,071 |
+| State of constant learning | 1.00% | ~7,071 |
+| Qi Gong: Breath | 1.00% | ~7,071 |
+| Qi Gong: Essence | 1.00% | ~7,071 |
+| Lightning Hands | 1.00% | ~7,071 |
+| Path of the Prospect | 1.00% | ~7,071 |
+| Rumble in the Hangar | 1.00% | ~7,071 |
+| Bloody Sport | 1.00% | ~164 |
+| The best strikes are the ones we avoid | 1.00% | ~164 |
 | Furious Fists | 0.90% | ~6,363 |
 | Kill Nil | 0.90% | ~6,363 |
 | Stuntmaster | 0.90% | ~6,363 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,046 (Ranked 15)  
+Progressed: 707,051 (Ranked 15)  
 Completed: 12,751 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 12,751 (1.80%) (Ranked 67)
 | 2023-05-31 | 706,570 | 12,749 |
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
-| 2023-06-03 | 707,046 | 12,751 |
+| 2023-06-03 | 707,051 | 12,751 |
 ## Awards
 Max (Great Boss Battles): 6,122  (Ranked 53)  
 Sum: 10,445 (Ranked 78)  

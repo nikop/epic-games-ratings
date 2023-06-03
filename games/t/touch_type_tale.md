@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,603 |
-| Flanked! | 79.00% | ~2,285 |
+| You and what Army? | 90.00% | ~2,604 |
+| Flanked! | 80.00% | ~2,314 |
 | Economics 101 | 65.00% | ~1,880 |
-| Get Rich Quick | 48.00% | ~1,388 |
+| Get Rich Quick | 48.00% | ~1,389 |
 | Do the Splits | 41.00% | ~1,186 |
 | Maestro | 28.00% | ~810 |
-| Full Employment | 19.00% | ~549 |
+| Full Employment | 19.00% | ~550 |
 | Clay Fighter | 17.00% | ~492 |
 | Nowhere left to Hide | 15.00% | ~434 |
 | Boulder Clash | 14.00% | ~405 |
@@ -19,9 +19,9 @@
 | Well Supplied | 11.00% | ~318 |
 | Damage Control | 8.00% | ~231 |
 | Master of the Brawl | 8.00% | ~231 |
-| Sniped | 7.00% | ~202 |
-| Leave Them no Cake | 7.00% | ~202 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~202 |
+| Sniped | 7.00% | ~203 |
+| Leave Them no Cake | 7.00% | ~203 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~203 |
 | A Secret Recipe | 6.00% | ~174 |
 | Your Biggest Fans | 5.00% | ~145 |
 | An Ally in Need | 5.00% | ~145 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~29 |
 | All Geared Up | 0.90% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,892 (Ranked 138)  
+Progressed: 2,893 (Ranked 138)  
 Completed: 9 (0.31%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 9 (0.31%) (Ranked 129)
 | 2023-05-31 | 2,870 | 9 |
 | 2023-06-01 | 2,878 | 9 |
 | 2023-06-02 | 2,889 | 9 |
-| 2023-06-03 | 2,892 | 9 |
+| 2023-06-03 | 2,893 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

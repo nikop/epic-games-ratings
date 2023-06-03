@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6269,
+  "EOS_Progressed": 6270,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2848,6 +2848,11 @@
       "Time": "2023-06-03T07:05:22.8975052+00:00",
       "NumProgressed": 6269,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-03T10:05:18.5287686+00:00",
+      "NumProgressed": 6270,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2955,7 +2960,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "IN_A_PINCH",
@@ -2987,7 +2992,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "SNIP_SNIP",
@@ -3026,7 +3031,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6269,
+      "Progressed": 6270,
       "Completed": 23
     }
   ],
@@ -3034,8 +3039,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:05:59.0675295+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:18.5287683+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:58:04.2953078+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:05:59.0675891+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:57:48.6606443+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:18.5287971+00:00"
 }

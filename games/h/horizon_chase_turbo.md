@@ -6,46 +6,46 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~856,475 |
-| I Need a Bigger Garage | 62.00% | ~596,646 |
-| Pump my Ride | 46.00% | ~442,673 |
-| Ghostbuster | 31.00% | ~298,323 |
-| Call Roadside Assistance | 17.00% | ~163,596 |
-| That Was Close | 17.00% | ~163,596 |
-| Quickie | 10.00% | ~96,233 |
-| California Dreamer | 7.00% | ~67,363 |
-| Can't Touch This | 4.00% | ~38,493 |
-| Carménère Taster | 3.00% | ~28,870 |
-| Comeback | 3.00% | ~28,870 |
-| Marathonist | 3.00% | ~28,870 |
-| Living Legend | 3.00% | ~28,870 |
-| Driver from Ipanema | 2.00% | ~19,247 |
-| Pathfinder | 2.00% | ~19,247 |
-| Go-Kart Champion | 2.00% | ~19,247 |
-| Completionist | 2.00% | ~19,247 |
-| Supersonic | 2.00% | ~19,247 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,247 |
-| God of Roads | 1.00% | ~9,623 |
-| The Iceman | 1.00% | ~9,623 |
-| Oil Tycoon | 1.00% | ~9,623 |
-| Round the Globe | 1.00% | ~9,623 |
-| Golden Passport | 1.00% | ~9,623 |
-| Bollywood Star | 0.90% | ~8,661 |
-| Brave and Bold | 0.90% | ~8,661 |
+| The First of Many | 89.00% | ~856,528 |
+| I Need a Bigger Garage | 62.00% | ~596,682 |
+| Pump my Ride | 46.00% | ~442,700 |
+| Ghostbuster | 31.00% | ~298,341 |
+| Call Roadside Assistance | 17.00% | ~163,606 |
+| That Was Close | 17.00% | ~163,606 |
+| Quickie | 10.00% | ~96,239 |
+| California Dreamer | 7.00% | ~67,367 |
+| Can't Touch This | 4.00% | ~38,496 |
+| Carménère Taster | 3.00% | ~28,872 |
+| Comeback | 3.00% | ~28,872 |
+| Marathonist | 3.00% | ~28,872 |
+| Living Legend | 3.00% | ~28,872 |
+| Driver from Ipanema | 2.00% | ~19,248 |
+| Pathfinder | 2.00% | ~19,248 |
+| Go-Kart Champion | 2.00% | ~19,248 |
+| Completionist | 2.00% | ~19,248 |
+| Supersonic | 2.00% | ~19,248 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,248 |
+| God of Roads | 1.00% | ~9,624 |
+| The Iceman | 1.00% | ~9,624 |
+| Oil Tycoon | 1.00% | ~9,624 |
+| Round the Globe | 1.00% | ~9,624 |
+| Golden Passport | 1.00% | ~9,624 |
+| Bollywood Star | 0.90% | ~8,662 |
+| Brave and Bold | 0.90% | ~8,662 |
 | Crocodile Hunter | 0.80% | ~7,699 |
 | Old Master | 0.80% | ~7,699 |
-| Volcano Surfer | 0.70% | ~6,736 |
-| Otaku | 0.70% | ~6,736 |
+| Volcano Surfer | 0.70% | ~6,737 |
+| Otaku | 0.70% | ~6,737 |
 | Survivor | 0.50% | ~4,812 |
 | King of the World | 0.50% | ~4,812 |
-| Getting Famous | 0.40% | ~3,849 |
+| Getting Famous | 0.40% | ~3,850 |
 | Master of the Racetrack | 0.20% | ~1,925 |
 | Now Go Play Outside | 0.20% | ~1,925 |
 | Transporter | 0.10% | ~962 |
 | Look Mom, No Hands! | 0.10% | ~962 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962,332 (Ranked 10)  
-Completed: 284 (0.03%) (Ranked 189)  
+Progressed: 962,391 (Ranked 10)  
+Completed: 285 (0.03%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,10 +88,10 @@ Completed: 284 (0.03%) (Ranked 189)
 | 2023-05-31 | 959,021 | 278 |
 | 2023-06-01 | 960,305 | 279 |
 | 2023-06-02 | 961,780 | 283 |
-| 2023-06-03 | 962,332 | 284 |
+| 2023-06-03 | 962,391 | 285 |
 ## Awards
 Max (Great for Beginners): 141  (Ranked 289)  
-Sum: 1,133 (Ranked 226)  
+Sum: 1,135 (Ranked 226)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -104,9 +104,9 @@ Diff (max vs sum): 63
 | This game has Playful Visuals | 102 |
 | This game is Extremely Fun | 95 |
 | This game has Amazing Characters | 86 |
-| This game has Amazing Storytelling | 83 |
+| This game has Amazing Storytelling | 84 |
 | This game has Diverse Characters | 75 |
-| This game has a Competitive Community | 68 |
+| This game has a Competitive Community | 69 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -240,4 +240,4 @@ Diff (max vs sum): 63
 | 2023-05-31 | 4.56 | - | 141 | 1,130 |
 | 2023-06-01 | 4.56 | - | 141 | 1,131 |
 | 2023-06-02 | 4.56 | - | 141 | 1,132 |
-| 2023-06-03 | 4.56 | - | 141 | 1,133 |
+| 2023-06-03 | 4.56 | - | 141 | 1,135 |

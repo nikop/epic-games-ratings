@@ -1364,9 +1364,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63371,
+  "EOS_Progressed": 63379,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4869,6 +4869,11 @@
       "Time": "2023-06-03T09:06:32.462541+00:00",
       "NumProgressed": 63371,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-03T10:05:46.6390321+00:00",
+      "NumProgressed": 63379,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5016,7 +5021,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -5032,7 +5037,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -5104,7 +5109,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "FREEZE_1_5",
@@ -5184,7 +5189,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "HARLEY_2",
@@ -5192,7 +5197,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "HARLEY_3",
@@ -5256,7 +5261,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -5264,7 +5269,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MYSTERY_01",
@@ -5272,7 +5277,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "MYSTERY_02",
@@ -5280,7 +5285,7 @@
       "Name": "Whispered Words",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "MYSTERY_03",
@@ -5367,13 +5372,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63371,
+      "Progressed": 63379,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33651,
+      "Progressed": 33659,
       "Completed": 2644
     }
   ],
@@ -5381,8 +5386,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-03T02:13:20.5301183+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:32.4625402+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:46.6390316+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:59:54.7893999+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:32.4626133+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:59:15.8829348+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:46.6391544+00:00"
 }

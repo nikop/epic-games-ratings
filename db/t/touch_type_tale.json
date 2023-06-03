@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2892,
+  "EOS_Progressed": 2893,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1729,6 +1729,11 @@
       "Time": "2023-06-03T09:06:29.6263956+00:00",
       "NumProgressed": 2892,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-03T10:05:44.0545106+00:00",
+      "NumProgressed": 2893,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1748,7 +1753,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "bonus3",
@@ -1788,7 +1793,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "campaign10",
@@ -1796,7 +1801,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "campaign11",
@@ -1812,7 +1817,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "campaign13",
@@ -1874,9 +1879,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2314
     },
     {
       "ID": "campaign20",
@@ -1900,7 +1905,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "campaign5",
@@ -1956,7 +1961,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "scenario3",
@@ -2003,7 +2008,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2892,
+      "Progressed": 2893,
       "Completed": 9
     }
   ],
@@ -2011,8 +2016,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:29.6263949+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:44.0545101+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:00:24.1076072+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:29.6264292+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:59:40.1310887+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:44.0545415+00:00"
 }

@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2112,
+  "EOS_Progressed": 2115,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2339,6 +2339,11 @@
       "Time": "2023-06-03T09:06:14.5353726+00:00",
       "NumProgressed": 2112,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T10:05:31.3281836+00:00",
+      "NumProgressed": 2115,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2350,7 +2355,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2374,7 +2379,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -2398,7 +2403,7 @@
       "Name": "Fields of Glory",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2430,7 +2435,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2478,7 +2483,7 @@
       "Name": "Skirmisher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -2502,7 +2507,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -2518,7 +2523,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2548,9 +2553,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2558,7 +2563,7 @@
       "Name": "Lord of War",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2574,7 +2579,7 @@
       "Name": "Resourceful",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2686,7 +2691,7 @@
       "Name": "Change the Channel",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2726,7 +2731,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2917,13 +2922,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2063,
+      "Progressed": 2066,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2112,
+      "Progressed": 2115,
       "Completed": 2
     }
   ],
@@ -2931,8 +2936,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-02T13:14:46.0082158+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:14.5353721+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:31.3281833+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:00:44.901368+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:14.5354545+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:59:57.1556687+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:31.3282595+00:00"
 }

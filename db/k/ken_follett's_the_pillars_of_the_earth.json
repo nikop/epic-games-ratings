@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12935,
+  "EOS_Progressed": 12937,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3284,6 +3284,11 @@
       "Time": "2023-06-03T09:06:02.4421068+00:00",
       "NumProgressed": 12935,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-03T10:05:20.9803197+00:00",
+      "NumProgressed": 12937,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 41,
@@ -3311,7 +3316,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "tpote_achievement_12",
@@ -3335,7 +3340,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "tpote_achievement_15",
@@ -3383,7 +3388,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "tpote_achievement_20",
@@ -3487,7 +3492,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "tpote_achievement_32",
@@ -3495,7 +3500,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "tpote_achievement_33",
@@ -3559,7 +3564,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5433
+      "UsersEstimate": 5434
     },
     {
       "ID": "tpote_achievement_40",
@@ -3591,7 +3596,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "tpote_achievement_7",
@@ -3599,7 +3604,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "tpote_achievement_8",
@@ -3622,15 +3627,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12935,
+      "Progressed": 12937,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:02.4421061+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:20.9803193+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:00:09.1641403+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:02.4421678+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:59:27.9806683+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:20.9803662+00:00"
 }

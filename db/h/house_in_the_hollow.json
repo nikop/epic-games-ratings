@@ -2,9 +2,9 @@
   "ID": "b82ffd0e681e4961bf2de33965e3b09f",
   "Name": "House In The Hollow",
   "ProductSlug": "house-in-the-hollow-2167d5",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -196,8 +196,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:29.3401151+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:23.8311264+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:39.054586+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:52.0351726+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:00:35.4899189+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:23.8311647+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:59:49.4512342+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:39.0545963+00:00"
 }

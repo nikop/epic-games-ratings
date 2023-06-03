@@ -2,9 +2,9 @@
   "ID": "e4cb896c77f842a3a75d2a19165f4ce5",
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T10:00:17.1628209+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -38,15 +43,15 @@
       "ID": "LEVEL_001",
       "SetID": "7jk5g4e",
       "Name": "Pit-house",
-      "Percentage": 200,
+      "Percentage": 150,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_003",
       "SetID": "7jk5g4e",
       "Name": "Smith house",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -54,7 +59,7 @@
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -127,13 +132,13 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:01:08.4320557+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:00:17.1628203+00:00",
   "LastUpdate_AppInfo": "2023-05-29T14:56:58.1088578+00:00",
-  "LastUpdate_Ratings": "2023-06-03T08:57:04.1216966+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:01:08.4320688+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:56:59.4791264+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:00:17.1628322+00:00"
 }

@@ -9,20 +9,20 @@
 | Seeds of War | 36.00% | ~28 |
 | No Diggity | 35.00% | ~9 |
 | Early Survivor | 32.00% | ~9 |
-| First Blood | 26.00% | ~20 |
+| First Blood | 27.00% | ~21 |
 | Amateur Survivor | 25.00% | ~7 |
 | No Asperascope | 23.00% | ~18 |
+| Triple Kill | 22.00% | ~17 |
 | Bouncemato | 22.00% | ~6 |
 | I Believe I Can Fly | 21.00% | ~16 |
-| Triple Kill | 21.00% | ~16 |
+| Cornivore | 21.00% | ~16 |
 | Quick-Draw Pod | 21.00% | ~6 |
-| Cornivore | 19.00% | ~15 |
 | Grave Digger | 17.00% | ~5 |
 | 15K | 13.00% | ~10 |
 | 10K | 13.00% | ~10 |
 | Professional Survivor | 13.00% | ~4 |
+| This Is My Boomstick | 12.00% | ~3 |
 | Drinking Problem | 10.00% | ~8 |
-| This Is My Boomstick | 10.00% | ~3 |
 | Oh My Gourd | 9.00% | ~2 |
 | Perfect | 9.00% | ~2 |
 | Expert Survivor | 9.00% | ~2 |

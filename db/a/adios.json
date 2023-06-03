@@ -48,10 +48,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59450,
+  "EOS_Progressed": 59452,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 1301,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1297,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
@@ -4553,6 +4553,11 @@
       "Time": "2023-06-03T09:06:21.7541963+00:00",
       "NumProgressed": 59450,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-06-03T10:05:37.2206002+00:00",
+      "NumProgressed": 59452,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 25,
@@ -4596,7 +4601,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12484
+      "UsersEstimate": 12485
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -4604,7 +4609,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10106
+      "UsersEstimate": 10107
     },
     {
       "ID": "Butcher",
@@ -4620,7 +4625,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "Fair\u0027sFair",
@@ -4652,7 +4657,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5350
+      "UsersEstimate": 5351
     },
     {
       "ID": "Magnetic Miracles",
@@ -4716,7 +4721,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7728
+      "UsersEstimate": 7729
     },
     {
       "ID": "Sniper",
@@ -4748,7 +4753,7 @@
       "Name": "Tape Head",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "Vinyl Vibes",
@@ -4763,7 +4768,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 59450,
+      "Progressed": 59452,
       "Completed": 498
     }
   ],
@@ -4771,8 +4776,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-06-03T09:06:21.7541956+00:00",
+  "LastChanged_Achievements": "2023-06-03T10:05:37.2206+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:01.1570188+00:00",
-  "LastUpdate_Ratings": "2023-06-03T09:00:43.6721383+00:00",
-  "LastUpdate_Achievements": "2023-06-03T09:06:21.7542603+00:00"
+  "LastUpdate_Ratings": "2023-06-03T09:59:56.1762284+00:00",
+  "LastUpdate_Achievements": "2023-06-03T10:05:37.2206399+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 79.00% | ~22 |
-| Killing Spree | 61.00% | ~17 |
-| 5Gb HDD | 43.00% | ~12 |
-| Merchant Prince I | 39.00% | ~11 |
-| Dominating | 29.00% | ~8 |
-| Fighting Fit I | 25.00% | ~7 |
+| First Blood | 76.00% | ~22 |
+| Killing Spree | 59.00% | ~17 |
+| 5Gb HDD | 41.00% | ~12 |
+| Merchant Prince I | 38.00% | ~11 |
+| Dominating | 28.00% | ~8 |
+| Fighting Fit I | 24.00% | ~7 |
 | The Vette | 21.00% | ~6 |
-| Rambo I | 18.00% | ~5 |
-| Mega Kill | 18.00% | ~5 |
-| 10Gb HDD | 18.00% | ~5 |
+| Rambo I | 17.00% | ~5 |
+| Mega Kill | 17.00% | ~5 |
+| 10Gb HDD | 17.00% | ~5 |
 | Stoic | 14.00% | ~4 |
 | Almost There I | 14.00% | ~4 |
-| Omicron Alpha | 11.00% | ~3 |
+| Omicron Alpha | 10.00% | ~3 |
 | Bronze Prince of Ball-air | 7.00% | ~2 |
 | Pacifist | 7.00% | ~2 |
 | Collateral Damage I | 7.00% | ~2 |
-| Diligent | 4.00% | ~1 |
-| Hoarder | 4.00% | ~1 |
-| Defrosted | 4.00% | ~1 |
-| Food Poisoning | 4.00% | ~1 |
-| Galactic Cadet | 4.00% | ~1 |
+| Diligent | 3.00% | ~1 |
+| Hoarder | 3.00% | ~1 |
+| Defrosted | 3.00% | ~1 |
+| Food Poisoning | 3.00% | ~1 |
+| Galactic Cadet | 3.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Fighting Fit II | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 323)  
+Progressed: 29 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,4 +156,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 23 | 0 |
 | 2023-06-01 | 25 | 0 |
 | 2023-06-02 | 26 | 0 |
-| 2023-06-03 | 28 | 0 |
+| 2023-06-03 | 29 | 0 |

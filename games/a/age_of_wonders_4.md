@@ -12,7 +12,7 @@ Rating: 4.54 (Ranked 487)
 | From Friends to Family | 68.00% | ~2,873 |
 | Magical Synergy | 64.00% | ~2,704 |
 | Bone Peddler | 60.00% | ~2,535 |
-| Stronger Together | 54.00% | ~2,282 |
+| Stronger Together | 55.00% | ~2,324 |
 | Full Ascension | 53.00% | ~2,239 |
 | There Can Only Be One! | 46.00% | ~1,944 |
 | Seat of Power | 46.00% | ~1,944 |

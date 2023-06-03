@@ -12,13 +12,13 @@ Number of Ratings: 87  (23.09.2022)
 | Juggler | 6.00% | ~44 |
 | To the eyeballs! | 6.00% | ~44 |
 | Forgot something | 5.00% | ~36 |
+| Mega-railroad | 5.00% | ~36 |
 | Non-Stop | 5.00% | ~36 |
 | Builder | 4.00% | ~29 |
 | Close call! | 4.00% | ~29 |
 | Common cause | 4.00% | ~29 |
 | Get out my way | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
-| Mega-railroad | 4.00% | ~29 |
 | Need to think | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
 | Bridgemania | 3.00% | ~22 |

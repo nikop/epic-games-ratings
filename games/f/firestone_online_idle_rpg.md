@@ -60,7 +60,7 @@ Rating: 3.95 (Ranked 903)
 | Active Member | 1.00% | ~13 |
 | Ebony Jungle Liberator | 1.00% | ~13 |
 | The Alchemist | 1.00% | ~13 |
-| Arena Challenger | 0.80% | ~10 |
+| Arena Challenger | 0.90% | ~11 |
 | Legendary | 0.80% | ~10 |
 | Training makes a Pro player | 0.70% | ~9 |
 | Transmute | 0.60% | ~8 |

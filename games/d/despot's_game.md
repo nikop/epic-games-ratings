@@ -14,7 +14,7 @@ Rating: 4.50 (Ranked 542)
 | The Return of a Rat | 40.00% | ~155 |
 | Through the Darkness | 40.00% | ~155 |
 | Fat of the Earth | 33.00% | ~128 |
-| Last Man Standing | 31.00% | ~120 |
+| Last Man Standing | 32.00% | ~124 |
 | Catch Jonathan_tostar | 27.00% | ~105 |
 | Great Hero | 26.00% | ~101 |
 | Campaigning | 25.00% | ~97 |

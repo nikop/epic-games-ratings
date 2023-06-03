@@ -15,7 +15,7 @@ Number of Ratings: 266  (23.09.2022)
 | Scourge Slayer | 25.00% | ~688 |
 | Science, Troglodyte! | 23.00% | ~633 |
 | Exceptional Skill | 22.00% | ~605 |
-| Home Sweet Home | 21.00% | ~578 |
+| Home Sweet Home | 22.00% | ~605 |
 | Encyclopedic! | 19.00% | ~523 |
 | A Fortress Toppled! | 16.00% | ~440 |
 | The Power of Family | 16.00% | ~440 |
