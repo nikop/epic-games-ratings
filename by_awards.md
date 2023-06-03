@@ -15,7 +15,7 @@
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,509 | 4.50 | 542 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 32,286 | 4.74 | 142 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,513 | 4.65 | 294 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,939 | 4.52 | 512 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,980 | 4.52 | 512 |
 | 17 | [Dauntless](games/d/dauntless.md) | 20,061 | 4.53 | 499 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 19,478 | 4.77 | 106 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,528 | 4.57 | 441 |
@@ -42,7 +42,7 @@
 | 40 | [Supraland](games/s/supraland.md) | 7,618 | 4.61 | 360 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,588 | 4.85 | 38 |
 | 42 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,408 | 4.58 | 421 |
-| 43 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,383 | 4.56 | 452 |
+| 43 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,392 | 4.56 | 452 |
 | 44 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,214 | 4.71 | 178 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,209 | 4.89 | 13 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,061 | 4.47 | 589 |
@@ -70,8 +70,8 @@
 | 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,530 | 4.70 | 194 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,329 | 4.70 | 194 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,303 | 4.70 | 194 |
-| 71 | [Chivalry 2](games/c/chivalry_2.md) | 4,159 | 4.61 | 360 |
-| 72 | [Dead Island 2](games/d/dead_island_2.md) | 4,144 | 4.54 | 487 |
+| 71 | [Dead Island 2](games/d/dead_island_2.md) | 4,175 | 4.54 | 487 |
+| 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,166 | 4.61 | 360 |
 | 73 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,095 | 4.51 | 528 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,069 | 4.77 | 106 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,028 | 4.88 | 19 |
@@ -83,7 +83,7 @@
 | 81 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,329 | 4.68 | 239 |
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,326 | 4.46 | 599 |
 | 83 | [Paladins](games/p/paladins.md) | 3,272 | 4.34 | 728 |
-| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,218 | 4.59 | 405 |
+| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,221 | 4.59 | 405 |
 | 85 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,215 | 4.76 | 118 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,107 | 4.57 | 441 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,103 | 4.68 | 239 |
@@ -117,7 +117,7 @@
 | 115 | [Celeste](games/c/celeste.md) | 1,468 | 4.92 | 4 |
 | 116 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,447 | 4.79 | 89 |
 | 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,383 | 4.87 | 26 |
-| 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,342 | 4.81 | 71 |
+| 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,342 | 4.82 | 63 |
 | 119 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,325 | 4.45 | 612 |
 | 120 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,299 | 4.70 | 194 |
 | 121 | [DOOM 64](games/d/doom_64.md) | 1,289 | 4.66 | 276 |
@@ -195,8 +195,8 @@
 | 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 448 | 4.66 | 276 |
 | 194 | [Prison Architect](games/p/prison_architect.md) | 432 | 4.61 | 360 |
 | 195 | [Second Extinction™](games/s/second_extinction™.md) | 428 | 4.04 | 887 |
-| 196 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 71 |
-| 197 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 413 | 4.24 | 796 |
+| 196 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 72 |
+| 197 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 415 | 4.24 | 796 |
 | 198 | [Loop Hero](games/l/loop_hero.md) | 412 | 4.68 | 239 |
 | 199 | [RimWorld](games/r/rimworld.md) | 410 | 4.89 | 13 |
 | 200 | [Into the Breach](games/i/into_the_breach.md) | 407 | 4.84 | 47 |
@@ -262,8 +262,8 @@
 | 260 | [MORDHAU](games/m/mordhau.md) | 199 | 4.41 | 665 |
 | 261 | [HITMAN](games/h/hitman.md) | 198 | 4.64 | 312 |
 | 262 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 197 | 4.80 | 77 |
-| 263 | [Relicta](games/r/relicta.md) | 195 | 4.15 | 853 |
-| 264 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 193 | 4.59 | 405 |
+| 263 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 196 | 4.59 | 405 |
+| 264 | [Relicta](games/r/relicta.md) | 195 | 4.15 | 853 |
 | 265 | [Crashlands](games/c/crashlands.md) | 190 | 4.66 | 276 |
 | 266 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 188 | 4.42 | 653 |
 | 267 | [Unrailed!](games/u/unrailed!.md) | 186 | 4.64 | 312 |
@@ -433,7 +433,7 @@
 | 430 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.55 | 473 |
 | 430 | [TUNIC](games/t/tunic.md) | 34 | 4.84 | 47 |
 | 433 | [DEATHLOOP](games/d/deathloop.md) | 33 | 4.54 | 487 |
-| 433 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.81 | 71 |
+| 433 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.81 | 72 |
 | 433 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 33 | 4.61 | 360 |
 | 433 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 830 |
 | 433 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.54 | 487 |
