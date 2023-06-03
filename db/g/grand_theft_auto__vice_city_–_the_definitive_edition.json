@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -376,7 +376,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7590,
+  "EOS_Progressed": 7592,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 2,
@@ -3376,6 +3376,11 @@
       "Time": "2023-06-03T18:03:41.1445417+00:00",
       "NumProgressed": 7590,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-03T19:03:19.1245226+00:00",
+      "NumProgressed": 7592,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3459,7 +3464,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH11",
@@ -3491,7 +3496,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "ACH15",
@@ -3547,7 +3552,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "ACH22",
@@ -3555,7 +3560,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACH23",
@@ -3603,7 +3608,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH29",
@@ -3658,7 +3663,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7590,
+      "Progressed": 7592,
       "Completed": 25
     }
   ],
@@ -3666,8 +3671,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-02T03:58:36.7858578+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:03:41.144541+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:03:19.1245222+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:58:23.6438718+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:03:41.1445837+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:58:12.884244+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:03:19.124564+00:00"
 }

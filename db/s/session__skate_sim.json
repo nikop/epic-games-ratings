@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -658,9 +658,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2227,
+  "EOS_Progressed": 2228,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1878,6 +1878,11 @@
       "Time": "2023-06-03T18:05:50.0544917+00:00",
       "NumProgressed": 2227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T19:05:27.0641468+00:00",
+      "NumProgressed": 2228,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2105,7 +2110,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -2201,7 +2206,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -2265,22 +2270,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2227,
+      "Progressed": 2228,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-02T19:58:37.4330891+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:05:50.0544913+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:05:27.0641463+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:59:03.7460984+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:05:50.0545371+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:58:51.8847369+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:05:27.0641913+00:00"
 }

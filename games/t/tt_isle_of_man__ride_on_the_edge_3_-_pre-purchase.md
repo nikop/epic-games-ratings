@@ -13,13 +13,13 @@
 | No Room for Improvement | 8.00% | ~5 |
 | Seven-League Boots | 6.00% | ~4 |
 | Highly Qualified | 6.00% | ~4 |
+| Upgradeaholic | 6.00% | ~4 |
 | Start Your Engines | 6.00% | ~4 |
 | Playing God | 6.00% | ~4 |
 | Nerd | 5.00% | ~3 |
 | First and Foremost | 5.00% | ~3 |
 | Made Mother Proud | 5.00% | ~3 |
 | Winner Winner Chicken Dinner | 5.00% | ~3 |
-| Upgradeaholic | 5.00% | ~3 |
 | Tailor-Made for Two | 5.00% | ~3 |
 | Lone Wolf | 5.00% | ~3 |
 | Déjà-Vu | 3.00% | ~2 |
@@ -45,7 +45,7 @@
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66 (Ranked 296)  
-Completed: 1 (1.52%) (Ranked 73)  
+Completed: 1 (1.52%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

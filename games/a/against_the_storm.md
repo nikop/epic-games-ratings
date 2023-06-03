@@ -52,12 +52,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.20% | ~30 |
 | Harpy Utopia | 0.20% | ~30 |
 | The Queen's Chosen | 0.20% | ~30 |
+| Treasure | 0.20% | ~30 |
 | Ruins | 0.20% | ~30 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
-| Treasure | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,154 (Ranked 100)  
+Progressed: 15,156 (Ranked 100)  
 Completed: 33 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-05-31 | 15,102 | 33 |
 | 2023-06-01 | 15,121 | 33 |
 | 2023-06-02 | 15,142 | 33 |
-| 2023-06-03 | 15,154 | 33 |
+| 2023-06-03 | 15,156 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,036 (Ranked 152)  

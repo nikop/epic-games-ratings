@@ -13,17 +13,17 @@ Rating: 4.44 (Ranked 630)
 | Resourceful | 11.00% | ~237 |
 | Change the Channel | 11.00% | ~237 |
 | Taking it back | 9.00% | ~194 |
-| Organ Grinder | 8.00% | ~172 |
-| As Quiet as a Mouse | 8.00% | ~172 |
-| Target America | 8.00% | ~172 |
+| Organ Grinder | 8.00% | ~173 |
+| As Quiet as a Mouse | 8.00% | ~173 |
+| Target America | 8.00% | ~173 |
 | Enemy at the Gates | 7.00% | ~151 |
 | Just a Flesh Wound | 7.00% | ~151 |
 | Explosive Efficiency | 7.00% | ~151 |
 | Liberté | 6.00% | ~129 |
+| Opposing Force | 6.00% | ~129 |
 | Gunslinger | 6.00% | ~129 |
 | Sharpshooter | 6.00% | ~129 |
 | The Kraken Sleeps | 6.00% | ~129 |
-| Opposing Force | 5.00% | ~108 |
 | Die Nussknacker Sweet! | 5.00% | ~108 |
 | Der Geist | 5.00% | ~108 |
 | Close Quarters | 5.00% | ~108 |
@@ -46,9 +46,9 @@ Rating: 4.44 (Ranked 630)
 | Locomotion Commotion | 0.90% | ~19 |
 | Don't hold your breath | 0.90% | ~19 |
 | Tinkerer | 0.70% | ~15 |
+| Siegebreaker | 0.70% | ~15 |
 | Ghost of Falaise | 0.70% | ~15 |
 | Last Resort | 0.60% | ~13 |
-| Siegebreaker | 0.60% | ~13 |
 | From Paris with Love | 0.50% | ~11 |
 | Burn after reading | 0.50% | ~11 |
 | Souvenir hunter | 0.40% | ~9 |
@@ -62,6 +62,7 @@ Rating: 4.44 (Ranked 630)
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~4 |
 | Covert Elimination | 0.20% | ~4 |
+| Best of the Best | 0.10% | ~2 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
 | Out of Scope | 0.10% | ~2 |
@@ -70,14 +71,13 @@ Rating: 4.44 (Ranked 630)
 | Alpha | 0.10% | ~2 |
 | Das Familienjuwel | 0.10% | ~2 |
 | Operation Overlord | 0.10% | ~2 |
-| Best of the Best | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,155 (Ranked 149)  
+Progressed: 2,157 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,155 | 2 |
+| 2023-06-03 | 2,157 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

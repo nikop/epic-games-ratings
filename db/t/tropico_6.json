@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -876,9 +876,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3357,
+  "EOS_Progressed": 3358,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3541,6 +3541,11 @@
       "Time": "2023-06-03T18:03:18.061503+00:00",
       "NumProgressed": 3357,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T19:02:15.9616276+00:00",
+      "NumProgressed": 3358,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3648,7 +3653,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3672,7 +3677,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3712,7 +3717,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3736,7 +3741,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -3808,7 +3813,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3871,15 +3876,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3357,
+      "Progressed": 3358,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-03T13:04:44.6686882+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:03:18.0615026+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:02:15.9616271+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:59:59.1224963+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:03:18.0615484+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:59:46.1175102+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:02:15.9616685+00:00"
 }

@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 1099,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1615,9 +1615,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 253
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1816,8 +1816,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-03T17:57:40.7372118+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:04:05.3359405+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:03:42.8463624+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:57:40.7372122+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:04:05.3359871+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:57:29.5811204+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:03:42.8464058+00:00"
 }

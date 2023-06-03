@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "deathlooper",
@@ -296,8 +296,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:06:00.8878578+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:05:37.2602715+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:21.7685384+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:59:48.9547675+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:06:00.8878703+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:59:35.4635688+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:05:37.2602859+00:00"
 }

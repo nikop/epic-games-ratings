@@ -17,8 +17,8 @@ Number of Ratings: 28  (23.09.2022)
 | Just in time! | 34.00% | ~99 |
 | Europe | 32.00% | ~93 |
 | It's no coincidence. | 32.00% | ~93 |
+| Philatelist | 28.00% | ~82 |
 | Let's roll! | 28.00% | ~82 |
-| Philatelist | 27.00% | ~79 |
 | Ouroboros | 27.00% | ~79 |
 | Non Stop! | 27.00% | ~79 |
 | Madness! | 25.00% | ~73 |
@@ -28,8 +28,8 @@ Number of Ratings: 28  (23.09.2022)
 | America | 18.00% | ~53 |
 | Sabotage | 18.00% | ~53 |
 | Woodcutter | 13.00% | ~38 |
+| Engineer | 13.00% | ~38 |
 | Achtung! | 13.00% | ~38 |
-| Engineer | 12.00% | ~35 |
 | Japan | 10.00% | ~29 |
 | Tycoon | 8.00% | ~23 |
 | Germany | 8.00% | ~23 |

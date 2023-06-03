@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 355,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.23,
   "EosHistory": [
@@ -1070,9 +1070,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "MQ03_5",
@@ -1166,9 +1166,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 135
     },
     {
       "ID": "MQ07_1",
@@ -1206,9 +1206,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "PLTN",
@@ -1231,8 +1231,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:04:12.9065017+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:03:50.4463943+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:57:33.8965971+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:04:12.9065301+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:57:22.3082615+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:03:50.4464167+00:00"
 }

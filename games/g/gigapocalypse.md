@@ -17,8 +17,8 @@
 | Overwhelming Power | 53.00% | ~73 |
 | Impenetrable Skin | 50.00% | ~69 |
 | Chomp Chomp! | 41.00% | ~57 |
+| Glorious Battle | 40.00% | ~55 |
 | Supreme Power | 39.00% | ~54 |
-| Glorious Battle | 39.00% | ~54 |
 | The Duelist | 38.00% | ~52 |
 | Diaper Time! | 38.00% | ~52 |
 | Target Practice | 38.00% | ~52 |

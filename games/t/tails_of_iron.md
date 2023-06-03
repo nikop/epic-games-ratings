@@ -6,26 +6,26 @@ Rating: 4.51 (Ranked 528)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 78.00% | ~1,225 |
-| Become King | 70.00% | ~1,099 |
-| Defeat 25 Frogs | 60.00% | ~942 |
-| Ranged Weapon | 59.00% | ~926 |
-| Collect Monster Parts | 56.00% | ~879 |
+| Become King | 70.00% | ~1,100 |
+| Defeat 25 Frogs | 60.00% | ~943 |
+| Ranged Weapon | 59.00% | ~927 |
+| Collect Monster Parts | 56.00% | ~880 |
 | Two Handed Weapon | 54.00% | ~848 |
 | Defeat 25 Grubs | 51.00% | ~801 |
-| Rescue Redgi's Brothers | 50.00% | ~785 |
-| Collect Iron Ore | 45.00% | ~706 |
-| Kitchen Ready To Cook | 45.00% | ~706 |
+| Rescue Redgi's Brothers | 50.00% | ~786 |
+| Collect Iron Ore | 45.00% | ~707 |
+| Kitchen Ready To Cook | 45.00% | ~707 |
 | Defeat 25 Mozis | 44.00% | ~691 |
-| Collect Gold | 43.00% | ~675 |
-| Smithy Ready to Craft | 43.00% | ~675 |
-| Fix the Travellers Wagon | 42.00% | ~659 |
-| Complete Elder Faction | 39.00% | ~612 |
-| End of the Mozis | 36.00% | ~565 |
-| Throne Room Fit For A King | 36.00% | ~565 |
+| Collect Gold | 43.00% | ~676 |
+| Smithy Ready to Craft | 43.00% | ~676 |
+| Fix the Travellers Wagon | 42.00% | ~660 |
+| Complete Elder Faction | 39.00% | ~613 |
+| End of the Mozis | 36.00% | ~566 |
+| Throne Room Fit For A King | 36.00% | ~566 |
 | Return Power To The Depths | 34.00% | ~534 |
 | Meet the Creatures from the Deep | 33.00% | ~518 |
 | Defeat Ratnor Rodentson | 28.00% | ~440 |
-| Return the Statues | 25.00% | ~392 |
+| Return the Statues | 25.00% | ~393 |
 | Defeat Rattus Augustail | 24.00% | ~377 |
 | Complete the Chefs Book | 23.00% | ~361 |
 | Complete Ranger Faction | 20.00% | ~314 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 528)
 | King of Kings | 7.00% | ~110 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,570 (Ranked 158)  
+Progressed: 1,571 (Ranked 158)  
 Completed: 6 (0.38%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 6 (0.38%) (Ranked 116)
 | 2023-05-31 | 1,529 | 6 |
 | 2023-06-01 | 1,537 | 6 |
 | 2023-06-02 | 1,555 | 6 |
-| 2023-06-03 | 1,570 | 6 |
+| 2023-06-03 | 1,571 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

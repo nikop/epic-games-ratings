@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2155,
+  "EOS_Progressed": 2157,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2390,6 +2390,11 @@
       "Time": "2023-06-03T18:05:54.3448166+00:00",
       "NumProgressed": 2155,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T19:05:31.2334659+00:00",
+      "NumProgressed": 2157,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2415,9 +2420,9 @@
       "ID": "REWARD_12_BEST_OF_THE_BEST",
       "SetID": "bm6el81",
       "Name": "Best of the Best",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_13_OPTIONAL_TASK",
@@ -2431,9 +2436,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2465,7 +2470,7 @@
       "Name": "Organ Grinder",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2641,7 +2646,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2793,7 +2798,7 @@
       "Name": "Target America",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2895,9 +2900,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2968,13 +2973,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2106,
+      "Progressed": 2108,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2155,
+      "Progressed": 2157,
       "Completed": 2
     }
   ],
@@ -2982,8 +2987,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:05:54.3448164+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:05:31.2334654+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:00:19.001936+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:05:54.3448831+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:00:06.1077327+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:05:31.2335456+00:00"
 }

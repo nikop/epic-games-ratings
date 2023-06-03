@@ -524,9 +524,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14391,
+  "EOS_Progressed": 14397,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2624,6 +2624,11 @@
       "Time": "2023-06-03T18:04:18.6590635+00:00",
       "NumProgressed": 14391,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T19:03:56.2742216+00:00",
+      "NumProgressed": 14397,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2651,7 +2656,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2667,7 +2672,7 @@
       "Name": "Flesh Wound",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2737,9 +2742,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 720
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2763,7 +2768,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "KILL_ROBOT",
@@ -2779,7 +2784,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2803,7 +2808,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2811,7 +2816,7 @@
       "Name": "Paper Jams",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2827,7 +2832,7 @@
       "Name": "The Outer Way",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2835,7 +2840,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "STORY_HABITAT",
@@ -2867,7 +2872,7 @@
       "Name": "Desperate Times",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2954,13 +2959,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14391,
+      "Progressed": 14397,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2317,
+      "Progressed": 2323,
       "Completed": 29
     }
   ],
@@ -2968,8 +2973,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T02:11:24.6577138+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:04:18.6590632+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:03:56.2742212+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:58:02.2190763+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:04:18.6591031+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:57:51.5592841+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:03:56.2742646+00:00"
 }

@@ -233,9 +233,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "04_tycoon",
@@ -465,9 +465,9 @@
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "33_peacemaker",
@@ -537,8 +537,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:04:32.1478851+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:04:09.7443731+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.3694729+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:57:51.2639013+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:04:32.147915+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:57:40.8901134+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:04:09.7444104+00:00"
 }

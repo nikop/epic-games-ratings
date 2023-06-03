@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 91,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2023-06-03T16:00:28.669863+00:00",
       "NumProgressed": 282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T19:00:22.6694808+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1199,9 +1204,9 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "Clothes10",
@@ -1321,7 +1326,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Packing20",
@@ -1401,7 +1406,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "TrattoriaSet",
@@ -1464,7 +1469,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 0
     }
   ],
@@ -1472,8 +1477,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:00:32.6980504+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:00:22.6694803+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.5369331+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:58:29.8522611+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:00:32.6980938+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:58:20.1256679+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:00:22.6695233+00:00"
 }

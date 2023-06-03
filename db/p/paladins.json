@@ -2,7 +2,7 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "ProductSlug": "paladins",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 433,
@@ -4833,6 +4833,6 @@
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
   "LastChanged": "2023-06-03T18:00:18.3908515+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:01.849477+00:00",
-  "LastUpdate_Ratings": "2023-06-03T18:00:18.390852+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:05:29.3539377+00:00"
+  "LastUpdate_Ratings": "2023-06-03T19:00:05.3016803+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:05:05.8932962+00:00"
 }

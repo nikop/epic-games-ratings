@@ -48,6 +48,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Liberator | 0.10% | ~460 |
 | The Art of War | 0.10% | ~460 |
 | Geno Mastery | 0.10% | ~460 |
+| Geno Supremacy | 0.10% | ~460 |
 | Hammer Mastery | 0.10% | ~460 |
 | Hammer Supremacy | 0.10% | ~460 |
 | Void Supremacy | 0.10% | ~460 |
@@ -80,13 +81,12 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kronos Supremacy | 0.10% | ~4 |
 | Horus Rule | 0.10% | ~4 |
 | Kronos Rule | 0.10% | ~4 |
-| Geno Supremacy | 0.00% | ~0 |
 | Jericho Mastery | 0.00% | ~0 |
 | Jericho Supremacy | 0.00% | ~0 |
 | Void Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,739 (Ranked 33)  
+Progressed: 459,747 (Ranked 33)  
 Completed: 14 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 14 (0.00%) (Ranked 211)
 | 2023-05-31 | 459,531 | 14 |
 | 2023-06-01 | 459,598 | 14 |
 | 2023-06-02 | 459,674 | 14 |
-| 2023-06-03 | 459,739 | 14 |
+| 2023-06-03 | 459,747 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

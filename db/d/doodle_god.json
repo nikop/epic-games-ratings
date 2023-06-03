@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.83,
+  "EOS_Completed_Percentage": 3.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-06-03T17:06:49.2841102+00:00",
       "NumProgressed": 209,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-03T19:05:33.7859164+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -127,7 +132,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "605742",
@@ -135,7 +140,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "605752",
@@ -143,7 +148,7 @@
       "Name": "Creator of Life",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "605762",
@@ -159,7 +164,7 @@
       "Name": "Creator of Civilization",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "605782",
@@ -183,7 +188,7 @@
       "Name": "Creator of Magic",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "605812",
@@ -207,7 +212,7 @@
       "Name": "Deity of Darkness",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "605842",
@@ -239,7 +244,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "605892",
@@ -247,7 +252,7 @@
       "Name": "Similar to Similar",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "605912",
@@ -302,7 +307,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 8
     }
   ],
@@ -310,8 +315,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:05:57.2511404+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:05:33.7859159+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:46.6877833+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:59:20.7021102+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:05:57.2511537+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:59:10.8126667+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:05:33.7859452+00:00"
 }

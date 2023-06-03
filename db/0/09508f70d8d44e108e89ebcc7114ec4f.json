@@ -3,9 +3,9 @@
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 151,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Progressed": 155,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 152,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -296,6 +296,11 @@
       "Time": "2023-06-03T18:03:36.3399287+00:00",
       "NumProgressed": 154,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T19:03:14.3568053+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -307,7 +312,7 @@
       "Name": "Aquatic Farm",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "balloon",
@@ -321,25 +326,25 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "brewery",
       "SetID": "ap7g2g4",
       "Name": "Brewery",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 124
     },
     {
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "circus",
@@ -353,9 +358,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "fish_trade",
@@ -369,9 +374,9 @@
       "ID": "fishing_house",
       "SetID": "ap7g2g4",
       "Name": "Big fishing house",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "fun!",
@@ -385,9 +390,9 @@
       "ID": "hope_farm",
       "SetID": "ap7g2g4",
       "Name": "Hope farm",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "marketplace",
@@ -401,9 +406,9 @@
       "ID": "match_12",
       "SetID": "ap7g2g4",
       "Name": "Match 12",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "match_3",
@@ -411,7 +416,7 @@
       "Name": "Match 3",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "match_6",
@@ -419,39 +424,39 @@
       "Name": "Match 6",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "match_9",
       "SetID": "ap7g2g4",
       "Name": "Match 9",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "mill",
       "SetID": "ap7g2g4",
       "Name": "Mill",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 119
     },
     {
       "ID": "sawmill",
       "SetID": "ap7g2g4",
       "Name": "Sawmill",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 138
     },
     {
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "tavern",
@@ -465,9 +470,9 @@
       "ID": "village",
       "SetID": "ap7g2g4",
       "Name": "Village",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "water_platform",
@@ -475,37 +480,37 @@
       "Name": "Water platform",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 154,
-      "Completed": 2
+      "Progressed": 155,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:03:36.3399283+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:03:14.3568048+00:00",
   "LastUpdate_AppInfo": "2023-06-01T11:57:15.3558567+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:57:22.7354525+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:03:36.3399484+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:57:11.3738625+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:03:14.3568235+00:00"
 }

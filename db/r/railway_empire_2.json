@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -996,6 +996,11 @@
       "Time": "2023-06-03T18:06:04.270089+00:00",
       "NumProgressed": 793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T19:05:40.8290981+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1037,9 +1042,9 @@
       "ID": "A04",
       "SetID": "9b7p7eo",
       "Name": "Go West",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "A05",
@@ -1085,9 +1090,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 564
     },
     {
       "ID": "A11",
@@ -1103,7 +1108,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "A13",
@@ -1119,7 +1124,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "A15",
@@ -1167,7 +1172,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "A21",
@@ -1183,7 +1188,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "A23",
@@ -1231,7 +1236,7 @@
       "Name": "We brake for nobody",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "A29",
@@ -1253,9 +1258,9 @@
       "ID": "A31",
       "SetID": "9b7p7eo",
       "Name": "Hostile Takeover",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 159
     },
     {
       "ID": "A32",
@@ -1295,7 +1300,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "A37",
@@ -1311,7 +1316,7 @@
       "Name": "Poor Devil",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "A39",
@@ -1335,23 +1340,23 @@
       "Name": "Right through the middle",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 294
     },
     {
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 191
     },
     {
       "ID": "A44",
@@ -1375,15 +1380,15 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 500
     },
     {
       "ID": "A48",
@@ -1399,7 +1404,7 @@
       "Name": "Financial Shark",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "A50",
@@ -1446,14 +1451,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:06:04.2700885+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:05:40.8290976+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:58:13.2834728+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:06:04.27014+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:58:01.3195548+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:05:40.8291522+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~402 |
+| Home Sweet Home | 96.00% | ~406 |
 | A Friend in Need | 61.00% | ~258 |
 | Surviving | 43.00% | ~182 |
 | Detox diet | 40.00% | ~169 |
@@ -20,8 +20,8 @@
 | Maternity | 16.00% | ~68 |
 | Family Reunion | 15.00% | ~63 |
 | Beyond Words | 15.00% | ~63 |
+| Barking in The Rain | 15.00% | ~63 |
 | Never Run Around | 14.00% | ~59 |
-| Barking in The Rain | 14.00% | ~59 |
 | Three Little Foxes | 11.00% | ~47 |
 | Two Peas in a Pod | 11.00% | ~47 |
 | All For One | 11.00% | ~47 |

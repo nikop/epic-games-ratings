@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Super Seducer | 52.00% | ~82 |
-| Congratulations, you are a sadist | 49.00% | ~77 |
+| Congratulations, you are a sadist | 50.00% | ~78 |
 | Um, ok... | 47.00% | ~74 |
 | Superstar-crossed lovers | 40.00% | ~63 |
 | Comedy Killer | 34.00% | ~53 |

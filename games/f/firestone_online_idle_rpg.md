@@ -5,18 +5,18 @@ Rating: 3.95 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,187 |
-| World Map | 80.00% | ~1,010 |
-| Temple of Eternals | 56.00% | ~707 |
-| Prestigious | 53.00% | ~669 |
-| Fellowship Power | 40.00% | ~505 |
-| Guild Power | 24.00% | ~303 |
-| Prestigious x10 | 21.00% | ~265 |
+| Victor | 94.00% | ~1,189 |
+| World Map | 80.00% | ~1,012 |
+| Temple of Eternals | 56.00% | ~708 |
+| Prestigious | 53.00% | ~670 |
+| Fellowship Power | 40.00% | ~506 |
+| Guild Power | 24.00% | ~304 |
+| Prestigious x10 | 21.00% | ~266 |
 | The game is on | 19.00% | ~240 |
 | Exotic Merchant | 17.00% | ~215 |
 | Dragon Clicker | 16.00% | ~202 |
 | Miner Clicker | 16.00% | ~202 |
-| Inspection | 15.00% | ~189 |
+| Inspection | 15.00% | ~190 |
 | Full Party | 14.00% | ~177 |
 | Dragon Master | 13.00% | ~164 |
 | Enlightenment | 13.00% | ~164 |
@@ -30,9 +30,9 @@ Rating: 3.95 (Ranked 903)
 | Scientist | 9.00% | ~114 |
 | Challenger | 8.00% | ~101 |
 | Daily Quest Completionist | 8.00% | ~101 |
-| Hunter | 7.00% | ~88 |
-| Scroll Master | 7.00% | ~88 |
-| The power of Awakening | 7.00% | ~88 |
+| Hunter | 7.00% | ~89 |
+| Scroll Master | 7.00% | ~89 |
+| The power of Awakening | 7.00% | ~89 |
 | Doing My Part | 6.00% | ~76 |
 | Frostfire Liberator | 6.00% | ~76 |
 | Mastery | 6.00% | ~76 |
@@ -49,12 +49,12 @@ Rating: 3.95 (Ranked 903)
 | The father of Dragons | 4.00% | ~51 |
 | Weekly Quest Completionist | 4.00% | ~51 |
 | Dragon Slayer | 3.00% | ~38 |
+| Enchanting skill | 3.00% | ~38 |
 | Engineer Mastery | 3.00% | ~38 |
 | Lock And Load | 3.00% | ~38 |
 | Master Enchanter | 3.00% | ~38 |
 | Blueprint Upgrades | 2.00% | ~25 |
 | Crystal Mining | 2.00% | ~25 |
-| Enchanting skill | 2.00% | ~25 |
 | Sailor | 2.00% | ~25 |
 | What lies behind the bush | 2.00% | ~25 |
 | Active Member | 1.00% | ~13 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 903)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,263 (Ranked 161)  
+Progressed: 1,265 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-05-31 | 1,239 | 1 |
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
-| 2023-06-03 | 1,263 | 1 |
+| 2023-06-03 | 1,265 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

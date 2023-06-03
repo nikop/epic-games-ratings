@@ -17,11 +17,11 @@
 | Horror Show | 19.00% | ~10 |
 | Night Bird | 15.00% | ~8 |
 | Demolition Ambition | 11.00% | ~6 |
+| Punchy Wagon | 8.00% | ~4 |
 | Kill All Humans! | 8.00% | ~4 |
 | Midair Affair | 6.00% | ~3 |
 | Hindenburgerer | 6.00% | ~3 |
 | Plight of the Valkyrie | 6.00% | ~3 |
-| Punchy Wagon | 6.00% | ~3 |
 | Trash the Planet. | 6.00% | ~3 |
 | Demolition Exhibition | 4.00% | ~2 |
 | Rocket Science | 4.00% | ~2 |

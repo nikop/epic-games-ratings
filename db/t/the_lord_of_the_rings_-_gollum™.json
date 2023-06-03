@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 391,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -653,9 +653,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 239
     },
     {
       "ID": "Chapter10",
@@ -924,8 +924,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:05:42.5011156+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:05:19.1235484+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:57:56.3423313+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:05:42.5011514+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:57:46.1446062+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:05:19.1235806+00:00"
 }

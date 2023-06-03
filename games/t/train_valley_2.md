@@ -83,7 +83,7 @@ Number of Ratings: 87  (23.09.2022)
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 725 (Ranked 186)  
-Completed: 1 (0.14%) (Ranked 156)  
+Completed: 1 (0.14%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,8 +106,8 @@ Completed: 1 (0.14%) (Ranked 156)
 | 2023-06-03 | 725 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 365)  
-Sum: 71 (Ranked 420)  
-Diff (max vs sum): -55  
+Sum: 71 (Ranked 421)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 71 |

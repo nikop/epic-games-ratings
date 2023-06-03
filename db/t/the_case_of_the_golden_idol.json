@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "7",
@@ -485,8 +485,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-03T18:03:43.291134+00:00",
+  "LastChanged_Achievements": "2023-06-03T19:03:21.2859118+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.2051339+00:00",
-  "LastUpdate_Ratings": "2023-06-03T17:58:47.0892736+00:00",
-  "LastUpdate_Achievements": "2023-06-03T18:03:43.2911489+00:00"
+  "LastUpdate_Ratings": "2023-06-03T18:58:35.3750776+00:00",
+  "LastUpdate_Achievements": "2023-06-03T19:03:21.2859233+00:00"
 }

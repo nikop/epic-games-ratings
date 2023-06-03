@@ -6,23 +6,23 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,303 |
-| Powergamer | 27.00% | ~62,007 |
-| Barely scratched the surface | 25.00% | ~57,414 |
-| Write that down | 24.00% | ~55,117 |
-| Guns, lots of guns | 12.00% | ~27,559 |
-| Collector | 11.00% | ~25,262 |
-| Elementary! | 8.00% | ~18,372 |
-| Pumpkin Jack | 8.00% | ~18,372 |
-| Wake up! | 8.00% | ~18,372 |
-| It's honest work | 7.00% | ~16,076 |
-| Griever | 7.00% | ~16,076 |
-| Me smart | 6.00% | ~13,779 |
+| I will finish what you started | 28.00% | ~64,306 |
+| Powergamer | 27.00% | ~62,010 |
+| Barely scratched the surface | 25.00% | ~57,416 |
+| Write that down | 24.00% | ~55,120 |
+| Guns, lots of guns | 12.00% | ~27,560 |
+| Collector | 11.00% | ~25,263 |
+| Elementary! | 8.00% | ~18,373 |
+| Pumpkin Jack | 8.00% | ~18,373 |
+| Wake up! | 8.00% | ~18,373 |
+| It's honest work | 7.00% | ~16,077 |
+| Griever | 7.00% | ~16,077 |
+| Me smart | 6.00% | ~13,780 |
 | Good listener | 5.00% | ~11,483 |
 | Trash compactor | 5.00% | ~11,483 |
 | Valedictorian | 5.00% | ~11,483 |
-| BOY! | 4.00% | ~9,186 |
-| Ka-ching! | 4.00% | ~9,186 |
+| BOY! | 4.00% | ~9,187 |
+| Ka-ching! | 4.00% | ~9,187 |
 | I like to sniff around | 3.00% | ~6,890 |
 | Mind reader | 3.00% | ~6,890 |
 | So you like to read? | 3.00% | ~6,890 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~459 |
 | Memory 5 | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,655 (Ranked 44)  
+Progressed: 229,665 (Ranked 44)  
 Completed: 5 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,11 +103,11 @@ Completed: 5 (0.00%) (Ranked 211)
 | 2023-05-31 | 229,049 | 5 |
 | 2023-06-01 | 229,259 | 5 |
 | 2023-06-02 | 229,468 | 5 |
-| 2023-06-03 | 229,655 | 5 |
+| 2023-06-03 | 229,665 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 360)  
-Sum: 73 (Ranked 418)  
-Diff (max vs sum): -58  
+Sum: 73 (Ranked 419)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 73 |

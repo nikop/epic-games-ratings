@@ -19,8 +19,8 @@
 | Quick-Draw Pod | 20.00% | ~6 |
 | Grave Digger | 17.00% | ~5 |
 | This Is My Boomstick | 15.00% | ~5 |
-| 15K | 12.00% | ~10 |
-| 10K | 12.00% | ~10 |
+| 15K | 14.00% | ~11 |
+| 10K | 14.00% | ~11 |
 | Professional Survivor | 12.00% | ~4 |
 | Drinking Problem | 10.00% | ~8 |
 | Oh My Gourd | 10.00% | ~3 |

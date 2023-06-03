@@ -16,7 +16,7 @@
 | Another Brick in the Wall (Part 3) | 37.00% | ~32 |
 | Burning Bridges | 27.00% | ~23 |
 | The Last Few Bricks | 27.00% | ~23 |
-| The Dogs of War | 10.00% | ~9 |
+| The Dogs of War | 12.00% | ~10 |
 | I'm a King Bee | 7.00% | ~6 |
 | What Shall We Do Now? | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
