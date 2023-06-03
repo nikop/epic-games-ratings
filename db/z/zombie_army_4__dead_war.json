@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1575,9 +1575,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42578,
+  "EOS_Progressed": 42579,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3110,6 +3110,11 @@
       "Time": "2023-06-03T19:05:47.8972739+00:00",
       "NumProgressed": 42578,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-03T21:06:26.1453925+00:00",
+      "NumProgressed": 42579,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3145,7 +3150,7 @@
       "Name": "Plane sailing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "SE_COMPLETE_A_LEVEL_WITH_5_GOLD_SKILLS",
@@ -3161,7 +3166,7 @@
       "Name": "Bad Blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6812
+      "UsersEstimate": 6813
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -3185,7 +3190,7 @@
       "Name": "This is no Sunday School picnic!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "SE_COMPLETE_CROATIA",
@@ -3209,7 +3214,7 @@
       "Name": "I never redoubted you!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "SE_COMPLETE_DEEPER_THAN_HELL",
@@ -3313,7 +3318,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26398
+      "UsersEstimate": 26399
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3337,7 +3342,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18734
+      "UsersEstimate": 18735
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3369,7 +3374,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20437
+      "UsersEstimate": 20438
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -3377,7 +3382,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14902
+      "UsersEstimate": 14903
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -3425,7 +3430,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21289
+      "UsersEstimate": 21290
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3449,7 +3454,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28953
+      "UsersEstimate": 28954
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -3457,7 +3462,7 @@
       "Name": "Gotcha, didn\u0027t I?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
@@ -3465,7 +3470,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12773
+      "UsersEstimate": 12774
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -3513,7 +3518,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18734
+      "UsersEstimate": 18735
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3545,7 +3550,7 @@
       "Name": "A gross gross",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "SE_PERFORM_ALL_HEROIC_ACTIONS",
@@ -3569,7 +3574,7 @@
       "Name": "Hail to the king, baby!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "SE_REACH_RANK_5",
@@ -3648,15 +3653,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42578,
+      "Progressed": 42579,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-03T17:00:32.0975589+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:06:24.7227658+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:06:26.1453921+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:00:02.2301535+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:06:24.7228481+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:59:49.4770318+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:06:26.1454524+00:00"
 }

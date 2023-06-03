@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -75,7 +75,7 @@
   "Tags": [],
   "EOS_Progressed": 319,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -430,9 +430,9 @@
       "ID": "GB_FIRST_BLOOD",
       "SetID": "8ga3kd9",
       "Name": "FIRST BLOOD",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 249
     },
     {
       "ID": "GB_GOURMET",
@@ -486,9 +486,9 @@
       "ID": "GB_INDIVIDUAL_APPROACH",
       "SetID": "8ga3kd9",
       "Name": "INDIVIDUAL APPROACH",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -615,8 +615,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:01:18.9533628+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:02:12.0830934+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.5026892+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:58:22.9371729+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:01:18.9533886+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:58:17.4968387+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:02:12.0831108+00:00"
 }

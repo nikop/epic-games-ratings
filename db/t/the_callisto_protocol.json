@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -524,7 +524,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14403,
+  "EOS_Progressed": 14407,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
@@ -2634,6 +2634,11 @@
       "Time": "2023-06-03T20:04:05.5642834+00:00",
       "NumProgressed": 14403,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-03T21:04:12.9029031+00:00",
+      "NumProgressed": 14407,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2677,7 +2682,7 @@
       "Name": "Flesh Wound",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2755,9 +2760,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 288
     },
     {
       "ID": "KILL_2HEAD",
@@ -2837,7 +2842,7 @@
       "Name": "The Outer Way",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2877,7 +2882,7 @@
       "Name": "Desperate Times",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2964,13 +2969,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14403,
+      "Progressed": 14407,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2329,
+      "Progressed": 2333,
       "Completed": 29
     }
   ],
@@ -2978,8 +2983,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T02:11:24.6577138+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:04:05.5642829+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:04:12.9029027+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:57:54.0229729+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:04:05.5643239+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:57:46.2461432+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:04:12.9029385+00:00"
 }

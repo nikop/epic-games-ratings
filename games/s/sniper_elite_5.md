@@ -5,30 +5,30 @@ Rating: 4.44 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~541 |
-| Confirming Suspicions | 21.00% | ~454 |
-| The Kraken Wakes | 16.00% | ~346 |
-| It's Starting to Crack | 13.00% | ~281 |
-| Lord of War | 12.00% | ~260 |
-| Resourceful | 11.00% | ~238 |
-| Change the Channel | 11.00% | ~238 |
+| Meeting Resistance | 25.00% | ~543 |
+| Confirming Suspicions | 21.00% | ~456 |
+| The Kraken Wakes | 16.00% | ~347 |
+| It's Starting to Crack | 14.00% | ~304 |
+| Lord of War | 12.00% | ~261 |
+| Resourceful | 11.00% | ~239 |
+| Change the Channel | 11.00% | ~239 |
 | Taking it back | 9.00% | ~195 |
-| Organ Grinder | 8.00% | ~173 |
-| As Quiet as a Mouse | 8.00% | ~173 |
-| Target America | 8.00% | ~173 |
-| Enemy at the Gates | 7.00% | ~151 |
-| Just a Flesh Wound | 7.00% | ~151 |
-| Explosive Efficiency | 7.00% | ~151 |
+| Organ Grinder | 8.00% | ~174 |
+| As Quiet as a Mouse | 8.00% | ~174 |
+| Target America | 8.00% | ~174 |
+| Enemy at the Gates | 7.00% | ~152 |
+| Just a Flesh Wound | 7.00% | ~152 |
+| Explosive Efficiency | 7.00% | ~152 |
 | Liberté | 6.00% | ~130 |
-| Opposing Force | 6.00% | ~130 |
 | Gunslinger | 6.00% | ~130 |
 | Sharpshooter | 6.00% | ~130 |
 | The Kraken Sleeps | 6.00% | ~130 |
-| Fields of Glory | 5.00% | ~108 |
-| Die Nussknacker Sweet! | 5.00% | ~108 |
-| Der Geist | 5.00% | ~108 |
-| Close Quarters | 5.00% | ~108 |
-| Snake in the Grass | 5.00% | ~108 |
+| Opposing Force | 5.00% | ~109 |
+| Fields of Glory | 5.00% | ~109 |
+| Die Nussknacker Sweet! | 5.00% | ~109 |
+| Der Geist | 5.00% | ~109 |
+| Close Quarters | 5.00% | ~109 |
+| Snake in the Grass | 5.00% | ~109 |
 | Climbing the Ladder | 4.00% | ~87 |
 | No Stone Unturned | 4.00% | ~87 |
 | Skirmisher | 4.00% | ~87 |
@@ -43,11 +43,11 @@ Rating: 4.44 (Ranked 630)
 | Road Rage | 1.00% | ~22 |
 | Herr Today, Gone Tomorrow | 1.00% | ~21 |
 | Operation Foxley | 1.00% | ~21 |
-| Locomotion Commotion | 0.90% | ~19 |
-| Don't hold your breath | 0.90% | ~19 |
+| Locomotion Commotion | 0.90% | ~20 |
+| Don't hold your breath | 0.90% | ~20 |
+| Ghost of Falaise | 0.80% | ~17 |
 | Tinkerer | 0.70% | ~15 |
 | Siegebreaker | 0.70% | ~15 |
-| Ghost of Falaise | 0.70% | ~15 |
 | Last Resort | 0.60% | ~13 |
 | From Paris with Love | 0.50% | ~11 |
 | Burn after reading | 0.50% | ~11 |
@@ -55,7 +55,7 @@ Rating: 4.44 (Ranked 630)
 | Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
 | Shoot for the Moon | 0.40% | ~9 |
-| Can't Outrun A Bullet | 0.30% | ~6 |
+| Can't Outrun A Bullet | 0.30% | ~7 |
 | Reich To The Point | 0.30% | ~6 |
 | If You Go Down To The Woods Today | 0.30% | ~6 |
 | Fight Another Day | 0.30% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 630)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,163 (Ranked 149)  
+Progressed: 2,171 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-05-31 | 1,964 | 2 |
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
-| 2023-06-03 | 2,163 | 2 |
+| 2023-06-03 | 2,171 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

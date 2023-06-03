@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
     "PcReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -4343,18 +4343,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 29334,
       "NumberOfAwardsMax": 12473
+    },
+    {
+      "Time": "2023-06-03T20:57:38.3924534+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 29343,
+      "NumberOfAwardsMax": 12479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29334,
-  "NumberOfAwardsMax": 12473,
+  "NumberOfAwards": 29343,
+  "NumberOfAwardsMax": 12479,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12473
+      "Count": 12479
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4396,7 +4402,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1902
+      "Count": 1904
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4414,7 +4420,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1512
+      "Count": 1513
     }
   ],
   "EOS_Progressed": 0,
@@ -4428,8 +4434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-06-03T14:57:57.2482047+00:00",
+  "LastChanged": "2023-06-03T20:57:38.3924532+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:51.9448651+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:57:46.1052041+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:04:34.5940876+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:57:38.3924538+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:04:40.4872034+00:00"
 }

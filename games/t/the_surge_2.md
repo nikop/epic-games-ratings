@@ -6,7 +6,7 @@ Rating: 4.24 (Ranked 796)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,353 |
-| Don't I Know You...? | 76.00% | ~1,285 |
+| Don't I Know You...? | 77.00% | ~1,302 |
 | Jailbreak | 65.00% | ~1,099 |
 | Suited and Booted | 38.00% | ~643 |
 | HEADSHOT! | 37.00% | ~626 |
@@ -37,9 +37,9 @@ Rating: 4.24 (Ranked 796)
 | Corrupted Beauty | 11.00% | ~186 |
 | Triplets | 10.00% | ~169 |
 | Stimulating The Local Economy | 9.00% | ~152 |
+| A Little Banged Up | 8.00% | ~135 |
 | Denying Prophecy | 8.00% | ~135 |
 | Defense in Depth | 8.00% | ~135 |
-| A Little Banged Up | 7.00% | ~118 |
 | Reverse Engineering | 7.00% | ~118 |
 | Following In Their Footsteps | 7.00% | ~118 |
 | Turbo Booster | 6.00% | ~101 |

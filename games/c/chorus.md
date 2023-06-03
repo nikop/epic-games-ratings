@@ -16,7 +16,7 @@ Number of Ratings: 58  (23.09.2022)
 | Helping Hand | 67.00% | ~619 |
 | Paragon | 64.00% | ~591 |
 | Old Days Born Anew | 63.00% | ~582 |
-| Full Arsenal | 57.00% | ~527 |
+| Full Arsenal | 58.00% | ~536 |
 | Controlled Demolition | 56.00% | ~517 |
 | Born to Drift | 53.00% | ~490 |
 | Payback | 53.00% | ~490 |
@@ -31,7 +31,7 @@ Number of Ratings: 58  (23.09.2022)
 | Set in Motion | 38.00% | ~351 |
 | In the Eye of the Storm | 37.00% | ~342 |
 | The Crimson Void | 34.00% | ~314 |
-| The Nameless Dread | 33.00% | ~305 |
+| The Nameless Dread | 34.00% | ~314 |
 | Time to Spear | 30.00% | ~277 |
 | Mastery of Weapons | 29.00% | ~268 |
 | Disciple | 29.00% | ~268 |

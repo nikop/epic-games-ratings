@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 11.00% | ~1,584 |
-| The Outer Way | 9.00% | ~1,296 |
-| Desperate Times | 9.00% | ~1,296 |
+| Flesh Wound | 11.00% | ~1,585 |
+| The Outer Way | 9.00% | ~1,297 |
+| Desperate Times | 9.00% | ~1,297 |
 | Chew 'Em Up | 7.00% | ~1,008 |
 | Paper Jams | 7.00% | ~1,008 |
 | Giving Back | 6.00% | ~864 |
@@ -26,6 +26,7 @@ Rating: 4.18 (Ranked 837)
 | Power Up | 3.00% | ~432 |
 | Bear Trap | 3.00% | ~70 |
 | You Need a Gun | 2.00% | ~288 |
+| In Striking Distance | 2.00% | ~288 |
 | The Commonality | 2.00% | ~288 |
 | Mugshot | 2.00% | ~288 |
 | What Lies Beneath | 2.00% | ~288 |
@@ -33,7 +34,6 @@ Rating: 4.18 (Ranked 837)
 | Big Spender | 2.00% | ~47 |
 | I Do Belong Here | 1.00% | ~144 |
 | Parole Denied | 1.00% | ~23 |
-| In Striking Distance | 1.00% | ~144 |
 | Hoard Mode | 1.00% | ~23 |
 | Recidivist | 0.70% | ~16 |
 | Lifer | 0.70% | ~16 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 837)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,403 (Ranked 103)  
+Progressed: 14,407 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-05-31 | 14,169 | 53 |
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
-| 2023-06-03 | 14,403 | 53 |
+| 2023-06-03 | 14,407 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 285 (Ranked 329)  

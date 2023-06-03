@@ -40,9 +40,9 @@
 | Fairgrounds Explorer | 20.00% | ~117 |
 | Cultivair Explorer | 16.00% | ~93 |
 | Theater Explorer | 16.00% | ~93 |
+| Entresol Explorer | 14.00% | ~82 |
 | Corin Goes Home | 13.00% | ~76 |
 | Sartorialist | 13.00% | ~76 |
-| Entresol Explorer | 13.00% | ~76 |
 | Rungs Was Right | 13.00% | ~76 |
 | Clovemary for Remembering | 10.00% | ~58 |
 | Hexlock for Protection | 9.00% | ~53 |

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2685,
+  "EOS_Progressed": 2691,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2023-06-03T17:03:57.0819961+00:00",
       "NumProgressed": 2685,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-03T21:03:54.6538803+00:00",
+      "NumProgressed": 2691,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -2256,15 +2261,15 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1076
     },
     {
       "ID": "11",
@@ -2294,9 +2299,9 @@
       "ID": "14",
       "SetID": "9p3jgda",
       "Name": "IT MAKES BOOM!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1076
     },
     {
       "ID": "15",
@@ -2312,7 +2317,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "17",
@@ -2328,7 +2333,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "19",
@@ -2336,7 +2341,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 11,
       "XP": 85,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "2",
@@ -2344,7 +2349,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "20",
@@ -2352,7 +2357,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "21",
@@ -2376,7 +2381,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "24",
@@ -2384,7 +2389,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "3",
@@ -2400,7 +2405,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "5",
@@ -2408,7 +2413,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1399
     },
     {
       "ID": "6",
@@ -2416,7 +2421,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 832
+      "UsersEstimate": 834
     },
     {
       "ID": "7",
@@ -2424,7 +2429,7 @@
       "Name": "MASTER",
       "Percentage": 10,
       "XP": 65,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "8",
@@ -2432,7 +2437,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "9",
@@ -2440,20 +2445,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2685,
+      "Progressed": 2691,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:03:46.2971071+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:03:54.6538798+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:59:06.225625+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:03:46.29714+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:58:55.8075706+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:03:54.6539049+00:00"
 }

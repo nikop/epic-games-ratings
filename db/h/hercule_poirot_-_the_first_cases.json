@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -220,6 +220,11 @@
       "Time": "2023-06-02T21:10:52.7500359+00:00",
       "NumProgressed": 370,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-03T21:06:12.9282323+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -229,9 +234,9 @@
       "ID": "ACH_01",
       "SetID": "72imik0",
       "Name": "The Bracelet",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_010",
@@ -247,7 +252,7 @@
       "Name": "Well-travelled",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_012",
@@ -255,7 +260,7 @@
       "Name": "Well-acquainted",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_013",
@@ -263,7 +268,7 @@
       "Name": "Little Grey Cells",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_014",
@@ -271,7 +276,7 @@
       "Name": "Order and Method",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_015",
@@ -279,7 +284,7 @@
       "Name": "Truth from Within",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_016",
@@ -303,7 +308,7 @@
       "Name": "Thinking of Everything",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_019",
@@ -319,7 +324,7 @@
       "Name": "The Blackmail",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_020",
@@ -327,7 +332,7 @@
       "Name": "Exquisite Artwork",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_021",
@@ -391,7 +396,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_029",
@@ -407,7 +412,7 @@
       "Name": "The Altercation",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_030",
@@ -423,7 +428,7 @@
       "Name": "Angeline Van den Bosch",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_032",
@@ -437,9 +442,9 @@
       "ID": "ACH_033",
       "SetID": "72imik0",
       "Name": "Cassandra Van den Bosch",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_034",
@@ -447,7 +452,7 @@
       "Name": "Comtesse Margaux de Vos",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_035",
@@ -455,7 +460,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_036",
@@ -463,7 +468,7 @@
       "Name": "Ernesto da Silva",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_037",
@@ -471,7 +476,7 @@
       "Name": "Florette Duval",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_038",
@@ -487,15 +492,15 @@
       "Name": "Hugo Beckers",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_04",
       "SetID": "72imik0",
       "Name": "The Major",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_040",
@@ -519,7 +524,7 @@
       "Name": "Luc Piette",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_043",
@@ -543,7 +548,7 @@
       "Name": "Viscount Edwin Van den Bosch",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_046",
@@ -551,7 +556,7 @@
       "Name": "Zakariya Demir",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_05",
@@ -598,7 +603,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 4
     }
   ],
@@ -606,8 +611,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:06:11.0620421+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:06:12.9282311+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:56.7957468+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:57:50.0027692+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:06:11.0620988+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:57:42.4990272+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:06:12.9282629+00:00"
 }

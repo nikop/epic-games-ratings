@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,7 +484,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2767,
+  "EOS_Progressed": 2769,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -2074,6 +2074,11 @@
       "Time": "2023-06-03T19:00:13.375113+00:00",
       "NumProgressed": 2767,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T21:00:44.9654627+00:00",
+      "NumProgressed": 2769,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2093,7 +2098,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AncestorsPride_13",
@@ -2125,7 +2130,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "CrowdPleaser",
@@ -2173,7 +2178,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -2229,7 +2234,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "MasterofAurai_20",
@@ -2277,7 +2282,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2285,7 +2290,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -2309,7 +2314,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2405,7 +2410,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2420,15 +2425,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2767,
+      "Progressed": 2769,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:01:01.0381271+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:00:44.9654622+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:57:46.9431466+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:01:01.0381756+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:57:39.1788205+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:00:44.9655127+00:00"
 }

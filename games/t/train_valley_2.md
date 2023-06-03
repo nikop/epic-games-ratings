@@ -33,6 +33,7 @@ Number of Ratings: 87  (23.09.2022)
 | Trapiche Emerald | 3.00% | ~2 |
 | Without a lunch break | 3.00% | ~22 |
 | Beginner | 2.00% | ~14 |
+| Bridge builder | 2.00% | ~14 |
 | Industrial Age | 2.00% | ~14 |
 | Jewelry accuracy | 2.00% | ~14 |
 | Living it large | 2.00% | ~14 |
@@ -43,7 +44,6 @@ Number of Ratings: 87  (23.09.2022)
 | Stargazer | 2.00% | ~14 |
 | Astronomer | 1.00% | ~7 |
 | At the last moment! | 1.00% | ~7 |
-| Bridge builder | 1.00% | ~7 |
 | Electrical Age | 1.00% | ~7 |
 | Engineer | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |

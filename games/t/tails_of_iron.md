@@ -7,8 +7,8 @@ Rating: 4.51 (Ranked 528)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 78.00% | ~1,226 |
 | Become King | 70.00% | ~1,100 |
+| Defeat 25 Frogs | 60.00% | ~943 |
 | Ranged Weapon | 59.00% | ~927 |
-| Defeat 25 Frogs | 59.00% | ~927 |
 | Collect Monster Parts | 56.00% | ~880 |
 | Two Handed Weapon | 54.00% | ~849 |
 | Defeat 25 Grubs | 51.00% | ~802 |
@@ -31,7 +31,7 @@ Rating: 4.51 (Ranked 528)
 | Complete Ranger Faction | 20.00% | ~314 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~299 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~283 |
-| Complete Arena Faction | 14.00% | ~220 |
+| Complete Arena Faction | 15.00% | ~236 |
 | Complete Redgi's Armory | 7.00% | ~110 |
 | King of Kings | 7.00% | ~110 |
 | A new Warchief rises | 0.70% | ~11 |

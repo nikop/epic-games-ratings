@@ -16,6 +16,7 @@
 | Upgradeaholic | 6.00% | ~4 |
 | Start Your Engines | 6.00% | ~4 |
 | Playing God | 6.00% | ~4 |
+| Say My Name | 5.00% | ~3 |
 | Nerd | 5.00% | ~3 |
 | First and Foremost | 5.00% | ~3 |
 | Made Mother Proud | 5.00% | ~3 |
@@ -27,7 +28,6 @@
 | POI Hunter | 3.00% | ~2 |
 | The Joy of Discovery | 3.00% | ~2 |
 | Gotta Go Fast! | 3.00% | ~2 |
-| Say My Name | 3.00% | ~2 |
 | Geek | 3.00% | ~2 |
 | Last One Standing | 3.00% | ~2 |
 | The Immortal One | 3.00% | ~2 |

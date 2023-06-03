@@ -32,9 +32,9 @@
 | We Have the Technology | 4.00% | ~116 |
 | Figure of Breach | 4.00% | ~116 |
 | Work It | 3.00% | ~87 |
+| Almost Like Winning | 3.00% | ~87 |
 | The Handyman Can! | 3.00% | ~87 |
 | A Brief Moment of Respite | 3.00% | ~87 |
-| Almost Like Winning | 2.00% | ~58 |
 | Untouchable | 1.00% | ~29 |
 | All Geared Up | 0.90% | ~26 |
 ## Popularity (Based on EOS Achievements)

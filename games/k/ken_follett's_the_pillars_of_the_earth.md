@@ -11,23 +11,23 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 34.00% | ~4,403 |
 | Yet another secret | 34.00% | ~4,403 |
 | Let there be darkness | 33.00% | ~4,274 |
-| End of Book One | 31.00% | ~4,014 |
+| End of Book One | 31.00% | ~4,015 |
 | Garden of Eden | 25.00% | ~3,238 |
 | Wannabe knight | 24.00% | ~3,108 |
 | Full house | 24.00% | ~3,108 |
 | Help an old friend | 22.00% | ~2,849 |
 | Two of us | 20.00% | ~2,590 |
-| Negotiation skills | 19.00% | ~2,460 |
-| Workers' union | 19.00% | ~2,460 |
+| Negotiation skills | 19.00% | ~2,461 |
+| Workers' union | 19.00% | ~2,461 |
 | End of Book Two | 18.00% | ~2,331 |
 | Everything's in order | 17.00% | ~2,202 |
-| Jack was here! | 15.00% | ~1,942 |
+| Jack was here! | 15.00% | ~1,943 |
 | Twist of Fate | 14.00% | ~1,813 |
 | Exterminator | 14.00% | ~1,813 |
 | Whodunnit | 13.00% | ~1,684 |
-| Good midwife | 11.00% | ~1,424 |
-| Friar Tuck | 11.00% | ~1,424 |
-| First profit | 11.00% | ~1,424 |
+| Good midwife | 11.00% | ~1,425 |
+| Friar Tuck | 11.00% | ~1,425 |
+| First profit | 11.00% | ~1,425 |
 | Team player | 10.00% | ~1,295 |
 | Skilled merchant | 9.00% | ~1,166 |
 | Nothing but make-believe | 9.00% | ~1,166 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~518 |
 | Self-defense | 4.00% | ~518 |
 | Countess Aliena | 4.00% | ~518 |
-| Care, like a brother cares | 3.00% | ~388 |
-| A brush with death | 3.00% | ~388 |
+| Care, like a brother cares | 3.00% | ~389 |
+| A brush with death | 3.00% | ~389 |
 | Boy of mystery | 2.00% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,950 (Ranked 105)  
+Progressed: 12,951 (Ranked 105)  
 Completed: 97 (0.75%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 97 (0.75%) (Ranked 101)
 | 2023-05-31 | 12,881 | 96 |
 | 2023-06-01 | 12,903 | 97 |
 | 2023-06-02 | 12,925 | 97 |
-| 2023-06-03 | 12,950 | 97 |
+| 2023-06-03 | 12,951 | 97 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  

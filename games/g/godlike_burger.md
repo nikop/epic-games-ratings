@@ -6,7 +6,7 @@ Rating: 4.25 (Ranked 789)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | MASTER CHEF | 82.00% | ~262 |
-| FIRST BLOOD | 77.00% | ~246 |
+| FIRST BLOOD | 78.00% | ~249 |
 | KEVIN! | 68.00% | ~217 |
 | JACK OF ALL TRADES | 61.00% | ~195 |
 | CRIMINAL | 56.00% | ~179 |
@@ -15,8 +15,8 @@ Rating: 4.25 (Ranked 789)
 | HONORS STUDENT | 37.00% | ~118 |
 | BUTCHER | 26.00% | ~83 |
 | RAMBO | 22.00% | ~70 |
+| INDIVIDUAL APPROACH | 21.00% | ~67 |
 | MARTYR | 21.00% | ~67 |
-| INDIVIDUAL APPROACH | 20.00% | ~64 |
 | CELEBRITY | 19.00% | ~61 |
 | HELL'S KITCHEN | 19.00% | ~61 |
 | GRATITUDE | 18.00% | ~57 |

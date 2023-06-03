@@ -2,10 +2,10 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.33,
+  "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -126,6 +126,11 @@
       "Time": "2023-06-03T10:05:16.5790952+00:00",
       "NumProgressed": 86,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-03T21:05:49.6821815+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -135,7 +140,7 @@
       "ID": "ACH_ANOTHER_BRICK_1",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 62
     },
@@ -143,7 +148,7 @@
       "ID": "ACH_ANOTHER_BRICK_2",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 2)",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
       "UsersEstimate": 42
     },
@@ -161,7 +166,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -175,7 +180,7 @@
       "ID": "ACH_BURNING_BRIDGES",
       "SetID": "5kae3ip",
       "Name": "Burning Bridges",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 23
     },
@@ -183,7 +188,7 @@
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 40,
       "UsersEstimate": 72
     },
@@ -191,7 +196,7 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -199,7 +204,7 @@
       "ID": "ACH_DOGS_OF_WAR",
       "SetID": "5kae3ip",
       "Name": "The Dogs of War",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 75,
       "UsersEstimate": 10
     },
@@ -209,13 +214,13 @@
       "Name": "Echoes",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_GUNNERS_DREAM",
       "SetID": "5kae3ip",
       "Name": "The Gunner\u0027s Dream",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 35
     },
@@ -223,7 +228,7 @@
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -239,7 +244,7 @@
       "ID": "ACH_LAST_FEW_BRICK",
       "SetID": "5kae3ip",
       "Name": "The Last Few Bricks",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 75,
       "UsersEstimate": 23
     },
@@ -256,7 +261,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 2
     }
   ],
@@ -264,8 +269,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:05:46.8291074+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:05:49.682181+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.2403145+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:57:26.5350057+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:05:46.8291181+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:57:19.8420619+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:05:49.6821914+00:00"
 }

@@ -23,8 +23,8 @@
 | Butcher | 52.00% | ~37 |
 | Mushroom soup of the day | 52.00% | ~37 |
 | Honk honk! | 51.00% | ~36 |
+| Spare Ribs | 51.00% | ~36 |
 | My pants squeak when I walk | 49.00% | ~35 |
-| Spare Ribs | 49.00% | ~35 |
 | Thats disgusting! | 48.00% | ~34 |
 | Cockadoodledoo! | 46.00% | ~33 |
 | Surprise!! | 45.00% | ~32 |
@@ -33,9 +33,9 @@
 | Catch the bus with me! | 37.00% | ~26 |
 | Karaoke king | 37.00% | ~26 |
 | Pasta Bolognese | 37.00% | ~26 |
+| I'm going to get a concussion | 35.00% | ~25 |
 | Haemochromatosis | 35.00% | ~25 |
 | You are no match for me, Billy! | 34.00% | ~24 |
-| I'm going to get a concussion | 34.00% | ~24 |
 | You can't stop me, bro! | 34.00% | ~24 |
 | Meatballs, coming up! | 30.00% | ~21 |
 | A Megapint...? | 30.00% | ~21 |

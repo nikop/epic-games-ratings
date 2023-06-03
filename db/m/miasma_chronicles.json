@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1187,6 +1187,11 @@
       "Time": "2023-06-03T20:00:54.7446745+00:00",
       "NumProgressed": 994,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-03T21:00:39.0111859+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1350,7 +1355,7 @@
       "Name": "Endgame",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "EXORCIST",
@@ -1414,15 +1419,15 @@
       "Name": "Giant Killer",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "GOAL",
       "SetID": "9a4jnji",
       "Name": "Goaaaaal!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GUN_FOR_HIRE",
@@ -1430,7 +1435,7 @@
       "Name": "Gun for Hire",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1462,7 +1467,7 @@
       "Name": "Lumberjack",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1518,7 +1523,7 @@
       "Name": "Ruthless",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SAVIOR",
@@ -1526,7 +1531,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SENSEI",
@@ -1534,7 +1539,7 @@
       "Name": "Sensei",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1582,7 +1587,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "THE_WATCHERS",
@@ -1590,7 +1595,7 @@
       "Name": "The Watchers",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "WIPE_OUT",
@@ -1605,7 +1610,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 0
     }
   ],
@@ -1613,8 +1618,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:00:54.744652+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:00:39.0111652+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:58:23.2103826+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:00:54.7467958+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:58:17.662256+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:00:39.0131342+00:00"
 }

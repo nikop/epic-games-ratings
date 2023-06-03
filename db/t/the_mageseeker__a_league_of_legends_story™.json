@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2255,
+  "EOS_Progressed": 2256,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2216,6 +2216,11 @@
       "Time": "2023-06-03T10:05:32.6802712+00:00",
       "NumProgressed": 2255,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-03T21:06:08.8207439+00:00",
+      "NumProgressed": 2256,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2267,7 +2272,7 @@
       "Name": "Hijack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2291,7 +2296,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2307,7 +2312,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2331,7 +2336,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2403,7 +2408,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2411,7 +2416,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2443,7 +2448,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2459,7 +2464,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2483,7 +2488,7 @@
       "Name": "Glyndemere",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -2531,7 +2536,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2579,7 +2584,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -2643,14 +2648,14 @@
       "Name": "Petricite Burst",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2255,
+      "Progressed": 2256,
       "Completed": 1
     }
   ],
@@ -2658,8 +2663,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:06:06.8050845+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:06:08.8207434+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:57:38.6385602+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:06:06.8051546+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:57:31.1429038+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:06:08.8207876+00:00"
 }

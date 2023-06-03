@@ -5,11 +5,11 @@ Rating: 3.95 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,190 |
-| World Map | 80.00% | ~1,013 |
-| Temple of Eternals | 56.00% | ~709 |
-| Prestigious | 53.00% | ~671 |
-| Fellowship Power | 40.00% | ~506 |
+| Victor | 94.00% | ~1,191 |
+| World Map | 80.00% | ~1,014 |
+| Temple of Eternals | 57.00% | ~722 |
+| Prestigious | 53.00% | ~672 |
+| Fellowship Power | 40.00% | ~507 |
 | Guild Power | 24.00% | ~304 |
 | Prestigious x10 | 21.00% | ~266 |
 | The game is on | 19.00% | ~241 |
@@ -39,12 +39,12 @@ Rating: 3.95 (Ranked 903)
 | Moving Up The Ladder | 6.00% | ~76 |
 | Relic Of The Past | 6.00% | ~76 |
 | Here We Go Again | 5.00% | ~63 |
-| How Do You Turn This On? | 5.00% | ~63 |
 | The Expeditioner | 5.00% | ~63 |
 | Trader | 5.00% | ~63 |
 | Ancient Knowledge | 4.00% | ~51 |
 | Background Story | 4.00% | ~51 |
 | Four Leaf Clover | 4.00% | ~51 |
+| How Do You Turn This On? | 4.00% | ~51 |
 | Missions Dedication | 4.00% | ~51 |
 | The father of Dragons | 4.00% | ~51 |
 | Weekly Quest Completionist | 4.00% | ~51 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 903)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,266 (Ranked 161)  
+Progressed: 1,267 (Ranked 161)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-05-31 | 1,239 | 1 |
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
-| 2023-06-03 | 1,266 | 1 |
+| 2023-06-03 | 1,267 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

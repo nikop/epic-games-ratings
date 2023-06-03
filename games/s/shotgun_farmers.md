@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 51.00% | ~16 |
-| Survivor | 42.00% | ~13 |
+| Survivor | 43.00% | ~13 |
 | Seeds of War | 40.00% | ~32 |
 | No Diggity | 35.00% | ~11 |
 | Early Survivor | 33.00% | ~10 |
@@ -28,15 +28,15 @@
 | Expert Survivor | 9.00% | ~3 |
 | Quadsparagus | 9.00% | ~3 |
 | Skin Of Your Teeth | 7.00% | ~6 |
+| Summers Here | 7.00% | ~2 |
 | Quit Horsin' Around | 6.00% | ~5 |
 | Master Survivor | 6.00% | ~2 |
-| Summers Here | 6.00% | ~2 |
 | Bring Home The Bacon | 4.00% | ~3 |
+| Chick Magnet | 4.00% | ~3 |
 | Eggtraordinary | 4.00% | ~3 |
 | Carrocketeer | 4.00% | ~3 |
 | Pyromaniac | 4.00% | ~1 |
 | Easy Peasy | 4.00% | ~1 |
-| Chick Magnet | 2.00% | ~2 |
 | Fresh Pancake | 2.00% | ~2 |
 | Getting Started | 2.00% | ~2 |
 | Pork Chop Express | 2.00% | ~2 |

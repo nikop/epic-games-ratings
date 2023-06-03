@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -929,9 +929,9 @@
       "ID": "ACHV_01",
       "SetID": "8p5mlmc",
       "Name": "A Little Banged Up",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_02",
@@ -1233,9 +1233,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACHV_40",
@@ -1394,8 +1394,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:06:24.384136+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:06:25.8126195+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-03T20:00:44.5590638+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:06:24.3841857+00:00"
+  "LastUpdate_Ratings": "2023-06-03T21:00:28.4762397+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:06:25.8126635+00:00"
 }

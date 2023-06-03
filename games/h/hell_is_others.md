@@ -5,10 +5,10 @@ Rating: 4.44 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,591 |
-| Predator I | 22.00% | ~55,064 |
-| Fixer I | 10.00% | ~25,029 |
-| A week in Century City | 10.00% | ~25,029 |
+| Survivor | 31.00% | ~77,593 |
+| Predator I | 22.00% | ~55,066 |
+| Fixer I | 10.00% | ~25,030 |
+| A week in Century City | 10.00% | ~25,030 |
 | The Wait | 7.00% | ~17,521 |
 | Green thumb I | 6.00% | ~15,018 |
 | Well-oiled machine | 5.00% | ~12,515 |
@@ -38,9 +38,9 @@ Rating: 4.44 (Ranked 630)
 | Committed Relationship | 0.80% | ~2,002 |
 | Number 1 | 0.70% | ~1,752 |
 | Interior designer | 0.60% | ~1,502 |
-| The Gamble | 0.50% | ~1,251 |
-| The Descent | 0.50% | ~1,251 |
-| A major purchase | 0.50% | ~1,251 |
+| The Gamble | 0.50% | ~1,252 |
+| The Descent | 0.50% | ~1,252 |
+| A major purchase | 0.50% | ~1,252 |
 | Expert Hunter | 0.40% | ~1,001 |
 | Fungi hunter | 0.40% | ~1,001 |
 | Predator III | 0.40% | ~1,001 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 630)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,293 (Ranked 41)  
+Progressed: 250,300 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.00%) (Ranked 211)
 | 2023-05-31 | 250,071 | 1 |
 | 2023-06-01 | 250,158 | 1 |
 | 2023-06-02 | 250,217 | 1 |
-| 2023-06-03 | 250,293 | 1 |
+| 2023-06-03 | 250,300 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 465)  
 Sum: 70 (Ranked 422)  

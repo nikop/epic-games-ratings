@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 18.00% | ~2,105 |
 | Subjugator | 17.00% | ~1,988 |
 | Traders | 17.00% | ~1,988 |
+| Learn to Play 3 | 17.00% | ~1,988 |
 | Assyrian Paganism | 17.00% | ~1,988 |
 | Military Prestige | 17.00% | ~1,988 |
 | Kushite Cavalry | 17.00% | ~1,988 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 16.00% | ~1,871 |
 | Strong Difficulty | 16.00% | ~1,871 |
 | Hunters | 16.00% | ~1,871 |
-| Learn to Play 3 | 16.00% | ~1,871 |
 | Gnosticism | 16.00% | ~1,871 |
 | Veneration | 16.00% | ~1,871 |
 | Capable | 15.00% | ~1,754 |

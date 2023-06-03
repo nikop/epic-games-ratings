@@ -6,36 +6,36 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~220,821 |
-| Uncharted Territory | 89.00% | ~204,720 |
-| Getting A Glimpse | 73.00% | ~167,916 |
-| A Quick Escape | 65.00% | ~149,514 |
-| Explorer | 62.00% | ~142,614 |
-| Defeat The Dark | 61.00% | ~140,313 |
-| An Offering | 61.00% | ~140,313 |
-| Colorful Corpse | 58.00% | ~133,413 |
-| That Was Quick | 56.00% | ~128,812 |
-| A Donation | 56.00% | ~128,812 |
-| Goodbye, Frog Friend | 54.00% | ~124,212 |
-| Heavy Hitter | 53.00% | ~121,912 |
-| Heartless | 46.00% | ~105,810 |
-| Spine Breaker | 46.00% | ~105,810 |
-| Deflection | 45.00% | ~103,510 |
-| Sneaky | 43.00% | ~98,909 |
-| Delving Deeper | 42.00% | ~96,609 |
-| Ambitious Intent | 41.00% | ~94,309 |
-| C-C-Combo | 41.00% | ~94,309 |
-| The Bestiary | 40.00% | ~92,009 |
+| First Steps | 96.00% | ~220,823 |
+| Uncharted Territory | 89.00% | ~204,721 |
+| Getting A Glimpse | 73.00% | ~167,918 |
+| A Quick Escape | 65.00% | ~149,516 |
+| Explorer | 62.00% | ~142,615 |
+| Defeat The Dark | 61.00% | ~140,315 |
+| An Offering | 61.00% | ~140,315 |
+| Colorful Corpse | 58.00% | ~133,414 |
+| That Was Quick | 56.00% | ~128,813 |
+| A Donation | 56.00% | ~128,813 |
+| Goodbye, Frog Friend | 54.00% | ~124,213 |
+| Heavy Hitter | 53.00% | ~121,913 |
+| Heartless | 46.00% | ~105,811 |
+| Spine Breaker | 46.00% | ~105,811 |
+| Deflection | 45.00% | ~103,511 |
+| Sneaky | 43.00% | ~98,910 |
+| Delving Deeper | 42.00% | ~96,610 |
+| Ambitious Intent | 41.00% | ~94,310 |
+| C-C-Combo | 41.00% | ~94,310 |
+| The Bestiary | 40.00% | ~92,010 |
 | Nothing To Lose | 39.00% | ~89,709 |
-| What's Yours Is Mine | 38.00% | ~87,408 |
-| R.I.P | 36.00% | ~82,808 |
+| What's Yours Is Mine | 38.00% | ~87,409 |
+| R.I.P | 36.00% | ~82,809 |
 | Shootout | 35.00% | ~80,508 |
-| Cold Hearted | 34.00% | ~78,207 |
-| I Am Overburdened | 34.00% | ~78,207 |
-| Dig Your Own Grave | 33.00% | ~75,907 |
-| Toxic | 32.00% | ~73,607 |
+| Cold Hearted | 34.00% | ~78,208 |
+| I Am Overburdened | 34.00% | ~78,208 |
+| Dig Your Own Grave | 33.00% | ~75,908 |
+| Toxic | 32.00% | ~73,608 |
 | Who To Trust? | 31.00% | ~71,307 |
-| Flesh Wound | 29.00% | ~66,706 |
+| Flesh Wound | 29.00% | ~66,707 |
 | Walk It Off | 27.00% | ~62,106 |
 | Stone Touch | 27.00% | ~62,106 |
 | Acid Bath | 27.00% | ~62,106 |
@@ -44,11 +44,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 26.00% | ~59,806 |
 | New Perspectives | 26.00% | ~59,806 |
 | Shapeshifting | 26.00% | ~59,806 |
-| Save Our Souls | 24.00% | ~55,205 |
-| To The Death! | 19.00% | ~43,704 |
-| Well Prepared | 19.00% | ~43,704 |
-| Just Chilling | 19.00% | ~43,704 |
-| Stop Hitting Yourself | 19.00% | ~43,704 |
+| Save Our Souls | 24.00% | ~55,206 |
+| To The Death! | 19.00% | ~43,705 |
+| Well Prepared | 19.00% | ~43,705 |
+| Just Chilling | 19.00% | ~43,705 |
+| Stop Hitting Yourself | 19.00% | ~43,705 |
 | All Consuming | 18.00% | ~41,404 |
 | Shadow Spreads | 16.00% | ~36,804 |
 | Max Damage! | 16.00% | ~36,804 |
@@ -60,7 +60,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 13.00% | ~29,903 |
 | Berzerker | 12.00% | ~27,603 |
 | Chain Reaction | 12.00% | ~27,603 |
-| Antivenom | 11.00% | ~25,302 |
+| Antivenom | 11.00% | ~25,303 |
 | Thank You, Friend | 10.00% | ~23,002 |
 | Barbecue | 10.00% | ~23,002 |
 | Snake Sneak | 9.00% | ~20,702 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~920 |
 | Near Death Experience | 0.30% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,022 (Ranked 43)  
+Progressed: 230,024 (Ranked 43)  
 Completed: 235 (0.10%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 235 (0.10%) (Ranked 163)
 | 2023-05-31 | 229,802 | 235 |
 | 2023-06-01 | 229,863 | 235 |
 | 2023-06-02 | 229,943 | 235 |
-| 2023-06-03 | 230,022 | 235 |
+| 2023-06-03 | 230,024 | 235 |
 ## Awards
 Max (Quickly Understood Controls): 1,473  (Ranked 114)  
 Sum: 12,901 (Ranked 69)  

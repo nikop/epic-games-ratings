@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -655,7 +655,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 30597,
+  "EOS_Progressed": 30602,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
@@ -4935,6 +4935,11 @@
       "Time": "2023-06-03T20:03:15.8164162+00:00",
       "NumProgressed": 30597,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-03T21:03:25.721102+00:00",
+      "NumProgressed": 30602,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -4962,7 +4967,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "ach_antiquarian10",
@@ -5066,7 +5071,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11015
+      "UsersEstimate": 11017
     },
     {
       "ID": "ach_die10",
@@ -5298,7 +5303,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "ach_terror100",
@@ -5377,15 +5382,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 30597,
+      "Progressed": 30602,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-27T21:59:24.6396174+00:00",
-  "LastChanged_Achievements": "2023-06-03T20:03:15.8164157+00:00",
+  "LastChanged_Achievements": "2023-06-03T21:03:25.7211015+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:59.115493+00:00",
-  "LastUpdate_Ratings": "2023-06-03T19:59:47.9162426+00:00",
-  "LastUpdate_Achievements": "2023-06-03T20:03:15.8165131+00:00"
+  "LastUpdate_Ratings": "2023-06-03T20:59:36.2279025+00:00",
+  "LastUpdate_Achievements": "2023-06-03T21:03:25.7211588+00:00"
 }
