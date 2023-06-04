@@ -10,9 +10,9 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.01% |
+| 11 | [Island Cities](games/i/island_cities.md) | 13.95% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.03% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
@@ -30,14 +30,14 @@
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 30 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
+| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.86% |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
-| 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
+| 37 | [Doodle God](games/d/doodle_god.md) | 3.81% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.42% |
@@ -69,13 +69,13 @@
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
 | 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 69 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.60% |
-| 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
-| 71 | [Night Book](games/n/night_book.md) | 1.59% |
-| 71 | [Somerville](games/s/somerville.md) | 1.59% |
+| 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.59% |
+| 70 | [Night Book](games/n/night_book.md) | 1.59% |
+| 70 | [Somerville](games/s/somerville.md) | 1.59% |
 | 74 | [Frogun](games/f/frogun.md) | 1.51% |
 | 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 76 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.49% |
+| 76 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.47% |
 | 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.31% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
