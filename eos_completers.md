@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.00% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.86% |
 | 3 | [Volley Pals](games/v/volley_pals.md) | 28.57% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.12% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.06% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -33,7 +33,7 @@
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.86% |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
+| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.14% |
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.84% |
@@ -44,8 +44,8 @@
 | 42 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 43 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
 | 44 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
-| 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.16% |
 | 45 | [ZZT!](games/z/zzt!.md) | 3.16% |
+| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.12% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.03% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
@@ -67,7 +67,7 @@
 | 65 | [JARS](games/j/jars.md) | 2.04% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.78% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.76% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
@@ -77,7 +77,7 @@
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
-| 78 | [Ten Dates](games/t/ten_dates.md) | 1.32% |
+| 78 | [Ten Dates](games/t/ten_dates.md) | 1.31% |
 | 79 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.27% |
 | 80 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 81 | [Chorus](games/c/chorus.md) | 1.19% |
@@ -99,11 +99,11 @@
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
 | 98 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.77% |
+| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 100 | [Them and Us](games/t/them_and_us.md) | 0.76% |
-| 101 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.74% |
-| 103 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.72% |
-| 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
+| 103 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
+| 103 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.71% |
 | 105 | [Train Valley](games/t/train_valley.md) | 0.68% |
 | 106 | [Haven](games/h/haven.md) | 0.66% |
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
