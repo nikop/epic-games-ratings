@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 390,
+  "EOS_Progressed": 392,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -240,6 +240,11 @@
       "Time": "2023-06-03T20:06:08.3351317+00:00",
       "NumProgressed": 390,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T21:07:32.4326721+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -265,9 +270,9 @@
       "ID": "assemble-team3",
       "SetID": "799afm0",
       "Name": "Omae Wa Mou Shindeiru",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "collect-combos",
@@ -275,7 +280,7 @@
       "Name": "Experimentalist",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "collect-discounted-items1",
@@ -297,9 +302,9 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "different-items1",
@@ -307,7 +312,7 @@
       "Name": "Party",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "different-items2",
@@ -331,7 +336,7 @@
       "Name": "Impossible Cube",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "finished-quest-flight",
@@ -339,7 +344,7 @@
       "Name": "Great Flight",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "finished-quest-monster",
@@ -361,9 +366,9 @@
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "finished-quest-rat",
@@ -371,7 +376,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "finished-quest-reaper",
@@ -379,7 +384,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "finished-quest-sci",
@@ -403,7 +408,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "get-all",
@@ -443,7 +448,7 @@
       "Name": "Wide Selection",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "unlock-mutations",
@@ -467,7 +472,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "win-first-level",
@@ -475,7 +480,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "win-koth-fights1",
@@ -491,7 +496,7 @@
       "Name": "Soldier",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "win-koth-fights3",
@@ -507,7 +512,7 @@
       "Name": "Through the Darkness",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "win-with-3-cultists",
@@ -530,7 +535,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 390,
+      "Progressed": 392,
       "Completed": 1
     }
   ],
@@ -538,8 +543,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:42.5200298+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:32.4326716+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:58:38.3762861+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:42.5200638+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:00:07.9304873+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:32.4327006+00:00"
 }

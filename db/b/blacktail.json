@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2023-06-04T20:05:36.2602809+00:00",
       "NumProgressed": 445,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T21:07:24.0390775+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -942,7 +947,7 @@
       "Name": "Uprooting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "TheGuardian",
@@ -966,7 +971,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Toxic",
@@ -988,9 +993,9 @@
       "ID": "YagaHood",
       "SetID": "2aagp3d",
       "Name": "Forbidden techniques",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "YagaProfessional",
@@ -1005,7 +1010,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 447,
       "Completed": 1
     }
   ],
@@ -1013,8 +1018,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:36.2602804+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:24.0390769+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:57:50.6190194+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:36.2603145+00:00"
+  "LastUpdate_Ratings": "2023-06-04T20:58:58.9866959+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:24.0391102+00:00"
 }

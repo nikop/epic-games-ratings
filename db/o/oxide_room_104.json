@@ -173,9 +173,9 @@
       "ID": "ACH_ALLROOMS",
       "SetID": "511e31d",
       "Name": "373",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ANTIDOTE",
@@ -205,9 +205,9 @@
       "ID": "ACH_COMMONAREA",
       "SetID": "511e31d",
       "Name": "On the right path",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DOCDOCUMENTS",
@@ -221,17 +221,17 @@
       "ID": "ACH_ENTRANCE",
       "SetID": "511e31d",
       "Name": "I\u0027m close now",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ENTRANCEEVIL",
       "SetID": "511e31d",
       "Name": "Failed attempt",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ESCAPEDOC",
@@ -253,9 +253,9 @@
       "ID": "ACH_EVILDOCUMENTS",
       "SetID": "511e31d",
       "Name": "Horror book",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FORCE",
@@ -317,9 +317,9 @@
       "ID": "ACH_NOKNIFE",
       "SetID": "511e31d",
       "Name": "Good choice",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_OUTOFMOTEL",
@@ -341,9 +341,9 @@
       "ID": "ACH_RESTAURANT",
       "SetID": "511e31d",
       "Name": "Take the long way round",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REVENGE",
@@ -365,17 +365,17 @@
       "ID": "ACH_ROOM203",
       "SetID": "511e31d",
       "Name": "Pick the right door",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ROOM303",
       "SetID": "511e31d",
       "Name": "One-way",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SPADE",
@@ -397,9 +397,9 @@
       "ID": "ACH_THIRDFLOOR",
       "SetID": "511e31d",
       "Name": "The third floor",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_WAREHOUSE",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:30.4411322+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:16.4412513+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:17.7236727+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:57:16.5426752+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:30.441169+00:00"
+  "LastUpdate_Ratings": "2023-06-04T20:58:05.2313602+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:16.4412781+00:00"
 }

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~563 |
-| Rail Rat | 78.00% | ~467 |
-| The Mysterious Stranger | 76.00% | ~455 |
-| Immaculate Aim | 65.00% | ~389 |
-| The Brass Boss | 57.00% | ~341 |
-| Honest Mistake | 56.00% | ~335 |
-| No, Thanks! | 55.00% | ~329 |
-| Time Flies | 53.00% | ~317 |
-| The Harder They Fall | 52.00% | ~311 |
-| The Prince in Heels | 52.00% | ~311 |
+| Time Heals All Wounds | 94.00% | ~564 |
+| Rail Rat | 78.00% | ~468 |
+| The Mysterious Stranger | 76.00% | ~456 |
+| Immaculate Aim | 65.00% | ~390 |
+| The Brass Boss | 57.00% | ~342 |
+| Honest Mistake | 56.00% | ~336 |
+| No, Thanks! | 55.00% | ~330 |
+| Time Flies | 53.00% | ~318 |
+| The Harder They Fall | 52.00% | ~312 |
+| The Prince in Heels | 52.00% | ~312 |
 | Right On Time | 50.00% | ~300 |
 | Fast Learner | 50.00% | ~300 |
 | Immaculate Aim | 49.00% | ~294 |
 | Make Up For Lost Time | 48.00% | ~288 |
-| Breaking Down Barriers | 44.00% | ~264 |
+| Breaking Down Barriers | 45.00% | ~270 |
 | The Steel Shadow | 40.00% | ~240 |
-| Golem Chaser | 38.00% | ~228 |
+| Golem Chaser | 39.00% | ~234 |
 | Like Clockwork | 37.00% | ~222 |
 | The Wicked Twins | 37.00% | ~222 |
 | The Betrayer | 36.00% | ~216 |
@@ -45,7 +45,7 @@
 | Sartorialist | 13.00% | ~78 |
 | Entresol Explorer | 13.00% | ~78 |
 | Clovemary for Remembering | 10.00% | ~60 |
-| Hexlock for Protection | 9.00% | ~54 |
+| Hexlock for Protection | 10.00% | ~60 |
 | Golem Hunter | 9.00% | ~54 |
 | Wunderkind | 4.00% | ~24 |
 | Fitting In | 4.00% | ~24 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 195)  
+Progressed: 600 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 565 | 0 |
 | 2023-06-02 | 578 | 0 |
 | 2023-06-03 | 586 | 0 |
-| 2023-06-04 | 599 | 0 |
+| 2023-06-04 | 600 | 0 |

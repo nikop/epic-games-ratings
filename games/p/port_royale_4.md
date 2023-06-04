@@ -8,11 +8,11 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~495 |
 | My little farm | 65.00% | ~397 |
-| Every beginning is difficult | 62.00% | ~379 |
+| Every beginning is difficult | 63.00% | ~385 |
 | 3, 2, 1, mine | 55.00% | ~336 |
 | Gofer | 55.00% | ~336 |
+| Seafarer | 54.00% | ~330 |
 | O Captain! My Captain! | 54.00% | ~330 |
-| Seafarer | 53.00% | ~324 |
 | Greed for gold | 42.00% | ~257 |
 | Intangible | 41.00% | ~251 |
 | I'm out of here for a while | 41.00% | ~251 |
@@ -25,8 +25,8 @@ Number of Ratings: 53  (23.09.2022)
 | Groundskeeper | 25.00% | ~153 |
 | Wholesale | 21.00% | ~128 |
 | Walk the plank | 20.00% | ~122 |
+| Pearly gates | 17.00% | ~104 |
 | My precious! | 17.00% | ~104 |
-| Pearly gates | 16.00% | ~98 |
 | Conquistador | 13.00% | ~79 |
 | Panic buying | 11.00% | ~67 |
 | Just a scratch | 9.00% | ~55 |

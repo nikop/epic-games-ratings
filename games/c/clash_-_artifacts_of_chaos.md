@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 66.00% | ~53 |
+| Declawing | 68.00% | ~54 |
 | Target Practice | 40.00% | ~32 |
 | Over the Moon | 35.00% | ~28 |
 | Enemies of Fate | 31.00% | ~25 |

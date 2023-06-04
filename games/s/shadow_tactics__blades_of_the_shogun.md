@@ -6,15 +6,15 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,409 |
-| Thorough | 9.00% | ~15,668 |
-| A thief's beginning | 8.00% | ~13,927 |
-| Tanuki Time | 7.00% | ~12,186 |
-| Disguised | 6.00% | ~10,445 |
-| Jonin | 6.00% | ~10,445 |
-| Rescue Takuma | 6.00% | ~10,445 |
-| Rollin' | 6.00% | ~10,445 |
-| Stoned Ox | 6.00% | ~10,445 |
+| Genin | 10.00% | ~17,411 |
+| Thorough | 9.00% | ~15,670 |
+| A thief's beginning | 8.00% | ~13,929 |
+| Tanuki Time | 7.00% | ~12,188 |
+| Disguised | 6.00% | ~10,446 |
+| Jonin | 6.00% | ~10,446 |
+| Rescue Takuma | 6.00% | ~10,446 |
+| Rollin' | 6.00% | ~10,446 |
+| Stoned Ox | 6.00% | ~10,446 |
 | Chunin | 5.00% | ~8,705 |
 | Flying Rocks | 5.00% | ~8,705 |
 | Happy Planning | 5.00% | ~8,705 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~174 |
 | Release the Kraken | 0.10% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174,091 (Ranked 55)  
+Progressed: 174,108 (Ranked 55)  
 Completed: 49 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,17 +96,17 @@ Completed: 49 (0.03%) (Ranked 190)
 | 2023-06-01 | 173,080 | 47 |
 | 2023-06-02 | 173,364 | 48 |
 | 2023-06-03 | 173,762 | 48 |
-| 2023-06-04 | 174,091 | 49 |
+| 2023-06-04 | 174,108 | 49 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
-Sum: 4,676 (Ranked 126)  
+Sum: 4,677 (Ranked 126)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 551 |
 | This game has Diverse Characters | 523 |
 | This game is Extremely Fun | 516 |
-| This game has Amazing Storytelling | 498 |
+| This game has Amazing Storytelling | 499 |
 | This game has Amazing Characters | 481 |
 | This game is Highly Recommended | 478 |
 | This game has Challenging Combat | 474 |
@@ -237,3 +237,4 @@ Diff (max vs sum): 51
 | 2023-05-28 | 4.66 | - | 551 | 4,673 |
 | 2023-06-01 | 4.66 | - | 551 | 4,675 |
 | 2023-06-03 | 4.66 | - | 551 | 4,676 |
+| 2023-06-04 | 4.66 | - | 551 | 4,677 |

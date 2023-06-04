@@ -6,35 +6,35 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,452 |
+| Tattletale | 42.00% | ~5,453 |
 | Man of politics | 36.00% | ~4,674 |
-| Friends of sorts | 34.00% | ~4,414 |
-| Yet another secret | 34.00% | ~4,414 |
-| Let there be darkness | 33.00% | ~4,284 |
-| End of Book One | 31.00% | ~4,024 |
+| Friends of sorts | 34.00% | ~4,415 |
+| Yet another secret | 34.00% | ~4,415 |
+| Let there be darkness | 33.00% | ~4,285 |
+| End of Book One | 31.00% | ~4,025 |
 | Garden of Eden | 25.00% | ~3,246 |
 | Wannabe knight | 24.00% | ~3,116 |
 | Full house | 24.00% | ~3,116 |
 | Help an old friend | 22.00% | ~2,856 |
-| Two of us | 20.00% | ~2,596 |
+| Two of us | 20.00% | ~2,597 |
 | Negotiation skills | 19.00% | ~2,467 |
 | Workers' union | 19.00% | ~2,467 |
 | End of Book Two | 18.00% | ~2,337 |
 | Everything's in order | 17.00% | ~2,207 |
-| Jack was here! | 15.00% | ~1,947 |
-| Twist of Fate | 14.00% | ~1,817 |
-| Exterminator | 14.00% | ~1,817 |
+| Jack was here! | 15.00% | ~1,948 |
+| Twist of Fate | 14.00% | ~1,818 |
+| Exterminator | 14.00% | ~1,818 |
 | Whodunnit | 13.00% | ~1,688 |
 | Good midwife | 11.00% | ~1,428 |
 | Friar Tuck | 11.00% | ~1,428 |
 | First profit | 11.00% | ~1,428 |
 | Team player | 10.00% | ~1,298 |
-| Skilled merchant | 9.00% | ~1,168 |
-| Nothing but make-believe | 9.00% | ~1,168 |
-| Brother Marcus | 9.00% | ~1,168 |
-| The oath | 9.00% | ~1,168 |
-| The truth revealed | 9.00% | ~1,168 |
-| The End. | 9.00% | ~1,168 |
+| Skilled merchant | 9.00% | ~1,169 |
+| Nothing but make-believe | 9.00% | ~1,169 |
+| Brother Marcus | 9.00% | ~1,169 |
+| The oath | 9.00% | ~1,169 |
+| The truth revealed | 9.00% | ~1,169 |
+| The End. | 9.00% | ~1,169 |
 | A cry for help | 8.00% | ~1,039 |
 | Silentium est aureum | 7.00% | ~909 |
 | Rebel without a cause | 6.00% | ~779 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~519 |
 | Self-defense | 4.00% | ~519 |
 | Countess Aliena | 4.00% | ~519 |
-| Care, like a brother cares | 3.00% | ~389 |
-| A brush with death | 3.00% | ~389 |
+| Care, like a brother cares | 3.00% | ~390 |
+| A brush with death | 3.00% | ~390 |
 | Boy of mystery | 2.00% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,982 (Ranked 105)  
+Progressed: 12,984 (Ranked 105)  
 Completed: 99 (0.76%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 99 (0.76%) (Ranked 101)
 | 2023-06-01 | 12,903 | 97 |
 | 2023-06-02 | 12,925 | 97 |
 | 2023-06-03 | 12,953 | 97 |
-| 2023-06-04 | 12,982 | 99 |
+| 2023-06-04 | 12,984 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 356)  

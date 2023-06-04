@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 104.00% | ~95 |
-| Break no Sweat | 97.00% | ~88 |
-| Every little bit counts | 97.00% | ~88 |
-| Growth | 86.00% | ~78 |
-| Targeting the Enemy | 68.00% | ~62 |
-| Unavoidable | 63.00% | ~57 |
+| Black Cat's Warning | 104.00% | ~96 |
+| Break no Sweat | 97.00% | ~89 |
+| Every little bit counts | 96.00% | ~88 |
+| Growth | 86.00% | ~79 |
+| Targeting the Enemy | 67.00% | ~62 |
+| Unavoidable | 63.00% | ~58 |
 | Revenge | 60.00% | ~55 |
-| Reunion | 41.00% | ~37 |
+| Reunion | 40.00% | ~37 |
 | Fluke | 34.00% | ~31 |
 | Victor's Prejudice | 33.00% | ~30 |
 | Elimination | 32.00% | ~29 |
-| Memento | 30.00% | ~27 |
-| Excellent Driving Skills | 29.00% | ~26 |
-| Once Bitten, Twice Shy | 29.00% | ~26 |
+| Memento | 29.00% | ~27 |
+| Excellent Driving Skills | 28.00% | ~26 |
+| Once Bitten, Twice Shy | 28.00% | ~26 |
+| Unsalvageable | 26.00% | ~24 |
 | Defeat the AI | 25.00% | ~23 |
-| Unsalvageable | 25.00% | ~23 |
 | Fleet-footed | 25.00% | ~23 |
 | Invincible | 24.00% | ~22 |
 | Neutralize | 23.00% | ~21 |
 | Best in Dragon City | 22.00% | ~20 |
 | Walking into a Trap | 22.00% | ~20 |
 | Disdain | 20.00% | ~18 |
-| Final Battle | 19.00% | ~17 |
-| Outsider's Profit | 19.00% | ~17 |
+| Final Battle | 18.00% | ~17 |
+| Outsider's Profit | 18.00% | ~17 |
 | Reappearance | 15.00% | ~14 |
 | Brain in a Vat | 15.00% | ~14 |
 | King of the Streets | 11.00% | ~10 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91 (Ranked 273)  
+Progressed: 92 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-29 | 89 | 0 |
 | 2023-06-01 | 90 | 0 |
 | 2023-06-03 | 92 | 0 |
-| 2023-06-04 | 91 | 0 |
+| 2023-06-04 | 92 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

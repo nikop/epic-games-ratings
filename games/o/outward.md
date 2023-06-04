@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,068 |
-| Ready for Winter | 63.00% | ~1,761 |
-| Ready for Summer | 50.00% | ~1,398 |
-| Cordon Bleu | 43.00% | ~1,202 |
-| Tapped! | 35.00% | ~978 |
-| Eureka | 31.00% | ~866 |
-| Scourge Slayer | 25.00% | ~699 |
-| Science, Troglodyte! | 23.00% | ~643 |
-| Exceptional Skill | 22.00% | ~615 |
-| Home Sweet Home | 21.00% | ~587 |
-| Encyclopedic! | 19.00% | ~531 |
-| A Fortress Toppled! | 16.00% | ~447 |
-| The Power of Family | 16.00% | ~447 |
-| Apex Predator | 15.00% | ~419 |
-| Strange amalgams | 12.00% | ~335 |
-| The Power of Faith | 12.00% | ~335 |
+| Venture Outward | 74.00% | ~2,071 |
+| Ready for Winter | 63.00% | ~1,763 |
+| Ready for Summer | 50.00% | ~1,399 |
+| Cordon Bleu | 43.00% | ~1,203 |
+| Tapped! | 35.00% | ~979 |
+| Eureka | 31.00% | ~867 |
+| Scourge Slayer | 25.00% | ~700 |
+| Science, Troglodyte! | 23.00% | ~644 |
+| Exceptional Skill | 22.00% | ~616 |
+| Home Sweet Home | 21.00% | ~588 |
+| Encyclopedic! | 19.00% | ~532 |
+| A Fortress Toppled! | 16.00% | ~448 |
+| The Power of Family | 16.00% | ~448 |
+| Apex Predator | 15.00% | ~420 |
+| Strange amalgams | 12.00% | ~336 |
+| The Power of Faith | 12.00% | ~336 |
 | The Power of Freedom | 9.00% | ~252 |
 | Ace Detective | 8.00% | ~224 |
 | Gift from the Ancestors | 8.00% | ~224 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,795 (Ranked 140)  
+Progressed: 2,798 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1 (0.04%) (Ranked 184)
 | 2023-06-01 | 2,727 | 1 |
 | 2023-06-02 | 2,745 | 1 |
 | 2023-06-03 | 2,770 | 1 |
-| 2023-06-04 | 2,795 | 1 |
+| 2023-06-04 | 2,798 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 443)  
 Sum: 238 (Ranked 345)  

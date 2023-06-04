@@ -200,9 +200,9 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "10",
@@ -352,9 +352,9 @@
       "ID": "27",
       "SetID": "39djiaj",
       "Name": "You broke it, you bought it",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "28",
@@ -472,17 +472,17 @@
       "ID": "41",
       "SetID": "39djiaj",
       "Name": "Bathroom Secret Spot",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "5",
       "SetID": "39djiaj",
       "Name": "Angry Dad",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "6",
@@ -504,9 +504,9 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "9",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:34.4428862+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:21.8422065+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:29.2031334+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:59:01.3654545+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:34.4429218+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:00:40.3260522+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:21.8422437+00:00"
 }

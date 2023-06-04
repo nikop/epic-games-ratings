@@ -1,18 +1,18 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.34 (Ranked 732)  
+Rating: 4.34 (Ranked 733)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~936 |
+| First Blood | 92.00% | ~937 |
 | Ranidaphobia | 74.00% | ~753 |
-| Aspiring Editor | 72.00% | ~732 |
-| Gun for Hire | 66.00% | ~671 |
+| Aspiring Editor | 72.00% | ~733 |
+| Gun for Hire | 66.00% | ~672 |
 | I am the law! | 58.00% | ~590 |
-| Lumberjack | 42.00% | ~427 |
-| Croaked | 38.00% | ~386 |
-| Limp Richard | 37.00% | ~376 |
+| Lumberjack | 42.00% | ~428 |
+| Croaked | 38.00% | ~387 |
+| Limp Richard | 37.00% | ~377 |
 | From Darkness to Light | 36.00% | ~366 |
 | Firestarter | 35.00% | ~356 |
 | Editor Adept | 34.00% | ~346 |
@@ -30,7 +30,7 @@ Rating: 4.34 (Ranked 732)
 | Infiltrator | 16.00% | ~163 |
 | Pushing Daisy | 16.00% | ~163 |
 | There Can Be Only One! | 16.00% | ~163 |
-| Experienced | 13.00% | ~132 |
+| Experienced | 14.00% | ~143 |
 | Newtonian Knockout | 13.00% | ~132 |
 | Endgame | 11.00% | ~112 |
 | Ruthless | 11.00% | ~112 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 732)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,017 (Ranked 171)  
+Progressed: 1,018 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
 | 2023-06-03 | 997 | 0 |
-| 2023-06-04 | 1,017 | 0 |
+| 2023-06-04 | 1,018 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

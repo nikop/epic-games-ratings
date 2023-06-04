@@ -23,8 +23,8 @@
 | Gooey Delight! | 39.00% | ~372 |
 | Well Rested | 39.00% | ~372 |
 | Nightmare Fuel | 38.00% | ~363 |
+| Take Heart | 38.00% | ~363 |
 | Teacups for Toppy | 38.00% | ~363 |
-| Take Heart | 37.00% | ~353 |
 | The Guardian | 37.00% | ~353 |
 | Stronger! | 36.00% | ~343 |
 | Ancient Wisdom | 35.00% | ~334 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 954 (Ranked 175)  
-Completed: 65 (6.81%) (Ranked 26)  
+Completed: 65 (6.81%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

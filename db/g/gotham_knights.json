@@ -1388,9 +1388,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63623,
+  "EOS_Progressed": 63630,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1044,
+  "EOS_NewPlayers": 1036,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5063,6 +5063,11 @@
       "Time": "2023-06-04T20:05:54.6214378+00:00",
       "NumProgressed": 63623,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-04T21:07:47.9500724+00:00",
+      "NumProgressed": 63630,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5122,7 +5127,7 @@
       "Name": "The Batman Family",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -5210,7 +5215,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -5226,7 +5231,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -5256,9 +5261,9 @@
       "ID": "DEFEAT_LOS_1",
       "SetID": "4eo5ebm",
       "Name": "Out of Their League",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 445
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -5298,7 +5303,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "FREEZE_1_5",
@@ -5378,7 +5383,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "HARLEY_2",
@@ -5386,7 +5391,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "HARLEY_3",
@@ -5450,7 +5455,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -5458,7 +5463,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "MYSTERY_01",
@@ -5466,7 +5471,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "MYSTERY_02",
@@ -5474,7 +5479,7 @@
       "Name": "Whispered Words",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "MYSTERY_03",
@@ -5552,22 +5557,22 @@
       "ID": "TIME_TRIALS_1",
       "SetID": "4eo5ebm",
       "Name": "Bat Out of Hell",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 191
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63623,
+      "Progressed": 63630,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33903,
+      "Progressed": 33910,
       "Completed": 2644
     }
   ],
@@ -5575,8 +5580,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-04T19:00:04.3635925+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:54.621437+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:47.950072+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:59:33.35246+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:54.6215778+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:01:28.4109801+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:47.9501558+00:00"
 }

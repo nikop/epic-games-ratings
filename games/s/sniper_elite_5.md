@@ -5,43 +5,43 @@ Rating: 4.44 (Ranked 631)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 26.00% | ~584 |
-| Confirming Suspicions | 21.00% | ~471 |
-| The Kraken Wakes | 17.00% | ~382 |
-| It's Starting to Crack | 14.00% | ~314 |
-| Lord of War | 13.00% | ~292 |
-| Change the Channel | 12.00% | ~269 |
-| Resourceful | 11.00% | ~247 |
-| Taking it back | 10.00% | ~224 |
-| Organ Grinder | 9.00% | ~202 |
-| As Quiet as a Mouse | 9.00% | ~202 |
+| Meeting Resistance | 26.00% | ~586 |
+| Confirming Suspicions | 21.00% | ~473 |
+| The Kraken Wakes | 17.00% | ~383 |
+| It's Starting to Crack | 14.00% | ~315 |
+| Lord of War | 13.00% | ~293 |
+| Change the Channel | 12.00% | ~270 |
+| Resourceful | 11.00% | ~248 |
+| Taking it back | 10.00% | ~225 |
+| Organ Grinder | 9.00% | ~203 |
+| As Quiet as a Mouse | 9.00% | ~203 |
 | Target America | 8.00% | ~180 |
-| Enemy at the Gates | 7.00% | ~157 |
-| Just a Flesh Wound | 7.00% | ~157 |
-| Gunslinger | 7.00% | ~157 |
-| Sharpshooter | 7.00% | ~157 |
-| Explosive Efficiency | 7.00% | ~157 |
-| The Kraken Sleeps | 7.00% | ~157 |
+| Enemy at the Gates | 7.00% | ~158 |
+| Just a Flesh Wound | 7.00% | ~158 |
+| Gunslinger | 7.00% | ~158 |
+| Sharpshooter | 7.00% | ~158 |
+| Explosive Efficiency | 7.00% | ~158 |
+| The Kraken Sleeps | 7.00% | ~158 |
 | Liberté | 6.00% | ~135 |
 | Opposing Force | 6.00% | ~135 |
 | Der Geist | 6.00% | ~135 |
-| Fields of Glory | 5.00% | ~112 |
-| Die Nussknacker Sweet! | 5.00% | ~112 |
-| Close Quarters | 5.00% | ~112 |
-| Snake in the Grass | 5.00% | ~112 |
+| Fields of Glory | 5.00% | ~113 |
+| Die Nussknacker Sweet! | 5.00% | ~113 |
+| Close Quarters | 5.00% | ~113 |
+| Snake in the Grass | 5.00% | ~113 |
 | Climbing the Ladder | 4.00% | ~90 |
 | No Stone Unturned | 4.00% | ~90 |
 | Skirmisher | 4.00% | ~90 |
 | Set Europe Ablaze | 4.00% | ~90 |
 | Brains of the Operation | 4.00% | ~90 |
-| Precision Is Key | 3.00% | ~67 |
+| Precision Is Key | 3.00% | ~68 |
 | Rigged to Blow | 2.00% | ~45 |
 | My Little Friend | 2.00% | ~45 |
 | It'll Buff Right Out | 2.00% | ~45 |
-| Strategist | 1.00% | ~22 |
-| The Long Game | 1.00% | ~22 |
-| Locomotion Commotion | 1.00% | ~22 |
-| Road Rage | 1.00% | ~22 |
+| Strategist | 1.00% | ~23 |
+| The Long Game | 1.00% | ~23 |
+| Locomotion Commotion | 1.00% | ~23 |
+| Road Rage | 1.00% | ~23 |
 | Herr Today, Gone Tomorrow | 1.00% | ~22 |
 | Operation Foxley | 1.00% | ~22 |
 | Don't hold your breath | 0.90% | ~20 |
@@ -60,7 +60,7 @@ Rating: 4.44 (Ranked 631)
 | If You Go Down To The Woods Today | 0.30% | ~7 |
 | Fight Another Day | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
-| Sight Beyond Sights | 0.20% | ~4 |
+| Sight Beyond Sights | 0.20% | ~5 |
 | Covert Elimination | 0.20% | ~4 |
 | Best of the Best | 0.10% | ~2 |
 | Master of Secondaries | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 631)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,245 (Ranked 149)  
+Progressed: 2,252 (Ranked 148)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
-| 2023-06-04 | 2,245 | 2 |
+| 2023-06-04 | 2,252 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

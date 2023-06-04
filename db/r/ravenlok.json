@@ -3,9 +3,9 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,8 +29,8 @@
   "Tags": [],
   "EOS_Progressed": 954,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 64,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 63,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.81,
   "EosHistory": [
     {
@@ -2265,9 +2265,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 353
+      "UsersEstimate": 363
     },
     {
       "ID": "22",
@@ -2570,8 +2570,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:31.1333612+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:17.3878687+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:57:26.1948401+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:31.1334551+00:00"
+  "LastUpdate_Ratings": "2023-06-04T20:58:19.1924455+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:17.3879378+00:00"
 }

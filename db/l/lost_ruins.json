@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2023-06-04T19:06:18.7582526+00:00",
       "NumProgressed": 347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T21:07:44.2619529+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -373,7 +378,7 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Assassin",
@@ -389,7 +394,7 @@
       "Name": "Boss Killer",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BugHunter",
@@ -475,9 +480,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "Librarian",
@@ -676,7 +681,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 0
     }
   ],
@@ -684,8 +689,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:51.6617858+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:44.2619524+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:59:24.0757686+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:51.6618409+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:01:13.3184671+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:44.2619871+00:00"
 }

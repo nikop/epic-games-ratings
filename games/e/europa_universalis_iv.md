@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,512 |
-| That's a Grand Army | 8.00% | ~4,010 |
-| That is mine! | 8.00% | ~4,010 |
-| Victorious! | 8.00% | ~4,010 |
-| Brothers in Arms | 6.00% | ~3,008 |
-| That's a Grand Navy | 6.00% | ~3,008 |
-| Seriously?! | 6.00% | ~3,008 |
-| For the Glory | 5.00% | ~2,507 |
-| Cold War | 4.00% | ~2,005 |
-| True Catholic | 4.00% | ~2,005 |
-| Defender of the Faith | 3.00% | ~1,504 |
-| It's all about the money | 3.00% | ~1,504 |
-| Respected | 3.00% | ~1,504 |
-| Truly Divine Ruler | 3.00% | ~1,504 |
+| Until death do us apart | 9.00% | ~4,514 |
+| That's a Grand Army | 8.00% | ~4,012 |
+| That is mine! | 8.00% | ~4,012 |
+| Victorious! | 8.00% | ~4,012 |
+| Brothers in Arms | 6.00% | ~3,009 |
+| That's a Grand Navy | 6.00% | ~3,009 |
+| Seriously?! | 6.00% | ~3,009 |
+| For the Glory | 5.00% | ~2,508 |
+| Cold War | 4.00% | ~2,006 |
+| True Catholic | 4.00% | ~2,006 |
+| Defender of the Faith | 3.00% | ~1,505 |
+| It's all about the money | 3.00% | ~1,505 |
+| Respected | 3.00% | ~1,505 |
+| Truly Divine Ruler | 3.00% | ~1,505 |
 | Agressive Expander | 2.00% | ~1,003 |
 | Blockader | 2.00% | ~1,003 |
 | Combined Arms | 2.00% | ~1,003 |
@@ -31,12 +31,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,003 |
 | The Princess is in this Castle | 2.00% | ~1,003 |
 | Total Control | 2.00% | ~1,003 |
-| All That's Thine Shall Be Mine | 1.00% | ~501 |
-| Azur semé de lis or | 1.00% | ~501 |
-| Bright Spark | 1.00% | ~501 |
-| City of Cities | 1.00% | ~501 |
-| Factionalism | 1.00% | ~501 |
-| A Golden Empire | 1.00% | ~501 |
+| All That's Thine Shall Be Mine | 1.00% | ~502 |
+| Azur semé de lis or | 1.00% | ~502 |
+| Bright Spark | 1.00% | ~502 |
+| City of Cities | 1.00% | ~502 |
+| Factionalism | 1.00% | ~502 |
+| A Golden Empire | 1.00% | ~502 |
 | Market Control | 0.90% | ~451 |
 | The Five Colonies | 0.90% | ~451 |
 | This navy can take it all | 0.90% | ~451 |
@@ -45,10 +45,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.70% | ~351 |
 | Trustworthy | 0.70% | ~351 |
 | All belongs to Mother Russia | 0.60% | ~301 |
+| At every continent | 0.60% | ~301 |
+| Early-Modern Warfare | 0.60% | ~301 |
 | Electable! | 0.60% | ~301 |
 | Time Bandit | 0.60% | ~301 |
-| At every continent | 0.50% | ~251 |
-| Early-Modern Warfare | 0.50% | ~251 |
 | One Family to Rule them All | 0.50% | ~251 |
 | Populists in Government | 0.50% | ~251 |
 | The pen is mightier than the sword | 0.50% | ~251 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,131 (Ranked 78)  
+Progressed: 50,156 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,15 +406,15 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
-| 2023-06-04 | 50,131 | 0 |
+| 2023-06-04 | 50,156 | 0 |
 ## Awards
 Max (Educational): 5,342  (Ranked 61)  
-Sum: 44,127 (Ranked 27)  
+Sum: 44,141 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,342 |
-| This game is Highly Recommended | 5,101 |
+| This game is Highly Recommended | 5,115 |
 | This game has Challenging Combat | 5,097 |
 | This game is Extremely Fun | 5,063 |
 | This game has Diverse Characters | 5,026 |
@@ -564,4 +564,4 @@ Diff (max vs sum): 34
 | 2023-06-01 | 4.68 | - | 5,330 | 44,027 |
 | 2023-06-02 | 4.68 | - | 5,338 | 44,064 |
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
-| 2023-06-04 | 4.68 | - | 5,342 | 44,127 |
+| 2023-06-04 | 4.68 | - | 5,342 | 44,141 |

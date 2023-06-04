@@ -14,7 +14,7 @@ Number of Ratings: 180  (23.09.2022)
 | First passenger waiting | 66.00% | ~806 |
 | First bus arrived | 65.00% | ~794 |
 | First train station | 63.00% | ~769 |
-| First steam train arrived | 59.00% | ~720 |
+| First steam train arrived | 60.00% | ~733 |
 | First industry upgraded | 56.00% | ~684 |
 | Transport millionaire | 54.00% | ~659 |
 | Cargo hub | 53.00% | ~647 |

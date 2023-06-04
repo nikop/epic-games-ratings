@@ -2,12 +2,12 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout (DKO) - Starter Edition",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 732,
+  "Ranking_Rating": 733,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-13T15:00:00+00:00",
@@ -879,6 +879,6 @@
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
   "LastChanged": "2023-05-31T16:59:51.4240289+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:16.2688298+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:59:38.6778645+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:04:56.1840513+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:01:37.7159662+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:06:26.3979634+00:00"
 }

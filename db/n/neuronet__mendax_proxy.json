@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:48.5244866+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:40.4522396+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.6768676+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:59:31.0241571+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:48.5245535+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:01:23.5248021+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:40.4523071+00:00"
 }

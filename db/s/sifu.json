@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4422,10 +4422,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707402,
+  "EOS_Progressed": 707409,
   "EOS_Completed": 12757,
-  "EOS_NewPlayers": 1350,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1351,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8532,6 +8532,11 @@
       "Time": "2023-06-04T20:05:51.7462894+00:00",
       "NumProgressed": 707402,
       "NumCompleted": 12757
+    },
+    {
+      "Time": "2023-06-04T21:07:44.2949684+00:00",
+      "NumProgressed": 707409,
+      "NumCompleted": 12757
     }
   ],
   "TotalAchievements": 50,
@@ -8629,9 +8634,9 @@
       "ID": "12_MidAge",
       "SetID": "adcm20g",
       "Name": "Scareless",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4952
+      "UsersEstimate": 5659
     },
     {
       "ID": "13_LowAge",
@@ -8942,21 +8947,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16703,
+      "Progressed": 16710,
       "Completed": 10222
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707402,
+      "Progressed": 707409,
       "Completed": 12757
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-04T18:59:16.6144899+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:51.7462888+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:44.2949678+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:58:55.0326885+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:51.7464049+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:00:31.038266+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:44.2950426+00:00"
 }

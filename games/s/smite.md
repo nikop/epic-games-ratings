@@ -1,11 +1,11 @@
 # SMITE
 [Store](https://store.epicgames.com/en-US/p/smite)  
 [View Rawdata](../../db/s/smite.json)  
-Rating: 4.45 (Ranked 613)  
+Rating: 4.45 (Ranked 614)  
 Number of Ratings: 6,749  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 3,854  (Ranked 77)  
-Sum: 23,607 (Ranked 47)  
+Sum: 23,610 (Ranked 47)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 30
 | This game has Amazing Characters | 2,832 |
 | This game has Amazing Storytelling | 2,476 |
 | This game has Obsessive Gameplay | 2,413 |
-| This game has a Competitive Community | 2,283 |
+| This game has a Competitive Community | 2,286 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -160,4 +160,4 @@ Diff (max vs sum): 30
 | 2023-06-01 | 4.45 | - | 3,840 | 23,545 |
 | 2023-06-02 | 4.45 | - | 3,843 | 23,577 |
 | 2023-06-03 | 4.45 | - | 3,852 | 23,599 |
-| 2023-06-04 | 4.45 | - | 3,854 | 23,607 |
+| 2023-06-04 | 4.45 | - | 3,854 | 23,610 |

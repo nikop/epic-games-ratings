@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 14.62,
+  "EOS_Completed_Percentage": 14.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1153,6 +1153,11 @@
       "Time": "2023-06-04T18:06:01.6344038+00:00",
       "NumProgressed": 260,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-04T21:07:12.8684239+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 22,
@@ -1164,7 +1169,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "LEVEL_002",
@@ -1172,7 +1177,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "LEVEL_003",
@@ -1196,15 +1201,15 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_007",
@@ -1212,7 +1217,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_008",
@@ -1220,7 +1225,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_009",
@@ -1244,7 +1249,7 @@
       "Name": "At the heart of the city",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_012",
@@ -1284,7 +1289,7 @@
       "Name": "The beach is right there",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_017",
@@ -1306,9 +1311,9 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_020",
@@ -1339,7 +1344,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 38
     }
   ],
@@ -1347,8 +1352,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:27.8232462+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:12.8684233+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:57:59.8106139+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:27.8232947+00:00"
+  "LastUpdate_Ratings": "2023-06-04T20:59:11.5029635+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:12.8684498+00:00"
 }

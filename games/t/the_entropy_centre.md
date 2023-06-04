@@ -9,7 +9,7 @@
 | Time Gates | 63.00% | ~89 |
 | Command Centre | 47.00% | ~67 |
 | This is a Wall | 42.00% | ~60 |
-| Extendable Bridges | 33.00% | ~47 |
+| Extendable Bridges | 34.00% | ~48 |
 | 48 Attempts | 33.00% | ~47 |
 | Man's Best Friend | 30.00% | ~43 |
 | Chain Reaction | 30.00% | ~43 |
@@ -19,11 +19,11 @@
 | Running Boots | 13.00% | ~18 |
 | Fashionista | 11.00% | ~16 |
 | Looper | 10.00% | ~14 |
+| Cataclysm | 9.00% | ~13 |
 | Archivist | 9.00% | ~13 |
 | Transformers, cubes in disguise | 8.00% | ~11 |
 | Kaboom! | 8.00% | ~11 |
 | All Alone | 8.00% | ~11 |
-| Cataclysm | 8.00% | ~11 |
 | Reunited | 8.00% | ~11 |
 | So Close | 7.00% | ~10 |
 | Final Charge | 7.00% | ~10 |

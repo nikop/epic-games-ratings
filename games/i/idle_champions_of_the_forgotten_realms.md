@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.80% | ~718 |
 | The Mad Wizard | 0.80% | ~718 |
 | The Court of Storms | 0.80% | ~449 |
-| Beware the Jabberwock | 0.70% | ~392 |
+| Beware the Jabberwock | 0.70% | ~393 |
 | The Ring of Regeneration | 0.60% | ~539 |
 | Were-verpowered | 0.50% | ~449 |
 | Seeking Allies | 0.50% | ~449 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.30% | ~168 |
 | Pin and Skewer | 0.30% | ~168 |
 | No One Can Hear You Scream | 0.30% | ~168 |
+| Welcome to the Rock | 0.30% | ~168 |
 | Beast Mode | 0.30% | ~269 |
 | Low Initiative | 0.30% | ~269 |
 | A Mysterious Summons | 0.30% | ~269 |
@@ -85,7 +86,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Love Unsoiled | 0.20% | ~112 |
 | The Bitter End | 0.20% | ~112 |
 | Anchors Aweigh | 0.20% | ~112 |
-| Welcome to the Rock | 0.20% | ~112 |
 | The Forbidden City | 0.20% | ~180 |
 | Captured! | 0.20% | ~180 |
 | Street War | 0.20% | ~180 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,796 (Ranked 62)  
+Progressed: 89,802 (Ranked 62)  
 Completed: 1,915 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 1,915 (2.13%) (Ranked 65)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,796 | 1,915 |
+| 2023-06-04 | 89,802 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,030 (Ranked 37)  

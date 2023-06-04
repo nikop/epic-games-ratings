@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14492,
+  "EOS_Progressed": 14499,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2755,6 +2755,11 @@
       "Time": "2023-06-04T20:03:55.2361666+00:00",
       "NumProgressed": 14492,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T21:05:11.927379+00:00",
+      "NumProgressed": 14499,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2798,7 +2803,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2892,9 +2897,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1160
     },
     {
       "ID": "KILL_ROBOT",
@@ -2934,7 +2939,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2942,7 +2947,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2958,7 +2963,7 @@
       "Name": "The Outer Way",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2998,7 +3003,7 @@
       "Name": "Desperate Times",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3085,13 +3090,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14492,
+      "Progressed": 14499,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2418,
+      "Progressed": 2425,
       "Completed": 29
     }
   ],
@@ -3099,8 +3104,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:03:55.236166+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:05:11.9273786+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:57:49.6979006+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:03:55.236227+00:00"
+  "LastUpdate_Ratings": "2023-06-04T20:58:58.331835+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:05:11.9274323+00:00"
 }

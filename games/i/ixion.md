@@ -38,8 +38,8 @@ Rating: 4.57 (Ranked 441)
 | Delivery! | 1.00% | ~24 |
 | What the Ruins Teach Us | 1.00% | ~24 |
 | Sustainable Energy | 0.90% | ~22 |
+| Pedal to the Metal | 0.90% | ~22 |
 | Mutual Loyalty | 0.80% | ~20 |
-| Pedal to the Metal | 0.80% | ~20 |
 | Pulsar Disciple | 0.80% | ~20 |
 | Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |

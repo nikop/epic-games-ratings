@@ -6,13 +6,13 @@ Rating: 4.17 (Ranked 845)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 4.00% | ~2,545 |
-| The Batman Family | 2.00% | ~1,272 |
-| To the Victor Go the Spoils | 2.00% | ~1,272 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,272 |
-| Get ReQ'd | 2.00% | ~1,272 |
-| Knighthood | 2.00% | ~1,272 |
-| Loose Ends | 2.00% | ~1,272 |
-| Whispered Words | 2.00% | ~1,272 |
+| The Batman Family | 2.00% | ~1,273 |
+| To the Victor Go the Spoils | 2.00% | ~1,273 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,273 |
+| Get ReQ'd | 2.00% | ~1,273 |
+| Knighthood | 2.00% | ~1,273 |
+| Loose Ends | 2.00% | ~1,273 |
+| Whispered Words | 2.00% | ~1,273 |
 | In Your Element | 1.00% | ~636 |
 | Protector of Gotham | 1.00% | ~636 |
 | Something in the Clay | 1.00% | ~636 |
@@ -35,21 +35,21 @@ Rating: 4.17 (Ranked 845)
 | Bulldozed | 0.90% | ~573 |
 | Gotham Knight | 0.90% | ~573 |
 | Gotham City Confidential | 0.80% | ~509 |
+| Out of Their League | 0.70% | ~445 |
 | Drone You Out | 0.70% | ~445 |
-| Out of Their League | 0.60% | ~382 |
 | Solid Alibi | 0.60% | ~382 |
 | Fusion Expert | 0.50% | ~318 |
 | Family Meeting | 0.50% | ~318 |
-| Dressed to Impress | 0.40% | ~254 |
-| Expert Crime Fighter | 0.40% | ~254 |
-| A Worthy Successor | 0.40% | ~254 |
+| Dressed to Impress | 0.40% | ~255 |
+| Expert Crime Fighter | 0.40% | ~255 |
+| A Worthy Successor | 0.40% | ~255 |
 | A Momentum Occasion | 0.30% | ~191 |
+| Bat Out of Hell | 0.30% | ~191 |
 | Hammer and Icicle | 0.20% | ~68 |
 | Renewable Enemy Source | 0.20% | ~68 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
 | Practice Makes Perfect | 0.20% | ~127 |
 | He'd Be So Proud of You | 0.20% | ~127 |
-| Bat Out of Hell | 0.20% | ~127 |
 | Element of Surprise | 0.10% | ~34 |
 | It's Nice to Be Wanted | 0.10% | ~34 |
 | The Cold, the Bad and the Ugly | 0.10% | ~34 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 845)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,623 (Ranked 71)  
+Progressed: 63,630 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
-| 2023-06-04 | 63,623 | 93 |
+| 2023-06-04 | 63,630 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
 Sum: 3,793 (Ranked 137)  

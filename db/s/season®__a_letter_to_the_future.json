@@ -2,7 +2,7 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
-  "Ranking_EOS_Progress": 177,
+  "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 50,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
@@ -976,6 +976,11 @@
       "Time": "2023-06-04T20:05:30.0858657+00:00",
       "NumProgressed": 949,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-04T21:07:15.9206324+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -1011,7 +1016,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -1043,7 +1048,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1051,7 +1056,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1059,7 +1064,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -1075,7 +1080,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1091,7 +1096,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_THEEND",
@@ -1107,14 +1112,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 36
     }
   ],
@@ -1122,8 +1127,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-04T20:05:30.0858652+00:00",
+  "LastChanged_Achievements": "2023-06-04T21:07:15.9206318+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:58:34.7998858+00:00",
-  "LastUpdate_Achievements": "2023-06-04T20:05:30.0858887+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:00:02.4579823+00:00",
+  "LastUpdate_Achievements": "2023-06-04T21:07:15.9206539+00:00"
 }
