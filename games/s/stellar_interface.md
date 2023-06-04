@@ -40,6 +40,7 @@
 | Wicked Sick | 3.00% | ~1 |
 | Usurper I | 3.00% | ~1 |
 | Unstoppable | 3.00% | ~1 |
+| Flower Power | 3.00% | ~1 |
 | 25Gb HDD | 3.00% | ~1 |
 | 50Gb HDD | 3.00% | ~1 |
 | Galactic Cadet | 3.00% | ~1 |
@@ -106,7 +107,6 @@
 | Rampage | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Usurper III | 0.00% | ~0 |
-| Flower Power | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
 | 80Gb HDD | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |

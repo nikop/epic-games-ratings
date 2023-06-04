@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5870,
+  "EOS_Progressed": 5871,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2888,6 +2888,11 @@
       "Time": "2023-06-04T03:26:59.2305005+00:00",
       "NumProgressed": 5870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T08:04:44.236893+00:00",
+      "NumProgressed": 5871,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2939,7 +2944,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "Control_All_Relics",
@@ -2979,7 +2984,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "First_Major_Ally",
@@ -3003,7 +3008,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4638
     },
     {
       "ID": "First_Race_Met",
@@ -3011,7 +3016,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4285
+      "UsersEstimate": 4286
     },
     {
       "ID": "First_Ship_Designed",
@@ -3019,7 +3024,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "First_Stream_Travel",
@@ -3115,7 +3120,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "Play_1000_Hours",
@@ -3219,7 +3224,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3387,7 +3392,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3933
+      "UsersEstimate": 3934
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3474,15 +3479,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5870,
+      "Progressed": 5871,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:04:14.9873311+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:04:44.2368926+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0102409+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:57:29.631982+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:04:14.9874802+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:57:47.9795363+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:04:44.2369777+00:00"
 }

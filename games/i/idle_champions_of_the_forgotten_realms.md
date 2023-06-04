@@ -53,12 +53,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~179 |
 | A Steadfast Love | 0.20% | ~112 |
 | Wet Feet | 0.20% | ~179 |
+| The Roots of Loomlurch | 0.20% | ~112 |
 | The Lutes of Loomlurch | 0.20% | ~112 |
 | Supply Run | 0.20% | ~179 |
 | Best Laid Plans | 0.20% | ~112 |
 | The Howling Peaks of Yon | 0.20% | ~112 |
 | The Invisible Wizards of Thay | 0.20% | ~112 |
 | Vecna Lives! | 0.20% | ~112 |
+| More Than Well Equipped | 0.20% | ~112 |
 | Return to the Tomb | 0.20% | ~112 |
 | Keep Your Distance | 0.20% | ~112 |
 | Heatwave | 0.20% | ~112 |
@@ -95,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~179 |
 | The Dinner Party | 0.20% | ~179 |
 | The Botched Kidnapping | 0.20% | ~179 |
+| The Immortal Warrior | 0.20% | ~179 |
 | Tower on the Lake | 0.20% | ~179 |
 | Seeds of Deceit | 0.20% | ~179 |
 | Trollskull Manor | 0.20% | ~179 |
@@ -122,6 +125,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~179 |
 | Resolve Amongst Chaos | 0.20% | ~179 |
 | Avernus Frozen Over | 0.20% | ~112 |
+| Market Fluctuations | 0.20% | ~179 |
 | Déjà Vu All Over Again | 0.20% | ~112 |
 | Into The Fire | 0.20% | ~112 |
 | Hearts Aflame | 0.20% | ~112 |
@@ -198,7 +202,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.10% | ~56 |
 | All Damage, All The Time | 0.10% | ~56 |
 | Will of the Frozen Feywild | 0.10% | ~56 |
-| The Roots of Loomlurch | 0.10% | ~56 |
 | The Loots of Loomlurch | 0.10% | ~56 |
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
@@ -214,7 +217,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.10% | ~56 |
 | Well Equipped | 0.10% | ~56 |
 | Friends of the Forest | 0.10% | ~90 |
-| More Than Well Equipped | 0.10% | ~56 |
 | Arcane Efforts | 0.10% | ~56 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
 | Weak Doesn't Mean Feeble | 0.10% | ~56 |
@@ -261,7 +263,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.10% | ~90 |
 | Domesticated Owlbears | 0.10% | ~90 |
 | This Quest Stinks! | 0.10% | ~56 |
-| The Immortal Warrior | 0.10% | ~90 |
 | Hold for the Red Wizards | 0.10% | ~90 |
 | Form Ranks | 0.10% | ~90 |
 | Drop of Time | 0.10% | ~56 |
@@ -367,7 +368,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hailstorm! | 0.10% | ~56 |
 | All You Know Is Wrong | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
-| Market Fluctuations | 0.10% | ~90 |
 | Once More Into The Breach | 0.10% | ~90 |
 | Twice More Into The Breach | 0.10% | ~90 |
 | Thrice More Into The Breach | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,715 (Ranked 62)  
+Progressed: 89,719 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,715 | 1,913 |
+| 2023-06-04 | 89,719 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,027 (Ranked 37)  

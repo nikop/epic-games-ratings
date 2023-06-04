@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,10 +430,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1520777,
-  "EOS_Completed": 617,
-  "EOS_NewPlayers": 1576,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 1520782,
+  "EOS_Completed": 618,
+  "EOS_NewPlayers": 1571,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -5020,6 +5020,11 @@
       "Time": "2023-06-04T07:04:06.2285521+00:00",
       "NumProgressed": 1520777,
       "NumCompleted": 617
+    },
+    {
+      "Time": "2023-06-04T08:04:34.4944587+00:00",
+      "NumProgressed": 1520782,
+      "NumCompleted": 618
     }
   ],
   "TotalAchievements": 20,
@@ -5039,7 +5044,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106454
+      "UsersEstimate": 106455
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -5143,7 +5148,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121662
+      "UsersEstimate": 121663
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -5190,15 +5195,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1520777,
-      "Completed": 617
+      "Progressed": 1520782,
+      "Completed": 618
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:04:06.2285513+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:04:34.4944581+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:30.6920773+00:00",
-  "LastUpdate_Ratings": "2023-06-04T07:00:13.8344092+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:04:06.2286056+00:00"
+  "LastUpdate_Ratings": "2023-06-04T08:01:05.8830015+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:04:34.4945054+00:00"
 }

@@ -1,25 +1,25 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.32 (Ranked 748)  
+Rating: 4.32 (Ranked 749)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~910 |
-| Ranidaphobia | 74.00% | ~740 |
-| Aspiring Editor | 71.00% | ~710 |
-| Gun for Hire | 65.00% | ~650 |
-| I am the law! | 57.00% | ~570 |
-| Lumberjack | 42.00% | ~420 |
-| Croaked | 37.00% | ~370 |
-| Limp Richard | 36.00% | ~360 |
-| From Darkness to Light | 36.00% | ~360 |
-| Exorcist | 34.00% | ~340 |
-| Firestarter | 34.00% | ~340 |
-| Editor Adept | 33.00% | ~330 |
-| Giant Killer | 29.00% | ~290 |
-| Sensei | 28.00% | ~280 |
-| The meaning of Kain | 27.00% | ~270 |
+| First Blood | 91.00% | ~912 |
+| Ranidaphobia | 74.00% | ~741 |
+| Aspiring Editor | 71.00% | ~711 |
+| Gun for Hire | 65.00% | ~651 |
+| I am the law! | 57.00% | ~571 |
+| Lumberjack | 42.00% | ~421 |
+| Croaked | 37.00% | ~371 |
+| Limp Richard | 36.00% | ~361 |
+| From Darkness to Light | 36.00% | ~361 |
+| Exorcist | 34.00% | ~341 |
+| Firestarter | 34.00% | ~341 |
+| Editor Adept | 33.00% | ~331 |
+| Giant Killer | 29.00% | ~291 |
+| Sensei | 28.00% | ~281 |
+| The meaning of Kain | 27.00% | ~271 |
 | Technophobe | 22.00% | ~220 |
 | Recycler | 20.00% | ~200 |
 | Chain Killer | 17.00% | ~170 |
@@ -57,7 +57,7 @@ Rating: 4.32 (Ranked 748)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 171)  
+Progressed: 1,002 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
 | 2023-06-03 | 997 | 0 |
-| 2023-06-04 | 1,000 | 0 |
+| 2023-06-04 | 1,002 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

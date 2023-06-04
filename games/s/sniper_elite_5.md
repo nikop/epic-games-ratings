@@ -12,8 +12,8 @@ Rating: 4.44 (Ranked 631)
 | Lord of War | 12.00% | ~263 |
 | Resourceful | 11.00% | ~241 |
 | Change the Channel | 11.00% | ~241 |
+| Taking it back | 10.00% | ~220 |
 | Organ Grinder | 9.00% | ~198 |
-| Taking it back | 9.00% | ~198 |
 | As Quiet as a Mouse | 8.00% | ~176 |
 | Target America | 8.00% | ~176 |
 | Enemy at the Gates | 7.00% | ~154 |

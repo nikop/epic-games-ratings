@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 14.06,
+  "EOS_Completed_Percentage": 14.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1123,6 +1123,11 @@
       "Time": "2023-06-04T06:06:44.4368905+00:00",
       "NumProgressed": 256,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-04T08:06:48.5655251+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -1134,7 +1139,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "LEVEL_002",
@@ -1156,25 +1161,25 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 146
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_007",
@@ -1222,7 +1227,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_013",
@@ -1230,7 +1235,7 @@
       "Name": "Elevated ring",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_014",
@@ -1244,9 +1249,9 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_016",
@@ -1278,7 +1283,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_020",
@@ -1286,7 +1291,7 @@
       "Name": "City of dreams",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_021",
@@ -1309,7 +1314,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 36
     }
   ],
@@ -1317,8 +1322,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:05:59.9553234+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:06:48.5655245+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:58:06.8428607+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:05:59.9553495+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:58:34.576564+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:06:48.5655471+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -116,6 +116,11 @@
       "Time": "2023-06-02T11:06:48.3660737+00:00",
       "NumProgressed": 243,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-04T08:06:46.2702268+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -173,9 +178,9 @@
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -254,7 +259,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 3
     }
   ],
@@ -262,8 +267,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:05:58.0665177+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:06:46.2702262+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:20.9108994+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:58:13.6391152+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:05:58.0665379+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:58:42.9290052+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:06:46.2702392+00:00"
 }

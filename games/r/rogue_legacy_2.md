@@ -16,11 +16,11 @@ Number of Ratings: 1,331  (23.09.2022)
 | King and Kin | 0.40% | ~88 |
 | Progenitor and Protégé | 0.40% | ~88 |
 | Prequel to the Sequel | 0.40% | ~88 |
+| For Glory | 0.30% | ~66 |
 | Truly Blessed | 0.20% | ~44 |
 | Pillow Investments | 0.20% | ~44 |
 | Looks Familiar | 0.20% | ~44 |
 | For Justice | 0.20% | ~44 |
-| For Glory | 0.20% | ~44 |
 | Good Boy! | 0.20% | ~44 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,014 (Ranked 94)  
+Progressed: 22,016 (Ranked 94)  
 Completed: 35 (0.16%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 35 (0.16%) (Ranked 149)
 | 2023-06-01 | 21,965 | 35 |
 | 2023-06-02 | 21,986 | 35 |
 | 2023-06-03 | 22,008 | 35 |
-| 2023-06-04 | 22,014 | 35 |
+| 2023-06-04 | 22,016 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 249)  
 Sum: 1,640 (Ranked 203)  

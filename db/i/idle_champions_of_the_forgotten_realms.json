@@ -4096,10 +4096,10 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89715,
+  "EOS_Progressed": 89719,
   "EOS_Completed": 1913,
-  "EOS_NewPlayers": 762,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 761,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8596,6 +8596,11 @@
       "Time": "2023-06-04T07:06:37.6134+00:00",
       "NumProgressed": 89715,
       "NumCompleted": 1913
+    },
+    {
+      "Time": "2023-06-04T08:07:30.6497976+00:00",
+      "NumProgressed": 89719,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -9141,9 +9146,9 @@
       "ID": "objective_completed_1137",
       "SetID": "415jc5c",
       "Name": "The Roots of Loomlurch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1138",
@@ -9333,9 +9338,9 @@
       "ID": "objective_completed_1170",
       "SetID": "415jc5c",
       "Name": "More Than Well Equipped",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1173",
@@ -10085,9 +10090,9 @@
       "ID": "objective_completed_246",
       "SetID": "cc37lbc",
       "Name": "The Immortal Warrior",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_247",
@@ -11229,9 +11234,9 @@
       "ID": "objective_completed_61",
       "SetID": "cc37lbc",
       "Name": "Market Fluctuations",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_610",
@@ -12550,21 +12555,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55989,
+      "Progressed": 55993,
       "Completed": 2767
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89715,
+      "Progressed": 89719,
       "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-04T02:33:23.4476933+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:06:37.6133996+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:07:30.6497969+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:58:07.6543787+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:06:37.6157769+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:58:35.5318396+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:07:30.652645+00:00"
 }

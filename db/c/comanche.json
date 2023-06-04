@@ -4,7 +4,7 @@
   "ProductSlug": "comanche",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-30T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.946068+00:00",
   "LastChanged": "2023-03-31T05:57:34.9460682+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:10.4568542+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:58:59.2701606+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:05:06.5244883+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:59:37.0588739+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:05:44.8426648+00:00"
 }

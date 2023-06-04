@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,466 |
-| That's a Grand Army | 8.00% | ~3,970 |
-| That is mine! | 8.00% | ~3,970 |
-| Victorious! | 8.00% | ~3,970 |
-| Brothers in Arms | 6.00% | ~2,977 |
-| That's a Grand Navy | 6.00% | ~2,977 |
-| Seriously?! | 6.00% | ~2,977 |
-| For the Glory | 5.00% | ~2,481 |
-| Cold War | 4.00% | ~1,985 |
-| True Catholic | 4.00% | ~1,985 |
+| Until death do us apart | 9.00% | ~4,467 |
+| That's a Grand Army | 8.00% | ~3,971 |
+| That is mine! | 8.00% | ~3,971 |
+| Victorious! | 8.00% | ~3,971 |
+| Brothers in Arms | 6.00% | ~2,978 |
+| That's a Grand Navy | 6.00% | ~2,978 |
+| Seriously?! | 6.00% | ~2,978 |
+| For the Glory | 5.00% | ~2,482 |
+| Cold War | 4.00% | ~1,986 |
+| True Catholic | 4.00% | ~1,986 |
 | Defender of the Faith | 3.00% | ~1,489 |
 | It's all about the money | 3.00% | ~1,489 |
 | Respected | 3.00% | ~1,489 |
 | Truly Divine Ruler | 3.00% | ~1,489 |
-| Agressive Expander | 2.00% | ~992 |
-| Blockader | 2.00% | ~992 |
-| Combined Arms | 2.00% | ~992 |
-| Double the Love | 2.00% | ~992 |
-| Gentle Persuasion | 2.00% | ~992 |
-| It's all about luck | 2.00% | ~992 |
-| My armies are invincible! | 2.00% | ~992 |
-| Queen of Conquest | 2.00% | ~992 |
-| Royal Authority | 2.00% | ~992 |
-| The Princess is in this Castle | 2.00% | ~992 |
-| Total Control | 2.00% | ~992 |
+| Agressive Expander | 2.00% | ~993 |
+| Blockader | 2.00% | ~993 |
+| Combined Arms | 2.00% | ~993 |
+| Double the Love | 2.00% | ~993 |
+| Gentle Persuasion | 2.00% | ~993 |
+| It's all about luck | 2.00% | ~993 |
+| My armies are invincible! | 2.00% | ~993 |
+| Queen of Conquest | 2.00% | ~993 |
+| Royal Authority | 2.00% | ~993 |
+| The Princess is in this Castle | 2.00% | ~993 |
+| Total Control | 2.00% | ~993 |
 | All That's Thine Shall Be Mine | 1.00% | ~496 |
 | Azur semé de lis or | 1.00% | ~496 |
 | Bright Spark | 1.00% | ~496 |
@@ -45,26 +45,26 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~397 |
 | Trustworthy | 0.70% | ~347 |
 | All belongs to Mother Russia | 0.60% | ~298 |
-| Early-Modern Warfare | 0.60% | ~298 |
 | Electable! | 0.60% | ~298 |
 | Time Bandit | 0.60% | ~298 |
 | At every continent | 0.50% | ~248 |
+| Early-Modern Warfare | 0.50% | ~248 |
 | One Family to Rule them All | 0.50% | ~248 |
 | Populists in Government | 0.50% | ~248 |
 | The pen is mightier than the sword | 0.50% | ~248 |
 | This is My Faith | 0.50% | ~248 |
 | Trophy Hunter | 0.50% | ~248 |
 | Voting Streak | 0.50% | ~248 |
-| Absolutely | 0.40% | ~198 |
-| Bleed Them Dry | 0.40% | ~198 |
-| Dude, Where's my Boat? | 0.40% | ~198 |
-| Grand Coalition | 0.40% | ~198 |
-| In the Name of the Father | 0.40% | ~198 |
-| Live Long and Prosper | 0.40% | ~198 |
-| One Night in Paris | 0.40% | ~198 |
-| Ruina Imperii | 0.40% | ~198 |
-| Tear Down This Wall | 0.40% | ~198 |
-| The Continuation of Diplomacy | 0.40% | ~198 |
+| Absolutely | 0.40% | ~199 |
+| Bleed Them Dry | 0.40% | ~199 |
+| Dude, Where's my Boat? | 0.40% | ~199 |
+| Grand Coalition | 0.40% | ~199 |
+| In the Name of the Father | 0.40% | ~199 |
+| Live Long and Prosper | 0.40% | ~199 |
+| One Night in Paris | 0.40% | ~199 |
+| Ruina Imperii | 0.40% | ~199 |
+| Tear Down This Wall | 0.40% | ~199 |
+| The Continuation of Diplomacy | 0.40% | ~199 |
 | A Decent Reserve | 0.30% | ~149 |
 | A Pile of Gold | 0.30% | ~149 |
 | All Your Trade Are Belong to Us | 0.30% | ~149 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,623 (Ranked 78)  
+Progressed: 49,638 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
-| 2023-06-04 | 49,623 | 0 |
+| 2023-06-04 | 49,638 | 0 |
 ## Awards
 Max (Educational): 5,338  (Ranked 61)  
 Sum: 44,086 (Ranked 27)  

@@ -13,7 +13,7 @@
 | Duscot Steamcity | 51.00% | ~45 |
 | The Penguin | 48.00% | ~42 |
 | The Magician | 45.00% | ~40 |
-| The Thrower | 42.00% | ~37 |
+| The Thrower | 43.00% | ~38 |
 | The Shield | 40.00% | ~35 |
 | The Tunneler | 40.00% | ~35 |
 | Level Up!! | 38.00% | ~33 |

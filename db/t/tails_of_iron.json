@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1579,
+  "EOS_Progressed": 1580,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -1161,6 +1161,11 @@
       "Time": "2023-06-04T07:02:17.6416138+00:00",
       "NumProgressed": 1579,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-04T08:03:14.0149582+00:00",
+      "NumProgressed": 1580,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1172,7 +1177,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "Collect20Gold",
@@ -1194,9 +1199,9 @@
       "ID": "Collect50MonsterParts",
       "SetID": "9lj35g4",
       "Name": "Collect Monster Parts",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 885
     },
     {
       "ID": "CollectAllStatues",
@@ -1284,7 +1289,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1308,7 +1313,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "GetRangedWeapon",
@@ -1332,7 +1337,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "Kill25Frogs",
@@ -1388,7 +1393,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "RescueBrothers",
@@ -1411,22 +1416,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1579,
+      "Progressed": 1580,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 220,
-      "Completed": 220
+      "Progressed": 221,
+      "Completed": 221
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:02:17.6416134+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:03:14.0149575+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:58:28.1480106+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:02:17.6416511+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:59:00.14071+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:03:14.0150017+00:00"
 }

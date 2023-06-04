@@ -308,9 +308,9 @@
       "ID": "Award_HullKing",
       "SetID": "9ojec6n",
       "Name": "Hull King",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "Award_IntelKing",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:02:28.9940438+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:03:27.5771024+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:58:21.0692254+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:02:28.9941072+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:58:51.9520574+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:03:27.5771447+00:00"
 }

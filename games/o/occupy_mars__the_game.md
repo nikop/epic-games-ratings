@@ -19,13 +19,13 @@ Rating: 3.83 (Ranked 919)
 | The Collector | 13.00% | ~144 |
 | Get your hands dirty | 9.00% | ~99 |
 | All Wheel Trouble | 6.00% | ~66 |
-| Space Forest | 5.00% | ~55 |
+| Space Forest | 6.00% | ~66 |
 | ITS crash site | 4.00% | ~44 |
 | “Aliens” | 3.00% | ~33 |
 | DeDust | 3.00% | ~33 |
 | Plumber | 2.00% | ~22 |
+| Hard Landing | 1.00% | ~11 |
 | To infinity and beyond! | 1.00% | ~11 |
-| Hard Landing | 0.90% | ~10 |
 | Driver's License | 0.70% | ~8 |
 | Explosive Miner | 0.60% | ~7 |
 | Rocket Jump | 0.60% | ~7 |

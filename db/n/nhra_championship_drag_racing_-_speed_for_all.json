@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -188,6 +188,11 @@
       "Time": "2023-06-04T06:06:49.2880197+00:00",
       "NumProgressed": 693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T08:06:53.4010237+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -199,7 +204,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "11",
@@ -223,7 +228,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "14",
@@ -231,7 +236,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "15",
@@ -295,15 +300,15 @@
       "Name": "Participation trophy",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "22",
       "SetID": "4n5bj21",
       "Name": "Getting the job done",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 55
+      "UsersEstimate": 49
     },
     {
       "ID": "23",
@@ -437,9 +442,9 @@
       "ID": "7",
       "SetID": "4n5bj21",
       "Name": "Cash Rules Everything Around Me",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 49
     },
     {
       "ID": "8",
@@ -455,14 +460,14 @@
       "Name": "Oops, My bad",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 0
     }
   ],
@@ -470,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:06:04.1887695+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:06:53.4010231+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.1673021+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:58:30.1446353+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:06:04.188799+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:59:02.0352104+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:06:53.4010465+00:00"
 }

@@ -6,13 +6,13 @@ Rating: 4.17 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 4.00% | ~2,541 |
-| The Batman Family | 2.00% | ~1,270 |
-| To the Victor Go the Spoils | 2.00% | ~1,270 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,270 |
-| Get ReQ'd | 2.00% | ~1,270 |
-| Knighthood | 2.00% | ~1,270 |
-| Loose Ends | 2.00% | ~1,270 |
-| Whispered Words | 2.00% | ~1,270 |
+| The Batman Family | 2.00% | ~1,271 |
+| To the Victor Go the Spoils | 2.00% | ~1,271 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,271 |
+| Get ReQ'd | 2.00% | ~1,271 |
+| Knighthood | 2.00% | ~1,271 |
+| Loose Ends | 2.00% | ~1,271 |
+| Whispered Words | 2.00% | ~1,271 |
 | Protector of Gotham | 1.00% | ~635 |
 | Something in the Clay | 1.00% | ~635 |
 | The Show Mud Go On | 1.00% | ~635 |
@@ -47,6 +47,7 @@ Rating: 4.17 (Ranked 844)
 | Hammer and Icicle | 0.20% | ~68 |
 | Renewable Enemy Source | 0.20% | ~68 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
+| Practice Makes Perfect | 0.20% | ~127 |
 | He'd Be So Proud of You | 0.20% | ~127 |
 | Bat Out of Hell | 0.20% | ~127 |
 | Element of Surprise | 0.10% | ~34 |
@@ -54,7 +55,6 @@ Rating: 4.17 (Ranked 844)
 | The Cold, the Bad and the Ugly | 0.10% | ~34 |
 | Gotham's Greatest Depths | 0.10% | ~34 |
 | Showdown Sovereign | 0.10% | ~34 |
-| Practice Makes Perfect | 0.10% | ~64 |
 | That's Showbiz, Clayby | 0.10% | ~34 |
 | Talonted | 0.10% | ~64 |
 | The Man-Bat Family | 0.10% | ~64 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 844)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,520 (Ranked 71)  
+Progressed: 63,529 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
-| 2023-06-04 | 63,520 | 93 |
+| 2023-06-04 | 63,529 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
 Sum: 3,792 (Ranked 137)  

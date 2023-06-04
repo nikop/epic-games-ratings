@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,343 |
-| Realm Estate | 75.00% | ~3,214 |
-| Secret Technique | 74.00% | ~3,172 |
-| Walls Cannot Stop Us | 72.00% | ~3,086 |
-| From Friends to Family | 68.00% | ~2,914 |
-| Magical Synergy | 64.00% | ~2,743 |
-| Bone Peddler | 60.00% | ~2,572 |
-| Stronger Together | 55.00% | ~2,357 |
-| Full Ascension | 53.00% | ~2,272 |
+| A Wonderful Discovery | 78.00% | ~3,345 |
+| Realm Estate | 75.00% | ~3,216 |
+| Secret Technique | 74.00% | ~3,173 |
+| Walls Cannot Stop Us | 72.00% | ~3,087 |
+| From Friends to Family | 68.00% | ~2,916 |
+| Magical Synergy | 64.00% | ~2,744 |
+| Bone Peddler | 60.00% | ~2,573 |
+| Stronger Together | 55.00% | ~2,358 |
+| Full Ascension | 53.00% | ~2,273 |
 | There Can Only Be One! | 46.00% | ~1,972 |
 | Seat of Power | 46.00% | ~1,972 |
-| Intimidation Tactics | 43.00% | ~1,843 |
-| My Final Form | 42.00% | ~1,800 |
-| Valley of Wonders | 41.00% | ~1,757 |
-| In a Liege of Your Own | 37.00% | ~1,586 |
+| Intimidation Tactics | 43.00% | ~1,844 |
+| My Final Form | 42.00% | ~1,801 |
+| Valley of Wonders | 41.00% | ~1,758 |
+| In a Liege of Your Own | 37.00% | ~1,587 |
 | Return of the Wizard King | 30.00% | ~1,286 |
 | Digging for Treasure | 30.00% | ~1,286 |
 | Against the Odds | 30.00% | ~1,286 |
-| Enchanted Archipelago | 27.00% | ~1,157 |
-| Impenetrable Fortress | 26.00% | ~1,114 |
-| The Magic That Empowers Me! | 19.00% | ~814 |
-| Preparation Is Everything | 19.00% | ~814 |
-| Arch Mage | 18.00% | ~771 |
+| Enchanted Archipelago | 27.00% | ~1,158 |
+| Impenetrable Fortress | 26.00% | ~1,115 |
+| The Magic That Empowers Me! | 19.00% | ~815 |
+| Preparation Is Everything | 19.00% | ~815 |
+| Arch Mage | 18.00% | ~772 |
 | God Emperor | 17.00% | ~729 |
 | Eternal Lord | 16.00% | ~686 |
 | Crimson Caldera | 16.00% | ~686 |
@@ -40,8 +40,8 @@ Rating: 4.54 (Ranked 489)
 | Jack of All Tomes | 8.00% | ~343 |
 | I've Got Everything I Need Right Here | 6.00% | ~257 |
 | Betrayal Most Foul | 5.00% | ~214 |
-| Grexolis | 4.00% | ~171 |
-| One for All, All for One | 4.00% | ~171 |
+| Grexolis | 4.00% | ~172 |
+| One for All, All for One | 4.00% | ~172 |
 | Snap Out of It! | 3.00% | ~129 |
 | I Want to Break Free | 2.00% | ~86 |
 | Manufactured War | 1.00% | ~43 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 489)
 | The Grey Wizard | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,286 (Ranked 129)  
+Progressed: 4,288 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 4,139 | 0 |
 | 2023-06-02 | 4,204 | 0 |
 | 2023-06-03 | 4,275 | 0 |
-| 2023-06-04 | 4,286 | 0 |
+| 2023-06-04 | 4,288 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

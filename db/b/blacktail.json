@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-06-03T22:05:25.1023189+00:00",
       "NumProgressed": 438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T08:06:59.7211617+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -896,7 +901,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Specialist",
@@ -958,9 +963,9 @@
       "ID": "YagaHood",
       "SetID": "2aagp3d",
       "Name": "Forbidden techniques",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "YagaProfessional",
@@ -975,7 +980,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 1
     }
   ],
@@ -983,8 +988,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:06:09.7544268+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:06:59.7211612+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:57:56.8598793+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:06:09.7544713+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:58:22.4110816+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:06:59.721188+00:00"
 }

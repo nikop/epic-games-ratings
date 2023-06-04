@@ -7,11 +7,11 @@
 | Time Heals All Wounds | 94.00% | ~554 |
 | Rail Rat | 78.00% | ~459 |
 | The Mysterious Stranger | 76.00% | ~448 |
-| Immaculate Aim | 64.00% | ~377 |
+| Immaculate Aim | 65.00% | ~383 |
 | The Brass Boss | 57.00% | ~336 |
 | Honest Mistake | 56.00% | ~330 |
 | No, Thanks! | 55.00% | ~324 |
-| Time Flies | 52.00% | ~306 |
+| Time Flies | 53.00% | ~312 |
 | The Prince in Heels | 52.00% | ~306 |
 | The Harder They Fall | 51.00% | ~300 |
 | Right On Time | 50.00% | ~294 |

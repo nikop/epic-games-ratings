@@ -1047,9 +1047,9 @@
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_006",
@@ -1063,9 +1063,9 @@
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "LEVEL_008",
@@ -1127,9 +1127,9 @@
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_016",
@@ -1262,8 +1262,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-04T07:04:09.2153435+00:00",
+  "LastChanged_Achievements": "2023-06-04T08:04:37.2631616+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:57:07.5182705+00:00",
-  "LastUpdate_Achievements": "2023-06-04T07:04:09.2153916+00:00"
+  "LastUpdate_Ratings": "2023-06-04T07:57:22.343429+00:00",
+  "LastUpdate_Achievements": "2023-06-04T08:04:37.2631916+00:00"
 }
