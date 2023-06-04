@@ -1,15 +1,15 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 883)  
+Rating: 4.06 (Ranked 884)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,794 |
 | The Cursed Farmer | 1.00% | ~897 |
-| Beast Intentions | 0.80% | ~717 |
-| The Mad Wizard | 0.80% | ~717 |
+| Beast Intentions | 0.80% | ~718 |
+| The Mad Wizard | 0.80% | ~718 |
 | The Court of Storms | 0.80% | ~448 |
 | Beware the Jabberwock | 0.70% | ~392 |
 | The Ring of Regeneration | 0.60% | ~538 |
@@ -127,6 +127,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.20% | ~112 |
 | An Even Worse Time in Avernus | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
+| Bel's Forge | 0.20% | ~112 |
 | The Giant's Bane Tavern | 0.20% | ~112 |
 | The Everlasting Rime | 0.20% | ~112 |
 | Close Escort | 0.20% | ~179 |
@@ -405,7 +406,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.10% | ~56 |
 | Raggadragga's Crew | 0.10% | ~56 |
 | Just The Worst | 0.10% | ~56 |
-| Bel's Forge | 0.10% | ~56 |
 | Extreme Heat | 0.10% | ~56 |
 | Fire and Brimstone | 0.10% | ~56 |
 | Into the Unknown | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,686 (Ranked 62)  
+Progressed: 89,696 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,10 +545,10 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,686 | 1,913 |
+| 2023-06-04 | 89,696 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
-Sum: 30,025 (Ranked 37)  
+Sum: 30,027 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -558,7 +558,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,504 |
 | This game is Highly Recommended | 3,954 |
 | This game has Amazing Characters | 3,946 |
-| This game has Playful Visuals | 3,243 |
+| This game has Playful Visuals | 3,245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -691,3 +691,4 @@ Diff (max vs sum): 27
 | 2023-06-01 | 4.06 | - | 4,913 | 30,013 |
 | 2023-06-02 | 4.06 | - | 4,915 | 30,021 |
 | 2023-06-03 | 4.06 | - | 4,917 | 30,025 |
+| 2023-06-04 | 4.06 | - | 4,917 | 30,027 |

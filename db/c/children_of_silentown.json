@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -267,17 +267,17 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Trinket",
@@ -324,8 +324,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:35.3526755+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:54.7228777+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:33.3761076+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:30.0930589+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:35.352694+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:35:10.6752137+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:54.7228976+00:00"
 }

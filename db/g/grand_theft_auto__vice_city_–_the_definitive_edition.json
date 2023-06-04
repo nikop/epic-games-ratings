@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7614,
+  "EOS_Progressed": 7619,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3406,6 +3406,11 @@
       "Time": "2023-06-04T00:02:44.1589211+00:00",
       "NumProgressed": 7614,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-04T02:38:28.6309813+00:00",
+      "NumProgressed": 7619,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3433,7 +3438,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH04",
@@ -3465,7 +3470,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH08",
@@ -3473,7 +3478,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH09",
@@ -3497,7 +3502,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH12",
@@ -3521,7 +3526,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2971
     },
     {
       "ID": "ACH15",
@@ -3577,7 +3582,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3276
     },
     {
       "ID": "ACH22",
@@ -3593,7 +3598,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "ACH24",
@@ -3688,7 +3693,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7614,
+      "Progressed": 7619,
       "Completed": 25
     }
   ],
@@ -3696,8 +3701,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-02T03:58:36.7858578+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:02:44.1589206+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:38:28.6309808+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:58.4928196+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:02:44.1589634+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:35.3190185+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:38:28.6310243+00:00"
 }

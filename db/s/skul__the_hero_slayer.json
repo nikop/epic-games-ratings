@@ -2,7 +2,7 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 179,
+  "Ranking_Rating": 180,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 115,
@@ -824,9 +824,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7591,
+  "EOS_Progressed": 7592,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2139,6 +2139,11 @@
       "Time": "2023-06-04T00:05:13.9953141+00:00",
       "NumProgressed": 7591,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-04T02:40:32.9885369+00:00",
+      "NumProgressed": 7592,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2174,7 +2179,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2246,7 +2251,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "LeoniasFall_2",
@@ -2254,7 +2259,7 @@
       "Name": "The Levitator",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Manners",
@@ -2262,7 +2267,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "RookieWelcome",
@@ -2278,7 +2283,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2310,7 +2315,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7061
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2341,15 +2346,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7591,
+      "Progressed": 7592,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-03T11:59:08.4291315+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:13.9953137+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:32.9885366+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:33.3188402+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:13.9953356+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:34:11.5249298+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:32.9885618+00:00"
 }

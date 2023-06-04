@@ -2,7 +2,7 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 757,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 176,
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 946,
+  "EOS_Progressed": 947,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -623,6 +623,11 @@
       "Time": "2023-06-03T20:06:09.803126+00:00",
       "NumProgressed": 946,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T02:40:47.627114+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -664,9 +669,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 634
     },
     {
       "ID": "06",
@@ -674,7 +679,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "07",
@@ -682,7 +687,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "08",
@@ -770,7 +775,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "19",
@@ -817,7 +822,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 946,
+      "Progressed": 947,
       "Completed": 0
     }
   ],
@@ -825,8 +830,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:28.6888939+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:47.6271137+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:05.6191061+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:10.5949219+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:28.6889092+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:34:49.1903414+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:47.6271295+00:00"
 }

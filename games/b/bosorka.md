@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of purity | 79.00% | ~62 |
+| Path of purity | 81.00% | ~63 |
 | Witch's duty | 55.00% | ~43 |
 | A good start | 54.00% | ~42 |
 | Runes collector | 49.00% | ~38 |

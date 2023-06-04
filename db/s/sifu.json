@@ -2,11 +2,11 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -4410,10 +4410,10 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707202,
+  "EOS_Progressed": 707220,
   "EOS_Completed": 12754,
-  "EOS_NewPlayers": 1385,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1387,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8425,6 +8425,11 @@
       "Time": "2023-06-04T00:05:36.6812209+00:00",
       "NumProgressed": 707202,
       "NumCompleted": 12754
+    },
+    {
+      "Time": "2023-06-04T02:40:56.1071225+00:00",
+      "NumProgressed": 707220,
+      "NumCompleted": 12754
     }
   ],
   "TotalAchievements": 50,
@@ -8524,7 +8529,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "13_LowAge",
@@ -8538,9 +8543,9 @@
       "ID": "14_DeathlessBoss_Trophy",
       "SetID": "adcm20g",
       "Name": "Kill Nil",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6365
+      "UsersEstimate": 7072
     },
     {
       "ID": "15_Detective_H1",
@@ -8596,7 +8601,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -8628,7 +8633,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "26_ShrineSpirit",
@@ -8708,7 +8713,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -8772,7 +8777,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8780,7 +8785,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8835,21 +8840,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16503,
-      "Completed": 10218
+      "Progressed": 16521,
+      "Completed": 10219
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707202,
+      "Progressed": 707220,
       "Completed": 12754
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-03T22:59:22.7674116+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:36.6812207+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:56.1071216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:36.8906386+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:36.681282+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:34:15.349626+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:56.1071883+00:00"
 }

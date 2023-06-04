@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 51.00% | ~16 |
+| Aspairagus | 52.00% | ~17 |
 | Survivor | 43.00% | ~14 |
-| Seeds of War | 39.00% | ~32 |
+| Seeds of War | 40.00% | ~33 |
 | No Diggity | 35.00% | ~11 |
 | First Blood | 33.00% | ~27 |
 | Early Survivor | 33.00% | ~11 |

@@ -1,25 +1,25 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 78.00% | ~1,228 |
-| Become King | 70.00% | ~1,102 |
-| Ranged Weapon | 59.00% | ~929 |
-| Defeat 25 Frogs | 59.00% | ~929 |
-| Collect Monster Parts | 55.00% | ~866 |
-| Two Handed Weapon | 54.00% | ~850 |
-| Defeat 25 Grubs | 51.00% | ~803 |
+| Complete Guard Faction | 78.00% | ~1,229 |
+| Become King | 70.00% | ~1,103 |
+| Defeat 25 Frogs | 60.00% | ~946 |
+| Ranged Weapon | 59.00% | ~930 |
+| Collect Monster Parts | 56.00% | ~883 |
+| Two Handed Weapon | 54.00% | ~851 |
+| Defeat 25 Grubs | 51.00% | ~804 |
 | Rescue Redgi's Brothers | 50.00% | ~788 |
 | Collect Iron Ore | 45.00% | ~709 |
 | Kitchen Ready To Cook | 45.00% | ~709 |
 | Defeat 25 Mozis | 44.00% | ~693 |
-| Collect Gold | 43.00% | ~677 |
-| Smithy Ready to Craft | 43.00% | ~677 |
+| Collect Gold | 43.00% | ~678 |
+| Smithy Ready to Craft | 43.00% | ~678 |
 | Fix the Travellers Wagon | 42.00% | ~662 |
-| Complete Elder Faction | 39.00% | ~614 |
+| Complete Elder Faction | 39.00% | ~615 |
 | End of the Mozis | 36.00% | ~567 |
 | Throne Room Fit For A King | 36.00% | ~567 |
 | Meet the Creatures from the Deep | 33.00% | ~520 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 528)
 | King of Kings | 7.00% | ~110 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,575 (Ranked 157)  
+Progressed: 1,576 (Ranked 157)  
 Completed: 6 (0.38%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 6 (0.38%) (Ranked 116)
 | 2023-06-01 | 1,537 | 6 |
 | 2023-06-02 | 1,555 | 6 |
 | 2023-06-03 | 1,574 | 6 |
-| 2023-06-04 | 1,575 | 6 |
+| 2023-06-04 | 1,576 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

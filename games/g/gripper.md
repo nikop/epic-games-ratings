@@ -11,13 +11,13 @@
 | Deal with Depression | 14.00% | ~6 |
 | Total Shock | 10.00% | ~4 |
 | No Shock Race | 7.00% | ~3 |
+| Bronze Tunnel Collector | 5.00% | ~2 |
 | Max Health | 5.00% | ~2 |
 | Total Anger | 5.00% | ~2 |
 | No Anger Race | 5.00% | ~2 |
 | No Depression Race | 5.00% | ~2 |
 | Deal with Acceptance | 5.00% | ~2 |
 | Zero to Hero | 5.00% | ~2 |
-| Bronze Tunnel Collector | 2.00% | ~1 |
 | Silver Tunnel Collector | 2.00% | ~1 |
 | Golden Tunnel Collector | 2.00% | ~1 |
 | Platinum Tunnel Collector | 2.00% | ~1 |

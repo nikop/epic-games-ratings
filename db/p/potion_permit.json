@@ -2,12 +2,12 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 921,
+  "Ranking_Rating": 922,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -948,9 +948,9 @@
       "ID": "ACHIEVEMENTS_09",
       "SetID": "d4o538a",
       "Name": "Rookie Chemist",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 831
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1197,8 +1197,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:37.2882095+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:56.7178477+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.0833594+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:47.791613+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:37.2882424+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:35:27.8332721+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:56.7178826+00:00"
 }

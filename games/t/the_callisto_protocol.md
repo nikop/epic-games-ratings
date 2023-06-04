@@ -1,14 +1,14 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 837)  
+Rating: 4.18 (Ranked 838)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 11.00% | ~1,586 |
-| The Outer Way | 9.00% | ~1,297 |
-| Desperate Times | 9.00% | ~1,297 |
-| Paper Jams | 8.00% | ~1,153 |
+| The Outer Way | 10.00% | ~1,442 |
+| Desperate Times | 9.00% | ~1,298 |
+| Paper Jams | 8.00% | ~1,154 |
 | Chew 'Em Up | 7.00% | ~1,009 |
 | Reforged | 7.00% | ~1,009 |
 | Giving Back | 6.00% | ~865 |
@@ -20,14 +20,14 @@ Rating: 4.18 (Ranked 837)
 | Without A Paddle | 4.00% | ~577 |
 | Instigator | 4.00% | ~94 |
 | Big Game Hunter | 4.00% | ~94 |
-| You Need a Gun | 3.00% | ~432 |
-| Two Heads Are Better Than One | 3.00% | ~432 |
-| In the Pipe, Five by Five | 3.00% | ~432 |
-| Crash Site | 3.00% | ~432 |
-| Power Up | 3.00% | ~432 |
+| You Need a Gun | 3.00% | ~433 |
+| Two Heads Are Better Than One | 3.00% | ~433 |
+| The Commonality | 3.00% | ~433 |
+| In the Pipe, Five by Five | 3.00% | ~433 |
+| Crash Site | 3.00% | ~433 |
+| Power Up | 3.00% | ~433 |
 | Bear Trap | 3.00% | ~70 |
 | In Striking Distance | 2.00% | ~288 |
-| The Commonality | 2.00% | ~288 |
 | Mugshot | 2.00% | ~288 |
 | What Lies Beneath | 2.00% | ~288 |
 | Full Circle | 2.00% | ~288 |
@@ -37,7 +37,7 @@ Rating: 4.18 (Ranked 837)
 | Hoard Mode | 1.00% | ~23 |
 | Recidivist | 0.70% | ~16 |
 | Lifer | 0.70% | ~16 |
-| Grim Reaper | 0.60% | ~86 |
+| Grim Reaper | 0.60% | ~87 |
 | Armed to the Teeth | 0.20% | ~5 |
 | The Protocol is About Life | 0.20% | ~29 |
 | It's over, Jacob! | 0.10% | ~14 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 837)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,416 (Ranked 103)  
+Progressed: 14,421 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
-| 2023-06-04 | 14,416 | 53 |
+| 2023-06-04 | 14,421 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

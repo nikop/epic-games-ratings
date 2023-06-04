@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -200,9 +200,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement16",
@@ -224,9 +224,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement19",
@@ -248,9 +248,9 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement21",
@@ -329,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:35.9769165+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:55.3535384+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:40.4830963+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:36.5217618+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:35.9769325+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:35:17.0329504+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:55.3535542+00:00"
 }

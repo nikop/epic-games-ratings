@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -423,6 +423,11 @@
       "Time": "2023-06-03T09:02:28.0756303+00:00",
       "NumProgressed": 570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T02:35:59.2018246+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -514,7 +519,7 @@
       "Name": "Hunt Down",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -522,7 +527,7 @@
       "Name": "Artisan",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -562,7 +567,7 @@
       "Name": "Hush",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -570,7 +575,7 @@
       "Name": "Harmless",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -626,7 +631,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -642,7 +647,7 @@
       "Name": "All-Seeing",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -690,7 +695,7 @@
       "Name": "Yank",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -722,7 +727,7 @@
       "Name": "Passage",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "QUEST_CHILD",
@@ -769,21 +774,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:00:15.2811532+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:35:59.201824+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.4730882+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:47.9140073+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:00:15.2811867+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:35:27.9769953+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:35:59.2018601+00:00"
 }

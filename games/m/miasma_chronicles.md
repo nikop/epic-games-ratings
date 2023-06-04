@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.32 (Ranked 747)  
+Rating: 4.32 (Ranked 748)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,33 +9,33 @@ Rating: 4.32 (Ranked 747)
 | Ranidaphobia | 74.00% | ~739 |
 | Aspiring Editor | 71.00% | ~709 |
 | Gun for Hire | 65.00% | ~649 |
-| I am the law! | 56.00% | ~559 |
+| I am the law! | 57.00% | ~569 |
 | Lumberjack | 42.00% | ~419 |
 | Croaked | 37.00% | ~369 |
 | Limp Richard | 36.00% | ~359 |
 | From Darkness to Light | 35.00% | ~349 |
 | Firestarter | 34.00% | ~339 |
+| Editor Adept | 33.00% | ~329 |
 | Exorcist | 33.00% | ~329 |
-| Editor Adept | 32.00% | ~319 |
 | Giant Killer | 28.00% | ~279 |
-| Sensei | 27.00% | ~269 |
-| The meaning of Kain | 26.00% | ~259 |
-| Technophobe | 21.00% | ~210 |
+| Sensei | 28.00% | ~279 |
+| The meaning of Kain | 27.00% | ~269 |
+| Technophobe | 22.00% | ~220 |
 | Recycler | 19.00% | ~190 |
 | Chain Killer | 17.00% | ~170 |
 | Are you not entertained? | 16.00% | ~160 |
 | Hold The Line | 16.00% | ~160 |
 | Ganglord | 15.00% | ~150 |
 | Jarhead | 15.00% | ~150 |
+| Infiltrator | 15.00% | ~150 |
 | There Can Be Only One! | 15.00% | ~150 |
-| Infiltrator | 14.00% | ~140 |
 | Pushing Daisy | 14.00% | ~140 |
 | Newtonian Knockout | 13.00% | ~130 |
 | Experienced | 12.00% | ~120 |
 | Endgame | 10.00% | ~100 |
 | Ruthless | 10.00% | ~100 |
+| Savior | 10.00% | ~100 |
 | The Watchers | 10.00% | ~100 |
-| Savior | 9.00% | ~90 |
 | Commando | 7.00% | ~70 |
 | Dr Jones | 7.00% | ~70 |
 | Chain Reaction | 6.00% | ~60 |

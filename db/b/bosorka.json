@@ -296,9 +296,9 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 55,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -321,8 +321,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:15.5615784+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:34.5254062+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.3790572+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:25.1577953+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:15.5615914+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:32:57.364682+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:34.5254154+00:00"
 }

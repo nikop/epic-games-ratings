@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_ECONOMYCRISIS",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere III",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ELECTION",
@@ -1162,9 +1162,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_HARSHWINTER",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere VIII",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_INSANECHOICES",
@@ -1474,8 +1474,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:43.8741012+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:41:03.4799887+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.5254732+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:47.4378345+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:43.8742258+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:22.9472006+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:41:03.4801157+00:00"
 }

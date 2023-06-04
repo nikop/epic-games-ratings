@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.65 (Ranked 296)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,10 +13,10 @@ Rating: 4.65 (Ranked 295)
 | For your Eyes only | 39.00% | ~2,555 |
 | From the Vault with Love | 37.00% | ~2,424 |
 | Tailor-Made | 37.00% | ~2,424 |
-| Fully Decked Out | 36.00% | ~2,358 |
-| You Only Live Twice | 32.00% | ~2,096 |
-| A view to Win | 28.00% | ~1,834 |
-| Smells Like Trouble | 26.00% | ~1,703 |
+| Fully Decked Out | 36.00% | ~2,359 |
+| You Only Live Twice | 32.00% | ~2,097 |
+| A view to Win | 28.00% | ~1,835 |
+| Smells Like Trouble | 26.00% | ~1,704 |
 | Private Collection | 25.00% | ~1,638 |
 | Hostile Takeover | 25.00% | ~1,638 |
 | Assistant Accountant | 24.00% | ~1,572 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 295)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,551 (Ranked 118)  
+Progressed: 6,552 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 6,517 | 0 |
 | 2023-06-02 | 6,524 | 0 |
 | 2023-06-03 | 6,551 | 0 |
+| 2023-06-04 | 6,552 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -54,8 +54,8 @@
 | Yeehaw!!! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Spoiler alert! | 10.00% | ~7 |
+| You're looking mozzare-hella good! | 10.00% | ~7 |
 | Scrambled Eggs | 10.00% | ~7 |
-| You're looking mozzare-hella good! | 8.00% | ~6 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~6 |
 | Timber! | 6.00% | ~4 |
 | Grumpy Immortal | 6.00% | ~4 |

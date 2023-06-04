@@ -1,38 +1,38 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.78 (Ranked 99)  
+Rating: 4.78 (Ranked 101)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~46,893 |
-| ''I don't like you either!'' | 79.00% | ~38,191 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~34,807 |
-| ''Impressive, most impressive'' | 71.00% | ~34,324 |
-| The Phantom Menace | 59.00% | ~28,522 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,039 |
-| ''I can fly anything'' | 57.00% | ~27,556 |
-| ''And who gave you permission...?'' | 53.00% | ~25,622 |
-| A New Hope | 47.00% | ~22,721 |
-| Attack of the Clones | 46.00% | ~22,238 |
-| Revenge of the Sith | 40.00% | ~19,337 |
-| ''A fine addition to my collection'' | 37.00% | ~17,887 |
-| The Empire Strikes Back | 36.00% | ~17,403 |
-| Return of the Jedi | 31.00% | ~14,986 |
-| The Force Awakens | 26.00% | ~12,569 |
-| The Last Jedi | 22.00% | ~10,635 |
-| The Rise of Skywalker | 19.00% | ~9,185 |
-| ''It's true... all of it'' | 18.00% | ~8,702 |
-| ''Get the crews to their fighters'' | 18.00% | ~8,702 |
-| ''Raw, untamed power'' | 8.00% | ~3,867 |
+| ''You guys got yourself a ship!'' | 97.00% | ~46,906 |
+| ''I don't like you either!'' | 79.00% | ~38,202 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~34,817 |
+| ''Impressive, most impressive'' | 71.00% | ~34,333 |
+| The Phantom Menace | 59.00% | ~28,531 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,047 |
+| ''I can fly anything'' | 57.00% | ~27,563 |
+| ''And who gave you permission...?'' | 53.00% | ~25,629 |
+| A New Hope | 47.00% | ~22,728 |
+| Attack of the Clones | 46.00% | ~22,244 |
+| Revenge of the Sith | 40.00% | ~19,343 |
+| ''A fine addition to my collection'' | 37.00% | ~17,892 |
+| The Empire Strikes Back | 36.00% | ~17,409 |
+| Return of the Jedi | 31.00% | ~14,991 |
+| The Force Awakens | 26.00% | ~12,573 |
+| The Last Jedi | 22.00% | ~10,639 |
+| The Rise of Skywalker | 19.00% | ~9,188 |
+| ''It's true... all of it'' | 18.00% | ~8,704 |
+| ''Get the crews to their fighters'' | 18.00% | ~8,704 |
+| ''Raw, untamed power'' | 8.00% | ~3,869 |
 | Rishi Maze | 4.00% | ~1,934 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,934 |
-| ''You may fire when ready'' | 3.00% | ~1,450 |
-| ''What have you done with those plans?'' | 3.00% | ~1,450 |
-| ''GONK!'' | 3.00% | ~1,450 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,450 |
-| The Slice | 3.00% | ~1,450 |
+| ''You may fire when ready'' | 3.00% | ~1,451 |
+| ''What have you done with those plans?'' | 3.00% | ~1,451 |
+| ''GONK!'' | 3.00% | ~1,451 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,451 |
+| The Slice | 3.00% | ~1,451 |
 | ''Hello there!'' | 2.00% | ~967 |
 | Unknown Regions | 2.00% | ~967 |
 | ''Do or do not. There is no try'' | 2.00% | ~967 |
@@ -46,14 +46,14 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Arkanis Sector | 2.00% | ~967 |
 | ''Power! Unlimited power!'' | 2.00% | ~967 |
 | ''Now I am the Master'' | 2.00% | ~967 |
-| ''A little short for a Stormtrooper...'' | 1.00% | ~483 |
-| ''Jedi Business'' | 1.00% | ~483 |
-| ''No more training, do you require'' | 1.00% | ~483 |
-| ''You needn't worry about your reward'' | 1.00% | ~483 |
+| ''A little short for a Stormtrooper...'' | 1.00% | ~484 |
+| ''Jedi Business'' | 1.00% | ~484 |
+| ''No more training, do you require'' | 1.00% | ~484 |
+| ''You needn't worry about your reward'' | 1.00% | ~484 |
 | ''I've never seen a real one!'' | 0.80% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,343 (Ranked 79)  
-Completed: 175 (0.36%) (Ranked 122)  
+Progressed: 48,357 (Ranked 79)  
+Completed: 176 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,7 +97,7 @@ Completed: 175 (0.36%) (Ranked 122)
 | 2023-06-01 | 48,077 | 174 |
 | 2023-06-02 | 48,199 | 174 |
 | 2023-06-03 | 48,341 | 175 |
-| 2023-06-04 | 48,343 | 175 |
+| 2023-06-04 | 48,357 | 176 |
 ## Awards
 Max (Great Boss Battles): 2,292  (Ranked 97)  
 Sum: 6,380 (Ranked 112)  

@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 95,
@@ -1542,9 +1542,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19265,
+  "EOS_Progressed": 19269,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3612,6 +3612,11 @@
       "Time": "2023-06-04T00:05:23.7169891+00:00",
       "NumProgressed": 19265,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-04T02:40:42.5887063+00:00",
+      "NumProgressed": 19269,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3671,7 +3676,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18109
+      "UsersEstimate": 18113
     },
     {
       "ID": "GameOver",
@@ -3703,7 +3708,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "JuniorEstateAgent",
@@ -3759,7 +3764,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "SeniorEstateAgent",
@@ -3783,7 +3788,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "VeronicaLiptson",
@@ -3806,15 +3811,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19265,
+      "Progressed": 19269,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-03T19:59:37.1135212+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:23.7169887+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:42.5887056+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:58.0355+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:23.7170184+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:34:36.4184417+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:42.5887335+00:00"
 }

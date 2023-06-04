@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.20 (Ranked 819)  
+Rating: 4.20 (Ranked 820)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -82,7 +82,9 @@ Number of Ratings: 37  (23.09.2022)
 | Penny pincher | 0.50% | ~21 |
 | Negotiator | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
+| I've been everywhere III | 0.40% | ~17 |
 | Little place in the country | 0.40% | ~17 |
+| I've been everywhere VIII | 0.40% | ~17 |
 | Made my choice | 0.40% | ~17 |
 | An honorable departure | 0.40% | ~17 |
 | I've been everywhere VII | 0.40% | ~17 |
@@ -91,9 +93,7 @@ Number of Ratings: 37  (23.09.2022)
 | It went unnoticed | 0.30% | ~12 |
 | Brew master | 0.30% | ~12 |
 | Panacea | 0.30% | ~12 |
-| I've been everywhere III | 0.30% | ~12 |
 | Governor-elect | 0.30% | ~12 |
-| I've been everywhere VIII | 0.30% | ~12 |
 | I've been everywhere IX | 0.30% | ~12 |
 | I've been everywhere X | 0.30% | ~12 |
 | You shall not pass | 0.30% | ~12 |

@@ -2,12 +2,12 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
-  "Ranking_Rating": 106,
+  "Ranking_Rating": 107,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1255,9 +1255,9 @@
       "ID": "TrickleDown",
       "SetID": "5lok9mm",
       "Name": "Trickle Down Economy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1569
     },
     {
       "ID": "Win",
@@ -1279,8 +1279,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:40.2577217+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:59.8540582+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:29.1819892+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:27.2837317+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:40.2577688+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:35:07.4342136+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:59.8541082+00:00"
 }

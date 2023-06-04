@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 883,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4040,10 +4040,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30025,
       "NumberOfAwardsMax": 4917
+    },
+    {
+      "Time": "2023-06-04T02:33:23.4476938+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30027,
+      "NumberOfAwardsMax": 4917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30025,
+  "NumberOfAwards": 30027,
   "NumberOfAwardsMax": 4917,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4087,12 +4093,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3243
+      "Count": 3245
     }
   ],
-  "EOS_Progressed": 89686,
+  "EOS_Progressed": 89696,
   "EOS_Completed": 1913,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8560,6 +8566,11 @@
       "Time": "2023-06-04T00:05:45.5375383+00:00",
       "NumProgressed": 89686,
       "NumCompleted": 1913
+    },
+    {
+      "Time": "2023-06-04T02:41:05.1156643+00:00",
+      "NumProgressed": 89696,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -8939,7 +8950,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "objective_completed_110",
@@ -11569,9 +11580,9 @@
       "ID": "objective_completed_675",
       "SetID": "415jc5c",
       "Name": "Bel\u0027s Forge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_676",
@@ -11715,7 +11726,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "objective_completed_70",
@@ -12514,21 +12525,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55960,
+      "Progressed": 55970,
       "Completed": 2767
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89686,
+      "Progressed": 89696,
       "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-03T03:00:47.1772721+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:45.5375378+00:00",
+  "LastChanged": "2023-06-04T02:33:23.4476933+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:41:05.1156639+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:47.8180791+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:45.5398672+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:23.4476952+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:41:05.1181925+00:00"
 }

@@ -1,22 +1,22 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 99)  
+Rating: 4.78 (Ranked 101)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,143 |
+| For Demacia | 95.00% | ~2,144 |
 | No more cages! | 92.00% | ~2,076 |
-| Everfrost | 77.00% | ~1,737 |
+| Everfrost | 77.00% | ~1,738 |
 | Pentakill | 76.00% | ~1,715 |
 | Dark Forest | 76.00% | ~1,715 |
-| The use of petricite | 72.00% | ~1,624 |
+| The use of petricite | 72.00% | ~1,625 |
 | You can pet the dog | 60.00% | ~1,354 |
 | Big Helmet Bro | 35.00% | ~790 |
 | Clarion Cove | 35.00% | ~790 |
-| Past trauma | 33.00% | ~744 |
-| Thornbarrow | 33.00% | ~744 |
-| Ternmoat Headquarters | 33.00% | ~744 |
+| Past trauma | 33.00% | ~745 |
+| Thornbarrow | 33.00% | ~745 |
+| Ternmoat Headquarters | 33.00% | ~745 |
 | Elemental master | 32.00% | ~722 |
 | Cypress Glen Headquarters | 32.00% | ~722 |
 | Petricite Burst | 28.00% | ~632 |
@@ -25,7 +25,7 @@ Rating: 4.78 (Ranked 99)
 | Hijack | 26.00% | ~587 |
 | Whispers in the Woods I | 25.00% | ~564 |
 | Ancient power | 23.00% | ~519 |
-| I chose my shackles | 22.00% | ~496 |
+| I chose my shackles | 22.00% | ~497 |
 | Sacred Woods | 21.00% | ~474 |
 | Little light | 20.00% | ~451 |
 | Capelworth | 20.00% | ~451 |
@@ -51,15 +51,15 @@ Rating: 4.78 (Ranked 99)
 | The Great City of Demacia | 9.00% | ~203 |
 | Truth is a dark mirror | 9.00% | ~203 |
 | Back to sleep, then... | 9.00% | ~203 |
-| Do you trust me? | 8.00% | ~180 |
-| Chains master | 8.00% | ~180 |
-| You can pet the... horse | 8.00% | ~180 |
-| Spellcrafting | 8.00% | ~180 |
+| Do you trust me? | 8.00% | ~181 |
+| Chains master | 8.00% | ~181 |
+| You can pet the... horse | 8.00% | ~181 |
+| Spellcrafting | 8.00% | ~181 |
 | The great mage rebellion starts now | 7.00% | ~158 |
 | Silverwing nest | 2.00% | ~45 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,256 (Ranked 147)  
+Progressed: 2,257 (Ranked 147)  
 Completed: 1 (0.04%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 1 (0.04%) (Ranked 183)
 | 2023-06-01 | 2,246 | 1 |
 | 2023-06-02 | 2,253 | 1 |
 | 2023-06-03 | 2,256 | 1 |
+| 2023-06-04 | 2,257 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

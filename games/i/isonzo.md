@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.56 (Ranked 453)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,11 +9,11 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 54.00% | ~3,266 |
 | Tutti Eroi! | 54.00% | ~3,266 |
 | You Shall Not Pass | 52.00% | ~3,145 |
-| Avanti Savoia! | 46.00% | ~2,782 |
-| Mamma Mia! | 36.00% | ~2,177 |
+| Avanti Savoia! | 46.00% | ~2,783 |
+| Mamma Mia! | 36.00% | ~2,178 |
 | Conrad von Hotzensocks | 35.00% | ~2,117 |
-| Gabriele D'Annunzio | 32.00% | ~1,935 |
-| Silver Lining | 28.00% | ~1,693 |
+| Gabriele D'Annunzio | 32.00% | ~1,936 |
+| Silver Lining | 28.00% | ~1,694 |
 | Aurelio Baruzzi | 22.00% | ~1,331 |
 | Veni Vidi Vici | 22.00% | ~1,331 |
 | Decimation | 20.00% | ~1,210 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~24 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,048 (Ranked 122)  
+Progressed: 6,049 (Ranked 122)  
 Completed: 8 (0.13%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 8 (0.13%) (Ranked 158)
 | 2023-06-01 | 6,005 | 8 |
 | 2023-06-02 | 6,031 | 8 |
 | 2023-06-03 | 6,048 | 8 |
+| 2023-06-04 | 6,049 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 443)  
 Sum: 240 (Ranked 343)  

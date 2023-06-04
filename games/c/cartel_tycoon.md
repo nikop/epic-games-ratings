@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.35 (Ranked 722)  
+Rating: 4.35 (Ranked 724)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 101  (23.09.2022)
 | Pampered Life | 25.00% | ~91 |
 | Architect of Fortunes | 24.00% | ~87 |
 | Bite the Blow | 21.00% | ~76 |
-| Spreading Fear | 8.00% | ~29 |
+| Spreading Fear | 9.00% | ~33 |
 | Follow the Money | 7.00% | ~25 |
 | I'm Going To Call You Kitty | 7.00% | ~25 |
 | Operation Odessa | 1.00% | ~4 |

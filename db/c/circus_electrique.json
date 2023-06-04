@@ -2,12 +2,12 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 848,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -234,6 +234,11 @@
       "Time": "2023-06-03T23:06:42.1826972+00:00",
       "NumProgressed": 421,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T02:40:54.5395705+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -243,9 +248,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -301,7 +306,7 @@
       "Name": "Built in a Day",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -333,7 +338,7 @@
       "Name": "Fan Service",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -349,7 +354,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -357,7 +362,7 @@
       "Name": "Club Member",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -555,9 +560,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "631ndc2",
       "Name": "Marketing Manager",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -597,7 +602,7 @@
       "Name": "Spirits High",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -644,7 +649,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 1
     }
   ],
@@ -652,8 +657,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:35.1554059+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:54.5395702+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:32.2019254+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:35.1554501+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:34:10.7521894+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:54.5396185+00:00"
 }

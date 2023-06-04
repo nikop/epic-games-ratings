@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 512,
+  "Ranking_Rating": 513,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12953,
+  "EOS_Progressed": 12954,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3339,6 +3339,11 @@
       "Time": "2023-06-03T23:06:18.2369514+00:00",
       "NumProgressed": 12953,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-04T02:40:33.3818919+00:00",
+      "NumProgressed": 12954,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 41,
@@ -3406,7 +3411,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "tpote_achievement_17",
@@ -3454,7 +3459,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "tpote_achievement_22",
@@ -3494,7 +3499,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "tpote_achievement_27",
@@ -3516,9 +3521,9 @@
       "ID": "tpote_achievement_29",
       "SetID": "3jcf6c3",
       "Name": "Skilled merchant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1295
     },
     {
       "ID": "tpote_achievement_3",
@@ -3526,7 +3531,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "tpote_achievement_30",
@@ -3614,7 +3619,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "tpote_achievement_40",
@@ -3677,15 +3682,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12953,
+      "Progressed": 12954,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:14.4678083+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:33.3818911+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:24.1880499+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:14.4678567+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:35:04.2810335+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:33.3819411+00:00"
 }

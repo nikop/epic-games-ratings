@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14416,
+  "EOS_Progressed": 14421,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2660,6 +2660,11 @@
       "Time": "2023-06-04T00:03:40.963117+00:00",
       "NumProgressed": 14416,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T02:39:07.0773535+00:00",
+      "NumProgressed": 14421,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2695,7 +2700,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2711,7 +2716,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -2791,7 +2796,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2821,9 +2826,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 433
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -2847,7 +2852,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2861,9 +2866,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1442
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2887,7 +2892,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2903,7 +2908,7 @@
       "Name": "Desperate Times",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2911,7 +2916,7 @@
       "Name": "Crash Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "STORY_TOWER",
@@ -2927,7 +2932,7 @@
       "Name": "Power Up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "DISMEMBER_100",
@@ -2990,13 +2995,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14416,
+      "Progressed": 14421,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2342,
+      "Progressed": 2347,
       "Completed": 29
     }
   ],
@@ -3004,8 +3009,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:03:40.9631165+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:39:07.0773525+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:38.4796729+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:03:40.9631546+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:12.8135052+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:39:07.0773962+00:00"
 }

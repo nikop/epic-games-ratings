@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2622,
+  "EOS_Progressed": 2624,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -1976,6 +1976,11 @@
       "Time": "2023-06-03T23:06:15.3188072+00:00",
       "NumProgressed": 2622,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-06-04T02:40:30.8272625+00:00",
+      "NumProgressed": 2624,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 5,
@@ -1987,7 +1992,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2624
     },
     {
       "ID": "2",
@@ -2026,7 +2031,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2622,
+      "Progressed": 2624,
       "Completed": 83
     }
   ],
@@ -2034,8 +2039,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:12.0064789+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:30.8272619+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:34.3682553+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:01.6020522+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:12.0064976+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:39.6067707+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:30.8272806+00:00"
 }

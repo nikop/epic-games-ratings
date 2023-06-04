@@ -2,7 +2,7 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 722,
+  "Ranking_Rating": 724,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 214,
@@ -780,9 +780,9 @@
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "pack-and-sell",
@@ -884,8 +884,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:31.3543177+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:50.5837548+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:34.3322021+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:59:31.0832847+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:31.3543332+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:35:11.6998017+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:50.5837705+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 146,
@@ -208,7 +208,7 @@
   "Tags": [],
   "EOS_Progressed": 2408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2205,9 +2205,9 @@
       "ID": "ACH_BASE_3",
       "SetID": "92iocjf",
       "Name": "Catastrophe Avoided",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BASE_30",
@@ -2285,9 +2285,9 @@
       "ID": "ACH_BASE_4",
       "SetID": "92iocjf",
       "Name": "Gregor Spinoza",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BASE_40",
@@ -2516,8 +2516,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-03T09:58:13.4383447+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:24.0648464+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:42.9933846+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.734154+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:07.8827805+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:24.0649057+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:46.2317788+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:42.9934537+00:00"
 }

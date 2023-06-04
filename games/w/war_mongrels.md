@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 756)  
+Rating: 4.31 (Ranked 757)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,8 +18,8 @@ Number of Ratings: 34  (23.09.2022)
 | Missing in Action | 36.00% | ~112 |
 | The Motivation | 35.00% | ~108 |
 | Heroism | 33.00% | ~102 |
+| Collectibles of Chapter I | 32.00% | ~99 |
 | King of Knives | 32.00% | ~99 |
-| Collectibles of Chapter I | 31.00% | ~96 |
 | Consequences | 29.00% | ~90 |
 | Opportunities | 27.00% | ~84 |
 | The Horror | 26.00% | ~81 |

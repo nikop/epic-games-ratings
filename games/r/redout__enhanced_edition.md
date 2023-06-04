@@ -1,27 +1,27 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,721 |
-| NATURAL BORN WINNER | 32.00% | ~71,587 |
-| CALLING HOUSTON | 28.00% | ~62,639 |
-| SNEAKY SNEAKY | 22.00% | ~49,216 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,216 |
-| GT9STRADALE | 20.00% | ~44,742 |
-| CHALLENGER | 11.00% | ~24,608 |
-| ON A ROLL | 9.00% | ~20,134 |
-| CENTAUR | 8.00% | ~17,897 |
-| FASTER THAN EVER | 8.00% | ~17,897 |
-| CHALLENGE THE WORLD | 7.00% | ~15,660 |
-| PHOTOFINISH | 7.00% | ~15,660 |
+| VANGUARD | 41.00% | ~91,726 |
+| NATURAL BORN WINNER | 32.00% | ~71,591 |
+| CALLING HOUSTON | 28.00% | ~62,642 |
+| SNEAKY SNEAKY | 22.00% | ~49,219 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,219 |
+| GT9STRADALE | 20.00% | ~44,744 |
+| CHALLENGER | 11.00% | ~24,609 |
+| ON A ROLL | 9.00% | ~20,135 |
+| CENTAUR | 8.00% | ~17,898 |
+| FASTER THAN EVER | 8.00% | ~17,898 |
+| CHALLENGE THE WORLD | 7.00% | ~15,661 |
+| PHOTOFINISH | 7.00% | ~15,661 |
 | QAREEN | 5.00% | ~11,186 |
-| SHOWOFF | 4.00% | ~8,948 |
-| TAKATORA | 4.00% | ~8,948 |
-| GILA | 3.00% | ~6,711 |
+| SHOWOFF | 4.00% | ~8,949 |
+| TAKATORA | 4.00% | ~8,949 |
+| GILA | 3.00% | ~6,712 |
 | PRO | 2.00% | ~4,474 |
 | RESPWND | 2.00% | ~4,474 |
 | SHINY SHINY GOLD | 2.00% | ~4,474 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~447 |
 | ENLIGHTENED | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,710 (Ranked 46)  
+Progressed: 223,722 (Ranked 46)  
 Completed: 45 (0.02%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 45 (0.02%) (Ranked 194)
 | 2023-06-01 | 223,520 | 45 |
 | 2023-06-02 | 223,591 | 45 |
 | 2023-06-03 | 223,708 | 45 |
-| 2023-06-04 | 223,710 | 45 |
+| 2023-06-04 | 223,722 | 45 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

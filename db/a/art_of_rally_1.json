@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10081,
+  "EOS_Progressed": 10082,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -731,6 +731,11 @@
       "Time": "2023-06-03T23:06:19.9296937+00:00",
       "NumProgressed": 10081,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-04T02:40:34.7533808+00:00",
+      "NumProgressed": 10082,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -902,7 +907,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7762
+      "UsersEstimate": 7763
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -950,7 +955,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5645
+      "UsersEstimate": 5646
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -966,7 +971,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9678
+      "UsersEstimate": 9679
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1030,7 +1035,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "ACH_SNOW",
@@ -1046,7 +1051,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -1054,7 +1059,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1078,22 +1083,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7258
+      "UsersEstimate": 7259
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10081,
+      "Progressed": 10082,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:15.7989206+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:34.7533802+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:29.7548602+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:15.5767155+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:15.7989589+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:32:48.7037517+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:34.7534162+00:00"
 }

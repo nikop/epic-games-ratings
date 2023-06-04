@@ -1,16 +1,16 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.44 (Ranked 630)  
+Rating: 4.44 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,599 |
-| Predator I | 22.00% | ~55,070 |
-| Fixer I | 10.00% | ~25,032 |
-| A week in Century City | 10.00% | ~25,032 |
-| The Wait | 7.00% | ~17,522 |
-| Green thumb I | 6.00% | ~15,019 |
+| Survivor | 31.00% | ~77,602 |
+| Predator I | 22.00% | ~55,073 |
+| Fixer I | 10.00% | ~25,033 |
+| A week in Century City | 10.00% | ~25,033 |
+| The Wait | 7.00% | ~17,523 |
+| Green thumb I | 6.00% | ~15,020 |
 | Well-oiled machine | 5.00% | ~12,516 |
 | Saver I | 5.00% | ~12,516 |
 | Cleaning Company | 5.00% | ~12,516 |
@@ -19,14 +19,14 @@ Rating: 4.44 (Ranked 630)
 | Vandalism | 4.00% | ~10,013 |
 | Capitalist I | 4.00% | ~10,013 |
 | Adrenaline | 3.00% | ~7,510 |
-| By a hair | 2.00% | ~5,006 |
-| Fixer II | 2.00% | ~5,006 |
-| It took a while | 2.00% | ~5,006 |
-| Samurai | 2.00% | ~5,006 |
-| I Left You a Present | 2.00% | ~5,006 |
-| Predator II | 2.00% | ~5,006 |
-| Truffle Dog | 2.00% | ~5,006 |
-| A month in Century City | 2.00% | ~5,006 |
+| By a hair | 2.00% | ~5,007 |
+| Fixer II | 2.00% | ~5,007 |
+| It took a while | 2.00% | ~5,007 |
+| Samurai | 2.00% | ~5,007 |
+| I Left You a Present | 2.00% | ~5,007 |
+| Predator II | 2.00% | ~5,007 |
+| Truffle Dog | 2.00% | ~5,007 |
+| A month in Century City | 2.00% | ~5,007 |
 | The Strengthening | 1.00% | ~2,503 |
 | Saver II | 1.00% | ~2,503 |
 | It's the last one, I swear | 1.00% | ~2,503 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 630)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,319 (Ranked 41)  
+Progressed: 250,330 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.00%) (Ranked 211)
 | 2023-06-01 | 250,158 | 1 |
 | 2023-06-02 | 250,217 | 1 |
 | 2023-06-03 | 250,314 | 1 |
-| 2023-06-04 | 250,319 | 1 |
+| 2023-06-04 | 250,330 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 465)  
 Sum: 70 (Ranked 422)  

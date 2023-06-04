@@ -2,12 +2,12 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2654,7 +2654,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9484,
+  "EOS_Progressed": 9489,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
@@ -5409,6 +5409,11 @@
       "Time": "2023-06-03T23:06:50.4851877+00:00",
       "NumProgressed": 9484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T02:41:01.6618922+00:00",
+      "NumProgressed": 9489,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5420,7 +5425,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "02_BurningCity",
@@ -5428,7 +5433,7 @@
       "Name": "Burning City",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -5452,7 +5457,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -5476,7 +5481,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "09_PathOfDemon",
@@ -5788,7 +5793,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "49_Flame",
@@ -5812,7 +5817,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -6347,21 +6352,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8266,
+      "Progressed": 8271,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9484,
+      "Progressed": 9489,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-03T16:58:38.1745159+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:42.1023907+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:41:01.6618916+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:59.9396665+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:42.1025667+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:36.8597949+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:41:01.6620512+00:00"
 }

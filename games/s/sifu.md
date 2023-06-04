@@ -1,18 +1,19 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 64)  
+Rating: 4.82 (Ranked 65)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~660 |
-| Project Arena | 3.00% | ~495 |
+| Diligence as a goal | 4.00% | ~661 |
+| Project Arena | 3.00% | ~496 |
 | The Old Grandmaster | 1.00% | ~7,072 |
 | The Assault | 1.00% | ~7,072 |
 | The Hateful Pole Fighter | 1.00% | ~7,072 |
 | A Lady's Blood in the Snow | 1.00% | ~7,072 |
 | Lady Wing Chun | 1.00% | ~7,072 |
+| Kill Nil | 1.00% | ~7,072 |
 | Street Fighting | 1.00% | ~7,072 |
 | Life is your teacher | 1.00% | ~7,072 |
 | State of constant learning | 1.00% | ~7,072 |
@@ -24,14 +25,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 1.00% | ~165 |
 | The best strikes are the ones we avoid | 1.00% | ~165 |
 | Furious Fists | 0.90% | ~6,365 |
-| Kill Nil | 0.90% | ~6,365 |
 | Stuntmaster | 0.90% | ~6,365 |
 | Old Child | 0.90% | ~6,365 |
 | Take damage to save time | 0.90% | ~6,365 |
-| Scareless | 0.70% | ~4,950 |
-| Dance of the Praying Mantis | 0.70% | ~4,950 |
-| Qi Gong: Mind | 0.70% | ~4,950 |
-| Kung-Fu Tussle | 0.70% | ~4,950 |
+| Scareless | 0.70% | ~4,951 |
+| Dance of the Praying Mantis | 0.70% | ~4,951 |
+| Qi Gong: Mind | 0.70% | ~4,951 |
+| Kung-Fu Tussle | 0.70% | ~4,951 |
 | I know Kung-Fu | 0.60% | ~4,243 |
 | Deadly Venom | 0.60% | ~99 |
 | A Touch of Acumen | 0.60% | ~99 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,202 (Ranked 15)  
-Completed: 12,754 (1.80%) (Ranked 68)  
+Progressed: 707,220 (Ranked 15)  
+Completed: 12,754 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 12,754 (1.80%) (Ranked 68)
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
-| 2023-06-04 | 707,202 | 12,754 |
+| 2023-06-04 | 707,220 | 12,754 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
 Sum: 10,457 (Ranked 78)  

@@ -16,12 +16,12 @@
 | Easy Victory | 5.00% | ~6 |
 | Back From The Dead | 3.00% | ~4 |
 | Ball Protector | 3.00% | ~4 |
+| Legendary Destructor | 3.00% | ~4 |
 | Ticking Clock | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~2 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
 | Ice Breaker | 2.00% | ~2 |
-| Legendary Destructor | 2.00% | ~2 |
 | Medium Rare | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Nomad | 2.00% | ~2 |

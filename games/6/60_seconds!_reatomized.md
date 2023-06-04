@@ -1,28 +1,28 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 313)  
+Rating: 4.64 (Ranked 314)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,815 |
-| All thumbs | 91.00% | ~3,774 |
-| I will survive! | 91.00% | ~3,774 |
-| Home, sweet home | 89.00% | ~3,691 |
-| Survivalist | 87.00% | ~3,608 |
-| One way ticket | 83.00% | ~3,442 |
-| Last man standing | 77.00% | ~3,193 |
-| Family guy | 75.00% | ~3,110 |
-| Out of the Bag | 72.00% | ~2,986 |
-| The Dark Side | 67.00% | ~2,778 |
-| Duck and cover! | 62.00% | ~2,571 |
+| Prepper | 92.00% | ~3,816 |
+| All thumbs | 91.00% | ~3,775 |
+| I will survive! | 91.00% | ~3,775 |
+| Home, sweet home | 89.00% | ~3,692 |
+| Survivalist | 87.00% | ~3,609 |
+| One way ticket | 83.00% | ~3,443 |
+| Last man standing | 77.00% | ~3,194 |
+| Family guy | 75.00% | ~3,111 |
+| Out of the Bag | 72.00% | ~2,987 |
+| The Dark Side | 67.00% | ~2,779 |
+| Duck and cover! | 62.00% | ~2,572 |
 | Souper! | 61.00% | ~2,530 |
-| Pacifist | 55.00% | ~2,281 |
-| 2-1-6 | 54.00% | ~2,239 |
+| Pacifist | 56.00% | ~2,323 |
+| 2-1-6 | 54.00% | ~2,240 |
 | A gift | 50.00% | ~2,074 |
 | Girl Power | 44.00% | ~1,825 |
 | What goes around... | 40.00% | ~1,659 |
-| Be Prepared | 35.00% | ~1,451 |
+| Be Prepared | 35.00% | ~1,452 |
 | Unbreakable | 34.00% | ~1,410 |
 | Atomic drill | 32.00% | ~1,327 |
 | This is the end | 32.00% | ~1,327 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 313)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,147 (Ranked 131)  
+Progressed: 4,148 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 4,126 | 0 |
 | 2023-06-02 | 4,134 | 0 |
 | 2023-06-03 | 4,146 | 0 |
-| 2023-06-04 | 4,147 | 0 |
+| 2023-06-04 | 4,148 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

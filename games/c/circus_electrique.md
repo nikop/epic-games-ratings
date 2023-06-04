@@ -1,21 +1,21 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 848)  
+Rating: 4.16 (Ranked 849)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 41.00% | ~173 |
-| Grand Opening | 37.00% | ~156 |
 | Circus Electrique Proudly Presents... | 37.00% | ~156 |
+| Grand Opening | 36.00% | ~152 |
 | Path of Learning | 36.00% | ~152 |
-| Built in a Day | 30.00% | ~126 |
-| More Brain Than Brawn | 26.00% | ~109 |
+| Built in a Day | 30.00% | ~127 |
+| More Brain Than Brawn | 26.00% | ~110 |
 | Perfect Illusion | 20.00% | ~84 |
 | Hundred Percent First | 20.00% | ~84 |
 | Dirty Dozen | 17.00% | ~72 |
-| Fan Service | 16.00% | ~67 |
+| Fan Service | 16.00% | ~68 |
 | Lion Tamer | 15.00% | ~63 |
 | King of District 1 | 14.00% | ~59 |
 | Amazing! | 14.00% | ~59 |
@@ -25,11 +25,11 @@ Number of Ratings: 22  (23.09.2022)
 | Lucky Day | 12.00% | ~51 |
 | King of District 2 | 11.00% | ~46 |
 | Time Travel! | 10.00% | ~42 |
-| Marketing Manager | 10.00% | ~42 |
+| Marketing Manager | 9.00% | ~38 |
 | Circus Versus Circus | 8.00% | ~34 |
 | King of District 3 | 8.00% | ~34 |
-| Club Member | 7.00% | ~29 |
-| Spirits High | 7.00% | ~29 |
+| Club Member | 7.00% | ~30 |
+| Spirits High | 7.00% | ~30 |
 | Hundred Percent Second | 6.00% | ~25 |
 | King of District 4 | 6.00% | ~25 |
 | Around the Clock | 5.00% | ~21 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 204)  
+Progressed: 422 (Ranked 204)  
 Completed: 1 (0.24%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 1 (0.24%) (Ranked 138)
 | 2023-05-31 | 416 | 1 |
 | 2023-06-02 | 418 | 1 |
 | 2023-06-03 | 421 | 1 |
+| 2023-06-04 | 422 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

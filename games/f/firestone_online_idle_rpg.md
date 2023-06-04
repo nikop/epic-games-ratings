@@ -1,17 +1,17 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.95 (Ranked 903)  
+Rating: 3.95 (Ranked 904)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,192 |
-| World Map | 80.00% | ~1,014 |
-| Temple of Eternals | 56.00% | ~710 |
-| Prestigious | 53.00% | ~672 |
-| Fellowship Power | 40.00% | ~507 |
-| Guild Power | 24.00% | ~304 |
-| Prestigious x10 | 21.00% | ~266 |
+| Victor | 94.00% | ~1,194 |
+| World Map | 80.00% | ~1,016 |
+| Temple of Eternals | 56.00% | ~711 |
+| Prestigious | 53.00% | ~673 |
+| Fellowship Power | 40.00% | ~508 |
+| Guild Power | 24.00% | ~305 |
+| Prestigious x10 | 21.00% | ~267 |
 | The game is on | 19.00% | ~241 |
 | Exotic Merchant | 17.00% | ~216 |
 | Dragon Clicker | 16.00% | ~203 |
@@ -22,14 +22,14 @@ Rating: 3.95 (Ranked 903)
 | Enlightenment | 13.00% | ~165 |
 | Hero inspection | 13.00% | ~165 |
 | Lieutenant | 12.00% | ~152 |
-| Milestone collector | 11.00% | ~139 |
-| Mysterious Rock | 11.00% | ~139 |
-| Natural Talent | 11.00% | ~139 |
-| Superior | 11.00% | ~139 |
-| The Unstoppable | 11.00% | ~139 |
+| Milestone collector | 11.00% | ~140 |
+| Mysterious Rock | 11.00% | ~140 |
+| Natural Talent | 11.00% | ~140 |
+| Superior | 11.00% | ~140 |
+| The Unstoppable | 11.00% | ~140 |
 | Scientist | 9.00% | ~114 |
-| Challenger | 8.00% | ~101 |
-| Daily Quest Completionist | 8.00% | ~101 |
+| Challenger | 8.00% | ~102 |
+| Daily Quest Completionist | 8.00% | ~102 |
 | Hunter | 7.00% | ~89 |
 | Scroll Master | 7.00% | ~89 |
 | The power of Awakening | 7.00% | ~89 |
@@ -38,13 +38,14 @@ Rating: 3.95 (Ranked 903)
 | Mastery | 6.00% | ~76 |
 | Moving Up The Ladder | 6.00% | ~76 |
 | Relic Of The Past | 6.00% | ~76 |
-| Here We Go Again | 5.00% | ~63 |
-| The Expeditioner | 5.00% | ~63 |
-| Trader | 5.00% | ~63 |
+| Here We Go Again | 5.00% | ~64 |
+| The Expeditioner | 5.00% | ~64 |
+| Trader | 5.00% | ~64 |
 | Ancient Knowledge | 4.00% | ~51 |
 | Background Story | 4.00% | ~51 |
 | Four Leaf Clover | 4.00% | ~51 |
 | How Do You Turn This On? | 4.00% | ~51 |
+| Master Enchanter | 4.00% | ~51 |
 | Missions Dedication | 4.00% | ~51 |
 | The father of Dragons | 4.00% | ~51 |
 | Weekly Quest Completionist | 4.00% | ~51 |
@@ -52,7 +53,6 @@ Rating: 3.95 (Ranked 903)
 | Enchanting skill | 3.00% | ~38 |
 | Engineer Mastery | 3.00% | ~38 |
 | Lock And Load | 3.00% | ~38 |
-| Master Enchanter | 3.00% | ~38 |
 | Blueprint Upgrades | 2.00% | ~25 |
 | Crystal Mining | 2.00% | ~25 |
 | Sailor | 2.00% | ~25 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 903)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,268 (Ranked 162)  
+Progressed: 1,270 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
 | 2023-06-03 | 1,267 | 1 |
-| 2023-06-04 | 1,268 | 1 |
+| 2023-06-04 | 1,270 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

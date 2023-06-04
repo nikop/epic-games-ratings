@@ -2,7 +2,7 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4904,
+  "EOS_Progressed": 4906,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1249,6 +1249,11 @@
       "Time": "2023-06-04T00:05:37.7922829+00:00",
       "NumProgressed": 4904,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T02:40:57.3074173+00:00",
+      "NumProgressed": 4906,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1372,7 +1377,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1380,7 +1385,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ach_campaign_progress7",
@@ -1514,9 +1519,9 @@
       "ID": "ach_campaign_special5",
       "SetID": "8cb3id7",
       "Name": "Extra Life: Wish Granted",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 245
     },
     {
       "ID": "ach_campaign_special6",
@@ -1867,15 +1872,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4904,
+      "Progressed": 4906,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:37.7922824+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:57.3074163+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:34.0355605+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:37.7923691+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:34:12.3103251+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:57.3075076+00:00"
 }

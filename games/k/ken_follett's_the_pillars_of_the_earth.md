@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 512)  
+Rating: 4.52 (Ranked 513)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,440 |
+| Tattletale | 42.00% | ~5,441 |
 | Man of politics | 36.00% | ~4,663 |
 | Friends of sorts | 34.00% | ~4,404 |
 | Yet another secret | 34.00% | ~4,404 |
-| Let there be darkness | 33.00% | ~4,274 |
-| End of Book One | 31.00% | ~4,015 |
+| Let there be darkness | 33.00% | ~4,275 |
+| End of Book One | 31.00% | ~4,016 |
 | Garden of Eden | 25.00% | ~3,238 |
 | Wannabe knight | 24.00% | ~3,109 |
 | Full house | 24.00% | ~3,109 |
@@ -22,14 +22,14 @@ Number of Ratings: 368  (23.09.2022)
 | End of Book Two | 18.00% | ~2,332 |
 | Everything's in order | 17.00% | ~2,202 |
 | Jack was here! | 15.00% | ~1,943 |
-| Twist of Fate | 14.00% | ~1,813 |
-| Exterminator | 14.00% | ~1,813 |
+| Twist of Fate | 14.00% | ~1,814 |
+| Exterminator | 14.00% | ~1,814 |
 | Whodunnit | 13.00% | ~1,684 |
 | Good midwife | 11.00% | ~1,425 |
 | Friar Tuck | 11.00% | ~1,425 |
 | First profit | 11.00% | ~1,425 |
+| Skilled merchant | 10.00% | ~1,295 |
 | Team player | 10.00% | ~1,295 |
-| Skilled merchant | 9.00% | ~1,166 |
 | Nothing but make-believe | 9.00% | ~1,166 |
 | Brother Marcus | 9.00% | ~1,166 |
 | The oath | 9.00% | ~1,166 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~389 |
 | Boy of mystery | 2.00% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,953 (Ranked 105)  
+Progressed: 12,954 (Ranked 105)  
 Completed: 97 (0.75%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 97 (0.75%) (Ranked 101)
 | 2023-06-01 | 12,903 | 97 |
 | 2023-06-02 | 12,925 | 97 |
 | 2023-06-03 | 12,953 | 97 |
+| 2023-06-04 | 12,954 | 97 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  

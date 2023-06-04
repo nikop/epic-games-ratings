@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 440)  
+Rating: 4.57 (Ranked 441)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,15 +41,15 @@ Rating: 4.57 (Ranked 440)
 | Pedal to the Metal | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~17 |
+| Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
 | You Had One Job... | 0.70% | ~17 |
-| Catastrophe Avoided | 0.60% | ~14 |
 | Tiqqun Contender | 0.50% | ~12 |
+| Gregor Spinoza | 0.50% | ~12 |
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |
 | Help of the Forgotten Member | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
-| Gregor Spinoza | 0.40% | ~10 |
 | Scientifically Accurate | 0.40% | ~10 |
 | Remember the Dead | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |

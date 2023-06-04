@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Declawing | 67.00% | ~53 |
-| Target Practice | 38.00% | ~30 |
-| Over the Moon | 32.00% | ~25 |
+| Target Practice | 39.00% | ~31 |
+| Over the Moon | 33.00% | ~26 |
 | Enemies of Fate | 32.00% | ~25 |
 | The Bigger They Are | 30.00% | ~24 |
+| Amokuali Tower | 28.00% | ~22 |
 | Your Training Continues | 27.00% | ~21 |
-| Amokuali Tower | 27.00% | ~21 |
 | Armored | 27.00% | ~21 |
 | Freedom | 23.00% | ~18 |
 | The Pride of Moozhaw | 20.00% | ~16 |

@@ -1,22 +1,22 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.02 (Ranked 892)  
+Rating: 4.02 (Ranked 893)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~491 |
-| My little farm | 65.00% | ~394 |
-| Every beginning is difficult | 63.00% | ~382 |
-| 3, 2, 1, mine | 55.00% | ~333 |
-| Gofer | 55.00% | ~333 |
-| Seafarer | 54.00% | ~327 |
-| O Captain! My Captain! | 54.00% | ~327 |
+| Cabin boy | 81.00% | ~492 |
+| My little farm | 65.00% | ~395 |
+| Every beginning is difficult | 62.00% | ~376 |
+| 3, 2, 1, mine | 55.00% | ~334 |
+| Gofer | 55.00% | ~334 |
+| Seafarer | 54.00% | ~328 |
+| O Captain! My Captain! | 54.00% | ~328 |
 | Greed for gold | 42.00% | ~255 |
-| Intangible | 41.00% | ~248 |
-| I'm out of here for a while | 41.00% | ~248 |
-| In a mint condition | 37.00% | ~224 |
+| Intangible | 41.00% | ~249 |
+| I'm out of here for a while | 41.00% | ~249 |
+| In a mint condition | 37.00% | ~225 |
 | Licence to Kill | 35.00% | ~212 |
 | Pirates! | 34.00% | ~206 |
 | Collectionitis | 28.00% | ~170 |
@@ -31,9 +31,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panic buying | 11.00% | ~67 |
 | Just a scratch | 9.00% | ~55 |
 | Your vessel, my vessel | 9.00% | ~55 |
-| All mine! | 8.00% | ~48 |
-| Paths of Glory | 8.00% | ~48 |
-| Panel of experts | 8.00% | ~48 |
+| All mine! | 8.00% | ~49 |
+| Paths of Glory | 8.00% | ~49 |
+| Panel of experts | 8.00% | ~49 |
 | Maker | 7.00% | ~42 |
 | Conglomerate | 6.00% | ~36 |
 | The Grande Bouffe | 5.00% | ~30 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606 (Ranked 194)  
+Progressed: 607 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-31 | 593 | 0 |
 | 2023-06-01 | 601 | 0 |
 | 2023-06-03 | 606 | 0 |
+| 2023-06-04 | 607 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

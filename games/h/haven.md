@@ -1,22 +1,22 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.73 (Ranked 157)  
+Rating: 4.73 (Ranked 158)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~954 |
-| Lovebirds | 51.00% | ~616 |
-| Life’s short, ride long | 46.00% | ~556 |
+| Balding bloot! | 79.00% | ~956 |
+| Lovebirds | 51.00% | ~617 |
+| Life’s short, ride long | 46.00% | ~557 |
 | Hug therapy | 45.00% | ~544 |
-| Over my dead body | 41.00% | ~495 |
+| Over my dead body | 41.00% | ~496 |
 | Shake the rust off their feet | 22.00% | ~266 |
 | Strike! | 20.00% | ~242 |
 | My little pony | 20.00% | ~242 |
 | A love supreme | 19.00% | ~230 |
-| In my shoes | 18.00% | ~217 |
-| Like new! | 15.00% | ~181 |
+| In my shoes | 18.00% | ~218 |
+| Like new! | 15.00% | ~182 |
 | Heartstrings | 14.00% | ~169 |
 | Head in the clouds | 14.00% | ~169 |
 | Don't look back | 13.00% | ~157 |
@@ -26,18 +26,18 @@ Number of Ratings: 38  (23.09.2022)
 | Unstoppable | 10.00% | ~121 |
 | Ain't no mountain high enough | 9.00% | ~109 |
 | Self-sustainability | 8.00% | ~97 |
+| Can't get wetter... | 5.00% | ~60 |
 | Spring cleaning | 5.00% | ~60 |
 | An eye for an eye | 5.00% | ~60 |
 | Second thoughts | 4.00% | ~48 |
 | Mooning the moon | 4.00% | ~48 |
-| Can't get wetter... | 4.00% | ~48 |
 | Strip-a-bobble | 4.00% | ~48 |
 | Pearls before Birble | 3.00% | ~36 |
 | Last minute | 3.00% | ~36 |
 | Thar she blows | 2.00% | ~24 |
 | À la carte | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,208 (Ranked 165)  
+Progressed: 1,210 (Ranked 165)  
 Completed: 8 (0.66%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 8 (0.66%) (Ranked 106)
 | 2023-06-01 | 1,190 | 8 |
 | 2023-06-02 | 1,196 | 8 |
 | 2023-06-03 | 1,208 | 8 |
+| 2023-06-04 | 1,210 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

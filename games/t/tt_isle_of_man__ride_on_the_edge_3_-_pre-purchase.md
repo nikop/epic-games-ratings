@@ -39,9 +39,9 @@
 | Made Father Proud | 3.00% | ~2 |
 | Win-Win! | 3.00% | ~2 |
 | Supersport Superfan | 3.00% | ~2 |
+| Superbike Superfan | 3.00% | ~2 |
 | Playing Favourites | 3.00% | ~2 |
 | Tailor-Made | 3.00% | ~2 |
-| Superbike Superfan | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66 (Ranked 296)  

@@ -1,28 +1,28 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.59 (Ranked 406)  
+Rating: 4.59 (Ranked 407)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,023 |
-| Sweet Sorrow | 18.00% | ~5,511 |
-| Rules the Waves | 17.00% | ~5,205 |
+| Sink Beneath the Waves | 36.00% | ~11,024 |
+| Sweet Sorrow | 18.00% | ~5,512 |
+| Rules the Waves | 17.00% | ~5,206 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,593 |
 | Rival | 14.00% | ~4,287 |
-| Correspondent | 12.00% | ~3,674 |
-| Lose Your Mind | 12.00% | ~3,674 |
-| Sound Mind? | 12.00% | ~3,674 |
+| Correspondent | 12.00% | ~3,675 |
+| Lose Your Mind | 12.00% | ~3,675 |
+| Sound Mind? | 12.00% | ~3,675 |
 | Salt's Curse | 11.00% | ~3,368 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,368 |
 | The Fall of the House | 11.00% | ~3,368 |
 | Shipmate | 11.00% | ~3,368 |
 | One Year at Zee | 8.00% | ~2,450 |
-| Pupil | 7.00% | ~2,143 |
-| Salvager | 7.00% | ~2,143 |
-| Open Your Ears | 7.00% | ~2,143 |
-| The Ascent of Man | 7.00% | ~2,143 |
+| Pupil | 7.00% | ~2,144 |
+| Salvager | 7.00% | ~2,144 |
+| Open Your Ears | 7.00% | ~2,144 |
+| The Ascent of Man | 7.00% | ~2,144 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,531 |
 | Zee Fever | 5.00% | ~1,531 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,225 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~31 |
 | Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,619 (Ranked 88)  
+Progressed: 30,622 (Ranked 88)  
 Completed: 3 (0.01%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 3 (0.01%) (Ranked 200)
 | 2023-06-01 | 30,437 | 3 |
 | 2023-06-02 | 30,520 | 3 |
 | 2023-06-03 | 30,615 | 3 |
-| 2023-06-04 | 30,619 | 3 |
+| 2023-06-04 | 30,622 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 278 (Ranked 331)  

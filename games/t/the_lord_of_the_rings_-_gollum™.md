@@ -10,10 +10,10 @@
 | Wait! Wait! Not yet! | 34.00% | ~134 |
 | Like Flying... | 31.00% | ~122 |
 | Memories | 28.00% | ~110 |
-| The Maggot | 24.00% | ~95 |
+| The Maggot | 25.00% | ~98 |
 | The Breeder | 20.00% | ~79 |
 | The Veteran | 15.00% | ~59 |
-| The Traitor | 11.00% | ~43 |
+| The Traitor | 12.00% | ~47 |
 | The Spider | 10.00% | ~39 |
 | He's so Annoying | 6.00% | ~24 |
 | Good as Fish | 6.00% | ~24 |

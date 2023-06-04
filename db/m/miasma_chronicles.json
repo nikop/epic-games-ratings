@@ -2,7 +2,7 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 172,
@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 998,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1360,9 +1360,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 329
     },
     {
       "ID": "ENDGAME",
@@ -1464,17 +1464,17 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 569
     },
     {
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 150
     },
     {
       "ID": "LUMBERJACK",
@@ -1544,17 +1544,17 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 90
+      "UsersEstimate": 100
     },
     {
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 279
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1584,9 +1584,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 220
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1600,9 +1600,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 269
     },
     {
       "ID": "THE_WATCHERS",
@@ -1633,8 +1633,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:00:02.9268062+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:35:46.2254678+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:59.5703047+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:00:02.9268584+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:36.4772047+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:35:46.2255223+00:00"
 }

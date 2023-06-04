@@ -1,17 +1,17 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 630)  
+Rating: 4.44 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 25.00% | ~546 |
-| Confirming Suspicions | 21.00% | ~459 |
-| The Kraken Wakes | 16.00% | ~350 |
-| It's Starting to Crack | 14.00% | ~306 |
-| Lord of War | 12.00% | ~262 |
-| Resourceful | 11.00% | ~240 |
-| Change the Channel | 11.00% | ~240 |
+| Meeting Resistance | 25.00% | ~548 |
+| Confirming Suspicions | 21.00% | ~460 |
+| The Kraken Wakes | 16.00% | ~351 |
+| It's Starting to Crack | 14.00% | ~307 |
+| Lord of War | 12.00% | ~263 |
+| Resourceful | 11.00% | ~241 |
+| Change the Channel | 11.00% | ~241 |
 | Taking it back | 9.00% | ~197 |
 | Organ Grinder | 8.00% | ~175 |
 | As Quiet as a Mouse | 8.00% | ~175 |
@@ -19,21 +19,21 @@ Rating: 4.44 (Ranked 630)
 | Enemy at the Gates | 7.00% | ~153 |
 | Just a Flesh Wound | 7.00% | ~153 |
 | Explosive Efficiency | 7.00% | ~153 |
-| Liberté | 6.00% | ~131 |
-| Gunslinger | 6.00% | ~131 |
-| Sharpshooter | 6.00% | ~131 |
-| The Kraken Sleeps | 6.00% | ~131 |
-| Opposing Force | 5.00% | ~109 |
-| Die Nussknacker Sweet! | 5.00% | ~109 |
-| Der Geist | 5.00% | ~109 |
-| Close Quarters | 5.00% | ~109 |
-| Snake in the Grass | 5.00% | ~109 |
-| Climbing the Ladder | 4.00% | ~87 |
-| No Stone Unturned | 4.00% | ~87 |
-| Fields of Glory | 4.00% | ~87 |
-| Skirmisher | 4.00% | ~87 |
-| Set Europe Ablaze | 4.00% | ~87 |
-| Brains of the Operation | 4.00% | ~87 |
+| Liberté | 6.00% | ~132 |
+| Gunslinger | 6.00% | ~132 |
+| Sharpshooter | 6.00% | ~132 |
+| The Kraken Sleeps | 6.00% | ~132 |
+| Opposing Force | 5.00% | ~110 |
+| Die Nussknacker Sweet! | 5.00% | ~110 |
+| Der Geist | 5.00% | ~110 |
+| Close Quarters | 5.00% | ~110 |
+| Snake in the Grass | 5.00% | ~110 |
+| Climbing the Ladder | 4.00% | ~88 |
+| No Stone Unturned | 4.00% | ~88 |
+| Fields of Glory | 4.00% | ~88 |
+| Skirmisher | 4.00% | ~88 |
+| Set Europe Ablaze | 4.00% | ~88 |
+| Brains of the Operation | 4.00% | ~88 |
 | Precision Is Key | 3.00% | ~66 |
 | Rigged to Blow | 2.00% | ~44 |
 | My Little Friend | 2.00% | ~44 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 630)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,185 (Ranked 149)  
+Progressed: 2,192 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
-| 2023-06-04 | 2,185 | 2 |
+| 2023-06-04 | 2,192 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

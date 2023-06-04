@@ -2,7 +2,7 @@
   "ID": "768ec2d3b5114ac4a800631b12ee3f31",
   "Name": "Cozy Grove",
   "ProductSlug": "cozy-grove",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 433,
@@ -163,6 +163,6 @@
   "FirstSeen": "2022-07-22T20:30:43.8185339+00:00",
   "LastChanged": "2023-04-08T09:58:01.1508585+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.5778466+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:11.8539213+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:02:35.278833+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:32:44.666488+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:38:18.7612797+00:00"
 }

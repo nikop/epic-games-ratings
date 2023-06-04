@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 106)  
+Rating: 4.77 (Ranked 107)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -40,7 +40,7 @@ Number of Ratings: 209  (23.09.2022)
 | Inner Peace | 77.00% | ~1,590 |
 | Diamond Pickaxe | 76.00% | ~1,569 |
 | Killed them all | 76.00% | ~1,569 |
-| Trickle Down Economy | 75.00% | ~1,549 |
+| Trickle Down Economy | 76.00% | ~1,569 |
 | Win | 75.00% | ~1,549 |
 | Greenhouse | 72.00% | ~1,487 |
 | Played with fire | 69.00% | ~1,425 |

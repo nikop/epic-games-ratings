@@ -194,9 +194,9 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BronzeGilgameshBossDefeatedAchievement",
@@ -250,9 +250,9 @@
       "ID": "BronzeMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Ensign",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BronzeMissionsCompletedAllAchievement",
@@ -298,9 +298,9 @@
       "ID": "Cleared100LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo III",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Cleared10LevelsAchievement",
@@ -346,9 +346,9 @@
       "ID": "Cleared50LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo II",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ClearedAllLevels10TimesAchievement",
@@ -618,9 +618,9 @@
       "ID": "GoldBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Prince of Ball-air",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldGilgameshBossDefeatedAchievement",
@@ -730,9 +730,9 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Killed100000EnemiesAchievement",
@@ -818,9 +818,9 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Killed500BossesAchievement",
@@ -882,17 +882,17 @@
       "ID": "PerksUnlocked25Achievement",
       "SetID": "a8djcgh",
       "Name": "25Gb HDD",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerksUnlocked50Achievement",
       "SetID": "a8djcgh",
       "Name": "50Gb HDD",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerksUnlocked5Achievement",
@@ -978,9 +978,9 @@
       "ID": "SilverBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Prince of Ball-air",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SilverGilgameshBossDefeatedAchievement",
@@ -1034,9 +1034,9 @@
       "ID": "SilverMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Captain",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SilverMissionsCompletedAllAchievement",
@@ -1122,9 +1122,9 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VisitLostLord50TimeAchievement",
@@ -1146,9 +1146,9 @@
       "ID": "VisitMerchant10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince II",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VisitMerchant1TimeAchievement",
@@ -1202,9 +1202,9 @@
       "ID": "VisitRegular100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit II",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VisitRegular10TimeAchievement",
@@ -1233,8 +1233,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:43.1296152+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:41:02.6880885+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:58:24.616978+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:43.1297869+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:34:01.3098025+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:41:02.6882958+00:00"
 }

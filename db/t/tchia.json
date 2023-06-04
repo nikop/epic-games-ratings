@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6288,
+  "EOS_Progressed": 6289,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2913,6 +2913,11 @@
       "Time": "2023-06-04T00:05:11.8450975+00:00",
       "NumProgressed": 6288,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-04T02:40:30.6698156+00:00",
+      "NumProgressed": 6289,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3076,7 +3081,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "THING",
@@ -3091,7 +3096,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6288,
+      "Progressed": 6289,
       "Completed": 23
     }
   ],
@@ -3099,8 +3104,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-04T00:05:11.8450969+00:00",
+  "LastChanged_Achievements": "2023-06-04T02:40:30.669815+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:57:42.7296074+00:00",
-  "LastUpdate_Achievements": "2023-06-04T00:05:11.8451269+00:00"
+  "LastUpdate_Ratings": "2023-06-04T02:33:18.4568808+00:00",
+  "LastUpdate_Achievements": "2023-06-04T02:40:30.6698791+00:00"
 }

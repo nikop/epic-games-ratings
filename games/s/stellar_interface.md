@@ -16,16 +16,27 @@
 | 10Gb HDD | 17.00% | ~5 |
 | Stoic | 14.00% | ~4 |
 | Almost There I | 14.00% | ~4 |
+| Bronze Prince of Ball-air | 10.00% | ~3 |
 | Omicron Alpha | 10.00% | ~3 |
-| Bronze Prince of Ball-air | 7.00% | ~2 |
-| Pacifist | 7.00% | ~2 |
-| Collateral Damage I | 7.00% | ~2 |
+| Pacifist | 10.00% | ~3 |
+| Collateral Damage I | 10.00% | ~3 |
+| Sectoral Ensign | 3.00% | ~1 |
 | Cartridge Hoarder | 3.00% | ~1 |
+| Rambo III | 3.00% | ~1 |
+| Rambo II | 3.00% | ~1 |
 | Diligent | 3.00% | ~1 |
 | Hoarder | 3.00% | ~1 |
 | Defrosted | 3.00% | ~1 |
 | Food Poisoning | 3.00% | ~1 |
+| Golden Prince of Ball-air | 3.00% | ~1 |
+| Unstoppable | 3.00% | ~1 |
+| 25Gb HDD | 3.00% | ~1 |
+| 50Gb HDD | 3.00% | ~1 |
 | Galactic Cadet | 3.00% | ~1 |
+| Silver Prince of Ball-air | 3.00% | ~1 |
+| Sectoral Captain | 3.00% | ~1 |
+| Merchant Prince II | 3.00% | ~1 |
+| Fighting Fit II | 3.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -35,17 +46,14 @@
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | System Ensign | 0.00% | ~0 |
 | Galactic Ensign | 0.00% | ~0 |
-| Sectoral Ensign | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Bronze BBQ | 0.00% | ~0 |
 | Bronze Pest Control | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
-| Rambo III | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
 | Rambo IV | 0.00% | ~0 |
 | Curious | 0.00% | ~0 |
 | Rambo V | 0.00% | ~0 |
-| Rambo II | 0.00% | ~0 |
 | Space Odysseus | 0.00% | ~0 |
 | Hitchhiker | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
@@ -73,7 +81,6 @@
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |
 | Golden Tovarish | 0.00% | ~0 |
-| Golden Prince of Ball-air | 0.00% | ~0 |
 | Archer's Golden Fate | 0.00% | ~0 |
 | Golden Foundation | 0.00% | ~0 |
 | Golden Alchemist | 0.00% | ~0 |
@@ -94,13 +101,10 @@
 | Usurper I | 0.00% | ~0 |
 | Usurper II | 0.00% | ~0 |
 | Rampage | 0.00% | ~0 |
-| Unstoppable | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Usurper III | 0.00% | ~0 |
 | Flower Power | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
-| 25Gb HDD | 0.00% | ~0 |
-| 50Gb HDD | 0.00% | ~0 |
 | 80Gb HDD | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
@@ -109,14 +113,12 @@
 | You've drone good! | 0.00% | ~0 |
 | Surrounded | 0.00% | ~0 |
 | Silver Tovarish | 0.00% | ~0 |
-| Silver Prince of Ball-air | 0.00% | ~0 |
 | Archer's Silver Fate | 0.00% | ~0 |
 | Silver Foundation | 0.00% | ~0 |
 | Silver Alchemist | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | System Captain | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
-| Sectoral Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Silver BBQ | 0.00% | ~0 |
 | Silver Pest Control | 0.00% | ~0 |
@@ -129,12 +131,10 @@
 | Collateral Damage II | 0.00% | ~0 |
 | Collateral Damage III | 0.00% | ~0 |
 | Merchant Prince III | 0.00% | ~0 |
-| Merchant Prince II | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
 | Almost There II | 0.00% | ~0 |
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit IV | 0.00% | ~0 |
-| Fighting Fit II | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 29 (Ranked 323)  
