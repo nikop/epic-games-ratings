@@ -67,7 +67,7 @@
 | 65 | [JARS](games/j/jars.md) | 2.04% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.79% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.78% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
@@ -106,8 +106,8 @@
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.71% |
 | 105 | [Train Valley](games/t/train_valley.md) | 0.68% |
 | 106 | [Haven](games/h/haven.md) | 0.66% |
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 107 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
+| 108 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
 | 109 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 110 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
