@@ -4336,10 +4336,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10459,
       "NumberOfAwardsMax": 6130
+    },
+    {
+      "Time": "2023-06-04T18:59:16.6144903+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10460,
+      "NumberOfAwardsMax": 6130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10459,
+  "NumberOfAwards": 10460,
   "NumberOfAwardsMax": 6130,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4413,12 +4419,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 352
+      "Count": 353
     }
   ],
-  "EOS_Progressed": 707386,
+  "EOS_Progressed": 707395,
   "EOS_Completed": 12757,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8516,6 +8522,11 @@
       "Time": "2023-06-04T18:06:29.4150634+00:00",
       "NumProgressed": 707386,
       "NumCompleted": 12757
+    },
+    {
+      "Time": "2023-06-04T19:06:18.8282717+00:00",
+      "NumProgressed": 707395,
+      "NumCompleted": 12757
     }
   ],
   "TotalAchievements": 50,
@@ -8567,7 +8578,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "07_Wude_H1",
@@ -8679,7 +8690,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8775,7 +8786,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "33_BladeOneShot",
@@ -8839,7 +8850,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8871,7 +8882,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8926,21 +8937,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16687,
+      "Progressed": 16696,
       "Completed": 10222
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707386,
+      "Progressed": 707395,
       "Completed": 12757
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-04T08:59:31.9360406+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:06:29.4150628+00:00",
+  "LastChanged": "2023-06-04T18:59:16.6144899+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:06:18.8282713+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:59:19.3405642+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:06:29.4151545+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:59:16.614492+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:06:18.8283375+00:00"
 }

@@ -14,9 +14,9 @@ Number of Ratings: 111  (23.09.2022)
 | Go with the Flow | 11.00% | ~247 |
 | Plastic Surgeon | 9.00% | ~202 |
 | The flip trick crown jewel | 9.00% | ~202 |
-| Keep the dream alive | 8.00% | ~179 |
-| The hard way | 8.00% | ~179 |
-| Upfront shredder | 8.00% | ~179 |
+| Keep the dream alive | 8.00% | ~180 |
+| The hard way | 8.00% | ~180 |
+| Upfront shredder | 8.00% | ~180 |
 | Good vibes | 7.00% | ~157 |
 | Finally he zips it | 6.00% | ~135 |
 | That pinch! | 6.00% | ~135 |
@@ -26,6 +26,7 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 5.00% | ~112 |
 | G'Day Mate! | 5.00% | ~112 |
 | NAHELL! | 5.00% | ~112 |
+| Purple passion | 5.00% | ~112 |
 | Squad goals | 5.00% | ~112 |
 | Sup widdit big dog! | 5.00% | ~112 |
 | Commence the Hijinx! | 4.00% | ~90 |
@@ -35,7 +36,6 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 4.00% | ~90 |
 | Manny Destroys All | 4.00% | ~90 |
 | Prince of Philly | 4.00% | ~90 |
-| Purple passion | 4.00% | ~90 |
 | Renaissance man | 4.00% | ~90 |
 | Tank commander | 4.00% | ~90 |
 | Trick shot marksman | 4.00% | ~90 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,243 (Ranked 148)  
+Progressed: 2,244 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 2,200 | 0 |
 | 2023-06-02 | 2,219 | 0 |
 | 2023-06-03 | 2,230 | 0 |
-| 2023-06-04 | 2,243 | 0 |
+| 2023-06-04 | 2,244 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 416 (Ranked 301)  

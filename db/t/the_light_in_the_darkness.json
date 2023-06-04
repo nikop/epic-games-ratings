@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539,
+  "EOS_Progressed": 1540,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 11,
@@ -2213,6 +2213,11 @@
       "Time": "2023-06-04T17:06:51.336097+00:00",
       "NumProgressed": 1539,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-06-04T19:06:01.5649803+00:00",
+      "NumProgressed": 1540,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 12,
@@ -2224,7 +2229,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Bernard",
@@ -2288,7 +2293,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2319,7 +2324,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1539,
+      "Progressed": 1540,
       "Completed": 125
     }
   ],
@@ -2327,8 +2332,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:06:12.1265436+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:06:01.5649795+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:59:51.3171021+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:06:12.1265663+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:59:51.0061332+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:06:01.5650067+00:00"
 }

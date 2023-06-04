@@ -14,7 +14,7 @@
 | Terminated III | 38.00% | ~34 |
 | Nanonic II | 36.00% | ~32 |
 | Challenge Mastered | 33.00% | ~30 |
-| The City | 24.00% | ~22 |
+| The City | 27.00% | ~24 |
 | Supply Run | 24.00% | ~22 |
 | Up Close And Personal | 24.00% | ~22 |
 | The Bigger They Are | 16.00% | ~14 |

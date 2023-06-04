@@ -2,13 +2,13 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 362,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -3432,9 +3432,9 @@
       "Count": 266
     }
   ],
-  "EOS_Progressed": 130751,
+  "EOS_Progressed": 130770,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3336,
+  "EOS_NewPlayers": 3319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8082,6 +8082,11 @@
       "Time": "2023-06-04T18:04:11.1627638+00:00",
       "NumProgressed": 130751,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-04T19:04:03.4878366+00:00",
+      "NumProgressed": 130770,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -8125,7 +8130,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 22228
+      "UsersEstimate": 22231
     },
     {
       "ID": "Achievement_13",
@@ -8149,7 +8154,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "Achievement_2",
@@ -8173,7 +8178,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 33995
+      "UsersEstimate": 34000
     },
     {
       "ID": "Achievement_5",
@@ -8205,7 +8210,7 @@
       "Name": "Samuel Norton",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 13075
+      "UsersEstimate": 13077
     },
     {
       "ID": "Achievement_9",
@@ -8220,15 +8225,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 130751,
+      "Progressed": 130770,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-06-04T17:58:40.5313086+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:04:11.1627632+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:04:03.4878362+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:42.8431009+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:58:40.5313094+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:04:11.1628135+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:58:39.4786033+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:04:03.487877+00:00"
 }

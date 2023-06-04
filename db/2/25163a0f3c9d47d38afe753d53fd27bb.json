@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 405,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6.42,
   "EosHistory": [
@@ -1070,9 +1070,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "LEVEL_007",
@@ -1094,9 +1094,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_010",
@@ -1277,8 +1277,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:04:08.9421198+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:04:01.2816573+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:57:06.648619+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:04:08.9421496+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:57:06.3418108+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:04:01.2816875+00:00"
 }

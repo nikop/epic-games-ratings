@@ -20,8 +20,8 @@ Number of Ratings: 54  (23.09.2022)
 | Love Guru | 9.00% | ~81 |
 | Savant | 9.00% | ~81 |
 | Not-so-private Eye | 8.00% | ~72 |
+| Superhuman | 8.00% | ~72 |
 | Bustin' nuts | 7.00% | ~63 |
-| Superhuman | 7.00% | ~63 |
 | The Vitinsky Rifle | 7.00% | ~63 |
 | Protection racket | 5.00% | ~45 |
 | Secret room | 5.00% | ~45 |

@@ -6,38 +6,38 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 26.00% | ~10,773 |
-| To The Nines | 22.00% | ~9,115 |
-| Optimized | 19.00% | ~7,872 |
-| Performance Review | 18.00% | ~7,458 |
-| Wet Work | 17.00% | ~7,044 |
-| Tune Up | 17.00% | ~7,044 |
-| Making a Name | 17.00% | ~7,044 |
-| The Side Job | 16.00% | ~6,629 |
-| Landlord | 16.00% | ~6,629 |
-| Food for Thought | 14.00% | ~5,801 |
-| Wrecking Ball | 13.00% | ~5,386 |
-| Finders Keepers | 12.00% | ~4,972 |
-| A Young Empire | 12.00% | ~4,972 |
-| Work Ethic | 11.00% | ~4,558 |
-| Quality Time | 8.00% | ~3,315 |
-| Power Players | 8.00% | ~3,315 |
-| Picking Fights | 8.00% | ~3,315 |
-| Showdown | 7.00% | ~2,900 |
-| Et tu? | 7.00% | ~2,900 |
-| Took It to The Limit | 7.00% | ~2,900 |
-| Kitted Out | 6.00% | ~2,486 |
-| Hijacked | 5.00% | ~2,072 |
-| Masters of Santo Ileso | 5.00% | ~2,072 |
-| The Spins | 4.00% | ~1,657 |
-| The Mechanic | 4.00% | ~1,657 |
-| Producer Credit | 4.00% | ~523 |
-| We could go home, or… | 3.00% | ~1,243 |
-| Challenge Accepted | 3.00% | ~1,243 |
-| A Golden Age | 3.00% | ~1,243 |
-| Closet Space | 3.00% | ~1,243 |
-| Face Off | 3.00% | ~392 |
-| Hazardous Heist | 3.00% | ~392 |
+| First F#@!ing Day | 26.00% | ~10,782 |
+| To The Nines | 22.00% | ~9,123 |
+| Optimized | 19.00% | ~7,879 |
+| Performance Review | 18.00% | ~7,464 |
+| Wet Work | 17.00% | ~7,050 |
+| Tune Up | 17.00% | ~7,050 |
+| Making a Name | 17.00% | ~7,050 |
+| The Side Job | 16.00% | ~6,635 |
+| Landlord | 16.00% | ~6,635 |
+| Food for Thought | 14.00% | ~5,806 |
+| Wrecking Ball | 13.00% | ~5,391 |
+| Finders Keepers | 12.00% | ~4,976 |
+| A Young Empire | 12.00% | ~4,976 |
+| Work Ethic | 11.00% | ~4,561 |
+| Quality Time | 8.00% | ~3,317 |
+| Power Players | 8.00% | ~3,317 |
+| Picking Fights | 8.00% | ~3,317 |
+| Showdown | 7.00% | ~2,903 |
+| Et tu? | 7.00% | ~2,903 |
+| Took It to The Limit | 7.00% | ~2,903 |
+| Kitted Out | 6.00% | ~2,488 |
+| Hijacked | 5.00% | ~2,073 |
+| Masters of Santo Ileso | 5.00% | ~2,073 |
+| The Spins | 4.00% | ~1,659 |
+| The Mechanic | 4.00% | ~1,659 |
+| Producer Credit | 4.00% | ~524 |
+| We could go home, or… | 3.00% | ~1,244 |
+| Challenge Accepted | 3.00% | ~1,244 |
+| A Golden Age | 3.00% | ~1,244 |
+| Closet Space | 3.00% | ~1,244 |
+| Face Off | 3.00% | ~393 |
+| Hazardous Heist | 3.00% | ~393 |
 | The Professional | 2.00% | ~829 |
 | Chaos Tamer | 2.00% | ~829 |
 | Untouchable | 2.00% | ~829 |
@@ -46,9 +46,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Prankster | 2.00% | ~829 |
 | Smooth Moves | 2.00% | ~829 |
 | Tourist | 2.00% | ~829 |
-| Shopping Spree | 1.00% | ~414 |
-| Always Be Hustling | 1.00% | ~414 |
-| Community Outreach | 1.00% | ~414 |
+| Shopping Spree | 1.00% | ~415 |
+| Always Be Hustling | 1.00% | ~415 |
+| Community Outreach | 1.00% | ~415 |
 | Bonus Round | 0.90% | ~373 |
 | It's a Bird! | 0.60% | ~249 |
 | All Mine | 0.60% | ~249 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~41 |
 | Fiesta Time | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,433 (Ranked 83)  
+Progressed: 41,468 (Ranked 83)  
 Completed: 21 (0.05%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,18 +105,18 @@ Completed: 21 (0.05%) (Ranked 181)
 | 2023-06-01 | 39,857 | 21 |
 | 2023-06-02 | 40,368 | 21 |
 | 2023-06-03 | 40,973 | 21 |
-| 2023-06-04 | 41,433 | 21 |
+| 2023-06-04 | 41,468 | 21 |
 ## Awards
 Max (Extremely Fun): 1,033  (Ranked 135)  
-Sum: 8,395 (Ranked 90)  
+Sum: 8,398 (Ranked 90)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,033 |
 | This game has Quickly Understood Controls | 1,003 |
 | This game is Highly Recommended | 979 |
+| This game is Great for Beginners | 965 |
 | This game has Diverse Characters | 963 |
-| This game is Great for Beginners | 962 |
 | This game has Amazing Characters | 962 |
 | This game is Relaxing | 959 |
 | This game has Amazing Storytelling | 953 |
@@ -213,4 +213,4 @@ Diff (max vs sum): 45
 | 2023-06-01 | 3.78 | - | 1,033 | 8,387 |
 | 2023-06-02 | 3.78 | - | 1,033 | 8,389 |
 | 2023-06-03 | 3.78 | - | 1,033 | 8,394 |
-| 2023-06-04 | 3.78 | - | 1,033 | 8,395 |
+| 2023-06-04 | 3.78 | - | 1,033 | 8,398 |

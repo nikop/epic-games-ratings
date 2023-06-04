@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 118,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
@@ -411,9 +411,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "3",
@@ -459,9 +459,9 @@
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "9",
@@ -490,8 +490,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:03:34.7425654+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:03:27.7812178+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.2051339+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:58:56.2993565+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:03:34.7425848+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:58:55.7704557+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:03:27.7812294+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2672,9 +2672,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9524,
+  "EOS_Progressed": 9529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5502,6 +5502,11 @@
       "Time": "2023-06-04T18:06:35.8137903+00:00",
       "NumProgressed": 9524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T19:06:24.9473601+00:00",
+      "NumProgressed": 9529,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5513,7 +5518,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "02_BurningCity",
@@ -5553,7 +5558,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "07_FinalThreshold",
@@ -5601,7 +5606,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "13_PathOfLich",
@@ -5609,7 +5614,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "14_PathOfSwarm",
@@ -5649,7 +5654,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "19_EqualToAroden",
@@ -5737,7 +5742,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "31_DivideAndRule",
@@ -5745,7 +5750,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "32_MythicReinforcements",
@@ -5753,7 +5758,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "33_DefendersHeart",
@@ -5761,7 +5766,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5785,7 +5790,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -5793,7 +5798,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -5897,7 +5902,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -6440,21 +6445,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8306,
+      "Progressed": 8311,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9524,
+      "Progressed": 9529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-04T17:58:29.2741345+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:06:35.8137897+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:06:24.9473596+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:58:29.2741459+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:06:35.8139768+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:58:28.0552214+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:06:24.9477958+00:00"
 }

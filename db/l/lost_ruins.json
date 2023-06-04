@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-06-04T06:07:17.0377516+00:00",
       "NumProgressed": 346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T19:06:18.7582526+00:00",
+      "NumProgressed": 347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -392,7 +397,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Cryomancer",
@@ -406,9 +411,9 @@
       "ID": "Explorer",
       "SetID": "82505mn",
       "Name": "Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "GhostBuster",
@@ -432,7 +437,7 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Hardboiled",
@@ -470,9 +475,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 128
     },
     {
       "ID": "Librarian",
@@ -552,7 +557,7 @@
       "Name": "Reincarnation",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Roughneck",
@@ -671,7 +676,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 347,
       "Completed": 0
     }
   ],
@@ -679,8 +684,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:06:29.6144654+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:06:18.7582522+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:59:51.4758181+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:06:29.6145215+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:59:51.1556576+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:06:18.7582868+00:00"
 }

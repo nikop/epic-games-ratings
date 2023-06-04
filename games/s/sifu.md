@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~667 |
+| Diligence as a goal | 4.00% | ~668 |
 | Project Arena | 3.00% | ~501 |
 | The Old Grandmaster | 1.00% | ~7,074 |
 | The Assault | 1.00% | ~7,074 |
@@ -24,10 +24,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,074 |
 | Bloody Sport | 1.00% | ~167 |
 | The best strikes are the ones we avoid | 1.00% | ~167 |
-| Furious Fists | 0.90% | ~6,366 |
-| Stuntmaster | 0.90% | ~6,366 |
-| Old Child | 0.90% | ~6,366 |
-| Take damage to save time | 0.90% | ~6,366 |
+| Furious Fists | 0.90% | ~6,367 |
+| Stuntmaster | 0.90% | ~6,367 |
+| Old Child | 0.90% | ~6,367 |
+| Take damage to save time | 0.90% | ~6,367 |
 | Scareless | 0.70% | ~4,952 |
 | Dance of the Praying Mantis | 0.70% | ~4,952 |
 | Qi Gong: Mind | 0.70% | ~4,952 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,386 (Ranked 15)  
+Progressed: 707,395 (Ranked 15)  
 Completed: 12,757 (1.80%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 12,757 (1.80%) (Ranked 68)
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
-| 2023-06-04 | 707,386 | 12,757 |
+| 2023-06-04 | 707,395 | 12,757 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
-Sum: 10,459 (Ranked 78)  
+Sum: 10,460 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -119,7 +119,7 @@ Diff (max vs sum): -25
 | This game is Highly Recommended | 482 |
 | This game has Unique Visuals | 458 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 352 |
+| This game has a Creative Community | 353 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -262,4 +262,4 @@ Diff (max vs sum): -25
 | 2023-06-01 | 4.82 | - | 6,119 | 10,434 |
 | 2023-06-02 | 4.82 | - | 6,122 | 10,445 |
 | 2023-06-03 | 4.82 | - | 6,130 | 10,457 |
-| 2023-06-04 | 4.82 | - | 6,130 | 10,459 |
+| 2023-06-04 | 4.82 | - | 6,130 | 10,460 |

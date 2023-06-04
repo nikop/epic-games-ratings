@@ -1314,10 +1314,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3792,
       "NumberOfAwardsMax": 2291
+    },
+    {
+      "Time": "2023-06-04T19:00:04.3635928+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3793,
+      "NumberOfAwardsMax": 2291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3792,
+  "NumberOfAwards": 3793,
   "NumberOfAwardsMax": 2291,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1373,7 +1379,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1382,9 +1388,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63598,
+  "EOS_Progressed": 63609,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1039,
+  "EOS_NewPlayers": 1041,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5047,6 +5053,11 @@
       "Time": "2023-06-04T18:06:32.9272569+00:00",
       "NumProgressed": 63598,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-04T19:06:22.1301631+00:00",
+      "NumProgressed": 63609,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5536,31 +5547,31 @@
       "ID": "TIME_TRIALS_1",
       "SetID": "4eo5ebm",
       "Name": "Bat Out of Hell",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63598,
+      "Progressed": 63609,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33878,
+      "Progressed": 33889,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-04T03:22:41.9796942+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:06:32.9272564+00:00",
+  "LastChanged": "2023-06-04T19:00:04.3635925+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:06:22.1301623+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:00:05.5916001+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:06:32.927337+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:00:04.3635932+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:06:22.1302441+00:00"
 }

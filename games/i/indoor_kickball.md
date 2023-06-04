@@ -13,7 +13,7 @@
 | First Win | 62.00% | ~26 |
 | Settle Down | 57.00% | ~24 |
 | Stay Hydrated | 57.00% | ~24 |
-| Butter Fingers | 45.00% | ~19 |
+| Butter Fingers | 48.00% | ~20 |
 | True Story! | 31.00% | ~13 |
 | Grand Slam! | 26.00% | ~11 |
 | Kick It | 26.00% | ~11 |
@@ -24,8 +24,8 @@
 | Bathroom Secret Spot | 17.00% | ~7 |
 | Classroom Secret Spot | 10.00% | ~4 |
 | Living Room Secret Spot | 10.00% | ~4 |
+| At least everyone still had fun | 10.00% | ~4 |
 | Kitchen Secret Spot | 7.00% | ~3 |
-| At least everyone still had fun | 7.00% | ~3 |
 | Just how we drew it up | 7.00% | ~3 |
 | Basement Secret Spot | 5.00% | ~2 |
 | Found the Secret Formula! | 5.00% | ~2 |

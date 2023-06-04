@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -808,10 +808,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 754,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-06-04T19:00:29.2975544+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 755,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 754,
+  "NumberOfAwards": 755,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -843,7 +849,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -882,9 +888,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3397,
+  "EOS_Progressed": 3399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3647,6 +3653,11 @@
       "Time": "2023-06-04T18:03:13.1650718+00:00",
       "NumProgressed": 3397,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T19:02:37.126306+00:00",
+      "NumProgressed": 3399,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3714,7 +3725,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3754,7 +3765,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3762,7 +3773,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3778,7 +3789,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3810,7 +3821,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3818,7 +3829,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3842,7 +3853,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -3914,7 +3925,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3930,7 +3941,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3977,15 +3988,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3397,
+      "Progressed": 3399,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-06-03T21:00:10.0889241+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:03:13.1650712+00:00",
+  "LastChanged": "2023-06-04T19:00:29.2975541+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:02:37.1263055+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:00:30.8997791+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:03:13.1651507+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:00:29.2975548+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:02:37.1263581+00:00"
 }

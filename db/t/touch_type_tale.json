@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2916,
+  "EOS_Progressed": 2917,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -1819,6 +1819,11 @@
       "Time": "2023-06-04T17:07:11.7048054+00:00",
       "NumProgressed": 2916,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-04T19:06:19.61815+00:00",
+      "NumProgressed": 2917,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1854,7 +1859,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "bonus5",
@@ -1878,7 +1883,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "campaign10",
@@ -1926,7 +1931,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "campaign16",
@@ -1942,7 +1947,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "campaign18",
@@ -1966,7 +1971,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "campaign20",
@@ -1982,7 +1987,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "campaign4",
@@ -2006,7 +2011,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "campaign7",
@@ -2014,7 +2019,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "campaign8",
@@ -2086,14 +2091,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2916,
+      "Progressed": 2917,
       "Completed": 9
     }
   ],
@@ -2101,8 +2106,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:06:30.4026563+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:06:19.6181496+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:00:35.3566863+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:06:30.4027151+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:00:31.6860756+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:06:19.6181856+00:00"
 }

@@ -123,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.20% | ~180 |
 | Lair of the Xanathar | 0.20% | ~180 |
 | Waterdeep Under Siege | 0.20% | ~180 |
+| Crowded Streets | 0.20% | ~180 |
 | The Darkness Runs Deeper | 0.20% | ~180 |
 | Difficult Terrain | 0.20% | ~180 |
 | Dinosaur Racing | 0.20% | ~180 |
@@ -138,6 +139,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.20% | ~112 |
 | The Lost Hollyphant | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
+| The Wandering Emporium | 0.20% | ~112 |
 | Bel's Forge | 0.20% | ~112 |
 | The Giant's Bane Tavern | 0.20% | ~112 |
 | The Everlasting Rime | 0.20% | ~112 |
@@ -337,7 +339,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~90 |
 | Sober Up | 0.10% | ~90 |
 | In The Beginning | 0.10% | ~56 |
-| Crowded Streets | 0.10% | ~90 |
 | The Sunless Citadel | 0.10% | ~90 |
 | Veteran Brigade | 0.10% | ~90 |
 | Social Grace | 0.10% | ~56 |
@@ -399,7 +400,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.10% | ~56 |
 | Elder Rune Attack | 0.10% | ~56 |
 | The Gargoyle | 0.10% | ~56 |
-| The Wandering Emporium | 0.10% | ~56 |
 | Madcap Adventures Redux | 0.10% | ~56 |
 | When the Going Gets Tough | 0.10% | ~56 |
 | Tiamat's Army | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,782 (Ranked 62)  
+Progressed: 89,788 (Ranked 62)  
 Completed: 1,915 (2.13%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 1,915 (2.13%) (Ranked 64)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,782 | 1,915 |
+| 2023-06-04 | 89,788 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,030 (Ranked 37)  

@@ -44,12 +44,12 @@ Rating: 4.17 (Ranked 845)
 | Expert Crime Fighter | 0.40% | ~254 |
 | A Worthy Successor | 0.40% | ~254 |
 | A Momentum Occasion | 0.30% | ~191 |
-| Bat Out of Hell | 0.30% | ~191 |
 | Hammer and Icicle | 0.20% | ~68 |
 | Renewable Enemy Source | 0.20% | ~68 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
 | Practice Makes Perfect | 0.20% | ~127 |
 | He'd Be So Proud of You | 0.20% | ~127 |
+| Bat Out of Hell | 0.20% | ~127 |
 | Element of Surprise | 0.10% | ~34 |
 | It's Nice to Be Wanted | 0.10% | ~34 |
 | The Cold, the Bad and the Ugly | 0.10% | ~34 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 845)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,598 (Ranked 71)  
+Progressed: 63,609 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,10 +112,10 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
-| 2023-06-04 | 63,598 | 93 |
+| 2023-06-04 | 63,609 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
-Sum: 3,792 (Ranked 137)  
+Sum: 3,793 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -124,7 +124,7 @@ Diff (max vs sum): -39
 | This game is Relaxing | 195 |
 | This game is Extremely Fun | 194 |
 | This game has Amazing Characters | 191 |
-| This game has Diverse Characters | 184 |
+| This game has Diverse Characters | 185 |
 | This game has Amazing Storytelling | 182 |
 | This game is Highly Recommended | 181 |
 | This game is Great for Beginners | 179 |
@@ -235,4 +235,4 @@ Diff (max vs sum): -39
 | 2023-06-01 | 4.17 | 2,275 | 3,770 |
 | 2023-06-02 | 4.17 | 2,275 | 3,773 |
 | 2023-06-03 | 4.17 | 2,283 | 3,783 |
-| 2023-06-04 | 4.17 | 2,291 | 3,792 |
+| 2023-06-04 | 4.17 | 2,291 | 3,793 |

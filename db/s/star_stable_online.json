@@ -4,11 +4,11 @@
   "ProductSlug": "star-stable",
   "Ranking_Rating": 655,
   "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 245,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -1307,6 +1307,6 @@
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
   "LastChanged": "2023-06-04T15:58:05.8824285+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:16.794403+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:58:16.2267039+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:03:44.1797252+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:58:13.4326338+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:03:37.0597221+00:00"
 }

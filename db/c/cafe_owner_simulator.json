@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1173,6 +1173,11 @@
       "Time": "2023-06-04T18:06:06.8606303+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T19:05:56.2695076+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1184,7 +1189,7 @@
       "Name": "ADVANCED",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -1192,7 +1197,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "CHIEF",
@@ -1200,15 +1205,15 @@
       "Name": "CHIEF",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CLEANER",
       "SetID": "64e5lgf",
       "Name": "CLEANER",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "DEBTOR",
@@ -1216,7 +1221,7 @@
       "Name": "DEBTOR",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "FIREFIGHTER",
@@ -1224,7 +1229,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "FIRST_100K",
@@ -1295,7 +1300,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
@@ -1303,8 +1308,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-04T18:06:06.8606294+00:00",
+  "LastChanged_Achievements": "2023-06-04T19:05:56.2695072+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.052301+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:59:43.3698719+00:00",
-  "LastUpdate_Achievements": "2023-06-04T18:06:06.8606597+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:59:42.7545726+00:00",
+  "LastUpdate_Achievements": "2023-06-04T19:05:56.2695266+00:00"
 }

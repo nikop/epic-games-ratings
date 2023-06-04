@@ -14,8 +14,8 @@
 | The nice guy | 13.00% | ~30 |
 | The debonair | 11.00% | ~25 |
 | Picky, Picky! | 10.00% | ~23 |
+| The lad | 8.00% | ~18 |
 | More than browsing | 7.00% | ~16 |
-| The lad | 7.00% | ~16 |
 | The techie | 7.00% | ~16 |
 | The bad boy | 6.00% | ~14 |
 | Picky! | 5.00% | ~12 |
