@@ -6,40 +6,40 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,514 |
-| That's a Grand Army | 8.00% | ~4,012 |
-| That is mine! | 8.00% | ~4,012 |
-| Victorious! | 8.00% | ~4,012 |
-| Brothers in Arms | 6.00% | ~3,009 |
-| That's a Grand Navy | 6.00% | ~3,009 |
-| Seriously?! | 6.00% | ~3,009 |
-| For the Glory | 5.00% | ~2,508 |
-| Cold War | 4.00% | ~2,006 |
-| True Catholic | 4.00% | ~2,006 |
+| Until death do us apart | 9.00% | ~4,516 |
+| That's a Grand Army | 8.00% | ~4,014 |
+| That is mine! | 8.00% | ~4,014 |
+| Victorious! | 8.00% | ~4,014 |
+| Brothers in Arms | 6.00% | ~3,010 |
+| That's a Grand Navy | 6.00% | ~3,010 |
+| Seriously?! | 6.00% | ~3,010 |
+| For the Glory | 5.00% | ~2,509 |
+| Cold War | 4.00% | ~2,007 |
+| True Catholic | 4.00% | ~2,007 |
 | Defender of the Faith | 3.00% | ~1,505 |
 | It's all about the money | 3.00% | ~1,505 |
 | Respected | 3.00% | ~1,505 |
 | Truly Divine Ruler | 3.00% | ~1,505 |
-| Agressive Expander | 2.00% | ~1,003 |
-| Blockader | 2.00% | ~1,003 |
-| Combined Arms | 2.00% | ~1,003 |
-| Double the Love | 2.00% | ~1,003 |
-| Gentle Persuasion | 2.00% | ~1,003 |
-| It's all about luck | 2.00% | ~1,003 |
-| My armies are invincible! | 2.00% | ~1,003 |
-| Queen of Conquest | 2.00% | ~1,003 |
-| Royal Authority | 2.00% | ~1,003 |
-| The Princess is in this Castle | 2.00% | ~1,003 |
-| Total Control | 2.00% | ~1,003 |
+| Agressive Expander | 2.00% | ~1,004 |
+| Blockader | 2.00% | ~1,004 |
+| Combined Arms | 2.00% | ~1,004 |
+| Double the Love | 2.00% | ~1,004 |
+| Gentle Persuasion | 2.00% | ~1,004 |
+| It's all about luck | 2.00% | ~1,004 |
+| My armies are invincible! | 2.00% | ~1,004 |
+| Queen of Conquest | 2.00% | ~1,004 |
+| Royal Authority | 2.00% | ~1,004 |
+| The Princess is in this Castle | 2.00% | ~1,004 |
+| Total Control | 2.00% | ~1,004 |
 | All That's Thine Shall Be Mine | 1.00% | ~502 |
 | Azur semé de lis or | 1.00% | ~502 |
 | Bright Spark | 1.00% | ~502 |
 | City of Cities | 1.00% | ~502 |
 | Factionalism | 1.00% | ~502 |
 | A Golden Empire | 1.00% | ~502 |
-| Market Control | 0.90% | ~451 |
-| The Five Colonies | 0.90% | ~451 |
-| This navy can take it all | 0.90% | ~451 |
+| Market Control | 0.90% | ~452 |
+| The Five Colonies | 0.90% | ~452 |
+| This navy can take it all | 0.90% | ~452 |
 | The Emperors new clothes | 0.80% | ~401 |
 | Isn't this the way to India? | 0.80% | ~401 |
 | Down Under | 0.70% | ~351 |
@@ -65,23 +65,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.40% | ~201 |
 | Tear Down This Wall | 0.40% | ~201 |
 | The Continuation of Diplomacy | 0.40% | ~201 |
-| A Decent Reserve | 0.30% | ~150 |
-| A Pile of Gold | 0.30% | ~150 |
-| All Your Trade Are Belong to Us | 0.30% | ~150 |
-| Four For Trade | 0.30% | ~150 |
-| Global Hegemony | 0.30% | ~150 |
-| Grand Duchy | 0.30% | ~150 |
-| Italian Ambition | 0.30% | ~150 |
-| Just a Little Patience | 0.30% | ~150 |
-| Multiculturalism | 0.30% | ~150 |
-| No Pirates in my Caribbean | 0.30% | ~150 |
-| Not so sad a state... | 0.30% | ~150 |
-| The Chrysanthemum Throne | 0.30% | ~150 |
-| Three Trivial Tributary Tribes | 0.30% | ~150 |
-| Traditional Player | 0.30% | ~150 |
-| Vasa or Wettin? | 0.30% | ~150 |
-| Wonderful | 0.30% | ~150 |
-| World Discoverer | 0.30% | ~150 |
+| A Decent Reserve | 0.30% | ~151 |
+| A Pile of Gold | 0.30% | ~151 |
+| All Your Trade Are Belong to Us | 0.30% | ~151 |
+| Four For Trade | 0.30% | ~151 |
+| Global Hegemony | 0.30% | ~151 |
+| Grand Duchy | 0.30% | ~151 |
+| Italian Ambition | 0.30% | ~151 |
+| Just a Little Patience | 0.30% | ~151 |
+| Multiculturalism | 0.30% | ~151 |
+| No Pirates in my Caribbean | 0.30% | ~151 |
+| Not so sad a state... | 0.30% | ~151 |
+| The Chrysanthemum Throne | 0.30% | ~151 |
+| Three Trivial Tributary Tribes | 0.30% | ~151 |
+| Traditional Player | 0.30% | ~151 |
+| Vasa or Wettin? | 0.30% | ~151 |
+| Wonderful | 0.30% | ~151 |
+| World Discoverer | 0.30% | ~151 |
 | A Protected Market | 0.20% | ~100 |
 | AAA Credit | 0.20% | ~100 |
 | Fine Financials | 0.20% | ~100 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,156 (Ranked 78)  
+Progressed: 50,175 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
-| 2023-06-04 | 50,156 | 0 |
+| 2023-06-04 | 50,175 | 0 |
 ## Awards
 Max (Educational): 5,342  (Ranked 61)  
 Sum: 44,141 (Ranked 27)  

@@ -612,9 +612,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_grime_1",
@@ -740,9 +740,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "ach_profit_1",
@@ -764,9 +764,9 @@
       "ID": "ach_recycling_1",
       "SetID": "b8gh1fi",
       "Name": "Maximum Reuse",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_renters",
@@ -836,9 +836,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_retail_4",
@@ -908,9 +908,9 @@
       "ID": "ach_trash_1",
       "SetID": "b8gh1fi",
       "Name": "Terrifically Trashed",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_tutorial",
@@ -989,8 +989,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:07:50.3273442+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:06:35.2096964+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:15.3370382+00:00",
-  "LastUpdate_Ratings": "2023-06-04T20:59:13.8805695+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:07:50.3274579+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:58:11.4864701+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:06:35.2097996+00:00"
 }

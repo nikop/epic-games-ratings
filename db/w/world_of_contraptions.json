@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -331,6 +331,11 @@
       "Time": "2023-06-04T15:06:03.1579948+00:00",
       "NumProgressed": 85,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T22:05:49.7825675+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -342,7 +347,7 @@
       "Name": "The first of many",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -540,7 +545,7 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -574,21 +579,21 @@
       "Name": "Starting to take notes",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:07:10.4893614+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:05:49.7825668+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:23.2883348+00:00",
-  "LastUpdate_Ratings": "2023-06-04T20:59:24.4302036+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:07:10.4893889+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:58:18.3259845+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:05:49.7825909+00:00"
 }

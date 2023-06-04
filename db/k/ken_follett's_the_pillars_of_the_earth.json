@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12984,
+  "EOS_Progressed": 12985,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3414,6 +3414,11 @@
       "Time": "2023-06-04T21:07:15.0752025+00:00",
       "NumProgressed": 12984,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-04T22:05:53.8258947+00:00",
+      "NumProgressed": 12985,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3689,7 +3694,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     },
     {
       "ID": "tpote_achievement_40",
@@ -3737,7 +3742,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "tpote_achievement_9",
@@ -3745,22 +3750,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4674
+      "UsersEstimate": 4675
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12984,
+      "Progressed": 12985,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:07:15.0752016+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:05:53.8258942+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:01:49.5451635+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:07:15.0752629+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:00:25.0149318+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:05:53.8259428+00:00"
 }

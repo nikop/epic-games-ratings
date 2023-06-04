@@ -1,11 +1,11 @@
 # NBA 2K21
 [Store](https://store.epicgames.com/en-US/p/nba-2k21)  
 [View Rawdata](../../db/n/nba_2k21.json)  
-Rating: 4.39 (Ranked 689)  
+Rating: 4.39 (Ranked 690)  
 Number of Ratings: 43,722  (23.09.2022)  
 ## Awards
 Max (Relaxing): 11,679  (Ranked 30)  
-Sum: 88,410 (Ranked 14)  
+Sum: 88,411 (Ranked 14)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 16
 | This game has Diverse Characters | 10,476 |
 | This game has Competitive Players | 10,451 |
 | This game is Extremely Fun | 10,189 |
-| This game is Highly Recommended | 9,507 |
+| This game is Highly Recommended | 9,508 |
 | This game has Amazing Storytelling | 9,488 |
 | This game has Amazing Characters | 9,101 |
 | This game has a Competitive Community | 6,715 |
@@ -166,4 +166,4 @@ Diff (max vs sum): 16
 | 2023-06-01 | 4.39 | - | 11,676 | 88,394 |
 | 2023-06-02 | 4.39 | - | 11,678 | 88,403 |
 | 2023-06-03 | 4.39 | - | 11,678 | 88,409 |
-| 2023-06-04 | 4.39 | - | 11,679 | 88,410 |
+| 2023-06-04 | 4.39 | - | 11,679 | 88,411 |

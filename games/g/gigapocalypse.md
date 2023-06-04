@@ -14,26 +14,26 @@
 | Destroy Erase Improve | 63.00% | ~88 |
 | Power Overload | 61.00% | ~85 |
 | Quite A Snack | 56.00% | ~78 |
-| Overwhelming Power | 52.00% | ~73 |
+| Overwhelming Power | 53.00% | ~74 |
 | Impenetrable Skin | 51.00% | ~71 |
 | Chomp Chomp! | 41.00% | ~57 |
+| Glorious Battle | 40.00% | ~56 |
+| The Duelist | 39.00% | ~55 |
 | Supreme Power | 39.00% | ~55 |
-| Glorious Battle | 39.00% | ~55 |
 | Diaper Time! | 39.00% | ~55 |
-| The Duelist | 38.00% | ~53 |
-| Target Practice | 38.00% | ~53 |
+| Target Practice | 39.00% | ~55 |
+| Meat Larder | 37.00% | ~52 |
 | Mutant And Proud | 36.00% | ~50 |
-| Meat Larder | 36.00% | ~50 |
 | The Emperor's New Clothes | 30.00% | ~42 |
 | Godlike Power | 29.00% | ~41 |
 | Happy Little Home | 29.00% | ~41 |
 | Final Evolution | 29.00% | ~41 |
 | Fight Me! | 28.00% | ~39 |
 | You Shall Not Pass | 27.00% | ~38 |
+| Animal Lover | 27.00% | ~38 |
+| Undying Skin | 27.00% | ~38 |
 | Supremacy | 27.00% | ~38 |
 | Mommy's Very Angry | 26.00% | ~36 |
-| Animal Lover | 26.00% | ~36 |
-| Undying Skin | 26.00% | ~36 |
 | Immortal Skin | 22.00% | ~31 |
 | Loyal Companion | 22.00% | ~31 |
 | Back To The Future | 21.00% | ~29 |

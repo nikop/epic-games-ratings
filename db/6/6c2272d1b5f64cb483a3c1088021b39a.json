@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -591,6 +591,11 @@
       "Time": "2023-06-04T20:00:43.2727513+00:00",
       "NumProgressed": 308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T22:01:31.7987508+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -624,9 +629,9 @@
       "ID": "archmage_1",
       "SetID": "53c1p3k",
       "Name": "Archmage 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "archmage_2",
@@ -770,7 +775,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "elemental_stones_2",
@@ -1010,7 +1015,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -1129,14 +1134,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:03:06.7527026+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:01:31.7987503+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-04T20:57:40.4282256+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:03:06.7528105+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:56:52.2278753+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:01:31.7988207+00:00"
 }

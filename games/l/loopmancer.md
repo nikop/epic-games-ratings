@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Black Cat's Warning | 104.00% | ~96 |
 | Break no Sweat | 97.00% | ~89 |
-| Every little bit counts | 96.00% | ~88 |
+| Every little bit counts | 97.00% | ~89 |
 | Growth | 86.00% | ~79 |
 | Targeting the Enemy | 67.00% | ~62 |
 | Unavoidable | 63.00% | ~58 |
 | Revenge | 60.00% | ~55 |
 | Reunion | 40.00% | ~37 |
-| Fluke | 34.00% | ~31 |
+| Fluke | 35.00% | ~32 |
 | Victor's Prejudice | 33.00% | ~30 |
 | Elimination | 32.00% | ~29 |
 | Memento | 29.00% | ~27 |

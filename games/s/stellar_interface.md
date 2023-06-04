@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 78.00% | ~25 |
-| Killing Spree | 63.00% | ~20 |
+| First Blood | 81.00% | ~26 |
+| Killing Spree | 66.00% | ~21 |
 | 5Gb HDD | 44.00% | ~14 |
 | Merchant Prince I | 41.00% | ~13 |
-| Dominating | 25.00% | ~8 |
+| Dominating | 28.00% | ~9 |
 | Fighting Fit I | 22.00% | ~7 |
+| Rambo I | 19.00% | ~6 |
 | The Vette | 19.00% | ~6 |
-| Rambo I | 16.00% | ~5 |
 | Mega Kill | 16.00% | ~5 |
 | 10Gb HDD | 16.00% | ~5 |
 | Stoic | 13.00% | ~4 |

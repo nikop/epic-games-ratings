@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~117 |
+| In the Black | 59.00% | ~119 |
 | Starting Skyward | 51.00% | ~103 |
-| Grime is Not Good | 45.00% | ~91 |
+| Grime is Not Good | 46.00% | ~93 |
 | Campaign Launch | 40.00% | ~81 |
 | Dinner Dash | 39.00% | ~79 |
 | Floor Galore | 38.00% | ~77 |
@@ -23,7 +23,7 @@
 | Potent Potables | 23.00% | ~46 |
 | Retail Revenue | 23.00% | ~46 |
 | People Mover | 22.00% | ~44 |
-| Leveled Up Shops | 21.00% | ~42 |
+| Leveled Up Shops | 22.00% | ~44 |
 | Get Electrified | 21.00% | ~42 |
 | Rehab Expert | 20.00% | ~40 |
 | Don't Feel a Loan | 20.00% | ~40 |
@@ -34,9 +34,9 @@
 | Cashflow Chief | 17.00% | ~34 |
 | We Don't Need No Education | 17.00% | ~34 |
 | Established Fame | 16.00% | ~32 |
+| Terrifically Trashed | 16.00% | ~32 |
 | Starred Dining | 15.00% | ~30 |
 | Boutique Benefits | 15.00% | ~30 |
-| Terrifically Trashed | 15.00% | ~30 |
 | Thrilled Tenants | 15.00% | ~30 |
 | Swimming in Surplus | 14.00% | ~28 |
 | Smooth Operator | 13.00% | ~26 |
@@ -44,13 +44,13 @@
 | Plaza Plan | 10.00% | ~20 |
 | Master of Puppets | 10.00% | ~20 |
 | First 100 Days | 9.00% | ~18 |
+| Maximum Reuse | 9.00% | ~18 |
 | Refined Palates | 9.00% | ~18 |
 | Revenue Royalty | 9.00% | ~18 |
 | Pipe Up | 9.00% | ~18 |
 | Aestheticly Pleased | 8.00% | ~16 |
 | Meet Me at HQ | 8.00% | ~16 |
 | Profound Proceeds | 8.00% | ~16 |
-| Maximum Reuse | 8.00% | ~16 |
 | Phoning It In | 8.00% | ~16 |
 | Careful Constructor | 7.00% | ~14 |
 | Tuned In | 7.00% | ~14 |

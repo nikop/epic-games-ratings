@@ -5,7 +5,7 @@
   "Ranking_Rating": 118,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
-  "Ranking_EOS_Progress": 111,
+  "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 90,
@@ -2598,10 +2598,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6694,
       "NumberOfAwardsMax": 1651
+    },
+    {
+      "Time": "2023-06-04T21:58:26.0483832+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6695,
+      "NumberOfAwardsMax": 1651
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6694,
+  "NumberOfAwards": 6695,
   "NumberOfAwardsMax": 1651,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2627,7 +2633,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 610
+      "Count": 611
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2672,9 +2678,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9531,
+  "EOS_Progressed": 9532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5512,6 +5518,11 @@
       "Time": "2023-06-04T21:07:51.0652621+00:00",
       "NumProgressed": 9531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T22:06:35.8545194+00:00",
+      "NumProgressed": 9532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5531,7 +5542,7 @@
       "Name": "Burning City",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -5539,7 +5550,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "04_FithCrusade",
@@ -5891,7 +5902,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "49_Flame",
@@ -6450,21 +6461,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8313,
+      "Progressed": 8314,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9531,
+      "Progressed": 9532,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-04T17:58:29.2741345+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:07:51.0652615+00:00",
+  "LastChanged": "2023-06-04T21:58:26.0483831+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:06:35.854519+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-04T20:59:34.5928358+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:07:51.0654536+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:58:26.0483838+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:06:35.8546978+00:00"
 }

@@ -6,23 +6,23 @@
 | ---- | ---------- | ----- |
 | Aspairagus | 52.00% | ~19 |
 | Seeds of War | 44.00% | ~38 |
-| Survivor | 43.00% | ~16 |
+| Survivor | 44.00% | ~16 |
 | First Blood | 34.00% | ~30 |
+| Early Survivor | 33.00% | ~12 |
 | No Diggity | 33.00% | ~12 |
-| Early Survivor | 32.00% | ~12 |
 | Triple Kill | 28.00% | ~24 |
+| Cornivore | 26.00% | ~23 |
 | No Asperascope | 25.00% | ~22 |
 | I Believe I Can Fly | 24.00% | ~21 |
-| Cornivore | 24.00% | ~21 |
-| Amateur Survivor | 22.00% | ~8 |
+| Amateur Survivor | 23.00% | ~9 |
 | Bouncemato | 21.00% | ~8 |
 | Quick-Draw Pod | 20.00% | ~7 |
 | This Is My Boomstick | 18.00% | ~7 |
 | Grave Digger | 16.00% | ~6 |
-| 15K | 13.00% | ~11 |
-| 10K | 13.00% | ~11 |
-| Professional Survivor | 11.00% | ~4 |
-| Drinking Problem | 9.00% | ~8 |
+| 15K | 14.00% | ~12 |
+| 10K | 14.00% | ~12 |
+| Professional Survivor | 13.00% | ~5 |
+| Drinking Problem | 10.00% | ~9 |
 | Oh My Gourd | 9.00% | ~3 |
 | Perfect | 8.00% | ~3 |
 | Expert Survivor | 8.00% | ~3 |

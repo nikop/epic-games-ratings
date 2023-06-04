@@ -18,7 +18,7 @@
 | Bad Robots | 13.00% | ~18 |
 | Running Boots | 13.00% | ~18 |
 | Fashionista | 11.00% | ~16 |
-| Looper | 10.00% | ~14 |
+| Looper | 11.00% | ~16 |
 | Cataclysm | 9.00% | ~13 |
 | Archivist | 9.00% | ~13 |
 | Transformers, cubes in disguise | 8.00% | ~11 |

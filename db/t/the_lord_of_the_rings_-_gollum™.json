@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -645,6 +645,11 @@
       "Time": "2023-06-04T17:06:38.0559774+00:00",
       "NumProgressed": 396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T22:05:51.6392242+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -760,7 +765,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Collectibles2",
@@ -806,9 +811,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "GollumChoices",
@@ -838,9 +843,9 @@
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "NoDamage",
@@ -943,14 +948,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:07:12.5792942+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:05:51.6392236+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-04T20:58:47.3508287+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:07:12.5793281+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:57:49.2500521+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:05:51.6392552+00:00"
 }

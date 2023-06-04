@@ -540,9 +540,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -861,8 +861,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:03:56.4237993+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:03:13.7979724+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:12.6993605+00:00",
-  "LastUpdate_Ratings": "2023-06-04T20:58:00.7732099+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:03:56.423858+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:57:13.0366382+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:03:13.7980057+00:00"
 }

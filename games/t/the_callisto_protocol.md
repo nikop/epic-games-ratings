@@ -7,7 +7,7 @@ Rating: 4.18 (Ranked 839)
 | ---- | ---------- | ----- |
 | Flesh Wound | 12.00% | ~1,740 |
 | The Outer Way | 10.00% | ~1,450 |
-| Desperate Times | 9.00% | ~1,305 |
+| Desperate Times | 10.00% | ~1,450 |
 | Chew 'Em Up | 8.00% | ~1,160 |
 | Paper Jams | 8.00% | ~1,160 |
 | Reforged | 7.00% | ~1,015 |
@@ -25,14 +25,14 @@ Rating: 4.18 (Ranked 839)
 | You Need a Gun | 3.00% | ~435 |
 | Two Heads Are Better Than One | 3.00% | ~435 |
 | The Commonality | 3.00% | ~435 |
+| What Lies Beneath | 3.00% | ~435 |
 | Power Up | 3.00% | ~435 |
 | Bear Trap | 3.00% | ~73 |
 | I Do Belong Here | 2.00% | ~290 |
 | In Striking Distance | 2.00% | ~290 |
 | Mugshot | 2.00% | ~290 |
-| What Lies Beneath | 2.00% | ~290 |
 | Full Circle | 2.00% | ~290 |
-| Big Spender | 2.00% | ~48 |
+| Big Spender | 2.00% | ~49 |
 | Parole Denied | 1.00% | ~24 |
 | Hoard Mode | 1.00% | ~24 |
 | Recidivist | 0.70% | ~17 |
@@ -40,13 +40,13 @@ Rating: 4.18 (Ranked 839)
 | Grim Reaper | 0.60% | ~87 |
 | Armed to the Teeth | 0.20% | ~5 |
 | The Protocol is About Life | 0.20% | ~29 |
-| It's over, Jacob! | 0.10% | ~14 |
+| It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~2 |
 | You Belong Here | 0.10% | ~2 |
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,499 (Ranked 103)  
+Progressed: 14,503 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 53 (0.37%) (Ranked 119)
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
-| 2023-06-04 | 14,499 | 53 |
+| 2023-06-04 | 14,503 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

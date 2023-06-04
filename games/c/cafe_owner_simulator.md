@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | BUSINESS OWNER | 98.00% | ~541 |
 | CLEANER | 94.00% | ~519 |
-| OH NO, HE'S LEAVING! | 75.00% | ~414 |
+| OH NO, HE'S LEAVING! | 76.00% | ~420 |
 | FIREFIGHTER | 53.00% | ~293 |
 | ADVANCED | 37.00% | ~204 |
 | CHIEF | 17.00% | ~94 |

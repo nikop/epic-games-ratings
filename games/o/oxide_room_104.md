@@ -15,22 +15,22 @@
 | Soundtrack | 54.00% | ~15 |
 | Antidote | 50.00% | ~14 |
 | Pick the right door | 29.00% | ~8 |
+| On the right path | 25.00% | ~7 |
+| I'm close now | 25.00% | ~7 |
+| Failed attempt | 25.00% | ~7 |
+| Good choice | 25.00% | ~7 |
+| Take the long way round | 25.00% | ~7 |
 | One-way | 25.00% | ~7 |
 | The third floor | 25.00% | ~7 |
-| On the right path | 21.00% | ~6 |
-| I'm close now | 21.00% | ~6 |
-| Failed attempt | 21.00% | ~6 |
-| Good choice | 21.00% | ~6 |
-| Take the long way round | 21.00% | ~6 |
-| The real escape | 18.00% | ~5 |
-| Nightmare in the kitchen | 18.00% | ~5 |
-| It can't be true | 18.00% | ~5 |
+| The real escape | 21.00% | ~6 |
+| Nightmare in the kitchen | 21.00% | ~6 |
+| It can't be true | 21.00% | ~6 |
+| Born again | 18.00% | ~5 |
 | 373 | 14.00% | ~4 |
-| Born again | 14.00% | ~4 |
 | He who seeks, finds! | 14.00% | ~4 |
-| The experiment | 7.00% | ~2 |
+| The experiment | 11.00% | ~3 |
+| Matthew's revenge | 11.00% | ~3 |
 | Horror book | 7.00% | ~2 |
-| Matthew's revenge | 7.00% | ~2 |
 | Eva's diary | 4.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
 | A dark past | 0.00% | ~0 |

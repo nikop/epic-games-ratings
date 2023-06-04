@@ -4396,9 +4396,9 @@
       "Count": 3681
     }
   ],
-  "EOS_Progressed": 129859,
+  "EOS_Progressed": 129860,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8746,6 +8746,11 @@
       "Time": "2023-06-04T21:07:51.8970956+00:00",
       "NumProgressed": 129859,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-04T22:06:36.6128064+00:00",
+      "NumProgressed": 129860,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 112,
@@ -8813,7 +8818,7 @@
       "Name": "Above the Norm",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "ascend03",
@@ -8837,7 +8842,7 @@
       "Name": "One Easy Payment",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 77915
+      "UsersEstimate": 77916
     },
     {
       "ID": "bigsale02",
@@ -8861,7 +8866,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 75318
+      "UsersEstimate": 75319
     },
     {
       "ID": "blueprint02",
@@ -8885,7 +8890,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 33763
+      "UsersEstimate": 33764
     },
     {
       "ID": "boss01",
@@ -8917,7 +8922,7 @@
       "Name": "Fated Encounters",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27270
+      "UsersEstimate": 27271
     },
     {
       "ID": "chest01",
@@ -8925,7 +8930,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 125963
+      "UsersEstimate": 125964
     },
     {
       "ID": "chest02",
@@ -8989,7 +8994,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 118172
+      "UsersEstimate": 118173
     },
     {
       "ID": "commonres02",
@@ -8997,7 +9002,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 49346
+      "UsersEstimate": 49347
     },
     {
       "ID": "commonres03",
@@ -9021,7 +9026,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 98693
+      "UsersEstimate": 98694
     },
     {
       "ID": "craft02",
@@ -9029,7 +9034,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 53242
+      "UsersEstimate": 53243
     },
     {
       "ID": "craft03",
@@ -9061,7 +9066,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55839
+      "UsersEstimate": 55840
     },
     {
       "ID": "damage02",
@@ -9077,7 +9082,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "donovan_a",
@@ -9109,7 +9114,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 79214
+      "UsersEstimate": 79215
     },
     {
       "ID": "energy02",
@@ -9133,7 +9138,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 90901
+      "UsersEstimate": 90902
     },
     {
       "ID": "expansion02",
@@ -9173,7 +9178,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "furniture03",
@@ -9189,7 +9194,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "fuseflawless",
@@ -9229,7 +9234,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 112977
+      "UsersEstimate": 112978
     },
     {
       "ID": "gold02",
@@ -9253,7 +9258,7 @@
       "Name": "Royal Ransom",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27270
+      "UsersEstimate": 27271
     },
     {
       "ID": "gold05",
@@ -9341,7 +9346,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 85707
+      "UsersEstimate": 85708
     },
     {
       "ID": "level02",
@@ -9349,7 +9354,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 40256
+      "UsersEstimate": 40257
     },
     {
       "ID": "level03",
@@ -9413,7 +9418,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 59735
+      "UsersEstimate": 59736
     },
     {
       "ID": "master02",
@@ -9533,7 +9538,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 97394
+      "UsersEstimate": 97395
     },
     {
       "ID": "sell02",
@@ -9573,7 +9578,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 124665
+      "UsersEstimate": 124666
     },
     {
       "ID": "twinenchant01",
@@ -9581,7 +9586,7 @@
       "Name": "Magical Harmony",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27270
+      "UsersEstimate": 27271
     },
     {
       "ID": "typeunlock01",
@@ -9605,7 +9610,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "uncommonres03",
@@ -9621,7 +9626,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 77915
+      "UsersEstimate": 77916
     },
     {
       "ID": "workers02",
@@ -9637,7 +9642,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "yami_a",
@@ -9652,15 +9657,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 129859,
+      "Progressed": 129860,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-06-04T16:58:46.7409262+00:00",
-  "LastChanged_Achievements": "2023-06-04T21:07:51.8970933+00:00",
+  "LastChanged_Achievements": "2023-06-04T22:06:36.6128059+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:35.4517494+00:00",
-  "LastUpdate_Ratings": "2023-06-04T20:59:39.1041597+00:00",
-  "LastUpdate_Achievements": "2023-06-04T21:07:51.8973091+00:00"
+  "LastUpdate_Ratings": "2023-06-04T21:58:30.9947313+00:00",
+  "LastUpdate_Achievements": "2023-06-04T22:06:36.6129774+00:00"
 }

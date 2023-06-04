@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,078 |
-| I read Shakespeare and stuff | 64.00% | ~27,855 |
-| Just a sprinkle | 63.00% | ~27,420 |
+| Own use | 76.00% | ~33,079 |
+| I read Shakespeare and stuff | 64.00% | ~27,856 |
+| Just a sprinkle | 63.00% | ~27,421 |
 | I'm stumped | 61.00% | ~26,550 |
 | Plant get enough | 61.00% | ~26,550 |
-| It's just the beginning | 59.00% | ~25,679 |
+| It's just the beginning | 59.00% | ~25,680 |
 | This is just my weekend vehicle | 58.00% | ~25,244 |
 | Hard work pays off | 53.00% | ~23,068 |
-| It's never too late to farm | 47.00% | ~20,456 |
+| It's never too late to farm | 47.00% | ~20,457 |
 | All out of Land | 44.00% | ~19,151 |
-| Field Trip | 43.00% | ~18,715 |
+| Field Trip | 43.00% | ~18,716 |
 | I like to switch it up | 40.00% | ~17,410 |
-| Help me to help you | 38.00% | ~16,539 |
+| Help me to help you | 38.00% | ~16,540 |
 | Ultimutt Pawesomeness | 28.00% | ~12,187 |
 | Van Gogh | 26.00% | ~11,316 |
 | You wood not believe it | 21.00% | ~9,140 |
@@ -35,8 +35,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Highly cultivated | 10.00% | ~4,352 |
 | Giddy-up! | 10.00% | ~4,352 |
 | Cowherd | 7.00% | ~3,047 |
-| Fluffyness | 6.00% | ~2,611 |
-| Helper A does not stop … ever | 6.00% | ~2,611 |
+| Fluffyness | 6.00% | ~2,612 |
+| Helper A does not stop … ever | 6.00% | ~2,612 |
 | Road Trip | 5.00% | ~2,176 |
 | Bringing in the Honey | 5.00% | ~2,176 |
 | Three little piggies… | 4.00% | ~1,741 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~174 |
 | Raisin the stakes | 0.30% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,524 (Ranked 81)  
+Progressed: 43,525 (Ranked 81)  
 Completed: 5 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 5 (0.01%) (Ranked 201)
 | 2023-06-01 | 43,339 | 5 |
 | 2023-06-02 | 43,387 | 5 |
 | 2023-06-03 | 43,461 | 5 |
-| 2023-06-04 | 43,524 | 5 |
+| 2023-06-04 | 43,525 | 5 |
 ## Awards
 Max (Great for Beginners): 4,319  (Ranked 70)  
 Sum: 36,892 (Ranked 31)  

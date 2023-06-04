@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~564 |
-| Rail Rat | 78.00% | ~468 |
-| The Mysterious Stranger | 76.00% | ~456 |
-| Immaculate Aim | 65.00% | ~390 |
-| The Brass Boss | 57.00% | ~342 |
-| Honest Mistake | 56.00% | ~336 |
-| No, Thanks! | 55.00% | ~330 |
-| Time Flies | 53.00% | ~318 |
-| The Harder They Fall | 52.00% | ~312 |
-| The Prince in Heels | 52.00% | ~312 |
+| Time Heals All Wounds | 94.00% | ~565 |
+| Rail Rat | 78.00% | ~469 |
+| The Mysterious Stranger | 76.00% | ~457 |
+| Immaculate Aim | 65.00% | ~391 |
+| The Brass Boss | 57.00% | ~343 |
+| Honest Mistake | 56.00% | ~337 |
+| No, Thanks! | 55.00% | ~331 |
+| Time Flies | 53.00% | ~319 |
+| The Harder They Fall | 52.00% | ~313 |
+| The Prince in Heels | 52.00% | ~313 |
 | Right On Time | 50.00% | ~300 |
 | Fast Learner | 50.00% | ~300 |
 | Immaculate Aim | 49.00% | ~294 |
@@ -45,20 +45,20 @@
 | Sartorialist | 13.00% | ~78 |
 | Entresol Explorer | 13.00% | ~78 |
 | Clovemary for Remembering | 10.00% | ~60 |
-| Hexlock for Protection | 10.00% | ~60 |
+| Hexlock for Protection | 9.00% | ~54 |
 | Golem Hunter | 9.00% | ~54 |
 | Wunderkind | 4.00% | ~24 |
 | Fitting In | 4.00% | ~24 |
 | Thinking Two Steps Ahead | 3.00% | ~18 |
-| No Time to Waste | 2.00% | ~12 |
+| No Time to Waste | 1.00% | ~6 |
 | A Lesson in Precision | 0.80% | ~5 |
+| Raw Talent | 0.50% | ~3 |
 | Wildlife Protection | 0.30% | ~2 |
 | Going to Live Forever | 0.30% | ~2 |
-| Raw Talent | 0.30% | ~2 |
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 195)  
+Progressed: 601 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 565 | 0 |
 | 2023-06-02 | 578 | 0 |
 | 2023-06-03 | 586 | 0 |
-| 2023-06-04 | 600 | 0 |
+| 2023-06-04 | 601 | 0 |
