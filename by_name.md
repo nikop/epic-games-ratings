@@ -41,7 +41,7 @@
 | [ABZU](games/a/abzu.md) | 4.62 | 345 | 0 | 493 |
 | [Acceptance](games/a/acceptance.md) | - | - | - | - |
 | [Aces of the Luftwaffe - Squadron Extended Edition](games/a/aces_of_the_luftwaffe_-_squadron_extended_edition.md) | - | - | 0 | - |
-| [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 894 | 0 | 493 |
+| [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 895 | 0 | 493 |
 | [Active and Operational](games/a/active_and_operational.md) | - | - | - | - |
 | [Active Soccer 2023](games/a/active_soccer_2023.md) | - | - | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | - | - | - | - |
@@ -206,7 +206,7 @@
 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 180 | 0 | 493 |
 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 50 | 51 | 386 |
 | [Ballads of Hongye](games/b/ballads_of_hongye.md) | - | - | 0 | - |
-| [Banished](games/b/banished.md) | 4.00 | 894 | 0 | 493 |
+| [Banished](games/b/banished.md) | 4.00 | 895 | 0 | 493 |
 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 655 | 0 | 493 |
 | [Barium](games/b/barium.md) | - | - | - | - |
 | [Barony](games/b/barony.md) | 4.71 | 180 | 72 | 361 |
@@ -885,7 +885,7 @@
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | - | - | 0 | - |
 | [Ghost Blood](games/g/ghost_blood.md) | - | - | 0 | - |
 | [Ghost Master](games/g/ghost_master.md) | - | - | 0 | - |
-| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 489 | 1,105 | 129 |
+| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 489 | 1,108 | 129 |
 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 441 | 0 | 493 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 562 | 233 | 245 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 600 | 106 | 316 |
@@ -1252,8 +1252,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 731 | 0 | 493 |
 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 386 | 0 | 493 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1316,7 +1316,7 @@
 | [Mars Base](games/m/mars_base.md) | - | - | 0 | - |
 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 590 | 0 | 493 |
 | [Mars Tactics](games/m/mars_tactics.md) | - | - | - | - |
-| [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 894 | 0 | 493 |
+| [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 895 | 0 | 493 |
 | [Martian Invaders](games/b/ba379411990446cc90d33093ac594c66.md) | - | - | - | - |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 167 | 563 | 173 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 513 | 1,196 | 125 |
@@ -1583,7 +1583,7 @@
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 743 | 0 | 493 |
 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 362 | 2,503 | 91 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 441 | 3,107 | 87 |
-| [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 119 | 1,648 | 111 |
+| [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 119 | 1,651 | 111 |
 | [Pathway](games/p/pathway.md) | 4.45 | 613 | 0 | 493 |
 | [Pato Box](games/p/pato_box.md) | - | - | 0 | - |
 | [Patron](games/p/patron.md) | 3.94 | 907 | 0 | 493 |
@@ -1621,7 +1621,7 @@
 | [POLYGOD](games/p/polygod.md) | - | - | - | - |
 | [Poosh XL](games/p/poosh_xl.md) | - | - | - | - |
 | [Pop. Love. Panic! The OFK Story](games/w/we_are_ofk.md) | - | - | 0 | - |
-| [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 893 | 0 | 493 |
+| [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 894 | 0 | 493 |
 | [Post Scriptum](games/p/post_scriptum.md) | - | - | - | - |
 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 441 | 0 | 493 |
 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 922 | 66 | 369 |
@@ -1702,7 +1702,7 @@
 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | - | - | - | - |
 | [Recompile](games/r/recompile.md) | - | - | 0 | - |
 | [Recursive Ruin](games/r/recursive_ruin.md) | - | - | 0 | - |
-| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 13 | 145,822 | 6 |
+| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 13 | 146,193 | 6 |
 | [Red Dust](games/r/red_dust.md) | - | - | 0 | - |
 | [Red Ronin](games/r/red_ronin.md) | - | - | 0 | - |
 | [Redfall](games/r/redfall.md) | 3.46 | 933 | 0 | 493 |
@@ -1878,8 +1878,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 180 | 180 | 270 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 655 | 267 | 238 |
@@ -2441,7 +2441,7 @@
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | - | - | - | - |
 | [Tracks of Triumph Retro Blast](games/e/e542fbd76b3d42a6bf92fcfd0179d8cf.md) | - | - | - | - |
 | [Tracks of Triumph: Summertime](games/c/cd2b2654ac2c42be8cd9e51ea4e2df47.md) | - | - | - | - |
-| [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 894 | 0 | 493 |
+| [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 891 | 0 | 493 |
 | [Train Sim World](games/t/train_sim_world.md) | - | - | - | - |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 666 | 539 | 180 |
 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 500 | 289 | 229 |
@@ -2642,7 +2642,7 @@
 | [World Eternal Online](games/w/world_eternal_online.md) | - | - | - | - |
 | [World of Contraptions](games/w/world_of_contraptions.md) | - | - | 0 | - |
 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 217 | 0 | 493 |
-| [World of Warships](games/w/world_of_warships.md) | 4.42 | 655 | 1,105 | 129 |
+| [World of Warships](games/w/world_of_warships.md) | 4.42 | 655 | 1,105 | 130 |
 | [World Turtles](games/w/world_turtles.md) | - | - | - | - |
 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 453 | 3,976 | 76 |
 | [Worlds Of The Future](games/w/worlds_of_the_future.md) | - | - | - | - |

@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,199 | 4.68 | 241 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,518 | 4.19 | 831 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 177,813 | 4.68 | 241 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 145,822 | 4.89 | 13 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 146,193 | 4.89 | 13 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 139,956 | 4.53 | 500 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 110,488 | 4.69 | 217 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 66,394 | 4.62 | 345 |
@@ -110,7 +110,7 @@
 | 108 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,777 | 4.56 | 453 |
 | 109 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,748 | 4.57 | 441 |
 | 110 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,743 | 4.63 | 330 |
-| 111 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,648 | 4.76 | 119 |
+| 111 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,651 | 4.76 | 119 |
 | 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,594 | 4.51 | 529 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,564 | 4.69 | 217 |
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,473 | 4.58 | 422 |
@@ -128,8 +128,8 @@
 | 126 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,174 | 4.69 | 217 |
 | 127 | [XCOM® 2](games/x/xcom®_2.md) | 1,169 | 4.55 | 474 |
 | 128 | [OUTRIDERS](games/o/outriders.md) | 1,127 | 4.42 | 655 |
-| 129 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,105 | 4.54 | 489 |
-| 129 | [World of Warships](games/w/world_of_warships.md) | 1,105 | 4.42 | 655 |
+| 129 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,108 | 4.54 | 489 |
+| 130 | [World of Warships](games/w/world_of_warships.md) | 1,105 | 4.42 | 655 |
 | 131 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,104 | 4.61 | 362 |
 | 132 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,061 | 4.61 | 362 |
 | 133 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,055 | 4.78 | 101 |

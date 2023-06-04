@@ -16,7 +16,7 @@
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 493 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 493 |
 | 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 493 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 145,822 | 6 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 146,193 | 6 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 410 | 199 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,568 | 20 |
 | 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 133 | 296 |
@@ -126,7 +126,7 @@
 | 119 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 410 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 493 |
 | 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 107 | 315 |
-| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,648 | 111 |
+| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,651 | 111 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 45 | 403 |
 | 119 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 493 |
 | 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,409 | 38 |
@@ -491,7 +491,7 @@
 | 489 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.54 | 0 | 493 |
 | 489 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,175 | 71 |
 | 489 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 434 |
-| 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,105 | 129 |
+| 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,108 | 129 |
 | 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 434 |
 | 489 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 344 |
 | 489 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 493 |
@@ -664,7 +664,7 @@
 | 655 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
 | 655 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 238 |
 | 655 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 129 | 299 |
-| 655 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,105 | 129 |
+| 655 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,105 | 130 |
 | 666 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 493 |
 | 666 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 493 |
 | 666 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 332 |
@@ -892,11 +892,11 @@
 | 888 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 428 | 195 |
 | 891 | [Gravewood High](games/g/gravewood_high.md) | 4.03 | 0 | 493 |
 | 891 | [Lake](games/l/lake.md) | 4.03 | 0 | 493 |
-| 893 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 493 |
-| 894 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 493 |
-| 894 | [Banished](games/b/banished.md) | 4.00 | 0 | 493 |
-| 894 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 493 |
-| 894 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 493 |
+| 891 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 0 | 493 |
+| 894 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 493 |
+| 895 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 493 |
+| 895 | [Banished](games/b/banished.md) | 4.00 | 0 | 493 |
+| 895 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 493 |
 | 898 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 370 | 207 |
 | 898 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 493 |
 | 900 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 493 |

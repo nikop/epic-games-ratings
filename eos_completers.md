@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.17% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.12% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.10% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -19,8 +19,8 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.14% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
-| 20 | [Remains](games/r/remains.md) | 8.11% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
+| 21 | [Remains](games/r/remains.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -33,7 +33,7 @@
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.86% |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.18% |
+| 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.84% |
