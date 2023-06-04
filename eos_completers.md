@@ -22,10 +22,10 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
 | 21 | [Remains](games/r/remains.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.86% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.84% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.50% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -67,7 +67,7 @@
 | 65 | [JARS](games/j/jars.md) | 2.04% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.70% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.68% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
@@ -82,7 +82,7 @@
 | 80 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 81 | [Chorus](games/c/chorus.md) | 1.19% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.19% |
-| 81 | [Trifox](games/t/trifox.md) | 1.19% |
+| 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
 | 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 86 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
