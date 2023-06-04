@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 13.95% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.34% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.03% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -21,12 +21,12 @@
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
 | 21 | [Remains](games/r/remains.md) | 8.11% |
-| 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
+| 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.86% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.50% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.47% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 30 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -56,23 +56,23 @@
 | 54 | [Lamentum](games/l/lamentum.md) | 2.80% |
 | 55 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Bloodshore](games/b/bloodshore.md) | 2.53% |
 | 57 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 58 | [Bloodshore](games/b/bloodshore.md) | 2.52% |
 | 59 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.30% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Iron Danger](games/i/iron_danger.md) | 2.11% |
-| 65 | [JARS](games/j/jars.md) | 2.04% |
+| 65 | [JARS](games/j/jars.md) | 2.00% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
 | 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 69 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 70 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.59% |
 | 70 | [Night Book](games/n/night_book.md) | 1.59% |
 | 70 | [Somerville](games/s/somerville.md) | 1.59% |
+| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.55% |
 | 74 | [Frogun](games/f/frogun.md) | 1.51% |
 | 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 76 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.47% |
@@ -145,7 +145,7 @@
 | 143 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 143 | [Blanc](games/b/blanc.md) | 0.21% |
 | 145 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
-| 145 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
+| 146 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 147 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 147 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 149 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
