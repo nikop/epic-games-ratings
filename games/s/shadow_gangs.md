@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Took the challenge | 100.00% | ~5 |
+| City Completed | 20.00% | ~1 |
 | Mission I finished | 20.00% | ~1 |
 | First shoot bonus stage beaten | 20.00% | ~1 |
 | Bridge level completed | 20.00% | ~1 |
 | Forest level completed | 20.00% | ~1 |
-| City Completed | 0.00% | ~0 |
 | Temple level completed | 0.00% | ~0 |
 | Mission II finished | 0.00% | ~0 |
 | Mission III finished | 0.00% | ~0 |

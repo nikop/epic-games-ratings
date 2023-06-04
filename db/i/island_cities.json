@@ -2,9 +2,9 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 14.01,
+  "EOS_Completed_Percentage": 13.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1128,6 +1128,11 @@
       "Time": "2023-06-04T08:06:48.5655251+00:00",
       "NumProgressed": 257,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-04T13:08:30.1077186+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -1139,7 +1144,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_002",
@@ -1147,7 +1152,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "LEVEL_003",
@@ -1155,7 +1160,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_004",
@@ -1163,7 +1168,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "LEVEL_005",
@@ -1195,7 +1200,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_009",
@@ -1251,7 +1256,7 @@
       "Name": "Monumental tribute",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_016",
@@ -1265,9 +1270,9 @@
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_018",
@@ -1314,7 +1319,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 36
     }
   ],
@@ -1322,8 +1327,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:05:20.4043976+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:08:30.107718+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:58:09.0085141+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:05:20.4044222+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:00:49.9326525+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:08:30.1077371+00:00"
 }

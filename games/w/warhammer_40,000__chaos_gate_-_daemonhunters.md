@@ -18,9 +18,9 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 15.00% | ~427 |
 | Honoured Battle-Brother | 11.00% | ~313 |
 | The Emperor Protects | 11.00% | ~313 |
+| A Foul Creche | 11.00% | ~313 |
 | Nemesis Master | 10.00% | ~285 |
 | Gunmaster | 10.00% | ~285 |
-| A Foul Creche | 10.00% | ~285 |
 | Efficient Killer | 8.00% | ~228 |
 | Just a Scratch | 8.00% | ~228 |
 | Opportunist | 7.00% | ~199 |

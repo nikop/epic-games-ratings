@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 400,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6.5,
   "EosHistory": [
@@ -1223,17 +1223,17 @@
       "ID": "LEVEL_027",
       "SetID": "212bg48",
       "Name": "A farm island lost in time...",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_029",
@@ -1262,8 +1262,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:03:49.057709+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:06:41.3181277+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:57:17.6457714+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:03:49.057738+00:00"
+  "LastUpdate_Ratings": "2023-06-04T12:59:49.6502415+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:06:41.318151+00:00"
 }

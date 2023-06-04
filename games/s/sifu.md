@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~665 |
-| Project Arena | 3.00% | ~498 |
+| Project Arena | 3.00% | ~499 |
 | The Old Grandmaster | 1.00% | ~7,073 |
 | The Assault | 1.00% | ~7,073 |
 | The Hateful Pole Fighter | 1.00% | ~7,073 |
@@ -44,7 +44,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,829 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,829 |
 | Sword Stained With Blood | 0.40% | ~2,829 |
-| Martial Hub | 0.40% | ~66 |
+| Martial Hub | 0.40% | ~67 |
 | Knowledge Greed | 0.30% | ~2,122 |
 | Secure, Protect, Leave | 0.30% | ~50 |
 | Drunken Fighter | 0.20% | ~1,415 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,313 (Ranked 15)  
+Progressed: 707,326 (Ranked 15)  
 Completed: 12,756 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 12,756 (1.80%) (Ranked 67)
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
-| 2023-06-04 | 707,313 | 12,756 |
+| 2023-06-04 | 707,326 | 12,756 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
 Sum: 10,459 (Ranked 78)  

@@ -6,9 +6,9 @@ Rating: 4.57 (Ranked 441)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 14.00% | ~339 |
+| Infinite Growth... | 12.00% | ~291 |
 | Sputnik 2049 | 12.00% | ~291 |
 | Without Breaking Some Eggs... | 11.00% | ~266 |
-| Infinite Growth... | 11.00% | ~266 |
 | Space Society | 7.00% | ~170 |
 | A Thousand Strong | 7.00% | ~170 |
 | Ready for a New World | 7.00% | ~170 |
@@ -21,12 +21,12 @@ Rating: 4.57 (Ranked 441)
 | Hope Seeker | 5.00% | ~121 |
 | A Hunk of Junk | 4.00% | ~97 |
 | Exceeding Capacity | 4.00% | ~97 |
+| Power Outage | 3.00% | ~73 |
 | Necessary Enhancement | 3.00% | ~73 |
 | Please Make it Stop! | 3.00% | ~73 |
 | Man's Best Friend | 2.00% | ~48 |
 | Oats | 2.00% | ~48 |
 | Sightseeing | 2.00% | ~48 |
-| Power Outage | 2.00% | ~48 |
 | Access Granted | 2.00% | ~48 |
 | Convenient Transport | 2.00% | ~48 |
 | All in Good Health | 2.00% | ~48 |

@@ -6,17 +6,17 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 59.00% | ~179 |
-| Cartographer | 52.00% | ~158 |
+| The Adventure Begins | 59.00% | ~180 |
+| Cartographer | 52.00% | ~159 |
 | A Strange Artefact | 48.00% | ~146 |
 | Insomnia | 44.00% | ~134 |
-| From Whence we Came | 39.00% | ~119 |
+| From Whence we Came | 40.00% | ~122 |
 | Lost & Found & Lost Again | 38.00% | ~116 |
-| Fire and Flood | 36.00% | ~109 |
-| Spooky! | 34.00% | ~103 |
-| Shennong Herbalist | 32.00% | ~97 |
-| Treasure Hunt | 31.00% | ~94 |
-| Good Mama | 30.00% | ~91 |
+| Fire and Flood | 36.00% | ~110 |
+| Spooky! | 34.00% | ~104 |
+| Shennong Herbalist | 31.00% | ~95 |
+| Treasure Hunt | 31.00% | ~95 |
+| Good Mama | 30.00% | ~92 |
 | O Captain My Captain | 28.00% | ~85 |
 | Plunderer | 26.00% | ~79 |
 | Taxonomist | 25.00% | ~76 |
@@ -35,9 +35,9 @@ Number of Ratings: 20  (23.09.2022)
 | The New Director | 13.00% | ~40 |
 | The Director is Dead | 13.00% | ~40 |
 | Adventurer | 13.00% | ~40 |
-| Discovery | 13.00% | ~40 |
 | Plays Well With Others | 13.00% | ~40 |
-| Very Classy | 11.00% | ~33 |
+| Discovery | 12.00% | ~37 |
+| Very Classy | 11.00% | ~34 |
 | And Here Is Your Statue | 10.00% | ~30 |
 | Under the Table | 10.00% | ~30 |
 | It's Complicated | 10.00% | ~30 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304 (Ranked 223)  
+Progressed: 305 (Ranked 223)  
 Completed: 1 (0.33%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 1 (0.33%) (Ranked 123)
 | 2023-05-31 | 302 | 1 |
 | 2023-06-01 | 303 | 1 |
 | 2023-06-02 | 304 | 1 |
+| 2023-06-04 | 305 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

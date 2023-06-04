@@ -4,7 +4,7 @@
   "ProductSlug": "star-stable",
   "Ranking_Rating": 655,
   "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 234,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 327,
@@ -1202,10 +1202,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 953,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-06-04T13:00:53.4902352+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 842,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 953,
+  "NumberOfAwards": 842,
   "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1293,8 +1299,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-06-04T04:58:26.2024337+00:00",
+  "LastChanged": "2023-06-04T13:00:53.4902342+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:16.794403+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:58:11.9742387+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:03:29.5602675+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:00:53.4902355+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:06:17.4709389+00:00"
 }

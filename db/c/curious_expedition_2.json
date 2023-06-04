@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -133,6 +133,11 @@
     {
       "Time": "2023-06-02T16:07:16.7253784+00:00",
       "NumProgressed": 304,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T13:09:01.6443225+00:00",
+      "NumProgressed": 305,
       "NumCompleted": 1
     }
   ],
@@ -321,15 +326,15 @@
       "Name": "Cartographer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach-discover-locations-high",
       "SetID": "17ih7ma",
       "Name": "Discovery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 37
     },
     {
       "ID": "ach-drinkingContest",
@@ -345,7 +350,7 @@
       "Name": "Fire and Flood",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach-find-treasure",
@@ -369,7 +374,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach-hardExpeditions",
@@ -431,9 +436,9 @@
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -473,7 +478,7 @@
       "Name": "Spooky!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach-noEquipment",
@@ -519,9 +524,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "ach-promotion",
@@ -537,7 +542,7 @@
       "Name": "Good Mama",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach-redElk",
@@ -593,7 +598,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -601,7 +606,7 @@
       "Name": "Very Classy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-villageQuests",
@@ -624,7 +629,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 1
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:05:48.2185552+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:09:01.644322+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.7850575+00:00",
-  "LastUpdate_Ratings": "2023-06-04T12:00:16.1495238+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:05:48.2186085+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:03:29.7191609+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:09:01.6443641+00:00"
 }

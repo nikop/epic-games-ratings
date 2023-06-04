@@ -2666,9 +2666,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9506,
+  "EOS_Progressed": 9508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5466,6 +5466,11 @@
       "Time": "2023-06-04T12:05:49.9451191+00:00",
       "NumProgressed": 9506,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T13:09:03.6037386+00:00",
+      "NumProgressed": 9508,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5493,7 +5498,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "04_FithCrusade",
@@ -5677,7 +5682,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "28_GreatUpstart",
@@ -6404,21 +6409,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8288,
+      "Progressed": 8290,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9506,
+      "Progressed": 9508,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-04T04:58:36.9677587+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:05:49.9451185+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:09:03.603738+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:58:22.8174285+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:05:49.9452932+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:01:06.6041645+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:09:03.6038797+00:00"
 }

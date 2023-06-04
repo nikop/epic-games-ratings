@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| “Occupied!“ | 14.00% | ~220 |
+| “Occupied!“ | 14.00% | ~221 |
 | Worlds best dad. | 13.00% | ~205 |
 | Resignation Reprise. | 9.00% | ~142 |
 | War of the worlds. | 6.00% | ~94 |
@@ -14,11 +14,11 @@ Rating: 4.20 (Ranked 820)
 | Blues Jam. | 3.00% | ~47 |
 | Family First. | 3.00% | ~47 |
 | Understanding. | 3.00% | ~47 |
-| “Here boy…" | 2.00% | ~31 |
+| “Here boy…" | 2.00% | ~32 |
 | First contact. | 0.50% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,574 (Ranked 158)  
-Completed: 25 (1.59%) (Ranked 71)  
+Progressed: 1,575 (Ranked 158)  
+Completed: 25 (1.59%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,6 +47,7 @@ Completed: 25 (1.59%) (Ranked 71)
 | 2023-06-01 | 1,572 | 25 |
 | 2023-06-02 | 1,573 | 25 |
 | 2023-06-03 | 1,574 | 25 |
+| 2023-06-04 | 1,575 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

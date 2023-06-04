@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 589,
+  "EOS_Progressed": 590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -899,6 +899,11 @@
       "Time": "2023-06-04T06:06:04.289647+00:00",
       "NumProgressed": 589,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T13:07:57.6016359+00:00",
+      "NumProgressed": 590,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -918,7 +923,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -942,7 +947,7 @@
       "Name": "Right On Time",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1046,7 +1051,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "GadgetCompletion1",
@@ -1062,7 +1067,7 @@
       "Name": "Whiz Kid",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "GrindingTime1",
@@ -1070,15 +1075,15 @@
       "Name": "Rail Rat",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "InxChromaInTheatre",
@@ -1150,7 +1155,7 @@
       "Name": "Time Flies",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ParryBoss",
@@ -1158,7 +1163,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ParryRepeated1",
@@ -1174,7 +1179,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1190,7 +1195,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "RewindDamage1",
@@ -1198,7 +1203,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "RewindParry",
@@ -1230,7 +1235,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "SkillProgress1",
@@ -1238,7 +1243,7 @@
       "Name": "Fast Learner",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "SpeedRun",
@@ -1270,7 +1275,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "TheaterChests1",
@@ -1286,7 +1291,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "WarwickDefeated",
@@ -1326,21 +1331,21 @@
       "Name": "The Family Fortune",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 589,
+      "Progressed": 590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:04:52.638109+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:07:57.601635+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:59:19.8481711+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:04:52.6381608+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:02:17.6593808+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:07:57.6016765+00:00"
 }

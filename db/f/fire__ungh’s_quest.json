@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "Eliminated_3_Mask_Men_in_009",
       "SetID": "6od1ndi",
       "Name": "Danka, Lagga, Wonwon",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -345,9 +345,9 @@
       "ID": "Level_completed_004_009",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IV",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "Level_completed_005_003",
@@ -442,8 +442,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:05:34.5722101+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:08:45.6480008+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:17.2024584+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:59:42.121947+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:05:34.5722281+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:02:45.4669934+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:08:45.6480177+00:00"
 }

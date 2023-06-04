@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 363,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.13,
   "EosHistory": [
@@ -1153,9 +1153,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "MQ05_3",
@@ -1177,9 +1177,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ06_2",
@@ -1193,9 +1193,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "MQ06_4",
@@ -1266,8 +1266,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:03:50.4121766+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:06:42.9805027+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:57:28.7475633+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:03:50.4122018+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:00:01.9407636+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:06:42.9805277+00:00"
 }

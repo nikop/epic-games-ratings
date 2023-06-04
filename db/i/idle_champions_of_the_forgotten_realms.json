@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4052,10 +4052,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30028,
       "NumberOfAwardsMax": 4917
+    },
+    {
+      "Time": "2023-06-04T13:00:50.6838831+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30030,
+      "NumberOfAwardsMax": 4917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30028,
+  "NumberOfAwards": 30030,
   "NumberOfAwardsMax": 4917,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4081,7 +4087,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4504
+      "Count": 4506
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4102,9 +4108,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89737,
+  "EOS_Progressed": 89744,
   "EOS_Completed": 1913,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8627,6 +8633,11 @@
       "Time": "2023-06-04T12:05:53.198488+00:00",
       "NumProgressed": 89737,
       "NumCompleted": 1913
+    },
+    {
+      "Time": "2023-06-04T13:09:07.5711301+00:00",
+      "NumProgressed": 89744,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -8980,9 +8991,9 @@
       "ID": "objective_completed_1095",
       "SetID": "415jc5c",
       "Name": "The Fairy Rings of Thither",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1096",
@@ -9148,9 +9159,9 @@
       "ID": "objective_completed_1132",
       "SetID": "415jc5c",
       "Name": "Will of the Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1133",
@@ -12581,21 +12592,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56011,
+      "Progressed": 56018,
       "Completed": 2768
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89737,
+      "Progressed": 89744,
       "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-04T09:58:19.2081226+00:00",
-  "LastChanged_Achievements": "2023-06-04T12:05:53.1984871+00:00",
+  "LastChanged": "2023-06-04T13:00:50.6838828+00:00",
+  "LastChanged_Achievements": "2023-06-04T13:09:07.5711296+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:58:09.6275876+00:00",
-  "LastUpdate_Achievements": "2023-06-04T12:05:53.20084+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:00:50.6838836+00:00",
+  "LastUpdate_Achievements": "2023-06-04T13:09:07.5732784+00:00"
 }

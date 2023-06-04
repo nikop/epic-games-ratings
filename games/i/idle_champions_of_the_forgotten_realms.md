@@ -52,7 +52,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~179 |
 | A Steadfast Love | 0.20% | ~112 |
+| The Fairy Rings of Thither | 0.20% | ~112 |
 | Wet Feet | 0.20% | ~179 |
+| Will of the Feywild | 0.20% | ~112 |
 | The Roots of Loomlurch | 0.20% | ~112 |
 | The Lutes of Loomlurch | 0.20% | ~112 |
 | Supply Run | 0.20% | ~179 |
@@ -180,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slack-jawed Lorna | 0.10% | ~56 |
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
-| The Fairy Rings of Thither | 0.10% | ~56 |
 | Zarak's Revenge | 0.10% | ~56 |
 | Bully for You! | 0.10% | ~56 |
 | The Dark Heart | 0.10% | ~56 |
@@ -199,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Head over Heals | 0.10% | ~56 |
 | The Demon Lords of the Abyss | 0.10% | ~56 |
 | Speed Demons | 0.10% | ~56 |
-| Will of the Feywild | 0.10% | ~56 |
 | All Damage, All The Time | 0.10% | ~56 |
 | Will of the Frozen Feywild | 0.10% | ~56 |
 | The Loots of Loomlurch | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,737 (Ranked 62)  
+Progressed: 89,744 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,17 +545,17 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,737 | 1,913 |
+| 2023-06-04 | 89,744 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
-Sum: 30,028 (Ranked 37)  
+Sum: 30,030 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,917 |
 | This game is Great for Beginners | 4,852 |
 | This game has Quickly Understood Controls | 4,610 |
-| This game is Relaxing | 4,504 |
+| This game is Relaxing | 4,506 |
 | This game is Highly Recommended | 3,954 |
 | This game has Amazing Characters | 3,946 |
 | This game has Playful Visuals | 3,245 |
@@ -691,4 +691,4 @@ Diff (max vs sum): 27
 | 2023-06-01 | 4.06 | - | 4,913 | 30,013 |
 | 2023-06-02 | 4.06 | - | 4,915 | 30,021 |
 | 2023-06-03 | 4.06 | - | 4,917 | 30,025 |
-| 2023-06-04 | 4.06 | - | 4,917 | 30,028 |
+| 2023-06-04 | 4.06 | - | 4,917 | 30,030 |

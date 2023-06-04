@@ -24,7 +24,7 @@
 | Woodcutter | 68.00% | ~107 |
 | Sharpshooter | 68.00% | ~107 |
 | Architect of Darkness | 68.00% | ~107 |
-| The Apotheosis of War | 65.00% | ~103 |
+| The Apotheosis of War | 66.00% | ~104 |
 | Stasis Alcatraz | 65.00% | ~103 |
 | Combo Breaker | 61.00% | ~96 |
 | Tastes Like Chicken | 61.00% | ~96 |
