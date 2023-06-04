@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,618 |
-| Flanked! | 80.00% | ~2,327 |
-| Economics 101 | 65.00% | ~1,891 |
-| Get Rich Quick | 48.00% | ~1,396 |
-| Do the Splits | 41.00% | ~1,193 |
+| You and what Army? | 90.00% | ~2,620 |
+| Flanked! | 80.00% | ~2,329 |
+| Economics 101 | 65.00% | ~1,892 |
+| Get Rich Quick | 48.00% | ~1,397 |
+| Do the Splits | 41.00% | ~1,194 |
 | Maestro | 28.00% | ~815 |
 | Full Employment | 19.00% | ~553 |
 | Clay Fighter | 17.00% | ~495 |
-| Nowhere left to Hide | 15.00% | ~436 |
-| All Ovens Blazing | 14.00% | ~407 |
-| Boulder Clash | 14.00% | ~407 |
+| Nowhere left to Hide | 15.00% | ~437 |
+| All Ovens Blazing | 14.00% | ~408 |
+| Boulder Clash | 14.00% | ~408 |
 | Held Back by the Roots | 13.00% | ~378 |
 | Well Supplied | 11.00% | ~320 |
 | Damage Control | 8.00% | ~233 |
@@ -23,10 +23,10 @@
 | Leave Them no Cake | 7.00% | ~204 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~204 |
 | A Secret Recipe | 6.00% | ~175 |
-| Your Biggest Fans | 5.00% | ~145 |
-| An Ally in Need | 5.00% | ~145 |
-| For the Queen | 5.00% | ~145 |
-| Not a Drop Wasted | 5.00% | ~145 |
+| Your Biggest Fans | 5.00% | ~146 |
+| An Ally in Need | 5.00% | ~146 |
+| For the Queen | 5.00% | ~146 |
+| Not a Drop Wasted | 5.00% | ~146 |
 | Reinforcements | 4.00% | ~116 |
 | Sweet Revenge | 4.00% | ~116 |
 | We Have the Technology | 4.00% | ~116 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~29 |
 | All Geared Up | 0.90% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,909 (Ranked 138)  
+Progressed: 2,911 (Ranked 138)  
 Completed: 9 (0.31%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 9 (0.31%) (Ranked 128)
 | 2023-06-01 | 2,878 | 9 |
 | 2023-06-02 | 2,889 | 9 |
 | 2023-06-03 | 2,905 | 9 |
-| 2023-06-04 | 2,909 | 9 |
+| 2023-06-04 | 2,911 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

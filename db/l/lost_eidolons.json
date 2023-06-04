@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -638,6 +638,11 @@
       "Time": "2023-06-04T07:06:18.2314548+00:00",
       "NumProgressed": 949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T11:07:27.574841+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -689,7 +694,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "07",
@@ -697,7 +702,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "08",
@@ -721,7 +726,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "11",
@@ -737,7 +742,7 @@
       "Name": "First Bloom",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "13",
@@ -769,7 +774,7 @@
       "Name": "A Promised Voyage",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "17",
@@ -777,7 +782,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "18",
@@ -785,7 +790,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "19",
@@ -801,7 +806,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "21",
@@ -817,7 +822,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "23",
@@ -825,14 +830,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 0
     }
   ],
@@ -840,8 +845,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:05:55.7589607+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:07:27.5748404+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:05.6191061+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:59:43.7973907+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:05:55.7590006+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:00:57.8715578+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:07:27.5748594+00:00"
 }

@@ -6,24 +6,24 @@ Rating: 4.44 (Ranked 631)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 26.00% | ~574 |
-| Confirming Suspicions | 21.00% | ~463 |
-| The Kraken Wakes | 16.00% | ~353 |
+| Confirming Suspicions | 21.00% | ~464 |
+| The Kraken Wakes | 17.00% | ~376 |
 | It's Starting to Crack | 14.00% | ~309 |
 | Lord of War | 12.00% | ~265 |
+| Change the Channel | 12.00% | ~265 |
 | Resourceful | 11.00% | ~243 |
-| Change the Channel | 11.00% | ~243 |
 | Taking it back | 10.00% | ~221 |
 | Organ Grinder | 9.00% | ~199 |
-| As Quiet as a Mouse | 8.00% | ~176 |
-| Target America | 8.00% | ~176 |
-| Enemy at the Gates | 7.00% | ~154 |
-| Just a Flesh Wound | 7.00% | ~154 |
-| Explosive Efficiency | 7.00% | ~154 |
-| Liberté | 6.00% | ~132 |
-| Opposing Force | 6.00% | ~132 |
-| Gunslinger | 6.00% | ~132 |
-| Sharpshooter | 6.00% | ~132 |
-| The Kraken Sleeps | 6.00% | ~132 |
+| As Quiet as a Mouse | 8.00% | ~177 |
+| Target America | 8.00% | ~177 |
+| Enemy at the Gates | 7.00% | ~155 |
+| Just a Flesh Wound | 7.00% | ~155 |
+| Explosive Efficiency | 7.00% | ~155 |
+| Liberté | 6.00% | ~133 |
+| Opposing Force | 6.00% | ~133 |
+| Gunslinger | 6.00% | ~133 |
+| Sharpshooter | 6.00% | ~133 |
+| The Kraken Sleeps | 6.00% | ~133 |
 | Fields of Glory | 5.00% | ~110 |
 | Die Nussknacker Sweet! | 5.00% | ~110 |
 | Der Geist | 5.00% | ~110 |
@@ -40,10 +40,10 @@ Rating: 4.44 (Ranked 631)
 | Strategist | 1.00% | ~22 |
 | The Long Game | 1.00% | ~22 |
 | It'll Buff Right Out | 1.00% | ~22 |
+| Locomotion Commotion | 1.00% | ~22 |
 | Road Rage | 1.00% | ~22 |
 | Herr Today, Gone Tomorrow | 1.00% | ~22 |
 | Operation Foxley | 1.00% | ~22 |
-| Locomotion Commotion | 0.90% | ~20 |
 | Don't hold your breath | 0.90% | ~20 |
 | Ghost of Falaise | 0.80% | ~17 |
 | Tinkerer | 0.70% | ~15 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 631)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,206 (Ranked 149)  
+Progressed: 2,209 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
-| 2023-06-04 | 2,206 | 2 |
+| 2023-06-04 | 2,209 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -193,7 +193,7 @@
   "Tags": [],
   "EOS_Progressed": 1581,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1348,9 +1348,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 949
     },
     {
       "ID": "Kill25Mozi",
@@ -1412,9 +1412,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 522
+      "UsersEstimate": 538
     }
   ],
   "AchievementSets": [
@@ -1435,8 +1435,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:00:33.1001714+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:02:14.747099+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:58:37.6584238+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:00:33.1002727+00:00"
+  "LastUpdate_Ratings": "2023-06-04T10:59:15.0388827+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:02:14.7471531+00:00"
 }

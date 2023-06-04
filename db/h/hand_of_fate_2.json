@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,7 +850,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657319,
+  "EOS_Progressed": 657321,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
@@ -4900,6 +4900,11 @@
       "Time": "2023-06-04T10:05:50.2346288+00:00",
       "NumProgressed": 657319,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-04T11:07:19.139161+00:00",
+      "NumProgressed": 657321,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4911,7 +4916,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473270
+      "UsersEstimate": 473271
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4919,7 +4924,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381245
+      "UsersEstimate": 381246
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4927,7 +4932,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151183
+      "UsersEstimate": 151184
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -5047,7 +5052,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151183
+      "UsersEstimate": 151184
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -5063,7 +5068,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111744
+      "UsersEstimate": 111745
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -5151,7 +5156,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78878
+      "UsersEstimate": 78879
     },
     {
       "ID": "Achievement_32_Karma",
@@ -5294,15 +5299,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657319,
+      "Progressed": 657321,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:05:50.2346283+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:07:19.1391605+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.7468095+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:57:55.3532811+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:05:50.234692+00:00"
+  "LastUpdate_Ratings": "2023-06-04T10:58:17.8011598+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:07:19.1392261+00:00"
 }

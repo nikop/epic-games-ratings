@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1220,9 +1220,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "SkillCompletion1",
@@ -1339,8 +1339,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:05:13.5914633+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:06:24.7747851+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:59:29.150492+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:05:13.5915141+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:00:36.3819971+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:06:24.7748662+00:00"
 }

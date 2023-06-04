@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2666,9 +2666,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9501,
+  "EOS_Progressed": 9505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5456,6 +5456,11 @@
       "Time": "2023-06-04T10:06:09.4029438+00:00",
       "NumProgressed": 9501,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T11:07:44.3820399+00:00",
+      "NumProgressed": 9505,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5467,7 +5472,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "02_BurningCity",
@@ -5475,7 +5480,7 @@
       "Name": "Burning City",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -5835,7 +5840,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "49_Flame",
@@ -6394,21 +6399,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8283,
+      "Progressed": 8287,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9501,
+      "Progressed": 9505,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-04T04:58:36.9677587+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:06:09.4029434+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:07:44.3820395+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:58:34.5857118+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:06:09.403123+00:00"
+  "LastUpdate_Ratings": "2023-06-04T10:59:09.4896075+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:07:44.3822387+00:00"
 }

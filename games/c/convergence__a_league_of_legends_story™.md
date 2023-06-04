@@ -20,7 +20,7 @@
 | Make Up For Lost Time | 48.00% | ~283 |
 | Breaking Down Barriers | 45.00% | ~265 |
 | The Steel Shadow | 41.00% | ~241 |
-| Golem Chaser | 38.00% | ~224 |
+| Golem Chaser | 39.00% | ~230 |
 | Like Clockwork | 37.00% | ~218 |
 | The Wicked Twins | 37.00% | ~218 |
 | The Betrayer | 35.00% | ~206 |

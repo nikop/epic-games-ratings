@@ -11,8 +11,8 @@
 | Dinner Dash | 39.00% | ~78 |
 | Floor Galore | 38.00% | ~76 |
 | It's Technical | 36.00% | ~72 |
+| Need a Consult | 34.00% | ~68 |
 | Upgrade Unlock | 34.00% | ~68 |
-| Need a Consult | 33.00% | ~66 |
 | Delegate Maintenance | 33.00% | ~66 |
 | Proper Walls | 32.00% | ~64 |
 | Destination Destiny | 28.00% | ~56 |
@@ -52,12 +52,12 @@
 | Profound Proceeds | 8.00% | ~16 |
 | Maximum Reuse | 8.00% | ~16 |
 | Phoning It In | 8.00% | ~16 |
+| Careful Constructor | 7.00% | ~14 |
 | Tuned In | 7.00% | ~14 |
 | It's a Gas | 7.00% | ~14 |
 | Meet ADA/360 | 6.00% | ~12 |
 | Penthouse in the Sky | 6.00% | ~12 |
 | I'm Busy Ruling | 6.00% | ~12 |
-| Careful Constructor | 6.00% | ~12 |
 | Water Features | 6.00% | ~12 |
 | Sky High Stature | 6.00% | ~12 |
 | Baron of Business | 5.00% | ~10 |

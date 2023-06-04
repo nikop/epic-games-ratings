@@ -7,8 +7,8 @@ Rating: 4.51 (Ranked 529)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 78.00% | ~1,233 |
 | Become King | 70.00% | ~1,107 |
+| Defeat 25 Frogs | 60.00% | ~949 |
 | Ranged Weapon | 59.00% | ~933 |
-| Defeat 25 Frogs | 59.00% | ~933 |
 | Collect Monster Parts | 56.00% | ~885 |
 | Two Handed Weapon | 54.00% | ~854 |
 | Defeat 25 Grubs | 51.00% | ~806 |
@@ -22,8 +22,8 @@ Rating: 4.51 (Ranked 529)
 | Complete Elder Faction | 39.00% | ~617 |
 | End of the Mozis | 36.00% | ~569 |
 | Throne Room Fit For A King | 36.00% | ~569 |
+| Return Power To The Depths | 34.00% | ~538 |
 | Meet the Creatures from the Deep | 33.00% | ~522 |
-| Return Power To The Depths | 33.00% | ~522 |
 | Defeat Ratnor Rodentson | 28.00% | ~443 |
 | Return the Statues | 25.00% | ~395 |
 | Defeat Rattus Augustail | 24.00% | ~379 |

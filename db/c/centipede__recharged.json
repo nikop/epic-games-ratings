@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14223,
+  "EOS_Progressed": 14224,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3711,6 +3711,11 @@
       "Time": "2023-06-04T10:04:04.4934504+00:00",
       "NumProgressed": 14223,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-06-04T11:04:42.5451051+00:00",
+      "NumProgressed": 14224,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 16,
@@ -3722,7 +3727,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "Burning_For_You",
@@ -3738,7 +3743,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -3849,15 +3854,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14223,
+      "Progressed": 14224,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:04:04.4934499+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:04:42.5451047+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.5801911+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:59:10.8156692+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:04:04.4934842+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:00:05.9572542+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:04:42.5451615+00:00"
 }

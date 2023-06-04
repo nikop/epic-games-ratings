@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1542,9 +1542,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19274,
+  "EOS_Progressed": 19275,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3627,6 +3627,11 @@
       "Time": "2023-06-04T10:05:50.5363848+00:00",
       "NumProgressed": 19274,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-04T11:07:19.5012301+00:00",
+      "NumProgressed": 19275,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3702,7 +3707,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "JackTarinton",
@@ -3718,7 +3723,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "JuniorEstateAgent",
@@ -3750,7 +3755,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "Negotiator",
@@ -3790,7 +3795,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "Strongman",
@@ -3821,15 +3826,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19274,
+      "Progressed": 19275,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-03T19:59:37.1135212+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:05:50.5363842+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:07:19.5012297+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:59:29.5287036+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:05:50.5364154+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:00:36.9732313+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:07:19.5012595+00:00"
 }

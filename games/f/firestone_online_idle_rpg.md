@@ -6,9 +6,9 @@ Rating: 3.95 (Ranked 904)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,198 |
-| World Map | 80.00% | ~1,019 |
-| Temple of Eternals | 56.00% | ~713 |
-| Prestigious | 53.00% | ~675 |
+| World Map | 80.00% | ~1,020 |
+| Temple of Eternals | 56.00% | ~714 |
+| Prestigious | 53.00% | ~676 |
 | Fellowship Power | 40.00% | ~510 |
 | Guild Power | 24.00% | ~306 |
 | Prestigious x10 | 21.00% | ~268 |
@@ -17,7 +17,7 @@ Rating: 3.95 (Ranked 904)
 | Dragon Clicker | 16.00% | ~204 |
 | Miner Clicker | 16.00% | ~204 |
 | Inspection | 15.00% | ~191 |
-| Full Party | 14.00% | ~178 |
+| Full Party | 14.00% | ~179 |
 | Dragon Master | 13.00% | ~166 |
 | Enlightenment | 13.00% | ~166 |
 | Hero inspection | 13.00% | ~166 |
@@ -53,10 +53,10 @@ Rating: 3.95 (Ranked 904)
 | Enchanting skill | 3.00% | ~38 |
 | Engineer Mastery | 3.00% | ~38 |
 | Lock And Load | 3.00% | ~38 |
-| Blueprint Upgrades | 2.00% | ~25 |
-| Crystal Mining | 2.00% | ~25 |
-| Sailor | 2.00% | ~25 |
-| What lies behind the bush | 2.00% | ~25 |
+| Blueprint Upgrades | 2.00% | ~26 |
+| Crystal Mining | 2.00% | ~26 |
+| Sailor | 2.00% | ~26 |
+| What lies behind the bush | 2.00% | ~26 |
 | Active Member | 1.00% | ~13 |
 | Ebony Jungle Liberator | 1.00% | ~13 |
 | The Alchemist | 1.00% | ~13 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 904)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,274 (Ranked 162)  
+Progressed: 1,275 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
 | 2023-06-03 | 1,267 | 1 |
-| 2023-06-04 | 1,274 | 1 |
+| 2023-06-04 | 1,275 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

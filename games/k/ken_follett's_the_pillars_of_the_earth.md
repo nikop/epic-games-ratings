@@ -15,12 +15,12 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 25.00% | ~3,240 |
 | Wannabe knight | 24.00% | ~3,111 |
 | Full house | 24.00% | ~3,111 |
-| Help an old friend | 22.00% | ~2,851 |
+| Help an old friend | 22.00% | ~2,852 |
 | Two of us | 20.00% | ~2,592 |
 | Negotiation skills | 19.00% | ~2,463 |
 | Workers' union | 19.00% | ~2,463 |
 | End of Book Two | 18.00% | ~2,333 |
-| Everything's in order | 17.00% | ~2,203 |
+| Everything's in order | 17.00% | ~2,204 |
 | Jack was here! | 15.00% | ~1,944 |
 | Twist of Fate | 14.00% | ~1,815 |
 | Exterminator | 14.00% | ~1,815 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 11.00% | ~1,426 |
 | First profit | 11.00% | ~1,426 |
 | Team player | 10.00% | ~1,296 |
-| Skilled merchant | 9.00% | ~1,166 |
-| Nothing but make-believe | 9.00% | ~1,166 |
-| Brother Marcus | 9.00% | ~1,166 |
-| The oath | 9.00% | ~1,166 |
-| The truth revealed | 9.00% | ~1,166 |
-| The End. | 9.00% | ~1,166 |
+| Skilled merchant | 9.00% | ~1,167 |
+| Nothing but make-believe | 9.00% | ~1,167 |
+| Brother Marcus | 9.00% | ~1,167 |
+| The oath | 9.00% | ~1,167 |
+| The truth revealed | 9.00% | ~1,167 |
+| The End. | 9.00% | ~1,167 |
 | A cry for help | 8.00% | ~1,037 |
 | Silentium est aureum | 7.00% | ~907 |
 | Rebel without a cause | 6.00% | ~778 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~389 |
 | Boy of mystery | 2.00% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,961 (Ranked 105)  
+Progressed: 12,962 (Ranked 105)  
 Completed: 98 (0.76%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 98 (0.76%) (Ranked 100)
 | 2023-06-01 | 12,903 | 97 |
 | 2023-06-02 | 12,925 | 97 |
 | 2023-06-03 | 12,953 | 97 |
-| 2023-06-04 | 12,961 | 98 |
+| 2023-06-04 | 12,962 | 98 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 188 (Ranked 355)  

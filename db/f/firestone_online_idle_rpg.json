@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2628,6 +2628,11 @@
       "Time": "2023-06-04T10:05:58.4958113+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T11:07:30.5137775+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2687,7 +2692,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "cauldronliberator",
@@ -2719,7 +2724,7 @@
       "Name": "Crystal Mining",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "dailyquestcompletionist",
@@ -2847,7 +2852,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "gearenchanting",
@@ -3031,7 +3036,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "prestigiousx10",
@@ -3055,7 +3060,7 @@
       "Name": "Sailor",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "scientist",
@@ -3095,7 +3100,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "thealchemist",
@@ -3223,7 +3228,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "worldmap",
@@ -3231,14 +3236,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 1
     }
   ],
@@ -3246,8 +3251,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-04T10:05:58.4958109+00:00",
+  "LastChanged_Achievements": "2023-06-04T11:07:30.5137771+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:58:16.6702867+00:00",
-  "LastUpdate_Achievements": "2023-06-04T10:05:58.4959015+00:00"
+  "LastUpdate_Ratings": "2023-06-04T10:58:47.9246986+00:00",
+  "LastUpdate_Achievements": "2023-06-04T11:07:30.5138861+00:00"
 }
